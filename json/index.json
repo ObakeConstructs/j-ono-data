@@ -1,17 +1,29 @@
 {
   "a": [ "ahan" ],
-  "b": [ "ba", "ban", "basa", "bata_bata", "bi", "bichi", "biku", "bikun", "biri_biri", "bishi", "bishu", "bo", "bofu", "boso", "bowa", "bufu", "buku", "bun", "bun_bun", "buru_buru", "butsu", "buwa", "byu" ],
+  "b": [ 
+    "ba", "ban", "basa", "bata_bata", "bi", "bicha", "biku", "bikun", "biri_biri", "bishi", "bishu", "bo", "bofu", "boso", 
+    "bowa", "bufu", "buku", "bun", "bun_bun", "buru_buru", "butsu", "buwa", "byu" 
+  ],
   "c": [ "chakin", "chari", "charin", "chiki_chiki", "chira", "churu" ],
   "d": [ "da", "da_da", "daki", "do", "dogo", "doka", "doki", "doki_doki", "don", "doro", "dosa" ],  
   "f": [ "faa", "fu", "fu_fu", "furi_furi" ],
-  "g": [ "ga", "gabu", "gacha", "gaku", "gan", "gara", "gasa", "gasa_gasa", "gashan", "gashi", "gata", "ge", "gi", "giku", "gin", "ginuro", "go", "gopori", "goro", "goshi_goshi", "gou", "gu", "gununu", "gyu", "gyumu" ],
+  "g": [ 
+    "ga", "gabu", "gacha", "gaku", "gan", "gara", "gasa", "gasa_gasa", "gashan", "gashi", "gata", "ge", "gi", "giku", "gin", 
+    "ginuro", "go", "gopori", "goro", "goshi_goshi", "gou", "gu", "gununu", "gyu", "gyumu" 
+  ],
   "h": [ "ha", "ha_ha", "hi", "hiso_hiso", "ho", "hyun" ],
   "i": [ "itai" ],
   "j": [ "jaki", "jara", "ji", "jiriri", "jiro", "juru" ],
-  "k": [ "ka", "kachi", "karan", "kata", "katata", "ki", "kira", "kira_kira", "ko", "koku", "kon", "kopopo", "koto", "ku", "kua", "koron", "kuru", "kuso", "kyu" ],
+  "k": [ 
+    "ka", "kachi", "karan", "kata", "katata", "ki", "kira", "kira_kira", "ko", "koku", "kon", "kopopo", "koto", "ku", "kua", 
+    "koron", "kuru", "kuso", "kyu" 
+  ],
   "m": [ "mofu", "moji", "moku_moku", "mu", "munya" ],
   "n": [ "niko", "nya_nya", "nyi" ],
-  "p": [ "pa", "pachi_pachi", "paki", "pan", "para", "para_para", "pasha", "patan", "pero", "pi", "pichan", "piku", "pinpon", "pirorin", "pishi", "pita", "po", "pon_pon", "poro_poro", "poto", "pou", "poyuyun", "pu", "pui", "pushu", "pusu", "pusu_pusu", "pyu" ],
+  "p": [ 
+    "pa", "pachi_pachi", "paki", "pan", "para", "para_para", "pasha", "patan", "pero", "pi", "pichan", "piku", "pinpon", "pirorin", 
+    "pishi", "pita", "po", "pon_pon", "poro_poro", "poto", "pou", "poyuyun", "pu", "pui", "pushu", "pusu", "pusu_pusu", "pyu" 
+  ],
   "s": [ "sa", "sa_sa", "sharan", "shu", "shun", "su", "suta", "suu_suu", "suku" ],
   "t": [ "tan", "tata", "to", "tobo_tobo", "ton", "ton_ton", "topopo", "tsu", "tsun_tsun" ],
   "u": [ "u", "un", "un_un", "uru", "uzo" ],
