@@ -2,7 +2,7 @@
   "katakana": [ "ガ", "ガッ", "ガー", "ガーッ" ],
   "hiragana": [ "が", "がっ", "がー", "がーっ" ],
   "literal": "ga",
-  "equivalent": "1 - bam, blow, chop, clobber, clout, crash, crunch, hit, impact, kick, knock, pelt, pound, punch, slam, slug, smash, strike, thud, thunk, wham",
-  "comments": "1 - the sound of an impact during a fight",
-  "examples": [ "g/ga-1.jpg" ]
+  "equivalent": [ "1 - bam, blow, chop, clobber, clout, crash, crunch, hit, impact, kick, knock, pelt, pound, punch, slam, slug, smash, strike, thud, thunk, wham", "2 - catch, clutch, glom, grab, grasp, hold, nab, seize, snag, snatch" ],
+  "comments": [ "1 - the sound of an impact during a fight", "2 - seizing something with a sudden motion or grasp" ],
+  "examples": [ "g/ga-1.jpg", "g/ga-2.jpg" ]
 }
