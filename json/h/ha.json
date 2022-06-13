@@ -1,0 +1,8 @@
+{
+  "katakana": [ "ハ", "ハッ", "ハア", "ハアッ", "ハー", "ハーッ" ],
+  "hiragana": [ "は", "はっ", "はあ", "はあっ", "はー", "はーっ" ],
+  "literal": "ha",
+  "equivalent": [ "1 - ha, haa, pant, gasp", "2 - exhale, sigh, hahh", "3 - gasp, realize" ],
+  "comments": [ "1 - breathing hard after exertion", "2 - a deep sigh or exhalation", "3 - a sudden realization or understanding" ],
+  "examples": [ "h/ha-1.jpg", "h/ha-2.jpg", "h/ha-3a.jpg", "h/ha-3b.jpg" ]
+}
