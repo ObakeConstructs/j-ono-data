@@ -2,7 +2,7 @@
   "katakana": [ "ズイ", "ズイッ" ],
   "hiragana": [ "ずい", "ずいっ" ],
   "literal": "zui",
-  "equivalent": "1 - gape, gawk, peer, regard, scrutinize, stare, study",
-  "comments": "1 - a intense stare at someone or something",
-  "examples": [ "z/zui-1.jpg" ]
+  "equivalent": [ "1 - gape, gawk, peer, regard, scrutinize, stare, study", "2 - display, give, offer, push, present, shove, show, thrust, unveil" ],
+  "comments": [ "1 - a intense stare at someone or something", "2 - to present or hand over something in an aggressive or sudden manner" ],
+  "examples": [ "zui-1", "zui-2" ]
 }

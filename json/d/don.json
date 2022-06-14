@@ -2,7 +2,7 @@
   "katakana": [ "ドン", "ドンッ" ],
   "hiragana": [ "どん", "どんっ" ],
   "literal": "don",
-  "equivalent": "1 - bam, bang, bash, boom, crash, smash, thud, thunk, wham, wrack, wreck, whump",
-  "comments": "1 - a sudden loud sound of impact",
-  "examples": [ "d/don-1.jpg" ]
+  "equivalent": [ "1 - bam, bang, bash, boom, crash, smash, thud, thunk, wham, wrack, wreck, whump", "2 - bam, boom, dah, here, ta-da" ],
+  "comments": [ "1 - a sudden loud sound of impact", "2 - to call attention to something amazing or surprising in an overly-dramatic fashion" ],
+  "examples": [ "don-1", "don-2" ]
 }
