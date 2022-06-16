@@ -1,8 +1,8 @@
 {
-  "katakana": [ "ワ", "ワッ" ],
-  "hiragana": [ "わ", "わっ" ],
+  "katakana": [ "ワ", "ワッ", "ワア", "ワアア", "ワアアア" ],
+  "hiragana": [ "わ", "わっ", "わあ", "わああ", "わあああ" ],
   "literal": "wa",
-  "equivalent": "1 - roar, wah, woah, yah, yay",
-  "comments": "1 - sound of primal, gurtteral yelling, either in fear or in celebration",
-  "examples": [ "wa-1" ]
+  "equivalent": "1 - bellow, howl, raaa, roar, shout, waa, yaaa, yay",
+  "comments": "1 - a roar, shout or cheer, either in fear or in celebration",
+  "examples": [ "wa-1a", "wa-1b" ]
 }

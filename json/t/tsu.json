@@ -1,8 +1,8 @@
 {
-  "katakana": [ "ツ", "ツー" ],
-  "hiragana": [ "つ", "つー" ],
+  "katakana": [ "ツ", "ツー", "ッ" ],
+  "hiragana": [ "つ", "つー", "っ" ],
   "literal": "tsu",
-  "equivalent": "1 - dasp, hsss, ha, oh, wha",
+  "equivalent": "1 - gasp, hsss, ha, oh, wha",
   "comments": "1 - a quick inhale or gasp, as from being surprised or frightened",
   "examples": [ "tsu-1" ]
 }

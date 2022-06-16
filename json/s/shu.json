@@ -1,8 +1,8 @@
 {
-"katakana": [ "シュ", "シュッ" ],
-"hiragana": [ "しゅ", "しゅっ" ],
+"katakana": [ "シュ", "シュッ", "シュゥ", "シュゥゥ", "シュウ", "シュウ" ],
+"hiragana": [ "しゅ", "しゅっ", "しゅぃ", "しゅぃぃ", "しゅう", "しゅう" ],
 "literal": "shu",
-"equivalent": "1 - fwip, whiz, whoosh, zip, zoom",
-"comments": "1 - to move very quickly with only the sound of flowing air",
-"examples": [ "s/shu-1.jpg" ]
+"equivalent": [ "1 - fwip, whiz, whoosh, zip, zoom", "2 - fsshh, hiss, sshh, sss" ],
+"comments": [ "1 - to move very quickly with only the sound of flowing air", "2 - a hissing sound" ],
+"examples": [ "shu-1", "shu-2" ]
 }
