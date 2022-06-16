@@ -30,7 +30,7 @@ That's it.  Nothing fancy.
 * Note that multiple definitions are grouped by number.  In the above example, there are three definitions (and three English-equivalent groups, and three examples).
 
 ## IMAGE FILE
-* Image files are not technically required, but we made it a point early on that we didn't want to add any definitions unless we actually had a good representational image to back it up.  
-* Each Imgage file is in a folder corresponding to the first letter of its filename.
-* Each Image is 400x400px and contains a publisher attribution statement.
-* Note that all Image filenames ends with a dash-number (i.e. `"ba-1"`).  The number corresponds to the definition group and is used by the J-ONO Search program to display the link to the image.
+* Image Files are not technically required, but we made it a point early on that we didn't want to add any definitions unless we actually had a good representational image to back it up.  
+* Each Imgage File is in a folder corresponding to the first letter of its filename.
+* All Image File images are 400 pixels by 400 pixels and contain a publisher attribution statement.
+* All Image File filenames end with a dash-number (i.e. `ba-1.jpg`).  The number corresponds to the definition group and is used by the J-ONO Search program to display the link to the image.
