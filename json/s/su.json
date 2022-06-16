@@ -2,7 +2,7 @@
   "katakana": [ "ス", "スッ", "スー", "スーッ", "スウ", "スゥ", "スウウ", "スゥゥ", "スウウウ", "スゥゥゥ" ],
   "hiragana": [ "す", "すっ", "すー", "すーっ", "すう", "すぅ", "すうう", "すぅぅ", "すううう", "すぅぅぅ" ],
   "literal": "su",
-  "equivalent": [ "1 - ignore, pass, pass by", "2 - deliver, gesture, get, give, grab, hand over, pass, raise, reach, slide, stop, take, yield", "3 - blow out, breath in, breath out, draw in, exhale, huff", inhale ],
+  "equivalent": [ "1 - ignore, pass, pass by", "2 - deliver, gesture, get, give, grab, hand over, pass, raise, reach, slide, stop, take, yield", "3 - blow out, breath in, breath out, draw in, exhale, huff, inhale" ],
   "comments": [ "1 - ignore someone and walk past", "2 - the simple movement of a hand; to give something, to take something, or to gesture someone to stop", "3 - a deep breath, typically inhaled" ],
   "examples": [ "s/su-1.jpg", "s/su-2a.jpg", "s/su-2b.jpg", "s/su-2c.jpg", "s/su-3.jpg" ]
 }
