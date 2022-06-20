@@ -1,8 +1,8 @@
 {
-  "katakana": [ "ド", "ドッ" ],
-  "hiragana": [ "ど", "どっ" ],
+  "katakana": [ "ド", "ドッ", "ドォ", "ドォッ" ],
+  "hiragana": [ "ど", "どっ", "どぉ", "どぉっ" ],
   "literal": "do",
-  "equivalent": "1 - bang, bam, blast, boom, crack, pop, whomp, whump",
-  "comments": "1 - a relatively small explosion",
+  "equivalent": [ "1 - bang, bam, blast, boom, crack, pop, whomp, whump", "2 - bam, blow, chop, clobber, clout, crunch, hit, impact, knock, pelt, pound, punch, slam, slug, strike, thud, thunk, wham" ],
+  "comments": [ "1 - a relatively small explosion", "2 - a painful, but non-fatal strike, as from the back of a sword" ],
   "examples": [ "d/do-1.jpg" ]
 }
