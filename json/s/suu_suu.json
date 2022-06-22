@@ -1,8 +1,10 @@
 {
-  "katakana": "スウスウ",
-  "hiragana": "すうすう",
   "literal": "suu suu",
-  "equivalent": "1 - beath, huff, whiff, zzz",
-  "comments": "1 - soft breathing while sleeping or quietly snoring",
-  "examples": [ "s/suu_suu-1.jpg" ]
+  "hiragana": ["すうすう"],
+  "katakana": ["スウスウ"],
+  "definition": [{
+    "equivalent": "beath, huff, whiff, zzz",
+    "meaning": "soft breathing while sleeping or quietly snoring",
+    "example": ["suu_suu-1"]
+  }]
 }

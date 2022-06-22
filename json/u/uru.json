@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ウル", "ウルッ" ],
-  "hiragana": [ "うる", "うるっ" ],
   "literal": "uru",
-  "equivalent": "1 - bead, drip, drop, tear, teardrop",
-  "comments": "1 - the formation of a teardrop",
-  "examples": [ "u/uru-1.jpg" ]
+  "hiragana": [
+    "うる",
+    "うるっ"
+  ],
+  "katakana": [
+    "ウル",
+    "ウルッ"
+  ],
+  "definition": [{
+    "equivalent": "bead, drip, drop, tear, teardrop",
+    "meaning": "the formation of a teardrop",
+    "example": ["uru-1"]
+  }]
 }

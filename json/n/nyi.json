@@ -1,8 +1,10 @@
 {
-  "katakana": "ニィ",
-  "hiragana": "にぃ",
   "literal": "nyi",
-  "equivalent": "1 - grin, smile, smirk",
-  "comments": "1 - an unpleasant smile",
-  "examples": [ "n/nyi-1.jpg" ]
+  "hiragana": ["にぃ"],
+  "katakana": ["ニィ"],
+  "definition": [{
+    "equivalent": "grin, smile, smirk",
+    "meaning": "an unpleasant smile",
+    "example": ["nyi-1"]
+  }]
 }

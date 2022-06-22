@@ -1,8 +1,10 @@
 {
-  "katakana": "ふぁあ",
-  "hiragana": "ファア",
   "literal": "faa",
-  "equivalent": "1 - huff, yawn",
-  "comments": "1 - a deep breath expressing tiredness or boredom",
-  "examples": [ "f/faa-1.jpg" ]
+  "hiragana": ["ファア"],
+  "katakana": ["ふぁあ"],
+  "definition": [{
+    "equivalent": "huff, yawn",
+    "meaning": "a deep breath expressing tiredness or boredom",
+    "example": ["faa-1"]
+  }]
 }

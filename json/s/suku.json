@@ -1,8 +1,16 @@
 {
-  "katakana": [ "スク", "スクッ" ],
-  "hiragana": [ "すく", "すくっ" ],
   "literal": "suku",
-  "equivalent": "1 - rise up, stand, stand up",
-  "comments": "1 - stand up and get to one's feet",
-  "examples": [ "s/suku-1.jpg" ]
+  "hiragana": [
+    "すく",
+    "すくっ"
+  ],
+  "katakana": [
+    "スク",
+    "スクッ"
+  ],
+  "definition": [{
+    "equivalent": "rise up, stand, stand up",
+    "meaning": "stand up and get to one's feet",
+    "example": ["suku-1"]
+  }]
 }

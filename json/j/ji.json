@@ -1,8 +1,25 @@
 {
-  "katakana": [ "ジ", "ジッ", "ジー", "ジーッ", "ジィーッ" ],
-  "hiragana": [ "じ", "じっ", "じー", "じーっ", "じぃーっ" ],
   "literal": "ji",
-  "equivalent": [ "1 - gape, gawk, peer, regard, scrutinize, stare, study", "2 - flame, kindle, ignite, spark", "3 - squeal, whine, whistle", "4 - unzip, zip" ],
-  "comments": [ "1 - a lengthy stare at someone or something", "2 - a small flame being lit", "3 - a shrill feedback-like noise", "4 - opening a seal or zipper" ],
-  "examples": [ "j/ji-1a.jpg", "j/ji-1b.jpg" ]
+  "hiragana": [
+    "じ",
+    "じっ",
+    "じー",
+    "じーっ",
+    "じぃーっ"
+  ],
+  "katakana": [
+    "ジ",
+    "ジッ",
+    "ジー",
+    "ジーッ",
+    "ジィーッ"
+  ],
+  "definition": [{
+    "equivalent": "gape, gawk, peer, regard, scrutinize, stare, study",
+    "meaning": "a lengthy stare at someone or something",
+    "example": [
+      "ji-1a",
+      "ji-1b"
+    ]
+  }]
 }

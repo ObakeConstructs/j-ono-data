@@ -1,8 +1,10 @@
 {
-"katakana": "ジロ",
-"hiragana": "じろ",
-"literal": "jiro",
-"equivalent": "1 - gape, gawk, stare, peer",
-"comments": "1 - a good hard stare at someone or something",
-"examples": [ "j/jiro-1.jpg" ]
+  "literal": "jiro",
+  "hiragana": ["じろ"],
+  "katakana": ["ジロ"],
+  "definition": [{
+    "equivalent": "gape, gawk, stare, peer",
+    "meaning": "a good hard stare at someone or something",
+    "example": ["jiro-1"]
+  }]
 }

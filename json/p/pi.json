@@ -1,8 +1,16 @@
 {
-  "katakana": ["ピ", "ピッ"],
-  "hiragana": ["ぴ", "ぴっ"],
   "literal": "pi",
-  "equivalent": "1 - beep, peep",
-  "comments": "1 - electronic beep or other high-pitched noise",
-  "examples": ["p/pi-1.jpg", "p/pi-2.jpg"]
+  "hiragana": [
+    "ぴ",
+    "ぴっ"
+  ],
+  "katakana": [
+    "ピ",
+    "ピッ"
+  ],
+  "definition": [{
+    "equivalent": "beep, peep",
+    "meaning": "electronic beep or other high-pitched noise",
+    "example": ["pi-1"]
+  }]
 }

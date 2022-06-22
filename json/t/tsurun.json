@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ツルン", "ツルンッ" ],
-  "hiragana": [ "つるん", "つるんっ" ],
   "literal": "tsurun",
-  "equivalent": "1 - fall, slick, slip, slippery",
-  "comments": "1 - to slip or to have a surface smooth enough to slip on",
-  "examples": [ "tsurun-1" ]
+  "hiragana": [
+    "つるん",
+    "つるんっ"
+  ],
+  "katakana": [
+    "ツルン",
+    "ツルンッ"
+  ],
+  "definition": [{
+    "equivalent": "fall, slick, slip, slippery",
+    "meaning": "to slip or to have a surface smooth enough to slip on",
+    "example": ["tsurun-1"]
+  }]
 }

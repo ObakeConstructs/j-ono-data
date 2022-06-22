@@ -1,8 +1,23 @@
 {
-  "katakana": [ "バン", "バンッ", "バァン", "バァンッ" ],
-  "hiragana": [ "ばん", "ばんっ", "ばぁん", "ばぁんっ" ],
   "literal": "ban",
-  "equivalent": "1 - bam, bang, crack, hit, pound, slam, slap, slug, sock, thwack, whack",
-  "comments": "1 - a short, sharp sound of impact",
-  "examples": [ "ban-1a", "ban-1b" ]
+  "hiragana": [
+    "ばん",
+    "ばんっ",
+    "ばぁん",
+    "ばぁんっ"
+  ],
+  "katakana": [
+    "バン",
+    "バンッ",
+    "バァン",
+    "バァンッ"
+  ],
+  "definition": [{
+    "equivalent": "bam, bang, crack, hit, pound, slam, slap, slug, sock, thwack, whack",
+    "meaning": "a short, sharp sound of impact",
+    "example": [
+      "ban-1a",
+      "ban-1b"
+    ]
+  }]
 }

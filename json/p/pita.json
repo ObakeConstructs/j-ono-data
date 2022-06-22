@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ピタ", "ピタッ" ],
-  "hiragana": [ "ぴた", "ぴたっ" ],
   "literal": "pita",
-  "equivalent": "1 - break off, cease, check, freeze, halt, stop",
-  "comments": "1 - to bring something to an immediate end or standstill",
-  "examples": [ "p/pita-1.jpg" ]
+  "hiragana": [
+    "ぴた",
+    "ぴたっ"
+  ],
+  "katakana": [
+    "ピタ",
+    "ピタッ"
+  ],
+  "definition": [{
+    "equivalent": "break off, cease, check, freeze, halt, stop",
+    "meaning": "to bring something to an immediate end or standstill",
+    "example": ["pita-1"]
+  }]
 }

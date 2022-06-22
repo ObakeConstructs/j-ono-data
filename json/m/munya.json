@@ -1,8 +1,10 @@
 {
-  "katakana": "ムニャ",
-  "hiragana": "むにゃ",
   "literal": "munya",
-  "equivalent": "1 - dosy, drowsy, sleepy",
-  "comments": "1 - expressing desire or need for sleep",
-  "examples": [ "m/munya-1.jpg" ]
+  "hiragana": ["むにゃ"],
+  "katakana": ["ムニャ"],
+  "definition": [{
+    "equivalent": "dosy, drowsy, sleepy",
+    "meaning": "expressing desire or need for sleep",
+    "example": ["munya-1"]
+  }]
 }

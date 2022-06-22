@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ズバ", "ズバッ" ],
-  "hiragana": [ "ずば", "ずばっ" ],
   "literal": "zuba",
-  "equivalent": "1 - cleave, cut, slash, slice",
-  "comments": "1 - a cut with a blade (as a sword or knife)",
-  "examples": [ "z/zuba-1.jpg" ]
+  "hiragana": [
+    "ずば",
+    "ずばっ"
+  ],
+  "katakana": [
+    "ズバ",
+    "ズバッ"
+  ],
+  "definition": [{
+    "equivalent": "cleave, cut, slash, slice",
+    "meaning": "a cut with a blade (as a sword or knife)",
+    "example": ["zuba-1"]
+  }]
 }

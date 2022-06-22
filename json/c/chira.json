@@ -1,8 +1,19 @@
 {
-  "katakana": [ "チラ", "チラッ" ],
-  "hiragana": [ "ちら", "ちらっ" ],
   "literal": "chira",
-  "equivalent": "1 - glance, glimpse, look, peek, view",
-  "comments": "1 - a quick or hasty look",
-  "examples": [ "c/chira-1a.jpg", "c/chira-1b.jpg" ]
+  "hiragana": [
+    "ちら",
+    "ちらっ"
+  ],
+  "katakana": [
+    "チラ",
+    "チラッ"
+  ],
+  "definition": [{
+    "equivalent": "glance, glimpse, look, peek, view",
+    "meaning": "a quick or hasty look",
+    "example": [
+      "chira-1a",
+      "chira-1b"
+    ]
+  }]
 }

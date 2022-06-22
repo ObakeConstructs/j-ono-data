@@ -1,8 +1,10 @@
 {
-  "katakana": "ゴポリ",
-  "hiragana": "ごぽり",
   "literal": "gopori",
-  "equivalent": "1 - belch, disgorge, eject, pour, run, spew, spurt, squirt, stream, swoosh",
-  "comments": "1 - to flow out in great quantities or with force",
-  "examples": [ "g/gopori-1.jpg" ]
+  "hiragana": ["ごぽり"],
+  "katakana": ["ゴポリ"],
+  "definition": [{
+    "equivalent": "belch, disgorge, eject, pour, run, spew, spurt, squirt, stream, swoosh",
+    "meaning": "to flow out in great quantities or with force",
+    "example": ["gopori-1"]
+  }]
 }

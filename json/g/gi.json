@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ギ", "ギッ" ],
-  "hiragana": [ "ぎ", "ぎっ" ],
   "literal": "gi",
-  "equivalent": "1 - move, rustle, swish",
-  "comments": "1 - a subtle moving or shifting sound, like farbic or plants",
-  "examples": [ "g/gi-1.jpg" ]
+  "hiragana": [
+    "ぎ",
+    "ぎっ"
+  ],
+  "katakana": [
+    "ギ",
+    "ギッ"
+  ],
+  "definition": [{
+    "equivalent": "move, rustle, swish",
+    "meaning": "a subtle moving or shifting sound, like farbic or plants",
+    "example": ["gi-1"]
+  }]
 }

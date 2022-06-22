@@ -1,8 +1,19 @@
 {
-"katakana": [ "タタ", "タタッ" ],
-"hiragana": [ "たた", "たたっ" ],
-"literal": "tata",
-"equivalent": "1 - dash, run, scamper, sprint, step step, tap tap, quickly",
-"comments": "1 - light running",
-"examples": [ "t/tata-1a.jpg", "t/tata-1b.jpg" ]
+  "literal": "tata",
+  "hiragana": [
+    "たた",
+    "たたっ"
+  ],
+  "katakana": [
+    "タタ",
+    "タタッ"
+  ],
+  "definition": [{
+    "equivalent": "dash, run, scamper, sprint, step step, tap tap, quickly",
+    "meaning": "light running",
+    "example": [
+      "tata-1a",
+      "tata-1b"
+    ]
+  }]
 }

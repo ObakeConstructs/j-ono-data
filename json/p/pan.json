@@ -1,9 +1,23 @@
 {
-  "katakana": [ "パン", "パンッ", "パァン", "パァンッ" ],
-  "hiragana": [ "ぱん", "ぱんっ", "ぱぁん", "ぱぁんっ" ],
   "literal": "pan",
-  "equivalent": "1 - bang, bam, crash, impact, pow, slam, strike",
-  "comments": "1 - a sudden resounding strike, often loud",
-  "examples": [ "p/pan-1a.jpg", "p/pan-1b.jpg" ]
+  "hiragana": [
+    "ぱん",
+    "ぱんっ",
+    "ぱぁん",
+    "ぱぁんっ"
+  ],
+  "katakana": [
+    "パン",
+    "パンッ",
+    "パァン",
+    "パァンッ"
+  ],
+  "definition": [{
+    "equivalent": "bang, bam, crash, impact, pow, slam, strike",
+    "meaning": "a sudden resounding strike, often loud",
+    "example": [
+      "pan-1a",
+      "pan-1b"
+    ]
+  }]
 }
-

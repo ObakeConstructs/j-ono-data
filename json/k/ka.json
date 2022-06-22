@@ -1,8 +1,32 @@
 {
-  "katakana": [ "カ", "カッ", "カー", "カーッ" ],
-  "hiragana": [ "か", "かっ", "かー", "かーっ" ],
   "literal": "ka",
-  "equivalent": [ "1 - aggravated, enraged, flustered, fuming, furious, fury, incensed, irate, livid, mad, rankled, steamed", "2 - bright, brighten, glow, light, light up, shine", "3 - click, draw, print, scrape, scratch, scribble, stroke, tap, write" ],
-  "comments": [ "1 - an expression of anger ", "2 - to brighten or shine sudddenly", "3 - the sound of writing something" ],
-  "examples": [ "k/ka-1.jpg", "k/ka-2.jpg", "k/ka-3.jpg" ]
+  "hiragana": [
+    "か",
+    "かっ",
+    "かー",
+    "かーっ"
+  ],
+  "katakana": [
+    "カ",
+    "カッ",
+    "カー",
+    "カーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": "aggravated, enraged, flustered, fuming, furious, fury, incensed, irate, livid, mad, rankled, steamed",
+      "meaning": "an expression of anger ",
+      "example": ["ka-1"]
+    },
+    {
+      "equivalent": "bright, brighten, glow, light, light up, shine",
+      "meaning": "to brighten or shine sudddenly",
+      "example": ["ka-2"]
+    },
+    {
+      "equivalent": "click, draw, print, scrape, scratch, scribble, stroke, tap, write",
+      "meaning": "the sound of writing something",
+      "example": ["ka-3"]
+    }
+  ]
 }

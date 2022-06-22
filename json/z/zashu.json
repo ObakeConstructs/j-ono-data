@@ -1,8 +1,10 @@
 {
-  "katakana": "ザシュ",
-  "hiragana": "ざしゅ",
   "literal": "zashu",
-  "equivalent": "1 - cleave, cut, slash, slice",
-  "comments": "1 - a fast, heavy cut, as with a sword or knife",
-  "examples": [ "zashu-1" ]
+  "hiragana": ["ざしゅ"],
+  "katakana": ["ザシュ"],
+  "definition": [{
+    "equivalent": "cleave, cut, slash, slice",
+    "meaning": "a fast, heavy cut, as with a sword or knife",
+    "example": ["zashu-1"]
+  }]
 }

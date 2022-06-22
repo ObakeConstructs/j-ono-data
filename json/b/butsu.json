@@ -1,8 +1,16 @@
 {
-"katakana": [ "ブツ", "ブツッ" ],
-"hiragana": [ "ぶつ", "ぶつっ" ],
-"literal": "butsu",
-"equivalent": "1 - cut, slice",
-"comments": "1 - a smallish, shallow cut",
-"examples": [ "b/butsu-1.jpg" ]
+  "literal": "butsu",
+  "hiragana": [
+    "ぶつ",
+    "ぶつっ"
+  ],
+  "katakana": [
+    "ブツ",
+    "ブツッ"
+  ],
+  "definition": [{
+    "equivalent": "cut, slice",
+    "meaning": "a smallish, shallow cut",
+    "example": ["butsu-1"]
+  }]
 }

@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ヂュル", "ヂュルッ" ],
-  "hiragana": [ "ぢゅる", "ぢゅるっ" ],
   "literal": "juru",
-  "equivalent": "1 - slurp",
-  "comments": "1 - variant of the more common 'churru'",
-  "examples": [ "j/juru-1.jpg" ]
+  "hiragana": [
+    "ぢゅる",
+    "ぢゅるっ"
+  ],
+  "katakana": [
+    "ヂュル",
+    "ヂュルッ"
+  ],
+  "definition": [{
+    "equivalent": "slurp",
+    "meaning": "variant of the more common 'churru'",
+    "example": ["juru-1"]
+  }]
 }

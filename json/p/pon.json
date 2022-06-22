@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ポン", "ポンッ" ],
-  "hiragana": [ "ぽん", "ぽんっ" ],
   "literal": "pon",
-  "equivalent": "1 - poof, pon",
-  "comments": "1 - the sound of a magical effect, often accompanied with a cute puffs of smoke or dust, as in magically appearing or disappearing",
-  "examples": [ "pon-1" ]
+  "hiragana": [
+    "ぽん",
+    "ぽんっ"
+  ],
+  "katakana": [
+    "ポン",
+    "ポンッ"
+  ],
+  "definition": [{
+    "equivalent": "poof, pon",
+    "meaning": "the sound of a magical effect, often accompanied with a cute puffs of smoke or dust, as in magically appearing or disappearing",
+    "example": ["pon-1"]
+  }]
 }

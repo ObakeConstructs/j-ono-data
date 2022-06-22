@@ -1,8 +1,16 @@
 {
-  "katakana": [ "アハン", "アハーン" ],
-  "hiragana": [ "あはん", "あはーん" ],
   "literal": "ahan",
-  "equivalent": "1 - ahh, aha-n, moan, sigh",
-  "comments": "1 - a moan of pleasure, often used in a comical manner",
-  "examples": [ "ahan-1" ]
+  "hiragana": [
+    "あはん",
+    "あはーん"
+  ],
+  "katakana": [
+    "アハン",
+    "アハーン"
+  ],
+  "definition": [{
+    "equivalent": "ahh, aha-n, moan, sigh",
+    "meaning": "a moan of pleasure, often used in a comical manner",
+    "example": ["ahan-1"]
+  }]
 }

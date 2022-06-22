@@ -1,8 +1,23 @@
 {
-  "katakana": [ "ウン", "ウーン" ],
-  "hiragana": [ "うん", "うーん" ],
   "literal": "un",
-  "equivalent": [ "1 - exactly, mm-hmm, nod, okay, yeah, yes", "2 - hmm, uh, um" ],
-  "comments": [ "1 - nodding to express agreement", "2 - an expression of thinking or considering" ],
-  "examples": [ "u/un-1.jpg", "u/un-2.jpg" ]
+  "hiragana": [
+    "うん",
+    "うーん"
+  ],
+  "katakana": [
+    "ウン",
+    "ウーン"
+  ],
+  "definition": [
+    {
+      "equivalent": "exactly, mm-hmm, nod, okay, yeah, yes",
+      "meaning": "nodding to express agreement",
+      "example": ["un-1"]
+    },
+    {
+      "equivalent": "hmm, uh, um",
+      "meaning": "an expression of thinking or considering",
+      "example": ["un-2"]
+    }
+  ]
 }

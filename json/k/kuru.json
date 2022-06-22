@@ -1,8 +1,16 @@
 {
-  "katakana": [ "クル", "クルッ" ],
-  "hiragana": [ "くる", "くるっ" ],
   "literal": "kuru",
-  "equivalent": "1 - pivot, spin, swing, swivel, turn, twist",
-  "comments": "1 - to turn something in a curve or as if on an axis",
-  "examples": [ "k/kuru-1.jpg" ]
+  "hiragana": [
+    "くる",
+    "くるっ"
+  ],
+  "katakana": [
+    "クル",
+    "クルッ"
+  ],
+  "definition": [{
+    "equivalent": "pivot, spin, swing, swivel, turn, twist",
+    "meaning": "to turn something in a curve or as if on an axis",
+    "example": ["kuru-1"]
+  }]
 }

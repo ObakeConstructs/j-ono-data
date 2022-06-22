@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ビリビリ", "ビリビリッ" ],
-  "hiragana": [ "びりびり", "びりびりっ" ],
   "literal": "biri biri",
-  "equivalent": "1 - shiver, shudder, quiver, tremble",
-  "comments": "1 - an indication of shaking",
-  "examples": [ "b/biri_biri-1.jpg" ]
+  "hiragana": [
+    "びりびり",
+    "びりびりっ"
+  ],
+  "katakana": [
+    "ビリビリ",
+    "ビリビリッ"
+  ],
+  "definition": [{
+    "equivalent": "shiver, shudder, quiver, tremble",
+    "meaning": "an indication of shaking",
+    "example": ["biri_biri-1"]
+  }]
 }

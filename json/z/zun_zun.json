@@ -1,8 +1,10 @@
 {
-  "katakana": "ズンズン",
-  "hiragana": "ずんずん",
   "literal": "zun zun",
-  "equivalent": "1 - step step, tap tap, thump thump",
-  "comments": "1 - to walk quickly, almost a run",
-  "examples": [ "z/zun_zun-1.jpg" ]
+  "hiragana": ["ずんずん"],
+  "katakana": ["ズンズン"],
+  "definition": [{
+    "equivalent": "step step, tap tap, thump thump",
+    "meaning": "to walk quickly, almost a run",
+    "example": ["zun_zun-1"]
+  }]
 }

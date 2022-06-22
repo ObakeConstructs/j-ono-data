@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ドサ", "ドサッ" ],
-  "hiragana": [ "どさ", "どさっ" ],
   "literal": "dosa",
-  "equivalent": "1 - buckle, collapse, fall, stumble, topple, tumble",
-  "comments": "1 - to fall down from an upright position",
-  "examples": [ "d/dosa-1.jpg" ]
+  "hiragana": [
+    "どさ",
+    "どさっ"
+  ],
+  "katakana": [
+    "ドサ",
+    "ドサッ"
+  ],
+  "definition": [{
+    "equivalent": "buckle, collapse, fall, stumble, topple, tumble",
+    "meaning": "to fall down from an upright position",
+    "example": ["dosa-1"]
+  }]
 }

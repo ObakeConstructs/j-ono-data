@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ペロ", "ペロッ" ],
-  "hiragana": [ "ぺろ", "ぺろっ" ],
   "literal": "pero",
-  "equivalent": "1 - lap, lick, slurp",
-  "comments": "1 - the sound of a tongue licking something",
-  "examples": [ "pero-1" ]
+  "hiragana": [
+    "ぺろ",
+    "ぺろっ"
+  ],
+  "katakana": [
+    "ペロ",
+    "ペロッ"
+  ],
+  "definition": [{
+    "equivalent": "lap, lick, slurp",
+    "meaning": "the sound of a tongue licking something",
+    "example": ["pero-1"]
+  }]
 }

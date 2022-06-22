@@ -1,8 +1,32 @@
 {
-  "katakana": [ "ビシ", "ビシッ", "ビシー", "ビシーッ" ],
-  "hiragana": [ "びし", "びしっ", "びしー", "びしーっ" ],
   "literal": "bishi",
-  "equivalent": [ "1 - freeze, snap, stiffen, straighten", "2 - bop, chop, clip, clout, cuff, slap, smack, spank, swat, thump, thwack, whap", "3 - thud, thunk, thwack" ],
-  "comments": [ "1 - a sudden stop of all movement as a reaction", "2 - a light strike with an empty hand hand or something in hand", "3 - the sound of an arrow landing or hitting something" ],
-  "examples": [ "b/bishi-1.jpg", "b/bishi-2.jpg", "b/bishi-3.jpg" ]
+  "hiragana": [
+    "びし",
+    "びしっ",
+    "びしー",
+    "びしーっ"
+  ],
+  "katakana": [
+    "ビシ",
+    "ビシッ",
+    "ビシー",
+    "ビシーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": "freeze, snap, stiffen, straighten",
+      "meaning": "a sudden stop of all movement as a reaction",
+      "example": ["bishi-1"]
+    },
+    {
+      "equivalent": "bop, chop, clip, clout, cuff, slap, smack, spank, swat, thump, thwack, whap",
+      "meaning": "a light strike with an empty hand hand or something in hand",
+      "example": ["bishi-2"]
+    },
+    {
+      "equivalent": "thud, thunk, thwack",
+      "meaning": "the sound of an arrow landing or hitting something",
+      "example": ["bishi-3"]
+    }
+  ]
 }

@@ -1,8 +1,20 @@
 {
-  "katakana": [ "ゴウ", "ゴウッ", "ゴウウ", "ゴウウッ" ],
-  "hiragana": [ "ごう", "ごうっ", "ごうう", "ごううっ" ],
   "literal": "gou",
-  "equivalent": "1 - howl, raaa, roar, yaaa",
-  "comments": "1 - a loud, violent shout",
-  "examples": [ "gou-1" ]
+  "hiragana": [
+    "ごう",
+    "ごうっ",
+    "ごうう",
+    "ごううっ"
+  ],
+  "katakana": [
+    "ゴウ",
+    "ゴウッ",
+    "ゴウウ",
+    "ゴウウッ"
+  ],
+  "definition": [{
+    "equivalent": "howl, raaa, roar, yaaa",
+    "meaning": "a loud, violent shout",
+    "example": ["gou-1"]
+  }]
 }

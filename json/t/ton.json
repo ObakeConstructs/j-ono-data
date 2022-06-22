@@ -1,8 +1,16 @@
 {
-  "katakana": [ "トン", "トンッ" ],
-  "hiragana": [ "とん", "とんっ" ],
   "literal": "ton",
-  "equivalent": "1 - bop, bump, knock, tap, thud, thunk",
-  "comments": "1 - the sound of a light bump or tap",
-  "examples": [ "t/ton-1.jpg" ]
+  "hiragana": [
+    "とん",
+    "とんっ"
+  ],
+  "katakana": [
+    "トン",
+    "トンッ"
+  ],
+  "definition": [{
+    "equivalent": "bop, bump, knock, tap, thud, thunk",
+    "meaning": "the sound of a light bump or tap",
+    "example": ["ton-1"]
+  }]
 }

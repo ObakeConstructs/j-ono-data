@@ -1,8 +1,10 @@
 {
-  "katakana": "ヒョコ",
-  "hiragana": "ひょこ",
   "literal": "hyoko",
-  "equivalent": "1 - peek, gander, look, peep, regard",
-  "comments": "1 - an expression of taking a look, often from behind something, as from hiding",
-  "examples": [ "hyoko-1" ]
+  "hiragana": ["ひょこ"],
+  "katakana": ["ヒョコ"],
+  "definition": [{
+    "equivalent": "peek, gander, look, peep, regard",
+    "meaning": "an expression of taking a look, often from behind something, as from hiding",
+    "example": ["hyoko-1"]
+  }]
 }

@@ -1,8 +1,29 @@
 {
-"katakana": [ "キ", "キッ", "キーッ", "キイ", "キイーッ" ],
-"hiragana": [ "き", "き", "きーっ", "きい", "きいーっ" ],
-"literal": "ki",
-"equivalent": [ "1 - creak, screech, shriek, squeak, squeal", "2 - glare, glower, stare" ],
-"comments": [ "1 - a fairly loud squeaking noise, like an old door or chair", "2 - to look at someone or something with anger or disapproval" ],
-"examples": [ "k/ki-1.jpg", "k/ki-2.jpg" ]
+  "literal": "ki",
+  "hiragana": [
+    "き",
+    "き",
+    "きーっ",
+    "きい",
+    "きいーっ"
+  ],
+  "katakana": [
+    "キ",
+    "キッ",
+    "キーッ",
+    "キイ",
+    "キイーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": "creak, screech, shriek, squeak, squeal",
+      "meaning": "a fairly loud squeaking noise, like an old door or chair",
+      "example": ["ki-1"]
+    },
+    {
+      "equivalent": "glare, glower, stare",
+      "meaning": "to look at someone or something with anger or disapproval",
+      "example": ["ki-2"]
+    }
+  ]
 }

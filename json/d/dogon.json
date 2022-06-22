@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ドゴン", "ドゴンッ" ],
-  "hiragana": [ "どごん", "どごんっ" ],
   "literal": "dogon",
-  "equivalent": "1 - blam, blow, crash, smash, strike, wham",
-  "comments": "1 - a large impact or an explosion",
-  "examples": [ "dogon-1" ]
+  "hiragana": [
+    "どごん",
+    "どごんっ"
+  ],
+  "katakana": [
+    "ドゴン",
+    "ドゴンッ"
+  ],
+  "definition": [{
+    "equivalent": "blam, blow, crash, smash, strike, wham",
+    "meaning": "a large impact or an explosion",
+    "example": ["dogon-1"]
+  }]
 }

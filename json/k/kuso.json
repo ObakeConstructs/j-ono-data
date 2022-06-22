@@ -1,8 +1,20 @@
 {
-  "katakana": [ "クス", "クスッ" ],
-  "hiragana": [ "くす", "くすっ" ],
   "literal": "kusu",
-  "equivalent": "1 - heh, chortle, chuckle, giggle, laugh, snicker, snigger, titter",
-  "comments": "1 - a small light laugh, often related to arrogant, disdainful, sarcastic, or wry humor",
-  "examples": [ "k/kusu-1a.jpg", "k/kusu-1b.jpg", "k/kusu-1c.jpg" ]
+  "hiragana": [
+    "くす",
+    "くすっ"
+  ],
+  "katakana": [
+    "クス",
+    "クスッ"
+  ],
+  "definition": [{
+    "equivalent": "heh, chortle, chuckle, giggle, laugh, snicker, snigger, titter",
+    "meaning": "a small light laugh, often related to arrogant, disdainful, sarcastic, or wry humor",
+    "example": [
+      "kusu-1a",
+      "kusu-1b",
+      "kusu-1c"
+    ]
+  }]
 }

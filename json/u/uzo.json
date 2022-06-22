@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ウゾ", "ウゾゾ" ],
-  "hiragana": [ "うぞ", "うぞぞ" ],
   "literal": "uzo",
-  "equivalent": "1 - danger, intimidate, menace, threat",
-  "comments": "1 - a feeling of threat",
-  "examples": [ "u/uzo-1.jpg" ]
+  "hiragana": [
+    "うぞ",
+    "うぞぞ"
+  ],
+  "katakana": [
+    "ウゾ",
+    "ウゾゾ"
+  ],
+  "definition": [{
+    "equivalent": "danger, intimidate, menace, threat",
+    "meaning": "a feeling of threat",
+    "example": ["uzo-1"]
+  }]
 }

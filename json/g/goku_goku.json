@@ -1,8 +1,10 @@
 {
-  "katakana": "ゴクゴク",
-  "hiragana": "ごくごく",
   "literal": "goku goku",
-  "equivalent": "1 - drink drink, gulp gulp, quaff quaff, swallow swallow",
-  "comments": "1 - the sound of swallowing a liquid",
-  "examples": [ "goku_goku-1" ]
+  "hiragana": ["ごくごく"],
+  "katakana": ["ゴクゴク"],
+  "definition": [{
+    "equivalent": "drink drink, gulp gulp, quaff quaff, swallow swallow",
+    "meaning": "the sound of swallowing a liquid",
+    "example": ["goku_goku-1"]
+  }]
 }

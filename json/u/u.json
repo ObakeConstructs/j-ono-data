@@ -1,8 +1,20 @@
 {
-  "katakana": [ "ウ", "ウー", "ウッ", "ウーッ" ],
-  "hiragana": [ "う", "うー", "うっ", "うーっ" ],
   "literal": "u",
-  "equivalent": [ "1 - uh, uhn, ugh, urgh", "2 - groan, growl, grrr, urrg", "3 - cry, sob" ],
-  "comments": [ "1 - appalled, discouraged, dismayed", "2 - aggressive, angry" ],
-  "examples": [ "u/u-1.jpg" ]
+  "hiragana": [
+    "う",
+    "うー",
+    "うっ",
+    "うーっ"
+  ],
+  "katakana": [
+    "ウ",
+    "ウー",
+    "ウッ",
+    "ウーッ"
+  ],
+  "definition": [{
+    "equivalent": "uh, uhn, ugh, urgh",
+    "meaning": "appalled, discouraged, dismayed",
+    "example": ["u-1"]
+  }]
 }

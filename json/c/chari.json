@@ -1,9 +1,16 @@
-
 {
-  "katakana": [ "チャリ", "チャリリ" ],
-  "hiragana": [ "ちゃり", "ちゃりり" ],
   "literal": "chari",
-  "equivalent": "1 - ching, jingle, clink, ting, tink, tinkle",
-  "comments": "1 - a sharp light sound of rattling metal or glass",
-  "examples": [ "c/chari-1.jpg" ]
+  "hiragana": [
+    "ちゃり",
+    "ちゃりり"
+  ],
+  "katakana": [
+    "チャリ",
+    "チャリリ"
+  ],
+  "definition": [{
+    "equivalent": "ching, jingle, clink, ting, tink, tinkle",
+    "meaning": "a sharp light sound of rattling metal or glass",
+    "example": ["chari-1"]
+  }]
 }

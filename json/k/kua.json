@@ -1,8 +1,16 @@
 {
-"katakana": [ "クア", "クアー" ],
-"hiragana": [ "くあ", "くあー" ],
-"literal": "kua",
-"equivalent": "1 - huff, yawn",
-"comments": "1 - a deep breath expressing tiredness or boredom",
-"examples": [ "k/kua-1.jpg" ]
+  "literal": "kua",
+  "hiragana": [
+    "くあ",
+    "くあー"
+  ],
+  "katakana": [
+    "クア",
+    "クアー"
+  ],
+  "definition": [{
+    "equivalent": "huff, yawn",
+    "meaning": "a deep breath expressing tiredness or boredom",
+    "example": ["kua-1"]
+  }]
 }

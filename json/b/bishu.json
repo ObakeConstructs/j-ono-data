@@ -1,8 +1,10 @@
 {
-  "katakana": "ビシュ",
-  "hiragana": "びしゅ",
   "literal": "bishu",
-  "equivalent": "1 - fwip, swish, whirr, whish, zipwhiz",
-  "comments": "1 - The sound of an arrow being released",
-  "examples": [ "bishu-1" ]
+  "hiragana": ["びしゅ"],
+  "katakana": ["ビシュ"],
+  "definition": [{
+    "equivalent": "fwip, swish, whirr, whish, zipwhiz",
+    "meaning": "The sound of an arrow being released",
+    "example": ["bishu-1"]
+  }]
 }

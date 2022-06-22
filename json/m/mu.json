@@ -1,8 +1,20 @@
 {
-"katakana": [ "ム", "ムッ", "ムー", "ムーッ" ],
-"hiragana": [ "む", "むっ", "むー", "むーっ" ],
-"literal": "mu",
-"equivalent": "1 - annoyed, hmph, pissed, unamused",
-"comments": "1 - an expression of annoyance",
-"examples": [ "m/mu-1.jpg" ]
+  "literal": "mu",
+  "hiragana": [
+    "む",
+    "むっ",
+    "むー",
+    "むーっ"
+  ],
+  "katakana": [
+    "ム",
+    "ムッ",
+    "ムー",
+    "ムーッ"
+  ],
+  "definition": [{
+    "equivalent": "annoyed, hmph, pissed, unamused",
+    "meaning": "an expression of annoyance",
+    "example": ["mu-1"]
+  }]
 }

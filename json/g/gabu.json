@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ガブ", "ガブッ" ],
-  "hiragana": [ "がぶ", "がぶっ" ],
   "literal": "gabu",
-  "equivalent": "1 - bite, chomp, crunch",
-  "comments": "1 - a strong bite",
-  "examples": [ "g/gabu-1.jpg" ]
+  "hiragana": [
+    "がぶ",
+    "がぶっ"
+  ],
+  "katakana": [
+    "ガブ",
+    "ガブッ"
+  ],
+  "definition": [{
+    "equivalent": "bite, chomp, crunch",
+    "meaning": "a strong bite",
+    "example": ["gabu-1"]
+  }]
 }

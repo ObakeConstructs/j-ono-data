@@ -1,8 +1,20 @@
 {
-  "katakana": [ "ゼ", "ゼッ", "ゼエ", "ゼェ" ],
-  "hiragana": [ "ぜっ", "ぜっ", "ゼエ", "ゼェ" ],
   "literal": "ze",
-  "equivalent": "1 - gasp, inhale, wheeze",
-  "comments": "1 - the sound of a deep indrawn breath",
-  "examples": [ "ze-1" ]
+  "hiragana": [
+    "ぜっ",
+    "ぜっ",
+    "ゼエ",
+    "ゼェ"
+  ],
+  "katakana": [
+    "ゼ",
+    "ゼッ",
+    "ゼエ",
+    "ゼェ"
+  ],
+  "definition": [{
+    "equivalent": "gasp, inhale, wheeze",
+    "meaning": "the sound of a deep indrawn breath",
+    "example": ["ze-1"]
+  }]
 }

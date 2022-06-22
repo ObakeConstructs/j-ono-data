@@ -1,8 +1,18 @@
 {
-  "katakana": [ "ジリリ", "ジリリリ", "ジリリリリ" ],
-  "hiragana": [ "じりり", "じりりり", "じりりりり" ],
   "literal": "jiriri",
-  "equivalent": "1 - beep beep, ding-a-ling, ring ring",
-  "comments": "1 - sound of ringing, as from an alarm or phone",
-  "examples": [ "j/jiriri-1.jpg" ]
+  "hiragana": [
+    "じりり",
+    "じりりり",
+    "じりりりり"
+  ],
+  "katakana": [
+    "ジリリ",
+    "ジリリリ",
+    "ジリリリリ"
+  ],
+  "definition": [{
+    "equivalent": "beep beep, ding-a-ling, ring ring",
+    "meaning": "sound of ringing, as from an alarm or phone",
+    "example": ["jiriri-1"]
+  }]
 }

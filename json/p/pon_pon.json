@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ポンポン", "ポンポンッ" ],
-  "hiragana": [ "ぽんぽん", "ぽんぽんっ" ],
   "literal": "pon pon",
-  "equivalent": "1 - pat pat, pet pet, stroke stroke",
-  "comments": "1 - to continuously pat or stroke in a gentle manner",
-  "examples": [ "p/pon_pon-1.jpg" ]
+  "hiragana": [
+    "ぽんぽん",
+    "ぽんぽんっ"
+  ],
+  "katakana": [
+    "ポンポン",
+    "ポンポンッ"
+  ],
+  "definition": [{
+    "equivalent": "pat pat, pet pet, stroke stroke",
+    "meaning": "to continuously pat or stroke in a gentle manner",
+    "example": ["pon_pon-1"]
+  }]
 }

@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ト", "トッ" ],
-  "hiragana": [ "と", "とっ" ],
   "literal": "to",
-  "equivalent": "1 - tap",
-  "comments": "1 - a soft, quick tap",
-  "examples": [ "t/to-1.jpg" ]
+  "hiragana": [
+    "と",
+    "とっ"
+  ],
+  "katakana": [
+    "ト",
+    "トッ"
+  ],
+  "definition": [{
+    "equivalent": "tap",
+    "meaning": "a soft, quick tap",
+    "example": ["to-1"]
+  }]
 }

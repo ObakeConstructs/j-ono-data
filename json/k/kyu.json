@@ -1,8 +1,18 @@
 {
-  "katakana": [ "キュ", "キュッ", "キュウ" ],
-  "hiragana": [ "きゅ", "きゅっ", "きゅう" ],
   "literal": "kyu",
-  "equivalent": "1 - clasp, clench, grip, hold, press, squeeze, strain, tighten",
-  "comments": "1 - act of clenching, as in one's hands or teeth",
-  "examples": [ "k/kyu-1.jpg" ]
+  "hiragana": [
+    "きゅ",
+    "きゅっ",
+    "きゅう"
+  ],
+  "katakana": [
+    "キュ",
+    "キュッ",
+    "キュウ"
+  ],
+  "definition": [{
+    "equivalent": "clasp, clench, grip, hold, press, squeeze, strain, tighten",
+    "meaning": "act of clenching, as in one's hands or teeth",
+    "example": ["kyu-1"]
+  }]
 }

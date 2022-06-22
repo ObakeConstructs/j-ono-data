@@ -1,8 +1,20 @@
 {
-  "katakana": [ "ヴ", "ヴッ", "ヴー", "ヴーッ" ],
-  "hiragana": [ "ゔ", "ゔっ", "ゔー", "ゔーっ" ],
   "literal": "vu",
-  "equivalent": "1 - choke, gag, mphh, wmphh",
-  "comments": "1 - an expression of revulsion as if trying not to retch.",
-  "examples": [ "v/vu-1.jpg" ]
+  "hiragana": [
+    "ゔ",
+    "ゔっ",
+    "ゔー",
+    "ゔーっ"
+  ],
+  "katakana": [
+    "ヴ",
+    "ヴッ",
+    "ヴー",
+    "ヴーッ"
+  ],
+  "definition": [{
+    "equivalent": "choke, gag, mphh, wmphh",
+    "meaning": "an expression of revulsion as if trying not to retch.",
+    "example": ["vu-1"]
+  }]
 }

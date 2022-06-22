@@ -1,8 +1,16 @@
 {
-  "katakana": [ "プイ", "プイッ" ],
-  "hiragana": [ "ぷい", "ぷいっ" ],
   "literal": "pui",
-  "equivalent": "1 - brush-off, disdain, reject, scorn, snub, spurn, turn",
-  "comments": "1 - to deliberately ignore or treat rudely ",
-  "examples": [ "p/pui-1.jpg" ]
+  "hiragana": [
+    "ぷい",
+    "ぷいっ"
+  ],
+  "katakana": [
+    "プイ",
+    "プイッ"
+  ],
+  "definition": [{
+    "equivalent": "brush-off, disdain, reject, scorn, snub, spurn, turn",
+    "meaning": "to deliberately ignore or treat rudely ",
+    "example": ["pui-1"]
+  }]
 }

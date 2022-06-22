@@ -1,8 +1,10 @@
 {
-  "katakana": "ニャニャ",
-  "hiragana": "にゃにゃ",
   "literal": "nya nya",
-  "equivalent": "1 - nya nya, meow meow",
-  "comments": "1 - mimicking a cat to express friendly, playful teasing",
-  "examples": [ "n/nya_nya-1.jpg" ]
+  "hiragana": ["にゃにゃ"],
+  "katakana": ["ニャニャ"],
+  "definition": [{
+    "equivalent": "nya nya, meow meow",
+    "meaning": "mimicking a cat to express friendly, playful teasing",
+    "example": ["nya_nya-1"]
+  }]
 }

@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ドゴ", "ドゴッ" ],
-  "hiragana": [ "どご", "どごっ" ],
   "literal": "dogo",
-  "equivalent": "1 - bam, blow, chop, clobber, clout, crash, crunch, hit, impact, kick, knock, pelt, pound, punch, slam, slug, smash, strike, thud, thunk, wham",
-  "comments": "1 - a painful strike",
-  "examples": [ "dogo-1" ]
+  "hiragana": [
+    "どご",
+    "どごっ"
+  ],
+  "katakana": [
+    "ドゴ",
+    "ドゴッ"
+  ],
+  "definition": [{
+    "equivalent": "bam, blow, chop, clobber, clout, crash, crunch, hit, impact, kick, knock, pelt, pound, punch, slam, slug, smash, strike, thud, thunk, wham",
+    "meaning": "a painful strike",
+    "example": ["dogo-1"]
+  }]
 }

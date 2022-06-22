@@ -1,8 +1,10 @@
 {
-"katakana": "ポウ",
-"hiragana": "ぽう",
-"literal": "pou",
-"equivalent": "1 - gleam, glow, light, radiance, shine",
-"comments": "1 - a bright glowing appearance, frequently from some sort of magical effect",
-"examples": [ "p/pou-1.jpg" ]
+  "literal": "pou",
+  "hiragana": ["ぽう"],
+  "katakana": ["ポウ"],
+  "definition": [{
+    "equivalent": "gleam, glow, light, radiance, shine",
+    "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
+    "example": ["pou-1"]
+  }]
 }
