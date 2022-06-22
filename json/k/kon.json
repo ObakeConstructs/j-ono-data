@@ -1,8 +1,10 @@
 {
-  "katakana": "コン",
-  "hiragana": "こん",
   "literal": "kon",
-  "equivalent": "1 - bang, bump, crack, hit, impact, knock",
-  "comments": "1 - a soft banging noise, but harder than a tap",
-  "examples": [ "k/kon-1.jpg" ]
+  "hiragana": ["こん"],
+  "katakana": ["コン"],
+  "definition": [{
+    "equivalent": "bang, bump, crack, hit, impact, knock",
+    "meaning": "a soft banging noise, but harder than a tap",
+    "example": "k/kon-1.jpg"
+  }]
 }

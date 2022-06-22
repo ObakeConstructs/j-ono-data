@@ -1,8 +1,10 @@
 {
-  "katakana": "ゴシゴシ",
-  "hiragana": "ごしごし",
   "literal": "goshi goshi",
-  "equivalent": "1 - rub rub, scrub scrub, swipe swipe",
-  "comments": "1 - the act of pressing a cloth or bare hand(s) against something and moving back and forth",
-  "examples": [ "g/goshi_goshi-1.jpg" ]
+  "hiragana": ["ごしごし"],
+  "katakana": ["ゴシゴシ"],
+  "definition": [{
+    "equivalent": "rub rub, scrub scrub, swipe swipe",
+    "meaning": "the act of pressing a cloth or bare hand(s) against something and moving back and forth",
+    "example": "g/goshi_goshi-1.jpg"
+  }]
 }

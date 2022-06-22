@@ -1,8 +1,10 @@
 {
-"katakana": "ピロリン",
-"hiragana": "ぴろりん",
-"literal": "pirorin",
-"equivalent": "1 - ba-da-ding, ding-a-ling",
-"comments": "1 - a cell phone ring tone",
-"examples": [ "p/pirorin-1.jpg" ]
+  "literal": "pirorin",
+  "hiragana": ["ぴろりん"],
+  "katakana": ["ピロリン"],
+  "definition": [{
+    "equivalent": "ba-da-ding, ding-a-ling",
+    "meaning": "a cell phone ring tone",
+    "example": "p/pirorin-1.jpg"
+  }]
 }

@@ -1,8 +1,10 @@
 {
-  "katakana": "ペコ",
-  "hiragana": "ぺこ",
   "literal": "peko",
-  "equivalent": "1 - bow",
-  "comments": "1 - bending the head or body in respect, deference or reverence",
-  "examples": [ "peko-1" ]
+  "hiragana": ["ぺこ"],
+  "katakana": ["ペコ"],
+  "definition": [{
+    "equivalent": "bow",
+    "meaning": "bending the head or body in respect, deference or reverence",
+    "example": "peko-1"
+  }]
 }

@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ガン", "ガンッ" ],
-  "hiragana": [ "がん", "がんっ" ],
   "literal": "gan",
-  "equivalent": "1 - bam, bang, bash, clout, hit, pelt, pound, punch, slam, smack, smash, thud, thump, thunk, wallop, whack, wham",
-  "comments": "1 - the sound of a strong impact",
-  "examples": [ "g/gan-1.jpg" ]
+  "hiragana": [
+    "がん",
+    "がんっ"
+  ],
+  "katakana": [
+    "ガン",
+    "ガンッ"
+  ],
+  "definition": [{
+    "equivalent": "bam, bang, bash, clout, hit, pelt, pound, punch, slam, smack, smash, thud, thump, thunk, wallop, whack, wham",
+    "meaning": "the sound of a strong impact",
+    "example": "g/gan-1.jpg"
+  }]
 }

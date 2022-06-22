@@ -1,8 +1,20 @@
 {
-  "katakana": [ "ピュ", "ピュッ", "ピュー", "ピューッ" ],
-  "hiragana": [ "ぴゅ", "ぴゅっ", "ぴゅー", "ぴゅーっ" ],
   "literal": "pyu",
-  "equivalent": "1 - burst, gush, jet, spout, spurt, splurt, spray, squirt",
-  "comments": "1 - a stream of fluid discharged from narrow opening",
-  "examples": [ "p/pyu-1.jpg" ]
+  "hiragana": [
+    "ぴゅ",
+    "ぴゅっ",
+    "ぴゅー",
+    "ぴゅーっ"
+  ],
+  "katakana": [
+    "ピュ",
+    "ピュッ",
+    "ピュー",
+    "ピューッ"
+  ],
+  "definition": [{
+    "equivalent": "burst, gush, jet, spout, spurt, splurt, spray, squirt",
+    "meaning": "a stream of fluid discharged from narrow opening",
+    "example": "p/pyu-1.jpg"
+  }]
 }

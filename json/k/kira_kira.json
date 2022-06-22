@@ -1,8 +1,10 @@
 {
-  "katakana": "キラキラ",
-  "hiragana": "きらきら",
   "literal": "kira kira",
-  "equivalent": "1 - glitter glitter, sparkle sparkle, twinkle twinkle",
-  "comments": "1 - to give off or reflect bright moving points of light",
-  "examples": [ "k/kira_kira-1.jpg" ]
+  "hiragana": ["きらきら"],
+  "katakana": ["キラキラ"],
+  "definition": [{
+    "equivalent": "glitter glitter, sparkle sparkle, twinkle twinkle",
+    "meaning": "to give off or reflect bright moving points of light",
+    "example": "k/kira_kira-1.jpg"
+  }]
 }

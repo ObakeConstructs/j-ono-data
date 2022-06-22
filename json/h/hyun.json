@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ヒュン", "ヒュンッ" ],
-  "hiragana": [ "ひゅん", "ひゅんっ" ],
   "literal": "hyun",
-  "equivalent": "1 - shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
-  "comments": "1 - something quickly moving through the air",
-  "examples": [ "h/hyun-1a.jpg", "h/hyun-1b.jpg" ]
+  "hiragana": [
+    "ひゅん",
+    "ひゅんっ"
+  ],
+  "katakana": [
+    "ヒュン",
+    "ヒュンッ"
+  ],
+  "definition": [{
+    "equivalent": "shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
+    "meaning": "something quickly moving through the air",
+    "example": "h/hyun-1a.jpg"
+  }]
 }

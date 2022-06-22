@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ヨロ", "ヨロッ" ],
-  "hiragana": [ "よろ", "よろっ" ],
   "literal": "yoro",
-  "equivalent": "1 - lurch, reel, shake, stagger, sway, teeter, wobble",
-  "comments": "1 - unsteady or awkward movement",
-  "examples": [ "y/yoro-1.jpg" ]
+  "hiragana": [
+    "よろ",
+    "よろっ"
+  ],
+  "katakana": [
+    "ヨロ",
+    "ヨロッ"
+  ],
+  "definition": [{
+    "equivalent": "lurch, reel, shake, stagger, sway, teeter, wobble",
+    "meaning": "unsteady or awkward movement",
+    "example": "y/yoro-1.jpg"
+  }]
 }

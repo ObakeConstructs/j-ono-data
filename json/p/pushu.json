@@ -1,8 +1,16 @@
 {
-  "katakana": [ "プシュー", "プシューッ" ],
-  "hiragana": [ "ぷしゅー", "ぷしゅーっ" ],
   "literal": "pushu",
-  "equivalent": "1 - fizz, hiss, psss, pssshhh, ssss",
-  "comments": "1 - the sound of leaking air or gas",
-  "examples": [ "p/pushu-1.jpg" ]
+  "hiragana": [
+    "ぷしゅー",
+    "ぷしゅーっ"
+  ],
+  "katakana": [
+    "プシュー",
+    "プシューッ"
+  ],
+  "definition": [{
+    "equivalent": "fizz, hiss, psss, pssshhh, ssss",
+    "meaning": "the sound of leaking air or gas",
+    "example": "p/pushu-1.jpg"
+  }]
 }

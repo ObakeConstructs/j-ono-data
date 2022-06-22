@@ -1,8 +1,20 @@
 {
-"katakana": [ "ギク", "ギクッ", "ギーク", "ギークッ" ],
-"hiragana": [ "ぎく", "ぎくっ", "ぎーく", "ぎーくっ" ],
-"literal": "giku",
-"equivalent": "1 - alarm, erk, gulp, guilt, shock, urk",
-"comments": "1 - an expression of dismay, guilt and/or surprise",
-"examples": [ "g/giku-1a.jpg", "g/giku-1b.jpg" ]
+  "literal": "giku",
+  "hiragana": [
+    "ぎく",
+    "ぎくっ",
+    "ぎーく",
+    "ぎーくっ"
+  ],
+  "katakana": [
+    "ギク",
+    "ギクッ",
+    "ギーク",
+    "ギークッ"
+  ],
+  "definition": [{
+    "equivalent": "alarm, erk, gulp, guilt, shock, urk",
+    "meaning": "an expression of dismay, guilt and/or surprise",
+    "example": "g/giku-1a.jpg"
+  }]
 }

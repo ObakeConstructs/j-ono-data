@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ズル", "ズルッ" ],
-  "hiragana": [ "ずる", "ずるっ" ],
   "literal": "zuru",
-  "equivalent": "1 - drag, move, pull, slide, slip",
-  "comments": "1 - the sound of something sliding or being dragged",
-  "examples": [ "z/zuru-1.jpg" ]
+  "hiragana": [
+    "ずる",
+    "ずるっ"
+  ],
+  "katakana": [
+    "ズル",
+    "ズルッ"
+  ],
+  "definition": [{
+    "equivalent": "drag, move, pull, slide, slip",
+    "meaning": "the sound of something sliding or being dragged",
+    "example": "z/zuru-1.jpg"
+  }]
 }

@@ -1,8 +1,10 @@
 {
-  "katakana": "プスプス",
-  "hiragana": "ぷすぷす",
   "literal": "pusu pusu",
-  "equivalent": "1 - smoke, smolder, sputter",
-  "comments": "1 - something that was on fire reduced to smoke",
-  "examples": [ "pusu_pusu-1" ]
+  "hiragana": ["ぷすぷす"],
+  "katakana": ["プスプス"],
+  "definition": [{
+    "equivalent": "smoke, smolder, sputter",
+    "meaning": "something that was on fire reduced to smoke",
+    "example": "pusu_pusu-1"
+  }]
 }

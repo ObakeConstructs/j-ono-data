@@ -1,8 +1,16 @@
 {
-  "katakana": [ "チャキン", "チャキーン" ],
-  "hiragana": [ "ちゃきん", "ちゃきーん" ],
   "literal": "chakin",
-  "equivalent": "1 - ching, shing",
-  "comments": "1 - a metallic sound, typical when unsheathing blades",
-  "examples": [ "c/chakin-1.jpg" ]
+  "hiragana": [
+    "ちゃきん",
+    "ちゃきーん"
+  ],
+  "katakana": [
+    "チャキン",
+    "チャキーン"
+  ],
+  "definition": [{
+    "equivalent": "ching, shing",
+    "meaning": "a metallic sound, typical when unsheathing blades",
+    "example": "c/chakin-1.jpg"
+  }]
 }

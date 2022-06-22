@@ -1,8 +1,38 @@
 {
-  "katakana": [ "サ", "サッ", "サー", "サーッ", "サァ", "サァァ", "サァァァ" ],
-  "hiragana": [ "サ", "サッ", "さー", "さーっ", "さぁ", "さぁぁ", "さぁぁぁ" ],
   "literal": "sa",
-  "equivalent": [ "1 - drizzle, drops, hss, rain, shaa, sss", "2 - chill, dismay, gloom, pale, unnerve, worry", "3 - back up, hide, pull back, relent, retreat, scoot" ],
-  "comments": [ "1 - soft sounds of rain or shower", "2 - an expression of worry or stress", "3 - the act of moving away from something dangerous, difficult, or disagreeable" ],
-  "examples": [ "s/sa-1.jpg", "s/sa-2.jpg", "s/sa-3.jpg" ]
+  "hiragana": [
+    "サ",
+    "サッ",
+    "さー",
+    "さーっ",
+    "さぁ",
+    "さぁぁ",
+    "さぁぁぁ"
+  ],
+  "katakana": [
+    "サ",
+    "サッ",
+    "サー",
+    "サーッ",
+    "サァ",
+    "サァァ",
+    "サァァァ"
+  ],
+  "definition": [
+    {
+      "equivalent": "drizzle, drops, hss, rain, shaa, sss",
+      "meaning": "soft sounds of rain or shower",
+      "example": "s/sa-1.jpg"
+    },
+    {
+      "equivalent": "chill, dismay, gloom, pale, unnerve, worry",
+      "meaning": "an expression of worry or stress",
+      "example": "s/sa-2.jpg"
+    },
+    {
+      "equivalent": "back up, hide, pull back, relent, retreat, scoot",
+      "meaning": "the act of moving away from something dangerous, difficult, or disagreeable",
+      "example": "s/sa-3.jpg"
+    }
+  ]
 }

@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ハハ", "ハハハ" ],
-  "hiragana": [ "はは", "ははは" ],
   "literal": "ha ha",
-  "equivalent": "1 - haha",
-  "comments": "1 - laughter",
-  "examples": [ "h/ha_ha-1.jpg" ]
+  "hiragana": [
+    "はは",
+    "ははは"
+  ],
+  "katakana": [
+    "ハハ",
+    "ハハハ"
+  ],
+  "definition": [{
+    "equivalent": "haha",
+    "meaning": "laughter",
+    "example": "h/ha_ha-1.jpg"
+  }]
 }

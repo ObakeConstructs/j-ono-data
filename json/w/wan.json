@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ワン", "ワンッ" ],
-  "hiragana": [ "わん", "わんっ" ],
   "literal": "wan",
-  "equivalent": "1 - arf, bark, ruff, woof",
-  "comments": "1 - The gruff barking noise of a dog or a wolf",
-  "examples": [ "w/wan-1a.jpg", "w/wan-1b.jpg" ]
+  "hiragana": [
+    "わん",
+    "わんっ"
+  ],
+  "katakana": [
+    "ワン",
+    "ワンッ"
+  ],
+  "definition": [{
+    "equivalent": "arf, bark, ruff, woof",
+    "meaning": "The gruff barking noise of a dog or a wolf",
+    "example": "w/wan-1a.jpg"
+  }]
 }

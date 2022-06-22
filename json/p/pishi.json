@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ピシ", "ピシッ" ],
-  "hiragana": [ "ぴし", "ぴしっ" ],
   "literal": "pishi",
-  "equivalent": "1 - burst, crack, shatter, smack, split, snap",
-  "comments": "1 - the sound of something suddenly breaking",
-  "examples": [ "pishi-1" ]
+  "hiragana": [
+    "ぴし",
+    "ぴしっ"
+  ],
+  "katakana": [
+    "ピシ",
+    "ピシッ"
+  ],
+  "definition": [{
+    "equivalent": "burst, crack, shatter, smack, split, snap",
+    "meaning": "the sound of something suddenly breaking",
+    "example": "pishi-1"
+  }]
 }

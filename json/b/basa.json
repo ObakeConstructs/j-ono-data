@@ -1,8 +1,16 @@
 {
-  "katakana": [ "バサ", "バサッ" ],
-  "hiragana": [ "ばさ", "ばさっ" ],
   "literal": "basa",
-  "equivalent": "1 - crinkle, flap, rustle, swish",
-  "comments": "1 - soft sounds of cloth or paper movement",
-  "examples": [ "basa-1" ]
+  "hiragana": [
+    "ばさ",
+    "ばさっ"
+  ],
+  "katakana": [
+    "バサ",
+    "バサッ"
+  ],
+  "definition": [{
+    "equivalent": "crinkle, flap, rustle, swish",
+    "meaning": "soft sounds of cloth or paper movement",
+    "example": "basa-1"
+  }]
 }

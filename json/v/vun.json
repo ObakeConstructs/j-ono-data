@@ -1,8 +1,10 @@
 {
-  "katakana": "ヴン",
-  "hiragana": "ゔん",
   "literal": "vun",
-  "equivalent": "1 - fwoom, voom, whoom",
-  "comments": "1 - the sound of a magic taking effect",
-  "examples": [ "vun-1" ]
+  "hiragana": ["ゔん"],
+  "katakana": ["ヴン"],
+  "definition": [{
+    "equivalent": "fwoom, voom, whoom",
+    "meaning": "the sound of a magic taking effect",
+    "example": "vun-1"
+  }]
 }

@@ -1,8 +1,16 @@
 {
-"katakana": [ "イタイ", "イターイ" ],
-"hiragana": [ "いたい", "いたーい" ],
-"literal": "itai",
-"equivalent": "1 - fah, ouch, ow",
-"comments": "1 - an expression of pain",
-"examples": [ "i/itai-1.jpg" ]
+  "literal": "itai",
+  "hiragana": [
+    "いたい",
+    "いたーい"
+  ],
+  "katakana": [
+    "イタイ",
+    "イターイ"
+  ],
+  "definition": [{
+    "equivalent": "fah, ouch, ow",
+    "meaning": "an expression of pain",
+    "example": "i/itai-1.jpg"
+  }]
 }

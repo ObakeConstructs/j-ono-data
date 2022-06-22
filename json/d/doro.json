@@ -1,8 +1,18 @@
 {
-  "katakana": [ "ドロ", "ドロッ", "ドロオ" ],
-  "hiragana": [ "どろ", "どろっ", "どろお" ],
   "literal": "doro",
-  "equivalent": "1 - dissolve, dribble, drip, exude, flow, glop, liquify, ooze, melt, seep, trickle",
-  "comments": "1 - to flow forth, melt or drip slowly",
-  "examples": [ "d/doro-1a.jpg", "d/doro-1b.jpg" ]
+  "hiragana": [
+    "どろ",
+    "どろっ",
+    "どろお"
+  ],
+  "katakana": [
+    "ドロ",
+    "ドロッ",
+    "ドロオ"
+  ],
+  "definition": [{
+    "equivalent": "dissolve, dribble, drip, exude, flow, glop, liquify, ooze, melt, seep, trickle",
+    "meaning": "to flow forth, melt or drip slowly",
+    "example": "d/doro-1a.jpg"
+  }]
 }

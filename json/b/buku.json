@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ブク", "ブクッ" ],
-  "hiragana": [ "ぶく", "ぶくっ" ],
   "literal": "buku",
-  "equivalent": "1 - launch, ascend, lift, rise, takeoff",
-  "comments": "1 - something large or heavy rising, lifted, or taking flight",
-  "examples": [ "buku-1" ]
+  "hiragana": [
+    "ぶく",
+    "ぶくっ"
+  ],
+  "katakana": [
+    "ブク",
+    "ブクッ"
+  ],
+  "definition": [{
+    "equivalent": "launch, ascend, lift, rise, takeoff",
+    "meaning": "something large or heavy rising, lifted, or taking flight",
+    "example": "buku-1"
+  }]
 }

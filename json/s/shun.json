@@ -1,8 +1,23 @@
 {
-  "katakana": [ "シュン", "シュンッ" ],
-  "hiragana": [ "しゅん", "しゅんっ" ],
   "literal": "shun",
-  "equivalent": [ "1 - crestfallen, dejected, depressed, down, glum, sad, unhappy", "2 - fwip, whiz, whoosh, zip, zoom" ],
-  "comments": [ "1 - expressing an unhappy feeling", "2 - to move quickly with only the sound of flowing air" ],
-  "examples": [ "s/shun-1.jpg", "s/shun-2.jpg" ]
+  "hiragana": [
+    "しゅん",
+    "しゅんっ"
+  ],
+  "katakana": [
+    "シュン",
+    "シュンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": "crestfallen, dejected, depressed, down, glum, sad, unhappy",
+      "meaning": "expressing an unhappy feeling",
+      "example": "s/shun-1.jpg"
+    },
+    {
+      "equivalent": "fwip, whiz, whoosh, zip, zoom",
+      "meaning": "to move quickly with only the sound of flowing air",
+      "example": "s/shun-2.jpg"
+    }
+  ]
 }

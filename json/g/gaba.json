@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ガバ", "ガバッ" ],
-  "hiragana": [ "がば", "がばっ" ],
   "literal": "gaba",
-  "equivalent": "1 - arise, fwip, get up, rise up, sit up, stand, suddenly",
-  "comments": "1 - to suddenly sit up or standup.",
-  "examples": [ "gaba-1" ]
+  "hiragana": [
+    "がば",
+    "がばっ"
+  ],
+  "katakana": [
+    "ガバ",
+    "ガバッ"
+  ],
+  "definition": [{
+    "equivalent": "arise, fwip, get up, rise up, sit up, stand, suddenly",
+    "meaning": "to suddenly sit up or standup.",
+    "example": "gaba-1"
+  }]
 }

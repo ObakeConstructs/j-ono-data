@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ドキ", "ドキッ" ],
-  "hiragana": [ "どき", "どきっ" ],
   "literal": "doki",
-  "equivalent": "1 - ba-dump, heartbeat, thump thump",
-  "comments": "1 - a single heartbeat indicating a strong emotion, as in love or fear",
-  "examples": [ "d/doki-1.jpg" ]
+  "hiragana": [
+    "どき",
+    "どきっ"
+  ],
+  "katakana": [
+    "ドキ",
+    "ドキッ"
+  ],
+  "definition": [{
+    "equivalent": "ba-dump, heartbeat, thump thump",
+    "meaning": "a single heartbeat indicating a strong emotion, as in love or fear",
+    "example": "d/doki-1.jpg"
+  }]
 }

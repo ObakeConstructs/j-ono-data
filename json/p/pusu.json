@@ -1,8 +1,10 @@
 {
-  "katakana": "プス",
-  "hiragana": "ぷす",
   "literal": "pusu",
-  "equivalent": "1 - poke, pop, psk",
-  "comments": "1 - small puncture",
-  "examples": [ "p/pusu-1.jpg" ]
+  "hiragana": ["ぷす"],
+  "katakana": ["プス"],
+  "definition": [{
+    "equivalent": "poke, pop, psk",
+    "meaning": "small puncture",
+    "example": "p/pusu-1.jpg"
+  }]
 }

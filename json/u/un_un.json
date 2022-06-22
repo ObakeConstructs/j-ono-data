@@ -1,8 +1,10 @@
 {
-"katakana": "ウンウン",
-"hiragana": "うんうん",
-"literal": "un un",
-"equivalent": "1 - nod nod, yep yep",
-"comments": "1 - nodding the head repeatedly to express agreement",
-"examples": [ "u/un_un-1.jpg" ]
+  "literal": "un un",
+  "hiragana": ["うんうん"],
+  "katakana": ["ウンウン"],
+  "definition": [{
+    "equivalent": "nod nod, yep yep",
+    "meaning": "nodding the head repeatedly to express agreement",
+    "example": "u/un_un-1.jpg"
+  }]
 }

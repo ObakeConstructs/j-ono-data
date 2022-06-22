@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ボソ", "ボソッ" ],
-  "hiragana": [ "ぼそ", "ぼそっ" ],
   "literal": "boso",
-  "equivalent": "1 - mumble, murmer, mutter",
-  "comments": "1 - to speak softly and unclearly ",
-  "examples": [ "b/boso-1.jpg" ]
+  "hiragana": [
+    "ぼそ",
+    "ぼそっ"
+  ],
+  "katakana": [
+    "ボソ",
+    "ボソッ"
+  ],
+  "definition": [{
+    "equivalent": "mumble, murmer, mutter",
+    "meaning": "to speak softly and unclearly ",
+    "example": "b/boso-1.jpg"
+  }]
 }

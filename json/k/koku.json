@@ -1,8 +1,10 @@
 {
-  "katakana": "コク",
-  "hiragana": "こく",
   "literal": "koku",
-  "equivalent": "1 - agree, nod, okay, yeah, yep, yes",
-  "comments": "1 - a quick nod of the head, typically to express agreement",
-  "examples": [ "k/koku-1.jpg" ]
+  "hiragana": ["こく"],
+  "katakana": ["コク"],
+  "definition": [{
+    "equivalent": "agree, nod, okay, yeah, yep, yes",
+    "meaning": "a quick nod of the head, typically to express agreement",
+    "example": "k/koku-1.jpg"
+  }]
 }

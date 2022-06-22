@@ -1,8 +1,10 @@
 {
-"katakana": "モジ",
-"hiragana": "もじ",
-"literal": "moji",
-"equivalent": "1 - bashful, shy, embarrassed, hesitation",
-"comments": "1 - to express shyness or hesitation",
-"examples": [ "m/moji-1.jpg" ]
+  "literal": "moji",
+  "hiragana": ["もじ"],
+  "katakana": ["モジ"],
+  "definition": [{
+    "equivalent": "bashful, shy, embarrassed, hesitation",
+    "meaning": "to express shyness or hesitation",
+    "example": "m/moji-1.jpg"
+  }]
 }

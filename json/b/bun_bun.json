@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ブンブン", "ブンブンッ" ],
-  "hiragana": [ "ぶんぶん", "ぶんぶんっ" ],
   "literal": "bun bun",
-  "equivalent": "1 - flick flick, shake shake, swish swish, wave wave",
-  "comments": "1 - a quick movement from side to side or up and down",
-  "examples": [ "b/bun_bun-1a.jpg", "b/bun_bun-1b.jpg" ]
+  "hiragana": [
+    "ぶんぶん",
+    "ぶんぶんっ"
+  ],
+  "katakana": [
+    "ブンブン",
+    "ブンブンッ"
+  ],
+  "definition": [{
+    "equivalent": "flick flick, shake shake, swish swish, wave wave",
+    "meaning": "a quick movement from side to side or up and down",
+    "example": "b/bun_bun-1a.jpg"
+  }]
 }

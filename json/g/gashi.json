@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ガシ", "ガシッ" ],
-  "hiragana": [ "がし", "がしっ" ],
   "literal": "gashi",
-  "equivalent": "1 - get, grab, grasp, grip, hold, nab, snag",
-  "comments": "1 - the act of grabbing and holding",
-  "examples": [ "g/gashi-1.jpg" ]
+  "hiragana": [
+    "がし",
+    "がしっ"
+  ],
+  "katakana": [
+    "ガシ",
+    "ガシッ"
+  ],
+  "definition": [{
+    "equivalent": "get, grab, grasp, grip, hold, nab, snag",
+    "meaning": "the act of grabbing and holding",
+    "example": "g/gashi-1.jpg"
+  }]
 }

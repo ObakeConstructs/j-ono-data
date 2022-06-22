@@ -1,8 +1,16 @@
 {
-  "katakana": [ "パキ", "パキッ" ],
-  "hiragana": [ "ぱき", "ぱきっ" ],
   "literal": "paki",
-  "equivalent": "1 - crack, crackle, pop, shatter, snap",
-  "comments": "1 - a loud sound of something breaking",
-  "examples": [ "p/paki-1.jpg" ]
+  "hiragana": [
+    "ぱき",
+    "ぱきっ"
+  ],
+  "katakana": [
+    "パキ",
+    "パキッ"
+  ],
+  "definition": [{
+    "equivalent": "crack, crackle, pop, shatter, snap",
+    "meaning": "a loud sound of something breaking",
+    "example": "p/paki-1.jpg"
+  }]
 }

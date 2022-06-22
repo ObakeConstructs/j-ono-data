@@ -1,8 +1,10 @@
 {
-  "katakana": "シャラン",
-  "hiragana": "しゃらん",
   "literal": "sharan",
-  "equivalent": "1 - clack, clatter, clink, rattle",
-  "comments": "1 - a light rattling sound",
-  "examples": [ "s/sharan-1.jpg" ]
+  "hiragana": ["しゃらん"],
+  "katakana": ["シャラン"],
+  "definition": [{
+    "equivalent": "clack, clatter, clink, rattle",
+    "meaning": "a light rattling sound",
+    "example": "s/sharan-1.jpg"
+  }]
 }

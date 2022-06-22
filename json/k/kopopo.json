@@ -1,8 +1,10 @@
 {
-"katakana": "トポポ",
-"hiragana": "とぽぽ",
-"literal": "kopopo",
-"equivalent": "1 - glug, pour, slosh, trickle",
-"comments": "1 - sound of pouring liquid",
-"examples": [ "k/kopopo-1.jpg" ]
+  "literal": "kopopo",
+  "hiragana": ["とぽぽ"],
+  "katakana": ["トポポ"],
+  "definition": [{
+    "equivalent": "glug, pour, slosh, trickle",
+    "meaning": "sound of pouring liquid",
+    "example": "k/kopopo-1.jpg"
+  }]
 }

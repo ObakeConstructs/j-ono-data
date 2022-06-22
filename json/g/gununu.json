@@ -1,8 +1,16 @@
 {
-  "katakana": [ "グヌヌ", "グヌヌヌ" ],
-  "hiragana": [ "ぐぬぬ", "ぐぬぬぬ" ],
   "literal": "gununu",
-  "equivalent": "1 - boil, chafe, fume, gnnn, grrr, rage, rankle, seethe, smolder, steam",
-  "comments": "1 - an expression of passionate anger or fury",
-  "examples": [ "g/gununu-1.jpg" ]
+  "hiragana": [
+    "ぐぬぬ",
+    "ぐぬぬぬ"
+  ],
+  "katakana": [
+    "グヌヌ",
+    "グヌヌヌ"
+  ],
+  "definition": [{
+    "equivalent": "boil, chafe, fume, gnnn, grrr, rage, rankle, seethe, smolder, steam",
+    "meaning": "an expression of passionate anger or fury",
+    "example": "g/gununu-1.jpg"
+  }]
 }

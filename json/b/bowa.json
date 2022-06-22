@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ボワ", "ボワッ" ],
-  "hiragana": [ "ぼわ", "ぼわっ" ],
   "literal": "bowa",
-  "equivalent": "1 - billow, bwaa, surge, swell",
-  "comments": "1 - to bulge or swell outward, as in flame, smoke, or clouds",
-  "examples": [ "b/bowa-1.jpg" ]
+  "hiragana": [
+    "ぼわ",
+    "ぼわっ"
+  ],
+  "katakana": [
+    "ボワ",
+    "ボワッ"
+  ],
+  "definition": [{
+    "equivalent": "billow, bwaa, surge, swell",
+    "meaning": "to bulge or swell outward, as in flame, smoke, or clouds",
+    "example": "b/bowa-1.jpg"
+  }]
 }

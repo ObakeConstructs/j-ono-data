@@ -1,8 +1,20 @@
 {
-  "katakana": [ "ブフ", "ブフッ", "ブフー", "ブフーッ" ],
-  "hiragana": [ "ぶふ", "ぶふっ", "ぶふー", "ぶふーっ" ],
   "literal": "bufu",
-  "equivalent": "1 - chortle, guffaw, snicker, snort",
-  "comments": "1 - sound of suppressed laughter",
-  "examples": [ "b/bufu-1a.jpg", "b/bufu-1b.jpg" ]
+  "hiragana": [
+    "ぶふ",
+    "ぶふっ",
+    "ぶふー",
+    "ぶふーっ"
+  ],
+  "katakana": [
+    "ブフ",
+    "ブフッ",
+    "ブフー",
+    "ブフーッ"
+  ],
+  "definition": [{
+    "equivalent": "chortle, guffaw, snicker, snort",
+    "meaning": "sound of suppressed laughter",
+    "example": "b/bufu-1a.jpg"
+  }]
 }

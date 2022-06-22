@@ -1,8 +1,31 @@
 {
-  "katakana": [ "ザ", "ザッ", "ザー", "ザーッ", "ザァ", "ザァァ" ],
-  "hiragana": [ "ざ", "ざっ", "ざー", "ざーっ", "ざぁ", "ざぁぁ" ],
   "literal": "za",
-  "equivalent": [ "1 - crunch, crush, step, slide", "2 - cleave, cut, slash, slice" ],
-  "comments": [ "1 - sound of someone walking, especially on grass or gravel", "2 - a fast cut, as with a sword or knife" ],
-  "examples": [ "z/za-1.jpg", "z/za-2.jpg" ]
+  "hiragana": [
+    "ざ",
+    "ざっ",
+    "ざー",
+    "ざーっ",
+    "ざぁ",
+    "ざぁぁ"
+  ],
+  "katakana": [
+    "ザ",
+    "ザッ",
+    "ザー",
+    "ザーッ",
+    "ザァ",
+    "ザァァ"
+  ],
+  "definition": [
+    {
+      "equivalent": "crunch, crush, step, slide",
+      "meaning": "sound of someone walking, especially on grass or gravel",
+      "example": "z/za-1.jpg"
+    },
+    {
+      "equivalent": "cleave, cut, slash, slice",
+      "meaning": "a fast cut, as with a sword or knife",
+      "example": "z/za-2.jpg"
+    }
+  ]
 }

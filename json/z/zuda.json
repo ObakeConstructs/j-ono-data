@@ -1,8 +1,18 @@
 {
-  "katakana": [ "ズダ", "ズダダ", "ズダダダ" ],
-  "hiragana": [ "ずだ", "ずだだ", "ずだだだ" ],
   "literal": "zuda",
-  "equivalent": "1 - crash, fall, slide, slip, tump",
-  "comments": "1 - to fall as a result of slipping",
-  "examples": [ "tsurun-1" ]
+  "hiragana": [
+    "ずだ",
+    "ずだだ",
+    "ずだだだ"
+  ],
+  "katakana": [
+    "ズダ",
+    "ズダダ",
+    "ズダダダ"
+  ],
+  "definition": [{
+    "equivalent": "crash, fall, slide, slip, tump",
+    "meaning": "to fall as a result of slipping",
+    "example": "tsurun-1"
+  }]
 }

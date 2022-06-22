@@ -1,8 +1,10 @@
 {
-  "katakana": "コロン",
-  "hiragana": "ころん",
   "literal": "koron",
-  "equivalent": "1 - drop, fall, plunk, plop, slip, topple",
-  "comments": "1 - the sound of something landing after falling",
-  "examples": [ "k/koron-1.jpg" ]
+  "hiragana": ["ころん"],
+  "katakana": ["コロン"],
+  "definition": [{
+    "equivalent": "drop, fall, plunk, plop, slip, topple",
+    "meaning": "the sound of something landing after falling",
+    "example": "k/koron-1.jpg"
+  }]
 }

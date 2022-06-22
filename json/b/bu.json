@@ -1,8 +1,20 @@
 {
-  "katakana": [ "ブ", "ブッ", "ブー", "ブー" ],
-  "hiragana": [ "ぶ", "ぶっ", "ぶー", "ぶーっ" ],
   "literal": "bu",
-  "equivalent": "1 - bleh, blarg, expectorate, ptoo, ptooey, spat, spit, spit out, sploosh",
-  "comments": "1 - to spit or otherwise eject something from the mouth",
-  "examples": [ "bu-1" ]
+  "hiragana": [
+    "ぶ",
+    "ぶっ",
+    "ぶー",
+    "ぶーっ"
+  ],
+  "katakana": [
+    "ブ",
+    "ブッ",
+    "ブー",
+    "ブー"
+  ],
+  "definition": [{
+    "equivalent": "bleh, blarg, expectorate, ptoo, ptooey, spat, spit, spit out, sploosh",
+    "meaning": "to spit or otherwise eject something from the mouth",
+    "example": "bu-1"
+  }]
 }

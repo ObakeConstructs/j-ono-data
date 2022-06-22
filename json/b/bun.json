@@ -1,8 +1,23 @@
 {
-  "katakana": [ "ブン", "ブンッ" ],
-  "hiragana": [ "ぶん", "ぶんっ" ],
   "literal": "bun",
-  "equivalent": [ "1 - swish, swoosh, whoosh, zip, zoom", "2 - convulse, flutter, jerk, jiggle, jolt, quiver, shake, shiver shudder, tremble, wobble" ],
-  "comments": [ "1 - the sound of something moving swiftly through the air", "2 - an irregular or violent movement" ],
-  "examples": [ "b/bun-1.jpg", "b/bun-2.jpg" ]
+  "hiragana": [
+    "ぶん",
+    "ぶんっ"
+  ],
+  "katakana": [
+    "ブン",
+    "ブンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": "swish, swoosh, whoosh, zip, zoom",
+      "meaning": "the sound of something moving swiftly through the air",
+      "example": "b/bun-1.jpg"
+    },
+    {
+      "equivalent": "convulse, flutter, jerk, jiggle, jolt, quiver, shake, shiver shudder, tremble, wobble",
+      "meaning": "an irregular or violent movement",
+      "example": "b/bun-2.jpg"
+    }
+  ]
 }

@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ブルブル", "ブルブルッ" ],
-  "hiragana": [ "ぶるぶる", "ぶるぶるっ" ],
   "literal": "buru buru",
-  "equivalent": "1 - quiver, shiver, shudder, tremble",
-  "comments": "1 - shaking involuntarily, as from fear or cold",
-  "examples": [ "b/buru_buru-1.jpg" ]
+  "hiragana": [
+    "ぶるぶる",
+    "ぶるぶるっ"
+  ],
+  "katakana": [
+    "ブルブル",
+    "ブルブルッ"
+  ],
+  "definition": [{
+    "equivalent": "quiver, shiver, shudder, tremble",
+    "meaning": "shaking involuntarily, as from fear or cold",
+    "example": "b/buru_buru-1.jpg"
+  }]
 }

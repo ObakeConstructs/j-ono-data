@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ガラ", "ガラッ" ],
-  "hiragana": [ "がら", "がらっ" ],
   "literal": "gara",
-  "equivalent": "1 - bang, close, open, shut, slide, slam, swish, swoosh, thump",
-  "comments": "1 - the sound of opening or closing a sliding window or sliding door, can be soft or slammed",
-  "examples": [ "gara-1" ]
+  "hiragana": [
+    "がら",
+    "がらっ"
+  ],
+  "katakana": [
+    "ガラ",
+    "ガラッ"
+  ],
+  "definition": [{
+    "equivalent": "bang, close, open, shut, slide, slam, swish, swoosh, thump",
+    "meaning": "the sound of opening or closing a sliding window or sliding door, can be soft or slammed",
+    "example": "gara-1"
+  }]
 }

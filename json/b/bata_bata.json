@@ -1,8 +1,16 @@
 {
-"katakana": [ "バタバタ", "バタ バタ" ],
-"hiragana": [ "ばたばた", "ばた ばた" ],
-"literal": "bata bata",
-"equivalent": "1 - footsteps, step step, pitter-pat, thump thump, run",
-"comments": "1 - the sound of shoes stepping across the floor",
-"examples": [ "b/bata_bata-1.jpg" ]
+  "literal": "bata bata",
+  "hiragana": [
+    "ばたばた",
+    "ばた ばた"
+  ],
+  "katakana": [
+    "バタバタ",
+    "バタ バタ"
+  ],
+  "definition": [{
+    "equivalent": "footsteps, step step, pitter-pat, thump thump, run",
+    "meaning": "the sound of shoes stepping across the floor",
+    "example": "b/bata_bata-1.jpg"
+  }]
 }

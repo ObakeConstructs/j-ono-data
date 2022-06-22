@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ダキ", "ダキッ" ],
-  "hiragana": [ "だき", "だきっ" ],
   "literal": "daki",
-  "equivalent": "1 - clasp, cradle, embrace, grasp, hold, hug",
-  "comments": "1 - the act of putting one's arms around and holding tightly",
-  "examples": [ "d/daki-1.jpg" ]
+  "hiragana": [
+    "だき",
+    "だきっ"
+  ],
+  "katakana": [
+    "ダキ",
+    "ダキッ"
+  ],
+  "definition": [{
+    "equivalent": "clasp, cradle, embrace, grasp, hold, hug",
+    "meaning": "the act of putting one's arms around and holding tightly",
+    "example": "d/daki-1.jpg"
+  }]
 }

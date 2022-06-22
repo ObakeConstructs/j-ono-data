@@ -1,8 +1,27 @@
 {
-"katakana": [ "グ", "グッ", "グー", "グーッ" ],
-"hiragana": [ "ぐ", "ぐっ", "ぐー", "ぐーっ" ],
-"literal": "gu",
-"equivalent": [ "1 - clench, firm grip, grab, grasp, grip, hold, squeeze", "2 - drive, force, propel, push, ram, shove, thrust" ],
-"comments": [ "1 - the act of grabbing something strongly and holding it", "2 - to push or drive with force" ],
-"examples": [ "g/gu-1.jpg", "g/gu-2.jpg" ]
+  "literal": "gu",
+  "hiragana": [
+    "ぐ",
+    "ぐっ",
+    "ぐー",
+    "ぐーっ"
+  ],
+  "katakana": [
+    "グ",
+    "グッ",
+    "グー",
+    "グーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": "clench, firm grip, grab, grasp, grip, hold, squeeze",
+      "meaning": "the act of grabbing something strongly and holding it",
+      "example": "g/gu-1.jpg"
+    },
+    {
+      "equivalent": "drive, force, propel, push, ram, shove, thrust",
+      "meaning": "to push or drive with force",
+      "example": "g/gu-2.jpg"
+    }
+  ]
 }

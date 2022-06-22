@@ -1,8 +1,20 @@
 {
-  "katakana": [ "ササ", "ササッ", "サッサッ", "サササッ" ],
-  "hiragana": [ "ささ", "ささっ", "さっさっ", "さささっ" ],
   "literal": "sa sa",
-  "equivalent": "1 - back up, hide, pull back, relent, retreat, scoot",
-  "comments": "1 - the act of moving away from something dangerous, difficult, or disagreeable",
-  "examples": [ "s/sa_sa-1a.jpg", "s/sa_sa-1b.jpg" ]
+  "hiragana": [
+    "ささ",
+    "ささっ",
+    "さっさっ",
+    "さささっ"
+  ],
+  "katakana": [
+    "ササ",
+    "ササッ",
+    "サッサッ",
+    "サササッ"
+  ],
+  "definition": [{
+    "equivalent": "back up, hide, pull back, relent, retreat, scoot",
+    "meaning": "the act of moving away from something dangerous, difficult, or disagreeable",
+    "example": "s/sa_sa-1a.jpg"
+  }]
 }

@@ -1,8 +1,16 @@
 {
-  "katakana": [ "プ", "プッ" ],
-  "hiragana": [ "ぷ", "ぷっ" ],
   "literal": "pu",
-  "equivalent": "1 - pfft, pwa",
-  "comments": "1 - a light laugh, often an expression of low opinion or dismissal",
-  "examples": [ "p/pu-1.jpg" ]
+  "hiragana": [
+    "ぷ",
+    "ぷっ"
+  ],
+  "katakana": [
+    "プ",
+    "プッ"
+  ],
+  "definition": [{
+    "equivalent": "pfft, pwa",
+    "meaning": "a light laugh, often an expression of low opinion or dismissal",
+    "example": "p/pu-1.jpg"
+  }]
 }

@@ -1,8 +1,10 @@
 {
-  "katakana": "ドシャ",
-  "hiragana": "どしゃ",
   "literal": "dosha",
-  "equivalent": "1 - bam, bang, crash, slam, slap, smack, thump, thud, thunk, whack, wham, whap, whomp",
-  "comments": "1 - the sound of impact, often from a falling person or dropped object",
-  "examples": [ "dosha-1" ]
+  "hiragana": ["どしゃ"],
+  "katakana": ["ドシャ"],
+  "definition": [{
+    "equivalent": "bam, bang, crash, slam, slap, smack, thump, thud, thunk, whack, wham, whap, whomp",
+    "meaning": "the sound of impact, often from a falling person or dropped object",
+    "example": "dosha-1"
+  }]
 }

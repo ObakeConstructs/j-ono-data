@@ -1,8 +1,10 @@
 {
-  "katakana": "フリフリ",
-  "hiragana": "ふりふり",
   "literal": "furi furi",
-  "equivalent": "1 - flick flick,  flip flip, swish swish, wag wag, ",
-  "comments": "1 - a quick side to side motion",
-  "examples": [ "f/furi_furi-1.jpg" ]
+  "hiragana": ["ふりふり"],
+  "katakana": ["フリフリ"],
+  "definition": [{
+    "equivalent": "flick flick,  flip flip, swish swish, wag wag, ",
+    "meaning": "a quick side to side motion",
+    "example": "f/furi_furi-1.jpg"
+  }]
 }

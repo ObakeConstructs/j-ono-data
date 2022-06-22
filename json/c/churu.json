@@ -1,8 +1,16 @@
 {
-  "katakana": [ "チュル", "チュルッ" ],
-  "hiragana": [ "ちゅる", "ちゅるっ" ],
   "literal": "churu",
-  "equivalent": "1 - slurp",
-  "comments": "1 - classic ramen eating noise",
-  "examples": [ "c/churu-1.jpg" ]
+  "hiragana": [
+    "ちゅる",
+    "ちゅるっ"
+  ],
+  "katakana": [
+    "チュル",
+    "チュルッ"
+  ],
+  "definition": [{
+    "equivalent": "slurp",
+    "meaning": "classic ramen eating noise",
+    "example": "c/churu-1.jpg"
+  }]
 }

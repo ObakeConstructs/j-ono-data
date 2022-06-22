@@ -1,8 +1,16 @@
 {
-  "katakana": [ "ブワ", "ブワッ" ],
-  "hiragana": [ "ぶわ", "ぶわっ" ],
   "literal": "buwa",
-  "equivalent": "1 - bang, boom, ka-boom",
-  "comments": "1 - a loud explosion or explosive force",
-  "examples": [ "b/buwa-1a.jpg", "b/buwa-1b.jpg" ]
+  "hiragana": [
+    "ぶわ",
+    "ぶわっ"
+  ],
+  "katakana": [
+    "ブワ",
+    "ブワッ"
+  ],
+  "definition": [{
+    "equivalent": "bang, boom, ka-boom",
+    "meaning": "a loud explosion or explosive force",
+    "example": "b/buwa-1a.jpg"
+  }]
 }

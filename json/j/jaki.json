@@ -1,8 +1,10 @@
 {
-  "katakana": "ジャキ",
-  "hiragana": "じゃき",
   "literal": "jaki",
-  "equivalent": "1 - ching, shing",
-  "comments": "1 - a metallic sound, typical of unsheathing blades",
-  "examples": [ "j/jaki-1.jpg" ]
+  "hiragana": ["じゃき"],
+  "katakana": ["ジャキ"],
+  "definition": [{
+    "equivalent": "ching, shing",
+    "meaning": "a metallic sound, typical of unsheathing blades",
+    "example": "j/jaki-1.jpg"
+  }]
 }
