@@ -20,17 +20,20 @@
     {
       "equivalent": "ha, haa, pant, gasp",
       "meaning": "breathing hard after exertion",
-      "example": "h/ha-1.jpg"
+      "example": ["h/ha-1.jpg"]
     },
     {
       "equivalent": "exhale, sigh, hahh",
       "meaning": "a deep sigh or exhalation",
-      "example": "h/ha-2.jpg"
+      "example": ["h/ha-2.jpg"]
     },
     {
       "equivalent": "gasp, realize",
       "meaning": "a sudden realization or understanding",
-      "example": "h/ha-3a.jpg"
+      "example": [
+        "h/ha-3a.jpg",
+        "h/ha-3b.jpg"
+      ]
     }
   ]
 }

@@ -22,17 +22,17 @@
     {
       "equivalent": "drizzle, drops, hss, rain, shaa, sss",
       "meaning": "soft sounds of rain or shower",
-      "example": "s/sa-1.jpg"
+      "example": ["s/sa-1.jpg"]
     },
     {
       "equivalent": "chill, dismay, gloom, pale, unnerve, worry",
       "meaning": "an expression of worry or stress",
-      "example": "s/sa-2.jpg"
+      "example": ["s/sa-2.jpg"]
     },
     {
       "equivalent": "back up, hide, pull back, relent, retreat, scoot",
       "meaning": "the act of moving away from something dangerous, difficult, or disagreeable",
-      "example": "s/sa-3.jpg"
+      "example": ["s/sa-3.jpg"]
     }
   ]
 }

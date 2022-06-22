@@ -12,12 +12,12 @@
     {
       "equivalent": "exactly, mm-hmm, nod, okay, yeah, yes",
       "meaning": "nodding to express agreement",
-      "example": "u/un-1.jpg"
+      "example": ["u/un-1.jpg"]
     },
     {
       "equivalent": "hmm, uh, um",
       "meaning": "an expression of thinking or considering",
-      "example": "u/un-2.jpg"
+      "example": ["u/un-2.jpg"]
     }
   ]
 }

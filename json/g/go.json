@@ -20,12 +20,12 @@
     {
       "equivalent": "bam, bang, crack, hit, pound, slam, slap, slug, sock, thwack, whack",
       "meaning": "a sharp sound of impact, as from the hand or fist",
-      "example": "g/go-1.jpg"
+      "example": ["g/go-1.jpg"]
     },
     {
       "equivalent": "boom, shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
       "meaning": "the impact of a strong force or wind, as from an explosion",
-      "example": "g/go-2.jpg"
+      "example": ["g/go-2.jpg"]
     }
   ]
 }

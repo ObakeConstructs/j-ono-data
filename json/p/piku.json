@@ -12,12 +12,15 @@
     {
       "equivalent": "cringe, flinch, quail, recoil, twitch, wince",
       "meaning": "tensing up from surprise or fear",
-      "example": "p/piku-1a.jpg"
+      "example": [
+        "p/piku-1a.jpg",
+        "p/piku-1b.jpg"
+      ]
     },
     {
       "equivalent": "fiddle, fidget, move, twitch",
       "meaning": "a small, deliberate movement",
-      "example": "p/piku-1b.jpg"
+      "example": ["p/piku-2.jpg"]
     }
   ]
 }

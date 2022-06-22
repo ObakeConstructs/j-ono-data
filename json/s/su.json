@@ -28,17 +28,21 @@
     {
       "equivalent": "ignore, pass, pass by",
       "meaning": "ignore someone and walk past",
-      "example": "s/su-1.jpg"
+      "example": ["s/su-1.jpg"]
     },
     {
       "equivalent": "deliver, gesture, get, give, grab, hand over, pass, raise, reach, slide, stop, take, yield",
       "meaning": "the simple movement of a hand; to give something, to take something, or to gesture someone to stop",
-      "example": "s/su-2a.jpg"
+      "example": [
+        "s/su-2a.jpg",
+        "s/su-2b.jpg",
+        "s/su-2c.jpg"
+      ]
     },
     {
       "equivalent": "blow out, breath in, breath out, draw in, exhale, huff, inhale",
       "meaning": "a deep breath, typically inhaled",
-      "example": "s/su-2b.jpg"
+      "example": ["s/su-3.jpg"]
     }
   ]
 }

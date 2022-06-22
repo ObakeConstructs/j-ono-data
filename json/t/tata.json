@@ -11,6 +11,9 @@
   "definition": [{
     "equivalent": "dash, run, scamper, sprint, step step, tap tap, quickly",
     "meaning": "light running",
-    "example": "t/tata-1a.jpg"
+    "example": [
+      "t/tata-1a.jpg",
+      "t/tata-1b.jpg"
+    ]
   }]
 }

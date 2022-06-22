@@ -12,12 +12,12 @@
     {
       "equivalent": "swish, swoosh, whoosh, zip, zoom",
       "meaning": "the sound of something moving swiftly through the air",
-      "example": "b/bun-1.jpg"
+      "example": ["b/bun-1.jpg"]
     },
     {
       "equivalent": "convulse, flutter, jerk, jiggle, jolt, quiver, shake, shiver shudder, tremble, wobble",
       "meaning": "an irregular or violent movement",
-      "example": "b/bun-2.jpg"
+      "example": ["b/bun-2.jpg"]
     }
   ]
 }

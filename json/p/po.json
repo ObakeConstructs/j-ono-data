@@ -16,12 +16,12 @@
     {
       "equivalent": "bright, flame, glow, light",
       "meaning": "an indication that something is emitting light",
-      "example": "p/po-1.jpg"
+      "example": ["p/po-1.jpg"]
     },
     {
       "equivalent": "fixate, focused, gaze, gawk, peer, riveted, stare",
       "meaning": "riveted in wonder or surprise, typical in love-at-first-sight senarios",
-      "example": "p/po-2.jpg"
+      "example": ["p/po-2.jpg"]
     }
   ]
 }
