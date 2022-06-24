@@ -46,7 +46,6 @@ That's it.  Nothing fancy.
 ```
 * Each Record File is in a folder corresponding to the first letter of its filename.
 * The Record File filenames are all based on the literal translation values.  Because we're using the literal translation this way, we sometimes fudge what constitutes a "literal translation".  For example, the entry for `fu fu` includes `fu fu fu`.  Hopefully, it'll be close enough that anyone looking at it can figure out that it's just more of the same jōgo.
-* Note that multiple definitions are grouped by number.  In the above example, there are three definitions (and three English-equivalent groups, and three examples).
 
 ## IMAGE FILE
 * While, Image Files are not technically required, we made it a point early on that we didn't want to add any definitions unless we actually had a good representational image to back it up.  The [Editor Tool](https://obakeconstructs.github.io/J-Ono-Search/pages/editor) requires image filenames.
