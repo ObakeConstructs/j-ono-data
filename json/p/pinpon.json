@@ -1,10 +1,18 @@
 {
-  "literal": "pinpo-n",
-  "hiragana": ["ぴんぽーん"],
-  "katakana": ["ピンポーン"],
-  "definition": [{
-    "equivalent": "ding-dong",
-    "meaning": "the sound of a door bell",
-    "example": ["pinpon-1"]
-  }]
+  "literal": "pinpon",
+  "katakana": [
+    "ピンポーン"
+  ],
+  "hiragana": [
+    "ぴんぽーん"
+  ],
+  "definition": [
+    {
+      "equivalent": "ding-dong",
+      "meaning": "the sound of a door bell",
+      "example": [
+        "pinpon-1"
+      ]
+    }
+  ]
 }
