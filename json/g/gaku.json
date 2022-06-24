@@ -1,16 +1,21 @@
 {
   "literal": "gaku",
-  "hiragana": [
-    "がく",
-    "がくっ"
-  ],
   "katakana": [
     "ガク",
     "ガクッ"
   ],
-  "definition": [{
-    "equivalent": "fall, fold, give in, give up, sag, sink, succumb, slump",
-    "meaning": "An expression of giving up",
-    "example": ["gaku-1"]
-  }]
+  "hiragana": [
+    "がく",
+    "がくっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "fall, fold, give in, give up, sag, sink, succumb, slump",
+      "meaning": "An expression of giving up",
+      "example": [
+        "gaku-1",
+        "gaku-ガクッ"
+      ]
+    }
+  ]
 }
