@@ -13,7 +13,7 @@ That's it.  Nothing fancy.
 * The Index File is sorted alphabetically, but that's just for convenience.  JSON fetch routines are asynchronous, so ordering can be inconsistent.
 
 ## RECORD FILE
-* Each Record File is in JSON format and contains the literal translation, kana, english equivalents, meanings, and image filenames (again, sans path and extension - the program assumes .jpg.
+* Each Record File is in JSON format and contains a literal translation string, an array of katagana, an array of hiragana, and an array of definitions.  Each definition contains a string of english equivalents, a meaning string, and an array of image filename strings.
 * For Example...
 ```
 {
