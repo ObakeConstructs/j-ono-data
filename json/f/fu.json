@@ -1,16 +1,18 @@
 {
   "literal": "fu",
-  "hiragana": [
-    "ふ",
-    "ふっ",
-    "ふー",
-    "ふーっ"
-  ],
   "katakana": [
     "フ",
     "フッ",
     "フー",
-    "フーッ"
+    "フーッ",
+    "フウ"
+  ],
+  "hiragana": [
+    "ふ",
+    "ふっ",
+    "ふー",
+    "ふーっ",
+    "ふう"
   ],
   "definition": [
     {
@@ -24,17 +26,30 @@
     {
       "equivalent": "fade, disappear, vanish",
       "meaning": "to vanish or cause something to vanish",
-      "example": ["fu-2"]
+      "example": [
+        "fu-2"
+      ]
     },
     {
       "equivalent": "ease, relief, release, solace",
       "meaning": "an expression of relief",
-      "example": ["fu-3"]
+      "example": [
+        "fu-3"
+      ]
     },
     {
       "equivalent": "fwip, fwit, fwoom, pop, shoom, snap, whoom",
       "meaning": "a sudden and/or fast movement",
-      "example": ["fu-4"]
+      "example": [
+        "fu-4"
+      ]
+    },
+    {
+      "equivalent": "ha, haa, pant, gasp, whew",
+      "meaning": "breathing hard after light exertion",
+      "example": [
+        "fu-ふう"
+      ]
     }
   ]
 }

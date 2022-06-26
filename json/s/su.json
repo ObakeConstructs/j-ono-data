@@ -1,17 +1,5 @@
 {
   "literal": "su",
-  "hiragana": [
-    "す",
-    "すっ",
-    "すー",
-    "すーっ",
-    "すう",
-    "すぅ",
-    "すうう",
-    "すぅぅ",
-    "すううう",
-    "すぅぅぅ"
-  ],
   "katakana": [
     "ス",
     "スッ",
@@ -24,11 +12,25 @@
     "スウウウ",
     "スゥゥゥ"
   ],
+  "hiragana": [
+    "す",
+    "すっ",
+    "すー",
+    "すーっ",
+    "すう",
+    "すぅ",
+    "すうう",
+    "すぅぅ",
+    "すううう",
+    "すぅぅぅ"
+  ],
   "definition": [
     {
       "equivalent": "ignore, pass, pass by",
       "meaning": "ignore someone and walk past",
-      "example": ["su-1"]
+      "example": [
+        "su-1"
+      ]
     },
     {
       "equivalent": "deliver, gesture, get, give, grab, hand over, pass, raise, reach, slide, stop, take, yield",
@@ -42,7 +44,16 @@
     {
       "equivalent": "blow out, breath in, breath out, draw in, exhale, huff, inhale",
       "meaning": "a deep breath, typically inhaled",
-      "example": ["su-3"]
+      "example": [
+        "su-3"
+      ]
+    },
+    {
+      "equivalent": "bear, carry, heave, heft, hoist, lift, raise",
+      "meaning": "the act of picking something up",
+      "example": [
+        "su4-スッ"
+      ]
     }
   ]
 }

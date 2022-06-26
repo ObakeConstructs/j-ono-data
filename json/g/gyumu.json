@@ -1,16 +1,20 @@
 {
   "literal": "gyumu",
-  "hiragana": [
-    "ぎゅむ",
-    "ぎゅむっ"
-  ],
   "katakana": [
     "ギュム",
     "ギュムッ"
   ],
-  "definition": [{
-    "equivalent": "embrace, grab, hug, squeeze, wrap",
-    "meaning": "1 - the act of embracing or hugging",
-    "example": ["gyumu-1"]
-  }]
+  "hiragana": [
+    "ぎゅむ",
+    "ぎゅむっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "embrace, grab, hug, squeeze, wrap",
+      "meaning": "the act of embracing or hugging",
+      "example": [
+        "gyumu-1"
+      ]
+    }
+  ]
 }

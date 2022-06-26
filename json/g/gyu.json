@@ -1,20 +1,31 @@
 {
   "literal": "gyu",
-  "hiragana": [
-    "ぎゅ",
-    "ぎゅっ",
-    "ぎゅう",
-    "ぎゅうっ"
-  ],
   "katakana": [
     "ギュ",
     "ギュッ",
     "ギュウ",
     "ギュウッ"
   ],
-  "definition": [{
-    "equivalent": "clench, embrace, grab, hold, hug, squeeze",
-    "meaning": "the act of embracing or hugging",
-    "example": ["gyu-1"]
-  }]
+  "hiragana": [
+    "ぎゅ",
+    "ぎゅっ",
+    "ぎゅう",
+    "ぎゅうっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "embrace, hold, hug, squeeze",
+      "meaning": "the act of embracing or hugging",
+      "example": [
+        "gyu-1"
+      ]
+    },
+    {
+      "equivalent": "clasp, clench, grab, grip, hold, squeeze",
+      "meaning": "the act of grabbing something and holding it",
+      "example": [
+        "gyu-ぎゅっ"
+      ]
+    }
+  ]
 }
