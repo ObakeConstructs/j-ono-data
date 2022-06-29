@@ -1,10 +1,20 @@
 {
   "literal": "kui kui",
-  "hiragana": ["くいくい"],
-  "katakana": ["クイクイ"],
-  "definition": [{
-    "equivalent": "pluck, pull, tug",
-    "meaning": "to gently pull or tug on something",
-    "example": ["kui_kui-1"]
-  }]
+  "katakana": [
+    "クイクイ",
+    "クィクィ"
+  ],
+  "hiragana": [
+    "くいくい",
+    "くぃくぃ"
+  ],
+  "definition": [
+    {
+      "equivalent": "pluck, pull, tug",
+      "meaning": "to gently pull or tug on something",
+      "example": [
+        "kui_kui-1"
+      ]
+    }
+  ]
 }

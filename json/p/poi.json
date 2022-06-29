@@ -1,10 +1,25 @@
 {
   "literal": "poi",
-  "hiragana": ["ぽい"],
-  "katakana": ["ポイ"],
-  "definition": [{
-    "equivalent": "chuck, discard, junk, toss, throw away, unload",
-    "meaning": "to toss something away as useless or unwanted",
-    "example": ["poi-1"]
-  }]
+  "katakana": [
+    "ポイ",
+    "ポイッ",
+    "ポィ",
+    "ポィッ"
+  ],
+  "hiragana": [
+    "ぽい",
+    "ぽいっ",
+    "ぽぃ",
+    "ぽぃっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "chuck, discard, junk, toss, throw away, unload",
+      "meaning": "to toss something away as useless or unwanted",
+      "example": [
+        "poi-1",
+        "poi-ポィ"
+      ]
+    }
+  ]
 }
