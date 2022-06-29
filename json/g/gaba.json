@@ -1,16 +1,27 @@
 {
   "literal": "gaba",
-  "hiragana": [
-    "がば",
-    "がばっ"
-  ],
   "katakana": [
     "ガバ",
     "ガバッ"
   ],
-  "definition": [{
-    "equivalent": "arise, fwip, get up, rise up, sit up, stand, suddenly",
-    "meaning": "to suddenly sit up or standup.",
-    "example": ["gaba-1"]
-  }]
+  "hiragana": [
+    "がば",
+    "がばっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "arise, fwip, get up, rise up, sit up, stand, suddenly",
+      "meaning": "to suddenly sit up or standup.",
+      "example": [
+        "gaba-1"
+      ]
+    },
+    {
+      "equivalent": "clasp, cradle, embrace, grasp, hold, hug",
+      "meaning": "he act of putting one's arms around someone and holding tightly",
+      "example": [
+        "gaba2-がば"
+      ]
+    }
+  ]
 }

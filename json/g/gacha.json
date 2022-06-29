@@ -1,10 +1,18 @@
 {
   "literal": "gacha",
-  "hiragana": ["がちゃ"],
-  "katakana": ["ガチャ"],
-  "definition": [{
-    "equivalent": "clack, clatter, click, clink, ker-chak, rattle",
-    "meaning": "a series of short, sharp noises",
-    "example": ["gacha-1"]
-  }]
+  "katakana": [
+    "ガチャ"
+  ],
+  "hiragana": [
+    "がちゃ"
+  ],
+  "definition": [
+    {
+      "equivalent": "clack, clatter, click, clink, ker-chak, rattle",
+      "meaning": "one or more short, sharp noises, typically associated with opening a swinging door",
+      "example": [
+        "gacha-1"
+      ]
+    }
+  ]
 }
