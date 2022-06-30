@@ -1,16 +1,20 @@
 {
   "literal": "doka",
-  "hiragana": [
-    "どか",
-    "どかっ"
-  ],
   "katakana": [
     "ドカ",
     "ドカッ"
   ],
-  "definition": [{
-    "equivalent": "crash, kick, slam, smash, stomp, wallop",
-    "meaning": "the sound of a loud strike with the foot or feet",
-    "example": ["doka-1"]
-  }]
+  "hiragana": [
+    "どか",
+    "どかっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "crash, kick, slam, smash, stomp, wallop",
+      "meaning": "the sound of a loud strike, as in kicking down a door",
+      "example": [
+        "doka-1"
+      ]
+    }
+  ]
 }

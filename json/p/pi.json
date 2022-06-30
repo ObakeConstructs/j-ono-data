@@ -1,16 +1,21 @@
 {
   "literal": "pi",
-  "hiragana": [
-    "ぴ",
-    "ぴっ"
-  ],
   "katakana": [
     "ピ",
     "ピッ"
   ],
-  "definition": [{
-    "equivalent": "beep, peep",
-    "meaning": "electronic beep or other high-pitched noise",
-    "example": ["pi-1"]
-  }]
+  "hiragana": [
+    "ぴ",
+    "ぴっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "beep, bing, chime, ding, peep, ping",
+      "meaning": "a short electronic beep or similar high-pitched noise",
+      "example": [
+        "pi-1",
+        "pi-ピ"
+      ]
+    }
+  ]
 }
