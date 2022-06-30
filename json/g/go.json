@@ -1,31 +1,52 @@
 {
   "literal": "go",
-  "hiragana": [
-    "ご",
-    "ごっ",
-    "ごー",
-    "ごーっ",
-    "ごぉ",
-    "ごぉっ"
-  ],
   "katakana": [
     "ゴ",
     "ゴッ",
     "ゴー",
     "ゴーッ",
     "ゴォ",
-    "ゴォッ"
+    "ゴォッ",
+    "ゴォォ",
+    "ゴォォォ",
+    "ゴオ",
+    "ゴオッ"
+  ],
+  "hiragana": [
+    "ご",
+    "ごっ",
+    "ごー",
+    "ごーっ",
+    "ごぉ",
+    "ごぉっ",
+    "ごぉぉ",
+    "ごぉぉぉ",
+    "ごお",
+    "ごおっ"
   ],
   "definition": [
     {
       "equivalent": "bam, bang, crack, hit, pound, slam, slap, slug, sock, thwack, whack",
       "meaning": "a sharp sound of impact, as from the hand or fist",
-      "example": ["go-1"]
+      "example": [
+        "go-1"
+      ]
     },
     {
       "equivalent": "boom, shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
       "meaning": "the impact of a strong force or wind, as from an explosion",
-      "example": ["go-2"]
+      "example": [
+        "go-2",
+        "go2-ゴッ",
+        "go2-ゴオッ"
+      ]
+    },
+    {
+      "equivalent": "blaze, burn, flames, fwoosh",
+      "meaning": "the sound of being on fire and burning fiercely",
+      "example": [
+        "go3-ゴォォ"
+      ]
     }
   ]
 }

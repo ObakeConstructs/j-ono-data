@@ -1,16 +1,20 @@
 {
   "literal": "zan",
-  "hiragana": [
-    "ざん",
-    "ざんっ"
-  ],
   "katakana": [
     "ザン",
     "ザンッ"
   ],
-  "definition": [{
-    "equivalent": "cleave, cut, slash, slice",
-    "meaning": "a fast cut with a blade (as a sword or knife)",
-    "example": ["zan-1"]
-  }]
+  "hiragana": [
+    "ざん",
+    "ざんっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "cleave, cut, slash, slice",
+      "meaning": "a fast cut, as with a sword or knife",
+      "example": [
+        "zan-1"
+      ]
+    }
+  ]
 }
