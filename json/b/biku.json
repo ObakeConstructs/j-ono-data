@@ -1,20 +1,25 @@
 {
   "literal": "biku",
-  "hiragana": [
-    "びく",
-    "びくっ",
-    "びくぅ",
-    "びくぅっ"
-  ],
   "katakana": [
     "ビク",
     "ビクッ",
     "ビクゥ",
     "ビクゥッ"
   ],
-  "definition": [{
-    "equivalent": "jerk, jolt, flinch, shudder, startle",
-    "meaning": "an expression surprise or startlement",
-    "example": ["biku-1"]
-  }]
+  "hiragana": [
+    "びく",
+    "びくっ",
+    "びくぅ",
+    "びくぅっ"
+  ],
+  "definition": [
+    {
+      "equivalent": "jerk, jolt, flinch, shudder, startle",
+      "meaning": "an expression surprise or startlement",
+      "example": [
+        "biku-1",
+        "biku-ビク"
+      ]
+    }
+  ]
 }

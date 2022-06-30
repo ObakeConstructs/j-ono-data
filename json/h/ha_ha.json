@@ -1,16 +1,31 @@
 {
   "literal": "ha ha",
-  "hiragana": [
-    "はは",
-    "ははは"
-  ],
   "katakana": [
     "ハハ",
-    "ハハハ"
+    "ハハハ",
+    "ハァハァ",
+    "ハアハア"
   ],
-  "definition": [{
-    "equivalent": "haha",
-    "meaning": "laughter",
-    "example": ["ha_ha-1"]
-  }]
+  "hiragana": [
+    "はは",
+    "ははは",
+    "はぁはぁ",
+    "はあはあ"
+  ],
+  "definition": [
+    {
+      "equivalent": "haha",
+      "meaning": "laughter",
+      "example": [
+        "ha_ha-1"
+      ]
+    },
+    {
+      "equivalent": "hah hah, pant pant",
+      "meaning": "to breathe hard after exertion",
+      "example": [
+        "haa_haa_はぁはぁ"
+      ]
+    }
+  ]
 }

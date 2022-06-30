@@ -1,12 +1,5 @@
 {
   "literal": "pa",
-  "hiragana": [
-    "ぱ",
-    "ぱっ",
-    "ぱあ",
-    "ぱぁ",
-    "ぱああ"
-  ],
   "katakana": [
     "パ",
     "パッ",
@@ -14,9 +7,21 @@
     "パァ",
     "パアア"
   ],
-  "definition": [{
-    "equivalent": "bright, brighten, glow, light, light up, shine",
-    "meaning": "to brighten or shine sudddenly",
-    "example": ["pa-1"]
-  }]
+  "hiragana": [
+    "ぱ",
+    "ぱっ",
+    "ぱあ",
+    "ぱぁ",
+    "ぱああ"
+  ],
+  "definition": [
+    {
+      "equivalent": "bright, brighten, glow, light, light up, shine",
+      "meaning": "to brighten or shine sudddenly",
+      "example": [
+        "pa-1",
+        "pa-1a"
+      ]
+    }
+  ]
 }
