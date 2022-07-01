@@ -11,9 +11,17 @@ All definition records are stored in a single JSON array in the `json/all.json` 
 That's it.  Nothing fancy.
 
 ## DEFINITION RECORD
-* Each Definition Record contains a "literal" translation string, an array of "katagana" strings, an array of "hiragana" strings, and an array of "definition" objects.  Each definition object contains an english "equivalent" string, a "meaning" string, and an array of "example" image filename strings.
+* Each Definition Record contains...
+  * a "literal" translation string
+  * an array of "katagana" strings
+  * an array of "hiragana" strings
+  * an array of "definition" objects
+* Each "definition" object contains...
+  * an english "equivalent" string
+  * a "meaning" string
+  * an array of "example" image filename strings.
 
-Like this...
+Example Definition Record
 ```
 {
   "literal": "fu",
@@ -52,4 +60,4 @@ Like this...
 * All Image File filenames must be unique and carry the `.jpg` extension, but otherwise have no restrictions.
 
 ## OTHER FILES
-There is an index.json file and some folders with individual definition JSON files. These files are deprecated and only used for some automation tasks (for now).
+Besides `all.json` and `LICENSE.md`, there are some additional files and folders located in the JSON folder. These are all deprecated and currently only used for some automation tasks (for now).
