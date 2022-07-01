@@ -1,25 +1,22 @@
 ## STRUCTURE
-The data uses a very simple JSON structure in this repository.
->  
-> Index File (`json/index.json`)  
-> &nbsp;&nbsp;+-- Record Files (`json/x/xxx.json`)  
-> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+-- Image Files (`img/x/xxx.jpg`)  
->  
+All definition records are stored in a single JSON array in the `json/all.json` file.
+> [  
+>     { definition record }  
+>     { definition record }  
+>     ... etc.  
+> ]
 
 That's it.  Nothing fancy.
 
-## INDEX FILE
-* The Index File in in JSON format and contain the list of all Record File filenames (sans path and extension - those are determined procedurally).
-* The Index File is sorted alphabetically, but that's just for convenience.  JSON fetch routines are asynchronous, so ordering can be inconsistent.
+## DEFINITION RECORD
+* Each Definition Record contains a "literal" translation string, an array of "katagana" strings, an array of "hiragana" strings, and an array of "definition" objects.  Each definition object contains an english "equivalent" string, a "meaning" string, and an array of "example" image filename strings.
 
-## RECORD FILE
-* Each Record File is in JSON format and contains a literal translation string, an array of katagana, an array of hiragana, and an array of definitions.  Each definition contains a string of english equivalents, a meaning string, and an array of image filename strings.
-* For Example...
+Like this...
 ```
 {
   "literal": "fu",
-  "hiragana": [ "ふ", "ふっ", "ふー", "ふーっ" ],
   "katakana": [ "フ", "フッ", "フー", "フーッ" ],
+  "hiragana": [ "ふ", "ふっ", "ふー", "ふーっ" ],
   "definition": [
     {
       "equivalent": "chortle, chuckle, ha, heh, laugh",
@@ -44,12 +41,13 @@ That's it.  Nothing fancy.
   ]
 }
 ```
-* Each Record File is in a folder corresponding to the first letter of its filename.
-* The Record File filenames are all based on the literal translation values.  Because we're using the literal translation this way, we sometimes fudge what constitutes a "literal translation".  For example, the entry for `fu fu` includes `fu fu fu`.  Hopefully, it'll be close enough that anyone looking at it can figure out that it's just more of the same jōgo.
 
 ## IMAGE FILE
-* While, Image Files are not technically required, we made it a point early on that we didn't want to add any definitions unless we actually had a good representational image to back it up.  The [Editor Tool](https://obakeconstructs.github.io/J-Ono-Search/pages/editor) requires image filenames.
+* While, Image Files are not technically required, we made it a point early on that we didn't want to add any definitions unless we actually had a good representational image to back it up.
 * Each Image File is in a folder corresponding to the first letter of its filename.
 * All Image File images are 400 pixels by 400 pixels and contain publisher attribution statements.
 * All Image File formats are JPEG (`*.jpg`), exclusively.
 * All Image File filenames must be unique and carry the `.jpg` extension, but otherwise have no restrictions.
+
+## OTHER FILES
+There is an index.json file and some folders with individual definition record files.  These are not used by the Search program, only `json/all.json` is actually used.  These files are deprecated, but necessary for some automation tasks.
