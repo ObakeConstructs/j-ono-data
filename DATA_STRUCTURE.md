@@ -50,4 +50,4 @@ Like this...
 * All Image File filenames must be unique and carry the `.jpg` extension, but otherwise have no restrictions.
 
 ## OTHER FILES
-There is an index.json file and some folders with individual definition record files.  These are not used by the Search program, only `json/all.json` is actually used.  These files are deprecated, but necessary for some automation tasks.
+There is an index.json file and some folders with individual definition JSON files.  These are not used by the Search program, only `json/all.json` is actually used.  These files are deprecated, but necessary for some automation tasks.
