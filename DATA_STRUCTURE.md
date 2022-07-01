@@ -43,7 +43,7 @@ Like this...
 ```
 
 ## IMAGE FILE
-* While, Image Files are not technically required, we made it a point early on that we didn't want to add any definitions unless we actually had a good representational image to back it up.
+* While Image Files are not technically required, we made it a point early on that we didn't want to add any definitions unless we actually had a good representational image to back it up.
 * Each Image File is in a folder corresponding to the first letter of its filename.
 * All Image File images are 400 pixels by 400 pixels and contain publisher attribution statements.
 * All Image File formats are JPEG (`*.jpg`), exclusively.
