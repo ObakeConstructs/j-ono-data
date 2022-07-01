@@ -1,10 +1,12 @@
 ## STRUCTURE
 All definition records are stored in a single JSON array in the `json/all.json` file.
-> [  
->     { definition record }  
->     { definition record }  
->     ... etc.  
-> ]
+```
+[  
+  { definition record }  
+  { definition record }  
+  ... etc.  
+]
+```
 
 That's it.  Nothing fancy.
 
