@@ -1,5 +1,5 @@
 ## STRUCTURE
-All definition records are stored in a single JSON array in the `json/all.json` file.
+All definition records are stored in a single JSON array in the `j-ono-data.json` file.
 ```
 [  
   { definition record }  
@@ -58,6 +58,3 @@ Example Definition Record
 * All Image File images are 400 pixels by 400 pixels and contain publisher attribution statements.
 * All Image File formats are JPEG (`*.jpg`), exclusively.
 * All Image File filenames must be unique and carry the `.jpg` extension, but otherwise have no restrictions.
-
-## OTHER FILES
-Besides `all.json` and `LICENSE.md`, there are some additional files and folders located in the JSON folder. These are all deprecated and currently only used for some automation tasks (for now).
