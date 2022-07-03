@@ -21,7 +21,7 @@ That's it.  Nothing fancy.
   * a "meaning" string
   * an array of "example" image filename strings.
 
-Example Definition Record
+Example Definition Record:
 ```
 {
   "literal": "fu",
