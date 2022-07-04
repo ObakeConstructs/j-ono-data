@@ -333,6 +333,16 @@
     "literal": "bofu"
   },
   {
+    "hiragana": ["ぼろぼろ"],
+    "katakana": ["ボロボロ"],
+    "definition": [{
+      "equivalent": "blub blub, cry cry, drip drip, sob sob, weep weep",
+      "meaning": "dripping tears as an expression of pain or distress",
+      "example": ["boro_boro-ぼろぼろ"]
+    }],
+    "literal": "boro boro"
+  },
+  {
     "hiragana": [
       "ぼそ",
       "ぼそっ"
@@ -1187,7 +1197,8 @@
       "meaning": "the sound of a strong impact",
       "example": [
         "gan-1",
-        "gan-ガォン"
+        "gan-ガォン",
+        "gan-ガンッ"
       ]
     }],
     "literal": "gan"
@@ -1681,6 +1692,22 @@
       "example": ["gusun_gusun-ぐすんぐすん"]
     }],
     "literal": "gusun gusun"
+  },
+  {
+    "hiragana": [
+      "ぐすぐす",
+      "ぐすっぐすっ"
+    ],
+    "katakana": [
+      "グスグス",
+      "グスッグスッ"
+    ],
+    "definition": [{
+      "equivalent": "blub blub, cry cry, sob sob, tears tears, weep",
+      "meaning": "tears welling up as an expression of pain or distress",
+      "example": ["gusu_gusu-ぐすっ"]
+    }],
+    "literal": "gusu gusu"
   },
   {
     "hiragana": [
@@ -2788,11 +2815,18 @@
   {
     "hiragana": ["ぱちぱち"],
     "katakana": ["パチパチ"],
-    "definition": [{
-      "equivalent": "crackle crackle, pop pop, snap snap",
-      "meaning": "the continuous sound of crackling, as from a fire",
-      "example": ["pachi_pachi-1"]
-    }],
+    "definition": [
+      {
+        "equivalent": "crackle crackle, pop pop, snap snap",
+        "meaning": "the continuous sound of crackling, as from a fire",
+        "example": ["pachi_pachi-1"]
+      },
+      {
+        "equivalent": "applause, clap clap",
+        "meaning": "the sound of applause",
+        "example": ["pachi_pachi2-パチパチ"]
+      }
+    ],
     "literal": "pachi pachi"
   },
   {
@@ -3143,6 +3177,11 @@
         "equivalent": "bap, bop, clap, pat, poke, swat, tap, thump",
         "meaning": "the sound of a soft strike or blow not intended to harm",
         "example": ["pon2-ぽん"]
+      },
+      {
+        "equivalent": "give, hand, hand over, pass, toss",
+        "meaning": "to give something to someone else",
+        "example": ["pon3-ポンッ"]
       }
     ],
     "literal": "pon"
@@ -4354,6 +4393,16 @@
       "example": ["zun_zun-1"]
     }],
     "literal": "zun zun"
+  },
+  {
+    "hiragana": ["ずら"],
+    "katakana": ["ズラ"],
+    "definition": [{
+      "equivalent": "queued,  lined up",
+      "meaning": "a series of things or people lined up one after another",
+      "example": ["zura-ズラ"]
+    }],
+    "literal": "zura"
   },
   {
     "hiragana": [
