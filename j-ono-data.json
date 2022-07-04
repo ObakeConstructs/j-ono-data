@@ -983,6 +983,16 @@
     "literal": "fura"
   },
   {
+    "hiragana": ["ふら"],
+    "katakana": ["フラフラ"],
+    "definition": [{
+      "equivalent": "shiver, shudder, quiver, tremble",
+      "meaning": "an indication of shaking",
+      "example": ["fura_fura-フラフラ"]
+    }],
+    "literal": "fura fura"
+  },
+  {
     "hiragana": ["ふりふり"],
     "katakana": ["フリフリ"],
     "definition": [{
@@ -1294,6 +1304,16 @@
       "example": ["gata-1"]
     }],
     "literal": "gata"
+  },
+  {
+    "hiragana": ["がやがや"],
+    "katakana": ["ガヤガヤ"],
+    "definition": [{
+      "equivalent": "babel babel, blah blah, cacophony, chatter, clamor, din, hubbub",
+      "meaning": "the noise of a crowd of people talking",
+      "example": ["gaya_gaya-ガヤガヤ"]
+    }],
+    "literal": "gaya gaya"
   },
   {
     "hiragana": [
@@ -1970,6 +1990,16 @@
     "literal": "itai"
   },
   {
+    "hiragana": ["じゃぶじゃぶ"],
+    "katakana": ["ジャブジャブ"],
+    "definition": [{
+      "equivalent": "splash splash",
+      "meaning": "the sound of splashing water",
+      "example": ["jabu_jabu-ジャブジャブ"]
+    }],
+    "literal": "jabu jabu"
+  },
+  {
     "hiragana": ["じゃき"],
     "katakana": ["ジャキ"],
     "definition": [{
@@ -2013,6 +2043,26 @@
       ]
     }],
     "literal": "ji"
+  },
+  {
+    "hiragana": [
+      "じん",
+      "じんっ",
+      "じーん",
+      "じーんっ"
+    ],
+    "katakana": [
+      "ジン",
+      "ジンッ",
+      "ジーン",
+      "ジーンッ"
+    ],
+    "definition": [{
+      "equivalent": "gape, gawk, peer, regard, scrutinize, stare, study",
+      "meaning": "a lengthy stare at someone or something",
+      "example": ["jin-じーん"]
+    }],
+    "literal": "jin"
   },
   {
     "hiragana": [
@@ -2110,6 +2160,16 @@
       "example": ["kacha-カチャ"]
     }],
     "literal": "kacha"
+  },
+  {
+    "hiragana": ["かちゃかちゃ"],
+    "katakana": ["カチャカチャ"],
+    "definition": [{
+      "equivalent": "clack clack, clatter, click click, clink clink, ker-chak, rattle",
+      "meaning": "a series of short, sharp noises, typically associated with dishes",
+      "example": ["kacha_kacha-カチャカチャ"]
+    }],
+    "literal": "kacha kacha"
   },
   {
     "hiragana": [
@@ -2568,20 +2628,42 @@
       "む",
       "むっ",
       "むー",
-      "むーっ"
+      "むーっ",
+      "むう",
+      "むうっ"
     ],
     "katakana": [
       "ム",
       "ムッ",
       "ムー",
-      "ムーッ"
+      "ムーッ",
+      "ムウ",
+      "ムウッ"
     ],
     "definition": [{
-      "equivalent": "annoyed, hmph, pissed, unamused",
+      "equivalent": "aggravated, annoyed, hmph, irked, irritated, narked, peeved, pissed, riled, unamused, vexed",
       "meaning": "an expression of annoyance",
       "example": ["mu-1"]
     }],
     "literal": "mu"
+  },
+  {
+    "hiragana": [
+      "むむ",
+      "むむー",
+      "むむむ"
+    ],
+    "katakana": [
+      "ムム",
+      "ムムー",
+      "ムムム"
+    ],
+    "definition": [{
+      "equivalent": "hmm, uh, um, what?",
+      "meaning": "an expression of thinking, considering, or realization",
+      "example": ["mumu-むむむ"]
+    }],
+    "literal": "mumu"
   },
   {
     "hiragana": ["むにゃ"],
@@ -2670,14 +2752,21 @@
       "パァ",
       "パアア"
     ],
-    "definition": [{
-      "equivalent": "bright, brighten, glow, light, light up, shine",
-      "meaning": "to brighten or shine sudddenly",
-      "example": [
-        "pa-1",
-        "pa-1a"
-      ]
-    }],
+    "definition": [
+      {
+        "equivalent": "bright, brighten, glow, light, light up, shine",
+        "meaning": "to brighten or shine sudddenly",
+        "example": [
+          "pa-1",
+          "pa-1a"
+        ]
+      },
+      {
+        "equivalent": "brighten, cheer up, gladden, glow, hearten, lighten, light up, perk up, shine",
+        "meaning": "to become glad, happy, or excited",
+        "example": ["pa-パアア"]
+      }
+    ],
     "literal": "pa"
   },
   {
@@ -2736,12 +2825,13 @@
       "パァンッ"
     ],
     "definition": [{
-      "equivalent": "bang, bam, clap, crash, impact, pow, slam, smack, strike",
+      "equivalent": "bang, bam, clap, crash, impact, pow, slam, slap, smack, strike",
       "meaning": "a sudden resounding strike, often loud",
       "example": [
         "pan-1a",
         "pan-1b",
-        "pan-ぱんっ"
+        "pan-ぱんっ",
+        "pan-パン"
       ]
     }],
     "literal": "pan"
@@ -2831,6 +2921,16 @@
       "example": ["pero-1"]
     }],
     "literal": "pero"
+  },
+  {
+    "hiragana": ["ぺたぺた"],
+    "katakana": ["ペタペタ"],
+    "definition": [{
+      "equivalent": "bap bap, pat pat, poke poke, press press",
+      "meaning": "to press repeatedly",
+      "example": ["peta_peta-ぺたぺた"]
+    }],
+    "literal": "peta peta"
   },
   {
     "hiragana": [
@@ -3090,8 +3190,14 @@
     "literal": "poto"
   },
   {
-    "hiragana": ["ぽう"],
-    "katakana": ["ポウ"],
+    "hiragana": [
+      "ぽう",
+      "ぽぅ"
+    ],
+    "katakana": [
+      "ポウ",
+      "ポゥ"
+    ],
     "definition": [{
       "equivalent": "gleam, glow, light, radiance, shine",
       "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
@@ -4125,6 +4231,22 @@
       "example": ["zoro-1"]
     }],
     "literal": "zoro"
+  },
+  {
+    "hiragana": [
+      "ぞわ",
+      "ぞわっ"
+    ],
+    "katakana": [
+      "ゾワ",
+      "ゾワッ"
+    ],
+    "definition": [{
+      "equivalent": "shiver, shudder, quiver, tremble",
+      "meaning": "an indication of shaking",
+      "example": ["zowa-ぞわっ"]
+    }],
+    "literal": "zowa"
   },
   {
     "hiragana": [
