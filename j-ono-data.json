@@ -42,6 +42,11 @@
         "equivalent": "bam, bang, crash, slam, slap, smack, thump, thud, thunk, whack, wham, whap, whomp",
         "meaning": "a sudden and loud impact",
         "example": ["ba3-バッ"]
+      },
+      {
+        "equivalent": "extend, outstretch, reach, stretch",
+        "meaning": "to reach or stretch out a hand",
+        "example": ["ba4-バッ"]
       }
     ],
     "literal": "ba"
@@ -831,11 +836,15 @@
   {
     "hiragana": [
       "どん",
-      "どんっ"
+      "どんっ",
+      "どぉん",
+      "どぉぉん"
     ],
     "katakana": [
       "ドン",
-      "ドンッ"
+      "ドンッ",
+      "ドォン",
+      "ドォォン"
     ],
     "definition": [
       {
@@ -843,7 +852,8 @@
         "meaning": "a sound of things impacting, can be loud or soft depending on context",
         "example": [
           "don-1",
-          "don-どん"
+          "don-どん",
+          "don1-ドォォン"
         ]
       },
       {
@@ -902,12 +912,21 @@
     "literal": "dosha"
   },
   {
-    "hiragana": ["どすぅ"],
-    "katakana": ["ドスゥ"],
+    "hiragana": [
+      "どす",
+      "どすぅ"
+    ],
+    "katakana": [
+      "ドス",
+      "ドスゥ"
+    ],
     "definition": [{
       "equivalent": "bam, blow, chop, clobber, clout, crunch, hit, impact, knock, pelt, pound, punch, slam, slug, strike, thud, thunk, wham",
-      "meaning": "a mostly-harmless strike, typically a pumch",
-      "example": ["dosu-ドスゥ"]
+      "meaning": "the sound of a strike in a fight, typically non-lethal",
+      "example": [
+        "dosu-ドスゥ",
+        "dosu1a-ドス"
+      ]
     }],
     "literal": "dosu"
   },
@@ -991,7 +1010,7 @@
     "literal": "fura"
   },
   {
-    "hiragana": ["ふら"],
+    "hiragana": ["ふらふら"],
     "katakana": ["フラフラ"],
     "definition": [{
       "equivalent": "shiver, shudder, quiver, tremble",
@@ -1009,6 +1028,16 @@
       "example": ["furi_furi-1"]
     }],
     "literal": "furi furi"
+  },
+  {
+    "hiragana": ["ふろふろ"],
+    "katakana": ["フロフロ"],
+    "definition": [{
+      "equivalent": "shiver, shudder, quiver, tremble",
+      "meaning": "an indication of shaking",
+      "example": ["furo_furo1-ふろふろ"]
+    }],
+    "literal": "furo furo"
   },
   {
     "hiragana": [
@@ -1150,6 +1179,22 @@
   },
   {
     "hiragana": [
+      "がこん",
+      "がこんっ"
+    ],
+    "katakana": [
+      "ガコン",
+      "ガコンッ"
+    ],
+    "definition": [{
+      "equivalent": "clunk, ga-thunk, ka-thunk, knock, thunk, thwack, tonk",
+      "meaning": "the hollow sound of an impact with wood",
+      "example": ["gakon1-ガコンッ"]
+    }],
+    "literal": "gakon"
+  },
+  {
+    "hiragana": [
       "がく",
       "がくっ"
     ],
@@ -1269,16 +1314,23 @@
   {
     "hiragana": [
       "がしゃん",
-      "がしゃーん"
+      "がしゃーん",
+      "がしゃぁん",
+      "がしゃぁぁん"
     ],
     "katakana": [
       "ガシャン",
-      "ガシャーン"
+      "ガシャーン",
+      "ガシャァン",
+      "ガシャァァン"
     ],
     "definition": [{
       "equivalent": "blast, crack, crash, shatter, smash",
       "meaning": "the sound of something suddenly breaking into pieces, as from an impact",
-      "example": ["gashan-1"]
+      "example": [
+        "gashan-1",
+        "gashan1b-ガシャァァン"
+      ]
     }],
     "literal": "gashan"
   },
@@ -1500,7 +1552,10 @@
       {
         "equivalent": "bam, bang, crack, hit, pound, slam, slap, slug, sock, thwack, whack",
         "meaning": "a sharp sound of impact, as from the hand or fist",
-        "example": ["go-1"]
+        "example": [
+          "go-1",
+          "go1b-ゴッ"
+        ]
       },
       {
         "equivalent": "boom, shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
@@ -3384,9 +3439,12 @@
         "example": ["sa-2"]
       },
       {
-        "equivalent": "back up, hide, pull back, relent, retreat, scoot",
-        "meaning": "the act of moving away from something dangerous, difficult, or disagreeable",
-        "example": ["sa-3"]
+        "equivalent": "avoid, back up, dodge, duck, hide, jink, pull back, relent, retreat, scoot, sidestep",
+        "meaning": "the act of dodging or moving away from something dangerous, difficult, or disagreeable",
+        "example": [
+          "sa-3",
+          "sa3b-サッ"
+        ]
       }
     ],
     "literal": "sa"
