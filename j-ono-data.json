@@ -102,6 +102,26 @@
     "literal": "basa"
   },
   {
+    "hiragana": ["ばしゃ"],
+    "katakana": ["バシャ"],
+    "definition": [{
+      "equivalent": "gush, jet, slosh, spew, splash, sploosh, spout, swash",
+      "meaning": "a medium to large splashing noise",
+      "example": ["basha1a-バシャ"]
+    }],
+    "literal": "basha"
+  },
+  {
+    "hiragana": ["ばしゃばしゃ"],
+    "katakana": ["バシャバシャ"],
+    "definition": [{
+      "equivalent": "slosh slosh, sop sop, splash splash, swash swash, wash wash",
+      "meaning": "to splash water onto something, often used for cleaning or washing",
+      "example": ["basha_basha1a-バシャバシャ"]
+    }],
+    "literal": "basha basha"
+  },
+  {
     "hiragana": ["ばたん"],
     "katakana": ["バタン"],
     "definition": [{
@@ -576,8 +596,11 @@
     ],
     "definition": [{
       "equivalent": "chack, click, ka-chik, ker-chack",
-      "meaning": "short, sharp, metalic clicks, as in cocking a gun",
-      "example": ["chaki-チャキッ"]
+      "meaning": "the sound of short, sharp, metalic clicks",
+      "example": [
+        "chaki-チャキッ",
+        "chaki1b-チャキ"
+      ]
     }],
     "literal": "chaki"
   },
@@ -686,7 +709,10 @@
     "definition": [{
       "equivalent": "bolt, charge, dash, hurry, pelt, run, rush, sprint",
       "meaning": "to run or start running",
-      "example": ["da-1"]
+      "example": [
+        "da-1",
+        "da1b-だっ"
+      ]
     }],
     "literal": "da"
   },
@@ -897,7 +923,10 @@
     "definition": [{
       "equivalent": "buckle, collapse, fall, stumble, topple, tumble",
       "meaning": "to fall down from an upright position",
-      "example": ["dosa-1"]
+      "example": [
+        "dosa-1",
+        "dosa1b-ドサッ"
+      ]
     }],
     "literal": "dosa"
   },
@@ -1083,6 +1112,11 @@
         "equivalent": "catch, clutch, glom, grab, grasp, hold, nab, seize, snag, snatch",
         "meaning": "seizing something with a sudden motion or grasp",
         "example": ["ga-2"]
+      },
+      {
+        "equivalent": "clang, clank, clash, tang, whang",
+        "meaning": "the sound of a hard, sharp metalic strike",
+        "example": ["ga3a-ガッ"]
       }
     ],
     "literal": "ga"
@@ -1172,7 +1206,7 @@
     ],
     "definition": [{
       "equivalent": "clang, clank, clash, tang, whang",
-      "meaning": "a loud sound of metal striking something equally hard",
+      "meaning": "the sound of a hard, sharp metalic strike",
       "example": ["gaki-1"]
     }],
     "literal": "gaki"
@@ -1365,6 +1399,16 @@
       "example": ["gata-1"]
     }],
     "literal": "gata"
+  },
+  {
+    "hiragana": ["がつがつ"],
+    "katakana": ["ガツガツ"],
+    "definition": [{
+      "equivalent": "scrub scrub, scour scour, swab swab, wash wash",
+      "meaning": "the sound of scrubbing something clean",
+      "example": ["gatsu_gatsu1a-ガツガツ"]
+    }],
+    "literal": "gatsu gatsu"
   },
   {
     "hiragana": ["がやがや"],
@@ -1715,7 +1759,8 @@
       "meaning": "to take or seize, typically with a sudden motion or grasp",
       "example": [
         "gui-1",
-        "gui-ぐぃっ"
+        "gui-ぐぃっ",
+        "gui1c-グイ"
       ]
     }],
     "literal": "gui"
@@ -1820,7 +1865,10 @@
       {
         "equivalent": "clasp, clench, grab, grip, hold, squeeze",
         "meaning": "the act of grabbing something and holding it",
-        "example": ["gyu-ぎゅっ"]
+        "example": [
+          "gyu-ぎゅっ",
+          "gyu2b-ギュ"
+        ]
       }
     ],
     "literal": "gyu"
@@ -1840,6 +1888,22 @@
       "example": ["gyumu-1"]
     }],
     "literal": "gyumu"
+  },
+  {
+    "hiragana": [
+      "ぎゅん",
+      "ぎゅんっ"
+    ],
+    "katakana": [
+      "ギュン",
+      "ギュンッ"
+    ],
+    "definition": [{
+      "equivalent": "revolve, rotate, spin, turn, twirl, whirl",
+      "meaning": "to spin in circles, typically very fast",
+      "example": ["gyun1a-ギュン"]
+    }],
+    "literal": "gyun"
   },
   {
     "hiragana": [
@@ -2271,11 +2335,17 @@
     "literal": "kachi"
   },
   {
-    "hiragana": ["からん"],
-    "katakana": ["カラン"],
+    "hiragana": [
+      "からん",
+      "からんっ"
+    ],
+    "katakana": [
+      "カラン",
+      "カランッ"
+    ],
     "definition": [{
       "equivalent": "clang, clank, clump, clunk, hit, knock, plink, wham",
-      "meaning": "the sound of two hard things striking each other",
+      "meaning": "a sound of a small, hard strike, typically from something being dropped",
       "example": ["karan-1"]
     }],
     "literal": "karan"
@@ -2393,6 +2463,16 @@
     "literal": "kira kira"
   },
   {
+    "hiragana": ["きりきり"],
+    "katakana": ["キリキリ"],
+    "definition": [{
+      "equivalent": "clang, clank, creak, grind, scrape, squeak, whine",
+      "meaning": "a harsh grating sound, as metal under stress",
+      "example": ["kiri_kiri-キリキリ"]
+    }],
+    "literal": "kiri kiri"
+  },
+  {
     "hiragana": [
       "こ",
       "こっ",
@@ -2488,10 +2568,11 @@
     ],
     "definition": [{
       "equivalent": "click, clunk, tap",
-      "meaning": "put down gently",
+      "meaning": "to put down or touch gently",
       "example": [
         "koto-1a",
-        "koto-1b"
+        "koto-1b",
+        "koto1c-コト"
       ]
     }],
     "literal": "koto"
@@ -2592,10 +2673,23 @@
     ],
     "definition": [{
       "equivalent": "pivot, spin, swing, swivel, turn, twist",
-      "meaning": "to turn something in a curve or as if on an axis",
-      "example": ["kuru-1"]
+      "meaning": "to turn or look away",
+      "example": [
+        "kuru-1",
+        "kuru1b-クル"
+      ]
     }],
     "literal": "kuru"
+  },
+  {
+    "hiragana": ["くるくる"],
+    "katakana": ["クルクル`"],
+    "definition": [{
+      "equivalent": "pivot, spin, swing, swivel, turn, twist",
+      "meaning": "to turn or spin something something",
+      "example": ["kuru_kuru1b-くるくる"]
+    }],
+    "literal": "kuru kuru"
   },
   {
     "hiragana": [
@@ -2990,6 +3084,16 @@
     "literal": "patan"
   },
   {
+    "hiragana": ["ぱたぱた"],
+    "katakana": ["パタパタ"],
+    "definition": [{
+      "equivalent": "flap flap, flick flick, flit flit, swish swish, wave wave",
+      "meaning": "the sound of flapping, as of bird wings, a dust mop, or a flag in the wind",
+      "example": ["pata_pata1a-パタパタ"]
+    }],
+    "literal": "pata pata"
+  },
+  {
     "hiragana": ["ぺこ"],
     "katakana": ["ペコ"],
     "definition": [{
@@ -3153,7 +3257,8 @@
       "meaning": "to bring something to an immediate end or standstill",
       "example": [
         "pita-1",
-        "pita-ぴたっ"
+        "pita-ぴたっ",
+        "pita1c-ピタ"
       ]
     }],
     "literal": "pita"
@@ -3309,6 +3414,22 @@
       "example": ["pou-1"]
     }],
     "literal": "pou"
+  },
+  {
+    "hiragana": [
+      "ぽうぽう",
+      "ぽぅぽぅ"
+    ],
+    "katakana": [
+      "ポウポウ",
+      "ポゥポゥ"
+    ],
+    "definition": [{
+      "equivalent": "gleam, glow, light, radiance, shine",
+      "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
+      "example": ["pou1a-ポゥポゥ"]
+    }],
+    "literal": "pou pou"
   },
   {
     "hiragana": ["ぽゆゆん"],
@@ -3502,8 +3623,11 @@
     "definition": [
       {
         "equivalent": "fwip, whiz, whoosh, zip, zoom",
-        "meaning": "to move very quickly with only the sound of flowing air",
-        "example": ["shu-1"]
+        "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
+        "example": [
+          "shu-1",
+          "shu1b-シュッ"
+        ]
       },
       {
         "equivalent": "fsshh, hiss, sshh, sss",
@@ -4266,20 +4390,14 @@
     "literal": "zashu"
   },
   {
-    "hiragana": [
-      "ざわ",
-      "ざわっ"
-    ],
-    "katakana": [
-      "ザワ",
-      "ザワッ"
-    ],
+    "hiragana": ["ざわざわ"],
+    "katakana": ["ザワザワ"],
     "definition": [{
       "equivalent": "ballyhoo, buzz, chatter, commotion, din, hubbub, ruckus",
       "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-      "example": ["zawa-1"]
+      "example": ["zawa_zawa1a-ザワザワ"]
     }],
-    "literal": "zawa"
+    "literal": "zawa zawa"
   },
   {
     "hiragana": [
