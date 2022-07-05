@@ -11,7 +11,7 @@
     "definition": [{
       "equivalent": "ahh, aha-n, moan, sigh",
       "meaning": "a moan of pleasure, often used in a comical manner",
-      "example": ["ahan-1"]
+      "example": ["ahan-あはーん"]
     }],
     "literal": "ahan"
   },
@@ -28,20 +28,20 @@
       {
         "equivalent": "about-face, pivot, spin, turn, whirl",
         "meaning": "turning around suddenly",
-        "example": ["ba-1"]
+        "example": ["ba1-バッ"]
       },
       {
-        "equivalent": "fwip, fwit, pop, snap",
+        "equivalent": "fwip, fwit, pop, snap, zip",
         "meaning": "a sudden and/or fast movement",
         "example": [
-          "ba-2",
-          "ba2-ばっ"
+          "ba2a-ばっ",
+          "ba2b-ばっ"
         ]
       },
       {
         "equivalent": "bam, bang, crash, slam, slap, smack, thump, thud, thunk, whack, wham, whap, whomp",
         "meaning": "a sudden and loud impact",
-        "example": ["ba-3"]
+        "example": ["ba3-バッ"]
       }
     ],
     "literal": "ba"
@@ -63,8 +63,8 @@
       "equivalent": "bam, bang, crack, hit, pound, slam, slap, slug, sock, thwack, whack",
       "meaning": "a short, sharp sound of impact",
       "example": [
-        "ban-1a",
-        "ban-1b"
+        "ban-ばん",
+        "ban-バンッ"
       ]
     }],
     "literal": "ban"
@@ -86,12 +86,12 @@
       {
         "equivalent": "crinkle, flap, rustle, swish",
         "meaning": "soft sounds of cloth or paper movement",
-        "example": ["basa-1"]
+        "example": ["basa1-バサ"]
       },
       {
         "equivalent": "appear, arrive, emerge, expose, loom, reveal, shaa, show up, ta-da, unveil",
         "meaning": "to suddenly appear, as in a dramatic \"reveal\"",
-        "example": ["basa-バサア"]
+        "example": ["basa2-バサア"]
       }
     ],
     "literal": "basa"
@@ -102,23 +102,17 @@
     "definition": [{
       "equivalent": "bam, ker-chack, slam, thud, thwack",
       "meaning": "The impact sound of a door opening or closing",
-      "example": ["batan-1"]
+      "example": ["batan-バタン"]
     }],
     "literal": "batan"
   },
   {
-    "hiragana": [
-      "ばたばた",
-      "ばた ばた"
-    ],
-    "katakana": [
-      "バタバタ",
-      "バタ バタ"
-    ],
+    "hiragana": ["ばたばた"],
+    "katakana": ["バタバタ"],
     "definition": [{
       "equivalent": "footsteps, step step, pitter-pat, thump thump, run",
       "meaning": "the sound of shoes stepping across the floor",
-      "example": ["bata_bata-1"]
+      "example": ["bata_bata-バタバタ"]
     }],
     "literal": "bata bata"
   },
@@ -154,7 +148,7 @@
     "definition": [{
       "equivalent": "bang, bash, bop, clap, clobber, crack, hit, knock, pound, punch, slam, slug, smite, strike, thump, thwack, wallop",
       "meaning": "the sound of a strike in a fight",
-      "example": ["bi-1"]
+      "example": ["bi-ビッ"]
     }],
     "literal": "bi"
   },
@@ -172,7 +166,7 @@
     "definition": [{
       "equivalent": "gout, gush, sloosh, slosh, spatter, splash, splatter, spray, squirt",
       "meaning": "to cause a liquid to gush or splash",
-      "example": ["bicha-1"]
+      "example": ["bicha-びちゃ"]
     }],
     "literal": "bicha"
   },
@@ -193,7 +187,7 @@
       "equivalent": "jerk, jolt, flinch, shudder, startle",
       "meaning": "an expression surprise or startlement",
       "example": [
-        "biku-1",
+        "biku-びくっ",
         "biku-ビク"
       ]
     }],
@@ -212,12 +206,12 @@
       {
         "equivalent": "shiver, shudder, quiver, tremble",
         "meaning": "a strong indication of shaking",
-        "example": ["bikun-1"]
+        "example": ["bikun1-ビクン"]
       },
       {
         "equivalent": "jerk, jolt, flinch, shudder, startle",
         "meaning": "an expression surprise or startlement",
-        "example": ["bikun-2"]
+        "example": ["bikun2-ビクーン"]
       }
     ],
     "literal": "bikun"
@@ -234,7 +228,7 @@
     "definition": [{
       "equivalent": "shiver, shudder, quiver, tremble",
       "meaning": "an indication of shaking",
-      "example": ["biri_biri-1"]
+      "example": ["biri_biri-ビリビリ"]
     }],
     "literal": "biri biri"
   },
@@ -271,17 +265,17 @@
       {
         "equivalent": "freeze, snap, stiffen, straighten",
         "meaning": "a sudden stop of all movement as a reaction",
-        "example": ["bishi-1"]
+        "example": ["bishi1-びしっ"]
       },
       {
         "equivalent": "bop, chop, clip, clout, cuff, slap, smack, spank, swat, thump, thwack, whap",
         "meaning": "a light strike with an empty hand hand or something in hand",
-        "example": ["bishi-2"]
+        "example": ["bishi2-ビシッ"]
       },
       {
         "equivalent": "thud, thunk, thwack",
         "meaning": "the sound of an arrow landing or hitting something",
-        "example": ["bishi-3"]
+        "example": ["bishi3-ビシッ"]
       }
     ],
     "literal": "bishi"
@@ -292,7 +286,7 @@
     "definition": [{
       "equivalent": "fwip, swish, whirr, whish, zipwhiz",
       "meaning": "The sound of an arrow being released",
-      "example": ["bishu-1"]
+      "example": ["bishu-ビシュ"]
     }],
     "literal": "bishu"
   },
@@ -312,7 +306,7 @@
     "definition": [{
       "equivalent": "blaze, burn, fwoosh, ignite, torch",
       "meaning": "to set on fire or to be on fire",
-      "example": ["bo-1"]
+      "example": ["bo-ボッ"]
     }],
     "literal": "bo"
   },
@@ -328,7 +322,7 @@
     "definition": [{
       "equivalent": "floof, poof, ploof",
       "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
-      "example": ["bofu-1"]
+      "example": ["bofu-ボフッ"]
     }],
     "literal": "bofu"
   },
@@ -354,7 +348,7 @@
     "definition": [{
       "equivalent": "mumble, murmer, mutter",
       "meaning": "to speak softly and unclearly ",
-      "example": ["boso-1"]
+      "example": ["boso-ぼそっ"]
     }],
     "literal": "boso"
   },
@@ -370,7 +364,7 @@
     "definition": [{
       "equivalent": "billow, bwaa, surge, swell",
       "meaning": "to bulge or swell outward, as in flame, smoke, or clouds",
-      "example": ["bowa-1"]
+      "example": ["bowa-ボワッ"]
     }],
     "literal": "bowa"
   },
@@ -386,7 +380,7 @@
     "definition": [{
       "equivalent": "boing, bounce, carom, rebound, ricochet",
       "meaning": "the sound of something bouncing",
-      "example": ["boyon-1"]
+      "example": ["boyon-ボョンッ"]
     }],
     "literal": "boyon"
   },
@@ -401,12 +395,12 @@
       "ブ",
       "ブッ",
       "ブー",
-      "ブー"
+      "ブーッ"
     ],
     "definition": [{
       "equivalent": "bleh, blarg, expectorate, ptoo, ptooey, spat, spit, spit out, sploosh",
       "meaning": "to spit or otherwise eject something from the mouth",
-      "example": ["bu-1"]
+      "example": ["bu-ブーッ"]
     }],
     "literal": "bu"
   },
@@ -427,8 +421,8 @@
       "equivalent": "chortle, guffaw, snicker, snort",
       "meaning": "sound of suppressed laughter",
       "example": [
-        "bufu-1a",
-        "bufu-1b"
+        "bufu1a-ぶふっ",
+        "bufu1b-ブフッ"
       ]
     }],
     "literal": "bufu"
@@ -445,7 +439,7 @@
     "definition": [{
       "equivalent": "launch, ascend, lift, rise, takeoff",
       "meaning": "something large or heavy rising, lifted, or taking flight",
-      "example": ["buku-1"]
+      "example": ["buku-ブクッ"]
     }],
     "literal": "buku"
   },
@@ -462,12 +456,12 @@
       {
         "equivalent": "swish, swoosh, whoosh, zip, zoom",
         "meaning": "the sound of something moving swiftly through the air",
-        "example": ["bun-1"]
+        "example": ["bun1-ブンッ"]
       },
       {
         "equivalent": "convulse, flutter, jerk, jiggle, jolt, quiver, shake, shiver shudder, tremble, wobble",
         "meaning": "an irregular or violent movement",
-        "example": ["bun-2"]
+        "example": ["bun2-ブンッ"]
       }
     ],
     "literal": "bun"
@@ -485,8 +479,8 @@
       "equivalent": "flick flick, shake shake, swish swish, wave wave",
       "meaning": "a quick movement from side to side or up and down",
       "example": [
-        "bun_bun-1a",
-        "bun_bun-1b"
+        "bun_bun1a-ぶんぶんっ",
+        "bun_bun1b-ブンブンッ"
       ]
     }],
     "literal": "bun bun"
@@ -503,7 +497,7 @@
     "definition": [{
       "equivalent": "quiver, shiver, shudder, tremble",
       "meaning": "shaking involuntarily, as from fear or cold",
-      "example": ["buru_buru-1"]
+      "example": ["buru_buru1-ブルブルッ"]
     }],
     "literal": "buru buru"
   },
@@ -519,7 +513,7 @@
     "definition": [{
       "equivalent": "cut, slice",
       "meaning": "a smallish, shallow cut",
-      "example": ["butsu-1"]
+      "example": ["butsu1-ブツッ"]
     }],
     "literal": "butsu"
   },
@@ -536,8 +530,8 @@
       "equivalent": "bang, boom, ka-boom",
       "meaning": "a loud explosion or explosive force",
       "example": [
-        "buwa-1a",
-        "buwa-1b"
+        "buwa1a-ぶわっ",
+        "buwa1b-ブワッ"
       ]
     }],
     "literal": "buwa"
@@ -547,18 +541,22 @@
       "びゅ",
       "びゅっ",
       "びゅー",
-      "びゅっ"
+      "びゅっ",
+      "びゅう",
+      "びゅぅ"
     ],
     "katakana": [
       "ビュ",
       "ビュッ",
       "ビュー",
-      "ビューッ"
+      "ビューッ",
+      "ビュウ",
+      "ビュゥ"
     ],
     "definition": [{
       "equivalent": "whish, whistle, whoo, whoosh, wind",
       "meaning": "the sound of wind or blowing air",
-      "example": ["byu-1"]
+      "example": ["byu1-ビュウ"]
     }],
     "literal": "byu"
   },
@@ -2670,7 +2668,10 @@
     "definition": [{
       "equivalent": "aggravated, annoyed, hmph, irked, irritated, narked, peeved, pissed, riled, unamused, vexed",
       "meaning": "an expression of annoyance",
-      "example": ["mu-1"]
+      "example": [
+        "mu-1",
+        "mu-むう"
+      ]
     }],
     "literal": "mu"
   },
@@ -2688,7 +2689,10 @@
     "definition": [{
       "equivalent": "hmm, uh, um, what?",
       "meaning": "an expression of thinking, considering, or realization",
-      "example": ["mumu-むむむ"]
+      "example": [
+        "mumu-むむむ",
+        "mumu-ムム"
+      ]
     }],
     "literal": "mumu"
   },
@@ -3066,11 +3070,18 @@
       "ピシ",
       "ピシッ"
     ],
-    "definition": [{
-      "equivalent": "burst, crack, shatter, smack, split, snap",
-      "meaning": "the sound of something suddenly breaking",
-      "example": ["pishi-1"]
-    }],
+    "definition": [
+      {
+        "equivalent": "burst, crack, shatter, smack, split, snap",
+        "meaning": "the sound of something suddenly breaking",
+        "example": ["pishi-1"]
+      },
+      {
+        "equivalent": "flick, pop, snap, zip",
+        "meaning": "a rapid snapping to position",
+        "example": ["pishi2-ぴしっ"]
+      }
+    ],
     "literal": "pishi"
   },
   {
