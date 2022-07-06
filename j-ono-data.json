@@ -1,6 +1,22 @@
 [
   {
     "hiragana": [
+      "あはは",
+      "あははは"
+    ],
+    "katakana": [
+      "アハハ",
+      "アハハハ"
+    ],
+    "definition": [{
+      "equivalent": "ahaha, haha, cackle, guffaw, laughter, snicker",
+      "meaning": "general laughter, often at someone's expense",
+      "example": ["ahaha1a-アハハ"]
+    }],
+    "literal": "ahaha"
+  },
+  {
+    "hiragana": [
       "あはん",
       "あはーん"
     ],
@@ -213,7 +229,8 @@
       "meaning": "an expression surprise or startlement",
       "example": [
         "biku1a-びくっ",
-        "biku1b-ビク"
+        "biku1b-ビク",
+        "biku1c-ビクッ"
       ]
     }],
     "literal": "biku"
@@ -512,6 +529,26 @@
   },
   {
     "hiragana": [
+      "ぶる",
+      "ぶるっ",
+      "ぶるる",
+      "ぶるるる"
+    ],
+    "katakana": [
+      "ブル",
+      "ブルッ",
+      "ブルル",
+      "ブルルル"
+    ],
+    "definition": [{
+      "equivalent": "quiver, shiver, shudder, tremble",
+      "meaning": "shaking involuntarily, as from fear or cold",
+      "example": ["buru1a-ぶるるるるるるる"]
+    }],
+    "literal": "buru"
+  },
+  {
+    "hiragana": [
       "ぶるぶる",
       "ぶるぶるっ"
     ],
@@ -713,7 +750,8 @@
       "meaning": "to run or start running",
       "example": [
         "da1a-ダッ",
-        "da1b-だっ"
+        "da1b-だっ",
+        "da1c-だ"
       ]
     }],
     "literal": "da"
@@ -1062,6 +1100,22 @@
   },
   {
     "hiragana": [
+      "ふり",
+      "ふりっ"
+    ],
+    "katakana": [
+      "フリ",
+      "フリッ"
+    ],
+    "definition": [{
+      "equivalent": "pivot, spin, swing, swivel, turn, twist",
+      "meaning": "to quickly turn or look away",
+      "example": ["furi1a-ふりっ"]
+    }],
+    "literal": "furi"
+  },
+  {
+    "hiragana": [
       "ふりふり",
       "ふりふりっ"
     ],
@@ -1122,19 +1176,18 @@
     ],
     "definition": [
       {
-        "equivalent": "bam, blow, chop, clobber, clout, crash, crunch, hit, impact, kick, knock, pelt, pound, punch, slam, slug, smash, strike, thud, thunk, wham",
-        "meaning": "the sound of an impact during a fight",
-        "example": ["ga1a-ガッ"]
+        "equivalent": "bam, blow, chop, clang, clank, clash, clobber, clout, crash, crunch, hit, impact, kick, knock, pelt, pound, punch, slam, slug, smash, strike, tang, thud, thunk, wham, whang",
+        "meaning": "a generic sound of impact, as from a fight or something dropped",
+        "example": [
+          "ga1a-ガッ",
+          "ga1b-ガッ",
+          "ga1c-ガ"
+        ]
       },
       {
         "equivalent": "catch, clutch, glom, grab, grasp, hold, nab, seize, snag, snatch",
         "meaning": "seizing something with a sudden motion or grasp",
         "example": ["ga2a-ガッ"]
-      },
-      {
-        "equivalent": "clang, clank, clash, tang, whang",
-        "meaning": "the sound of a hard, sharp metalic strike",
-        "example": ["ga3a-ガッ"]
       }
     ],
     "literal": "ga"
@@ -1423,6 +1476,16 @@
     "literal": "gata"
   },
   {
+    "hiragana": ["がたがた"],
+    "katakana": ["ガタガタ"],
+    "definition": [{
+      "equivalent": "clang clang, clunk clunk, clatter, creak creak, rattle",
+      "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
+      "example": ["gata_gata1a-ガタガタ"]
+    }],
+    "literal": "gata gata"
+  },
+  {
     "hiragana": ["がつがつ"],
     "katakana": ["ガツガツ"],
     "definition": [{
@@ -1664,7 +1727,10 @@
     "definition": [{
       "equivalent": "bat, biff, bonk, bop, clip, gong, smack, scuff, sock, swat, thump, whack",
       "meaning": "to strike something in a minor or harmless manner",
-      "example": ["gon1a-ゴンッ"]
+      "example": [
+        "gon1a-ゴンッ",
+        "gon1b-ゴン"
+      ]
     }],
     "literal": "gon"
   },
@@ -2375,6 +2441,16 @@
     "literal": "karan"
   },
   {
+    "hiragana": ["かりかり"],
+    "katakana": ["カリカリ"],
+    "definition": [{
+      "equivalent": "click, draw, print, scrape, scratch, scribble, stroke, tap, write",
+      "meaning": "the sound of writing something, as on paper or chalkboard",
+      "example": ["kari_kari1a-カリカリ"]
+    }],
+    "literal": "kari kari"
+  },
+  {
     "hiragana": ["かしゃ"],
     "katakana": ["カシャ"],
     "definition": [{
@@ -2572,6 +2648,16 @@
     "literal": "kopopo"
   },
   {
+    "hiragana": ["ころ"],
+    "katakana": ["コロ"],
+    "definition": [{
+      "equivalent": "drop, fall, plunk, plop, slip, topple",
+      "meaning": "the sound of something landing after falling",
+      "example": ["koro1a-コロ"]
+    }],
+    "literal": "koro"
+  },
+  {
     "hiragana": ["ころん"],
     "katakana": ["コロン"],
     "definition": [{
@@ -2697,10 +2783,11 @@
     ],
     "definition": [{
       "equivalent": "pivot, spin, swing, swivel, turn, twist",
-      "meaning": "to turn or look away",
+      "meaning": "to turn, look away, or look towards something",
       "example": [
         "kuru-1",
-        "kuru1b-クル"
+        "kuru1b-クル",
+        "kuru1c-くる"
       ]
     }],
     "literal": "kuru"
@@ -2904,6 +2991,16 @@
       "example": ["niko-1"]
     }],
     "literal": "niko"
+  },
+  {
+    "hiragana": ["にこにこ"],
+    "katakana": ["ニコニコ"],
+    "definition": [{
+      "equivalent": "beam, smile, grin, smirk",
+      "meaning": "an expression happiness, amusement, or agreement",
+      "example": ["niko_niko1a-ニコニコ"]
+    }],
+    "literal": "niko niko"
   },
   {
     "hiragana": [
@@ -3184,6 +3281,26 @@
   },
   {
     "hiragana": [
+      "ぴか",
+      "ぴかっ",
+      "ぴかー",
+      "ぴかーっ"
+    ],
+    "katakana": [
+      "ピカ",
+      "ピカッ",
+      "ピカー",
+      "ピカーッ"
+    ],
+    "definition": [{
+      "equivalent": "bright, dazzle, gleam, glimmer, glitter, glow, light, radiance, shine, sparkle",
+      "meaning": "a bright glowing appearance, typically metaphorical",
+      "example": ["pika1a-ピカー"]
+    }],
+    "literal": "pika"
+  },
+  {
+    "hiragana": [
       "ぴこん",
       "ぴこーん"
     ],
@@ -3400,6 +3517,16 @@
   {
     "hiragana": ["ぽろ"],
     "katakana": ["ポロ"],
+    "definition": [{
+      "equivalent": "drop, fall, plunk, plop, slip, topple",
+      "meaning": "the sound of something slipping or falling",
+      "example": ["poro1a-ポロ"]
+    }],
+    "literal": "poro"
+  },
+  {
+    "hiragana": ["ぽろぽろ"],
+    "katakana": ["ポロポロ"],
     "definition": [{
       "equivalent": "blub, cry, sob, tears, weep",
       "meaning": "shedding tears as an expression of pain or distress",
@@ -3709,6 +3836,36 @@
   },
   {
     "hiragana": [
+      "そ",
+      "そっ",
+      "そー",
+      "そーっ"
+    ],
+    "katakana": [
+      "ソ",
+      "ソッ",
+      "ソー",
+      "ソーッ"
+    ],
+    "definition": [
+      {
+        "equivalent": "creep, hide, quiet, pad, skulk, slink, slip, sneak, tip toe",
+        "meaning": "to move in a secretive or quiet manner",
+        "example": [
+          "so-そ",
+          "so-そっ"
+        ]
+      },
+      {
+        "equivalent": "deliver, gesture, give, hand over, hold, pass, raise, reach, slide, touch",
+        "meaning": "to reach out to someone, so as to touch or present them with something",
+        "example": ["so2a-そっ"]
+      }
+    ],
+    "literal": "so "
+  },
+  {
+    "hiragana": [
       "す",
       "すっ",
       "すー",
@@ -3822,6 +3979,16 @@
       "example": ["suta-1"]
     }],
     "literal": "suta"
+  },
+  {
+    "hiragana": ["すたすた"],
+    "katakana": ["スタスタ"],
+    "definition": [{
+      "equivalent": " ignore, pass, pass by, walk, walk by, walk past",
+      "meaning": "to move past someone quickly, typically ignoring them",
+      "example": ["suta_suta1a-スタ_スタ"]
+    }],
+    "literal": "suta suta"
   },
   {
     "hiragana": [
@@ -4264,7 +4431,8 @@
       "meaning": "a roar, shout or cheer, either in fear or in celebration",
       "example": [
         "wa-1a",
-        "wa-1b"
+        "wa-1b",
+        "wa1c-ワアアア"
       ]
     }],
     "literal": "wa"
