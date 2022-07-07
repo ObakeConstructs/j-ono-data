@@ -369,6 +369,22 @@
     "literal": "bofu"
   },
   {
+    "hiragana": [
+      "ぼこ",
+      "ぼこっ"
+    ],
+    "katakana": [
+      "ボコ",
+      "ボコッ"
+    ],
+    "definition": [{
+      "equivalent": "bead, blub, blister, boil, bubble, glob, gob",
+      "meaning": "to form blisters or globules",
+      "example": ["boko1a-ボコ"]
+    }],
+    "literal": "boko"
+  },
+  {
     "hiragana": ["ぼろぼろ"],
     "katakana": ["ボロボロ"],
     "definition": [{
@@ -921,8 +937,8 @@
       "ドロォ"
     ],
     "definition": [{
-      "equivalent": "dissolve, dribble, drip, exude, flow, glop, liquify, ooze, melt, seep, trickle",
-      "meaning": "to flow forth, melt or drip slowly",
+      "equivalent": "dissolve, dribble, drip, exude, flow, glop, liquify, ooze, melt, run, seep, soften, thaw, trickle",
+      "meaning": "to melt, flow, or drip slowly",
       "example": [
         "doro1a-ドロッ",
         "doro1b-ドロオ"
@@ -1285,6 +1301,22 @@
       "example": ["gaki1a-ガキッ"]
     }],
     "literal": "gaki"
+  },
+  {
+    "hiragana": [
+      "がきん",
+      "がきんっ"
+    ],
+    "katakana": [
+      "ガキン",
+      "ガキンッ"
+    ],
+    "definition": [{
+      "equivalent": "clang, clank, clash, tang, whang",
+      "meaning": "the reverberating sound of a hard, sharp metalic strike",
+      "example": ["gakin1a-ガキンッ"]
+    }],
+    "literal": "gakin"
   },
   {
     "hiragana": [
@@ -2234,12 +2266,21 @@
     "literal": "jabu jabu"
   },
   {
-    "hiragana": ["じゃき"],
-    "katakana": ["ジャキ"],
+    "hiragana": [
+      "じゃき",
+      "じゃきっ"
+    ],
+    "katakana": [
+      "ジャキ",
+      "ジャキッ"
+    ],
     "definition": [{
-      "equivalent": "ching, shing",
-      "meaning": "a metallic sound, typical of unsheathing blades",
-      "example": ["jaki-1"]
+      "equivalent": "ching, jing, shaa, shing",
+      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "example": [
+        "jaki-1",
+        "jaki1b-じゃきっ"
+      ]
     }],
     "literal": "jaki"
   },
@@ -4189,6 +4230,22 @@
       "example": ["topopo-1"]
     }],
     "literal": "topopo"
+  },
+  {
+    "hiragana": [
+      "とろ",
+      "とろっ"
+    ],
+    "katakana": [
+      "トロ",
+      "トロッ"
+    ],
+    "definition": [{
+      "equivalent": "dissolve, dribble, drip, exude, flow, glop, liquify, ooze, melt, run, seep, soften, thaw, trickle",
+      "meaning": "to melt, flow, or drip slowly",
+      "example": ["toro1a-トロッ"]
+    }],
+    "literal": "toro"
   },
   {
     "hiragana": [
