@@ -10,8 +10,11 @@
     ],
     "definition": [{
       "equivalent": "ahaha, haha, cackle, guffaw, laughter, snicker",
-      "meaning": "general laughter, often at someone's expense",
-      "example": ["ahaha1a-アハハ"]
+      "meaning": "to laugh loudly at someone",
+      "example": [
+        "ahaha1a-アハハ",
+        "ahaha1b-あはは"
+      ]
     }],
     "literal": "ahaha"
   },
@@ -534,11 +537,12 @@
       "ブンブンッ"
     ],
     "definition": [{
-      "equivalent": "flick flick, shake shake, swish swish, wave wave",
+      "equivalent": "flick flick, shake shake, swish swish, swipe swipe, wave wave",
       "meaning": "a quick movement from side to side or up and down",
       "example": [
         "bun_bun1a-ぶん_ぶんっ",
-        "bun_bun1b-ブン_ブンッ"
+        "bun_bun1b-ブン_ブンッ",
+        "bun_bun1c-ブン_ブン"
       ]
     }],
     "literal": "bun bun"
@@ -787,6 +791,16 @@
       "example": ["daki1a-ダキッ"]
     }],
     "literal": "daki"
+  },
+  {
+    "hiragana": ["だらだら"],
+    "katakana": ["ダラダラ"],
+    "definition": [{
+      "equivalent": "bead bead, dribble, drip drip, drop drop, trickle",
+      "meaning": "continously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
+      "example": ["dara_dara1a-ダラダラ"]
+    }],
+    "literal": "dara dara"
   },
   {
     "hiragana": [
@@ -1438,7 +1452,10 @@
     "definition": [{
       "equivalent": "murmur, rustle",
       "meaning": "gentle, quiet sounds of movement, like grass in wind or fabric or ninjas",
-      "example": ["gasa1a-ガサ"]
+      "example": [
+        "gasa1a-ガサ",
+        "gasa1b-ガサ"
+      ]
     }],
     "literal": "gasa"
   },
@@ -2052,28 +2069,28 @@
       {
         "equivalent": "ha, haa, pant, gasp",
         "meaning": "breathing hard after exertion",
-        "example": ["ha-1"]
+        "example": ["ha1a-はっ"]
       },
       {
         "equivalent": "exhale, sigh, hahh",
         "meaning": "a deep sigh or exhalation",
         "example": [
-          "ha-2",
-          "ha2-はぁ"
+          "ha2a-は",
+          "ha2b-はぁ"
         ]
       },
       {
         "equivalent": "gasp, realize",
         "meaning": "a sudden realization or understanding",
         "example": [
-          "ha-3a",
-          "ha-3b"
+          "ha3a-はっ",
+          "ha3b-ハッ"
         ]
       },
       {
         "equivalent": "ha, hah, heh, laugh. laughter",
         "meaning": "a single heartfelt laugh",
-        "example": ["ha4-はっ"]
+        "example": ["ha4a-はっ"]
       }
     ],
     "literal": "ha"
@@ -2089,7 +2106,7 @@
     ],
     "katakana": [
       "ハハ",
-      "ハハッ",
+      "ハッハッ",
       "ハハハ",
       "ハッハッハッ",
       "ハァハァ",
@@ -2099,12 +2116,15 @@
       {
         "equivalent": "haha",
         "meaning": "laughter",
-        "example": ["ha_ha-1"]
+        "example": ["ha_ha1a-はは"]
       },
       {
         "equivalent": "hah hah, pant pant",
         "meaning": "to breathe hard after exertion",
-        "example": ["haa_haa_はぁはぁ"]
+        "example": [
+          "ha_ha2a-はぁはぁ",
+          "ha_ha2b-ハッ_ハッ"
+        ]
       }
     ],
     "literal": "ha ha"
@@ -2132,10 +2152,10 @@
     ],
     "definition": [{
       "equivalent": "eek, eep, shriek, squeal, yelp, yike, yikes",
-      "meaning": "a high-pitched squeal of surprise, often for comedic effect",
+      "meaning": "a high-pitched squeal of surprise, sometimes used for comedic effect",
       "example": [
-        "hi-1a",
-        "hi-1b"
+        "hi1a-ヒッ",
+        "hi1b-ヒィィィッ"
       ]
     }],
     "literal": "hi"
@@ -2146,7 +2166,7 @@
     "definition": [{
       "equivalent": "softly, whisper",
       "meaning": "to speak quietly in order to not be overheard",
-      "example": ["hiso_hiso-1"]
+      "example": ["hiso_hiso1a-ヒソ_ヒソ"]
     }],
     "literal": "hiso hiso"
   },
@@ -2166,7 +2186,7 @@
     "definition": [{
       "equivalent": "ahh, phew, relief, relieved, sigh, whew",
       "meaning": "the sound or expression of relief",
-      "example": ["ho-1"]
+      "example": ["ho1a-ほっ"]
     }],
     "literal": "ho"
   },
@@ -2176,7 +2196,7 @@
     "definition": [{
       "equivalent": "ah, aha, ah ha, well",
       "meaning": "an expression of unexpected realization",
-      "example": ["hohou-ほほぅ"]
+      "example": ["hohou1a-ほほぅ"]
     }],
     "literal": "hohou"
   },
@@ -2184,9 +2204,9 @@
     "hiragana": ["ひょい"],
     "katakana": ["ヒョイ"],
     "definition": [{
-      "equivalent": "carry, catch, easy, effortless, lift, move, smooth",
+      "equivalent": "easy, effortless, smooth",
       "meaning": "a quick, effortless action",
-      "example": ["hyoi-1"]
+      "example": ["hyoi1a-ひょい"]
     }],
     "literal": "hyoi"
   },
@@ -2196,7 +2216,7 @@
     "definition": [{
       "equivalent": "peek, gander, look, peep, regard",
       "meaning": "an expression of taking a look, often from behind something, as from hiding",
-      "example": ["hyoko-1"]
+      "example": ["hyoko1a-ひょこ"]
     }],
     "literal": "hyoko"
   },
@@ -2216,7 +2236,7 @@
     "definition": [{
       "equivalent": "shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
       "meaning": "something moving quickly through the air",
-      "example": ["hyu-ヒュッ"]
+      "example": ["hyu1a-ヒュッ"]
     }],
     "literal": "hyu"
   },
@@ -2232,12 +2252,35 @@
     "definition": [{
       "equivalent": "shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
       "meaning": "something moving quickly through the air",
-      "example": [
-        "hyun-1a",
-        "hyun-1b"
-      ]
+      "example": ["hyun1a-ヒュンッ"]
     }],
     "literal": "hyun"
+  },
+  {
+    "hiragana": ["ひゅんひゅん"],
+    "katakana": ["ヒュンヒュン"],
+    "definition": [{
+      "equivalent": "shoom shoom, swoosh swoosh, whish whish, whoosh whoosh, zip zip",
+      "meaning": "something moving through the air quickly and repetitively ",
+      "example": ["hyun_hyun1a-ヒュン_ヒュン"]
+    }],
+    "literal": "hyun hyun"
+  },
+  {
+    "hiragana": [
+      "いえい",
+      "いえーい"
+    ],
+    "katakana": [
+      "イエイ",
+      "イエーイ"
+    ],
+    "definition": [{
+      "equivalent": "ayyy, heyyy, yayyy",
+      "meaning": "an expression of joy, approval, or excitement, often used humorously or as posing for a photograph",
+      "example": ["iei1a-イエーイ"]
+    }],
+    "literal": "iei"
   },
   {
     "hiragana": [
@@ -2251,7 +2294,7 @@
     "definition": [{
       "equivalent": "fah, ouch, ow",
       "meaning": "an expression of pain",
-      "example": ["itai-1"]
+      "example": ["itai1a-イターイ"]
     }],
     "literal": "itai"
   },
@@ -2261,7 +2304,7 @@
     "definition": [{
       "equivalent": "splash splash",
       "meaning": "the sound of splashing water",
-      "example": ["jabu_jabu-ジャブジャブ"]
+      "example": ["jabu_jabu1a-ジャブジャブ"]
     }],
     "literal": "jabu jabu"
   },
@@ -2278,7 +2321,7 @@
       "equivalent": "ching, jing, shaa, shing",
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
       "example": [
-        "jaki-1",
+        "jaki1a-ジャキ",
         "jaki1b-じゃきっ"
       ]
     }],
@@ -2290,7 +2333,7 @@
     "definition": [{
       "equivalent": "ching, jingle, clink, ting, tink, tinkle",
       "meaning": "a sharp light sound of rattling metal or glass",
-      "example": ["jara-1"]
+      "example": ["jara1a-ジャラ"]
     }],
     "literal": "jara"
   },
@@ -2300,21 +2343,22 @@
       "じっ",
       "じー",
       "じーっ",
-      "じぃーっ"
+      "じぃっ"
     ],
     "katakana": [
       "ジ",
       "ジッ",
       "ジー",
       "ジーッ",
-      "ジィーッ"
+      "ジィッ"
     ],
     "definition": [{
       "equivalent": "gape, gawk, peer, regard, scrutinize, stare, study",
       "meaning": "a lengthy stare at someone or something",
       "example": [
-        "ji-1a",
-        "ji-1b"
+        "ji1a-じっ",
+        "ji1b-じぃっ",
+        "ji1c-じー"
       ]
     }],
     "literal": "ji"
@@ -2335,7 +2379,7 @@
     "definition": [{
       "equivalent": "gape, gawk, peer, regard, scrutinize, stare, study",
       "meaning": "a lengthy stare at someone or something",
-      "example": ["jin-じーん"]
+      "example": ["jin1a-じーん"]
     }],
     "literal": "jin"
   },
@@ -2353,7 +2397,7 @@
     "definition": [{
       "equivalent": "beep beep, ding-a-ling, ring ring",
       "meaning": "sound of ringing, as from an alarm or phone",
-      "example": ["jiriri-1"]
+      "example": ["jiriri1a-ジリリ"]
     }],
     "literal": "jiriri"
   },
@@ -2363,7 +2407,7 @@
     "definition": [{
       "equivalent": "gape, gawk, stare, peer",
       "meaning": "a good hard stare at someone or something",
-      "example": ["jiro-1"]
+      "example": ["jiro1a-じろ"]
     }],
     "literal": "jiro"
   },
@@ -2379,7 +2423,7 @@
     "definition": [{
       "equivalent": "slurp",
       "meaning": "variant of the more common 'churru'",
-      "example": ["juru-1"]
+      "example": ["juru1a-ぢゅる"]
     }],
     "literal": "juru"
   },
@@ -2649,6 +2693,16 @@
     "literal": "ko"
   },
   {
+    "hiragana": ["こほん"],
+    "katakana": ["コホン"],
+    "definition": [{
+      "equivalent": "ahem, cough, hack, rasp",
+      "meaning": "to cough or to make a noise like a cough",
+      "example": ["kohon1a-コホン"]
+    }],
+    "literal": "kohon"
+  },
+  {
     "hiragana": ["こく"],
     "katakana": ["コク"],
     "definition": [{
@@ -2794,6 +2848,16 @@
     "literal": "kui kui"
   },
   {
+    "hiragana": ["くねくね"],
+    "katakana": ["クネクネ"],
+    "definition": [{
+      "equivalent": "boing, jiggle, wobble",
+      "meaning": "a series of small irregular movements or oscillations",
+      "example": ["kune_kune1a-クネ_クネ"]
+    }],
+    "literal": "kune kune"
+  },
+  {
     "hiragana": [
       "くら",
       "くらっ",
@@ -2918,6 +2982,16 @@
       "example": ["mofu-1"]
     }],
     "literal": "mofu"
+  },
+  {
+    "hiragana": ["もぐもぐ"],
+    "katakana": ["モグモグ"],
+    "definition": [{
+      "equivalent": "munch munch, nom nom, snarf snarf",
+      "meaning": "the sound of eating and chewing",
+      "example": ["mogu_mogu1a-モグ_モグ"]
+    }],
+    "literal": "mogu mogu"
   },
   {
     "hiragana": ["もじ"],
@@ -3628,7 +3702,7 @@
     "katakana": ["ポユユン"],
     "definition": [{
       "equivalent": "boing, jiggle, wobble",
-      "meaning": "variant of purin, maybe?",
+      "meaning": "a series of small irregular movements",
       "example": ["poyuyun-1"]
     }],
     "literal": "poyuyun"
@@ -3702,6 +3776,16 @@
     "literal": "pusu pusu"
   },
   {
+    "hiragana": ["ぴょん"],
+    "katakana": ["ピョン"],
+    "definition": [{
+      "equivalent": "boing, bound, bounce, hop, jump, leap, vault",
+      "meaning": "the act of leaping into the air",
+      "example": ["pyon1a-ピョン"]
+    }],
+    "literal": "pyon"
+  },
+  {
     "hiragana": [
       "ぴゅ",
       "ぴゅっ",
@@ -3761,6 +3845,22 @@
       }
     ],
     "literal": "sa"
+  },
+  {
+    "hiragana": [
+      "さら",
+      "さらっ"
+    ],
+    "katakana": [
+      "サラ",
+      "サラッ"
+    ],
+    "definition": [{
+      "equivalent": "swish, swoosh, whoosh",
+      "meaning": "the soft movement of hair, as in a gentle breeze",
+      "example": ["sara1a-サラ"]
+    }],
+    "literal": "sara"
   },
   {
     "hiragana": [
@@ -4375,13 +4475,26 @@
     "literal": "un"
   },
   {
-    "hiragana": ["うんうん"],
-    "katakana": ["ウンウン"],
-    "definition": [{
-      "equivalent": "nod nod, yep yep",
-      "meaning": "nodding the head repeatedly to express agreement",
-      "example": ["un_un-1"]
-    }],
+    "hiragana": [
+      "うんうん",
+      "うーんうーん"
+    ],
+    "katakana": [
+      "ウンウン",
+      "ウーンウーン"
+    ],
+    "definition": [
+      {
+        "equivalent": "nod nod, yep yep",
+        "meaning": "nodding the head repeatedly to express agreement",
+        "example": ["un_un-1"]
+      },
+      {
+        "equivalent": "groan groan, moan moan, uhhh uhhh, ummm ummm",
+        "meaning": "a series of low sounds expressing pain or grief",
+        "example": ["un_un2a-ウーンウーン"]
+      }
+    ],
     "literal": "un un"
   },
   {
@@ -4686,7 +4799,10 @@
       {
         "equivalent": "chill, jerk, jolt, flinch, shudder, startle, surprise",
         "meaning": "an expression surprise or startlement",
-        "example": ["zoku-1a"]
+        "example": [
+          "zoku-1a",
+          "zoku1b-ぞくっ"
+        ]
       }
     ],
     "literal": "zoku"
@@ -4816,7 +4932,10 @@
     "definition": [{
       "equivalent": "dejected, depressed, dreary, doom, mope, gloom, glum",
       "meaning": "an expression of low spirits",
-      "example": ["zun-1"]
+      "example": [
+        "zun-1",
+        "zun1b-ズーン"
+      ]
     }],
     "literal": "zun"
   },
