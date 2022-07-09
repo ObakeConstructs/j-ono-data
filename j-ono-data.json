@@ -644,6 +644,22 @@
   },
   {
     "hiragana": [
+      "ちゃ",
+      "ちゃっ"
+    ],
+    "katakana": [
+      "チャ",
+      "チャッ"
+    ],
+    "definition": [{
+      "equivalent": "ching, jing, shaa, shing",
+      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "example": ["cha1a-チャッ"]
+    }],
+    "literal": "cha"
+  },
+  {
+    "hiragana": [
       "ちゃき",
       "ちゃきっ"
     ],
@@ -1025,18 +1041,29 @@
     "hiragana": [
       "どど",
       "どぉどぉ",
-      "どおどお"
+      "どおどお",
+      "どどど",
+      "どどどど"
     ],
     "katakana": [
       "ドド",
       "ドォドォ",
-      "ドオドオ"
+      "ドオドオ",
+      "ドドド",
+      "ドドドド"
     ],
-    "definition": [{
-      "equivalent": "bam, blow, chop, clobber, clout, crunch, hit, impact, knock, pelt, pound, punch, slam, slug, strike, thud, thunk, wham",
-      "meaning": "a painful, but non-fatal strike, as from the back of a sword",
-      "example": ["do_do1a-ドォ_ドォ"]
-    }],
+    "definition": [
+      {
+        "equivalent": "bam bam, clobber, crunch, hit hit, impact, knock knock, pound, punch punch, slam slam, strike strike, thud thuf, thunk, wham wham",
+        "meaning": "a painful, but non-fatal strike, as from the back of a sword",
+        "example": ["do_do1a-ドォ_ドォ"]
+      },
+      {
+        "equivalent": "bang bang, blam blam, blast blast, boom boom, whump whump",
+        "meaning": "a series of small explosions",
+        "example": ["do_do2a-ドドドドドド"]
+      }
+    ],
     "literal": "do do"
   },
   {
@@ -1460,12 +1487,21 @@
     "literal": "gasa"
   },
   {
-    "hiragana": ["がさがさ"],
-    "katakana": ["ガサガサ"],
+    "hiragana": [
+      "がさがさ",
+      "がさがさっ"
+    ],
+    "katakana": [
+      "ガサガサ",
+      "ガサガサッ"
+    ],
     "definition": [{
-      "equivalent": "murmur, rustle",
-      "meaning": "indistinct, but continuous small natural sounds, as the movement of leaves or underbrush",
-      "example": ["gasa_gasa1a-ガサ_ガサ"]
+      "equivalent": "movement, rustle rustle, stir stir, swish swish",
+      "meaning": "continuous small natural sounds, as the movement of leaves or underbrush",
+      "example": [
+        "gasa_gasa1a-ガサ_ガサ",
+        "gasa_gasa1b-ガサ_ガサッ"
+      ]
     }],
     "literal": "gasa gasa"
   },
@@ -1573,17 +1609,35 @@
   {
     "hiragana": [
       "ぎ",
-      "ぎっ"
+      "ぎっ",
+      "ぎぃっ",
+      "ぎぃぃっ",
+      "ぎぃぃぃっ"
     ],
     "katakana": [
       "ギ",
-      "ギッ"
+      "ギッ",
+      "ギィッ",
+      "ギィィッ",
+      "ギィィィッ"
     ],
-    "definition": [{
-      "equivalent": "move, rustle, swish",
-      "meaning": "a subtle moving or shifting sound, like farbic or plants",
-      "example": ["gi1a-ギッ"]
-    }],
+    "definition": [
+      {
+        "equivalent": "move, rustle, swish",
+        "meaning": "a subtle moving or shifting sound, like farbic or plants",
+        "example": ["gi1a-ギッ"]
+      },
+      {
+        "equivalent": "cry, screech, squeak, squeal, squee",
+        "meaning": "the cry of a small animal",
+        "example": ["gi2a-ギィィィィッ"]
+      },
+      {
+        "equivalent": "creak, screech, shriek, squeak, squeal",
+        "meaning": "a creaking noise, as from a door or old chair",
+        "example": ["gi3a-ギィ"]
+      }
+    ],
     "literal": "gi"
   },
   {
@@ -3115,7 +3169,10 @@
     "definition": [{
       "equivalent": "beam, smile, grin, smirk",
       "meaning": "an expression happiness, amusement, or agreement",
-      "example": ["niko1a-ニコッ"]
+      "example": [
+        "niko1a-ニコッ",
+        "niko1b-にこっ"
+      ]
     }],
     "literal": "niko"
   },
@@ -3619,7 +3676,10 @@
       {
         "equivalent": "bap, bop, clap, pat, poke, swat, tap, thump",
         "meaning": "the sound of a soft strike or blow not intended to harm",
-        "example": ["pon2a-ぽん"]
+        "example": [
+          "pon2a-ぽん",
+          "pon2a-ぽんっ"
+        ]
       },
       {
         "equivalent": "give, hand, hand over, pass, toss",
@@ -3962,8 +4022,11 @@
       },
       {
         "equivalent": "fwip, whiz, whoosh, zip, zoom",
-        "meaning": "to move quickly with only the sound of flowing air",
-        "example": ["shun-2"]
+        "meaning": "to move quickly with only the sound of flowing air, often vanishing",
+        "example": [
+          "shun-2",
+          "shun2b-シュンッ"
+        ]
       }
     ],
     "literal": "shun"
@@ -4279,9 +4342,12 @@
       "トッ"
     ],
     "definition": [{
-      "equivalent": "tap",
+      "equivalent": "flick, pat, tap",
       "meaning": "a soft, quick tap",
-      "example": ["to-1"]
+      "example": [
+        "to-1",
+        "to1a-トッ"
+      ]
     }],
     "literal": "to"
   },
@@ -4752,8 +4818,11 @@
     ],
     "definition": [{
       "equivalent": "cleave, cut, slash, slice",
-      "meaning": "a fast cut, as with a sword or knife",
-      "example": ["zan-1"]
+      "meaning": "a hard fast cut, as with a sword or knife",
+      "example": [
+        "zan-1",
+        "zan1b-ザンッ"
+      ]
     }],
     "literal": "zan"
   },
@@ -4921,7 +4990,7 @@
     "definition": [
       {
         "equivalent": "gape, gawk, peer, regard, scrutinize, stare, study",
-        "meaning": "a intense stare at someone or something",
+        "meaning": "to stare intensely at someone or something",
         "example": ["zui-1"]
       },
       {
