@@ -12,8 +12,8 @@
       "equivalent": "ahaha, haha, cackle, guffaw, laughter, snicker",
       "meaning": "to laugh loudly at someone",
       "example": [
-        "ahaha1a-アハハ",
-        "ahaha1b-あはは"
+        "ahaha~1a~アハハ",
+        "ahaha~1b~あはは"
       ]
     }],
     "literal": "ahaha"
@@ -30,7 +30,7 @@
     "definition": [{
       "equivalent": "ahh, aha-n, moan, sigh",
       "meaning": "a moan of pleasure, often used in a comical manner",
-      "example": ["ahan1a-あはーん"]
+      "example": ["ahan~1a~あはーん"]
     }],
     "literal": "ahan"
   },
@@ -47,25 +47,25 @@
       {
         "equivalent": "about-face, pivot, spin, turn, whirl",
         "meaning": "turning around suddenly",
-        "example": ["ba1a-バッ"]
+        "example": ["ba~1a~バッ"]
       },
       {
         "equivalent": "fwip, fwit, pop, snap, zip",
         "meaning": "a sudden and/or fast movement",
         "example": [
-          "ba2a-ばっ",
-          "ba2b-ばっ"
+          "ba~2a~ばっ",
+          "ba~2b~ばっ"
         ]
       },
       {
         "equivalent": "bam, bang, crash, slam, slap, smack, thump, thud, thunk, whack, wham, whap, whomp",
         "meaning": "a sudden and loud impact",
-        "example": ["ba3a-バッ"]
+        "example": ["ba~3a~バッ"]
       },
       {
         "equivalent": "extend, outstretch, reach, stretch",
         "meaning": "to reach or stretch out a hand",
-        "example": ["ba4a-バッ"]
+        "example": ["ba~4a~バッ"]
       }
     ],
     "literal": "ba"
@@ -87,8 +87,8 @@
       "equivalent": "bam, bang, crack, hit, pound, slam, slap, slug, sock, thwack, whack",
       "meaning": "a short, sharp sound of impact",
       "example": [
-        "ban1a-ばん",
-        "ban1b-バンッ"
+        "ban~1a~ばん",
+        "ban~1b~バンッ"
       ]
     }],
     "literal": "ban"
@@ -110,12 +110,12 @@
       {
         "equivalent": "crinkle, flap, rustle, swish",
         "meaning": "soft sounds of cloth or paper movement",
-        "example": ["basa1a-バサ"]
+        "example": ["basa~1a~バサ"]
       },
       {
         "equivalent": "appear, arrive, emerge, expose, loom, reveal, shaa, show up, ta-da, unveil",
         "meaning": "to suddenly appear, as in a dramatic \"reveal\"",
-        "example": ["basa2a-バサア"]
+        "example": ["basa~2a~バサア"]
       }
     ],
     "literal": "basa"
@@ -126,7 +126,7 @@
     "definition": [{
       "equivalent": "gush, jet, slosh, spew, splash, sploosh, spout, swash",
       "meaning": "a medium to large splashing noise",
-      "example": ["basha1a-バシャ"]
+      "example": ["basha~1a~バシャ"]
     }],
     "literal": "basha"
   },
@@ -136,7 +136,7 @@
     "definition": [{
       "equivalent": "slosh slosh, sop sop, splash splash, swash swash, wash wash",
       "meaning": "to splash water onto something, often used for cleaning or washing",
-      "example": ["basha_basha1a-バシャ_バシャ"]
+      "example": ["basha_basha~1a~バシャ_バシャ"]
     }],
     "literal": "basha basha"
   },
@@ -146,7 +146,7 @@
     "definition": [{
       "equivalent": "bam, ker-chack, slam, thud, thwack",
       "meaning": "The impact sound of a door opening or closing",
-      "example": ["batan1a-バタン"]
+      "example": ["batan~1a~バタン"]
     }],
     "literal": "batan"
   },
@@ -156,7 +156,7 @@
     "definition": [{
       "equivalent": "footsteps, step step, pitter-pat, thump thump, run",
       "meaning": "the sound of shoes stepping across the floor",
-      "example": ["bata_bata1a-バタ_バタ"]
+      "example": ["bata_bata~1a~バタ_バタ"]
     }],
     "literal": "bata bata"
   },
@@ -176,7 +176,7 @@
     "definition": [{
       "equivalent": "cling, gummy, stick, sticky, tacky",
       "meaning": "an indication of something that tends to stick to something else",
-      "example": ["beta1a-ベタァ"]
+      "example": ["beta~1a~ベタァ"]
     }],
     "literal": "beta"
   },
@@ -192,7 +192,7 @@
     "definition": [{
       "equivalent": "bang, bash, bop, clap, clobber, crack, hit, knock, pound, punch, slam, slug, smite, strike, thump, thwack, wallop",
       "meaning": "the sound of a strike in a fight",
-      "example": ["bi1a-ビッ"]
+      "example": ["bi~1a~ビッ"]
     }],
     "literal": "bi"
   },
@@ -210,7 +210,7 @@
     "definition": [{
       "equivalent": "gout, gush, sloosh, slosh, spatter, splash, splatter, spray, squirt",
       "meaning": "to cause a liquid to gush or splash",
-      "example": ["bicha1a-びちゃ"]
+      "example": ["bicha~1a~びちゃ"]
     }],
     "literal": "bicha"
   },
@@ -231,9 +231,9 @@
       "equivalent": "jerk, jolt, flinch, shudder, startle",
       "meaning": "an expression surprise or startlement",
       "example": [
-        "biku1a-びくっ",
-        "biku1b-ビク",
-        "biku1c-ビクッ"
+        "biku~1a~びくっ",
+        "biku~1b~ビク",
+        "biku~1c~ビクッ"
       ]
     }],
     "literal": "biku"
@@ -251,12 +251,12 @@
       {
         "equivalent": "shiver, shudder, quiver, tremble",
         "meaning": "a strong indication of shaking",
-        "example": ["bikun1a-ビクン"]
+        "example": ["bikun~1a~ビクン"]
       },
       {
         "equivalent": "jerk, jolt, flinch, shudder, startle",
         "meaning": "an expression surprise or startlement",
-        "example": ["bikun2a-ビクーン"]
+        "example": ["bikun~2a~ビクーン"]
       }
     ],
     "literal": "bikun"
@@ -273,7 +273,7 @@
     "definition": [{
       "equivalent": "shiver, shudder, quiver, tremble",
       "meaning": "an indication of shaking",
-      "example": ["biri_biri1a-ビリ_ビリ"]
+      "example": ["biri_biri~1a~ビリ_ビリ"]
     }],
     "literal": "biri biri"
   },
@@ -289,7 +289,7 @@
     "definition": [{
       "equivalent": "dash, spatter, splash, splatter",
       "meaning": "the sound of something wet striking something else",
-      "example": ["bisha1a-ビシャ"]
+      "example": ["bisha~1a~ビシャ"]
     }],
     "literal": "bisha"
   },
@@ -310,17 +310,17 @@
       {
         "equivalent": "freeze, snap, stiffen, straighten",
         "meaning": "a sudden stop of all movement as a reaction",
-        "example": ["bishi1a-びしっ"]
+        "example": ["bishi~1a~びしっ"]
       },
       {
         "equivalent": "bop, chop, clip, clout, cuff, slap, smack, spank, swat, thump, thwack, whap",
         "meaning": "a light strike with an empty hand hand or something in hand",
-        "example": ["bishi2a-ビシッ"]
+        "example": ["bishi~2a~ビシッ"]
       },
       {
         "equivalent": "thud, thunk, thwack",
         "meaning": "the sound of an arrow landing or hitting something",
-        "example": ["bishi3a-ビシッ"]
+        "example": ["bishi~3a~ビシッ"]
       }
     ],
     "literal": "bishi"
@@ -331,7 +331,7 @@
     "definition": [{
       "equivalent": "fwip, swish, whirr, whish, zipwhiz",
       "meaning": "The sound of an arrow being released",
-      "example": ["bishu1a-ビシュ"]
+      "example": ["bishu~1a~ビシュ"]
     }],
     "literal": "bishu"
   },
@@ -351,7 +351,7 @@
     "definition": [{
       "equivalent": "blaze, burn, fwoosh, ignite, torch",
       "meaning": "to set on fire or to be on fire",
-      "example": ["bo1a-ボッ"]
+      "example": ["bo~1a~ボッ"]
     }],
     "literal": "bo"
   },
@@ -367,7 +367,7 @@
     "definition": [{
       "equivalent": "floof, poof, ploof",
       "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
-      "example": ["bofu1a-ボフッ"]
+      "example": ["bofu~1a~ボフッ"]
     }],
     "literal": "bofu"
   },
@@ -383,7 +383,7 @@
     "definition": [{
       "equivalent": "bead, blub, blister, boil, bubble, glob, gob",
       "meaning": "to form blisters or globules",
-      "example": ["boko1a-ボコ"]
+      "example": ["boko~1a~ボコ"]
     }],
     "literal": "boko"
   },
@@ -393,7 +393,7 @@
     "definition": [{
       "equivalent": "blub blub, cry cry, drip drip, sob sob, weep weep",
       "meaning": "dripping tears as an expression of pain or distress",
-      "example": ["boro_boro1a-ぼろ_ぼろ"]
+      "example": ["boro_boro~1a~ぼろ_ぼろ"]
     }],
     "literal": "boro boro"
   },
@@ -409,7 +409,7 @@
     "definition": [{
       "equivalent": "mumble, murmer, mutter",
       "meaning": "to speak softly and unclearly ",
-      "example": ["boso1a-ぼそっ"]
+      "example": ["boso~1a~ぼそっ"]
     }],
     "literal": "boso"
   },
@@ -425,7 +425,7 @@
     "definition": [{
       "equivalent": "billow, bwaa, surge, swell",
       "meaning": "to bulge or swell outward, as in flame, smoke, or clouds",
-      "example": ["bowa1a-ボワッ"]
+      "example": ["bowa~1a~ボワッ"]
     }],
     "literal": "bowa"
   },
@@ -441,7 +441,7 @@
     "definition": [{
       "equivalent": "boing, bounce, carom, rebound, ricochet",
       "meaning": "the sound of something bouncing",
-      "example": ["boyon1a-ボョンッ"]
+      "example": ["boyon~1a~ボョンッ"]
     }],
     "literal": "boyon"
   },
@@ -461,7 +461,7 @@
     "definition": [{
       "equivalent": "bleh, blarg, expectorate, ptoo, ptooey, spat, spit, spit out, sploosh",
       "meaning": "to spit or otherwise eject something from the mouth",
-      "example": ["bu1a-ブーッ"]
+      "example": ["bu~1a~ブーッ"]
     }],
     "literal": "bu"
   },
@@ -482,8 +482,8 @@
       "equivalent": "chortle, guffaw, snicker, snort",
       "meaning": "sound of suppressed laughter",
       "example": [
-        "bufu1a-ぶふっ",
-        "bufu1b-ブフッ"
+        "bufu~1a~ぶふっ",
+        "bufu~1b~ブフッ"
       ]
     }],
     "literal": "bufu"
@@ -500,7 +500,7 @@
     "definition": [{
       "equivalent": "launch, ascend, lift, rise, takeoff",
       "meaning": "something large or heavy rising, lifted, or taking flight",
-      "example": ["buku1a-ブクッ"]
+      "example": ["buku~1a~ブクッ"]
     }],
     "literal": "buku"
   },
@@ -517,12 +517,12 @@
       {
         "equivalent": "swish, swoosh, whoosh, zip, zoom",
         "meaning": "the sound of something moving swiftly through the air",
-        "example": ["bun1a-ブンッ"]
+        "example": ["bun~1a~ブンッ"]
       },
       {
         "equivalent": "convulse, flutter, jerk, jiggle, jolt, quiver, shake, shiver shudder, tremble, wobble",
         "meaning": "an irregular or violent movement",
-        "example": ["bun2a-ブンッ"]
+        "example": ["bun~2a~ブンッ"]
       }
     ],
     "literal": "bun"
@@ -540,9 +540,9 @@
       "equivalent": "flick flick, shake shake, swish swish, swipe swipe, wave wave",
       "meaning": "a quick movement from side to side or up and down",
       "example": [
-        "bun_bun1a-ぶん_ぶんっ",
-        "bun_bun1b-ブン_ブンッ",
-        "bun_bun1c-ブン_ブン"
+        "bun_bun~1a~ぶん_ぶんっ",
+        "bun_bun~1b~ブン_ブンッ",
+        "bun_bun~1c~ブン_ブン"
       ]
     }],
     "literal": "bun bun"
@@ -563,7 +563,7 @@
     "definition": [{
       "equivalent": "quiver, shiver, shudder, tremble",
       "meaning": "shaking involuntarily, as from fear or cold",
-      "example": ["buru1a-ぶるるるるるるる"]
+      "example": ["buru~1a~ぶるるるるるるる"]
     }],
     "literal": "buru"
   },
@@ -579,7 +579,7 @@
     "definition": [{
       "equivalent": "quiver, shiver, shudder, tremble",
       "meaning": "shaking involuntarily, as from fear or cold",
-      "example": ["buru_buru1a-ブル_ブルッ"]
+      "example": ["buru_buru~1a~ブル_ブルッ"]
     }],
     "literal": "buru buru"
   },
@@ -595,7 +595,7 @@
     "definition": [{
       "equivalent": "cut, slice",
       "meaning": "a smallish, shallow cut",
-      "example": ["butsu1a-ブツッ"]
+      "example": ["butsu~1a~ブツッ"]
     }],
     "literal": "butsu"
   },
@@ -612,8 +612,8 @@
       "equivalent": "bang, boom, ka-boom",
       "meaning": "a loud explosion or explosive force",
       "example": [
-        "buwa1a-ぶわっ",
-        "buwa1b-ブワッ"
+        "buwa~1a~ぶわっ",
+        "buwa~1b~ブワッ"
       ]
     }],
     "literal": "buwa"
@@ -638,7 +638,7 @@
     "definition": [{
       "equivalent": "whish, whistle, whoo, whoosh, wind",
       "meaning": "the sound of wind or blowing air",
-      "example": ["byu1a-ビュウ"]
+      "example": ["byu~1a~ビュウ"]
     }],
     "literal": "byu"
   },
@@ -654,7 +654,7 @@
     "definition": [{
       "equivalent": "ching, jing, shaa, shing",
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
-      "example": ["cha1a-チャッ"]
+      "example": ["cha~1a~チャッ"]
     }],
     "literal": "cha"
   },
@@ -671,8 +671,8 @@
       "equivalent": "chack, click, ka-chik, ker-chack",
       "meaning": "the sound of short, sharp, metalic clicks",
       "example": [
-        "chaki1a-チャキッ",
-        "chaki1b-チャキ"
+        "chaki~1a~チャキッ",
+        "chaki~1b~チャキ"
       ]
     }],
     "literal": "chaki"
@@ -689,7 +689,7 @@
     "definition": [{
       "equivalent": "ching, shing",
       "meaning": "a metallic sound, typical when unsheathing blades",
-      "example": ["chakin1a-チャキン"]
+      "example": ["chakin~1a~チャキン"]
     }],
     "literal": "chakin"
   },
@@ -707,7 +707,7 @@
     "definition": [{
       "equivalent": "ching, jingle, clink, ting, tink, tinkle",
       "meaning": "a sharp light sound of rattling metal or glass",
-      "example": ["chari1a-チャリリリ"]
+      "example": ["chari~1a~チャリリリ"]
     }],
     "literal": "chari"
   },
@@ -723,7 +723,7 @@
     "definition": [{
       "equivalent": "ching, clink, ding, ting, tink",
       "meaning": "the small noise of a single tossed coin being tossed",
-      "example": ["charin1a-チャリン"]
+      "example": ["charin~1a~チャリン"]
     }],
     "literal": "charin"
   },
@@ -733,7 +733,7 @@
     "definition": [{
       "equivalent": "chik chik, click click",
       "meaning": "a sharp clicking sound that repeats, like extending a snap-off blade",
-      "example": ["chiki_chiki1a-チキ_チキ"]
+      "example": ["chiki_chiki~1a~チキ_チキ"]
     }],
     "literal": "chiki chiki"
   },
@@ -750,8 +750,8 @@
       "equivalent": "glance, glimpse, look, peek, view",
       "meaning": "a quick or hasty look",
       "example": [
-        "chira1a-チラ",
-        "chira1b-ちらっ"
+        "chira~1a~チラ",
+        "chira~1b~ちらっ"
       ]
     }],
     "literal": "chira"
@@ -768,7 +768,7 @@
     "definition": [{
       "equivalent": "slurp",
       "meaning": "classic ramen eating noise",
-      "example": ["churu1a-ちゅる"]
+      "example": ["churu~1a~ちゅる"]
     }],
     "literal": "churu"
   },
@@ -785,9 +785,9 @@
       "equivalent": "bolt, charge, dash, hurry, pelt, run, rush, sprint",
       "meaning": "to run or start running",
       "example": [
-        "da1a-ダッ",
-        "da1b-だっ",
-        "da1c-だ"
+        "da~1a~ダッ",
+        "da~1b~だっ",
+        "da~1c~だ"
       ]
     }],
     "literal": "da"
@@ -804,7 +804,7 @@
     "definition": [{
       "equivalent": "bolt, charge, dash, hurry, run, rush, sprint",
       "meaning": "to run or start running",
-      "example": ["dada1a-ダダッ"]
+      "example": ["dada~1a~ダダッ"]
     }],
     "literal": "dada"
   },
@@ -820,7 +820,7 @@
     "definition": [{
       "equivalent": "clasp, cradle, embrace, grasp, hold, hug",
       "meaning": "the act of putting one's arms around someone and holding tightly",
-      "example": ["daki1a-ダキッ"]
+      "example": ["daki~1a~ダキッ"]
     }],
     "literal": "daki"
   },
@@ -830,7 +830,7 @@
     "definition": [{
       "equivalent": "bead bead, dribble, drip drip, drop drop, trickle",
       "meaning": "continously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
-      "example": ["dara_dara1a-ダラ_ダラ"]
+      "example": ["dara_dara~1a~ダラ_ダラ"]
     }],
     "literal": "dara dara"
   },
@@ -850,7 +850,7 @@
     "definition": [{
       "equivalent": "bang, bam, blast, boom, crack, pop, whomp, whump",
       "meaning": "a relatively small explosion",
-      "example": ["do1a-ドッ"]
+      "example": ["do~1a~ドッ"]
     }],
     "literal": "do"
   },
@@ -866,7 +866,7 @@
     "definition": [{
       "equivalent": "bam, blow, chop, clobber, clout, crash, crunch, hit, impact, kick, knock, pelt, pound, punch, slam, slug, smash, strike, thud, thunk, wham",
       "meaning": "a painful strike",
-      "example": ["dogo1a-ドゴッ"]
+      "example": ["dogo~1a~ドゴッ"]
     }],
     "literal": "dogo"
   },
@@ -882,7 +882,7 @@
     "definition": [{
       "equivalent": "blam, blow, crash, smash, strike, wham",
       "meaning": "a large impact or an explosion",
-      "example": ["dogon1a-ドゴン"]
+      "example": ["dogon~1a~ドゴン"]
     }],
     "literal": "dogon"
   },
@@ -898,7 +898,7 @@
     "definition": [{
       "equivalent": "crash, kick, slam, smash, stomp, wallop",
       "meaning": "the sound of a loud strike, as in kicking down a door",
-      "example": ["doka1a-ドカ"]
+      "example": ["doka~1a~ドカ"]
     }],
     "literal": "doka"
   },
@@ -908,7 +908,7 @@
     "definition": [{
       "equivalent": "blam, blow, crash, smash, strike, wham",
       "meaning": "a loud and destructive strike",
-      "example": ["dokan1a-ドカァン"]
+      "example": ["dokan~1a~ドカァン"]
     }],
     "literal": "dokan"
   },
@@ -918,7 +918,7 @@
     "definition": [{
       "equivalent": "ba-dump, heartbeat, thump thump",
       "meaning": "indication of elevated heart rate, like when in love, scared, or otherwise excited",
-      "example": ["doki_doki1a-ドキ_ドキ"]
+      "example": ["doki_doki~1a~ドキ_ドキ"]
     }],
     "literal": "doki doki"
   },
@@ -940,15 +940,15 @@
         "equivalent": "bam, bang, bash, boom, bop, bump, clomp, clonk, clunk, crack, crash, hit, smash, thud, thunk, wham, wrack, wreck, whump",
         "meaning": "a sound of things impacting, can be loud or soft depending on context",
         "example": [
-          "don1a-ドンッ",
-          "don1b-どん",
-          "don1c-ドォォン"
+          "don~1a~ドンッ",
+          "don~1b~どん",
+          "don~1c~ドォォン"
         ]
       },
       {
         "equivalent": "bam, boom, dah, here, ta-da",
         "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
-        "example": ["don2a-ドン"]
+        "example": ["don~2a~ドン"]
       }
     ],
     "literal": "don"
@@ -970,8 +970,8 @@
       "equivalent": "dissolve, dribble, drip, exude, flow, glop, liquify, ooze, melt, run, seep, soften, thaw, trickle",
       "meaning": "to melt, flow, or drip slowly",
       "example": [
-        "doro1a-ドロッ",
-        "doro1b-ドロオ"
+        "doro~1a~ドロッ",
+        "doro~1b~ドロオ"
       ]
     }],
     "literal": "doro"
@@ -990,14 +990,14 @@
         "equivalent": "buckle, collapse, fall, stumble, topple, tumble",
         "meaning": "to fall down from an upright position",
         "example": [
-          "dosa1a-どさ",
-          "dosa1b-ドサッ"
+          "dosa~1a~どさ",
+          "dosa~1b~ドサッ"
         ]
       },
       {
         "equivalent": "thump, whump",
         "meaning": "the sound of books or stacks of paper being dropped onto a surface",
-        "example": ["dosa2a-どさ"]
+        "example": ["dosa~2a~どさ"]
       }
     ],
     "literal": "dosa"
@@ -1014,7 +1014,7 @@
     "definition": [{
       "equivalent": "bam, bang, crash, slam, slap, smack, thump, thud, thunk, whack, wham, whap, whomp",
       "meaning": "the sound of impact, often from a falling person or dropped object",
-      "example": ["dosha1a-どしゃ"]
+      "example": ["dosha~1a~どしゃ"]
     }],
     "literal": "dosha"
   },
@@ -1031,8 +1031,8 @@
       "equivalent": "bam, blow, chop, clobber, clout, crunch, hit, impact, knock, pelt, pound, punch, slam, slug, strike, thud, thunk, wham",
       "meaning": "the sound of a strike in a fight, typically non-lethal",
       "example": [
-        "dosu1a-ドス",
-        "dosu1b-ドスゥ"
+        "dosu~1a~ドス",
+        "dosu~1b~ドスゥ"
       ]
     }],
     "literal": "dosu"
@@ -1056,12 +1056,12 @@
       {
         "equivalent": "bam bam, clobber, crunch, hit hit, impact, knock knock, pound, punch punch, slam slam, strike strike, thud thuf, thunk, wham wham",
         "meaning": "a painful, but non-fatal strike, as from the back of a sword",
-        "example": ["do_do1a-ドォ_ドォ"]
+        "example": ["do_do~1a~ドォ_ドォ"]
       },
       {
         "equivalent": "bang bang, blam blam, blast blast, boom boom, whump whump",
         "meaning": "a series of small explosions",
-        "example": ["do_do2a-ドドドドドド"]
+        "example": ["do_do~2a~ドドドドドド"]
       }
     ],
     "literal": "do do"
@@ -1072,7 +1072,7 @@
     "definition": [{
       "equivalent": "huff, yawn",
       "meaning": "a deep breath expressing tiredness or boredom",
-      "example": ["faa1a-ふぁあ"]
+      "example": ["faa~1a~ふぁあ"]
     }],
     "literal": "faa"
   },
@@ -1102,29 +1102,29 @@
         "equivalent": "chortle, chuckle, grin, ha, heh, laugh, smile, smirk, snicker",
         "meaning": "a quick, short laugh or an expression of humor",
         "example": [
-          "fu1a-ふっ",
-          "fu1b-ふ"
+          "fu~1a~ふっ",
+          "fu~1b~ふ"
         ]
       },
       {
         "equivalent": "fade, disappear, vanish",
         "meaning": "to vanish or cause something to vanish",
-        "example": ["fu2a-フッ"]
+        "example": ["fu~2a~フッ"]
       },
       {
         "equivalent": "ease, relief, release, solace",
         "meaning": "an expression of relief",
-        "example": ["fu3a-ふーっ"]
+        "example": ["fu~3a~ふーっ"]
       },
       {
         "equivalent": "fwip, fwit, fwoom, pop, shoom, snap, whoom",
         "meaning": "a sudden and/or fast movement",
-        "example": ["fu4a-フーッ"]
+        "example": ["fu~4a~フーッ"]
       },
       {
         "equivalent": "ha, haa, pant, gasp, whew",
         "meaning": "breathing hard after light exertion",
-        "example": ["fu5a-ふう"]
+        "example": ["fu~5a~ふう"]
       }
     ],
     "literal": "fu"
@@ -1141,7 +1141,7 @@
     "definition": [{
       "equivalent": "dizzy, faint, swoon, woozy",
       "meaning": "a temporary loss or near loss of consciousness",
-      "example": ["fura1a-フラッ"]
+      "example": ["fura~1a~フラッ"]
     }],
     "literal": "fura"
   },
@@ -1151,7 +1151,7 @@
     "definition": [{
       "equivalent": "shiver, shudder, quiver, tremble",
       "meaning": "an indication of shaking",
-      "example": ["fura_fura1a-フラ_フラ"]
+      "example": ["fura_fura~1a~フラ_フラ"]
     }],
     "literal": "fura fura"
   },
@@ -1167,7 +1167,7 @@
     "definition": [{
       "equivalent": "pivot, spin, swing, swivel, turn, twist",
       "meaning": "to quickly turn or look away",
-      "example": ["furi1a-ふりっ"]
+      "example": ["furi~1a~ふりっ"]
     }],
     "literal": "furi"
   },
@@ -1183,7 +1183,7 @@
     "definition": [{
       "equivalent": "flick flick,  flip flip, swish swish, wag wag, ",
       "meaning": "a quick side to side motion",
-      "example": ["furi_furi1a-ふり_ふりっ"]
+      "example": ["furi_furi~1a~ふり_ふりっ"]
     }],
     "literal": "furi furi"
   },
@@ -1193,7 +1193,7 @@
     "definition": [{
       "equivalent": "shiver, shudder, quiver, tremble",
       "meaning": "an indication of shaking",
-      "example": ["furo_furo1a-ふろ_ふろ"]
+      "example": ["furo_furo~1a~ふろ_ふろ"]
     }],
     "literal": "furo furo"
   },
@@ -1212,8 +1212,8 @@
       "equivalent": "chortle, chuckle, ha ha, heh heh, laugh",
       "meaning": "a light laugh",
       "example": [
-        "fufu1a-フフフ",
-        "fufu1b-ふふっ"
+        "fufu~1a~フフフ",
+        "fufu~1b~ふふっ"
       ]
     }],
     "literal": "fu fu"
@@ -1236,15 +1236,15 @@
         "equivalent": "bam, blow, chop, clang, clank, clash, clobber, clout, crash, crunch, hit, impact, kick, knock, pelt, pound, punch, slam, slug, smash, strike, tang, thud, thunk, wham, whang",
         "meaning": "a generic sound of impact, as from a fight or something dropped",
         "example": [
-          "ga1a-ガッ",
-          "ga1b-ガッ",
-          "ga1c-ガ"
+          "ga~1a~ガッ",
+          "ga~1b~ガッ",
+          "ga~1c~ガ"
         ]
       },
       {
         "equivalent": "catch, clutch, glom, grab, grasp, hold, nab, seize, snag, snatch",
         "meaning": "seizing something with a sudden motion or grasp",
-        "example": ["ga2a-ガッ"]
+        "example": ["ga~2a~ガッ"]
       }
     ],
     "literal": "ga"
@@ -1262,12 +1262,12 @@
       {
         "equivalent": "arise, fwip, get up, rise up, sit up, stand, suddenly",
         "meaning": "to suddenly sit up or standup.",
-        "example": ["gaba1a-ガバッ"]
+        "example": ["gaba~1a~ガバッ"]
       },
       {
         "equivalent": "clasp, cradle, embrace, grasp, hold, hug",
         "meaning": "he act of putting one's arms around someone and holding tightly",
-        "example": ["gaba2a-がば"]
+        "example": ["gaba~2a~がば"]
       }
     ],
     "literal": "gaba"
@@ -1284,7 +1284,7 @@
     "definition": [{
       "equivalent": "bite, chomp, crunch",
       "meaning": "a strong bite",
-      "example": ["gabu1a-ガブッ"]
+      "example": ["gabu~1a~ガブッ"]
     }],
     "literal": "gabu"
   },
@@ -1295,12 +1295,12 @@
       {
         "equivalent": "clack, click, ka-chik, tick",
         "meaning": "a small noise, as of pressing a button",
-        "example": ["gacha1a-ガチャ"]
+        "example": ["gacha~1a~ガチャ"]
       },
       {
         "equivalent": "clack, clatter, click, clink, ker-chak, rattle",
         "meaning": "The short, sharp sounds of opening a swinging door",
-        "example": ["gacha2a-ガチャ"]
+        "example": ["gacha~2a~ガチャ"]
       }
     ],
     "literal": "gacha"
@@ -1321,7 +1321,7 @@
     "definition": [{
       "equivalent": "ga ha, ha ha, laugh, laughter",
       "meaning": "loud, heartfelt laughter, sometimes expressing evil humor",
-      "example": ["gaha1a-がははは"]
+      "example": ["gaha~1a~がははは"]
     }],
     "literal": "gaha"
   },
@@ -1339,7 +1339,7 @@
     "definition": [{
       "equivalent": "clang, clank, clash, tang, whang",
       "meaning": "the sound of a hard, sharp metalic strike",
-      "example": ["gaki1a-ガキッ"]
+      "example": ["gaki~1a~ガキッ"]
     }],
     "literal": "gaki"
   },
@@ -1355,7 +1355,7 @@
     "definition": [{
       "equivalent": "clang, clank, clash, tang, whang",
       "meaning": "the reverberating sound of a hard, sharp metalic strike",
-      "example": ["gakin1a-ガキンッ"]
+      "example": ["gakin~1a~ガキンッ"]
     }],
     "literal": "gakin"
   },
@@ -1371,7 +1371,7 @@
     "definition": [{
       "equivalent": "clunk, ga-thunk, ka-thunk, knock, thunk, thwack, tonk",
       "meaning": "the hollow sound of an impact with wood",
-      "example": ["gakon1a-ガコンッ"]
+      "example": ["gakon~1a~ガコンッ"]
     }],
     "literal": "gakon"
   },
@@ -1388,8 +1388,8 @@
       "equivalent": "fall, fold, give in, give up, sag, sink, succumb, slump",
       "meaning": "An expression of giving up or passing out",
       "example": [
-        "gaku1a-がく",
-        "gaku1b-ガクッ"
+        "gaku~1a~がく",
+        "gaku~1b~ガクッ"
       ]
     }],
     "literal": "gaku"
@@ -1400,7 +1400,7 @@
     "definition": [{
       "equivalent": "break, ga-king, ka-clang, rive, snap",
       "meaning": "the sound of something metalic breaking",
-      "example": ["gakyin1a-ガキィン"]
+      "example": ["gakyin~1a~ガキィン"]
     }],
     "literal": "gakyin"
   },
@@ -1421,9 +1421,9 @@
       "equivalent": "bam, bang, bash, clout, hit, pelt, pound, punch, slam, smack, smash, thud, thump, thunk, wallop, whack, wham",
       "meaning": "the sound of a strong impact",
       "example": [
-        "gan1a-ガン",
-        "gan1b-ガォン",
-        "gan1c-ガンッ"
+        "gan~1a~ガン",
+        "gan~1b~ガォン",
+        "gan~1c~ガンッ"
       ]
     }],
     "literal": "gan"
@@ -1441,12 +1441,12 @@
       {
         "equivalent": "bang, close, open, shut, slide, slam, swish, swoosh, thump",
         "meaning": "the sound of opening or closing a sliding window or sliding door, can be soft or slammed",
-        "example": ["gara1a-ガラッ"]
+        "example": ["gara~1a~ガラッ"]
       },
       {
         "equivalent": "clatter, clutter, rattle, tumult",
         "meaning": "the sound of something falling apart, collapsing or settling",
-        "example": ["gara2a-ガラッ"]
+        "example": ["gara~2a~ガラッ"]
       }
     ],
     "literal": "gara"
@@ -1463,7 +1463,7 @@
     "definition": [{
       "equivalent": "growl, grumble, snarl, rumble",
       "meaning": "a low, gutteral noise",
-      "example": ["garu1a-ガルル"]
+      "example": ["garu~1a~ガルル"]
     }],
     "literal": "garu"
   },
@@ -1480,8 +1480,8 @@
       "equivalent": "murmur, rustle",
       "meaning": "gentle, quiet sounds of movement, like grass in wind or fabric or ninjas",
       "example": [
-        "gasa1a-ガサ",
-        "gasa1b-ガサ"
+        "gasa~1a~ガサ",
+        "gasa~1b~ガサ"
       ]
     }],
     "literal": "gasa"
@@ -1499,8 +1499,8 @@
       "equivalent": "movement, rustle rustle, stir stir, swish swish",
       "meaning": "continuous small natural sounds, as the movement of leaves or underbrush",
       "example": [
-        "gasa_gasa1a-ガサ_ガサ",
-        "gasa_gasa1b-ガサ_ガサッ"
+        "gasa_gasa~1a~ガサ_ガサ",
+        "gasa_gasa~1b~ガサ_ガサッ"
       ]
     }],
     "literal": "gasa gasa"
@@ -1522,8 +1522,8 @@
       "equivalent": "blast, crack, crash, shatter, smash",
       "meaning": "the sound of something suddenly breaking into pieces, as from an impact",
       "example": [
-        "gashan1a-ガシャン",
-        "gashan1b-ガシャァァン"
+        "gashan~1a~ガシャン",
+        "gashan~1b~ガシャァァン"
       ]
     }],
     "literal": "gashan"
@@ -1540,7 +1540,7 @@
     "definition": [{
       "equivalent": "get, grab, grasp, grip, hold, nab, snag",
       "meaning": "the act of grabbing and holding",
-      "example": ["gashi1a-ガシッ"]
+      "example": ["gashi~1a~ガシッ"]
     }],
     "literal": "gashi"
   },
@@ -1556,7 +1556,7 @@
     "definition": [{
       "equivalent": "clatter, creak, rattle",
       "meaning": "to stand or sit, and/or the noise of a chair or stool moving while standing or sitting",
-      "example": ["gata1a-ガタ"]
+      "example": ["gata~1a~ガタ"]
     }],
     "literal": "gata"
   },
@@ -1566,7 +1566,7 @@
     "definition": [{
       "equivalent": "clang clang, clunk clunk, clatter, creak creak, rattle",
       "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
-      "example": ["gata_gata1a-ガタ_ガタ"]
+      "example": ["gata_gata~1a~ガタ_ガタ"]
     }],
     "literal": "gata gata"
   },
@@ -1576,7 +1576,7 @@
     "definition": [{
       "equivalent": "scrub scrub, scour scour, swab swab, wash wash",
       "meaning": "the sound of scrubbing something clean",
-      "example": ["gatsu_gatsu1a-ガツ_ガツ"]
+      "example": ["gatsu_gatsu~1a~ガツ_ガツ"]
     }],
     "literal": "gatsu gatsu"
   },
@@ -1586,7 +1586,7 @@
     "definition": [{
       "equivalent": "babel babel, blah blah, cacophony, chatter, clamor, din, hubbub",
       "meaning": "the noise of a crowd of people talking",
-      "example": ["gaya_gaya1a-ガヤ_ガヤ"]
+      "example": ["gaya_gaya~1a~ガヤ_ガヤ"]
     }],
     "literal": "gaya gaya"
   },
@@ -1602,7 +1602,7 @@
     "definition": [{
       "equivalent": "ack, damn, gah, geh",
       "meaning": "an expression of mild alarm, dismay, or annoyance",
-      "example": ["ge1a-げっ"]
+      "example": ["ge~1a~げっ"]
     }],
     "literal": "ge"
   },
@@ -1625,17 +1625,17 @@
       {
         "equivalent": "move, rustle, swish",
         "meaning": "a subtle moving or shifting sound, like farbic or plants",
-        "example": ["gi1a-ギッ"]
+        "example": ["gi~1a~ギッ"]
       },
       {
         "equivalent": "cry, screech, squeak, squeal, squee",
         "meaning": "the cry of a small animal",
-        "example": ["gi2a-ギィィィィッ"]
+        "example": ["gi~2a~ギィィィィッ"]
       },
       {
         "equivalent": "creak, screech, shriek, squeak, squeal",
         "meaning": "a creaking noise, as from a door or old chair",
-        "example": ["gi3a-ギィ"]
+        "example": ["gi~3a~ギィ"]
       }
     ],
     "literal": "gi"
@@ -1653,8 +1653,8 @@
       "equivalent": "alarm, erk, gulp, guilt, shock, urk",
       "meaning": "an expression of dismay, guilt and/or surprise",
       "example": [
-        "giku1a-ギクッ",
-        "giku1b-ぎくっ"
+        "giku~1a~ギクッ",
+        "giku~1b~ぎくっ"
       ]
     }],
     "literal": "giku"
@@ -1671,7 +1671,7 @@
     "definition": [{
       "equivalent": "fixate, glare, glower, regard, stare",
       "meaning": "a fixed intent look",
-      "example": ["gin1a-ギン"]
+      "example": ["gin~1a~ギン"]
     }],
     "literal": "gin"
   },
@@ -1687,7 +1687,7 @@
     "definition": [{
       "equivalent": "glare, glower, stare",
       "meaning": "to look at someone or something with anger or disapproval",
-      "example": ["ginuro1a-ギヌロォ"]
+      "example": ["ginuro~1a~ギヌロォ"]
     }],
     "literal": "ginuro"
   },
@@ -1703,7 +1703,7 @@
     "definition": [{
       "equivalent": "glare, glower, stare",
       "meaning": "to look at someone or something with anger or disapproval",
-      "example": ["gira1a-ギラッ"]
+      "example": ["gira~1a~ギラッ"]
     }],
     "literal": "gira"
   },
@@ -1719,7 +1719,7 @@
     "definition": [{
       "equivalent": "gnash, grind",
       "meaning": "an expression of grinding one's teeth together, often in frustration or anger",
-      "example": ["giri1a-ギリッ"]
+      "example": ["giri~1a~ギリッ"]
     }],
     "literal": "giri"
   },
@@ -1735,7 +1735,7 @@
     "definition": [{
       "equivalent": "fixate, glare, glower, regard, stare",
       "meaning": "a fixed intent look",
-      "example": ["giro1a-ギロ"]
+      "example": ["giro~1a~ギロ"]
     }],
     "literal": "giro"
   },
@@ -1753,7 +1753,7 @@
     "definition": [{
       "equivalent": "clench, gnash, grind, grit",
       "meaning": "an expression of grinding one's teeth, as in pain or frustration",
-      "example": ["gi_gi1a-ギ_ギ"]
+      "example": ["gi_gi~1a~ギ_ギ"]
     }],
     "literal": "gi gi"
   },
@@ -1787,23 +1787,23 @@
         "equivalent": "bam, bang, crack, hit, pound, slam, slap, slug, sock, thwack, whack",
         "meaning": "a sharp sound of impact, as from the hand or fist",
         "example": [
-          "go1a-ゴ",
-          "go1b-ゴッ"
+          "go~1a~ゴ",
+          "go~1b~ゴッ"
         ]
       },
       {
         "equivalent": "boom, shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
         "meaning": "the impact of a strong force or wind, as from an explosion",
         "example": [
-          "go2a-ゴォッ",
-          "go2b-ゴッ",
-          "go2c-ゴオッ"
+          "go~2a~ゴォッ",
+          "go~2b~ゴッ",
+          "go~2c~ゴオッ"
         ]
       },
       {
         "equivalent": "blaze, burn, flames, fwoosh",
         "meaning": "the sound of being on fire and burning fiercely",
-        "example": ["go3a-ゴォォ"]
+        "example": ["go~3a~ゴォォ"]
       }
     ],
     "literal": "go"
@@ -1814,7 +1814,7 @@
     "definition": [{
       "equivalent": "drink drink, gulp gulp, quaff quaff, swallow swallow",
       "meaning": "the sound of swallowing a liquid",
-      "example": ["goku_goku1a-ごく_ごく"]
+      "example": ["goku_goku~1a~ごく_ごく"]
     }],
     "literal": "goku goku"
   },
@@ -1831,8 +1831,8 @@
       "equivalent": "bat, biff, bonk, bop, clip, gong, smack, scuff, sock, swat, thump, whack",
       "meaning": "to strike something in a minor or harmless manner",
       "example": [
-        "gon1a-ゴンッ",
-        "gon1b-ゴン"
+        "gon~1a~ゴンッ",
+        "gon~1b~ゴン"
       ]
     }],
     "literal": "gon"
@@ -1843,7 +1843,7 @@
     "definition": [{
       "equivalent": "belch, disgorge, eject, pour, run, spew, spurt, squirt, stream, swoosh",
       "meaning": "to flow out in great quantities or with force",
-      "example": ["gopori1a-ごぽり"]
+      "example": ["gopori~1a~ごぽり"]
     }],
     "literal": "gopori"
   },
@@ -1853,7 +1853,7 @@
     "definition": [{
       "equivalent": "roll, turn",
       "meaning": "a rolling movement",
-      "example": ["goro1a-ゴロ"]
+      "example": ["goro~1a~ゴロ"]
     }],
     "literal": "goro"
   },
@@ -1863,7 +1863,7 @@
     "definition": [{
       "equivalent": "rock, roll, roll over, spin, tumble, turn",
       "meaning": "a rolling or turning movement",
-      "example": ["goron1a-ごろん"]
+      "example": ["goron~1a~ごろん"]
     }],
     "literal": "goron"
   },
@@ -1873,7 +1873,7 @@
     "definition": [{
       "equivalent": "rub rub, scrub scrub, swipe swipe",
       "meaning": "the act of pressing a cloth or bare hand(s) against something and moving back and forth",
-      "example": ["goshi_goshi1a-ごし_ごし"]
+      "example": ["goshi_goshi~1a~ごし_ごし"]
     }],
     "literal": "goshi goshi"
   },
@@ -1893,7 +1893,7 @@
     "definition": [{
       "equivalent": "howl, raaa, roar, yaaa",
       "meaning": "a loud, violent shout",
-      "example": ["gou1a-ゴウッ"]
+      "example": ["gou~1a~ゴウッ"]
     }],
     "literal": "gou"
   },
@@ -1914,12 +1914,12 @@
       {
         "equivalent": "clench, firm grip, grab, grasp, grip, hold, squeeze",
         "meaning": "the act of grabbing something strongly and holding it",
-        "example": ["gu1a-ぐっ"]
+        "example": ["gu~1a~ぐっ"]
       },
       {
         "equivalent": "drive, force, propel, push, ram, shove, thrust",
         "meaning": "to push or drive with force",
-        "example": ["gu2a-ぐっ"]
+        "example": ["gu~2a~ぐっ"]
       }
     ],
     "literal": "gu"
@@ -1930,7 +1930,7 @@
     "definition": [{
       "equivalent": "drink drink, gulp gulp, quaff quaff, swallow swallow",
       "meaning": "noisily gulping down a liquid, particularly alcohol",
-      "example": ["gubi_gubi1a-ぐび_ぐび"]
+      "example": ["gubi_gubi~1a~ぐび_ぐび"]
     }],
     "literal": "gubi gubi"
   },
@@ -1951,9 +1951,9 @@
       "equivalent": "get, grab, nab, pull, sieze, snag, snatch, take, wrest, yank",
       "meaning": "to take or seize, typically with a sudden motion or grasp",
       "example": [
-        "gui1a-ぐいっ",
-        "gui1b-ぐぃっ",
-        "gui1c-グイ"
+        "gui~1a~ぐいっ",
+        "gui~1b~ぐぃっ",
+        "gui~1c~グイ"
       ]
     }],
     "literal": "gui"
@@ -1970,7 +1970,7 @@
     "definition": [{
       "equivalent": "boil, chafe, fume, gnnn, grrr, rage, rankle, seethe, smolder, steam",
       "meaning": "an expression of passionate anger or fury",
-      "example": ["gununu1a-ぐぬぬぬ"]
+      "example": ["gununu~1a~ぐぬぬぬ"]
     }],
     "literal": "gununu"
   },
@@ -1980,7 +1980,7 @@
     "definition": [{
       "equivalent": "blub, cry, sob, tears, weep",
       "meaning": "shedding tears as an expression of pain or distress",
-      "example": ["gusun_gusun1a-ぐすん_ぐすん"]
+      "example": ["gusun_gusun~1a~ぐすん_ぐすん"]
     }],
     "literal": "gusun gusun"
   },
@@ -1996,7 +1996,7 @@
     "definition": [{
       "equivalent": "blub blub, cry cry, sob sob, tears tears, weep",
       "meaning": "tears welling up as an expression of pain or distress",
-      "example": ["gusu_gusu1a-ぐすっ_ぐすっ"]
+      "example": ["gusu_gusu~1a~ぐすっ_ぐすっ"]
     }],
     "literal": "gusu gusu"
   },
@@ -2012,7 +2012,7 @@
     "definition": [{
       "equivalent": "bellow, howl, roar, scream, screech, shriek, yell",
       "meaning": "a long, loud shout or cry",
-      "example": ["guwa1a-ぐわっ"]
+      "example": ["guwa~1a~ぐわっ"]
     }],
     "literal": "guwa"
   },
@@ -2032,7 +2032,7 @@
     "definition": [{
       "equivalent": "squawk squawk, screech screech, caw caw",
       "meaning": "a series of abrupt shrieks, typically from animals",
-      "example": ["gya_gya1a-ギャァ_ギャッ"]
+      "example": ["gya_gya~1a~ギャァ_ギャッ"]
     }],
     "literal": "gya gya"
   },
@@ -2053,14 +2053,14 @@
       {
         "equivalent": "embrace, hold, hug, squeeze",
         "meaning": "the act of embracing or hugging",
-        "example": ["gyu1a-ぎゅう"]
+        "example": ["gyu~1a~ぎゅう"]
       },
       {
         "equivalent": "clasp, clench, grab, grip, hold, squeeze",
         "meaning": "the act of grabbing something and holding it",
         "example": [
-          "gyu2a-ぎゅっ",
-          "gyu2b-ギュ"
+          "gyu~2a~ぎゅっ",
+          "gyu~2b~ギュ"
         ]
       }
     ],
@@ -2078,7 +2078,7 @@
     "definition": [{
       "equivalent": "embrace, grab, hug, squeeze, wrap",
       "meaning": "the act of embracing or hugging",
-      "example": ["gyumu1a-ぎゅむっ"]
+      "example": ["gyumu~1a~ぎゅむっ"]
     }],
     "literal": "gyumu"
   },
@@ -2094,7 +2094,7 @@
     "definition": [{
       "equivalent": "revolve, rotate, spin, turn, twirl, whirl",
       "meaning": "to spin in circles, typically very fast",
-      "example": ["gyun1a-ギュン"]
+      "example": ["gyun~1a~ギュン"]
     }],
     "literal": "gyun"
   },
@@ -2123,28 +2123,28 @@
       {
         "equivalent": "ha, haa, pant, gasp",
         "meaning": "breathing hard after exertion",
-        "example": ["ha1a-はっ"]
+        "example": ["ha~1a~はっ"]
       },
       {
         "equivalent": "exhale, sigh, hahh",
         "meaning": "a deep sigh or exhalation",
         "example": [
-          "ha2a-は",
-          "ha2b-はぁ"
+          "ha~2a~は",
+          "ha~2b~はぁ"
         ]
       },
       {
         "equivalent": "gasp, realize",
         "meaning": "a sudden realization or understanding",
         "example": [
-          "ha3a-はっ",
-          "ha3b-ハッ"
+          "ha~3a~はっ",
+          "ha~3b~ハッ"
         ]
       },
       {
         "equivalent": "ha, hah, heh, laugh. laughter",
         "meaning": "a single heartfelt laugh",
-        "example": ["ha4a-はっ"]
+        "example": ["ha~4a~はっ"]
       }
     ],
     "literal": "ha"
@@ -2170,14 +2170,14 @@
       {
         "equivalent": "haha",
         "meaning": "laughter",
-        "example": ["ha_ha1a-はは"]
+        "example": ["ha_ha~1a~はは"]
       },
       {
         "equivalent": "hah hah, pant pant",
         "meaning": "to breathe hard, as from exertion or fear",
         "example": [
-          "ha_ha2a-はぁ_はぁ",
-          "ha_ha2b-ハッ_ハッ"
+          "ha_ha~2a~はぁ_はぁ",
+          "ha_ha~2b~ハッ_ハッ"
         ]
       }
     ],
@@ -2208,8 +2208,8 @@
       "equivalent": "eek, eep, shriek, squeal, yelp, yike, yikes",
       "meaning": "a high-pitched squeal of surprise, sometimes used for comedic effect",
       "example": [
-        "hi1a-ヒッ",
-        "hi1b-ヒィィィッ"
+        "hi~1a~ヒッ",
+        "hi~1b~ヒィィィッ"
       ]
     }],
     "literal": "hi"
@@ -2220,7 +2220,7 @@
     "definition": [{
       "equivalent": "softly, whisper",
       "meaning": "to speak quietly in order to not be overheard",
-      "example": ["hiso_hiso1a-ヒソ_ヒソ"]
+      "example": ["hiso_hiso~1a~ヒソ_ヒソ"]
     }],
     "literal": "hiso hiso"
   },
@@ -2240,7 +2240,7 @@
     "definition": [{
       "equivalent": "ahh, phew, relief, relieved, sigh, whew",
       "meaning": "the sound or expression of relief",
-      "example": ["ho1a-ほっ"]
+      "example": ["ho~1a~ほっ"]
     }],
     "literal": "ho"
   },
@@ -2250,7 +2250,7 @@
     "definition": [{
       "equivalent": "ah, aha, ah ha, well",
       "meaning": "an expression of unexpected realization",
-      "example": ["hohou1a-ほほぅ"]
+      "example": ["hohou~1a~ほほぅ"]
     }],
     "literal": "hohou"
   },
@@ -2260,7 +2260,7 @@
     "definition": [{
       "equivalent": "easy, effortless, smooth",
       "meaning": "a quick, effortless action",
-      "example": ["hyoi1a-ひょい"]
+      "example": ["hyoi~1a~ひょい"]
     }],
     "literal": "hyoi"
   },
@@ -2270,7 +2270,7 @@
     "definition": [{
       "equivalent": "peek, gander, look, peep, regard",
       "meaning": "an expression of taking a look, often from behind something, as from hiding",
-      "example": ["hyoko1a-ひょこ"]
+      "example": ["hyoko~1a~ひょこ"]
     }],
     "literal": "hyoko"
   },
@@ -2290,7 +2290,7 @@
     "definition": [{
       "equivalent": "shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
       "meaning": "something moving quickly through the air",
-      "example": ["hyu1a-ヒュッ"]
+      "example": ["hyu~1a~ヒュッ"]
     }],
     "literal": "hyu"
   },
@@ -2306,7 +2306,7 @@
     "definition": [{
       "equivalent": "shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
       "meaning": "something moving quickly through the air",
-      "example": ["hyun1a-ヒュンッ"]
+      "example": ["hyun~1a~ヒュンッ"]
     }],
     "literal": "hyun"
   },
@@ -2316,7 +2316,7 @@
     "definition": [{
       "equivalent": "shoom shoom, swoosh swoosh, whish whish, whoosh whoosh, zip zip",
       "meaning": "something moving through the air quickly and repetitively ",
-      "example": ["hyun_hyun1a-ヒュン_ヒュン"]
+      "example": ["hyun_hyun~1a~ヒュン_ヒュン"]
     }],
     "literal": "hyun hyun"
   },
@@ -2332,7 +2332,7 @@
     "definition": [{
       "equivalent": "ayyy, heyyy, yayyy",
       "meaning": "an expression of joy, approval, or excitement, often used humorously or as posing for a photograph",
-      "example": ["iei1a-イエーイ"]
+      "example": ["iei~1a~イエーイ"]
     }],
     "literal": "iei"
   },
@@ -2348,7 +2348,7 @@
     "definition": [{
       "equivalent": "fah, ouch, ow",
       "meaning": "an expression of pain",
-      "example": ["itai1a-イターイ"]
+      "example": ["itai~1a~イターイ"]
     }],
     "literal": "itai"
   },
@@ -2358,7 +2358,7 @@
     "definition": [{
       "equivalent": "splash splash",
       "meaning": "the sound of splashing water",
-      "example": ["jabu_jabu1a-ジャブ_ジャブ"]
+      "example": ["jabu_jabu~1a~ジャブ_ジャブ"]
     }],
     "literal": "jabu jabu"
   },
@@ -2375,8 +2375,8 @@
       "equivalent": "ching, jing, shaa, shing",
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
       "example": [
-        "jaki1a-ジャキ",
-        "jaki1b-じゃきっ"
+        "jaki~1a~ジャキ",
+        "jaki~1b~じゃきっ"
       ]
     }],
     "literal": "jaki"
@@ -2387,7 +2387,7 @@
     "definition": [{
       "equivalent": "ching, jingle, clink, ting, tink, tinkle",
       "meaning": "a sharp light sound of rattling metal or glass",
-      "example": ["jara1a-ジャラ"]
+      "example": ["jara~1a~ジャラ"]
     }],
     "literal": "jara"
   },
@@ -2410,9 +2410,9 @@
       "equivalent": "gape, gawk, peer, regard, scrutinize, stare, study",
       "meaning": "a lengthy stare at someone or something",
       "example": [
-        "ji1a-じっ",
-        "ji1b-じぃっ",
-        "ji1c-じー"
+        "ji~1a~じっ",
+        "ji~1b~じぃっ",
+        "ji~1c~じー"
       ]
     }],
     "literal": "ji"
@@ -2433,7 +2433,7 @@
     "definition": [{
       "equivalent": "gape, gawk, peer, regard, scrutinize, stare, study",
       "meaning": "a lengthy stare at someone or something",
-      "example": ["jin1a-じーん"]
+      "example": ["jin~1a~じーん"]
     }],
     "literal": "jin"
   },
@@ -2451,7 +2451,7 @@
     "definition": [{
       "equivalent": "beep beep, ding-a-ling, ring ring",
       "meaning": "sound of ringing, as from an alarm or phone",
-      "example": ["jiriri1a-ジリリ"]
+      "example": ["jiriri~1a~ジリリ"]
     }],
     "literal": "jiriri"
   },
@@ -2461,7 +2461,7 @@
     "definition": [{
       "equivalent": "gape, gawk, stare, peer",
       "meaning": "a good hard stare at someone or something",
-      "example": ["jiro1a-じろ"]
+      "example": ["jiro~1a~じろ"]
     }],
     "literal": "jiro"
   },
@@ -2477,7 +2477,7 @@
     "definition": [{
       "equivalent": "slurp",
       "meaning": "variant of the more common 'churru'",
-      "example": ["juru1a-ぢゅる"]
+      "example": ["juru~1a~ぢゅる"]
     }],
     "literal": "juru"
   },
@@ -2498,22 +2498,22 @@
       {
         "equivalent": "aggravated, enraged, flustered, fuming, furious, fury, incensed, irate, livid, mad, rankled, steamed",
         "meaning": "an expression of anger ",
-        "example": ["ka1a-カッ"]
+        "example": ["ka~1a~カッ"]
       },
       {
         "equivalent": "bright, brighten, glow, light, light up, shine",
         "meaning": "to brighten or shine sudddenly",
-        "example": ["ka2a-カッ"]
+        "example": ["ka~2a~カッ"]
       },
       {
         "equivalent": "click, draw, print, scrape, scratch, scribble, stroke, tap, write",
         "meaning": "the sound of writing something",
-        "example": ["ka3a-カッ"]
+        "example": ["ka~3a~カッ"]
       },
       {
         "equivalent": "blush, flush",
         "meaning": "an expression of blushing, as from excitement or embarressment",
-        "example": ["ka4a-かー"]
+        "example": ["ka~4a~かー"]
       }
     ],
     "literal": "ka"
@@ -2530,7 +2530,7 @@
     "definition": [{
       "equivalent": "clack, clatter, click, clink, ker-chak, rattle",
       "meaning": "one or more short, sharp noises, typically associated with dishes",
-      "example": ["kacha1a-カチャ"]
+      "example": ["kacha~1a~カチャ"]
     }],
     "literal": "kacha"
   },
@@ -2540,7 +2540,7 @@
     "definition": [{
       "equivalent": "clack clack, clatter, click click, clink clink, ker-chak, rattle",
       "meaning": "a series of short, sharp noises, typically associated with dishes",
-      "example": ["kacha_kacha1a-カチャ_カチャ"]
+      "example": ["kacha_kacha~1a~カチャ_カチャ"]
     }],
     "literal": "kacha kacha"
   },
@@ -2557,8 +2557,8 @@
       "equivalent": "click, pop, snap",
       "meaning": "a small clicking noise",
       "example": [
-        "kachi1a-カチ",
-        "kachi1b-カチッ"
+        "kachi~1a~カチ",
+        "kachi~1b~カチッ"
       ]
     }],
     "literal": "kachi"
@@ -2575,7 +2575,7 @@
     "definition": [{
       "equivalent": "clang, clank, clump, clunk, hit, knock, plink, wham",
       "meaning": "a sound of a small, hard strike, typically from something being dropped",
-      "example": ["karan1a-カラン"]
+      "example": ["karan~1a~カラン"]
     }],
     "literal": "karan"
   },
@@ -2585,7 +2585,7 @@
     "definition": [{
       "equivalent": "click, draw, print, scrape, scratch, scribble, stroke, tap, write",
       "meaning": "the sound of writing something, as on paper or chalkboard",
-      "example": ["kari_kari1a-カリ_カリ"]
+      "example": ["kari_kari~1a~カリ_カリ"]
     }],
     "literal": "kari kari"
   },
@@ -2595,7 +2595,7 @@
     "definition": [{
       "equivalent": "beep, click, flash",
       "meaning": "the quick sound of a camera or phone taking a photo",
-      "example": ["kasha1a-カシャ"]
+      "example": ["kasha~1a~カシャ"]
     }],
     "literal": "kasha"
   },
@@ -2612,8 +2612,8 @@
       "equivalent": "clatter, creak, rattle",
       "meaning": "to stand or sit, and/or the noise of a chair or stool moving while standing or sitting",
       "example": [
-        "kata1a-カタッ",
-        "kata1b-カタ"
+        "kata~1a~カタッ",
+        "kata~1b~カタ"
       ]
     }],
     "literal": "kata"
@@ -2624,7 +2624,7 @@
     "definition": [{
       "equivalent": "click click click, tap tap tap",
       "meaning": "rapid typing on a modern keyboard",
-      "example": ["katata1a-カタタ"]
+      "example": ["katata~1a~カタタ"]
     }],
     "literal": "katata"
   },
@@ -2647,12 +2647,12 @@
       {
         "equivalent": "creak, screech, shriek, squeak, squeal",
         "meaning": "a fairly loud squeaking noise, like an old door or chair",
-        "example": ["ki1a-キィ"]
+        "example": ["ki~1a~キィ"]
       },
       {
         "equivalent": "glare, glower, stare",
         "meaning": "to look at someone or something with anger or disapproval",
-        "example": ["ki2a-キッ"]
+        "example": ["ki~2a~キッ"]
       }
     ],
     "literal": "ki"
@@ -2671,7 +2671,7 @@
     "definition": [{
       "equivalent": "creak, screech, shriek, squeak, squeal",
       "meaning": "a fairly loud squeaking noise, like an old door or chair",
-      "example": ["kin1a-キィン"]
+      "example": ["kin~1a~キィン"]
     }],
     "literal": "kin"
   },
@@ -2687,7 +2687,7 @@
     "definition": [{
       "equivalent": "flash, gleam, glimmer, glint, glisten, glitter, shine, sparkle, twinkle",
       "meaning": "a bright flash of light",
-      "example": ["kira1a-キラッ"]
+      "example": ["kira~1a~キラッ"]
     }],
     "literal": "kira"
   },
@@ -2697,7 +2697,7 @@
     "definition": [{
       "equivalent": "glitter glitter, sparkle sparkle, twinkle twinkle",
       "meaning": "to give off or reflect bright moving points of light",
-      "example": ["kira_kira1a-キラ_キラ"]
+      "example": ["kira_kira~1a~キラ_キラ"]
     }],
     "literal": "kira kira"
   },
@@ -2707,7 +2707,7 @@
     "definition": [{
       "equivalent": "clang, clank, creak, grind, scrape, squeak, whine",
       "meaning": "a harsh grating sound, as metal under stress",
-      "example": ["kiri_kiri1a-キリ_キリ"]
+      "example": ["kiri_kiri~1a~キリ_キリ"]
     }],
     "literal": "kiri kiri"
   },
@@ -2736,12 +2736,12 @@
       {
         "equivalent": "tap, step, walk",
         "meaning": "the sound of walking",
-        "example": ["ko1a-コッ"]
+        "example": ["ko~1a~コッ"]
       },
       {
         "equivalent": "fwoosh, rumble",
         "meaning": "expressing or eminating vast power or killing intent",
-        "example": ["ko2a-コォ"]
+        "example": ["ko~2a~コォ"]
       }
     ],
     "literal": "ko"
@@ -2752,7 +2752,7 @@
     "definition": [{
       "equivalent": "ahem, cough, hack, rasp",
       "meaning": "to cough or to make a noise like a cough",
-      "example": ["kohon1a-コホン"]
+      "example": ["kohon~1a~コホン"]
     }],
     "literal": "kohon"
   },
@@ -2762,7 +2762,7 @@
     "definition": [{
       "equivalent": "agree, nod, okay, yeah, yep, yes",
       "meaning": "a quick nod of the head, typically to express agreement",
-      "example": ["koku1a-コク"]
+      "example": ["koku~1a~コク"]
     }],
     "literal": "koku"
   },
@@ -2778,7 +2778,7 @@
     "definition": [{
       "equivalent": "bang, bump, crack, hit, impact, knock",
       "meaning": "a soft banging noise, but harder than a tap",
-      "example": ["kon1a-コン"]
+      "example": ["kon~1a~コン"]
     }],
     "literal": "kon"
   },
@@ -2788,7 +2788,7 @@
     "definition": [{
       "equivalent": "knock knock",
       "meaning": "the sound of someone knocking on a door",
-      "example": ["kon_kon1a-コン_コン"]
+      "example": ["kon_kon~1a~コン_コン"]
     }],
     "literal": "kon kon"
   },
@@ -2804,7 +2804,7 @@
     "definition": [{
       "equivalent": "glug, pour, slosh, trickle",
       "meaning": "sound of pouring liquid",
-      "example": ["kopopo1a-コポポ"]
+      "example": ["kopopo~1a~コポポ"]
     }],
     "literal": "kopopo"
   },
@@ -2814,7 +2814,7 @@
     "definition": [{
       "equivalent": "drop, fall, plunk, plop, slip, topple",
       "meaning": "the sound of something landing after falling",
-      "example": ["koro1a-コロ"]
+      "example": ["koro~1a~コロ"]
     }],
     "literal": "koro"
   },
@@ -2824,7 +2824,7 @@
     "definition": [{
       "equivalent": "drop, fall, plunk, plop, slip, topple",
       "meaning": "the sound of something landing after falling",
-      "example": ["koron1a-コロン"]
+      "example": ["koron~1a~コロン"]
     }],
     "literal": "koron"
   },
@@ -2841,9 +2841,9 @@
       "equivalent": "click, clunk, tap, touch",
       "meaning": "to put down or touch gently",
       "example": [
-        "koto1a-コトッ",
-        "koto1b-コト",
-        "koto1c-コト"
+        "koto~1a~コトッ",
+        "koto~1b~コト",
+        "koto~1c~コト"
       ]
     }],
     "literal": "koto"
@@ -2868,7 +2868,7 @@
     "definition": [{
       "equivalent": "ah, fah, gah, damn",
       "meaning": "an expression of pain or pressure, often as supressed",
-      "example": ["ku1a-くうっ"]
+      "example": ["ku~1a~くうっ"]
     }],
     "literal": "ku"
   },
@@ -2884,7 +2884,7 @@
     "definition": [{
       "equivalent": "huff, yawn",
       "meaning": "a deep breath expressing tiredness or boredom",
-      "example": ["kua1a-くあ"]
+      "example": ["kua~1a~くあ"]
     }],
     "literal": "kua"
   },
@@ -2903,12 +2903,12 @@
       {
         "equivalent": "pluck, pull, tug",
         "meaning": "to gently pull or tug on something",
-        "example": ["kui_kui1a-くい_くい"]
+        "example": ["kui_kui~1a~くい_くい"]
       },
       {
         "equivalent": "beckon, flag, gesture, motion, signal, wave",
         "meaning": "to gesture at someone ambiguously",
-        "example": ["kui_kui2a-くい_くいっ"]
+        "example": ["kui_kui~2a~くい_くいっ"]
       }
     ],
     "literal": "kui kui"
@@ -2919,7 +2919,7 @@
     "definition": [{
       "equivalent": "boing, jiggle, wobble",
       "meaning": "a series of small irregular movements or oscillations",
-      "example": ["kune_kune1a-クネ_クネ"]
+      "example": ["kune_kune~1a~クネ_クネ"]
     }],
     "literal": "kune kune"
   },
@@ -2939,7 +2939,7 @@
     "definition": [{
       "equivalent": "dizzy, faint, swoon, woozy",
       "meaning": "a temporary loss or near loss of consciousness",
-      "example": ["kura1a-くらっ"]
+      "example": ["kura~1a~くらっ"]
     }],
     "literal": "kura"
   },
@@ -2956,9 +2956,9 @@
       "equivalent": "pivot, spin, swing, swivel, turn, twist",
       "meaning": "to turn, look away, or look towards something",
       "example": [
-        "kuru1a-くるっ",
-        "kuru1b-クル",
-        "kuru1c-くる"
+        "kuru~1a~くるっ",
+        "kuru~1b~クル",
+        "kuru~1c~くる"
       ]
     }],
     "literal": "kuru"
@@ -2969,7 +2969,7 @@
     "definition": [{
       "equivalent": "pivot, spin, swing, swivel, turn, twist",
       "meaning": "to turn or spin something something",
-      "example": ["kuru_kuru1b-くる_くる"]
+      "example": ["kuru_kuru~1b~くる_くる"]
     }],
     "literal": "kuru kuru"
   },
@@ -2986,9 +2986,9 @@
       "equivalent": "heh, chortle, chuckle, giggle, laugh, snicker, snigger, titter",
       "meaning": "a small light laugh, sometimes associated with to arrogant or wry humor",
       "example": [
-        "kusu1a-くす",
-        "kusu1b-クス",
-        "kusu1c-くすっ"
+        "kusu~1a~くす",
+        "kusu~1b~クス",
+        "kusu~1c~くすっ"
       ]
     }],
     "literal": "kusu"
@@ -3017,7 +3017,7 @@
     "definition": [{
       "equivalent": "screech, shriek, squeal, yell, yelp",
       "meaning": "to cry out loudly and emotionally, often used humoursly",
-      "example": ["kya1a-きゃーっ"]
+      "example": ["kya~1a~きゃーっ"]
     }],
     "literal": "kya"
   },
@@ -3035,7 +3035,7 @@
     "definition": [{
       "equivalent": "clasp, clench, grip, hold, press, squeeze, strain, tighten",
       "meaning": "act of clenching, as in one's hands or teeth",
-      "example": ["kyu1a-きゅ"]
+      "example": ["kyu~1a~きゅ"]
     }],
     "literal": "kyu"
   },
@@ -3045,7 +3045,7 @@
     "definition": [{
       "equivalent": "caress, cuddle, fluff, pat, pet, rub, stroke",
       "meaning": "the act of petting something with soft, fluffy fur or hair ",
-      "example": ["mofu1a-もふ"]
+      "example": ["mofu~1a~もふ"]
     }],
     "literal": "mofu"
   },
@@ -3055,7 +3055,7 @@
     "definition": [{
       "equivalent": "munch munch, nom nom, snarf snarf",
       "meaning": "the sound of eating and chewing",
-      "example": ["mogu_mogu1a-モグ_モグ"]
+      "example": ["mogu_mogu~1a~モグ_モグ"]
     }],
     "literal": "mogu mogu"
   },
@@ -3065,7 +3065,7 @@
     "definition": [{
       "equivalent": "bashful, shy, embarrassed, hesitation",
       "meaning": "to express shyness or hesitation",
-      "example": ["moji1a-もじ"]
+      "example": ["moji~1a~もじ"]
     }],
     "literal": "moji"
   },
@@ -3075,7 +3075,7 @@
     "definition": [{
       "equivalent": "cloud, fog, haze, miasma, mist, smog, smoke, steam, vapor",
       "meaning": "a billowing cloud, rolling fog, or smoke",
-      "example": ["moku_moku1a-モク_モク"]
+      "example": ["moku_moku~1a~モク_モク"]
     }],
     "literal": "moku moku"
   },
@@ -3085,7 +3085,7 @@
     "definition": [{
       "equivalent": "munch munch, nom nom, snarf snarf",
       "meaning": "the sound of eating and chewing, often in a humorous context",
-      "example": ["mo_mo1a-もっ_もっ"]
+      "example": ["mo_mo~1a~もっ_もっ"]
     }],
     "literal": "mo mo"
   },
@@ -3110,8 +3110,8 @@
       "equivalent": "aggravated, annoyed, hmph, irked, irritated, narked, peeved, pissed, riled, unamused, vexed",
       "meaning": "an expression of annoyance",
       "example": [
-        "mu1a-ム",
-        "mu1b-むう"
+        "mu~1a~ム",
+        "mu~1b~むう"
       ]
     }],
     "literal": "mu"
@@ -3131,8 +3131,8 @@
       "equivalent": "hmm, uh, um, what?",
       "meaning": "an expression of thinking, considering, or realization",
       "example": [
-        "mumu1a-むむむ",
-        "mumu1b-ムム"
+        "mumu~1a~むむむ",
+        "mumu~1b~ムム"
       ]
     }],
     "literal": "mumu"
@@ -3143,7 +3143,7 @@
     "definition": [{
       "equivalent": "dosy, drowsy, sleepy",
       "meaning": "expressing desire or need for sleep",
-      "example": ["munya_munya1a-ムニャ_ムニャ"]
+      "example": ["munya_munya~1a~ムニャ_ムニャ"]
     }],
     "literal": "munya munya"
   },
@@ -3153,7 +3153,7 @@
     "definition": [{
       "equivalent": "caress caress, pamper, pat pat, pet pet, stroke stroke",
       "meaning": "to stroke someting in a tender manner",
-      "example": ["nade_nade1a-ナデ_ナデ"]
+      "example": ["nade_nade~1a~ナデ_ナデ"]
     }],
     "literal": "nade nade"
   },
@@ -3170,8 +3170,8 @@
       "equivalent": "beam, smile, grin, smirk",
       "meaning": "an expression happiness, amusement, or agreement",
       "example": [
-        "niko1a-ニコッ",
-        "niko1b-にこっ"
+        "niko~1a~ニコッ",
+        "niko~1b~にこっ"
       ]
     }],
     "literal": "niko"
@@ -3182,7 +3182,7 @@
     "definition": [{
       "equivalent": "beam, smile, grin, smirk",
       "meaning": "an expression happiness, amusement, or agreement",
-      "example": ["niko_niko1a-ニコ_ニコ"]
+      "example": ["niko_niko~1a~ニコ_ニコ"]
     }],
     "literal": "niko niko"
   },
@@ -3198,7 +3198,7 @@
     "definition": [{
       "equivalent": "grin, smile, smirk, sneer, snicker",
       "meaning": "an unpleasant smile often expressing pleasure at someone else's trouble",
-      "example": ["niya1a-ニヤッ"]
+      "example": ["niya~1a~ニヤッ"]
     }],
     "literal": "niya"
   },
@@ -3208,7 +3208,7 @@
     "definition": [{
       "equivalent": "nya nya, meow meow",
       "meaning": "mimicking a cat to express friendly, playful teasing",
-      "example": ["nya_nya1a-ニャ_ニャ"]
+      "example": ["nya_nya~1a~ニャ_ニャ"]
     }],
     "literal": "nya nya"
   },
@@ -3218,7 +3218,7 @@
     "definition": [{
       "equivalent": "grin, smile, smirk",
       "meaning": "an unpleasant smile",
-      "example": ["nyi1a-ニィ"]
+      "example": ["nyi~1a~ニィ"]
     }],
     "literal": "nyi"
   },
@@ -3246,14 +3246,14 @@
         "equivalent": "bright, brighten, glow, light, light up, shine",
         "meaning": "to brighten or shine sudddenly",
         "example": [
-          "pa1a-パアア",
-          "pa1b-パァッ"
+          "pa~1a~パアア",
+          "pa~1b~パァッ"
         ]
       },
       {
         "equivalent": "brighten, cheer up, gladden, glow, hearten, lighten, light up, perk up, shine",
         "meaning": "to become glad, happy, or excited",
-        "example": ["pa2a-パアア"]
+        "example": ["pa~2a~パアア"]
       }
     ],
     "literal": "pa"
@@ -3270,7 +3270,7 @@
     "definition": [{
       "equivalent": "clack, click, clink, ker-chik, snap, tap, tick",
       "meaning": "the sound of a small click, as of metal on metal or wood on wood",
-      "example": ["pachin1a-ぱちん"]
+      "example": ["pachin~1a~ぱちん"]
     }],
     "literal": "pachin"
   },
@@ -3281,12 +3281,12 @@
       {
         "equivalent": "crackle crackle, pop pop, snap snap",
         "meaning": "the continuous sound of crackling, as from a fire",
-        "example": ["pachi_pachi1a-パチ_パチ"]
+        "example": ["pachi_pachi~1a~パチ_パチ"]
       },
       {
         "equivalent": "applause, clap clap",
         "meaning": "the sound of applause",
-        "example": ["pachi_pachi2a-パチ_パチ"]
+        "example": ["pachi_pachi~2a~パチ_パチ"]
       }
     ],
     "literal": "pachi pachi"
@@ -3303,7 +3303,7 @@
     "definition": [{
       "equivalent": "crack, crackle, pop, shatter, snap",
       "meaning": "a loud sound of something breaking",
-      "example": ["paki1a-パキッ"]
+      "example": ["paki~1a~パキッ"]
     }],
     "literal": "paki"
   },
@@ -3324,10 +3324,10 @@
       "equivalent": "bang, bam, clap, crash, impact, pow, slam, slap, smack, strike",
       "meaning": "a sudden resounding strike, often loud",
       "example": [
-        "pan1a-パンッ,_パン",
-        "pan1b-パァンッ",
-        "pan1c-ぱんっ",
-        "pan1d-パン"
+        "pan~1a~パンッ,_パン",
+        "pan~1b~パァンッ",
+        "pan~1c~ぱんっ",
+        "pan~1d~パン"
       ]
     }],
     "literal": "pan"
@@ -3338,7 +3338,7 @@
     "definition": [{
       "equivalent": "flip, turn, riffle, skim, thumb",
       "meaning": "sound of turning pages of paper",
-      "example": ["para1a-パラ"]
+      "example": ["para~1a~パラ"]
     }],
     "literal": "para"
   },
@@ -3348,7 +3348,7 @@
     "definition": [{
       "equivalent": "flit flit, flutter, pit-a-pat, pitter-patter, tap tap, tock tock",
       "meaning": "the sound of small things falling",
-      "example": ["para_para1a-パラ_パラ"]
+      "example": ["para_para~1a~パラ_パラ"]
     }],
     "literal": "para para"
   },
@@ -3359,12 +3359,12 @@
       {
         "equivalent": "slop, slosh, splash, spatter, swash",
         "meaning": "the sound of a small splash",
-        "example": ["pasha1a-パシャ"]
+        "example": ["pasha~1a~パシャ"]
       },
       {
         "equivalent": "click, flash, photo, snap",
         "meaning": "the sound of a camera shutter or the light of a camera flash",
-        "example": ["pasha2a-パシャ"]
+        "example": ["pasha~2a~パシャ"]
       }
     ],
     "literal": "pasha"
@@ -3382,12 +3382,12 @@
       {
         "equivalent": "bam, click, close, ker-chak, slam, tchk",
         "meaning": "the sound of a door latch closing",
-        "example": ["patan1a-パタン"]
+        "example": ["patan~1a~パタン"]
       },
       {
         "equivalent": "buckle, collapse, fall, stumble, topple, tumble",
         "meaning": "to fall down from an upright position",
-        "example": ["patan2a-ぱたん"]
+        "example": ["patan~2a~ぱたん"]
       }
     ],
     "literal": "patan"
@@ -3398,7 +3398,7 @@
     "definition": [{
       "equivalent": "flap flap, flick flick, flit flit, swish swish, wave wave",
       "meaning": "the sound of flapping, as of bird wings, a dust mop, or a flag in the wind",
-      "example": ["pata_pata1a-パタ_パタ"]
+      "example": ["pata_pata~1a~パタ_パタ"]
     }],
     "literal": "pata pata"
   },
@@ -3408,7 +3408,7 @@
     "definition": [{
       "equivalent": "bow",
       "meaning": "bending the head or body in respect, deference or reverence",
-      "example": ["peko1a-ぺこ"]
+      "example": ["peko~1a~ぺこ"]
     }],
     "literal": "peko"
   },
@@ -3424,7 +3424,7 @@
     "definition": [{
       "equivalent": "lap, lick, slurp",
       "meaning": "the sound of a tongue licking something",
-      "example": ["pero1a-ぺろ"]
+      "example": ["pero~1a~ぺろ"]
     }],
     "literal": "pero"
   },
@@ -3434,7 +3434,7 @@
     "definition": [{
       "equivalent": "bap bap, pat pat, poke poke, press press",
       "meaning": "to press repeatedly",
-      "example": ["peta_peta1a-ぺた_ぺた"]
+      "example": ["peta_peta~1a~ぺた_ぺた"]
     }],
     "literal": "peta peta"
   },
@@ -3451,8 +3451,8 @@
       "equivalent": "beep, bing, chime, ding, peep, ping",
       "meaning": "a short electronic beep or similar high-pitched noise",
       "example": [
-        "pi1a-ピッ",
-        "pi1b-ピ"
+        "pi~1a~ピッ",
+        "pi~1b~ピ"
       ]
     }],
     "literal": "pi"
@@ -3463,7 +3463,7 @@
     "definition": [{
       "equivalent": "dribble, drip, plop, ripple, splash, swirl, trickle",
       "meaning": "a very soft sound of water movement",
-      "example": ["pichan1a-ピチャン"]
+      "example": ["pichan~1a~ピチャン"]
     }],
     "literal": "pichan"
   },
@@ -3483,7 +3483,7 @@
     "definition": [{
       "equivalent": "bright, dazzle, gleam, glimmer, glitter, glow, light, radiance, shine, sparkle",
       "meaning": "a bright glowing appearance, typically metaphorical",
-      "example": ["pika1a-ピカー"]
+      "example": ["pika~1a~ピカー"]
     }],
     "literal": "pika"
   },
@@ -3499,7 +3499,7 @@
     "definition": [{
       "equivalent": "ba-ding, bing, chime, ding, jingle, ring, ping",
       "meaning": "the noise of an electronic chime, typical of games or computers",
-      "example": ["pikon1a-ピコン"]
+      "example": ["pikon~1a~ピコン"]
     }],
     "literal": "pikon"
   },
@@ -3517,14 +3517,14 @@
         "equivalent": "cringe, flinch, quail, recoil, twitch, wince",
         "meaning": "to tense up from surprise or fear",
         "example": [
-          "piku1a-ぴくっ",
-          "piku1b-ピクッ"
+          "piku~1a~ぴくっ",
+          "piku~1b~ピクッ"
         ]
       },
       {
         "equivalent": "fiddle, fidget, move, twitch",
         "meaning": "a small, deliberate movement",
-        "example": ["piku2a-ピク"]
+        "example": ["piku~2a~ピク"]
       }
     ],
     "literal": "piku"
@@ -3535,7 +3535,7 @@
     "definition": [{
       "equivalent": "ding-dong",
       "meaning": "the sound of a door bell",
-      "example": ["pinpon1a-ピン_ポーン"]
+      "example": ["pinpon~1a~ピン_ポーン"]
     }],
     "literal": "pin_pon"
   },
@@ -3545,7 +3545,7 @@
     "definition": [{
       "equivalent": "ba-da-ding, ding-a-ling",
       "meaning": "a cell phone ring tone",
-      "example": ["pirorin1a-ピロリン"]
+      "example": ["pirorin~1a~ピロリン"]
     }],
     "literal": "pirorin"
   },
@@ -3562,12 +3562,12 @@
       {
         "equivalent": "burst, crack, shatter, smack, split, snap",
         "meaning": "the sound of something suddenly breaking",
-        "example": ["pishi1a-ピシッ"]
+        "example": ["pishi~1a~ピシッ"]
       },
       {
         "equivalent": "flick, pop, snap, zip",
         "meaning": "a rapid snapping to position",
-        "example": ["pishi2a-ぴしっ"]
+        "example": ["pishi~2a~ぴしっ"]
       }
     ],
     "literal": "pishi"
@@ -3585,9 +3585,9 @@
       "equivalent": "break off, cease, check, freeze, halt, stop",
       "meaning": "to bring something to an immediate end or standstill",
       "example": [
-        "pita1a-ピタッ",
-        "pita1b-ぴたっ",
-        "pita1c-ピタ"
+        "pita~1a~ピタッ",
+        "pita~1b~ぴたっ",
+        "pita~1c~ピタ"
       ]
     }],
     "literal": "pita"
@@ -3604,7 +3604,7 @@
     "definition": [{
       "equivalent": "brush, caress, feel, touch",
       "meaning": "a gentle touch",
-      "example": ["pito1a-ぴと"]
+      "example": ["pito~1a~ぴと"]
     }],
     "literal": "pito"
   },
@@ -3625,12 +3625,12 @@
       {
         "equivalent": "bright, flame, glow, light",
         "meaning": "an indication that something is emitting light",
-        "example": ["po1a-ポ"]
+        "example": ["po~1a~ポ"]
       },
       {
         "equivalent": "fixate, focused, gaze, gawk, peer, riveted, stare",
         "meaning": "riveted in wonder or surprise, typical in love-at-first-sight senarios",
-        "example": ["po2a-ぽー"]
+        "example": ["po~2a~ぽー"]
       }
     ],
     "literal": "po"
@@ -3652,8 +3652,8 @@
       "equivalent": "chuck, discard, junk, toss, throw away, unload",
       "meaning": "to toss something away as useless or unwanted",
       "example": [
-        "poi1a-ぽい",
-        "poi1b-ポィ"
+        "poi~1a~ぽい",
+        "poi~1b~ポィ"
       ]
     }],
     "literal": "poi"
@@ -3671,20 +3671,20 @@
       {
         "equivalent": "poof, pon",
         "meaning": "the sound of a magical effect, often accompanied with a cute puffs of smoke or dust, as in magically appearing or disappearing",
-        "example": ["pon1a-ポンッ"]
+        "example": ["pon~1a~ポンッ"]
       },
       {
         "equivalent": "bap, bop, clap, pat, poke, swat, tap, thump",
         "meaning": "the sound of a soft strike or blow not intended to harm",
         "example": [
-          "pon2a-ぽん",
-          "pon2a-ぽんっ"
+          "pon~2a~ぽん",
+          "pon~2a~ぽんっ"
         ]
       },
       {
         "equivalent": "give, hand, hand over, pass, toss",
         "meaning": "to give something to someone else",
-        "example": ["pon3a-ポンッ"]
+        "example": ["pon~3a~ポンッ"]
       }
     ],
     "literal": "pon"
@@ -3701,7 +3701,7 @@
     "definition": [{
       "equivalent": "pat pat, pet pet, stroke stroke",
       "meaning": "to continuously pat or stroke in a gentle manner",
-      "example": ["pon_pon1a-ポン_ポン"]
+      "example": ["pon_pon~1a~ポン_ポン"]
     }],
     "literal": "pon pon"
   },
@@ -3711,7 +3711,7 @@
     "definition": [{
       "equivalent": "drop, fall, plunk, plop, slip, topple",
       "meaning": "the sound of something slipping or falling",
-      "example": ["poro1a-ポロ"]
+      "example": ["poro~1a~ポロ"]
     }],
     "literal": "poro"
   },
@@ -3721,7 +3721,7 @@
     "definition": [{
       "equivalent": "blub, cry, sob, tears, weep",
       "meaning": "shedding tears as an expression of pain or distress",
-      "example": ["poro_poro1a-ポロ_ポロ"]
+      "example": ["poro_poro~1a~ポロ_ポロ"]
     }],
     "literal": "poro poro"
   },
@@ -3737,7 +3737,7 @@
     "definition": [{
       "equivalent": "drop, lower, release",
       "meaning": "to cause or allow something to fall",
-      "example": ["poto1a-ポトッ"]
+      "example": ["poto~1a~ポトッ"]
     }],
     "literal": "poto"
   },
@@ -3753,7 +3753,7 @@
     "definition": [{
       "equivalent": "gleam, glow, light, radiance, shine",
       "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
-      "example": ["pou1a-ポゥ"]
+      "example": ["pou~1a~ポゥ"]
     }],
     "literal": "pou"
   },
@@ -3769,7 +3769,7 @@
     "definition": [{
       "equivalent": "gleam, glow, light, radiance, shine",
       "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
-      "example": ["pou_pou1a-ポゥ_ポゥ"]
+      "example": ["pou_pou~1a~ポゥ_ポゥ"]
     }],
     "literal": "pou pou"
   },
@@ -3779,7 +3779,7 @@
     "definition": [{
       "equivalent": "boing, jiggle, wobble",
       "meaning": "a series of small irregular movements",
-      "example": ["poyuyun1a-ぽゆゆん"]
+      "example": ["poyuyun~1a~ぽゆゆん"]
     }],
     "literal": "poyuyun"
   },
@@ -3795,7 +3795,7 @@
     "definition": [{
       "equivalent": "ha, hah, pfft, pwa, snort",
       "meaning": "a light laugh or snort, often an expression of low opinion, dismissal, or sarcasm",
-      "example": ["pu1a-ぷっ"]
+      "example": ["pu~1a~ぷっ"]
     }],
     "literal": "pu"
   },
@@ -3811,7 +3811,7 @@
     "definition": [{
       "equivalent": "brush-off, disdain, reject, scorn, snub, spurn, turn",
       "meaning": "to deliberately ignore or treat rudely ",
-      "example": ["pui1a-ぷいっ"]
+      "example": ["pui~1a~ぷいっ"]
     }],
     "literal": "pui"
   },
@@ -3827,7 +3827,7 @@
     "definition": [{
       "equivalent": "fizz, hiss, psss, pssshhh, ssss",
       "meaning": "the sound of leaking air or gas, often used to express embarrassment",
-      "example": ["pushu1a-プシューッ"]
+      "example": ["pushu~1a~プシューッ"]
     }],
     "literal": "pushu"
   },
@@ -3837,7 +3837,7 @@
     "definition": [{
       "equivalent": "poke, pop, psk",
       "meaning": "small puncture",
-      "example": ["pusu1a-ぷす"]
+      "example": ["pusu~1a~ぷす"]
     }],
     "literal": "pusu"
   },
@@ -3847,7 +3847,7 @@
     "definition": [{
       "equivalent": "smoke, smolder, sputter",
       "meaning": "something that was on fire reduced to smoke",
-      "example": ["pusu_pusu1a-プス_プス"]
+      "example": ["pusu_pusu~1a~プス_プス"]
     }],
     "literal": "pusu pusu"
   },
@@ -3857,7 +3857,7 @@
     "definition": [{
       "equivalent": "boing, bound, bounce, hop, jump, leap, vault",
       "meaning": "the act of leaping into the air",
-      "example": ["pyon1a-ピョン"]
+      "example": ["pyon~1a~ピョン"]
     }],
     "literal": "pyon"
   },
@@ -3877,7 +3877,7 @@
     "definition": [{
       "equivalent": "burst, gush, jet, spout, spurt, splurt, spray, squirt",
       "meaning": "a stream of fluid discharged from narrow opening",
-      "example": ["pyu1a-ピューッ"]
+      "example": ["pyu~1a~ピューッ"]
     }],
     "literal": "pyu"
   },
@@ -3904,19 +3904,19 @@
       {
         "equivalent": "drizzle, drops, hss, rain, shaa, sss",
         "meaning": "soft sounds of rain or shower",
-        "example": ["sa1a-サァァァ"]
+        "example": ["sa~1a~サァァァ"]
       },
       {
         "equivalent": "chill, dismay, gloom, pale, unnerve, worry",
         "meaning": "an expression of worry or stress",
-        "example": ["sa2a-サァ"]
+        "example": ["sa~2a~サァ"]
       },
       {
         "equivalent": "avoid, back up, dodge, duck, hide, jink, pull back, relent, retreat, scoot, sidestep",
         "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
         "example": [
-          "sa3a-サッ",
-          "sa3b-サッ"
+          "sa~3a~サッ",
+          "sa~3b~サッ"
         ]
       }
     ],
@@ -3934,7 +3934,7 @@
     "definition": [{
       "equivalent": "swish, swoosh, whoosh",
       "meaning": "the soft movement of hair, as in a gentle breeze",
-      "example": ["sara1a-サラ"]
+      "example": ["sara~1a~サラ"]
     }],
     "literal": "sara"
   },
@@ -3954,7 +3954,7 @@
     "definition": [{
       "equivalent": "back up, hide, pull back, relent, retreat, scoot",
       "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
-      "example": ["sa_sa1a-ササ_ササッ"]
+      "example": ["sa_sa~1a~ササ_ササッ"]
     }],
     "literal": "sa sa"
   },
@@ -3970,7 +3970,7 @@
     "definition": [{
       "equivalent": "clack, clatter, clink, rattle",
       "meaning": "a light rattling sound",
-      "example": ["sharan1a-シャラーン"]
+      "example": ["sharan~1a~シャラーン"]
     }],
     "literal": "sharan"
   },
@@ -3996,14 +3996,14 @@
         "equivalent": "fwip, whiz, whoosh, zip, zoom",
         "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
         "example": [
-          "shu1a-シュッ",
-          "shu1b-シュッ"
+          "shu~1a~シュッ",
+          "shu~1b~シュッ"
         ]
       },
       {
         "equivalent": "fsshh, hiss, sshh, sss",
         "meaning": "a hissing sound",
-        "example": ["shu2a-シュゥゥ"]
+        "example": ["shu~2a~シュゥゥ"]
       }
     ],
     "literal": "shu"
@@ -4021,14 +4021,14 @@
       {
         "equivalent": "crestfallen, dejected, depressed, down, glum, sad, unhappy",
         "meaning": "expressing an unhappy feeling",
-        "example": ["shun1a-しゅん"]
+        "example": ["shun~1a~しゅん"]
       },
       {
         "equivalent": "fwip, whiz, whoosh, zip, zoom",
         "meaning": "to move quickly with only the sound of flowing air, often vanishing",
         "example": [
-          "shun2a-シュン",
-          "shun2b-シュンッ"
+          "shun~2a~シュン",
+          "shun~2b~シュンッ"
         ]
       }
     ],
@@ -4052,14 +4052,14 @@
         "equivalent": "creep, hide, quiet, pad, skulk, slink, slip, sneak, tip toe",
         "meaning": "to move in a secretive or quiet manner",
         "example": [
-          "so1a-そ",
-          "so1b-そっ"
+          "so~1a~そ",
+          "so~1b~そっ"
         ]
       },
       {
         "equivalent": "deliver, gesture, give, hand over, hold, pass, raise, reach, slide, touch",
         "meaning": "to reach out to someone, so as to touch or present them with something",
-        "example": ["so2a-そっ"]
+        "example": ["so~2a~そっ"]
       }
     ],
     "literal": "so"
@@ -4094,36 +4094,36 @@
         "equivalent": "ignore, pass, pass by",
         "meaning": "to move past someone, typically ignoring them",
         "example": [
-          "su1a-スッ",
-          "su1b-す"
+          "su~1a~スッ",
+          "su~1b~す"
         ]
       },
       {
         "equivalent": "deliver, gesture, get, give, grab, hand over, pass, raise, reach, slide, stop, take, yield",
         "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
         "example": [
-          "su2a-ス",
-          "su2b-ス",
-          "su2c-ス"
+          "su~2a~ス",
+          "su~2b~ス",
+          "su~2c~ス"
         ]
       },
       {
         "equivalent": "blow out, breath in, breath out, draw in, exhale, huff, inhale",
         "meaning": "a deep breath, typically inhaled",
         "example": [
-          "su3a-スゥゥゥ",
-          "su3b-すぅ"
+          "su~3a~スゥゥゥ",
+          "su~3b~すぅ"
         ]
       },
       {
         "equivalent": "bear, carry, heave, heft, hoist, lift, raise",
         "meaning": "the act of picking something up",
-        "example": ["su4a-スッ"]
+        "example": ["su~4a~スッ"]
       },
       {
         "equivalent": "attend, concentrate, eye, focus, glance, glare, heed, hone in, look, notice, realize, rivet, sst, view, zero in on",
         "meaning": "a sudden change in demeanor, as expressing a nearby threat",
-        "example": ["su5a-スッ"]
+        "example": ["su~5a~スッ"]
       }
     ],
     "literal": "su"
@@ -4140,7 +4140,7 @@
     "definition": [{
       "equivalent": "rise up, stand, stand up",
       "meaning": "stand up and get to one's feet",
-      "example": ["suku1a-すくっ"]
+      "example": ["suku~1a~すくっ"]
     }],
     "literal": "suku"
   },
@@ -4160,7 +4160,7 @@
     "definition": [{
       "equivalent": "cleave, cut, slash, slice",
       "meaning": "a fast, heavy cut, as with a sword or knife",
-      "example": ["supa1a-スパッ"]
+      "example": ["supa~1a~スパッ"]
     }],
     "literal": "supa"
   },
@@ -4176,7 +4176,7 @@
     "definition": [{
       "equivalent": "alight, land, landing, settle, touch down",
       "meaning": "come to rest after descending from the air",
-      "example": ["suta1a-スタッ"]
+      "example": ["suta~1a~スタッ"]
     }],
     "literal": "suta"
   },
@@ -4186,7 +4186,7 @@
     "definition": [{
       "equivalent": " ignore, pass, pass by, walk, walk by, walk past",
       "meaning": "to move past someone quickly, typically ignoring them",
-      "example": ["suta_suta1a-スタ_スタ"]
+      "example": ["suta_suta~1a~スタ_スタ"]
     }],
     "literal": "suta suta"
   },
@@ -4202,7 +4202,7 @@
     "definition": [{
       "equivalent": "fall, slip, stumble, topple, trip, tumble",
       "meaning": "to fall from a standing position suddenly and involentarily",
-      "example": ["suten1a-すてーん"]
+      "example": ["suten~1a~すてーん"]
     }],
     "literal": "suten"
   },
@@ -4218,7 +4218,7 @@
     "definition": [{
       "equivalent": "brush, cling, contact, fondle, graze, hold, nudge, pat, tap, touch",
       "meaning": "to lightly hold or contact someone",
-      "example": ["suto1a-すとっ"]
+      "example": ["suto~1a~すとっ"]
     }],
     "literal": "suto"
   },
@@ -4239,12 +4239,12 @@
       {
         "equivalent": "beath, huff, whiff, zzz",
         "meaning": "soft breathing while sleeping or quietly snoring",
-        "example": ["su_su1a-すぅ_すぅ"]
+        "example": ["su_su~1a~すぅ_すぅ"]
       },
       {
         "equivalent": "softly, whisper",
         "meaning": "to speak quietly, so as not be overheard",
-        "example": ["su_su2a-ススス"]
+        "example": ["su_su~2a~ススス"]
       }
     ],
     "literal": "su su"
@@ -4265,7 +4265,7 @@
     "definition": [{
       "equivalent": "bolt, bound, jump, leap, vault",
       "meaning": "to quickly or suddenly jump",
-      "example": ["ta1a-タッ"]
+      "example": ["ta~1a~タッ"]
     }],
     "literal": "ta"
   },
@@ -4281,7 +4281,7 @@
     "definition": [{
       "equivalent": "bump, knock, tap, thud, thunk",
       "meaning": "the sound of a light impact",
-      "example": ["tan1a-タン"]
+      "example": ["tan~1a~タン"]
     }],
     "literal": "tan"
   },
@@ -4300,8 +4300,8 @@
       "equivalent": "dash, run, scamper, sprint, step step, tap tap, quickly",
       "meaning": "to run lightly, typically away",
       "example": [
-        "tata1a-タタッ",
-        "tata1b-たたた"
+        "tata~1a~タタッ",
+        "tata~1b~たたた"
       ]
     }],
     "literal": "tata"
@@ -4312,7 +4312,7 @@
     "definition": [{
       "equivalent": "march march, pad  pad, step step, stride stride, stomp stomp, tread tread, tromp tromp, walk walk",
       "meaning": "to walk at a relatively moderate pace",
-      "example": ["teku_teku1a-てく_てく"]
+      "example": ["teku_teku~1a~てく_てく"]
     }],
     "literal": "teku teku"
   },
@@ -4328,7 +4328,7 @@
     "definition": [{
       "equivalent": "flick, pat, tap",
       "meaning": "a soft, quick tap",
-      "example": ["to1a-トッ"]
+      "example": ["to~1a~トッ"]
     }],
     "literal": "to"
   },
@@ -4338,7 +4338,7 @@
     "definition": [{
       "equivalent": "clump clump, lumber, plod plod, shuffle shuffle, slog slog, tromp tromp, trudge trudge",
       "meaning": "to walk heavily or slowly, often an expression of emotional disturbance",
-      "example": ["tobo_tobo1a-トボ_トボ"]
+      "example": ["tobo_tobo~1a~トボ_トボ"]
     }],
     "literal": "tobo tobo"
   },
@@ -4348,7 +4348,7 @@
     "definition": [{
       "equivalent": "glug glug, gurgle",
       "meaning": "the sound of pouring liquid, as from a bottle",
-      "example": ["toku_toku1a-トク_トク"]
+      "example": ["toku_toku~1a~トク_トク"]
     }],
     "literal": "toku toku"
   },
@@ -4364,7 +4364,7 @@
     "definition": [{
       "equivalent": "bop, bump, knock, tap, thud, thunk",
       "meaning": "the sound of a light bump or tap",
-      "example": ["ton1a-トン"]
+      "example": ["ton~1a~トン"]
     }],
     "literal": "ton"
   },
@@ -4380,7 +4380,7 @@
     "definition": [{
       "equivalent": "bonk bonk, bop bop, bump bump, knock knock, tap tap, thud thud, thump thump, tmp tmp, tok tok",
       "meaning": "the sound of light rythmic strikes",
-      "example": ["ton_ton1a-トン_トン"]
+      "example": ["ton_ton~1a~トン_トン"]
     }],
     "literal": "ton ton"
   },
@@ -4390,7 +4390,7 @@
     "definition": [{
       "equivalent": "glug, pour, slosh, trickle",
       "meaning": "sound of pouring liquid",
-      "example": ["topopo1a-トポポ"]
+      "example": ["topopo~1a~トポポ"]
     }],
     "literal": "topopo"
   },
@@ -4406,7 +4406,7 @@
     "definition": [{
       "equivalent": "dissolve, dribble, drip, exude, flow, glop, liquify, ooze, melt, run, seep, soften, thaw, trickle",
       "meaning": "to melt, flow, or drip slowly",
-      "example": ["toro1a-トロッ"]
+      "example": ["toro~1a~トロッ"]
     }],
     "literal": "toro"
   },
@@ -4422,7 +4422,7 @@
     "definition": [{
       "equivalent": "flick flick, pat pat, tap tap, tick tick",
       "meaning": "a series of soft quick taps, as on a cell phone",
-      "example": ["toto1a-トトト"]
+      "example": ["toto~1a~トトト"]
     }],
     "literal": "toto"
   },
@@ -4440,7 +4440,7 @@
     "definition": [{
       "equivalent": "gasp, hsss, ha, oh, wha",
       "meaning": "a quick inhale or gasp, as from being surprised or frightened",
-      "example": ["tsu1a-ツ"]
+      "example": ["tsu~1a~ツ"]
     }],
     "literal": "tsu"
   },
@@ -4450,7 +4450,7 @@
     "definition": [{
       "equivalent": "pinch pinch, poke poke, tap tap",
       "meaning": "a series of interactions with one's fingertips",
-      "example": ["tsun_tsun1a-つん_つん"]
+      "example": ["tsun_tsun~1a~つん_つん"]
     }],
     "literal": "tsun tsun"
   },
@@ -4466,7 +4466,7 @@
     "definition": [{
       "equivalent": "fall, slick, slip, slippery",
       "meaning": "to slip or to have a surface smooth enough to slip on",
-      "example": ["tsuru1a-つるっ"]
+      "example": ["tsuru~1a~つるっ"]
     }],
     "literal": "tsuru"
   },
@@ -4482,7 +4482,7 @@
     "definition": [{
       "equivalent": "fall, slick, slip, slippery",
       "meaning": "to slip or to have a surface smooth enough to slip on",
-      "example": ["tsurun1a-つるんっ"]
+      "example": ["tsurun~1a~つるんっ"]
     }],
     "literal": "tsurun"
   },
@@ -4502,7 +4502,7 @@
     "definition": [{
       "equivalent": "uh, uhn, ugh, urgh",
       "meaning": "appalled, discouraged, dismayed",
-      "example": ["u1a-うっ"]
+      "example": ["u~1a~うっ"]
     }],
     "literal": "u"
   },
@@ -4526,7 +4526,7 @@
     "definition": [{
       "equivalent": "whaa, waah",
       "meaning": "an exclamation sound, often extended, expressing a range of emotions, as in relief, embarrassment, or surprise",
-      "example": ["ua1-うぁぁぁ"]
+      "example": ["u~a1~うぁぁぁ"]
     }],
     "literal": "ua"
   },
@@ -4543,12 +4543,12 @@
       {
         "equivalent": "exactly, mm-hmm, nod, okay, yeah, yes",
         "meaning": "nodding to express agreement",
-        "example": ["un1a-うん"]
+        "example": ["un~1a~うん"]
       },
       {
         "equivalent": "hmm, uh, um",
         "meaning": "an expression of thinking or considering",
-        "example": ["un2a-うーん"]
+        "example": ["un~2a~うーん"]
       }
     ],
     "literal": "un"
@@ -4566,12 +4566,12 @@
       {
         "equivalent": "nod nod, yep yep",
         "meaning": "nodding the head repeatedly to express agreement",
-        "example": ["un_un1a-うん_うん"]
+        "example": ["un_un~1a~うん_うん"]
       },
       {
         "equivalent": "groan groan, moan moan, uhhh uhhh, ummm ummm",
         "meaning": "a series of low sounds expressing pain or grief",
-        "example": ["un_un2a-ウーン_ウーン"]
+        "example": ["un_un~2a~ウーン_ウーン"]
       }
     ],
     "literal": "un un"
@@ -4588,7 +4588,7 @@
     "definition": [{
       "equivalent": "arf, bark, ruff, howl, yowl, woof",
       "meaning": "the bark or howl of a wolf",
-      "example": ["uon1a-ウォン"]
+      "example": ["uon~1a~ウォン"]
     }],
     "literal": "uon"
   },
@@ -4604,7 +4604,7 @@
     "definition": [{
       "equivalent": "bead, drip, drop, tear, teardrop",
       "meaning": "the formation of a teardrop",
-      "example": ["uru1a-うるっ"]
+      "example": ["uru~1a~うるっ"]
     }],
     "literal": "uru"
   },
@@ -4620,7 +4620,7 @@
     "definition": [{
       "equivalent": "danger, intimidate, menace, threat",
       "meaning": "a feeling of threat",
-      "example": ["uzo1a-ウゾゾ"]
+      "example": ["uzo~1a~ウゾゾ"]
     }],
     "literal": "uzo"
   },
@@ -4640,7 +4640,7 @@
     "definition": [{
       "equivalent": "choke, gag, mphh, wmphh",
       "meaning": "an expression of revulsion as if trying not to retch.",
-      "example": ["vu1a-ゔっ"]
+      "example": ["vu~1a~ゔっ"]
     }],
     "literal": "vu"
   },
@@ -4650,7 +4650,7 @@
     "definition": [{
       "equivalent": "fwoom, voom, whoom",
       "meaning": "the sound of a magic taking effect",
-      "example": ["vun1a-ヴン"]
+      "example": ["vun~1a~ヴン"]
     }],
     "literal": "vun"
   },
@@ -4683,9 +4683,9 @@
       "equivalent": "bellow, howl, raaa, roar, shout, waa, yaaa, yay",
       "meaning": "a roar, shout or cheer, either in fear or in celebration",
       "example": [
-        "wa1a-わっ",
-        "wa1b-ワァァァ",
-        "wa1c-ワァァァ"
+        "wa~1a~わっ",
+        "wa~1b~ワァァァ",
+        "wa~1c~ワァァァ"
       ]
     }],
     "literal": "wa"
@@ -4696,7 +4696,7 @@
     "definition": [{
       "equivalent": "deligthed, eager, excited, glad glad, gleeful, joy joy, pleased",
       "meaning": "an expression of enthusiasm and eagerness",
-      "example": ["waku_waku1a-わく_わく"]
+      "example": ["waku_waku~1a~わく_わく"]
     }],
     "literal": "waku waku"
   },
@@ -4713,8 +4713,8 @@
       "equivalent": "arf, bark, ruff, woof",
       "meaning": "The gruff barking noise of a dog or a wolf",
       "example": [
-        "wan1a-わんっ",
-        "wan1b-わん"
+        "wan~1a~わんっ",
+        "wan~1b~わん"
       ]
     }],
     "literal": "wan"
@@ -4725,7 +4725,7 @@
     "definition": [{
       "equivalent": "alarm, concern, dread, panic, qualm, wave wave",
       "meaning": "an expression of panic or mistake, often with waving of hands",
-      "example": ["wata_wata1a-わた_わた"]
+      "example": ["wata_wata~1a~わた_わた"]
     }],
     "literal": "wata wata"
   },
@@ -4741,7 +4741,7 @@
     "definition": [{
       "equivalent": "lurch, reel, shake, stagger, sway, teeter, wobble",
       "meaning": "unsteady or awkward movement",
-      "example": ["yoro1a-ヨロッ"]
+      "example": ["yoro~1a~ヨロッ"]
     }],
     "literal": "yoro"
   },
@@ -4757,7 +4757,7 @@
     "definition": [{
       "equivalent": "falter, lurch, reel, stagger, teeter, unsteady, waver, wobble",
       "meaning": "expressing a difficulty maintaining one's balance",
-      "example": ["yura1a-ゆらっ"]
+      "example": ["yura~1a~ゆらっ"]
     }],
     "literal": "yura"
   },
@@ -4773,7 +4773,7 @@
     "definition": [{
       "equivalent": "impale, jab, pierce, skewer, stab",
       "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
-      "example": ["zaku1a-ザクッ"]
+      "example": ["zaku~1a~ザクッ"]
     }],
     "literal": "zaku"
   },
@@ -4790,8 +4790,8 @@
       "equivalent": "cleave, cut, slash, slice",
       "meaning": "a hard fast cut, as with a sword or knife",
       "example": [
-        "zan1a-ザン",
-        "zan1b-ザンッ"
+        "zan~1a~ザン",
+        "zan~1b~ザンッ"
       ]
     }],
     "literal": "zan"
@@ -4802,7 +4802,7 @@
     "definition": [{
       "equivalent": "cleave, cut, slash, slice",
       "meaning": "a fast, heavy cut, as with a sword or knife",
-      "example": ["zashu1a-ザシュ"]
+      "example": ["zashu~1a~ザシュ"]
     }],
     "literal": "zashu"
   },
@@ -4812,7 +4812,7 @@
     "definition": [{
       "equivalent": "ballyhoo, buzz, chatter, commotion, din, hubbub, ruckus",
       "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-      "example": ["zawa_zawa1a-ザワ_ザワ"]
+      "example": ["zawa_zawa~1a~ザワ_ザワ"]
     }],
     "literal": "zawa zawa"
   },
@@ -4828,7 +4828,7 @@
     "definition": [{
       "equivalent": "crunch, crush, step, slide",
       "meaning": "sound of someone walking, especially on grass or gravel",
-      "example": ["za_za1a-ザッ_ザッ"]
+      "example": ["za_za~1a~ザッ_ザッ"]
     }],
     "literal": "za za"
   },
@@ -4848,7 +4848,7 @@
     "definition": [{
       "equivalent": "gasp, inhale, wheeze",
       "meaning": "the sound of a deep indrawn breath",
-      "example": ["ze1a-ぜ"]
+      "example": ["ze~1a~ぜ"]
     }],
     "literal": "ze"
   },
@@ -4865,9 +4865,9 @@
       "equivalent": "dread, fear, fright, horror, panic, scare, terror",
       "meaning": "an expression of surprise, fear, or panic",
       "example": [
-        "zoku1a-ぞく",
-        "zoku1b-ゾクッ",
-        "zoku1c-ぞくっ"
+        "zoku~1a~ぞく",
+        "zoku~1b~ゾクッ",
+        "zoku~1c~ぞくっ"
       ]
     }],
     "literal": "zoku"
@@ -4884,7 +4884,7 @@
     "definition": [{
       "equivalent": "clan, crowd, gang, horde, mass, mob, pack, throng",
       "meaning": "a large number of persons or creatures massed together",
-      "example": ["zoro1a-ぞろっ"]
+      "example": ["zoro~1a~ぞろっ"]
     }],
     "literal": "zoro"
   },
@@ -4900,7 +4900,7 @@
     "definition": [{
       "equivalent": "shiver, shudder, quiver, tremble",
       "meaning": "an indication of shaking",
-      "example": ["zowa1a-ぞわっ"]
+      "example": ["zowa~1a~ぞわっ"]
     }],
     "literal": "zowa"
   },
@@ -4916,7 +4916,7 @@
     "definition": [{
       "equivalent": "shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
       "meaning": "something suddenly and quickly moving through the air",
-      "example": ["zua1a-ズアッ"]
+      "example": ["zua~1a~ズアッ"]
     }],
     "literal": "zua"
   },
@@ -4932,7 +4932,7 @@
     "definition": [{
       "equivalent": "cleave, cut, slash, slice",
       "meaning": "a cut, as with a sword or knife",
-      "example": ["zuba1a-ズバッ"]
+      "example": ["zuba~1a~ズバッ"]
     }],
     "literal": "zuba"
   },
@@ -4950,7 +4950,7 @@
     "definition": [{
       "equivalent": "crash, fall, slide, slip, tump",
       "meaning": "to fall as a result of slipping",
-      "example": ["zuda1a-ズダダダダ"]
+      "example": ["zuda~1a~ズダダダダ"]
     }],
     "literal": "zuda"
   },
@@ -4971,12 +4971,12 @@
       {
         "equivalent": "gape, gawk, peer, regard, scrutinize, stare, study",
         "meaning": "to stare at someone's face, often uncomfortably close",
-        "example": ["zui1a-ずいっ"]
+        "example": ["zui~1a~ずいっ"]
       },
       {
         "equivalent": "display, give, offer, push, present, shove, show, thrust, unveil",
         "meaning": "to push something toward someone's face, typically in an agressive or sudden manner",
-        "example": ["zui2a-ずいっ"]
+        "example": ["zui~2a~ずいっ"]
       }
     ],
     "literal": "zui"
@@ -5002,8 +5002,8 @@
       "equivalent": "dejected, depressed, dreary, doom, mope, gloom, glum",
       "meaning": "an expression of low spirits",
       "example": [
-        "zun1a-ずぅぅん",
-        "zun1b-ズーン"
+        "zun~1a~ずぅぅん",
+        "zun~1b~ズーン"
       ]
     }],
     "literal": "zun"
@@ -5014,7 +5014,7 @@
     "definition": [{
       "equivalent": "step step, tap tap, thump thump",
       "meaning": "to walk quickly, almost a run",
-      "example": ["zun_zun1a-ずん_ずん"]
+      "example": ["zun_zun~1a~ずん_ずん"]
     }],
     "literal": "zun zun"
   },
@@ -5024,7 +5024,7 @@
     "definition": [{
       "equivalent": "queued,  lined up",
       "meaning": "a series of things or people lined up one after another",
-      "example": ["zura1a-ズラ"]
+      "example": ["zura~1a~ズラ"]
     }],
     "literal": "zura"
   },
@@ -5040,7 +5040,7 @@
     "definition": [{
       "equivalent": "drag, move, pull, slide, slip",
       "meaning": "the sound of something sliding or being dragged",
-      "example": ["zuru1a-ズル"]
+      "example": ["zuru~1a~ズル"]
     }],
     "literal": "zuru"
   }
