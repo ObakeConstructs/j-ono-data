@@ -794,6 +794,22 @@
   },
   {
     "hiragana": [
+      "だだ",
+      "だだっ"
+    ],
+    "katakana": [
+      "ダダ",
+      "ダダッ"
+    ],
+    "definition": [{
+      "equivalent": "bolt, charge, dash, hurry, run, rush, sprint",
+      "meaning": "to run or start running",
+      "example": ["dada1a-ダダッ"]
+    }],
+    "literal": "dada"
+  },
+  {
+    "hiragana": [
       "だき",
       "だきっ"
     ],
@@ -814,25 +830,9 @@
     "definition": [{
       "equivalent": "bead bead, dribble, drip drip, drop drop, trickle",
       "meaning": "continously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
-      "example": ["dara_dara1a-ダラダラ"]
+      "example": ["dara_dara1a-ダラ_ダラ"]
     }],
     "literal": "dara dara"
-  },
-  {
-    "hiragana": [
-      "だだ",
-      "だだっ"
-    ],
-    "katakana": [
-      "ダダ",
-      "ダダッ"
-    ],
-    "definition": [{
-      "equivalent": "bolt, charge, dash, hurry, run, rush, sprint",
-      "meaning": "to run or start running",
-      "example": ["da_da1a-ダ_ダッ"]
-    }],
-    "literal": "da da"
   },
   {
     "hiragana": [
@@ -1566,7 +1566,7 @@
     "definition": [{
       "equivalent": "clang clang, clunk clunk, clatter, creak creak, rattle",
       "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
-      "example": ["gata_gata1a-ガタガタ"]
+      "example": ["gata_gata1a-ガタ_ガタ"]
     }],
     "literal": "gata gata"
   },
@@ -2174,9 +2174,9 @@
       },
       {
         "equivalent": "hah hah, pant pant",
-        "meaning": "to breathe hard after exertion",
+        "meaning": "to breathe hard, as from exertion or fear",
         "example": [
-          "ha_ha2a-はぁはぁ",
+          "ha_ha2a-はぁ_はぁ",
           "ha_ha2b-ハッ_ハッ"
         ]
       }
@@ -2358,7 +2358,7 @@
     "definition": [{
       "equivalent": "splash splash",
       "meaning": "the sound of splashing water",
-      "example": ["jabu_jabu1a-ジャブジャブ"]
+      "example": ["jabu_jabu1a-ジャブ_ジャブ"]
     }],
     "literal": "jabu jabu"
   },
@@ -2540,7 +2540,7 @@
     "definition": [{
       "equivalent": "clack clack, clatter, click click, clink clink, ker-chak, rattle",
       "meaning": "a series of short, sharp noises, typically associated with dishes",
-      "example": ["kacha_kacha1a-カチャカチャ"]
+      "example": ["kacha_kacha1a-カチャ_カチャ"]
     }],
     "literal": "kacha kacha"
   },
@@ -2585,7 +2585,7 @@
     "definition": [{
       "equivalent": "click, draw, print, scrape, scratch, scribble, stroke, tap, write",
       "meaning": "the sound of writing something, as on paper or chalkboard",
-      "example": ["kari_kari1a-カリカリ"]
+      "example": ["kari_kari1a-カリ_カリ"]
     }],
     "literal": "kari kari"
   },
@@ -2707,7 +2707,7 @@
     "definition": [{
       "equivalent": "clang, clank, creak, grind, scrape, squeak, whine",
       "meaning": "a harsh grating sound, as metal under stress",
-      "example": ["kiri_kiri1a-キリキリ"]
+      "example": ["kiri_kiri1a-キリ_キリ"]
     }],
     "literal": "kiri kiri"
   },
@@ -2788,7 +2788,7 @@
     "definition": [{
       "equivalent": "knock knock",
       "meaning": "the sound of someone knocking on a door",
-      "example": ["kon_kon1a-コンコン"]
+      "example": ["kon_kon1a-コン_コン"]
     }],
     "literal": "kon kon"
   },
@@ -2903,12 +2903,12 @@
       {
         "equivalent": "pluck, pull, tug",
         "meaning": "to gently pull or tug on something",
-        "example": ["kui_kui1a-くいくい"]
+        "example": ["kui_kui1a-くい_くい"]
       },
       {
         "equivalent": "beckon, flag, gesture, motion, signal, wave",
         "meaning": "to gesture at someone ambiguously",
-        "example": ["kui_kui2a-くいくいっ"]
+        "example": ["kui_kui2a-くい_くいっ"]
       }
     ],
     "literal": "kui kui"
@@ -2969,7 +2969,7 @@
     "definition": [{
       "equivalent": "pivot, spin, swing, swivel, turn, twist",
       "meaning": "to turn or spin something something",
-      "example": ["kuru_kuru1b-くるくる"]
+      "example": ["kuru_kuru1b-くる_くる"]
     }],
     "literal": "kuru kuru"
   },
@@ -3085,7 +3085,7 @@
     "definition": [{
       "equivalent": "munch munch, nom nom, snarf snarf",
       "meaning": "the sound of eating and chewing, often in a humorous context",
-      "example": ["mo_mo1a-もっもっ"]
+      "example": ["mo_mo1a-もっ_もっ"]
     }],
     "literal": "mo mo"
   },
@@ -3182,7 +3182,7 @@
     "definition": [{
       "equivalent": "beam, smile, grin, smirk",
       "meaning": "an expression happiness, amusement, or agreement",
-      "example": ["niko_niko1a-ニコニコ"]
+      "example": ["niko_niko1a-ニコ_ニコ"]
     }],
     "literal": "niko niko"
   },
@@ -3348,7 +3348,7 @@
     "definition": [{
       "equivalent": "flit flit, flutter, pit-a-pat, pitter-patter, tap tap, tock tock",
       "meaning": "the sound of small things falling",
-      "example": ["para_para1a-パラパラ"]
+      "example": ["para_para1a-パラ_パラ"]
     }],
     "literal": "para para"
   },
@@ -3398,7 +3398,7 @@
     "definition": [{
       "equivalent": "flap flap, flick flick, flit flit, swish swish, wave wave",
       "meaning": "the sound of flapping, as of bird wings, a dust mop, or a flag in the wind",
-      "example": ["pata_pata1a-パタパタ"]
+      "example": ["pata_pata1a-パタ_パタ"]
     }],
     "literal": "pata pata"
   },
@@ -3954,7 +3954,7 @@
     "definition": [{
       "equivalent": "back up, hide, pull back, relent, retreat, scoot",
       "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
-      "example": ["sa_sa1a-ササササッ"]
+      "example": ["sa_sa1a-ササ_ササッ"]
     }],
     "literal": "sa sa"
   },
@@ -4338,7 +4338,7 @@
     "definition": [{
       "equivalent": "clump clump, lumber, plod plod, shuffle shuffle, slog slog, tromp tromp, trudge trudge",
       "meaning": "to walk heavily or slowly, often an expression of emotional disturbance",
-      "example": ["tobo_tobo1a-トボトボ"]
+      "example": ["tobo_tobo1a-トボ_トボ"]
     }],
     "literal": "tobo tobo"
   },
@@ -4380,7 +4380,7 @@
     "definition": [{
       "equivalent": "bonk bonk, bop bop, bump bump, knock knock, tap tap, thud thud, thump thump, tmp tmp, tok tok",
       "meaning": "the sound of light rythmic strikes",
-      "example": ["ton_ton1a-トントン"]
+      "example": ["ton_ton1a-トン_トン"]
     }],
     "literal": "ton ton"
   },
@@ -4450,7 +4450,7 @@
     "definition": [{
       "equivalent": "pinch pinch, poke poke, tap tap",
       "meaning": "a series of interactions with one's fingertips",
-      "example": ["tsun_tsun1a-つんつん"]
+      "example": ["tsun_tsun1a-つん_つん"]
     }],
     "literal": "tsun tsun"
   },
@@ -4566,12 +4566,12 @@
       {
         "equivalent": "nod nod, yep yep",
         "meaning": "nodding the head repeatedly to express agreement",
-        "example": ["un_un1a-うんうん"]
+        "example": ["un_un1a-うん_うん"]
       },
       {
         "equivalent": "groan groan, moan moan, uhhh uhhh, ummm ummm",
         "meaning": "a series of low sounds expressing pain or grief",
-        "example": ["un_un2a-ウーンウーン"]
+        "example": ["un_un2a-ウーン_ウーン"]
       }
     ],
     "literal": "un un"
@@ -4812,7 +4812,7 @@
     "definition": [{
       "equivalent": "ballyhoo, buzz, chatter, commotion, din, hubbub, ruckus",
       "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-      "example": ["zawa_zawa1a-ザワザワ"]
+      "example": ["zawa_zawa1a-ザワ_ザワ"]
     }],
     "literal": "zawa zawa"
   },
