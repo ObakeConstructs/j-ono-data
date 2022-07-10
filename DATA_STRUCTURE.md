@@ -57,4 +57,4 @@ Example Definition Record:
 * Each Image File is in a folder corresponding to the first letter of its filename.
 * All Image File images are 400 pixels by 400 pixels and contain publisher attribution statements.
 * All Image File formats are JPEG (`*.jpg`), exclusively.
-* All Image File filenames must be unique and carry the `.jpg` extension, but otherwise have no restrictions.
+* Naming Convention: `[literal]-[unique id]-[display title].jpg`
