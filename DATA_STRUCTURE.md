@@ -1,10 +1,10 @@
 ## STRUCTURE
 All definition records are stored in a single JSON array in the `j-ono-data.json` file.
 ```
-[  
-  { definition record }  
-  { definition record }  
-  ... etc.  
+[
+  { definition record },
+  { definition record },
+  ... etc.
 ]
 ```
 
