@@ -167,6 +167,22 @@
     "literal": "basha basha"
   },
   {
+    "hiragana": [
+      "ばし",
+      "ばしっ"
+    ],
+    "katakana": [
+      "バシ",
+      "バシッ"
+    ],
+    "definition": [{
+      "equivalent": "bam, bang, crash, slam, slap, smack, thump, thud, thunk, whack, wham, whap, whomp",
+      "meaning": "a sudden and loud impact",
+      "example": ["bashi~1a~バシッ"]
+    }],
+    "literal": "bashi"
+  },
+  {
     "hiragana": ["ばたん"],
     "katakana": ["バタン"],
     "definition": [{
@@ -500,6 +516,22 @@
       "example": ["bu~1a~ブーッ"]
     }],
     "literal": "bu"
+  },
+  {
+    "hiragana": [
+      "ぶち",
+      "ぶちっ"
+    ],
+    "katakana": [
+      "ブチ",
+      "ブチッ"
+    ],
+    "definition": [{
+      "equivalent": "burst, crack, shatter, smack, split, snap",
+      "meaning": "the sound of something suddenly breaking",
+      "example": ["buchi~1a~ブチッ"]
+    }],
+    "literal": "buchi"
   },
   {
     "hiragana": [
@@ -989,9 +1021,12 @@
       "ドカッ"
     ],
     "definition": [{
-      "equivalent": "crash, kick, slam, smash, stomp, wallop",
-      "meaning": "the sound of a loud strike, as in kicking down a door",
-      "example": ["doka~1a~ドカ"]
+      "equivalent": "blam, blow, crash, slam, smash, strike, wallop, wham",
+      "meaning": "a loud and destructuve strike",
+      "example": [
+        "doka~1a~ドカ",
+        "doka~1b~ドカッ"
+      ]
     }],
     "literal": "doka"
   },
@@ -999,7 +1034,7 @@
     "hiragana": ["どかぁん"],
     "katakana": ["ドカァン"],
     "definition": [{
-      "equivalent": "blam, blow, crash, smash, strike, wham",
+      "equivalent": "blam, blow, crash, slam, smash, strike, wallop, wham",
       "meaning": "a loud and destructive strike",
       "example": ["dokan~1a~ドカァン"]
     }],
@@ -1045,6 +1080,16 @@
       }
     ],
     "literal": "don"
+  },
+  {
+    "hiragana": ["どんどん"],
+    "katakana": ["ドンドン"],
+    "definition": [{
+      "equivalent": "bam bam, bang bang, boom boom, crack crack, wham wham",
+      "meaning": "a series of sudden loud noises, as from a gun",
+      "example": ["don~1a~ドン  ドン  ドン"]
+    }],
+    "literal": "don don"
   },
   {
     "hiragana": [
@@ -1573,6 +1618,16 @@
       }
     ],
     "literal": "gara"
+  },
+  {
+    "hiragana": ["がらがら"],
+    "katakana": ["ガラガラ"],
+    "definition": [{
+      "equivalent": "clack clack, clank clank, clatter clatter, crash crash, rattle rattle, smash smash, tumult",
+      "meaning": "the sound of something breaking apart, collapsing or settling",
+      "example": ["gara_gara~1a~ガラ  ガラ  ガラ"]
+    }],
+    "literal": "gara gara"
   },
   {
     "hiragana": [
@@ -2453,7 +2508,10 @@
     "definition": [{
       "equivalent": "shoom, swoosh, whish, whoosh, whiz, whom, zip, zoom",
       "meaning": "something moving quickly through the air",
-      "example": ["hyun~1a~ヒュンッ"]
+      "example": [
+        "hyun~1a~ヒュンッ",
+        "hyun~1b~ヒュン"
+      ]
     }],
     "literal": "hyun"
   },
@@ -3560,7 +3618,10 @@
     "definition": [{
       "equivalent": "catch, get, grab, grasp, grip, hold, nab, snag",
       "meaning": "the act of grabbing and holding",
-      "example": ["pashi~1a~ぱしっ"]
+      "example": [
+        "pashi~1a~ぱしっ",
+        "pashi~1b~パシッ"
+      ]
     }],
     "literal": "pashi"
   },
@@ -4084,7 +4145,9 @@
       "さーっ",
       "さぁ",
       "さぁぁ",
-      "さぁぁぁ"
+      "さぁぁぁ",
+      "さあ",
+      "さあっ"
     ],
     "katakana": [
       "サ",
@@ -4093,7 +4156,9 @@
       "サーッ",
       "サァ",
       "サァァ",
-      "サァァァ"
+      "サァァァ",
+      "サア",
+      "サアッ"
     ],
     "definition": [
       {
@@ -4113,6 +4178,11 @@
           "sa~3a~サッ",
           "sa~3b~サッ"
         ]
+      },
+      {
+        "equivalent": "gush, jet, slosh, spew, splash, sploosh, spout, swash",
+        "meaning": "a loud noise of water splashing",
+        "example": ["sa~4a~サアッ"]
       }
     ],
     "literal": "sa"
@@ -5258,5 +5328,33 @@
       "example": ["zuru~1a~ズル"]
     }],
     "literal": "zuru"
+  },
+  {
+    "hiragana": ["ずしゃ"],
+    "katakana": ["ズシャ"],
+    "definition": [{
+      "equivalent": "bam, crash, shatter, slam, smash, thud, thump, whomp",
+      "meaning": "a hard impact from a falling or thrown person",
+      "example": ["zusha~1a~ズシャ"]
+    }],
+    "literal": "zusha"
+  },
+  {
+    "hiragana": [
+      "ずざ",
+      "ずざざ",
+      "ずざざざ"
+    ],
+    "katakana": [
+      "ズザ",
+      "ズザザ",
+      "ズザザザ"
+    ],
+    "definition": [{
+      "equivalent": "bam, crash, shatter, slam, smash, thud, thump, whomp",
+      "meaning": "a hard impact from a falling or thrown person",
+      "example": ["zuza~1a~ズザザ"]
+    }],
+    "literal": "zuza"
   }
 ]
