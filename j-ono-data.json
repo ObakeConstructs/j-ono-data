@@ -72,6 +72,22 @@
   },
   {
     "hiragana": [
+      "ばき",
+      "ばきっ"
+    ],
+    "katakana": [
+      "バキ",
+      "バキッ"
+    ],
+    "definition": [{
+      "equivalent": "crack, crash, shatter, smash",
+      "meaning": "the sound of something suddenly falling apart or breaking into pieces",
+      "example": ["baki~1a~バキッ"]
+    }],
+    "literal": "baki"
+  },
+  {
+    "hiragana": [
       "ばん",
       "ばんっ",
       "ばぁん",
@@ -119,6 +135,16 @@
       }
     ],
     "literal": "basa"
+  },
+  {
+    "hiragana": ["ばさばさ"],
+    "katakana": ["バサバサ"],
+    "definition": [{
+      "equivalent": "flap flap, flit flit, flutter flutter, rustle rustle",
+      "meaning": "the continuous soft sounds of paper moving or falling",
+      "example": ["basa_basa~1a~ばさ_ばさ"]
+    }],
+    "literal": "basa basa"
   },
   {
     "hiragana": ["ばしゃ"],
@@ -907,6 +933,22 @@
   },
   {
     "hiragana": [
+      "どぼん",
+      "どぼーん"
+    ],
+    "katakana": [
+      "ドボン",
+      "ドボーン"
+    ],
+    "definition": [{
+      "equivalent": "gush, jet, slosh, spew, splash, sploosh, spout, swash",
+      "meaning": "the noise of something splashing into water",
+      "example": ["dobon~1a~ドボーン"]
+    }],
+    "literal": "dobon"
+  },
+  {
+    "hiragana": [
       "どご",
       "どごっ"
     ],
@@ -1121,7 +1163,7 @@
     "hiragana": ["ふぁあ"],
     "katakana": ["ファア"],
     "definition": [{
-      "equivalent": "huff, yawn",
+      "equivalent": "huff, whaa, yawn",
       "meaning": "a deep breath expressing tiredness or boredom",
       "example": ["faa~1a~ふぁあ"]
     }],
@@ -1179,6 +1221,30 @@
       }
     ],
     "literal": "fu"
+  },
+  {
+    "hiragana": [
+      "ふあ",
+      "ふぁ",
+      "ふああ",
+      "ふぁぁ",
+      "ふあああ",
+      "ふぁぁぁ"
+    ],
+    "katakana": [
+      "フア",
+      "ファ",
+      "フアア",
+      "ファァ",
+      "フアアア",
+      "ファァァ"
+    ],
+    "definition": [{
+      "equivalent": "huff, whaa, yawn",
+      "meaning": "a deep breath expressing tiredness or boredom",
+      "example": ["fua~1a~ふあああ"]
+    }],
+    "literal": "fua"
   },
   {
     "hiragana": [
@@ -1421,8 +1487,11 @@
     ],
     "definition": [{
       "equivalent": "clunk, ga-thunk, ka-thunk, knock, thunk, thwack, tonk",
-      "meaning": "the hollow sound of an impact with wood",
-      "example": ["gakon~1a~ガコンッ"]
+      "meaning": "the hollow sound of an impact with wood or plastic",
+      "example": [
+        "gakon~1a~ガコンッ",
+        "gakon~1b~ガコン"
+      ]
     }],
     "literal": "gakon"
   },
@@ -1608,9 +1677,12 @@
       "ガタッ"
     ],
     "definition": [{
-      "equivalent": "clatter, creak, rattle",
-      "meaning": "to stand or sit, and/or the noise of a chair or stool moving while standing or sitting",
-      "example": ["gata~1a~ガタ"]
+      "equivalent": "clatter, clunk, creak, rattle",
+      "meaning": "the sound of wood clattering on something hard, as when a chair or stool is moved",
+      "example": [
+        "gata~1a~ガタ",
+        "gata~1b~ガタ"
+      ]
     }],
     "literal": "gata"
   },
@@ -1871,6 +1943,16 @@
       "example": ["goku_goku~1a~ごく_ごく"]
     }],
     "literal": "goku goku"
+  },
+  {
+    "hiragana": ["ごきゅごきゅ"],
+    "katakana": ["ゴキュゴキュ"],
+    "definition": [{
+      "equivalent": "drink drink, gulp gulp, quaff quaff, swallow swallow",
+      "meaning": "the sound of swallowing a liquid",
+      "example": ["gokyu_gokyu~1a~ごきゅ_ごきゅ"]
+    }],
+    "literal": "gokyu gokyu"
   },
   {
     "hiragana": [
@@ -2273,7 +2355,8 @@
       "meaning": "a high-pitched squeal of surprise, sometimes used for comedic effect",
       "example": [
         "hi~1a~ヒッ",
-        "hi~1b~ヒィィィッ"
+        "hi~1b~ヒィィィッ",
+        "hi~1c~ひ"
       ]
     }],
     "literal": "hi"
@@ -2740,6 +2823,16 @@
     "literal": "kin"
   },
   {
+    "hiragana": ["きーん こーん かーん こーん"],
+    "katakana": ["キーン コーン カーン コーン"],
+    "definition": [{
+      "equivalent": "ding dong dang dong",
+      "meaning": "the sound of a Japanese school bell",
+      "example": ["kin_kon_kan_kon~1a~キーン  コーン  カーン  コーン"]
+    }],
+    "literal": "kin_kon_kan_kon"
+  },
+  {
     "hiragana": [
       "きら",
       "きらっ"
@@ -2946,7 +3039,7 @@
       "クアー"
     ],
     "definition": [{
-      "equivalent": "huff, yawn",
+      "equivalent": "huff, whaa, yawn",
       "meaning": "a deep breath expressing tiredness or boredom",
       "example": ["kua~1a~くあ"]
     }],
@@ -3102,6 +3195,22 @@
       "example": ["kyu~1a~きゅ"]
     }],
     "literal": "kyu"
+  },
+  {
+    "hiragana": [
+      "みし",
+      "みしっ"
+    ],
+    "katakana": [
+      "ミシ",
+      "ミシッ"
+    ],
+    "definition": [{
+      "equivalent": "creak, screech, shriek, squeak, squeal",
+      "meaning": "the creaking sound of an old or unstable floor",
+      "example": ["mishi~1a~ミシ_ミシッ"]
+    }],
+    "literal": "mishi"
   },
   {
     "hiragana": ["もふ"],
@@ -3366,8 +3475,11 @@
     ],
     "definition": [{
       "equivalent": "crack, crackle, pop, shatter, snap",
-      "meaning": "a loud sound of something breaking",
-      "example": ["paki~1a~パキッ"]
+      "meaning": "the sharp sound of something cracking or popping",
+      "example": [
+        "paki~1a~パキッ",
+        "paki~1b~パキッ"
+      ]
     }],
     "literal": "paki"
   },
@@ -3435,6 +3547,22 @@
       }
     ],
     "literal": "pasha"
+  },
+  {
+    "hiragana": [
+      "ぱし",
+      "ぱしっ"
+    ],
+    "katakana": [
+      "パシ",
+      "パシッ"
+    ],
+    "definition": [{
+      "equivalent": "catch, get, grab, grasp, grip, hold, nab, snag",
+      "meaning": "the act of grabbing and holding",
+      "example": ["pashi~1a~ぱしっ"]
+    }],
+    "literal": "pashi"
   },
   {
     "hiragana": [
