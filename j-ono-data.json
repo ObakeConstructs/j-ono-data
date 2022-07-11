@@ -388,6 +388,16 @@
     "literal": "boko"
   },
   {
+    "hiragana": ["ぼこん"],
+    "katakana": ["ボコン"],
+    "definition": [{
+      "equivalent": "bounce, bonk, bop, bump, thump, thunk, tok",
+      "meaning": "the sound of something bouncing off a hard surface",
+      "example": ["bokon~1a~ボコン"]
+    }],
+    "literal": "bokon"
+  },
+  {
     "hiragana": ["ぼろぼろ"],
     "katakana": ["ボロボロ"],
     "definition": [{
@@ -505,6 +515,16 @@
     "literal": "buku"
   },
   {
+    "hiragana": ["ぶくぶく"],
+    "katakana": ["ブクブク"],
+    "definition": [{
+      "equivalent": "boil boil, bop bop, bubble bubble",
+      "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
+      "example": ["buku_buku~1a~ブク_ブク"]
+    }],
+    "literal": "buku buku"
+  },
+  {
     "hiragana": [
       "ぶん",
       "ぶんっ"
@@ -600,6 +620,16 @@
     "literal": "butsu"
   },
   {
+    "hiragana": ["ぶつぶつ"],
+    "katakana": ["ブツブツ"],
+    "definition": [{
+      "equivalent": "mumble, murmer, mutter",
+      "meaning": "to mumble quietly, typically expressing unhappiness or dissatisfaction",
+      "example": ["butsu_butsu~1a~ぶつ_ぶつ"]
+    }],
+    "literal": "butsu butsu"
+  },
+  {
     "hiragana": [
       "ぶわ",
       "ぶわっ"
@@ -638,9 +668,30 @@
     "definition": [{
       "equivalent": "whish, whistle, whoo, whoosh, wind",
       "meaning": "the sound of wind or blowing air",
-      "example": ["byu~1a~ビュウ"]
+      "example": [
+        "byu~1a~ビュウ",
+        "byu~1b~ビュ"
+      ]
     }],
     "literal": "byu"
+  },
+  {
+    "hiragana": [
+      "びゅん",
+      "びゅんっ",
+      "びゅーん"
+    ],
+    "katakana": [
+      "ビュン",
+      "ビュンッ",
+      "ビューン"
+    ],
+    "definition": [{
+      "equivalent": "shoom, swoosh, whish, whoosh, whiz, zip, zoom",
+      "meaning": "the sound of someone or something moving very quickly",
+      "example": ["byun~1a~ビューン"]
+    }],
+    "literal": "byun"
   },
   {
     "hiragana": [
@@ -1131,6 +1182,27 @@
   },
   {
     "hiragana": [
+      "ふふ",
+      "ふふっ",
+      "ふふふ"
+    ],
+    "katakana": [
+      "フフ",
+      "フフッ",
+      "フフフ"
+    ],
+    "definition": [{
+      "equivalent": "chortle, chuckle, ha ha, heh heh, laugh",
+      "meaning": "a light laugh",
+      "example": [
+        "fufu~1a~フフフ",
+        "fufu~1b~ふふっ"
+      ]
+    }],
+    "literal": "fufu"
+  },
+  {
+    "hiragana": [
       "ふら",
       "ふらっ"
     ],
@@ -1196,27 +1268,6 @@
       "example": ["furo_furo~1a~ふろ_ふろ"]
     }],
     "literal": "furo furo"
-  },
-  {
-    "hiragana": [
-      "ふふ",
-      "ふふっ",
-      "ふふふ"
-    ],
-    "katakana": [
-      "フフ",
-      "フフッ",
-      "フフフ"
-    ],
-    "definition": [{
-      "equivalent": "chortle, chuckle, ha ha, heh heh, laugh",
-      "meaning": "a light laugh",
-      "example": [
-        "fufu~1a~フフフ",
-        "fufu~1b~ふふっ"
-      ]
-    }],
-    "literal": "fu fu"
   },
   {
     "hiragana": [
@@ -1440,8 +1491,11 @@
     "definition": [
       {
         "equivalent": "bang, close, open, shut, slide, slam, swish, swoosh, thump",
-        "meaning": "the sound of opening or closing a sliding window or sliding door, can be soft or slammed",
-        "example": ["gara~1a~ガラッ"]
+        "meaning": "the sound of a sliding window or sliding door being opened or shut",
+        "example": [
+          "gara~1a~ガラッ",
+          "gara~1b~ガラッ"
+        ]
       },
       {
         "equivalent": "clatter, clutter, rattle, tumult",
@@ -1973,6 +2027,16 @@
       "example": ["gununu~1a~ぐぬぬぬ"]
     }],
     "literal": "gununu"
+  },
+  {
+    "hiragana": ["ぐるん"],
+    "katakana": ["グルン"],
+    "definition": [{
+      "equivalent": "pivot, spin, swing, swivel, turn, twist",
+      "meaning": "to turn, look away, or look towards something",
+      "example": ["gurun~1a~ぐるん"]
+    }],
+    "literal": "gurun"
   },
   {
     "hiragana": ["ぐすんぐすん"],
@@ -2969,7 +3033,7 @@
     "definition": [{
       "equivalent": "pivot, spin, swing, swivel, turn, twist",
       "meaning": "to turn or spin something something",
-      "example": ["kuru_kuru~1b~くる_くる"]
+      "example": ["kuru_kuru~1a~くる_くる"]
     }],
     "literal": "kuru kuru"
   },
@@ -3346,9 +3410,12 @@
     "hiragana": ["ぱらぱら"],
     "katakana": ["パラパラ"],
     "definition": [{
-      "equivalent": "flit flit, flutter, pit-a-pat, pitter-patter, tap tap, tock tock",
+      "equivalent": "flit flit, flutter, pit-a-pat, pitter-patter, sst sst, tap tap, tock tock",
       "meaning": "the sound of small things falling",
-      "example": ["para_para~1a~パラ_パラ"]
+      "example": [
+        "para_para~1a~パラ_パラ",
+        "para_para~1b~パラ_パラ"
+      ]
     }],
     "literal": "para para"
   },
@@ -4363,7 +4430,7 @@
     ],
     "definition": [{
       "equivalent": "bop, bump, knock, tap, thud, thunk",
-      "meaning": "the sound of a light bump or tap",
+      "meaning": "the sound of a small or light impact",
       "example": ["ton~1a~トン"]
     }],
     "literal": "ton"
@@ -4760,6 +4827,26 @@
       "example": ["yura~1a~ゆらっ"]
     }],
     "literal": "yura"
+  },
+  {
+    "hiragana": [
+      "ざ",
+      "ざっ",
+      "ざー",
+      "ざーっ"
+    ],
+    "katakana": [
+      "ザ",
+      "ザッ",
+      "ザー",
+      "ザーッ"
+    ],
+    "definition": [{
+      "equivalent": "drizzle, drops, hss, rain, shaa, sss",
+      "meaning": "soft sounds of rain or shower",
+      "example": ["za~1a~ザーッ"]
+    }],
+    "literal": "za"
   },
   {
     "hiragana": [
