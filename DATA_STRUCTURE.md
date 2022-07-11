@@ -58,5 +58,5 @@ Example Definition Record:
 * All image formats are exclusively JPEG (`*.jpg`), for the time being.
 * Naming convention: `[literal]~[unique id]~[display title].jpg`
   * Underscores are used in lieu of spaces in image filenames.
-  * The `[literal]` and `[unique id]` parts are just keeping the image files organized.
+  * The `[literal]` and `[unique id]` parts are just for keeping the image files organized.
   * The `[display title]` part is displayed as the title of the image in the [J-ONO Search](https://j-ono.com/) tool.
