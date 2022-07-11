@@ -56,7 +56,7 @@ Example Definition Record:
 * Each Image File is in a folder corresponding to the first letter of its filename.
 * All images are 400 pixels by 400 pixels and contain publisher attribution statements.
 * All image formats are exclusively JPEG (`*.jpg`), for the time being.
-* Naming Convention: `[literal]~[unique id]~[display title].jpg`
+* Naming convention: `[literal]~[unique id]~[display title].jpg`
   * Underscores are used in lieu of spaces in image filenames.
   * The `[literal]` and `[unique id]` parts are just keeping the image files organized.
   * The `[display title]` part is displayed as the title of the image in the [J-ONO Search](https://j-ono.com/) tool.
