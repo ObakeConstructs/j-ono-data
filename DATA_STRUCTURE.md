@@ -57,4 +57,9 @@ Example Definition Record:
 * Each Image File is in a folder corresponding to the first letter of its filename.
 * All Image File images are 400 pixels by 400 pixels and contain publisher attribution statements.
 * All Image File formats are JPEG (`*.jpg`), exclusively.
-* Naming Convention: `[literal]-[unique id]-[display title].jpg`
+* Naming Convention: `[literal]~[unique id]~[display title].jpg`
+  * Underscores are used in lieu of spaces in image names.
+  * The `[literal]` and `[unique id]` parts are just for organization.
+  * The `[display title]` part is displayed as the title of the image.
+  * Programatically, the two tildas are the only *required* parts of the name.  So, an image filename of `~~.jpg` is perfectly valid.
+ 
