@@ -24,29 +24,19 @@ That's it.  Nothing fancy.
 Example Definition Record:
 ```
 {
-  "literal": "fu",
-  "katakana": [ "フ", "フッ", "フー", "フーッ" ],
-  "hiragana": [ "ふ", "ふっ", "ふー", "ふーっ" ],
+  "literal": "gara",
+  "katakana": [ "ガラ", "ガラッ" ],
+  "hiragana": [ "がら", "がらっ" ],
   "definition": [
     {
-      "equivalent": "chortle, chuckle, ha, heh, laugh",
-      "meaning": "a quick, short laugh",
-      "example": [ "fu-1a", "fu-1b" ]
+      "equivalent": "bang, close, open, shut, slide, slam, swish, swoosh, thump",
+      "meaning": "the sound of a sliding window or sliding door being opened or shut",
+      "example": [ "gara~1a~ガラッ", "gara~1b~ガラッ" ]
     },
     {
-      "equivalent": "fade, disappear, vanish",
-      "meaning": "to vanish or cause something to vanish",
-      "example": ["fu-2"]
-    },
-    {
-      "equivalent": "ease, relief, release, solace",
-      "meaning": "an expression of relief",
-      "example": ["fu-3"]
-    },
-    {
-      "equivalent": "fwip, fwit, fwoom, pop, shoom, snap, whoom",
-      "meaning": "a sudden and/or fast movement",
-      "example": ["fu-4"]
+      "equivalent": "clatter, clutter, rattle, tumult",
+      "meaning": "the sound of something falling apart, collapsing or settling",
+      "example": [ "gara~2a~ガラッ" ]
     }
   ]
 }
