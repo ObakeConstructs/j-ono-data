@@ -203,6 +203,16 @@
     "literal": "bata bata"
   },
   {
+    "hiragana": ["べろん"],
+    "katakana": ["ベロン"],
+    "definition": [{
+      "equivalent": "lap, lick, slosh, slurp, shlurp",
+      "meaning": "the loud sound of a licking tongue",
+      "example": ["beron~1a~ベロン"]
+    }],
+    "literal": "beron"
+  },
+  {
     "hiragana": [
       "べた",
       "べたっ",
@@ -464,6 +474,22 @@
       "example": ["boso~1a~ぼそっ"]
     }],
     "literal": "boso"
+  },
+  {
+    "hiragana": [
+      "ぼと",
+      "ぼとっ"
+    ],
+    "katakana": [
+      "ボト",
+      "ボトッ"
+    ],
+    "definition": [{
+      "equivalent": "drop, fall, plunk, plop, slip, topple",
+      "meaning": "the sound of something landing after falling",
+      "example": ["boto~1a~ボトッ"]
+    }],
+    "literal": "boto"
   },
   {
     "hiragana": [
@@ -1324,7 +1350,10 @@
     "definition": [{
       "equivalent": "dizzy, faint, swoon, woozy",
       "meaning": "a temporary loss or near loss of consciousness",
-      "example": ["fura~1a~フラッ"]
+      "example": [
+        "fura~1a~フラッ",
+        "fura~1b~フラ"
+      ]
     }],
     "literal": "fura"
   },
@@ -1364,9 +1393,12 @@
       "フリフリッ"
     ],
     "definition": [{
-      "equivalent": "flick flick,  flip flip, swish swish, wag wag, ",
+      "equivalent": "flick flick,  flip flip, swish swish, wag wag, wave wave",
       "meaning": "a quick side to side motion",
-      "example": ["furi_furi~1a~ふり_ふりっ"]
+      "example": [
+        "furi_furi~1a~ふり_ふりっ",
+        "furi_furi~1b~ふり_ふり"
+      ]
     }],
     "literal": "furi furi"
   },
@@ -2734,8 +2766,11 @@
     ],
     "definition": [{
       "equivalent": "clack, clatter, click, clink, ker-chak, rattle",
-      "meaning": "one or more short, sharp noises, typically associated with dishes",
-      "example": ["kacha~1a~カチャ"]
+      "meaning": "a couple short, sharp clicks or clinks, as from dishes or door latches",
+      "example": [
+        "kacha~1a~カチャ",
+        "kacha~1b~カチャ"
+      ]
     }],
     "literal": "kacha"
   },
@@ -2744,7 +2779,7 @@
     "katakana": ["カチャカチャ"],
     "definition": [{
       "equivalent": "clack clack, clatter, click click, clink clink, ker-chak, rattle",
-      "meaning": "a series of short, sharp noises, typically associated with dishes",
+      "meaning": "a series of short, sharp clicks or clinks, as from dishes or door latches",
       "example": ["kacha_kacha~1a~カチャ_カチャ"]
     }],
     "literal": "kacha kacha"
@@ -3235,6 +3270,16 @@
       "example": ["kya~1a~きゃーっ"]
     }],
     "literal": "kya"
+  },
+  {
+    "hiragana": ["きゃん"],
+    "katakana": ["キャン"],
+    "definition": [{
+      "equivalent": "bark, woof, yap, yelp, yip",
+      "meaning": "the bark of a dog or wolf, typically of a smaller variety",
+      "example": ["kyan~1a~キャン"]
+    }],
+    "literal": "kyan"
   },
   {
     "hiragana": [
@@ -4057,6 +4102,24 @@
   },
   {
     "hiragana": [
+      "ぷは",
+      "ぷはっ",
+      "ぷはー"
+    ],
+    "katakana": [
+      "プハ",
+      "プハッ",
+      "プハー"
+    ],
+    "definition": [{
+      "equivalent": "ahh, fwah, phew, whah",
+      "meaning": "a voiced sound expressing relief, satisfaction, or a break from exertion ",
+      "example": ["puha~1a~ぷはっ"]
+    }],
+    "literal": "puha"
+  },
+  {
+    "hiragana": [
       "ぷい",
       "ぷいっ"
     ],
@@ -4410,6 +4473,16 @@
     "literal": "suku"
   },
   {
+    "hiragana": ["すん"],
+    "katakana": ["スン"],
+    "definition": [{
+      "equivalent": "calm, composed, cool, serene, smooth, tranquil",
+      "meaning": "to express a calm and unruffled demeanor",
+      "example": ["sun~1a~すん"]
+    }],
+    "literal": "sun"
+  },
+  {
     "hiragana": [
       "すぱ",
       "すぱっ",
@@ -4563,10 +4636,11 @@
     ],
     "definition": [{
       "equivalent": "dash, run, scamper, sprint, step step, tap tap, quickly",
-      "meaning": "to run lightly, typically away",
+      "meaning": "to run lightly",
       "example": [
         "tata~1a~タタッ",
-        "tata~1b~たたた"
+        "tata~1b~たたた",
+        "tata~1c~たたた"
       ]
     }],
     "literal": "tata"
@@ -4602,8 +4676,11 @@
     "katakana": ["トボトボ"],
     "definition": [{
       "equivalent": "clump clump, lumber, plod plod, shuffle shuffle, slog slog, tromp tromp, trudge trudge",
-      "meaning": "to walk heavily or slowly, often an expression of emotional disturbance",
-      "example": ["tobo_tobo~1a~トボ_トボ"]
+      "meaning": "to walk heavily or slowly, often an expression of emotional disturbance or tiredness",
+      "example": [
+        "tobo_tobo~1a~トボ_トボ",
+        "tobo_tobo~1b~とぼとぼ"
+      ]
     }],
     "literal": "tobo tobo"
   },
@@ -5039,11 +5116,18 @@
       "ザー",
       "ザーッ"
     ],
-    "definition": [{
-      "equivalent": "drizzle, drops, hss, rain, shaa, sss",
-      "meaning": "soft sounds of rain or shower",
-      "example": ["za~1a~ザーッ"]
-    }],
+    "definition": [
+      {
+        "equivalent": "drizzle, drops, hss, rain, shaa, sss",
+        "meaning": "soft sounds of rain or shower",
+        "example": ["za~1a~ザーッ"]
+      },
+      {
+        "equivalent": "crunch, crush, step, walk",
+        "meaning": "sound of someone walking, as on grass or gravel",
+        "example": ["za~1b~ザッ"]
+      }
+    ],
     "literal": "za"
   },
   {
@@ -5111,8 +5195,8 @@
       "ザッザッ"
     ],
     "definition": [{
-      "equivalent": "crunch, crush, step, slide",
-      "meaning": "sound of someone walking, especially on grass or gravel",
+      "equivalent": "crunch, crush, step, walk",
+      "meaning": "sound of someone walking, as on grass or gravel",
       "example": ["za_za~1a~ザッ_ザッ"]
     }],
     "literal": "za za"
