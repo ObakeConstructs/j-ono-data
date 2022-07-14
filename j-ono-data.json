@@ -542,7 +542,10 @@
     "definition": [{
       "equivalent": "bleh, blarg, expectorate, ptoo, ptooey, spat, spit, spit out, sploosh",
       "meaning": "to spit or otherwise eject something from the mouth",
-      "example": ["bu~1a~ブーッ"]
+      "example": [
+        "bu~1a~ブーッ",
+        "bu~1b~ぶーっ"
+      ]
     }],
     "literal": "bu"
   },
@@ -1204,14 +1207,21 @@
       "ドス",
       "ドスゥ"
     ],
-    "definition": [{
-      "equivalent": "bam, blow, chop, clobber, clout, crunch, hit, impact, knock, pelt, pound, punch, slam, slug, strike, thud, thunk, wham",
-      "meaning": "the sound of a strike in a fight, typically non-lethal",
-      "example": [
-        "dosu~1a~ドス",
-        "dosu~1b~ドスゥ"
-      ]
-    }],
+    "definition": [
+      {
+        "equivalent": "bam, blow, chop, clobber, clout, crunch, hit, impact, knock, pelt, pound, punch, slam, slug, strike, thud, thunk, wham",
+        "meaning": "the sound of a strike in a fight, typically non-lethal",
+        "example": [
+          "dosu~1a~ドス",
+          "dosu~1b~ドスゥ"
+        ]
+      },
+      {
+        "equivalent": "bam, bang, crash, slam, smack, thump, thud, thunk, whack, wham, whap, whomp",
+        "meaning": "to drop something roughly or to sit down heavily",
+        "example": ["dosu~2a~どすぅ"]
+      }
+    ],
     "literal": "dosu"
   },
   {
@@ -1783,7 +1793,8 @@
       "meaning": "the sound of wood clattering on something hard, as when a chair or stool is moved",
       "example": [
         "gata~1a~ガタ",
-        "gata~1b~ガタ"
+        "gata~1b~ガタ",
+        "gata~1c~ガタッ"
       ]
     }],
     "literal": "gata"
@@ -2231,6 +2242,22 @@
       "example": ["gurun~1a~ぐるん"]
     }],
     "literal": "gurun"
+  },
+  {
+    "hiragana": [
+      "ぐさ",
+      "ぐさっ"
+    ],
+    "katakana": [
+      "グサ",
+      "グサッ"
+    ],
+    "definition": [{
+      "equivalent": "impale, jab, pierce, skewer, stab",
+      "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
+      "example": ["gusa~1a~グサッ"]
+    }],
+    "literal": "gusa"
   },
   {
     "hiragana": ["ぐすんぐすん"],
@@ -2871,12 +2898,21 @@
     "literal": "kasa"
   },
   {
-    "hiragana": ["かしゃ"],
-    "katakana": ["カシャ"],
+    "hiragana": [
+      "かしゃ",
+      "かしゃっ"
+    ],
+    "katakana": [
+      "カシャ",
+      "カシャッ"
+    ],
     "definition": [{
-      "equivalent": "beep, click, flash",
+      "equivalent": "beep, clack, click, flash, ka-chack, ka-chik, tap, tick",
       "meaning": "the quick sound of a camera or phone taking a photo",
-      "example": ["kasha~1a~カシャ"]
+      "example": [
+        "kasha~1a~カシャ",
+        "kasha~1a~カシャッ"
+      ]
     }],
     "literal": "kasha"
   },
@@ -3353,6 +3389,11 @@
         "equivalent": "bind, cinch, fasten, lash, tie, tighten",
         "meaning": "to fasten or attach something with a line or cord.",
         "example": ["kyu~2a~きゅっ"]
+      },
+      {
+        "equivalent": "squeak, squeal, screech",
+        "meaning": "a shrill squeaking sound",
+        "example": ["kyu~3a~キュッ"]
       }
     ],
     "literal": "kyu"
@@ -3594,6 +3635,25 @@
   },
   {
     "hiragana": [
+      "ぱち",
+      "ぱちっ"
+    ],
+    "katakana": [
+      "パチ",
+      "パチッ"
+    ],
+    "definition": [{
+      "equivalent": "clack, click, clink, snap, tap, tick",
+      "meaning": "the sound of a short sharp click, as with placing a piece on a go board",
+      "example": [
+        "pachi~1a~ぱちっ",
+        "pachi~1b~パチッ"
+      ]
+    }],
+    "literal": "pachi"
+  },
+  {
+    "hiragana": [
       "ぱちん",
       "ぱちんっ"
     ],
@@ -3786,6 +3846,22 @@
       "example": ["pero~1a~ぺろ"]
     }],
     "literal": "pero"
+  },
+  {
+    "hiragana": [
+      "ぺし",
+      "ぺしっ"
+    ],
+    "katakana": [
+      "ペシ",
+      "ペシッ"
+    ],
+    "definition": [{
+      "equivalent": "bonk, slap, smack",
+      "meaning": "a harmless but loud impact, as with a slap",
+      "example": ["peshi~1a~ペシッ"]
+    }],
+    "literal": "peshi"
   },
   {
     "hiragana": ["ぺたぺた"],
@@ -4426,6 +4502,22 @@
       }
     ],
     "literal": "shun"
+  },
+  {
+    "hiragana": [
+      "しゅる",
+      "しゅるっ"
+    ],
+    "katakana": [
+      "シュル",
+      "シュルッ"
+    ],
+    "definition": [{
+      "equivalent": "coil, curl, snake, spiral, swirl, twist, wind, wrap",
+      "meaning": "to move along a winding course or to repeatedly wrap around something",
+      "example": ["shuru~1a~しゅるっ"]
+    }],
+    "literal": "shuru"
   },
   {
     "hiragana": [
@@ -5211,19 +5303,34 @@
       "ざ",
       "ざっ",
       "ざー",
-      "ざーっ"
+      "ざーっ",
+      "ざぁ",
+      "ざぁぁ",
+      "ざぁぁぁ",
+      "ざあ",
+      "ざああ",
+      "ざあああ"
     ],
     "katakana": [
       "ザ",
       "ザッ",
       "ザー",
-      "ザーッ"
+      "ザーッ",
+      "ザァ",
+      "ザァァ",
+      "ザァァァ",
+      "ザア",
+      "ザアア",
+      "ザアアア"
     ],
     "definition": [
       {
         "equivalent": "drizzle, drops, hss, rain, shaa, sss",
         "meaning": "soft sounds of rain or shower",
-        "example": ["za~1a~ザーッ"]
+        "example": [
+          "za~1a~ザーッ",
+          "za~1b~ザァァァ"
+        ]
       },
       {
         "equivalent": "crunch, crush, step, walk",
