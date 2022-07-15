@@ -437,7 +437,7 @@
       "ボフ"
     ],
     "definition": [{
-      "equivalent": "floof, poof, ploof",
+      "equivalent": "floof, fwump, poof, ploof",
       "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
       "example": ["bofu~1a~ボフッ"]
     }],
@@ -2271,7 +2271,7 @@
       "グィッ"
     ],
     "definition": [{
-      "equivalent": "get, grab, nab, pull, sieze, snag, snatch, take, wrest, yank",
+      "equivalent": "get, grab, nab, pull, sieze, snag, snatch, take, tug, wrest, yank",
       "meaning": "to take or seize, typically with a sudden motion or grasp",
       "example": [
         "gui~1a~ぐいっ",
@@ -2316,7 +2316,8 @@
       "meaning": "a low, gutteral noise",
       "example": [
         "guru~1a~ぐるるるるる",
-        "guru~1b~ぐるるるる"
+        "guru~1b~ぐるるるる",
+        "guru~1c~グルルル"
       ]
     }],
     "literal": "guru"
@@ -2414,13 +2415,21 @@
       "ぎゅ",
       "ぎゅっ",
       "ぎゅう",
-      "ぎゅうっ"
+      "ぎゅうう",
+      "ぎゅううう",
+      "ぎゅぅ",
+      "ぎゅぅぅ",
+      "ぎゅぅぅぅ"
     ],
     "katakana": [
       "ギュ",
       "ギュッ",
       "ギュウ",
-      "ギュウッ"
+      "ギュウウ",
+      "ギュウウウ",
+      "ギュゥ",
+      "ギュゥゥ",
+      "ギュゥゥゥ"
     ],
     "definition": [
       {
@@ -2435,6 +2444,11 @@
           "gyu~2a~ぎゅっ",
           "gyu~2b~ギュ"
         ]
+      },
+      {
+        "equivalent": "growl, grumble, rumble",
+        "meaning": "a low, rumbling noise, as with a growling stomach",
+        "example": ["gyu~3a~ぎゅうぅぅ"]
       }
     ],
     "literal": "gyu"
@@ -2513,7 +2527,7 @@
     "definition": [
       {
         "equivalent": "ha, haa, pant, gasp",
-        "meaning": "breathing hard after exertion",
+        "meaning": "breathing hard from exertion or fear",
         "example": ["ha~1a~はっ"]
       },
       {
@@ -2845,21 +2859,49 @@
   },
   {
     "hiragana": [
+      "じり",
       "じりり",
-      "じりりり",
-      "じりりりり"
+      "じりりり"
     ],
     "katakana": [
+      "ジリ",
       "ジリリ",
-      "ジリリリ",
-      "ジリリリリ"
+      "ジリリリ"
     ],
     "definition": [{
       "equivalent": "beep beep, ding-a-ling, ring ring",
       "meaning": "sound of ringing, as from an alarm or phone",
-      "example": ["jiriri~1a~ジリリ"]
+      "example": ["jiri~1a~ジリリ"]
     }],
-    "literal": "jiriri"
+    "literal": "jiri"
+  },
+  {
+    "hiragana": [
+      "じり",
+      "じりり",
+      "じりりり"
+    ],
+    "katakana": [
+      "ジリ",
+      "ジリリ",
+      "ジリリリ"
+    ],
+    "definition": [{
+      "equivalent": "beep beep, ding-a-ling, ring ring",
+      "meaning": "sound of ringing, as from an alarm or phone",
+      "example": ["jiri~1a~ジリリ"]
+    }],
+    "literal": "jiri"
+  },
+  {
+    "hiragana": ["じりじり"],
+    "katakana": ["ジリジリ"],
+    "definition": [{
+      "equivalent": "creep creep, encroach, inch inch, invade",
+      "meaning": "to approach by slow gradual steps",
+      "example": ["jiri_jiri~1a~ジリ_ジリ"]
+    }],
+    "literal": "jiri jiri"
   },
   {
     "hiragana": ["じろ"],
@@ -3841,6 +3883,16 @@
       }
     ],
     "literal": "pachi pachi"
+  },
+  {
+    "hiragana": ["ぱか"],
+    "katakana": ["パカ"],
+    "definition": [{
+      "equivalent": "hoorah, ta-da, wow",
+      "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
+      "example": ["paka~1a~パカ"]
+    }],
+    "literal": "paka"
   },
   {
     "hiragana": [
@@ -5127,6 +5179,22 @@
   },
   {
     "hiragana": [
+      "とさ",
+      "とさっ"
+    ],
+    "katakana": [
+      "トサ",
+      "トサッ"
+    ],
+    "definition": [{
+      "equivalent": "floof, fwump, poof, ploof",
+      "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
+      "example": ["tosa~1a~トサッ"]
+    }],
+    "literal": "tosa"
+  },
+  {
+    "hiragana": [
       "とと",
       "ととと"
     ],
@@ -5364,8 +5432,11 @@
     "katakana": ["ヴン"],
     "definition": [{
       "equivalent": "fwoom, voom, whoom",
-      "meaning": "the sound of a magic taking effect",
-      "example": ["vun~1a~ヴン"]
+      "meaning": "the sound of some sort of magic taking effect or causing something to appear",
+      "example": [
+        "vun~1a~ヴン",
+        "vun~1b~ヴン"
+      ]
     }],
     "literal": "vun"
   },
