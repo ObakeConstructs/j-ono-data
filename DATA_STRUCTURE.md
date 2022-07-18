@@ -12,9 +12,9 @@ All source records are stored in a single JSON array in the `j-ono-source.json` 
 
 ## SOURCE RECORD
 * Each Source Record contains...
-  * an "id" string
-  * a "manga" string
-  * a publisher string
+  * a source "id" name string
+  * a source "manga" name string
+  * a source "publisher" string (for attribution)
 
 Example Soure Record:
 ```
@@ -73,7 +73,7 @@ Example Definition Record:
 ```
 
 ## IMAGE FILE
-* Each Image File is in a folder corresponding to its source id
+* Each Image File is in a folder corresponding to its source name
 * All images are 400 pixels by 400 pixels
 * All image formats are exclusively JPEG (`*.jpg`), for the time being
 * Naming convention: `[literal]-[unique id]`
