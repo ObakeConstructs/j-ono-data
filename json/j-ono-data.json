@@ -21,15 +21,15 @@
       "example": [
         {
           "file": "ahaha-1a",
+          "contributor": "",
           "display": "アハハ",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         },
         {
           "file": "ahaha-1b",
+          "contributor": "",
           "display": "あはは",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -54,9 +54,9 @@
       "meaning": "a moan of pleasure, often used in a comical manner",
       "example": [{
         "file": "ahan-1a",
+        "contributor": "",
         "display": "あはーん",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "ahan"
@@ -80,9 +80,9 @@
       "meaning": "a wide open mouth, as preparing to eat something",
       "example": [{
         "file": "an-1a",
+        "contributor": "",
         "display": "あーん",
-        "source": "otherworld_material_collector",
-        " contributor": ""
+        "source": "otherworld_material_collector"
       }]
     }],
     "literal": "an"
@@ -109,15 +109,15 @@
         "example": [
           {
             "file": "ba-1a",
+            "contributor": "",
             "display": "バッ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "ba-1b",
+            "contributor": "",
             "display": "ばっ",
-            "source": "dog_became_strongest",
-            " contributor": ""
+            "source": "dog_became_strongest"
           }
         ]
       },
@@ -133,15 +133,15 @@
         "example": [
           {
             "file": "ba-2a",
+            "contributor": "",
             "display": "ばっ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "ba-2b",
+            "contributor": "",
             "display": "ばっ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           }
         ]
       },
@@ -164,9 +164,9 @@
         "meaning": "a sudden and loud impact",
         "example": [{
           "file": "ba-3a",
+          "contributor": "",
           "display": "バッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -179,9 +179,9 @@
         "meaning": "to reach or stretch out a hand",
         "example": [{
           "file": "ba-4a",
+          "contributor": "",
           "display": "バッ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }]
       }
     ],
@@ -206,9 +206,9 @@
       "meaning": "the sound of something suddenly falling apart or breaking into pieces",
       "example": [{
         "file": "baki-1a",
+        "contributor": "",
         "display": "バキッ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "baki"
@@ -244,21 +244,21 @@
       "example": [
         {
           "file": "ban-1a",
+          "contributor": "",
           "display": "ばん",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "ban-1b",
+          "contributor": "",
           "display": "バンッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "ban-1c",
+          "contributor": "",
           "display": "バン",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -288,9 +288,9 @@
         "meaning": "soft sounds of cloth or paper movement",
         "example": [{
           "file": "basa-1a",
+          "contributor": "",
           "display": "バサ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }]
       },
       {
@@ -309,9 +309,9 @@
         "meaning": "to suddenly appear, as in a dramatic \"reveal\"",
         "example": [{
           "file": "basa-2a",
+          "contributor": "",
           "display": "バサア",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -330,9 +330,9 @@
       "meaning": "the continuous soft sounds of paper moving or falling",
       "example": [{
         "file": "basa_basa-1a",
+        "contributor": "",
         "display": "ばさ  ばさ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "basa basa"
@@ -354,9 +354,9 @@
       "meaning": "a medium to large splashing noise",
       "example": [{
         "file": "basha-1a",
+        "contributor": "",
         "display": "バシャ",
-        "source": "reincarnated_sage_daughters",
-        " contributor": ""
+        "source": "reincarnated_sage_daughters"
       }]
     }],
     "literal": "basha"
@@ -375,9 +375,9 @@
       "meaning": "to splash water onto something, often used for cleaning or washing",
       "example": [{
         "file": "basha_basha-1a",
+        "contributor": "",
         "display": "バシャ  バシャ",
-        "source": "reincarnated_sage_daughters",
-        " contributor": ""
+        "source": "reincarnated_sage_daughters"
       }]
     }],
     "literal": "basha basha"
@@ -410,9 +410,9 @@
       "meaning": "a sudden and loud impact",
       "example": [{
         "file": "bashi-1a",
+        "contributor": "",
         "display": "バシッ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "bashi"
@@ -431,9 +431,9 @@
       "meaning": "The impact sound of a door opening or closing",
       "example": [{
         "file": "batan-1a",
+        "contributor": "",
         "display": "バタン",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "batan"
@@ -452,9 +452,9 @@
       "meaning": "the sound of shoes stepping across the floor",
       "example": [{
         "file": "bata_bata-1a",
+        "contributor": "",
         "display": "バタ  バタ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "bata bata"
@@ -473,9 +473,9 @@
       "meaning": "the loud sound of a licking tongue",
       "example": [{
         "file": "beron-1a",
+        "contributor": "",
         "display": "ベロン",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "beron"
@@ -504,9 +504,9 @@
       "meaning": "an indication of something that tends to stick to something else",
       "example": [{
         "file": "beta-1a",
+        "contributor": "",
         "display": "ベタァ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "beta"
@@ -543,9 +543,9 @@
       "meaning": "the sound of a strike in a fight",
       "example": [{
         "file": "bi-1a",
+        "contributor": "",
         "display": "ビッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "bi"
@@ -576,9 +576,9 @@
       "meaning": "to cause a liquid to gush or splash",
       "example": [{
         "file": "bicha-1a",
+        "contributor": "",
         "display": "びちゃ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "bicha"
@@ -608,21 +608,21 @@
       "example": [
         {
           "file": "biku-1a",
+          "contributor": "",
           "display": "びくっ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "biku-1b",
+          "contributor": "",
           "display": "ビク",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "biku-1c",
+          "contributor": "",
           "display": "ビクッ",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -648,9 +648,9 @@
         "meaning": "a strong indication of shaking",
         "example": [{
           "file": "bikun-1a",
+          "contributor": "",
           "display": "ビクン",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -664,9 +664,9 @@
         "meaning": "an expression surprise or startlement",
         "example": [{
           "file": "bikun-2a",
+          "contributor": "",
           "display": "ビクーン",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }]
       }
     ],
@@ -691,9 +691,9 @@
       "meaning": "an indication of shaking",
       "example": [{
         "file": "biri_biri-1a",
+        "contributor": "",
         "display": "ビリ  ビリ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "biri biri"
@@ -717,9 +717,9 @@
       "meaning": "the sound of something wet striking something else",
       "example": [{
         "file": "bisha-1a",
+        "contributor": "",
         "display": "ビシャ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "bisha"
@@ -748,9 +748,9 @@
         "meaning": "a sudden stop of all movement as a reaction",
         "example": [{
           "file": "bishi-1a",
+          "contributor": "",
           "display": "びしっ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -771,9 +771,9 @@
         "meaning": "a light strike with an empty hand hand or something in hand",
         "example": [{
           "file": "bishi-2a",
+          "contributor": "",
           "display": "ビシッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -785,9 +785,9 @@
         "meaning": "the sound of an arrow landing or hitting something",
         "example": [{
           "file": "bishi-3a",
+          "contributor": "",
           "display": "ビシッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -807,9 +807,9 @@
       "meaning": "The sound of an arrow being released",
       "example": [{
         "file": "bishu-1a",
+        "contributor": "",
         "display": "ビシュ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "bishu"
@@ -838,9 +838,9 @@
       "meaning": "to set on fire or to be on fire",
       "example": [{
         "file": "bo-1a",
+        "contributor": "",
         "display": "ボッ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "bo"
@@ -864,9 +864,9 @@
       "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
       "example": [{
         "file": "bofu-1a",
+        "contributor": "",
         "display": "ボフッ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "bofu"
@@ -882,9 +882,9 @@
       "meaning": "the sound of a magical effect, often accompanied with a cute puffs of smoke or dust, as in magically appearing or disappearing",
       "example": [{
         "file": "bofun-1a",
+        "contributor": "",
         "display": "ボフン",
-        "source": "otherworld_material_collector",
-        " contributor": ""
+        "source": "otherworld_material_collector"
       }]
     }],
     "literal": "bofun"
@@ -911,9 +911,9 @@
       "meaning": "to form blisters or globules",
       "example": [{
         "file": "boko-1a",
+        "contributor": "",
         "display": "ボコ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "boko"
@@ -934,9 +934,9 @@
       "meaning": "the sound of something bouncing off a hard surface",
       "example": [{
         "file": "bokon-1a",
+        "contributor": "",
         "display": "ボコン",
-        "source": "bungo",
-        " contributor": ""
+        "source": "bungo"
       }]
     }],
     "literal": "bokon"
@@ -955,9 +955,9 @@
       "meaning": "dripping tears as an expression of pain or distress",
       "example": [{
         "file": "boro_boro-1a",
+        "contributor": "",
         "display": "ぼろ  ぼろ",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "boro boro"
@@ -980,9 +980,9 @@
       "meaning": "to speak softly and unclearly ",
       "example": [{
         "file": "boso-1a",
+        "contributor": "",
         "display": "ぼそっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "boso"
@@ -1008,9 +1008,9 @@
       "meaning": "the sound of something landing after falling",
       "example": [{
         "file": "boto-1a",
+        "contributor": "",
         "display": "ボトッ",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "boto"
@@ -1034,9 +1034,9 @@
       "meaning": "to bulge or swell outward, as in flame, smoke, or clouds",
       "example": [{
         "file": "bowa-1a",
+        "contributor": "",
         "display": "ボワッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "bowa"
@@ -1061,9 +1061,9 @@
       "meaning": "the sound of something bouncing",
       "example": [{
         "file": "boyon-1a",
+        "contributor": "",
         "display": "ボョンッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "boyon"
@@ -1097,15 +1097,15 @@
       "example": [
         {
           "file": "bu-1a",
+          "contributor": "",
           "display": "ブーッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "bu-1b",
+          "contributor": "",
           "display": "ぶーっ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         }
       ]
     }],
@@ -1132,9 +1132,9 @@
       "meaning": "the sound of something suddenly breaking",
       "example": [{
         "file": "buchi-1a",
+        "contributor": "",
         "display": "ブチッ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "buchi"
@@ -1163,15 +1163,15 @@
       "example": [
         {
           "file": "bufu-1a",
+          "contributor": "",
           "display": "ぶふっ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "bufu-1b",
+          "contributor": "",
           "display": "ブフッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }
       ]
     }],
@@ -1197,9 +1197,9 @@
       "meaning": "something large or heavy rising, lifted, or taking flight",
       "example": [{
         "file": "buku-1a",
+        "contributor": "",
         "display": "ブクッ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "buku"
@@ -1216,9 +1216,9 @@
       "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
       "example": [{
         "file": "buku_buku-1a",
+        "contributor": "",
         "display": "ブク  ブク",
-        "source": "bungo",
-        " contributor": ""
+        "source": "bungo"
       }]
     }],
     "literal": "buku buku"
@@ -1244,9 +1244,9 @@
         "meaning": "the sound of something moving swiftly through the air",
         "example": [{
           "file": "bun-1a",
+          "contributor": "",
           "display": "ブンッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -1265,9 +1265,9 @@
         "meaning": "an irregular or violent movement",
         "example": [{
           "file": "bun-2a",
+          "contributor": "",
           "display": "ブンッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       }
     ],
@@ -1294,21 +1294,21 @@
       "example": [
         {
           "file": "bun_bun-1a",
+          "contributor": "",
           "display": "ぶん  ぶんっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "bun_bun-1b",
+          "contributor": "",
           "display": "ブン  ブンッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "bun_bun-1c",
+          "contributor": "",
           "display": "ブン  ブン",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -1337,9 +1337,9 @@
       "meaning": "shaking involuntarily, as from fear or cold",
       "example": [{
         "file": "buru-1a",
+        "contributor": "",
         "display": "ぶるるるるるるる",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "buru"
@@ -1363,9 +1363,9 @@
       "meaning": "shaking involuntarily, as from fear or cold",
       "example": [{
         "file": "buru_buru-1a",
+        "contributor": "",
         "display": "ブル  ブルッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "buru buru"
@@ -1387,9 +1387,9 @@
       "meaning": "a smallish, shallow cut",
       "example": [{
         "file": "butsu-1a",
+        "contributor": "",
         "display": "ブツッ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "butsu"
@@ -1406,9 +1406,9 @@
       "meaning": "to mumble quietly, typically expressing unhappiness or dissatisfaction",
       "example": [{
         "file": "butsu_butsu-1a",
+        "contributor": "",
         "display": "ぶつ  ぶつ",
-        "source": "bungo",
-        " contributor": ""
+        "source": "bungo"
       }]
     }],
     "literal": "butsu butsu"
@@ -1432,15 +1432,15 @@
       "example": [
         {
           "file": "buwa-1a",
+          "contributor": "",
           "display": "ぶわっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "buwa-1b",
+          "contributor": "",
           "display": "ブワッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }
       ]
     }],
@@ -1475,15 +1475,15 @@
       "example": [
         {
           "file": "byu-1a",
+          "contributor": "",
           "display": "ビュウ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "byu-1b",
+          "contributor": "",
           "display": "ビュ",
-          "source": "bungo",
-          " contributor": ""
+          "source": "bungo"
         }
       ]
     }],
@@ -1513,9 +1513,9 @@
       "meaning": "the sound of someone or something moving very quickly",
       "example": [{
         "file": "byun-1a",
+        "contributor": "",
         "display": "ビューン",
-        "source": "bungo",
-        " contributor": ""
+        "source": "bungo"
       }]
     }],
     "literal": "byun"
@@ -1539,9 +1539,9 @@
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
       "example": [{
         "file": "cha-1a",
+        "contributor": "",
         "display": "チャッ",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "cha"
@@ -1566,15 +1566,15 @@
       "example": [
         {
           "file": "chaki-1a",
+          "contributor": "",
           "display": "チャキッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "chaki-1b",
+          "contributor": "",
           "display": "チャキ",
-          "source": "reincarnated_sage_daughters",
-          " contributor": ""
+          "source": "reincarnated_sage_daughters"
         }
       ]
     }],
@@ -1597,9 +1597,9 @@
       "meaning": "a metallic sound, typical when unsheathing blades",
       "example": [{
         "file": "chakin-1a",
+        "contributor": "",
         "display": "チャキン",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "chakin"
@@ -1618,9 +1618,9 @@
       "meaning": "the sound of moving or splashing water",
       "example": [{
         "file": "chapu-1a",
+        "contributor": "",
         "display": "チャプ",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "chapu"
@@ -1648,9 +1648,9 @@
       "meaning": "a sharp light sound of rattling metal or glass",
       "example": [{
         "file": "chari-1a",
+        "contributor": "",
         "display": "チャリリリ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "chari"
@@ -1675,9 +1675,9 @@
       "meaning": "the small noise of a single tossed coin being tossed",
       "example": [{
         "file": "charin-1a",
+        "contributor": "",
         "display": "チャリン",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "charin"
@@ -1693,9 +1693,9 @@
       "meaning": "a sharp clicking sound that repeats, like extending a snap-off blade",
       "example": [{
         "file": "chiki_chiki-1a",
+        "contributor": "",
         "display": "チキ  チキ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "chiki chiki"
@@ -1721,15 +1721,15 @@
       "example": [
         {
           "file": "chira-1a",
+          "contributor": "",
           "display": "チラ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "chira-1b",
+          "contributor": "",
           "display": "ちらっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }
       ]
     }],
@@ -1749,9 +1749,9 @@
       "meaning": "classic ramen eating noise",
       "example": [{
         "file": "churu-1a",
+        "contributor": "",
         "display": "ちゅる",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "churu"
@@ -1780,21 +1780,21 @@
       "example": [
         {
           "file": "da-1a",
+          "contributor": "",
           "display": "ダッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "da-1b",
+          "contributor": "",
           "display": "だっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "da-1c",
+          "contributor": "",
           "display": "だ",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -1822,9 +1822,9 @@
       "meaning": "to run or start running",
       "example": [{
         "file": "dada-1a",
+        "contributor": "",
         "display": "ダダッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "dada"
@@ -1850,9 +1850,9 @@
       "meaning": "the act of putting one's arms around someone and holding tightly",
       "example": [{
         "file": "daki-1a",
+        "contributor": "",
         "display": "ダキッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "daki"
@@ -1871,9 +1871,9 @@
       "meaning": "continously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
       "example": [{
         "file": "dara_dara-1a",
+        "contributor": "",
         "display": "ダラ  ダラ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "dara dara"
@@ -1906,9 +1906,9 @@
         "meaning": "a relatively small explosion",
         "example": [{
           "file": "do-1a",
+          "contributor": "",
           "display": "ドッ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }]
       },
       {
@@ -1923,9 +1923,9 @@
         "meaning": "an explosive outburst of laughter",
         "example": [{
           "file": "do-2a",
+          "contributor": "",
           "display": "どっ",
-          "source": "kuma_kuma_kuma_bear",
-          " contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         }]
       }
     ],
@@ -1954,9 +1954,9 @@
       "meaning": "the noise of something splashing into water",
       "example": [{
         "file": "dobon-1a",
+        "contributor": "",
         "display": "ドボーン",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "dobon"
@@ -1997,9 +1997,9 @@
       "meaning": "a painful strike",
       "example": [{
         "file": "dogo-1a",
+        "contributor": "",
         "display": "ドゴッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "dogo"
@@ -2025,9 +2025,9 @@
       "meaning": "a large impact or an explosion",
       "example": [{
         "file": "dogon-1a",
+        "contributor": "",
         "display": "ドゴン",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "dogon"
@@ -2056,15 +2056,15 @@
       "example": [
         {
           "file": "doka-1a",
+          "contributor": "",
           "display": "ドカ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         },
         {
           "file": "doka-1b",
+          "contributor": "",
           "display": "ドカッ",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         }
       ]
     }],
@@ -2087,9 +2087,9 @@
       "meaning": "a loud and destructive strike",
       "example": [{
         "file": "dokan-1a",
+        "contributor": "",
         "display": "ドカァン",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "dokan"
@@ -2113,15 +2113,15 @@
       "example": [
         {
           "file": "doki_doki-1a",
+          "contributor": "",
           "display": "ドキ  ドキ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "doki_doki-1b",
+          "contributor": "",
           "display": "ドッキ  ドッキ",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -2167,21 +2167,21 @@
         "example": [
           {
             "file": "don-1a",
+            "contributor": "",
             "display": "ドンッ",
-            "source": "world_full_of_monsters",
-            " contributor": ""
+            "source": "world_full_of_monsters"
           },
           {
             "file": "don-1b",
+            "contributor": "",
             "display": "どん",
-            "source": "hanako_24th_ward",
-            " contributor": ""
+            "source": "hanako_24th_ward"
           },
           {
             "file": "don-1c",
+            "contributor": "",
             "display": "ドォォン",
-            "source": "reincarnated_aristocrat",
-            " contributor": ""
+            "source": "reincarnated_aristocrat"
           }
         ]
       },
@@ -2196,9 +2196,9 @@
         "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
         "example": [{
           "file": "don-2a",
+          "contributor": "",
           "display": "ドン",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -2218,9 +2218,9 @@
       "meaning": "a series of sudden loud noises, as from a gun",
       "example": [{
         "file": "don-1a",
+        "contributor": "",
         "display": "ドン  ドン  ドン",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "don don"
@@ -2259,15 +2259,15 @@
       "example": [
         {
           "file": "doro-1a",
+          "contributor": "",
           "display": "ドロッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "doro-1b",
+          "contributor": "",
           "display": "ドロオ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }
       ]
     }],
@@ -2296,15 +2296,15 @@
         "example": [
           {
             "file": "dosa-1a",
+            "contributor": "",
             "display": "どさ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           },
           {
             "file": "dosa-1b",
+            "contributor": "",
             "display": "ドサッ",
-            "source": "reincarnated_sage_daughters",
-            " contributor": ""
+            "source": "reincarnated_sage_daughters"
           }
         ]
       },
@@ -2316,9 +2316,9 @@
         "meaning": "the sound of books or stacks of paper being dropped onto a surface",
         "example": [{
           "file": "dosa-2a",
+          "contributor": "",
           "display": "どさ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -2352,9 +2352,9 @@
       "meaning": "the sound of impact, often from a falling person or dropped object",
       "example": [{
         "file": "dosha-1a",
+        "contributor": "",
         "display": "どしゃ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "dosha"
@@ -2394,15 +2394,15 @@
         "example": [
           {
             "file": "dosu-1a",
+            "contributor": "",
             "display": "ドス",
-            "source": "reincarnated_aristocrat",
-            " contributor": ""
+            "source": "reincarnated_aristocrat"
           },
           {
             "file": "dosu-1b",
+            "contributor": "",
             "display": "ドスゥ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           }
         ]
       },
@@ -2424,9 +2424,9 @@
         "meaning": "to drop something roughly or to sit down heavily",
         "example": [{
           "file": "dosu-2a",
+          "contributor": "",
           "display": "どすぅ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         }]
       }
     ],
@@ -2467,9 +2467,9 @@
         "meaning": "a painful, but non-fatal strike, as from the back of a sword",
         "example": [{
           "file": "do_do-1a",
+          "contributor": "",
           "display": "ドォ  ドォ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       },
       {
@@ -2483,9 +2483,9 @@
         "meaning": "a series of small explosions",
         "example": [{
           "file": "do_do-2a",
+          "contributor": "",
           "display": "ドドドドドド",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }]
       }
     ],
@@ -2503,9 +2503,9 @@
       "meaning": "a deep breath expressing tiredness or boredom",
       "example": [{
         "file": "faa-1a",
+        "contributor": "",
         "display": "ふぁあ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "faa"
@@ -2548,15 +2548,15 @@
         "example": [
           {
             "file": "fu-1a",
+            "contributor": "",
             "display": "ふっ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "fu-1b",
+            "contributor": "",
             "display": "ふ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           }
         ]
       },
@@ -2569,9 +2569,9 @@
         "meaning": "to vanish or cause something to vanish",
         "example": [{
           "file": "fu-2a",
+          "contributor": "",
           "display": "フッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -2584,9 +2584,9 @@
         "meaning": "an expression of relief",
         "example": [{
           "file": "fu-3a",
+          "contributor": "",
           "display": "ふーっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -2602,9 +2602,9 @@
         "meaning": "a sudden and/or fast movement",
         "example": [{
           "file": "fu-4a",
+          "contributor": "",
           "display": "フーッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -2618,9 +2618,9 @@
         "meaning": "breathing hard after light exertion",
         "example": [{
           "file": "fu-5a",
+          "contributor": "",
           "display": "ふう",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -2652,9 +2652,9 @@
       "meaning": "a deep breath expressing tiredness or boredom",
       "example": [{
         "file": "fua-1a",
+        "contributor": "",
         "display": "ふあああ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "fua"
@@ -2679,15 +2679,15 @@
       "example": [
         {
           "file": "fura-1a",
+          "contributor": "",
           "display": "フラッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "fura-1b",
+          "contributor": "",
           "display": "フラ",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -2710,15 +2710,14 @@
       "example": [
         {
           "file": "fura_fura-1a",
-          "display": "フラ  フラ",
-          "publisher": "overlap",
-          " contributor": "Nightbug"
+          "contributor": "",
+          "display": "フラ  フラ"
         },
         {
           "file": "fura_fura-1b",
+          "contributor": "",
           "display": "フラ  フラ",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -2745,9 +2744,9 @@
       "meaning": "to quickly turn or look away",
       "example": [{
         "file": "furi-1a",
+        "contributor": "",
         "display": "ふりっ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "furi"
@@ -2773,15 +2772,15 @@
       "example": [
         {
           "file": "furi_furi-1a",
+          "contributor": "",
           "display": "ふり  ふりっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "furi_furi-1b",
+          "contributor": "",
           "display": "ふり  ふり",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -2800,9 +2799,9 @@
       "meaning": "an indication of shaking",
       "example": [{
         "file": "furo_furo-1a",
+        "contributor": "",
         "display": "ふろ  ふろ",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "furo furo"
@@ -2833,21 +2832,21 @@
         "example": [
           {
             "file": "fu_fu-1a",
+            "contributor": "",
             "display": "フフフ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "fu_fu-1b",
+            "contributor": "",
             "display": "ふふっ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "fu_fu-1c",
+            "contributor": "",
             "display": "ふふ",
-            "source": "dog_became_strongest",
-            " contributor": ""
+            "source": "dog_became_strongest"
           }
         ]
       },
@@ -2861,9 +2860,9 @@
         "meaning": "to repeatedly exhale in a controlled manner, as to blow air onto something",
         "example": [{
           "file": "fu_fu-2a",
+          "contributor": "",
           "display": "フー  フー",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }]
       }
     ],
@@ -2916,21 +2915,21 @@
         "example": [
           {
             "file": "ga-1a",
+            "contributor": "",
             "display": "ガッ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           },
           {
             "file": "ga-1b",
+            "contributor": "",
             "display": "ガッ",
-            "source": "reincarnated_sage_daughters",
-            " contributor": ""
+            "source": "reincarnated_sage_daughters"
           },
           {
             "file": "ga-1c",
+            "contributor": "",
             "display": "ガ",
-            "source": "komi_cant_communicate",
-            " contributor": ""
+            "source": "komi_cant_communicate"
           }
         ]
       },
@@ -2950,9 +2949,9 @@
         "meaning": "seizing something with a sudden motion or grasp",
         "example": [{
           "file": "ga-2a",
+          "contributor": "",
           "display": "ガッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       }
     ],
@@ -2981,9 +2980,9 @@
         "meaning": "to suddenly sit up or standup.",
         "example": [{
           "file": "gaba-1a",
+          "contributor": "",
           "display": "ガバッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       },
       {
@@ -2998,9 +2997,9 @@
         "meaning": "he act of putting one's arms around someone and holding tightly",
         "example": [{
           "file": "gaba-2a",
+          "contributor": "",
           "display": "がば",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       }
     ],
@@ -3024,9 +3023,9 @@
       "meaning": "a strong bite",
       "example": [{
         "file": "gabu-1a",
+        "contributor": "",
         "display": "ガブッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gabu"
@@ -3045,9 +3044,9 @@
         "meaning": "a small noise, as of pressing a button",
         "example": [{
           "file": "gacha-1a",
+          "contributor": "",
           "display": "ガチャ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -3062,9 +3061,9 @@
         "meaning": "The short, sharp sounds of opening a swinging door",
         "example": [{
           "file": "gacha-2a",
+          "contributor": "",
           "display": "ガチャ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       }
     ],
@@ -3093,9 +3092,9 @@
       "meaning": "loud, heartfelt laughter, sometimes expressing evil humor",
       "example": [{
         "file": "gaha-1a",
+        "contributor": "",
         "display": "がははは",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "gaha"
@@ -3122,9 +3121,9 @@
       "meaning": "the sound of a hard, sharp metalic strike",
       "example": [{
         "file": "gaki-1a",
+        "contributor": "",
         "display": "ガキッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gaki"
@@ -3149,9 +3148,9 @@
       "meaning": "the reverberating sound of a hard, sharp metalic strike",
       "example": [{
         "file": "gakin-1a",
+        "contributor": "",
         "display": "ガキンッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gakin"
@@ -3179,21 +3178,21 @@
       "example": [
         {
           "file": "gakon-1a",
+          "contributor": "",
           "display": "ガコンッ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
           "file": "gakon-1b",
+          "contributor": "",
           "display": "ガコン",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         },
         {
           "file": "gakon-1c",
+          "contributor": "",
           "display": "ガコン",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -3223,15 +3222,15 @@
       "example": [
         {
           "file": "gaku-1a",
+          "contributor": "",
           "display": "がく",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "gaku-1b",
+          "contributor": "",
           "display": "ガクッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }
       ]
     }],
@@ -3251,9 +3250,9 @@
       "meaning": "the sound of something metalic breaking",
       "example": [{
         "file": "gakyin-1a",
+        "contributor": "",
         "display": "ガキィン",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "gakyin"
@@ -3295,21 +3294,21 @@
       "example": [
         {
           "file": "gan-1a",
+          "contributor": "",
           "display": "ガン",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "gan-1b",
+          "contributor": "",
           "display": "ガォン",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "gan-1c",
+          "contributor": "",
           "display": "ガンッ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     }],
@@ -3341,15 +3340,15 @@
         "example": [
           {
             "file": "gara-1a",
+            "contributor": "",
             "display": "ガラッ",
-            "source": "world_full_of_monsters",
-            " contributor": ""
+            "source": "world_full_of_monsters"
           },
           {
             "file": "gara-1b",
+            "contributor": "",
             "display": "ガラッ",
-            "source": "bungo",
-            " contributor": ""
+            "source": "bungo"
           }
         ]
       },
@@ -3363,9 +3362,9 @@
         "meaning": "the sound of something falling apart, collapsing or settling",
         "example": [{
           "file": "gara-2a",
+          "contributor": "",
           "display": "ガラッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       }
     ],
@@ -3387,9 +3386,9 @@
       "meaning": "the sound of something breaking apart, collapsing or settling",
       "example": [{
         "file": "gara_gara-1a",
+        "contributor": "",
         "display": "ガラ  ガラ  ガラ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "gara gara"
@@ -3413,9 +3412,9 @@
       "meaning": "a low, gutteral noise",
       "example": [{
         "file": "garu-1a",
+        "contributor": "",
         "display": "ガルル",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "garu"
@@ -3440,15 +3439,15 @@
       "example": [
         {
           "file": "gasa-1a",
+          "contributor": "",
           "display": "ガサ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "gasa-1b",
+          "contributor": "",
           "display": "ガサ",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -3474,15 +3473,15 @@
       "example": [
         {
           "file": "gasa_gasa-1a",
+          "contributor": "",
           "display": "ガサ  ガサ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "gasa_gasa-1b",
+          "contributor": "",
           "display": "ガサ  ガサッ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     }],
@@ -3513,15 +3512,15 @@
       "example": [
         {
           "file": "gashan-1a",
+          "contributor": "",
           "display": "ガシャン",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "gashan-1b",
+          "contributor": "",
           "display": "ガシャァァン",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     }],
@@ -3549,9 +3548,9 @@
       "meaning": "the act of grabbing and holding",
       "example": [{
         "file": "gashi-1a",
+        "contributor": "",
         "display": "ガシッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gashi"
@@ -3576,21 +3575,21 @@
       "example": [
         {
           "file": "gata-1a",
+          "contributor": "",
           "display": "ガタ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "gata-1b",
+          "contributor": "",
           "display": "ガタ",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         },
         {
           "file": "gata-1c",
+          "contributor": "",
           "display": "ガタッ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         }
       ]
     }],
@@ -3610,9 +3609,9 @@
       "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
       "example": [{
         "file": "gata_gata-1a",
+        "contributor": "",
         "display": "ガタ  ガタ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "gata gata"
@@ -3630,9 +3629,9 @@
       "meaning": "the sound of scrubbing something clean",
       "example": [{
         "file": "gatsu_gatsu-1a",
+        "contributor": "",
         "display": "ガツ  ガツ",
-        "source": "reincarnated_sage_daughters",
-        " contributor": ""
+        "source": "reincarnated_sage_daughters"
       }]
     }],
     "literal": "gatsu gatsu"
@@ -3654,15 +3653,15 @@
       "example": [
         {
           "file": "gaya_gaya-1a",
+          "contributor": "",
           "display": "ガヤ  ガヤ",
-          "source": "reincarnated_farm_girl",
-          " contributor": ""
+          "source": "reincarnated_farm_girl"
         },
         {
           "file": "gaya_gaya-1b",
+          "contributor": "",
           "display": "がや  がや",
-          "source": "kuma_kuma_kuma_bear",
-          " contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         }
       ]
     }],
@@ -3687,9 +3686,9 @@
       "meaning": "an expression of mild alarm, dismay, or annoyance",
       "example": [{
         "file": "ge-1a",
+        "contributor": "",
         "display": "げっ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "ge"
@@ -3719,9 +3718,9 @@
         "meaning": "a subtle moving or shifting sound, like farbic or plants",
         "example": [{
           "file": "gi-1a",
+          "contributor": "",
           "display": "ギッ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }]
       },
       {
@@ -3735,9 +3734,9 @@
         "meaning": "the cry of a small animal",
         "example": [{
           "file": "gi-2a",
+          "contributor": "",
           "display": "ギィィィィッ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }]
       },
       {
@@ -3751,9 +3750,9 @@
         "meaning": "a creaking noise, as from a door or old chair",
         "example": [{
           "file": "gi-3a",
+          "contributor": "",
           "display": "ギィ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }]
       }
     ],
@@ -3781,15 +3780,15 @@
       "example": [
         {
           "file": "giku-1a",
+          "contributor": "",
           "display": "ギクッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "giku-1b",
+          "contributor": "",
           "display": "ぎくっ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }
       ]
     }],
@@ -3815,9 +3814,9 @@
       "meaning": "a fixed intent look",
       "example": [{
         "file": "gin-1a",
+        "contributor": "",
         "display": "ギン",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gin"
@@ -3840,9 +3839,9 @@
       "meaning": "to look at someone or something with anger or disapproval",
       "example": [{
         "file": "ginuro-1a",
+        "contributor": "",
         "display": "ギヌロォ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "ginuro"
@@ -3865,9 +3864,9 @@
       "meaning": "to look at someone or something with anger or disapproval",
       "example": [{
         "file": "gira-1a",
+        "contributor": "",
         "display": "ギラッ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "gira"
@@ -3889,9 +3888,9 @@
       "meaning": "an expression of grinding one's teeth together, often in frustration or anger",
       "example": [{
         "file": "giri-1a",
+        "contributor": "",
         "display": "ギリッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "giri"
@@ -3916,9 +3915,9 @@
       "meaning": "a fixed intent look",
       "example": [{
         "file": "giro-1a",
+        "contributor": "",
         "display": "ギロ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "giro"
@@ -3944,9 +3943,9 @@
       "meaning": "an expression of grinding one's teeth, as in pain or frustration",
       "example": [{
         "file": "gi_gi-1a",
+        "contributor": "",
         "display": "ギ  ギ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "gi gi"
@@ -3995,15 +3994,15 @@
         "example": [
           {
             "file": "go-1a",
+            "contributor": "",
             "display": "ゴ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           },
           {
             "file": "go-1b",
+            "contributor": "",
             "display": "ゴッ",
-            "source": "reincarnated_aristocrat",
-            " contributor": ""
+            "source": "reincarnated_aristocrat"
           }
         ]
       },
@@ -4023,21 +4022,21 @@
         "example": [
           {
             "file": "go-2a",
+            "contributor": "",
             "display": "ゴォッ",
-            "source": "hello_work",
-            " contributor": ""
+            "source": "hello_work"
           },
           {
             "file": "go-2b",
+            "contributor": "",
             "display": "ゴッ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           },
           {
             "file": "go-2c",
+            "contributor": "",
             "display": "ゴオッ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           }
         ]
       },
@@ -4051,9 +4050,9 @@
         "meaning": "the sound of being on fire and burning fiercely",
         "example": [{
           "file": "go-3a",
+          "contributor": "",
           "display": "ゴォォ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -4072,9 +4071,9 @@
       "meaning": "the sound of swallowing a liquid",
       "example": [{
         "file": "gokun-1a",
+        "contributor": "",
         "display": "ゴクン",
-        "source": "otherworld_material_collector",
-        " contributor": ""
+        "source": "otherworld_material_collector"
       }]
     }],
     "literal": "gokun"
@@ -4093,15 +4092,15 @@
       "example": [
         {
           "file": "goku_goku-1a",
+          "contributor": "",
           "display": "ごく  ごく",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "goku_goku-1b",
+          "contributor": "",
           "display": "ゴクゴク",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -4120,9 +4119,9 @@
       "meaning": "the sound of swallowing a liquid",
       "example": [{
         "file": "gokyu_gokyu-1a",
+        "contributor": "",
         "display": "ごきゅ  ごきゅ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "gokyu gokyu"
@@ -4155,15 +4154,15 @@
       "example": [
         {
           "file": "gon-1a",
+          "contributor": "",
           "display": "ゴンッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "gon-1b",
+          "contributor": "",
           "display": "ゴン",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -4188,9 +4187,9 @@
       "meaning": "to flow out in great quantities or with force",
       "example": [{
         "file": "gopori-1a",
+        "contributor": "",
         "display": "ごぽり",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gopori"
@@ -4206,9 +4205,9 @@
       "meaning": "a rolling movement",
       "example": [{
         "file": "goro-1a",
+        "contributor": "",
         "display": "ゴロ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "goro"
@@ -4228,9 +4227,9 @@
       "meaning": "a rolling or turning movement",
       "example": [{
         "file": "goron-1a",
+        "contributor": "",
         "display": "ごろん",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "goron"
@@ -4247,9 +4246,9 @@
       "meaning": "the act of pressing a cloth or bare hand(s) against something and moving back and forth",
       "example": [{
         "file": "goshi_goshi-1a",
+        "contributor": "",
         "display": "ごし  ごし",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "goshi goshi"
@@ -4270,9 +4269,9 @@
       "meaning": "a somewhat muffled sound of an impact, as from wood or plastic",
       "example": [{
         "file": "goto-1a",
+        "contributor": "",
         "display": "ゴト",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "goto"
@@ -4300,9 +4299,9 @@
       "meaning": "a loud, violent shout",
       "example": [{
         "file": "gou-1a",
+        "contributor": "",
         "display": "ゴウッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gou"
@@ -4335,15 +4334,15 @@
         "example": [
           {
             "file": "gu-1a",
+            "contributor": "",
             "display": "ぐっ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "gu-1b",
+            "contributor": "",
             "display": "グッ",
-            "source": "otherworld_material_collector",
-            " contributor": ""
+            "source": "otherworld_material_collector"
           }
         ]
       },
@@ -4360,9 +4359,9 @@
         "meaning": "to push or drive with force",
         "example": [{
           "file": "gu-2a",
+          "contributor": "",
           "display": "ぐっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -4377,9 +4376,9 @@
         "meaning": "the breath hard as an expression of pain",
         "example": [{
           "file": "gu-3a",
+          "contributor": "",
           "display": "ぐっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       }
     ],
@@ -4398,9 +4397,9 @@
       "meaning": "noisily gulping down a liquid, particularly alcohol",
       "example": [{
         "file": "gubi_gubi-1a",
+        "contributor": "",
         "display": "ぐび  ぐび",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "gubi gubi"
@@ -4436,27 +4435,27 @@
       "example": [
         {
           "file": "gui-1a",
+          "contributor": "",
           "display": "ぐいっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "gui-1b",
+          "contributor": "",
           "display": "ぐぃっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "gui-1c",
+          "contributor": "",
           "display": "グイ",
-          "source": "marginal_taylor",
-          " contributor": ""
+          "source": "marginal_taylor"
         },
         {
           "file": "gui-1d",
+          "contributor": "",
           "display": "グイッ",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -4487,9 +4486,9 @@
       "meaning": "an expression of passionate anger or fury",
       "example": [{
         "file": "gununu-1a",
+        "contributor": "",
         "display": "ぐぬぬぬ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "gununu"
@@ -4518,21 +4517,21 @@
       "example": [
         {
           "file": "guru-1a",
+          "contributor": "",
           "display": "ぐるるるるる",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
           "file": "guru-1b",
+          "contributor": "",
           "display": "ぐるるるる",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
           "file": "guru-1c",
+          "contributor": "",
           "display": "グルルル",
-          "source": "kuma_kuma_kuma_bear",
-          " contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         }
       ]
     }],
@@ -4553,9 +4552,9 @@
       "meaning": "to turn, look away, or look towards something",
       "example": [{
         "file": "gurun-1a",
+        "contributor": "",
         "display": "ぐるん",
-        "source": "bungo",
-        " contributor": ""
+        "source": "bungo"
       }]
     }],
     "literal": "gurun"
@@ -4580,9 +4579,9 @@
       "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
       "example": [{
         "file": "gusa-1a",
+        "contributor": "",
         "display": "グサッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gusa"
@@ -4601,9 +4600,9 @@
       "meaning": "shedding tears as an expression of pain or distress",
       "example": [{
         "file": "gusun_gusun-1a",
+        "contributor": "",
         "display": "ぐすん  ぐすん",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "gusun gusun"
@@ -4628,9 +4627,9 @@
       "meaning": "tears welling up as an expression of pain or distress",
       "example": [{
         "file": "gusu_gusu-1a",
+        "contributor": "",
         "display": "ぐすっ  ぐすっ",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "gusu gusu"
@@ -4657,9 +4656,9 @@
       "meaning": "a long, loud shout or cry",
       "example": [{
         "file": "guwa-1a",
+        "contributor": "",
         "display": "ぐわっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "guwa"
@@ -4686,9 +4685,9 @@
       "meaning": "a series of abrupt shrieks, typically from animals",
       "example": [{
         "file": "gya_gya-1a",
+        "contributor": "",
         "display": "ギャァ  ギャッ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "gya gya"
@@ -4725,9 +4724,9 @@
         "meaning": "the act of embracing or hugging",
         "example": [{
           "file": "gyu-1a",
+          "contributor": "",
           "display": "ぎゅう",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -4743,15 +4742,15 @@
         "example": [
           {
             "file": "gyu-2a",
+            "contributor": "",
             "display": "ぎゅっ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           },
           {
             "file": "gyu-2b",
+            "contributor": "",
             "display": "ギュ",
-            "source": "marginal_taylor",
-            " contributor": ""
+            "source": "marginal_taylor"
           }
         ]
       },
@@ -4764,9 +4763,9 @@
         "meaning": "a low, rumbling noise, as with a growling stomach",
         "example": [{
           "file": "gyu-3a",
+          "contributor": "",
           "display": "ぎゅうぅぅ",
-          "source": "kuma_kuma_kuma_bear",
-          " contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         }]
       }
     ],
@@ -4792,9 +4791,9 @@
       "meaning": "the act of embracing or hugging",
       "example": [{
         "file": "gyumu-1a",
+        "contributor": "",
         "display": "ぎゅむっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "gyumu"
@@ -4820,9 +4819,9 @@
       "meaning": "to spin in circles, typically very fast",
       "example": [{
         "file": "gyun-1a",
+        "contributor": "",
         "display": "ギュン",
-        "source": "reincarnated_sage_daughters",
-        " contributor": ""
+        "source": "reincarnated_sage_daughters"
       }]
     }],
     "literal": "gyun"
@@ -4847,9 +4846,9 @@
       "meaning": "a low, rumbling noise, as with a growling stomach",
       "example": [{
         "file": "gyuru-1a",
+        "contributor": "",
         "display": "ギュルルル",
-        "source": "otherworld_material_collector",
-        " contributor": ""
+        "source": "otherworld_material_collector"
       }]
     }],
     "literal": "gyuru"
@@ -4887,9 +4886,9 @@
         "meaning": "breathing hard from exertion or fear",
         "example": [{
           "file": "ha-1a",
+          "contributor": "",
           "display": "はっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       },
       {
@@ -4902,15 +4901,15 @@
         "example": [
           {
             "file": "ha-2a",
+            "contributor": "",
             "display": "は",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           },
           {
             "file": "ha-2b",
+            "contributor": "",
             "display": "はぁ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           }
         ]
       },
@@ -4923,15 +4922,15 @@
         "example": [
           {
             "file": "ha-3a",
+            "contributor": "",
             "display": "はっ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "ha-3b",
+            "contributor": "",
             "display": "ハッ",
-            "source": "hello_work",
-            " contributor": ""
+            "source": "hello_work"
           }
         ]
       },
@@ -4945,9 +4944,9 @@
         "meaning": "a single heartfelt laugh",
         "example": [{
           "file": "ha-4a",
+          "contributor": "",
           "display": "はっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -4976,9 +4975,9 @@
         "meaning": "laughter",
         "example": [{
           "file": "ha_ha-1a",
+          "contributor": "",
           "display": "はは",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -4990,15 +4989,15 @@
         "example": [
           {
             "file": "ha_ha-2a",
+            "contributor": "",
             "display": "はぁ  はぁ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "ha_ha-2b",
+            "contributor": "",
             "display": "ハッ  ハッ",
-            "source": "komi_cant_communicate",
-            " contributor": ""
+            "source": "komi_cant_communicate"
           }
         ]
       }
@@ -5040,21 +5039,21 @@
       "example": [
         {
           "file": "hi-1a",
+          "contributor": "",
           "display": "ヒッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "hi-1b",
+          "contributor": "",
           "display": "ヒィィィッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "hi-1c",
+          "contributor": "",
           "display": "ひ",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         }
       ]
     }],
@@ -5071,9 +5070,9 @@
       "meaning": "to speak quietly in order to not be overheard",
       "example": [{
         "file": "hiso_hiso-1a",
+        "contributor": "",
         "display": "ヒソ  ヒソ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "hiso hiso"
@@ -5103,9 +5102,9 @@
       "meaning": "the sound or expression of relief",
       "example": [{
         "file": "ho-1a",
+        "contributor": "",
         "display": "ほっ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "ho"
@@ -5123,9 +5122,9 @@
       "meaning": "an expression of unexpected realization",
       "example": [{
         "file": "hohou-1a",
+        "contributor": "",
         "display": "ほほぅ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "hohou"
@@ -5142,9 +5141,9 @@
       "meaning": "an indication of something that is warm, typically freshly cooked food",
       "example": [{
         "file": "hoka_hoka-1a",
+        "contributor": "",
         "display": "ホカ  ホカ",
-        "source": "otherworld_material_collector",
-        " contributor": ""
+        "source": "otherworld_material_collector"
       }]
     }],
     "literal": "hoka hoka"
@@ -5161,9 +5160,9 @@
       "meaning": "a quick, effortless action",
       "example": [{
         "file": "hyoi-1a",
+        "contributor": "",
         "display": "ひょい",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "hyoi"
@@ -5182,9 +5181,9 @@
       "meaning": "an expression of taking a look, often from behind something, as from hiding",
       "example": [{
         "file": "hyoko-1a",
+        "contributor": "",
         "display": "ひょこ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "hyoko"
@@ -5216,9 +5215,9 @@
       "meaning": "something moving quickly through the air",
       "example": [{
         "file": "hyu-1a",
+        "contributor": "",
         "display": "ヒュッ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "hyu"
@@ -5247,15 +5246,15 @@
       "example": [
         {
           "file": "hyun-1a",
+          "contributor": "",
           "display": "ヒュンッ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         },
         {
           "file": "hyun-1b",
+          "contributor": "",
           "display": "ヒュン",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         }
       ]
     }],
@@ -5275,9 +5274,9 @@
       "meaning": "something moving through the air quickly and repetitively ",
       "example": [{
         "file": "hyun_hyun-1a",
+        "contributor": "",
         "display": "ヒュン  ヒュン",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "hyun hyun"
@@ -5300,9 +5299,9 @@
       "meaning": "an expression of joy, approval, or excitement, often used humorously or as posing for a photograph",
       "example": [{
         "file": "iei-1a",
+        "contributor": "",
         "display": "イエーイ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "iei"
@@ -5325,9 +5324,9 @@
       "meaning": "an expression of pain",
       "example": [{
         "file": "itai-1a",
+        "contributor": "",
         "display": "イターイ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "itai"
@@ -5340,9 +5339,9 @@
       "meaning": "the sound of splashing water",
       "example": [{
         "file": "jabu_jabu-1a",
+        "contributor": "",
         "display": "ジャブ  ジャブ",
-        "source": "reincarnated_farm_girl",
-        " contributor": ""
+        "source": "reincarnated_farm_girl"
       }]
     }],
     "literal": "jabu jabu"
@@ -5367,15 +5366,15 @@
       "example": [
         {
           "file": "jaki-1a",
+          "contributor": "",
           "display": "ジャキ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "jaki-1b",
+          "contributor": "",
           "display": "じゃきっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }
       ]
     }],
@@ -5396,9 +5395,9 @@
       "meaning": "a sharp light sound of rattling metal or glass",
       "example": [{
         "file": "jara-1a",
+        "contributor": "",
         "display": "ジャラ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "jara"
@@ -5432,27 +5431,27 @@
       "example": [
         {
           "file": "ji-1a",
+          "contributor": "",
           "display": "じっ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "ji-1b",
+          "contributor": "",
           "display": "じぃっ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "ji-1c",
+          "contributor": "",
           "display": "じー",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         },
         {
           "file": "ji-1d",
+          "contributor": "",
           "display": "じ",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -5484,9 +5483,9 @@
       "meaning": "a lengthy stare at someone or something",
       "example": [{
         "file": "jin-1a",
+        "contributor": "",
         "display": "じーん",
-        "source": "reincarnated_farm_girl",
-        " contributor": ""
+        "source": "reincarnated_farm_girl"
       }]
     }],
     "literal": "jin"
@@ -5511,9 +5510,9 @@
       "meaning": "sound of ringing, as from an alarm or phone",
       "example": [{
         "file": "jiri-1a",
+        "contributor": "",
         "display": "ジリリ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "jiri"
@@ -5531,9 +5530,9 @@
       "meaning": "to approach by slow gradual steps",
       "example": [{
         "file": "jiri_jiri-1a",
+        "contributor": "",
         "display": "ジリ  ジリ",
-        "source": "kuma_kuma_kuma_bear",
-        " contributor": ""
+        "source": "kuma_kuma_kuma_bear"
       }]
     }],
     "literal": "jiri jiri"
@@ -5551,9 +5550,9 @@
       "meaning": "a good hard stare at someone or something",
       "example": [{
         "file": "jiro-1a",
+        "contributor": "",
         "display": "じろ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "jiro"
@@ -5572,9 +5571,9 @@
       "meaning": "variant of the more common 'churru'",
       "example": [{
         "file": "juru-1a",
+        "contributor": "",
         "display": "ぢゅる",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "juru"
@@ -5619,9 +5618,9 @@
         "meaning": "an expression of anger ",
         "example": [{
           "file": "ka-1a",
+          "contributor": "",
           "display": "カッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -5636,9 +5635,9 @@
         "meaning": "to brighten or shine sudddenly",
         "example": [{
           "file": "ka-2a",
+          "contributor": "",
           "display": "カッ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }]
       },
       {
@@ -5656,9 +5655,9 @@
         "meaning": "the sound of writing something",
         "example": [{
           "file": "ka-3a",
+          "contributor": "",
           "display": "カッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       },
       {
@@ -5670,15 +5669,15 @@
         "example": [
           {
             "file": "ka-4a",
+            "contributor": "",
             "display": "かー",
-            "source": "otherworld_material_collector",
-            " contributor": ""
+            "source": "otherworld_material_collector"
           },
           {
             "file": "ka-4a",
+            "contributor": "",
             "display": "かぁぁ",
-            "source": "otherworld_material_collector",
-            " contributor": ""
+            "source": "otherworld_material_collector"
           }
         ]
       }
@@ -5707,15 +5706,15 @@
       "example": [
         {
           "file": "kacha-1a",
+          "contributor": "",
           "display": "カチャ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "kacha-1b",
+          "contributor": "",
           "display": "カチャ",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -5736,9 +5735,9 @@
       "meaning": "a series of short, sharp clicks or clinks, as from dishes or door latches",
       "example": [{
         "file": "kacha_kacha-1a",
+        "contributor": "",
         "display": "カチャ  カチャ",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "kacha kacha"
@@ -5762,15 +5761,15 @@
       "example": [
         {
           "file": "kachi-1a",
+          "contributor": "",
           "display": "カチ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "kachi-1b",
+          "contributor": "",
           "display": "カチッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }
       ]
     }],
@@ -5794,9 +5793,9 @@
       "meaning": "the sound of writing something, as on paper or chalkboard",
       "example": [{
         "file": "kaki_kaki-1a",
+        "contributor": "",
         "display": "カキ  カキ",
-        "source": "otherworld_material_collector",
-        " contributor": ""
+        "source": "otherworld_material_collector"
       }]
     }],
     "literal": "kaki kaki"
@@ -5824,9 +5823,9 @@
       "meaning": "a sound of a small, hard strike, typically from something being dropped",
       "example": [{
         "file": "karan-1a",
+        "contributor": "",
         "display": "カラン",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "karan"
@@ -5849,9 +5848,9 @@
       "meaning": "the sound of writing something, as on paper or chalkboard",
       "example": [{
         "file": "kari_kari-1a",
+        "contributor": "",
         "display": "カリ  カリ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "kari kari"
@@ -5875,9 +5874,9 @@
       "meaning": "a gentle, quiet sound of movement, as that of fabric or plants",
       "example": [{
         "file": "kasa-1a",
+        "contributor": "",
         "display": "カサ",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "kasa"
@@ -5906,15 +5905,15 @@
       "example": [
         {
           "file": "kasha-1a",
+          "contributor": "",
           "display": "カシャ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         },
         {
           "file": "kasha-1a",
+          "contributor": "",
           "display": "カシャッ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         }
       ]
     }],
@@ -5939,15 +5938,15 @@
       "example": [
         {
           "file": "kata-1a",
+          "contributor": "",
           "display": "カタッ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         },
         {
           "file": "kata-1b",
+          "contributor": "",
           "display": "カタ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }
       ]
     }],
@@ -5964,9 +5963,9 @@
       "meaning": "rapid typing on a modern keyboard",
       "example": [{
         "file": "katata-1a",
+        "contributor": "",
         "display": "カタタ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "katata"
@@ -5987,9 +5986,9 @@
       "meaning": "a heavy footstep",
       "example": [{
         "file": "katsun-1a",
+        "contributor": "",
         "display": "カツン",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "katsun"
@@ -6021,9 +6020,9 @@
         "meaning": "a fairly loud squeaking noise, like an old door or chair",
         "example": [{
           "file": "ki-1a",
+          "contributor": "",
           "display": "キィ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       },
       {
@@ -6035,9 +6034,9 @@
         "meaning": "to look at someone or something with anger or disapproval",
         "example": [{
           "file": "ki-2a",
+          "contributor": "",
           "display": "キッ",
-          "source": "reincarnated_farm_girl",
-          " contributor": ""
+          "source": "reincarnated_farm_girl"
         }]
       }
     ],
@@ -6065,9 +6064,9 @@
       "meaning": "a fairly loud squeaking noise, like an old door or chair",
       "example": [{
         "file": "kin-1a",
+        "contributor": "",
         "display": "キィン",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "kin"
@@ -6080,9 +6079,9 @@
       "meaning": "the sound of a Japanese school bell",
       "example": [{
         "file": "kin_kon_kan_kon-1a",
+        "contributor": "",
         "display": "キーン  コーン  カーン  コーン",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "kin kon kan kon"
@@ -6111,9 +6110,9 @@
       "meaning": "a bright flash of light",
       "example": [{
         "file": "kira-1a",
+        "contributor": "",
         "display": "キラッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "kira"
@@ -6130,9 +6129,9 @@
       "meaning": "to give off or reflect bright moving points of light",
       "example": [{
         "file": "kira_kira-1a",
+        "contributor": "",
         "display": "キラ  キラ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "kira kira"
@@ -6153,9 +6152,9 @@
       "meaning": "a harsh grating sound, as metal under stress",
       "example": [{
         "file": "kiri_kiri-1a",
+        "contributor": "",
         "display": "キリ  キリ",
-        "source": "marginal_taylor",
-        " contributor": ""
+        "source": "marginal_taylor"
       }]
     }],
     "literal": "kiri kiri"
@@ -6191,9 +6190,9 @@
         "meaning": "the sound of walking",
         "example": [{
           "file": "ko-1a",
+          "contributor": "",
           "display": "コッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -6204,9 +6203,9 @@
         "meaning": "expressing or eminating vast power or killing intent",
         "example": [{
           "file": "ko-2a",
+          "contributor": "",
           "display": "コォ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -6225,9 +6224,9 @@
       "meaning": "to cough or to make a noise like a cough",
       "example": [{
         "file": "kohon-1a",
+        "contributor": "",
         "display": "コホン",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "kohon"
@@ -6247,9 +6246,9 @@
       "meaning": "a quick nod of the head, typically to express agreement",
       "example": [{
         "file": "koku-1a",
+        "contributor": "",
         "display": "コク",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "koku"
@@ -6275,9 +6274,9 @@
       "meaning": "a soft banging noise, but harder than a tap",
       "example": [{
         "file": "kon-1a",
+        "contributor": "",
         "display": "コン",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "kon"
@@ -6290,9 +6289,9 @@
       "meaning": "the sound of someone knocking on a door",
       "example": [{
         "file": "kon_kon-1a",
+        "contributor": "",
         "display": "コン  コン",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "kon kon"
@@ -6316,9 +6315,9 @@
       "meaning": "sound of pouring liquid",
       "example": [{
         "file": "kopopo-1a",
+        "contributor": "",
         "display": "コポポ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "kopopo"
@@ -6338,9 +6337,9 @@
       "meaning": "the sound of something landing after falling",
       "example": [{
         "file": "koro-1a",
+        "contributor": "",
         "display": "コロ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "koro"
@@ -6360,9 +6359,9 @@
       "meaning": "the sound of something landing after falling",
       "example": [{
         "file": "koron-1a",
+        "contributor": "",
         "display": "コロン",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "koron"
@@ -6387,21 +6386,21 @@
       "example": [
         {
           "file": "koto-1a",
+          "contributor": "",
           "display": "コトッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "koto-1b",
+          "contributor": "",
           "display": "コト",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "koto-1c",
+          "contributor": "",
           "display": "コト",
-          "source": "marginal_taylor",
-          " contributor": ""
+          "source": "marginal_taylor"
         }
       ]
     }],
@@ -6434,9 +6433,9 @@
       "meaning": "an expression of pain or pressure, often as supressed",
       "example": [{
         "file": "ku-1a",
+        "contributor": "",
         "display": "くうっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "ku"
@@ -6459,9 +6458,9 @@
       "meaning": "a deep breath expressing tiredness or boredom",
       "example": [{
         "file": "kua-1a",
+        "contributor": "",
         "display": "くあ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "kua"
@@ -6487,9 +6486,9 @@
         "meaning": "to gently pull or tug on something",
         "example": [{
           "file": "kui_kui-1a",
+          "contributor": "",
           "display": "くい  くい",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       },
       {
@@ -6504,9 +6503,9 @@
         "meaning": "to gesture at someone ambiguously",
         "example": [{
           "file": "kui_kui-2a",
+          "contributor": "",
           "display": "くい  くいっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -6524,9 +6523,9 @@
       "meaning": "a series of small irregular movements or oscillations",
       "example": [{
         "file": "kune_kune-1a",
+        "contributor": "",
         "display": "クネ  クネ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "kune kune"
@@ -6554,9 +6553,9 @@
       "meaning": "a temporary loss or near loss of consciousness",
       "example": [{
         "file": "kura-1a",
+        "contributor": "",
         "display": "くらっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "kura"
@@ -6583,21 +6582,21 @@
       "example": [
         {
           "file": "kuru-1a",
+          "contributor": "",
           "display": "くるっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "kuru-1b",
+          "contributor": "",
           "display": "クル",
-          "source": "marginal_taylor",
-          " contributor": ""
+          "source": "marginal_taylor"
         },
         {
           "file": "kuru-1c",
+          "contributor": "",
           "display": "くる",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -6618,9 +6617,9 @@
       "meaning": "to turn or spin something something",
       "example": [{
         "file": "kuru_kuru-1a",
+        "contributor": "",
         "display": "くる  くる",
-        "source": "reincarnated_sage_daughters",
-        " contributor": ""
+        "source": "reincarnated_sage_daughters"
       }]
     }],
     "literal": "kuru kuru"
@@ -6649,21 +6648,21 @@
       "example": [
         {
           "file": "kusu-1a",
+          "contributor": "",
           "display": "くす",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "kusu-1b",
+          "contributor": "",
           "display": "クス",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "kusu-1c",
+          "contributor": "",
           "display": "くすっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }
       ]
     }],
@@ -6701,9 +6700,9 @@
       "meaning": "to cry out loudly and emotionally, often used humoursly",
       "example": [{
         "file": "kya-1a",
+        "contributor": "",
         "display": "きゃーっ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "kya"
@@ -6722,9 +6721,9 @@
       "meaning": "the bark of a dog or wolf, typically of a smaller variety",
       "example": [{
         "file": "kyan-1a",
+        "contributor": "",
         "display": "キャン",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "kyan"
@@ -6755,9 +6754,9 @@
         "meaning": "act of clenching, as in one's hands or teeth",
         "example": [{
           "file": "kyu-1a",
+          "contributor": "",
           "display": "きゅ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -6772,9 +6771,9 @@
         "meaning": "to fasten or attach something with a line or cord.",
         "example": [{
           "file": "kyu-2a",
+          "contributor": "",
           "display": "きゅっ",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }]
       },
       {
@@ -6786,9 +6785,9 @@
         "meaning": "a shrill squeaking sound",
         "example": [{
           "file": "kyu-3a",
+          "contributor": "",
           "display": "キュッ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         }]
       }
     ],
@@ -6814,9 +6813,9 @@
       "meaning": "the creaking sound of an old or unstable floor",
       "example": [{
         "file": "mishi-1a",
+        "contributor": "",
         "display": "ミシ  ミシッ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "mishi"
@@ -6837,9 +6836,9 @@
       "meaning": "the act of petting something with soft, fluffy fur or hair ",
       "example": [{
         "file": "mofu-1a",
+        "contributor": "",
         "display": "もふ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "mofu"
@@ -6856,9 +6855,9 @@
       "meaning": "the sound of eating and chewing",
       "example": [{
         "file": "mogu_mogu-1a",
+        "contributor": "",
         "display": "モグ  モグ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "mogu mogu"
@@ -6876,9 +6875,9 @@
       "meaning": "to express shyness or hesitation",
       "example": [{
         "file": "moji-1a",
+        "contributor": "",
         "display": "もじ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "moji"
@@ -6901,9 +6900,9 @@
       "meaning": "a billowing cloud, rolling fog, or smoke",
       "example": [{
         "file": "moku_moku-1a",
+        "contributor": "",
         "display": "モク  モク",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "moku moku"
@@ -6920,9 +6919,9 @@
       "meaning": "the sound of eating and chewing, often in a humorous context",
       "example": [{
         "file": "mo_mo-1a",
+        "contributor": "",
         "display": "もっ  もっ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "mo mo"
@@ -6962,15 +6961,15 @@
       "example": [
         {
           "file": "mu-1a",
+          "contributor": "",
           "display": "ム",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "mu-1b",
+          "contributor": "",
           "display": "むう",
-          "source": "reincarnated_farm_girl",
-          " contributor": ""
+          "source": "reincarnated_farm_girl"
         }
       ]
     }],
@@ -6998,15 +6997,15 @@
       "example": [
         {
           "file": "mumu-1a",
+          "contributor": "",
           "display": "むむむ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
           "file": "mumu-1b",
+          "contributor": "",
           "display": "ムム",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     }],
@@ -7024,9 +7023,9 @@
       "meaning": "expressing desire or need for sleep",
       "example": [{
         "file": "munya_munya-1a",
+        "contributor": "",
         "display": "ムニャ  ムニャ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "munya munya"
@@ -7045,9 +7044,9 @@
       "meaning": "to stroke someting in a tender manner",
       "example": [{
         "file": "nade_nade-1a",
+        "contributor": "",
         "display": "ナデ  ナデ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "nade nade"
@@ -7072,15 +7071,15 @@
       "example": [
         {
           "file": "niko-1a",
+          "contributor": "",
           "display": "ニコッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "niko-1b",
+          "contributor": "",
           "display": "にこっ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     }],
@@ -7099,9 +7098,9 @@
       "meaning": "an expression happiness, amusement, or agreement",
       "example": [{
         "file": "niko_niko-1a",
+        "contributor": "",
         "display": "ニコ  ニコ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "niko niko"
@@ -7126,9 +7125,9 @@
       "meaning": "an unpleasant smile often expressing pleasure at someone else's trouble",
       "example": [{
         "file": "niya-1a",
+        "contributor": "",
         "display": "ニヤッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "niya"
@@ -7153,9 +7152,9 @@
       "meaning": "the act or sound of eating and chewing",
       "example": [{
         "file": "nma-1a",
+        "contributor": "",
         "display": "んまっ",
-        "source": "kuma_kuma_kuma_bear",
-        " contributor": ""
+        "source": "kuma_kuma_kuma_bear"
       }]
     }],
     "literal": "nma"
@@ -7171,9 +7170,9 @@
       "meaning": "mimicking a cat to express friendly, playful teasing",
       "example": [{
         "file": "nya_nya-1a",
+        "contributor": "",
         "display": "ニャ  ニャ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "nya nya"
@@ -7190,9 +7189,9 @@
       "meaning": "an unpleasant smile",
       "example": [{
         "file": "nyi-1a",
+        "contributor": "",
         "display": "ニィ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "nyi"
@@ -7214,9 +7213,9 @@
       "meaning": "a brief exclamation expressing surprise or recognition",
       "example": [{
         "file": "o-1a",
+        "contributor": "",
         "display": "お",
-        "source": "otherworld_material_collector",
-        " contributor": ""
+        "source": "otherworld_material_collector"
       }]
     }],
     "literal": "o"
@@ -7254,15 +7253,15 @@
         "example": [
           {
             "file": "pa-1a",
+            "contributor": "",
             "display": "パアア",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "pa-1b",
+            "contributor": "",
             "display": "パァッ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           }
         ]
       },
@@ -7281,9 +7280,9 @@
         "meaning": "to become glad, happy, or excited",
         "example": [{
           "file": "pa-2a",
+          "contributor": "",
           "display": "パアア",
-          "source": "reincarnated_farm_girl",
-          " contributor": ""
+          "source": "reincarnated_farm_girl"
         }]
       }
     ],
@@ -7311,15 +7310,15 @@
       "example": [
         {
           "file": "pachi-1a",
+          "contributor": "",
           "display": "ぱちっ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         },
         {
           "file": "pachi-1b",
+          "contributor": "",
           "display": "パチッ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         }
       ]
     }],
@@ -7348,15 +7347,15 @@
       "example": [
         {
           "file": "pachin-1a",
+          "contributor": "",
           "display": "ぱちん",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
           "file": "pachin-1a",
+          "contributor": "",
           "display": "パチン",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -7375,9 +7374,9 @@
         "meaning": "the continuous sound of crackling, as from a fire",
         "example": [{
           "file": "pachi_pachi-1a",
+          "contributor": "",
           "display": "パチ  パチ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }]
       },
       {
@@ -7388,9 +7387,9 @@
         "meaning": "the sound of applause",
         "example": [{
           "file": "pachi_pachi-2a",
+          "contributor": "",
           "display": "パチ  パチ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }]
       }
     ],
@@ -7408,9 +7407,9 @@
       "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
       "example": [{
         "file": "paka-1a",
+        "contributor": "",
         "display": "パカ",
-        "source": "kuma_kuma_kuma_bear",
-        " contributor": ""
+        "source": "kuma_kuma_kuma_bear"
       }]
     }],
     "literal": "paka"
@@ -7436,15 +7435,15 @@
       "example": [
         {
           "file": "paki-1a",
+          "contributor": "",
           "display": "パキッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "paki-1b",
+          "contributor": "",
           "display": "パキッ",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         }
       ]
     }],
@@ -7462,9 +7461,9 @@
       "meaning": "to repeatedly open and close one's mouth",
       "example": [{
         "file": "paku_paku-1a",
+        "contributor": "",
         "display": "ぱくぱく",
-        "source": "kuma_kuma_kuma_bear",
-        " contributor": ""
+        "source": "kuma_kuma_kuma_bear"
       }]
     }],
     "literal": "paku paku"
@@ -7499,27 +7498,27 @@
       "example": [
         {
           "file": "pan-1a",
+          "contributor": "",
           "display": "パンッ,  パン",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "pan-1b",
+          "contributor": "",
           "display": "パァンッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "pan-1c",
+          "contributor": "",
           "display": "ぱんっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "pan-1d",
+          "contributor": "",
           "display": "パン",
-          "source": "reincarnated_farm_girl",
-          " contributor": ""
+          "source": "reincarnated_farm_girl"
         }
       ]
     }],
@@ -7539,9 +7538,9 @@
       "meaning": "sound of turning pages of paper",
       "example": [{
         "file": "para-1a",
+        "contributor": "",
         "display": "パラ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "para"
@@ -7563,15 +7562,15 @@
       "example": [
         {
           "file": "para_para-1a",
+          "contributor": "",
           "display": "パラ  パラ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         },
         {
           "file": "para_para-1b",
+          "contributor": "",
           "display": "パラ  パラ",
-          "source": "bungo",
-          " contributor": ""
+          "source": "bungo"
         }
       ]
     }],
@@ -7592,9 +7591,9 @@
         "meaning": "the sound of a small splash",
         "example": [{
           "file": "pasha-1a",
+          "contributor": "",
           "display": "パシャ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }]
       },
       {
@@ -7607,9 +7606,9 @@
         "meaning": "the sound of a camera shutter or the light of a camera flash",
         "example": [{
           "file": "pasha-2a",
+          "contributor": "",
           "display": "パシャ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -7639,15 +7638,15 @@
       "example": [
         {
           "file": "pashi-1a",
+          "contributor": "",
           "display": "ぱしっ",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         },
         {
           "file": "pashi-1b",
+          "contributor": "",
           "display": "パシッ",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         }
       ]
     }],
@@ -7675,9 +7674,9 @@
       "meaning": "an indication of falling from an upright position",
       "example": [{
         "file": "pata-1a",
+        "contributor": "",
         "display": "パタ",
-        "source": "otherworld_material_collector",
-        " contributor": ""
+        "source": "otherworld_material_collector"
       }]
     }],
     "literal": "pata"
@@ -7704,9 +7703,9 @@
         "meaning": "the sound of a door latch closing",
         "example": [{
           "file": "patan-1a",
+          "contributor": "",
           "display": "パタン",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -7721,9 +7720,9 @@
         "meaning": "to fall down from an upright position",
         "example": [{
           "file": "patan-2a",
+          "contributor": "",
           "display": "ぱたん",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -7743,9 +7742,9 @@
       "meaning": "the sound of flapping, as of bird wings, a dust mop, or a flag in the wind",
       "example": [{
         "file": "pata_pata-1a",
+        "contributor": "",
         "display": "パタ  パタ",
-        "source": "reincarnated_sage_daughters",
-        " contributor": ""
+        "source": "reincarnated_sage_daughters"
       }]
     }],
     "literal": "pata pata"
@@ -7762,9 +7761,9 @@
       "meaning": "to repeatedly pat or brush something off, as for removing dirt or dust",
       "example": [{
         "file": "pa_pa-1a",
+        "contributor": "",
         "display": "パッ  パッ",
-        "source": "kuma_kuma_kuma_bear",
-        " contributor": ""
+        "source": "kuma_kuma_kuma_bear"
       }]
     }],
     "literal": "pa pa"
@@ -7777,9 +7776,9 @@
       "meaning": "bending the head or body in respect, deference or reverence",
       "example": [{
         "file": "peko-1a",
+        "contributor": "",
         "display": "ぺこ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "peko"
@@ -7802,9 +7801,9 @@
       "meaning": "the sound of a tongue licking something",
       "example": [{
         "file": "pero-1a",
+        "contributor": "",
         "display": "ぺろ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "pero"
@@ -7827,9 +7826,9 @@
       "meaning": "a harmless but loud impact, as with a slap",
       "example": [{
         "file": "peshi-1a",
+        "contributor": "",
         "display": "ペシッ",
-        "source": "hikaro_no_go",
-        " contributor": ""
+        "source": "hikaro_no_go"
       }]
     }],
     "literal": "peshi"
@@ -7847,9 +7846,9 @@
       "meaning": "to press repeatedly",
       "example": [{
         "file": "peta_peta-1a",
+        "contributor": "",
         "display": "ぺた  ぺた",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "peta peta"
@@ -7876,15 +7875,15 @@
       "example": [
         {
           "file": "pi-1a",
+          "contributor": "",
           "display": "ピッ",
-          "source": "modern_dungeon_capture",
-          " contributor": ""
+          "source": "modern_dungeon_capture"
         },
         {
           "file": "pi-1b",
+          "contributor": "",
           "display": "ピ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }
       ]
     }],
@@ -7906,9 +7905,9 @@
       "meaning": "a very soft sound of water movement",
       "example": [{
         "file": "pichan-1a",
+        "contributor": "",
         "display": "ピチャン",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "pichan"
@@ -7942,9 +7941,9 @@
       "meaning": "a bright glowing appearance, typically metaphorical",
       "example": [{
         "file": "pika-1a",
+        "contributor": "",
         "display": "ピカー",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "pika"
@@ -7971,9 +7970,9 @@
       "meaning": "the noise of an electronic chime, typical of games or computers",
       "example": [{
         "file": "pikon-1a",
+        "contributor": "",
         "display": "ピコン",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "pikon"
@@ -8001,15 +8000,15 @@
         "example": [
           {
             "file": "piku-1a",
+            "contributor": "",
             "display": "ぴくっ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "piku-1b",
+            "contributor": "",
             "display": "ピクッ",
-            "source": "world_full_of_monsters",
-            " contributor": ""
+            "source": "world_full_of_monsters"
           }
         ]
       },
@@ -8023,9 +8022,9 @@
         "meaning": "a small, deliberate movement",
         "example": [{
           "file": "piku-2a",
+          "contributor": "",
           "display": "ピク",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       }
     ],
@@ -8039,9 +8038,9 @@
       "meaning": "the sound of a door bell",
       "example": [{
         "file": "pinpon-1a",
+        "contributor": "",
         "display": "ピン  ポーン",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "pin pon"
@@ -8057,9 +8056,9 @@
       "meaning": "a cell phone ring tone",
       "example": [{
         "file": "pirorin-1a",
+        "contributor": "",
         "display": "ピロリン",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "pirorin"
@@ -8086,9 +8085,9 @@
         "meaning": "the sound of something suddenly breaking",
         "example": [{
           "file": "pishi-1a",
+          "contributor": "",
           "display": "ピシッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -8101,9 +8100,9 @@
         "meaning": "a rapid snapping to position",
         "example": [{
           "file": "pishi-2a",
+          "contributor": "",
           "display": "ぴしっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -8131,21 +8130,21 @@
       "example": [
         {
           "file": "pita-1a",
+          "contributor": "",
           "display": "ピタッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "pita-1b",
+          "contributor": "",
           "display": "ぴたっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "pita-1c",
+          "contributor": "",
           "display": "ピタ",
-          "source": "reincarnated_sage_daughters",
-          " contributor": ""
+          "source": "reincarnated_sage_daughters"
         }
       ]
     }],
@@ -8170,9 +8169,9 @@
       "meaning": "a gentle touch",
       "example": [{
         "file": "pito-1a",
+        "contributor": "",
         "display": "ぴと",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "pito"
@@ -8201,9 +8200,9 @@
         "meaning": "an indication that something is emitting light",
         "example": [{
           "file": "po-1a",
+          "contributor": "",
           "display": "ポ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -8219,9 +8218,9 @@
         "meaning": "riveted in wonder or surprise, typical in love-at-first-sight senarios",
         "example": [{
           "file": "po-2a",
+          "contributor": "",
           "display": "ぽー",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       }
     ],
@@ -8253,15 +8252,15 @@
       "example": [
         {
           "file": "poi-1a",
+          "contributor": "",
           "display": "ぽい",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "poi-1b",
+          "contributor": "",
           "display": "ポィ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }
       ]
     }],
@@ -8285,9 +8284,9 @@
         "meaning": "the sound of a magical effect, often accompanied with a cute puffs of smoke or dust, as in magically appearing or disappearing",
         "example": [{
           "file": "pon-1a",
+          "contributor": "",
           "display": "ポンッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       },
       {
@@ -8305,27 +8304,27 @@
         "example": [
           {
             "file": "pon-2a",
+            "contributor": "",
             "display": "ぽん",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "pon-2b",
+            "contributor": "",
             "display": "ぽんっ",
-            "source": "reincarnated_aristocrat",
-            " contributor": ""
+            "source": "reincarnated_aristocrat"
           },
           {
             "file": "pon-2c",
+            "contributor": "",
             "display": "ポンッ",
-            "source": "otherworld_material_collector",
-            " contributor": ""
+            "source": "otherworld_material_collector"
           },
           {
             "file": "pon-2d",
+            "contributor": "",
             "display": "ポン",
-            "source": "otherworld_material_collector",
-            " contributor": ""
+            "source": "otherworld_material_collector"
           }
         ]
       },
@@ -8340,9 +8339,9 @@
         "meaning": "to give something to someone else",
         "example": [{
           "file": "pon-3a",
+          "contributor": "",
           "display": "ポンッ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }]
       }
     ],
@@ -8366,9 +8365,9 @@
       "meaning": "to continuously pat or stroke in a gentle manner",
       "example": [{
         "file": "pon_pon-1a",
+        "contributor": "",
         "display": "ポン  ポン",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "pon pon"
@@ -8388,9 +8387,9 @@
       "meaning": "the sound of something slipping or falling",
       "example": [{
         "file": "poro-1a",
+        "contributor": "",
         "display": "ポロ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "poro"
@@ -8409,9 +8408,9 @@
       "meaning": "shedding tears as an expression of pain or distress",
       "example": [{
         "file": "poro_poro-1a",
+        "contributor": "",
         "display": "ポロ  ポロ",
-        "source": "reincarnated_farm_girl",
-        " contributor": ""
+        "source": "reincarnated_farm_girl"
       }]
     }],
     "literal": "poro poro"
@@ -8434,9 +8433,9 @@
       "meaning": "to cause or allow something to fall",
       "example": [{
         "file": "poto-1a",
+        "contributor": "",
         "display": "ポトッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "poto"
@@ -8461,9 +8460,9 @@
       "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
       "example": [{
         "file": "pou-1a",
+        "contributor": "",
         "display": "ポゥ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "pou"
@@ -8488,9 +8487,9 @@
       "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
       "example": [{
         "file": "pou_pou-1a",
+        "contributor": "",
         "display": "ポゥ  ポゥ",
-        "source": "reincarnated_sage_daughters",
-        " contributor": ""
+        "source": "reincarnated_sage_daughters"
       }]
     }],
     "literal": "pou pou"
@@ -8507,9 +8506,9 @@
       "meaning": "a series of small irregular movements",
       "example": [{
         "file": "poyuyun-1a",
+        "contributor": "",
         "display": "ぽゆゆん",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "poyuyun"
@@ -8535,9 +8534,9 @@
         "meaning": "a light laugh or snort, often an expression of low opinion, dismissal, or sarcasm",
         "example": [{
           "file": "pu-1a",
+          "contributor": "",
           "display": "ぷっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -8552,9 +8551,9 @@
         "meaning": "a small sound of pinching or plucking, as with a small plant",
         "example": [{
           "file": "pu-2a",
+          "contributor": "",
           "display": "プッ",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }]
       }
     ],
@@ -8581,9 +8580,9 @@
       "meaning": "a voiced sound expressing relief, satisfaction, or a break from exertion ",
       "example": [{
         "file": "puha-1a",
+        "contributor": "",
         "display": "ぷはっ",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "puha"
@@ -8610,9 +8609,9 @@
       "meaning": "to deliberately ignore or treat rudely ",
       "example": [{
         "file": "pui-1a",
+        "contributor": "",
         "display": "ぷいっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "pui"
@@ -8637,9 +8636,9 @@
       "meaning": "the sound of leaking air or gas, often used to express embarrassment",
       "example": [{
         "file": "pushu-1a",
+        "contributor": "",
         "display": "プシューッ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "pushu"
@@ -8656,9 +8655,9 @@
       "meaning": "small puncture",
       "example": [{
         "file": "pusu-1a",
+        "contributor": "",
         "display": "ぷす",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "pusu"
@@ -8675,9 +8674,9 @@
       "meaning": "something that was on fire reduced to smoke",
       "example": [{
         "file": "pusu_pusu-1a",
+        "contributor": "",
         "display": "プス  プス",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "pusu pusu"
@@ -8698,9 +8697,9 @@
       "meaning": "the act of leaping into the air",
       "example": [{
         "file": "pyon-1a",
+        "contributor": "",
         "display": "ピョン",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "pyon"
@@ -8732,9 +8731,9 @@
       "meaning": "a stream of fluid discharged from narrow opening",
       "example": [{
         "file": "pyu-1a",
+        "contributor": "",
         "display": "ピューッ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "pyu"
@@ -8775,9 +8774,9 @@
         "meaning": "soft sounds of rain or shower",
         "example": [{
           "file": "sa-1a",
+          "contributor": "",
           "display": "サァァァ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -8792,9 +8791,9 @@
         "meaning": "an expression of worry or stress",
         "example": [{
           "file": "sa-2a",
+          "contributor": "",
           "display": "サァ",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         }]
       },
       {
@@ -8815,15 +8814,15 @@
         "example": [
           {
             "file": "sa-3a",
+            "contributor": "",
             "display": "サッ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           },
           {
             "file": "sa-3b",
+            "contributor": "",
             "display": "サッ",
-            "source": "reincarnated_aristocrat",
-            " contributor": ""
+            "source": "reincarnated_aristocrat"
           }
         ]
       },
@@ -8841,9 +8840,9 @@
         "meaning": "a loud noise of water splashing",
         "example": [{
           "file": "sa-4a",
+          "contributor": "",
           "display": "サアッ",
-          "source": "hanako_24th_ward",
-          " contributor": ""
+          "source": "hanako_24th_ward"
         }]
       }
     ],
@@ -8867,9 +8866,9 @@
       "meaning": "the soft movement of hair, as in a gentle breeze",
       "example": [{
         "file": "sara-1a",
+        "contributor": "",
         "display": "サラ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "sara"
@@ -8899,9 +8898,9 @@
       "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
       "example": [{
         "file": "sa_sa-1a",
+        "contributor": "",
         "display": "ササ  ササッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "sa sa"
@@ -8928,9 +8927,9 @@
       "meaning": "the sound of cutting into something, as with a sharp knife",
       "example": [{
         "file": "sha-1a",
+        "contributor": "",
         "display": "シヤッ",
-        "source": "kuma_kuma_kuma_bear",
-        " contributor": ""
+        "source": "kuma_kuma_kuma_bear"
       }]
     }],
     "literal": "sha"
@@ -8954,9 +8953,9 @@
       "meaning": "a light rattling sound",
       "example": [{
         "file": "sharan-1a",
+        "contributor": "",
         "display": "シャラーン",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "sharan"
@@ -8991,15 +8990,15 @@
         "example": [
           {
             "file": "shu-1a",
+            "contributor": "",
             "display": "シュッ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "shu-1b",
+            "contributor": "",
             "display": "シュッ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           }
         ]
       },
@@ -9013,9 +9012,9 @@
         "meaning": "a hissing sound",
         "example": [{
           "file": "shu-2a",
+          "contributor": "",
           "display": "シュゥゥ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -9031,9 +9030,9 @@
         "meaning": "a blocking maneuver in combat",
         "example": [{
           "file": "shu-3a",
+          "contributor": "",
           "display": "シュッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       }
     ],
@@ -9062,9 +9061,9 @@
         "meaning": "expressing an unhappy feeling",
         "example": [{
           "file": "shun-1a",
+          "contributor": "",
           "display": "しゅん",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -9079,15 +9078,15 @@
         "example": [
           {
             "file": "shun-2a",
+            "contributor": "",
             "display": "シュン",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           },
           {
             "file": "shun-2b",
+            "contributor": "",
             "display": "シュンッ",
-            "source": "reincarnated_aristocrat",
-            " contributor": ""
+            "source": "reincarnated_aristocrat"
           }
         ]
       }
@@ -9117,9 +9116,9 @@
       "meaning": "to move along a winding course or to repeatedly wrap around something",
       "example": [{
         "file": "shuru-1a",
+        "contributor": "",
         "display": "しゅるっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "shuru"
@@ -9154,15 +9153,15 @@
         "example": [
           {
             "file": "so-1a",
+            "contributor": "",
             "display": "そ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "so-1b",
+            "contributor": "",
             "display": "そっ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           }
         ]
       },
@@ -9182,9 +9181,9 @@
         "meaning": "to reach out to someone, so as to touch or present them with something",
         "example": [{
           "file": "so-2a",
+          "contributor": "",
           "display": "そっ",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }]
       }
     ],
@@ -9218,23 +9217,23 @@
     "definition": [
       {
         "equivalent": [
-          "pass",
           "ignore",
+          "pass",
           "pass by"
         ],
         "meaning": "to move past someone, typically ignoring them",
         "example": [
           {
             "file": "su-1a",
+            "contributor": "",
             "display": "スッ",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "su-1b",
+            "contributor": "",
             "display": "す",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           }
         ]
       },
@@ -9258,21 +9257,21 @@
         "example": [
           {
             "file": "su-2a",
+            "contributor": "",
             "display": "ス",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "su-2b",
+            "contributor": "",
             "display": "ス",
-            "source": "d_genesis",
-            " contributor": ""
+            "source": "d_genesis"
           },
           {
             "file": "su-2c",
+            "contributor": "",
             "display": "ス",
-            "source": "d_genesis",
-            " contributor": "Nightbug"
+            "source": "d_genesis"
           }
         ]
       },
@@ -9290,15 +9289,15 @@
         "example": [
           {
             "file": "su-3a",
+            "contributor": "",
             "display": "スゥゥゥ",
-            "source": "hello_work",
-            " contributor": ""
+            "source": "hello_work"
           },
           {
             "file": "su-3b",
+            "contributor": "",
             "display": "すぅ",
-            "source": "different_world_smartphone",
-            " contributor": ""
+            "source": "different_world_smartphone"
           }
         ]
       },
@@ -9315,9 +9314,9 @@
         "meaning": "the act of picking something up",
         "example": [{
           "file": "su-4a",
+          "contributor": "",
           "display": "スッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       },
       {
@@ -9341,9 +9340,9 @@
         "meaning": "a sudden change in demeanor, as expressing a nearby threat",
         "example": [{
           "file": "su-5a",
+          "contributor": "",
           "display": "スッ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -9368,15 +9367,15 @@
       "example": [
         {
           "file": "suku-1a",
+          "contributor": "",
           "display": "すくっ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "suku-1b",
+          "contributor": "",
           "display": "スクッ",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -9397,9 +9396,9 @@
       "meaning": "to express a calm and unruffled demeanor",
       "example": [{
         "file": "sun-1a",
+        "contributor": "",
         "display": "すん",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "sun"
@@ -9427,9 +9426,9 @@
       "meaning": "a fast, heavy cut, as with a sword or knife",
       "example": [{
         "file": "supa-1a",
+        "contributor": "",
         "display": "スパッ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "supa"
@@ -9454,9 +9453,9 @@
       "meaning": "come to rest after descending from the air",
       "example": [{
         "file": "suta-1a",
+        "contributor": "",
         "display": "スタッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "suta"
@@ -9476,9 +9475,9 @@
       "meaning": "to move past someone quickly, typically ignoring them",
       "example": [{
         "file": "suta_suta-1a",
+        "contributor": "",
         "display": "スタ  スタ",
-        "source": "komi_cant_communicate",
-        " contributor": ""
+        "source": "komi_cant_communicate"
       }]
     }],
     "literal": "suta suta"
@@ -9504,9 +9503,9 @@
       "meaning": "to fall from a standing position suddenly and involentarily",
       "example": [{
         "file": "suten-1a",
+        "contributor": "",
         "display": "すてーん",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "suten"
@@ -9536,9 +9535,9 @@
       "meaning": "to lightly hold or contact someone",
       "example": [{
         "file": "suto-1a",
+        "contributor": "",
         "display": "すとっ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "suto"
@@ -9558,9 +9557,9 @@
       "meaning": "to sit or squat down",
       "example": [{
         "file": "suton-1a",
+        "contributor": "",
         "display": "ストン",
-        "source": "dog_became_strongest",
-        " contributor": ""
+        "source": "dog_became_strongest"
       }]
     }],
     "literal": "suton"
@@ -9589,9 +9588,9 @@
         "meaning": "soft breathing while sleeping or quietly snoring",
         "example": [{
           "file": "su_su-1a",
+          "contributor": "",
           "display": "すぅ  すぅ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }]
       },
       {
@@ -9602,9 +9601,9 @@
         "meaning": "to speak quietly, so as not be overheard",
         "example": [{
           "file": "su_su-2a",
+          "contributor": "",
           "display": "ススス",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -9634,9 +9633,9 @@
       "meaning": "to quickly or suddenly jump",
       "example": [{
         "file": "ta-1a",
+        "contributor": "",
         "display": "タッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "ta"
@@ -9661,9 +9660,9 @@
       "meaning": "the sound of a light impact",
       "example": [{
         "file": "tan-1a",
+        "contributor": "",
         "display": "タン",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "tan"
@@ -9693,21 +9692,21 @@
       "example": [
         {
           "file": "tata-1a",
+          "contributor": "",
           "display": "タタッ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "tata-1b",
+          "contributor": "",
           "display": "たたた",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "tata-1c",
+          "contributor": "",
           "display": "たたた",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -9735,9 +9734,9 @@
       "meaning": "a fast running gait, as that of a quadruped",
       "example": [{
         "file": "tata-1a",
+        "contributor": "",
         "display": "タタッ  タタッ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "tata tata"
@@ -9759,9 +9758,9 @@
       "meaning": "to walk at a relatively moderate pace",
       "example": [{
         "file": "teku_teku-1a",
+        "contributor": "",
         "display": "てく  てく",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "teku teku"
@@ -9784,9 +9783,9 @@
       "meaning": "a soft, quick tap",
       "example": [{
         "file": "to-1a",
+        "contributor": "",
         "display": "トッ",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "to"
@@ -9808,15 +9807,15 @@
       "example": [
         {
           "file": "tobo_tobo-1a",
+          "contributor": "",
           "display": "トボ  トボ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "tobo_tobo-1b",
+          "contributor": "",
           "display": "とぼとぼ",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -9834,15 +9833,15 @@
       "example": [
         {
           "file": "toku_toku-1a",
+          "contributor": "",
           "display": "トク  トク",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         },
         {
           "file": "toku_toku-1b",
+          "contributor": "",
           "display": "トク  トク",
-          "source": "otherworld_material_collector",
-          " contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -9869,9 +9868,9 @@
       "meaning": "the sound of a small or light impact",
       "example": [{
         "file": "ton-1a",
+        "contributor": "",
         "display": "トン",
-        "source": "bungo",
-        " contributor": ""
+        "source": "bungo"
       }]
     }],
     "literal": "ton"
@@ -9900,9 +9899,9 @@
       "meaning": "the sound of light rythmic strikes",
       "example": [{
         "file": "ton_ton-1a",
+        "contributor": "",
         "display": "トン  トン",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "ton ton"
@@ -9927,15 +9926,15 @@
       "example": [
         {
           "file": "topopo-1a",
+          "contributor": "",
           "display": "トポポ",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         },
         {
           "file": "topopo-1b",
+          "contributor": "",
           "display": "トポポポ",
-          "source": "dog_became_strongest",
-          " contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -9970,9 +9969,9 @@
       "meaning": "to melt, flow, or drip slowly",
       "example": [{
         "file": "toro-1a",
+        "contributor": "",
         "display": "トロッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "toro"
@@ -9996,9 +9995,9 @@
       "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
       "example": [{
         "file": "tosa-1a",
+        "contributor": "",
         "display": "トサッ",
-        "source": "kuma_kuma_kuma_bear",
-        " contributor": ""
+        "source": "kuma_kuma_kuma_bear"
       }]
     }],
     "literal": "tosa"
@@ -10022,9 +10021,9 @@
       "meaning": "a series of soft quick taps, as on a cell phone",
       "example": [{
         "file": "toto-1a",
+        "contributor": "",
         "display": "トトト",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "toto"
@@ -10051,9 +10050,9 @@
       "meaning": "a quick inhale or gasp, as from being surprised or frightened",
       "example": [{
         "file": "tsu-1a",
+        "contributor": "",
         "display": "ツ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "tsu"
@@ -10070,9 +10069,9 @@
       "meaning": "a series of interactions with one's fingertips",
       "example": [{
         "file": "tsun_tsun-1a",
+        "contributor": "",
         "display": "つん  つん",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "tsun tsun"
@@ -10096,9 +10095,9 @@
       "meaning": "to slip or to have a surface smooth enough to slip on",
       "example": [{
         "file": "tsuru-1a",
+        "contributor": "",
         "display": "つるっ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "tsuru"
@@ -10122,9 +10121,9 @@
       "meaning": "to slip or to have a surface smooth enough to slip on",
       "example": [{
         "file": "tsurun-1a",
+        "contributor": "",
         "display": "つるんっ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "tsurun"
@@ -10152,9 +10151,9 @@
       "meaning": "appalled, discouraged, dismayed",
       "example": [{
         "file": "u-1a",
+        "contributor": "",
         "display": "うっ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "u"
@@ -10184,9 +10183,9 @@
       "meaning": "an exclamation sound, often extended, expressing a range of emotions, as in relief, embarrassment, or surprise",
       "example": [{
         "file": "u-a1",
+        "contributor": "",
         "display": "うぁぁぁ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "ua"
@@ -10213,9 +10212,9 @@
         "meaning": "nodding to express agreement",
         "example": [{
           "file": "un-1a",
+          "contributor": "",
           "display": "うん",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -10227,9 +10226,9 @@
         "meaning": "an expression of thinking or considering",
         "example": [{
           "file": "un-2a",
+          "contributor": "",
           "display": "うーん",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       }
     ],
@@ -10253,9 +10252,9 @@
         "meaning": "nodding the head repeatedly to express agreement",
         "example": [{
           "file": "un_un-1a",
+          "contributor": "",
           "display": "うん  うん",
-          "source": "d_genesis",
-          " contributor": ""
+          "source": "d_genesis"
         }]
       },
       {
@@ -10268,9 +10267,9 @@
         "meaning": "a series of low sounds expressing pain or grief",
         "example": [{
           "file": "un_un-2a",
+          "contributor": "",
           "display": "ウーン  ウーン",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }]
       }
     ],
@@ -10297,9 +10296,9 @@
       "meaning": "the bark or howl of a wolf",
       "example": [{
         "file": "uon-1a",
+        "contributor": "",
         "display": "ウォン",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "uon"
@@ -10324,9 +10323,9 @@
       "meaning": "the formation of a teardrop",
       "example": [{
         "file": "uru-1a",
+        "contributor": "",
         "display": "うるっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "uru"
@@ -10350,9 +10349,9 @@
       "meaning": "a feeling of threat",
       "example": [{
         "file": "uzo-1a",
+        "contributor": "",
         "display": "ウゾゾ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "uzo"
@@ -10380,9 +10379,9 @@
       "meaning": "an expression of revulsion as if trying not to retch.",
       "example": [{
         "file": "vu-1a",
+        "contributor": "",
         "display": "ゔっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "vu"
@@ -10400,15 +10399,15 @@
       "example": [
         {
           "file": "vun-1a",
+          "contributor": "",
           "display": "ヴン",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         },
         {
           "file": "vun-1b",
+          "contributor": "",
           "display": "ヴン",
-          "source": "kuma_kuma_kuma_bear",
-          " contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         }
       ]
     }],
@@ -10454,21 +10453,21 @@
       "example": [
         {
           "file": "wa-1a",
+          "contributor": "",
           "display": "わっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "wa-1b",
+          "contributor": "",
           "display": "ワァァァ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "wa-1c",
+          "contributor": "",
           "display": "ワァァァ",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -10490,9 +10489,9 @@
       "meaning": "an expression of enthusiasm and eagerness",
       "example": [{
         "file": "waku_waku-1a",
+        "contributor": "",
         "display": "わく  わく",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "waku waku"
@@ -10517,15 +10516,15 @@
       "example": [
         {
           "file": "wan-1a",
+          "contributor": "",
           "display": "わんっ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "wan-1b",
+          "contributor": "",
           "display": "わん",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         }
       ]
     }],
@@ -10546,9 +10545,9 @@
       "meaning": "an expression of panic or mistake, often with waving of hands",
       "example": [{
         "file": "wata_wata-1a",
+        "contributor": "",
         "display": "わた  わた",
-        "source": "reincarnated_farm_girl",
-        " contributor": ""
+        "source": "reincarnated_farm_girl"
       }]
     }],
     "literal": "wata wata"
@@ -10575,9 +10574,9 @@
       "meaning": "unsteady or awkward movement",
       "example": [{
         "file": "yoro-1a",
+        "contributor": "",
         "display": "ヨロッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "yoro"
@@ -10605,9 +10604,9 @@
       "meaning": "expressing a difficulty maintaining one's balance",
       "example": [{
         "file": "yura-1a",
+        "contributor": "",
         "display": "ゆらっ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "yura"
@@ -10651,15 +10650,15 @@
         "example": [
           {
             "file": "za-1a",
+            "contributor": "",
             "display": "ザーッ",
-            "source": "bungo",
-            " contributor": ""
+            "source": "bungo"
           },
           {
             "file": "za-1b",
+            "contributor": "",
             "display": "ザァァァ",
-            "source": "hikaro_no_go",
-            " contributor": ""
+            "source": "hikaro_no_go"
           }
         ]
       },
@@ -10673,9 +10672,9 @@
         "meaning": "sound of someone walking, as on grass or gravel",
         "example": [{
           "file": "za-1b",
+          "contributor": "",
           "display": "ザッ",
-          "source": "hikaro_no_go",
-          " contributor": ""
+          "source": "hikaro_no_go"
         }]
       }
     ],
@@ -10701,9 +10700,9 @@
       "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
       "example": [{
         "file": "zaku-1a",
+        "contributor": "",
         "display": "ザクッ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "zaku"
@@ -10728,15 +10727,15 @@
       "example": [
         {
           "file": "zan-1a",
+          "contributor": "",
           "display": "ザン",
-          "source": "hello_work",
-          " contributor": ""
+          "source": "hello_work"
         },
         {
           "file": "zan-1b",
+          "contributor": "",
           "display": "ザンッ",
-          "source": "reincarnated_aristocrat",
-          " contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     }],
@@ -10755,9 +10754,9 @@
       "meaning": "a fast, heavy cut, as with a sword or knife",
       "example": [{
         "file": "zashu-1a",
+        "contributor": "",
         "display": "ザシュ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "zashu"
@@ -10778,9 +10777,9 @@
       "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
       "example": [{
         "file": "zawa_zawa-1a",
+        "contributor": "",
         "display": "ザワ  ザワ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "zawa zawa"
@@ -10804,9 +10803,9 @@
       "meaning": "sound of someone walking, as on grass or gravel",
       "example": [{
         "file": "za_za-1a",
+        "contributor": "",
         "display": "ザッ  ザッ",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "za za"
@@ -10833,9 +10832,9 @@
       "meaning": "the sound of a deep indrawn breath",
       "example": [{
         "file": "ze-1a",
+        "contributor": "",
         "display": "ぜ",
-        "source": "world_full_of_monsters",
-        " contributor": ""
+        "source": "world_full_of_monsters"
       }]
     }],
     "literal": "ze"
@@ -10853,9 +10852,9 @@
       "meaning": "the sound of a deep indrawn breath",
       "example": [{
         "file": "ze_ze-1a",
+        "contributor": "",
         "display": "ぜ  ぜ",
-        "source": "kuma_kuma_kuma_bear",
-        " contributor": ""
+        "source": "kuma_kuma_kuma_bear"
       }]
     }],
     "literal": "ze ze"
@@ -10883,21 +10882,21 @@
       "example": [
         {
           "file": "zoku-1a",
+          "contributor": "",
           "display": "ぞく",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "zoku-1b",
+          "contributor": "",
           "display": "ゾクッ",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "zoku-1c",
+          "contributor": "",
           "display": "ぞくっ",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -10926,9 +10925,9 @@
       "meaning": "a large number of persons or creatures massed together",
       "example": [{
         "file": "zoro-1a",
+        "contributor": "",
         "display": "ぞろっ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "zoro"
@@ -10952,9 +10951,9 @@
       "meaning": "an indication of shaking",
       "example": [{
         "file": "zowa-1a",
+        "contributor": "",
         "display": "ぞわっ",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "zowa"
@@ -10982,9 +10981,9 @@
       "meaning": "something suddenly and quickly moving through the air",
       "example": [{
         "file": "zua-1a",
+        "contributor": "",
         "display": "ズアッ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "zua"
@@ -11008,9 +11007,9 @@
       "meaning": "a cut, as with a sword or knife",
       "example": [{
         "file": "zuba-1a",
+        "contributor": "",
         "display": "ズバッ",
-        "source": "hello_work",
-        " contributor": ""
+        "source": "hello_work"
       }]
     }],
     "literal": "zuba"
@@ -11037,9 +11036,9 @@
       "meaning": "to fall as a result of slipping",
       "example": [{
         "file": "zuda-1a",
+        "contributor": "",
         "display": "ズダダダダ",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "zuda"
@@ -11071,9 +11070,9 @@
         "meaning": "to stare at someone's face, often uncomfortably close",
         "example": [{
           "file": "zui-1a",
+          "contributor": "",
           "display": "ずいっ",
-          "source": "reincarnated_farm_girl",
-          " contributor": ""
+          "source": "reincarnated_farm_girl"
         }]
       },
       {
@@ -11091,9 +11090,9 @@
         "meaning": "to push something toward someone's face, typically in an agressive or sudden manner",
         "example": [{
           "file": "zui-2a",
+          "contributor": "",
           "display": "ずいっ",
-          "source": "different_world_smartphone",
-          " contributor": ""
+          "source": "different_world_smartphone"
         }]
       }
     ],
@@ -11130,15 +11129,15 @@
       "example": [
         {
           "file": "zun-1a",
+          "contributor": "",
           "display": "ずぅぅん",
-          "source": "world_full_of_monsters",
-          " contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
           "file": "zun-1b",
+          "contributor": "",
           "display": "ズーン",
-          "source": "komi_cant_communicate",
-          " contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -11156,9 +11155,9 @@
       "meaning": "to walk quickly, almost a run",
       "example": [{
         "file": "zun_zun-1a",
+        "contributor": "",
         "display": "ずん  ずん",
-        "source": "different_world_smartphone",
-        " contributor": ""
+        "source": "different_world_smartphone"
       }]
     }],
     "literal": "zun zun"
@@ -11174,9 +11173,9 @@
       "meaning": "a series of things or people lined up one after another",
       "example": [{
         "file": "zura-1a",
+        "contributor": "",
         "display": "ズラ",
-        "source": "reincarnated_aristocrat",
-        " contributor": ""
+        "source": "reincarnated_aristocrat"
       }]
     }],
     "literal": "zura"
@@ -11201,9 +11200,9 @@
       "meaning": "the sound of something sliding or being dragged",
       "example": [{
         "file": "zuru-1a",
+        "contributor": "",
         "display": "ズル",
-        "source": "d_genesis",
-        " contributor": ""
+        "source": "d_genesis"
       }]
     }],
     "literal": "zuru"
@@ -11225,9 +11224,9 @@
       "meaning": "a hard impact from a falling or thrown person",
       "example": [{
         "file": "zusha-1a",
+        "contributor": "",
         "display": "ズシャ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "zusha"
@@ -11257,9 +11256,9 @@
       "meaning": "a hard impact from a falling or thrown person",
       "example": [{
         "file": "zuza-1a",
+        "contributor": "",
         "display": "ズザザ",
-        "source": "hanako_24th_ward",
-        " contributor": ""
+        "source": "hanako_24th_ward"
       }]
     }],
     "literal": "zuza"
