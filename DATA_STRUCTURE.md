@@ -1,4 +1,31 @@
-## STRUCTURE
+J-ONO keeps all its data in within two JSON files: a "sources" file (`json/j-ono-source.json`), and a "data" file (`json/j-ono-data.json`).
+
+## SOURCES FILE
+All source records are stored in a single JSON array in the `j-ono-source.json` file.  Image objects within the data file refer to the various sources records.
+```
+[
+  { source record },
+  { source record },
+  ...etc.
+]
+```
+
+## SOURCE RECORD
+* Each Source Record contains...
+  * an "id" string
+  * a "manga" string
+  * a publisher string
+
+Example Soure Record:
+```
+{
+  "id": "different_world_smartphone",
+  "manga": "Isekai wa Smartphone to Tomo ni",
+  "publisher": "KADOKAWA Corp."
+}
+```
+
+## DATA FILE STRUCTURE
 All definition records are stored in a single JSON array in the `j-ono-data.json` file.
 ```
 [
@@ -8,8 +35,6 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 ]
 ```
 
-That's it.  Nothing fancy.
-
 ## DEFINITION RECORD
 * Each Definition Record contains...
   * a "literal" translation string
@@ -17,36 +42,40 @@ That's it.  Nothing fancy.
   * an array of "hiragana" strings
   * an array of "definition" objects
 * Each "definition" object contains...
-  * an english "equivalent" string
+  * an array of english "equivalent" strings
   * a "meaning" string
-  * an array of "example" image filename strings.
+  * an array of "example" objects
+* Each "example" object contains...
+  * a "filename" string
+  * a "contributor" string
+  * a "display" string
+  * a "source" string
 
 Example Definition Record:
 ```
+
 {
-  "literal": "gara",
-  "katakana": [ "ガラ", "ガラッ" ],
-  "hiragana": [ "がら", "がらっ" ],
-  "definition": [
-    {
-      "equivalent": "bang, close, open, shut, slide, slam, swish, swoosh, thump",
-      "meaning": "the sound of a sliding window or sliding door being opened or shut",
-      "example": [ "gara~1a~ガラッ", "gara~1b~ガラッ" ]
-    },
-    {
-      "equivalent": "clatter, clutter, rattle, tumult",
-      "meaning": "the sound of something falling apart, collapsing or settling",
-      "example": [ "gara~2a~ガラッ" ]
-    }
-  ]
+  "literal": "an",
+  "katakana": [ "アン", "アーン" ],
+  "hiragana": [ "あん", "あーん" ],
+  "definition": [{
+    "equivalent": [ "aah", "ahh", "mah", "wah" ],
+    "meaning": "a wide open mouth, as preparing to eat something",
+    "example": [{
+      "file": "an-1a",
+      "contributor": "",
+      "display": "あーん",
+      "source": "otherworld_material_collector"
+    }]
+  }]
 }
+
 ```
 
 ## IMAGE FILE
-* Each Image File is in a folder corresponding to the first letter of its filename.
-* All images are 400 pixels by 400 pixels and contain publisher attribution statements.
-* All image formats are exclusively JPEG (`*.jpg`), for the time being.
-* Naming convention: `[literal]~[unique id]~[display title].jpg`
-  * Underscores are used in lieu of spaces in image filenames.
-  * The `[literal]` and `[unique id]` parts are just for keeping the image files organized.
-  * The `[display title]` part is displayed as the title of the image in the [J-ONO Search](https://j-ono.com/) tool.
+* Each Image File is in a folder corresponding to its source id
+* All images are 400 pixels by 400 pixels
+* All image formats are exclusively JPEG (`*.jpg`), for the time being
+* Naming convention: `[literal]-[unique id]`
+  * Underscores are used in lieu of spaces in the literal string.
+  * The `[unique id]` is merely for the convenience of human-readability - it's two or three characters long and has a number part and a letter part - the number differentiates the images by definition and the letter differentiates them by example.  So an image file with an id of `2c` would be for the third example of the second definition.
