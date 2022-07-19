@@ -215,6 +215,32 @@
   },
   {
     "hiragana": [
+      "ばきん",
+      "ばきんっ"
+    ],
+    "katakana": [
+      "バキン",
+      "バキンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "crack",
+        "crash",
+        "shatter",
+        "smash"
+      ],
+      "meaning": "the sound of something suddenly falling apart or breaking into pieces",
+      "example": [{
+        "file": "bakin-1a",
+        "contributor": "",
+        "display": "バキンッ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "bakin"
+  },
+  {
+    "hiragana": [
       "ばん",
       "ばんっ",
       "ばぁん",
@@ -604,7 +630,7 @@
         "shudder",
         "startle"
       ],
-      "meaning": "an expression surprise or startlement",
+      "meaning": "an expression of surprise or startlement",
       "example": [
         {
           "file": "biku-1a",
@@ -623,6 +649,12 @@
           "contributor": "",
           "display": "ビクッ",
           "source": "komi_cant_communicate"
+        },
+        {
+          "file": "biku-1d",
+          "contributor": "",
+          "display": "ビクゥッ",
+          "source": "abandoned_reincarnation_sage"
         }
       ]
     }],
@@ -1178,33 +1210,6 @@
     "literal": "bufu"
   },
   {
-    "hiragana": [
-      "ぶく",
-      "ぶくっ"
-    ],
-    "katakana": [
-      "ブク",
-      "ブクッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "ascend",
-        "launch",
-        "lift",
-        "rise",
-        "takeoff"
-      ],
-      "meaning": "something large or heavy rising, lifted, or taking flight",
-      "example": [{
-        "file": "buku-1a",
-        "contributor": "",
-        "display": "ブクッ",
-        "source": "hello_work"
-      }]
-    }],
-    "literal": "buku"
-  },
-  {
     "hiragana": ["ぶくぶく"],
     "katakana": ["ブクブク"],
     "definition": [{
@@ -1422,28 +1427,46 @@
       "ブワ",
       "ブワッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bang",
-        "boom",
-        "ka-boom"
-      ],
-      "meaning": "a loud explosion or explosive force",
-      "example": [
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "bang",
+          "boom",
+          "ka-boom"
+        ],
+        "meaning": "a loud explosion or explosive force",
+        "example": [
+          {
+            "file": "buwa-1a",
+            "contributor": "",
+            "display": "ぶわっ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "buwa-1b",
+            "contributor": "",
+            "display": "ブワッ",
+            "source": "world_full_of_monsters"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "ascend",
+          "launch",
+          "woosh",
+          "rise",
+          "takeoff"
+        ],
+        "meaning": "something large or heavy rising or taking flight",
+        "example": [{
           "file": "buwa-1a",
           "contributor": "",
-          "display": "ぶわっ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "buwa-1b",
-          "contributor": "",
           "display": "ブワッ",
-          "source": "world_full_of_monsters"
-        }
-      ]
-    }],
+          "source": "hello_work"
+        }]
+      }
+    ],
     "literal": "buwa"
   },
   {
@@ -1869,12 +1892,20 @@
         "trickle"
       ],
       "meaning": "continously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
-      "example": [{
-        "file": "dara_dara-1a",
-        "contributor": "",
-        "display": "ダラ  ダラ",
-        "source": "komi_cant_communicate"
-      }]
+      "example": [
+        {
+          "file": "dara_dara-1a",
+          "contributor": "",
+          "display": "ダラ  ダラ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "dara_dara-2a",
+          "contributor": "",
+          "display": "だら  だら",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
     }],
     "literal": "dara dara"
   },
@@ -2649,13 +2680,21 @@
         "whaa",
         "yawn"
       ],
-      "meaning": "a deep breath expressing tiredness or boredom",
-      "example": [{
-        "file": "fua-1a",
-        "contributor": "",
-        "display": "ふあああ",
-        "source": "hanako_24th_ward"
-      }]
+      "meaning": "a wide open-mouth yawn expressing tiredness or boredom",
+      "example": [
+        {
+          "file": "fua-1a",
+          "contributor": "",
+          "display": "ふあああ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "fua-1b",
+          "contributor": "",
+          "display": "ふあー",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
     }],
     "literal": "fua"
   },
@@ -3091,6 +3130,32 @@
       }]
     }],
     "literal": "gaha"
+  },
+  {
+    "hiragana": [
+      "がじ",
+      "がじっ"
+    ],
+    "katakana": [
+      "ガジ",
+      "ガジッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "grind",
+        "chew",
+        "gnaw",
+        "bite"
+      ],
+      "meaning": "to bite or chew on something",
+      "example": [{
+        "file": "gaji_1a",
+        "contributor": "",
+        "display": "がじっ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "gaji"
   },
   {
     "hiragana": [
@@ -4715,12 +4780,20 @@
           "squeeze"
         ],
         "meaning": "the act of embracing or hugging",
-        "example": [{
-          "file": "gyu-1a",
-          "contributor": "",
-          "display": "ぎゅう",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "gyu-1a",
+            "contributor": "",
+            "display": "ぎゅう",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "gyu-1b",
+            "contributor": "",
+            "display": "ぎゅっ",
+            "source": "abandoned_reincarnation_sage"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -5051,6 +5124,35 @@
       ]
     }],
     "literal": "hi"
+  },
+  {
+    "hiragana": [
+      "ひし",
+      "ひしっ"
+    ],
+    "katakana": [
+      "ヒシ",
+      "ヒシッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "clasp",
+        "cradle",
+        "embrace",
+        "grasp",
+        "hold",
+        "hug",
+        "squeeze"
+      ],
+      "meaning": "the act of putting one's arms around someone and holding tightly, typically expressing strong emotions",
+      "example": [{
+        "file": "hishi-1a",
+        "contributor": "",
+        "display": "ひしっ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "hishi"
   },
   {
     "hiragana": ["ひそひそ"],
@@ -6247,6 +6349,28 @@
     "literal": "koku"
   },
   {
+    "hiragana": ["こくこく"],
+    "katakana": ["コクコク"],
+    "definition": [{
+      "equivalent": [
+        "agree agree",
+        "nod nod",
+        "okay okay",
+        "yeah yeah",
+        "yep yep",
+        "yes yes"
+      ],
+      "meaning": "repeatedly nodding the head, as expressing agreement or assent",
+      "example": [{
+        "file": "koku_koku-1a",
+        "contributor": "",
+        "display": "コク  コク",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "koku koku"
+  },
+  {
     "hiragana": [
       "こん",
       "こんっ"
@@ -6517,7 +6641,7 @@
       "example": [{
         "file": "kune_kune-1a",
         "contributor": "",
-        "display": "クネ  クネ",
+        "display": "くねくね",
         "source": "komi_cant_communicate"
       }]
     }],
@@ -6876,8 +7000,8 @@
     "literal": "moji"
   },
   {
-    "hiragana": ["もくもく"],
-    "katakana": ["モクモク"],
+    "hiragana": ["もわもわ"],
+    "katakana": ["モワモワ"],
     "definition": [{
       "equivalent": [
         "cloud",
@@ -6892,13 +7016,13 @@
       ],
       "meaning": "a billowing cloud, rolling fog, or smoke",
       "example": [{
-        "file": "moku_moku-1a",
+        "file": "mowa_mowa-1a",
         "contributor": "",
-        "display": "モク  モク",
+        "display": "モワ  モワ",
         "source": "hello_work"
       }]
     }],
-    "literal": "moku moku"
+    "literal": "mowa mowa"
   },
   {
     "hiragana": ["モッモッ"],
@@ -7003,6 +7127,31 @@
       ]
     }],
     "literal": "mumu"
+  },
+  {
+    "hiragana": ["むにゃ"],
+    "katakana": ["ムニャ"],
+    "definition": [{
+      "equivalent": [
+        "fondle",
+        "touch",
+        "squeeze",
+        "caress",
+        "pat",
+        "pet",
+        "stroke",
+        "knead",
+        "feel"
+      ],
+      "meaning": "to touch, fondle, or squeeze someone else",
+      "example": [{
+        "file": "munya-1a",
+        "contributor": "",
+        "display": "ムニャ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "munya"
   },
   {
     "hiragana": ["むにゃむにゃ"],
@@ -7212,6 +7361,29 @@
       }]
     }],
     "literal": "o"
+  },
+  {
+    "hiragana": ["おろおろ"],
+    "katakana": ["オロオロ"],
+    "definition": [{
+      "equivalent": [
+        "dread",
+        "fear",
+        "fright",
+        "horror",
+        "panic",
+        "scare",
+        "terror"
+      ],
+      "meaning": "an expression of surprise, fear, or panic",
+      "example": [{
+        "file": "oro_oro-1a",
+        "contributor": "",
+        "display": "オロ  オロ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "oro oro"
   },
   {
     "hiragana": [
@@ -7777,6 +7949,31 @@
     "literal": "peko"
   },
   {
+    "hiragana": ["ぺこぺこ"],
+    "katakana": ["ペコペコ"],
+    "definition": [{
+      "equivalent": [
+        "abase",
+        "grovel grovel",
+        "fawn fawn",
+        "humble humble",
+        "bow bow",
+        "suck up",
+        "bootlick",
+        "truckle truckle",
+        "kneel kneel"
+      ],
+      "meaning": "to bow, grovel or otherwise ingratiate  oneself with a superior",
+      "example": [{
+        "file": "peko_peko-1a",
+        "contributor": "",
+        "display": "ペコ  ペコ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "peko peko"
+  },
+  {
     "hiragana": [
       "ぺろ",
       "ぺろっ"
@@ -7942,6 +8139,25 @@
     "literal": "pika"
   },
   {
+    "hiragana": ["ぴきぴき"],
+    "katakana": ["ピキピキ"],
+    "definition": [{
+      "equivalent": [
+        "crackle crackle",
+        "pop pop",
+        "snap snap"
+      ],
+      "meaning": "the continuous sound of cracking or popping, as from something about to break",
+      "example": [{
+        "file": "piki_piki-1a",
+        "contributor": "",
+        "display": "ピキ  ピキ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "piki piki"
+  },
+  {
     "hiragana": [
       "ぴこん",
       "ぴこーん"
@@ -8076,12 +8292,20 @@
           "split"
         ],
         "meaning": "the sound of something suddenly breaking",
-        "example": [{
-          "file": "pishi-1a",
-          "contributor": "",
-          "display": "ピシッ",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "pishi-1a",
+            "contributor": "",
+            "display": "ピシッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "pishi-1b",
+            "contributor": "",
+            "display": "ピシッ",
+            "source": "abandoned_reincarnation_sage"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -8356,12 +8580,20 @@
         "stroke stroke"
       ],
       "meaning": "to continuously pat or stroke in a gentle manner",
-      "example": [{
-        "file": "pon_pon-1a",
-        "contributor": "",
-        "display": "ポン  ポン",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "file": "pon_pon-1a",
+          "contributor": "",
+          "display": "ポン  ポン",
+          "source": "hello_work"
+        },
+        {
+          "file": "pon_pon_1b",
+          "contributor": "",
+          "display": "ポン  ポン",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
     }],
     "literal": "pon pon"
   },
@@ -9615,22 +9847,43 @@
       "ター",
       "ターッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bolt",
-        "bound",
-        "jump",
-        "leap",
-        "vault"
-      ],
-      "meaning": "to quickly or suddenly jump",
-      "example": [{
-        "file": "ta-1a",
-        "contributor": "",
-        "display": "タッ",
-        "source": "world_full_of_monsters"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "bolt",
+          "bound",
+          "jump",
+          "leap",
+          "vault"
+        ],
+        "meaning": "to quickly or suddenly jump",
+        "example": [{
+          "file": "ta-1a",
+          "contributor": "",
+          "display": "タッ",
+          "source": "world_full_of_monsters"
+        }]
+      },
+      {
+        "equivalent": [
+          "bolt",
+          "charge",
+          "dash",
+          "hurry",
+          "pelt",
+          "run",
+          "rush",
+          "sprint"
+        ],
+        "meaning": "to run or start running",
+        "example": [{
+          "file": "ta-2a",
+          "contributor": "",
+          "display": "たっ",
+          "source": "abandoned_reincarnation_sage"
+        }]
+      }
+    ],
     "literal": "ta"
   },
   {
@@ -10417,7 +10670,8 @@
       "わぁ",
       "わぁっ",
       "わぁぁ",
-      "わぁぁぁ"
+      "わぁぁぁ",
+      "わーっ"
     ],
     "katakana": [
       "ワ",
@@ -10429,7 +10683,8 @@
       "ワァ",
       "ワァッ",
       "ワァァ",
-      "ワァァァ"
+      "ワァァァ",
+      "ワーッ"
     ],
     "definition": [{
       "equivalent": [
@@ -10461,6 +10716,12 @@
           "contributor": "",
           "display": "ワァァァ",
           "source": "komi_cant_communicate"
+        },
+        {
+          "file": "wa-1d",
+          "contributor": "",
+          "display": "わーっ",
+          "source": "abandoned_reincarnation_sage"
         }
       ]
     }],
@@ -10664,10 +10925,10 @@
         ],
         "meaning": "sound of someone walking, as on grass or gravel",
         "example": [{
-          "file": "za-1b",
+          "file": "za-1a",
           "contributor": "",
           "display": "ザッ",
-          "source": "hikaro_no_go"
+          "source": "dog_became_strongest"
         }]
       }
     ],
@@ -10768,12 +11029,20 @@
         "ruckus"
       ],
       "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-      "example": [{
-        "file": "zawa_zawa-1a",
-        "contributor": "",
-        "display": "ザワ  ザワ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "zawa_zawa-1a",
+          "contributor": "",
+          "display": "ザワ  ザワ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "zawa_zawa-1b",
+          "contributor": "",
+          "display": "ザワ  ザワ",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
     }],
     "literal": "zawa zawa"
   },
@@ -10794,12 +11063,20 @@
         "walk"
       ],
       "meaning": "sound of someone walking, as on grass or gravel",
-      "example": [{
-        "file": "za_za-1a",
-        "contributor": "",
-        "display": "ザッ  ザッ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "za_za-1a",
+          "contributor": "",
+          "display": "ザッ  ザッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "za_za-1b",
+          "contributor": "",
+          "display": "ザッ  ザッ",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
     }],
     "literal": "za za"
   },
@@ -11172,6 +11449,26 @@
       }]
     }],
     "literal": "zura"
+  },
+  {
+    "hiragana": ["ずりずり"],
+    "katakana": ["ズリズリ"],
+    "definition": [{
+      "equivalent": [
+        "drag drag",
+        "move move",
+        "pull pull",
+        "slide slide"
+      ],
+      "meaning": "to repeatedly slide or drag something",
+      "example": [{
+        "file": "zuri_zuri-1a",
+        "contributor": "",
+        "display": "ズリズリ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "zuri zuri"
   },
   {
     "hiragana": [
