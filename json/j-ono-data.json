@@ -2707,19 +2707,12 @@
         "wobble"
       ],
       "meaning": "an indication of shaking or wobbling",
-      "example": [
-        {
-          "file": "fura_fura-1a",
-          "contributor": "",
-          "display": "フラ  フラ"
-        },
-        {
-          "file": "fura_fura-1b",
-          "contributor": "",
-          "display": "フラ  フラ",
-          "source": "otherworld_material_collector"
-        }
-      ]
+      "example": [{
+        "file": "fura_fura-1a",
+        "contributor": "",
+        "display": "フラ  フラ",
+        "source": "otherworld_material_collector"
+      }]
     }],
     "literal": "fura fura"
   },
@@ -9269,7 +9262,7 @@
           },
           {
             "file": "su-2c",
-            "contributor": "Nightbug",
+            "contributor": "",
             "display": "ス",
             "source": "d_genesis"
           }
