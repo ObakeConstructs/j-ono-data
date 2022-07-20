@@ -312,12 +312,20 @@
           "swish"
         ],
         "meaning": "soft sounds of cloth or paper movement",
-        "example": [{
-          "file": "basa-1a",
-          "contributor": "",
-          "display": "バサ",
-          "source": "hello_work"
-        }]
+        "example": [
+          {
+            "file": "basa-1a",
+            "contributor": "",
+            "display": "バサ",
+            "source": "hello_work"
+          },
+          {
+            "file": "basa-1b",
+            "contributor": "",
+            "display": "バサ",
+            "source": "weakest_occupation_blacksmith"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -1669,12 +1677,20 @@
         "tinkle"
       ],
       "meaning": "a sharp light sound of rattling metal or glass",
-      "example": [{
-        "file": "chari-1a",
-        "contributor": "",
-        "display": "チャリリリ",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "file": "chari-1a",
+          "contributor": "",
+          "display": "チャリリリ",
+          "source": "hello_work"
+        },
+        {
+          "file": "chari-1b",
+          "contributor": "",
+          "display": "チャリ",
+          "source": "weakest_occupation_blacksmith"
+        }
+      ]
     }],
     "literal": "chari"
   },
@@ -2837,6 +2853,26 @@
       }]
     }],
     "literal": "furo furo"
+  },
+  {
+    "hiragana": ["ふるふる"],
+    "katakana": ["フルフル"],
+    "definition": [{
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "meaning": "an indication of shaking",
+      "example": [{
+        "file": "furu_furu-1a",
+        "contributor": "",
+        "display": "フル  フル",
+        "source": "weakest_occupation_blacksmith"
+      }]
+    }],
+    "literal": "furu furu"
   },
   {
     "hiragana": [
@@ -6089,6 +6125,29 @@
     "literal": "katsun"
   },
   {
+    "hiragana": ["けたけた"],
+    "katakana": ["ケタケタ"],
+    "definition": [{
+      "equivalent": [
+        "chortle chortle",
+        "chuckle chuckle",
+        "giggle giggle",
+        "hee hee",
+        "laugh laugh",
+        "snicker snicker",
+        "titter titter"
+      ],
+      "meaning": "a light laugh or giggle",
+      "example": [{
+        "file": "keta_keta-1a",
+        "contributor": "",
+        "display": "ケタ  ケタ",
+        "source": "weakest_occupation_blacksmith"
+      }]
+    }],
+    "literal": "keta keta"
+  },
+  {
     "hiragana": [
       "き",
       "き",
@@ -6317,12 +6376,20 @@
         "rasp"
       ],
       "meaning": "to cough or to make a noise like a cough",
-      "example": [{
-        "file": "kohon-1a",
-        "contributor": "",
-        "display": "コホン",
-        "source": "komi_cant_communicate"
-      }]
+      "example": [
+        {
+          "file": "kohon-1a",
+          "contributor": "",
+          "display": "コホン",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "kohon-1b",
+          "contributor": "",
+          "display": "コホン",
+          "source": "weakest_occupation_blacksmith"
+        }
+      ]
     }],
     "literal": "kohon"
   },
@@ -6846,6 +6913,27 @@
     "literal": "kyan"
   },
   {
+    "hiragana": ["きょろきょろ"],
+    "katakana": ["キョロキョロ"],
+    "definition": [{
+      "equivalent": [
+        "search search",
+        "look look",
+        "glance glance",
+        "glimpse glimpse",
+        "view view"
+      ],
+      "meaning": "to look around or search hastily",
+      "example": [{
+        "file": "kyoro_kyoro-1a",
+        "contributor": "",
+        "display": "キョロ  キョロ",
+        "source": "weakest_occupation_blacksmith"
+      }]
+    }],
+    "literal": "kyoro kyoro"
+  },
+  {
     "hiragana": [
       "きゅ",
       "きゅっ",
@@ -7196,11 +7284,15 @@
   {
     "hiragana": [
       "にこ",
-      "にこっ"
+      "にこっ",
+      "にこオ",
+      "にこォ"
     ],
     "katakana": [
       "ニコ",
-      "ニコッ"
+      "ニコッ",
+      "ニコオ",
+      "ニコォ"
     ],
     "definition": [{
       "equivalent": [
@@ -7222,6 +7314,12 @@
           "contributor": "",
           "display": "にこっ",
           "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "niko-1c",
+          "contributor": "",
+          "display": "ニコォ",
+          "source": "weakest_occupation_blacksmith"
         }
       ]
     }],
@@ -7462,31 +7560,48 @@
       "パチ",
       "パチッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "clack",
-        "click",
-        "clink",
-        "snap",
-        "tap",
-        "tick"
-      ],
-      "meaning": "the sound of a short sharp click, as with placing a piece on a go board",
-      "example": [
-        {
-          "file": "pachi-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "clack",
+          "click",
+          "clink",
+          "snap",
+          "tap",
+          "tick"
+        ],
+        "meaning": "the sound of a short sharp click, as with placing a piece on a go board",
+        "example": [
+          {
+            "file": "pachi-1a",
+            "contributor": "",
+            "display": "ぱちっ",
+            "source": "hikaro_no_go"
+          },
+          {
+            "file": "pachi-1b",
+            "contributor": "",
+            "display": "パチッ",
+            "source": "hikaro_no_go"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "open",
+          "snap",
+          "blink",
+          "squint"
+        ],
+        "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
+        "example": [{
+          "file": "pachi-2a",
           "contributor": "",
-          "display": "ぱちっ",
-          "source": "hikaro_no_go"
-        },
-        {
-          "file": "pachi-1b",
-          "contributor": "",
-          "display": "パチッ",
-          "source": "hikaro_no_go"
-        }
-      ]
-    }],
+          "display": "パチ",
+          "source": "weakest_occupation_blacksmith"
+        }]
+      }
+    ],
     "literal": "pachi"
   },
   {
@@ -7972,6 +8087,27 @@
       }]
     }],
     "literal": "peko peko"
+  },
+  {
+    "hiragana": ["ぺらぺら"],
+    "katakana": ["ペラペラ"],
+    "definition": [{
+      "equivalent": [
+        "articulate",
+        "eloquent",
+        "glib glib",
+        "talk talk",
+        "verbose"
+      ],
+      "meaning": "to speak in a fluent and polished manner",
+      "example": [{
+        "file": "pera_pera-1a",
+        "contributor": "",
+        "display": "ペラ  ペラ  ペラ",
+        "source": "weakest_occupation_blacksmith"
+      }]
+    }],
+    "literal": "pera pera"
   },
   {
     "hiragana": [
@@ -9111,23 +9247,41 @@
       "サッサッ",
       "サササッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "back up",
-        "hide",
-        "pull back",
-        "relent",
-        "retreat",
-        "scoot"
-      ],
-      "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
-      "example": [{
-        "file": "sa_sa-1a",
-        "contributor": "",
-        "display": "ササ  ササッ",
-        "source": "world_full_of_monsters"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "back up",
+          "hide",
+          "pull back",
+          "relent",
+          "retreat",
+          "scoot"
+        ],
+        "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
+        "example": [{
+          "file": "sa_sa-1a",
+          "contributor": "",
+          "display": "ササササッ",
+          "source": "world_full_of_monsters"
+        }]
+      },
+      {
+        "equivalent": [
+          "swish swish",
+          "swoosh swoosh",
+          "brush brush",
+          "sweep sweep",
+          "scritch scritch"
+        ],
+        "meaning": "a repeated soft brushing sound",
+        "example": [{
+          "file": "sa_sa-2a",
+          "contributor": "",
+          "display": "サッ  サッ",
+          "source": "weakest_occupation_blacksmith"
+        }]
+      }
+    ],
     "literal": "sa sa"
   },
   {
@@ -9904,12 +10058,20 @@
         "thunk"
       ],
       "meaning": "the sound of a light impact",
-      "example": [{
-        "file": "tan-1a",
-        "contributor": "",
-        "display": "タン",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "file": "tan-1a",
+          "contributor": "",
+          "display": "タン",
+          "source": "hello_work"
+        },
+        {
+          "file": "tan-1b",
+          "contributor": "",
+          "display": "タンッ",
+          "source": "weakest_occupation_blacksmith"
+        }
+      ]
     }],
     "literal": "tan"
   },
@@ -10010,6 +10172,35 @@
       }]
     }],
     "literal": "teku teku"
+  },
+  {
+    "hiragana": [
+      "てて",
+      "てってっ"
+    ],
+    "katakana": [
+      "テテ",
+      "テッテッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bound bound",
+        "dash dash",
+        "gallop",
+        "lope lope",
+        "run run",
+        "sprint sprint",
+        "trot trot"
+      ],
+      "meaning": "to run lightly",
+      "example": [{
+        "file": "te_te-1a",
+        "contributor": "",
+        "display": "テッ  テッ",
+        "source": "weakest_occupation_blacksmith"
+      }]
+    }],
+    "literal": "te te"
   },
   {
     "hiragana": [
