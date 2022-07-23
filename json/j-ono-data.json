@@ -2716,6 +2716,36 @@
   },
   {
     "hiragana": [
+      "ふん",
+      "ふんっ"
+    ],
+    "katakana": [
+      "フン",
+      "フンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "grunt",
+        "groan",
+        "hmph",
+        "humph",
+        "gah",
+        "har",
+        "urgh",
+        "arg"
+      ],
+      "meaning": "the short sound of a grunt or a groan, may express strain, frustration, distress, or used as an offensive dismissal",
+      "example": [{
+        "file": "fun-1a",
+        "contributor": "",
+        "display": "フンッ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "fun"
+  },
+  {
+    "hiragana": [
       "ふら",
       "ふらっ"
     ],
@@ -6924,12 +6954,20 @@
         "view view"
       ],
       "meaning": "to look around or search hastily",
-      "example": [{
-        "file": "kyoro_kyoro-1a",
-        "contributor": "",
-        "display": "キョロ  キョロ",
-        "source": "weakest_occupation_blacksmith"
-      }]
+      "example": [
+        {
+          "file": "kyoro_kyoro-1a",
+          "contributor": "",
+          "display": "キョロ  キョロ",
+          "source": "weakest_occupation_blacksmith"
+        },
+        {
+          "file": "kyoro_kyoro-1b",
+          "contributor": "",
+          "display": "キョロ  キョロ",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
     }],
     "literal": "kyoro kyoro"
   },
@@ -7215,6 +7253,33 @@
       ]
     }],
     "literal": "mumu"
+  },
+  {
+    "hiragana": [
+      "むん",
+      "むんっ"
+    ],
+    "katakana": [
+      "ムン",
+      "ムンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "hngh",
+        "urgh",
+        "effort",
+        "strain",
+        "exert"
+      ],
+      "meaning": "an expression of forceful exertion",
+      "example": [{
+        "file": "mun-1a",
+        "contributor": "",
+        "display": "ムンッ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "mun"
   },
   {
     "hiragana": ["むにゃ"],
@@ -7594,12 +7659,20 @@
           "squint"
         ],
         "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
-        "example": [{
-          "file": "pachi-2a",
-          "contributor": "",
-          "display": "パチ",
-          "source": "weakest_occupation_blacksmith"
-        }]
+        "example": [
+          {
+            "file": "pachi-2a",
+            "contributor": "",
+            "display": "パチ",
+            "source": "weakest_occupation_blacksmith"
+          },
+          {
+            "file": "pachi-2b",
+            "contributor": "",
+            "display": "ぱちっ",
+            "source": "abandoned_reincarnation_sage"
+          }
+        ]
       }
     ],
     "literal": "pachi"
@@ -8877,11 +8950,19 @@
   {
     "hiragana": [
       "ぷ",
-      "ぷっ"
+      "ぷっ",
+      "ぷう",
+      "ぷうう",
+      "ぷううー",
+      "ぷぅ"
     ],
     "katakana": [
       "プ",
-      "プッ"
+      "プッ",
+      "プウ",
+      "プウウ",
+      "プウウー",
+      "プゥ"
     ],
     "definition": [
       {
@@ -8915,6 +8996,21 @@
           "contributor": "",
           "display": "プッ",
           "source": "dog_became_strongest"
+        }]
+      },
+      {
+        "equivalent": [
+          "fart",
+          "honk",
+          "puff",
+          "toot"
+        ],
+        "meaning": "a harsh, unpleasant sound, as from a horn or flatulence",
+        "example": [{
+          "file": "pu-3a",
+          "contributor": "",
+          "display": "プゥゥー",
+          "source": "abandoned_reincarnation_sage"
         }]
       }
     ],
@@ -9814,6 +9910,32 @@
   },
   {
     "hiragana": [
+      "すぴ",
+      "すぴー"
+    ],
+    "katakana": [
+      "スピ",
+      "スピー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "beath",
+        "huff",
+        "whiff",
+        "zzz"
+      ],
+      "meaning": "soft breathing while sleeping or quietly snoring",
+      "example": [{
+        "file": "supi-1a",
+        "contributor": "",
+        "display": "すぴー",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "supi"
+  },
+  {
+    "hiragana": [
       "すた",
       "すたっ"
     ],
@@ -10148,6 +10270,38 @@
       }]
     }],
     "literal": "tata tata"
+  },
+  {
+    "hiragana": [
+      "てか",
+      "てかー"
+    ],
+    "katakana": [
+      "テカ",
+      "テカー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "shine",
+        "sparkle",
+        "shimmer",
+        "bedazzle",
+        "twinkle",
+        "flash",
+        "glare",
+        "gleam",
+        "glisten",
+        "sheen"
+      ],
+      "meaning": "to shine or sparkle brigthly, often used humorously for a shiny bald head",
+      "example": [{
+        "file": "teka-1a",
+        "contributor": "",
+        "display": "テカー",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "teka"
   },
   {
     "hiragana": ["てくてく"],
@@ -10919,6 +11073,29 @@
     "literal": "wa"
   },
   {
+    "hiragana": ["わいわい"],
+    "katakana": ["ワイワイ"],
+    "definition": [{
+      "equivalent": [
+        "babel babel",
+        "blah blah",
+        "bustle bustle",
+        "cacophony",
+        "chatter chatter",
+        "clamor clamor",
+        "hubbub"
+      ],
+      "meaning": "the sound of multiple people talking simultaneously",
+      "example": [{
+        "file": "wai_wai-1a",
+        "contributor": "",
+        "display": "わい  わい",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }],
+    "literal": "wai wai"
+  },
+  {
     "hiragana": ["わくわく"],
     "katakana": ["ワクワク"],
     "definition": [{
@@ -11529,12 +11706,20 @@
           "study"
         ],
         "meaning": "to stare at someone's face, often uncomfortably close",
-        "example": [{
-          "file": "zui-1a",
-          "contributor": "",
-          "display": "ずいっ",
-          "source": "reincarnated_farm_girl"
-        }]
+        "example": [
+          {
+            "file": "zui-1a",
+            "contributor": "",
+            "display": "ずいっ",
+            "source": "reincarnated_farm_girl"
+          },
+          {
+            "file": "zui-1b",
+            "contributor": "",
+            "display": "ずい",
+            "source": "abandoned_reincarnation_sage"
+          }
+        ]
       },
       {
         "equivalent": [
