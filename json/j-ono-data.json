@@ -1358,6 +1358,26 @@
     "literal": "buru"
   },
   {
+    "hiragana": ["ぶるんぶるん"],
+    "katakana": ["ブルンブルン"],
+    "definition": [{
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "meaning": "an indication of bouncing or shaking, often associated with breasts and fan service",
+      "example": [{
+        "file": "burun_burun-1a",
+        "contributor": "",
+        "display": "ぶるん  ぶるん",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "burun burun"
+  },
+  {
     "hiragana": [
       "ぶるぶる",
       "ぶるぶるっ"
@@ -1773,6 +1793,29 @@
       ]
     }],
     "literal": "chira"
+  },
+  {
+    "hiragana": ["ちゅんちゅん"],
+    "katakana": ["チュンチュン"],
+    "definition": [{
+      "equivalent": [
+        "chirp chirp",
+        "peep peep",
+        "cheep cheep",
+        "pip pip",
+        "tweet tweet",
+        "trill trill",
+        "warble warble"
+      ],
+      "meaning": "a series of short sharp sound, as from a small bird",
+      "example": [{
+        "file": "chun_chun-1a",
+        "contributor": "",
+        "display": "チュン  チュン",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "chun chun"
   },
   {
     "hiragana": [
@@ -2743,6 +2786,26 @@
       }]
     }],
     "literal": "fun"
+  },
+  {
+    "hiragana": ["ふんふん"],
+    "katakana": ["フンフン"],
+    "definition": [{
+      "equivalent": [
+        "smell smell",
+        "sniff sniff",
+        "snuff snuff",
+        "whiff whiff"
+      ],
+      "meaning": "to repeatedly smell or sniff something",
+      "example": [{
+        "file": "fun_fun-1a",
+        "contributor": "",
+        "display": "ふん  ふん  ふん",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "fun fun"
   },
   {
     "hiragana": [
@@ -3853,34 +3916,82 @@
           "screech",
           "squeak",
           "squeal",
-          "squee"
+          "squee",
+          "creak",
+          "shriek"
         ],
-        "meaning": "the cry of a small animal",
+        "meaning": "a high pitched squeak or squeal, as from a squeaky door, an old chair or a small animalthe cry of a small animal",
+        "example": [
+          {
+            "file": "gi-2a",
+            "contributor": "",
+            "display": "ギィィィィッ",
+            "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "gi-2b",
+            "contributor": "",
+            "display": "ギィ",
+            "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "gi-2c",
+            "contributor": "",
+            "display": "ギ",
+            "source": "s_rank_behemoth"
+          }
+        ]
+      }
+    ],
+    "literal": "gi"
+  },
+  {
+    "hiragana": [
+      "ぎぎ",
+      "ぎぎぎ",
+      "ぎぎぎぎ"
+    ],
+    "katakana": [
+      "ギギ",
+      "ギギギ",
+      "ギギギギ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "clench",
+          "gnash",
+          "grind",
+          "grit"
+        ],
+        "meaning": "an expression of grinding one's teeth, as in pain or frustration",
         "example": [{
-          "file": "gi-2a",
+          "file": "gigi-1a",
           "contributor": "",
-          "display": "ギィィィィッ",
-          "source": "reincarnated_aristocrat"
+          "display": "ギギ",
+          "source": "different_world_smartphone"
         }]
       },
       {
         "equivalent": [
           "creak",
+          "cry",
           "screech",
           "shriek",
           "squeak",
-          "squeal"
+          "squeal",
+          "squee"
         ],
-        "meaning": "a creaking noise, as from a door or old chair",
+        "meaning": "a series of squeak or squeals, as from a door, an old chair, or a small animal",
         "example": [{
-          "file": "gi-3a",
+          "file": "gigi-2a",
           "contributor": "",
-          "display": "ギィ",
-          "source": "reincarnated_aristocrat"
+          "display": "ギギ",
+          "source": "s_rank_behemoth"
         }]
       }
     ],
-    "literal": "gi"
+    "literal": "gigi"
   },
   {
     "hiragana": [
@@ -4048,34 +4159,6 @@
   },
   {
     "hiragana": [
-      "ぎぎ",
-      "ぎぎぎ",
-      "ぎぎぎぎ"
-    ],
-    "katakana": [
-      "ギギ",
-      "ギギギ",
-      "ギギギギ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "clench",
-        "gnash",
-        "grind",
-        "grit"
-      ],
-      "meaning": "an expression of grinding one's teeth, as in pain or frustration",
-      "example": [{
-        "file": "gi_gi-1a",
-        "contributor": "",
-        "display": "ギ  ギ",
-        "source": "different_world_smartphone"
-      }]
-    }],
-    "literal": "gi gi"
-  },
-  {
-    "hiragana": [
       "ご",
       "ごっ",
       "ごー",
@@ -4172,12 +4255,20 @@
           "fwoosh"
         ],
         "meaning": "the sound of being on fire and burning fiercely",
-        "example": [{
-          "file": "go-3a",
-          "contributor": "",
-          "display": "ゴォォ",
-          "source": "different_world_smartphone"
-        }]
+        "example": [
+          {
+            "file": "go-3a",
+            "contributor": "",
+            "display": "ゴォォ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "go-3b",
+            "contributor": "",
+            "display": "ゴ",
+            "source": "s_rank_behemoth"
+          }
+        ]
       }
     ],
     "literal": "go"
@@ -5083,6 +5174,26 @@
       }
     ],
     "literal": "ha"
+  },
+  {
+    "hiragana": ["はむ"],
+    "katakana": ["ハム"],
+    "definition": [{
+      "equivalent": [
+        "bite",
+        "chew",
+        "gnaw",
+        "grind"
+      ],
+      "meaning": "to bite or chew on something",
+      "example": [{
+        "file": "hamu-1a",
+        "contributor": "",
+        "display": "はむ",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "hamu"
   },
   {
     "hiragana": [
@@ -6302,6 +6413,33 @@
     "literal": "kira"
   },
   {
+    "hiragana": [
+      "きらん",
+      "きらーん"
+    ],
+    "katakana": [
+      "キラン",
+      "キラーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ching",
+        "jing",
+        "shaa",
+        "shing",
+        "glint"
+      ],
+      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "example": [{
+        "file": "kiran-1a",
+        "contributor": "",
+        "display": "キラーン",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "kiran"
+  },
+  {
     "hiragana": ["きらきら"],
     "katakana": ["キラキラ"],
     "definition": [{
@@ -7038,6 +7176,33 @@
   },
   {
     "hiragana": [
+      "きゅる",
+      "きゅるる",
+      "きゅるるる"
+    ],
+    "katakana": [
+      "キュル",
+      "キュルル",
+      "キュルルル"
+    ],
+    "definition": [{
+      "equivalent": [
+        "growl",
+        "grumble",
+        "rumble"
+      ],
+      "meaning": "a low, rumbling noise, as with a growling stomach",
+      "example": [{
+        "file": "kyuru-1a",
+        "contributor": "",
+        "display": "きゅるる",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "kyuru"
+  },
+  {
+    "hiragana": [
       "みし",
       "みしっ"
     ],
@@ -7326,6 +7491,29 @@
     "literal": "munya munya"
   },
   {
+    "hiragana": ["むにゅん"],
+    "katakana": ["むニュン"],
+    "definition": [{
+      "equivalent": [
+        "soft",
+        "squishy",
+        "sqoosh",
+        "squish",
+        "flacid",
+        "flesh",
+        "supple"
+      ],
+      "meaning": "soft and pliable, often in reference to female breasts",
+      "example": [{
+        "file": "munyun-1a",
+        "contributor": "",
+        "display": "むにゅん",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "munyun"
+  },
+  {
     "hiragana": ["なでなで"],
     "katakana": ["ナデナデ"],
     "definition": [{
@@ -7337,12 +7525,20 @@
         "stroke stroke"
       ],
       "meaning": "to stroke someting in a tender manner",
-      "example": [{
-        "file": "nade_nade-1a",
-        "contributor": "",
-        "display": "ナデ  ナデ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "nade_nade-1a",
+          "contributor": "",
+          "display": "ナデ  ナデ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "nade_nade-1b",
+          "contributor": "",
+          "display": "なで  なで",
+          "source": "s_rank_behemoth"
+        }
+      ]
     }],
     "literal": "nade nade"
   },
@@ -8208,6 +8404,25 @@
     "literal": "pero"
   },
   {
+    "hiragana": ["ぺろぺろ"],
+    "katakana": ["ペロペロ"],
+    "definition": [{
+      "equivalent": [
+        "lap lap",
+        "lick lick",
+        "slurp slurp"
+      ],
+      "meaning": "the sound of a tongue licking something",
+      "example": [{
+        "file": "pero_pero-1a",
+        "contributor": "",
+        "display": "ぺろ  ぺろ",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "pero pero"
+  },
+  {
     "hiragana": [
       "ぺし",
       "ぺしっ"
@@ -8310,6 +8525,25 @@
       }]
     }],
     "literal": "pichan"
+  },
+  {
+    "hiragana": ["ぴちょん"],
+    "katakana": ["ピチョン"],
+    "definition": [{
+      "equivalent": [
+        "drip",
+        "plink",
+        "drop"
+      ],
+      "meaning": "the sound of a single drip of fluid",
+      "example": [{
+        "file": "pichon-1a",
+        "contributor": "",
+        "display": "ぴちょん",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "pichon"
   },
   {
     "hiragana": [
@@ -8443,6 +8677,19 @@
           "contributor": "",
           "display": "ピク",
           "source": "d_genesis"
+        }]
+      },
+      {
+        "equivalent": [
+          "blink",
+          "squint"
+        ],
+        "meaning": "to rapidly open and close one's eyes, as from slumber",
+        "example": [{
+          "file": "piku-3a",
+          "contributor": "",
+          "display": "ぴく",
+          "source": "s_rank_behemoth"
         }]
       }
     ],
@@ -9074,6 +9321,26 @@
     "literal": "pui"
   },
   {
+    "hiragana": ["ぷるぷる"],
+    "katakana": ["プルプル"],
+    "definition": [{
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "meaning": "an indication of shaking, as from cold, fear, or effort",
+      "example": [{
+        "file": "puru_puru-1a",
+        "contributor": "",
+        "display": "ぷる  ぷる",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "puru puru"
+  },
+  {
     "hiragana": [
       "ぷしゅー",
       "ぷしゅーっ"
@@ -9194,6 +9461,28 @@
       }]
     }],
     "literal": "pyu"
+  },
+  {
+    "hiragana": ["ぴゅん"],
+    "katakana": ["ピュン"],
+    "definition": [{
+      "equivalent": [
+        "pyu",
+        "whiz",
+        "zip",
+        "fwip",
+        "fwit",
+        "whish"
+      ],
+      "meaning": "an indication of something moving at high speed throug the air",
+      "example": [{
+        "file": "pyun-1a",
+        "contributor": "",
+        "display": "ピュン",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "pyun"
   },
   {
     "hiragana": [
