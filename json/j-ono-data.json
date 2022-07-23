@@ -9321,6 +9321,27 @@
     "literal": "pui"
   },
   {
+    "hiragana": ["ぷるん"],
+    "katakana": ["プルン"],
+    "definition": [{
+      "equivalent": [
+        "boing",
+        "jiggle",
+        "wobble",
+        "quiver",
+        "shake"
+      ],
+      "meaning": "a small irregular movement",
+      "example": [{
+        "file": "purun-1a",
+        "contributor": "",
+        "display": "ぷるん",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "purun"
+  },
+  {
     "hiragana": ["ぷるぷる"],
     "katakana": ["プルプル"],
     "definition": [{
