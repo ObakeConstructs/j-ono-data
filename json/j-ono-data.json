@@ -867,22 +867,50 @@
       "ボー",
       "ボーッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "blaze",
-        "burn",
-        "fwoosh",
-        "ignite",
-        "torch"
-      ],
-      "meaning": "to set on fire or to be on fire",
-      "example": [{
-        "file": "bo-1a",
-        "contributor": "",
-        "display": "ボッ",
-        "source": "different_world_smartphone"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "blaze",
+          "burn",
+          "fwoosh",
+          "ignite",
+          "torch"
+        ],
+        "meaning": "to set on fire or to be on fire",
+        "example": [{
+          "file": "bo-1a",
+          "contributor": "",
+          "display": "ボッ",
+          "source": "different_world_smartphone"
+        }]
+      },
+      {
+        "equivalent": [
+          "languid",
+          "listless",
+          "lethargic",
+          "groggy",
+          "relaxed",
+          "sluggish",
+          "dopey",
+          "drowsey",
+          "day-dream",
+          "dozy",
+          "spacey",
+          "distracted",
+          "dreamy",
+          "vacant",
+          "hazy"
+        ],
+        "meaning": "an indication of a lack of mental enery or a lack of attention",
+        "example": [{
+          "file": "bo-2a",
+          "contributor": "",
+          "display": "ぼー",
+          "source": "s_rank_behemoth"
+        }]
+      }
+    ],
     "literal": "bo"
   },
   {
@@ -9440,12 +9468,20 @@
         "vault"
       ],
       "meaning": "the act of leaping into the air",
-      "example": [{
-        "file": "pyon-1a",
-        "contributor": "",
-        "display": "ピョン",
-        "source": "komi_cant_communicate"
-      }]
+      "example": [
+        {
+          "file": "pyon-1a",
+          "contributor": "",
+          "display": "ピョン",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "pyon-1b",
+          "contributor": "",
+          "display": "ぴょん",
+          "source": "s_rank_behemoth"
+        }
+      ]
     }],
     "literal": "pyon"
   },
@@ -10764,7 +10800,8 @@
         "knock",
         "tap",
         "thud",
-        "thunk"
+        "thunk",
+        "step"
       ],
       "meaning": "the sound of a small or light impact",
       "example": [{
@@ -10795,15 +10832,24 @@
         "thud thud",
         "thump thump",
         "tmp tmp",
-        "tok tok"
+        "tok tok",
+        "step step"
       ],
-      "meaning": "the sound of light rythmic strikes",
-      "example": [{
-        "file": "ton_ton-1a",
-        "contributor": "",
-        "display": "トン  トン",
-        "source": "hello_work"
-      }]
+      "meaning": "the sound of light rythmic steps or strikes",
+      "example": [
+        {
+          "file": "ton_ton-1a",
+          "contributor": "",
+          "display": "トン  トン",
+          "source": "hello_work"
+        },
+        {
+          "file": "ton_ton-2a",
+          "contributor": "",
+          "display": "トン  トン  トン",
+          "source": "s_rank_behemoth"
+        }
+      ]
     }],
     "literal": "ton ton"
   },
