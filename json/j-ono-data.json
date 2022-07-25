@@ -886,21 +886,21 @@
       },
       {
         "equivalent": [
-          "languid",
-          "listless",
-          "lethargic",
+          "day-dream",
+          "distracted",
+          "dopey",
+          "dozy",
+          "dreamy",
+          "drowsey",
           "groggy",
+          "hazy",
+          "languid",
+          "lethargic",
+          "listless",
           "relaxed",
           "sluggish",
-          "dopey",
-          "drowsey",
-          "day-dream",
-          "dozy",
           "spacey",
-          "distracted",
-          "dreamy",
-          "vacant",
-          "hazy"
+          "vacant"
         ],
         "meaning": "an indication of a lack of mental enery or a lack of attention",
         "example": [{
@@ -1510,9 +1510,9 @@
         "equivalent": [
           "ascend",
           "launch",
-          "woosh",
           "rise",
-          "takeoff"
+          "takeoff",
+          "woosh"
         ],
         "meaning": "something large or heavy rising or taking flight",
         "example": [{
@@ -1849,12 +1849,12 @@
     "katakana": ["チュンチュン"],
     "definition": [{
       "equivalent": [
+        "cheep cheep",
         "chirp chirp",
         "peep peep",
-        "cheep cheep",
         "pip pip",
-        "tweet tweet",
         "trill trill",
+        "tweet tweet",
         "warble warble"
       ],
       "meaning": "a series of short sharp sound, as from a small bird",
@@ -1877,8 +1877,12 @@
       "チュルッ"
     ],
     "definition": [{
-      "equivalent": ["slurp"],
-      "meaning": "classic ramen eating noise",
+      "equivalent": [
+        "drink",
+        "slurp",
+        "sup"
+      ],
+      "meaning": "to noisily consume a liquid or noodles",
       "example": [{
         "file": "churu-1a",
         "contributor": "",
@@ -2839,14 +2843,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "grunt",
+        "arg",
+        "gah",
         "groan",
+        "grunt",
+        "har",
         "hmph",
         "humph",
-        "gah",
-        "har",
-        "urgh",
-        "arg"
+        "urgh"
       ],
       "meaning": "the short sound of a grunt or a groan, may express strain, frustration, distress, or used as an offensive dismissal",
       "example": [{
@@ -3342,10 +3346,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "grind",
+        "bite",
         "chew",
         "gnaw",
-        "bite"
+        "grind"
       ],
       "meaning": "to bite or chew on something",
       "example": [{
@@ -3983,13 +3987,13 @@
       },
       {
         "equivalent": [
+          "creak",
           "cry",
           "screech",
+          "shriek",
           "squeak",
           "squeal",
-          "squee",
-          "creak",
-          "shriek"
+          "squee"
         ],
         "meaning": "a high pitched squeak or squeal, as from a squeaky door, an old chair or a small animalthe cry of a small animal",
         "example": [
@@ -6529,10 +6533,10 @@
     "definition": [{
       "equivalent": [
         "ching",
+        "glint",
         "jing",
         "shaa",
-        "shing",
-        "glint"
+        "shing"
       ],
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
       "example": [{
@@ -7204,10 +7208,10 @@
     "katakana": ["キョロキョロ"],
     "definition": [{
       "equivalent": [
-        "search search",
-        "look look",
         "glance glance",
         "glimpse glimpse",
+        "look look",
+        "search search",
         "view view"
       ],
       "meaning": "to look around or search hastily",
@@ -7549,11 +7553,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "hngh",
-        "urgh",
         "effort",
+        "exert",
+        "hngh",
         "strain",
-        "exert"
+        "urgh"
       ],
       "meaning": "an expression of forceful exertion",
       "example": [{
@@ -7570,15 +7574,15 @@
     "katakana": ["ムニャ"],
     "definition": [{
       "equivalent": [
-        "fondle",
-        "touch",
-        "squeeze",
         "caress",
+        "feel",
+        "fondle",
+        "knead",
         "pat",
         "pet",
+        "squeeze",
         "stroke",
-        "knead",
-        "feel"
+        "touch"
       ],
       "meaning": "to touch, fondle, or squeeze someone else",
       "example": [{
@@ -7614,12 +7618,12 @@
     "katakana": ["むニュン"],
     "definition": [{
       "equivalent": [
-        "soft",
-        "squishy",
-        "sqoosh",
-        "squish",
         "flacid",
         "flesh",
+        "soft",
+        "sqoosh",
+        "squish",
+        "squishy",
         "supple"
       ],
       "meaning": "soft and pliable, often in reference to female breasts",
@@ -7992,9 +7996,9 @@
       },
       {
         "equivalent": [
+          "blink",
           "open",
           "snap",
-          "blink",
           "squint"
         ],
         "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
@@ -8481,14 +8485,14 @@
     "definition": [{
       "equivalent": [
         "abase",
-        "grovel grovel",
-        "fawn fawn",
-        "humble humble",
-        "bow bow",
-        "suck up",
         "bootlick",
-        "truckle truckle",
-        "kneel kneel"
+        "bow bow",
+        "fawn fawn",
+        "grovel grovel",
+        "humble humble",
+        "kneel kneel",
+        "suck up",
+        "truckle truckle"
       ],
       "meaning": "to bow, grovel or otherwise ingratiate  oneself with a superior",
       "example": [{
@@ -8694,8 +8698,8 @@
     "definition": [{
       "equivalent": [
         "drip",
-        "plink",
-        "drop"
+        "drop",
+        "plink"
       ],
       "meaning": "the sound of a single drip of fluid",
       "example": [{
@@ -9489,9 +9493,9 @@
       "equivalent": [
         "boing",
         "jiggle",
-        "wobble",
         "quiver",
-        "shake"
+        "shake",
+        "wobble"
       ],
       "meaning": "a small irregular movement",
       "example": [{
@@ -9658,12 +9662,12 @@
     "katakana": ["ピュン"],
     "definition": [{
       "equivalent": [
-        "pyu",
-        "whiz",
-        "zip",
         "fwip",
         "fwit",
-        "whish"
+        "pyu",
+        "whish",
+        "whiz",
+        "zip"
       ],
       "meaning": "an indication of something moving at high speed throug the air",
       "example": [{
@@ -9843,11 +9847,11 @@
       },
       {
         "equivalent": [
-          "swish swish",
-          "swoosh swoosh",
           "brush brush",
+          "scritch scritch",
           "sweep sweep",
-          "scritch scritch"
+          "swish swish",
+          "swoosh swoosh"
         ],
         "meaning": "a repeated soft brushing sound",
         "example": [{
@@ -10425,15 +10429,15 @@
     ],
     "definition": [{
       "equivalent": [
-        "don",
+        "disrobe",
         "doff",
+        "don",
+        "put on",
         "remove",
         "slip on",
-        "wear",
-        "put on",
         "take off",
-        "disrobe",
-        "undress"
+        "undress",
+        "wear"
       ],
       "meaning": "to put something on or take something off, typically something worn",
       "example": [{
@@ -10793,16 +10797,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "shine",
-        "sparkle",
-        "shimmer",
         "bedazzle",
-        "twinkle",
         "flash",
         "glare",
         "gleam",
         "glisten",
-        "sheen"
+        "sheen",
+        "shimmer",
+        "shine",
+        "sparkle",
+        "twinkle"
       ],
       "meaning": "to shine or sparkle brigthly, often used humorously for a shiny bald head",
       "example": [{
@@ -10963,10 +10967,10 @@
         "bop",
         "bump",
         "knock",
+        "step",
         "tap",
         "thud",
-        "thunk",
-        "step"
+        "thunk"
       ],
       "meaning": "the sound of a small or light impact",
       "example": [{
@@ -10993,12 +10997,12 @@
         "bop bop",
         "bump bump",
         "knock knock",
+        "step step",
         "tap tap",
         "thud thud",
         "thump thump",
         "tmp tmp",
-        "tok tok",
-        "step step"
+        "tok tok"
       ],
       "meaning": "the sound of light rythmic steps or strikes",
       "example": [
@@ -12334,7 +12338,7 @@
     "katakana": ["ズラ"],
     "definition": [{
       "equivalent": [
-        " lined up",
+        "lined up",
         "queued"
       ],
       "meaning": "a series of things or people lined up one after another",
