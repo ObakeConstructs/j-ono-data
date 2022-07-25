@@ -2032,7 +2032,11 @@
       "ヂュルッ"
     ],
     "definition": [{
-      "equivalent": ["slurp, drink, sup"],
+      "equivalent": [
+        "drink",
+        "slurp",
+        "sup"
+      ],
       "meaning": "to noisily consume a liquid or noodles",
       "example": [{
         "file": "djuru-1a",
