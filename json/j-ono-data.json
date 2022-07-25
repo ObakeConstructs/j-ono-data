@@ -17,7 +17,7 @@
         "laughter",
         "snicker"
       ],
-      "meaning": "to laugh loudly at someone",
+      "meaning": "the sound of loud laughter",
       "example": [
         {
           "file": "ahaha-1a",
@@ -105,7 +105,7 @@
           "turn",
           "whirl"
         ],
-        "meaning": "turning around suddenly",
+        "meaning": "the act of turning around suddenly",
         "example": [
           {
             "file": "ba-1a",
@@ -176,7 +176,7 @@
           "reach",
           "stretch"
         ],
-        "meaning": "to reach or stretch out a hand",
+        "meaning": "the act of reaching or stretching out a hand",
         "example": [{
           "file": "ba-4a",
           "contributor": "",
@@ -1839,10 +1839,48 @@
           "contributor": "",
           "display": "ちらっ",
           "source": "world_full_of_monsters"
+        },
+        {
+          "file": "chira-1c",
+          "contributor": "",
+          "display": "チラッ",
+          "source": "kuma_kuma_kuma_bear"
         }
       ]
     }],
     "literal": "chira"
+  },
+  {
+    "hiragana": [
+      "ちゅ",
+      "ちゅっ",
+      "ちゅー",
+      "ちゅーっ"
+    ],
+    "katakana": [
+      "チュ",
+      "チュッ",
+      "チュー",
+      "チューッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "drink",
+        "quaff",
+        "sip",
+        "slurp",
+        "suck",
+        "swig"
+      ],
+      "meaning": "the act of sucking, as from a straw",
+      "example": [{
+        "file": "chu-1a",
+        "contributor": "",
+        "display": "ちゅーっ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }],
+    "literal": "chu"
   },
   {
     "hiragana": ["ちゅんちゅん"],
@@ -2301,13 +2339,17 @@
       "どん",
       "どんっ",
       "どぉん",
-      "どぉぉん"
+      "どぉぉん",
+      "どおん",
+      "どおおん"
     ],
     "katakana": [
       "ドン",
       "ドンッ",
       "ドォン",
-      "ドォォン"
+      "ドォォン",
+      "ドオン",
+      "ドオオン"
     ],
     "definition": [
       {
@@ -2368,6 +2410,25 @@
           "contributor": "",
           "display": "ドン",
           "source": "different_world_smartphone"
+        }]
+      },
+      {
+        "equivalent": [
+          "bam",
+          "bang",
+          "blast",
+          "boom",
+          "crack",
+          "pop",
+          "whomp",
+          "whump"
+        ],
+        "meaning": "a relatively small explosion",
+        "example": [{
+          "file": "don-3a",
+          "contributor": "",
+          "display": "ドオン",
+          "source": "kuma_kuma_kuma_bear"
         }]
       }
     ],
@@ -2655,6 +2716,26 @@
           "contributor": "",
           "display": "ドドドドドド",
           "source": "reincarnated_aristocrat"
+        }]
+      },
+      {
+        "equivalent": [
+          "bom bom",
+          "race race",
+          "run run",
+          "sprint sprint",
+          "step step",
+          "stomp stomp",
+          "tap tap",
+          "thump thump",
+          "tromp tromp"
+        ],
+        "meaning": "the sound of heavy or fast steps, as in stomping or running",
+        "example": [{
+          "file": "do_do-3a",
+          "contributor": "",
+          "display": "ドドドド...",
+          "source": "kuma_kuma_kuma_bear"
         }]
       }
     ],
@@ -3701,7 +3782,7 @@
         "rustle",
         "swish"
       ],
-      "meaning": "a gentle, quiet sound of movement, as with grass in wind or fabric",
+      "meaning": "a small natural sound of movement, as the movement of leaves or grass in the wind or fabric sliding",
       "example": [
         {
           "file": "gasa-1a",
@@ -4294,17 +4375,14 @@
       },
       {
         "equivalent": [
+          "blast",
           "boom",
+          "ka-boom",
           "shoom",
           "swoosh",
-          "whish",
-          "whiz",
-          "whom",
-          "whoosh",
-          "zip",
-          "zoom"
+          "whom"
         ],
-        "meaning": "the impact of a strong force or wind, as from an explosion",
+        "meaning": "a strong explosion or the effect of a nearby explosion",
         "example": [
           {
             "file": "go-2a",
@@ -4315,14 +4393,8 @@
           {
             "file": "go-2b",
             "contributor": "",
-            "display": "ゴッ",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "go-2c",
-            "contributor": "",
-            "display": "ゴオッ",
-            "source": "different_world_smartphone"
+            "display": "ゴオ",
+            "source": "kuma_kuma_kuma_bear"
           }
         ]
       },
@@ -4346,6 +4418,18 @@
             "contributor": "",
             "display": "ゴ",
             "source": "s_rank_behemoth"
+          },
+          {
+            "file": "go-3c",
+            "contributor": "",
+            "display": "ゴッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "go-3d",
+            "contributor": "",
+            "display": "ゴオッ",
+            "source": "different_world_smartphone"
           }
         ]
       }
@@ -7057,7 +7141,7 @@
         "turn",
         "twist"
       ],
-      "meaning": "to turn, look away, or look towards something",
+      "meaning": "the act of turning something, typically oneself",
       "example": [
         {
           "file": "kuru-1a",
@@ -7076,6 +7160,12 @@
           "contributor": "",
           "display": "くる",
           "source": "komi_cant_communicate"
+        },
+        {
+          "file": "kuru-1d",
+          "contributor": "",
+          "display": "くるっ",
+          "source": "kuma_kuma_kuma_bear"
         }
       ]
     }],
@@ -7083,7 +7173,7 @@
   },
   {
     "hiragana": ["くるくる"],
-    "katakana": ["クルクル`"],
+    "katakana": ["クルクル"],
     "definition": [{
       "equivalent": [
         "pivot",
@@ -8225,6 +8315,34 @@
     "literal": "pan"
   },
   {
+    "hiragana": ["ぱんぱん"],
+    "katakana": ["パンパン"],
+    "definition": [{
+      "equivalent": [
+        "biff biff",
+        "bonk bonk",
+        "clap clap",
+        "clip clip",
+        "pat pat",
+        "rap rap",
+        "scuff scuff",
+        "slap slap",
+        "stroke stroke",
+        "swat swat",
+        "swipe swipe",
+        "thump thump"
+      ],
+      "meaning": "a series of small or light impacts",
+      "example": [{
+        "file": "pan_pan-1a",
+        "contributor": "",
+        "display": "パン  パン",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }],
+    "literal": "pan pan"
+  },
+  {
     "hiragana": ["ぱら"],
     "katakana": ["パラ"],
     "definition": [{
@@ -8864,6 +8982,28 @@
       }
     ],
     "literal": "piku"
+  },
+  {
+    "hiragana": ["ぴくぴく"],
+    "katakana": ["ピクピク"],
+    "definition": [{
+      "equivalent": [
+        "flinch flinch",
+        "jerk jerk",
+        "quiver quiver",
+        "shake shake",
+        "twitch twitch",
+        "wince wince"
+      ],
+      "meaning": "a series of jerky movements or twitches",
+      "example": [{
+        "file": "piku_piku-1a",
+        "contributor": "",
+        "display": "ピク  ピク",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }],
+    "literal": "piku piku"
   },
   {
     "hiragana": ["ぴんぽーん"],
@@ -10365,6 +10505,30 @@
       }]
     }],
     "literal": "sun"
+  },
+  {
+    "hiragana": ["すんすん"],
+    "katakana": ["スンスン"],
+    "definition": [{
+      "equivalent": [
+        "calm",
+        "composed",
+        "cool",
+        "glide",
+        "serene",
+        "skim",
+        "smooth",
+        "tranquil"
+      ],
+      "meaning": "to move calmly and smoothly",
+      "example": [{
+        "file": "sun sun-1a",
+        "contributor": "",
+        "display": "スン  スン",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }],
+    "literal": "sun sun"
   },
   {
     "hiragana": [
@@ -12098,6 +12262,30 @@
       }]
     }],
     "literal": "zoro"
+  },
+  {
+    "hiragana": ["ぞろぞろ"],
+    "katakana": ["ゾロゾロ"],
+    "definition": [{
+      "equivalent": [
+        "clan",
+        "crowd",
+        "gang",
+        "horde",
+        "mass",
+        "mob",
+        "pack",
+        "throng"
+      ],
+      "meaning": "a large number of persons or creatures massed together",
+      "example": [{
+        "file": "zoro_zoro-1a",
+        "contributor": "",
+        "display": "ぞろ  ぞろ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }],
+    "literal": "zoro zoro"
   },
   {
     "hiragana": [
