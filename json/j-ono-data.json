@@ -1705,6 +1705,28 @@
     "literal": "chapu"
   },
   {
+    "hiragana": ["ちゃら"],
+    "katakana": ["チャラ"],
+    "definition": [{
+      "equivalent": [
+        "clack",
+        "clatter",
+        "click",
+        "clink",
+        "ker-chak",
+        "rattle"
+      ],
+      "meaning": "a short rattling noise",
+      "example": [{
+        "file": "chara-1a",
+        "contributor": "",
+        "display": "チャラ",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "chara"
+  },
+  {
     "hiragana": [
       "ちゃり",
       "ちゃりり",
@@ -1995,6 +2017,27 @@
       ]
     }],
     "literal": "dara dara"
+  },
+  {
+    "hiragana": [
+      "ぢゅる",
+      "ぢゅるっ"
+    ],
+    "katakana": [
+      "ヂュル",
+      "ヂュルッ"
+    ],
+    "definition": [{
+      "equivalent": ["slurp, drink, sup"],
+      "meaning": "to noisily consume a liquid or noodles",
+      "example": [{
+        "file": "djuru-1a",
+        "contributor": "",
+        "display": "ぢゅる",
+        "source": "d_genesis"
+      }]
+    }],
+    "literal": "djuru"
   },
   {
     "hiragana": [
@@ -4478,6 +4521,30 @@
     "literal": "goron"
   },
   {
+    "hiragana": [
+      "ごろごろ",
+      "ごーろごーろ"
+    ],
+    "katakana": [
+      "ゴロゴロ",
+      "ゴーロゴーロ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "purr",
+        "thrum"
+      ],
+      "meaning": "a continuous low vibration, typically from a content or pleased cat",
+      "example": [{
+        "file": "goro_goro-1a",
+        "contributor": "",
+        "display": "ゴーロ  ゴーロ",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "goro goro"
+  },
+  {
     "hiragana": ["ごしごし"],
     "katakana": ["ゴシゴシ"],
     "definition": [{
@@ -5256,7 +5323,7 @@
           "hah hah",
           "pant pant"
         ],
-        "meaning": "to breathe hard, as from exertion or fear",
+        "meaning": "to breathe hard, as from exertion, fear, or excitement",
         "example": [
           {
             "file": "ha_ha-2a",
@@ -5269,6 +5336,12 @@
             "contributor": "",
             "display": "ハッ  ハッ",
             "source": "komi_cant_communicate"
+          },
+          {
+            "file": "ha_ha-2c",
+            "contributor": "",
+            "display": "ハア  ハア  ハア",
+            "source": "s_rank_behemoth"
           }
         ]
       }
@@ -5859,21 +5932,25 @@
   },
   {
     "hiragana": [
-      "ぢゅる",
-      "ぢゅるっ"
+      "じゅる",
+      "じゅるっ"
     ],
     "katakana": [
-      "ヂュル",
-      "ヂュルッ"
+      "ジュル",
+      "ジュルッ"
     ],
     "definition": [{
-      "equivalent": ["slurp"],
-      "meaning": "variant of the more common 'churru'",
+      "equivalent": [
+        "drool",
+        "slaver",
+        "slobber"
+      ],
+      "meaning": "the act of drooling, often expressing affection or enthusiasm",
       "example": [{
         "file": "juru-1a",
         "contributor": "",
-        "display": "ぢゅる",
-        "source": "d_genesis"
+        "display": "じゅるっ",
+        "source": "s_rank_behemoth"
       }]
     }],
     "literal": "juru"
@@ -6662,17 +6739,31 @@
     "literal": "kon"
   },
   {
-    "hiragana": ["こんこん"],
-    "katakana": ["コンコン"],
+    "hiragana": [
+      "こんこん",
+      "こんこんっ"
+    ],
+    "katakana": [
+      "コンコン",
+      "コンコンッ"
+    ],
     "definition": [{
       "equivalent": ["knock knock"],
       "meaning": "the sound of someone knocking on a door",
-      "example": [{
-        "file": "kon_kon-1a",
-        "contributor": "",
-        "display": "コン  コン",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "kon_kon-1a",
+          "contributor": "",
+          "display": "コン  コン",
+          "source": "d_genesis"
+        },
+        {
+          "file": "kon_kon-1b",
+          "contributor": "",
+          "display": "コン  コンッ",
+          "source": "s_rank_behemoth"
+        }
+      ]
     }],
     "literal": "kon kon"
   },
@@ -7689,6 +7780,30 @@
     "literal": "nma"
   },
   {
+    "hiragana": [
+      "にゃん",
+      "にゃーん"
+    ],
+    "katakana": [
+      "ニャン",
+      "ニャーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "meow",
+        "mrow"
+      ],
+      "meaning": "the cry of a cat",
+      "example": [{
+        "file": "nyan-1a",
+        "contributor": "",
+        "display": "にゃーん",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "nyan"
+  },
+  {
     "hiragana": ["にゃにゃ"],
     "katakana": ["ニャニャ"],
     "definition": [{
@@ -8430,6 +8545,25 @@
       }]
     }],
     "literal": "pero"
+  },
+  {
+    "hiragana": ["ぺろん"],
+    "katakana": ["ペロン"],
+    "definition": [{
+      "equivalent": [
+        "lap",
+        "lick",
+        "slurp"
+      ],
+      "meaning": "the sound of a tongue licking something",
+      "example": [{
+        "file": "peron-1a",
+        "contributor": "",
+        "display": "ぺろん",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "peron"
   },
   {
     "hiragana": ["ぺろぺろ"],
@@ -10279,6 +10413,37 @@
       }]
     }],
     "literal": "supi"
+  },
+  {
+    "hiragana": [
+      "する",
+      "するっ"
+    ],
+    "katakana": [
+      "スル",
+      "スルッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "don",
+        "doff",
+        "remove",
+        "slip on",
+        "wear",
+        "put on",
+        "take off",
+        "disrobe",
+        "undress"
+      ],
+      "meaning": "to put something on or take something off, typically something worn",
+      "example": [{
+        "file": "suru-1a",
+        "contributor": "",
+        "display": "する  する",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "suru"
   },
   {
     "hiragana": [
