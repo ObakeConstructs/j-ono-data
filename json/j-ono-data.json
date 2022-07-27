@@ -3268,12 +3268,20 @@
           "snatch"
         ],
         "meaning": "seizing something with a sudden motion or grasp",
-        "example": [{
-          "file": "ga-2a",
-          "contributor": "",
-          "display": "ガッ",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "ga-2a",
+            "contributor": "",
+            "display": "ガッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "ga-2b",
+            "contributor": "",
+            "display": "がっ",
+            "source": "strongest_failure_frame"
+          }
+        ]
       }
     ],
     "literal": "ga"
@@ -4437,6 +4445,30 @@
     "literal": "go"
   },
   {
+    "hiragana": [
+      "ごく",
+      "ごくっ"
+    ],
+    "katakana": [
+      "ゴク",
+      "ゴクッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "gulp",
+        "swallow"
+      ],
+      "meaning": "the sound of gulping or swallowing",
+      "example": [{
+        "file": "goku-1a",
+        "contributor": "",
+        "display": "ゴクッ",
+        "source": "strongest_failure_frame"
+      }]
+    }],
+    "literal": "goku"
+  },
+  {
     "hiragana": ["ごくん"],
     "katakana": ["ゴクン"],
     "definition": [{
@@ -4446,7 +4478,7 @@
         "quaff",
         "swallow"
       ],
-      "meaning": "the sound of swallowing a liquid",
+      "meaning": "the sound of gulping or swallowing",
       "example": [{
         "file": "gokun-1a",
         "contributor": "",
@@ -4466,7 +4498,7 @@
         "quaff quaff",
         "swallow swallow"
       ],
-      "meaning": "the sound of swallowing a liquid",
+      "meaning": "the repeated sounds of gulping or swallowing",
       "example": [
         {
           "file": "goku_goku-1a",
@@ -4745,6 +4777,12 @@
             "contributor": "",
             "display": "グッ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "gu-1c",
+            "contributor": "",
+            "display": "ぐ",
+            "source": "strongest_failure_frame"
           }
         ]
       },
@@ -4940,24 +4978,39 @@
     "literal": "guru"
   },
   {
-    "hiragana": ["ぐるん"],
-    "katakana": ["グルン"],
+    "hiragana": [
+      "ぐるん",
+      "ぐるんっ"
+    ],
+    "katakana": [
+      "グルン",
+      "グルンッ"
+    ],
     "definition": [{
       "equivalent": [
         "pivot",
+        "roll",
         "spin",
         "swing",
         "swivel",
         "turn",
         "twist"
       ],
-      "meaning": "to turn, look away, or look towards something",
-      "example": [{
-        "file": "gurun-1a",
-        "contributor": "",
-        "display": "ぐるん",
-        "source": "bungo"
-      }]
+      "meaning": "the act of turning something, typically oneself",
+      "example": [
+        {
+          "file": "gurun-1a",
+          "contributor": "",
+          "display": "ぐるん",
+          "source": "bungo"
+        },
+        {
+          "file": "gurun-1b",
+          "contributor": "",
+          "display": "ぐるんっ",
+          "source": "strongest_failure_frame"
+        }
+      ]
     }],
     "literal": "gurun"
   },
@@ -5386,18 +5439,18 @@
     "hiragana": [
       "はは",
       "はっはっ",
-      "ははは",
-      "はっはっはっ",
       "はぁはぁ",
-      "はあはあ"
+      "はあはあ",
+      "はぁっはぁっ",
+      "はあっはあっ"
     ],
     "katakana": [
       "ハハ",
       "ハッハッ",
-      "ハハハ",
-      "ハッハッハッ",
       "ハァハァ",
-      "ハアハア"
+      "ハアハア",
+      "ハァッハァッ",
+      "ハアッハアッ"
     ],
     "definition": [
       {
@@ -5434,6 +5487,12 @@
             "contributor": "",
             "display": "ハア  ハア  ハア",
             "source": "s_rank_behemoth"
+          },
+          {
+            "file": "ha_ha-2d",
+            "contributor": "",
+            "display": "ハアッ  ハアッ  ハアッ",
+            "source": "strongest_failure_frame"
           }
         ]
       }
@@ -8407,12 +8466,20 @@
           "swash"
         ],
         "meaning": "the sound of a small splash",
-        "example": [{
-          "file": "pasha-1a",
-          "contributor": "",
-          "display": "パシャ",
-          "source": "hello_work"
-        }]
+        "example": [
+          {
+            "file": "pasha-1a",
+            "contributor": "",
+            "display": "パシャ",
+            "source": "hello_work"
+          },
+          {
+            "file": "pasha-1b",
+            "contributor": "",
+            "display": "パシャ",
+            "source": "strongest_failure_frame"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -8734,6 +8801,38 @@
       }]
     }],
     "literal": "peshi"
+  },
+  {
+    "hiragana": [
+      "ペたん",
+      "ペたんっ"
+    ],
+    "katakana": [
+      "ペタン",
+      "ペタンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "collapse",
+        "crumple",
+        "drop",
+        "flop",
+        "flump",
+        "plop",
+        "plunk",
+        "sink",
+        "slump",
+        "wilt"
+      ],
+      "meaning": "to sit or drop clumsily or lazily",
+      "example": [{
+        "file": "petan-1a",
+        "contributor": "",
+        "display": "パタン",
+        "source": "strongest_failure_frame"
+      }]
+    }],
+    "literal": "petan"
   },
   {
     "hiragana": ["ぺたぺた"],
@@ -11141,12 +11240,20 @@
         "thunk"
       ],
       "meaning": "the sound of a small or light impact",
-      "example": [{
-        "file": "ton-1a",
-        "contributor": "",
-        "display": "トン",
-        "source": "bungo"
-      }]
+      "example": [
+        {
+          "file": "ton-1a",
+          "contributor": "",
+          "display": "トン",
+          "source": "bungo"
+        },
+        {
+          "file": "ton-1b",
+          "contributor": "",
+          "display": "トンッ",
+          "source": "strongest_failure_frame"
+        }
+      ]
     }],
     "literal": "ton"
   },
@@ -11937,7 +12044,8 @@
       "ざぁぁぁ",
       "ざあ",
       "ざああ",
-      "ざあああ"
+      "ざあああ",
+      "ざあっ"
     ],
     "katakana": [
       "ザ",
@@ -11949,7 +12057,8 @@
       "ザァァァ",
       "ザア",
       "ザアア",
-      "ザアアア"
+      "ザアアア",
+      "ザアッ"
     ],
     "definition": [
       {
@@ -11986,7 +12095,7 @@
         ],
         "meaning": "sound of someone walking, as on grass or gravel",
         "example": [{
-          "file": "za-1a",
+          "file": "za-2a",
           "contributor": "",
           "display": "ザッ",
           "source": "dog_became_strongest"
