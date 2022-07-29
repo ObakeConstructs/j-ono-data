@@ -3803,6 +3803,12 @@
           "contributor": "",
           "display": "ガサ",
           "source": "komi_cant_communicate"
+        },
+        {
+          "file": "gasa-1c",
+          "contributor": "",
+          "display": "ガサッ",
+          "source": "a_rank_slow_life"
         }
       ]
     }],
@@ -4459,12 +4465,20 @@
         "swallow"
       ],
       "meaning": "the sound of gulping or swallowing",
-      "example": [{
-        "file": "goku-1a",
-        "contributor": "",
-        "display": "ゴクッ",
-        "source": "strongest_failure_frame"
-      }]
+      "example": [
+        {
+          "file": "goku-1a",
+          "contributor": "",
+          "display": "ゴクッ",
+          "source": "strongest_failure_frame"
+        },
+        {
+          "file": "goku-1b",
+          "contributor": "",
+          "display": "ゴク",
+          "source": "a_rank_slow_life"
+        }
+      ]
     }],
     "literal": "goku"
   },
@@ -4677,13 +4691,21 @@
         "scrub scrub",
         "swipe swipe"
       ],
-      "meaning": "the act of pressing a cloth or bare hand(s) against something and moving back and forth",
-      "example": [{
-        "file": "goshi_goshi-1a",
-        "contributor": "",
-        "display": "ごし  ごし",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "to rub or scrub something against something else",
+      "example": [
+        {
+          "file": "goshi_goshi-1a",
+          "contributor": "",
+          "display": "ごし  ごし",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "goshi_goshi-1b",
+          "contributor": "",
+          "display": "ゴシ  ゴシ",
+          "source": "a_rank_slow_life"
+        }
+      ]
     }],
     "literal": "goshi goshi"
   },
@@ -6327,6 +6349,28 @@
       }]
     }],
     "literal": "kaki kaki"
+  },
+  {
+    "hiragana": ["かん"],
+    "katakana": ["カン"],
+    "definition": [{
+      "equivalent": [
+        "clack",
+        "click",
+        "clink",
+        "snap",
+        "tap",
+        "tick"
+      ],
+      "meaning": "the sound of a strong click or snap",
+      "example": [{
+        "file": "kan-1a",
+        "contributor": "",
+        "display": "カン",
+        "source": "a_rank_slow_life"
+      }]
+    }],
+    "literal": "kan"
   },
   {
     "hiragana": [
@@ -9879,25 +9923,46 @@
       "ピュー",
       "ピューッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "burst",
-        "gush",
-        "jet",
-        "splurt",
-        "spout",
-        "spray",
-        "spurt",
-        "squirt"
-      ],
-      "meaning": "a stream of fluid discharged from narrow opening",
-      "example": [{
-        "file": "pyu-1a",
-        "contributor": "",
-        "display": "ピューッ",
-        "source": "hello_work"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "burst",
+          "gush",
+          "jet",
+          "splurt",
+          "spout",
+          "spray",
+          "spurt",
+          "squirt"
+        ],
+        "meaning": "a stream of fluid discharged from narrow opening",
+        "example": [{
+          "file": "pyu-1a",
+          "contributor": "",
+          "display": "ピューッ",
+          "source": "hello_work"
+        }]
+      },
+      {
+        "equivalent": [
+          "dash",
+          "flee",
+          "run",
+          "swish",
+          "swoosh",
+          "whoosh",
+          "zip",
+          "zoom"
+        ],
+        "meaning": "a sudden burst of speed, as from someone fleeing",
+        "example": [{
+          "file": "pyu-2a",
+          "contributor": "",
+          "display": "ピューッ",
+          "source": "a_rank_slow_life"
+        }]
+      }
+    ],
     "literal": "pyu"
   },
   {
@@ -10031,6 +10096,26 @@
       }
     ],
     "literal": "sa"
+  },
+  {
+    "hiragana": ["さく"],
+    "katakana": ["サク"],
+    "definition": [{
+      "equivalent": [
+        "crunch",
+        "crush",
+        "step",
+        "walk"
+      ],
+      "meaning": "sound of someone walking, as on grass or gravel",
+      "example": [{
+        "file": "saku-1a",
+        "contributor": "",
+        "display": "ザーッ",
+        "source": "a_rank_slow_life"
+      }]
+    }],
+    "literal": "saku"
   },
   {
     "hiragana": [
@@ -11637,16 +11722,25 @@
     "definition": [
       {
         "equivalent": [
+          "mm hmm",
           "nod nod",
           "yep yep"
         ],
-        "meaning": "nodding the head repeatedly to express agreement",
-        "example": [{
-          "file": "un_un-1a",
-          "contributor": "",
-          "display": "うん  うん",
-          "source": "d_genesis"
-        }]
+        "meaning": "nodding the head repeatedly to express friendly agreement",
+        "example": [
+          {
+            "file": "un_un-1a",
+            "contributor": "",
+            "display": "うん  うん",
+            "source": "d_genesis"
+          },
+          {
+            "file": "un_un-1b",
+            "contributor": "",
+            "display": "うん  うん",
+            "source": "a_rank_slow_life"
+          }
+        ]
       },
       {
         "equivalent": [
