@@ -1,0 +1,69 @@
+{
+  "hiragana": [
+    "ぷ",
+    "ぷっ",
+    "ぷう",
+    "ぷうう",
+    "ぷううー",
+    "ぷぅ"
+  ],
+  "katakana": [
+    "プ",
+    "プッ",
+    "プウ",
+    "プウウ",
+    "プウウー",
+    "プゥ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "ha",
+        "hah",
+        "pfft",
+        "pwa",
+        "snort"
+      ],
+      "meaning": "a light laugh or snort, often an expression of low opinion, dismissal, or sarcasm",
+      "example": [{
+        "file": "pu-1a",
+        "contributor": "",
+        "display": "ぷっ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "nip",
+        "pinch",
+        "pluck",
+        "pop",
+        "snap",
+        "tug"
+      ],
+      "meaning": "a small sound of pinching or plucking, as with a small plant",
+      "example": [{
+        "file": "pu-2a",
+        "contributor": "",
+        "display": "プッ",
+        "source": "dog_became_strongest"
+      }]
+    },
+    {
+      "equivalent": [
+        "fart",
+        "honk",
+        "puff",
+        "toot"
+      ],
+      "meaning": "a harsh, unpleasant sound, as from a horn or flatulence",
+      "example": [{
+        "file": "pu-3a",
+        "contributor": "",
+        "display": "プゥゥー",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    }
+  ],
+  "literal": "pu"
+}

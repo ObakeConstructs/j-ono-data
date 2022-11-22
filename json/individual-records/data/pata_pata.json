@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ぱたぱた"],
+  "katakana": ["パタパタ"],
+  "definition": [{
+    "equivalent": [
+      "flap flap",
+      "flick flick",
+      "flit flit",
+      "swish swish",
+      "wave wave"
+    ],
+    "meaning": "the sound of flapping, as of bird wings, a dust mop, or a flag in the wind",
+    "example": [{
+      "file": "pata_pata-1a",
+      "contributor": "",
+      "display": "パタ  パタ",
+      "source": "reincarnated_sage_daughters"
+    }]
+  }],
+  "literal": "pata pata"
+}

@@ -1,0 +1,48 @@
+{
+  "hiragana": [
+    "がば",
+    "がばっ"
+  ],
+  "katakana": [
+    "ガバ",
+    "ガバッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "arise",
+        "fwip",
+        "get up",
+        "rise up",
+        "sit up",
+        "stand",
+        "suddenly"
+      ],
+      "meaning": "to suddenly sit up or standup.",
+      "example": [{
+        "file": "gaba-1a",
+        "contributor": "",
+        "display": "ガバッ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "clasp",
+        "cradle",
+        "embrace",
+        "grasp",
+        "hold",
+        "hug"
+      ],
+      "meaning": "he act of putting one's arms around someone and holding tightly",
+      "example": [{
+        "file": "gaba-2a",
+        "contributor": "",
+        "display": "がば",
+        "source": "d_genesis"
+      }]
+    }
+  ],
+  "literal": "gaba"
+}

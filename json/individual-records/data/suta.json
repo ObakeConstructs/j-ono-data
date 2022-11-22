@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "すた",
+    "すたっ"
+  ],
+  "katakana": [
+    "スタ",
+    "スタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "alight",
+      "land",
+      "landing",
+      "settle",
+      "touch down"
+    ],
+    "meaning": "come to rest after descending from the air",
+    "example": [{
+      "file": "suta-1a",
+      "contributor": "",
+      "display": "スタッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "suta"
+}

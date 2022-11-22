@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "んま",
+    "んまっ"
+  ],
+  "katakana": [
+    "ンマ",
+    "ンマッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "chew",
+      "eat",
+      "munch",
+      "nom",
+      "nosh"
+    ],
+    "meaning": "the act or sound of eating and chewing",
+    "example": [{
+      "file": "nma-1a",
+      "contributor": "",
+      "display": "んまっ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "nma"
+}

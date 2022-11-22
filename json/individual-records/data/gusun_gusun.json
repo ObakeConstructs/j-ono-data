@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ぐすんぐすん"],
+  "katakana": ["グスングスン"],
+  "definition": [{
+    "equivalent": [
+      "blub",
+      "cry",
+      "sob",
+      "tears",
+      "weep"
+    ],
+    "meaning": "shedding tears as an expression of pain or distress",
+    "example": [{
+      "file": "gusun_gusun-1a",
+      "contributor": "",
+      "display": "ぐすん  ぐすん",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "gusun gusun"
+}

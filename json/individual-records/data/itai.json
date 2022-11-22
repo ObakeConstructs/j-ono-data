@@ -1,0 +1,25 @@
+{
+  "hiragana": [
+    "いたい",
+    "いたーい"
+  ],
+  "katakana": [
+    "イタイ",
+    "イターイ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fah",
+      "ouch",
+      "ow"
+    ],
+    "meaning": "an expression of pain",
+    "example": [{
+      "file": "itai-1a",
+      "contributor": "",
+      "display": "イターイ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "itai"
+}

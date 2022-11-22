@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "とぽぽ",
+    "とぽぽぽ"
+  ],
+  "katakana": [
+    "トポポ",
+    "トポポポ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "glug",
+      "pour",
+      "slosh",
+      "trickle"
+    ],
+    "meaning": "sound of pouring liquid",
+    "example": [
+      {
+        "file": "topopo-1a",
+        "contributor": "",
+        "display": "トポポ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "topopo-1b",
+        "contributor": "",
+        "display": "トポポポ",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "literal": "topopo"
+}

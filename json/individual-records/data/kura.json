@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "くら",
+    "くらっ",
+    "くらあ",
+    "くらあっ"
+  ],
+  "katakana": [
+    "クラ",
+    "クラッ",
+    "クラア",
+    "クラアッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dizzy",
+      "faint",
+      "swoon",
+      "woozy"
+    ],
+    "meaning": "a temporary loss or near loss of consciousness",
+    "example": [{
+      "file": "kura-1a",
+      "contributor": "",
+      "display": "くらっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "kura"
+}

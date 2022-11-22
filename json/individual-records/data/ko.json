@@ -1,0 +1,52 @@
+{
+  "hiragana": [
+    "こ",
+    "こっ",
+    "こぉ",
+    "こお",
+    "こぉぉ",
+    "こおお",
+    "こぉおお",
+    "こおぉぉ"
+  ],
+  "katakana": [
+    "コ",
+    "コッ",
+    "コォ",
+    "コオ",
+    "コォォ",
+    "コオオ",
+    "コォォォ",
+    "コオオオ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "step",
+        "tap",
+        "walk"
+      ],
+      "meaning": "the sound of walking",
+      "example": [{
+        "file": "ko-1a",
+        "contributor": "",
+        "display": "コッ",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "fwoosh",
+        "rumble"
+      ],
+      "meaning": "expressing or eminating vast power or killing intent",
+      "example": [{
+        "file": "ko-2a",
+        "contributor": "",
+        "display": "コォ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "ko"
+}

@@ -1,0 +1,21 @@
+{
+  "hiragana": ["びしゅ"],
+  "katakana": ["ビシュ"],
+  "definition": [{
+    "equivalent": [
+      "fwip",
+      "swish",
+      "whirr",
+      "whish",
+      "zipwhiz"
+    ],
+    "meaning": "The sound of an arrow being released",
+    "example": [{
+      "file": "bishu-1a",
+      "contributor": "",
+      "display": "ビシュ",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "bishu"
+}

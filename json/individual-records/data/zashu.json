@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ざしゅ"],
+  "katakana": ["ザシュ"],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "slash",
+      "slice"
+    ],
+    "meaning": "a fast, heavy cut, as with a sword or knife",
+    "example": [{
+      "file": "zashu-1a",
+      "contributor": "",
+      "display": "ザシュ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "zashu"
+}

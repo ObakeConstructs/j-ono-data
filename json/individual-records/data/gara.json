@@ -1,0 +1,56 @@
+{
+  "hiragana": [
+    "がら",
+    "がらっ"
+  ],
+  "katakana": [
+    "ガラ",
+    "ガラッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bang",
+        "close",
+        "open",
+        "shut",
+        "slam",
+        "slide",
+        "swish",
+        "swoosh",
+        "thump"
+      ],
+      "meaning": "the sound of a sliding window or sliding door being opened or shut",
+      "example": [
+        {
+          "file": "gara-1a",
+          "contributor": "",
+          "display": "ガラッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gara-1b",
+          "contributor": "",
+          "display": "ガラッ",
+          "source": "bungo"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "clatter",
+        "clutter",
+        "rattle",
+        "tumult"
+      ],
+      "meaning": "the sound of something falling apart, collapsing or settling",
+      "example": [{
+        "file": "gara-2a",
+        "contributor": "",
+        "display": "ガラッ",
+        "source": "world_full_of_monsters"
+      }]
+    }
+  ],
+  "literal": "gara"
+}

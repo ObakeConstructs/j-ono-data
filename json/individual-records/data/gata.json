@@ -1,0 +1,40 @@
+{
+  "hiragana": [
+    "がた",
+    "がたっ"
+  ],
+  "katakana": [
+    "ガタ",
+    "ガタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clatter",
+      "clunk",
+      "creak",
+      "rattle"
+    ],
+    "meaning": "the sound of wood clattering on something hard, as when a chair or stool is moved",
+    "example": [
+      {
+        "file": "gata-1a",
+        "contributor": "",
+        "display": "ガタ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "gata-1b",
+        "contributor": "",
+        "display": "ガタ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "gata-1c",
+        "contributor": "",
+        "display": "ガタッ",
+        "source": "hikaro_no_go"
+      }
+    ]
+  }],
+  "literal": "gata"
+}

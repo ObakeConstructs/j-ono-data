@@ -1,0 +1,73 @@
+{
+  "hiragana": [
+    "どす",
+    "どすぅ"
+  ],
+  "katakana": [
+    "ドス",
+    "ドスゥ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "blow",
+        "chop",
+        "clobber",
+        "clout",
+        "crunch",
+        "hit",
+        "impact",
+        "knock",
+        "pelt",
+        "pound",
+        "punch",
+        "slam",
+        "slug",
+        "strike",
+        "thud",
+        "thunk",
+        "wham"
+      ],
+      "meaning": "the sound of a strike in a fight, typically non-lethal",
+      "example": [
+        {
+          "file": "dosu-1a",
+          "contributor": "",
+          "display": "ドス",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "dosu-1b",
+          "contributor": "",
+          "display": "ドスゥ",
+          "source": "different_world_smartphone"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "crash",
+        "slam",
+        "smack",
+        "thud",
+        "thump",
+        "thunk",
+        "whack",
+        "wham",
+        "whap",
+        "whomp"
+      ],
+      "meaning": "to drop something roughly or to sit down heavily",
+      "example": [{
+        "file": "dosu-2a",
+        "contributor": "",
+        "display": "どすぅ",
+        "source": "hikaro_no_go"
+      }]
+    }
+  ],
+  "literal": "dosu"
+}

@@ -1,0 +1,25 @@
+{
+  "hiragana": [
+    "がぶ",
+    "がぶっ"
+  ],
+  "katakana": [
+    "ガブ",
+    "ガブッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bite",
+      "chomp",
+      "crunch"
+    ],
+    "meaning": "a strong bite",
+    "example": [{
+      "file": "gabu-1a",
+      "contributor": "",
+      "display": "ガブッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gabu"
+}

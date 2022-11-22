@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ぺたぺた"],
+  "katakana": ["ペタペタ"],
+  "definition": [{
+    "equivalent": [
+      "bap bap",
+      "pat pat",
+      "poke poke",
+      "press press"
+    ],
+    "meaning": "to press repeatedly",
+    "example": [{
+      "file": "peta_peta-1a",
+      "contributor": "",
+      "display": "ぺた  ぺた",
+      "source": "reincarnated_aristocrat"
+    }]
+  }],
+  "literal": "peta peta"
+}

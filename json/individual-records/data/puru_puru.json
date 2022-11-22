@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ぷるぷる"],
+  "katakana": ["プルプル"],
+  "definition": [{
+    "equivalent": [
+      "quiver",
+      "shiver",
+      "shudder",
+      "tremble"
+    ],
+    "meaning": "an indication of shaking, as from cold, fear, or effort",
+    "example": [{
+      "file": "puru_puru-1a",
+      "contributor": "",
+      "display": "ぷる  ぷる",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "puru puru"
+}

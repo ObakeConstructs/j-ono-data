@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "こんこん",
+    "こんこんっ"
+  ],
+  "katakana": [
+    "コンコン",
+    "コンコンッ"
+  ],
+  "definition": [{
+    "equivalent": ["knock knock"],
+    "meaning": "the sound of someone knocking on a door",
+    "example": [
+      {
+        "file": "kon_kon-1a",
+        "contributor": "",
+        "display": "コン  コン",
+        "source": "d_genesis"
+      },
+      {
+        "file": "kon_kon-1b",
+        "contributor": "",
+        "display": "コン  コンッ",
+        "source": "s_rank_behemoth"
+      }
+    ]
+  }],
+  "literal": "kon kon"
+}

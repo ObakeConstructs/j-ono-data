@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ぎゅむ",
+    "ぎゅむっ"
+  ],
+  "katakana": [
+    "ギュム",
+    "ギュムッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "embrace",
+      "grab",
+      "hug",
+      "squeeze",
+      "wrap"
+    ],
+    "meaning": "the act of embracing or hugging",
+    "example": [{
+      "file": "gyumu-1a",
+      "contributor": "",
+      "display": "ぎゅむっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gyumu"
+}

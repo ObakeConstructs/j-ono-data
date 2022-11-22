@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "ぽんぽん",
+    "ぽんぽんっ"
+  ],
+  "katakana": [
+    "ポンポン",
+    "ポンポンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "pat pat",
+      "pet pet",
+      "stroke stroke"
+    ],
+    "meaning": "to continuously pat or stroke in a gentle manner",
+    "example": [
+      {
+        "file": "pon_pon-1a",
+        "contributor": "",
+        "display": "ポン  ポン",
+        "source": "hello_work"
+      },
+      {
+        "file": "pon_pon_1b",
+        "contributor": "",
+        "display": "ポン  ポン",
+        "source": "abandoned_reincarnation_sage"
+      }
+    ]
+  }],
+  "literal": "pon pon"
+}

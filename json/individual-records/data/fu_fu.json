@@ -1,0 +1,62 @@
+{
+  "hiragana": [
+    "ふふ",
+    "ふふっ",
+    "ふふふ",
+    "ふーふー"
+  ],
+  "katakana": [
+    "フフ",
+    "フフッ",
+    "フフフ",
+    "フーフー"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "chortle",
+        "chuckle",
+        "ha ha",
+        "heh heh",
+        "laugh"
+      ],
+      "meaning": "a light laugh",
+      "example": [
+        {
+          "file": "fu_fu-1a",
+          "contributor": "",
+          "display": "フフフ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "fu_fu-1b",
+          "contributor": "",
+          "display": "ふふっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "fu_fu-1c",
+          "contributor": "",
+          "display": "ふふ",
+          "source": "dog_became_strongest"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "blow blow",
+        "breath breath",
+        "exhale",
+        "huff huff"
+      ],
+      "meaning": "to repeatedly exhale in a controlled manner, as to blow air onto something",
+      "example": [{
+        "file": "fu_fu-2a",
+        "contributor": "",
+        "display": "フー  フー",
+        "source": "otherworld_material_collector"
+      }]
+    }
+  ],
+  "literal": "fu fu"
+}

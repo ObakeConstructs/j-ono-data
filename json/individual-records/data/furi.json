@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "ふり",
+    "ふりっ"
+  ],
+  "katakana": [
+    "フリ",
+    "フリッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "pivot",
+      "spin",
+      "swing",
+      "swivel",
+      "turn",
+      "twist"
+    ],
+    "meaning": "to quickly turn or look away",
+    "example": [{
+      "file": "furi-1a",
+      "contributor": "",
+      "display": "ふりっ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "furi"
+}

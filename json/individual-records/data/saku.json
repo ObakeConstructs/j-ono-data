@@ -1,0 +1,20 @@
+{
+  "hiragana": ["さく"],
+  "katakana": ["サク"],
+  "definition": [{
+    "equivalent": [
+      "crunch",
+      "crush",
+      "step",
+      "walk"
+    ],
+    "meaning": "sound of someone walking, as on grass or gravel",
+    "example": [{
+      "file": "saku-1a",
+      "contributor": "",
+      "display": "ザーッ",
+      "source": "a_rank_slow_life"
+    }]
+  }],
+  "literal": "saku"
+}

@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ぞろ",
+    "ぞろっ"
+  ],
+  "katakana": [
+    "ゾロ",
+    "ゾロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clan",
+      "crowd",
+      "gang",
+      "horde",
+      "mass",
+      "mob",
+      "pack",
+      "throng"
+    ],
+    "meaning": "a large number of persons or creatures massed together",
+    "example": [{
+      "file": "zoro-1a",
+      "contributor": "",
+      "display": "ぞろっ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "zoro"
+}

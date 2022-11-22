@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ゔ",
+    "ゔっ",
+    "ゔー",
+    "ゔーっ"
+  ],
+  "katakana": [
+    "ヴ",
+    "ヴッ",
+    "ヴー",
+    "ヴーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "choke",
+      "gag",
+      "mphh",
+      "wmphh"
+    ],
+    "meaning": "an expression of revulsion as if trying not to retch.",
+    "example": [{
+      "file": "vu-1a",
+      "contributor": "",
+      "display": "ゔっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "vu"
+}

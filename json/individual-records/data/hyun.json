@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "ひゅん",
+    "ひゅんっ"
+  ],
+  "katakana": [
+    "ヒュン",
+    "ヒュンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "shoom",
+      "swoosh",
+      "whish",
+      "whiz",
+      "whom",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "meaning": "something moving quickly through the air",
+    "example": [
+      {
+        "file": "hyun-1a",
+        "contributor": "",
+        "display": "ヒュンッ",
+        "source": "hello_work"
+      },
+      {
+        "file": "hyun-1b",
+        "contributor": "",
+        "display": "ヒュン",
+        "source": "hanako_24th_ward"
+      }
+    ]
+  }],
+  "literal": "hyun"
+}

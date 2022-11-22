@@ -1,0 +1,81 @@
+{
+  "hiragana": [
+    "ぽん",
+    "ぽんっ"
+  ],
+  "katakana": [
+    "ポン",
+    "ポンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "pon",
+        "poof"
+      ],
+      "meaning": "the sound of a magical effect, often accompanied with a cute puffs of smoke or dust, as in magically appearing or disappearing",
+      "example": [{
+        "file": "pon-1a",
+        "contributor": "",
+        "display": "ポンッ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "bap",
+        "bop",
+        "clap",
+        "pat",
+        "poke",
+        "swat",
+        "tap",
+        "thump"
+      ],
+      "meaning": "the sound of a soft strike or blow not intended to harm",
+      "example": [
+        {
+          "file": "pon-2a",
+          "contributor": "",
+          "display": "ぽん",
+          "source": "d_genesis"
+        },
+        {
+          "file": "pon-2b",
+          "contributor": "",
+          "display": "ぽんっ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "pon-2c",
+          "contributor": "",
+          "display": "ポンッ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "pon-2d",
+          "contributor": "",
+          "display": "ポン",
+          "source": "otherworld_material_collector"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "give",
+        "hand",
+        "hand over",
+        "pass",
+        "toss"
+      ],
+      "meaning": "to give something to someone else",
+      "example": [{
+        "file": "pon-3a",
+        "contributor": "",
+        "display": "ポンッ",
+        "source": "reincarnated_aristocrat"
+      }]
+    }
+  ],
+  "literal": "pon"
+}

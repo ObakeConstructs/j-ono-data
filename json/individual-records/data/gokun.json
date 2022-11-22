@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ごくん"],
+  "katakana": ["ゴクン"],
+  "definition": [{
+    "equivalent": [
+      "drink",
+      "gulp",
+      "quaff",
+      "swallow"
+    ],
+    "meaning": "the sound of gulping or swallowing",
+    "example": [{
+      "file": "gokun-1a",
+      "contributor": "",
+      "display": "ゴクン",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "gokun"
+}

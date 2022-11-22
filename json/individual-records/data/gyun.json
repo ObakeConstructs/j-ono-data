@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "ぎゅん",
+    "ぎゅんっ"
+  ],
+  "katakana": [
+    "ギュン",
+    "ギュンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "revolve",
+      "rotate",
+      "spin",
+      "turn",
+      "twirl",
+      "whirl"
+    ],
+    "meaning": "to spin in circles, typically very fast",
+    "example": [{
+      "file": "gyun-1a",
+      "contributor": "",
+      "display": "ギュン",
+      "source": "reincarnated_sage_daughters"
+    }]
+  }],
+  "literal": "gyun"
+}

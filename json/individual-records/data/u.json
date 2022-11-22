@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "う",
+    "うー",
+    "うっ",
+    "うーっ"
+  ],
+  "katakana": [
+    "ウ",
+    "ウー",
+    "ウッ",
+    "ウーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ugh",
+      "uh",
+      "uhn",
+      "urgh"
+    ],
+    "meaning": "appalled, discouraged, dismayed",
+    "example": [{
+      "file": "u-1a",
+      "contributor": "",
+      "display": "うっ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "u"
+}

@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ざく",
+    "ざくっ"
+  ],
+  "katakana": [
+    "ザク",
+    "ザクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "impale",
+      "jab",
+      "pierce",
+      "skewer",
+      "stab"
+    ],
+    "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
+    "example": [{
+      "file": "zaku-1a",
+      "contributor": "",
+      "display": "ザクッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "zaku"
+}

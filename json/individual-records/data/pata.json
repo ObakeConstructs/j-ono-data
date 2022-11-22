@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ぱた",
+    "ぱたっ"
+  ],
+  "katakana": [
+    "パタ",
+    "パタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "collapse",
+      "fall",
+      "flop",
+      "flump",
+      "plunk",
+      "topple",
+      "tumble"
+    ],
+    "meaning": "an indication of falling from an upright position",
+    "example": [{
+      "file": "pata-1a",
+      "contributor": "",
+      "display": "パタ",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "pata"
+}

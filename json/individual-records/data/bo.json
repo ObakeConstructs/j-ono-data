@@ -1,0 +1,59 @@
+{
+  "hiragana": [
+    "ぼ",
+    "ぼっ",
+    "ぼー",
+    "ぼーっ"
+  ],
+  "katakana": [
+    "ボ",
+    "ボッ",
+    "ボー",
+    "ボーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "blaze",
+        "burn",
+        "fwoosh",
+        "ignite",
+        "torch"
+      ],
+      "meaning": "to set on fire or to be on fire",
+      "example": [{
+        "file": "bo-1a",
+        "contributor": "",
+        "display": "ボッ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "day-dream",
+        "distracted",
+        "dopey",
+        "dozy",
+        "dreamy",
+        "drowsey",
+        "groggy",
+        "hazy",
+        "languid",
+        "lethargic",
+        "listless",
+        "relaxed",
+        "sluggish",
+        "spacey",
+        "vacant"
+      ],
+      "meaning": "an indication of a lack of mental enery or a lack of attention",
+      "example": [{
+        "file": "bo-2a",
+        "contributor": "",
+        "display": "ぼー",
+        "source": "s_rank_behemoth"
+      }]
+    }
+  ],
+  "literal": "bo"
+}

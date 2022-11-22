@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "しゃ",
+    "しゃっ",
+    "しや",
+    "しやっ"
+  ],
+  "katakana": [
+    "シャ",
+    "シャッ",
+    "シヤ",
+    "シヤッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cut",
+      "slice",
+      "slit"
+    ],
+    "meaning": "the sound of cutting into something, as with a sharp knife",
+    "example": [{
+      "file": "sha-1a",
+      "contributor": "",
+      "display": "シヤッ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "sha"
+}

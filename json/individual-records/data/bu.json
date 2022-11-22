@@ -1,0 +1,43 @@
+{
+  "hiragana": [
+    "ぶ",
+    "ぶっ",
+    "ぶー",
+    "ぶーっ"
+  ],
+  "katakana": [
+    "ブ",
+    "ブッ",
+    "ブー",
+    "ブーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blarg",
+      "bleh",
+      "expectorate",
+      "ptoo",
+      "ptooey",
+      "spat",
+      "spit",
+      "spit out",
+      "sploosh"
+    ],
+    "meaning": "to spit or otherwise eject something from the mouth",
+    "example": [
+      {
+        "file": "bu-1a",
+        "contributor": "",
+        "display": "ブーッ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "bu-1b",
+        "contributor": "",
+        "display": "ぶーっ",
+        "source": "hikaro_no_go"
+      }
+    ]
+  }],
+  "literal": "bu"
+}

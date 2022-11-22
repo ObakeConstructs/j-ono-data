@@ -1,0 +1,40 @@
+{
+  "hiragana": [
+    "がさ",
+    "がさっ"
+  ],
+  "katakana": [
+    "ガサ",
+    "ガサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flap",
+      "murmur",
+      "rustle",
+      "swish"
+    ],
+    "meaning": "a small natural sound of movement, as the movement of leaves or grass in the wind or fabric sliding",
+    "example": [
+      {
+        "file": "gasa-1a",
+        "contributor": "",
+        "display": "ガサ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "gasa-1b",
+        "contributor": "",
+        "display": "ガサ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "gasa-1c",
+        "contributor": "",
+        "display": "ガサッ",
+        "source": "a_rank_slow_life"
+      }
+    ]
+  }],
+  "literal": "gasa"
+}

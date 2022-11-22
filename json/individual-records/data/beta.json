@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "べた",
+    "べたっ",
+    "べたぁ",
+    "べたぁっ"
+  ],
+  "katakana": [
+    "ベタ",
+    "ベタッ",
+    "ベタァ",
+    "ベタァッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cling",
+      "gummy",
+      "stick",
+      "sticky",
+      "tacky"
+    ],
+    "meaning": "an indication of something that tends to stick to something else",
+    "example": [{
+      "file": "beta-1a",
+      "contributor": "",
+      "display": "ベタァ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "beta"
+}

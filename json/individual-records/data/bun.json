@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    "ぶん",
+    "ぶんっ"
+  ],
+  "katakana": [
+    "ブン",
+    "ブンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "swish",
+        "swoosh",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "meaning": "the sound of something moving swiftly through the air",
+      "example": [{
+        "file": "bun-1a",
+        "contributor": "",
+        "display": "ブンッ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "convulse",
+        "flutter",
+        "jerk",
+        "jiggle",
+        "jolt",
+        "quiver",
+        "shake",
+        "shiver shudder",
+        "tremble",
+        "wobble"
+      ],
+      "meaning": "an irregular or violent movement",
+      "example": [{
+        "file": "bun-2a",
+        "contributor": "",
+        "display": "ブンッ",
+        "source": "world_full_of_monsters"
+      }]
+    }
+  ],
+  "literal": "bun"
+}

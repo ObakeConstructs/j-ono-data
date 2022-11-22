@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "よろ",
+    "よろっ"
+  ],
+  "katakana": [
+    "ヨロ",
+    "ヨロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "lurch",
+      "reel",
+      "shake",
+      "stagger",
+      "sway",
+      "teeter",
+      "wobble"
+    ],
+    "meaning": "unsteady or awkward movement",
+    "example": [{
+      "file": "yoro-1a",
+      "contributor": "",
+      "display": "ヨロッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "yoro"
+}

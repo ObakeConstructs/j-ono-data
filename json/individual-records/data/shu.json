@@ -1,0 +1,78 @@
+{
+  "hiragana": [
+    "しゅ",
+    "しゅっ",
+    "しゅぃ",
+    "しゅい",
+    "しゅぃぃ",
+    "しゅいい"
+  ],
+  "katakana": [
+    "シュ",
+    "シュッ",
+    "シュゥ",
+    "シュウ",
+    "シュゥゥ",
+    "シュウウ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "fwip",
+        "whiz",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
+      "example": [
+        {
+          "file": "shu-1a",
+          "contributor": "",
+          "display": "シュッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "shu-1b",
+          "contributor": "",
+          "display": "シュッ",
+          "source": "different_world_smartphone"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "fsshh",
+        "hiss",
+        "sshh",
+        "sss"
+      ],
+      "meaning": "a hissing sound",
+      "example": [{
+        "file": "shu-2a",
+        "contributor": "",
+        "display": "シュゥゥ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "block",
+        "check",
+        "halt",
+        "hinder",
+        "impede",
+        "obstruct",
+        "stop"
+      ],
+      "meaning": "a blocking maneuver in combat",
+      "example": [{
+        "file": "shu-3a",
+        "contributor": "",
+        "display": "シュッ",
+        "source": "world_full_of_monsters"
+      }]
+    }
+  ],
+  "literal": "shu"
+}

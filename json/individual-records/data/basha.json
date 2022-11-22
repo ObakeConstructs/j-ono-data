@@ -1,0 +1,24 @@
+{
+  "hiragana": ["ばしゃ"],
+  "katakana": ["バシャ"],
+  "definition": [{
+    "equivalent": [
+      "gush",
+      "jet",
+      "slosh",
+      "spew",
+      "splash",
+      "sploosh",
+      "spout",
+      "swash"
+    ],
+    "meaning": "a medium to large splashing noise",
+    "example": [{
+      "file": "basha-1a",
+      "contributor": "",
+      "display": "バシャ",
+      "source": "reincarnated_sage_daughters"
+    }]
+  }],
+  "literal": "basha"
+}

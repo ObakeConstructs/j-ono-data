@@ -1,0 +1,22 @@
+{
+  "hiragana": ["ころ"],
+  "katakana": ["コロ"],
+  "definition": [{
+    "equivalent": [
+      "drop",
+      "fall",
+      "plop",
+      "plunk",
+      "slip",
+      "topple"
+    ],
+    "meaning": "the sound of something landing after falling",
+    "example": [{
+      "file": "koro-1a",
+      "contributor": "",
+      "display": "コロ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "koro"
+}

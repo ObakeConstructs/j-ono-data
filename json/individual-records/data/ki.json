@@ -1,0 +1,49 @@
+{
+  "hiragana": [
+    "き",
+    "き",
+    "きーっ",
+    "きぃ",
+    "きぃーっ"
+  ],
+  "katakana": [
+    "キ",
+    "キッ",
+    "キーッ",
+    "キィ",
+    "キィーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "creak",
+        "screech",
+        "shriek",
+        "squeak",
+        "squeal"
+      ],
+      "meaning": "a fairly loud squeaking noise, like an old door or chair",
+      "example": [{
+        "file": "ki-1a",
+        "contributor": "",
+        "display": "キィ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "glare",
+        "glower",
+        "stare"
+      ],
+      "meaning": "to look at someone or something with anger or disapproval",
+      "example": [{
+        "file": "ki-2a",
+        "contributor": "",
+        "display": "キッ",
+        "source": "reincarnated_farm_girl"
+      }]
+    }
+  ],
+  "literal": "ki"
+}

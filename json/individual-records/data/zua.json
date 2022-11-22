@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ずあ",
+    "ずあっ"
+  ],
+  "katakana": [
+    "ズア",
+    "ズアッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "shoom",
+      "swoosh",
+      "whish",
+      "whiz",
+      "whom",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "meaning": "something suddenly and quickly moving through the air",
+    "example": [{
+      "file": "zua-1a",
+      "contributor": "",
+      "display": "ズアッ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "zua"
+}

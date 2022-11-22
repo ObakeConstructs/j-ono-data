@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "ずん",
+    "ずーん",
+    "ずうん",
+    "ずううん",
+    "ずぅん",
+    "ずぅぅん"
+  ],
+  "katakana": [
+    "ズン",
+    "ズーン",
+    "ズウン",
+    "ズウウン",
+    "ズゥン",
+    "ズゥゥン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dejected",
+      "depressed",
+      "doom",
+      "dreary",
+      "gloom",
+      "glum",
+      "mope"
+    ],
+    "meaning": "an expression of low spirits",
+    "example": [
+      {
+        "file": "zun-1a",
+        "contributor": "",
+        "display": "ずぅぅん",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "zun-1b",
+        "contributor": "",
+        "display": "ズーン",
+        "source": "komi_cant_communicate"
+      }
+    ]
+  }],
+  "literal": "zun"
+}

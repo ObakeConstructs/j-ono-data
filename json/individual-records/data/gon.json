@@ -1,0 +1,42 @@
+{
+  "hiragana": [
+    "ごん",
+    "ごんっ"
+  ],
+  "katakana": [
+    "ゴン",
+    "ゴンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bat",
+      "biff",
+      "bonk",
+      "bop",
+      "clip",
+      "gong",
+      "scuff",
+      "smack",
+      "sock",
+      "swat",
+      "thump",
+      "whack"
+    ],
+    "meaning": "to strike something in a minor or harmless manner",
+    "example": [
+      {
+        "file": "gon-1a",
+        "contributor": "",
+        "display": "ゴンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gon-1b",
+        "contributor": "",
+        "display": "ゴン",
+        "source": "komi_cant_communicate"
+      }
+    ]
+  }],
+  "literal": "gon"
+}

@@ -1,0 +1,55 @@
+{
+  "hiragana": [
+    "ぴゅ",
+    "ぴゅっ",
+    "ぴゅー",
+    "ぴゅーっ"
+  ],
+  "katakana": [
+    "ピュ",
+    "ピュッ",
+    "ピュー",
+    "ピューッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "burst",
+        "gush",
+        "jet",
+        "splurt",
+        "spout",
+        "spray",
+        "spurt",
+        "squirt"
+      ],
+      "meaning": "a stream of fluid discharged from narrow opening",
+      "example": [{
+        "file": "pyu-1a",
+        "contributor": "",
+        "display": "ピューッ",
+        "source": "hello_work"
+      }]
+    },
+    {
+      "equivalent": [
+        "dash",
+        "flee",
+        "run",
+        "swish",
+        "swoosh",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "meaning": "a sudden burst of speed, as from someone fleeing",
+      "example": [{
+        "file": "pyu-2a",
+        "contributor": "",
+        "display": "ピューッ",
+        "source": "a_rank_slow_life"
+      }]
+    }
+  ],
+  "literal": "pyu"
+}

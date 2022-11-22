@@ -1,0 +1,55 @@
+{
+  "hiragana": [
+    "しゅん",
+    "しゅんっ"
+  ],
+  "katakana": [
+    "シュン",
+    "シュンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "crestfallen",
+        "dejected",
+        "depressed",
+        "down",
+        "glum",
+        "sad",
+        "unhappy"
+      ],
+      "meaning": "expressing an unhappy feeling",
+      "example": [{
+        "file": "shun-1a",
+        "contributor": "",
+        "display": "しゅん",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "fwip",
+        "whiz",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "meaning": "to move quickly with only the sound of flowing air, often vanishing",
+      "example": [
+        {
+          "file": "shun-2a",
+          "contributor": "",
+          "display": "シュン",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "shun-2b",
+          "contributor": "",
+          "display": "シュンッ",
+          "source": "reincarnated_aristocrat"
+        }
+      ]
+    }
+  ],
+  "literal": "shun"
+}

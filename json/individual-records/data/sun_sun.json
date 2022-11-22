@@ -1,0 +1,24 @@
+{
+  "hiragana": ["すんすん"],
+  "katakana": ["スンスン"],
+  "definition": [{
+    "equivalent": [
+      "calm",
+      "composed",
+      "cool",
+      "glide",
+      "serene",
+      "skim",
+      "smooth",
+      "tranquil"
+    ],
+    "meaning": "to move calmly and smoothly",
+    "example": [{
+      "file": "sun sun-1a",
+      "contributor": "",
+      "display": "スン  スン",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "sun sun"
+}

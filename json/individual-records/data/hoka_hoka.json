@@ -1,0 +1,19 @@
+{
+  "hiragana": ["ほかほか"],
+  "katakana": ["ホカホカ"],
+  "definition": [{
+    "equivalent": [
+      "steamy",
+      "toasty",
+      "warm"
+    ],
+    "meaning": "an indication of something that is warm, typically freshly cooked food",
+    "example": [{
+      "file": "hoka_hoka-1a",
+      "contributor": "",
+      "display": "ホカ  ホカ",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "hoka hoka"
+}

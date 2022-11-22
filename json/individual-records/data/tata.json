@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "たた",
+    "たたっ",
+    "たたた"
+  ],
+  "katakana": [
+    "タタ",
+    "タタッ",
+    "タタタ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dash",
+      "quickly",
+      "run",
+      "scamper",
+      "sprint",
+      "step step",
+      "tap tap"
+    ],
+    "meaning": "to run lightly",
+    "example": [
+      {
+        "file": "tata-1a",
+        "contributor": "",
+        "display": "タタッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "tata-1b",
+        "contributor": "",
+        "display": "たたた",
+        "source": "d_genesis"
+      },
+      {
+        "file": "tata-1c",
+        "contributor": "",
+        "display": "たたた",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "literal": "tata"
+}

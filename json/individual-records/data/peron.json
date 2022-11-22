@@ -1,0 +1,19 @@
+{
+  "hiragana": ["ぺろん"],
+  "katakana": ["ペロン"],
+  "definition": [{
+    "equivalent": [
+      "lap",
+      "lick",
+      "slurp"
+    ],
+    "meaning": "the sound of a tongue licking something",
+    "example": [{
+      "file": "peron-1a",
+      "contributor": "",
+      "display": "ぺろん",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "peron"
+}

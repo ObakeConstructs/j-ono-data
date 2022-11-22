@@ -1,0 +1,65 @@
+{
+  "hiragana": [
+    "ぎ",
+    "ぎっ",
+    "ぎぃっ",
+    "ぎぃぃっ",
+    "ぎぃぃぃっ"
+  ],
+  "katakana": [
+    "ギ",
+    "ギッ",
+    "ギィッ",
+    "ギィィッ",
+    "ギィィィッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "move",
+        "rustle",
+        "swish"
+      ],
+      "meaning": "a subtle moving or shifting sound, like farbic or plants",
+      "example": [{
+        "file": "gi-1a",
+        "contributor": "",
+        "display": "ギッ",
+        "source": "hello_work"
+      }]
+    },
+    {
+      "equivalent": [
+        "creak",
+        "cry",
+        "screech",
+        "shriek",
+        "squeak",
+        "squeal",
+        "squee"
+      ],
+      "meaning": "a high pitched squeak or squeal, as from a squeaky door, an old chair or a small animalthe cry of a small animal",
+      "example": [
+        {
+          "file": "gi-2a",
+          "contributor": "",
+          "display": "ギィィィィッ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "gi-2b",
+          "contributor": "",
+          "display": "ギィ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "gi-2c",
+          "contributor": "",
+          "display": "ギ",
+          "source": "s_rank_behemoth"
+        }
+      ]
+    }
+  ],
+  "literal": "gi"
+}

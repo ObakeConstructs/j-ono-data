@@ -1,0 +1,23 @@
+{
+  "hiragana": ["かつん"],
+  "katakana": ["カツン"],
+  "definition": [{
+    "equivalent": [
+      "pound",
+      "scuff",
+      "step",
+      "stomp",
+      "tramp",
+      "tromp",
+      "trudge"
+    ],
+    "meaning": "a heavy footstep",
+    "example": [{
+      "file": "katsun-1a",
+      "contributor": "",
+      "display": "カツン",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "katsun"
+}

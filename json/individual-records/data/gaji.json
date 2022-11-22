@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "がじ",
+    "がじっ"
+  ],
+  "katakana": [
+    "ガジ",
+    "ガジッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bite",
+      "chew",
+      "gnaw",
+      "grind"
+    ],
+    "meaning": "to bite or chew on something",
+    "example": [{
+      "file": "gaji_1a",
+      "contributor": "",
+      "display": "がじっ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "gaji"
+}

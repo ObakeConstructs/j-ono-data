@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    "ぽ",
+    "ぽっ",
+    "ぽー",
+    "ぽーっ"
+  ],
+  "katakana": [
+    "ポ",
+    "ポッ",
+    "ポー",
+    "ポーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bright",
+        "flame",
+        "glow",
+        "light"
+      ],
+      "meaning": "an indication that something is emitting light",
+      "example": [{
+        "file": "po-1a",
+        "contributor": "",
+        "display": "ポ",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "fixate",
+        "focused",
+        "gawk",
+        "gaze",
+        "peer",
+        "riveted",
+        "stare"
+      ],
+      "meaning": "riveted in wonder or surprise, typical in love-at-first-sight senarios",
+      "example": [{
+        "file": "po-2a",
+        "contributor": "",
+        "display": "ぽー",
+        "source": "world_full_of_monsters"
+      }]
+    }
+  ],
+  "literal": "po"
+}

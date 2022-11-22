@@ -1,0 +1,25 @@
+{
+  "hiragana": [
+    "ぽと",
+    "ぽとっ"
+  ],
+  "katakana": [
+    "ポト",
+    "ポトッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drop",
+      "lower",
+      "release"
+    ],
+    "meaning": "to cause or allow something to fall",
+    "example": [{
+      "file": "poto-1a",
+      "contributor": "",
+      "display": "ポトッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "poto"
+}

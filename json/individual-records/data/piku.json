@@ -1,0 +1,66 @@
+{
+  "hiragana": [
+    "ぴく",
+    "ぴくっ"
+  ],
+  "katakana": [
+    "ピク",
+    "ピクッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "cringe",
+        "flinch",
+        "quail",
+        "recoil",
+        "twitch",
+        "wince"
+      ],
+      "meaning": "to tense up from surprise or fear",
+      "example": [
+        {
+          "file": "piku-1a",
+          "contributor": "",
+          "display": "ぴくっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "piku-1b",
+          "contributor": "",
+          "display": "ピクッ",
+          "source": "world_full_of_monsters"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "fiddle",
+        "fidget",
+        "move",
+        "twitch"
+      ],
+      "meaning": "a small, deliberate movement",
+      "example": [{
+        "file": "piku-2a",
+        "contributor": "",
+        "display": "ピク",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "blink",
+        "squint"
+      ],
+      "meaning": "to rapidly open and close one's eyes, as from slumber",
+      "example": [{
+        "file": "piku-3a",
+        "contributor": "",
+        "display": "ぴく",
+        "source": "s_rank_behemoth"
+      }]
+    }
+  ],
+  "literal": "piku"
+}

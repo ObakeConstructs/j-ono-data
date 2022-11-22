@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "びくん",
+    "びくーん"
+  ],
+  "katakana": [
+    "ビクン",
+    "ビクーン"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "meaning": "a strong indication of shaking",
+      "example": [{
+        "file": "bikun-1a",
+        "contributor": "",
+        "display": "ビクン",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "flinch",
+        "jerk",
+        "jolt",
+        "shudder",
+        "startle"
+      ],
+      "meaning": "an expression surprise or startlement",
+      "example": [{
+        "file": "bikun-2a",
+        "contributor": "",
+        "display": "ビクーン",
+        "source": "hello_work"
+      }]
+    }
+  ],
+  "literal": "bikun"
+}

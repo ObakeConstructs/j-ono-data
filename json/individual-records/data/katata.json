@@ -1,0 +1,18 @@
+{
+  "hiragana": ["かたた"],
+  "katakana": ["カタタ"],
+  "definition": [{
+    "equivalent": [
+      "click click click",
+      "tap tap tap"
+    ],
+    "meaning": "rapid typing on a modern keyboard",
+    "example": [{
+      "file": "katata-1a",
+      "contributor": "",
+      "display": "カタタ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "katata"
+}

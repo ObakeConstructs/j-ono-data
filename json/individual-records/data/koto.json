@@ -1,0 +1,40 @@
+{
+  "hiragana": [
+    "こと",
+    "ことっ"
+  ],
+  "katakana": [
+    "コト",
+    "コトッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "click",
+      "clunk",
+      "tap",
+      "touch"
+    ],
+    "meaning": "to put down or touch gently",
+    "example": [
+      {
+        "file": "koto-1a",
+        "contributor": "",
+        "display": "コトッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "koto-1b",
+        "contributor": "",
+        "display": "コト",
+        "source": "d_genesis"
+      },
+      {
+        "file": "koto-1c",
+        "contributor": "",
+        "display": "コト",
+        "source": "marginal_taylor"
+      }
+    ]
+  }],
+  "literal": "koto"
+}

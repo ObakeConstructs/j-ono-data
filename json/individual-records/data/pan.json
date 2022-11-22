@@ -1,0 +1,56 @@
+{
+  "hiragana": [
+    "ぱん",
+    "ぱんっ",
+    "ぱぁん",
+    "ぱぁんっ"
+  ],
+  "katakana": [
+    "パン",
+    "パンッ",
+    "パァン",
+    "パァンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "bang",
+      "clap",
+      "crash",
+      "impact",
+      "pow",
+      "slam",
+      "slap",
+      "smack",
+      "strike"
+    ],
+    "meaning": "a sudden resounding strike, often loud",
+    "example": [
+      {
+        "file": "pan-1a",
+        "contributor": "",
+        "display": "パンッ,  パン",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "pan-1b",
+        "contributor": "",
+        "display": "パァンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "pan-1c",
+        "contributor": "",
+        "display": "ぱんっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "pan-1d",
+        "contributor": "",
+        "display": "パン",
+        "source": "reincarnated_farm_girl"
+      }
+    ]
+  }],
+  "literal": "pan"
+}

@@ -1,0 +1,84 @@
+{
+  "hiragana": [
+    "ぐ",
+    "ぐっ",
+    "ぐー",
+    "ぐーっ"
+  ],
+  "katakana": [
+    "グ",
+    "グッ",
+    "グー",
+    "グーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "clench",
+        "firm grip",
+        "grab",
+        "grasp",
+        "grip",
+        "hold",
+        "squeeze"
+      ],
+      "meaning": "the act of grabbing something strongly and holding it",
+      "example": [
+        {
+          "file": "gu-1a",
+          "contributor": "",
+          "display": "ぐっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "gu-1b",
+          "contributor": "",
+          "display": "グッ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "gu-1c",
+          "contributor": "",
+          "display": "ぐ",
+          "source": "strongest_failure_frame"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "drive",
+        "force",
+        "propel",
+        "push",
+        "ram",
+        "shove",
+        "thrust"
+      ],
+      "meaning": "to push or drive with force",
+      "example": [{
+        "file": "gu-2a",
+        "contributor": "",
+        "display": "ぐっ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "breath",
+        "gasp",
+        "huff",
+        "pant",
+        "puff",
+        "wheeze"
+      ],
+      "meaning": "the breath hard as an expression of pain",
+      "example": [{
+        "file": "gu-3a",
+        "contributor": "",
+        "display": "ぐっ",
+        "source": "world_full_of_monsters"
+      }]
+    }
+  ],
+  "literal": "gu"
+}

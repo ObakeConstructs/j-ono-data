@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "あん",
+    "あーん"
+  ],
+  "katakana": [
+    "アン",
+    "アーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aah",
+      "ahh",
+      "mah",
+      "wah"
+    ],
+    "meaning": "a wide open mouth, as preparing to eat something",
+    "example": [{
+      "file": "an-1a",
+      "contributor": "",
+      "display": "あーん",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "an"
+}

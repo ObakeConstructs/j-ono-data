@@ -1,0 +1,24 @@
+{
+  "hiragana": ["てくてく"],
+  "katakana": ["テクテク"],
+  "definition": [{
+    "equivalent": [
+      "march march",
+      "pad  pad",
+      "step step",
+      "stomp stomp",
+      "stride stride",
+      "tread tread",
+      "tromp tromp",
+      "walk walk"
+    ],
+    "meaning": "to walk at a relatively moderate pace",
+    "example": [{
+      "file": "teku_teku-1a",
+      "contributor": "",
+      "display": "てく  てく",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "teku teku"
+}

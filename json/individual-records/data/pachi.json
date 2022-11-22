@@ -1,0 +1,61 @@
+{
+  "hiragana": [
+    "ぱち",
+    "ぱちっ"
+  ],
+  "katakana": [
+    "パチ",
+    "パチッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "clack",
+        "click",
+        "clink",
+        "snap",
+        "tap",
+        "tick"
+      ],
+      "meaning": "the sound of a short sharp click, as with placing a piece on a go board",
+      "example": [
+        {
+          "file": "pachi-1a",
+          "contributor": "",
+          "display": "ぱちっ",
+          "source": "hikaro_no_go"
+        },
+        {
+          "file": "pachi-1b",
+          "contributor": "",
+          "display": "パチッ",
+          "source": "hikaro_no_go"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "blink",
+        "open",
+        "snap",
+        "squint"
+      ],
+      "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
+      "example": [
+        {
+          "file": "pachi-2a",
+          "contributor": "",
+          "display": "パチ",
+          "source": "weakest_occupation_blacksmith"
+        },
+        {
+          "file": "pachi-2b",
+          "contributor": "",
+          "display": "ぱちっ",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
+    }
+  ],
+  "literal": "pachi"
+}

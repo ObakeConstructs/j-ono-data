@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "ぐる",
+    "ぐるっ",
+    "ぐるる",
+    "ぐるるる"
+  ],
+  "katakana": [
+    "グル",
+    "グルッ",
+    "グルル",
+    "グルルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "growl",
+      "grumble",
+      "rumble",
+      "snarl"
+    ],
+    "meaning": "a low, gutteral noise",
+    "example": [
+      {
+        "file": "guru-1a",
+        "contributor": "",
+        "display": "ぐるるるるる",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "guru-1b",
+        "contributor": "",
+        "display": "ぐるるるる",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "guru-1c",
+        "contributor": "",
+        "display": "グルルル",
+        "source": "kuma_kuma_kuma_bear"
+      }
+    ]
+  }],
+  "literal": "guru"
+}

@@ -1,0 +1,21 @@
+{
+  "hiragana": ["がきぃん"],
+  "katakana": ["ガキィン"],
+  "definition": [{
+    "equivalent": [
+      "break",
+      "ga-king",
+      "ka-clang",
+      "rive",
+      "snap"
+    ],
+    "meaning": "the sound of something metalic breaking",
+    "example": [{
+      "file": "gakyin-1a",
+      "contributor": "",
+      "display": "ガキィン",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "gakyin"
+}

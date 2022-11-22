@@ -1,0 +1,21 @@
+{
+  "hiragana": ["きゃん"],
+  "katakana": ["キャン"],
+  "definition": [{
+    "equivalent": [
+      "bark",
+      "woof",
+      "yap",
+      "yelp",
+      "yip"
+    ],
+    "meaning": "the bark of a dog or wolf, typically of a smaller variety",
+    "example": [{
+      "file": "kyan-1a",
+      "contributor": "",
+      "display": "キャン",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "kyan"
+}

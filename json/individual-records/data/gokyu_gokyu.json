@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ごきゅごきゅ"],
+  "katakana": ["ゴキュゴキュ"],
+  "definition": [{
+    "equivalent": [
+      "drink drink",
+      "gulp gulp",
+      "quaff quaff",
+      "swallow swallow"
+    ],
+    "meaning": "the sound of swallowing a liquid",
+    "example": [{
+      "file": "gokyu_gokyu-1a",
+      "contributor": "",
+      "display": "ごきゅ  ごきゅ",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "gokyu gokyu"
+}

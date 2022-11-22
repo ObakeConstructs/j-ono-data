@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "がさがさ",
+    "がさがさっ"
+  ],
+  "katakana": [
+    "ガサガサ",
+    "ガサガサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "movement",
+      "rustle rustle",
+      "stir stir",
+      "swish swish"
+    ],
+    "meaning": "continuous small natural sounds, as the movement of leaves or underbrush",
+    "example": [
+      {
+        "file": "gasa_gasa-1a",
+        "contributor": "",
+        "display": "ガサ  ガサ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "gasa_gasa-1b",
+        "contributor": "",
+        "display": "ガサ  ガサッ",
+        "source": "reincarnated_aristocrat"
+      }
+    ]
+  }],
+  "literal": "gasa gasa"
+}

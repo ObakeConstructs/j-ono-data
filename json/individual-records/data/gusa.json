@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ぐさ",
+    "ぐさっ"
+  ],
+  "katakana": [
+    "グサ",
+    "グサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "impale",
+      "jab",
+      "pierce",
+      "skewer",
+      "stab"
+    ],
+    "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
+    "example": [{
+      "file": "gusa-1a",
+      "contributor": "",
+      "display": "グサッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gusa"
+}

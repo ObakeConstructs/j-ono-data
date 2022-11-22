@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "ふら",
+    "ふらっ"
+  ],
+  "katakana": [
+    "フラ",
+    "フラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dizzy",
+      "faint",
+      "swoon",
+      "woozy"
+    ],
+    "meaning": "a temporary loss or near loss of consciousness",
+    "example": [
+      {
+        "file": "fura-1a",
+        "contributor": "",
+        "display": "フラッ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "fura-1b",
+        "contributor": "",
+        "display": "フラ",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "literal": "fura"
+}

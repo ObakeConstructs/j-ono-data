@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "ずば",
+    "ずばっ"
+  ],
+  "katakana": [
+    "ズバ",
+    "ズバッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "slash",
+      "slice"
+    ],
+    "meaning": "a cut, as with a sword or knife",
+    "example": [{
+      "file": "zuba-1a",
+      "contributor": "",
+      "display": "ズバッ",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "zuba"
+}

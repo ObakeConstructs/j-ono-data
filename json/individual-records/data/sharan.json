@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "しゃらん",
+    "しゃらーん"
+  ],
+  "katakana": [
+    "シャラン",
+    "シャラーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clack",
+      "clatter",
+      "clink",
+      "rattle"
+    ],
+    "meaning": "a light rattling sound",
+    "example": [{
+      "file": "sharan-1a",
+      "contributor": "",
+      "display": "シャラーン",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "sharan"
+}

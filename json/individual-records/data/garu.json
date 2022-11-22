@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "がる",
+    "がるる"
+  ],
+  "katakana": [
+    "ガル",
+    "ガルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "growl",
+      "grumble",
+      "rumble",
+      "snarl"
+    ],
+    "meaning": "a low, gutteral noise",
+    "example": [{
+      "file": "garu-1a",
+      "contributor": "",
+      "display": "ガルル",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "garu"
+}

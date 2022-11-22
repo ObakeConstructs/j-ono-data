@@ -1,0 +1,19 @@
+{
+  "hiragana": ["ぱか"],
+  "katakana": ["パカ"],
+  "definition": [{
+    "equivalent": [
+      "hoorah",
+      "ta-da",
+      "wow"
+    ],
+    "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
+    "example": [{
+      "file": "paka-1a",
+      "contributor": "",
+      "display": "パカ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "paka"
+}

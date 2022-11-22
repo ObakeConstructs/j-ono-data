@@ -1,0 +1,41 @@
+{
+  "hiragana": [
+    "ちら",
+    "ちらっ"
+  ],
+  "katakana": [
+    "チラ",
+    "チラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "glance",
+      "glimpse",
+      "look",
+      "peek",
+      "view"
+    ],
+    "meaning": "a quick or hasty look",
+    "example": [
+      {
+        "file": "chira-1a",
+        "contributor": "",
+        "display": "チラ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "chira-1b",
+        "contributor": "",
+        "display": "ちらっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "chira-1c",
+        "contributor": "",
+        "display": "チラッ",
+        "source": "kuma_kuma_kuma_bear"
+      }
+    ]
+  }],
+  "literal": "chira"
+}

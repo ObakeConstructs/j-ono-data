@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "にこ",
+    "にこっ",
+    "にこオ",
+    "にこォ"
+  ],
+  "katakana": [
+    "ニコ",
+    "ニコッ",
+    "ニコオ",
+    "ニコォ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beam",
+      "grin",
+      "smile",
+      "smirk"
+    ],
+    "meaning": "an expression happiness, amusement, or agreement",
+    "example": [
+      {
+        "file": "niko-1a",
+        "contributor": "",
+        "display": "ニコッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "niko-1b",
+        "contributor": "",
+        "display": "にこっ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "niko-1c",
+        "contributor": "",
+        "display": "ニコォ",
+        "source": "weakest_occupation_blacksmith"
+      }
+    ]
+  }],
+  "literal": "niko"
+}

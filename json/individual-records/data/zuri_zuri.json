@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ずりずり"],
+  "katakana": ["ズリズリ"],
+  "definition": [{
+    "equivalent": [
+      "drag drag",
+      "move move",
+      "pull pull",
+      "slide slide"
+    ],
+    "meaning": "to repeatedly slide or drag something",
+    "example": [{
+      "file": "zuri_zuri-1a",
+      "contributor": "",
+      "display": "ズリズリ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "zuri zuri"
+}

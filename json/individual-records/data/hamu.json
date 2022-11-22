@@ -1,0 +1,20 @@
+{
+  "hiragana": ["はむ"],
+  "katakana": ["ハム"],
+  "definition": [{
+    "equivalent": [
+      "bite",
+      "chew",
+      "gnaw",
+      "grind"
+    ],
+    "meaning": "to bite or chew on something",
+    "example": [{
+      "file": "hamu-1a",
+      "contributor": "",
+      "display": "はむ",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "hamu"
+}

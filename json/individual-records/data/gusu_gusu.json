@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ぐすぐす",
+    "ぐすっぐすっ"
+  ],
+  "katakana": [
+    "グスグス",
+    "グスッグスッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blub blub",
+      "cry cry",
+      "sob sob",
+      "tears tears",
+      "weep"
+    ],
+    "meaning": "tears welling up as an expression of pain or distress",
+    "example": [{
+      "file": "gusu_gusu-1a",
+      "contributor": "",
+      "display": "ぐすっ  ぐすっ",
+      "source": "reincarnated_aristocrat"
+    }]
+  }],
+  "literal": "gusu gusu"
+}

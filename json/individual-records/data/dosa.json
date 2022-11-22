@@ -1,0 +1,51 @@
+{
+  "hiragana": [
+    "どさ",
+    "どさっ"
+  ],
+  "katakana": [
+    "ドサ",
+    "ドサッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "buckle",
+        "collapse",
+        "fall",
+        "stumble",
+        "topple",
+        "tumble"
+      ],
+      "meaning": "to fall down from an upright position",
+      "example": [
+        {
+          "file": "dosa-1a",
+          "contributor": "",
+          "display": "どさ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "dosa-1b",
+          "contributor": "",
+          "display": "ドサッ",
+          "source": "reincarnated_sage_daughters"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "thump",
+        "whump"
+      ],
+      "meaning": "the sound of books or stacks of paper being dropped onto a surface",
+      "example": [{
+        "file": "dosa-2a",
+        "contributor": "",
+        "display": "どさ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "dosa"
+}

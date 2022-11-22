@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ばたばた"],
+  "katakana": ["バタバタ"],
+  "definition": [{
+    "equivalent": [
+      "footsteps",
+      "pitter-pat",
+      "run",
+      "step step",
+      "thump thump"
+    ],
+    "meaning": "the sound of shoes stepping across the floor",
+    "example": [{
+      "file": "bata_bata-1a",
+      "contributor": "",
+      "display": "バタ  バタ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "bata bata"
+}

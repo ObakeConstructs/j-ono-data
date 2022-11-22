@@ -1,0 +1,100 @@
+{
+  "hiragana": [
+    "どん",
+    "どんっ",
+    "どぉん",
+    "どぉぉん",
+    "どおん",
+    "どおおん"
+  ],
+  "katakana": [
+    "ドン",
+    "ドンッ",
+    "ドォン",
+    "ドォォン",
+    "ドオン",
+    "ドオオン"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "bash",
+        "boom",
+        "bop",
+        "bump",
+        "clomp",
+        "clonk",
+        "clunk",
+        "crack",
+        "crash",
+        "hit",
+        "smash",
+        "thud",
+        "thunk",
+        "wham",
+        "whump",
+        "wrack",
+        "wreck"
+      ],
+      "meaning": "a sound of things impacting, can be loud or soft depending on context",
+      "example": [
+        {
+          "file": "don-1a",
+          "contributor": "",
+          "display": "ドンッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "don-1b",
+          "contributor": "",
+          "display": "どん",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "don-1c",
+          "contributor": "",
+          "display": "ドォォン",
+          "source": "reincarnated_aristocrat"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bam",
+        "boom",
+        "dah",
+        "here",
+        "ta-da"
+      ],
+      "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
+      "example": [{
+        "file": "don-2a",
+        "contributor": "",
+        "display": "ドン",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "blast",
+        "boom",
+        "crack",
+        "pop",
+        "whomp",
+        "whump"
+      ],
+      "meaning": "a relatively small explosion",
+      "example": [{
+        "file": "don-3a",
+        "contributor": "",
+        "display": "ドオン",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }
+  ],
+  "literal": "don"
+}

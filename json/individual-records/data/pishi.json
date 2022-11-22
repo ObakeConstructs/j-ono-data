@@ -1,0 +1,53 @@
+{
+  "hiragana": [
+    "ぴし",
+    "ぴしっ"
+  ],
+  "katakana": [
+    "ピシ",
+    "ピシッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "burst",
+        "crack",
+        "shatter",
+        "smack",
+        "snap",
+        "split"
+      ],
+      "meaning": "the sound of something suddenly breaking",
+      "example": [
+        {
+          "file": "pishi-1a",
+          "contributor": "",
+          "display": "ピシッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "pishi-1b",
+          "contributor": "",
+          "display": "ピシッ",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "flick",
+        "pop",
+        "snap",
+        "zip"
+      ],
+      "meaning": "a rapid snapping to position",
+      "example": [{
+        "file": "pishi-2a",
+        "contributor": "",
+        "display": "ぴしっ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "pishi"
+}

@@ -1,0 +1,22 @@
+{
+  "hiragana": ["ぽろ"],
+  "katakana": ["ポロ"],
+  "definition": [{
+    "equivalent": [
+      "drop",
+      "fall",
+      "plop",
+      "plunk",
+      "slip",
+      "topple"
+    ],
+    "meaning": "the sound of something slipping or falling",
+    "example": [{
+      "file": "poro-1a",
+      "contributor": "",
+      "display": "ポロ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "poro"
+}

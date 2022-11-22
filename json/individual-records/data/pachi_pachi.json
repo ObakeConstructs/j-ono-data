@@ -1,0 +1,34 @@
+{
+  "hiragana": ["ぱちぱち"],
+  "katakana": ["パチパチ"],
+  "definition": [
+    {
+      "equivalent": [
+        "crackle crackle",
+        "pop pop",
+        "snap snap"
+      ],
+      "meaning": "the continuous sound of crackling, as from a fire",
+      "example": [{
+        "file": "pachi_pachi-1a",
+        "contributor": "",
+        "display": "パチ  パチ",
+        "source": "hello_work"
+      }]
+    },
+    {
+      "equivalent": [
+        "applause",
+        "clap clap"
+      ],
+      "meaning": "the sound of applause",
+      "example": [{
+        "file": "pachi_pachi-2a",
+        "contributor": "",
+        "display": "パチ  パチ",
+        "source": "reincarnated_aristocrat"
+      }]
+    }
+  ],
+  "literal": "pachi pachi"
+}

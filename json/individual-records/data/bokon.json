@@ -1,0 +1,23 @@
+{
+  "hiragana": ["ぼこん"],
+  "katakana": ["ボコン"],
+  "definition": [{
+    "equivalent": [
+      "bonk",
+      "bop",
+      "bounce",
+      "bump",
+      "thump",
+      "thunk",
+      "tok"
+    ],
+    "meaning": "the sound of something bouncing off a hard surface",
+    "example": [{
+      "file": "bokon-1a",
+      "contributor": "",
+      "display": "ボコン",
+      "source": "bungo"
+    }]
+  }],
+  "literal": "bokon"
+}

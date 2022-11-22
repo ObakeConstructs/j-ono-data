@@ -1,0 +1,28 @@
+{
+  "hiragana": ["ごくごく"],
+  "katakana": ["ゴクゴク"],
+  "definition": [{
+    "equivalent": [
+      "drink drink",
+      "gulp gulp",
+      "quaff quaff",
+      "swallow swallow"
+    ],
+    "meaning": "the repeated sounds of gulping or swallowing",
+    "example": [
+      {
+        "file": "goku_goku-1a",
+        "contributor": "",
+        "display": "ごく  ごく",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "goku_goku-1b",
+        "contributor": "",
+        "display": "ゴクゴク",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "goku goku"
+}

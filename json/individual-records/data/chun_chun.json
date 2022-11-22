@@ -1,0 +1,23 @@
+{
+  "hiragana": ["ちゅんちゅん"],
+  "katakana": ["チュンチュン"],
+  "definition": [{
+    "equivalent": [
+      "cheep cheep",
+      "chirp chirp",
+      "peep peep",
+      "pip pip",
+      "trill trill",
+      "tweet tweet",
+      "warble warble"
+    ],
+    "meaning": "a series of short sharp sound, as from a small bird",
+    "example": [{
+      "file": "chun_chun-1a",
+      "contributor": "",
+      "display": "チュン  チュン",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "chun chun"
+}

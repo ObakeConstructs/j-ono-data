@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "あはん",
+    "あはーん"
+  ],
+  "katakana": [
+    "アハン",
+    "アハーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aha-n",
+      "ahh",
+      "moan",
+      "sigh"
+    ],
+    "meaning": "a moan of pleasure, often used in a comical manner",
+    "example": [{
+      "file": "ahan-1a",
+      "contributor": "",
+      "display": "あはーん",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "ahan"
+}

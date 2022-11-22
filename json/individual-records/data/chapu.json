@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ちゃぷ"],
+  "katakana": ["チャプ"],
+  "definition": [{
+    "equivalent": [
+      "lap",
+      "plash",
+      "slosh",
+      "splash",
+      "swash"
+    ],
+    "meaning": "the sound of moving or splashing water",
+    "example": [{
+      "file": "chapu-1a",
+      "contributor": "",
+      "display": "チャプ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "chapu"
+}

@@ -1,0 +1,19 @@
+{
+  "hiragana": ["ふぁあ"],
+  "katakana": ["ファア"],
+  "definition": [{
+    "equivalent": [
+      "huff",
+      "whaa",
+      "yawn"
+    ],
+    "meaning": "a deep breath expressing tiredness or boredom",
+    "example": [{
+      "file": "faa-1a",
+      "contributor": "",
+      "display": "ふぁあ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "faa"
+}

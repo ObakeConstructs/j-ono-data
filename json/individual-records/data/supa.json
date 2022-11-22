@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "すぱ",
+    "すぱっ",
+    "すぱー",
+    "すぱーっ"
+  ],
+  "katakana": [
+    "スパ",
+    "スパッ",
+    "スパー",
+    "スパーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "slash",
+      "slice"
+    ],
+    "meaning": "a fast, heavy cut, as with a sword or knife",
+    "example": [{
+      "file": "supa-1a",
+      "contributor": "",
+      "display": "スパッ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "supa"
+}

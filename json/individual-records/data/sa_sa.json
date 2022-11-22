@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    "ささ",
+    "ささっ",
+    "さっさっ",
+    "さささっ"
+  ],
+  "katakana": [
+    "ササ",
+    "ササッ",
+    "サッサッ",
+    "サササッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "back up",
+        "hide",
+        "pull back",
+        "relent",
+        "retreat",
+        "scoot"
+      ],
+      "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
+      "example": [{
+        "file": "sa_sa-1a",
+        "contributor": "",
+        "display": "ササササッ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "brush brush",
+        "scritch scritch",
+        "sweep sweep",
+        "swish swish",
+        "swoosh swoosh"
+      ],
+      "meaning": "a repeated soft brushing sound",
+      "example": [{
+        "file": "sa_sa-2a",
+        "contributor": "",
+        "display": "サッ  サッ",
+        "source": "weakest_occupation_blacksmith"
+      }]
+    }
+  ],
+  "literal": "sa sa"
+}

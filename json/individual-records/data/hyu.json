@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "ひゅ",
+    "ひゅっ",
+    "ひゅー",
+    "ひゅーっ"
+  ],
+  "katakana": [
+    "ヒュ",
+    "ヒュッ",
+    "ヒュー",
+    "ヒューッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "shoom",
+      "swoosh",
+      "whish",
+      "whiz",
+      "whom",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "meaning": "something moving quickly through the air",
+    "example": [{
+      "file": "hyu-1a",
+      "contributor": "",
+      "display": "ヒュッ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "hyu"
+}

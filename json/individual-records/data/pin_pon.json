@@ -1,0 +1,15 @@
+{
+  "hiragana": ["ぴんぽーん"],
+  "katakana": ["ピンポーン"],
+  "definition": [{
+    "equivalent": ["ding-dong"],
+    "meaning": "the sound of a door bell",
+    "example": [{
+      "file": "pinpon-1a",
+      "contributor": "",
+      "display": "ピン  ポーン",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "pin pon"
+}

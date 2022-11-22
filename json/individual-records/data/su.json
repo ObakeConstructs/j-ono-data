@@ -1,0 +1,159 @@
+{
+  "hiragana": [
+    "す",
+    "すっ",
+    "すー",
+    "すーっ",
+    "すう",
+    "すぅ",
+    "すうう",
+    "すぅぅ",
+    "すううう",
+    "すぅぅぅ"
+  ],
+  "katakana": [
+    "ス",
+    "スッ",
+    "スー",
+    "スーッ",
+    "スウ",
+    "スゥ",
+    "スウウ",
+    "スゥゥ",
+    "スウウウ",
+    "スゥゥゥ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "ignore",
+        "pass",
+        "pass by"
+      ],
+      "meaning": "to move past someone, typically ignoring them",
+      "example": [
+        {
+          "file": "su-1a",
+          "contributor": "",
+          "display": "スッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "su-1b",
+          "contributor": "",
+          "display": "す",
+          "source": "different_world_smartphone"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "deliver",
+        "gesture",
+        "get",
+        "give",
+        "grab",
+        "hand over",
+        "pass",
+        "raise",
+        "reach",
+        "slide",
+        "stop",
+        "take",
+        "yield"
+      ],
+      "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
+      "example": [
+        {
+          "file": "su-2a",
+          "contributor": "",
+          "display": "ス",
+          "source": "d_genesis"
+        },
+        {
+          "file": "su-2b",
+          "contributor": "",
+          "display": "ス",
+          "source": "d_genesis"
+        },
+        {
+          "file": "su-2c",
+          "contributor": "",
+          "display": "ス",
+          "source": "d_genesis"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "blow out",
+        "breath in",
+        "breath out",
+        "draw in",
+        "exhale",
+        "huff",
+        "inhale"
+      ],
+      "meaning": "a deep breath, typically inhaled",
+      "example": [
+        {
+          "file": "su-3a",
+          "contributor": "",
+          "display": "スゥゥゥ",
+          "source": "hello_work"
+        },
+        {
+          "file": "su-3b",
+          "contributor": "",
+          "display": "すぅ",
+          "source": "different_world_smartphone"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bear",
+        "carry",
+        "heave",
+        "heft",
+        "hoist",
+        "lift",
+        "raise"
+      ],
+      "meaning": "the act of picking something up",
+      "example": [{
+        "file": "su-4a",
+        "contributor": "",
+        "display": "スッ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "attend",
+        "concentrate",
+        "eye",
+        "focus",
+        "glance",
+        "glare",
+        "heed",
+        "hone in",
+        "look",
+        "notice",
+        "realize",
+        "rivet",
+        "sst",
+        "view",
+        "zero in on"
+      ],
+      "meaning": "a sudden change in demeanor, as expressing a nearby threat",
+      "example": [{
+        "file": "su-5a",
+        "contributor": "",
+        "display": "スッ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "su"
+}

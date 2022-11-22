@@ -1,0 +1,19 @@
+{
+  "hiragana": ["むにゃむにゃ"],
+  "katakana": ["ムニャムニャ"],
+  "definition": [{
+    "equivalent": [
+      "dosy",
+      "drowsy",
+      "sleepy"
+    ],
+    "meaning": "expressing desire or need for sleep",
+    "example": [{
+      "file": "munya_munya-1a",
+      "contributor": "",
+      "display": "ムニャ  ムニャ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "munya munya"
+}

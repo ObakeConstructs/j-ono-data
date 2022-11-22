@@ -1,0 +1,36 @@
+{
+  "hiragana": [
+    "ぴか",
+    "ぴかっ",
+    "ぴかー",
+    "ぴかーっ"
+  ],
+  "katakana": [
+    "ピカ",
+    "ピカッ",
+    "ピカー",
+    "ピカーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bright",
+      "dazzle",
+      "gleam",
+      "glimmer",
+      "glitter",
+      "glow",
+      "light",
+      "radiance",
+      "shine",
+      "sparkle"
+    ],
+    "meaning": "a bright glowing appearance, typically metaphorical",
+    "example": [{
+      "file": "pika-1a",
+      "contributor": "",
+      "display": "ピカー",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "pika"
+}

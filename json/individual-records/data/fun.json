@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ふん",
+    "ふんっ"
+  ],
+  "katakana": [
+    "フン",
+    "フンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "arg",
+      "gah",
+      "groan",
+      "grunt",
+      "har",
+      "hmph",
+      "humph",
+      "urgh"
+    ],
+    "meaning": "the short sound of a grunt or a groan, may express strain, frustration, distress, or used as an offensive dismissal",
+    "example": [{
+      "file": "fun-1a",
+      "contributor": "",
+      "display": "フンッ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "fun"
+}

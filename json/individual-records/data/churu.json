@@ -1,0 +1,25 @@
+{
+  "hiragana": [
+    "ちゅる",
+    "ちゅるっ"
+  ],
+  "katakana": [
+    "チュル",
+    "チュルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drink",
+      "slurp",
+      "sup"
+    ],
+    "meaning": "to noisily consume a liquid or noodles",
+    "example": [{
+      "file": "churu-1a",
+      "contributor": "",
+      "display": "ちゅる",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "churu"
+}

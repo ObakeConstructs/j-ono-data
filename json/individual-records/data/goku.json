@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ごく",
+    "ごくっ"
+  ],
+  "katakana": [
+    "ゴク",
+    "ゴクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gulp",
+      "swallow"
+    ],
+    "meaning": "the sound of gulping or swallowing",
+    "example": [
+      {
+        "file": "goku-1a",
+        "contributor": "",
+        "display": "ゴクッ",
+        "source": "strongest_failure_frame"
+      },
+      {
+        "file": "goku-1b",
+        "contributor": "",
+        "display": "ゴク",
+        "source": "a_rank_slow_life"
+      }
+    ]
+  }],
+  "literal": "goku"
+}

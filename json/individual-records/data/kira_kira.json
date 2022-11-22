@@ -1,0 +1,19 @@
+{
+  "hiragana": ["きらきら"],
+  "katakana": ["キラキラ"],
+  "definition": [{
+    "equivalent": [
+      "glitter glitter",
+      "sparkle sparkle",
+      "twinkle twinkle"
+    ],
+    "meaning": "to give off or reflect bright moving points of light",
+    "example": [{
+      "file": "kira_kira-1a",
+      "contributor": "",
+      "display": "キラ  キラ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "kira kira"
+}

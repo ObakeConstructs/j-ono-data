@@ -1,0 +1,116 @@
+{
+  "hiragana": [
+    "ふ",
+    "ふっ",
+    "ふー",
+    "ふーっ",
+    "ふう",
+    "ふうっ",
+    "ふぅ",
+    "ふぅっ"
+  ],
+  "katakana": [
+    "フ",
+    "フッ",
+    "フー",
+    "フーッ",
+    "フウ",
+    "フウッ",
+    "フゥ",
+    "フゥッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "chortle",
+        "chuckle",
+        "grin",
+        "ha",
+        "heh",
+        "laugh",
+        "smile",
+        "smirk",
+        "snicker"
+      ],
+      "meaning": "a quick, short laugh or an expression of humor",
+      "example": [
+        {
+          "file": "fu-1a",
+          "contributor": "",
+          "display": "ふっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "fu-1b",
+          "contributor": "",
+          "display": "ふ",
+          "source": "d_genesis"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "disappear",
+        "fade",
+        "vanish"
+      ],
+      "meaning": "to vanish or cause something to vanish",
+      "example": [{
+        "file": "fu-2a",
+        "contributor": "",
+        "display": "フッ",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "ease",
+        "release",
+        "relief",
+        "solace"
+      ],
+      "meaning": "an expression of relief",
+      "example": [{
+        "file": "fu-3a",
+        "contributor": "",
+        "display": "ふーっ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "fwip",
+        "fwit",
+        "fwoom",
+        "pop",
+        "shoom",
+        "snap",
+        "whoom"
+      ],
+      "meaning": "a sudden and/or fast movement",
+      "example": [{
+        "file": "fu-4a",
+        "contributor": "",
+        "display": "フーッ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "gasp",
+        "ha",
+        "haa",
+        "pant",
+        "whew"
+      ],
+      "meaning": "breathing hard after light exertion",
+      "example": [{
+        "file": "fu-5a",
+        "contributor": "",
+        "display": "ふう",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "fu"
+}

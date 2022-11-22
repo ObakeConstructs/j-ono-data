@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ぱら"],
+  "katakana": ["パラ"],
+  "definition": [{
+    "equivalent": [
+      "flip",
+      "riffle",
+      "skim",
+      "thumb",
+      "turn"
+    ],
+    "meaning": "sound of turning pages of paper",
+    "example": [{
+      "file": "para-1a",
+      "contributor": "",
+      "display": "パラ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "para"
+}

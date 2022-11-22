@@ -1,0 +1,22 @@
+{
+  "hiragana": ["かん"],
+  "katakana": ["カン"],
+  "definition": [{
+    "equivalent": [
+      "clack",
+      "click",
+      "clink",
+      "snap",
+      "tap",
+      "tick"
+    ],
+    "meaning": "the sound of a strong click or snap",
+    "example": [{
+      "file": "kan-1a",
+      "contributor": "",
+      "display": "カン",
+      "source": "a_rank_slow_life"
+    }]
+  }],
+  "literal": "kan"
+}

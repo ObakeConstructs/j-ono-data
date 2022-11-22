@@ -1,0 +1,43 @@
+{
+  "hiragana": [
+    "がこん",
+    "がこんっ"
+  ],
+  "katakana": [
+    "ガコン",
+    "ガコンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clunk",
+      "ga-thunk",
+      "ka-thunk",
+      "knock",
+      "thunk",
+      "thwack",
+      "tonk"
+    ],
+    "meaning": "a light sound of an impact, often hollow as with wood or plastic",
+    "example": [
+      {
+        "file": "gakon-1a",
+        "contributor": "",
+        "display": "ガコンッ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "gakon-1b",
+        "contributor": "",
+        "display": "ガコン",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "gakon-1c",
+        "contributor": "",
+        "display": "ガコン",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "literal": "gakon"
+}

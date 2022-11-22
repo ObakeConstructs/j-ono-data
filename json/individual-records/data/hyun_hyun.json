@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ひゅんひゅん"],
+  "katakana": ["ヒュンヒュン"],
+  "definition": [{
+    "equivalent": [
+      "shoom shoom",
+      "swoosh swoosh",
+      "whish whish",
+      "whoosh whoosh",
+      "zip zip"
+    ],
+    "meaning": "something moving through the air quickly and repetitively ",
+    "example": [{
+      "file": "hyun_hyun-1a",
+      "contributor": "",
+      "display": "ヒュン  ヒュン",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "hyun hyun"
+}

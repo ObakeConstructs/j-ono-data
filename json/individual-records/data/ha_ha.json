@@ -1,0 +1,64 @@
+{
+  "hiragana": [
+    "はは",
+    "はっはっ",
+    "はぁはぁ",
+    "はあはあ",
+    "はぁっはぁっ",
+    "はあっはあっ"
+  ],
+  "katakana": [
+    "ハハ",
+    "ハッハッ",
+    "ハァハァ",
+    "ハアハア",
+    "ハァッハァッ",
+    "ハアッハアッ"
+  ],
+  "definition": [
+    {
+      "equivalent": ["haha"],
+      "meaning": "laughter",
+      "example": [{
+        "file": "ha_ha-1a",
+        "contributor": "",
+        "display": "はは",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "hah hah",
+        "pant pant"
+      ],
+      "meaning": "to breathe hard, as from exertion, fear, or excitement",
+      "example": [
+        {
+          "file": "ha_ha-2a",
+          "contributor": "",
+          "display": "はぁ  はぁ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ha_ha-2b",
+          "contributor": "",
+          "display": "ハッ  ハッ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "ha_ha-2c",
+          "contributor": "",
+          "display": "ハア  ハア  ハア",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "ha_ha-2d",
+          "contributor": "",
+          "display": "ハアッ  ハアッ  ハアッ",
+          "source": "strongest_failure_frame"
+        }
+      ]
+    }
+  ],
+  "literal": "ha ha"
+}

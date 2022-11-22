@@ -1,0 +1,20 @@
+{
+  "hiragana": ["がつがつ"],
+  "katakana": ["ガツガツ"],
+  "definition": [{
+    "equivalent": [
+      "scour scour",
+      "scrub scrub",
+      "swab swab",
+      "wash wash"
+    ],
+    "meaning": "the sound of scrubbing something clean",
+    "example": [{
+      "file": "gatsu_gatsu-1a",
+      "contributor": "",
+      "display": "ガツ  ガツ",
+      "source": "reincarnated_sage_daughters"
+    }]
+  }],
+  "literal": "gatsu gatsu"
+}

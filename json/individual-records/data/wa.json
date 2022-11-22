@@ -1,0 +1,68 @@
+{
+  "hiragana": [
+    "わ",
+    "わっ",
+    "わあ",
+    "わあっ",
+    "わああ",
+    "わあああ",
+    "わぁ",
+    "わぁっ",
+    "わぁぁ",
+    "わぁぁぁ",
+    "わーっ"
+  ],
+  "katakana": [
+    "ワ",
+    "ワッ",
+    "ワア",
+    "ワアッ",
+    "ワアア",
+    "ワアアア",
+    "ワァ",
+    "ワァッ",
+    "ワァァ",
+    "ワァァァ",
+    "ワーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bellow",
+      "howl",
+      "raaa",
+      "roar",
+      "shout",
+      "waa",
+      "yaaa",
+      "yay"
+    ],
+    "meaning": "a roar, shout or cheer, either in fear or in celebration",
+    "example": [
+      {
+        "file": "wa-1a",
+        "contributor": "",
+        "display": "わっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "wa-1b",
+        "contributor": "",
+        "display": "ワァァァ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "wa-1c",
+        "contributor": "",
+        "display": "ワァァァ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "wa-1d",
+        "contributor": "",
+        "display": "わーっ",
+        "source": "abandoned_reincarnation_sage"
+      }
+    ]
+  }],
+  "literal": "wa"
+}

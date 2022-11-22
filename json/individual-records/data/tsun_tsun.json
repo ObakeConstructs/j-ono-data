@@ -1,0 +1,19 @@
+{
+  "hiragana": ["つんつん"],
+  "katakana": ["ツンツン"],
+  "definition": [{
+    "equivalent": [
+      "pinch pinch",
+      "poke poke",
+      "tap tap"
+    ],
+    "meaning": "a series of interactions with one's fingertips",
+    "example": [{
+      "file": "tsun_tsun-1a",
+      "contributor": "",
+      "display": "つん  つん",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "tsun tsun"
+}

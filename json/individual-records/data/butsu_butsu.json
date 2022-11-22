@@ -1,0 +1,19 @@
+{
+  "hiragana": ["ぶつぶつ"],
+  "katakana": ["ブツブツ"],
+  "definition": [{
+    "equivalent": [
+      "mumble",
+      "murmer",
+      "mutter"
+    ],
+    "meaning": "to mumble quietly, typically expressing unhappiness or dissatisfaction",
+    "example": [{
+      "file": "butsu_butsu-1a",
+      "contributor": "",
+      "display": "ぶつ  ぶつ",
+      "source": "bungo"
+    }]
+  }],
+  "literal": "butsu butsu"
+}

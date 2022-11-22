@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ぷしゅー",
+    "ぷしゅーっ"
+  ],
+  "katakana": [
+    "プシュー",
+    "プシューッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fizz",
+      "hiss",
+      "psss",
+      "pssshhh",
+      "ssss"
+    ],
+    "meaning": "the sound of leaking air or gas, often used to express embarrassment",
+    "example": [{
+      "file": "pushu-1a",
+      "contributor": "",
+      "display": "プシューッ",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "pushu"
+}

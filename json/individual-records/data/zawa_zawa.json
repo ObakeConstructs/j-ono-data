@@ -1,0 +1,31 @@
+{
+  "hiragana": ["ざわざわ"],
+  "katakana": ["ザワザワ"],
+  "definition": [{
+    "equivalent": [
+      "ballyhoo",
+      "buzz",
+      "chatter",
+      "commotion",
+      "din",
+      "hubbub",
+      "ruckus"
+    ],
+    "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
+    "example": [
+      {
+        "file": "zawa_zawa-1a",
+        "contributor": "",
+        "display": "ザワ  ザワ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "zawa_zawa-1b",
+        "contributor": "",
+        "display": "ザワ  ザワ",
+        "source": "abandoned_reincarnation_sage"
+      }
+    ]
+  }],
+  "literal": "zawa zawa"
+}

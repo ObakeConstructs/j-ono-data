@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ごろごろ",
+    "ごーろごーろ"
+  ],
+  "katakana": [
+    "ゴロゴロ",
+    "ゴーロゴーロ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "purr",
+      "thrum"
+    ],
+    "meaning": "a continuous low vibration, typically from a content or pleased cat",
+    "example": [{
+      "file": "goro_goro-1a",
+      "contributor": "",
+      "display": "ゴーロ  ゴーロ",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "goro goro"
+}

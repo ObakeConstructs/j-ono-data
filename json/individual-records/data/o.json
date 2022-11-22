@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "お",
+    "おっ"
+  ],
+  "katakana": [
+    "オ",
+    "オッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "hoh",
+      "oh"
+    ],
+    "meaning": "a brief exclamation expressing surprise or recognition",
+    "example": [{
+      "file": "o-1a",
+      "contributor": "",
+      "display": "お",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "o"
+}

@@ -1,0 +1,22 @@
+{
+  "hiragana": ["ぴくぴく"],
+  "katakana": ["ピクピク"],
+  "definition": [{
+    "equivalent": [
+      "flinch flinch",
+      "jerk jerk",
+      "quiver quiver",
+      "shake shake",
+      "twitch twitch",
+      "wince wince"
+    ],
+    "meaning": "a series of jerky movements or twitches",
+    "example": [{
+      "file": "piku_piku-1a",
+      "contributor": "",
+      "display": "ピク  ピク",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "piku piku"
+}

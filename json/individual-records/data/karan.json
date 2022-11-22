@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "からん",
+    "からんっ"
+  ],
+  "katakana": [
+    "カラン",
+    "カランッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clang",
+      "clank",
+      "clump",
+      "clunk",
+      "hit",
+      "knock",
+      "plink",
+      "wham"
+    ],
+    "meaning": "a sound of a small, hard strike, typically from something being dropped",
+    "example": [{
+      "file": "karan-1a",
+      "contributor": "",
+      "display": "カラン",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "karan"
+}

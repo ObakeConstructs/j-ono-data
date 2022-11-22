@@ -1,0 +1,25 @@
+{
+  "hiragana": [
+    "と",
+    "とっ"
+  ],
+  "katakana": [
+    "ト",
+    "トッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flick",
+      "pat",
+      "tap"
+    ],
+    "meaning": "a soft, quick tap",
+    "example": [{
+      "file": "to-1a",
+      "contributor": "",
+      "display": "トッ",
+      "source": "reincarnated_aristocrat"
+    }]
+  }],
+  "literal": "to"
+}

@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ぽろぽろ"],
+  "katakana": ["ポロポロ"],
+  "definition": [{
+    "equivalent": [
+      "blub",
+      "cry",
+      "sob",
+      "tears",
+      "weep"
+    ],
+    "meaning": "shedding tears as an expression of pain or distress",
+    "example": [{
+      "file": "poro_poro-1a",
+      "contributor": "",
+      "display": "ポロ  ポロ",
+      "source": "reincarnated_farm_girl"
+    }]
+  }],
+  "literal": "poro poro"
+}

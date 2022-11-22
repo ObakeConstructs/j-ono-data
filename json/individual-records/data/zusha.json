@@ -1,0 +1,24 @@
+{
+  "hiragana": ["ずしゃ"],
+  "katakana": ["ズシャ"],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "crash",
+      "shatter",
+      "slam",
+      "smash",
+      "thud",
+      "thump",
+      "whomp"
+    ],
+    "meaning": "a hard impact from a falling or thrown person",
+    "example": [{
+      "file": "zusha-1a",
+      "contributor": "",
+      "display": "ズシャ",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "zusha"
+}

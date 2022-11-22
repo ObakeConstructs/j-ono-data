@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ぐわ",
+    "ぐわっ"
+  ],
+  "katakana": [
+    "グワ",
+    "グワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bellow",
+      "howl",
+      "roar",
+      "scream",
+      "screech",
+      "shriek",
+      "yell"
+    ],
+    "meaning": "a long, loud shout or cry",
+    "example": [{
+      "file": "guwa-1a",
+      "contributor": "",
+      "display": "ぐわっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "guwa"
+}

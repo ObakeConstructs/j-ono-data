@@ -1,0 +1,48 @@
+{
+  "hiragana": [
+    "ぎぎ",
+    "ぎぎぎ",
+    "ぎぎぎぎ"
+  ],
+  "katakana": [
+    "ギギ",
+    "ギギギ",
+    "ギギギギ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "clench",
+        "gnash",
+        "grind",
+        "grit"
+      ],
+      "meaning": "an expression of grinding one's teeth, as in pain or frustration",
+      "example": [{
+        "file": "gigi-1a",
+        "contributor": "",
+        "display": "ギギ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "creak",
+        "cry",
+        "screech",
+        "shriek",
+        "squeak",
+        "squeal",
+        "squee"
+      ],
+      "meaning": "a series of squeak or squeals, as from a door, an old chair, or a small animal",
+      "example": [{
+        "file": "gigi-2a",
+        "contributor": "",
+        "display": "ギギ",
+        "source": "s_rank_behemoth"
+      }]
+    }
+  ],
+  "literal": "gigi"
+}

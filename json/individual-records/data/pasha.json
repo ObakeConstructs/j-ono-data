@@ -1,0 +1,46 @@
+{
+  "hiragana": ["ぱしゃ"],
+  "katakana": ["パシャ"],
+  "definition": [
+    {
+      "equivalent": [
+        "slop",
+        "slosh",
+        "spatter",
+        "splash",
+        "swash"
+      ],
+      "meaning": "the sound of a small splash",
+      "example": [
+        {
+          "file": "pasha-1a",
+          "contributor": "",
+          "display": "パシャ",
+          "source": "hello_work"
+        },
+        {
+          "file": "pasha-1b",
+          "contributor": "",
+          "display": "パシャ",
+          "source": "strongest_failure_frame"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "click",
+        "flash",
+        "photo",
+        "snap"
+      ],
+      "meaning": "the sound of a camera shutter or the light of a camera flash",
+      "example": [{
+        "file": "pasha-2a",
+        "contributor": "",
+        "display": "パシャ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "pasha"
+}

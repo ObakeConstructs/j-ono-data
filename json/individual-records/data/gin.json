@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ぎん",
+    "ぎんっ"
+  ],
+  "katakana": [
+    "ギン",
+    "ギンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fixate",
+      "glare",
+      "glower",
+      "regard",
+      "stare"
+    ],
+    "meaning": "a fixed intent look",
+    "example": [{
+      "file": "gin-1a",
+      "contributor": "",
+      "display": "ギン",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gin"
+}

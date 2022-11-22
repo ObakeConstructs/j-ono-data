@@ -1,0 +1,35 @@
+{
+  "hiragana": [
+    "ふりふり",
+    "ふりふりっ"
+  ],
+  "katakana": [
+    "フリフリ",
+    "フリフリッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      " flip flip",
+      "flick flick",
+      "swish swish",
+      "wag wag",
+      "wave wave"
+    ],
+    "meaning": "a quick side to side motion",
+    "example": [
+      {
+        "file": "furi_furi-1a",
+        "contributor": "",
+        "display": "ふり  ふりっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "furi_furi-1b",
+        "contributor": "",
+        "display": "ふり  ふり",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "literal": "furi furi"
+}

@@ -1,0 +1,19 @@
+{
+  "hiragana": ["ぷす"],
+  "katakana": ["プス"],
+  "definition": [{
+    "equivalent": [
+      "poke",
+      "pop",
+      "psk"
+    ],
+    "meaning": "small puncture",
+    "example": [{
+      "file": "pusu-1a",
+      "contributor": "",
+      "display": "ぷす",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "pusu"
+}

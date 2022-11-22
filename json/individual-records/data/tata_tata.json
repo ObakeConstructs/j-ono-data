@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "たた たた",
+    "たたっ たたっ"
+  ],
+  "katakana": [
+    "タタ タタ",
+    "タタッ タタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bound bound",
+      "dash dash",
+      "gallop",
+      "lope lope",
+      "run run",
+      "sprint sprint",
+      "trot trot"
+    ],
+    "meaning": "a fast running gait, as that of a quadruped",
+    "example": [{
+      "file": "tata_tata-1a",
+      "contributor": "",
+      "display": "タタッ  タタッ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "tata tata"
+}

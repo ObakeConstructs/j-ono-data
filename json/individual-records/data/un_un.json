@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    "うんうん",
+    "うーんうーん"
+  ],
+  "katakana": [
+    "ウンウン",
+    "ウーンウーン"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "mm hmm",
+        "nod nod",
+        "yep yep"
+      ],
+      "meaning": "nodding the head repeatedly to express friendly agreement",
+      "example": [
+        {
+          "file": "un_un-1a",
+          "contributor": "",
+          "display": "うん  うん",
+          "source": "d_genesis"
+        },
+        {
+          "file": "un_un-1b",
+          "contributor": "",
+          "display": "うん  うん",
+          "source": "a_rank_slow_life"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "groan groan",
+        "moan moan",
+        "uhhh uhhh",
+        "ummm ummm"
+      ],
+      "meaning": "a series of low sounds expressing pain or grief",
+      "example": [{
+        "file": "un_un-2a",
+        "contributor": "",
+        "display": "ウーン  ウーン",
+        "source": "komi_cant_communicate"
+      }]
+    }
+  ],
+  "literal": "un un"
+}

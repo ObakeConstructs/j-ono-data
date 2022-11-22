@@ -1,0 +1,25 @@
+{
+  "hiragana": ["かりかり"],
+  "katakana": ["カリカリ"],
+  "definition": [{
+    "equivalent": [
+      "click",
+      "draw",
+      "print",
+      "scrape",
+      "scratch",
+      "scribble",
+      "stroke",
+      "tap",
+      "write"
+    ],
+    "meaning": "the sound of writing something, as on paper or chalkboard",
+    "example": [{
+      "file": "kari_kari-1a",
+      "contributor": "",
+      "display": "カリ  カリ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "kari kari"
+}

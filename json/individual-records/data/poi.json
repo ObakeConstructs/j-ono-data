@@ -1,0 +1,40 @@
+{
+  "hiragana": [
+    "ぽい",
+    "ぽいっ",
+    "ぽぃ",
+    "ぽぃっ"
+  ],
+  "katakana": [
+    "ポイ",
+    "ポイッ",
+    "ポィ",
+    "ポィッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "chuck",
+      "discard",
+      "junk",
+      "throw away",
+      "toss",
+      "unload"
+    ],
+    "meaning": "to toss something away as useless or unwanted",
+    "example": [
+      {
+        "file": "poi-1a",
+        "contributor": "",
+        "display": "ぽい",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "poi-1b",
+        "contributor": "",
+        "display": "ポィ",
+        "source": "different_world_smartphone"
+      }
+    ]
+  }],
+  "literal": "poi"
+}

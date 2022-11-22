@@ -1,0 +1,22 @@
+{
+  "hiragana": ["すたすた"],
+  "katakana": ["スタスタ"],
+  "definition": [{
+    "equivalent": [
+      " ignore",
+      "pass",
+      "pass by",
+      "walk",
+      "walk by",
+      "walk past"
+    ],
+    "meaning": "to move past someone quickly, typically ignoring them",
+    "example": [{
+      "file": "suta_suta-1a",
+      "contributor": "",
+      "display": "スタ  スタ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "suta suta"
+}

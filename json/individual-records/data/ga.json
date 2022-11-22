@@ -1,0 +1,97 @@
+{
+  "hiragana": [
+    "が",
+    "がっ",
+    "がー",
+    "がーっ"
+  ],
+  "katakana": [
+    "ガ",
+    "ガッ",
+    "ガー",
+    "ガーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "blow",
+        "chop",
+        "clang",
+        "clank",
+        "clash",
+        "clobber",
+        "clout",
+        "crash",
+        "crunch",
+        "hit",
+        "impact",
+        "kick",
+        "knock",
+        "pelt",
+        "pound",
+        "punch",
+        "slam",
+        "slug",
+        "smash",
+        "strike",
+        "tang",
+        "thud",
+        "thunk",
+        "wham",
+        "whang"
+      ],
+      "meaning": "a generic sound of impact, as from a fight or something dropped",
+      "example": [
+        {
+          "file": "ga-1a",
+          "contributor": "",
+          "display": "ガッ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "ga-1b",
+          "contributor": "",
+          "display": "ガッ",
+          "source": "reincarnated_sage_daughters"
+        },
+        {
+          "file": "ga-1c",
+          "contributor": "",
+          "display": "ガ",
+          "source": "komi_cant_communicate"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "catch",
+        "clutch",
+        "glom",
+        "grab",
+        "grasp",
+        "hold",
+        "nab",
+        "seize",
+        "snag",
+        "snatch"
+      ],
+      "meaning": "seizing something with a sudden motion or grasp",
+      "example": [
+        {
+          "file": "ga-2a",
+          "contributor": "",
+          "display": "ガッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "ga-2b",
+          "contributor": "",
+          "display": "がっ",
+          "source": "strongest_failure_frame"
+        }
+      ]
+    }
+  ],
+  "literal": "ga"
+}

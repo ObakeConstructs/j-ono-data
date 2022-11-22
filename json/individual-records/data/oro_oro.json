@@ -1,0 +1,23 @@
+{
+  "hiragana": ["おろおろ"],
+  "katakana": ["オロオロ"],
+  "definition": [{
+    "equivalent": [
+      "dread",
+      "fear",
+      "fright",
+      "horror",
+      "panic",
+      "scare",
+      "terror"
+    ],
+    "meaning": "an expression of surprise, fear, or panic",
+    "example": [{
+      "file": "oro_oro-1a",
+      "contributor": "",
+      "display": "オロ  オロ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "oro oro"
+}

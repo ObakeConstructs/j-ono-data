@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "じり",
+    "じりり",
+    "じりりり"
+  ],
+  "katakana": [
+    "ジリ",
+    "ジリリ",
+    "ジリリリ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beep beep",
+      "ding-a-ling",
+      "ring ring"
+    ],
+    "meaning": "sound of ringing, as from an alarm or phone",
+    "example": [{
+      "file": "jiri-1a",
+      "contributor": "",
+      "display": "ジリリ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "jiri"
+}

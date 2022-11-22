@@ -1,0 +1,53 @@
+{
+  "hiragana": [
+    "ど",
+    "どっ",
+    "どぉ",
+    "どぉっ"
+  ],
+  "katakana": [
+    "ド",
+    "ドッ",
+    "ドォ",
+    "ドォッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "blast",
+        "boom",
+        "crack",
+        "pop",
+        "whomp",
+        "whump"
+      ],
+      "meaning": "a relatively small explosion",
+      "example": [{
+        "file": "do-1a",
+        "contributor": "",
+        "display": "ドッ",
+        "source": "hello_work"
+      }]
+    },
+    {
+      "equivalent": [
+        "boff",
+        "doh",
+        "guffaw",
+        "ha",
+        "snort",
+        "whoop"
+      ],
+      "meaning": "an explosive outburst of laughter",
+      "example": [{
+        "file": "do-2a",
+        "contributor": "",
+        "display": "どっ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }
+  ],
+  "literal": "do"
+}

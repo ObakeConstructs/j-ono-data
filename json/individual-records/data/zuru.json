@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ずる",
+    "ずるっ"
+  ],
+  "katakana": [
+    "ズル",
+    "ズルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drag",
+      "move",
+      "pull",
+      "slide",
+      "slip"
+    ],
+    "meaning": "the sound of something sliding or being dragged",
+    "example": [{
+      "file": "zuru-1a",
+      "contributor": "",
+      "display": "ズル",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "zuru"
+}

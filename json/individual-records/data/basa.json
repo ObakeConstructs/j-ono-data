@@ -1,0 +1,61 @@
+{
+  "hiragana": [
+    "ばさ",
+    "ばさっ",
+    "ばさぁ",
+    "ばさあ"
+  ],
+  "katakana": [
+    "バサ",
+    "バサッ",
+    "バサァ",
+    "バサア"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "crinkle",
+        "flap",
+        "rustle",
+        "swish"
+      ],
+      "meaning": "soft sounds of cloth or paper movement",
+      "example": [
+        {
+          "file": "basa-1a",
+          "contributor": "",
+          "display": "バサ",
+          "source": "hello_work"
+        },
+        {
+          "file": "basa-1b",
+          "contributor": "",
+          "display": "バサ",
+          "source": "weakest_occupation_blacksmith"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "appear",
+        "arrive",
+        "emerge",
+        "expose",
+        "loom",
+        "reveal",
+        "shaa",
+        "show up",
+        "ta-da",
+        "unveil"
+      ],
+      "meaning": "to suddenly appear, as in a dramatic \"reveal\"",
+      "example": [{
+        "file": "basa-2a",
+        "contributor": "",
+        "display": "バサア",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "basa"
+}

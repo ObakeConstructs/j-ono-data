@@ -1,0 +1,65 @@
+{
+  "hiragana": [
+    "きゅ",
+    "きゅっ",
+    "きゅう"
+  ],
+  "katakana": [
+    "キュ",
+    "キュッ",
+    "キュウ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "clasp",
+        "clench",
+        "grip",
+        "hold",
+        "press",
+        "squeeze",
+        "strain",
+        "tighten"
+      ],
+      "meaning": "act of clenching, as in one's hands or teeth",
+      "example": [{
+        "file": "kyu-1a",
+        "contributor": "",
+        "display": "きゅ",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "bind",
+        "cinch",
+        "fasten",
+        "lash",
+        "tie",
+        "tighten"
+      ],
+      "meaning": "to fasten or attach something with a line or cord.",
+      "example": [{
+        "file": "kyu-2a",
+        "contributor": "",
+        "display": "きゅっ",
+        "source": "dog_became_strongest"
+      }]
+    },
+    {
+      "equivalent": [
+        "screech",
+        "squeak",
+        "squeal"
+      ],
+      "meaning": "a shrill squeaking sound",
+      "example": [{
+        "file": "kyu-3a",
+        "contributor": "",
+        "display": "キュッ",
+        "source": "hikaro_no_go"
+      }]
+    }
+  ],
+  "literal": "kyu"
+}

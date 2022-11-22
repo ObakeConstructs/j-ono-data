@@ -1,0 +1,24 @@
+{
+  "hiragana": ["ぞろぞろ"],
+  "katakana": ["ゾロゾロ"],
+  "definition": [{
+    "equivalent": [
+      "clan",
+      "crowd",
+      "gang",
+      "horde",
+      "mass",
+      "mob",
+      "pack",
+      "throng"
+    ],
+    "meaning": "a large number of persons or creatures massed together",
+    "example": [{
+      "file": "zoro_zoro-1a",
+      "contributor": "",
+      "display": "ぞろ  ぞろ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "zoro zoro"
+}

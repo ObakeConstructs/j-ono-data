@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "がし",
+    "がしっ"
+  ],
+  "katakana": [
+    "ガシ",
+    "ガシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "get",
+      "grab",
+      "grasp",
+      "grip",
+      "hold",
+      "nab",
+      "snag"
+    ],
+    "meaning": "the act of grabbing and holding",
+    "example": [{
+      "file": "gashi-1a",
+      "contributor": "",
+      "display": "ガシッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gashi"
+}

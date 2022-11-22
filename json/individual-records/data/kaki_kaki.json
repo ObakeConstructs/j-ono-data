@@ -1,0 +1,25 @@
+{
+  "hiragana": ["かきかき"],
+  "katakana": ["カキカキ"],
+  "definition": [{
+    "equivalent": [
+      "click",
+      "draw",
+      "print",
+      "scrape",
+      "scratch",
+      "scribble",
+      "stroke",
+      "tap",
+      "write"
+    ],
+    "meaning": "the sound of writing something, as on paper or chalkboard",
+    "example": [{
+      "file": "kaki_kaki-1a",
+      "contributor": "",
+      "display": "カキ  カキ",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "kaki kaki"
+}

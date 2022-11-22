@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "うあ",
+    "うああ",
+    "うあああ",
+    "うぁ",
+    "うぁぁ",
+    "うぁぁぁ"
+  ],
+  "katakana": [
+    "ウア",
+    "ウアア",
+    "ウアアア",
+    "ウァ",
+    "ウァァ",
+    "ウァァァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "waah",
+      "whaa"
+    ],
+    "meaning": "an exclamation sound, often extended, expressing a range of emotions, as in relief, embarrassment, or surprise",
+    "example": [{
+      "file": "u-a1",
+      "contributor": "",
+      "display": "うぁぁぁ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "ua"
+}

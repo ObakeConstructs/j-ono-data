@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "すす",
+    "すすす",
+    "すうすう",
+    "すぅすぅ"
+  ],
+  "katakana": [
+    "スス",
+    "ススス",
+    "スウスウ",
+    "スゥスゥ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "beath",
+        "huff",
+        "whiff",
+        "zzz"
+      ],
+      "meaning": "soft breathing while sleeping or quietly snoring",
+      "example": [{
+        "file": "su_su-1a",
+        "contributor": "",
+        "display": "すぅ  すぅ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "softly",
+        "whisper"
+      ],
+      "meaning": "to speak quietly, so as not be overheard",
+      "example": [{
+        "file": "su_su-2a",
+        "contributor": "",
+        "display": "ススス",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "su su"
+}

@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "どぼん",
+    "どぼーん"
+  ],
+  "katakana": [
+    "ドボン",
+    "ドボーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gush",
+      "jet",
+      "slosh",
+      "spew",
+      "splash",
+      "sploosh",
+      "spout",
+      "swash"
+    ],
+    "meaning": "the noise of something splashing into water",
+    "example": [{
+      "file": "dobon-1a",
+      "contributor": "",
+      "display": "ドボーン",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "dobon"
+}

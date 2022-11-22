@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "とと",
+    "ととと"
+  ],
+  "katakana": [
+    "トト",
+    "トトト"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flick flick",
+      "pat pat",
+      "tap tap",
+      "tick tick"
+    ],
+    "meaning": "a series of soft quick taps, as on a cell phone",
+    "example": [{
+      "file": "toto-1a",
+      "contributor": "",
+      "display": "トトト",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "toto"
+}

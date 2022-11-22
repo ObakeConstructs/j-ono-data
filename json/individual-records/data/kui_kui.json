@@ -1,0 +1,46 @@
+{
+  "hiragana": [
+    "くいくい",
+    "くぃくぃ",
+    "くいくいっ"
+  ],
+  "katakana": [
+    "クイクイ",
+    "クィクィ",
+    "クイクイッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "pluck",
+        "pull",
+        "tug"
+      ],
+      "meaning": "to gently pull or tug on something",
+      "example": [{
+        "file": "kui_kui-1a",
+        "contributor": "",
+        "display": "くい  くい",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "beckon",
+        "flag",
+        "gesture",
+        "motion",
+        "signal",
+        "wave"
+      ],
+      "meaning": "to gesture at someone ambiguously",
+      "example": [{
+        "file": "kui_kui-2a",
+        "contributor": "",
+        "display": "くい  くいっ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "kui kui"
+}

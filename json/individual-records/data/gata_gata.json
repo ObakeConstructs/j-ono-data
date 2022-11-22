@@ -1,0 +1,21 @@
+{
+  "hiragana": ["がたがた"],
+  "katakana": ["ガタガタ"],
+  "definition": [{
+    "equivalent": [
+      "clang clang",
+      "clatter",
+      "clunk clunk",
+      "creak creak",
+      "rattle"
+    ],
+    "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
+    "example": [{
+      "file": "gata_gata-1a",
+      "contributor": "",
+      "display": "ガタ  ガタ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "gata gata"
+}

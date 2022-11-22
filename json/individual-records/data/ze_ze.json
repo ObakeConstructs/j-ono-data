@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ぜぜ"],
+  "katakana": ["ゼゼ"],
+  "definition": [{
+    "equivalent": [
+      "gasp gasp",
+      "huff huff",
+      "pant pant",
+      "wheeze wheeze"
+    ],
+    "meaning": "the sound of a deep indrawn breath",
+    "example": [{
+      "file": "ze_ze-1a",
+      "contributor": "",
+      "display": "ぜ  ぜ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "ze ze"
+}

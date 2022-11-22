@@ -1,0 +1,25 @@
+{
+  "hiragana": ["ぺこぺこ"],
+  "katakana": ["ペコペコ"],
+  "definition": [{
+    "equivalent": [
+      "abase",
+      "bootlick",
+      "bow bow",
+      "fawn fawn",
+      "grovel grovel",
+      "humble humble",
+      "kneel kneel",
+      "suck up",
+      "truckle truckle"
+    ],
+    "meaning": "to bow, grovel or otherwise ingratiate  oneself with a superior",
+    "example": [{
+      "file": "peko_peko-1a",
+      "contributor": "",
+      "display": "ペコ  ペコ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "peko peko"
+}

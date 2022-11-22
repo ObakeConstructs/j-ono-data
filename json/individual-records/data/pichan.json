@@ -1,0 +1,23 @@
+{
+  "hiragana": ["ぴちゃん"],
+  "katakana": ["ピチャン"],
+  "definition": [{
+    "equivalent": [
+      "dribble",
+      "drip",
+      "plop",
+      "ripple",
+      "splash",
+      "swirl",
+      "trickle"
+    ],
+    "meaning": "a very soft sound of water movement",
+    "example": [{
+      "file": "pichan-1a",
+      "contributor": "",
+      "display": "ピチャン",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "pichan"
+}

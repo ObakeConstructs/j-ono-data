@@ -1,0 +1,21 @@
+{
+  "hiragana": ["どんどん"],
+  "katakana": ["ドンドン"],
+  "definition": [{
+    "equivalent": [
+      "bam bam",
+      "bang bang",
+      "boom boom",
+      "crack crack",
+      "wham wham"
+    ],
+    "meaning": "a series of sudden loud noises, as from a gun",
+    "example": [{
+      "file": "don_don-1a",
+      "contributor": "",
+      "display": "ドン  ドン  ドン",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "don don"
+}

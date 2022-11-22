@@ -1,0 +1,22 @@
+{
+  "hiragana": ["こく"],
+  "katakana": ["コク"],
+  "definition": [{
+    "equivalent": [
+      "agree",
+      "nod",
+      "okay",
+      "yeah",
+      "yep",
+      "yes"
+    ],
+    "meaning": "a quick nod of the head, typically to express agreement",
+    "example": [{
+      "file": "koku-1a",
+      "contributor": "",
+      "display": "コク",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "koku"
+}

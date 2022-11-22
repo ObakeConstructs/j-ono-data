@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "どきどき",
+    "どっきどっき"
+  ],
+  "katakana": [
+    "ドキドキ",
+    "ドッキドッキ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ba-dump",
+      "heartbeat",
+      "thump thump"
+    ],
+    "meaning": "indication of elevated heart rate, like when in love, scared, or otherwise excited",
+    "example": [
+      {
+        "file": "doki_doki-1a",
+        "contributor": "",
+        "display": "ドキ  ドキ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "doki_doki-1b",
+        "contributor": "",
+        "display": "ドッキ  ドッキ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "doki doki"
+}

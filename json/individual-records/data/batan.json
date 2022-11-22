@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ばたん"],
+  "katakana": ["バタン"],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "ker-chack",
+      "slam",
+      "thud",
+      "thwack"
+    ],
+    "meaning": "The impact sound of a door opening or closing",
+    "example": [{
+      "file": "batan-1a",
+      "contributor": "",
+      "display": "バタン",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "batan"
+}

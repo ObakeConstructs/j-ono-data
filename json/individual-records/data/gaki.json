@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "がき",
+    "がきっ",
+    "がきぃっ"
+  ],
+  "katakana": [
+    "ガキ",
+    "ガキッ",
+    "ガキィッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clang",
+      "clank",
+      "clash",
+      "tang",
+      "whang"
+    ],
+    "meaning": "the sound of a hard, sharp metalic strike",
+    "example": [{
+      "file": "gaki-1a",
+      "contributor": "",
+      "display": "ガキッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gaki"
+}

@@ -1,0 +1,57 @@
+{
+  "hiragana": [
+    "ぐい",
+    "ぐいっ",
+    "ぐぃ",
+    "ぐぃっ"
+  ],
+  "katakana": [
+    "グイ",
+    "グイッ",
+    "グィ",
+    "グィッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "get",
+      "grab",
+      "nab",
+      "pull",
+      "sieze",
+      "snag",
+      "snatch",
+      "take",
+      "tug",
+      "wrest",
+      "yank"
+    ],
+    "meaning": "to take or seize, typically with a sudden motion or grasp",
+    "example": [
+      {
+        "file": "gui-1a",
+        "contributor": "",
+        "display": "ぐいっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "gui-1b",
+        "contributor": "",
+        "display": "ぐぃっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "gui-1c",
+        "contributor": "",
+        "display": "グイ",
+        "source": "marginal_taylor"
+      },
+      {
+        "file": "gui-1d",
+        "contributor": "",
+        "display": "グイッ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "gui"
+}

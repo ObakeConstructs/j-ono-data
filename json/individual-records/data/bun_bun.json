@@ -1,0 +1,41 @@
+{
+  "hiragana": [
+    "ぶんぶん",
+    "ぶんぶんっ"
+  ],
+  "katakana": [
+    "ブンブン",
+    "ブンブンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flick flick",
+      "shake shake",
+      "swipe swipe",
+      "swish swish",
+      "wave wave"
+    ],
+    "meaning": "a quick movement from side to side or up and down",
+    "example": [
+      {
+        "file": "bun_bun-1a",
+        "contributor": "",
+        "display": "ぶん  ぶんっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "bun_bun-1b",
+        "contributor": "",
+        "display": "ブン  ブンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "bun_bun-1c",
+        "contributor": "",
+        "display": "ブン  ブン",
+        "source": "komi_cant_communicate"
+      }
+    ]
+  }],
+  "literal": "bun bun"
+}

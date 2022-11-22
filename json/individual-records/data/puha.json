@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "ぷは",
+    "ぷはっ",
+    "ぷはー"
+  ],
+  "katakana": [
+    "プハ",
+    "プハッ",
+    "プハー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ahh",
+      "fwah",
+      "phew",
+      "whah"
+    ],
+    "meaning": "a voiced sound expressing relief, satisfaction, or a break from exertion ",
+    "example": [{
+      "file": "puha-1a",
+      "contributor": "",
+      "display": "ぷはっ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "puha"
+}

@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "つる",
+    "つるっ"
+  ],
+  "katakana": [
+    "ツル",
+    "ツルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fall",
+      "slick",
+      "slip",
+      "slippery"
+    ],
+    "meaning": "to slip or to have a surface smooth enough to slip on",
+    "example": [{
+      "file": "tsuru-1a",
+      "contributor": "",
+      "display": "つるっ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "tsuru"
+}

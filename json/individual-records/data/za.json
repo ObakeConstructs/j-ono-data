@@ -1,0 +1,71 @@
+{
+  "hiragana": [
+    "ざ",
+    "ざっ",
+    "ざー",
+    "ざーっ",
+    "ざぁ",
+    "ざぁぁ",
+    "ざぁぁぁ",
+    "ざあ",
+    "ざああ",
+    "ざあああ",
+    "ざあっ"
+  ],
+  "katakana": [
+    "ザ",
+    "ザッ",
+    "ザー",
+    "ザーッ",
+    "ザァ",
+    "ザァァ",
+    "ザァァァ",
+    "ザア",
+    "ザアア",
+    "ザアアア",
+    "ザアッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "drizzle",
+        "drops",
+        "hss",
+        "rain",
+        "shaa",
+        "sss"
+      ],
+      "meaning": "soft sounds of rain or shower",
+      "example": [
+        {
+          "file": "za-1a",
+          "contributor": "",
+          "display": "ザーッ",
+          "source": "bungo"
+        },
+        {
+          "file": "za-1b",
+          "contributor": "",
+          "display": "ザァァァ",
+          "source": "hikaro_no_go"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "crunch",
+        "crush",
+        "step",
+        "walk"
+      ],
+      "meaning": "sound of someone walking, as on grass or gravel",
+      "example": [{
+        "file": "za-2a",
+        "contributor": "",
+        "display": "ザッ",
+        "source": "dog_became_strongest"
+      }]
+    }
+  ],
+  "literal": "za"
+}

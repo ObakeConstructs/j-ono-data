@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "ぼふ",
+    "ぼふっ"
+  ],
+  "katakana": [
+    "ボフッ",
+    "ボフ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "floof",
+      "fwump",
+      "ploof",
+      "poof"
+    ],
+    "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
+    "example": [{
+      "file": "bofu-1a",
+      "contributor": "",
+      "display": "ボフッ",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "bofu"
+}

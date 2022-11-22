@@ -1,0 +1,68 @@
+{
+  "hiragana": [
+    "ぱ",
+    "ぱっ",
+    "ぱあ",
+    "ぱあっ",
+    "ぱぁ",
+    "ぱぁっ",
+    "ぱああ"
+  ],
+  "katakana": [
+    "パ",
+    "パッ",
+    "パア",
+    "パアッ",
+    "パァ",
+    "パァッ",
+    "パアア"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bright",
+        "brighten",
+        "glow",
+        "light",
+        "light up",
+        "shine"
+      ],
+      "meaning": "to brighten or shine sudddenly",
+      "example": [
+        {
+          "file": "pa-1a",
+          "contributor": "",
+          "display": "パアア",
+          "source": "d_genesis"
+        },
+        {
+          "file": "pa-1b",
+          "contributor": "",
+          "display": "パァッ",
+          "source": "d_genesis"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "brighten",
+        "cheer up",
+        "gladden",
+        "glow",
+        "hearten",
+        "light up",
+        "lighten",
+        "perk up",
+        "shine"
+      ],
+      "meaning": "to become glad, happy, or excited",
+      "example": [{
+        "file": "pa-2a",
+        "contributor": "",
+        "display": "パアア",
+        "source": "reincarnated_farm_girl"
+      }]
+    }
+  ],
+  "literal": "pa"
+}

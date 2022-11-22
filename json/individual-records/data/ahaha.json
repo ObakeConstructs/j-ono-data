@@ -1,0 +1,36 @@
+{
+  "hiragana": [
+    "あはは",
+    "あははは"
+  ],
+  "katakana": [
+    "アハハ",
+    "アハハハ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ahaha",
+      "cackle",
+      "guffaw",
+      "haha",
+      "laughter",
+      "snicker"
+    ],
+    "meaning": "the sound of loud laughter",
+    "example": [
+      {
+        "file": "ahaha-1a",
+        "contributor": "",
+        "display": "アハハ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "ahaha-1b",
+        "contributor": "",
+        "display": "あはは",
+        "source": "komi_cant_communicate"
+      }
+    ]
+  }],
+  "literal": "ahaha"
+}

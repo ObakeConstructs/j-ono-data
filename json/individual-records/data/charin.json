@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ちゃりん",
+    "ちゃりーん"
+  ],
+  "katakana": [
+    "チャリン",
+    "チャリーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ching",
+      "clink",
+      "ding",
+      "ting",
+      "tink"
+    ],
+    "meaning": "the small noise of a single tossed coin being tossed",
+    "example": [{
+      "file": "charin-1a",
+      "contributor": "",
+      "display": "チャリン",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "charin"
+}

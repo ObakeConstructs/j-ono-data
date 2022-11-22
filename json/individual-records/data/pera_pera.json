@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ぺらぺら"],
+  "katakana": ["ペラペラ"],
+  "definition": [{
+    "equivalent": [
+      "articulate",
+      "eloquent",
+      "glib glib",
+      "talk talk",
+      "verbose"
+    ],
+    "meaning": "to speak in a fluent and polished manner",
+    "example": [{
+      "file": "pera_pera-1a",
+      "contributor": "",
+      "display": "ペラ  ペラ  ペラ",
+      "source": "weakest_occupation_blacksmith"
+    }]
+  }],
+  "literal": "pera pera"
+}

@@ -1,0 +1,29 @@
+{
+  "hiragana": ["なでなで"],
+  "katakana": ["ナデナデ"],
+  "definition": [{
+    "equivalent": [
+      "caress caress",
+      "pamper",
+      "pat pat",
+      "pet pet",
+      "stroke stroke"
+    ],
+    "meaning": "to stroke someting in a tender manner",
+    "example": [
+      {
+        "file": "nade_nade-1a",
+        "contributor": "",
+        "display": "ナデ  ナデ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "nade_nade-1b",
+        "contributor": "",
+        "display": "なで  なで",
+        "source": "s_rank_behemoth"
+      }
+    ]
+  }],
+  "literal": "nade nade"
+}

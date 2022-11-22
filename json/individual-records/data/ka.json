@@ -1,0 +1,106 @@
+{
+  "hiragana": [
+    "か",
+    "かっ",
+    "かー",
+    "かーっ",
+    "かあ",
+    "かああ",
+    "かぁ",
+    "かぁぁ"
+  ],
+  "katakana": [
+    "カ",
+    "カッ",
+    "カー",
+    "カーッ",
+    "カア",
+    "カアア",
+    "カァ",
+    "カァァ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "aggravated",
+        "enraged",
+        "flustered",
+        "fuming",
+        "furious",
+        "fury",
+        "incensed",
+        "irate",
+        "livid",
+        "mad",
+        "rankled",
+        "steamed"
+      ],
+      "meaning": "an expression of anger ",
+      "example": [{
+        "file": "ka-1a",
+        "contributor": "",
+        "display": "カッ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "bright",
+        "brighten",
+        "glow",
+        "light",
+        "light up",
+        "shine"
+      ],
+      "meaning": "to brighten or shine sudddenly",
+      "example": [{
+        "file": "ka-2a",
+        "contributor": "",
+        "display": "カッ",
+        "source": "hello_work"
+      }]
+    },
+    {
+      "equivalent": [
+        "click",
+        "draw",
+        "print",
+        "scrape",
+        "scratch",
+        "scribble",
+        "stroke",
+        "tap",
+        "write"
+      ],
+      "meaning": "the sound of writing something",
+      "example": [{
+        "file": "ka-3a",
+        "contributor": "",
+        "display": "カッ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "blush",
+        "flush"
+      ],
+      "meaning": "an expression of blushing, as from excitement or embarressment",
+      "example": [
+        {
+          "file": "ka-4a",
+          "contributor": "",
+          "display": "かー",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "ka-4b",
+          "contributor": "",
+          "display": "かぁぁ",
+          "source": "otherworld_material_collector"
+        }
+      ]
+    }
+  ],
+  "literal": "ka"
+}

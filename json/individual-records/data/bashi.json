@@ -1,0 +1,35 @@
+{
+  "hiragana": [
+    "ばし",
+    "ばしっ"
+  ],
+  "katakana": [
+    "バシ",
+    "バシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "bang",
+      "crash",
+      "slam",
+      "slap",
+      "smack",
+      "thud",
+      "thump",
+      "thunk",
+      "whack",
+      "wham",
+      "whap",
+      "whomp"
+    ],
+    "meaning": "a sudden and loud impact",
+    "example": [{
+      "file": "bashi-1a",
+      "contributor": "",
+      "display": "バシッ",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "bashi"
+}

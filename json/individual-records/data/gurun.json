@@ -1,0 +1,37 @@
+{
+  "hiragana": [
+    "ぐるん",
+    "ぐるんっ"
+  ],
+  "katakana": [
+    "グルン",
+    "グルンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "pivot",
+      "roll",
+      "spin",
+      "swing",
+      "swivel",
+      "turn",
+      "twist"
+    ],
+    "meaning": "the act of turning something, typically oneself",
+    "example": [
+      {
+        "file": "gurun-1a",
+        "contributor": "",
+        "display": "ぐるん",
+        "source": "bungo"
+      },
+      {
+        "file": "gurun-1b",
+        "contributor": "",
+        "display": "ぐるんっ",
+        "source": "strongest_failure_frame"
+      }
+    ]
+  }],
+  "literal": "gurun"
+}

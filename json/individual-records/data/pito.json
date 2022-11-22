@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "ぴと",
+    "ぴとっ"
+  ],
+  "katakana": [
+    "ピト",
+    "ピトッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "brush",
+      "caress",
+      "feel",
+      "touch"
+    ],
+    "meaning": "a gentle touch",
+    "example": [{
+      "file": "pito-1a",
+      "contributor": "",
+      "display": "ぴと",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "pito"
+}

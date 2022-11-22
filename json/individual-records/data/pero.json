@@ -1,0 +1,25 @@
+{
+  "hiragana": [
+    "ぺろ",
+    "ぺろっ"
+  ],
+  "katakana": [
+    "ペロ",
+    "ペロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "lap",
+      "lick",
+      "slurp"
+    ],
+    "meaning": "the sound of a tongue licking something",
+    "example": [{
+      "file": "pero-1a",
+      "contributor": "",
+      "display": "ぺろ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "pero"
+}

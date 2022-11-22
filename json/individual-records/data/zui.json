@@ -1,0 +1,63 @@
+{
+  "hiragana": [
+    "ずい",
+    "ずいっ",
+    "ずぃ",
+    "ずぃっ"
+  ],
+  "katakana": [
+    "ズイ",
+    "ズイッ",
+    "ズィ",
+    "ズィッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "gape",
+        "gawk",
+        "peer",
+        "regard",
+        "scrutinize",
+        "stare",
+        "study"
+      ],
+      "meaning": "to stare at someone's face, often uncomfortably close",
+      "example": [
+        {
+          "file": "zui-1a",
+          "contributor": "",
+          "display": "ずいっ",
+          "source": "reincarnated_farm_girl"
+        },
+        {
+          "file": "zui-1b",
+          "contributor": "",
+          "display": "ずい",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "display",
+        "give",
+        "offer",
+        "present",
+        "push",
+        "shove",
+        "show",
+        "thrust",
+        "unveil"
+      ],
+      "meaning": "to push something toward someone's face, typically in an agressive or sudden manner",
+      "example": [{
+        "file": "zui-2a",
+        "contributor": "",
+        "display": "ずいっ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "zui"
+}

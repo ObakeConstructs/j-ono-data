@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ぷい",
+    "ぷいっ"
+  ],
+  "katakana": [
+    "プイ",
+    "プイッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "brush-off",
+      "disdain",
+      "reject",
+      "scorn",
+      "snub",
+      "spurn",
+      "turn"
+    ],
+    "meaning": "to deliberately ignore or treat rudely ",
+    "example": [{
+      "file": "pui-1a",
+      "contributor": "",
+      "display": "ぷいっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "pui"
+}

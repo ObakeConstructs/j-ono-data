@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ぼょん",
+    "ぼょんっ"
+  ],
+  "katakana": [
+    "ボョン",
+    "ボョンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "boing",
+      "bounce",
+      "carom",
+      "rebound",
+      "ricochet"
+    ],
+    "meaning": "the sound of something bouncing",
+    "example": [{
+      "file": "boyon-1a",
+      "contributor": "",
+      "display": "ボョンッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "boyon"
+}

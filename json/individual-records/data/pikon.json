@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ぴこん",
+    "ぴこーん"
+  ],
+  "katakana": [
+    "ピコン",
+    "ピコーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ba-ding",
+      "bing",
+      "chime",
+      "ding",
+      "jingle",
+      "ping",
+      "ring"
+    ],
+    "meaning": "the noise of an electronic chime, typical of games or computers",
+    "example": [{
+      "file": "pikon-1a",
+      "contributor": "",
+      "display": "ピコン",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "pikon"
+}

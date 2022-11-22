@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ほ",
+    "ほっ",
+    "ほー",
+    "ほーっ"
+  ],
+  "katakana": [
+    "ホ",
+    "ホッ",
+    "ホー",
+    "ホーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ahh",
+      "phew",
+      "relief",
+      "relieved",
+      "sigh",
+      "whew"
+    ],
+    "meaning": "the sound or expression of relief",
+    "example": [{
+      "file": "ho-1a",
+      "contributor": "",
+      "display": "ほっ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "ho"
+}

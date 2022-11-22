@@ -1,0 +1,28 @@
+{
+  "hiragana": ["こほん"],
+  "katakana": ["コホン"],
+  "definition": [{
+    "equivalent": [
+      "ahem",
+      "cough",
+      "hack",
+      "rasp"
+    ],
+    "meaning": "to cough or to make a noise like a cough",
+    "example": [
+      {
+        "file": "kohon-1a",
+        "contributor": "",
+        "display": "コホン",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "kohon-1b",
+        "contributor": "",
+        "display": "コホン",
+        "source": "weakest_occupation_blacksmith"
+      }
+    ]
+  }],
+  "literal": "kohon"
+}

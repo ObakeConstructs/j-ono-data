@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "こぽぽ",
+    "こぽぽぽ"
+  ],
+  "katakana": [
+    "コポポ",
+    "コポポポ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "glug",
+      "pour",
+      "slosh",
+      "trickle"
+    ],
+    "meaning": "sound of pouring liquid",
+    "example": [{
+      "file": "kopopo-1a",
+      "contributor": "",
+      "display": "コポポ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "kopopo"
+}

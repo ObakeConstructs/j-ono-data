@@ -1,0 +1,26 @@
+{
+  "hiragana": ["ごぽり"],
+  "katakana": ["ゴポリ"],
+  "definition": [{
+    "equivalent": [
+      "belch",
+      "disgorge",
+      "eject",
+      "pour",
+      "run",
+      "spew",
+      "spurt",
+      "squirt",
+      "stream",
+      "swoosh"
+    ],
+    "meaning": "to flow out in great quantities or with force",
+    "example": [{
+      "file": "gopori-1a",
+      "contributor": "",
+      "display": "ごぽり",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gopori"
+}

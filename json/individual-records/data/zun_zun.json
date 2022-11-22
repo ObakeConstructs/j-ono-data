@@ -1,0 +1,19 @@
+{
+  "hiragana": ["ずんずん"],
+  "katakana": ["ズンズン"],
+  "definition": [{
+    "equivalent": [
+      "step step",
+      "tap tap",
+      "thump thump"
+    ],
+    "meaning": "to walk quickly, almost a run",
+    "example": [{
+      "file": "zun_zun-1a",
+      "contributor": "",
+      "display": "ずん  ずん",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "zun zun"
+}

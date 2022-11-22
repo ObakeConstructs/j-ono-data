@@ -1,0 +1,22 @@
+{
+  "hiragana": ["ころん"],
+  "katakana": ["コロン"],
+  "definition": [{
+    "equivalent": [
+      "drop",
+      "fall",
+      "plop",
+      "plunk",
+      "slip",
+      "topple"
+    ],
+    "meaning": "the sound of something landing after falling",
+    "example": [{
+      "file": "koron-1a",
+      "contributor": "",
+      "display": "コロン",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "koron"
+}

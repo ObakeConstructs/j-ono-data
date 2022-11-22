@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "びゅん",
+    "びゅんっ",
+    "びゅーん"
+  ],
+  "katakana": [
+    "ビュン",
+    "ビュンッ",
+    "ビューン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "shoom",
+      "swoosh",
+      "whish",
+      "whiz",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "meaning": "the sound of someone or something moving very quickly",
+    "example": [{
+      "file": "byun-1a",
+      "contributor": "",
+      "display": "ビューン",
+      "source": "bungo"
+    }]
+  }],
+  "literal": "byun"
+}

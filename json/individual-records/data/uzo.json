@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "うぞ",
+    "うぞぞ"
+  ],
+  "katakana": [
+    "ウゾ",
+    "ウゾゾ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "danger",
+      "intimidate",
+      "menace",
+      "threat"
+    ],
+    "meaning": "a feeling of threat",
+    "example": [{
+      "file": "uzo-1a",
+      "contributor": "",
+      "display": "ウゾゾ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "uzo"
+}

@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "にや",
+    "にやっ"
+  ],
+  "katakana": [
+    "ニヤ",
+    "ニヤッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "grin",
+      "smile",
+      "smirk",
+      "sneer",
+      "snicker"
+    ],
+    "meaning": "an unpleasant smile often expressing pleasure at someone else's trouble",
+    "example": [{
+      "file": "niya-1a",
+      "contributor": "",
+      "display": "ニヤッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "niya"
+}

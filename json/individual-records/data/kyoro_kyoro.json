@@ -1,0 +1,29 @@
+{
+  "hiragana": ["きょろきょろ"],
+  "katakana": ["キョロキョロ"],
+  "definition": [{
+    "equivalent": [
+      "glance glance",
+      "glimpse glimpse",
+      "look look",
+      "search search",
+      "view view"
+    ],
+    "meaning": "to look around or search hastily",
+    "example": [
+      {
+        "file": "kyoro_kyoro-1a",
+        "contributor": "",
+        "display": "キョロ  キョロ",
+        "source": "weakest_occupation_blacksmith"
+      },
+      {
+        "file": "kyoro_kyoro-1b",
+        "contributor": "",
+        "display": "キョロ  キョロ",
+        "source": "abandoned_reincarnation_sage"
+      }
+    ]
+  }],
+  "literal": "kyoro kyoro"
+}

@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "ちゃり",
+    "ちゃりり",
+    "ちゃりりり"
+  ],
+  "katakana": [
+    "チャリ",
+    "チャリリ",
+    "チャリリリ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ching",
+      "clink",
+      "jingle",
+      "ting",
+      "tink",
+      "tinkle"
+    ],
+    "meaning": "a sharp light sound of rattling metal or glass",
+    "example": [
+      {
+        "file": "chari-1a",
+        "contributor": "",
+        "display": "チャリリリ",
+        "source": "hello_work"
+      },
+      {
+        "file": "chari-1b",
+        "contributor": "",
+        "display": "チャリ",
+        "source": "weakest_occupation_blacksmith"
+      }
+    ]
+  }],
+  "literal": "chari"
+}

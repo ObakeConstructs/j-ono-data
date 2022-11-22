@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "がく",
+    "がくっ"
+  ],
+  "katakana": [
+    "ガク",
+    "ガクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fall",
+      "fold",
+      "give in",
+      "give up",
+      "sag",
+      "sink",
+      "slump",
+      "succumb"
+    ],
+    "meaning": "An expression of giving up or passing out",
+    "example": [
+      {
+        "file": "gaku-1a",
+        "contributor": "",
+        "display": "がく",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "gaku-1b",
+        "contributor": "",
+        "display": "ガクッ",
+        "source": "world_full_of_monsters"
+      }
+    ]
+  }],
+  "literal": "gaku"
+}

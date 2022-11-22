@@ -1,0 +1,69 @@
+{
+  "hiragana": [
+    "びし",
+    "びしっ",
+    "びしー",
+    "びしーっ"
+  ],
+  "katakana": [
+    "ビシ",
+    "ビシッ",
+    "ビシー",
+    "ビシーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "freeze",
+        "snap",
+        "stiffen",
+        "straighten"
+      ],
+      "meaning": "a sudden stop of all movement as a reaction",
+      "example": [{
+        "file": "bishi-1a",
+        "contributor": "",
+        "display": "びしっ",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "bop",
+        "chop",
+        "clip",
+        "clout",
+        "cuff",
+        "slap",
+        "smack",
+        "spank",
+        "swat",
+        "thump",
+        "thwack",
+        "whap"
+      ],
+      "meaning": "a light strike with an empty hand hand or something in hand",
+      "example": [{
+        "file": "bishi-2a",
+        "contributor": "",
+        "display": "ビシッ",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "thud",
+        "thunk",
+        "thwack"
+      ],
+      "meaning": "the sound of an arrow landing or hitting something",
+      "example": [{
+        "file": "bishi-3a",
+        "contributor": "",
+        "display": "ビシッ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "bishi"
+}

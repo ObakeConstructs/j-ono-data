@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ふるふる"],
+  "katakana": ["フルフル"],
+  "definition": [{
+    "equivalent": [
+      "quiver",
+      "shiver",
+      "shudder",
+      "tremble"
+    ],
+    "meaning": "an indication of shaking",
+    "example": [{
+      "file": "furu_furu-1a",
+      "contributor": "",
+      "display": "フル  フル",
+      "source": "weakest_occupation_blacksmith"
+    }]
+  }],
+  "literal": "furu furu"
+}

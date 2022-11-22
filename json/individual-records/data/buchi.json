@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "ぶち",
+    "ぶちっ"
+  ],
+  "katakana": [
+    "ブチ",
+    "ブチッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "burst",
+      "crack",
+      "shatter",
+      "smack",
+      "snap",
+      "split"
+    ],
+    "meaning": "the sound of something suddenly breaking",
+    "example": [{
+      "file": "buchi-1a",
+      "contributor": "",
+      "display": "ブチッ",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "buchi"
+}

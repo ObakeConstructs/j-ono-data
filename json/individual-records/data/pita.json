@@ -1,0 +1,42 @@
+{
+  "hiragana": [
+    "ぴた",
+    "ぴたっ"
+  ],
+  "katakana": [
+    "ピタ",
+    "ピタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "break off",
+      "cease",
+      "check",
+      "freeze",
+      "halt",
+      "stop"
+    ],
+    "meaning": "to bring something to an immediate end or standstill",
+    "example": [
+      {
+        "file": "pita-1a",
+        "contributor": "",
+        "display": "ピタッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "pita-1b",
+        "contributor": "",
+        "display": "ぴたっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "pita-1c",
+        "contributor": "",
+        "display": "ピタ",
+        "source": "reincarnated_sage_daughters"
+      }
+    ]
+  }],
+  "literal": "pita"
+}

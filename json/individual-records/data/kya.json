@@ -1,0 +1,39 @@
+{
+  "hiragana": [
+    "きゃ",
+    "きゃっ",
+    "きゃー",
+    "きゃーっ",
+    "きゃぁ",
+    "きゃぁぁ",
+    "きゃあ",
+    "きゃああ"
+  ],
+  "katakana": [
+    "キャ",
+    "キャッ",
+    "キャー",
+    "キャーッ",
+    "キャァ",
+    "キャァァ",
+    "キャア",
+    "キャアア"
+  ],
+  "definition": [{
+    "equivalent": [
+      "screech",
+      "shriek",
+      "squeal",
+      "yell",
+      "yelp"
+    ],
+    "meaning": "to cry out loudly and emotionally, often used humoursly",
+    "example": [{
+      "file": "kya-1a",
+      "contributor": "",
+      "display": "きゃーっ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "kya"
+}

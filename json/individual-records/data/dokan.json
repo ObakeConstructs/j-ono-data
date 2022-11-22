@@ -1,0 +1,24 @@
+{
+  "hiragana": ["どかぁん"],
+  "katakana": ["ドカァン"],
+  "definition": [{
+    "equivalent": [
+      "blam",
+      "blow",
+      "crash",
+      "slam",
+      "smash",
+      "strike",
+      "wallop",
+      "wham"
+    ],
+    "meaning": "a loud and destructive strike",
+    "example": [{
+      "file": "dokan-1a",
+      "contributor": "",
+      "display": "ドカァン",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "dokan"
+}

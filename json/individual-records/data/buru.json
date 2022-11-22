@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ぶる",
+    "ぶるっ",
+    "ぶるる",
+    "ぶるるる"
+  ],
+  "katakana": [
+    "ブル",
+    "ブルッ",
+    "ブルル",
+    "ブルルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "quiver",
+      "shiver",
+      "shudder",
+      "tremble"
+    ],
+    "meaning": "shaking involuntarily, as from fear or cold",
+    "example": [{
+      "file": "buru-1a",
+      "contributor": "",
+      "display": "ぶるるるるるるる",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "buru"
+}

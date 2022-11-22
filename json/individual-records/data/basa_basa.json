@@ -1,0 +1,20 @@
+{
+  "hiragana": ["ばさばさ"],
+  "katakana": ["バサバサ"],
+  "definition": [{
+    "equivalent": [
+      "flap flap",
+      "flit flit",
+      "flutter flutter",
+      "rustle rustle"
+    ],
+    "meaning": "the continuous soft sounds of paper moving or falling",
+    "example": [{
+      "file": "basa_basa-1a",
+      "contributor": "",
+      "display": "ばさ  ばさ",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "basa basa"
+}

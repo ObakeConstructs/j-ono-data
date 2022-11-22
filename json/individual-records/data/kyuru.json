@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "きゅる",
+    "きゅるる",
+    "きゅるるる"
+  ],
+  "katakana": [
+    "キュル",
+    "キュルル",
+    "キュルルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "growl",
+      "grumble",
+      "rumble"
+    ],
+    "meaning": "a low, rumbling noise, as with a growling stomach",
+    "example": [{
+      "file": "kyuru-1a",
+      "contributor": "",
+      "display": "きゅるる",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "kyuru"
+}

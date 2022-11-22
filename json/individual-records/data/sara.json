@@ -1,0 +1,25 @@
+{
+  "hiragana": [
+    "さら",
+    "さらっ"
+  ],
+  "katakana": [
+    "サラ",
+    "サラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "swish",
+      "swoosh",
+      "whoosh"
+    ],
+    "meaning": "the soft movement of hair, as in a gentle breeze",
+    "example": [{
+      "file": "sara-1a",
+      "contributor": "",
+      "display": "サラ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "sara"
+}

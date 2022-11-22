@@ -1,0 +1,100 @@
+{
+  "hiragana": [
+    "ば",
+    "ばっ"
+  ],
+  "katakana": [
+    "バ",
+    "バッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "about-face",
+        "pivot",
+        "spin",
+        "turn",
+        "whirl"
+      ],
+      "meaning": "the act of turning around suddenly",
+      "example": [
+        {
+          "file": "ba-1a",
+          "contributor": "",
+          "display": "バッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ba-1b",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "dog_became_strongest"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "fwip",
+        "fwit",
+        "pop",
+        "snap",
+        "zip"
+      ],
+      "meaning": "a sudden and/or fast movement",
+      "example": [
+        {
+          "file": "ba-2a",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ba-2b",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "different_world_smartphone"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "crash",
+        "slam",
+        "slap",
+        "smack",
+        "thud",
+        "thump",
+        "thunk",
+        "whack",
+        "wham",
+        "whap",
+        "whomp"
+      ],
+      "meaning": "a sudden and loud impact",
+      "example": [{
+        "file": "ba-3a",
+        "contributor": "",
+        "display": "バッ",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "extend",
+        "outstretch",
+        "reach",
+        "stretch"
+      ],
+      "meaning": "the act of reaching or stretching out a hand",
+      "example": [{
+        "file": "ba-4a",
+        "contributor": "",
+        "display": "バッ",
+        "source": "reincarnated_aristocrat"
+      }]
+    }
+  ],
+  "literal": "ba"
+}

@@ -1,0 +1,37 @@
+{
+  "hiragana": [
+    "とん",
+    "とんっ"
+  ],
+  "katakana": [
+    "トン",
+    "トンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bop",
+      "bump",
+      "knock",
+      "step",
+      "tap",
+      "thud",
+      "thunk"
+    ],
+    "meaning": "the sound of a small or light impact",
+    "example": [
+      {
+        "file": "ton-1a",
+        "contributor": "",
+        "display": "トン",
+        "source": "bungo"
+      },
+      {
+        "file": "ton-1b",
+        "contributor": "",
+        "display": "トンッ",
+        "source": "strongest_failure_frame"
+      }
+    ]
+  }],
+  "literal": "ton"
+}

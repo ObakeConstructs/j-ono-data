@@ -1,0 +1,99 @@
+{
+  "hiragana": [
+    "は",
+    "はっ",
+    "はあ",
+    "はあっ",
+    "はー",
+    "はーっ",
+    "はぁ",
+    "ァぁっ"
+  ],
+  "katakana": [
+    "ハ",
+    "ハッ",
+    "ハア",
+    "ハアッ",
+    "ハー",
+    "ハーッ",
+    "ハァ",
+    "ハァッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "gasp",
+        "ha",
+        "haa",
+        "huff",
+        "pant"
+      ],
+      "meaning": "breathing hard from exertion or fear",
+      "example": [{
+        "file": "ha-1a",
+        "contributor": "",
+        "display": "はっ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "exhale",
+        "hahh",
+        "sigh"
+      ],
+      "meaning": "a deep sigh or exhalation",
+      "example": [
+        {
+          "file": "ha-2a",
+          "contributor": "",
+          "display": "は",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "ha-2b",
+          "contributor": "",
+          "display": "はぁ",
+          "source": "different_world_smartphone"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "gasp",
+        "realize"
+      ],
+      "meaning": "a sudden realization or understanding",
+      "example": [
+        {
+          "file": "ha-3a",
+          "contributor": "",
+          "display": "はっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ha-3b",
+          "contributor": "",
+          "display": "ハッ",
+          "source": "hello_work"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "ha",
+        "hah",
+        "heh",
+        "laugh. laughter"
+      ],
+      "meaning": "a single heartfelt laugh",
+      "example": [{
+        "file": "ha-4a",
+        "contributor": "",
+        "display": "はっ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "ha"
+}

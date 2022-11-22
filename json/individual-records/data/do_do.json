@@ -1,0 +1,79 @@
+{
+  "hiragana": [
+    "どど",
+    "どぉどぉ",
+    "どおどお",
+    "どどど",
+    "どどどど"
+  ],
+  "katakana": [
+    "ドド",
+    "ドォドォ",
+    "ドオドオ",
+    "ドドド",
+    "ドドドド"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam bam",
+        "clobber",
+        "crunch",
+        "hit hit",
+        "impact",
+        "knock knock",
+        "pound",
+        "punch punch",
+        "slam slam",
+        "strike strike",
+        "thud thuf",
+        "thunk",
+        "wham wham"
+      ],
+      "meaning": "a painful, but non-fatal strike, as from the back of a sword",
+      "example": [{
+        "file": "do_do-1a",
+        "contributor": "",
+        "display": "ドォ  ドォ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "bang bang",
+        "blam blam",
+        "blast blast",
+        "boom boom",
+        "whump whump"
+      ],
+      "meaning": "a series of small explosions",
+      "example": [{
+        "file": "do_do-2a",
+        "contributor": "",
+        "display": "ドドドドドド",
+        "source": "reincarnated_aristocrat"
+      }]
+    },
+    {
+      "equivalent": [
+        "bom bom",
+        "race race",
+        "run run",
+        "sprint sprint",
+        "step step",
+        "stomp stomp",
+        "tap tap",
+        "thump thump",
+        "tromp tromp"
+      ],
+      "meaning": "the sound of heavy or fast steps, as in stomping or running",
+      "example": [{
+        "file": "do_do-3a",
+        "contributor": "",
+        "display": "ドドドド...",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }
+  ],
+  "literal": "do do"
+}

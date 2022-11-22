@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "むん",
+    "むんっ"
+  ],
+  "katakana": [
+    "ムン",
+    "ムンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "effort",
+      "exert",
+      "hngh",
+      "strain",
+      "urgh"
+    ],
+    "meaning": "an expression of forceful exertion",
+    "example": [{
+      "file": "mun-1a",
+      "contributor": "",
+      "display": "ムンッ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "mun"
+}

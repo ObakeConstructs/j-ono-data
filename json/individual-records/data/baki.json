@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "ばき",
+    "ばきっ"
+  ],
+  "katakana": [
+    "バキ",
+    "バキッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "crack",
+      "crash",
+      "shatter",
+      "smash"
+    ],
+    "meaning": "the sound of something suddenly falling apart or breaking into pieces",
+    "example": [{
+      "file": "baki-1a",
+      "contributor": "",
+      "display": "バキッ",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "baki"
+}

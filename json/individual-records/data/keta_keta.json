@@ -1,0 +1,23 @@
+{
+  "hiragana": ["けたけた"],
+  "katakana": ["ケタケタ"],
+  "definition": [{
+    "equivalent": [
+      "chortle chortle",
+      "chuckle chuckle",
+      "giggle giggle",
+      "hee hee",
+      "laugh laugh",
+      "snicker snicker",
+      "titter titter"
+    ],
+    "meaning": "a light laugh or giggle",
+    "example": [{
+      "file": "keta_keta-1a",
+      "contributor": "",
+      "display": "ケタ  ケタ",
+      "source": "weakest_occupation_blacksmith"
+    }]
+  }],
+  "literal": "keta keta"
+}

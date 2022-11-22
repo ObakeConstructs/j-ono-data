@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ぼこ",
+    "ぼこっ"
+  ],
+  "katakana": [
+    "ボコ",
+    "ボコッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bead",
+      "blister",
+      "blub",
+      "boil",
+      "bubble",
+      "glob",
+      "gob"
+    ],
+    "meaning": "to form blisters or globules",
+    "example": [{
+      "file": "boko-1a",
+      "contributor": "",
+      "display": "ボコ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "boko"
+}

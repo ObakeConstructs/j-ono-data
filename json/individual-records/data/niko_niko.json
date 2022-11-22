@@ -1,0 +1,20 @@
+{
+  "hiragana": ["にこにこ"],
+  "katakana": ["ニコニコ"],
+  "definition": [{
+    "equivalent": [
+      "beam",
+      "grin",
+      "smile",
+      "smirk"
+    ],
+    "meaning": "an expression happiness, amusement, or agreement",
+    "example": [{
+      "file": "niko_niko-1a",
+      "contributor": "",
+      "display": "ニコ  ニコ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "niko niko"
+}

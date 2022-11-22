@@ -1,0 +1,22 @@
+{
+  "hiragana": ["ちゃら"],
+  "katakana": ["チャラ"],
+  "definition": [{
+    "equivalent": [
+      "clack",
+      "clatter",
+      "click",
+      "clink",
+      "ker-chak",
+      "rattle"
+    ],
+    "meaning": "a short rattling noise",
+    "example": [{
+      "file": "chara-1a",
+      "contributor": "",
+      "display": "チャラ",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "chara"
+}

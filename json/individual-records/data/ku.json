@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "く",
+    "くっ",
+    "くー",
+    "くーっ",
+    "くう",
+    "くうっ"
+  ],
+  "katakana": [
+    "ク",
+    "クッ",
+    "クー",
+    "クーッ",
+    "クウ",
+    "クウッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ah",
+      "damn",
+      "fah",
+      "gah"
+    ],
+    "meaning": "an expression of pain or pressure, often as supressed",
+    "example": [{
+      "file": "ku-1a",
+      "contributor": "",
+      "display": "くうっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "ku"
+}

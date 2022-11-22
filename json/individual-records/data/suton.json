@@ -1,0 +1,22 @@
+{
+  "hiragana": ["すとん"],
+  "katakana": ["ストン"],
+  "definition": [{
+    "equivalent": [
+      "crouch",
+      "down",
+      "kneel",
+      "rest",
+      "sit",
+      "squat"
+    ],
+    "meaning": "to sit or squat down",
+    "example": [{
+      "file": "suton-1a",
+      "contributor": "",
+      "display": "ストン",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "suton"
+}

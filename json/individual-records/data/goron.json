@@ -1,0 +1,22 @@
+{
+  "hiragana": ["ごろん"],
+  "katakana": ["ゴロン"],
+  "definition": [{
+    "equivalent": [
+      "rock",
+      "roll",
+      "roll over",
+      "spin",
+      "tumble",
+      "turn"
+    ],
+    "meaning": "a rolling or turning movement",
+    "example": [{
+      "file": "goron-1a",
+      "contributor": "",
+      "display": "ごろん",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "goron"
+}

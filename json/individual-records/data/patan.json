@@ -1,0 +1,47 @@
+{
+  "hiragana": [
+    "ぱたん",
+    "ぱたんっ"
+  ],
+  "katakana": [
+    "パタン",
+    "パタンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "click",
+        "close",
+        "ker-chak",
+        "slam",
+        "tchk"
+      ],
+      "meaning": "the sound of a door latch closing",
+      "example": [{
+        "file": "patan-1a",
+        "contributor": "",
+        "display": "パタン",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [
+        "buckle",
+        "collapse",
+        "fall",
+        "stumble",
+        "topple",
+        "tumble"
+      ],
+      "meaning": "to fall down from an upright position",
+      "example": [{
+        "file": "patan-2a",
+        "contributor": "",
+        "display": "ぱたん",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "literal": "patan"
+}

@@ -1,0 +1,20 @@
+{
+  "hiragana": ["じりじり"],
+  "katakana": ["ジリジリ"],
+  "definition": [{
+    "equivalent": [
+      "creep creep",
+      "encroach",
+      "inch inch",
+      "invade"
+    ],
+    "meaning": "to approach by slow gradual steps",
+    "example": [{
+      "file": "jiri_jiri-1a",
+      "contributor": "",
+      "display": "ジリ  ジリ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "jiri jiri"
+}

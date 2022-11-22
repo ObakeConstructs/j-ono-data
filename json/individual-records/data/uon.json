@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "うぉん",
+    "うぉーん"
+  ],
+  "katakana": [
+    "ウォン",
+    "ウォーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "arf",
+      "bark",
+      "howl",
+      "ruff",
+      "woof",
+      "yowl"
+    ],
+    "meaning": "the bark or howl of a wolf",
+    "example": [{
+      "file": "uon-1a",
+      "contributor": "",
+      "display": "ウォン",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "uon"
+}

@@ -1,0 +1,37 @@
+{
+  "hiragana": [
+    "ぱちん",
+    "ぱちんっ"
+  ],
+  "katakana": [
+    "パチン",
+    "パチンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clack",
+      "click",
+      "clink",
+      "ker-chik",
+      "snap",
+      "tap",
+      "tick"
+    ],
+    "meaning": "the generic sound of a click or snap",
+    "example": [
+      {
+        "file": "pachin-1a",
+        "contributor": "",
+        "display": "ぱちん",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "pachin-1b",
+        "contributor": "",
+        "display": "パチン",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "pachin"
+}

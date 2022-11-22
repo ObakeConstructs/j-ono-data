@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "わん",
+    "わんっ"
+  ],
+  "katakana": [
+    "ワン",
+    "ワンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "arf",
+      "bark",
+      "ruff",
+      "woof"
+    ],
+    "meaning": "The gruff barking noise of a dog or a wolf",
+    "example": [
+      {
+        "file": "wan-1a",
+        "contributor": "",
+        "display": "わんっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "wan-1b",
+        "contributor": "",
+        "display": "わん",
+        "source": "world_full_of_monsters"
+      }
+    ]
+  }],
+  "literal": "wan"
+}

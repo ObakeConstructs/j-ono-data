@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ぎゃ ぎゃ",
+    "ぎゃっ ぎゃっ",
+    "ぎゃぁ ぎゃぁ",
+    "ぎゃー ぎゃー"
+  ],
+  "katakana": [
+    "ギャ ギャ",
+    "ギャッ ギャッ",
+    "ギャァ ギャァ",
+    "ギャー ギャー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "caw caw",
+      "screech screech",
+      "squawk squawk"
+    ],
+    "meaning": "a series of abrupt shrieks, typically from animals",
+    "example": [{
+      "file": "gya_gya-1a",
+      "contributor": "",
+      "display": "ギャァ  ギャッ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "gya gya"
+}

@@ -1,0 +1,49 @@
+{
+  "hiragana": [
+    "む",
+    "むっ",
+    "むー",
+    "むーっ",
+    "むう",
+    "むうっ"
+  ],
+  "katakana": [
+    "ム",
+    "ムッ",
+    "ムー",
+    "ムーッ",
+    "ムウ",
+    "ムウッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aggravated",
+      "annoyed",
+      "hmph",
+      "irked",
+      "irritated",
+      "narked",
+      "peeved",
+      "pissed",
+      "riled",
+      "unamused",
+      "vexed"
+    ],
+    "meaning": "an expression of annoyance",
+    "example": [
+      {
+        "file": "mu-1a",
+        "contributor": "",
+        "display": "ム",
+        "source": "d_genesis"
+      },
+      {
+        "file": "mu-1b",
+        "contributor": "",
+        "display": "むう",
+        "source": "reincarnated_farm_girl"
+      }
+    ]
+  }],
+  "literal": "mu"
+}

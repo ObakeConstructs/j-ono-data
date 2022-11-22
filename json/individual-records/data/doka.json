@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "どか",
+    "どかっ"
+  ],
+  "katakana": [
+    "ドカ",
+    "ドカッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blam",
+      "blow",
+      "crash",
+      "slam",
+      "smash",
+      "strike",
+      "wallop",
+      "wham"
+    ],
+    "meaning": "a loud and destructuve strike",
+    "example": [
+      {
+        "file": "doka-1a",
+        "contributor": "",
+        "display": "ドカ",
+        "source": "hello_work"
+      },
+      {
+        "file": "doka-1b",
+        "contributor": "",
+        "display": "ドカッ",
+        "source": "hanako_24th_ward"
+      }
+    ]
+  }],
+  "literal": "doka"
+}

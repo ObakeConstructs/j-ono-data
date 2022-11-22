@@ -1,0 +1,27 @@
+{
+  "hiragana": ["ゔん"],
+  "katakana": ["ヴン"],
+  "definition": [{
+    "equivalent": [
+      "fwoom",
+      "voom",
+      "whoom"
+    ],
+    "meaning": "the sound of some sort of magic taking effect or causing something to appear",
+    "example": [
+      {
+        "file": "vun-1a",
+        "contributor": "",
+        "display": "ヴン",
+        "source": "hello_work"
+      },
+      {
+        "file": "vun-1b",
+        "contributor": "",
+        "display": "ヴン",
+        "source": "kuma_kuma_kuma_bear"
+      }
+    ]
+  }],
+  "literal": "vun"
+}

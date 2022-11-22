@@ -1,0 +1,22 @@
+{
+  "hiragana": ["わたわた"],
+  "katakana": ["ワタワタ"],
+  "definition": [{
+    "equivalent": [
+      "alarm",
+      "concern",
+      "dread",
+      "panic",
+      "qualm",
+      "wave wave"
+    ],
+    "meaning": "an expression of panic or mistake, often with waving of hands",
+    "example": [{
+      "file": "wata_wata-1a",
+      "contributor": "",
+      "display": "わた  わた",
+      "source": "reincarnated_farm_girl"
+    }]
+  }],
+  "literal": "wata wata"
+}

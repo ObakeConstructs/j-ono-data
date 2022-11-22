@@ -1,0 +1,87 @@
+{
+  "hiragana": [
+    "ぎゅ",
+    "ぎゅっ",
+    "ぎゅう",
+    "ぎゅうう",
+    "ぎゅううう",
+    "ぎゅぅ",
+    "ぎゅぅぅ",
+    "ぎゅぅぅぅ"
+  ],
+  "katakana": [
+    "ギュ",
+    "ギュッ",
+    "ギュウ",
+    "ギュウウ",
+    "ギュウウウ",
+    "ギュゥ",
+    "ギュゥゥ",
+    "ギュゥゥゥ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "embrace",
+        "hold",
+        "hug",
+        "squeeze"
+      ],
+      "meaning": "the act of embracing or hugging",
+      "example": [
+        {
+          "file": "gyu-1a",
+          "contributor": "",
+          "display": "ぎゅう",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gyu-1b",
+          "contributor": "",
+          "display": "ぎゅっ",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "clasp",
+        "clench",
+        "grab",
+        "grip",
+        "hold",
+        "squeeze"
+      ],
+      "meaning": "the act of grabbing something and holding it",
+      "example": [
+        {
+          "file": "gyu-2a",
+          "contributor": "",
+          "display": "ぎゅっ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "gyu-2b",
+          "contributor": "",
+          "display": "ギュ",
+          "source": "marginal_taylor"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "growl",
+        "grumble",
+        "rumble"
+      ],
+      "meaning": "a low, rumbling noise, as with a growling stomach",
+      "example": [{
+        "file": "gyu-3a",
+        "contributor": "",
+        "display": "ぎゅうぅぅ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }
+  ],
+  "literal": "gyu"
+}

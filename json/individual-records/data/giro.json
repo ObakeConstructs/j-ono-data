@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "ぎろ",
+    "ぎろっ"
+  ],
+  "katakana": [
+    "ギロ",
+    "ギロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fixate",
+      "glare",
+      "glower",
+      "regard",
+      "stare"
+    ],
+    "meaning": "a fixed intent look",
+    "example": [{
+      "file": "giro-1a",
+      "contributor": "",
+      "display": "ギロ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "giro"
+}

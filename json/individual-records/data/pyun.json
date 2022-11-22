@@ -1,0 +1,22 @@
+{
+  "hiragana": ["ぴゅん"],
+  "katakana": ["ピュン"],
+  "definition": [{
+    "equivalent": [
+      "fwip",
+      "fwit",
+      "pyu",
+      "whish",
+      "whiz",
+      "zip"
+    ],
+    "meaning": "an indication of something moving at high speed throug the air",
+    "example": [{
+      "file": "pyun-1a",
+      "contributor": "",
+      "display": "ピュン",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "pyun"
+}

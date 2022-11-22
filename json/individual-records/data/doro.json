@@ -1,0 +1,48 @@
+{
+  "hiragana": [
+    "どろ",
+    "どろっ",
+    "どろお",
+    "どろぉ"
+  ],
+  "katakana": [
+    "ドロ",
+    "ドロッ",
+    "ドロオ",
+    "ドロォ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dissolve",
+      "dribble",
+      "drip",
+      "exude",
+      "flow",
+      "glop",
+      "liquify",
+      "melt",
+      "ooze",
+      "run",
+      "seep",
+      "soften",
+      "thaw",
+      "trickle"
+    ],
+    "meaning": "to melt, flow, or drip slowly",
+    "example": [
+      {
+        "file": "doro-1a",
+        "contributor": "",
+        "display": "ドロッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "doro-1b",
+        "contributor": "",
+        "display": "ドロオ",
+        "source": "hello_work"
+      }
+    ]
+  }],
+  "literal": "doro"
+}

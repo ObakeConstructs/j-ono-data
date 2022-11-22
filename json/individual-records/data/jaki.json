@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "じゃき",
+    "じゃきっ"
+  ],
+  "katakana": [
+    "ジャキ",
+    "ジャキッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ching",
+      "jing",
+      "shaa",
+      "shing"
+    ],
+    "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+    "example": [
+      {
+        "file": "jaki-1a",
+        "contributor": "",
+        "display": "ジャキ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "jaki-1b",
+        "contributor": "",
+        "display": "じゃきっ",
+        "source": "world_full_of_monsters"
+      }
+    ]
+  }],
+  "literal": "jaki"
+}

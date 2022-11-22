@@ -1,0 +1,18 @@
+{
+  "hiragana": ["ひそひそ"],
+  "katakana": ["ヒソヒソ"],
+  "definition": [{
+    "equivalent": [
+      "softly",
+      "whisper"
+    ],
+    "meaning": "to speak quietly in order to not be overheard",
+    "example": [{
+      "file": "hiso_hiso-1a",
+      "contributor": "",
+      "display": "ヒソ  ヒソ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "hiso hiso"
+}

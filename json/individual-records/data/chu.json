@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ちゅ",
+    "ちゅっ",
+    "ちゅー",
+    "ちゅーっ"
+  ],
+  "katakana": [
+    "チュ",
+    "チュッ",
+    "チュー",
+    "チューッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drink",
+      "quaff",
+      "sip",
+      "slurp",
+      "suck",
+      "swig"
+    ],
+    "meaning": "the act of sucking, as from a straw",
+    "example": [{
+      "file": "chu-1a",
+      "contributor": "",
+      "display": "ちゅーっ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "chu"
+}

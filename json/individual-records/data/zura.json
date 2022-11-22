@@ -1,0 +1,18 @@
+{
+  "hiragana": ["ずら"],
+  "katakana": ["ズラ"],
+  "definition": [{
+    "equivalent": [
+      "lined up",
+      "queued"
+    ],
+    "meaning": "a series of things or people lined up one after another",
+    "example": [{
+      "file": "zura-1a",
+      "contributor": "",
+      "display": "ズラ",
+      "source": "reincarnated_aristocrat"
+    }]
+  }],
+  "literal": "zura"
+}

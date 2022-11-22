@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "しゅる",
+    "しゅるっ"
+  ],
+  "katakana": [
+    "シュル",
+    "シュルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "coil",
+      "curl",
+      "snake",
+      "spiral",
+      "swirl",
+      "twist",
+      "wind",
+      "wrap"
+    ],
+    "meaning": "to move along a winding course or to repeatedly wrap around something",
+    "example": [{
+      "file": "shuru-1a",
+      "contributor": "",
+      "display": "しゅるっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "shuru"
+}

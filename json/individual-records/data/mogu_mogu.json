@@ -1,0 +1,19 @@
+{
+  "hiragana": ["もぐもぐ"],
+  "katakana": ["モグモグ"],
+  "definition": [{
+    "equivalent": [
+      "munch munch",
+      "nom nom",
+      "snarf snarf"
+    ],
+    "meaning": "the sound of eating and chewing",
+    "example": [{
+      "file": "mogu_mogu-1a",
+      "contributor": "",
+      "display": "モグ  モグ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "mogu mogu"
+}
