@@ -1,16 +1,5 @@
 {
-  "hiragana": [
-    "す",
-    "すっ",
-    "すー",
-    "すーっ",
-    "すう",
-    "すぅ",
-    "すうう",
-    "すぅぅ",
-    "すううう",
-    "すぅぅぅ"
-  ],
+  "literal": "su",
   "katakana": [
     "ス",
     "スッ",
@@ -23,30 +12,43 @@
     "スウウウ",
     "スゥゥゥ"
   ],
+  "hiragana": [
+    "す",
+    "すっ",
+    "すー",
+    "すーっ",
+    "すう",
+    "すぅ",
+    "すうう",
+    "すぅぅ",
+    "すううう",
+    "すぅぅぅ"
+  ],
   "definition": [
     {
+      "meaning": "to move past someone, typically ignoring them",
       "equivalent": [
         "ignore",
         "pass",
         "pass by"
       ],
-      "meaning": "to move past someone, typically ignoring them",
       "example": [
         {
+          "source": "d_genesis",
           "file": "su-1a",
-          "contributor": "",
           "display": "スッ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "su-1b",
-          "contributor": "",
           "display": "す",
-          "source": "different_world_smartphone"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
       "equivalent": [
         "deliver",
         "gesture",
@@ -62,29 +64,35 @@
         "take",
         "yield"
       ],
-      "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
       "example": [
         {
+          "source": "d_genesis",
           "file": "su-2a",
-          "contributor": "",
           "display": "ス",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "su-2b",
-          "contributor": "",
           "display": "ス",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "su-2c",
-          "contributor": "",
           "display": "ス",
-          "source": "d_genesis"
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "su-2d",
+          "display": "スッ",
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "a deep breath, typically inhaled",
       "equivalent": [
         "blow out",
         "breath in",
@@ -94,23 +102,23 @@
         "huff",
         "inhale"
       ],
-      "meaning": "a deep breath, typically inhaled",
       "example": [
         {
+          "source": "hello_work",
           "file": "su-3a",
-          "contributor": "",
           "display": "スゥゥゥ",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "su-3b",
-          "contributor": "",
           "display": "すぅ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "the act of picking something up",
       "equivalent": [
         "bear",
         "carry",
@@ -120,15 +128,17 @@
         "lift",
         "raise"
       ],
-      "meaning": "the act of picking something up",
-      "example": [{
-        "file": "su-4a",
-        "contributor": "",
-        "display": "スッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "su-4a",
+          "display": "スッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "a sudden change in demeanor, as expressing a nearby threat",
       "equivalent": [
         "attend",
         "concentrate",
@@ -146,14 +156,14 @@
         "view",
         "zero in on"
       ],
-      "meaning": "a sudden change in demeanor, as expressing a nearby threat",
-      "example": [{
-        "file": "su-5a",
-        "contributor": "",
-        "display": "スッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "su-5a",
+          "display": "スッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "su"
+  ]
 }

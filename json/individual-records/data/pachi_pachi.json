@@ -1,34 +1,48 @@
 {
-  "hiragana": ["ぱちぱち"],
-  "katakana": ["パチパチ"],
+  "literal": "pachi pachi",
+  "katakana": [
+    "パチパチ"
+  ],
+  "hiragana": [
+    "ぱちぱち"
+  ],
   "definition": [
     {
+      "meaning": "the continuous sound of crackling, as from a fire",
       "equivalent": [
         "crackle crackle",
         "pop pop",
         "snap snap"
       ],
-      "meaning": "the continuous sound of crackling, as from a fire",
-      "example": [{
-        "file": "pachi_pachi-1a",
-        "contributor": "",
-        "display": "パチ  パチ",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "pachi_pachi-1a",
+          "display": "パチ  パチ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "the sound of applause",
       "equivalent": [
         "applause",
         "clap clap"
       ],
-      "meaning": "the sound of applause",
-      "example": [{
-        "file": "pachi_pachi-2a",
-        "contributor": "",
-        "display": "パチ  パチ",
-        "source": "reincarnated_aristocrat"
-      }]
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "pachi_pachi-2a",
+          "display": "パチ  パチ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "pachi_pachi-2b",
+          "display": "パチ  パチ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "pachi pachi"
+  ]
 }

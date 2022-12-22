@@ -8044,11 +8044,19 @@
   {
     "hiragana": [
       "お",
-      "おっ"
+      "おっ",
+      "おお",
+      "おおっ",
+      "おおお",
+      "おおおっ"
     ],
     "katakana": [
       "オ",
-      "オッ"
+      "オッ",
+      "オオ",
+      "オオッ",
+      "オオオ",
+      "オオオッ"
     ],
     "definition": [{
       "equivalent": [
@@ -8056,12 +8064,20 @@
         "oh"
       ],
       "meaning": "a brief exclamation expressing surprise or recognition",
-      "example": [{
-        "file": "o-1a",
-        "contributor": "",
-        "display": "お",
-        "source": "otherworld_material_collector"
-      }]
+      "example": [
+        {
+          "file": "o-1a",
+          "contributor": "",
+          "display": "お",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "o-1b",
+          "contributor": "",
+          "display": "おおおっ",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "o"
   },
@@ -8278,12 +8294,20 @@
           "clap clap"
         ],
         "meaning": "the sound of applause",
-        "example": [{
-          "file": "pachi_pachi-2a",
-          "contributor": "",
-          "display": "パチ  パチ",
-          "source": "reincarnated_aristocrat"
-        }]
+        "example": [
+          {
+            "file": "pachi_pachi-2a",
+            "contributor": "",
+            "display": "パチ  パチ",
+            "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "pachi_pachi-2b",
+            "contributor": "",
+            "display": "パチ  パチ",
+            "source": "otherworld_material_collector"
+          }
+        ]
       }
     ],
     "literal": "pachi pachi"
@@ -10559,6 +10583,12 @@
             "contributor": "",
             "display": "ス",
             "source": "d_genesis"
+          },
+          {
+            "file": "su-2d",
+            "contributor": "",
+            "display": "スッ",
+            "source": "otherworld_material_collector"
           }
         ]
       },
@@ -11967,8 +11997,14 @@
     "literal": "wa"
   },
   {
-    "hiragana": ["わいわい"],
-    "katakana": ["ワイワイ"],
+    "hiragana": [
+      "わいわい",
+      "わぃわぃ"
+    ],
+    "katakana": [
+      "ワイワイ",
+      "ワィワィ"
+    ],
     "definition": [{
       "equivalent": [
         "babel babel",

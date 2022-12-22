@@ -1,23 +1,33 @@
 {
-  "hiragana": ["わいわい"],
-  "katakana": ["ワイワイ"],
-  "definition": [{
-    "equivalent": [
-      "babel babel",
-      "blah blah",
-      "bustle bustle",
-      "cacophony",
-      "chatter chatter",
-      "clamor clamor",
-      "hubbub"
-    ],
-    "meaning": "the sound of multiple people talking simultaneously",
-    "example": [{
-      "file": "wai_wai-1a",
-      "contributor": "",
-      "display": "わい  わい",
-      "source": "abandoned_reincarnation_sage"
-    }]
-  }],
-  "literal": "wai wai"
+  "literal": "wai wai",
+  "katakana": [
+    "ワイワイ",
+    "ワィワィ"
+  ],
+  "hiragana": [
+    "わいわい",
+    "わぃわぃ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of multiple people talking simultaneously",
+      "equivalent": [
+        "babel babel",
+        "blah blah",
+        "bustle bustle",
+        "cacophony",
+        "chatter chatter",
+        "clamor clamor",
+        "hubbub"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "wai_wai-1a",
+          "display": "わい  わい",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
