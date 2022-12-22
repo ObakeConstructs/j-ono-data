@@ -5927,8 +5927,14 @@
     "literal": "jaki"
   },
   {
-    "hiragana": ["じゃら"],
-    "katakana": ["ジャラ"],
+    "hiragana": [
+      "じゃら",
+      "じゃらら"
+    ],
+    "katakana": [
+      "ジャラ",
+      "ジャララ"
+    ],
     "definition": [{
       "equivalent": [
         "ching",
@@ -5939,12 +5945,20 @@
         "tinkle"
       ],
       "meaning": "a sharp light sound of rattling metal or glass",
-      "example": [{
-        "file": "jara-1a",
-        "contributor": "",
-        "display": "ジャラ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "jara-1a",
+          "contributor": "",
+          "display": "ジャラ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "jara-1b",
+          "contributor": "",
+          "display": "ジャララ",
+          "source": "modern_dungeon_capture"
+        }
+      ]
     }],
     "literal": "jara"
   },
@@ -8313,22 +8327,46 @@
     "literal": "pachi pachi"
   },
   {
-    "hiragana": ["ぱか"],
-    "katakana": ["パカ"],
-    "definition": [{
-      "equivalent": [
-        "hoorah",
-        "ta-da",
-        "wow"
-      ],
-      "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
-      "example": [{
-        "file": "paka-1a",
-        "contributor": "",
-        "display": "パカ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
-    }],
+    "hiragana": [
+      "ぱか",
+      "ぱかっ"
+    ],
+    "katakana": [
+      "パカ",
+      "パカッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "hoorah",
+          "ta-da",
+          "wow"
+        ],
+        "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
+        "example": [{
+          "file": "paka-1a",
+          "contributor": "",
+          "display": "パカ",
+          "source": "kuma_kuma_kuma_bear"
+        }]
+      },
+      {
+        "equivalent": [
+          "pop",
+          "open",
+          "reveal",
+          "uncover",
+          "lift"
+        ],
+        "meaning": "popping open a closed container",
+        "example": [{
+          "file": "paka-2a",
+          "contributor": "",
+          "display": "パカッ",
+          "source": "otherworld_material_collector"
+        }]
+      }
+    ],
     "literal": "paka"
   },
   {

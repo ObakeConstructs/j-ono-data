@@ -1,22 +1,38 @@
 {
-  "hiragana": ["じゃら"],
-  "katakana": ["ジャラ"],
-  "definition": [{
-    "equivalent": [
-      "ching",
-      "clink",
-      "jingle",
-      "ting",
-      "tink",
-      "tinkle"
-    ],
-    "meaning": "a sharp light sound of rattling metal or glass",
-    "example": [{
-      "file": "jara-1a",
-      "contributor": "",
-      "display": "ジャラ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "jara"
+  "literal": "jara",
+  "katakana": [
+    "ジャラ",
+    "ジャララ"
+  ],
+  "hiragana": [
+    "じゃら",
+    "じゃらら"
+  ],
+  "definition": [
+    {
+      "meaning": "a sharp light sound of rattling metal or glass",
+      "equivalent": [
+        "ching",
+        "clink",
+        "jingle",
+        "ting",
+        "tink",
+        "tinkle"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "jara-1a",
+          "display": "ジャラ",
+          "contributor": ""
+        },
+        {
+          "source": "modern_dungeon_capture",
+          "file": "jara-1b",
+          "display": "ジャララ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
