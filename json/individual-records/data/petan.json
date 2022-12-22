@@ -1,32 +1,36 @@
 {
-  "hiragana": [
-    "ペたん",
-    "ペたんっ"
-  ],
+  "literal": "petan",
   "katakana": [
     "ペタン",
     "ペタンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "collapse",
-      "crumple",
-      "drop",
-      "flop",
-      "flump",
-      "plop",
-      "plunk",
-      "sink",
-      "slump",
-      "wilt"
-    ],
-    "meaning": "to sit or drop clumsily or lazily",
-    "example": [{
-      "file": "petan-1a",
-      "contributor": "",
-      "display": "パタン",
-      "source": "strongest_failure_frame"
-    }]
-  }],
-  "literal": "petan"
+  "hiragana": [
+    "ペたん",
+    "ペたんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to sit or drop clumsily or lazily",
+      "equivalent": [
+        "collapse",
+        "crumple",
+        "drop",
+        "flop",
+        "flump",
+        "plop",
+        "plunk",
+        "sink",
+        "slump",
+        "wilt"
+      ],
+      "example": [
+        {
+          "source": "strongest_failure_frame",
+          "file": "petan-1a",
+          "display": "ペタン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
