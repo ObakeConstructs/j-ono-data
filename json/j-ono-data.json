@@ -1933,8 +1933,14 @@
     "literal": "chu"
   },
   {
-    "hiragana": ["ちゅんちゅん"],
-    "katakana": ["チュンチュン"],
+    "hiragana": [
+      "ちゅんちゅん",
+      "ちゅんちゅんっ"
+    ],
+    "katakana": [
+      "チュンチュン",
+      "チュンチュンッ"
+    ],
     "definition": [{
       "equivalent": [
         "cheep cheep",
@@ -1946,12 +1952,20 @@
         "warble warble"
       ],
       "meaning": "a series of short sharp sound, as from a small bird",
-      "example": [{
-        "file": "chun_chun-1a",
-        "contributor": "",
-        "display": "チュン  チュン",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "file": "chun_chun-1a",
+          "contributor": "",
+          "display": "チュン  チュンッ",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "chun_chun-1b",
+          "contributor": "",
+          "display": "チュン  チュン",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "chun chun"
   },
@@ -2455,12 +2469,20 @@
           "ta-da"
         ],
         "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
-        "example": [{
-          "file": "don-2a",
-          "contributor": "",
-          "display": "ドン",
-          "source": "different_world_smartphone"
-        }]
+        "example": [
+          {
+            "file": "don-2a",
+            "contributor": "",
+            "display": "ドン",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "don-2b",
+            "contributor": "",
+            "display": "どん",
+            "source": "otherworld_material_collector"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -2504,6 +2526,32 @@
       }]
     }],
     "literal": "don don"
+  },
+  {
+    "hiragana": [
+      "どぽぽ",
+      "どぽぽぽ"
+    ],
+    "katakana": [
+      "ドポポ",
+      "ドポポポ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "glug",
+        "pour",
+        "slosh",
+        "trickle"
+      ],
+      "meaning": "sound of pouring liquid",
+      "example": [{
+        "file": "dopopo-1a",
+        "contributor": "",
+        "display": "ドポポポ",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "dopopo"
   },
   {
     "hiragana": [
@@ -2597,7 +2645,7 @@
           "deposit",
           "plunk"
         ],
-        "meaning": "placing or dropping something onto a counter or similar surface, often with a noticable sound",
+        "meaning": "placing or dropping something onto a hard surface, often with a noticable sound",
         "example": [
           {
             "file": "dosa-2a",
@@ -2609,6 +2657,12 @@
             "file": "dosa-2b",
             "contributor": "",
             "display": "ドサッ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "dosa-2c",
+            "contributor": "",
+            "display": "ドサ",
             "source": "otherworld_material_collector"
           }
         ]
@@ -2891,15 +2945,24 @@
           "ease",
           "release",
           "relief",
-          "solace"
+          "solace",
+          "whew"
         ],
         "meaning": "an expression of relief",
-        "example": [{
-          "file": "fu-3a",
-          "contributor": "",
-          "display": "ふーっ",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "fu-3a",
+            "contributor": "",
+            "display": "ふーっ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "fu-3b",
+            "contributor": "",
+            "display": "ふう",
+            "source": "otherworld_material_collector"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -3798,24 +3861,41 @@
   {
     "hiragana": ["がらがら"],
     "katakana": ["ガラガラ"],
-    "definition": [{
-      "equivalent": [
-        "clack clack",
-        "clank clank",
-        "clatter clatter",
-        "crash crash",
-        "rattle rattle",
-        "smash smash",
-        "tumult"
-      ],
-      "meaning": "the sound of something breaking apart, collapsing or settling",
-      "example": [{
-        "file": "gara_gara-1a",
-        "contributor": "",
-        "display": "ガラ  ガラ  ガラ",
-        "source": "hanako_24th_ward"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "clack clack",
+          "clank clank",
+          "clatter clatter",
+          "crash crash",
+          "rattle rattle",
+          "smash smash",
+          "tumult"
+        ],
+        "meaning": "the sound of something breaking apart, collapsing or settling",
+        "example": [{
+          "file": "gara_gara-1a",
+          "contributor": "",
+          "display": "ガラ  ガラ  ガラ",
+          "source": "hanako_24th_ward"
+        }]
+      },
+      {
+        "equivalent": [
+          "clatter clatter",
+          "rattle rattle",
+          "clank clank",
+          "clunk clunk"
+        ],
+        "meaning": "an indication of something moving with a clatter or rattle",
+        "example": [{
+          "file": "gara_gara-1b",
+          "contributor": "",
+          "display": "ガラ  ガラ",
+          "source": "otherworld_material_collector"
+        }]
+      }
+    ],
     "literal": "gara gara"
   },
   {
@@ -4021,6 +4101,12 @@
           "contributor": "",
           "display": "ガタッ",
           "source": "hikaro_no_go"
+        },
+        {
+          "file": "gata-1d",
+          "contributor": "",
+          "display": "ガタッ",
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -4238,13 +4324,21 @@
           "squeal",
           "squee"
         ],
-        "meaning": "a series of squeak or squeals, as from a door, an old chair, or a small animal",
-        "example": [{
-          "file": "gigi-2a",
-          "contributor": "",
-          "display": "ギギ",
-          "source": "s_rank_behemoth"
-        }]
+        "meaning": "a series of squeak or squeals, as from a door, an old chair, or from animals",
+        "example": [
+          {
+            "file": "gigi-2a",
+            "contributor": "",
+            "display": "ギギ",
+            "source": "s_rank_behemoth"
+          },
+          {
+            "file": "gigi-2b",
+            "contributor": "",
+            "display": "ギギギギ...",
+            "source": "otherworld_material_collector"
+          }
+        ]
       }
     ],
     "literal": "gigi"
@@ -4607,6 +4701,12 @@
           "contributor": "",
           "display": "ゴクゴク",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "goku_goku-1c",
+          "contributor": "",
+          "display": "ゴクゴク",
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -4792,8 +4892,14 @@
     "literal": "goshi goshi"
   },
   {
-    "hiragana": ["ごと"],
-    "katakana": ["ゴト"],
+    "hiragana": [
+      "ごと",
+      "ごとっ"
+    ],
+    "katakana": [
+      "ゴト",
+      "ゴトッ"
+    ],
     "definition": [{
       "equivalent": [
         "clunk",
@@ -4804,7 +4910,7 @@
         "thwack",
         "tonk"
       ],
-      "meaning": "the sound of a soft impact, as from something wood or plastic being set down",
+      "meaning": "the sound of a soft impact from something being set down or placed",
       "example": [
         {
           "file": "goto-1a",
@@ -4816,6 +4922,12 @@
           "file": "goto-1b",
           "contributor": "",
           "display": "ゴト",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "goto-1c",
+          "contributor": "",
+          "display": "ゴトッ",
           "source": "otherworld_material_collector"
         }
       ]
@@ -5574,12 +5686,20 @@
       {
         "equivalent": ["haha"],
         "meaning": "laughter",
-        "example": [{
-          "file": "ha_ha-1a",
-          "contributor": "",
-          "display": "はは",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "ha_ha-1a",
+            "contributor": "",
+            "display": "はは",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "ha_ha-1b",
+            "contributor": "",
+            "display": "はっ  はっ",
+            "source": "otherworld_material_collector"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -5781,12 +5901,20 @@
         "warm"
       ],
       "meaning": "an indication of something that is warm, typically freshly cooked food",
-      "example": [{
-        "file": "hoka_hoka-1a",
-        "contributor": "",
-        "display": "ホカ  ホカ",
-        "source": "otherworld_material_collector"
-      }]
+      "example": [
+        {
+          "file": "hoka_hoka-1a",
+          "contributor": "",
+          "display": "ホカ  ホカ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "hoka_hoka-1b",
+          "contributor": "",
+          "display": "ホカ  ホカ",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "hoka hoka"
   },
@@ -5948,6 +6076,38 @@
       }]
     }],
     "literal": "hyun hyun"
+  },
+  {
+    "hiragana": [
+      "ひゅる",
+      "ひゅるる",
+      "ひゅるるる"
+    ],
+    "katakana": [
+      "ヒュル",
+      "ヒュルル",
+      "ヒュルルル"
+    ],
+    "definition": [{
+      "equivalent": [
+        "shoom",
+        "swoosh",
+        "whish",
+        "whiz",
+        "whom",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "meaning": "something moving quickly through the air",
+      "example": [{
+        "file": "hyuru-1a",
+        "contributor": "",
+        "display": "ヒュルルル",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "hyuru"
   },
   {
     "hiragana": [
@@ -6499,12 +6659,20 @@
         "write"
       ],
       "meaning": "the sound of writing something, as on paper or chalkboard",
-      "example": [{
-        "file": "kaki_kaki-1a",
-        "contributor": "",
-        "display": "カキ  カキ",
-        "source": "otherworld_material_collector"
-      }]
+      "example": [
+        {
+          "file": "kaki_kaki-1a",
+          "contributor": "",
+          "display": "カキ  カキ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "kaki_kaki-1b",
+          "contributor": "",
+          "display": "カキ  カキ",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "kaki kaki"
   },
@@ -7712,12 +7880,20 @@
         "rumble"
       ],
       "meaning": "a low, rumbling noise, as with a growling stomach",
-      "example": [{
-        "file": "kyuru-1a",
-        "contributor": "",
-        "display": "きゅるる",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "file": "kyuru-1a",
+          "contributor": "",
+          "display": "きゅるる",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "kyuru-1b",
+          "contributor": "",
+          "display": "きゅるるる",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "kyuru"
   },
@@ -7809,6 +7985,25 @@
       }]
     }],
     "literal": "moji"
+  },
+  {
+    "hiragana": ["もきゅもきゅ"],
+    "katakana": ["モキュモキュ"],
+    "definition": [{
+      "equivalent": [
+        "munch munch",
+        "nom nom",
+        "snarf snarf"
+      ],
+      "meaning": "the sound of eating and chewing",
+      "example": [{
+        "file": "mokyu_mokyu-1a",
+        "contributor": "",
+        "display": "もきゅ  もきゅ",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "mokyu mokyu"
   },
   {
     "hiragana": ["もわもわ"],
@@ -8252,21 +8447,35 @@
     "literal": "nya nya"
   },
   {
-    "hiragana": ["にぃ"],
-    "katakana": ["ニィ"],
+    "hiragana": [
+      "にぃ",
+      "にい"
+    ],
+    "katakana": [
+      "ニィ",
+      "ニイ"
+    ],
     "definition": [{
       "equivalent": [
         "grin",
         "smile",
         "smirk"
       ],
-      "meaning": "an unpleasant smile",
-      "example": [{
-        "file": "nyi-1a",
-        "contributor": "",
-        "display": "ニィ",
-        "source": "hello_work"
-      }]
+      "meaning": "a mischievous or unpleasant smile",
+      "example": [
+        {
+          "file": "nyi-1a",
+          "contributor": "",
+          "display": "ニィ",
+          "source": "hello_work"
+        },
+        {
+          "file": "nyi-1b",
+          "contributor": "",
+          "display": "ニィ...",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "nyi"
   },
@@ -8292,7 +8501,7 @@
         "hoh",
         "oh"
       ],
-      "meaning": "a brief exclamation expressing surprise or recognition",
+      "meaning": "a brief exclamation expressing surprise or appreciation",
       "example": [
         {
           "file": "o-1a",
@@ -8304,6 +8513,12 @@
           "file": "o-1b",
           "contributor": "",
           "display": "おおおっ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "o-1c",
+          "contributor": "",
+          "display": "おおっ",
           "source": "otherworld_material_collector"
         }
       ]
@@ -8618,6 +8833,36 @@
       ]
     }],
     "literal": "paki"
+  },
+  {
+    "hiragana": [
+      "ぱく",
+      "ぱくっ"
+    ],
+    "katakana": [
+      "パク",
+      "パクッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "close",
+        "ahm",
+        "nom",
+        "munch",
+        "bite",
+        "eat",
+        "nosh",
+        "savour"
+      ],
+      "meaning": "to close one's mouth, typically around a mouthful of food",
+      "example": [{
+        "file": "paku-1a",
+        "contributor": "",
+        "display": "パクッ",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "paku"
   },
   {
     "hiragana": ["ぱくぱく"],
@@ -9706,6 +9951,25 @@
       ]
     }],
     "literal": "poi"
+  },
+  {
+    "hiragana": ["ぽこぽこ"],
+    "katakana": ["ポコポコ"],
+    "definition": [{
+      "equivalent": [
+        "boil boil",
+        "bop bop",
+        "bubble bubble"
+      ],
+      "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
+      "example": [{
+        "file": "poko_poko-1a",
+        "contributor": "",
+        "display": "ポコ  ポコ",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "poko poko"
   },
   {
     "hiragana": [
