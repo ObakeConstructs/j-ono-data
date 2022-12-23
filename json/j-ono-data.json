@@ -352,22 +352,37 @@
     "literal": "basa"
   },
   {
-    "hiragana": ["ばさばさ"],
-    "katakana": ["バサバサ"],
+    "hiragana": [
+      "ばさばさ",
+      "ばさっばさっ"
+    ],
+    "katakana": [
+      "バサバサ",
+      "バサッバサッ"
+    ],
     "definition": [{
       "equivalent": [
         "flap flap",
         "flit flit",
         "flutter flutter",
-        "rustle rustle"
+        "rustle rustle",
+        "swish swish"
       ],
-      "meaning": "the continuous soft sounds of paper moving or falling",
-      "example": [{
-        "file": "basa_basa-1a",
-        "contributor": "",
-        "display": "ばさ  ばさ",
-        "source": "hanako_24th_ward"
-      }]
+      "meaning": "soft sounds of cloth or paper movement",
+      "example": [
+        {
+          "file": "basa_basa-1a",
+          "contributor": "",
+          "display": "ばさ  ばさ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "basa_basa-1b",
+          "contributor": "",
+          "display": "バサッ  バサッ",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "basa basa"
   },
@@ -1354,6 +1369,41 @@
       ]
     }],
     "literal": "bun bun"
+  },
+  {
+    "hiragana": [
+      "ぶお",
+      "ぶおお",
+      "ぶおおお",
+      "ぶぉ",
+      "ぶぉぉ",
+      "ぶぉぉぉ"
+    ],
+    "katakana": [
+      "ブオ",
+      "ブオオ",
+      "ブオオオ",
+      "ブォ",
+      "ブォォ",
+      "ブォォォ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blow",
+        "puff",
+        "blast",
+        "breeze",
+        "whoosh"
+      ],
+      "meaning": "a sudden or brief gust of wind",
+      "example": [{
+        "file": "buo-1a",
+        "contributor": "",
+        "display": "ブォォォ",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "buo"
   },
   {
     "hiragana": [
@@ -2541,15 +2591,27 @@
       {
         "equivalent": [
           "thump",
-          "whump"
+          "whump",
+          "place",
+          "set",
+          "deposit",
+          "plunk"
         ],
-        "meaning": "the sound of books or stacks of paper being dropped onto a surface",
-        "example": [{
-          "file": "dosa-2a",
-          "contributor": "",
-          "display": "どさ",
-          "source": "different_world_smartphone"
-        }]
+        "meaning": "placing or dropping something onto a counter or similar surface, often with a noticable sound",
+        "example": [
+          {
+            "file": "dosa-2a",
+            "contributor": "",
+            "display": "どさ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "dosa-2b",
+            "contributor": "",
+            "display": "ドサッ",
+            "source": "otherworld_material_collector"
+          }
+        ]
       }
     ],
     "literal": "dosa"
@@ -3388,12 +3450,20 @@
           "rattle"
         ],
         "meaning": "The short, sharp sounds of opening a swinging door",
-        "example": [{
-          "file": "gacha-2a",
-          "contributor": "",
-          "display": "ガチャ",
-          "source": "d_genesis"
-        }]
+        "example": [
+          {
+            "file": "gacha-2a",
+            "contributor": "",
+            "display": "ガチャ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "gacha-2b",
+            "contributor": "",
+            "display": "ガチャ",
+            "source": "otherworld_material_collector"
+          }
+        ]
       }
     ],
     "literal": "gacha"
@@ -4057,6 +4127,9 @@
   {
     "hiragana": [
       "ぎ",
+      "ぎぃ",
+      "ぎぃぃ",
+      "ぎぃぃぃ",
       "ぎっ",
       "ぎぃっ",
       "ぎぃぃっ",
@@ -4064,6 +4137,9 @@
     ],
     "katakana": [
       "ギ",
+      "ギィ",
+      "ギィィ",
+      "ギィィィ",
       "ギッ",
       "ギィッ",
       "ギィィッ",
@@ -4113,6 +4189,12 @@
             "contributor": "",
             "display": "ギ",
             "source": "s_rank_behemoth"
+          },
+          {
+            "file": "gi-2d",
+            "contributor": "",
+            "display": "ギィィ",
+            "source": "otherworld_material_collector"
           }
         ]
       }
@@ -4722,13 +4804,21 @@
         "thwack",
         "tonk"
       ],
-      "meaning": "a somewhat muffled sound of an impact, as from wood or plastic",
-      "example": [{
-        "file": "goto-1a",
-        "contributor": "",
-        "display": "ゴト",
-        "source": "dog_became_strongest"
-      }]
+      "meaning": "the sound of a soft impact, as from something wood or plastic being set down",
+      "example": [
+        {
+          "file": "goto-1a",
+          "contributor": "",
+          "display": "ゴト",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "goto-1b",
+          "contributor": "",
+          "display": "ゴト",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "goto"
   },
@@ -4786,7 +4876,7 @@
           "hold",
           "squeeze"
         ],
-        "meaning": "the act of grabbing something strongly and holding it",
+        "meaning": "the act of making a fist or grabbing/holding something strongly",
         "example": [
           {
             "file": "gu-1a",
@@ -4805,6 +4895,12 @@
             "contributor": "",
             "display": "ぐ",
             "source": "strongest_failure_frame"
+          },
+          {
+            "file": "gu-1d",
+            "contributor": "",
+            "display": "グッ",
+            "source": "otherworld_material_collector"
           }
         ]
       },
@@ -5695,6 +5791,32 @@
     "literal": "hoka hoka"
   },
   {
+    "hiragana": [
+      "ひゃ",
+      "ひゃっ"
+    ],
+    "katakana": [
+      "ヒャ",
+      "ヒャッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "hya",
+        "what",
+        "ahh",
+        "hyaa"
+      ],
+      "meaning": "An verbal expression of surprise and amazement",
+      "example": [{
+        "file": "hya-1a",
+        "contributor": "",
+        "display": "ヒャー!",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "hya"
+  },
+  {
     "hiragana": ["ひょい"],
     "katakana": ["ヒョイ"],
     "definition": [{
@@ -6283,6 +6405,28 @@
       ]
     }],
     "literal": "kacha"
+  },
+  {
+    "hiragana": ["かちゃん"],
+    "katakana": ["カチャン"],
+    "definition": [{
+      "equivalent": [
+        "clack",
+        "clatter",
+        "click",
+        "clink",
+        "ker-chak",
+        "rattle"
+      ],
+      "meaning": "a couple short, sharp clicks or clinks, as from dishes or door latches",
+      "example": [{
+        "file": "kachan-1a",
+        "contributor": "",
+        "display": "カチャン",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "kachan"
   },
   {
     "hiragana": ["かちゃかちゃ"],
@@ -7192,6 +7336,27 @@
     "literal": "kui kui"
   },
   {
+    "hiragana": ["くなくな"],
+    "katakana": ["クナクナ"],
+    "definition": [{
+      "equivalent": [
+        "tremble tremble",
+        "shudder shudder",
+        "shiver shiver",
+        "quiver quiver",
+        "throb throb"
+      ],
+      "meaning": "shaking from cold, fear, or conviction",
+      "example": [{
+        "file": "kuna_kuna-1a",
+        "contributor": "",
+        "display": "クナ  クナ",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "kuna kuna"
+  },
+  {
     "hiragana": ["くねくね"],
     "katakana": ["クネクネ"],
     "definition": [{
@@ -7353,6 +7518,27 @@
       ]
     }],
     "literal": "kusu"
+  },
+  {
+    "hiragana": ["くすくす"],
+    "katakana": ["クスクス"],
+    "definition": [{
+      "equivalent": [
+        "chortle",
+        "chuckle",
+        "giggle",
+        "heh heh",
+        "laughter"
+      ],
+      "meaning": "small light laughter or giggling",
+      "example": [{
+        "file": "kusu_kusu-1a",
+        "contributor": "",
+        "display": "クス  クス",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "kusu kusu"
   },
   {
     "hiragana": [
@@ -7716,6 +7902,35 @@
       ]
     }],
     "literal": "mu"
+  },
+  {
+    "hiragana": [
+      "むく",
+      "むくっ"
+    ],
+    "katakana": [
+      "ムク",
+      "ムクッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "arise",
+        "fwip",
+        "get up",
+        "rise up",
+        "sit up",
+        "stand",
+        "stand up"
+      ],
+      "meaning": "to sit up or stand up",
+      "example": [{
+        "file": "kuku-1a",
+        "contributor": "",
+        "display": "ムクッ",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "muku"
   },
   {
     "hiragana": [
@@ -8800,6 +9015,44 @@
     "literal": "peko peko"
   },
   {
+    "hiragana": [
+      "ぺら",
+      "ぺらっ"
+    ],
+    "katakana": [
+      "ペラ",
+      "ペラッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "flip",
+        "riffle",
+        "thumb",
+        "skim",
+        "turn",
+        "flap",
+        "rustle",
+        "crinkle"
+      ],
+      "meaning": "sound of turning pages or moving paper",
+      "example": [
+        {
+          "file": "pera-1a",
+          "contributor": "",
+          "display": "ペラ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "pera-1b",
+          "contributor": "",
+          "display": "ペラッ",
+          "source": "otherworld_material_collector"
+        }
+      ]
+    }],
+    "literal": "pera"
+  },
+  {
     "hiragana": ["ぺらぺら"],
     "katakana": ["ペラペラ"],
     "definition": [{
@@ -9844,15 +10097,24 @@
         "jiggle",
         "quiver",
         "shake",
-        "wobble"
+        "wobble",
+        "sway"
       ],
       "meaning": "a small irregular movement",
-      "example": [{
-        "file": "purun-1a",
-        "contributor": "",
-        "display": "ぷるん",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "file": "purun-1a",
+          "contributor": "",
+          "display": "ぷるん",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "purun-1b",
+          "contributor": "",
+          "display": "プルン",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "purun"
   },
@@ -10182,11 +10444,15 @@
   {
     "hiragana": [
       "さら",
-      "さらっ"
+      "さらっ",
+      "さらぁ",
+      "さらぁぁ"
     ],
     "katakana": [
       "サラ",
-      "サラッ"
+      "サラッ",
+      "サラァ",
+      "サラァァ"
     ],
     "definition": [{
       "equivalent": [
@@ -10195,12 +10461,20 @@
         "whoosh"
       ],
       "meaning": "the soft movement of hair, as in a gentle breeze",
-      "example": [{
-        "file": "sara-1a",
-        "contributor": "",
-        "display": "サラ",
-        "source": "komi_cant_communicate"
-      }]
+      "example": [
+        {
+          "file": "sara-1a",
+          "contributor": "",
+          "display": "サラ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "sara-1b",
+          "contributor": "",
+          "display": "サラァァ",
+          "source": "otherworld_material_collector"
+        }
+      ]
     }],
     "literal": "sara"
   },
@@ -11172,6 +11446,12 @@
           "contributor": "",
           "display": "たたた",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "tata-1d",
+          "contributor": "",
+          "display": "タタ",
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -12648,6 +12928,39 @@
   },
   {
     "hiragana": [
+      "ずぼ",
+      "ずぼっ"
+    ],
+    "katakana": [
+      "ズボ",
+      "ズボッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "reach",
+        "grab",
+        "get",
+        "snag",
+        "snatch",
+        "grasp",
+        "rummage",
+        "rifle",
+        "probe",
+        "dig through",
+        "dredge"
+      ],
+      "meaning": "to reach inside something, usually to get something from within",
+      "example": [{
+        "file": "zubo-1a",
+        "contributor": "",
+        "display": "ズボッ",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "literal": "zubo"
+  },
+  {
+    "hiragana": [
       "ずだ",
       "ずだだ",
       "ずだだだ"
@@ -12742,6 +13055,7 @@
     "hiragana": [
       "ずん",
       "ずーん",
+      "ずうーん",
       "ずうん",
       "ずううん",
       "ずぅん",
@@ -12750,6 +13064,7 @@
     "katakana": [
       "ズン",
       "ズーン",
+      "ズウーン",
       "ズウン",
       "ズウウン",
       "ズゥン",
@@ -12778,6 +13093,12 @@
           "contributor": "",
           "display": "ズーン",
           "source": "komi_cant_communicate"
+        },
+        {
+          "file": "zun-1c",
+          "contributor": "",
+          "display": "ずうーん",
+          "source": "otherworld_material_collector"
         }
       ]
     }],

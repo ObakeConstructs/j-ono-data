@@ -1,0 +1,37 @@
+{
+  "literal": "zubo",
+  "katakana": [
+    "ズボ",
+    "ズボッ"
+  ],
+  "hiragana": [
+    "ずぼ",
+    "ずぼっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to reach inside something, usually to get something from within",
+      "equivalent": [
+        "reach",
+        "grab",
+        "get",
+        "snag",
+        "snatch",
+        "grasp",
+        "rummage",
+        "rifle",
+        "probe",
+        "dig through",
+        "dredge"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "zubo-1a",
+          "display": "ズボッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

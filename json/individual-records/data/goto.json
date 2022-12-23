@@ -1,23 +1,37 @@
 {
-  "hiragana": ["ごと"],
-  "katakana": ["ゴト"],
-  "definition": [{
-    "equivalent": [
-      "clunk",
-      "ga-thunk",
-      "ka-thunk",
-      "knock",
-      "thunk",
-      "thwack",
-      "tonk"
-    ],
-    "meaning": "a somewhat muffled sound of an impact, as from wood or plastic",
-    "example": [{
-      "file": "goto-1a",
-      "contributor": "",
-      "display": "ゴト",
-      "source": "dog_became_strongest"
-    }]
-  }],
-  "literal": "goto"
+  "literal": "goto",
+  "katakana": [
+    "ゴト"
+  ],
+  "hiragana": [
+    "ごと"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of a soft impact, as from something wood or plastic being set down",
+      "equivalent": [
+        "clunk",
+        "ga-thunk",
+        "ka-thunk",
+        "knock",
+        "thunk",
+        "thwack",
+        "tonk"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "goto-1a",
+          "display": "ゴト",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "goto-1b",
+          "display": "ゴト",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

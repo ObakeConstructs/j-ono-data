@@ -1,23 +1,31 @@
 {
-  "hiragana": ["がちゃ"],
-  "katakana": ["ガチャ"],
+  "literal": "gacha",
+  "katakana": [
+    "ガチャ"
+  ],
+  "hiragana": [
+    "がちゃ"
+  ],
   "definition": [
     {
+      "meaning": "a small noise, as of pressing a button",
       "equivalent": [
         "clack",
         "click",
         "ka-chik",
         "tick"
       ],
-      "meaning": "a small noise, as of pressing a button",
-      "example": [{
-        "file": "gacha-1a",
-        "contributor": "",
-        "display": "ガチャ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "gacha-1a",
+          "display": "ガチャ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "The short, sharp sounds of opening a swinging door",
       "equivalent": [
         "clack",
         "clatter",
@@ -26,14 +34,20 @@
         "ker-chak",
         "rattle"
       ],
-      "meaning": "The short, sharp sounds of opening a swinging door",
-      "example": [{
-        "file": "gacha-2a",
-        "contributor": "",
-        "display": "ガチャ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "gacha-2a",
+          "display": "ガチャ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "gacha-2b",
+          "display": "ガチャ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "gacha"
+  ]
 }

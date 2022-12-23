@@ -1,45 +1,55 @@
 {
-  "hiragana": [
-    "ずん",
-    "ずーん",
-    "ずうん",
-    "ずううん",
-    "ずぅん",
-    "ずぅぅん"
-  ],
+  "literal": "zun",
   "katakana": [
     "ズン",
     "ズーン",
+    "ズウーン",
     "ズウン",
     "ズウウン",
     "ズゥン",
     "ズゥゥン"
   ],
-  "definition": [{
-    "equivalent": [
-      "dejected",
-      "depressed",
-      "doom",
-      "dreary",
-      "gloom",
-      "glum",
-      "mope"
-    ],
-    "meaning": "an expression of low spirits",
-    "example": [
-      {
-        "file": "zun-1a",
-        "contributor": "",
-        "display": "ずぅぅん",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "zun-1b",
-        "contributor": "",
-        "display": "ズーン",
-        "source": "komi_cant_communicate"
-      }
-    ]
-  }],
-  "literal": "zun"
+  "hiragana": [
+    "ずん",
+    "ずーん",
+    "ずうーん",
+    "ずうん",
+    "ずううん",
+    "ずぅん",
+    "ずぅぅん"
+  ],
+  "definition": [
+    {
+      "meaning": "an expression of low spirits",
+      "equivalent": [
+        "dejected",
+        "depressed",
+        "doom",
+        "dreary",
+        "gloom",
+        "glum",
+        "mope"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "zun-1a",
+          "display": "ずぅぅん",
+          "contributor": ""
+        },
+        {
+          "source": "komi_cant_communicate",
+          "file": "zun-1b",
+          "display": "ズーン",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "zun-1c",
+          "display": "ずうーん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

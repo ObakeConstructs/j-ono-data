@@ -1,25 +1,39 @@
 {
-  "hiragana": [
-    "さら",
-    "さらっ"
-  ],
+  "literal": "sara",
   "katakana": [
     "サラ",
-    "サラッ"
+    "サラッ",
+    "サラァ",
+    "サラァァ"
   ],
-  "definition": [{
-    "equivalent": [
-      "swish",
-      "swoosh",
-      "whoosh"
-    ],
-    "meaning": "the soft movement of hair, as in a gentle breeze",
-    "example": [{
-      "file": "sara-1a",
-      "contributor": "",
-      "display": "サラ",
-      "source": "komi_cant_communicate"
-    }]
-  }],
-  "literal": "sara"
+  "hiragana": [
+    "さら",
+    "さらっ",
+    "さらぁ",
+    "さらぁぁ"
+  ],
+  "definition": [
+    {
+      "meaning": "the soft movement of hair, as in a gentle breeze",
+      "equivalent": [
+        "swish",
+        "swoosh",
+        "whoosh"
+      ],
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "sara-1a",
+          "display": "サラ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "sara-1b",
+          "display": "サラァァ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

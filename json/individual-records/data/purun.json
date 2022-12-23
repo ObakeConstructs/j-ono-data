@@ -1,21 +1,36 @@
 {
-  "hiragana": ["ぷるん"],
-  "katakana": ["プルン"],
-  "definition": [{
-    "equivalent": [
-      "boing",
-      "jiggle",
-      "quiver",
-      "shake",
-      "wobble"
-    ],
-    "meaning": "a small irregular movement",
-    "example": [{
-      "file": "purun-1a",
-      "contributor": "",
-      "display": "ぷるん",
-      "source": "s_rank_behemoth"
-    }]
-  }],
-  "literal": "purun"
+  "literal": "purun",
+  "katakana": [
+    "プルン"
+  ],
+  "hiragana": [
+    "ぷるん"
+  ],
+  "definition": [
+    {
+      "meaning": "a small irregular movement",
+      "equivalent": [
+        "boing",
+        "jiggle",
+        "quiver",
+        "shake",
+        "wobble",
+        "sway"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "purun-1a",
+          "display": "ぷるん",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "purun-1b",
+          "display": "プルン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

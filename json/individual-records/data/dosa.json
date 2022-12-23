@@ -1,14 +1,16 @@
 {
-  "hiragana": [
-    "どさ",
-    "どさっ"
-  ],
+  "literal": "dosa",
   "katakana": [
     "ドサ",
     "ドサッ"
   ],
+  "hiragana": [
+    "どさ",
+    "どさっ"
+  ],
   "definition": [
     {
+      "meaning": "to fall down from an upright position",
       "equivalent": [
         "buckle",
         "collapse",
@@ -17,35 +19,45 @@
         "topple",
         "tumble"
       ],
-      "meaning": "to fall down from an upright position",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "dosa-1a",
-          "contributor": "",
           "display": "どさ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_sage_daughters",
           "file": "dosa-1b",
-          "contributor": "",
           "display": "ドサッ",
-          "source": "reincarnated_sage_daughters"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "placing or dropping something onto a counter or similar surface, often with a noticable sound",
       "equivalent": [
         "thump",
-        "whump"
+        "whump",
+        "place",
+        "set",
+        "deposit",
+        "plunk"
       ],
-      "meaning": "the sound of books or stacks of paper being dropped onto a surface",
-      "example": [{
-        "file": "dosa-2a",
-        "contributor": "",
-        "display": "どさ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "dosa-2a",
+          "display": "どさ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "dosa-2b",
+          "display": "ドサッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "dosa"
+  ]
 }

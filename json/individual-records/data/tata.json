@@ -1,45 +1,53 @@
 {
-  "hiragana": [
-    "たた",
-    "たたっ",
-    "たたた"
-  ],
+  "literal": "tata",
   "katakana": [
     "タタ",
     "タタッ",
     "タタタ"
   ],
-  "definition": [{
-    "equivalent": [
-      "dash",
-      "quickly",
-      "run",
-      "scamper",
-      "sprint",
-      "step step",
-      "tap tap"
-    ],
-    "meaning": "to run lightly",
-    "example": [
-      {
-        "file": "tata-1a",
-        "contributor": "",
-        "display": "タタッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "tata-1b",
-        "contributor": "",
-        "display": "たたた",
-        "source": "d_genesis"
-      },
-      {
-        "file": "tata-1c",
-        "contributor": "",
-        "display": "たたた",
-        "source": "dog_became_strongest"
-      }
-    ]
-  }],
-  "literal": "tata"
+  "hiragana": [
+    "たた",
+    "たたっ",
+    "たたた"
+  ],
+  "definition": [
+    {
+      "meaning": "to run lightly",
+      "equivalent": [
+        "dash",
+        "quickly",
+        "run",
+        "scamper",
+        "sprint",
+        "step step",
+        "tap tap"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "tata-1a",
+          "display": "タタッ",
+          "contributor": ""
+        },
+        {
+          "source": "d_genesis",
+          "file": "tata-1b",
+          "display": "たたた",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "tata-1c",
+          "display": "たたた",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "tata-1d",
+          "display": "タタ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

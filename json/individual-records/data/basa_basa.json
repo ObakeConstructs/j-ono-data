@@ -1,20 +1,37 @@
 {
-  "hiragana": ["ばさばさ"],
-  "katakana": ["バサバサ"],
-  "definition": [{
-    "equivalent": [
-      "flap flap",
-      "flit flit",
-      "flutter flutter",
-      "rustle rustle"
-    ],
-    "meaning": "the continuous soft sounds of paper moving or falling",
-    "example": [{
-      "file": "basa_basa-1a",
-      "contributor": "",
-      "display": "ばさ  ばさ",
-      "source": "hanako_24th_ward"
-    }]
-  }],
-  "literal": "basa basa"
+  "literal": "basa basa",
+  "katakana": [
+    "バサバサ",
+    "バサッバサッ"
+  ],
+  "hiragana": [
+    "ばさばさ",
+    "ばさっばさっ"
+  ],
+  "definition": [
+    {
+      "meaning": "soft sounds of cloth or paper movement",
+      "equivalent": [
+        "flap flap",
+        "flit flit",
+        "flutter flutter",
+        "rustle rustle",
+        "swish swish"
+      ],
+      "example": [
+        {
+          "source": "hanako_24th_ward",
+          "file": "basa_basa-1a",
+          "display": "ばさ  ばさ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "basa_basa-1b",
+          "display": "バサッ  バサッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
