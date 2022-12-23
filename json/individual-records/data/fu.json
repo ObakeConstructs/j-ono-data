@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "ふ",
-    "ふっ",
-    "ふー",
-    "ふーっ",
-    "ふう",
-    "ふうっ",
-    "ふぅ",
-    "ふぅっ"
-  ],
+  "literal": "fu",
   "katakana": [
     "フ",
     "フッ",
@@ -19,8 +10,19 @@
     "フゥ",
     "フゥッ"
   ],
+  "hiragana": [
+    "ふ",
+    "ふっ",
+    "ふー",
+    "ふーっ",
+    "ふう",
+    "ふうっ",
+    "ふぅ",
+    "ふぅっ"
+  ],
   "definition": [
     {
+      "meaning": "a quick, short laugh or an expression of humor",
       "equivalent": [
         "chortle",
         "chuckle",
@@ -32,52 +34,63 @@
         "smirk",
         "snicker"
       ],
-      "meaning": "a quick, short laugh or an expression of humor",
       "example": [
         {
+          "source": "d_genesis",
           "file": "fu-1a",
-          "contributor": "",
           "display": "ふっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "fu-1b",
-          "contributor": "",
           "display": "ふ",
-          "source": "d_genesis"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "to vanish or cause something to vanish",
       "equivalent": [
         "disappear",
         "fade",
         "vanish"
       ],
-      "meaning": "to vanish or cause something to vanish",
-      "example": [{
-        "file": "fu-2a",
-        "contributor": "",
-        "display": "フッ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "fu-2a",
+          "display": "フッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "an expression of relief",
       "equivalent": [
         "ease",
         "release",
         "relief",
-        "solace"
+        "solace",
+        "whew"
       ],
-      "meaning": "an expression of relief",
-      "example": [{
-        "file": "fu-3a",
-        "contributor": "",
-        "display": "ふーっ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "fu-3a",
+          "display": "ふーっ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "fu-3b",
+          "display": "ふう",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "a sudden and/or fast movement",
       "equivalent": [
         "fwip",
         "fwit",
@@ -87,15 +100,17 @@
         "snap",
         "whoom"
       ],
-      "meaning": "a sudden and/or fast movement",
-      "example": [{
-        "file": "fu-4a",
-        "contributor": "",
-        "display": "フーッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "fu-4a",
+          "display": "フーッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "breathing hard after light exertion",
       "equivalent": [
         "gasp",
         "ha",
@@ -103,14 +118,14 @@
         "pant",
         "whew"
       ],
-      "meaning": "breathing hard after light exertion",
-      "example": [{
-        "file": "fu-5a",
-        "contributor": "",
-        "display": "ふう",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "fu-5a",
+          "display": "ふう",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "fu"
+  ]
 }

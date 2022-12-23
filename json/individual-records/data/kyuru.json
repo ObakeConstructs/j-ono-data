@@ -1,27 +1,37 @@
 {
-  "hiragana": [
-    "きゅる",
-    "きゅるる",
-    "きゅるるる"
-  ],
+  "literal": "kyuru",
   "katakana": [
     "キュル",
     "キュルル",
     "キュルルル"
   ],
-  "definition": [{
-    "equivalent": [
-      "growl",
-      "grumble",
-      "rumble"
-    ],
-    "meaning": "a low, rumbling noise, as with a growling stomach",
-    "example": [{
-      "file": "kyuru-1a",
-      "contributor": "",
-      "display": "きゅるる",
-      "source": "s_rank_behemoth"
-    }]
-  }],
-  "literal": "kyuru"
+  "hiragana": [
+    "きゅる",
+    "きゅるる",
+    "きゅるるる"
+  ],
+  "definition": [
+    {
+      "meaning": "a low, rumbling noise, as with a growling stomach",
+      "equivalent": [
+        "growl",
+        "grumble",
+        "rumble"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "kyuru-1a",
+          "display": "きゅるる",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "kyuru-1b",
+          "display": "きゅるるる",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

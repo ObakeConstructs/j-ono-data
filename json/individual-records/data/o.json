@@ -18,7 +18,7 @@
   ],
   "definition": [
     {
-      "meaning": "a brief exclamation expressing surprise or recognition",
+      "meaning": "a brief exclamation expressing surprise or appreciation",
       "equivalent": [
         "hoh",
         "oh"
@@ -34,6 +34,12 @@
           "source": "otherworld_material_collector",
           "file": "o-1b",
           "display": "おおおっ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "o-1c",
+          "display": "おおっ",
           "contributor": ""
         }
       ]

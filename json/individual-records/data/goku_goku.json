@@ -1,28 +1,40 @@
 {
-  "hiragana": ["ごくごく"],
-  "katakana": ["ゴクゴク"],
-  "definition": [{
-    "equivalent": [
-      "drink drink",
-      "gulp gulp",
-      "quaff quaff",
-      "swallow swallow"
-    ],
-    "meaning": "the repeated sounds of gulping or swallowing",
-    "example": [
-      {
-        "file": "goku_goku-1a",
-        "contributor": "",
-        "display": "ごく  ごく",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "goku_goku-1b",
-        "contributor": "",
-        "display": "ゴクゴク",
-        "source": "otherworld_material_collector"
-      }
-    ]
-  }],
-  "literal": "goku goku"
+  "literal": "goku goku",
+  "katakana": [
+    "ゴクゴク"
+  ],
+  "hiragana": [
+    "ごくごく"
+  ],
+  "definition": [
+    {
+      "meaning": "the repeated sounds of gulping or swallowing",
+      "equivalent": [
+        "drink drink",
+        "gulp gulp",
+        "quaff quaff",
+        "swallow swallow"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "goku_goku-1a",
+          "display": "ごく  ごく",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "goku_goku-1b",
+          "display": "ゴクゴク",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "goku_goku-1c",
+          "display": "ゴクゴク",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

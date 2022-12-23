@@ -1,14 +1,16 @@
 {
   "literal": "goto",
   "katakana": [
-    "ゴト"
+    "ゴト",
+    "ゴトッ"
   ],
   "hiragana": [
-    "ごと"
+    "ごと",
+    "ごとっ"
   ],
   "definition": [
     {
-      "meaning": "the sound of a soft impact, as from something wood or plastic being set down",
+      "meaning": "the sound of a soft impact from something being set down or placed",
       "equivalent": [
         "clunk",
         "ga-thunk",
@@ -29,6 +31,12 @@
           "source": "otherworld_material_collector",
           "file": "goto-1b",
           "display": "ゴト",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "goto-1c",
+          "display": "ゴトッ",
           "contributor": ""
         }
       ]

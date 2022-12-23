@@ -35,7 +35,7 @@
       ]
     },
     {
-      "meaning": "placing or dropping something onto a counter or similar surface, often with a noticable sound",
+      "meaning": "placing or dropping something onto a hard surface, often with a noticable sound",
       "equivalent": [
         "thump",
         "whump",
@@ -55,6 +55,12 @@
           "source": "otherworld_material_collector",
           "file": "dosa-2b",
           "display": "ドサッ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "dosa-2c",
+          "display": "ドサ",
           "contributor": ""
         }
       ]

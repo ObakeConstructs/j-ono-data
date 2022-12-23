@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "はは",
-    "はっはっ",
-    "はぁはぁ",
-    "はあはあ",
-    "はぁっはぁっ",
-    "はあっはあっ"
-  ],
+  "literal": "ha ha",
   "katakana": [
     "ハハ",
     "ハッハッ",
@@ -15,50 +8,67 @@
     "ハァッハァッ",
     "ハアッハアッ"
   ],
+  "hiragana": [
+    "はは",
+    "はっはっ",
+    "はぁはぁ",
+    "はあはあ",
+    "はぁっはぁっ",
+    "はあっはあっ"
+  ],
   "definition": [
     {
-      "equivalent": ["haha"],
       "meaning": "laughter",
-      "example": [{
-        "file": "ha_ha-1a",
-        "contributor": "",
-        "display": "はは",
-        "source": "world_full_of_monsters"
-      }]
+      "equivalent": [
+        "haha"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "ha_ha-1a",
+          "display": "はは",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "ha_ha-1b",
+          "display": "はっ  はっ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "to breathe hard, as from exertion, fear, or excitement",
       "equivalent": [
         "hah hah",
         "pant pant"
       ],
-      "meaning": "to breathe hard, as from exertion, fear, or excitement",
       "example": [
         {
+          "source": "d_genesis",
           "file": "ha_ha-2a",
-          "contributor": "",
           "display": "はぁ  はぁ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "komi_cant_communicate",
           "file": "ha_ha-2b",
-          "contributor": "",
           "display": "ハッ  ハッ",
-          "source": "komi_cant_communicate"
+          "contributor": ""
         },
         {
+          "source": "s_rank_behemoth",
           "file": "ha_ha-2c",
-          "contributor": "",
           "display": "ハア  ハア  ハア",
-          "source": "s_rank_behemoth"
+          "contributor": ""
         },
         {
+          "source": "strongest_failure_frame",
           "file": "ha_ha-2d",
-          "contributor": "",
           "display": "ハアッ  ハアッ  ハアッ",
-          "source": "strongest_failure_frame"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "ha ha"
+  ]
 }

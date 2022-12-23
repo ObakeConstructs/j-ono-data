@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "どん",
-    "どんっ",
-    "どぉん",
-    "どぉぉん",
-    "どおん",
-    "どおおん"
-  ],
+  "literal": "don",
   "katakana": [
     "ドン",
     "ドンッ",
@@ -15,8 +8,17 @@
     "ドオン",
     "ドオオン"
   ],
+  "hiragana": [
+    "どん",
+    "どんっ",
+    "どぉん",
+    "どぉぉん",
+    "どおん",
+    "どおおん"
+  ],
   "definition": [
     {
+      "meaning": "a sound of things impacting, can be loud or soft depending on context",
       "equivalent": [
         "bam",
         "bang",
@@ -38,29 +40,29 @@
         "wrack",
         "wreck"
       ],
-      "meaning": "a sound of things impacting, can be loud or soft depending on context",
       "example": [
         {
+          "source": "world_full_of_monsters",
           "file": "don-1a",
-          "contributor": "",
           "display": "ドンッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "hanako_24th_ward",
           "file": "don-1b",
-          "contributor": "",
           "display": "どん",
-          "source": "hanako_24th_ward"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_aristocrat",
           "file": "don-1c",
-          "contributor": "",
           "display": "ドォォン",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
       "equivalent": [
         "bam",
         "boom",
@@ -68,15 +70,23 @@
         "here",
         "ta-da"
       ],
-      "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
-      "example": [{
-        "file": "don-2a",
-        "contributor": "",
-        "display": "ドン",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "don-2a",
+          "display": "ドン",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "don-2b",
+          "display": "どん",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "a relatively small explosion",
       "equivalent": [
         "bam",
         "bang",
@@ -87,14 +97,14 @@
         "whomp",
         "whump"
       ],
-      "meaning": "a relatively small explosion",
-      "example": [{
-        "file": "don-3a",
-        "contributor": "",
-        "display": "ドオン",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "example": [
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "don-3a",
+          "display": "ドオン",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "don"
+  ]
 }

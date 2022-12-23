@@ -1,40 +1,48 @@
 {
-  "hiragana": [
-    "がた",
-    "がたっ"
-  ],
+  "literal": "gata",
   "katakana": [
     "ガタ",
     "ガタッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clatter",
-      "clunk",
-      "creak",
-      "rattle"
-    ],
-    "meaning": "the sound of wood clattering on something hard, as when a chair or stool is moved",
-    "example": [
-      {
-        "file": "gata-1a",
-        "contributor": "",
-        "display": "ガタ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "gata-1b",
-        "contributor": "",
-        "display": "ガタ",
-        "source": "hanako_24th_ward"
-      },
-      {
-        "file": "gata-1c",
-        "contributor": "",
-        "display": "ガタッ",
-        "source": "hikaro_no_go"
-      }
-    ]
-  }],
-  "literal": "gata"
+  "hiragana": [
+    "がた",
+    "がたっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of wood clattering on something hard, as when a chair or stool is moved",
+      "equivalent": [
+        "clatter",
+        "clunk",
+        "creak",
+        "rattle"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "gata-1a",
+          "display": "ガタ",
+          "contributor": ""
+        },
+        {
+          "source": "hanako_24th_ward",
+          "file": "gata-1b",
+          "display": "ガタ",
+          "contributor": ""
+        },
+        {
+          "source": "hikaro_no_go",
+          "file": "gata-1c",
+          "display": "ガタッ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "gata-1d",
+          "display": "ガタッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

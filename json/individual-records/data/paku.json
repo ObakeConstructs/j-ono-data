@@ -1,0 +1,34 @@
+{
+  "literal": "paku",
+  "katakana": [
+    "パク",
+    "パクッ"
+  ],
+  "hiragana": [
+    "ぱく",
+    "ぱくっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to close one's mouth, typically around a mouthful of food",
+      "equivalent": [
+        "close",
+        "ahm",
+        "nom",
+        "munch",
+        "bite",
+        "eat",
+        "nosh",
+        "savour"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "paku-1a",
+          "display": "パクッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "literal": "poko poko",
+  "katakana": [
+    "ポコポコ"
+  ],
+  "hiragana": [
+    "ぽこぽこ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
+      "equivalent": [
+        "boil boil",
+        "bop bop",
+        "bubble bubble"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "poko_poko-1a",
+          "display": "ポコ  ポコ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
