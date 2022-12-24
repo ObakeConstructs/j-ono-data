@@ -468,6 +468,34 @@
     "literal": "bashi"
   },
   {
+    "hiragana": [
+      "ばしゅん",
+      "ばしゅんっ"
+    ],
+    "katakana": [
+      "バシュン",
+      "バシュンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "rumble",
+        "boom",
+        "crash",
+        "tumult",
+        "blast",
+        "clamor"
+      ],
+      "meaning": "the sound of falling rocks or stones",
+      "example": [{
+        "file": "bashun-1a",
+        "contributor": "",
+        "display": "バシュンッ",
+        "source": "strongest_magician_was_human"
+      }]
+    }],
+    "literal": "bashun"
+  },
+  {
     "hiragana": ["ばたん"],
     "katakana": ["バタン"],
     "definition": [{
@@ -2385,6 +2413,12 @@
           "contributor": "",
           "display": "ドカーンッ",
           "source": "strongest_magician_was_human"
+        },
+        {
+          "file": "dokan-1c",
+          "contributor": "",
+          "display": "ドカン",
+          "source": "strongest_magician_was_human"
         }
       ]
     }],
@@ -2430,7 +2464,9 @@
       "どぉん",
       "どぉぉん",
       "どおん",
-      "どおおん"
+      "どおおん",
+      "どどん",
+      "どどーん"
     ],
     "katakana": [
       "ドン",
@@ -2438,7 +2474,9 @@
       "ドォン",
       "ドォォン",
       "ドオン",
-      "ドオオン"
+      "ドオオン",
+      "ドドン",
+      "ドドーン"
     ],
     "definition": [
       {
@@ -2497,7 +2535,8 @@
           "boom",
           "dah",
           "here",
-          "ta-da"
+          "ta-da",
+          "d-dum"
         ],
         "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
         "example": [
@@ -2512,6 +2551,12 @@
             "contributor": "",
             "display": "どん",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "don-2c",
+            "contributor": "",
+            "display": "ドドーン",
+            "source": "strongest_magician_was_human"
           }
         ]
       },
@@ -3244,6 +3289,12 @@
           "contributor": "",
           "display": "ふり  ふり",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "furi_furi-1c",
+          "contributor": "",
+          "display": "フリ  フリ",
+          "source": "strongest_magician_was_human"
         }
       ]
     }],
@@ -8002,12 +8053,20 @@
         "snarf snarf"
       ],
       "meaning": "the sound of eating and chewing",
-      "example": [{
-        "file": "mogu_mogu-1a",
-        "contributor": "",
-        "display": "モグ  モグ",
-        "source": "komi_cant_communicate"
-      }]
+      "example": [
+        {
+          "file": "mogu_mogu-1a",
+          "contributor": "",
+          "display": "モグ  モグ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "mogu_mogu-1b",
+          "contributor": "",
+          "display": "もぐ  もぐ",
+          "source": "strongest_magician_was_human"
+        }
+      ]
     }],
     "literal": "mogu mogu"
   },

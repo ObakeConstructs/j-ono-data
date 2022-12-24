@@ -6,7 +6,9 @@
     "ドォン",
     "ドォォン",
     "ドオン",
-    "ドオオン"
+    "ドオオン",
+    "ドドン",
+    "ドドーン"
   ],
   "hiragana": [
     "どん",
@@ -14,7 +16,9 @@
     "どぉん",
     "どぉぉん",
     "どおん",
-    "どおおん"
+    "どおおん",
+    "どどん",
+    "どどーん"
   ],
   "definition": [
     {
@@ -74,7 +78,8 @@
         "boom",
         "dah",
         "here",
-        "ta-da"
+        "ta-da",
+        "d-dum"
       ],
       "example": [
         {
@@ -87,6 +92,12 @@
           "source": "otherworld_material_collector",
           "file": "don-2b",
           "display": "どん",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "don-2c",
+          "display": "ドドーン",
           "contributor": ""
         }
       ]

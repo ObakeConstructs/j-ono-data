@@ -1,0 +1,32 @@
+{
+  "literal": "bashun",
+  "katakana": [
+    "バシュン",
+    "バシュンッ"
+  ],
+  "hiragana": [
+    "ばしゅん",
+    "ばしゅんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of falling rocks or stones",
+      "equivalent": [
+        "rumble",
+        "boom",
+        "crash",
+        "tumult",
+        "blast",
+        "clamor"
+      ],
+      "example": [
+        {
+          "source": "strongest_magician_was_human",
+          "file": "bashun-1a",
+          "display": "バシュンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

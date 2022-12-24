@@ -1,19 +1,33 @@
 {
-  "hiragana": ["もぐもぐ"],
-  "katakana": ["モグモグ"],
-  "definition": [{
-    "equivalent": [
-      "munch munch",
-      "nom nom",
-      "snarf snarf"
-    ],
-    "meaning": "the sound of eating and chewing",
-    "example": [{
-      "file": "mogu_mogu-1a",
-      "contributor": "",
-      "display": "モグ  モグ",
-      "source": "komi_cant_communicate"
-    }]
-  }],
-  "literal": "mogu mogu"
+  "literal": "mogu mogu",
+  "katakana": [
+    "モグモグ"
+  ],
+  "hiragana": [
+    "もぐもぐ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of eating and chewing",
+      "equivalent": [
+        "munch munch",
+        "nom nom",
+        "snarf snarf"
+      ],
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "mogu_mogu-1a",
+          "display": "モグ  モグ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "mogu_mogu-1b",
+          "display": "もぐ  もぐ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
