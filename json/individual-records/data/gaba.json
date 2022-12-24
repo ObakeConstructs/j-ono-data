@@ -1,14 +1,16 @@
 {
-  "hiragana": [
-    "がば",
-    "がばっ"
-  ],
+  "literal": "gaba",
   "katakana": [
     "ガバ",
     "ガバッ"
   ],
+  "hiragana": [
+    "がば",
+    "がばっ"
+  ],
   "definition": [
     {
+      "meaning": "to suddenly sit or stand up",
       "equivalent": [
         "arise",
         "fwip",
@@ -18,15 +20,23 @@
         "stand",
         "suddenly"
       ],
-      "meaning": "to suddenly sit up or standup.",
-      "example": [{
-        "file": "gaba-1a",
-        "contributor": "",
-        "display": "ガバッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gaba-1a",
+          "display": "ガバッ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "gaba-1b",
+          "display": "ガバッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "he act of putting one's arms around someone and holding tightly",
       "equivalent": [
         "clasp",
         "cradle",
@@ -35,14 +45,14 @@
         "hold",
         "hug"
       ],
-      "meaning": "he act of putting one's arms around someone and holding tightly",
-      "example": [{
-        "file": "gaba-2a",
-        "contributor": "",
-        "display": "がば",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "gaba-2a",
+          "display": "がば",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "gaba"
+  ]
 }

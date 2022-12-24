@@ -127,7 +127,11 @@
           "fwit",
           "pop",
           "snap",
-          "zip"
+          "zip",
+          "charge",
+          "dash",
+          "whoom",
+          "shoom"
         ],
         "meaning": "a sudden and/or fast movement",
         "example": [
@@ -142,6 +146,18 @@
             "contributor": "",
             "display": "ばっ",
             "source": "different_world_smartphone"
+          },
+          {
+            "file": "ba-2c",
+            "contributor": "",
+            "display": "バッ",
+            "source": "strongest_magician_was_human"
+          },
+          {
+            "file": "ba-2d",
+            "contributor": "",
+            "display": "バッ",
+            "source": "reincarnated_aristocrat"
           }
         ]
       },
@@ -167,21 +183,6 @@
           "contributor": "",
           "display": "バッ",
           "source": "d_genesis"
-        }]
-      },
-      {
-        "equivalent": [
-          "extend",
-          "outstretch",
-          "reach",
-          "stretch"
-        ],
-        "meaning": "the act of reaching or stretching out a hand",
-        "example": [{
-          "file": "ba-4a",
-          "contributor": "",
-          "display": "バッ",
-          "source": "reincarnated_aristocrat"
         }]
       }
     ],
@@ -2321,9 +2322,10 @@
         "smash",
         "strike",
         "wallop",
-        "wham"
+        "wham",
+        "boom"
       ],
-      "meaning": "a loud and destructuve strike",
+      "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
       "example": [
         {
           "file": "doka-1a",
@@ -2342,8 +2344,22 @@
     "literal": "doka"
   },
   {
-    "hiragana": ["どかぁん"],
-    "katakana": ["ドカァン"],
+    "hiragana": [
+      "どかん",
+      "どかんっ",
+      "ドカァン",
+      "ドカァンっ",
+      "ドカーン",
+      "ドカーンっ"
+    ],
+    "katakana": [
+      "ドカン",
+      "ドカンッ",
+      "ドカァン",
+      "ドカァンッ",
+      "ドカーン",
+      "ドカーンッ"
+    ],
     "definition": [{
       "equivalent": [
         "blam",
@@ -2353,15 +2369,24 @@
         "smash",
         "strike",
         "wallop",
-        "wham"
+        "wham",
+        "boom"
       ],
-      "meaning": "a loud and destructive strike",
-      "example": [{
-        "file": "dokan-1a",
-        "contributor": "",
-        "display": "ドカァン",
-        "source": "different_world_smartphone"
-      }]
+      "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
+      "example": [
+        {
+          "file": "dokan-1a",
+          "contributor": "",
+          "display": "ドカァン",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "dokan-1b",
+          "contributor": "",
+          "display": "ドカーンッ",
+          "source": "strongest_magician_was_human"
+        }
+      ]
     }],
     "literal": "dokan"
   },
@@ -2457,6 +2482,12 @@
             "contributor": "",
             "display": "ドォォン",
             "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "don-1d",
+            "contributor": "",
+            "display": "ドン",
+            "source": "strongest_magician_was_human"
           }
         ]
       },
@@ -2633,6 +2664,12 @@
             "contributor": "",
             "display": "ドサッ",
             "source": "reincarnated_sage_daughters"
+          },
+          {
+            "file": "dosa-1c",
+            "contributor": "",
+            "display": "ドサッ",
+            "source": "strongest_magician_was_human"
           }
         ]
       },
@@ -2645,7 +2682,7 @@
           "deposit",
           "plunk"
         ],
-        "meaning": "placing or dropping something onto a hard surface, often with a noticable sound",
+        "meaning": "to place or drop something onto a hard surface, often with a noticable sound",
         "example": [
           {
             "file": "dosa-2a",
@@ -3431,13 +3468,21 @@
           "stand",
           "suddenly"
         ],
-        "meaning": "to suddenly sit up or standup.",
-        "example": [{
-          "file": "gaba-1a",
-          "contributor": "",
-          "display": "ガバッ",
-          "source": "different_world_smartphone"
-        }]
+        "meaning": "to suddenly sit or stand up",
+        "example": [
+          {
+            "file": "gaba-1a",
+            "contributor": "",
+            "display": "ガバッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "gaba-1b",
+            "contributor": "",
+            "display": "ガバッ",
+            "source": "strongest_magician_was_human"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -11119,7 +11164,7 @@
           {
             "file": "su-1b",
             "contributor": "",
-            "display": "す",
+            "display": "すー...",
             "source": "different_world_smartphone"
           }
         ]
@@ -11138,26 +11183,27 @@
           "slide",
           "stop",
           "take",
-          "yield"
+          "yield",
+          "hold"
         ],
         "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
         "example": [
           {
             "file": "su-2a",
             "contributor": "",
-            "display": "ス",
+            "display": "ス...",
             "source": "d_genesis"
           },
           {
             "file": "su-2b",
             "contributor": "",
-            "display": "ス",
+            "display": "ス...",
             "source": "d_genesis"
           },
           {
             "file": "su-2c",
             "contributor": "",
-            "display": "ス",
+            "display": "ス...",
             "source": "d_genesis"
           },
           {
@@ -11165,6 +11211,12 @@
             "contributor": "",
             "display": "スッ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "su-2e",
+            "contributor": "",
+            "display": "スッ",
+            "source": "strongest_magician_was_human"
           }
         ]
       },
@@ -11189,7 +11241,7 @@
           {
             "file": "su-3b",
             "contributor": "",
-            "display": "すぅ",
+            "display": "すぅ...",
             "source": "different_world_smartphone"
           }
         ]

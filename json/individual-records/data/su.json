@@ -42,7 +42,7 @@
         {
           "source": "different_world_smartphone",
           "file": "su-1b",
-          "display": "す",
+          "display": "すー...",
           "contributor": ""
         }
       ]
@@ -62,30 +62,37 @@
         "slide",
         "stop",
         "take",
-        "yield"
+        "yield",
+        "hold"
       ],
       "example": [
         {
           "source": "d_genesis",
           "file": "su-2a",
-          "display": "ス",
+          "display": "ス...",
           "contributor": ""
         },
         {
           "source": "d_genesis",
           "file": "su-2b",
-          "display": "ス",
+          "display": "ス...",
           "contributor": ""
         },
         {
           "source": "d_genesis",
           "file": "su-2c",
-          "display": "ス",
+          "display": "ス...",
           "contributor": ""
         },
         {
           "source": "otherworld_material_collector",
           "file": "su-2d",
+          "display": "スッ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "su-2e",
           "display": "スッ",
           "contributor": ""
         }
@@ -112,7 +119,7 @@
         {
           "source": "different_world_smartphone",
           "file": "su-3b",
-          "display": "すぅ",
+          "display": "すぅ...",
           "contributor": ""
         }
       ]

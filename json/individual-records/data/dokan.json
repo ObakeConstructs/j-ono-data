@@ -1,24 +1,49 @@
 {
-  "hiragana": ["どかぁん"],
-  "katakana": ["ドカァン"],
-  "definition": [{
-    "equivalent": [
-      "blam",
-      "blow",
-      "crash",
-      "slam",
-      "smash",
-      "strike",
-      "wallop",
-      "wham"
-    ],
-    "meaning": "a loud and destructive strike",
-    "example": [{
-      "file": "dokan-1a",
-      "contributor": "",
-      "display": "ドカァン",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "dokan"
+  "literal": "dokan",
+  "katakana": [
+    "ドカン",
+    "ドカンッ",
+    "ドカァン",
+    "ドカァンッ",
+    "ドカーン",
+    "ドカーンッ"
+  ],
+  "hiragana": [
+    "どかん",
+    "どかんっ",
+    "ドカァン",
+    "ドカァンっ",
+    "ドカーン",
+    "ドカーンっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
+      "equivalent": [
+        "blam",
+        "blow",
+        "crash",
+        "slam",
+        "smash",
+        "strike",
+        "wallop",
+        "wham",
+        "boom"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "dokan-1a",
+          "display": "ドカァン",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "dokan-1b",
+          "display": "ドカーンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

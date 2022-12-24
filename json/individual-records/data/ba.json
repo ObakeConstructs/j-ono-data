@@ -1,14 +1,16 @@
 {
-  "hiragana": [
-    "ば",
-    "ばっ"
-  ],
+  "literal": "ba",
   "katakana": [
     "バ",
     "バッ"
   ],
+  "hiragana": [
+    "ば",
+    "ばっ"
+  ],
   "definition": [
     {
+      "meaning": "the act of turning around suddenly",
       "equivalent": [
         "about-face",
         "pivot",
@@ -16,47 +18,63 @@
         "turn",
         "whirl"
       ],
-      "meaning": "the act of turning around suddenly",
       "example": [
         {
+          "source": "d_genesis",
           "file": "ba-1a",
-          "contributor": "",
           "display": "バッ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "dog_became_strongest",
           "file": "ba-1b",
-          "contributor": "",
           "display": "ばっ",
-          "source": "dog_became_strongest"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "a sudden and/or fast movement",
       "equivalent": [
         "fwip",
         "fwit",
         "pop",
         "snap",
-        "zip"
+        "zip",
+        "charge",
+        "dash",
+        "whoom",
+        "shoom"
       ],
-      "meaning": "a sudden and/or fast movement",
       "example": [
         {
+          "source": "d_genesis",
           "file": "ba-2a",
-          "contributor": "",
           "display": "ばっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "ba-2b",
-          "contributor": "",
           "display": "ばっ",
-          "source": "different_world_smartphone"
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "ba-2c",
+          "display": "バッ",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "ba-2d",
+          "display": "バッ",
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "a sudden and loud impact",
       "equivalent": [
         "bam",
         "bang",
@@ -72,29 +90,14 @@
         "whap",
         "whomp"
       ],
-      "meaning": "a sudden and loud impact",
-      "example": [{
-        "file": "ba-3a",
-        "contributor": "",
-        "display": "バッ",
-        "source": "d_genesis"
-      }]
-    },
-    {
-      "equivalent": [
-        "extend",
-        "outstretch",
-        "reach",
-        "stretch"
-      ],
-      "meaning": "the act of reaching or stretching out a hand",
-      "example": [{
-        "file": "ba-4a",
-        "contributor": "",
-        "display": "バッ",
-        "source": "reincarnated_aristocrat"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "ba-3a",
+          "display": "バッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ba"
+  ]
 }
