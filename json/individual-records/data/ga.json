@@ -1,18 +1,20 @@
 {
-  "hiragana": [
-    "が",
-    "がっ",
-    "がー",
-    "がーっ"
-  ],
+  "literal": "ga",
   "katakana": [
     "ガ",
     "ガッ",
     "ガー",
     "ガーッ"
   ],
+  "hiragana": [
+    "が",
+    "がっ",
+    "がー",
+    "がーっ"
+  ],
   "definition": [
     {
+      "meaning": "a generic sound of impact, as from a fight or something dropped",
       "equivalent": [
         "bam",
         "blow",
@@ -41,29 +43,29 @@
         "wham",
         "whang"
       ],
-      "meaning": "a generic sound of impact, as from a fight or something dropped",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "ga-1a",
-          "contributor": "",
           "display": "ガッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_sage_daughters",
           "file": "ga-1b",
-          "contributor": "",
           "display": "ガッ",
-          "source": "reincarnated_sage_daughters"
+          "contributor": ""
         },
         {
+          "source": "komi_cant_communicate",
           "file": "ga-1c",
-          "contributor": "",
           "display": "ガ",
-          "source": "komi_cant_communicate"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "seizing something with a sudden motion or grasp",
       "equivalent": [
         "catch",
         "clutch",
@@ -76,22 +78,26 @@
         "snag",
         "snatch"
       ],
-      "meaning": "seizing something with a sudden motion or grasp",
       "example": [
         {
+          "source": "world_full_of_monsters",
           "file": "ga-2a",
-          "contributor": "",
           "display": "ガッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "strongest_failure_frame",
           "file": "ga-2b",
-          "contributor": "",
           "display": "がっ",
-          "source": "strongest_failure_frame"
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "ga-2c",
+          "display": "ガッ",
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "ga"
+  ]
 }

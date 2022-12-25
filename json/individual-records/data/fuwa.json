@@ -1,0 +1,31 @@
+{
+  "literal": "fuwa",
+  "katakana": [
+    "フワ",
+    "フワッ"
+  ],
+  "hiragana": [
+    "ふわっ",
+    "ふわ"
+  ],
+  "definition": [
+    {
+      "meaning": "to float gently or move softly",
+      "equivalent": [
+        "float",
+        "hover",
+        "drift",
+        "lift",
+        "sway"
+      ],
+      "example": [
+        {
+          "source": "strongest_magician_was_human",
+          "file": "fuwa-1a",
+          "display": "ふわっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

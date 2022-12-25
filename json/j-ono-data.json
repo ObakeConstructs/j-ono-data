@@ -2526,6 +2526,12 @@
             "contributor": "",
             "display": "ドン",
             "source": "strongest_magician_was_human"
+          },
+          {
+            "file": "don-1e",
+            "contributor": "",
+            "display": "ドンッ",
+            "source": "strongest_magician_was_human"
           }
         ]
       },
@@ -2960,6 +2966,35 @@
   },
   {
     "hiragana": [
+      "ふぃうん",
+      "ふぃうーん"
+    ],
+    "katakana": [
+      "フィウン",
+      "フィウーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "throw",
+        "toss",
+        "hurl",
+        "fling",
+        "chuck",
+        "lob",
+        "heave"
+      ],
+      "meaning": "to throw or toss",
+      "example": [{
+        "file": "fiun-1a",
+        "contributor": "",
+        "display": "フィウーン",
+        "source": "strongest_magician_was_human"
+      }]
+    }],
+    "literal": "fiun"
+  },
+  {
+    "hiragana": [
       "ふ",
       "ふっ",
       "ふー",
@@ -3342,6 +3377,33 @@
   },
   {
     "hiragana": [
+      "ふわっ",
+      "ふわ"
+    ],
+    "katakana": [
+      "フワ",
+      "フワッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "float",
+        "hover",
+        "drift",
+        "lift",
+        "sway"
+      ],
+      "meaning": "to float gently or move softly",
+      "example": [{
+        "file": "fuwa-1a",
+        "contributor": "",
+        "display": "ふわっ",
+        "source": "strongest_magician_was_human"
+      }]
+    }],
+    "literal": "fuwa"
+  },
+  {
+    "hiragana": [
       "ふふ",
       "ふふっ",
       "ふふふ",
@@ -3493,6 +3555,12 @@
             "contributor": "",
             "display": "がっ",
             "source": "strongest_failure_frame"
+          },
+          {
+            "file": "ga-2c",
+            "contributor": "",
+            "display": "ガッ",
+            "source": "strongest_magician_was_human"
           }
         ]
       }
@@ -5358,12 +5426,20 @@
         "stab"
       ],
       "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
-      "example": [{
-        "file": "gusa-1a",
-        "contributor": "",
-        "display": "グサッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "gusa-1a",
+          "contributor": "",
+          "display": "グサッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gusa-1b",
+          "contributor": "",
+          "display": "グサッ",
+          "source": "strongest_magician_was_human"
+        }
+      ]
     }],
     "literal": "gusa"
   },
@@ -7229,15 +7305,25 @@
         "equivalent": [
           "step",
           "tap",
-          "walk"
+          "walk",
+          "plod",
+          "shuffle"
         ],
         "meaning": "the sound of walking",
-        "example": [{
-          "file": "ko-1a",
-          "contributor": "",
-          "display": "コッ",
-          "source": "d_genesis"
-        }]
+        "example": [
+          {
+            "file": "ko-1a",
+            "contributor": "",
+            "display": "コッ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "ko-1b",
+            "contributor": "",
+            "display": "コッ",
+            "source": "strongest_magician_was_human"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -9677,6 +9763,32 @@
     "literal": "pika"
   },
   {
+    "hiragana": [
+      "ぴき",
+      "ぴきっ"
+    ],
+    "katakana": [
+      "ピキッ",
+      "ピキッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "crackle",
+        "pop",
+        "snap",
+        "crack"
+      ],
+      "meaning": "a cracking or popping sound",
+      "example": [{
+        "file": "piki-1a",
+        "contributor": "",
+        "display": "ピキッ",
+        "source": "strongest_magician_was_human"
+      }]
+    }],
+    "literal": "piki"
+  },
+  {
     "hiragana": ["ぴきぴき"],
     "katakana": ["ピキピキ"],
     "definition": [{
@@ -11452,12 +11564,20 @@
         "slice"
       ],
       "meaning": "a fast, heavy cut, as with a sword or knife",
-      "example": [{
-        "file": "supa-1a",
-        "contributor": "",
-        "display": "スパッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "supa-1a",
+          "contributor": "",
+          "display": "スパッ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "supa-1b",
+          "contributor": "",
+          "display": "スパッ",
+          "source": "strongest_magician_was_human"
+        }
+      ]
     }],
     "literal": "supa"
   },

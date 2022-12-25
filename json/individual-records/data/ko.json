@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "こ",
-    "こっ",
-    "こぉ",
-    "こお",
-    "こぉぉ",
-    "こおお",
-    "こぉおお",
-    "こおぉぉ"
-  ],
+  "literal": "ko",
   "katakana": [
     "コ",
     "コッ",
@@ -19,34 +10,55 @@
     "コォォォ",
     "コオオオ"
   ],
+  "hiragana": [
+    "こ",
+    "こっ",
+    "こぉ",
+    "こお",
+    "こぉぉ",
+    "こおお",
+    "こぉおお",
+    "こおぉぉ"
+  ],
   "definition": [
     {
+      "meaning": "the sound of walking",
       "equivalent": [
         "step",
         "tap",
-        "walk"
+        "walk",
+        "plod",
+        "shuffle"
       ],
-      "meaning": "the sound of walking",
-      "example": [{
-        "file": "ko-1a",
-        "contributor": "",
-        "display": "コッ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "ko-1a",
+          "display": "コッ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "ko-1b",
+          "display": "コッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "expressing or eminating vast power or killing intent",
       "equivalent": [
         "fwoosh",
         "rumble"
       ],
-      "meaning": "expressing or eminating vast power or killing intent",
-      "example": [{
-        "file": "ko-2a",
-        "contributor": "",
-        "display": "コォ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "ko-2a",
+          "display": "コォ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ko"
+  ]
 }
