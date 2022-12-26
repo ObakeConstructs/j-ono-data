@@ -1,32 +1,42 @@
 {
-  "hiragana": [
-    "ほ",
-    "ほっ",
-    "ほー",
-    "ほーっ"
-  ],
+  "literal": "ho",
   "katakana": [
     "ホ",
     "ホッ",
     "ホー",
     "ホーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "ahh",
-      "phew",
-      "relief",
-      "relieved",
-      "sigh",
-      "whew"
-    ],
-    "meaning": "the sound or expression of relief",
-    "example": [{
-      "file": "ho-1a",
-      "contributor": "",
-      "display": "ほっ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "ho"
+  "hiragana": [
+    "ほ",
+    "ほっ",
+    "ほー",
+    "ほーっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound or expression of relief",
+      "equivalent": [
+        "ahh",
+        "phew",
+        "relief",
+        "relieved",
+        "sigh",
+        "whew"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "ho-1a",
+          "display": "ほっ",
+          "contributor": ""
+        },
+        {
+          "source": "peter_grill",
+          "file": "ho-1b",
+          "display": "ホッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,51 +1,59 @@
 {
-  "hiragana": [
-    "ばん",
-    "ばんっ",
-    "ばぁん",
-    "ばぁんっ"
-  ],
+  "literal": "ban",
   "katakana": [
     "バン",
     "バンッ",
     "バァン",
     "バァンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bam",
-      "bang",
-      "crack",
-      "hit",
-      "pound",
-      "slam",
-      "slap",
-      "slug",
-      "sock",
-      "thwack",
-      "whack"
-    ],
-    "meaning": "a short, sharp sound of impact",
-    "example": [
-      {
-        "file": "ban-1a",
-        "contributor": "",
-        "display": "ばん",
-        "source": "d_genesis"
-      },
-      {
-        "file": "ban-1b",
-        "contributor": "",
-        "display": "バンッ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "ban-1c",
-        "contributor": "",
-        "display": "バン",
-        "source": "otherworld_material_collector"
-      }
-    ]
-  }],
-  "literal": "ban"
+  "hiragana": [
+    "ばん",
+    "ばんっ",
+    "ばぁん",
+    "ばぁんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a short, sharp sound of impact",
+      "equivalent": [
+        "bam",
+        "bang",
+        "crack",
+        "hit",
+        "pound",
+        "slam",
+        "slap",
+        "slug",
+        "sock",
+        "thwack",
+        "whack"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "ban-1a",
+          "display": "ばん",
+          "contributor": ""
+        },
+        {
+          "source": "world_full_of_monsters",
+          "file": "ban-1b",
+          "display": "バンッ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "ban-1c",
+          "display": "バン",
+          "contributor": ""
+        },
+        {
+          "source": "peter_grill",
+          "file": "ban-1d",
+          "display": "バァンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

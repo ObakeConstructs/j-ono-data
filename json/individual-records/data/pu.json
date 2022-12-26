@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "ぷ",
-    "ぷっ",
-    "ぷう",
-    "ぷうう",
-    "ぷううー",
-    "ぷぅ"
-  ],
+  "literal": "pu",
   "katakana": [
     "プ",
     "プッ",
@@ -15,55 +8,65 @@
     "プウウー",
     "プゥ"
   ],
+  "hiragana": [
+    "ぷ",
+    "ぷっ",
+    "ぷう",
+    "ぷうう",
+    "ぷううー",
+    "ぷぅ"
+  ],
   "definition": [
     {
+      "meaning": "the sound of someone expelling air or gas from a bodily orifice, as in supressed laughter or flatulence",
       "equivalent": [
         "ha",
         "hah",
         "pfft",
         "pwa",
-        "snort"
-      ],
-      "meaning": "a light laugh or snort, often an expression of low opinion, dismissal, or sarcasm",
-      "example": [{
-        "file": "pu-1a",
-        "contributor": "",
-        "display": "ぷっ",
-        "source": "world_full_of_monsters"
-      }]
-    },
-    {
-      "equivalent": [
-        "nip",
-        "pinch",
-        "pluck",
-        "pop",
-        "snap",
-        "tug"
-      ],
-      "meaning": "a small sound of pinching or plucking, as with a small plant",
-      "example": [{
-        "file": "pu-2a",
-        "contributor": "",
-        "display": "プッ",
-        "source": "dog_became_strongest"
-      }]
-    },
-    {
-      "equivalent": [
+        "snort",
         "fart",
         "honk",
         "puff",
         "toot"
       ],
-      "meaning": "a harsh, unpleasant sound, as from a horn or flatulence",
-      "example": [{
-        "file": "pu-3a",
-        "contributor": "",
-        "display": "プゥゥー",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "pu-1a",
+          "display": "ぷっ",
+          "contributor": ""
+        },
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "pu-1b",
+          "display": "プゥゥー",
+          "contributor": ""
+        },
+        {
+          "source": "peter_grill",
+          "file": "pu_1c",
+          "display": "プッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a small popping sound",
+      "equivalent": [
+        "crack",
+        "crackle",
+        "snap",
+        "pop"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "pu-2a",
+          "display": "プッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "pu"
+  ]
 }

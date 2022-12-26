@@ -1,14 +1,18 @@
 {
-  "hiragana": [
-    "しゅん",
-    "しゅんっ"
-  ],
+  "literal": "shun",
   "katakana": [
     "シュン",
-    "シュンッ"
+    "シュンッ",
+    "シューンッ"
+  ],
+  "hiragana": [
+    "しゅん",
+    "しゅんっ",
+    "しゅーんっ"
   ],
   "definition": [
     {
+      "meaning": "an expression of sadness or gloom",
       "equivalent": [
         "crestfallen",
         "dejected",
@@ -16,17 +20,28 @@
         "down",
         "glum",
         "sad",
-        "unhappy"
+        "unhappy",
+        "gloom",
+        "grief",
+        "sorrow"
       ],
-      "meaning": "expressing an unhappy feeling",
-      "example": [{
-        "file": "shun-1a",
-        "contributor": "",
-        "display": "しゅん",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "shun-1a",
+          "display": "しゅん",
+          "contributor": ""
+        },
+        {
+          "source": "peter_grill",
+          "file": "shun-1b",
+          "display": "シューンッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "to move quickly with only the sound of flowing air, often vanishing",
       "equivalent": [
         "fwip",
         "whiz",
@@ -34,22 +49,20 @@
         "zip",
         "zoom"
       ],
-      "meaning": "to move quickly with only the sound of flowing air, often vanishing",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "shun-2a",
-          "contributor": "",
           "display": "シュン",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_aristocrat",
           "file": "shun-2b",
-          "contributor": "",
           "display": "シュンッ",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "shun"
+  ]
 }

@@ -1,34 +1,38 @@
 {
-  "hiragana": [
-    "ざざ",
-    "ざっざっ"
-  ],
+  "literal": "za za",
   "katakana": [
     "ザザ",
     "ザッザッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "crunch",
-      "crush",
-      "step",
-      "walk"
-    ],
-    "meaning": "sound of someone walking, as on grass or gravel",
-    "example": [
-      {
-        "file": "za_za-1a",
-        "contributor": "",
-        "display": "ザッ  ザッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "za_za-1b",
-        "contributor": "",
-        "display": "ザッ  ザッ",
-        "source": "abandoned_reincarnation_sage"
-      }
-    ]
-  }],
-  "literal": "za za"
+  "hiragana": [
+    "ざざ",
+    "ざっざっ"
+  ],
+  "definition": [
+    {
+      "meaning": "sound of someone stepping or walking",
+      "equivalent": [
+        "crunch crunch",
+        "crush",
+        "step step",
+        "walk",
+        "stomp stomp",
+        "stroll"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "za_za-1a",
+          "display": "ザッ  ザッ",
+          "contributor": ""
+        },
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "za_za-1b",
+          "display": "ザッ  ザッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

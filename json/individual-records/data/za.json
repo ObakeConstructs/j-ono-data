@@ -1,17 +1,5 @@
 {
-  "hiragana": [
-    "ざ",
-    "ざっ",
-    "ざー",
-    "ざーっ",
-    "ざぁ",
-    "ざぁぁ",
-    "ざぁぁぁ",
-    "ざあ",
-    "ざああ",
-    "ざあああ",
-    "ざあっ"
-  ],
+  "literal": "za",
   "katakana": [
     "ザ",
     "ザッ",
@@ -25,8 +13,22 @@
     "ザアアア",
     "ザアッ"
   ],
+  "hiragana": [
+    "ざ",
+    "ざっ",
+    "ざー",
+    "ざーっ",
+    "ざぁ",
+    "ざぁぁ",
+    "ざぁぁぁ",
+    "ざあ",
+    "ざああ",
+    "ざあああ",
+    "ざあっ"
+  ],
   "definition": [
     {
+      "meaning": "soft sounds of rain or shower",
       "equivalent": [
         "drizzle",
         "drops",
@@ -35,37 +37,46 @@
         "shaa",
         "sss"
       ],
-      "meaning": "soft sounds of rain or shower",
       "example": [
         {
+          "source": "bungo",
           "file": "za-1a",
-          "contributor": "",
           "display": "ザーッ",
-          "source": "bungo"
+          "contributor": ""
         },
         {
+          "source": "hikaro_no_go",
           "file": "za-1b",
-          "contributor": "",
           "display": "ザァァァ",
-          "source": "hikaro_no_go"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "sound of someone taking a step or stomping",
       "equivalent": [
         "crunch",
         "crush",
         "step",
-        "walk"
+        "walk",
+        "stomp",
+        "tread",
+        "tap"
       ],
-      "meaning": "sound of someone walking, as on grass or gravel",
-      "example": [{
-        "file": "za-2a",
-        "contributor": "",
-        "display": "ザッ",
-        "source": "dog_became_strongest"
-      }]
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "za-2a",
+          "display": "ザッ",
+          "contributor": ""
+        },
+        {
+          "source": "peter_grill",
+          "file": "za-2b",
+          "display": "ザッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "za"
+  ]
 }

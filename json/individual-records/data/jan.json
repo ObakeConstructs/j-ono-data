@@ -1,0 +1,31 @@
+{
+  "literal": "jan",
+  "katakana": [
+    "ジャン",
+    "ジャーン"
+  ],
+  "hiragana": [
+    "じゃん",
+    "じゃーん"
+  ],
+  "definition": [
+    {
+      "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
+      "equivalent": [
+        "bam",
+        "boom",
+        "ta-da",
+        "tadah",
+        "da-dum"
+      ],
+      "example": [
+        {
+          "source": "peter_grill",
+          "file": "jan-1a",
+          "display": "ジャーン!!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

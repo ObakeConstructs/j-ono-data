@@ -22,16 +22,26 @@
   ],
   "definition": [
     {
-      "meaning": "holding ones muscles tightly, indicating tension or suspense",
+      "meaning": "an expression of unwavering determination",
       "equivalent": [
         "clench",
         "strain",
-        "tense"
+        "tense",
+        "determined",
+        "grit",
+        "spunk",
+        "fierce"
       ],
       "example": [
         {
           "source": "d_genesis",
           "file": "gi-1a",
+          "display": "ギッ",
+          "contributor": ""
+        },
+        {
+          "source": "peter_grill",
+          "file": "gi-1b",
           "display": "ギッ",
           "contributor": ""
         }

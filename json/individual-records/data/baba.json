@@ -1,0 +1,34 @@
+{
+  "literal": "baba",
+  "katakana": [
+    "ババ",
+    "ババッ"
+  ],
+  "hiragana": [
+    "ばば",
+    "ばばっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a sudden and/or fast movement",
+      "equivalent": [
+        "fwip",
+        "fwit",
+        "pop",
+        "snap",
+        "zip",
+        "jolt",
+        "startle",
+        "sudden"
+      ],
+      "example": [
+        {
+          "source": "peter_grill",
+          "file": "baba-1a",
+          "display": "ババッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

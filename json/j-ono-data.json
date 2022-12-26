@@ -88,6 +88,32 @@
     "literal": "an"
   },
   {
+    "hiragana": ["あわあわ"],
+    "katakana": ["アワアワ"],
+    "definition": [{
+      "equivalent": [
+        "anxiety",
+        "panic panic",
+        "nervous",
+        "worry",
+        "um um",
+        "dismay dismay",
+        "jitter jitter",
+        "agitation",
+        "fluster",
+        "uh uh"
+      ],
+      "meaning": "an expression of panic, anxiety, or uncertainty",
+      "example": [{
+        "file": "awa_awa-1a",
+        "contributor": "",
+        "display": "アワ アワ  アワ",
+        "source": "peter_grill"
+      }]
+    }],
+    "literal": "awa awa"
+  },
+  {
     "hiragana": [
       "ば",
       "ばっ"
@@ -190,6 +216,36 @@
   },
   {
     "hiragana": [
+      "ばば",
+      "ばばっ"
+    ],
+    "katakana": [
+      "ババ",
+      "ババッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "fwip",
+        "fwit",
+        "pop",
+        "snap",
+        "zip",
+        "jolt",
+        "startle",
+        "sudden"
+      ],
+      "meaning": "a sudden and/or fast movement",
+      "example": [{
+        "file": "baba-1a",
+        "contributor": "",
+        "display": "ババッ",
+        "source": "peter_grill"
+      }]
+    }],
+    "literal": "baba"
+  },
+  {
+    "hiragana": [
       "ばき",
       "ばきっ"
     ],
@@ -286,6 +342,12 @@
           "contributor": "",
           "display": "バン",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "ban-1d",
+          "contributor": "",
+          "display": "バァンッ",
+          "source": "peter_grill"
         }
       ]
     }],
@@ -2597,15 +2659,25 @@
         "bang bang",
         "boom boom",
         "crack crack",
-        "wham wham"
+        "wham wham",
+        "knock knock",
+        "pop pop"
       ],
-      "meaning": "a series of sudden loud noises, as from a gun",
-      "example": [{
-        "file": "don_don-1a",
-        "contributor": "",
-        "display": "ドン  ドン  ドン",
-        "source": "hanako_24th_ward"
-      }]
+      "meaning": "a series of sudden loud noises",
+      "example": [
+        {
+          "file": "don_don-1a",
+          "contributor": "",
+          "display": "ドン  ドン  ドン",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "don_don-1b",
+          "contributor": "",
+          "display": "ドン  ドン  ドン",
+          "source": "peter_grill"
+        }
+      ]
     }],
     "literal": "don don"
   },
@@ -3063,7 +3135,8 @@
           "release",
           "relief",
           "solace",
-          "whew"
+          "whew",
+          "fwhew"
         ],
         "meaning": "an expression of relief",
         "example": [
@@ -3078,6 +3151,12 @@
             "contributor": "",
             "display": "ふう",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "fu-3c",
+            "contributor": "",
+            "display": "フウ",
+            "source": "peter_grill"
           }
         ]
       },
@@ -3853,39 +3932,60 @@
   {
     "hiragana": [
       "がく",
-      "がくっ"
+      "がくー",
+      "ガクッ"
     ],
     "katakana": [
       "ガク",
+      "ガクー",
       "ガクッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "fall",
-        "fold",
-        "give in",
-        "give up",
-        "sag",
-        "sink",
-        "slump",
-        "succumb"
-      ],
-      "meaning": "An expression of giving up or passing out",
-      "example": [
-        {
-          "file": "gaku-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "fall",
+          "fold",
+          "give in",
+          "give up",
+          "sag",
+          "sink",
+          "slump",
+          "succumb"
+        ],
+        "meaning": "An expression of giving up or passing out",
+        "example": [
+          {
+            "file": "gaku-1a",
+            "contributor": "",
+            "display": "がく",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "gaku-1b",
+            "contributor": "",
+            "display": "ガクッ",
+            "source": "world_full_of_monsters"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "slump",
+          "droop",
+          "wilt",
+          "sink",
+          "flag",
+          "collapse"
+        ],
+        "meaning": "an expression of depression or tiredness",
+        "example": [{
+          "file": "gaku-2a",
           "contributor": "",
-          "display": "がく",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "gaku-1b",
-          "contributor": "",
-          "display": "ガクッ",
-          "source": "world_full_of_monsters"
-        }
-      ]
-    }],
+          "display": "ガクー...",
+          "source": "peter_grill"
+        }]
+      }
+    ],
     "literal": "gaku"
   },
   {
@@ -3965,6 +4065,33 @@
       ]
     }],
     "literal": "gan"
+  },
+  {
+    "hiragana": ["がんがん"],
+    "katakana": ["ガンガン"],
+    "definition": [{
+      "equivalent": [
+        "bam bam",
+        "bang bang",
+        "slam slam",
+        "smack smack",
+        "smash smash",
+        "thud thud",
+        "thump thump",
+        "thud thud",
+        "thunk thunk",
+        "whack whack",
+        "wham wham"
+      ],
+      "meaning": "a series of strong impact noises",
+      "example": [{
+        "file": "gan_gan_1a",
+        "contributor": "",
+        "display": "ガン  ガン  ガン  ガン",
+        "source": "peter_grill"
+      }]
+    }],
+    "literal": "gan gan"
   },
   {
     "hiragana": [
@@ -4220,13 +4347,21 @@
         "nab",
         "snag"
       ],
-      "meaning": "the act of grabbing and holding",
-      "example": [{
-        "file": "gashi-1a",
-        "contributor": "",
-        "display": "ガシッ",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "the act of grabbing or holding",
+      "example": [
+        {
+          "file": "gashi-1a",
+          "contributor": "",
+          "display": "ガシッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gashi-1b",
+          "contributor": "",
+          "display": "がしっ",
+          "source": "peter_grill"
+        }
+      ]
     }],
     "literal": "gashi"
   },
@@ -4400,15 +4535,27 @@
         "equivalent": [
           "clench",
           "strain",
-          "tense"
+          "tense",
+          "determined",
+          "grit",
+          "spunk",
+          "fierce"
         ],
-        "meaning": "holding ones muscles tightly, indicating tension or suspense",
-        "example": [{
-          "file": "gi-1a",
-          "contributor": "",
-          "display": "ギッ",
-          "source": "d_genesis"
-        }]
+        "meaning": "an expression of unwavering determination",
+        "example": [
+          {
+            "file": "gi-1a",
+            "contributor": "",
+            "display": "ギッ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "gi-1b",
+            "contributor": "",
+            "display": "ギッ",
+            "source": "peter_grill"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -6034,12 +6181,20 @@
         "whew"
       ],
       "meaning": "the sound or expression of relief",
-      "example": [{
-        "file": "ho-1a",
-        "contributor": "",
-        "display": "ほっ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "ho-1a",
+          "contributor": "",
+          "display": "ほっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ho-1b",
+          "contributor": "",
+          "display": "ホッ",
+          "source": "peter_grill"
+        }
+      ]
     }],
     "literal": "ho"
   },
@@ -6379,6 +6534,33 @@
       ]
     }],
     "literal": "jaki"
+  },
+  {
+    "hiragana": [
+      "じゃん",
+      "じゃーん"
+    ],
+    "katakana": [
+      "ジャン",
+      "ジャーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "boom",
+        "ta-da",
+        "tadah",
+        "da-dum"
+      ],
+      "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
+      "example": [{
+        "file": "jan-1a",
+        "contributor": "",
+        "display": "ジャーン!!",
+        "source": "peter_grill"
+      }]
+    }],
+    "literal": "jan"
   },
   {
     "hiragana": [
@@ -8412,15 +8594,29 @@
       "equivalent": [
         "dosy",
         "drowsy",
-        "sleepy"
+        "sleepy",
+        "rest",
+        "sleep",
+        "dose",
+        "dream",
+        "nap",
+        "slumber"
       ],
-      "meaning": "expressing desire or need for sleep",
-      "example": [{
-        "file": "munya_munya-1a",
-        "contributor": "",
-        "display": "ムニャ  ムニャ",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "expressing sleep or sleepiness",
+      "example": [
+        {
+          "file": "munya_munya-1a",
+          "contributor": "",
+          "display": "むにゃ  むにゃ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "munya_munya-1b",
+          "contributor": "",
+          "display": "むにゃ  むにゃ",
+          "source": "peter_grill"
+        }
+      ]
     }],
     "literal": "munya munya"
   },
@@ -9339,15 +9535,24 @@
           "close",
           "ker-chak",
           "slam",
-          "tchk"
+          "tchk",
+          "latch"
         ],
-        "meaning": "the sound of a door latch closing",
-        "example": [{
-          "file": "patan-1a",
-          "contributor": "",
-          "display": "パタン",
-          "source": "d_genesis"
-        }]
+        "meaning": "the sound of a door closing or latching",
+        "example": [
+          {
+            "file": "patan-1a",
+            "contributor": "",
+            "display": "パタン",
+            "source": "d_genesis"
+          },
+          {
+            "file": "patan-1b",
+            "contributor": "",
+            "display": "パタン",
+            "source": "peter_grill"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -10472,7 +10677,7 @@
           "puff",
           "toot"
         ],
-        "meaning": "the sound of someone expelling air or gas from a bodily orifice, as in a supressed laugh or flatulence, often unintentional",
+        "meaning": "the sound of someone expelling air or gas from a bodily orifice, as in supressed laughter or flatulence",
         "example": [
           {
             "file": "pu-1a",
@@ -10485,6 +10690,12 @@
             "contributor": "",
             "display": "プゥゥー",
             "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "pu_1c",
+            "contributor": "",
+            "display": "プッ",
+            "source": "peter_grill"
           }
         ]
       },
@@ -11139,11 +11350,13 @@
   {
     "hiragana": [
       "しゅん",
-      "しゅんっ"
+      "しゅんっ",
+      "しゅーんっ"
     ],
     "katakana": [
       "シュン",
-      "シュンッ"
+      "シュンッ",
+      "シューンッ"
     ],
     "definition": [
       {
@@ -11154,15 +11367,26 @@
           "down",
           "glum",
           "sad",
-          "unhappy"
+          "unhappy",
+          "gloom",
+          "grief",
+          "sorrow"
         ],
-        "meaning": "expressing an unhappy feeling",
-        "example": [{
-          "file": "shun-1a",
-          "contributor": "",
-          "display": "しゅん",
-          "source": "d_genesis"
-        }]
+        "meaning": "an expression of sadness or gloom",
+        "example": [
+          {
+            "file": "shun-1a",
+            "contributor": "",
+            "display": "しゅん",
+            "source": "d_genesis"
+          },
+          {
+            "file": "shun-1b",
+            "contributor": "",
+            "display": "シューンッ",
+            "source": "peter_grill"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -13029,15 +13253,26 @@
           "crunch",
           "crush",
           "step",
-          "walk"
+          "walk",
+          "stomp",
+          "tread",
+          "tap"
         ],
-        "meaning": "sound of someone walking, as on grass or gravel",
-        "example": [{
-          "file": "za-2a",
-          "contributor": "",
-          "display": "ザッ",
-          "source": "dog_became_strongest"
-        }]
+        "meaning": "sound of someone taking a step or stomping",
+        "example": [
+          {
+            "file": "za-2a",
+            "contributor": "",
+            "display": "ザッ",
+            "source": "dog_became_strongest"
+          },
+          {
+            "file": "za-2b",
+            "contributor": "",
+            "display": "ザッ",
+            "source": "peter_grill"
+          }
+        ]
       }
     ],
     "literal": "za"
@@ -13165,12 +13400,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "crunch",
+        "crunch crunch",
         "crush",
-        "step",
-        "walk"
+        "step step",
+        "walk",
+        "stomp stomp",
+        "stroll"
       ],
-      "meaning": "sound of someone walking, as on grass or gravel",
+      "meaning": "sound of someone stepping or walking",
       "example": [
         {
           "file": "za_za-1a",
