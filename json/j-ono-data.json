@@ -92,16 +92,16 @@
     "katakana": ["アワアワ"],
     "definition": [{
       "equivalent": [
-        "anxiety",
-        "panic panic",
-        "nervous",
-        "worry",
-        "um um",
-        "dismay dismay",
-        "jitter jitter",
         "agitation",
+        "anxiety",
+        "dismay dismay",
         "fluster",
-        "uh uh"
+        "jitter jitter",
+        "nervous",
+        "panic panic",
+        "uh uh",
+        "um um",
+        "worry"
       ],
       "meaning": "an expression of panic, anxiety, or uncertainty",
       "example": [{
@@ -149,15 +149,15 @@
       },
       {
         "equivalent": [
+          "charge",
+          "dash",
           "fwip",
           "fwit",
           "pop",
+          "shoom",
           "snap",
-          "zip",
-          "charge",
-          "dash",
           "whoom",
-          "shoom"
+          "zip"
         ],
         "meaning": "a sudden and/or fast movement",
         "example": [
@@ -227,12 +227,12 @@
       "equivalent": [
         "fwip",
         "fwit",
+        "jolt",
         "pop",
         "snap",
-        "zip",
-        "jolt",
         "startle",
-        "sudden"
+        "sudden",
+        "zip"
       ],
       "meaning": "a sudden and/or fast movement",
       "example": [{
@@ -540,12 +540,12 @@
     ],
     "definition": [{
       "equivalent": [
-        "rumble",
-        "boom",
-        "crash",
-        "tumult",
         "blast",
-        "clamor"
+        "boom",
+        "clamor",
+        "crash",
+        "rumble",
+        "tumult"
       ],
       "meaning": "the sound of falling rocks or stones",
       "example": [{
@@ -1480,10 +1480,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "blow",
-        "puff",
         "blast",
+        "blow",
         "breeze",
+        "puff",
         "whoosh"
       ],
       "meaning": "a sudden or brief gust of wind",
@@ -2407,13 +2407,13 @@
       "equivalent": [
         "blam",
         "blow",
+        "boom",
         "crash",
         "slam",
         "smash",
         "strike",
         "wallop",
-        "wham",
-        "boom"
+        "wham"
       ],
       "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
       "example": [
@@ -2454,13 +2454,13 @@
       "equivalent": [
         "blam",
         "blow",
+        "boom",
         "crash",
         "slam",
         "smash",
         "strike",
         "wallop",
-        "wham",
-        "boom"
+        "wham"
       ],
       "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
       "example": [
@@ -2601,10 +2601,10 @@
         "equivalent": [
           "bam",
           "boom",
+          "d-dum",
           "dah",
           "here",
-          "ta-da",
-          "d-dum"
+          "ta-da"
         ],
         "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
         "example": [
@@ -2659,9 +2659,9 @@
         "bang bang",
         "boom boom",
         "crack crack",
-        "wham wham",
         "knock knock",
-        "pop pop"
+        "pop pop",
+        "wham wham"
       ],
       "meaning": "a series of sudden loud noises",
       "example": [
@@ -2798,12 +2798,12 @@
       },
       {
         "equivalent": [
-          "thump",
-          "whump",
-          "place",
-          "set",
           "deposit",
-          "plunk"
+          "place",
+          "plunk",
+          "set",
+          "thump",
+          "whump"
         ],
         "meaning": "to place or drop something onto a hard surface, often with a noticable sound",
         "example": [
@@ -3047,13 +3047,13 @@
     ],
     "definition": [{
       "equivalent": [
-        "throw",
-        "toss",
-        "hurl",
-        "fling",
         "chuck",
+        "fling",
+        "heave",
+        "hurl",
         "lob",
-        "heave"
+        "throw",
+        "toss"
       ],
       "meaning": "to throw or toss",
       "example": [{
@@ -3132,11 +3132,11 @@
       {
         "equivalent": [
           "ease",
+          "fwhew",
           "release",
           "relief",
           "solace",
-          "whew",
-          "fwhew"
+          "whew"
         ],
         "meaning": "an expression of relief",
         "example": [
@@ -3465,9 +3465,9 @@
     ],
     "definition": [{
       "equivalent": [
+        "drift",
         "float",
         "hover",
-        "drift",
         "lift",
         "sway"
       ],
@@ -3970,12 +3970,12 @@
       },
       {
         "equivalent": [
-          "slump",
+          "collapse",
           "droop",
-          "wilt",
-          "sink",
           "flag",
-          "collapse"
+          "sink",
+          "slump",
+          "wilt"
         ],
         "meaning": "an expression of depression or tiredness",
         "example": [{
@@ -4077,8 +4077,8 @@
         "smack smack",
         "smash smash",
         "thud thud",
-        "thump thump",
         "thud thud",
+        "thump thump",
         "thunk thunk",
         "whack whack",
         "wham wham"
@@ -4173,10 +4173,10 @@
       },
       {
         "equivalent": [
-          "clatter clatter",
-          "rattle rattle",
           "clank clank",
-          "clunk clunk"
+          "clatter clatter",
+          "clunk clunk",
+          "rattle rattle"
         ],
         "meaning": "an indication of something moving with a clatter or rattle",
         "example": [{
@@ -4534,12 +4534,12 @@
       {
         "equivalent": [
           "clench",
-          "strain",
-          "tense",
           "determined",
+          "fierce",
           "grit",
           "spunk",
-          "fierce"
+          "strain",
+          "tense"
         ],
         "meaning": "an expression of unwavering determination",
         "example": [
@@ -6256,10 +6256,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "hya",
-        "what",
         "ahh",
-        "hyaa"
+        "hya",
+        "hyaa",
+        "what"
       ],
       "meaning": "An verbal expression of surprise and amazement",
       "example": [{
@@ -6548,9 +6548,9 @@
       "equivalent": [
         "bam",
         "boom",
+        "da-dum",
         "ta-da",
-        "tadah",
-        "da-dum"
+        "tadah"
       ],
       "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
       "example": [{
@@ -7485,11 +7485,11 @@
     "definition": [
       {
         "equivalent": [
+          "plod",
+          "shuffle",
           "step",
           "tap",
-          "walk",
-          "plod",
-          "shuffle"
+          "walk"
         ],
         "meaning": "the sound of walking",
         "example": [
@@ -7872,11 +7872,11 @@
     "katakana": ["クナクナ"],
     "definition": [{
       "equivalent": [
-        "tremble tremble",
-        "shudder shudder",
-        "shiver shiver",
         "quiver quiver",
-        "throb throb"
+        "shiver shiver",
+        "shudder shudder",
+        "throb throb",
+        "tremble tremble"
       ],
       "meaning": "shaking from cold, fear, or conviction",
       "example": [{
@@ -8592,14 +8592,14 @@
     "katakana": ["ムニャムニャ"],
     "definition": [{
       "equivalent": [
+        "dose",
         "dosy",
+        "dream",
         "drowsy",
-        "sleepy",
+        "nap",
         "rest",
         "sleep",
-        "dose",
-        "dream",
-        "nap",
+        "sleepy",
         "slumber"
       ],
       "meaning": "expressing sleep or sleepiness",
@@ -9168,11 +9168,11 @@
       },
       {
         "equivalent": [
-          "pop",
+          "lift",
           "open",
+          "pop",
           "reveal",
-          "uncover",
-          "lift"
+          "uncover"
         ],
         "meaning": "popping open a closed container",
         "example": [{
@@ -9231,12 +9231,12 @@
     ],
     "definition": [{
       "equivalent": [
-        "close",
         "ahm",
-        "nom",
-        "munch",
         "bite",
+        "close",
         "eat",
+        "munch",
+        "nom",
         "nosh",
         "savour"
       ],
@@ -9534,9 +9534,9 @@
           "click",
           "close",
           "ker-chak",
+          "latch",
           "slam",
-          "tchk",
-          "latch"
+          "tchk"
         ],
         "meaning": "the sound of a door closing or latching",
         "example": [
@@ -9665,14 +9665,14 @@
     ],
     "definition": [{
       "equivalent": [
+        "crinkle",
+        "flap",
         "flip",
         "riffle",
-        "thumb",
-        "skim",
-        "turn",
-        "flap",
         "rustle",
-        "crinkle"
+        "skim",
+        "thumb",
+        "turn"
       ],
       "meaning": "sound of turning pages or moving paper",
       "example": [
@@ -9978,10 +9978,10 @@
     ],
     "definition": [{
       "equivalent": [
+        "crack",
         "crackle",
         "pop",
-        "snap",
-        "crack"
+        "snap"
       ],
       "meaning": "a cracking or popping sound",
       "example": [{
@@ -10667,14 +10667,14 @@
     "definition": [
       {
         "equivalent": [
+          "fart",
           "ha",
           "hah",
+          "honk",
           "pfft",
+          "puff",
           "pwa",
           "snort",
-          "fart",
-          "honk",
-          "puff",
           "toot"
         ],
         "meaning": "the sound of someone expelling air or gas from a bodily orifice, as in supressed laughter or flatulence",
@@ -10703,8 +10703,8 @@
         "equivalent": [
           "crack",
           "crackle",
-          "snap",
-          "pop"
+          "pop",
+          "snap"
         ],
         "meaning": "a small popping sound",
         "example": [{
@@ -10783,8 +10783,8 @@
         "jiggle",
         "quiver",
         "shake",
-        "wobble",
-        "sway"
+        "sway",
+        "wobble"
       ],
       "meaning": "a small irregular movement",
       "example": [
@@ -11365,12 +11365,12 @@
           "dejected",
           "depressed",
           "down",
-          "glum",
-          "sad",
-          "unhappy",
           "gloom",
+          "glum",
           "grief",
-          "sorrow"
+          "sad",
+          "sorrow",
+          "unhappy"
         ],
         "meaning": "an expression of sadness or gloom",
         "example": [
@@ -11567,14 +11567,14 @@
           "give",
           "grab",
           "hand over",
+          "hold",
           "pass",
           "raise",
           "reach",
           "slide",
           "stop",
           "take",
-          "yield",
-          "hold"
+          "yield"
         ],
         "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
         "example": [
@@ -13253,10 +13253,10 @@
           "crunch",
           "crush",
           "step",
-          "walk",
           "stomp",
+          "tap",
           "tread",
-          "tap"
+          "walk"
         ],
         "meaning": "sound of someone taking a step or stomping",
         "example": [
@@ -13403,9 +13403,9 @@
         "crunch crunch",
         "crush",
         "step step",
-        "walk",
         "stomp stomp",
-        "stroll"
+        "stroll",
+        "walk"
       ],
       "meaning": "sound of someone stepping or walking",
       "example": [
@@ -13664,17 +13664,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "reach",
-        "grab",
-        "get",
-        "snag",
-        "snatch",
-        "grasp",
-        "rummage",
-        "rifle",
-        "probe",
         "dig through",
-        "dredge"
+        "dredge",
+        "get",
+        "grab",
+        "grasp",
+        "probe",
+        "reach",
+        "rifle",
+        "rummage",
+        "snag",
+        "snatch"
       ],
       "meaning": "to reach inside something, usually to get something from within",
       "example": [{
