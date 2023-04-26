@@ -107,7 +107,7 @@
       "example": [{
         "file": "awa_awa-1a",
         "contributor": "",
-        "display": "アワ アワ  アワ",
+        "display": "アワ  アワ  アワ",
         "source": "peter_grill"
       }]
     }],
@@ -393,6 +393,12 @@
             "contributor": "",
             "display": "ばさッ",
             "source": "modern_dungeon_capture"
+          },
+          {
+            "file": "basa-1d",
+            "contributor": "",
+            "display": "バサッ",
+            "source": "nete_kunoichi"
           }
         ]
       },
@@ -940,6 +946,16 @@
           "contributor": "",
           "display": "ビシッ",
           "source": "different_world_smartphone"
+        }]
+      },
+      {
+        "equivalent": ["point"],
+        "meaning": "the act of pointing at something",
+        "example": [{
+          "file": "bishi-4a",
+          "contributor": "",
+          "display": "ビシッ",
+          "source": "nete_kunoichi"
         }]
       }
     ],
@@ -2521,6 +2537,12 @@
           "contributor": "",
           "display": "ドッキ  ドッキ",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "doki_doki-1c",
+          "contributor": "",
+          "display": "ドッキ  ドッキ  ドッキ  ドッキ",
+          "source": "nete_kunoichi"
         }
       ]
     }],
@@ -5209,12 +5231,20 @@
         "turn"
       ],
       "meaning": "a rolling or turning movement",
-      "example": [{
-        "file": "goron-1a",
-        "contributor": "",
-        "display": "ごろん",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "goron-1a",
+          "contributor": "",
+          "display": "ごろん",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "goron-1b",
+          "contributor": "",
+          "display": "ゴロン",
+          "source": "nete_kunoichi"
+        }
+      ]
     }],
     "literal": "goron"
   },
@@ -5227,19 +5257,37 @@
       "ゴロゴロ",
       "ゴーロゴーロ"
     ],
-    "definition": [{
-      "equivalent": [
-        "purr",
-        "thrum"
-      ],
-      "meaning": "a continuous low vibration, typically from a content or pleased cat",
-      "example": [{
-        "file": "goro_goro-1a",
-        "contributor": "",
-        "display": "ゴーロ  ゴーロ",
-        "source": "s_rank_behemoth"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "purr",
+          "thrum"
+        ],
+        "meaning": "a continuous low vibration, typically from a content or pleased cat",
+        "example": [{
+          "file": "goro_goro-1a",
+          "contributor": "",
+          "display": "ゴーロ  ゴーロ",
+          "source": "s_rank_behemoth"
+        }]
+      },
+      {
+        "equivalent": [
+          "roll",
+          "roll over",
+          "spin",
+          "turn",
+          "turn over"
+        ],
+        "meaning": "the act of rolling or rolling over",
+        "example": [{
+          "file": "goro_goro-1b",
+          "contributor": "",
+          "display": "ゴロ  ゴロ",
+          "source": "nete_kunoichi"
+        }]
+      }
+    ],
     "literal": "goro goro"
   },
   {
@@ -6680,44 +6728,59 @@
       "ジーッ",
       "ジィッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "gape",
-        "gawk",
-        "peer",
-        "regard",
-        "scrutinize",
-        "stare",
-        "study"
-      ],
-      "meaning": "a lengthy stare at someone or something",
-      "example": [
-        {
-          "file": "ji-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "gape",
+          "gawk",
+          "peer",
+          "regard",
+          "scrutinize",
+          "stare",
+          "study"
+        ],
+        "meaning": "a lengthy stare at someone or something",
+        "example": [
+          {
+            "file": "ji-1a",
+            "contributor": "",
+            "display": "じっ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "ji-1b",
+            "contributor": "",
+            "display": "じぃっ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "ji-1c",
+            "contributor": "",
+            "display": "じー",
+            "source": "komi_cant_communicate"
+          },
+          {
+            "file": "ji-1d",
+            "contributor": "",
+            "display": "じ",
+            "source": "otherworld_material_collector"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "unzip",
+          "zip"
+        ],
+        "meaning": "the sound of a zipper opening or closing",
+        "example": [{
+          "file": "ji-2a",
           "contributor": "",
-          "display": "じっ",
-          "source": "d_genesis"
-        },
-        {
-          "file": "ji-1b",
-          "contributor": "",
-          "display": "じぃっ",
-          "source": "d_genesis"
-        },
-        {
-          "file": "ji-1c",
-          "contributor": "",
-          "display": "じー",
-          "source": "komi_cant_communicate"
-        },
-        {
-          "file": "ji-1d",
-          "contributor": "",
-          "display": "じ",
-          "source": "otherworld_material_collector"
-        }
-      ]
-    }],
+          "display": "ジー",
+          "source": "nete_kunoichi"
+        }]
+      }
+    ],
     "literal": "ji"
   },
   {
@@ -7832,6 +7895,12 @@
           "contributor": "",
           "display": "コト",
           "source": "marginal_taylor"
+        },
+        {
+          "file": "koto-1d",
+          "contributor": "",
+          "display": "コト",
+          "source": "nete_kunoichi"
         }
       ]
     }],
@@ -9937,31 +10006,50 @@
       "ピ",
       "ピッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "beep",
-        "bing",
-        "chime",
-        "ding",
-        "peep",
-        "ping"
-      ],
-      "meaning": "a short electronic beep or similar high-pitched noise",
-      "example": [
-        {
-          "file": "pi-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "beep",
+          "bing",
+          "chime",
+          "ding",
+          "peep",
+          "ping"
+        ],
+        "meaning": "a short electronic beep or similar high-pitched noise",
+        "example": [
+          {
+            "file": "pi-1a",
+            "contributor": "",
+            "display": "ピッ",
+            "source": "modern_dungeon_capture"
+          },
+          {
+            "file": "pi-1b",
+            "contributor": "",
+            "display": "ピ",
+            "source": "different_world_smartphone"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "ding",
+          "ping",
+          "present",
+          "reveal",
+          "show",
+          "ta-da"
+        ],
+        "meaning": "to show or present something quickly or dramatically",
+        "example": [{
+          "file": "pi-2a",
           "contributor": "",
           "display": "ピッ",
-          "source": "modern_dungeon_capture"
-        },
-        {
-          "file": "pi-1b",
-          "contributor": "",
-          "display": "ピ",
-          "source": "different_world_smartphone"
-        }
-      ]
-    }],
+          "source": "nete_kunoichi"
+        }]
+      }
+    ],
     "literal": "pi"
   },
   {
@@ -10115,6 +10203,27 @@
       }]
     }],
     "literal": "pikon"
+  },
+  {
+    "hiragana": ["ぴこ ぴこ"],
+    "katakana": ["ピコ ピコ"],
+    "definition": [{
+      "equivalent": [
+        "ba-ding ba-ding",
+        "beep beep",
+        "bing bing",
+        "ding ding",
+        "ping ping"
+      ],
+      "meaning": "the repetitive beeps of generic video games",
+      "example": [{
+        "file": "pikon_pikon-1a",
+        "contributor": "",
+        "display": "ピコ  ピコ  ピコ",
+        "source": "nete_kunoichi"
+      }]
+    }],
+    "literal": "pikon pikon"
   },
   {
     "hiragana": [
@@ -10918,12 +11027,20 @@
         "tremble"
       ],
       "meaning": "an indication of shaking, as from cold, fear, or effort",
-      "example": [{
-        "file": "puru_puru-1a",
-        "contributor": "",
-        "display": "ぷる  ぷる",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "file": "puru_puru-1a",
+          "contributor": "",
+          "display": "ぷる  ぷる",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "puru_puru-1b",
+          "contributor": "",
+          "display": "プル  プル",
+          "source": "nete_kunoichi"
+        }
+      ]
     }],
     "literal": "puru puru"
   },
@@ -13527,7 +13644,7 @@
         {
           "file": "za_za-1c",
           "contributor": "",
-          "display": "ザ ザ",
+          "display": "ザ  ザ",
           "source": "modern_dungeon_capture"
         }
       ]

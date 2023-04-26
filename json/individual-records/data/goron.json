@@ -1,22 +1,36 @@
 {
-  "hiragana": ["ごろん"],
-  "katakana": ["ゴロン"],
-  "definition": [{
-    "equivalent": [
-      "rock",
-      "roll",
-      "roll over",
-      "spin",
-      "tumble",
-      "turn"
-    ],
-    "meaning": "a rolling or turning movement",
-    "example": [{
-      "file": "goron-1a",
-      "contributor": "",
-      "display": "ごろん",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "goron"
+  "literal": "goron",
+  "katakana": [
+    "ゴロン"
+  ],
+  "hiragana": [
+    "ごろん"
+  ],
+  "definition": [
+    {
+      "meaning": "a rolling or turning movement",
+      "equivalent": [
+        "rock",
+        "roll",
+        "roll over",
+        "spin",
+        "tumble",
+        "turn"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "goron-1a",
+          "display": "ごろん",
+          "contributor": ""
+        },
+        {
+          "source": "nete_kunoichi",
+          "file": "goron-1b",
+          "display": "ゴロン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

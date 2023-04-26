@@ -1,24 +1,46 @@
 {
-  "hiragana": [
-    "ごろごろ",
-    "ごーろごーろ"
-  ],
+  "literal": "goro goro",
   "katakana": [
     "ゴロゴロ",
     "ゴーロゴーロ"
   ],
-  "definition": [{
-    "equivalent": [
-      "purr",
-      "thrum"
-    ],
-    "meaning": "a continuous low vibration, typically from a content or pleased cat",
-    "example": [{
-      "file": "goro_goro-1a",
-      "contributor": "",
-      "display": "ゴーロ  ゴーロ",
-      "source": "s_rank_behemoth"
-    }]
-  }],
-  "literal": "goro goro"
+  "hiragana": [
+    "ごろごろ",
+    "ごーろごーろ"
+  ],
+  "definition": [
+    {
+      "meaning": "a continuous low vibration, typically from a content or pleased cat",
+      "equivalent": [
+        "purr",
+        "thrum"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "goro_goro-1a",
+          "display": "ゴーロ  ゴーロ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the act of rolling or rolling over",
+      "equivalent": [
+        "roll",
+        "roll over",
+        "turn",
+        "turn over",
+        "spin"
+      ],
+      "example": [
+        {
+          "source": "nete_kunoichi",
+          "file": "goro_goro-1b",
+          "display": "ゴロ  ゴロ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

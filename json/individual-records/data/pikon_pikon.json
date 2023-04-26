@@ -1,0 +1,29 @@
+{
+  "literal": "pikon pikon",
+  "katakana": [
+    "ピコ ピコ"
+  ],
+  "hiragana": [
+    "ぴこ ぴこ"
+  ],
+  "definition": [
+    {
+      "meaning": "the repetitive beeps of generic video games",
+      "equivalent": [
+        "beep beep",
+        "ping ping",
+        "bing bing",
+        "ba-ding ba-ding",
+        "ding ding"
+      ],
+      "example": [
+        {
+          "source": "nete_kunoichi",
+          "file": "pikon_pikon-1a",
+          "display": "ピコ  ピコ  ピコ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

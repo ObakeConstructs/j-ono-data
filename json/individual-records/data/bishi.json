@@ -1,33 +1,37 @@
 {
-  "hiragana": [
-    "びし",
-    "びしっ",
-    "びしー",
-    "びしーっ"
-  ],
+  "literal": "bishi",
   "katakana": [
     "ビシ",
     "ビシッ",
     "ビシー",
     "ビシーッ"
   ],
+  "hiragana": [
+    "びし",
+    "びしっ",
+    "びしー",
+    "びしーっ"
+  ],
   "definition": [
     {
+      "meaning": "a sudden stop of all movement as a reaction",
       "equivalent": [
         "freeze",
         "snap",
         "stiffen",
         "straighten"
       ],
-      "meaning": "a sudden stop of all movement as a reaction",
-      "example": [{
-        "file": "bishi-1a",
-        "contributor": "",
-        "display": "びしっ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "bishi-1a",
+          "display": "びしっ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "a light strike with an empty hand hand or something in hand",
       "equivalent": [
         "bop",
         "chop",
@@ -42,28 +46,44 @@
         "thwack",
         "whap"
       ],
-      "meaning": "a light strike with an empty hand hand or something in hand",
-      "example": [{
-        "file": "bishi-2a",
-        "contributor": "",
-        "display": "ビシッ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "bishi-2a",
+          "display": "ビシッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "the sound of an arrow landing or hitting something",
       "equivalent": [
         "thud",
         "thunk",
         "thwack"
       ],
-      "meaning": "the sound of an arrow landing or hitting something",
-      "example": [{
-        "file": "bishi-3a",
-        "contributor": "",
-        "display": "ビシッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "bishi-3a",
+          "display": "ビシッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the act of pointing at something",
+      "equivalent": [
+        "point"
+      ],
+      "example": [
+        {
+          "source": "nete_kunoichi",
+          "file": "bishi-4a",
+          "display": "ビシッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "bishi"
+  ]
 }

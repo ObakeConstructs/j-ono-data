@@ -1,36 +1,57 @@
 {
-  "hiragana": [
-    "ぴ",
-    "ぴっ"
-  ],
+  "literal": "pi",
   "katakana": [
     "ピ",
     "ピッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "beep",
-      "bing",
-      "chime",
-      "ding",
-      "peep",
-      "ping"
-    ],
-    "meaning": "a short electronic beep or similar high-pitched noise",
-    "example": [
-      {
-        "file": "pi-1a",
-        "contributor": "",
-        "display": "ピッ",
-        "source": "modern_dungeon_capture"
-      },
-      {
-        "file": "pi-1b",
-        "contributor": "",
-        "display": "ピ",
-        "source": "different_world_smartphone"
-      }
-    ]
-  }],
-  "literal": "pi"
+  "hiragana": [
+    "ぴ",
+    "ぴっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a short electronic beep or similar high-pitched noise",
+      "equivalent": [
+        "beep",
+        "bing",
+        "chime",
+        "ding",
+        "peep",
+        "ping"
+      ],
+      "example": [
+        {
+          "source": "modern_dungeon_capture",
+          "file": "pi-1a",
+          "display": "ピッ",
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "pi-1b",
+          "display": "ピ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "to show or present something quickly or dramatically",
+      "equivalent": [
+        "present",
+        "show",
+        "ta-da",
+        "reveal",
+        "ping",
+        "ding"
+      ],
+      "example": [
+        {
+          "source": "nete_kunoichi",
+          "file": "pi-2a",
+          "display": "ピッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

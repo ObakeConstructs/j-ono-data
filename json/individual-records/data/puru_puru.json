@@ -1,20 +1,34 @@
 {
-  "hiragana": ["ぷるぷる"],
-  "katakana": ["プルプル"],
-  "definition": [{
-    "equivalent": [
-      "quiver",
-      "shiver",
-      "shudder",
-      "tremble"
-    ],
-    "meaning": "an indication of shaking, as from cold, fear, or effort",
-    "example": [{
-      "file": "puru_puru-1a",
-      "contributor": "",
-      "display": "ぷる  ぷる",
-      "source": "s_rank_behemoth"
-    }]
-  }],
-  "literal": "puru puru"
+  "literal": "puru puru",
+  "katakana": [
+    "プルプル"
+  ],
+  "hiragana": [
+    "ぷるぷる"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of shaking, as from cold, fear, or effort",
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "puru_puru-1a",
+          "display": "ぷる  ぷる",
+          "contributor": ""
+        },
+        {
+          "source": "nete_kunoichi",
+          "file": "puru_puru-1b",
+          "display": "プル  プル",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
