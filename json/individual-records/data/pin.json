@@ -1,0 +1,31 @@
+{
+  "literal": "pin",
+  "katakana": [
+    "ぴん",
+    "ぴーん"
+  ],
+  "hiragana": [
+    "ピン",
+    "ピーン"
+  ],
+  "definition": [
+    {
+      "meaning": "to suddenly approach someone or appear next to someone",
+      "equivalent": [
+        "zoom",
+        "appear",
+        "flash",
+        "zip",
+        "fwip"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "pin-1a",
+          "display": "ぴーん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

@@ -387,6 +387,12 @@
             "contributor": "",
             "display": "バサ",
             "source": "weakest_occupation_blacksmith"
+          },
+          {
+            "file": "basa-1c",
+            "contributor": "",
+            "display": "ばさッ",
+            "source": "modern_dungeon_capture"
           }
         ]
       },
@@ -1405,7 +1411,8 @@
           "jolt",
           "quiver",
           "shake",
-          "shiver shudder",
+          "shiver",
+          "shudder",
           "tremble",
           "wobble"
         ],
@@ -4291,6 +4298,37 @@
   },
   {
     "hiragana": [
+      "がしゃ",
+      "がしゃっ"
+    ],
+    "katakana": [
+      "ガシャ",
+      "ガシャッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "clack",
+        "clang",
+        "clank",
+        "clash",
+        "clatter",
+        "clunk",
+        "crack",
+        "crunch",
+        "ker-chunk"
+      ],
+      "meaning": "a short sharp noises ",
+      "example": [{
+        "file": "gasha-1a",
+        "contributor": "",
+        "display": "ガシャッ",
+        "source": "modern_dungeon_capture"
+      }]
+    }],
+    "literal": "gasha"
+  },
+  {
+    "hiragana": [
       "がしゃん",
       "がしゃーん",
       "がしゃぁん",
@@ -4936,6 +4974,35 @@
       }
     ],
     "literal": "go"
+  },
+  {
+    "hiragana": [
+      "ごごご",
+      "ごごごご",
+      "ごごごごご"
+    ],
+    "katakana": [
+      "ゴゴゴ",
+      "ゴゴゴゴ",
+      "ゴゴゴゴゴ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "grind grind grind",
+        "groan groan groan",
+        "rasp rasp rasp",
+        "rumble rumble rumble",
+        "scrape scrape scrape"
+      ],
+      "meaning": "a harsh rumbling or grinding noise",
+      "example": [{
+        "file": "gogogo-1a",
+        "contributor": "",
+        "display": "ゴゴゴゴゴ",
+        "source": "modern_dungeon_capture"
+      }]
+    }],
+    "literal": "gogogo"
   },
   {
     "hiragana": [
@@ -7429,12 +7496,20 @@
         "twinkle twinkle"
       ],
       "meaning": "to give off or reflect bright moving points of light",
-      "example": [{
-        "file": "kira_kira-1a",
-        "contributor": "",
-        "display": "キラ  キラ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "kira_kira-1a",
+          "contributor": "",
+          "display": "キラ  キラ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "kira_kira-1b",
+          "contributor": "",
+          "display": "キラ  キラ",
+          "source": "s_rank_behemoth"
+        }
+      ]
     }],
     "literal": "kira kira"
   },
@@ -10130,6 +10205,33 @@
     "literal": "piku piku"
   },
   {
+    "hiragana": [
+      "ピン",
+      "ピーン"
+    ],
+    "katakana": [
+      "ぴん",
+      "ぴーん"
+    ],
+    "definition": [{
+      "equivalent": [
+        "appear",
+        "flash",
+        "fwip",
+        "zip",
+        "zoom"
+      ],
+      "meaning": "to suddenly approach someone or appear next to someone",
+      "example": [{
+        "file": "pin-1a",
+        "contributor": "",
+        "display": "ぴーん",
+        "source": "s_rank_behemoth"
+      }]
+    }],
+    "literal": "pin"
+  },
+  {
     "hiragana": ["ぴんぽーん"],
     "katakana": ["ピンポーン"],
     "definition": [{
@@ -10378,6 +10480,7 @@
     "katakana": ["ポコポコ"],
     "definition": [{
       "equivalent": [
+        "blub blub",
         "boil boil",
         "bop bop",
         "bubble bubble"
@@ -13420,6 +13523,12 @@
           "contributor": "",
           "display": "ザッ  ザッ",
           "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "za_za-1c",
+          "contributor": "",
+          "display": "ザ ザ",
+          "source": "modern_dungeon_capture"
         }
       ]
     }],

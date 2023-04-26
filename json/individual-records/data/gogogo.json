@@ -1,0 +1,33 @@
+{
+  "literal": "gogogo",
+  "katakana": [
+    "ゴゴゴ",
+    "ゴゴゴゴ",
+    "ゴゴゴゴゴ"
+  ],
+  "hiragana": [
+    "ごごご",
+    "ごごごご",
+    "ごごごごご"
+  ],
+  "definition": [
+    {
+      "meaning": "a harsh rumbling or grinding noise",
+      "equivalent": [
+        "grind grind grind",
+        "rasp rasp rasp",
+        "rumble rumble rumble",
+        "scrape scrape scrape",
+        "groan groan groan"
+      ],
+      "example": [
+        {
+          "source": "modern_dungeon_capture",
+          "file": "gogogo-1a",
+          "display": "ゴゴゴゴゴ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,41 +1,49 @@
 {
-  "hiragana": [
-    "ばさ",
-    "ばさっ",
-    "ばさぁ",
-    "ばさあ"
-  ],
+  "literal": "basa",
   "katakana": [
     "バサ",
     "バサッ",
     "バサァ",
     "バサア"
   ],
+  "hiragana": [
+    "ばさ",
+    "ばさっ",
+    "ばさぁ",
+    "ばさあ"
+  ],
   "definition": [
     {
+      "meaning": "soft sounds of cloth or paper movement",
       "equivalent": [
         "crinkle",
         "flap",
         "rustle",
         "swish"
       ],
-      "meaning": "soft sounds of cloth or paper movement",
       "example": [
         {
+          "source": "hello_work",
           "file": "basa-1a",
-          "contributor": "",
           "display": "バサ",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "weakest_occupation_blacksmith",
           "file": "basa-1b",
-          "contributor": "",
           "display": "バサ",
-          "source": "weakest_occupation_blacksmith"
+          "contributor": ""
+        },
+        {
+          "source": "modern_dungeon_capture",
+          "file": "basa-1c",
+          "display": "ばさッ",
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "to suddenly appear, as in a dramatic \"reveal\"",
       "equivalent": [
         "appear",
         "arrive",
@@ -48,14 +56,14 @@
         "ta-da",
         "unveil"
       ],
-      "meaning": "to suddenly appear, as in a dramatic \"reveal\"",
-      "example": [{
-        "file": "basa-2a",
-        "contributor": "",
-        "display": "バサア",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "basa-2a",
+          "display": "バサア",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "basa"
+  ]
 }

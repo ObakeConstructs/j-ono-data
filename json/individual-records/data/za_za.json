@@ -15,9 +15,9 @@
         "crunch crunch",
         "crush",
         "step step",
-        "walk",
         "stomp stomp",
-        "stroll"
+        "stroll",
+        "walk"
       ],
       "example": [
         {
@@ -30,6 +30,12 @@
           "source": "abandoned_reincarnation_sage",
           "file": "za_za-1b",
           "display": "ザッ  ザッ",
+          "contributor": ""
+        },
+        {
+          "source": "modern_dungeon_capture",
+          "file": "za_za-1c",
+          "display": "ザ ザ",
           "contributor": ""
         }
       ]
