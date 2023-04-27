@@ -1691,6 +1691,34 @@
   },
   {
     "hiragana": [
+      "ぶ ぶ",
+      "ぶっ ぶっ",
+      "ぶー ぶー",
+      "ぶーっ ぶーっ"
+    ],
+    "katakana": [
+      "ブ  ブ",
+      "ブッ ブッ",
+      "ブー ブー",
+      "ブーッ ブーッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "boop boop",
+        "buzz buzz"
+      ],
+      "meaning": "a low-pitched beeping or buzzing sound",
+      "example": [{
+        "file": "bu_bu-1a",
+        "contributor": "",
+        "display": "ブー  ブー",
+        "source": "nete_kunoichi"
+      }]
+    }],
+    "literal": "bu bu"
+  },
+  {
+    "hiragana": [
       "びゅ",
       "びゅっ",
       "びゅー",
@@ -3708,6 +3736,12 @@
             "contributor": "",
             "display": "ガバッ",
             "source": "strongest_magician_was_human"
+          },
+          {
+            "file": "gaba-1c",
+            "contributor": "",
+            "display": "ガバッ",
+            "source": "nete_kunoichi"
           }
         ]
       },
@@ -7032,7 +7066,7 @@
         "ker-chak",
         "rattle"
       ],
-      "meaning": "a couple short, sharp clicks or clinks, as from dishes or door latches",
+      "meaning": "short, sharp clicks or clinks",
       "example": [
         {
           "file": "kacha-1a",
@@ -7062,7 +7096,7 @@
         "ker-chak",
         "rattle"
       ],
-      "meaning": "a couple short, sharp clicks or clinks, as from dishes or door latches",
+      "meaning": "short, sharp clicks or clinks",
       "example": [{
         "file": "kachan-1a",
         "contributor": "",
@@ -7084,13 +7118,21 @@
         "ker-chak",
         "rattle"
       ],
-      "meaning": "a series of short, sharp clicks or clinks, as from dishes or door latches",
-      "example": [{
-        "file": "kacha_kacha-1a",
-        "contributor": "",
-        "display": "カチャ  カチャ",
-        "source": "reincarnated_aristocrat"
-      }]
+      "meaning": "a series of short, sharp clicks or clinks",
+      "example": [
+        {
+          "file": "kacha_kacha-1a",
+          "contributor": "",
+          "display": "カチャ  カチャ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "kacha_kacha-1b",
+          "contributor": "",
+          "display": "カチャ  カチャ",
+          "source": "nete_kunoichi"
+        }
+      ]
     }],
     "literal": "kacha kacha"
   },
@@ -7374,6 +7416,31 @@
       }]
     }],
     "literal": "katsun"
+  },
+  {
+    "hiragana": [
+      "けほ",
+      "けほっ"
+    ],
+    "katakana": [
+      "ケホ",
+      "ケホッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cough",
+        "hack",
+        "whoop"
+      ],
+      "meaning": "The sound of someone coughing",
+      "example": [{
+        "file": "keho-1a",
+        "contributor": "",
+        "display": "ケホッ  ケホ",
+        "source": "nete_kunoichi"
+      }]
+    }],
+    "literal": "keho"
   },
   {
     "hiragana": ["けたけた"],
@@ -8501,6 +8568,26 @@
       }]
     }],
     "literal": "moji"
+  },
+  {
+    "hiragana": ["もじ もじ"],
+    "katakana": ["モジ モジ"],
+    "definition": [{
+      "equivalent": [
+        "bashful",
+        "embarrassed",
+        "hesitation",
+        "shy"
+      ],
+      "meaning": "an expression of shyness or hesitation",
+      "example": [{
+        "file": "moji_moji-1a",
+        "contributor": "",
+        "display": "もじ  もじ",
+        "source": "nete_kunoichi"
+      }]
+    }],
+    "literal": "moji moji"
   },
   {
     "hiragana": ["もきゅもきゅ"],

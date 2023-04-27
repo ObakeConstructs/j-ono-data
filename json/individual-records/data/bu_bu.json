@@ -1,0 +1,32 @@
+{
+  "literal": "bu bu",
+  "katakana": [
+    "ブ  ブ",
+    "ブッ ブッ",
+    "ブー ブー",
+    "ブーッ ブーッ"
+  ],
+  "hiragana": [
+    "ぶ ぶ",
+    "ぶっ ぶっ",
+    "ぶー ぶー",
+    "ぶーっ ぶーっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a low-pitched beeping or buzzing sound",
+      "equivalent": [
+        "boop boop",
+        "buzz buzz"
+      ],
+      "example": [
+        {
+          "source": "nete_kunoichi",
+          "file": "bu_bu-1a",
+          "display": "ブー  ブー",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

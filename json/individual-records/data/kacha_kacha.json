@@ -1,22 +1,36 @@
 {
-  "hiragana": ["かちゃかちゃ"],
-  "katakana": ["カチャカチャ"],
-  "definition": [{
-    "equivalent": [
-      "clack clack",
-      "clatter",
-      "click click",
-      "clink clink",
-      "ker-chak",
-      "rattle"
-    ],
-    "meaning": "a series of short, sharp clicks or clinks, as from dishes or door latches",
-    "example": [{
-      "file": "kacha_kacha-1a",
-      "contributor": "",
-      "display": "カチャ  カチャ",
-      "source": "reincarnated_aristocrat"
-    }]
-  }],
-  "literal": "kacha kacha"
+  "literal": "kacha kacha",
+  "katakana": [
+    "カチャカチャ"
+  ],
+  "hiragana": [
+    "かちゃかちゃ"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of short, sharp clicks or clinks",
+      "equivalent": [
+        "clack clack",
+        "clatter",
+        "click click",
+        "clink clink",
+        "ker-chak",
+        "rattle"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "kacha_kacha-1a",
+          "display": "カチャ  カチャ",
+          "contributor": ""
+        },
+        {
+          "source": "nete_kunoichi",
+          "file": "kacha_kacha-1b",
+          "display": "カチャ  カチャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,36 +1,38 @@
 {
-  "hiragana": [
-    "かちゃ",
-    "かちゃっ"
-  ],
+  "literal": "kacha",
   "katakana": [
     "カチャ",
     "カチャッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clack",
-      "clatter",
-      "click",
-      "clink",
-      "ker-chak",
-      "rattle"
-    ],
-    "meaning": "a couple short, sharp clicks or clinks, as from dishes or door latches",
-    "example": [
-      {
-        "file": "kacha-1a",
-        "contributor": "",
-        "display": "カチャ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "kacha-1b",
-        "contributor": "",
-        "display": "カチャ",
-        "source": "dog_became_strongest"
-      }
-    ]
-  }],
-  "literal": "kacha"
+  "hiragana": [
+    "かちゃ",
+    "かちゃっ"
+  ],
+  "definition": [
+    {
+      "meaning": "short, sharp clicks or clinks",
+      "equivalent": [
+        "clack",
+        "clatter",
+        "click",
+        "clink",
+        "ker-chak",
+        "rattle"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "kacha-1a",
+          "display": "カチャ",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "kacha-1b",
+          "display": "カチャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
