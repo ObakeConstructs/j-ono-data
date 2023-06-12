@@ -18,12 +18,12 @@
         "dejected",
         "depressed",
         "down",
-        "glum",
-        "sad",
-        "unhappy",
         "gloom",
+        "glum",
         "grief",
-        "sorrow"
+        "sad",
+        "sorrow",
+        "unhappy"
       ],
       "example": [
         {
@@ -36,6 +36,12 @@
           "source": "peter_grill",
           "file": "shun-1b",
           "display": "シューンッ",
+          "contributor": ""
+        },
+        {
+          "source": "hero_or_demon_king",
+          "file": "shun-1c",
+          "display": "シュン",
           "contributor": ""
         }
       ]

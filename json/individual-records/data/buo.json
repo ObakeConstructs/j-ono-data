@@ -18,18 +18,26 @@
   ],
   "definition": [
     {
-      "meaning": "a sudden or brief gust of wind",
+      "meaning": "a sudden wind or a wind-like sound, can be gentle or intense depending on context",
       "equivalent": [
-        "blow",
-        "puff",
         "blast",
+        "blow",
         "breeze",
-        "whoosh"
+        "puff",
+        "whoosh",
+        "voom",
+        "rustle"
       ],
       "example": [
         {
           "source": "otherworld_material_collector",
           "file": "buo-1a",
+          "display": "ブォォォ",
+          "contributor": ""
+        },
+        {
+          "source": "hero_or_demon_king",
+          "file": "buo-1b",
           "display": "ブォォォ",
           "contributor": ""
         }

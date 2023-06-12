@@ -399,6 +399,12 @@
             "contributor": "",
             "display": "バサッ",
             "source": "nete_kunoichi"
+          },
+          {
+            "file": "basa-1e",
+            "contributor": "",
+            "display": "バサ",
+            "source": "hero_or_demon_king"
           }
         ]
       },
@@ -1374,6 +1380,26 @@
     "literal": "bufu"
   },
   {
+    "hiragana": ["ぶか"],
+    "katakana": ["ブカ"],
+    "definition": [{
+      "equivalent": [
+        "baggy",
+        "loose",
+        "saggy",
+        "too big"
+      ],
+      "meaning": "ill-fitted or baggy clothes",
+      "example": [{
+        "file": "buka-1a",
+        "contributor": "",
+        "display": "ブカ",
+        "source": "hero_or_demon_king"
+      }]
+    }],
+    "literal": "buka"
+  },
+  {
     "hiragana": ["ぶくぶく"],
     "katakana": ["ブクブク"],
     "definition": [{
@@ -1507,15 +1533,25 @@
         "blow",
         "breeze",
         "puff",
+        "rustle",
+        "voom",
         "whoosh"
       ],
-      "meaning": "a sudden or brief gust of wind",
-      "example": [{
-        "file": "buo-1a",
-        "contributor": "",
-        "display": "ブォォォ",
-        "source": "otherworld_material_collector"
-      }]
+      "meaning": "a sudden wind or a wind-like sound, can be gentle or intense depending on context",
+      "example": [
+        {
+          "file": "buo-1a",
+          "contributor": "",
+          "display": "ブォォォ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "buo-1b",
+          "contributor": "",
+          "display": "ブォォォ",
+          "source": "hero_or_demon_king"
+        }
+      ]
     }],
     "literal": "buo"
   },
@@ -6612,6 +6648,39 @@
   },
   {
     "hiragana": [
+      "いら",
+      "いらっ"
+    ],
+    "katakana": [
+      "イラ",
+      "イラッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "aggravated",
+        "annoyed",
+        "hmph",
+        "irked",
+        "irritated",
+        "narked",
+        "peeved",
+        "pissed",
+        "riled",
+        "unamused",
+        "vexed"
+      ],
+      "meaning": "an expression of annoyance",
+      "example": [{
+        "file": "ira-1a",
+        "contributor": "",
+        "display": "イラッ",
+        "source": "hero_or_demon_king"
+      }]
+    }],
+    "literal": "ira"
+  },
+  {
+    "hiragana": [
       "いたい",
       "いたーい"
     ],
@@ -8195,6 +8264,28 @@
       ]
     }],
     "literal": "kuru"
+  },
+  {
+    "hiragana": ["くるん"],
+    "katakana": ["クルン"],
+    "definition": [{
+      "equivalent": [
+        "pivot",
+        "spin",
+        "swing",
+        "swivel",
+        "turn",
+        "twist"
+      ],
+      "meaning": "the act of turning something, typically oneself",
+      "example": [{
+        "file": "kurun-1a",
+        "contributor": "",
+        "display": "くるン",
+        "source": "hero_or_demon_king"
+      }]
+    }],
+    "literal": "kurun"
   },
   {
     "hiragana": ["くるくる"],
@@ -9876,12 +9967,20 @@
         "truckle truckle"
       ],
       "meaning": "to bow, grovel or otherwise ingratiate  oneself with a superior",
-      "example": [{
-        "file": "peko_peko-1a",
-        "contributor": "",
-        "display": "ペコ  ペコ",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "file": "peko_peko-1a",
+          "contributor": "",
+          "display": "ペコ  ペコ",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "peko_peko-1b",
+          "contributor": "",
+          "display": "ペコ  ペコ  ペコ",
+          "source": "hero_or_demon_king"
+        }
+      ]
     }],
     "literal": "peko peko"
   },
@@ -11692,6 +11791,12 @@
             "contributor": "",
             "display": "シューンッ",
             "source": "peter_grill"
+          },
+          {
+            "file": "shun-1c",
+            "contributor": "",
+            "display": "シュン",
+            "source": "hero_or_demon_king"
           }
         ]
       },
@@ -14139,6 +14244,12 @@
           "contributor": "",
           "display": "ずうーん",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "zun-1d",
+          "contributor": "",
+          "display": "ズゥゥゥン",
+          "source": "hero_or_demon_king"
         }
       ]
     }],
