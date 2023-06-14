@@ -44,6 +44,12 @@
           "file": "su-1b",
           "display": "すー...",
           "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "su-1c",
+          "display": "スッ",
+          "contributor": ""
         }
       ]
     },
@@ -56,14 +62,14 @@
         "give",
         "grab",
         "hand over",
+        "hold",
         "pass",
         "raise",
         "reach",
         "slide",
         "stop",
         "take",
-        "yield",
-        "hold"
+        "yield"
       ],
       "example": [
         {
@@ -87,12 +93,6 @@
         {
           "source": "otherworld_material_collector",
           "file": "su-2d",
-          "display": "スッ",
-          "contributor": ""
-        },
-        {
-          "source": "strongest_magician_was_human",
-          "file": "su-2e",
           "display": "スッ",
           "contributor": ""
         }

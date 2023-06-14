@@ -1,29 +1,39 @@
 {
-  "hiragana": [
-    "ひし",
-    "ひしっ"
-  ],
+  "literal": "hishi",
   "katakana": [
     "ヒシ",
     "ヒシッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clasp",
-      "cradle",
-      "embrace",
-      "grasp",
-      "hold",
-      "hug",
-      "squeeze"
-    ],
-    "meaning": "the act of putting one's arms around someone and holding tightly, typically expressing strong emotions",
-    "example": [{
-      "file": "hishi-1a",
-      "contributor": "",
-      "display": "ひしっ",
-      "source": "abandoned_reincarnation_sage"
-    }]
-  }],
-  "literal": "hishi"
+  "hiragana": [
+    "ひし",
+    "ひしっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the act of putting one's arms around someone and holding tightly, typically expressing strong emotions",
+      "equivalent": [
+        "clasp",
+        "cradle",
+        "embrace",
+        "grasp",
+        "hold",
+        "hug",
+        "squeeze"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "hishi-1a",
+          "display": "ひしっ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "hishi-1b",
+          "display": "ひしっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

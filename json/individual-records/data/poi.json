@@ -1,40 +1,48 @@
 {
-  "hiragana": [
-    "ぽい",
-    "ぽいっ",
-    "ぽぃ",
-    "ぽぃっ"
-  ],
+  "literal": "poi",
   "katakana": [
     "ポイ",
     "ポイッ",
     "ポィ",
     "ポィッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "chuck",
-      "discard",
-      "junk",
-      "throw away",
-      "toss",
-      "unload"
-    ],
-    "meaning": "to toss something away as useless or unwanted",
-    "example": [
-      {
-        "file": "poi-1a",
-        "contributor": "",
-        "display": "ぽい",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "poi-1b",
-        "contributor": "",
-        "display": "ポィ",
-        "source": "different_world_smartphone"
-      }
-    ]
-  }],
-  "literal": "poi"
+  "hiragana": [
+    "ぽい",
+    "ぽいっ",
+    "ぽぃ",
+    "ぽぃっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to toss something away as useless or unwanted",
+      "equivalent": [
+        "chuck",
+        "discard",
+        "junk",
+        "throw away",
+        "toss",
+        "unload"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "poi-1a",
+          "display": "ぽい",
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "poi-1b",
+          "display": "ポィ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "poi-1c",
+          "display": "ポィッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

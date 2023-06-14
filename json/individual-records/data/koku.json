@@ -1,22 +1,38 @@
 {
-  "hiragana": ["こく"],
-  "katakana": ["コク"],
-  "definition": [{
-    "equivalent": [
-      "agree",
-      "nod",
-      "okay",
-      "yeah",
-      "yep",
-      "yes"
-    ],
-    "meaning": "a quick nod of the head, typically to express agreement",
-    "example": [{
-      "file": "koku-1a",
-      "contributor": "",
-      "display": "コク",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "koku"
+  "literal": "koku",
+  "katakana": [
+    "コク",
+    "コクッ"
+  ],
+  "hiragana": [
+    "こく",
+    "こくっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a quick nod of the head, typically to express agreement",
+      "equivalent": [
+        "agree",
+        "nod",
+        "okay",
+        "yeah",
+        "yep",
+        "yes"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "koku-1a",
+          "display": "コク",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "koku-1b",
+          "display": "こくっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -24,9 +24,9 @@
         "blow",
         "breeze",
         "puff",
-        "whoosh",
+        "rustle",
         "voom",
-        "rustle"
+        "whoosh"
       ],
       "example": [
         {
@@ -34,10 +34,26 @@
           "file": "buo-1a",
           "display": "ブォォォ",
           "contributor": ""
-        },
+        }
+      ]
+    },
+    {
+      "meaning": "sound of a moving automobile",
+      "equivalent": [
+        "roar",
+        "rumble",
+        "vroom"
+      ],
+      "example": [
         {
           "source": "hero_or_demon_king",
-          "file": "buo-1b",
+          "file": "buo-2a",
+          "display": "ブォォォ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "buo-2b",
           "display": "ブォォォ",
           "contributor": ""
         }

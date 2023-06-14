@@ -1,0 +1,39 @@
+{
+  "literal": "poo",
+  "katakana": [
+    "ポォ",
+    "ポォォ",
+    "ポォォォ",
+    "ポオ",
+    "ポオオ",
+    "ポオオオ"
+  ],
+  "hiragana": [
+    "ぽぉ",
+    "ぽぉぉ",
+    "ぽぉぉぉ",
+    "ぽお",
+    "ぽおお",
+    "ぽおおお"
+  ],
+  "definition": [
+    {
+      "meaning": "the long, loud sound of a train whistle or air horn",
+      "equivalent": [
+        "blare",
+        "blast",
+        "hoot",
+        "toot",
+        "whistle"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "poo-1a",
+          "display": "ポォォォ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

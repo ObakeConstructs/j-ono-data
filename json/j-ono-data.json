@@ -355,6 +355,31 @@
   },
   {
     "hiragana": [
+      "ばりん",
+      "ばりーん"
+    ],
+    "katakana": [
+      "バリン",
+      "バリーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "rend",
+        "rip",
+        "tear"
+      ],
+      "meaning": "sound of paper tearing or ripping",
+      "example": [{
+        "file": "barin-1a",
+        "contributor": "",
+        "display": "バリーン",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "barin"
+  },
+  {
+    "hiragana": [
       "ばさ",
       "ばさっ",
       "ばさぁ",
@@ -616,6 +641,26 @@
       }]
     }],
     "literal": "bata bata"
+  },
+  {
+    "hiragana": ["ベリ ベリ"],
+    "katakana": ["ベリ ベリ"],
+    "definition": [{
+      "equivalent": [
+        "peel peel",
+        "rip rip",
+        "strip off",
+        "tear tear"
+      ],
+      "meaning": "the sound or action of stripping off the outer layer of something",
+      "example": [{
+        "file": "beri_beri-1a",
+        "contributor": "",
+        "display": "ベリ  ベリ  ベリ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "beri beri"
   },
   {
     "hiragana": ["べろん"],
@@ -1527,32 +1572,48 @@
       "ブォォ",
       "ブォォォ"
     ],
-    "definition": [{
-      "equivalent": [
-        "blast",
-        "blow",
-        "breeze",
-        "puff",
-        "rustle",
-        "voom",
-        "whoosh"
-      ],
-      "meaning": "a sudden wind or a wind-like sound, can be gentle or intense depending on context",
-      "example": [
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "blast",
+          "blow",
+          "breeze",
+          "puff",
+          "rustle",
+          "voom",
+          "whoosh"
+        ],
+        "meaning": "a sudden wind or a wind-like sound, can be gentle or intense depending on context",
+        "example": [{
           "file": "buo-1a",
           "contributor": "",
           "display": "ブォォォ",
           "source": "otherworld_material_collector"
-        },
-        {
-          "file": "buo-1b",
-          "contributor": "",
-          "display": "ブォォォ",
-          "source": "hero_or_demon_king"
-        }
-      ]
-    }],
+        }]
+      },
+      {
+        "equivalent": [
+          "roar",
+          "rumble",
+          "vroom"
+        ],
+        "meaning": "sound of a moving automobile",
+        "example": [
+          {
+            "file": "buo-2a",
+            "contributor": "",
+            "display": "ブォォォ",
+            "source": "hero_or_demon_king"
+          },
+          {
+            "file": "buo-2b",
+            "contributor": "",
+            "display": "ブォォォ",
+            "source": "spy_x_family"
+          }
+        ]
+      }
+    ],
     "literal": "buo"
   },
   {
@@ -3860,7 +3921,7 @@
             "file": "gacha-2a",
             "contributor": "",
             "display": "ガチャ",
-            "source": "d_genesis"
+            "source": "spy_x_family"
           },
           {
             "file": "gacha-2b",
@@ -6297,6 +6358,24 @@
     "literal": "hi"
   },
   {
+    "hiragana": ["ひっく"],
+    "katakana": ["ヒック"],
+    "definition": [{
+      "equivalent": [
+        "drunk",
+        "hiccup"
+      ],
+      "meaning": "a hiccup, often indicating a state of drunkeness",
+      "example": [{
+        "file": "hikku-1a",
+        "contributor": "",
+        "display": "ひっく",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "hikku"
+  },
+  {
     "hiragana": [
       "ひし",
       "ひしっ"
@@ -6316,12 +6395,20 @@
         "squeeze"
       ],
       "meaning": "the act of putting one's arms around someone and holding tightly, typically expressing strong emotions",
-      "example": [{
-        "file": "hishi-1a",
-        "contributor": "",
-        "display": "ひしっ",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "file": "hishi-1a",
+          "contributor": "",
+          "display": "ひしっ",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "hishi-1b",
+          "contributor": "",
+          "display": "ひしっ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "hishi"
   },
@@ -7364,13 +7451,21 @@
         "rustle",
         "swish"
       ],
-      "meaning": "a gentle, quiet sound of movement, as that of fabric or plants",
-      "example": [{
-        "file": "kasa-1a",
-        "contributor": "",
-        "display": "カサ",
-        "source": "dog_became_strongest"
-      }]
+      "meaning": "a gentle, quiet sound of movement, as that of fabric, paper, or plants",
+      "example": [
+        {
+          "file": "kasa-1a",
+          "contributor": "",
+          "display": "カサ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "kasa-1b",
+          "contributor": "",
+          "display": "カサ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "kasa"
   },
@@ -7826,8 +7921,14 @@
     "literal": "kohon"
   },
   {
-    "hiragana": ["こく"],
-    "katakana": ["コク"],
+    "hiragana": [
+      "こく",
+      "こくっ"
+    ],
+    "katakana": [
+      "コク",
+      "コクッ"
+    ],
     "definition": [{
       "equivalent": [
         "agree",
@@ -7838,12 +7939,20 @@
         "yes"
       ],
       "meaning": "a quick nod of the head, typically to express agreement",
-      "example": [{
-        "file": "koku-1a",
-        "contributor": "",
-        "display": "コク",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "koku-1a",
+          "contributor": "",
+          "display": "コク",
+          "source": "d_genesis"
+        },
+        {
+          "file": "koku-1b",
+          "contributor": "",
+          "display": "こくっ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "koku"
   },
@@ -10765,6 +10874,12 @@
           "contributor": "",
           "display": "ポィ",
           "source": "different_world_smartphone"
+        },
+        {
+          "file": "poi-1c",
+          "contributor": "",
+          "display": "ポィッ",
+          "source": "spy_x_family"
         }
       ]
     }],
@@ -10903,6 +11018,41 @@
       ]
     }],
     "literal": "pon pon"
+  },
+  {
+    "hiragana": [
+      "ぽぉ",
+      "ぽぉぉ",
+      "ぽぉぉぉ",
+      "ぽお",
+      "ぽおお",
+      "ぽおおお"
+    ],
+    "katakana": [
+      "ポォ",
+      "ポォォ",
+      "ポォォォ",
+      "ポオ",
+      "ポオオ",
+      "ポオオオ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blare",
+        "blast",
+        "hoot",
+        "toot",
+        "whistle"
+      ],
+      "meaning": "the long, loud sound of a train whistle or air horn",
+      "example": [{
+        "file": "poo-1a",
+        "contributor": "",
+        "display": "ポォォォ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "poo"
   },
   {
     "hiragana": ["ぽろ"],
@@ -11968,6 +12118,12 @@
             "contributor": "",
             "display": "すー...",
             "source": "different_world_smartphone"
+          },
+          {
+            "file": "su-1c",
+            "contributor": "",
+            "display": "スッ",
+            "source": "strongest_magician_was_human"
           }
         ]
       },
@@ -12013,12 +12169,6 @@
             "contributor": "",
             "display": "スッ",
             "source": "otherworld_material_collector"
-          },
-          {
-            "file": "su-2e",
-            "contributor": "",
-            "display": "スッ",
-            "source": "strongest_magician_was_human"
           }
         ]
       },
@@ -12129,8 +12279,14 @@
     "literal": "suku"
   },
   {
-    "hiragana": ["すん"],
-    "katakana": ["スン"],
+    "hiragana": [
+      "すん",
+      "すんっ"
+    ],
+    "katakana": [
+      "スン",
+      "スンッ"
+    ],
     "definition": [{
       "equivalent": [
         "calm",
@@ -12141,12 +12297,20 @@
         "tranquil"
       ],
       "meaning": "to express a calm and unruffled demeanor",
-      "example": [{
-        "file": "sun-1a",
-        "contributor": "",
-        "display": "すん",
-        "source": "dog_became_strongest"
-      }]
+      "example": [
+        {
+          "file": "sun-1a",
+          "contributor": "",
+          "display": "すん",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "sun-1b",
+          "contributor": "",
+          "display": "すんっ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "sun"
   },
@@ -12582,6 +12746,26 @@
       ]
     }],
     "literal": "tata"
+  },
+  {
+    "hiragana": ["たたん たたん"],
+    "katakana": ["タタン タタン"],
+    "definition": [{
+      "equivalent": [
+        "cla-clack cla-clack",
+        "clatter clatter",
+        "rattle rattle",
+        "ta-ta ta-ta"
+      ],
+      "meaning": "the sound of a train moving rapidly on its tracks",
+      "example": [{
+        "file": "tatan_tatan-1a",
+        "contributor": "",
+        "display": "タタン  タタン",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "tatan tatan"
   },
   {
     "hiragana": [
