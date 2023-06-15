@@ -8,7 +8,7 @@
   ],
   "definition": [
     {
-      "meaning": "an indication of shaking, as from cold, fear, or effort",
+      "meaning": "an indication of shaking or quivering",
       "equivalent": [
         "quiver",
         "shiver",
@@ -25,6 +25,12 @@
         {
           "source": "nete_kunoichi",
           "file": "puru_puru-1b",
+          "display": "プル  プル",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "puru_puru-1c",
           "display": "プル  プル",
           "contributor": ""
         }

@@ -2,11 +2,13 @@
   "literal": "dosa",
   "katakana": [
     "ドサ",
-    "ドサッ"
+    "ドサッ",
+    "ドササッ"
   ],
   "hiragana": [
     "どさ",
-    "どさっ"
+    "どさっ",
+    "どささっ"
   ],
   "definition": [
     {
@@ -43,12 +45,12 @@
     {
       "meaning": "to place or drop something onto a hard surface, often with a noticable sound",
       "equivalent": [
-        "thump",
-        "whump",
-        "place",
-        "set",
         "deposit",
-        "plunk"
+        "place",
+        "plunk",
+        "set",
+        "thump",
+        "whump"
       ],
       "example": [
         {
@@ -58,9 +60,9 @@
           "contributor": ""
         },
         {
-          "source": "otherworld_material_collector",
+          "source": "spy_x_family",
           "file": "dosa-2b",
-          "display": "ドサッ",
+          "display": "ドササッ",
           "contributor": ""
         },
         {

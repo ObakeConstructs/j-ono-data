@@ -1,21 +1,39 @@
 {
-  "hiragana": ["ぱら"],
-  "katakana": ["パラ"],
-  "definition": [{
-    "equivalent": [
-      "flip",
-      "riffle",
-      "skim",
-      "thumb",
-      "turn"
-    ],
-    "meaning": "sound of turning pages of paper",
-    "example": [{
-      "file": "para-1a",
-      "contributor": "",
-      "display": "パラ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "para"
+  "literal": "para",
+  "katakana": [
+    "パラ",
+    "パララ",
+    "パラララ"
+  ],
+  "hiragana": [
+    "ぱら",
+    "ぱらら",
+    "ぱららら"
+  ],
+  "definition": [
+    {
+      "meaning": "sound of turning or riffling through paper pages",
+      "equivalent": [
+        "flip",
+        "riffle",
+        "skim",
+        "thumb",
+        "turn"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "para-1a",
+          "display": "パラ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "para-1b",
+          "display": "パラララ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

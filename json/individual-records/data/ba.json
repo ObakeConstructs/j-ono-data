@@ -36,15 +36,15 @@
     {
       "meaning": "a sudden and/or fast movement",
       "equivalent": [
+        "charge",
+        "dash",
         "fwip",
         "fwit",
         "pop",
+        "shoom",
         "snap",
-        "zip",
-        "charge",
-        "dash",
         "whoom",
-        "shoom"
+        "zip"
       ],
       "example": [
         {
@@ -95,6 +95,24 @@
           "source": "d_genesis",
           "file": "ba-3a",
           "display": "バッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "to reveal or show something",
+      "equivalent": [
+        "show",
+        "reveal",
+        "display",
+        "unveil",
+        "ta-da"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "ba-4a",
+          "display": "ばっ",
           "contributor": ""
         }
       ]

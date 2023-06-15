@@ -1,26 +1,36 @@
 {
-  "hiragana": [
-    "すぴ",
-    "すぴー"
-  ],
+  "literal": "supi",
   "katakana": [
     "スピ",
     "スピー"
   ],
-  "definition": [{
-    "equivalent": [
-      "beath",
-      "huff",
-      "whiff",
-      "zzz"
-    ],
-    "meaning": "soft breathing while sleeping or quietly snoring",
-    "example": [{
-      "file": "supi-1a",
-      "contributor": "",
-      "display": "すぴー",
-      "source": "abandoned_reincarnation_sage"
-    }]
-  }],
-  "literal": "supi"
+  "hiragana": [
+    "すぴ",
+    "すぴー"
+  ],
+  "definition": [
+    {
+      "meaning": "soft breathing while sleeping or quietly snoring",
+      "equivalent": [
+        "beath",
+        "huff",
+        "whiff",
+        "zzz"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "supi-1a",
+          "display": "すぴー",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "supi-1b",
+          "display": "すぴー",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

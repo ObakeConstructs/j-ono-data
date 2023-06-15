@@ -1,29 +1,41 @@
 {
-  "hiragana": ["きょろきょろ"],
-  "katakana": ["キョロキョロ"],
-  "definition": [{
-    "equivalent": [
-      "glance glance",
-      "glimpse glimpse",
-      "look look",
-      "search search",
-      "view view"
-    ],
-    "meaning": "to look around or search hastily",
-    "example": [
-      {
-        "file": "kyoro_kyoro-1a",
-        "contributor": "",
-        "display": "キョロ  キョロ",
-        "source": "weakest_occupation_blacksmith"
-      },
-      {
-        "file": "kyoro_kyoro-1b",
-        "contributor": "",
-        "display": "キョロ  キョロ",
-        "source": "abandoned_reincarnation_sage"
-      }
-    ]
-  }],
-  "literal": "kyoro kyoro"
+  "literal": "kyoro kyoro",
+  "katakana": [
+    "キョロキョロ"
+  ],
+  "hiragana": [
+    "きょろきょろ"
+  ],
+  "definition": [
+    {
+      "meaning": "to look around or search hastily",
+      "equivalent": [
+        "glance glance",
+        "glimpse glimpse",
+        "look look",
+        "search search",
+        "view view"
+      ],
+      "example": [
+        {
+          "source": "weakest_occupation_blacksmith",
+          "file": "kyoro_kyoro-1a",
+          "display": "キョロ  キョロ",
+          "contributor": ""
+        },
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "kyoro_kyoro-1b",
+          "display": "キョロ  キョロ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "kyoro_kyoro-1c",
+          "display": "キョロ  キョロ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

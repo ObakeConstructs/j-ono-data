@@ -8,14 +8,17 @@
   ],
   "definition": [
     {
-      "meaning": "a rolling or turning movement",
+      "meaning": "an indication of rolling over or falling over",
       "equivalent": [
         "rock",
         "roll",
         "roll over",
         "spin",
         "tumble",
-        "turn"
+        "turn",
+        "roll",
+        "thump",
+        "fall"
       ],
       "example": [
         {
@@ -27,6 +30,12 @@
         {
           "source": "nete_kunoichi",
           "file": "goron-1b",
+          "display": "ゴロン",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "goron-1c",
           "display": "ゴロン",
           "contributor": ""
         }

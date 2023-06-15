@@ -1,42 +1,50 @@
 {
-  "hiragana": [
-    "ぴた",
-    "ぴたっ"
-  ],
+  "literal": "pita",
   "katakana": [
     "ピタ",
     "ピタッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "break off",
-      "cease",
-      "check",
-      "freeze",
-      "halt",
-      "stop"
-    ],
-    "meaning": "to bring something to an immediate end or standstill",
-    "example": [
-      {
-        "file": "pita-1a",
-        "contributor": "",
-        "display": "ピタッ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "pita-1b",
-        "contributor": "",
-        "display": "ぴたっ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "pita-1c",
-        "contributor": "",
-        "display": "ピタ",
-        "source": "reincarnated_sage_daughters"
-      }
-    ]
-  }],
-  "literal": "pita"
+  "hiragana": [
+    "ぴた",
+    "ぴたっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to bring something to an immediate end or standstill",
+      "equivalent": [
+        "break off",
+        "cease",
+        "check",
+        "freeze",
+        "halt",
+        "stop"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "pita-1a",
+          "display": "ピタッ",
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "pita-1b",
+          "display": "ぴたっ",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_sage_daughters",
+          "file": "pita-1c",
+          "display": "ピタ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "pita-1d",
+          "display": "ぴたっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

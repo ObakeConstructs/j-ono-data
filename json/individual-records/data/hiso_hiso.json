@@ -1,18 +1,32 @@
 {
-  "hiragana": ["ひそひそ"],
-  "katakana": ["ヒソヒソ"],
-  "definition": [{
-    "equivalent": [
-      "softly",
-      "whisper"
-    ],
-    "meaning": "to speak quietly in order to not be overheard",
-    "example": [{
-      "file": "hiso_hiso-1a",
-      "contributor": "",
-      "display": "ヒソ  ヒソ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "hiso hiso"
+  "literal": "hiso hiso",
+  "katakana": [
+    "ヒソヒソ"
+  ],
+  "hiragana": [
+    "ひそひそ"
+  ],
+  "definition": [
+    {
+      "meaning": "to speak quietly in order to not be overheard",
+      "equivalent": [
+        "softly",
+        "whisper"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "hiso_hiso-1a",
+          "display": "ヒソ  ヒソ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "hiso_hiso-1b",
+          "display": "ひそ  ひそ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

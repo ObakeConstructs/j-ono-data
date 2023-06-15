@@ -50,16 +50,32 @@
       ]
     },
     {
-      "meaning": "to vanish or cause something to vanish",
+      "meaning": "a sudden and/or fast movement",
       "equivalent": [
-        "disappear",
-        "fade",
-        "vanish"
+        "fwip",
+        "fwit",
+        "fwoom",
+        "pop",
+        "shoom",
+        "snap",
+        "whoom"
       ],
       "example": [
         {
-          "source": "d_genesis",
+          "source": "spy_x_family",
           "file": "fu-2a",
+          "display": "フッ",
+          "contributor": ""
+        },
+        {
+          "source": "world_full_of_monsters",
+          "file": "fu-2b",
+          "display": "フーッ",
+          "contributor": ""
+        },
+        {
+          "source": "d_genesis",
+          "file": "fu-2c",
           "display": "フッ",
           "contributor": ""
         }
@@ -69,11 +85,11 @@
       "meaning": "an expression of relief",
       "equivalent": [
         "ease",
+        "fwhew",
         "release",
         "relief",
         "solace",
-        "whew",
-        "fwhew"
+        "whew"
       ],
       "example": [
         {
@@ -97,39 +113,26 @@
       ]
     },
     {
-      "meaning": "a sudden and/or fast movement",
-      "equivalent": [
-        "fwip",
-        "fwit",
-        "fwoom",
-        "pop",
-        "shoom",
-        "snap",
-        "whoom"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "fu-4a",
-          "display": "フーッ",
-          "contributor": ""
-        }
-      ]
-    },
-    {
-      "meaning": "breathing hard after light exertion",
+      "meaning": "deep breath after light exertion",
       "equivalent": [
         "gasp",
         "ha",
         "haa",
         "pant",
-        "whew"
+        "whew",
+        "phew"
       ],
       "example": [
         {
           "source": "different_world_smartphone",
           "file": "fu-5a",
           "display": "ふう",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "fu-5b",
+          "display": "ふぅっ",
           "contributor": ""
         }
       ]

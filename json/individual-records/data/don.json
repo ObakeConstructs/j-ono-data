@@ -8,7 +8,8 @@
     "ドオン",
     "ドオオン",
     "ドドン",
-    "ドドーン"
+    "ドドーン",
+    "ドーン"
   ],
   "hiragana": [
     "どん",
@@ -18,7 +19,8 @@
     "どおん",
     "どおおん",
     "どどん",
-    "どどーん"
+    "どどーん",
+    "どーん"
   ],
   "definition": [
     {
@@ -82,10 +84,10 @@
       "equivalent": [
         "bam",
         "boom",
+        "d-dum",
         "dah",
         "here",
-        "ta-da",
-        "d-dum"
+        "ta-da"
       ],
       "example": [
         {
@@ -104,6 +106,12 @@
           "source": "strongest_magician_was_human",
           "file": "don-2c",
           "display": "ドドーン",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "don-2d",
+          "display": "ドーン",
           "contributor": ""
         }
       ]

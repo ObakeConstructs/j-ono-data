@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "the sound of something moving swiftly through the air",
+      "meaning": "an indication of something swung quickly and often violently",
       "equivalent": [
         "swish",
         "swoosh",
@@ -22,6 +22,12 @@
         {
           "source": "world_full_of_monsters",
           "file": "bun-1a",
+          "display": "ブンッ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "bun-1b",
           "display": "ブンッ",
           "contributor": ""
         }

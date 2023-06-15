@@ -1,31 +1,43 @@
 {
-  "hiragana": ["ぴょん"],
-  "katakana": ["ピョン"],
-  "definition": [{
-    "equivalent": [
-      "boing",
-      "bounce",
-      "bound",
-      "hop",
-      "jump",
-      "leap",
-      "vault"
-    ],
-    "meaning": "the act of leaping into the air",
-    "example": [
-      {
-        "file": "pyon-1a",
-        "contributor": "",
-        "display": "ピョン",
-        "source": "komi_cant_communicate"
-      },
-      {
-        "file": "pyon-1b",
-        "contributor": "",
-        "display": "ぴょん",
-        "source": "s_rank_behemoth"
-      }
-    ]
-  }],
-  "literal": "pyon"
+  "literal": "pyon",
+  "katakana": [
+    "ピョン"
+  ],
+  "hiragana": [
+    "ぴょん"
+  ],
+  "definition": [
+    {
+      "meaning": "the act of leaping into the air",
+      "equivalent": [
+        "boing",
+        "bounce",
+        "bound",
+        "hop",
+        "jump",
+        "leap",
+        "vault"
+      ],
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "pyon-1a",
+          "display": "ピョン",
+          "contributor": ""
+        },
+        {
+          "source": "s_rank_behemoth",
+          "file": "pyon-1b",
+          "display": "ぴょん",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "pyon-1c",
+          "display": "ぴょん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

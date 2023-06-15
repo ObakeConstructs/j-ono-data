@@ -1,34 +1,57 @@
 {
-  "hiragana": [
-    "ぼ",
-    "ぼっ",
-    "ぼー",
-    "ぼーっ"
-  ],
+  "literal": "bo",
   "katakana": [
     "ボ",
     "ボッ",
     "ボー",
-    "ボーッ"
+    "ボーッ",
+    "ボオ",
+    "ボオオ",
+    "ボオオオ",
+    "ボォ",
+    "ボォォ",
+    "ボォォォ"
+  ],
+  "hiragana": [
+    "ぼ",
+    "ぼっ",
+    "ぼー",
+    "ぼーっ",
+    "ぼお",
+    "ぼおお",
+    "ぼおおお",
+    "ぼぉ",
+    "ぼぉぉ",
+    "ぼぉぉぉ"
   ],
   "definition": [
     {
+      "meaning": "to set on fire or to be on fire",
       "equivalent": [
         "blaze",
         "burn",
         "fwoosh",
         "ignite",
-        "torch"
+        "torch",
+        "crackle"
       ],
-      "meaning": "to set on fire or to be on fire",
-      "example": [{
-        "file": "bo-1a",
-        "contributor": "",
-        "display": "ボッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "bo-1a",
+          "display": "ボッ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "bo-1b",
+          "display": "ボォォォ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "an indication of a lack of mental enery or a lack of attention",
       "equivalent": [
         "day-dream",
         "distracted",
@@ -46,14 +69,14 @@
         "spacey",
         "vacant"
       ],
-      "meaning": "an indication of a lack of mental enery or a lack of attention",
-      "example": [{
-        "file": "bo-2a",
-        "contributor": "",
-        "display": "ぼー",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "bo-2a",
+          "display": "ぼー",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "bo"
+  ]
 }

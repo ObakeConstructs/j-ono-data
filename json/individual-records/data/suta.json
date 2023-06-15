@@ -1,27 +1,33 @@
 {
-  "hiragana": [
-    "すた",
-    "すたっ"
-  ],
+  "literal": "suta",
   "katakana": [
     "スタ",
     "スタッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "alight",
-      "land",
-      "landing",
-      "settle",
-      "touch down"
-    ],
-    "meaning": "come to rest after descending from the air",
-    "example": [{
-      "file": "suta-1a",
-      "contributor": "",
-      "display": "スタッ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "suta"
+  "hiragana": [
+    "すた",
+    "すたっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to land after jumping or falling",
+      "equivalent": [
+        "alight",
+        "land",
+        "landing",
+        "settle",
+        "touch down",
+        "thump",
+        "whump"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "suta-1a",
+          "display": "スタッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

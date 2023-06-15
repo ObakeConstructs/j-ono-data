@@ -1,11 +1,5 @@
 {
-  "hiragana": [
-    "き",
-    "き",
-    "きーっ",
-    "きぃ",
-    "きぃーっ"
-  ],
+  "literal": "ki",
   "katakana": [
     "キ",
     "キッ",
@@ -13,8 +7,16 @@
     "キィ",
     "キィーッ"
   ],
+  "hiragana": [
+    "き",
+    "き",
+    "きーっ",
+    "きぃ",
+    "きぃーっ"
+  ],
   "definition": [
     {
+      "meaning": "a fairly loud squeaking or screeching noise",
       "equivalent": [
         "creak",
         "screech",
@@ -22,28 +24,42 @@
         "squeak",
         "squeal"
       ],
-      "meaning": "a fairly loud squeaking noise, like an old door or chair",
-      "example": [{
-        "file": "ki-1a",
-        "contributor": "",
-        "display": "キィ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "ki-1a",
+          "display": "キィ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "ki-1b",
+          "display": "キィ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "ki-1c",
+          "display": "キッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "to look at someone or something with anger or disapproval",
       "equivalent": [
         "glare",
         "glower",
         "stare"
       ],
-      "meaning": "to look at someone or something with anger or disapproval",
-      "example": [{
-        "file": "ki-2a",
-        "contributor": "",
-        "display": "キッ",
-        "source": "reincarnated_farm_girl"
-      }]
+      "example": [
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "ki-2a",
+          "display": "キッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ki"
+  ]
 }

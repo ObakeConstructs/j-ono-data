@@ -1,28 +1,47 @@
 {
   "literal": "pin",
   "katakana": [
-    "ぴん",
-    "ぴーん"
-  ],
-  "hiragana": [
     "ピン",
     "ピーン"
+  ],
+  "hiragana": [
+    "ぴん",
+    "ぴーん"
   ],
   "definition": [
     {
       "meaning": "to suddenly approach someone or appear next to someone",
       "equivalent": [
-        "zoom",
         "appear",
         "flash",
+        "fwip",
         "zip",
-        "fwip"
+        "zoom"
       ],
       "example": [
         {
           "source": "s_rank_behemoth",
           "file": "pin-1a",
           "display": "ぴーん",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the sound of a vibrating string, rope, or cable",
+      "equivalent": [
+        "strum",
+        "pluck",
+        "vibrate",
+        "quiver",
+        "twitch",
+        "twang"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "pin-2a",
+          "display": "ピン",
           "contributor": ""
         }
       ]

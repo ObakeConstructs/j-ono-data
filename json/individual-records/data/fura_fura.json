@@ -1,23 +1,37 @@
 {
-  "hiragana": ["ふらふら"],
-  "katakana": ["フラフラ"],
-  "definition": [{
-    "equivalent": [
-      "lurch",
-      "quiver",
-      "shiver",
-      "shudder",
-      "sway",
-      "tremble",
-      "wobble"
-    ],
-    "meaning": "an indication of shaking or wobbling",
-    "example": [{
-      "file": "fura_fura-1a",
-      "contributor": "",
-      "display": "フラ  フラ",
-      "source": "otherworld_material_collector"
-    }]
-  }],
-  "literal": "fura fura"
+  "literal": "fura fura",
+  "katakana": [
+    "フラフラ"
+  ],
+  "hiragana": [
+    "ふらふら"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of shaking or wobbling",
+      "equivalent": [
+        "lurch",
+        "quiver",
+        "shiver",
+        "shudder",
+        "sway",
+        "tremble",
+        "wobble"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "fura_fura-1a",
+          "display": "フラ  フラ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "fura_fura-1b",
+          "display": "ふら  ふら",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

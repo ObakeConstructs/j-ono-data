@@ -1,0 +1,30 @@
+{
+  "literal": "pyoko pyoko",
+  "katakana": [
+    "ピョコピョコ",
+    "ピヨコピヨコ"
+  ],
+  "hiragana": [
+    "ぴょこぴょこ",
+    "ぴよこぴよこ"
+  ],
+  "definition": [
+    {
+      "meaning": "to run around in a cute and bouncy manner",
+      "equivalent": [
+        "bound bound",
+        "bounce bounce",
+        "hop hop",
+        "skip skip"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "pyoko_pyoko-1a",
+          "display": "ぴょこ  ぴょこ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

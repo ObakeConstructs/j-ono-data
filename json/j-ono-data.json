@@ -210,6 +210,22 @@
           "display": "バッ",
           "source": "d_genesis"
         }]
+      },
+      {
+        "equivalent": [
+          "display",
+          "reveal",
+          "show",
+          "ta-da",
+          "unveil"
+        ],
+        "meaning": "to reveal or show something",
+        "example": [{
+          "file": "ba-4a",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "spy_x_family"
+        }]
       }
     ],
     "literal": "ba"
@@ -243,6 +259,33 @@
       }]
     }],
     "literal": "baba"
+  },
+  {
+    "hiragana": [
+      "ばが",
+      "ばがっ"
+    ],
+    "katakana": [
+      "バガ",
+      "バガッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "crash",
+        "crush",
+        "impact",
+        "shatter",
+        "smash"
+      ],
+      "meaning": "a loud and dramatic impact or crash",
+      "example": [{
+        "file": "baga-1a",
+        "contributor": "",
+        "display": "バガッ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "baga"
   },
   {
     "hiragana": [
@@ -643,8 +686,8 @@
     "literal": "bata bata"
   },
   {
-    "hiragana": ["ベリ ベリ"],
-    "katakana": ["ベリ ベリ"],
+    "hiragana": ["ベリベリ"],
+    "katakana": ["ベリベリ"],
     "definition": [{
       "equivalent": [
         "peel peel",
@@ -1038,30 +1081,51 @@
       "ぼ",
       "ぼっ",
       "ぼー",
-      "ぼーっ"
+      "ぼーっ",
+      "ぼお",
+      "ぼおお",
+      "ぼおおお",
+      "ぼぉ",
+      "ぼぉぉ",
+      "ぼぉぉぉ"
     ],
     "katakana": [
       "ボ",
       "ボッ",
       "ボー",
-      "ボーッ"
+      "ボーッ",
+      "ボオ",
+      "ボオオ",
+      "ボオオオ",
+      "ボォ",
+      "ボォォ",
+      "ボォォォ"
     ],
     "definition": [
       {
         "equivalent": [
           "blaze",
           "burn",
+          "crackle",
           "fwoosh",
           "ignite",
           "torch"
         ],
         "meaning": "to set on fire or to be on fire",
-        "example": [{
-          "file": "bo-1a",
-          "contributor": "",
-          "display": "ボッ",
-          "source": "different_world_smartphone"
-        }]
+        "example": [
+          {
+            "file": "bo-1a",
+            "contributor": "",
+            "display": "ボッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "bo-1b",
+            "contributor": "",
+            "display": "ボォォォ",
+            "source": "spy_x_family"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -1481,13 +1545,21 @@
           "zip",
           "zoom"
         ],
-        "meaning": "the sound of something moving swiftly through the air",
-        "example": [{
-          "file": "bun-1a",
-          "contributor": "",
-          "display": "ブンッ",
-          "source": "world_full_of_monsters"
-        }]
+        "meaning": "an indication of something swung quickly and often violently",
+        "example": [
+          {
+            "file": "bun-1a",
+            "contributor": "",
+            "display": "ブンッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "bun-1b",
+            "contributor": "",
+            "display": "ブンッ",
+            "source": "spy_x_family"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -1615,6 +1687,29 @@
       }
     ],
     "literal": "buo"
+  },
+  {
+    "hiragana": [
+      "ぶろ",
+      "ぶろろ",
+      "ぶろろろ"
+    ],
+    "katakana": [
+      "ブロ",
+      "ブロロ",
+      "ブロロロ"
+    ],
+    "definition": [{
+      "equivalent": ["vroom"],
+      "meaning": "the sound of a automobile engine",
+      "example": [{
+        "file": "buro-1a",
+        "contributor": "",
+        "display": "ブロロロ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "buro"
   },
   {
     "hiragana": [
@@ -1794,10 +1889,10 @@
       "ぶーっ ぶーっ"
     ],
     "katakana": [
-      "ブ  ブ",
-      "ブッ ブッ",
-      "ブー ブー",
-      "ブーッ ブーッ"
+      "ブブ",
+      "ブッブッ",
+      "ブーブー",
+      "ブーッブーッ"
     ],
     "definition": [{
       "equivalent": [
@@ -2081,6 +2176,24 @@
     "literal": "charin"
   },
   {
+    "hiragana": ["ちき"],
+    "katakana": ["チキ"],
+    "definition": [{
+      "equivalent": [
+        "chik",
+        "click"
+      ],
+      "meaning": "a sharp clicking sound",
+      "example": [{
+        "file": "chiki-1a",
+        "contributor": "",
+        "display": "チキ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "chiki"
+  },
+  {
     "hiragana": ["ちきちき"],
     "katakana": ["チキチキ"],
     "definition": [{
@@ -2088,7 +2201,7 @@
         "chik chik",
         "click click"
       ],
-      "meaning": "a sharp clicking sound that repeats, like extending a snap-off blade",
+      "meaning": "a series of sharp clicking sounds",
       "example": [{
         "file": "chiki_chiki-1a",
         "contributor": "",
@@ -2682,7 +2795,8 @@
       "どおん",
       "どおおん",
       "どどん",
-      "どどーん"
+      "どどーん",
+      "どーん"
     ],
     "katakana": [
       "ドン",
@@ -2692,7 +2806,8 @@
       "ドオン",
       "ドオオン",
       "ドドン",
-      "ドドーン"
+      "ドドーン",
+      "ドーン"
     ],
     "definition": [
       {
@@ -2779,6 +2894,12 @@
             "contributor": "",
             "display": "ドドーン",
             "source": "strongest_magician_was_human"
+          },
+          {
+            "file": "don-2d",
+            "contributor": "",
+            "display": "ドーン",
+            "source": "spy_x_family"
           }
         ]
       },
@@ -2912,11 +3033,13 @@
   {
     "hiragana": [
       "どさ",
-      "どさっ"
+      "どさっ",
+      "どささっ"
     ],
     "katakana": [
       "ドサ",
-      "ドサッ"
+      "ドサッ",
+      "ドササッ"
     ],
     "definition": [
       {
@@ -2970,8 +3093,8 @@
           {
             "file": "dosa-2b",
             "contributor": "",
-            "display": "ドサッ",
-            "source": "otherworld_material_collector"
+            "display": "ドササッ",
+            "source": "spy_x_family"
           },
           {
             "file": "dosa-2c",
@@ -3271,17 +3394,35 @@
       },
       {
         "equivalent": [
-          "disappear",
-          "fade",
-          "vanish"
+          "fwip",
+          "fwit",
+          "fwoom",
+          "pop",
+          "shoom",
+          "snap",
+          "whoom"
         ],
-        "meaning": "to vanish or cause something to vanish",
-        "example": [{
-          "file": "fu-2a",
-          "contributor": "",
-          "display": "フッ",
-          "source": "d_genesis"
-        }]
+        "meaning": "a sudden and/or fast movement",
+        "example": [
+          {
+            "file": "fu-2a",
+            "contributor": "",
+            "display": "フッ",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "fu-2b",
+            "contributor": "",
+            "display": "フーッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "fu-2c",
+            "contributor": "",
+            "display": "フッ",
+            "source": "d_genesis"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -3316,37 +3457,28 @@
       },
       {
         "equivalent": [
-          "fwip",
-          "fwit",
-          "fwoom",
-          "pop",
-          "shoom",
-          "snap",
-          "whoom"
-        ],
-        "meaning": "a sudden and/or fast movement",
-        "example": [{
-          "file": "fu-4a",
-          "contributor": "",
-          "display": "フーッ",
-          "source": "world_full_of_monsters"
-        }]
-      },
-      {
-        "equivalent": [
           "gasp",
           "ha",
           "haa",
           "pant",
+          "phew",
           "whew"
         ],
-        "meaning": "breathing hard after light exertion",
-        "example": [{
-          "file": "fu-5a",
-          "contributor": "",
-          "display": "ふう",
-          "source": "different_world_smartphone"
-        }]
+        "meaning": "deep breath after light exertion",
+        "example": [
+          {
+            "file": "fu-5a",
+            "contributor": "",
+            "display": "ふう",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "fu-5b",
+            "contributor": "",
+            "display": "ふぅっ",
+            "source": "spy_x_family"
+          }
+        ]
       }
     ],
     "literal": "fu"
@@ -3490,12 +3622,20 @@
         "wobble"
       ],
       "meaning": "an indication of shaking or wobbling",
-      "example": [{
-        "file": "fura_fura-1a",
-        "contributor": "",
-        "display": "フラ  フラ",
-        "source": "otherworld_material_collector"
-      }]
+      "example": [
+        {
+          "file": "fura_fura-1a",
+          "contributor": "",
+          "display": "フラ  フラ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "fura_fura-1b",
+          "contributor": "",
+          "display": "ふら  ふら",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "fura fura"
   },
@@ -5284,6 +5424,7 @@
         "smack",
         "sock",
         "swat",
+        "tap",
         "thump",
         "whack"
       ],
@@ -5300,6 +5441,12 @@
           "contributor": "",
           "display": "ゴン",
           "source": "komi_cant_communicate"
+        },
+        {
+          "file": "gon-1c",
+          "contributor": "",
+          "display": "ゴン",
+          "source": "spy_x_family"
         }
       ]
     }],
@@ -5354,14 +5501,17 @@
     "katakana": ["ゴロン"],
     "definition": [{
       "equivalent": [
+        "fall",
         "rock",
+        "roll",
         "roll",
         "roll over",
         "spin",
+        "thump",
         "tumble",
         "turn"
       ],
-      "meaning": "a rolling or turning movement",
+      "meaning": "an indication of rolling over or falling over",
       "example": [
         {
           "file": "goron-1a",
@@ -5374,6 +5524,12 @@
           "contributor": "",
           "display": "ゴロン",
           "source": "nete_kunoichi"
+        },
+        {
+          "file": "goron-1c",
+          "contributor": "",
+          "display": "ゴロン",
+          "source": "spy_x_family"
         }
       ]
     }],
@@ -5915,16 +6071,16 @@
   },
   {
     "hiragana": [
-      "ぎゃ ぎゃ",
-      "ぎゃっ ぎゃっ",
-      "ぎゃぁ ぎゃぁ",
-      "ぎゃー ぎゃー"
+      "ぎゃぎゃ",
+      "ぎゃっぎゃっ",
+      "ぎゃぁぎゃぁ",
+      "ぎゃーぎゃー"
     ],
     "katakana": [
-      "ギャ ギャ",
-      "ギャッ ギャッ",
-      "ギャァ ギャァ",
-      "ギャー ギャー"
+      "ギャギャ",
+      "ギャッギャッ",
+      "ギャァギャァ",
+      "ギャーギャー"
     ],
     "definition": [{
       "equivalent": [
@@ -6421,12 +6577,20 @@
         "whisper"
       ],
       "meaning": "to speak quietly in order to not be overheard",
-      "example": [{
-        "file": "hiso_hiso-1a",
-        "contributor": "",
-        "display": "ヒソ  ヒソ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "hiso_hiso-1a",
+          "contributor": "",
+          "display": "ヒソ  ヒソ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "hiso_hiso-1b",
+          "contributor": "",
+          "display": "ひそ  ひそ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "hiso hiso"
   },
@@ -7381,6 +7545,28 @@
     "literal": "kan"
   },
   {
+    "hiragana": ["かんかん"],
+    "katakana": ["カンカン"],
+    "definition": [{
+      "equivalent": [
+        "clang clang",
+        "clank clank",
+        "ding ding",
+        "gong gong",
+        "ring ring",
+        "tang tang"
+      ],
+      "meaning": "a series of loud metallic ringing noises, as from a bell",
+      "example": [{
+        "file": "kan_kan-1a",
+        "contributor": "",
+        "display": "カン  カン  カン",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "kan kan"
+  },
+  {
     "hiragana": [
       "からん",
       "からんっ"
@@ -7607,6 +7793,34 @@
     "literal": "keho"
   },
   {
+    "hiragana": [
+      "くろ",
+      "くろっ"
+    ],
+    "katakana": [
+      "ケロ",
+      "ケロッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "aloof",
+        "calm",
+        "casual",
+        "nonchalant",
+        "unconcerned",
+        "what ever"
+      ],
+      "meaning": "expressing a lack of interest or concern",
+      "example": [{
+        "file": "kero-1a",
+        "contributor": "",
+        "display": "ケロッ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "kero"
+  },
+  {
     "hiragana": ["けたけた"],
     "katakana": ["ケタケタ"],
     "definition": [{
@@ -7653,13 +7867,27 @@
           "squeak",
           "squeal"
         ],
-        "meaning": "a fairly loud squeaking noise, like an old door or chair",
-        "example": [{
-          "file": "ki-1a",
-          "contributor": "",
-          "display": "キィ",
-          "source": "different_world_smartphone"
-        }]
+        "meaning": "a fairly loud squeaking or screeching noise",
+        "example": [
+          {
+            "file": "ki-1a",
+            "contributor": "",
+            "display": "キィ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "ki-1b",
+            "contributor": "",
+            "display": "キィ",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "ki-1c",
+            "contributor": "",
+            "display": "キッ",
+            "source": "spy_x_family"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -7708,8 +7936,8 @@
     "literal": "kin"
   },
   {
-    "hiragana": ["きーん こーん かーん こーん"],
-    "katakana": ["キーン コーン カーン コーン"],
+    "hiragana": ["きーんこーんかーんこーん"],
+    "katakana": ["キーンコーンカーンコーン"],
     "definition": [{
       "equivalent": ["ding dong dang dong"],
       "meaning": "the sound of a Japanese school bell",
@@ -8176,12 +8404,20 @@
         "gah"
       ],
       "meaning": "an expression of pain or pressure, often as supressed",
-      "example": [{
-        "file": "ku-1a",
-        "contributor": "",
-        "display": "くうっ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "ku-1a",
+          "contributor": "",
+          "display": "くうっ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "ku-1b",
+          "contributor": "",
+          "display": "くっ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "ku"
   },
@@ -8463,6 +8699,27 @@
     "literal": "kusu"
   },
   {
+    "hiragana": ["くすん"],
+    "katakana": ["クスン"],
+    "definition": [{
+      "equivalent": [
+        "cry",
+        "sniff",
+        "sniffle",
+        "sob",
+        "weep"
+      ],
+      "meaning": "a soft cry or sniffle",
+      "example": [{
+        "file": "kusun-1a",
+        "contributor": "",
+        "display": "くすん",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "kusun"
+  },
+  {
     "hiragana": ["くすくす"],
     "katakana": ["クスクス"],
     "definition": [{
@@ -8567,6 +8824,12 @@
           "contributor": "",
           "display": "キョロ  キョロ",
           "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "kyoro_kyoro-1c",
+          "contributor": "",
+          "display": "キョロ  キョロ",
+          "source": "spy_x_family"
         }
       ]
     }],
@@ -8770,8 +9033,8 @@
     "literal": "moji"
   },
   {
-    "hiragana": ["もじ もじ"],
-    "katakana": ["モジ モジ"],
+    "hiragana": ["もじもじ"],
+    "katakana": ["モジモジ"],
     "definition": [{
       "equivalent": [
         "bashful",
@@ -8809,6 +9072,38 @@
     "literal": "mokyu mokyu"
   },
   {
+    "hiragana": [
+      "もわ",
+      "もわぁ"
+    ],
+    "katakana": [
+      "モワ",
+      "モワァ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "billow",
+        "cloud",
+        "fog",
+        "haze",
+        "miasma",
+        "mist",
+        "smog",
+        "smoke",
+        "steam",
+        "vapor"
+      ],
+      "meaning": "a billowing cloud, as from smoke or a fog",
+      "example": [{
+        "file": "mowa-1a",
+        "contributor": "",
+        "display": "モワァ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "mowa"
+  },
+  {
     "hiragana": ["もわもわ"],
     "katakana": ["モワモワ"],
     "definition": [{
@@ -8823,7 +9118,7 @@
         "steam",
         "vapor"
       ],
-      "meaning": "a billowing cloud, rolling fog, or smoke",
+      "meaning": "a billowing cloud, as from smoke or a fog",
       "example": [{
         "file": "mowa_mowa-1a",
         "contributor": "",
@@ -9785,8 +10080,16 @@
     "literal": "pan pan"
   },
   {
-    "hiragana": ["ぱら"],
-    "katakana": ["パラ"],
+    "hiragana": [
+      "ぱら",
+      "ぱらら",
+      "ぱららら"
+    ],
+    "katakana": [
+      "パラ",
+      "パララ",
+      "パラララ"
+    ],
     "definition": [{
       "equivalent": [
         "flip",
@@ -9795,13 +10098,21 @@
         "thumb",
         "turn"
       ],
-      "meaning": "sound of turning pages of paper",
-      "example": [{
-        "file": "para-1a",
-        "contributor": "",
-        "display": "パラ",
-        "source": "d_genesis"
-      }]
+      "meaning": "sound of turning or riffling through paper pages",
+      "example": [
+        {
+          "file": "para-1a",
+          "contributor": "",
+          "display": "パラ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "para-1b",
+          "contributor": "",
+          "display": "パラララ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "para"
   },
@@ -10228,7 +10539,8 @@
       "equivalent": [
         "bonk",
         "slap",
-        "smack"
+        "smack",
+        "whap"
       ],
       "meaning": "a harmless but loud impact, as with a slap",
       "example": [{
@@ -10239,6 +10551,26 @@
       }]
     }],
     "literal": "peshi"
+  },
+  {
+    "hiragana": ["ぺしぺし"],
+    "katakana": ["ペシペシ"],
+    "definition": [{
+      "equivalent": [
+        "bonk bonk",
+        "slap slap",
+        "smack smack",
+        "whap whap"
+      ],
+      "meaning": "a series of harmless impacts, as from slapping",
+      "example": [{
+        "file": "peshi_peshi-1a",
+        "contributor": "",
+        "display": "ぺし  ぺし",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "peshi peshi"
   },
   {
     "hiragana": [
@@ -10500,8 +10832,8 @@
     "literal": "pikon"
   },
   {
-    "hiragana": ["ぴこ ぴこ"],
-    "katakana": ["ピコ ピコ"],
+    "hiragana": ["ぴこぴこ"],
+    "katakana": ["ピコピコ"],
     "definition": [{
       "equivalent": [
         "ba-ding ba-ding",
@@ -10610,29 +10942,48 @@
   },
   {
     "hiragana": [
-      "ピン",
-      "ピーン"
-    ],
-    "katakana": [
       "ぴん",
       "ぴーん"
     ],
-    "definition": [{
-      "equivalent": [
-        "appear",
-        "flash",
-        "fwip",
-        "zip",
-        "zoom"
-      ],
-      "meaning": "to suddenly approach someone or appear next to someone",
-      "example": [{
-        "file": "pin-1a",
-        "contributor": "",
-        "display": "ぴーん",
-        "source": "s_rank_behemoth"
-      }]
-    }],
+    "katakana": [
+      "ピン",
+      "ピーン"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "appear",
+          "flash",
+          "fwip",
+          "zip",
+          "zoom"
+        ],
+        "meaning": "to suddenly approach someone or appear next to someone",
+        "example": [{
+          "file": "pin-1a",
+          "contributor": "",
+          "display": "ぴーん",
+          "source": "s_rank_behemoth"
+        }]
+      },
+      {
+        "equivalent": [
+          "pluck",
+          "quiver",
+          "strum",
+          "twang",
+          "twitch",
+          "vibrate"
+        ],
+        "meaning": "the sound of a vibrating string, rope, or cable",
+        "example": [{
+          "file": "pin-2a",
+          "contributor": "",
+          "display": "ピン",
+          "source": "spy_x_family"
+        }]
+      }
+    ],
     "literal": "pin"
   },
   {
@@ -10758,6 +11109,12 @@
           "contributor": "",
           "display": "ピタ",
           "source": "reincarnated_sage_daughters"
+        },
+        {
+          "file": "pita-1d",
+          "contributor": "",
+          "display": "ぴたっ",
+          "source": "spy_x_family"
         }
       ]
     }],
@@ -11001,13 +11358,13 @@
         "pet pet",
         "stroke stroke"
       ],
-      "meaning": "to continuously pat or stroke in a gentle manner",
+      "meaning": "a series of pats or strokes in a gentle manner",
       "example": [
         {
           "file": "pon_pon-1a",
           "contributor": "",
-          "display": "ポン  ポン",
-          "source": "hello_work"
+          "display": "ぽん  ぽん",
+          "source": "spy_x_family"
         },
         {
           "file": "pon_pon_1b",
@@ -11088,12 +11445,20 @@
         "weep"
       ],
       "meaning": "shedding tears as an expression of pain or distress",
-      "example": [{
-        "file": "poro_poro-1a",
-        "contributor": "",
-        "display": "ポロ  ポロ",
-        "source": "reincarnated_farm_girl"
-      }]
+      "example": [
+        {
+          "file": "poro_poro-1a",
+          "contributor": "",
+          "display": "ポロ  ポロ",
+          "source": "reincarnated_farm_girl"
+        },
+        {
+          "file": "poro_poro-1b",
+          "contributor": "",
+          "display": "ポロ  ポロ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "poro poro"
   },
@@ -11362,7 +11727,7 @@
         "shudder",
         "tremble"
       ],
-      "meaning": "an indication of shaking, as from cold, fear, or effort",
+      "meaning": "an indication of shaking or quivering",
       "example": [
         {
           "file": "puru_puru-1a",
@@ -11375,6 +11740,12 @@
           "contributor": "",
           "display": "プル  プル",
           "source": "nete_kunoichi"
+        },
+        {
+          "file": "puru_puru-1c",
+          "contributor": "",
+          "display": "プル  プル",
+          "source": "spy_x_family"
         }
       ]
     }],
@@ -11397,7 +11768,7 @@
         "pssshhh",
         "ssss"
       ],
-      "meaning": "the sound of leaking air or gas, often used to express embarrassment",
+      "meaning": "the sound of leaking air or gas, sometimes used to express embarrassment",
       "example": [{
         "file": "pushu-1a",
         "contributor": "",
@@ -11406,6 +11777,31 @@
       }]
     }],
     "literal": "pushu"
+  },
+  {
+    "hiragana": [
+      "ぷしゅぷしゅ",
+      "ぷしゅっぷしゅっ"
+    ],
+    "katakana": [
+      "プシュプシュ",
+      "プシュップシュッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "pap pap",
+        "pew pew",
+        "psh psh"
+      ],
+      "meaning": "the sound of a silenced pistol being fired",
+      "example": [{
+        "file": "pushu_pushu-1a",
+        "contributor": "",
+        "display": "プシュッ  プシュッ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "pushu pushu"
   },
   {
     "hiragana": ["ぷす"],
@@ -11446,6 +11842,32 @@
     "literal": "pusu pusu"
   },
   {
+    "hiragana": [
+      "ぴょこぴょこ",
+      "ぴよこぴよこ"
+    ],
+    "katakana": [
+      "ピョコピョコ",
+      "ピヨコピヨコ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bounce bounce",
+        "bound bound",
+        "hop hop",
+        "skip skip"
+      ],
+      "meaning": "to run around in a cute and bouncy manner",
+      "example": [{
+        "file": "pyoko_pyoko-1a",
+        "contributor": "",
+        "display": "ぴょこ  ぴょこ",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "pyoko pyoko"
+  },
+  {
     "hiragana": ["ぴょん"],
     "katakana": ["ピョン"],
     "definition": [{
@@ -11471,6 +11893,12 @@
           "contributor": "",
           "display": "ぴょん",
           "source": "s_rank_behemoth"
+        },
+        {
+          "file": "pyon-1c",
+          "contributor": "",
+          "display": "ぴょん",
+          "source": "spy_x_family"
         }
       ]
     }],
@@ -11552,6 +11980,32 @@
       }]
     }],
     "literal": "pyun"
+  },
+  {
+    "hiragana": [
+      "りんごんりんごん",
+      "りんごーんりんごーん"
+    ],
+    "katakana": [
+      "リンゴンリンゴン",
+      "リンゴーンリンゴーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ding-dong ding-dong",
+        "gong gong",
+        "ring ring",
+        "toll toll"
+      ],
+      "meaning": "a series of loud bell or gong noises",
+      "example": [{
+        "file": "ringon_ringon-1a",
+        "contributor": "",
+        "display": "リンゴーン  リンゴーン",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "ringon ringon"
   },
   {
     "hiragana": [
@@ -11824,6 +12278,32 @@
       }]
     }],
     "literal": "sharan"
+  },
+  {
+    "hiragana": [
+      "しん",
+      "しんっ"
+    ],
+    "katakana": [
+      "シン",
+      "シンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "hush",
+        "quiet",
+        "silence",
+        "still"
+      ],
+      "meaning": "an indication of the absence of sound",
+      "example": [{
+        "file": "shin-1a",
+        "contributor": "",
+        "display": "しん",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "shin"
   },
   {
     "hiragana": [
@@ -12208,7 +12688,7 @@
           "lift",
           "raise"
         ],
-        "meaning": "the act of picking something up",
+        "meaning": "the act of lifting something up",
         "example": [{
           "file": "su-4a",
           "contributor": "",
@@ -12393,12 +12873,20 @@
         "zzz"
       ],
       "meaning": "soft breathing while sleeping or quietly snoring",
-      "example": [{
-        "file": "supi-1a",
-        "contributor": "",
-        "display": "すぴー",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "file": "supi-1a",
+          "contributor": "",
+          "display": "すぴー",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "supi-1b",
+          "contributor": "",
+          "display": "すぴー",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "literal": "supi"
   },
@@ -12448,9 +12936,11 @@
         "land",
         "landing",
         "settle",
-        "touch down"
+        "thump",
+        "touch down",
+        "whump"
       ],
-      "meaning": "come to rest after descending from the air",
+      "meaning": "to land after jumping or falling",
       "example": [{
         "file": "suta-1a",
         "contributor": "",
@@ -12459,6 +12949,35 @@
       }]
     }],
     "literal": "suta"
+  },
+  {
+    "hiragana": [
+      "すたん",
+      "すたーん"
+    ],
+    "katakana": [
+      "スタン",
+      "スターン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "alight",
+        "land",
+        "landing",
+        "settle",
+        "thump",
+        "touch down",
+        "whump"
+      ],
+      "meaning": "to land after jumping or falling",
+      "example": [{
+        "file": "sutan-1a",
+        "contributor": "",
+        "display": "スターン",
+        "source": "spy_x_family"
+      }]
+    }],
+    "literal": "sutan"
   },
   {
     "hiragana": ["すたすた"],
@@ -12545,23 +13064,41 @@
   {
     "hiragana": ["すとん"],
     "katakana": ["ストン"],
-    "definition": [{
-      "equivalent": [
-        "crouch",
-        "down",
-        "kneel",
-        "rest",
-        "sit",
-        "squat"
-      ],
-      "meaning": "to sit or squat down",
-      "example": [{
-        "file": "suton-1a",
-        "contributor": "",
-        "display": "ストン",
-        "source": "dog_became_strongest"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "crouch",
+          "down",
+          "kneel",
+          "rest",
+          "sit",
+          "squat"
+        ],
+        "meaning": "to sit or squat down",
+        "example": [{
+          "file": "suton-1a",
+          "contributor": "",
+          "display": "ストン",
+          "source": "dog_became_strongest"
+        }]
+      },
+      {
+        "equivalent": [
+          "drop",
+          "place",
+          "plonk",
+          "plop",
+          "set"
+        ],
+        "meaning": "to set something down",
+        "example": [{
+          "file": "suton-2a",
+          "contributor": "",
+          "display": "すとん",
+          "source": "spy_x_family"
+        }]
+      }
+    ],
     "literal": "suton"
   },
   {
@@ -12748,8 +13285,8 @@
     "literal": "tata"
   },
   {
-    "hiragana": ["たたん たたん"],
-    "katakana": ["タタン タタン"],
+    "hiragana": ["たたんたたん"],
+    "katakana": ["タタンタタン"],
     "definition": [{
       "equivalent": [
         "cla-clack cla-clack",
@@ -12769,12 +13306,12 @@
   },
   {
     "hiragana": [
-      "たた たた",
-      "たたっ たたっ"
+      "たたたた",
+      "たたったたっ"
     ],
     "katakana": [
-      "タタ タタ",
-      "タタッ タタッ"
+      "タタタタ",
+      "タタッタタッ"
     ],
     "definition": [{
       "equivalent": [

@@ -1,0 +1,36 @@
+{
+  "literal": "mowa",
+  "katakana": [
+    "モワ",
+    "モワァ"
+  ],
+  "hiragana": [
+    "もわ",
+    "もわぁ"
+  ],
+  "definition": [
+    {
+      "meaning": "a billowing cloud, as from smoke or a fog",
+      "equivalent": [
+        "cloud",
+        "fog",
+        "haze",
+        "miasma",
+        "mist",
+        "smog",
+        "smoke",
+        "steam",
+        "vapor",
+        "billow"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "mowa-1a",
+          "display": "モワァ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

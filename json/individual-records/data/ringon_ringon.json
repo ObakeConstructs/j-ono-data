@@ -1,0 +1,30 @@
+{
+  "literal": "ringon ringon",
+  "katakana": [
+    "リンゴンリンゴン",
+    "リンゴーンリンゴーン"
+  ],
+  "hiragana": [
+    "りんごんりんごん",
+    "りんごーんりんごーん"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of loud bell or gong noises",
+      "equivalent": [
+        "ding-dong ding-dong",
+        "gong gong",
+        "ring ring",
+        "toll toll"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "ringon_ringon-1a",
+          "display": "リンゴーン  リンゴーン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
