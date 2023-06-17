@@ -119,20 +119,26 @@
         "ha",
         "haa",
         "pant",
-        "whew",
-        "phew"
+        "phew",
+        "whew"
       ],
       "example": [
         {
           "source": "different_world_smartphone",
           "file": "fu-5a",
-          "display": "ふう",
+          "display": "ふぅ",
           "contributor": ""
         },
         {
           "source": "spy_x_family",
           "file": "fu-5b",
           "display": "ふぅっ",
+          "contributor": ""
+        },
+        {
+          "source": "fushi_no_kami",
+          "file": "fu-5c",
+          "display": "ふぅ",
           "contributor": ""
         }
       ]

@@ -493,7 +493,7 @@
         "example": [{
           "file": "basa-2a",
           "contributor": "",
-          "display": "バサア",
+          "display": "バサァ",
           "source": "different_world_smartphone"
         }]
       }
@@ -3469,7 +3469,7 @@
           {
             "file": "fu-5a",
             "contributor": "",
-            "display": "ふう",
+            "display": "ふぅ",
             "source": "different_world_smartphone"
           },
           {
@@ -3477,6 +3477,12 @@
             "contributor": "",
             "display": "ふぅっ",
             "source": "spy_x_family"
+          },
+          {
+            "file": "fu-5c",
+            "contributor": "",
+            "display": "ふぅ",
+            "source": "fushi_no_kami"
           }
         ]
       }
@@ -3525,6 +3531,25 @@
     "literal": "fua"
   },
   {
+    "hiragana": ["ふむ"],
+    "katakana": ["フム"],
+    "definition": [{
+      "equivalent": [
+        "hmm",
+        "uh-huh",
+        "umm"
+      ],
+      "meaning": "an expression or sound of contemplation",
+      "example": [{
+        "file": "fumu-1a",
+        "contributor": "",
+        "display": "ふむ",
+        "source": "fushi_no_kami"
+      }]
+    }],
+    "literal": "fumu"
+  },
+  {
     "hiragana": [
       "ふん",
       "ふんっ"
@@ -3545,12 +3570,20 @@
         "urgh"
       ],
       "meaning": "the short sound of a grunt or a groan, may express strain, frustration, distress, or used as an offensive dismissal",
-      "example": [{
-        "file": "fun-1a",
-        "contributor": "",
-        "display": "フンッ",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "file": "fun-1a",
+          "contributor": "",
+          "display": "フンッ",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "fun-1b",
+          "contributor": "",
+          "display": "ふん",
+          "source": "fushi_no_kami"
+        }
+      ]
     }],
     "literal": "fun"
   },
@@ -5682,13 +5715,29 @@
       "ぐ",
       "ぐっ",
       "ぐー",
-      "ぐーっ"
+      "ぐーっ",
+      "ぐ",
+      "ぐう",
+      "ぐうっ",
+      "ぐうう",
+      "ぐううう",
+      "ぐぅ",
+      "ぐぅぅ",
+      "ぐぅぅぅ"
     ],
     "katakana": [
       "グ",
       "グッ",
       "グー",
-      "グーッ"
+      "グーッ",
+      "グ",
+      "グウ",
+      "グウッ",
+      "グウウ",
+      "グウウウ",
+      "グゥ",
+      "グゥゥ",
+      "グゥゥゥ"
     ],
     "definition": [
       {
@@ -5762,6 +5811,20 @@
           "contributor": "",
           "display": "ぐっ",
           "source": "world_full_of_monsters"
+        }]
+      },
+      {
+        "equivalent": [
+          "growl",
+          "grr",
+          "rumble"
+        ],
+        "meaning": "the sound of a stomach growling, expressing hunger",
+        "example": [{
+          "file": "gu-4a",
+          "contributor": "",
+          "display": "ぐぅぅぅぅぅ",
+          "source": "fushi_no_kami"
         }]
       }
     ],
@@ -6519,7 +6582,6 @@
     "definition": [{
       "equivalent": [
         "drunk",
-        "hic",
         "hiccup"
       ],
       "meaning": "a hiccup, often indicating a state of drunkeness",
@@ -7387,7 +7449,7 @@
         "ker-chak",
         "rattle"
       ],
-      "meaning": "short, sharp clicks or clinks",
+      "meaning": "a short, sharp click or clink",
       "example": [
         {
           "file": "kacha-1a",
@@ -7602,22 +7664,16 @@
     "katakana": ["カリカリ"],
     "definition": [{
       "equivalent": [
-        "click",
-        "draw",
-        "print",
-        "scrape",
-        "scratch",
-        "scribble",
-        "stroke",
-        "tap",
-        "write"
+        "scratch scratch",
+        "scribble scribble",
+        "scritch scritch"
       ],
-      "meaning": "the sound of writing something, as on paper or chalkboard",
+      "meaning": "the sound of writing, usually with a pen or pencil",
       "example": [{
         "file": "kari_kari-1a",
         "contributor": "",
         "display": "カリ  カリ",
-        "source": "komi_cant_communicate"
+        "source": "fushi_no_kami"
       }]
     }],
     "literal": "kari kari"
@@ -7767,6 +7823,31 @@
       }]
     }],
     "literal": "katsun"
+  },
+  {
+    "hiragana": [
+      "け",
+      "けっ"
+    ],
+    "katakana": [
+      "ケ",
+      "ケッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "heh",
+        "hmph",
+        "tsk"
+      ],
+      "meaning": "a short laugh, usually in annoyance or when looking down at someone",
+      "example": [{
+        "file": "ke-1a",
+        "contributor": "",
+        "display": "ケッ",
+        "source": "fushi_no_kami"
+      }]
+    }],
+    "literal": "ke"
   },
   {
     "hiragana": [
@@ -9401,6 +9482,32 @@
   },
   {
     "hiragana": [
+      "に",
+      "にっ"
+    ],
+    "katakana": [
+      "ニ",
+      "ニッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "grin",
+        "heh",
+        "smile",
+        "smirk"
+      ],
+      "meaning": "a smile, often genuine",
+      "example": [{
+        "file": "ni-1a",
+        "contributor": "",
+        "display": "ニッ",
+        "source": "fushi_no_kami"
+      }]
+    }],
+    "literal": "ni"
+  },
+  {
+    "hiragana": [
       "にこ",
       "にこっ",
       "にこオ",
@@ -9438,6 +9545,12 @@
           "contributor": "",
           "display": "ニコォ",
           "source": "weakest_occupation_blacksmith"
+        },
+        {
+          "file": "niko-1d",
+          "contributor": "",
+          "display": "ニコ",
+          "source": "fushi_no_kami"
         }
       ]
     }],
@@ -10112,6 +10225,12 @@
           "contributor": "",
           "display": "パラララ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "para-1c",
+          "contributor": "",
+          "display": "ぱら",
+          "source": "fushi_no_kami"
         }
       ]
     }],
@@ -10147,6 +10266,26 @@
       ]
     }],
     "literal": "para para"
+  },
+  {
+    "hiragana": ["ぱさ"],
+    "katakana": ["パサ"],
+    "definition": [{
+      "equivalent": [
+        "crinkle",
+        "flap",
+        "rustle",
+        "swish"
+      ],
+      "meaning": "the soft sound of moving paper or cloth",
+      "example": [{
+        "file": "pasa-1a",
+        "contributor": "",
+        "display": "ぱさ",
+        "source": "fushi_no_kami"
+      }]
+    }],
+    "literal": "pasa"
   },
   {
     "hiragana": ["ぱしゃ"],
@@ -10764,24 +10903,47 @@
       "ぴきっ"
     ],
     "katakana": [
-      "ピキッ",
+      "ピキ",
       "ピキッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "crack",
-        "crackle",
-        "pop",
-        "snap"
-      ],
-      "meaning": "a cracking or popping sound",
-      "example": [{
-        "file": "piki-1a",
-        "contributor": "",
-        "display": "ピキッ",
-        "source": "strongest_magician_was_human"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "crack",
+          "crackle",
+          "pop",
+          "snap"
+        ],
+        "meaning": "a cracking or popping sound",
+        "example": [{
+          "file": "piki-1a",
+          "contributor": "",
+          "display": "ピキッ",
+          "source": "strongest_magician_was_human"
+        }]
+      },
+      {
+        "equivalent": [
+          "angry",
+          "annoyed",
+          "furious",
+          "irrate",
+          "livid",
+          "mad",
+          "outraged",
+          "pissed",
+          "riled",
+          "snap"
+        ],
+        "meaning": "an expression of sudden anger or annoyance",
+        "example": [{
+          "file": "piki-2a",
+          "contributor": "",
+          "display": "ピキ",
+          "source": "fushi_no_kami"
+        }]
+      }
+    ],
     "literal": "piki"
   },
   {
@@ -10885,6 +11047,12 @@
             "contributor": "",
             "display": "ピクッ",
             "source": "world_full_of_monsters"
+          },
+          {
+            "file": "piku-1c",
+            "contributor": "",
+            "display": "ピク",
+            "source": "fushi_no_kami"
           }
         ]
       },
@@ -11063,12 +11231,20 @@
           "zip"
         ],
         "meaning": "a rapid snapping to position",
-        "example": [{
-          "file": "pishi-2a",
-          "contributor": "",
-          "display": "ぴしっ",
-          "source": "different_world_smartphone"
-        }]
+        "example": [
+          {
+            "file": "pishi-2a",
+            "contributor": "",
+            "display": "ぴしっ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "pishi-2b",
+            "contributor": "",
+            "display": "ぴしっ",
+            "source": "fushi_no_kami"
+          }
+        ]
       }
     ],
     "literal": "pishi"
@@ -11630,6 +11806,25 @@
       }
     ],
     "literal": "pu"
+  },
+  {
+    "hiragana": ["ぷちぷち"],
+    "katakana": ["プチプチ"],
+    "definition": [{
+      "equivalent": [
+        "crack crack",
+        "pop pop",
+        "snap snap"
+      ],
+      "meaning": "a series of snapping or popping sounds",
+      "example": [{
+        "file": "puchi_puchi-1a",
+        "contributor": "",
+        "display": "ぷち  ぷち  ぷち",
+        "source": "fushi_no_kami"
+      }]
+    }],
+    "literal": "puchi puchi"
   },
   {
     "hiragana": [
@@ -12297,14 +12492,37 @@
         "still"
       ],
       "meaning": "an indication of the absence of sound",
-      "example": [{
-        "file": "shin-1a",
-        "contributor": "",
-        "display": "しん",
-        "source": "spy_x_family"
-      }]
+      "example": [
+        {
+          "file": "shin-1a",
+          "contributor": "",
+          "display": "しん...",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "shin-1b",
+          "contributor": "",
+          "display": "しん...",
+          "source": "fushi_no_kami"
+        }
+      ]
     }],
     "literal": "shin"
+  },
+  {
+    "hiragana": ["しっしっ"],
+    "katakana": ["シッシッ"],
+    "definition": [{
+      "equivalent": ["shoo shoo"],
+      "meaning": "an expression meant to send or scare away someone or something",
+      "example": [{
+        "file": "shi_shi-1a",
+        "contributor": "",
+        "display": "しっ  しっ",
+        "source": "fushi_no_kami"
+      }]
+    }],
+    "literal": "shi shi"
   },
   {
     "hiragana": [
@@ -12650,6 +12868,12 @@
             "contributor": "",
             "display": "スッ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "su-2e",
+            "contributor": "",
+            "display": "す",
+            "source": "fushi_no_kami"
           }
         ]
       },
@@ -13238,12 +13462,16 @@
     "hiragana": [
       "たた",
       "たたっ",
-      "たたた"
+      "たたた",
+      "たったっ",
+      "たったったっ"
     ],
     "katakana": [
       "タタ",
       "タタッ",
-      "タタタ"
+      "タタタ",
+      "タッタッ",
+      "タッタッタッ"
     ],
     "definition": [{
       "equivalent": [
@@ -13280,6 +13508,12 @@
           "contributor": "",
           "display": "タタ",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "tata-1e",
+          "contributor": "",
+          "display": "たっ  たっ  たっ",
+          "source": "fushi_no_kami"
         }
       ]
     }],
@@ -13702,6 +13936,38 @@
   },
   {
     "hiragana": [
+      "とと",
+      "ととと",
+      "とっとっ",
+      "とっとっとっ"
+    ],
+    "katakana": [
+      "トト",
+      "トトト",
+      "トットッ",
+      "トットットッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "pad pad",
+        "plod plod",
+        "step step",
+        "tap tap",
+        "tread tread",
+        "walk walk"
+      ],
+      "meaning": "a series of soft or quick steps",
+      "example": [{
+        "file": "to_to-1a",
+        "contributor": "",
+        "display": "とっ  とっ",
+        "source": "fushi_no_kami"
+      }]
+    }],
+    "literal": "to to"
+  },
+  {
+    "hiragana": [
       "つ",
       "つー",
       "っ"
@@ -13895,13 +14161,21 @@
           "uh",
           "um"
         ],
-        "meaning": "an expression of thinking or considering",
-        "example": [{
-          "file": "un-2a",
-          "contributor": "",
-          "display": "うーん",
-          "source": "d_genesis"
-        }]
+        "meaning": "an expression or sound of contemplation",
+        "example": [
+          {
+            "file": "un-2a",
+            "contributor": "",
+            "display": "うーん",
+            "source": "d_genesis"
+          },
+          {
+            "file": "un-2b",
+            "contributor": "",
+            "display": "うーん",
+            "source": "fushi_no_kami"
+          }
+        ]
       }
     ],
     "literal": "un"
@@ -14036,6 +14310,30 @@
       }]
     }],
     "literal": "uzo"
+  },
+  {
+    "hiragana": ["うずうず"],
+    "katakana": ["ウズウズ"],
+    "definition": [{
+      "equivalent": [
+        " delighted",
+        "eager eager",
+        "enthusiastic",
+        "excited excited",
+        "happy happy",
+        "inspired",
+        "joy joy",
+        "thrill thrill"
+      ],
+      "meaning": "an expression of excitement or anticipation",
+      "example": [{
+        "file": "uzu_uzu-1a",
+        "contributor": "",
+        "display": "うず  うず",
+        "source": "fushi_no_kami"
+      }]
+    }],
+    "literal": "uzu uzu"
   },
   {
     "hiragana": [

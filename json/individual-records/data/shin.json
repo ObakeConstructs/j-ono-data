@@ -13,15 +13,21 @@
       "meaning": "an indication of the absence of sound",
       "equivalent": [
         "hush",
-        "silence",
         "quiet",
+        "silence",
         "still"
       ],
       "example": [
         {
           "source": "spy_x_family",
           "file": "shin-1a",
-          "display": "しん",
+          "display": "しん...",
+          "contributor": ""
+        },
+        {
+          "source": "fushi_no_kami",
+          "file": "shin-1b",
+          "display": "しん...",
           "contributor": ""
         }
       ]

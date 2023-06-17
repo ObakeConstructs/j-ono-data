@@ -3,12 +3,16 @@
   "katakana": [
     "タタ",
     "タタッ",
-    "タタタ"
+    "タタタ",
+    "タッタッ",
+    "タッタッタッ"
   ],
   "hiragana": [
     "たた",
     "たたっ",
-    "たたた"
+    "たたた",
+    "たったっ",
+    "たったったっ"
   ],
   "definition": [
     {
@@ -45,6 +49,12 @@
           "source": "otherworld_material_collector",
           "file": "tata-1d",
           "display": "タタ",
+          "contributor": ""
+        },
+        {
+          "source": "fushi_no_kami",
+          "file": "tata-1e",
+          "display": "たっ  たっ  たっ",
           "contributor": ""
         }
       ]

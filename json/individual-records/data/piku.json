@@ -1,14 +1,16 @@
 {
-  "hiragana": [
-    "ぴく",
-    "ぴくっ"
-  ],
+  "literal": "piku",
   "katakana": [
     "ピク",
     "ピクッ"
   ],
+  "hiragana": [
+    "ぴく",
+    "ぴくっ"
+  ],
   "definition": [
     {
+      "meaning": "to tense up from surprise or fear",
       "equivalent": [
         "cringe",
         "flinch",
@@ -17,50 +19,58 @@
         "twitch",
         "wince"
       ],
-      "meaning": "to tense up from surprise or fear",
       "example": [
         {
+          "source": "d_genesis",
           "file": "piku-1a",
-          "contributor": "",
           "display": "ぴくっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "world_full_of_monsters",
           "file": "piku-1b",
-          "contributor": "",
           "display": "ピクッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
+        },
+        {
+          "source": "fushi_no_kami",
+          "file": "piku-1c",
+          "display": "ピク",
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "a small, deliberate movement",
       "equivalent": [
         "fiddle",
         "fidget",
         "move",
         "twitch"
       ],
-      "meaning": "a small, deliberate movement",
-      "example": [{
-        "file": "piku-2a",
-        "contributor": "",
-        "display": "ピク",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "piku-2a",
+          "display": "ピク",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "to rapidly open and close one's eyes, as from slumber",
       "equivalent": [
         "blink",
         "squint"
       ],
-      "meaning": "to rapidly open and close one's eyes, as from slumber",
-      "example": [{
-        "file": "piku-3a",
-        "contributor": "",
-        "display": "ぴく",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "piku-3a",
+          "display": "ぴく",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "piku"
+  ]
 }

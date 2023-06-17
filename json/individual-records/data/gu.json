@@ -4,13 +4,29 @@
     "グ",
     "グッ",
     "グー",
-    "グーッ"
+    "グーッ",
+    "グ",
+    "グウ",
+    "グウッ",
+    "グウウ",
+    "グウウウ",
+    "グゥ",
+    "グゥゥ",
+    "グゥゥゥ"
   ],
   "hiragana": [
     "ぐ",
     "ぐっ",
     "ぐー",
-    "ぐーっ"
+    "ぐーっ",
+    "ぐ",
+    "ぐう",
+    "ぐうっ",
+    "ぐうう",
+    "ぐううう",
+    "ぐぅ",
+    "ぐぅぅ",
+    "ぐぅぅぅ"
   ],
   "definition": [
     {
@@ -86,6 +102,22 @@
           "source": "world_full_of_monsters",
           "file": "gu-3a",
           "display": "ぐっ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the sound of a stomach growling, expressing hunger",
+      "equivalent": [
+        "growl",
+        "rumble",
+        "grr"
+      ],
+      "example": [
+        {
+          "source": "fushi_no_kami",
+          "file": "gu-4a",
+          "display": "ぐぅぅぅぅぅ",
           "contributor": ""
         }
       ]

@@ -1,7 +1,7 @@
 {
   "literal": "piki",
   "katakana": [
-    "ピキッ",
+    "ピキ",
     "ピキッ"
   ],
   "hiragana": [
@@ -12,16 +12,39 @@
     {
       "meaning": "a cracking or popping sound",
       "equivalent": [
+        "crack",
         "crackle",
         "pop",
-        "snap",
-        "crack"
+        "snap"
       ],
       "example": [
         {
           "source": "strongest_magician_was_human",
           "file": "piki-1a",
           "display": "ピキッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an expression of sudden anger or annoyance",
+      "equivalent": [
+        "snap",
+        "angry",
+        "pissed",
+        "outraged",
+        "mad",
+        "irrate",
+        "annoyed",
+        "livid",
+        "riled",
+        "furious"
+      ],
+      "example": [
+        {
+          "source": "fushi_no_kami",
+          "file": "piki-2a",
+          "display": "ピキ",
           "contributor": ""
         }
       ]

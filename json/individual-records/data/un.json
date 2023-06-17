@@ -1,14 +1,16 @@
 {
-  "hiragana": [
-    "うん",
-    "うーん"
-  ],
+  "literal": "un",
   "katakana": [
     "ウン",
     "ウーン"
   ],
+  "hiragana": [
+    "うん",
+    "うーん"
+  ],
   "definition": [
     {
+      "meaning": "nodding to express agreement",
       "equivalent": [
         "exactly",
         "mm-hmm",
@@ -17,28 +19,36 @@
         "yeah",
         "yes"
       ],
-      "meaning": "nodding to express agreement",
-      "example": [{
-        "file": "un-1a",
-        "contributor": "",
-        "display": "うん",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "un-1a",
+          "display": "うん",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "an expression or sound of contemplation",
       "equivalent": [
         "hmm",
         "uh",
         "um"
       ],
-      "meaning": "an expression of thinking or considering",
-      "example": [{
-        "file": "un-2a",
-        "contributor": "",
-        "display": "うーん",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "un-2a",
+          "display": "うーん",
+          "contributor": ""
+        },
+        {
+          "source": "fushi_no_kami",
+          "file": "un-2b",
+          "display": "うーん",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "un"
+  ]
 }

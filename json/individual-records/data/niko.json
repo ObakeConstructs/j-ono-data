@@ -1,44 +1,52 @@
 {
-  "hiragana": [
-    "にこ",
-    "にこっ",
-    "にこオ",
-    "にこォ"
-  ],
+  "literal": "niko",
   "katakana": [
     "ニコ",
     "ニコッ",
     "ニコオ",
     "ニコォ"
   ],
-  "definition": [{
-    "equivalent": [
-      "beam",
-      "grin",
-      "smile",
-      "smirk"
-    ],
-    "meaning": "an expression happiness, amusement, or agreement",
-    "example": [
-      {
-        "file": "niko-1a",
-        "contributor": "",
-        "display": "ニコッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "niko-1b",
-        "contributor": "",
-        "display": "にこっ",
-        "source": "reincarnated_aristocrat"
-      },
-      {
-        "file": "niko-1c",
-        "contributor": "",
-        "display": "ニコォ",
-        "source": "weakest_occupation_blacksmith"
-      }
-    ]
-  }],
-  "literal": "niko"
+  "hiragana": [
+    "にこ",
+    "にこっ",
+    "にこオ",
+    "にこォ"
+  ],
+  "definition": [
+    {
+      "meaning": "an expression happiness, amusement, or agreement",
+      "equivalent": [
+        "beam",
+        "grin",
+        "smile",
+        "smirk"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "niko-1a",
+          "display": "ニコッ",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "niko-1b",
+          "display": "にこっ",
+          "contributor": ""
+        },
+        {
+          "source": "weakest_occupation_blacksmith",
+          "file": "niko-1c",
+          "display": "ニコォ",
+          "contributor": ""
+        },
+        {
+          "source": "fushi_no_kami",
+          "file": "niko-1d",
+          "display": "ニコ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

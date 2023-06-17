@@ -1,25 +1,27 @@
 {
-  "hiragana": ["かりかり"],
-  "katakana": ["カリカリ"],
-  "definition": [{
-    "equivalent": [
-      "click",
-      "draw",
-      "print",
-      "scrape",
-      "scratch",
-      "scribble",
-      "stroke",
-      "tap",
-      "write"
-    ],
-    "meaning": "the sound of writing something, as on paper or chalkboard",
-    "example": [{
-      "file": "kari_kari-1a",
-      "contributor": "",
-      "display": "カリ  カリ",
-      "source": "komi_cant_communicate"
-    }]
-  }],
-  "literal": "kari kari"
+  "literal": "kari kari",
+  "katakana": [
+    "カリカリ"
+  ],
+  "hiragana": [
+    "かりかり"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of writing, usually with a pen or pencil",
+      "equivalent": [
+        "scritch scritch",
+        "scratch scratch",
+        "scribble scribble"
+      ],
+      "example": [
+        {
+          "source": "fushi_no_kami",
+          "file": "kari_kari-1a",
+          "display": "カリ  カリ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
