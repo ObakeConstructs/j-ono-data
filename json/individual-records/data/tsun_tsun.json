@@ -1,19 +1,34 @@
 {
-  "hiragana": ["つんつん"],
-  "katakana": ["ツンツン"],
-  "definition": [{
-    "equivalent": [
-      "pinch pinch",
-      "poke poke",
-      "tap tap"
-    ],
-    "meaning": "a series of interactions with one's fingertips",
-    "example": [{
-      "file": "tsun_tsun-1a",
-      "contributor": "",
-      "display": "つん  つん",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "tsun tsun"
+  "literal": "tsun tsun",
+  "katakana": [
+    "ツンツン"
+  ],
+  "hiragana": [
+    "つんつん"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of quick harmless pokes",
+      "equivalent": [
+        "push push",
+        "poke poke",
+        "tap tap",
+        "nudge nudge"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "tsun_tsun-1a",
+          "display": "つん  つん",
+          "contributor": ""
+        },
+        {
+          "source": "simple_sword_saint",
+          "file": "tsun_tsun-1b",
+          "display": "ツンツン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,20 +1,47 @@
 {
-  "hiragana": ["ずりずり"],
-  "katakana": ["ズリズリ"],
-  "definition": [{
-    "equivalent": [
-      "drag drag",
-      "move move",
-      "pull pull",
-      "slide slide"
-    ],
-    "meaning": "to repeatedly slide or drag something",
-    "example": [{
-      "file": "zuri_zuri-1a",
-      "contributor": "",
-      "display": "ズリズリ",
-      "source": "abandoned_reincarnation_sage"
-    }]
-  }],
-  "literal": "zuri zuri"
+  "literal": "zuri zuri",
+  "katakana": [
+    "ズリズリ"
+  ],
+  "hiragana": [
+    "ずりずり"
+  ],
+  "definition": [
+    {
+      "meaning": "to series of sliding or dragging noises",
+      "equivalent": [
+        "drag drag",
+        "move move",
+        "pull pull",
+        "slide slide"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "zuri_zuri-1a",
+          "display": "ズリズリ...",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "to stand or walk in an unsteady manner",
+      "equivalent": [
+        "stagger stagger",
+        "lurch lurch",
+        "stumble stumble",
+        "sway sway",
+        "lumber lumber",
+        "waddle waddle"
+      ],
+      "example": [
+        {
+          "source": "simple_sword_saint",
+          "file": "zuri_zuri-2a",
+          "display": "ズリ  ズリ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

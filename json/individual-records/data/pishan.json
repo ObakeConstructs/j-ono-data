@@ -1,0 +1,33 @@
+{
+  "literal": "pishan",
+  "katakana": [
+    "ピシャン",
+    "ピシャーン"
+  ],
+  "hiragana": [
+    "ぴしゃん",
+    "ぴしゃーん"
+  ],
+  "definition": [
+    {
+      "meaning": "a dramatic expression of shock or disbelief",
+      "equivalent": [
+        "shocked",
+        "stunned",
+        "appalled",
+        "astounded",
+        "surprised",
+        "aghast",
+        "flabberghasted"
+      ],
+      "example": [
+        {
+          "source": "simple_sword_saint",
+          "file": "pishan-1a",
+          "display": "ピシャーン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

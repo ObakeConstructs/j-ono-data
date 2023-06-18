@@ -3221,14 +3221,18 @@
       "どぉどぉ",
       "どおどお",
       "どどど",
-      "どどどど"
+      "どどどど",
+      "どどっ",
+      "どどどっ"
     ],
     "katakana": [
       "ドド",
       "ドォドォ",
       "ドオドオ",
       "ドドド",
-      "ドドドド"
+      "ドドドド",
+      "ドドッ",
+      "ドドドッ"
     ],
     "definition": [
       {
@@ -3284,12 +3288,20 @@
           "tromp tromp"
         ],
         "meaning": "the sound of heavy or fast steps, as in stomping or running",
-        "example": [{
-          "file": "do_do-3a",
-          "contributor": "",
-          "display": "ドドドド...",
-          "source": "kuma_kuma_kuma_bear"
-        }]
+        "example": [
+          {
+            "file": "do_do-3a",
+            "contributor": "",
+            "display": "ドドドド...",
+            "source": "kuma_kuma_kuma_bear"
+          },
+          {
+            "file": "do_do-3b",
+            "contributor": "",
+            "display": "ドドドッ",
+            "source": "simple_sword_saint"
+          }
+        ]
       }
     ],
     "literal": "do do"
@@ -3799,12 +3811,20 @@
         "sway"
       ],
       "meaning": "to float gently or move softly",
-      "example": [{
-        "file": "fuwa-1a",
-        "contributor": "",
-        "display": "ふわっ",
-        "source": "strongest_magician_was_human"
-      }]
+      "example": [
+        {
+          "file": "fuwa-1a",
+          "contributor": "",
+          "display": "ふわっ",
+          "source": "strongest_magician_was_human"
+        },
+        {
+          "file": "fuwa-1b",
+          "contributor": "",
+          "display": "フワッ",
+          "source": "simple_sword_saint"
+        }
+      ]
     }],
     "literal": "fuwa"
   },
@@ -4012,6 +4032,12 @@
             "contributor": "",
             "display": "ガバッ",
             "source": "nete_kunoichi"
+          },
+          {
+            "file": "gaba-1d",
+            "contributor": "",
+            "display": "がばっ",
+            "source": "simple_sword_saint"
           }
         ]
       },
@@ -4448,7 +4474,7 @@
           "swoosh",
           "thump"
         ],
-        "meaning": "the sound of a sliding window or sliding door being opened or shut",
+        "meaning": "the sound of something sliding open or shut, like a window or sliding door",
         "example": [
           {
             "file": "gara-1a",
@@ -4461,6 +4487,12 @@
             "contributor": "",
             "display": "ガラッ",
             "source": "bungo"
+          },
+          {
+            "file": "gara-1c",
+            "contributor": "",
+            "display": "ガラッ",
+            "source": "simple_sword_saint"
           }
         ]
       },
@@ -4931,7 +4963,7 @@
           "squeal",
           "squee"
         ],
-        "meaning": "a high pitched squeak or squeal, as from a squeaky door, an old chair or a small animalthe cry of a small animal",
+        "meaning": "a high pitched squeak or squeal, as from a squeaky door, an old chair or the cry of a small animal",
         "example": [
           {
             "file": "gi-2a",
@@ -10141,7 +10173,7 @@
           "file": "pan-1a",
           "contributor": "",
           "display": "パンッ,  パン",
-          "source": "world_full_of_monsters"
+          "source": "simple_sword_saint"
         },
         {
           "file": "pan-1b",
@@ -11187,6 +11219,35 @@
       }]
     }],
     "literal": "pirorin"
+  },
+  {
+    "hiragana": [
+      "ぴしゃん",
+      "ぴしゃーん"
+    ],
+    "katakana": [
+      "ピシャン",
+      "ピシャーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "aghast",
+        "appalled",
+        "astounded",
+        "flabberghasted",
+        "shocked",
+        "stunned",
+        "surprised"
+      ],
+      "meaning": "a dramatic expression of shock or disbelief",
+      "example": [{
+        "file": "pishan-1a",
+        "contributor": "",
+        "display": "ピシャーン",
+        "source": "simple_sword_saint"
+      }]
+    }],
+    "literal": "pishan"
   },
   {
     "hiragana": [
@@ -14000,17 +14061,26 @@
     "katakana": ["ツンツン"],
     "definition": [{
       "equivalent": [
-        "pinch pinch",
+        "nudge nudge",
         "poke poke",
+        "push push",
         "tap tap"
       ],
-      "meaning": "a series of interactions with one's fingertips",
-      "example": [{
-        "file": "tsun_tsun-1a",
-        "contributor": "",
-        "display": "つん  つん",
-        "source": "d_genesis"
-      }]
+      "meaning": "a series of quick harmless pokes",
+      "example": [
+        {
+          "file": "tsun_tsun-1a",
+          "contributor": "",
+          "display": "つん  つん",
+          "source": "d_genesis"
+        },
+        {
+          "file": "tsun_tsun-1b",
+          "contributor": "",
+          "display": "ツンツン",
+          "source": "simple_sword_saint"
+        }
+      ]
     }],
     "literal": "tsun tsun"
   },
@@ -14893,8 +14963,16 @@
     "literal": "ze"
   },
   {
-    "hiragana": ["ぜぜ"],
-    "katakana": ["ゼゼ"],
+    "hiragana": [
+      "ぜぜ",
+      "ぜえ",
+      "ぜぇ"
+    ],
+    "katakana": [
+      "ゼゼ",
+      "ゼエゼエ",
+      "ゼェゼェ"
+    ],
     "definition": [{
       "equivalent": [
         "gasp gasp",
@@ -14902,13 +14980,21 @@
         "pant pant",
         "wheeze wheeze"
       ],
-      "meaning": "the sound of a deep indrawn breath",
-      "example": [{
-        "file": "ze_ze-1a",
-        "contributor": "",
-        "display": "ぜ  ぜ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "meaning": "a series of deep or fast breaths",
+      "example": [
+        {
+          "file": "ze_ze-1a",
+          "contributor": "",
+          "display": "ぜ  ぜ",
+          "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "ze_ze-1b",
+          "contributor": "",
+          "display": "ゼェ  ゼェ",
+          "source": "simple_sword_saint"
+        }
+      ]
     }],
     "literal": "ze ze"
   },
@@ -15315,21 +15401,40 @@
   {
     "hiragana": ["ずりずり"],
     "katakana": ["ズリズリ"],
-    "definition": [{
-      "equivalent": [
-        "drag drag",
-        "move move",
-        "pull pull",
-        "slide slide"
-      ],
-      "meaning": "to repeatedly slide or drag something",
-      "example": [{
-        "file": "zuri_zuri-1a",
-        "contributor": "",
-        "display": "ズリズリ",
-        "source": "abandoned_reincarnation_sage"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "drag drag",
+          "move move",
+          "pull pull",
+          "slide slide"
+        ],
+        "meaning": "to series of sliding or dragging noises",
+        "example": [{
+          "file": "zuri_zuri-1a",
+          "contributor": "",
+          "display": "ズリズリ...",
+          "source": "abandoned_reincarnation_sage"
+        }]
+      },
+      {
+        "equivalent": [
+          "lumber lumber",
+          "lurch lurch",
+          "stagger stagger",
+          "stumble stumble",
+          "sway sway",
+          "waddle waddle"
+        ],
+        "meaning": "to stand or walk in an unsteady manner",
+        "example": [{
+          "file": "zuri_zuri-2a",
+          "contributor": "",
+          "display": "ズリ  ズリ",
+          "source": "simple_sword_saint"
+        }]
+      }
+    ],
     "literal": "zuri zuri"
   },
   {

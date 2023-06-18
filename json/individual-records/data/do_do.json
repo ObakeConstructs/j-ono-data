@@ -1,20 +1,26 @@
 {
-  "hiragana": [
-    "どど",
-    "どぉどぉ",
-    "どおどお",
-    "どどど",
-    "どどどど"
-  ],
+  "literal": "do do",
   "katakana": [
     "ドド",
     "ドォドォ",
     "ドオドオ",
     "ドドド",
-    "ドドドド"
+    "ドドドド",
+    "ドドッ",
+    "ドドドッ"
+  ],
+  "hiragana": [
+    "どど",
+    "どぉどぉ",
+    "どおどお",
+    "どどど",
+    "どどどど",
+    "どどっ",
+    "どどどっ"
   ],
   "definition": [
     {
+      "meaning": "a painful, but non-fatal strike, as from the back of a sword",
       "equivalent": [
         "bam bam",
         "clobber",
@@ -30,15 +36,17 @@
         "thunk",
         "wham wham"
       ],
-      "meaning": "a painful, but non-fatal strike, as from the back of a sword",
-      "example": [{
-        "file": "do_do-1a",
-        "contributor": "",
-        "display": "ドォ  ドォ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "do_do-1a",
+          "display": "ドォ  ドォ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "a series of small explosions",
       "equivalent": [
         "bang bang",
         "blam blam",
@@ -46,15 +54,17 @@
         "boom boom",
         "whump whump"
       ],
-      "meaning": "a series of small explosions",
-      "example": [{
-        "file": "do_do-2a",
-        "contributor": "",
-        "display": "ドドドドドド",
-        "source": "reincarnated_aristocrat"
-      }]
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "do_do-2a",
+          "display": "ドドドドドド",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "the sound of heavy or fast steps, as in stomping or running",
       "equivalent": [
         "bom bom",
         "race race",
@@ -66,14 +76,20 @@
         "thump thump",
         "tromp tromp"
       ],
-      "meaning": "the sound of heavy or fast steps, as in stomping or running",
-      "example": [{
-        "file": "do_do-3a",
-        "contributor": "",
-        "display": "ドドドド...",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "example": [
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "do_do-3a",
+          "display": "ドドドド...",
+          "contributor": ""
+        },
+        {
+          "source": "simple_sword_saint",
+          "file": "do_do-3b",
+          "display": "ドドドッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "do do"
+  ]
 }

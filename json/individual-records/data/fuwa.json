@@ -12,9 +12,9 @@
     {
       "meaning": "to float gently or move softly",
       "equivalent": [
+        "drift",
         "float",
         "hover",
-        "drift",
         "lift",
         "sway"
       ],
@@ -23,6 +23,12 @@
           "source": "strongest_magician_was_human",
           "file": "fuwa-1a",
           "display": "ふわっ",
+          "contributor": ""
+        },
+        {
+          "source": "simple_sword_saint",
+          "file": "fuwa-1b",
+          "display": "フワッ",
           "contributor": ""
         }
       ]
