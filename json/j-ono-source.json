@@ -47,7 +47,7 @@
   {
     "id": "kuma_kuma_kuma_bear",
     "manga": "Kuma Kuma Kuma Bear",
-    "publisher": "SHUFU TO SEIKATSU SHA Co.,Ltd."
+    "publisher": "SHUFU TO SEIKATSU SHA Co., Ltd."
   },
   {
     "id": "marginal_taylor",
@@ -133,5 +133,10 @@
     "id": "fushi_no_kami",
     "manga": "Fushi no Kami: Henkyou kara Hajimeru Bunmei Saiseiki",
     "publisher": "OVERLAP, Inc."
+  },
+  {
+    "id": "simple_sword_saint",
+    "manga": "Jimi na Kensei wa Sore Demo Saikyou Desu",
+    "publisher": "SHUFU TO SEIKATSU SHA Co., Ltd."
   }
 ]
