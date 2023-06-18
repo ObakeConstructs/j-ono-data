@@ -1,147 +1,193 @@
 [
   {
-    "id": "abandoned_reincarnation_sage",
-    "manga": "Suterareta Tensei Kenja",
-    "publisher": "KODANSHA Ltd."
+    "publisher_name": "KODANSHA Ltd.",
+    "sources": [
+      {
+      "id": "abandoned_reincarnation_sage",
+      "manga": "Suterareta Tensei Kenja"
+      },
+      {
+        "id": "marginal_taylor",
+        "manga": "Marginal Taylor"
+      },
+      {
+        "id": "weakest_occupation_blacksmith",
+        "manga": "Fuguushoku \"Kajishi\" dakedo Saikyou desu"
+      }
+    ]
   },
   {
-    "id": "bungo",
-    "manga": "Bungo",
-    "publisher": "SHUEISHA Inc."
+    "publisher_name": "SHUEISHA Inc.",
+    "sources": [
+      {
+        "id": "bungo",
+        "manga": "Bungo"
+      },
+      {
+        "id": "hikaro_no_go",
+        "manga": "Hikaru no Go"
+      },
+      {
+        "id": "spy_x_family",
+        "manga": "Spy x Family"
+      }
+    ]
   },
   {
-    "id": "d_genesis",
-    "manga": "D Genesis: Dungeon ga Dekite 3-nen",
-    "publisher": "KADOKAWA Corp."
+    "publisher_name": "KADOKAWA Corp.",
+    "sources": [
+      {
+        "id": "d_genesis",
+        "manga": "D Genesis: Dungeon ga Dekite 3-nen"
+      },
+      {
+        "id": "different_world_smartphone",
+        "manga": "Isekai wa Smartphone to Tomo ni"
+      },
+      {
+        "id": "reincarnated_sage_daughters",
+        "manga": "Tensei Kenja wa Musume to Kurasu"
+      }
+    ]
   },
   {
-    "id": "different_world_smartphone",
-    "manga": "Isekai wa Smartphone to Tomo ni",
-    "publisher": "KADOKAWA Corp."
+    "publisher_name": "MICRO MAGAZINE, Inc.",
+    "sources": [
+      {
+        "id": "dog_became_strongest",
+        "manga": "Isekai Tensei Shitara Aiken ga Saikyou ni Narimashita"
+      }
+    ]
   },
   {
-    "id": "dog_became_strongest",
-    "manga": "Isekai Tensei Shitara Aiken ga Saikyou ni Narimashita",
-    "publisher": "MICRO MAGAZINE, Inc."
+    "publisher_name": "AKITA PUBLISHING Co., Ltd.",
+    "sources": [
+      {
+        "id": "hanako_24th_ward",
+        "manga": "24-ku no Hanako-san"
+      },
+      {
+        "id": "lord_of_the_hundred_demons",
+        "manga": "Hyakuma No Aruji"
+      }
+    ]
   },
   {
-    "id": "hanako_24th_ward",
-    "manga": "24-ku no Hanako-san",
-    "publisher": "AKITA PUBLISHING Co., Ltd."
+    "publisher_name": "KILL TIME COMMUNICATION PUBLISHING Co.",
+    "sources": [
+      {
+        "id": "hello_work",
+        "manga": "NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta"
+      }
+    ]
   },
   {
-    "id": "hello_work",
-    "manga": "NEET dakedo Hello Work ni Ittara Isekai ni Tsuretekareta",
-    "publisher": "KILL TIME COMMUNICATION PUBLISHING Co."
+    "publisher_name": "Shogakukan Inc.",
+    "sources": [
+      {
+        "id": "komi_cant_communicate",
+        "manga": "Komi-san wa Komyushou Desu"
+      }
+    ]
   },
   {
-    "id": "hikaro_no_go",
-    "manga": "Hikaru no Go",
-    "publisher": "SHUEISHA Inc."
+    "publisher_name": "SHUFU TO SEIKATSU SHA Co., Ltd.",
+    "sources": [
+      {
+        "id": "kuma_kuma_kuma_bear",
+        "manga": "Kuma Kuma Kuma Bear"
+      },
+      {
+        "id": "simple_sword_saint",
+        "manga": "Jimi na Kensei wa Sore Demo Saikyou Desu"
+      }
+    ]
   },
   {
-    "id": "komi_cant_communicate",
-    "manga": "Komi-san wa Komyushou Desu",
-    "publisher": "Shogakukan Inc."
+    "publisher_name": "OVERLAP, Inc.",
+    "sources": [
+      {
+        "id": "modern_dungeon_capture",
+        "manga": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
+      },
+      {
+        "id": "strongest_failure_frame",
+        "manga": "Hazure Waku no [Joutai Ijou Skill] de Saikyou..."
+      },
+      {
+        "id": "hero_or_demon_king",
+        "manga": "Ikitsuku saki wa yūsha ka maō ka moto hai pureiyā ga sei ku i sekai kōryaku-ki"
+      },
+      {
+        "id": "fushi_no_kami",
+        "manga": "Fushi no Kami: Henkyou kara Hajimeru Bunmei Saiseiki"
+      }
+    ]
   },
   {
-    "id": "kuma_kuma_kuma_bear",
-    "manga": "Kuma Kuma Kuma Bear",
-    "publisher": "SHUFU TO SEIKATSU SHA Co., Ltd."
+    "publisher_name": "AlphaPolis Co., Ltd.",
+    "sources": [
+      {
+        "id": "otherworld_material_collector",
+        "manga": "Souzai Saishuka no Isekai Ryokouki"
+      }
+    ]
   },
   {
-    "id": "marginal_taylor",
-    "manga": "Marginal Taylor",
-    "publisher": "KODANSHA Ltd."
+    "publisher_name": "MAG Garden Corp.",
+    "sources": [
+      {
+        "id": "reincarnated_aristocrat",
+        "manga": "Tensei Kizoku no Isekai Boukenroku"
+      }
+    ]
   },
   {
-    "id": "modern_dungeon_capture",
-    "manga": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku",
-    "publisher": "OVERLAP, Inc."
+    "publisher_name": "No9, Inc",
+    "sources": [
+      {
+        "id": "reincarnated_farm_girl",
+        "manga": "Tensei Shitara Mura Musume Datta"
+      },
+      {
+        "id": "nete_kunoichi",
+        "manga": "Neet Kunoichi to Nazeka Dousei Hajimemashita"
+      }
+    ]
   },
   {
-    "id": "otherworld_material_collector",
-    "manga": "Souzai Saishuka no Isekai Ryokouki",
-    "publisher": "AlphaPolis Co., Ltd."
+    "publisher_name": "SQUARE ENIX Co., Ltd.",
+    "sources": [
+      {
+        "id": "world_full_of_monsters",
+        "manga": "Monster ga Afureru Sekai ni Natta Node"
+      }
+    ]
   },
   {
-    "id": "reincarnated_aristocrat",
-    "manga": "Tensei Kizoku no Isekai Boukenroku",
-    "publisher": "MAG Garden Corp."
+    "publisher_name": "HAKUSENSHA",
+    "sources": [
+      {
+        "id": "s_rank_behemoth",
+        "manga": "S-Rank Monster no “Behemoth” Dakedo"
+      }
+    ]
   },
   {
-    "id": "reincarnated_farm_girl",
-    "manga": "Tensei Shitara Mura Musume Datta",
-    "publisher": "No9, Inc"
-  },
-  {
-    "id": "reincarnated_sage_daughters",
-    "manga": "Tensei Kenja wa Musume to Kurasu",
-    "publisher": "KADOKAWA Corp."
-  },
-  {
-    "id": "weakest_occupation_blacksmith",
-    "manga": "Fuguushoku \"Kajishi\" dakedo Saikyou desu",
-    "publisher": "KODANSHA Ltd."
-  },
-  {
-    "id": "world_full_of_monsters",
-    "manga": "Monster ga Afureru Sekai ni Natta Node",
-    "publisher": "SQUARE ENIX Co., Ltd."
-  },
-  {
-    "id": "s_rank_behemoth",
-    "manga": "S-Rank Monster no “Behemoth” Dakedo",
-    "publisher": "HAKUSENSHA"
-  },
-  {
-    "id": "a_rank_slow_life",
-    "manga": "A-Rank Boukensha no Slow Life",
-    "publisher": "Futabasha Publishers Ltd."
-  },
-  {
-    "id": "strongest_failure_frame",
-    "manga": "Hazure Waku no [Joutai Ijou Skill] de Saikyou...",
-    "publisher": "OVERLAP, Inc."
-  },
-  {
-    "id": "strongest_magician_was_human",
-    "manga": "Maou Gun Saikyou no Majutsushi wa Ningen datta",
-    "publisher": "Futabasha Publishers Ltd."
-  },
-  {
-    "id": "peter_grill",
-    "manga": "Peter Grill to Kenja no Jikan",
-    "publisher": "Futabasha Publishers Ltd."
-  },
-  {
-    "id": "nete_kunoichi",
-    "manga": "Neet Kunoichi to Nazeka Dousei Hajimemashita",
-    "publisher": "No9, Inc"
-  },
-  {
-    "id": "hero_or_demon_king",
-    "manga": "Ikitsuku saki wa yūsha ka maō ka moto hai pureiyā ga sei ku i sekai kōryaku-ki",
-    "publisher": "OVERLAP, Inc."
-  },
-  {
-    "id": "spy_x_family",
-    "manga": "Spy x Family",
-    "publisher": "SHUEISHA Inc."
-  },
-  {
-    "id": "fushi_no_kami",
-    "manga": "Fushi no Kami: Henkyou kara Hajimeru Bunmei Saiseiki",
-    "publisher": "OVERLAP, Inc."
-  },
-  {
-    "id": "simple_sword_saint",
-    "manga": "Jimi na Kensei wa Sore Demo Saikyou Desu",
-    "publisher": "SHUFU TO SEIKATSU SHA Co., Ltd."
-  },
-  {
-    "id": "lord_of_the_hundred_demons",
-    "manga": "Hyakuma No Aruji",
-    "publisher": "AKITA PUBLISHING Co., Ltd."
+    "publisher_name": "Futabasha publisher_names Ltd.",
+    "sources": [
+      {
+        "id": "a_rank_slow_life",
+        "manga": "A-Rank Boukensha no Slow Life"
+      },
+      {
+        "id": "strongest_magician_was_human",
+        "manga": "Maou Gun Saikyou no Majutsushi wa Ningen datta"
+      },
+      {
+        "id": "peter_grill",
+        "manga": "Peter Grill to Kenja no Jikan"
+      }
+    ]
   }
 ]
