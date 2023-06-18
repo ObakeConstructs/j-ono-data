@@ -1,35 +1,41 @@
 {
-  "hiragana": [
-    "きゅ",
-    "きゅっ",
-    "きゅう"
-  ],
+  "literal": "kyu",
   "katakana": [
     "キュ",
     "キュッ",
     "キュウ"
   ],
+  "hiragana": [
+    "きゅ",
+    "きゅっ",
+    "きゅう"
+  ],
   "definition": [
     {
+      "meaning": "to squeeze lightly or softly",
       "equivalent": [
-        "clasp",
-        "clench",
-        "grip",
+        "grasp",
         "hold",
-        "press",
-        "squeeze",
-        "strain",
-        "tighten"
+        "gently",
+        "cradle"
       ],
-      "meaning": "act of clenching, as in one's hands or teeth",
-      "example": [{
-        "file": "kyu-1a",
-        "contributor": "",
-        "display": "きゅ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "kyu-1a",
+          "display": "きゅ",
+          "contributor": ""
+        },
+        {
+          "source": "lord_of_the_hundred_demons",
+          "file": "kyu-1b",
+          "display": "きゅっ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "to fasten or attach something with a line or cord.",
       "equivalent": [
         "bind",
         "cinch",
@@ -38,28 +44,30 @@
         "tie",
         "tighten"
       ],
-      "meaning": "to fasten or attach something with a line or cord.",
-      "example": [{
-        "file": "kyu-2a",
-        "contributor": "",
-        "display": "きゅっ",
-        "source": "dog_became_strongest"
-      }]
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "kyu-2a",
+          "display": "きゅっ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "a shrill squeaking sound",
       "equivalent": [
         "screech",
         "squeak",
         "squeal"
       ],
-      "meaning": "a shrill squeaking sound",
-      "example": [{
-        "file": "kyu-3a",
-        "contributor": "",
-        "display": "キュッ",
-        "source": "hikaro_no_go"
-      }]
+      "example": [
+        {
+          "source": "hikaro_no_go",
+          "file": "kyu-3a",
+          "display": "キュッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "kyu"
+  ]
 }

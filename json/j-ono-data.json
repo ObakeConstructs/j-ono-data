@@ -2,11 +2,15 @@
   {
     "hiragana": [
       "あはは",
-      "あははは"
+      "あははは",
+      "あっはっはっ",
+      "あっはっはっはっ"
     ],
     "katakana": [
       "アハハ",
-      "アハハハ"
+      "アハハハ",
+      "アッハッハ",
+      "アッハッハッハッ"
     ],
     "definition": [{
       "equivalent": [
@@ -30,6 +34,12 @@
           "contributor": "",
           "display": "あはは",
           "source": "komi_cant_communicate"
+        },
+        {
+          "file": "ahaha-1c",
+          "contributor": "",
+          "display": "あっはっはっはっ",
+          "source": "lord_of_the_hundred_demons"
         }
       ]
     }],
@@ -1282,20 +1292,35 @@
       "ボソ",
       "ボソッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "mumble",
-        "murmer",
-        "mutter"
-      ],
-      "meaning": "to speak softly and unclearly ",
-      "example": [{
-        "file": "boso-1a",
-        "contributor": "",
-        "display": "ぼそっ",
-        "source": "world_full_of_monsters"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "mumble",
+          "murmer",
+          "mutter"
+        ],
+        "meaning": "to speak softly and unclearly ",
+        "example": [{
+          "file": "boso-1a",
+          "contributor": "",
+          "display": "ぼそっ",
+          "source": "world_full_of_monsters"
+        }]
+      },
+      {
+        "equivalent": [
+          "quietly",
+          "whisper"
+        ],
+        "meaning": "to speak softly so as to not be overheard",
+        "example": [{
+          "file": "boso-2a",
+          "contributor": "",
+          "display": "ぼそっ",
+          "source": "lord_of_the_hundred_demons"
+        }]
+      }
+    ],
     "literal": "boso"
   },
   {
@@ -2448,6 +2473,37 @@
     "literal": "daki"
   },
   {
+    "hiragana": [
+      "だんだん",
+      "だんっだんっ"
+    ],
+    "katakana": [
+      "ダンダン",
+      "ダンッダンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bam bam",
+        "hit hit",
+        "knock knock",
+        "pound pound",
+        "punch punch",
+        "slam slam",
+        "strike strike",
+        "thud thud",
+        "thunk thunk"
+      ],
+      "meaning": "a series of impacts, often against something solid",
+      "example": [{
+        "file": "dan_dan-1a",
+        "contributor": "",
+        "display": "ダンッ  ダンッ",
+        "source": "lord_of_the_hundred_demons"
+      }]
+    }],
+    "literal": "dan dan"
+  },
+  {
     "hiragana": ["だらだら"],
     "katakana": ["ダラダラ"],
     "definition": [{
@@ -3251,7 +3307,7 @@
           "thunk",
           "wham wham"
         ],
-        "meaning": "a painful, but non-fatal strike, as from the back of a sword",
+        "meaning": "a series of painful, but non-fatal strikes, as from the back of a sword",
         "example": [{
           "file": "do_do-1a",
           "contributor": "",
@@ -3823,6 +3879,12 @@
           "contributor": "",
           "display": "フワッ",
           "source": "simple_sword_saint"
+        },
+        {
+          "file": "fuwa-1c",
+          "contributor": "",
+          "display": "フワッ",
+          "source": "lord_of_the_hundred_demons"
         }
       ]
     }],
@@ -6627,6 +6689,27 @@
     "literal": "hikku"
   },
   {
+    "hiragana": ["ひらひら"],
+    "katakana": ["ヒラヒラ"],
+    "definition": [{
+      "equivalent": [
+        "flap flap",
+        "flick flick",
+        "flit flit",
+        "swish swish",
+        "wave wave"
+      ],
+      "meaning": "a series of flapping sounds, as from a bird flying or a flag in the wind",
+      "example": [{
+        "file": "hira_hira-1a",
+        "contributor": "",
+        "display": "ひら  ひら",
+        "source": "lord_of_the_hundred_demons"
+      }]
+    }],
+    "literal": "hira hira"
+  },
+  {
     "hiragana": [
       "ひし",
       "ひしっ"
@@ -8963,22 +9046,26 @@
     "definition": [
       {
         "equivalent": [
-          "clasp",
-          "clench",
-          "grip",
-          "hold",
-          "press",
-          "squeeze",
-          "strain",
-          "tighten"
+          "cradle",
+          "gently",
+          "grasp",
+          "hold"
         ],
-        "meaning": "act of clenching, as in one's hands or teeth",
-        "example": [{
-          "file": "kyu-1a",
-          "contributor": "",
-          "display": "きゅ",
-          "source": "d_genesis"
-        }]
+        "meaning": "to squeeze lightly or softly",
+        "example": [
+          {
+            "file": "kyu-1a",
+            "contributor": "",
+            "display": "きゅ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "kyu-1b",
+            "contributor": "",
+            "display": "きゅっ",
+            "source": "lord_of_the_hundred_demons"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -10499,13 +10586,21 @@
         "swish swish",
         "wave wave"
       ],
-      "meaning": "the sound of flapping, as of bird wings, a dust mop, or a flag in the wind",
-      "example": [{
-        "file": "pata_pata-1a",
-        "contributor": "",
-        "display": "パタ  パタ",
-        "source": "reincarnated_sage_daughters"
-      }]
+      "meaning": "a series of flapping sounds, as from bird wings or a flag in the wind",
+      "example": [
+        {
+          "file": "pata_pata-1a",
+          "contributor": "",
+          "display": "パタ  パタ",
+          "source": "reincarnated_sage_daughters"
+        },
+        {
+          "file": "pata_pata-1b",
+          "contributor": "",
+          "display": "パタ  パタ",
+          "source": "lord_of_the_hundred_demons"
+        }
+      ]
     }],
     "literal": "pata pata"
   },

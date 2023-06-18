@@ -1,25 +1,44 @@
 {
-  "hiragana": [
-    "ぼそ",
-    "ぼそっ"
-  ],
+  "literal": "boso",
   "katakana": [
     "ボソ",
     "ボソッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "mumble",
-      "murmer",
-      "mutter"
-    ],
-    "meaning": "to speak softly and unclearly ",
-    "example": [{
-      "file": "boso-1a",
-      "contributor": "",
-      "display": "ぼそっ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "boso"
+  "hiragana": [
+    "ぼそ",
+    "ぼそっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to speak softly and unclearly ",
+      "equivalent": [
+        "mumble",
+        "murmer",
+        "mutter"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "boso-1a",
+          "display": "ぼそっ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "to speak softly so as to not be overheard",
+      "equivalent": [
+        "whisper",
+        "quietly"
+      ],
+      "example": [
+        {
+          "source": "lord_of_the_hundred_demons",
+          "file": "boso-2a",
+          "display": "ぼそっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,36 +1,48 @@
 {
-  "hiragana": [
-    "あはは",
-    "あははは"
-  ],
+  "literal": "ahaha",
   "katakana": [
     "アハハ",
-    "アハハハ"
+    "アハハハ",
+    "アッハッハ",
+    "アッハッハッハッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "ahaha",
-      "cackle",
-      "guffaw",
-      "haha",
-      "laughter",
-      "snicker"
-    ],
-    "meaning": "the sound of loud laughter",
-    "example": [
-      {
-        "file": "ahaha-1a",
-        "contributor": "",
-        "display": "アハハ",
-        "source": "komi_cant_communicate"
-      },
-      {
-        "file": "ahaha-1b",
-        "contributor": "",
-        "display": "あはは",
-        "source": "komi_cant_communicate"
-      }
-    ]
-  }],
-  "literal": "ahaha"
+  "hiragana": [
+    "あはは",
+    "あははは",
+    "あっはっはっ",
+    "あっはっはっはっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of loud laughter",
+      "equivalent": [
+        "ahaha",
+        "cackle",
+        "guffaw",
+        "haha",
+        "laughter",
+        "snicker"
+      ],
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "ahaha-1a",
+          "display": "アハハ",
+          "contributor": ""
+        },
+        {
+          "source": "komi_cant_communicate",
+          "file": "ahaha-1b",
+          "display": "あはは",
+          "contributor": ""
+        },
+        {
+          "source": "lord_of_the_hundred_demons",
+          "file": "ahaha-1c",
+          "display": "あっはっはっはっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

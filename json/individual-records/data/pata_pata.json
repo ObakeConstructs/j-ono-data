@@ -1,21 +1,35 @@
 {
-  "hiragana": ["ぱたぱた"],
-  "katakana": ["パタパタ"],
-  "definition": [{
-    "equivalent": [
-      "flap flap",
-      "flick flick",
-      "flit flit",
-      "swish swish",
-      "wave wave"
-    ],
-    "meaning": "the sound of flapping, as of bird wings, a dust mop, or a flag in the wind",
-    "example": [{
-      "file": "pata_pata-1a",
-      "contributor": "",
-      "display": "パタ  パタ",
-      "source": "reincarnated_sage_daughters"
-    }]
-  }],
-  "literal": "pata pata"
+  "literal": "pata pata",
+  "katakana": [
+    "パタパタ"
+  ],
+  "hiragana": [
+    "ぱたぱた"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of flapping sounds, as from bird wings or a flag in the wind",
+      "equivalent": [
+        "flap flap",
+        "flick flick",
+        "flit flit",
+        "swish swish",
+        "wave wave"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_sage_daughters",
+          "file": "pata_pata-1a",
+          "display": "パタ  パタ",
+          "contributor": ""
+        },
+        {
+          "source": "lord_of_the_hundred_demons",
+          "file": "pata_pata-1b",
+          "display": "パタ  パタ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

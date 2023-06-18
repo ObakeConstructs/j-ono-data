@@ -1,0 +1,35 @@
+{
+  "literal": "dan dan",
+  "katakana": [
+    "ダンダン",
+    "ダンッダンッ"
+  ],
+  "hiragana": [
+    "だんだん",
+    "だんっだんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of impacts, often against something solid",
+      "equivalent": [
+        "bam bam",
+        "hit hit",
+        "knock knock",
+        "pound pound",
+        "punch punch",
+        "slam slam",
+        "strike strike",
+        "thud thud",
+        "thunk thunk"
+      ],
+      "example": [
+        {
+          "source": "lord_of_the_hundred_demons",
+          "file": "dan_dan-1a",
+          "display": "ダンッ  ダンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
