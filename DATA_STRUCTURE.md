@@ -12,11 +12,11 @@ All source records are stored in a single JSON array in the `j-ono-source.json` 
 
 ## SOURCE RECORD
 * Each Source Record contains...
-  * a source "publisher_name" string
-  * an array of "Source" objects
-* Each "Source" object contains
-  * a source "id" name string
-  * a source "manga" name string
+  * a "publisher_name" string
+  * an array of "source" objects.
+* Each "source" object contains
+  * an "id" name string
+  * a "manga" name string
 
 Example Soure Record:
 ```
@@ -92,4 +92,4 @@ Example Definition Record:
 * All image formats are exclusively JPEG (`*.jpg`), for the time being
 * Naming convention: `[literal]-[unique id]`
   * Underscores are used in lieu of spaces in the literal string.
-  * The `[unique id]` is merely for the convenience of human-readability - it's two or three characters long and has a number part and a letter part - the number differentiates the images by definition and the letter differentiates them by example.  So an image file with an id of `2c` would be for the third example of the second definition.
+  * The `[unique id]` is merely for the convenience of human-readability - it's two or three characters long and has a number part and a letter part - the number differentiates the images by definition and the letter differentiates them by example.  So an image file with an id of `2c` would be for the third example("c") of the second definition ("2").
