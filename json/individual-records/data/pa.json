@@ -1,13 +1,5 @@
 {
-  "hiragana": [
-    "ぱ",
-    "ぱっ",
-    "ぱあ",
-    "ぱあっ",
-    "ぱぁ",
-    "ぱぁっ",
-    "ぱああ"
-  ],
+  "literal": "pa",
   "katakana": [
     "パ",
     "パッ",
@@ -17,8 +9,18 @@
     "パァッ",
     "パアア"
   ],
+  "hiragana": [
+    "ぱ",
+    "ぱっ",
+    "ぱあ",
+    "ぱあっ",
+    "ぱぁ",
+    "ぱぁっ",
+    "ぱああ"
+  ],
   "definition": [
     {
+      "meaning": "to brighten or shine suddenly",
       "equivalent": [
         "bright",
         "brighten",
@@ -27,23 +29,23 @@
         "light up",
         "shine"
       ],
-      "meaning": "to brighten or shine sudddenly",
       "example": [
         {
+          "source": "d_genesis",
           "file": "pa-1a",
-          "contributor": "",
           "display": "パアア",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "pa-1b",
-          "contributor": "",
           "display": "パァッ",
-          "source": "d_genesis"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "to become glad, happy, or excited",
       "equivalent": [
         "brighten",
         "cheer up",
@@ -55,14 +57,14 @@
         "perk up",
         "shine"
       ],
-      "meaning": "to become glad, happy, or excited",
-      "example": [{
-        "file": "pa-2a",
-        "contributor": "",
-        "display": "パアア",
-        "source": "reincarnated_farm_girl"
-      }]
+      "example": [
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "pa-2a",
+          "display": "パアア",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "pa"
+  ]
 }

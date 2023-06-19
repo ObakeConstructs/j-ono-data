@@ -1,23 +1,31 @@
 {
-  "hiragana": ["わくわく"],
-  "katakana": ["ワクワク"],
-  "definition": [{
-    "equivalent": [
-      "deligthed",
-      "eager",
-      "excited",
-      "glad glad",
-      "gleeful",
-      "joy joy",
-      "pleased"
-    ],
-    "meaning": "an expression of enthusiasm and eagerness",
-    "example": [{
-      "file": "waku_waku-1a",
-      "contributor": "",
-      "display": "わく  わく",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "waku waku"
+  "literal": "waku waku",
+  "katakana": [
+    "ワクワク"
+  ],
+  "hiragana": [
+    "わくわく"
+  ],
+  "definition": [
+    {
+      "meaning": "an expression of enthusiasm and eagerness",
+      "equivalent": [
+        "delighted",
+        "eager",
+        "excited",
+        "glad glad",
+        "gleeful",
+        "joy joy",
+        "pleased"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "waku_waku-1a",
+          "display": "わく  わく",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,57 +1,59 @@
 {
-  "hiragana": [
-    "ぐい",
-    "ぐいっ",
-    "ぐぃ",
-    "ぐぃっ"
-  ],
+  "literal": "gui",
   "katakana": [
     "グイ",
     "グイッ",
     "グィ",
     "グィッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "get",
-      "grab",
-      "nab",
-      "pull",
-      "sieze",
-      "snag",
-      "snatch",
-      "take",
-      "tug",
-      "wrest",
-      "yank"
-    ],
-    "meaning": "to take or seize, typically with a sudden motion or grasp",
-    "example": [
-      {
-        "file": "gui-1a",
-        "contributor": "",
-        "display": "ぐいっ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "gui-1b",
-        "contributor": "",
-        "display": "ぐぃっ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "gui-1c",
-        "contributor": "",
-        "display": "グイ",
-        "source": "marginal_taylor"
-      },
-      {
-        "file": "gui-1d",
-        "contributor": "",
-        "display": "グイッ",
-        "source": "otherworld_material_collector"
-      }
-    ]
-  }],
-  "literal": "gui"
+  "hiragana": [
+    "ぐい",
+    "ぐいっ",
+    "ぐぃ",
+    "ぐぃっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to take or seize, typically with a sudden motion or grasp",
+      "equivalent": [
+        "get",
+        "grab",
+        "nab",
+        "pull",
+        "seize",
+        "snag",
+        "snatch",
+        "take",
+        "tug",
+        "wrest",
+        "yank"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gui-1a",
+          "display": "ぐいっ",
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "gui-1b",
+          "display": "ぐぃっ",
+          "contributor": ""
+        },
+        {
+          "source": "marginal_taylor",
+          "file": "gui-1c",
+          "display": "グイ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "gui-1d",
+          "display": "グイッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
