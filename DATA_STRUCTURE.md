@@ -16,7 +16,7 @@ All source records are stored in a single JSON array in the `j-ono-source.json` 
   * an array of "source" objects.
 * Each "source" object contains
   * an "id" name string
-  * a "manga" name string
+  * a "manga" title string
 
 Example Soure Record:
 ```
