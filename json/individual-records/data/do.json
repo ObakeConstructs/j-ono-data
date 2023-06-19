@@ -1,18 +1,20 @@
 {
-  "hiragana": [
-    "ど",
-    "どっ",
-    "どぉ",
-    "どぉっ"
-  ],
+  "literal": "do",
   "katakana": [
     "ド",
     "ドッ",
     "ドォ",
     "ドォッ"
   ],
+  "hiragana": [
+    "ど",
+    "どっ",
+    "どぉ",
+    "どぉっ"
+  ],
   "definition": [
     {
+      "meaning": "a large impact or explosion",
       "equivalent": [
         "bam",
         "bang",
@@ -21,17 +23,32 @@
         "crack",
         "pop",
         "whomp",
-        "whump"
+        "whump",
+        "blam",
+        "blow",
+        "crash",
+        "smash",
+        "strike",
+        "wham",
+        "impact"
       ],
-      "meaning": "a relatively small explosion",
-      "example": [{
-        "file": "do-1a",
-        "contributor": "",
-        "display": "ドッ",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "do-1a",
+          "display": "ドッ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_thread_master",
+          "file": "do-1b",
+          "display": "ドッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "an explosive outburst of laughter",
       "equivalent": [
         "boff",
         "doh",
@@ -40,14 +57,14 @@
         "snort",
         "whoop"
       ],
-      "meaning": "an explosive outburst of laughter",
-      "example": [{
-        "file": "do-2a",
-        "contributor": "",
-        "display": "どっ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "example": [
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "do-2a",
+          "display": "どっ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "do"
+  ]
 }

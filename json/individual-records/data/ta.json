@@ -1,18 +1,20 @@
 {
-  "hiragana": [
-    "た",
-    "たっ",
-    "たー",
-    "たーっ"
-  ],
+  "literal": "ta",
   "katakana": [
     "タ",
     "タッ",
     "ター",
     "ターッ"
   ],
+  "hiragana": [
+    "た",
+    "たっ",
+    "たー",
+    "たーっ"
+  ],
   "definition": [
     {
+      "meaning": "to quickly or suddenly jump",
       "equivalent": [
         "bolt",
         "bound",
@@ -20,15 +22,17 @@
         "leap",
         "vault"
       ],
-      "meaning": "to quickly or suddenly jump",
-      "example": [{
-        "file": "ta-1a",
-        "contributor": "",
-        "display": "タッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "ta-1a",
+          "display": "タッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "to run or start running",
       "equivalent": [
         "bolt",
         "charge",
@@ -39,14 +43,20 @@
         "rush",
         "sprint"
       ],
-      "meaning": "to run or start running",
-      "example": [{
-        "file": "ta-2a",
-        "contributor": "",
-        "display": "たっ",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "ta-2a",
+          "display": "たっ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_thread_master",
+          "file": "ta-2b",
+          "display": "タッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ta"
+  ]
 }

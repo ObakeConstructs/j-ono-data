@@ -58,10 +58,10 @@
         "crunch",
         "crush",
         "step",
-        "walk",
         "stomp",
+        "tap",
         "tread",
-        "tap"
+        "walk"
       ],
       "example": [
         {
@@ -74,6 +74,12 @@
           "source": "peter_grill",
           "file": "za-2b",
           "display": "ザッ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_thread_master",
+          "file": "za-2c",
+          "display": "ざっ",
           "contributor": ""
         }
       ]

@@ -110,14 +110,28 @@
       "meaning": "the sound of a stomach growling, expressing hunger",
       "equivalent": [
         "growl",
-        "rumble",
-        "grr"
+        "grr",
+        "rumble"
       ],
       "example": [
         {
           "source": "fushi_no_kami",
           "file": "gu-4a",
           "display": "ぐぅぅぅぅぅ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a gesture of approval or encouragement by way of a thumbs-up",
+      "equivalent": [
+        "thumbs-up"
+      ],
+      "example": [
+        {
+          "source": "strongest_thread_master",
+          "file": "gu-5a",
+          "display": "ぐっ",
           "contributor": ""
         }
       ]

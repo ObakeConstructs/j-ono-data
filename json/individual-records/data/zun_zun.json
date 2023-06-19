@@ -1,19 +1,41 @@
 {
-  "hiragana": ["ずんずん"],
-  "katakana": ["ズンズン"],
-  "definition": [{
-    "equivalent": [
-      "step step",
-      "tap tap",
-      "thump thump"
-    ],
-    "meaning": "to walk quickly, almost a run",
-    "example": [{
-      "file": "zun_zun-1a",
-      "contributor": "",
-      "display": "ずん  ずん",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "zun zun"
+  "literal": "zun zun",
+  "katakana": [
+    "ズンズン"
+  ],
+  "hiragana": [
+    "ずんずん"
+  ],
+  "definition": [
+    {
+      "meaning": "to walk or run quickly",
+      "equivalent": [
+        "step step",
+        "tap tap",
+        "thump thump",
+        "jog jog",
+        "trot trot",
+        "sprint sprint",
+        "dash dash",
+        "scurry scurry",
+        "scoot scoot",
+        "rush rush",
+        "chase chase"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "zun_zun-1a",
+          "display": "ずん  ずん",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_thread_master",
+          "file": "zun_zun-1b",
+          "display": "ズン  ズン...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

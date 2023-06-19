@@ -1,25 +1,36 @@
 {
-  "hiragana": [
-    "と",
-    "とっ"
-  ],
+  "literal": "to",
   "katakana": [
     "ト",
     "トッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "flick",
-      "pat",
-      "tap"
-    ],
-    "meaning": "a soft, quick tap",
-    "example": [{
-      "file": "to-1a",
-      "contributor": "",
-      "display": "トッ",
-      "source": "reincarnated_aristocrat"
-    }]
-  }],
-  "literal": "to"
+  "hiragana": [
+    "と",
+    "とっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a soft ninja-like landing",
+      "equivalent": [
+        "flick",
+        "pat",
+        "tap",
+        "land"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "to-1a",
+          "display": "トッ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_thread_master",
+          "file": "to-1b",
+          "display": "トッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

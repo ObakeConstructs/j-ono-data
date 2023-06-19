@@ -1200,7 +1200,7 @@
         "poof",
         "puff"
       ],
-      "meaning": "the sound of a magical effect, often accompanied with cute puffs of smoke or dust, as in magically appearing or disappearing",
+      "meaning": "the sound of something magically appearing or disappearing, often with little clouds of smoke",
       "example": [{
         "file": "bofun-1a",
         "contributor": "",
@@ -2575,20 +2575,35 @@
         "equivalent": [
           "bam",
           "bang",
+          "blam",
           "blast",
+          "blow",
           "boom",
           "crack",
+          "crash",
+          "impact",
           "pop",
+          "smash",
+          "strike",
+          "wham",
           "whomp",
           "whump"
         ],
-        "meaning": "a relatively small explosion",
-        "example": [{
-          "file": "do-1a",
-          "contributor": "",
-          "display": "ドッ",
-          "source": "hello_work"
-        }]
+        "meaning": "a large impact or explosion",
+        "example": [
+          {
+            "file": "do-1a",
+            "contributor": "",
+            "display": "ドッ",
+            "source": "hello_work"
+          },
+          {
+            "file": "do-1b",
+            "contributor": "",
+            "display": "ドッ",
+            "source": "strongest_thread_master"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -5920,6 +5935,16 @@
           "display": "ぐぅぅぅぅぅ",
           "source": "fushi_no_kami"
         }]
+      },
+      {
+        "equivalent": ["thumbs-up"],
+        "meaning": "a gesture of approval or encouragement by way of a thumbs-up",
+        "example": [{
+          "file": "gu-5a",
+          "contributor": "",
+          "display": "ぐっ",
+          "source": "strongest_thread_master"
+        }]
       }
     ],
     "literal": "gu"
@@ -7417,6 +7442,44 @@
   },
   {
     "hiragana": [
+      "じゅうぅ",
+      "じゅー",
+      "じゅぅ",
+      "じゅぅぅ",
+      "じゅぅぅぅ",
+      "じゅう",
+      "じゅうう",
+      "じゅううう"
+    ],
+    "katakana": [
+      "ジュウゥ",
+      "ジュー",
+      "ジュゥ",
+      "ジュゥゥ",
+      "ジュゥゥゥ",
+      "ジュウ",
+      "ジュウウ",
+      "ジュウウウ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "burn",
+        "fizz",
+        "hiss",
+        "sizzle"
+      ],
+      "meaning": "a sizzling sound, as of meat cooking",
+      "example": [{
+        "file": "ju-1a",
+        "contributor": "",
+        "display": "ジュウウ...",
+        "source": "strongest_thread_master"
+      }]
+    }],
+    "literal": "ju"
+  },
+  {
+    "hiragana": [
       "じゅる",
       "じゅるっ"
     ],
@@ -7743,6 +7806,26 @@
       }]
     }],
     "literal": "kan kan"
+  },
+  {
+    "hiragana": ["かぱ"],
+    "katakana": ["カパ"],
+    "definition": [{
+      "equivalent": [
+        "chack",
+        "click",
+        "ka-chik",
+        "ker-chack"
+      ],
+      "meaning": "the sound of something opening",
+      "example": [{
+        "file": "kapa-1a",
+        "contributor": "",
+        "display": "カパ",
+        "source": "strongest_thread_master"
+      }]
+    }],
+    "literal": "kapa"
   },
   {
     "hiragana": [
@@ -9980,7 +10063,7 @@
           "tap",
           "tick"
         ],
-        "meaning": "the sound of a short sharp click, as with placing a piece on a go board",
+        "meaning": "the sound of a short sharp click",
         "example": [
           {
             "file": "pachi-1a",
@@ -9993,6 +10076,12 @@
             "contributor": "",
             "display": "パチッ",
             "source": "hikaro_no_go"
+          },
+          {
+            "file": "pachi-1c",
+            "contributor": "",
+            "display": "パチッ",
+            "source": "strongest_thread_master"
           }
         ]
       },
@@ -11607,16 +11696,24 @@
     "definition": [
       {
         "equivalent": [
-          "pon",
-          "poof"
+          "poof",
+          "puff"
         ],
-        "meaning": "the sound of a magical effect, often accompanied with a cute puffs of smoke or dust, as in magically appearing or disappearing",
-        "example": [{
-          "file": "pon-1a",
-          "contributor": "",
-          "display": "ポンッ",
-          "source": "different_world_smartphone"
-        }]
+        "meaning": "the sound of something magically appearing or disappearing, often with little clouds of smoke",
+        "example": [
+          {
+            "file": "pon-1a",
+            "contributor": "",
+            "display": "ポンッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "pon-1b",
+            "contributor": "",
+            "display": "ポン",
+            "source": "strongest_thread_master"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -11837,13 +11934,21 @@
         "radiance",
         "shine"
       ],
-      "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
-      "example": [{
-        "file": "pou-1a",
-        "contributor": "",
-        "display": "ポゥ",
-        "source": "d_genesis"
-      }]
+      "meaning": "a bright glowing appearance, often from some sort of magical effect",
+      "example": [
+        {
+          "file": "pou-1a",
+          "contributor": "",
+          "display": "ポゥ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "pou-1b",
+          "contributor": "",
+          "display": "ポゥ...",
+          "source": "strongest_thread_master"
+        }
+      ]
     }],
     "literal": "pou"
   },
@@ -12934,24 +13039,26 @@
       "すっ",
       "すー",
       "すーっ",
-      "すう",
       "すぅ",
-      "すうう",
+      "すぅっ",
       "すぅぅ",
-      "すううう",
-      "すぅぅぅ"
+      "すぅぅぅ",
+      "すう",
+      "すうう",
+      "すううう"
     ],
     "katakana": [
       "ス",
       "スッ",
       "スー",
       "スーッ",
-      "スウ",
       "スゥ",
-      "スウウ",
+      "スゥッ",
       "スゥゥ",
-      "スウウウ",
-      "スゥゥゥ"
+      "スゥゥゥ",
+      "スウ",
+      "スウウ",
+      "スウウウ"
     ],
     "definition": [
       {
@@ -13056,6 +13163,12 @@
             "contributor": "",
             "display": "すぅ...",
             "source": "different_world_smartphone"
+          },
+          {
+            "file": "su-3c",
+            "contributor": "",
+            "display": "すぅっ...",
+            "source": "strongest_thread_master"
           }
         ]
       },
@@ -13219,7 +13332,7 @@
         "slash",
         "slice"
       ],
-      "meaning": "a fast, heavy cut, as with a sword or knife",
+      "meaning": "a fast cut, as with a sword or knife",
       "example": [
         {
           "file": "supa-1a",
@@ -13236,6 +13349,26 @@
       ]
     }],
     "literal": "supa"
+  },
+  {
+    "hiragana": ["すぱん"],
+    "katakana": ["スパン"],
+    "definition": [{
+      "equivalent": [
+        "cleave",
+        "cut",
+        "slash",
+        "slice"
+      ],
+      "meaning": "a fast cut, as with a sword or knife",
+      "example": [{
+        "file": "supan-1a",
+        "contributor": "",
+        "display": "スパン",
+        "source": "strongest_thread_master"
+      }]
+    }],
+    "literal": "supan"
   },
   {
     "hiragana": [
@@ -13569,12 +13702,20 @@
           "sprint"
         ],
         "meaning": "to run or start running",
-        "example": [{
-          "file": "ta-2a",
-          "contributor": "",
-          "display": "たっ",
-          "source": "abandoned_reincarnation_sage"
-        }]
+        "example": [
+          {
+            "file": "ta-2a",
+            "contributor": "",
+            "display": "たっ",
+            "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "ta-2b",
+            "contributor": "",
+            "display": "タッ",
+            "source": "strongest_thread_master"
+          }
+        ]
       }
     ],
     "literal": "ta"
@@ -13821,16 +13962,25 @@
     "definition": [{
       "equivalent": [
         "flick",
+        "land",
         "pat",
         "tap"
       ],
-      "meaning": "a soft, quick tap",
-      "example": [{
-        "file": "to-1a",
-        "contributor": "",
-        "display": "トッ",
-        "source": "reincarnated_aristocrat"
-      }]
+      "meaning": "a soft ninja-like landing",
+      "example": [
+        {
+          "file": "to-1a",
+          "contributor": "",
+          "display": "トッ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "to-1b",
+          "contributor": "",
+          "display": "トッ",
+          "source": "strongest_thread_master"
+        }
+      ]
     }],
     "literal": "to"
   },
@@ -14868,6 +15018,12 @@
             "contributor": "",
             "display": "ザッ",
             "source": "peter_grill"
+          },
+          {
+            "file": "za-2c",
+            "contributor": "",
+            "display": "ざっ",
+            "source": "strongest_thread_master"
           }
         ]
       }
@@ -15461,17 +15617,33 @@
     "katakana": ["ズンズン"],
     "definition": [{
       "equivalent": [
+        "chase chase",
+        "dash dash",
+        "jog jog",
+        "rush rush",
+        "scoot scoot",
+        "scurry scurry",
+        "sprint sprint",
         "step step",
         "tap tap",
-        "thump thump"
+        "thump thump",
+        "trot trot"
       ],
-      "meaning": "to walk quickly, almost a run",
-      "example": [{
-        "file": "zun_zun-1a",
-        "contributor": "",
-        "display": "ずん  ずん",
-        "source": "different_world_smartphone"
-      }]
+      "meaning": "to walk or run quickly",
+      "example": [
+        {
+          "file": "zun_zun-1a",
+          "contributor": "",
+          "display": "ずん  ずん",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "zun_zun-1b",
+          "contributor": "",
+          "display": "ズン  ズン...",
+          "source": "strongest_thread_master"
+        }
+      ]
     }],
     "literal": "zun zun"
   },
