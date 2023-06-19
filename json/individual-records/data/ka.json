@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "か",
-    "かっ",
-    "かー",
-    "かーっ",
-    "かあ",
-    "かああ",
-    "かぁ",
-    "かぁぁ"
-  ],
+  "literal": "ka",
   "katakana": [
     "カ",
     "カッ",
@@ -19,8 +10,19 @@
     "カァ",
     "カァァ"
   ],
+  "hiragana": [
+    "か",
+    "かっ",
+    "かー",
+    "かーっ",
+    "かあ",
+    "かああ",
+    "かぁ",
+    "かぁぁ"
+  ],
   "definition": [
     {
+      "meaning": "an expression of anger ",
       "equivalent": [
         "aggravated",
         "enraged",
@@ -35,15 +37,17 @@
         "rankled",
         "steamed"
       ],
-      "meaning": "an expression of anger ",
-      "example": [{
-        "file": "ka-1a",
-        "contributor": "",
-        "display": "カッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "ka-1a",
+          "display": "カッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "to brighten or shine suddenly",
       "equivalent": [
         "bright",
         "brighten",
@@ -52,15 +56,17 @@
         "light up",
         "shine"
       ],
-      "meaning": "to brighten or shine sudddenly",
-      "example": [{
-        "file": "ka-2a",
-        "contributor": "",
-        "display": "カッ",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "ka-2a",
+          "display": "カッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "the sound of writing something",
       "equivalent": [
         "click",
         "draw",
@@ -72,35 +78,35 @@
         "tap",
         "write"
       ],
-      "meaning": "the sound of writing something",
-      "example": [{
-        "file": "ka-3a",
-        "contributor": "",
-        "display": "カッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "ka-3a",
+          "display": "カッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "an expression of blushing, as from excitement or embarrassment",
       "equivalent": [
         "blush",
         "flush"
       ],
-      "meaning": "an expression of blushing, as from excitement or embarressment",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "ka-4a",
-          "contributor": "",
           "display": "かー",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "ka-4b",
-          "contributor": "",
           "display": "かぁぁ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "ka"
+  ]
 }

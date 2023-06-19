@@ -1,15 +1,25 @@
 {
-  "hiragana": ["ぺこ"],
-  "katakana": ["ペコ"],
-  "definition": [{
-    "equivalent": ["bow"],
-    "meaning": "bending the head or body in respect, deference or reverence",
-    "example": [{
-      "file": "peko-1a",
-      "contributor": "",
-      "display": "ぺこ",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "peko"
+  "literal": "peko",
+  "katakana": [
+    "ペコ"
+  ],
+  "hiragana": [
+    "ぺこ"
+  ],
+  "definition": [
+    {
+      "meaning": "bending the head or body in respect, deference, or reverence",
+      "equivalent": [
+        "bow"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "peko-1a",
+          "display": "ぺこ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

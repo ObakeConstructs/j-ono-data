@@ -1,34 +1,36 @@
 {
-  "hiragana": [
-    "ちゃき",
-    "ちゃきっ"
-  ],
+  "literal": "chaki",
   "katakana": [
     "チャキ",
     "チャキッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "chack",
-      "click",
-      "ka-chik",
-      "ker-chack"
-    ],
-    "meaning": "the sound of short, sharp, metalic clicks",
-    "example": [
-      {
-        "file": "chaki-1a",
-        "contributor": "",
-        "display": "チャキッ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "chaki-1b",
-        "contributor": "",
-        "display": "チャキ",
-        "source": "reincarnated_sage_daughters"
-      }
-    ]
-  }],
-  "literal": "chaki"
+  "hiragana": [
+    "ちゃき",
+    "ちゃきっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of short, sharp, metallic clicks",
+      "equivalent": [
+        "chack",
+        "click",
+        "ka-chik",
+        "ker-chack"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "chaki-1a",
+          "display": "チャキッ",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_sage_daughters",
+          "file": "chaki-1b",
+          "display": "チャキ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

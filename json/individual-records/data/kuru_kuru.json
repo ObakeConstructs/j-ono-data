@@ -1,22 +1,30 @@
 {
-  "hiragana": ["くるくる"],
-  "katakana": ["クルクル"],
-  "definition": [{
-    "equivalent": [
-      "pivot",
-      "spin",
-      "swing",
-      "swivel",
-      "turn",
-      "twist"
-    ],
-    "meaning": "to turn or spin something something",
-    "example": [{
-      "file": "kuru_kuru-1a",
-      "contributor": "",
-      "display": "くる  くる",
-      "source": "reincarnated_sage_daughters"
-    }]
-  }],
-  "literal": "kuru kuru"
+  "literal": "kuru kuru",
+  "katakana": [
+    "クルクル"
+  ],
+  "hiragana": [
+    "くるくる"
+  ],
+  "definition": [
+    {
+      "meaning": "to turn or spin something",
+      "equivalent": [
+        "pivot",
+        "spin",
+        "swing",
+        "swivel",
+        "turn",
+        "twist"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_sage_daughters",
+          "file": "kuru_kuru-1a",
+          "display": "くる  くる",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

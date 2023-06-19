@@ -1,18 +1,26 @@
 {
-  "hiragana": ["ぼふん"],
-  "katakana": ["ボフン"],
-  "definition": [{
-    "equivalent": [
-      "poof",
-      "puff"
-    ],
-    "meaning": "the sound of a magical effect, often accompanied with a cute puffs of smoke or dust, as in magically appearing or disappearing",
-    "example": [{
-      "file": "bofun-1a",
-      "contributor": "",
-      "display": "ボフン",
-      "source": "otherworld_material_collector"
-    }]
-  }],
-  "literal": "bofun"
+  "literal": "bofun",
+  "katakana": [
+    "ボフン"
+  ],
+  "hiragana": [
+    "ぼふん"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of a magical effect, often accompanied with cute puffs of smoke or dust, as in magically appearing or disappearing",
+      "equivalent": [
+        "poof",
+        "puff"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "bofun-1a",
+          "display": "ボフン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

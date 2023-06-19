@@ -1,44 +1,46 @@
 {
-  "hiragana": [
-    "くす",
-    "くすっ"
-  ],
+  "literal": "kusu",
   "katakana": [
     "クス",
     "クスッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "chortle",
-      "chuckle",
-      "giggle",
-      "heh",
-      "laugh",
-      "snicker",
-      "snigger",
-      "titter"
-    ],
-    "meaning": "a small light laugh, sometimes associated with to arrogant or wry humor",
-    "example": [
-      {
-        "file": "kusu-1a",
-        "contributor": "",
-        "display": "くす",
-        "source": "d_genesis"
-      },
-      {
-        "file": "kusu-1b",
-        "contributor": "",
-        "display": "クス",
-        "source": "d_genesis"
-      },
-      {
-        "file": "kusu-1c",
-        "contributor": "",
-        "display": "くすっ",
-        "source": "world_full_of_monsters"
-      }
-    ]
-  }],
-  "literal": "kusu"
+  "hiragana": [
+    "くす",
+    "くすっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a small light laugh, sometimes associated with arrogant or wry humor",
+      "equivalent": [
+        "chortle",
+        "chuckle",
+        "giggle",
+        "heh",
+        "laugh",
+        "snicker",
+        "snigger",
+        "titter"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "kusu-1a",
+          "display": "くす",
+          "contributor": ""
+        },
+        {
+          "source": "d_genesis",
+          "file": "kusu-1b",
+          "display": "クス",
+          "contributor": ""
+        },
+        {
+          "source": "world_full_of_monsters",
+          "file": "kusu-1c",
+          "display": "くすっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
