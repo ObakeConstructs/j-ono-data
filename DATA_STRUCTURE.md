@@ -1,7 +1,7 @@
 J-ONO keeps all its data in within two JSON files: a "sources" file (`json/j-ono-source.json`), and a "data" file (`json/j-ono-data.json`).
 
 ## SOURCES FILE
-All source records are stored in a single JSON array in the `j-ono-source.json` file.  Image objects within the data file refer to these sources records.
+All source records are stored in a single JSON array in the `j-ono-source.json` file.  Image objects within the data file refer variously to these source records.
 ```
 [
   { source record },
