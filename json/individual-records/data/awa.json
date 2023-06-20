@@ -1,0 +1,36 @@
+{
+  "literal": "awa",
+  "katakana": [
+    "アワ",
+    "アワワ"
+  ],
+  "hiragana": [
+    "あわ",
+    "あわわ"
+  ],
+  "definition": [
+    {
+      "meaning": "an expression of panic, anxiety, or uncertainty",
+      "equivalent": [
+        "agitation",
+        "anxiety",
+        "dismay",
+        "fluster",
+        "jitter",
+        "nervous",
+        "panic",
+        "uh",
+        "um",
+        "worry"
+      ],
+      "example": [
+        {
+          "source": "isekai_territory_reform",
+          "file": "awa-1a",
+          "display": "あわわ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

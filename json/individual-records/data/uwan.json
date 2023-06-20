@@ -1,0 +1,45 @@
+{
+  "literal": "uwan",
+  "katakana": [
+    "ウワン",
+    "ウワーン",
+    "ウワァン",
+    "ウワァァン",
+    "ウワァァァン",
+    "ウワアン",
+    "ウワアアン",
+    "ウワアアアン"
+  ],
+  "hiragana": [
+    "うわん",
+    "うわーん",
+    "うわぁん",
+    "うわぁぁん",
+    "うわぁぁぁん",
+    "うわあん",
+    "うわああん",
+    "うわあああん"
+  ],
+  "definition": [
+    {
+      "meaning": "to cry loudly indicating pain or distress",
+      "equivalent": [
+        "cry",
+        "bawl",
+        "waah",
+        "wail",
+        "keen",
+        "shriek",
+        "squall"
+      ],
+      "example": [
+        {
+          "source": "isekai_territory_reform",
+          "file": "uwan-1a",
+          "display": "うわぁぁぁん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

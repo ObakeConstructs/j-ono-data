@@ -1,0 +1,31 @@
+{
+  "literal": "zuki",
+  "katakana": [
+    "ズキ",
+    "ズキッ"
+  ],
+  "hiragana": [
+    "ずき",
+    "ずきっ"
+  ],
+  "definition": [
+    {
+      "meaning": "an expression of sharp pain",
+      "equivalent": [
+        "ache",
+        "hurt",
+        "pain",
+        "throb",
+        "sting"
+      ],
+      "example": [
+        {
+          "source": "isekai_territory_reform",
+          "file": "zuki-1a",
+          "display": "ズキッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

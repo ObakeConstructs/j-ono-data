@@ -1,27 +1,41 @@
 {
-  "hiragana": ["ゔん"],
-  "katakana": ["ヴン"],
-  "definition": [{
-    "equivalent": [
-      "fwoom",
-      "voom",
-      "whoom"
-    ],
-    "meaning": "the sound of some sort of magic taking effect or causing something to appear",
-    "example": [
-      {
-        "file": "vun-1a",
-        "contributor": "",
-        "display": "ヴン",
-        "source": "hello_work"
-      },
-      {
-        "file": "vun-1b",
-        "contributor": "",
-        "display": "ヴン",
-        "source": "kuma_kuma_kuma_bear"
-      }
-    ]
-  }],
-  "literal": "vun"
+  "literal": "vun",
+  "katakana": [
+    "ヴン",
+    "ヴンッ"
+  ],
+  "hiragana": [
+    "ゔん",
+    "ゔんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of some sort of magic taking effect or causing something to appear",
+      "equivalent": [
+        "fwoom",
+        "voom",
+        "whoom"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "vun-1a",
+          "display": "ヴン",
+          "contributor": ""
+        },
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "vun-1b",
+          "display": "ヴン",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_territory_reform",
+          "file": "vun-1c",
+          "display": "ヴンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

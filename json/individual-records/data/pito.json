@@ -1,26 +1,36 @@
 {
-  "hiragana": [
-    "ぴと",
-    "ぴとっ"
-  ],
+  "literal": "pito",
   "katakana": [
     "ピト",
     "ピトッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "brush",
-      "caress",
-      "feel",
-      "touch"
-    ],
-    "meaning": "a gentle touch",
-    "example": [{
-      "file": "pito-1a",
-      "contributor": "",
-      "display": "ぴと",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "pito"
+  "hiragana": [
+    "ぴと",
+    "ぴとっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a gentle touch",
+      "equivalent": [
+        "brush",
+        "caress",
+        "feel",
+        "touch"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "pito-1a",
+          "display": "ぴと",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_territory_reform",
+          "file": "pito-1b",
+          "display": "ピトッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

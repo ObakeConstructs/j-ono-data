@@ -8,7 +8,7 @@
   ],
   "definition": [
     {
-      "meaning": "a series of strokes in a tender or affectionate manner",
+      "meaning": "a series of strokes in a tender or affectionate manner, usually on the top of the head",
       "equivalent": [
         "caress caress",
         "pamper",
@@ -26,6 +26,12 @@
         {
           "source": "s_rank_behemoth",
           "file": "nade_nade-1b",
+          "display": "なで  なで",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_territory_reform",
+          "file": "nade_nade-1c",
           "display": "なで  なで",
           "contributor": ""
         }

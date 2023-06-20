@@ -98,6 +98,38 @@
     "literal": "an"
   },
   {
+    "hiragana": [
+      "あわ",
+      "あわわ"
+    ],
+    "katakana": [
+      "アワ",
+      "アワワ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "agitation",
+        "anxiety",
+        "dismay",
+        "fluster",
+        "jitter",
+        "nervous",
+        "panic",
+        "uh",
+        "um",
+        "worry"
+      ],
+      "meaning": "an expression of panic, anxiety, or uncertainty",
+      "example": [{
+        "file": "awa-1a",
+        "contributor": "",
+        "display": "あわわ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "awa"
+  },
+  {
     "hiragana": ["あわあわ"],
     "katakana": ["アワアワ"],
     "definition": [{
@@ -405,6 +437,25 @@
       ]
     }],
     "literal": "ban"
+  },
+  {
+    "hiragana": ["ばらばら"],
+    "katakana": ["バラバラ"],
+    "definition": [{
+      "equivalent": [
+        "break",
+        "crumble",
+        "fall apart"
+      ],
+      "meaning": "to crumble or fall apart",
+      "example": [{
+        "file": "bara_bara-1a",
+        "contributor": "",
+        "display": "バラ  バラ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "bara bara"
   },
   {
     "hiragana": [
@@ -1391,16 +1442,27 @@
         "boing",
         "bounce",
         "carom",
+        "jiggle",
         "rebound",
-        "ricochet"
+        "ricochet",
+        "squish",
+        "wiggle"
       ],
       "meaning": "the sound of something bouncing",
-      "example": [{
-        "file": "boyon-1a",
-        "contributor": "",
-        "display": "ボョンッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "boyon-1a",
+          "contributor": "",
+          "display": "ボョンッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "boyon-1b",
+          "contributor": "",
+          "display": "ぼょんっ",
+          "source": "isekai_territory_reform"
+        }
+      ]
     }],
     "literal": "boyon"
   },
@@ -2820,6 +2882,31 @@
   },
   {
     "hiragana": [
+      "どき",
+      "どきっ"
+    ],
+    "katakana": [
+      "ドキ",
+      "ドキッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ba-dump",
+        "heartbeat",
+        "thump"
+      ],
+      "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
+      "example": [{
+        "file": "doki-1a",
+        "contributor": "",
+        "display": "ドキッ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "doki"
+  },
+  {
+    "hiragana": [
       "どきどき",
       "どっきどっき"
     ],
@@ -3216,10 +3303,12 @@
   {
     "hiragana": [
       "どす",
+      "どすっ",
       "どすぅ"
     ],
     "katakana": [
       "ドス",
+      "ドスッ",
       "ドスゥ"
     ],
     "definition": [
@@ -3244,7 +3333,7 @@
           "thunk",
           "wham"
         ],
-        "meaning": "the sound of a strike in a fight, typically non-lethal",
+        "meaning": "the sound of a strike in a fight, usually non-lethal",
         "example": [
           {
             "file": "dosu-1a",
@@ -3257,6 +3346,12 @@
             "contributor": "",
             "display": "ドスゥ",
             "source": "different_world_smartphone"
+          },
+          {
+            "file": "dosu-1c",
+            "contributor": "",
+            "display": "ドスッ",
+            "source": "isekai_territory_reform"
           }
         ]
       },
@@ -3376,6 +3471,33 @@
       }
     ],
     "literal": "do do"
+  },
+  {
+    "hiragana": [
+      "エへ",
+      "エへへ"
+    ],
+    "katakana": [
+      "えへ",
+      "えへへ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "chuckle",
+        "grin",
+        "heh",
+        "heh heh",
+        "titter"
+      ],
+      "meaning": "strained, forced, or embarrassed laughter",
+      "example": [{
+        "file": "ehe-1a",
+        "contributor": "",
+        "display": "えへへ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "ehe"
   },
   {
     "hiragana": ["ふぁあ"],
@@ -4090,7 +4212,7 @@
           "stand",
           "suddenly"
         ],
-        "meaning": "to suddenly sit or stand up",
+        "meaning": "suddenly sitting or standing up",
         "example": [
           {
             "file": "gaba-1a",
@@ -4127,13 +4249,21 @@
           "hold",
           "hug"
         ],
-        "meaning": "the act of putting one's arms around someone and holding tightly",
-        "example": [{
-          "file": "gaba-2a",
-          "contributor": "",
-          "display": "がば",
-          "source": "d_genesis"
-        }]
+        "meaning": "hugging someone",
+        "example": [
+          {
+            "file": "gaba-2a",
+            "contributor": "",
+            "display": "がば",
+            "source": "d_genesis"
+          },
+          {
+            "file": "gaba-2b",
+            "contributor": "",
+            "display": "がばっ",
+            "source": "isekai_territory_reform"
+          }
+        ]
       }
     ],
     "literal": "gaba"
@@ -5929,12 +6059,20 @@
           "rumble"
         ],
         "meaning": "the sound of a stomach growling, expressing hunger",
-        "example": [{
-          "file": "gu-4a",
-          "contributor": "",
-          "display": "ぐぅぅぅぅぅ",
-          "source": "fushi_no_kami"
-        }]
+        "example": [
+          {
+            "file": "gu-4a",
+            "contributor": "",
+            "display": "ぐぅぅぅぅぅ",
+            "source": "fushi_no_kami"
+          },
+          {
+            "file": "gu-5b",
+            "contributor": "",
+            "display": "ぐー",
+            "source": "isekai_territory_reform"
+          }
+        ]
       },
       {
         "equivalent": ["thumbs-up"],
@@ -7441,6 +7579,29 @@
     "literal": "jiro"
   },
   {
+    "hiragana": ["じわっ"],
+    "katakana": ["ジワッ"],
+    "definition": [{
+      "equivalent": [
+        "sad",
+        "sniff",
+        "sniffle",
+        "sorrow",
+        "tears",
+        "weep",
+        "whimper"
+      ],
+      "meaning": "on the verge of tears, expressing sad emotions",
+      "example": [{
+        "file": "jiwa-1a",
+        "contributor": "",
+        "display": "じわっ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "jiwa"
+  },
+  {
     "hiragana": [
       "じゅうぅ",
       "じゅー",
@@ -7603,11 +7764,44 @@
             "contributor": "",
             "display": "かぁぁ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "ka-4c",
+            "contributor": "",
+            "display": "カーッ",
+            "source": "isekai_territory_reform"
           }
         ]
       }
     ],
     "literal": "ka"
+  },
+  {
+    "hiragana": [
+      "かば",
+      "かばっ"
+    ],
+    "katakana": [
+      "カバ",
+      "カバッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "arise",
+        "get up",
+        "rise",
+        "sit up",
+        "up"
+      ],
+      "meaning": "to get up or sit up, as from a bed",
+      "example": [{
+        "file": "kaba-1a",
+        "contributor": "",
+        "display": "かばっ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "kaba"
   },
   {
     "hiragana": [
@@ -8251,13 +8445,21 @@
         "sparkle",
         "twinkle"
       ],
-      "meaning": "a bright flash of light",
-      "example": [{
-        "file": "kira-1a",
-        "contributor": "",
-        "display": "キラッ",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "a small reflection or twinkle of light",
+      "example": [
+        {
+          "file": "kira-1a",
+          "contributor": "",
+          "display": "キラッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "kira-1b",
+          "contributor": "",
+          "display": "きらっ",
+          "source": "isekai_territory_reform"
+        }
+      ]
     }],
     "literal": "kira"
   },
@@ -9081,6 +9283,27 @@
     "literal": "kyan"
   },
   {
+    "hiragana": ["きょろ"],
+    "katakana": ["キョロ"],
+    "definition": [{
+      "equivalent": [
+        "glance",
+        "glimpse",
+        "look",
+        "search",
+        "view"
+      ],
+      "meaning": "to look around or to search",
+      "example": [{
+        "file": "kyoro-1a",
+        "contributor": "",
+        "display": "きょろ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "kyoro"
+  },
+  {
     "hiragana": ["きょろきょろ"],
     "katakana": ["キョロキョロ"],
     "definition": [{
@@ -9573,6 +9796,37 @@
     "literal": "mun"
   },
   {
+    "hiragana": [
+      "ムニ",
+      "ムニー"
+    ],
+    "katakana": [
+      "むに",
+      "むにー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "caress",
+        "feel",
+        "fondle",
+        "knead",
+        "pat",
+        "pet",
+        "squeeze",
+        "stroke",
+        "touch"
+      ],
+      "meaning": "touching, fondling, or squeezing someone else",
+      "example": [{
+        "file": "muni-1a",
+        "contributor": "",
+        "display": "むにー",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "muni"
+  },
+  {
     "hiragana": ["むにゃ"],
     "katakana": ["ムニャ"],
     "definition": [{
@@ -9654,6 +9908,52 @@
     "literal": "munyun"
   },
   {
+    "hiragana": [
+      "むた",
+      "むたっ"
+    ],
+    "katakana": [
+      "ムタ",
+      "ムタッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "jab",
+        "nudge",
+        "poke",
+        "prod"
+      ],
+      "meaning": "to poke or jab with a finger",
+      "example": [{
+        "file": "muta-1a",
+        "contributor": "",
+        "display": "むたっ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "muta"
+  },
+  {
+    "hiragana": ["むたむた"],
+    "katakana": ["ムタムタ"],
+    "definition": [{
+      "equivalent": [
+        "jab jab",
+        "nudge nudge",
+        "poke poke",
+        "prod prod"
+      ],
+      "meaning": "a series of pokes or jabs with a finger",
+      "example": [{
+        "file": "muta_muta-1a",
+        "contributor": "",
+        "display": "むた  むた  むた  むた  むた  むた",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "muta muta"
+  },
+  {
     "hiragana": ["なでなで"],
     "katakana": ["ナデナデ"],
     "definition": [{
@@ -9664,7 +9964,7 @@
         "pet pet",
         "stroke stroke"
       ],
-      "meaning": "a series of strokes in a tender or affectionate manner",
+      "meaning": "a series of strokes in a tender or affectionate manner, usually on the top of the head",
       "example": [
         {
           "file": "nade_nade-1a",
@@ -9677,6 +9977,12 @@
           "contributor": "",
           "display": "なで  なで",
           "source": "s_rank_behemoth"
+        },
+        {
+          "file": "nade_nade-1c",
+          "contributor": "",
+          "display": "なで  なで",
+          "source": "isekai_territory_reform"
         }
       ]
     }],
@@ -11559,12 +11865,20 @@
         "touch"
       ],
       "meaning": "a gentle touch",
-      "example": [{
-        "file": "pito-1a",
-        "contributor": "",
-        "display": "ぴと",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "pito-1a",
+          "contributor": "",
+          "display": "ぴと",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "pito-1b",
+          "contributor": "",
+          "display": "ピトッ",
+          "source": "isekai_territory_reform"
+        }
+      ]
     }],
     "literal": "pito"
   },
@@ -12143,6 +12457,38 @@
       }]
     }],
     "literal": "pui"
+  },
+  {
+    "hiragana": [
+      "ぷん",
+      "ぷんっ"
+    ],
+    "katakana": [
+      "プン",
+      "プンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "angry",
+        "annoyed",
+        "indignant",
+        "irked",
+        "irritated",
+        "mad",
+        "peeved",
+        "petulant",
+        "pissed",
+        "resentful"
+      ],
+      "meaning": "an expression of irritation or annoyance, usually associated with young girls",
+      "example": [{
+        "file": "pun-1a",
+        "contributor": "",
+        "display": "ぷんっ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "pun"
   },
   {
     "hiragana": ["ぷるん"],
@@ -14602,6 +14948,47 @@
   },
   {
     "hiragana": [
+      "うわん",
+      "うわーん",
+      "うわぁん",
+      "うわぁぁん",
+      "うわぁぁぁん",
+      "うわあん",
+      "うわああん",
+      "うわあああん"
+    ],
+    "katakana": [
+      "ウワン",
+      "ウワーン",
+      "ウワァン",
+      "ウワァァン",
+      "ウワァァァン",
+      "ウワアン",
+      "ウワアアン",
+      "ウワアアアン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bawl",
+        "cry",
+        "keen",
+        "shriek",
+        "squall",
+        "waah",
+        "wail"
+      ],
+      "meaning": "to cry loudly indicating pain or distress",
+      "example": [{
+        "file": "uwan-1a",
+        "contributor": "",
+        "display": "うわぁぁぁん",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "uwan"
+  },
+  {
+    "hiragana": [
       "うぞ",
       "うぞぞ"
     ],
@@ -14681,8 +15068,14 @@
     "literal": "vu"
   },
   {
-    "hiragana": ["ゔん"],
-    "katakana": ["ヴン"],
+    "hiragana": [
+      "ゔん",
+      "ゔんっ"
+    ],
+    "katakana": [
+      "ヴン",
+      "ヴンッ"
+    ],
     "definition": [{
       "equivalent": [
         "fwoom",
@@ -14702,6 +15095,12 @@
           "contributor": "",
           "display": "ヴン",
           "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "vun-1c",
+          "contributor": "",
+          "display": "ヴンッ",
+          "source": "isekai_territory_reform"
         }
       ]
     }],
@@ -14817,13 +15216,21 @@
         "joy joy",
         "pleased"
       ],
-      "meaning": "an expression of enthusiasm and eagerness",
-      "example": [{
-        "file": "waku_waku-1a",
-        "contributor": "",
-        "display": "わく  わく",
-        "source": "different_world_smartphone"
-      }]
+      "meaning": "an expression of enthusiasm or eager anticipation",
+      "example": [
+        {
+          "file": "waku_waku-1a",
+          "contributor": "",
+          "display": "わく  わく",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "waku_waku-1b",
+          "contributor": "",
+          "display": "わく  わく  わく",
+          "source": "isekai_territory_reform"
+        }
+      ]
     }],
     "literal": "waku waku"
   },
@@ -14932,13 +15339,21 @@
         "waver",
         "wobble"
       ],
-      "meaning": "expressing a difficulty maintaining one's balance",
-      "example": [{
-        "file": "yura-1a",
-        "contributor": "",
-        "display": "ゆらっ",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "an indication of moving unsteadily",
+      "example": [
+        {
+          "file": "yura-1a",
+          "contributor": "",
+          "display": "ゆらっ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "yura-1b",
+          "contributor": "",
+          "display": "ユラッ",
+          "source": "isekai_territory_reform"
+        }
+      ]
     }],
     "literal": "yura"
   },
@@ -15357,18 +15772,34 @@
     ],
     "definition": [{
       "equivalent": [
+        "alarm",
+        "disgust",
+        "dismay",
+        "distaste",
+        "dread",
+        "fear",
+        "panic",
         "quiver",
+        "repulsion",
         "shiver",
         "shudder",
         "tremble"
       ],
-      "meaning": "an indication of shaking",
-      "example": [{
-        "file": "zowa-1a",
-        "contributor": "",
-        "display": "ぞわっ",
-        "source": "reincarnated_aristocrat"
-      }]
+      "meaning": "an indication of fear or disgust",
+      "example": [
+        {
+          "file": "zowa-1a",
+          "contributor": "",
+          "display": "ぞわっ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "zowa-1b",
+          "contributor": "",
+          "display": "ゾワッ",
+          "source": "isekai_territory_reform"
+        }
+      ]
     }],
     "literal": "zowa"
   },
@@ -15552,6 +15983,33 @@
       }
     ],
     "literal": "zui"
+  },
+  {
+    "hiragana": [
+      "ずき",
+      "ずきっ"
+    ],
+    "katakana": [
+      "ズキ",
+      "ズキッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ache",
+        "hurt",
+        "pain",
+        "sting",
+        "throb"
+      ],
+      "meaning": "an expression of sharp pain",
+      "example": [{
+        "file": "zuki-1a",
+        "contributor": "",
+        "display": "ズキッ",
+        "source": "isekai_territory_reform"
+      }]
+    }],
+    "literal": "zuki"
   },
   {
     "hiragana": [

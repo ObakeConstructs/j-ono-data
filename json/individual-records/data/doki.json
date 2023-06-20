@@ -1,0 +1,29 @@
+{
+  "literal": "doki",
+  "katakana": [
+    "ドキ",
+    "ドキッ"
+  ],
+  "hiragana": [
+    "どき",
+    "どきっ"
+  ],
+  "definition": [
+    {
+      "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
+      "equivalent": [
+        "ba-dump",
+        "heartbeat",
+        "thump"
+      ],
+      "example": [
+        {
+          "source": "isekai_territory_reform",
+          "file": "doki-1a",
+          "display": "ドキッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

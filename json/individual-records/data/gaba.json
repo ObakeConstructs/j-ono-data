@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "to suddenly sit or stand up",
+      "meaning": "suddenly sitting or standing up",
       "equivalent": [
         "arise",
         "fwip",
@@ -48,7 +48,7 @@
       ]
     },
     {
-      "meaning": "the act of putting one's arms around someone and holding tightly",
+      "meaning": "hugging someone",
       "equivalent": [
         "clasp",
         "cradle",
@@ -62,6 +62,12 @@
           "source": "d_genesis",
           "file": "gaba-2a",
           "display": "がば",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_territory_reform",
+          "file": "gaba-2b",
+          "display": "がばっ",
           "contributor": ""
         }
       ]
