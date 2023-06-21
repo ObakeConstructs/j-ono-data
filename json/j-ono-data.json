@@ -2061,12 +2061,20 @@
         "zoom"
       ],
       "meaning": "the sound of someone or something moving very quickly",
-      "example": [{
-        "file": "byun-1a",
-        "contributor": "",
-        "display": "ビューン",
-        "source": "bungo"
-      }]
+      "example": [
+        {
+          "file": "byun-1a",
+          "contributor": "",
+          "display": "ビューン",
+          "source": "bungo"
+        },
+        {
+          "file": "byun-1b",
+          "contributor": "",
+          "display": "ビュン!",
+          "source": "rise_of_the_outlaw_tamer"
+        }
+      ]
     }],
     "literal": "byun"
   },
@@ -2424,12 +2432,20 @@
         "sup"
       ],
       "meaning": "to noisily consume a liquid or noodles",
-      "example": [{
-        "file": "churu-1a",
-        "contributor": "",
-        "display": "ちゅる",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "churu-1a",
+          "contributor": "",
+          "display": "ちゅる",
+          "source": "d_genesis"
+        },
+        {
+          "file": "churu-1b",
+          "contributor": "",
+          "display": "チュル",
+          "source": "rise_of_the_outlaw_tamer"
+        }
+      ]
     }],
     "literal": "churu"
   },
@@ -9987,6 +10003,24 @@
       ]
     }],
     "literal": "nade nade"
+  },
+  {
+    "hiragana": ["んちゅ"],
+    "katakana": ["ンチュ"],
+    "definition": [{
+      "equivalent": [
+        "kiss",
+        "smooch"
+      ],
+      "meaning": "kissing as a sign of affection",
+      "example": [{
+        "file": "nchu-1a",
+        "contributor": "",
+        "display": "んちゅ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "nchu"
   },
   {
     "hiragana": [

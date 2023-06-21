@@ -1,31 +1,41 @@
 {
-  "hiragana": [
-    "びゅん",
-    "びゅんっ",
-    "びゅーん"
-  ],
+  "literal": "byun",
   "katakana": [
     "ビュン",
     "ビュンッ",
     "ビューン"
   ],
-  "definition": [{
-    "equivalent": [
-      "shoom",
-      "swoosh",
-      "whish",
-      "whiz",
-      "whoosh",
-      "zip",
-      "zoom"
-    ],
-    "meaning": "the sound of someone or something moving very quickly",
-    "example": [{
-      "file": "byun-1a",
-      "contributor": "",
-      "display": "ビューン",
-      "source": "bungo"
-    }]
-  }],
-  "literal": "byun"
+  "hiragana": [
+    "びゅん",
+    "びゅんっ",
+    "びゅーん"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of someone or something moving very quickly",
+      "equivalent": [
+        "shoom",
+        "swoosh",
+        "whish",
+        "whiz",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "example": [
+        {
+          "source": "bungo",
+          "file": "byun-1a",
+          "display": "ビューン",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "byun-1b",
+          "display": "ビュン!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
