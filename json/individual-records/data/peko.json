@@ -1,14 +1,16 @@
 {
   "literal": "peko",
   "katakana": [
-    "ペコ"
+    "ペコ",
+    "ペコッ"
   ],
   "hiragana": [
-    "ぺこ"
+    "ぺこ",
+    "ぺこっ"
   ],
   "definition": [
     {
-      "meaning": "bending the head or body in respect, deference, or reverence",
+      "meaning": "bowing the head or body in respect, deference, or reverence",
       "equivalent": [
         "bow"
       ],
@@ -17,6 +19,12 @@
           "source": "different_world_smartphone",
           "file": "peko-1a",
           "display": "ぺこ",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "peko-1b",
+          "display": "ぺこっ",
           "contributor": ""
         }
       ]

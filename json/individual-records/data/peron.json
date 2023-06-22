@@ -1,19 +1,33 @@
 {
-  "hiragana": ["ぺろん"],
-  "katakana": ["ペロン"],
-  "definition": [{
-    "equivalent": [
-      "lap",
-      "lick",
-      "slurp"
-    ],
-    "meaning": "the sound of a tongue licking something",
-    "example": [{
-      "file": "peron-1a",
-      "contributor": "",
-      "display": "ぺろん",
-      "source": "s_rank_behemoth"
-    }]
-  }],
-  "literal": "peron"
+  "literal": "peron",
+  "katakana": [
+    "ペロン"
+  ],
+  "hiragana": [
+    "ぺろん"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of a tongue licking something",
+      "equivalent": [
+        "lap",
+        "lick",
+        "slurp"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "peron-1a",
+          "display": "ぺろん",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "peron-1b",
+          "display": "ぺろん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

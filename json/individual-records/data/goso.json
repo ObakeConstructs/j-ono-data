@@ -1,0 +1,29 @@
+{
+  "literal": "goso",
+  "katakana": [
+    "ゴソ"
+  ],
+  "hiragana": [
+    "ごそ"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of reaching or searching for something",
+      "equivalent": [
+        "rustle",
+        "rummage",
+        "locate",
+        "get",
+        "reach"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "goso-1a",
+          "display": "ごそ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

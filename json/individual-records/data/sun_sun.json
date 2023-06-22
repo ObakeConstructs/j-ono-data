@@ -1,24 +1,48 @@
 {
-  "hiragana": ["すんすん"],
-  "katakana": ["スンスン"],
-  "definition": [{
-    "equivalent": [
-      "calm",
-      "composed",
-      "cool",
-      "glide",
-      "serene",
-      "skim",
-      "smooth",
-      "tranquil"
-    ],
-    "meaning": "to move calmly and smoothly",
-    "example": [{
-      "file": "sun sun-1a",
-      "contributor": "",
-      "display": "スン  スン",
-      "source": "kuma_kuma_kuma_bear"
-    }]
-  }],
-  "literal": "sun sun"
+  "literal": "sun sun",
+  "katakana": [
+    "スンスン"
+  ],
+  "hiragana": [
+    "すんすん"
+  ],
+  "definition": [
+    {
+      "meaning": "to move calmly and smoothly",
+      "equivalent": [
+        "calm",
+        "composed",
+        "cool",
+        "glide",
+        "serene",
+        "skim",
+        "smooth",
+        "tranquil"
+      ],
+      "example": [
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "sun sun-1a",
+          "display": "スン  スン",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an sound of sniffing or snuffing",
+      "equivalent": [
+        "sniff sniff",
+        "snuff snuff",
+        "snuffle snuffle"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "sun sun-2a",
+          "display": "スン  スン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

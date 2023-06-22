@@ -5612,6 +5612,12 @@
           "contributor": "",
           "display": "ゴク",
           "source": "a_rank_slow_life"
+        },
+        {
+          "file": "goku-1c",
+          "contributor": "",
+          "display": "ごく",
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -5891,6 +5897,27 @@
       ]
     }],
     "literal": "goshi goshi"
+  },
+  {
+    "hiragana": ["ごそ"],
+    "katakana": ["ゴソ"],
+    "definition": [{
+      "equivalent": [
+        "get",
+        "locate",
+        "reach",
+        "rummage",
+        "rustle"
+      ],
+      "meaning": "an indication of reaching or searching for something",
+      "example": [{
+        "file": "goso-1a",
+        "contributor": "",
+        "display": "ごそ",
+        "source": "dog_became_strongest"
+      }]
+    }],
+    "literal": "goso"
   },
   {
     "hiragana": [
@@ -6866,6 +6893,27 @@
       }]
     }],
     "literal": "hikku"
+  },
+  {
+    "hiragana": ["ひら"],
+    "katakana": ["ヒラ"],
+    "definition": [{
+      "equivalent": [
+        "flap",
+        "flick",
+        "flit",
+        "flutter",
+        "swish"
+      ],
+      "meaning": "a soft flapping or fluttering sounds",
+      "example": [{
+        "file": "hira-1a",
+        "contributor": "",
+        "display": "ヒラ",
+        "source": "dog_became_strongest"
+      }]
+    }],
+    "literal": "hira"
   },
   {
     "hiragana": ["ひらひら"],
@@ -8832,6 +8880,24 @@
     "literal": "koron"
   },
   {
+    "hiragana": ["こそこそ"],
+    "katakana": ["コソコソ"],
+    "definition": [{
+      "equivalent": [
+        "quietly",
+        "whisper"
+      ],
+      "meaning": "to speak softly so as to not be overheard",
+      "example": [{
+        "file": "koso_koso-1a",
+        "contributor": "",
+        "display": "こそ  こそ",
+        "source": "dog_became_strongest"
+      }]
+    }],
+    "literal": "koso koso"
+  },
+  {
     "hiragana": [
       "こと",
       "ことっ"
@@ -9029,6 +9095,26 @@
       }]
     }],
     "literal": "kune kune"
+  },
+  {
+    "hiragana": ["くんくん"],
+    "katakana": ["クンクン"],
+    "definition": [{
+      "equivalent": [
+        "smell smell",
+        "sniff sniff",
+        "snuff snuff",
+        "whiff whiff"
+      ],
+      "meaning": "a series of sniffing or smelling sounds",
+      "example": [{
+        "file": "kun_kun-1a",
+        "contributor": "",
+        "display": "くんくん",
+        "source": "dog_became_strongest"
+      }]
+    }],
+    "literal": "kun kun"
   },
   {
     "hiragana": [
@@ -9278,21 +9364,27 @@
     "literal": "kya"
   },
   {
-    "hiragana": ["きゃん"],
-    "katakana": ["キャン"],
+    "hiragana": [
+      "きゃん",
+      "きゃーん"
+    ],
+    "katakana": [
+      "キャン",
+      "キャーン"
+    ],
     "definition": [{
       "equivalent": [
-        "bark",
-        "woof",
-        "yap",
-        "yelp",
-        "yip"
+        "screech",
+        "shriek",
+        "squeal",
+        "yell",
+        "yelp"
       ],
-      "meaning": "the bark of a dog or wolf, typically of a smaller variety",
+      "meaning": "to squeal or cry out loudly, often used humorously",
       "example": [{
         "file": "kyan-1a",
         "contributor": "",
-        "display": "キャン",
+        "display": "きゃん",
         "source": "dog_became_strongest"
       }]
     }],
@@ -10639,21 +10731,36 @@
     "literal": "paku"
   },
   {
-    "hiragana": ["ぱくぱく"],
-    "katakana": ["パクパク"],
+    "hiragana": [
+      "ぱくぱく",
+      "ぱくっぱくっ"
+    ],
+    "katakana": [
+      "パクパク",
+      "パクッパクッ"
+    ],
     "definition": [{
       "equivalent": [
         " open close",
-        "ahm ahm",
-        "flap flap"
+        "flap flap",
+        "pop pop",
+        "snap snap"
       ],
-      "meaning": "to repeatedly open and close one's mouth",
-      "example": [{
-        "file": "paku_paku-1a",
-        "contributor": "",
-        "display": "ぱくぱく",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "meaning": "an indication of eyes, hands, or mouths snapping open and closed quickly",
+      "example": [
+        {
+          "file": "paku_paku-1a",
+          "contributor": "",
+          "display": "ぱくぱく",
+          "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "paku_paku-1b",
+          "contributor": "",
+          "display": "ぱく  ぱく",
+          "source": "dog_became_strongest"
+        }
+      ]
     }],
     "literal": "paku paku"
   },
@@ -11053,17 +11160,31 @@
     "literal": "pa pa"
   },
   {
-    "hiragana": ["ぺこ"],
-    "katakana": ["ペコ"],
+    "hiragana": [
+      "ぺこ",
+      "ぺこっ"
+    ],
+    "katakana": [
+      "ペコ",
+      "ペコッ"
+    ],
     "definition": [{
       "equivalent": ["bow"],
-      "meaning": "bending the head or body in respect, deference, or reverence",
-      "example": [{
-        "file": "peko-1a",
-        "contributor": "",
-        "display": "ぺこ",
-        "source": "different_world_smartphone"
-      }]
+      "meaning": "bowing the head or body in respect, deference, or reverence",
+      "example": [
+        {
+          "file": "peko-1a",
+          "contributor": "",
+          "display": "ぺこ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "peko-1b",
+          "contributor": "",
+          "display": "ぺこっ",
+          "source": "dog_became_strongest"
+        }
+      ]
     }],
     "literal": "peko"
   },
@@ -11194,12 +11315,20 @@
         "slurp"
       ],
       "meaning": "the sound of a tongue licking something",
-      "example": [{
-        "file": "peron-1a",
-        "contributor": "",
-        "display": "ぺろん",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "file": "peron-1a",
+          "contributor": "",
+          "display": "ぺろん",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "peron-1b",
+          "contributor": "",
+          "display": "ぺろん",
+          "source": "dog_became_strongest"
+        }
+      ]
     }],
     "literal": "peron"
   },
@@ -12188,6 +12317,26 @@
       }]
     }],
     "literal": "poo"
+  },
+  {
+    "hiragana": ["ぽりぽり"],
+    "katakana": ["ポリポリ"],
+    "definition": [{
+      "equivalent": [
+        "scrape scrape",
+        "scratch scratch",
+        "scritch scritch",
+        "scuff scuff"
+      ],
+      "meaning": "a series of scratching or scraping noises",
+      "example": [{
+        "file": "pori_pori-1a",
+        "contributor": "",
+        "display": "ポリ  ポリ",
+        "source": "dog_became_strongest"
+      }]
+    }],
+    "literal": "pori pori"
   },
   {
     "hiragana": ["ぽろ"],
@@ -13671,25 +13820,41 @@
   {
     "hiragana": ["すんすん"],
     "katakana": ["スンスン"],
-    "definition": [{
-      "equivalent": [
-        "calm",
-        "composed",
-        "cool",
-        "glide",
-        "serene",
-        "skim",
-        "smooth",
-        "tranquil"
-      ],
-      "meaning": "to move calmly and smoothly",
-      "example": [{
-        "file": "sun sun-1a",
-        "contributor": "",
-        "display": "スン  スン",
-        "source": "kuma_kuma_kuma_bear"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "calm",
+          "composed",
+          "cool",
+          "glide",
+          "serene",
+          "skim",
+          "smooth",
+          "tranquil"
+        ],
+        "meaning": "to move calmly and smoothly",
+        "example": [{
+          "file": "sun sun-1a",
+          "contributor": "",
+          "display": "スン  スン",
+          "source": "kuma_kuma_kuma_bear"
+        }]
+      },
+      {
+        "equivalent": [
+          "sniff sniff",
+          "snuff snuff",
+          "snuffle snuffle"
+        ],
+        "meaning": "an sound of sniffing or snuffing",
+        "example": [{
+          "file": "sun sun-2a",
+          "contributor": "",
+          "display": "スン  スン",
+          "source": "dog_became_strongest"
+        }]
+      }
+    ],
     "literal": "sun sun"
   },
   {
@@ -13783,6 +13948,32 @@
       ]
     }],
     "literal": "supi"
+  },
+  {
+    "hiragana": [
+      "すぴ",
+      "すぴー"
+    ],
+    "katakana": [
+      "スピ",
+      "スピー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "beath",
+        "huff",
+        "whiff",
+        "zzz"
+      ],
+      "meaning": "soft breathing while sleeping or quietly snoring",
+      "example": [{
+        "file": "supi_supi-1a",
+        "contributor": "",
+        "display": "スピー  スピー",
+        "source": "dog_became_strongest"
+      }]
+    }],
+    "literal": "supi supi"
   },
   {
     "hiragana": [
@@ -15207,6 +15398,27 @@
       ]
     }],
     "literal": "wa"
+  },
+  {
+    "hiragana": ["わふ"],
+    "katakana": ["ワフ"],
+    "definition": [{
+      "equivalent": [
+        "arf",
+        "bark",
+        "ruff",
+        "woof",
+        "yap"
+      ],
+      "meaning": "a soft or half-hearted bark",
+      "example": [{
+        "file": "wafu-1a",
+        "contributor": "",
+        "display": "ワフ",
+        "source": "dog_became_strongest"
+      }]
+    }],
+    "literal": "wafu"
   },
   {
     "hiragana": [

@@ -1,0 +1,29 @@
+{
+  "literal": "hira",
+  "katakana": [
+    "ヒラ"
+  ],
+  "hiragana": [
+    "ひら"
+  ],
+  "definition": [
+    {
+      "meaning": "a soft flapping or fluttering sounds",
+      "equivalent": [
+        "flap",
+        "flick",
+        "flit",
+        "swish",
+        "flutter"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "hira-1a",
+          "display": "ヒラ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
