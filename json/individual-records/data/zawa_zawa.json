@@ -1,31 +1,43 @@
 {
-  "hiragana": ["ざわざわ"],
-  "katakana": ["ザワザワ"],
-  "definition": [{
-    "equivalent": [
-      "ballyhoo",
-      "buzz",
-      "chatter",
-      "commotion",
-      "din",
-      "hubbub",
-      "ruckus"
-    ],
-    "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-    "example": [
-      {
-        "file": "zawa_zawa-1a",
-        "contributor": "",
-        "display": "ザワ  ザワ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "zawa_zawa-1b",
-        "contributor": "",
-        "display": "ザワ  ザワ",
-        "source": "abandoned_reincarnation_sage"
-      }
-    ]
-  }],
-  "literal": "zawa zawa"
+  "literal": "zawa zawa",
+  "katakana": [
+    "ザワザワ"
+  ],
+  "hiragana": [
+    "ざわざわ"
+  ],
+  "definition": [
+    {
+      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
+      "equivalent": [
+        "ballyhoo",
+        "buzz",
+        "chatter",
+        "commotion",
+        "din",
+        "hubbub",
+        "ruckus"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "zawa_zawa-1a",
+          "display": "ザワ  ザワ",
+          "contributor": ""
+        },
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "zawa_zawa-1b",
+          "display": "ザワ  ザワ",
+          "contributor": ""
+        },
+        {
+          "source": "dungeon_dining_room",
+          "file": "zawa_zawa-1c",
+          "display": "ざわ  ざわ  ざわ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

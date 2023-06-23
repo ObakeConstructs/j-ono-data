@@ -5327,12 +5327,20 @@
         "stare"
       ],
       "meaning": "a fixed intent look",
-      "example": [{
-        "file": "gin-1a",
-        "contributor": "",
-        "display": "ギン",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "gin-1a",
+          "contributor": "",
+          "display": "ギン",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gin-1b",
+          "contributor": "",
+          "display": "ギンッ",
+          "source": "dungeon_dining_room"
+        }
+      ]
     }],
     "literal": "gin"
   },
@@ -6730,6 +6738,25 @@
     "literal": "ha"
   },
   {
+    "hiragana": ["はふはふ"],
+    "katakana": ["ハフハフ"],
+    "definition": [{
+      "equivalent": [
+        "blow blow",
+        "hoo hoo",
+        "huff huff"
+      ],
+      "meaning": "a series of exhales, as from blowing on hot food",
+      "example": [{
+        "file": "hafu_hafu-1a",
+        "contributor": "",
+        "display": "はふ  はふ",
+        "source": "dungeon_dining_room"
+      }]
+    }],
+    "literal": "hafu hafu"
+  },
+  {
     "hiragana": ["はむ"],
     "katakana": ["ハム"],
     "definition": [{
@@ -7730,6 +7757,37 @@
   },
   {
     "hiragana": [
+      "じゅわ",
+      "じゅわわ",
+      "じゅわぁ",
+      "じゅわわぁ"
+    ],
+    "katakana": [
+      "ジュワ",
+      "ジュワワ",
+      "ジュワァ",
+      "ジュワワァ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "fizz",
+        "hiss",
+        "juicy",
+        "sizzle",
+        "steam"
+      ],
+      "meaning": "a juicy sizzling sound, as of cooking meat",
+      "example": [{
+        "file": "juwa-1a",
+        "contributor": "",
+        "display": "ジュワワァ",
+        "source": "dungeon_dining_room"
+      }]
+    }],
+    "literal": "juwa"
+  },
+  {
+    "hiragana": [
       "か",
       "かっ",
       "かー",
@@ -8087,6 +8145,36 @@
   },
   {
     "hiragana": [
+      "から",
+      "からっ"
+    ],
+    "katakana": [
+      "カラ",
+      "カラッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "clang",
+        "clank",
+        "clump",
+        "clunk",
+        "hit",
+        "knock",
+        "plink",
+        "wham"
+      ],
+      "meaning": "sound of a small, metallic clank",
+      "example": [{
+        "file": "kara-1a",
+        "contributor": "",
+        "display": "カラッ",
+        "source": "dungeon_dining_room"
+      }]
+    }],
+    "literal": "kara"
+  },
+  {
+    "hiragana": [
       "からん",
       "からんっ"
     ],
@@ -8105,7 +8193,7 @@
         "plink",
         "wham"
       ],
-      "meaning": "a sound of a small, hard strike, typically from something being dropped",
+      "meaning": "a sound of a small, hard strike",
       "example": [{
         "file": "karan-1a",
         "contributor": "",
@@ -8729,6 +8817,28 @@
       ]
     }],
     "literal": "koku"
+  },
+  {
+    "hiragana": ["こくり"],
+    "katakana": ["コクリ"],
+    "definition": [{
+      "equivalent": [
+        "agree",
+        "nod",
+        "okay",
+        "yeah",
+        "yep",
+        "yes"
+      ],
+      "meaning": "a quick nod of the head, typically to express agreement",
+      "example": [{
+        "file": "kokuri-1a",
+        "contributor": "",
+        "display": "コクリ",
+        "source": "dungeon_dining_room"
+      }]
+    }],
+    "literal": "kokuri"
   },
   {
     "hiragana": ["こくこく"],
@@ -14026,12 +14136,20 @@
         "whump"
       ],
       "meaning": "to land after jumping or falling",
-      "example": [{
-        "file": "suta-1a",
-        "contributor": "",
-        "display": "スタッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "suta-1a",
+          "contributor": "",
+          "display": "スタッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "suta-1b",
+          "contributor": "",
+          "display": "スタッ",
+          "source": "dungeon_dining_room"
+        }
+      ]
     }],
     "literal": "suta"
   },
@@ -15798,6 +15916,12 @@
           "contributor": "",
           "display": "ザワ  ザワ",
           "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "zawa_zawa-1c",
+          "contributor": "",
+          "display": "ざわ  ざわ  ざわ",
+          "source": "dungeon_dining_room"
         }
       ]
     }],

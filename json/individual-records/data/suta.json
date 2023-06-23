@@ -16,14 +16,20 @@
         "land",
         "landing",
         "settle",
-        "touch down",
         "thump",
+        "touch down",
         "whump"
       ],
       "example": [
         {
           "source": "world_full_of_monsters",
           "file": "suta-1a",
+          "display": "スタッ",
+          "contributor": ""
+        },
+        {
+          "source": "dungeon_dining_room",
+          "file": "suta-1b",
           "display": "スタッ",
           "contributor": ""
         }

@@ -1,16 +1,16 @@
 {
-  "literal": "karan",
+  "literal": "kara",
   "katakana": [
-    "カラン",
-    "カランッ"
+    "カラ",
+    "カラッ"
   ],
   "hiragana": [
-    "からん",
-    "からんっ"
+    "から",
+    "からっ"
   ],
   "definition": [
     {
-      "meaning": "a sound of a small, hard strike",
+      "meaning": "sound of a small, metallic clank",
       "equivalent": [
         "clang",
         "clank",
@@ -23,9 +23,9 @@
       ],
       "example": [
         {
-          "source": "d_genesis",
-          "file": "karan-1a",
-          "display": "カラン",
+          "source": "dungeon_dining_room",
+          "file": "kara-1a",
+          "display": "カラッ",
           "contributor": ""
         }
       ]

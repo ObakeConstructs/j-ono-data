@@ -1,0 +1,27 @@
+{
+  "literal": "hafu hafu",
+  "katakana": [
+    "ハフハフ"
+  ],
+  "hiragana": [
+    "はふはふ"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of exhales, as from blowing on hot food",
+      "equivalent": [
+        "huff huff",
+        "blow blow",
+        "hoo hoo"
+      ],
+      "example": [
+        {
+          "source": "dungeon_dining_room",
+          "file": "hafu_hafu-1a",
+          "display": "はふ  はふ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
