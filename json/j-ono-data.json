@@ -382,6 +382,26 @@
     "literal": "bakin"
   },
   {
+    "hiragana": ["ばきばき"],
+    "katakana": ["バキバキ"],
+    "definition": [{
+      "equivalent": [
+        "crack crack",
+        "crash crash",
+        "shatter shatter",
+        "smash smash"
+      ],
+      "meaning": "a series of cracking or breaking sounds",
+      "example": [{
+        "file": "baki_baki-1a",
+        "contributor": "",
+        "display": "バキバキバキ",
+        "source": "hone_dragon"
+      }]
+    }],
+    "literal": "baki baki"
+  },
+  {
     "hiragana": [
       "ばん",
       "ばんっ",
@@ -1251,13 +1271,21 @@
         "poof",
         "puff"
       ],
-      "meaning": "the sound of something magically appearing or disappearing, often with little clouds of smoke",
-      "example": [{
-        "file": "bofun-1a",
-        "contributor": "",
-        "display": "ボフン",
-        "source": "otherworld_material_collector"
-      }]
+      "meaning": "a soft explosive puffing sound",
+      "example": [
+        {
+          "file": "bofun-1a",
+          "contributor": "",
+          "display": "ボフン",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "bofun-1b",
+          "contributor": "",
+          "display": "ボフン",
+          "source": "hone_dragon"
+        }
+      ]
     }],
     "literal": "bofun"
   },
@@ -1325,12 +1353,20 @@
         "weep weep"
       ],
       "meaning": "dripping tears as an expression of pain or distress",
-      "example": [{
-        "file": "boro_boro-1a",
-        "contributor": "",
-        "display": "ぼろ  ぼろ",
-        "source": "reincarnated_aristocrat"
-      }]
+      "example": [
+        {
+          "file": "boro_boro-1a",
+          "contributor": "",
+          "display": "ぼろ  ぼろ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "boro_boro-1b",
+          "contributor": "",
+          "display": "ぼろぼろ",
+          "source": "hone_dragon"
+        }
+      ]
     }],
     "literal": "boro boro"
   },
@@ -3809,6 +3845,27 @@
     "literal": "fun"
   },
   {
+    "hiragana": ["ふに"],
+    "katakana": ["フニ"],
+    "definition": [{
+      "equivalent": [
+        "caress",
+        "rub",
+        "soft",
+        "stroke",
+        "tender"
+      ],
+      "meaning": "a caressing or rubbing motion",
+      "example": [{
+        "file": "funi-1a",
+        "contributor": "",
+        "display": "ふに.",
+        "source": "hone_dragon"
+      }]
+    }],
+    "literal": "funi"
+  },
+  {
     "hiragana": ["ふんふん"],
     "katakana": ["フンフン"],
     "definition": [{
@@ -4979,6 +5036,12 @@
           "contributor": "",
           "display": "がしっ",
           "source": "peter_grill"
+        },
+        {
+          "file": "gashi-1c",
+          "contributor": "",
+          "display": "がしっ",
+          "source": "hone_dragon"
         }
       ]
     }],
@@ -5485,7 +5548,7 @@
           "thwack",
           "whack"
         ],
-        "meaning": "a sharp sound of impact, as from the hand or fist",
+        "meaning": "the sound of moderate impact, as of someone being struck",
         "example": [
           {
             "file": "go-1a",
@@ -5498,6 +5561,12 @@
             "contributor": "",
             "display": "ゴッ",
             "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "go-1c",
+            "contributor": "",
+            "display": "ゴッ",
+            "source": "hone_dragon"
           }
         ]
       },
@@ -5864,17 +5933,27 @@
         "equivalent": [
           "roll",
           "roll over",
+          "roll roll",
           "spin",
+          "spin spin",
           "turn",
           "turn over"
         ],
         "meaning": "the act of rolling or rolling over",
-        "example": [{
-          "file": "goro_goro-1b",
-          "contributor": "",
-          "display": "ゴロ  ゴロ",
-          "source": "nete_kunoichi"
-        }]
+        "example": [
+          {
+            "file": "goro_goro-2a",
+            "contributor": "",
+            "display": "ゴロ  ゴロ",
+            "source": "nete_kunoichi"
+          },
+          {
+            "file": "goro_goro-2b",
+            "contributor": "",
+            "display": "ゴロゴロゴロロ",
+            "source": "hone_dragon"
+          }
+        ]
       }
     ],
     "literal": "goro goro"
@@ -7668,6 +7747,25 @@
       }]
     }],
     "literal": "jiro"
+  },
+  {
+    "hiragana": ["じたばた"],
+    "katakana": ["ジタバタ"],
+    "definition": [{
+      "equivalent": [
+        "resist resist",
+        "struggle struggle",
+        "wriggle wriggle"
+      ],
+      "meaning": "an indication of strugging against restraints",
+      "example": [{
+        "file": "jita_bata-1a",
+        "contributor": "",
+        "display": "じたばた",
+        "source": "hone_dragon"
+      }]
+    }],
+    "literal": "jita bata"
   },
   {
     "hiragana": ["じわっ"],
@@ -10375,6 +10473,27 @@
     "literal": "nma"
   },
   {
+    "hiragana": ["のそのそ"],
+    "katakana": ["ノソノソ"],
+    "definition": [{
+      "equivalent": [
+        "dawdle dawdle",
+        "heavy heavy",
+        "lazy lazy",
+        "slow slow",
+        "slug slug"
+      ],
+      "meaning": "to move slowly or ponderously",
+      "example": [{
+        "file": "noso_noso-1a",
+        "contributor": "",
+        "display": "のそ  のそ",
+        "source": "hone_dragon"
+      }]
+    }],
+    "literal": "noso noso"
+  },
+  {
     "hiragana": [
       "にゃん",
       "にゃーん"
@@ -12049,12 +12168,14 @@
       },
       {
         "equivalent": [
+          "exactly",
           "flick",
           "pop",
+          "precise",
           "snap",
           "zip"
         ],
-        "meaning": "a rapid snapping to position",
+        "meaning": "an expression of precision, usually with a rapid snapping to position",
         "example": [
           {
             "file": "pishi-2a",
@@ -12067,6 +12188,12 @@
             "contributor": "",
             "display": "ぴしっ",
             "source": "fushi_no_kami"
+          },
+          {
+            "file": "pishi-2c",
+            "contributor": "",
+            "display": "ピシッ",
+            "source": "hone_dragon"
           }
         ]
       }
@@ -13596,13 +13723,21 @@
         "wind",
         "wrap"
       ],
-      "meaning": "to move along a winding course or to repeatedly wrap around something",
-      "example": [{
-        "file": "shuru-1a",
-        "contributor": "",
-        "display": "しゅるっ",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "an indication of a snake-like movement",
+      "example": [
+        {
+          "file": "shuru-1a",
+          "contributor": "",
+          "display": "しゅるっ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "shuru-1b",
+          "contributor": "",
+          "display": "しゅる",
+          "source": "hone_dragon"
+        }
+      ]
     }],
     "literal": "shuru"
   },
@@ -14995,12 +15130,17 @@
     "katakana": ["ツンツン"],
     "definition": [{
       "equivalent": [
+        "nip nip",
         "nudge nudge",
+        "pinch pinch",
+        "pluck pluck",
         "poke poke",
+        "pull pull",
         "push push",
-        "tap tap"
+        "tap tap",
+        "tug tug"
       ],
-      "meaning": "a series of quick harmless pokes",
+      "meaning": "a series of quick gentle pinches, pokes or tugs",
       "example": [
         {
           "file": "tsun_tsun-1a",
@@ -15013,6 +15153,12 @@
           "contributor": "",
           "display": "ツンツン",
           "source": "simple_sword_saint"
+        },
+        {
+          "file": "tsun_tsun-1c",
+          "contributor": "",
+          "display": "つん  つん",
+          "source": "hone_dragon"
         }
       ]
     }],
@@ -15871,6 +16017,33 @@
     "literal": "zan"
   },
   {
+    "hiragana": [
+      "ざしゃっ",
+      "ざしゃーっ"
+    ],
+    "katakana": [
+      "ザシャッ",
+      "ザシャーッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "flop",
+        "flump",
+        "shaa",
+        "splat",
+        "squash"
+      ],
+      "meaning": "the sound of an ungraceful landing",
+      "example": [{
+        "file": "zasha-1a",
+        "contributor": "",
+        "display": "ザシャッ",
+        "source": "hone_dragon"
+      }]
+    }],
+    "literal": "zasha"
+  },
+  {
     "hiragana": ["ざしゅ"],
     "katakana": ["ザシュ"],
     "definition": [{
@@ -16505,12 +16678,20 @@
           "slide slide"
         ],
         "meaning": "to series of sliding or dragging noises",
-        "example": [{
-          "file": "zuri_zuri-1a",
-          "contributor": "",
-          "display": "ズリズリ...",
-          "source": "abandoned_reincarnation_sage"
-        }]
+        "example": [
+          {
+            "file": "zuri_zuri-1a",
+            "contributor": "",
+            "display": "ズリズリ...",
+            "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "zuri_zuri-1b",
+            "contributor": "",
+            "display": "ズリ  ズリ",
+            "source": "hone_dragon"
+          }
+        ]
       },
       {
         "equivalent": [
