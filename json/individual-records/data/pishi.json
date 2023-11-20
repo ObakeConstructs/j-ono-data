@@ -35,12 +35,14 @@
       ]
     },
     {
-      "meaning": "a rapid snapping to position",
+      "meaning": "an expression of precision, usually with a rapid snapping to position",
       "equivalent": [
         "flick",
         "pop",
         "snap",
-        "zip"
+        "zip",
+        "precise",
+        "exactly"
       ],
       "example": [
         {
@@ -53,6 +55,12 @@
           "source": "fushi_no_kami",
           "file": "pishi-2b",
           "display": "ぴしっ",
+          "contributor": ""
+        },
+        {
+          "source": "hone_dragon",
+          "file": "pishi-2c",
+          "display": "ピシッ",
           "contributor": ""
         }
       ]

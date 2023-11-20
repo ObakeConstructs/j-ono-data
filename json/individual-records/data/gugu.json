@@ -1,0 +1,35 @@
+{
+  "literal": "gugu",
+  "katakana": [
+    "ググ",
+    "ググッ"
+  ],
+  "hiragana": [
+    "ぐぐ",
+    "ぐぐっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a sound or expresison of strain or tension",
+      "equivalent": [
+        "clench",
+        "strain",
+        "pressure",
+        "struggle",
+        "push",
+        "groan",
+        "choke",
+        "gah gah",
+        "grunt"
+      ],
+      "example": [
+        {
+          "source": "isekai_pickup",
+          "file": "gugu-1a",
+          "display": "ぐぐっ..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

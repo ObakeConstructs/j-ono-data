@@ -1,21 +1,41 @@
 {
-  "hiragana": ["ぼろぼろ"],
-  "katakana": ["ボロボロ"],
-  "definition": [{
-    "equivalent": [
-      "blub blub",
-      "cry cry",
-      "drip drip",
-      "sob sob",
-      "weep weep"
-    ],
-    "meaning": "dripping tears as an expression of pain or distress",
-    "example": [{
-      "file": "boro_boro-1a",
-      "contributor": "",
-      "display": "ぼろ  ぼろ",
-      "source": "reincarnated_aristocrat"
-    }]
-  }],
-  "literal": "boro boro"
+  "literal": "boro boro",
+  "katakana": [
+    "ボロボロ"
+  ],
+  "hiragana": [
+    "ぼろぼろ"
+  ],
+  "definition": [
+    {
+      "meaning": "dripping tears as an expression of pain or distress",
+      "equivalent": [
+        "blub blub",
+        "cry cry",
+        "drip drip",
+        "sob sob",
+        "weep weep"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "boro_boro-1a",
+          "display": "ぼろ  ぼろ",
+          "contributor": ""
+        },
+        {
+          "source": "hone_dragon",
+          "file": "boro_boro-1b",
+          "display": "ぼろぼろ",
+          "contributor": ""
+        },
+        {
+          "source": "drawing",
+          "file": "boro_boro-1c",
+          "display": "ボロ  ボロ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

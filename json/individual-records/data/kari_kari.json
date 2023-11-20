@@ -8,16 +8,22 @@
   ],
   "definition": [
     {
-      "meaning": "the sound of writing, usually with a pen or pencil",
+      "meaning": "the sound of writing, as with a pen or pencil",
       "equivalent": [
-        "scritch scritch",
         "scratch scratch",
-        "scribble scribble"
+        "scribble scribble",
+        "scritch scritch"
       ],
       "example": [
         {
           "source": "fushi_no_kami",
           "file": "kari_kari-1a",
+          "display": "カリ  カリ",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_pickup",
+          "file": "kari_kari-1b",
           "display": "カリ  カリ",
           "contributor": ""
         }

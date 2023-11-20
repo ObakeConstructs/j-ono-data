@@ -13,9 +13,9 @@
       "meaning": "a soft ninja-like landing",
       "equivalent": [
         "flick",
+        "land",
         "pat",
-        "tap",
-        "land"
+        "tap"
       ],
       "example": [
         {
@@ -28,6 +28,25 @@
           "source": "strongest_thread_master",
           "file": "to-1b",
           "display": "トッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a soft click or tap sound",
+      "equivalent": [
+        "clack",
+        "click",
+        "clink",
+        "snap",
+        "tap",
+        "tick"
+      ],
+      "example": [
+        {
+          "source": "drawing",
+          "file": "to-2a",
+          "display": "とっ",
           "contributor": ""
         }
       ]

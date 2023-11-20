@@ -29,15 +29,23 @@
       "equivalent": [
         "roll",
         "roll over",
+        "spin",
         "turn",
         "turn over",
-        "spin"
+        "roll roll",
+        "spin spin"
       ],
       "example": [
         {
           "source": "nete_kunoichi",
-          "file": "goro_goro-1b",
+          "file": "goro_goro-2a",
           "display": "ゴロ  ゴロ",
+          "contributor": ""
+        },
+        {
+          "source": "hone_dragon",
+          "file": "goro_goro-2b",
+          "display": "ゴロゴロゴロロ",
           "contributor": ""
         }
       ]

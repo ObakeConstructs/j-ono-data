@@ -1,21 +1,47 @@
 {
-  "hiragana": ["がたがた"],
-  "katakana": ["ガタガタ"],
-  "definition": [{
-    "equivalent": [
-      "clang clang",
-      "clatter",
-      "clunk clunk",
-      "creak creak",
-      "rattle"
-    ],
-    "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
-    "example": [{
-      "file": "gata_gata-1a",
-      "contributor": "",
-      "display": "ガタ  ガタ",
-      "source": "komi_cant_communicate"
-    }]
-  }],
-  "literal": "gata gata"
+  "literal": "gata gata",
+  "katakana": [
+    "ガタガタ"
+  ],
+  "hiragana": [
+    "がたがた"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
+      "equivalent": [
+        "clang clang",
+        "clatter",
+        "clunk clunk",
+        "creak creak",
+        "rattle"
+      ],
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "gata_gata-1a",
+          "display": "ガタ  ガタ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an indication of shaking, as from fear or cold",
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble",
+        "wobble"
+      ],
+      "example": [
+        {
+          "source": "drawing",
+          "file": "gata_gata-2a",
+          "display": "ガタ  ガタ  ガタ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

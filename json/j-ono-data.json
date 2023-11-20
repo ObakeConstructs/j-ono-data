@@ -1,6 +1,30 @@
 [
   {
     "hiragana": [
+      "あ",
+      "あっ"
+    ],
+    "katakana": [
+      "ア",
+      "アッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ah",
+        "oh"
+      ],
+      "meaning": "an indication of surprise, amazement, or a sudden realization",
+      "example": [{
+        "file": "ah-1a",
+        "contributor": "",
+        "display": "あっ",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "ah"
+  },
+  {
+    "hiragana": [
       "あはは",
       "あははは",
       "あっはっはっ",
@@ -2326,13 +2350,21 @@
         "ting",
         "tink"
       ],
-      "meaning": "the small noise of a single tossed coin being tossed",
-      "example": [{
-        "file": "charin-1a",
-        "contributor": "",
-        "display": "チャリン",
-        "source": "different_world_smartphone"
-      }]
+      "meaning": "a small metallic noise, typically of tossed coins",
+      "example": [
+        {
+          "file": "charin-1a",
+          "contributor": "",
+          "display": "チャリン",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "charin-1b",
+          "contributor": "",
+          "display": "チャリン..",
+          "source": "isekai_pickup"
+        }
+      ]
     }],
     "literal": "charin"
   },
@@ -2626,6 +2658,37 @@
       }]
     }],
     "literal": "daki"
+  },
+  {
+    "hiragana": [
+      "だん",
+      "だんっ"
+    ],
+    "katakana": [
+      "ダン",
+      "ダンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "hit",
+        "knock",
+        "pound",
+        "punch",
+        "slam",
+        "strike",
+        "thud",
+        "thunk"
+      ],
+      "meaning": "a sudden impacts, typically against something solid",
+      "example": [{
+        "file": "dan-1a",
+        "contributor": "",
+        "display": "ダンッ",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "dan"
   },
   {
     "hiragana": [
@@ -2989,12 +3052,20 @@
         "thump"
       ],
       "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
-      "example": [{
-        "file": "doki-1a",
-        "contributor": "",
-        "display": "ドキッ",
-        "source": "isekai_territory_reform"
-      }]
+      "example": [
+        {
+          "file": "doki-1a",
+          "contributor": "",
+          "display": "ドキッ",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "doki-1b",
+          "contributor": "",
+          "display": "ドキッ",
+          "source": "isekai_pickup"
+        }
+      ]
     }],
     "literal": "doki"
   },
@@ -3564,6 +3635,40 @@
       }
     ],
     "literal": "do do"
+  },
+  {
+    "hiragana": [
+      "えぇ",
+      "えぇっ",
+      "えぇーっ",
+      "ええ",
+      "ええっ",
+      "ええーっ"
+    ],
+    "katakana": [
+      "エェ",
+      "エェッ",
+      "エェーッ",
+      "エエ",
+      "エエッ",
+      "エエーッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "let's see",
+        "think",
+        "uh",
+        "umm"
+      ],
+      "meaning": "a verbalized sound indicating hesitation or thoughtful reflection, often drawn out",
+      "example": [{
+        "file": "e-1a",
+        "contributor": "",
+        "display": "えぇーっ",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "e"
   },
   {
     "hiragana": [
@@ -6298,6 +6403,37 @@
   },
   {
     "hiragana": [
+      "ぐぐ",
+      "ぐぐっ"
+    ],
+    "katakana": [
+      "ググ",
+      "ググッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "choke",
+        "clench",
+        "gah gah",
+        "groan",
+        "grunt",
+        "pressure",
+        "push",
+        "strain",
+        "struggle"
+      ],
+      "meaning": "a sound or expresison of strain or tension",
+      "example": [{
+        "file": "gugu-1a",
+        "contributor": "",
+        "display": "ぐぐっ..",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "gugu"
+  },
+  {
+    "hiragana": [
       "ぐい",
       "ぐいっ",
       "ぐぃ",
@@ -6384,6 +6520,33 @@
       }]
     }],
     "literal": "gununu"
+  },
+  {
+    "hiragana": [
+      "ぐら",
+      "ぐらっ"
+    ],
+    "katakana": [
+      "グラ",
+      "グラッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "shift",
+        "spill",
+        "stagger",
+        "tip",
+        "unbalanced"
+      ],
+      "meaning": "an indication of something tipping or falling out of balance",
+      "example": [{
+        "file": "gura-1a",
+        "contributor": "",
+        "display": "グラッ..",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "gura"
   },
   {
     "hiragana": [
@@ -7303,8 +7466,14 @@
     "literal": "hyoi"
   },
   {
-    "hiragana": ["ひょこ"],
-    "katakana": ["ヒョコ"],
+    "hiragana": [
+      "ひょこ",
+      "ひょこっ"
+    ],
+    "katakana": [
+      "ヒョコ",
+      "ヒョコッ"
+    ],
     "definition": [{
       "equivalent": [
         "gander",
@@ -7314,12 +7483,20 @@
         "regard"
       ],
       "meaning": "an expression of taking a look, often from behind something, as from hiding",
-      "example": [{
-        "file": "hyoko-1a",
-        "contributor": "",
-        "display": "ひょこ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "hyoko-1a",
+          "contributor": "",
+          "display": "ひょこ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "hyoko-1b",
+          "contributor": "",
+          "display": "ヒョコッ",
+          "source": "isekai_pickup"
+        }
+      ]
     }],
     "literal": "hyoko"
   },
@@ -7348,12 +7525,20 @@
         "zoom"
       ],
       "meaning": "something moving quickly through the air",
-      "example": [{
-        "file": "hyu-1a",
-        "contributor": "",
-        "display": "ヒュッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "hyu-1a",
+          "contributor": "",
+          "display": "ヒュッ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "hyu-1b",
+          "contributor": "",
+          "display": "ヒュ..",
+          "source": "isekai_pickup"
+        }
+      ]
     }],
     "literal": "hyu"
   },
@@ -8367,6 +8552,25 @@
     "literal": "karan"
   },
   {
+    "hiragana": ["からんからん"],
+    "katakana": ["カランカラン"],
+    "definition": [{
+      "equivalent": [
+        "clang clang",
+        "clank clank",
+        "ding ding"
+      ],
+      "meaning": "a series of a small, hard metallic strike, as from a bell",
+      "example": [{
+        "file": "karan_karan-1a",
+        "contributor": "",
+        "display": "カラン  カラン",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "karan karan"
+  },
+  {
     "hiragana": ["かりかり"],
     "katakana": ["カリカリ"],
     "definition": [{
@@ -8375,13 +8579,21 @@
         "scribble scribble",
         "scritch scritch"
       ],
-      "meaning": "the sound of writing, usually with a pen or pencil",
-      "example": [{
-        "file": "kari_kari-1a",
-        "contributor": "",
-        "display": "カリ  カリ",
-        "source": "fushi_no_kami"
-      }]
+      "meaning": "the sound of writing, as with a pen or pencil",
+      "example": [
+        {
+          "file": "kari_kari-1a",
+          "contributor": "",
+          "display": "カリ  カリ",
+          "source": "fushi_no_kami"
+        },
+        {
+          "file": "kari_kari-1b",
+          "contributor": "",
+          "display": "カリ  カリ",
+          "source": "isekai_pickup"
+        }
+      ]
     }],
     "literal": "kari kari"
   },
@@ -8635,7 +8847,7 @@
   {
     "hiragana": [
       "き",
-      "き",
+      "きっ",
       "きーっ",
       "きぃ",
       "きぃーっ"
@@ -10588,6 +10800,24 @@
     "literal": "noso noso"
   },
   {
+    "hiragana": ["にゃ"],
+    "katakana": ["ニャ"],
+    "definition": [{
+      "equivalent": [
+        "meow",
+        "nya"
+      ],
+      "meaning": "mimicking a cat to express friendly, playful teasing",
+      "example": [{
+        "file": "nya-1a",
+        "contributor": "",
+        "display": "ニャ",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "nya"
+  },
+  {
     "hiragana": [
       "にゃん",
       "にゃーん"
@@ -10914,12 +11144,20 @@
           "snap snap"
         ],
         "meaning": "the continuous sound of crackling, as from a fire",
-        "example": [{
-          "file": "pachi_pachi-1a",
-          "contributor": "",
-          "display": "パチ  パチ",
-          "source": "hello_work"
-        }]
+        "example": [
+          {
+            "file": "pachi_pachi-1a",
+            "contributor": "",
+            "display": "パチ  パチ",
+            "source": "hello_work"
+          },
+          {
+            "file": "pachi_pachi-1b",
+            "contributor": "",
+            "display": "パチ  パチ",
+            "source": "isekai_pickup"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -13629,10 +13867,12 @@
   {
     "hiragana": [
       "しん",
+      "しーん",
       "しんっ"
     ],
     "katakana": [
       "シン",
+      "シーン",
       "シンッ"
     ],
     "definition": [{
@@ -13655,6 +13895,12 @@
           "contributor": "",
           "display": "しん...",
           "source": "fushi_no_kami"
+        },
+        {
+          "file": "shin-1c",
+          "contributor": "",
+          "display": "シーン",
+          "source": "isekai_pickup"
         }
       ]
     }],
@@ -14553,6 +14799,32 @@
   },
   {
     "hiragana": [
+      "すは",
+      "すーはー"
+    ],
+    "katakana": [
+      "スハ",
+      "スーハー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "breath",
+        "breathe",
+        "deep breath",
+        "inhale exhale"
+      ],
+      "meaning": "the sound of breathing, both inhale and exhale",
+      "example": [{
+        "file": "su_ha-1a",
+        "contributor": "",
+        "display": "スー  ハー  スー  ハー",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "su ha"
+  },
+  {
+    "hiragana": [
       "すす",
       "すすす",
       "すうすう",
@@ -15106,6 +15378,26 @@
       ]
     }],
     "literal": "topopo"
+  },
+  {
+    "hiragana": ["とぷとぷ"],
+    "katakana": ["トプトプ"],
+    "definition": [{
+      "equivalent": [
+        "glug",
+        "pour",
+        "slosh",
+        "trickle"
+      ],
+      "meaning": "the sound of pouring liquid",
+      "example": [{
+        "file": "topu_topu-1a",
+        "contributor": "",
+        "display": "とぷとぷ..",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "topu topu"
   },
   {
     "hiragana": [
@@ -15916,6 +16208,26 @@
       ]
     }],
     "literal": "wan"
+  },
+  {
+    "hiragana": ["わなわな"],
+    "katakana": ["ワナワナ"],
+    "definition": [{
+      "equivalent": [
+        "quiver quiver",
+        "shiver shiver",
+        "shudder shudder",
+        "tremble tremble"
+      ],
+      "meaning": "an indication of trembling, typically from fear",
+      "example": [{
+        "file": "wana_wana-1a",
+        "contributor": "",
+        "display": "わな  わな..",
+        "source": "isekai_pickup"
+      }]
+    }],
+    "literal": "wana wana"
   },
   {
     "hiragana": ["わたわた"],

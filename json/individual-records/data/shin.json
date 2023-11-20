@@ -2,10 +2,12 @@
   "literal": "shin",
   "katakana": [
     "シン",
+    "シーン",
     "シンッ"
   ],
   "hiragana": [
     "しん",
+    "しーん",
     "しんっ"
   ],
   "definition": [
@@ -28,6 +30,12 @@
           "source": "fushi_no_kami",
           "file": "shin-1b",
           "display": "しん...",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_pickup",
+          "file": "shin-1c",
+          "display": "シーン",
           "contributor": ""
         }
       ]

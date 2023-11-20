@@ -8,12 +8,17 @@
   ],
   "definition": [
     {
-      "meaning": "a series of quick harmless pokes",
+      "meaning": "a series of quick gentle pinches, pokes or tugs",
       "equivalent": [
-        "push push",
+        "nudge nudge",
         "poke poke",
+        "push push",
         "tap tap",
-        "nudge nudge"
+        "tug tug",
+        "pull pull",
+        "pinch pinch",
+        "pluck pluck",
+        "nip nip"
       ],
       "example": [
         {
@@ -26,6 +31,12 @@
           "source": "simple_sword_saint",
           "file": "tsun_tsun-1b",
           "display": "ツンツン",
+          "contributor": ""
+        },
+        {
+          "source": "hone_dragon",
+          "file": "tsun_tsun-1c",
+          "display": "つん  つん",
           "contributor": ""
         }
       ]

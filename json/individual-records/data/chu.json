@@ -1,32 +1,45 @@
 {
-  "hiragana": [
-    "ちゅ",
-    "ちゅっ",
-    "ちゅー",
-    "ちゅーっ"
-  ],
+  "literal": "chu",
   "katakana": [
     "チュ",
     "チュッ",
     "チュー",
     "チューッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "drink",
-      "quaff",
-      "sip",
-      "slurp",
-      "suck",
-      "swig"
-    ],
-    "meaning": "the act of sucking, as from a straw",
-    "example": [{
-      "file": "chu-1a",
-      "contributor": "",
-      "display": "ちゅーっ",
-      "source": "kuma_kuma_kuma_bear"
-    }]
-  }],
-  "literal": "chu"
+  "hiragana": [
+    "ちゅ",
+    "ちゅっ",
+    "ちゅー",
+    "ちゅーっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a soft sound of kissing, licking or sucking",
+      "equivalent": [
+        "drink",
+        "quaff",
+        "sip",
+        "slurp",
+        "suck",
+        "swig",
+        "kiss",
+        "lick",
+        "lip"
+      ],
+      "example": [
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "chu-1a",
+          "display": "ちゅーっ",
+          "contributor": ""
+        },
+        {
+          "source": "drawing",
+          "file": "chu-1b",
+          "display": "ちゅっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,0 +1,35 @@
+{
+  "literal": "dan",
+  "katakana": [
+    "ダン",
+    "ダンッ"
+  ],
+  "hiragana": [
+    "だん",
+    "だんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a sudden impacts, typically against something solid",
+      "equivalent": [
+        "bam",
+        "hit",
+        "knock",
+        "pound",
+        "punch",
+        "slam",
+        "strike",
+        "thud",
+        "thunk"
+      ],
+      "example": [
+        {
+          "source": "isekai_pickup",
+          "file": "dan-1a",
+          "display": "ダンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
