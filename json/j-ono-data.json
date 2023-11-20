@@ -72,6 +72,30 @@
     "literal": "ahan"
   },
   {
+    "hiragana": ["あむ"],
+    "katakana": ["アム"],
+    "definition": [{
+      "equivalent": [
+        "ahm",
+        "bite",
+        "close",
+        "eat",
+        "munch",
+        "nom",
+        "nosh",
+        "savor"
+      ],
+      "meaning": "the sound of chewing or swallowing",
+      "example": [{
+        "file": "amu-1a",
+        "contributor": "",
+        "display": "あむ",
+        "source": "drawing"
+      }]
+    }],
+    "literal": "amu"
+  },
+  {
     "hiragana": [
       "あん",
       "あーん"
@@ -1365,6 +1389,12 @@
           "contributor": "",
           "display": "ぼろぼろ",
           "source": "hone_dragon"
+        },
+        {
+          "file": "boro_boro-1c",
+          "contributor": "",
+          "display": "ボロ  ボロ",
+          "source": "drawing"
         }
       ]
     }],
@@ -2399,19 +2429,30 @@
     "definition": [{
       "equivalent": [
         "drink",
+        "kiss",
+        "lick",
+        "lip",
         "quaff",
         "sip",
         "slurp",
         "suck",
         "swig"
       ],
-      "meaning": "the act of sucking, as from a straw",
-      "example": [{
-        "file": "chu-1a",
-        "contributor": "",
-        "display": "ちゅーっ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "meaning": "a soft sound of kissing, licking or sucking",
+      "example": [
+        {
+          "file": "chu-1a",
+          "contributor": "",
+          "display": "ちゅーっ",
+          "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "chu-1b",
+          "contributor": "",
+          "display": "ちゅっ",
+          "source": "drawing"
+        }
+      ]
     }],
     "literal": "chu"
   },
@@ -5096,22 +5137,40 @@
   {
     "hiragana": ["がたがた"],
     "katakana": ["ガタガタ"],
-    "definition": [{
-      "equivalent": [
-        "clang clang",
-        "clatter",
-        "clunk clunk",
-        "creak creak",
-        "rattle"
-      ],
-      "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
-      "example": [{
-        "file": "gata_gata-1a",
-        "contributor": "",
-        "display": "ガタ  ガタ",
-        "source": "komi_cant_communicate"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "clang clang",
+          "clatter",
+          "clunk clunk",
+          "creak creak",
+          "rattle"
+        ],
+        "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
+        "example": [{
+          "file": "gata_gata-1a",
+          "contributor": "",
+          "display": "ガタ  ガタ",
+          "source": "komi_cant_communicate"
+        }]
+      },
+      {
+        "equivalent": [
+          "quiver",
+          "shiver",
+          "shudder",
+          "tremble",
+          "wobble"
+        ],
+        "meaning": "an indication of shaking, as from fear or cold",
+        "example": [{
+          "file": "gata_gata-2a",
+          "contributor": "",
+          "display": "ガタ  ガタ  ガタ",
+          "source": "drawing"
+        }]
+      }
+    ],
     "literal": "gata gata"
   },
   {
@@ -6615,6 +6674,12 @@
             "contributor": "",
             "display": "ギュ",
             "source": "marginal_taylor"
+          },
+          {
+            "file": "gyu-2c",
+            "contributor": "",
+            "display": "ギュッ",
+            "source": "drawing"
           }
         ]
       },
@@ -9263,6 +9328,35 @@
       }
     ],
     "literal": "kui kui"
+  },
+  {
+    "hiragana": [
+      "くく",
+      "くくっ"
+    ],
+    "katakana": [
+      "クク",
+      "ククッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cackle",
+        "chortle",
+        "chuckle",
+        "giggle",
+        "laugh",
+        "snicker",
+        "titter"
+      ],
+      "meaning": "the sound of a snicker or giggle",
+      "example": [{
+        "file": "kuku-1a",
+        "contributor": "",
+        "display": "くくっ",
+        "source": "drawing"
+      }]
+    }],
+    "literal": "kuku"
   },
   {
     "hiragana": ["くなくな"],
@@ -12911,6 +13005,36 @@
     "literal": "pun"
   },
   {
+    "hiragana": [
+      "ぷる",
+      "ぷるる",
+      "ぷるるる"
+    ],
+    "katakana": [
+      "プル",
+      "プルル",
+      "プルルル"
+    ],
+    "definition": [{
+      "equivalent": [
+        "buzz",
+        "hum",
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "meaning": "an indication of shaking or buzzing",
+      "example": [{
+        "file": "puru-1a",
+        "contributor": "",
+        "display": "プルルル",
+        "source": "drawing"
+      }]
+    }],
+    "literal": "puru"
+  },
+  {
     "hiragana": ["ぷるん"],
     "katakana": ["プルン"],
     "definition": [{
@@ -14221,35 +14345,23 @@
     "literal": "supi supi"
   },
   {
-    "hiragana": [
-      "する",
-      "するっ"
-    ],
-    "katakana": [
-      "スル",
-      "スルッ"
-    ],
+    "hiragana": ["するする"],
+    "katakana": ["スルスル"],
     "definition": [{
       "equivalent": [
-        "disrobe",
-        "doff",
-        "don",
-        "put on",
-        "remove",
-        "slip on",
-        "take off",
-        "undress",
-        "wear"
+        "nimble nimble",
+        "smooth  smooth",
+        "swift swift"
       ],
-      "meaning": "to put something on or take something off, typically something worn",
+      "meaning": "an smooth or nimble action or movement",
       "example": [{
-        "file": "suru-1a",
+        "file": "suru_suru-1a",
         "contributor": "",
         "display": "する  する",
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "suru"
+    "literal": "suru suru"
   },
   {
     "hiragana": [
@@ -14783,29 +14895,48 @@
       "ト",
       "トッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "flick",
-        "land",
-        "pat",
-        "tap"
-      ],
-      "meaning": "a soft ninja-like landing",
-      "example": [
-        {
-          "file": "to-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "flick",
+          "land",
+          "pat",
+          "tap"
+        ],
+        "meaning": "a soft ninja-like landing",
+        "example": [
+          {
+            "file": "to-1a",
+            "contributor": "",
+            "display": "トッ",
+            "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "to-1b",
+            "contributor": "",
+            "display": "トッ",
+            "source": "strongest_thread_master"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "clack",
+          "click",
+          "clink",
+          "snap",
+          "tap",
+          "tick"
+        ],
+        "meaning": "a soft click or tap sound",
+        "example": [{
+          "file": "to-2a",
           "contributor": "",
-          "display": "トッ",
-          "source": "reincarnated_aristocrat"
-        },
-        {
-          "file": "to-1b",
-          "contributor": "",
-          "display": "トッ",
-          "source": "strongest_thread_master"
-        }
-      ]
-    }],
+          "display": "とっ",
+          "source": "drawing"
+        }]
+      }
+    ],
     "literal": "to"
   },
   {
@@ -15467,12 +15598,20 @@
         "wail"
       ],
       "meaning": "to cry loudly indicating pain or distress",
-      "example": [{
-        "file": "uwan-1a",
-        "contributor": "",
-        "display": "うわぁぁぁん",
-        "source": "isekai_territory_reform"
-      }]
+      "example": [
+        {
+          "file": "uwan-1a",
+          "contributor": "",
+          "display": "うわぁぁぁん",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "uwan-1b",
+          "contributor": "",
+          "display": "うわーん",
+          "source": "drawing"
+        }
+      ]
     }],
     "literal": "uwan"
   },
@@ -16767,11 +16906,13 @@
   {
     "hiragana": [
       "ずざ",
+      "ずざっ",
       "ずざざ",
       "ずざざざ"
     ],
     "katakana": [
       "ズザ",
+      "ズザッ",
       "ズザザ",
       "ズザザザ"
     ],
@@ -16787,12 +16928,20 @@
         "whomp"
       ],
       "meaning": "a hard impact from a falling or thrown person",
-      "example": [{
-        "file": "zuza-1a",
-        "contributor": "",
-        "display": "ズザザ",
-        "source": "hanako_24th_ward"
-      }]
+      "example": [
+        {
+          "file": "zuza-1a",
+          "contributor": "",
+          "display": "ズザザ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "zuza-1b",
+          "contributor": "",
+          "display": "ズザッ",
+          "source": "drawing"
+        }
+      ]
     }],
     "literal": "zuza"
   }
