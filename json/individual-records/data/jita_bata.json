@@ -10,8 +10,8 @@
     {
       "meaning": "an indication of strugging against restraints",
       "equivalent": [
-        "struggle struggle",
         "resist resist",
+        "struggle struggle",
         "wriggle wriggle"
       ],
       "example": [
@@ -19,6 +19,12 @@
           "source": "hone_dragon",
           "file": "jita_bata-1a",
           "display": "じたばた",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_av_filming",
+          "file": "jita_bata-1b",
+          "display": "じた  ばた",
           "contributor": ""
         }
       ]

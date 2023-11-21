@@ -30,18 +30,38 @@
     {
       "meaning": "the sound of a vibrating string, rope, or cable",
       "equivalent": [
-        "strum",
         "pluck",
-        "vibrate",
         "quiver",
+        "strum",
+        "twang",
         "twitch",
-        "twang"
+        "vibrate"
       ],
       "example": [
         {
           "source": "spy_x_family",
           "file": "pin-2a",
           "display": "ピン",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an expression of sudden inspiration, revelation, or recognition",
+      "equivalent": [
+        "ah-hah",
+        "inspiration",
+        "revelation",
+        "realize",
+        "recognition",
+        "ping",
+        "spark"
+      ],
+      "example": [
+        {
+          "source": "isekai_av_filming",
+          "file": "pin-3a",
+          "display": "ピーン",
           "contributor": ""
         }
       ]

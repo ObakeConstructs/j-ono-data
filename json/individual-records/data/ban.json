@@ -2,14 +2,18 @@
   "literal": "ban",
   "katakana": [
     "バン",
+    "バーン",
     "バンッ",
     "バァン",
+    "バァーン",
     "バァンッ"
   ],
   "hiragana": [
     "ばん",
+    "ばーん",
     "ばんっ",
     "ばぁん",
+    "ばぁーん",
     "ばぁんっ"
   ],
   "definition": [
@@ -51,6 +55,24 @@
           "source": "peter_grill",
           "file": "ban-1d",
           "display": "バァンッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
+      "equivalent": [
+        "bam",
+        "boom",
+        "d-dum",
+        "ta-da",
+        "wow"
+      ],
+      "example": [
+        {
+          "source": "isekai_av_filming",
+          "file": "ban-2a",
+          "display": "バァーン",
           "contributor": ""
         }
       ]

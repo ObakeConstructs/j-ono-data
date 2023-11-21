@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "しゅ",
-    "しゅっ",
-    "しゅぃ",
-    "しゅい",
-    "しゅぃぃ",
-    "しゅいい"
-  ],
+  "literal": "shu",
   "katakana": [
     "シュ",
     "シュッ",
@@ -15,8 +8,17 @@
     "シュゥゥ",
     "シュウウ"
   ],
+  "hiragana": [
+    "しゅ",
+    "しゅっ",
+    "しゅぃ",
+    "しゅい",
+    "しゅぃぃ",
+    "しゅいい"
+  ],
   "definition": [
     {
+      "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
       "equivalent": [
         "fwip",
         "whiz",
@@ -24,38 +26,46 @@
         "zip",
         "zoom"
       ],
-      "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
       "example": [
         {
+          "source": "d_genesis",
           "file": "shu-1a",
-          "contributor": "",
           "display": "シュッ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "shu-1b",
-          "contributor": "",
           "display": "シュッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "a hissing sound",
       "equivalent": [
         "fsshh",
         "hiss",
         "sshh",
         "sss"
       ],
-      "meaning": "a hissing sound",
-      "example": [{
-        "file": "shu-2a",
-        "contributor": "",
-        "display": "シュゥゥ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "shu-2a",
+          "display": "シュゥゥ",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_av_filming",
+          "file": "shu-2b",
+          "display": "シュウウウウウ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "a blocking maneuver in combat",
       "equivalent": [
         "block",
         "check",
@@ -65,14 +75,14 @@
         "obstruct",
         "stop"
       ],
-      "meaning": "a blocking maneuver in combat",
-      "example": [{
-        "file": "shu-3a",
-        "contributor": "",
-        "display": "シュッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "shu-3a",
+          "display": "シュッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "shu"
+  ]
 }

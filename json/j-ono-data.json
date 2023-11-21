@@ -452,58 +452,80 @@
   {
     "hiragana": [
       "ばん",
+      "ばーん",
       "ばんっ",
       "ばぁん",
+      "ばぁーん",
       "ばぁんっ"
     ],
     "katakana": [
       "バン",
+      "バーン",
       "バンッ",
       "バァン",
+      "バァーン",
       "バァンッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bam",
-        "bang",
-        "crack",
-        "hit",
-        "pound",
-        "slam",
-        "slap",
-        "slug",
-        "sock",
-        "thwack",
-        "whack"
-      ],
-      "meaning": "a short, sharp sound of impact",
-      "example": [
-        {
-          "file": "ban-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "bam",
+          "bang",
+          "crack",
+          "hit",
+          "pound",
+          "slam",
+          "slap",
+          "slug",
+          "sock",
+          "thwack",
+          "whack"
+        ],
+        "meaning": "a short, sharp sound of impact",
+        "example": [
+          {
+            "file": "ban-1a",
+            "contributor": "",
+            "display": "ばん",
+            "source": "d_genesis"
+          },
+          {
+            "file": "ban-1b",
+            "contributor": "",
+            "display": "バンッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "ban-1c",
+            "contributor": "",
+            "display": "バン",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "ban-1d",
+            "contributor": "",
+            "display": "バァンッ",
+            "source": "peter_grill"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "bam",
+          "boom",
+          "d-dum",
+          "ta-da",
+          "wow"
+        ],
+        "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
+        "example": [{
+          "file": "ban-2a",
           "contributor": "",
-          "display": "ばん",
-          "source": "d_genesis"
-        },
-        {
-          "file": "ban-1b",
-          "contributor": "",
-          "display": "バンッ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "ban-1c",
-          "contributor": "",
-          "display": "バン",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "ban-1d",
-          "contributor": "",
-          "display": "バァンッ",
-          "source": "peter_grill"
-        }
-      ]
-    }],
+          "display": "バァーン",
+          "source": "isekai_av_filming"
+        }]
+      }
+    ],
     "literal": "ban"
   },
   {
@@ -3197,7 +3219,7 @@
           "here",
           "ta-da"
         ],
-        "meaning": "to call attention to something amazing or surprising in an dramatic fashion",
+        "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
         "example": [
           {
             "file": "don-2a",
@@ -5240,6 +5262,34 @@
     "literal": "gata"
   },
   {
+    "hiragana": [
+      "がたん",
+      "がたーん"
+    ],
+    "katakana": [
+      "ガタン",
+      "ガターン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ah-hah",
+        "inspiration",
+        "realize",
+        "recognition",
+        "revelation",
+        "spark"
+      ],
+      "meaning": "\"an expression of sudden inspiration, revelation, or recognition",
+      "example": [{
+        "file": "gatan-1a",
+        "contributor": "",
+        "display": "ガタン",
+        "source": "isekai_av_filming"
+      }]
+    }],
+    "literal": "gatan"
+  },
+  {
     "hiragana": ["がたがた"],
     "katakana": ["ガタガタ"],
     "definition": [
@@ -6244,6 +6294,24 @@
     "literal": "gou"
   },
   {
+    "hiragana": ["ごうんごうん"],
+    "katakana": ["ゴウンゴウン"],
+    "definition": [{
+      "equivalent": [
+        "grumble",
+        "rumble"
+      ],
+      "meaning": "The repeated rumbling sound of heavy machinery",
+      "example": [{
+        "file": "goun_goun-1a",
+        "contributor": "",
+        "display": "ゴウン  ゴウン",
+        "source": "isekai_av_filming"
+      }]
+    }],
+    "literal": "goun goun"
+  },
+  {
     "hiragana": [
       "ぐ",
       "ぐっ",
@@ -6769,6 +6837,35 @@
       }]
     }],
     "literal": "gya gya"
+  },
+  {
+    "hiragana": [
+      "ぎょ",
+      "ぎょっ"
+    ],
+    "katakana": [
+      "ギョ",
+      "ギョッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "aghast",
+        "appalled",
+        "astounded",
+        "flabbergasted",
+        "shocked",
+        "stunned",
+        "surprised"
+      ],
+      "meaning": "an expression of shock or disbelief",
+      "example": [{
+        "file": "gyo-1a",
+        "contributor": "",
+        "display": "ぎょっ",
+        "source": "isekai_av_filming"
+      }]
+    }],
+    "literal": "gyo"
   },
   {
     "hiragana": [
@@ -8008,12 +8105,20 @@
         "wriggle wriggle"
       ],
       "meaning": "an indication of strugging against restraints",
-      "example": [{
-        "file": "jita_bata-1a",
-        "contributor": "",
-        "display": "じたばた",
-        "source": "hone_dragon"
-      }]
+      "example": [
+        {
+          "file": "jita_bata-1a",
+          "contributor": "",
+          "display": "じたばた",
+          "source": "hone_dragon"
+        },
+        {
+          "file": "jita_bata-1b",
+          "contributor": "",
+          "display": "じた  ばた",
+          "source": "isekai_av_filming"
+        }
+      ]
     }],
     "literal": "jita bata"
   },
@@ -8395,6 +8500,25 @@
     "literal": "kachi"
   },
   {
+    "hiragana": ["かちかち"],
+    "katakana": ["カチカチ"],
+    "definition": [{
+      "equivalent": [
+        "clack clack",
+        "click click",
+        "tap tap"
+      ],
+      "meaning": "a series of short, sharp clicks or clinks",
+      "example": [{
+        "file": "kachi_kachi-1a",
+        "contributor": "",
+        "display": "カチ  カチ",
+        "source": "isekai_av_filming"
+      }]
+    }],
+    "literal": "kachi kachi"
+  },
+  {
     "hiragana": ["かきかき"],
     "katakana": ["カキカキ"],
     "definition": [{
@@ -8770,28 +8894,38 @@
   },
   {
     "hiragana": [
-      "けほ",
-      "けほっ"
+      "けほけほ",
+      "けほっけほっ"
     ],
     "katakana": [
-      "ケホ",
-      "ケホッ"
+      "ケホケホ",
+      "ケホッケホッ"
     ],
     "definition": [{
       "equivalent": [
-        "cough",
-        "hack",
-        "whoop"
+        "cough cough",
+        "gasp gasp",
+        "huff huff",
+        "pant pant",
+        "wheeze wheeze"
       ],
-      "meaning": "The sound of someone coughing",
-      "example": [{
-        "file": "keho-1a",
-        "contributor": "",
-        "display": "ケホッ  ケホ",
-        "source": "nete_kunoichi"
-      }]
+      "meaning": "the sound of someone struggling to breath",
+      "example": [
+        {
+          "file": "keho_keho-1a",
+          "contributor": "",
+          "display": "ケホッ  ケホ",
+          "source": "nete_kunoichi"
+        },
+        {
+          "file": "keho_keho-1b",
+          "contributor": "",
+          "display": "ケホケホ",
+          "source": "isekai_av_filming"
+        }
+      ]
     }],
-    "literal": "keho"
+    "literal": "keho keho"
   },
   {
     "hiragana": [
@@ -10779,6 +10913,32 @@
     "literal": "nma"
   },
   {
+    "hiragana": [
+      "のり",
+      "のりっ"
+    ],
+    "katakana": [
+      "ノリ",
+      "ノリッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "climb on",
+        "climb up",
+        "mount",
+        "ride"
+      ],
+      "meaning": "to climb onto something and sit down",
+      "example": [{
+        "file": "nori-1a",
+        "contributor": "",
+        "display": "のりっ",
+        "source": "isekai_av_filming"
+      }]
+    }],
+    "literal": "nori"
+  },
+  {
     "hiragana": ["のそのそ"],
     "katakana": ["ノソノソ"],
     "definition": [{
@@ -10798,6 +10958,33 @@
       }]
     }],
     "literal": "noso noso"
+  },
+  {
+    "hiragana": [
+      "ぬるん",
+      "ぬるんっ"
+    ],
+    "katakana": [
+      "ヌルン",
+      "ヌルンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "greasy",
+        "shlup",
+        "slick",
+        "slimey",
+        "slippery"
+      ],
+      "meaning": "an indication of something wet or slippery ",
+      "example": [{
+        "file": "nurun-1a",
+        "contributor": "",
+        "display": "ぬるんっ",
+        "source": "isekai_av_filming"
+      }]
+    }],
+    "literal": "nurun"
   },
   {
     "hiragana": ["にゃ"],
@@ -11854,15 +12041,24 @@
       "equivalent": [
         "lap",
         "lick",
-        "slurp"
+        "slurp",
+        "taste"
       ],
       "meaning": "the sound of a tongue licking something",
-      "example": [{
-        "file": "pero-1a",
-        "contributor": "",
-        "display": "ぺろ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "pero-1a",
+          "contributor": "",
+          "display": "ぺろ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "pero-1b",
+          "contributor": "",
+          "display": "ペロッ",
+          "source": "isekai_av_filming"
+        }
+      ]
     }],
     "literal": "pero"
   },
@@ -12396,6 +12592,24 @@
           "contributor": "",
           "display": "ピン",
           "source": "spy_x_family"
+        }]
+      },
+      {
+        "equivalent": [
+          "ah-hah",
+          "inspiration",
+          "ping",
+          "realize",
+          "recognition",
+          "revelation",
+          "spark"
+        ],
+        "meaning": "an expression of sudden inspiration, revelation, or recognition",
+        "example": [{
+          "file": "pin-3a",
+          "contributor": "",
+          "display": "ピーン",
+          "source": "isekai_av_filming"
         }]
       }
     ],
@@ -13971,12 +14185,20 @@
           "sss"
         ],
         "meaning": "a hissing sound",
-        "example": [{
-          "file": "shu-2a",
-          "contributor": "",
-          "display": "シュゥゥ",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "shu-2a",
+            "contributor": "",
+            "display": "シュゥゥ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "shu-2b",
+            "contributor": "",
+            "display": "シュウウウウウ",
+            "source": "isekai_av_filming"
+          }
+        ]
       },
       {
         "equivalent": [
