@@ -2469,6 +2469,32 @@
   },
   {
     "hiragana": [
+      "ちょぃ",
+      "ちょぃっ"
+    ],
+    "katakana": [
+      "チョィ",
+      "チョィッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "motion",
+        "move",
+        "shift",
+        "wave"
+      ],
+      "meaning": "an act of movment or changing position",
+      "example": [{
+        "file": "choi_choi-1a",
+        "contributor": "",
+        "display": "ちょぃ",
+        "source": "eternal_fool_asley"
+      }]
+    }],
+    "literal": "choi choi"
+  },
+  {
+    "hiragana": [
       "ちゅ",
       "ちゅっ",
       "ちゅー",
@@ -3889,7 +3915,7 @@
           "phew",
           "whew"
         ],
-        "meaning": "deep breath after light exertion",
+        "meaning": "the sound of exhaling, often us as an expresison of exertion",
         "example": [
           {
             "file": "fu-5a",
@@ -10708,6 +10734,29 @@
       }]
     }],
     "literal": "muta muta"
+  },
+  {
+    "hiragana": ["むずむず"],
+    "katakana": ["ムズムズ"],
+    "definition": [{
+      "equivalent": [
+        "anxious",
+        "impatient",
+        "nervous",
+        "restless",
+        "tense",
+        "uneasy",
+        "unnerved"
+      ],
+      "meaning": "an expression of impatience, restlessness, or anxiety",
+      "example": [{
+        "file": "muzu_muzu-1a",
+        "contributor": "",
+        "display": "ムズ  ムズ",
+        "source": "eternal_fool_asley"
+      }]
+    }],
+    "literal": "muzu muzu"
   },
   {
     "hiragana": ["なでなで"],
