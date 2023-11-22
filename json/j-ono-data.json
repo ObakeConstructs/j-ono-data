@@ -1084,6 +1084,29 @@
     "literal": "bikun"
   },
   {
+    "hiragana": ["びくびくん"],
+    "katakana": ["ビクビクン"],
+    "definition": [{
+      "equivalent": [
+        "convulse convulse",
+        "jolt jolt",
+        "quiver quiver",
+        "shiver shiver",
+        "shudder shudder",
+        "tremble tremble",
+        "tremor tremor"
+      ],
+      "meaning": "a series of shakes, twitches, or convulsions",
+      "example": [{
+        "file": "biku_bikun-1a",
+        "contributor": "",
+        "display": "ビク  ビク  ビクン",
+        "source": "reincarnated_as_a_dragon_egg"
+      }]
+    }],
+    "literal": "biku bikun"
+  },
+  {
     "hiragana": [
       "びりびり",
       "びりびりっ"
@@ -5676,6 +5699,12 @@
           "contributor": "",
           "display": "ぎくっ",
           "source": "d_genesis"
+        },
+        {
+          "file": "giku-1c",
+          "contributor": "",
+          "display": "ギクッ",
+          "source": "reincarnated_as_a_dragon_egg"
         }
       ]
     }],
@@ -10142,6 +10171,26 @@
     "literal": "kyan"
   },
   {
+    "hiragana": ["きょどきょど"],
+    "katakana": ["キョドキョド"],
+    "definition": [{
+      "equivalent": [
+        "fidget fidget",
+        "flit flit",
+        "pace pace",
+        "twitch twitch"
+      ],
+      "meaning": "a series of jerky or restless movements",
+      "example": [{
+        "file": "kyodo_kyodo-1a",
+        "contributor": "",
+        "display": "キョド  キョド",
+        "source": "reincarnated_as_a_dragon_egg"
+      }]
+    }],
+    "literal": "kyodo kyodo"
+  },
+  {
     "hiragana": ["きょろ"],
     "katakana": ["キョロ"],
     "definition": [{
@@ -10887,6 +10936,27 @@
       }]
     }],
     "literal": "nchu"
+  },
+  {
+    "hiragana": ["んぐんぐ"],
+    "katakana": ["ングング"],
+    "definition": [{
+      "equivalent": [
+        "drink drink",
+        "gulp gulp",
+        "quaff quaff",
+        "swallow swallow",
+        "swig swig"
+      ],
+      "meaning": "the sound of someone enthusiastically drinking",
+      "example": [{
+        "file": "ngu_ngu-1a",
+        "contributor": "",
+        "display": "んぐ  んぐ",
+        "source": "reincarnated_as_a_dragon_egg"
+      }]
+    }],
+    "literal": "ngu ngu"
   },
   {
     "hiragana": [
@@ -12587,12 +12657,20 @@
         "ring"
       ],
       "meaning": "the noise of an electronic chime, typical of games or computers",
-      "example": [{
-        "file": "pikon-1a",
-        "contributor": "",
-        "display": "ピコン",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "pikon-1a",
+          "contributor": "",
+          "display": "ピコン",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "pikon-1b",
+          "contributor": "",
+          "display": "ピコーン",
+          "source": "reincarnated_as_a_dragon_egg"
+        }
+      ]
     }],
     "literal": "pikon"
   },
@@ -13545,13 +13623,21 @@
         "phew",
         "whah"
       ],
-      "meaning": "a voiced sound expressing relief, satisfaction, or a break from exertion ",
-      "example": [{
-        "file": "puha-1a",
-        "contributor": "",
-        "display": "ぷはっ",
-        "source": "dog_became_strongest"
-      }]
+      "meaning": "a vocalized sound expressing relief or satisfaction, especially after taking a drink",
+      "example": [
+        {
+          "file": "puha-1a",
+          "contributor": "",
+          "display": "ぷはっ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "puha-1b",
+          "contributor": "",
+          "display": "ぷはっ",
+          "source": "reincarnated_as_a_dragon_egg"
+        }
+      ]
     }],
     "literal": "puha"
   },
@@ -13799,6 +13885,34 @@
       }]
     }],
     "literal": "pusu pusu"
+  },
+  {
+    "hiragana": [
+      "ピャ",
+      "ピャッ",
+      "ピャーッ"
+    ],
+    "katakana": [
+      "ピャ",
+      "ピャッ",
+      "ピャーッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "hah",
+        "piha",
+        "pop",
+        "pyaa"
+      ],
+      "meaning": "the sound of a sudden release of pressure, or a burst of energy",
+      "example": [{
+        "file": "pya-1a",
+        "contributor": "",
+        "display": "ピャーッ",
+        "source": "reincarnated_as_a_dragon_egg"
+      }]
+    }],
+    "literal": "pya"
   },
   {
     "hiragana": [
@@ -16266,6 +16380,29 @@
       }]
     }],
     "literal": "uon"
+  },
+  {
+    "hiragana": ["うろうろ"],
+    "katakana": ["ウロウロ"],
+    "definition": [{
+      "equivalent": [
+        "mill about",
+        "pace pace",
+        "roam roam",
+        "stroll stroll",
+        "traipse traipse",
+        "wander around",
+        "wander wander"
+      ],
+      "meaning": "to move about aimlessly",
+      "example": [{
+        "file": "uro_uro-1a",
+        "contributor": "",
+        "display": "ウロ  ウロ",
+        "source": "reincarnated_as_a_dragon_egg"
+      }]
+    }],
+    "literal": "uro uro"
   },
   {
     "hiragana": [

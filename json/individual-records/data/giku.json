@@ -1,36 +1,44 @@
 {
-  "hiragana": [
-    "ぎく",
-    "ぎくっ"
-  ],
+  "literal": "giku",
   "katakana": [
     "ギク",
     "ギクッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "alarm",
-      "erk",
-      "guilt",
-      "gulp",
-      "shock",
-      "urk"
-    ],
-    "meaning": "an expression of dismay, guilt and/or surprise",
-    "example": [
-      {
-        "file": "giku-1a",
-        "contributor": "",
-        "display": "ギクッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "giku-1b",
-        "contributor": "",
-        "display": "ぎくっ",
-        "source": "d_genesis"
-      }
-    ]
-  }],
-  "literal": "giku"
+  "hiragana": [
+    "ぎく",
+    "ぎくっ"
+  ],
+  "definition": [
+    {
+      "meaning": "an expression of dismay, guilt and/or surprise",
+      "equivalent": [
+        "alarm",
+        "erk",
+        "guilt",
+        "gulp",
+        "shock",
+        "urk"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "giku-1a",
+          "display": "ギクッ",
+          "contributor": ""
+        },
+        {
+          "source": "d_genesis",
+          "file": "giku-1b",
+          "display": "ぎくっ",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_as_a_dragon_egg",
+          "file": "giku-1c",
+          "display": "ギクッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
