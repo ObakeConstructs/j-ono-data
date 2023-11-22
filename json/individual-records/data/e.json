@@ -1,6 +1,8 @@
 {
   "literal": "e",
   "katakana": [
+    "エ",
+    "エッ",
     "エェ",
     "エェッ",
     "エェーッ",
@@ -9,6 +11,8 @@
     "エエーッ"
   ],
   "hiragana": [
+    "え",
+    "えっ",
     "えぇ",
     "えぇっ",
     "えぇーっ",
@@ -18,18 +22,35 @@
   ],
   "definition": [
     {
-      "meaning": "a verbalized sound indicating hesitation or thoughtful reflection, often drawn out",
+      "meaning": "a vocalized sound expressing hesitation or thoughtful reflection, often drawn out",
       "equivalent": [
-        "uh",
-        "umm",
         "let's see",
-        "think"
+        "think",
+        "uh",
+        "umm"
       ],
       "example": [
         {
           "source": "isekai_pickup",
           "file": "e-1a",
           "display": "えぇーっ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a vocalized sound expressing surprise or concern",
+      "equivalent": [
+        "huh?",
+        "eh?",
+        "what?",
+        "ah?"
+      ],
+      "example": [
+        {
+          "source": "eternal_fool_asley",
+          "file": "e-1b",
+          "display": "えっ!?",
           "contributor": ""
         }
       ]

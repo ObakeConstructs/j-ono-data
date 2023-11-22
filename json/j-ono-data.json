@@ -805,13 +805,21 @@
         "thud",
         "thwack"
       ],
-      "meaning": "The impact sound of a door opening or closing",
-      "example": [{
-        "file": "batan-1a",
-        "contributor": "",
-        "display": "バタン",
-        "source": "different_world_smartphone"
-      }]
+      "meaning": "The sound of a rattling impact, as from a door or window opening",
+      "example": [
+        {
+          "file": "batan-1a",
+          "contributor": "",
+          "display": "バタン",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "batan-1b",
+          "contributor": "",
+          "display": "バタン",
+          "source": "eternal_fool_asley"
+        }
+      ]
     }],
     "literal": "batan"
   },
@@ -2125,30 +2133,50 @@
       "ビュウ",
       "ビュゥ"
     ],
-    "definition": [{
-      "equivalent": [
-        "whish",
-        "whistle",
-        "whoo",
-        "whoosh",
-        "wind"
-      ],
-      "meaning": "the sound of wind or blowing air",
-      "example": [
-        {
-          "file": "byu-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "whish",
+          "whistle",
+          "whoo",
+          "whoosh",
+          "wind"
+        ],
+        "meaning": "the sound of wind or blowing air",
+        "example": [
+          {
+            "file": "byu-1a",
+            "contributor": "",
+            "display": "ビュウ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "byu-1b",
+            "contributor": "",
+            "display": "ビュ",
+            "source": "bungo"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "shoom",
+          "swoosh",
+          "whish",
+          "whiz",
+          "whoosh",
+          "zip",
+          "zoom"
+        ],
+        "meaning": "the sound of someone or something moving very quickly",
+        "example": [{
+          "file": "byu-2a",
           "contributor": "",
-          "display": "ビュウ",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "byu-1b",
-          "contributor": "",
-          "display": "ビュ",
-          "source": "bungo"
-        }
-      ]
-    }],
+          "display": "ビュッ",
+          "source": "eternal_fool_asley"
+        }]
+      }
+    ],
     "literal": "byu"
   },
   {
@@ -2729,12 +2757,20 @@
         "thunk"
       ],
       "meaning": "a sudden impacts, typically against something solid",
-      "example": [{
-        "file": "dan-1a",
-        "contributor": "",
-        "display": "ダンッ",
-        "source": "isekai_pickup"
-      }]
+      "example": [
+        {
+          "file": "dan-1a",
+          "contributor": "",
+          "display": "ダンッ",
+          "source": "isekai_pickup"
+        },
+        {
+          "file": "dan-1b",
+          "contributor": "",
+          "display": "だんっ!!",
+          "source": "eternal_fool_asley"
+        }
+      ]
     }],
     "literal": "dan"
   },
@@ -3686,6 +3722,8 @@
   },
   {
     "hiragana": [
+      "え",
+      "えっ",
       "えぇ",
       "えぇっ",
       "えぇーっ",
@@ -3694,6 +3732,8 @@
       "ええーっ"
     ],
     "katakana": [
+      "エ",
+      "エッ",
       "エェ",
       "エェッ",
       "エェーッ",
@@ -3701,21 +3741,38 @@
       "エエッ",
       "エエーッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "let's see",
-        "think",
-        "uh",
-        "umm"
-      ],
-      "meaning": "a verbalized sound indicating hesitation or thoughtful reflection, often drawn out",
-      "example": [{
-        "file": "e-1a",
-        "contributor": "",
-        "display": "えぇーっ",
-        "source": "isekai_pickup"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "let's see",
+          "think",
+          "uh",
+          "umm"
+        ],
+        "meaning": "a vocalized sound expressing hesitation or thoughtful reflection, often drawn out",
+        "example": [{
+          "file": "e-1a",
+          "contributor": "",
+          "display": "えぇーっ",
+          "source": "isekai_pickup"
+        }]
+      },
+      {
+        "equivalent": [
+          "ah?",
+          "eh?",
+          "huh?",
+          "what?"
+        ],
+        "meaning": "a vocalized sound expressing surprise or concern",
+        "example": [{
+          "file": "e-1b",
+          "contributor": "",
+          "display": "えっ!?",
+          "source": "eternal_fool_asley"
+        }]
+      }
+    ],
     "literal": "e"
   },
   {
@@ -4033,6 +4090,12 @@
           "contributor": "",
           "display": "ふん",
           "source": "fushi_no_kami"
+        },
+        {
+          "file": "fun-1c",
+          "contributor": "",
+          "display": "ふんっ",
+          "source": "eternal_fool_asley"
         }
       ]
     }],
@@ -4418,6 +4481,12 @@
             "contributor": "",
             "display": "ガ",
             "source": "komi_cant_communicate"
+          },
+          {
+            "file": "ga-1d",
+            "contributor": "",
+            "display": "がっ",
+            "source": "eternal_fool_asley"
           }
         ]
       },
@@ -6633,12 +6702,20 @@
         "unbalanced"
       ],
       "meaning": "an indication of something tipping or falling out of balance",
-      "example": [{
-        "file": "gura-1a",
-        "contributor": "",
-        "display": "グラッ..",
-        "source": "isekai_pickup"
-      }]
+      "example": [
+        {
+          "file": "gura-1a",
+          "contributor": "",
+          "display": "グラッ..",
+          "source": "isekai_pickup"
+        },
+        {
+          "file": "gura-1b",
+          "contributor": "",
+          "display": "ぐらっ",
+          "source": "eternal_fool_asley"
+        }
+      ]
     }],
     "literal": "gura"
   },
@@ -11188,12 +11265,20 @@
         "terror"
       ],
       "meaning": "an expression of surprise, fear, or panic",
-      "example": [{
-        "file": "oro_oro-1a",
-        "contributor": "",
-        "display": "オロ  オロ",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "file": "oro_oro-1a",
+          "contributor": "",
+          "display": "オロ  オロ  オロ  オロ",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "oro_oro-1b",
+          "contributor": "",
+          "display": "オロ  オロ",
+          "source": "eternal_fool_asley"
+        }
+      ]
     }],
     "literal": "oro oro"
   },
@@ -11955,6 +12040,32 @@
       }]
     }],
     "literal": "pa pa"
+  },
+  {
+    "hiragana": [
+      "ぺち",
+      "ぺちっ"
+    ],
+    "katakana": [
+      "ぺチ",
+      "ぺチッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "slap",
+        "smack",
+        "thwack",
+        "whack"
+      ],
+      "meaning": "the sound of a slap",
+      "example": [{
+        "file": "pechi-1a",
+        "contributor": "",
+        "display": "ぺちっ",
+        "source": "eternal_fool_asley"
+      }]
+    }],
+    "literal": "pechi"
   },
   {
     "hiragana": [
@@ -14636,6 +14747,34 @@
   },
   {
     "hiragana": [
+      "すか",
+      "すかっ"
+    ],
+    "katakana": [
+      "スカ",
+      "スカッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "strike",
+        "swish",
+        "swoosh",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "meaning": "the sound of something moving fast, typically indicating a missed hit, as from a sword or baseball bat",
+      "example": [{
+        "file": "suka-1a",
+        "contributor": "",
+        "display": "スカッ!",
+        "source": "eternal_fool_asley"
+      }]
+    }],
+    "literal": "suka"
+  },
+  {
+    "hiragana": [
       "すく",
       "すくっ"
     ],
@@ -15193,6 +15332,12 @@
             "contributor": "",
             "display": "タッ",
             "source": "strongest_thread_master"
+          },
+          {
+            "file": "ta-2c",
+            "contributor": "",
+            "display": "タッ...!",
+            "source": "eternal_fool_asley"
           }
         ]
       }
@@ -15548,32 +15693,52 @@
       "トン",
       "トンッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bop",
-        "bump",
-        "knock",
-        "step",
-        "tap",
-        "thud",
-        "thunk"
-      ],
-      "meaning": "the sound of a small or light impact",
-      "example": [
-        {
-          "file": "ton-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "bop",
+          "bump",
+          "knock",
+          "step",
+          "tap",
+          "thud",
+          "thunk"
+        ],
+        "meaning": "the sound of a small or light impact",
+        "example": [
+          {
+            "file": "ton-1a",
+            "contributor": "",
+            "display": "トン",
+            "source": "bungo"
+          },
+          {
+            "file": "ton-1b",
+            "contributor": "",
+            "display": "トンッ",
+            "source": "strongest_failure_frame"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "boing",
+          "bounce",
+          "bound",
+          "hop",
+          "jump",
+          "leap",
+          "vault"
+        ],
+        "meaning": "the act of leaping into the air",
+        "example": [{
+          "file": "ton-2a",
           "contributor": "",
-          "display": "トン",
-          "source": "bungo"
-        },
-        {
-          "file": "ton-1b",
-          "contributor": "",
-          "display": "トンッ",
-          "source": "strongest_failure_frame"
-        }
-      ]
-    }],
+          "display": "トン!",
+          "source": "eternal_fool_asley"
+        }]
+      }
+    ],
     "literal": "ton"
   },
   {
@@ -17489,43 +17654,62 @@
   {
     "hiragana": [
       "ずざ",
+      "ずざぁ",
       "ずざっ",
       "ずざざ",
       "ずざざざ"
     ],
     "katakana": [
       "ズザ",
+      "ズザァ",
       "ズザッ",
       "ズザザ",
       "ズザザザ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bam",
-        "crash",
-        "shatter",
-        "slam",
-        "smash",
-        "thud",
-        "thump",
-        "whomp"
-      ],
-      "meaning": "a hard impact from a falling or thrown person",
-      "example": [
-        {
-          "file": "zuza-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "bam",
+          "crash",
+          "shatter",
+          "slam",
+          "smash",
+          "thud",
+          "thump",
+          "whomp"
+        ],
+        "meaning": "a hard impact from a falling or thrown person",
+        "example": [
+          {
+            "file": "zuza-1a",
+            "contributor": "",
+            "display": "ズザザ",
+            "source": "hanako_24th_ward"
+          },
+          {
+            "file": "zuza-1b",
+            "contributor": "",
+            "display": "ズザッ",
+            "source": "drawing"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "screech",
+          "skid",
+          "slide",
+          "squeel"
+        ],
+        "meaning": "the sound sliding or skidding",
+        "example": [{
+          "file": "zuza-2a",
           "contributor": "",
-          "display": "ズザザ",
-          "source": "hanako_24th_ward"
-        },
-        {
-          "file": "zuza-1b",
-          "contributor": "",
-          "display": "ズザッ",
-          "source": "drawing"
-        }
-      ]
-    }],
+          "display": "ズザァ...!!",
+          "source": "eternal_fool_asley"
+        }]
+      }
+    ],
     "literal": "zuza"
   }
 ]

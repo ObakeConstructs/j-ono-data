@@ -12,17 +12,23 @@
     {
       "meaning": "an indication of something tipping or falling out of balance",
       "equivalent": [
-        "tip",
-        "unbalanced",
-        "stagger",
         "shift",
-        "spill"
+        "spill",
+        "stagger",
+        "tip",
+        "unbalanced"
       ],
       "example": [
         {
           "source": "isekai_pickup",
           "file": "gura-1a",
           "display": "グラッ..",
+          "contributor": ""
+        },
+        {
+          "source": "eternal_fool_asley",
+          "file": "gura-1b",
+          "display": "ぐらっ",
           "contributor": ""
         }
       ]

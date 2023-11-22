@@ -1,37 +1,59 @@
 {
-  "hiragana": [
-    "とん",
-    "とんっ"
-  ],
+  "literal": "ton",
   "katakana": [
     "トン",
     "トンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bop",
-      "bump",
-      "knock",
-      "step",
-      "tap",
-      "thud",
-      "thunk"
-    ],
-    "meaning": "the sound of a small or light impact",
-    "example": [
-      {
-        "file": "ton-1a",
-        "contributor": "",
-        "display": "トン",
-        "source": "bungo"
-      },
-      {
-        "file": "ton-1b",
-        "contributor": "",
-        "display": "トンッ",
-        "source": "strongest_failure_frame"
-      }
-    ]
-  }],
-  "literal": "ton"
+  "hiragana": [
+    "とん",
+    "とんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of a small or light impact",
+      "equivalent": [
+        "bop",
+        "bump",
+        "knock",
+        "step",
+        "tap",
+        "thud",
+        "thunk"
+      ],
+      "example": [
+        {
+          "source": "bungo",
+          "file": "ton-1a",
+          "display": "トン",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_failure_frame",
+          "file": "ton-1b",
+          "display": "トンッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the act of leaping into the air",
+      "equivalent": [
+        "boing",
+        "bounce",
+        "bound",
+        "hop",
+        "jump",
+        "leap",
+        "vault"
+      ],
+      "example": [
+        {
+          "source": "eternal_fool_asley",
+          "file": "ton-2a",
+          "display": "トン!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

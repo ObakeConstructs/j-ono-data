@@ -2,12 +2,14 @@
   "literal": "zuza",
   "katakana": [
     "ズザ",
+    "ズザァ",
     "ズザッ",
     "ズザザ",
     "ズザザザ"
   ],
   "hiragana": [
     "ずざ",
+    "ずざぁ",
     "ずざっ",
     "ずざざ",
     "ずざざざ"
@@ -36,6 +38,23 @@
           "source": "drawing",
           "file": "zuza-1b",
           "display": "ズザッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the sound sliding or skidding",
+      "equivalent": [
+        "slide",
+        "skid",
+        "squeel",
+        "screech"
+      ],
+      "example": [
+        {
+          "source": "eternal_fool_asley",
+          "file": "zuza-2a",
+          "display": "ズザァ...!!",
           "contributor": ""
         }
       ]
