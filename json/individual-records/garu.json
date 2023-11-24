@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "a low, guttural noise",
+      "meaning": "a low, guttural growling noise",
       "equivalent": [
         "growl",
         "grumble",
@@ -22,6 +22,12 @@
           "source": "world_full_of_monsters",
           "file": "garu-1a",
           "display": "ガルル",
+          "contributor": ""
+        },
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "garu-1b",
+          "display": "がるるる",
           "contributor": ""
         }
       ]

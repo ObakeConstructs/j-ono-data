@@ -18,19 +18,19 @@
       "equivalent": [
         "bam",
         "bang",
+        "blam",
         "blast",
+        "blow",
         "boom",
         "crack",
-        "pop",
-        "whomp",
-        "whump",
-        "blam",
-        "blow",
         "crash",
+        "impact",
+        "pop",
         "smash",
         "strike",
         "wham",
-        "impact"
+        "whomp",
+        "whump"
       ],
       "example": [
         {
@@ -42,6 +42,12 @@
         {
           "source": "strongest_thread_master",
           "file": "do-1b",
+          "display": "ドッ",
+          "contributor": ""
+        },
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "do-1c",
           "display": "ドッ",
           "contributor": ""
         }

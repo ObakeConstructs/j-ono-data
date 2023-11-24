@@ -4,13 +4,17 @@
     "ホ",
     "ホッ",
     "ホー",
-    "ホーッ"
+    "ホーッ",
+    "ホォ",
+    "ホオ"
   ],
   "hiragana": [
     "ほ",
     "ほっ",
     "ほー",
-    "ほーっ"
+    "ほーっ",
+    "ほぉ",
+    "ほお"
   ],
   "definition": [
     {
@@ -34,6 +38,12 @@
           "source": "peter_grill",
           "file": "ho-1b",
           "display": "ホッ",
+          "contributor": ""
+        },
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "ho-1c",
+          "display": "ほぉ",
           "contributor": ""
         }
       ]

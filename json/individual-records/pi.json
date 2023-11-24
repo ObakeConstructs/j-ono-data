@@ -35,20 +35,27 @@
       ]
     },
     {
-      "meaning": "to show or present something quickly or dramatically",
+      "meaning": "the sound of a clean and efficient movement, often associated with paper",
       "equivalent": [
-        "present",
-        "show",
-        "ta-da",
-        "reveal",
-        "ping",
-        "ding"
+        "flap",
+        "flip",
+        "fwip",
+        "pop",
+        "crisp",
+        "flick",
+        "swipe"
       ],
       "example": [
         {
           "source": "nete_kunoichi",
           "file": "pi-2a",
           "display": "ピッ",
+          "contributor": ""
+        },
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "pi-2b",
+          "display": "ぴっ",
           "contributor": ""
         }
       ]

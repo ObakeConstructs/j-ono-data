@@ -4,13 +4,21 @@
     "ガ",
     "ガッ",
     "ガー",
-    "ガーッ"
+    "ガーッ",
+    "ガァ",
+    "ガァァ",
+    "ガア",
+    "ガアア"
   ],
   "hiragana": [
     "が",
     "がっ",
     "がー",
-    "がーっ"
+    "がーっ",
+    "がぁ",
+    "がぁぁ",
+    "があ",
+    "がああ"
   ],
   "definition": [
     {
@@ -101,6 +109,30 @@
           "source": "strongest_magician_was_human",
           "file": "ga-2c",
           "display": "ガッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the sound of an animal growling or roaring",
+      "equivalent": [
+        "bellow",
+        "howl",
+        "roar",
+        "scream",
+        "screech",
+        "shriek",
+        "yell",
+        "growl",
+        "grumble",
+        "rumble",
+        "snarl"
+      ],
+      "example": [
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "ga-3a",
+          "display": "ガァァァァ",
           "contributor": ""
         }
       ]

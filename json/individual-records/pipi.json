@@ -1,0 +1,31 @@
+{
+  "literal": "pipi",
+  "katakana": [
+    "ピピ",
+    "ピピピ"
+  ],
+  "hiragana": [
+    "ぴぴ",
+    "ぴぴぴ"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of short chirps or tweets from a bird",
+      "equivalent": [
+        "cheep cheep",
+        "chirp chirp",
+        "peep peep",
+        "pip pip",
+        "tweet tweet"
+      ],
+      "example": [
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "pipi-1a",
+          "display": "ぴぴぴ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

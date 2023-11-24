@@ -660,30 +660,50 @@
       "バサバサ",
       "バサッバサッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "flap flap",
-        "flit flit",
-        "flutter flutter",
-        "rustle rustle",
-        "swish swish"
-      ],
-      "meaning": "soft sounds of cloth or paper movement",
-      "example": [
-        {
-          "file": "basa_basa-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "flap flap",
+          "flit flit",
+          "flutter flutter",
+          "rustle rustle",
+          "swish swish"
+        ],
+        "meaning": "soft sounds of cloth or paper movement",
+        "example": [
+          {
+            "file": "basa_basa-1a",
+            "contributor": "",
+            "display": "ばさ  ばさ",
+            "source": "hanako_24th_ward"
+          },
+          {
+            "file": "basa_basa-1b",
+            "contributor": "",
+            "display": "バサッ  バサッ",
+            "source": "otherworld_material_collector"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "flap flap",
+          "rumble rumble",
+          "swoosh swoosh",
+          "thud thud",
+          "thump thump",
+          "whoosh whoosh",
+          "whumph whumph"
+        ],
+        "meaning": "a series of heavy thudding or swooping sound",
+        "example": [{
+          "file": "basa_basa-2a",
           "contributor": "",
-          "display": "ばさ  ばさ",
-          "source": "hanako_24th_ward"
-        },
-        {
-          "file": "basa_basa-1b",
-          "contributor": "",
-          "display": "バサッ  バサッ",
-          "source": "otherworld_material_collector"
-        }
-      ]
-    }],
+          "display": "バサ  バサ  バサ",
+          "source": "my_s-ranked_daughter"
+        }]
+      }
+    ],
     "literal": "basa basa"
   },
   {
@@ -2927,6 +2947,12 @@
             "contributor": "",
             "display": "ドッ",
             "source": "strongest_thread_master"
+          },
+          {
+            "file": "do-1c",
+            "contributor": "",
+            "display": "ドッ",
+            "source": "my_s-ranked_daughter"
           }
         ]
       },
@@ -3539,11 +3565,13 @@
   {
     "hiragana": [
       "どし",
-      "どしゃ"
+      "どしゃ",
+      "どしゃぁ"
     ],
     "katakana": [
       "ドシ",
-      "ドシャ"
+      "ドシャ",
+      "ドシャァ"
     ],
     "definition": [{
       "equivalent": [
@@ -3561,13 +3589,21 @@
         "whap",
         "whomp"
       ],
-      "meaning": "the sound of impact, often from a falling person or dropped object",
-      "example": [{
-        "file": "dosha-1a",
-        "contributor": "",
-        "display": "どしゃ",
-        "source": "different_world_smartphone"
-      }]
+      "meaning": "the sound of a heavy impact, as from a falling person or a dropped object",
+      "example": [
+        {
+          "file": "dosha-1a",
+          "contributor": "",
+          "display": "どしゃ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "dosha-1b",
+          "contributor": "",
+          "display": "ドシャァ",
+          "source": "my_s-ranked_daughter"
+        }
+      ]
     }],
     "literal": "dosha"
   },
@@ -3651,6 +3687,33 @@
       }
     ],
     "literal": "dosu"
+  },
+  {
+    "hiragana": ["どすん"],
+    "katakana": ["ドスン"],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "slam",
+        "slap",
+        "smack",
+        "thud",
+        "thump",
+        "thunk",
+        "whack",
+        "wham",
+        "whap",
+        "whomp"
+      ],
+      "meaning": "a sound of a heavy impact or dull thud",
+      "example": [{
+        "file": "dosun-1a",
+        "contributor": "",
+        "display": "ドスン",
+        "source": "my_s-ranked_daughter"
+      }]
+    }],
+    "literal": "dosun"
   },
   {
     "hiragana": [
@@ -4447,13 +4510,21 @@
       "が",
       "がっ",
       "がー",
-      "がーっ"
+      "がーっ",
+      "がぁ",
+      "がぁぁ",
+      "があ",
+      "がああ"
     ],
     "katakana": [
       "ガ",
       "ガッ",
       "ガー",
-      "ガーッ"
+      "ガーッ",
+      "ガァ",
+      "ガァァ",
+      "ガア",
+      "ガアア"
     ],
     "definition": [
       {
@@ -4547,6 +4618,28 @@
             "source": "strongest_magician_was_human"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "bellow",
+          "growl",
+          "grumble",
+          "howl",
+          "roar",
+          "rumble",
+          "scream",
+          "screech",
+          "shriek",
+          "snarl",
+          "yell"
+        ],
+        "meaning": "the sound of an animal growling or roaring",
+        "example": [{
+          "file": "ga-3a",
+          "contributor": "",
+          "display": "ガァァァァ",
+          "source": "my_s-ranked_daughter"
+        }]
       }
     ],
     "literal": "ga"
@@ -5136,13 +5229,21 @@
         "rumble",
         "snarl"
       ],
-      "meaning": "a low, guttural noise",
-      "example": [{
-        "file": "garu-1a",
-        "contributor": "",
-        "display": "ガルル",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "a low, guttural growling noise",
+      "example": [
+        {
+          "file": "garu-1a",
+          "contributor": "",
+          "display": "ガルル",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "garu-1b",
+          "contributor": "",
+          "display": "がるるる",
+          "source": "my_s-ranked_daughter"
+        }
+      ]
     }],
     "literal": "garu"
   },
@@ -7567,13 +7668,17 @@
       "ほ",
       "ほっ",
       "ほー",
-      "ほーっ"
+      "ほーっ",
+      "ほぉ",
+      "ほお"
     ],
     "katakana": [
       "ホ",
       "ホッ",
       "ホー",
-      "ホーッ"
+      "ホーッ",
+      "ホォ",
+      "ホオ"
     ],
     "definition": [{
       "equivalent": [
@@ -7597,6 +7702,12 @@
           "contributor": "",
           "display": "ホッ",
           "source": "peter_grill"
+        },
+        {
+          "file": "ho-1c",
+          "contributor": "",
+          "display": "ほぉ",
+          "source": "my_s-ranked_daughter"
         }
       ]
     }],
@@ -7766,6 +7877,12 @@
           "contributor": "",
           "display": "ヒュ..",
           "source": "isekai_pickup"
+        },
+        {
+          "file": "hyu-1c",
+          "contributor": "",
+          "display": "ヒュッ",
+          "source": "my_s-ranked_daughter"
         }
       ]
     }],
@@ -7804,6 +7921,12 @@
           "contributor": "",
           "display": "ヒュン",
           "source": "hanako_24th_ward"
+        },
+        {
+          "file": "hyun-1c",
+          "contributor": "",
+          "display": "ヒュン",
+          "source": "my_s-ranked_daughter"
         }
       ]
     }],
@@ -9315,21 +9438,29 @@
     "katakana": ["キリキリ"],
     "definition": [{
       "equivalent": [
-        "clang",
-        "clank",
-        "creak",
-        "grind",
-        "scrape",
-        "squeak",
-        "whine"
+        "creak creak",
+        "pull pull",
+        "strain strain",
+        "stress stress",
+        "stretch stretch",
+        "tense tense",
+        "tight tight"
       ],
-      "meaning": "a harsh grating sound, as metal under stress",
-      "example": [{
-        "file": "kiri_kiri-1a",
-        "contributor": "",
-        "display": "キリ  キリ",
-        "source": "marginal_taylor"
-      }]
+      "meaning": "a sound of something pulled tight or straining under tension",
+      "example": [
+        {
+          "file": "kiri_kiri-1a",
+          "contributor": "",
+          "display": "キリ  キリ",
+          "source": "marginal_taylor"
+        },
+        {
+          "file": "kiri_kiri-1b",
+          "contributor": "",
+          "display": "キリ  キリ",
+          "source": "my_s-ranked_daughter"
+        }
+      ]
     }],
     "literal": "kiri kiri"
   },
@@ -10106,6 +10237,35 @@
   },
   {
     "hiragana": [
+      "くゆ",
+      "くゆっ"
+    ],
+    "katakana": [
+      "クユ",
+      "クユッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "anticipation",
+        "enthusiasm",
+        "excitement",
+        "fervor",
+        "fired up",
+        "passion",
+        "zeal"
+      ],
+      "meaning": "an expression of of anticipation or excitement",
+      "example": [{
+        "file": "kuyu-1a",
+        "contributor": "",
+        "display": "くゆっ",
+        "source": "my_s-ranked_daughter"
+      }]
+    }],
+    "literal": "kuyu"
+  },
+  {
+    "hiragana": [
       "きゃ",
       "きゃっ",
       "きゃー",
@@ -10361,19 +10521,32 @@
     ],
     "definition": [{
       "equivalent": [
+        "burst",
+        "crack",
         "creak",
         "screech",
+        "shatter",
         "shriek",
+        "snap",
+        "split",
         "squeak",
         "squeal"
       ],
-      "meaning": "the creaking sound of an old or unstable floor",
-      "example": [{
-        "file": "mishi-1a",
-        "contributor": "",
-        "display": "ミシ  ミシッ",
-        "source": "hanako_24th_ward"
-      }]
+      "meaning": "the sound of something creaking, cracking, or splintering",
+      "example": [
+        {
+          "file": "mishi-1a",
+          "contributor": "",
+          "display": "ミシ  ミシッ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "mishi-1b",
+          "contributor": "",
+          "display": "みしっ",
+          "source": "my_s-ranked_daughter"
+        }
+      ]
     }],
     "literal": "mishi"
   },
@@ -10936,6 +11109,32 @@
       }]
     }],
     "literal": "nchu"
+  },
+  {
+    "hiragana": ["んふふ"],
+    "katakana": ["ンフフ"],
+    "definition": [{
+      "equivalent": [
+        "chortle",
+        "chuckle",
+        "grin",
+        "ha",
+        "hmm hmm",
+        "hum hum",
+        "laugh",
+        "smile",
+        "smirk",
+        "snicker"
+      ],
+      "meaning": "a lighthearted and cheerful hum or soft laugh",
+      "example": [{
+        "file": "nfufu-1a",
+        "contributor": "",
+        "display": "んふふ♪",
+        "source": "my_s-ranked_daughter"
+      }]
+    }],
+    "literal": "nfufu"
   },
   {
     "hiragana": ["んぐんぐ"],
@@ -12473,20 +12672,29 @@
       },
       {
         "equivalent": [
-          "ding",
-          "ping",
-          "present",
-          "reveal",
-          "show",
-          "ta-da"
+          "crisp",
+          "flap",
+          "flick",
+          "flip",
+          "fwip",
+          "pop",
+          "swipe"
         ],
-        "meaning": "to show or present something quickly or dramatically",
-        "example": [{
-          "file": "pi-2a",
-          "contributor": "",
-          "display": "ピッ",
-          "source": "nete_kunoichi"
-        }]
+        "meaning": "the sound of a clean and efficient movement, often associated with paper",
+        "example": [
+          {
+            "file": "pi-2a",
+            "contributor": "",
+            "display": "ピッ",
+            "source": "nete_kunoichi"
+          },
+          {
+            "file": "pi-2b",
+            "contributor": "",
+            "display": "ぴっ",
+            "source": "my_s-ranked_daughter"
+          }
+        ]
       }
     ],
     "literal": "pi"
@@ -12608,12 +12816,20 @@
           "snap"
         ],
         "meaning": "an expression of sudden anger or annoyance",
-        "example": [{
-          "file": "piki-2a",
-          "contributor": "",
-          "display": "ピキ",
-          "source": "fushi_no_kami"
-        }]
+        "example": [
+          {
+            "file": "piki-2a",
+            "contributor": "",
+            "display": "ピキ",
+            "source": "fushi_no_kami"
+          },
+          {
+            "file": "piki-2b",
+            "contributor": "",
+            "display": "ピキッ",
+            "source": "my_s-ranked_daughter"
+          }
+        ]
       }
     ],
     "literal": "piki"
@@ -12867,6 +13083,33 @@
       }]
     }],
     "literal": "pin pon"
+  },
+  {
+    "hiragana": [
+      "ぴぴ",
+      "ぴぴぴ"
+    ],
+    "katakana": [
+      "ピピ",
+      "ピピピ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cheep cheep",
+        "chirp chirp",
+        "peep peep",
+        "pip pip",
+        "tweet tweet"
+      ],
+      "meaning": "a series of short chirps or tweets from a bird",
+      "example": [{
+        "file": "pipi-1a",
+        "contributor": "",
+        "display": "ぴぴぴ",
+        "source": "my_s-ranked_daughter"
+      }]
+    }],
+    "literal": "pipi"
   },
   {
     "hiragana": ["ぴろりん"],
@@ -15454,6 +15697,21 @@
             "source": "eternal_fool_asley"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "flick",
+          "land",
+          "pat",
+          "tap"
+        ],
+        "meaning": "a soft sound of a controlled ninja-like landing",
+        "example": [{
+          "file": "ta-3a",
+          "contributor": "",
+          "display": "タッ",
+          "source": "my_s-ranked_daughter"
+        }]
       }
     ],
     "literal": "ta"
@@ -15488,6 +15746,12 @@
           "contributor": "",
           "display": "タンッ",
           "source": "weakest_occupation_blacksmith"
+        },
+        {
+          "file": "tan-1c",
+          "contributor": "",
+          "display": "たんっ",
+          "source": "my_s-ranked_daughter"
         }
       ]
     }],
@@ -15705,7 +15969,7 @@
           "pat",
           "tap"
         ],
-        "meaning": "a soft ninja-like landing",
+        "meaning": "a soft sound of a controlled ninja-like landing",
         "example": [
           {
             "file": "to-1a",
@@ -16975,6 +17239,25 @@
             "source": "strongest_thread_master"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "bolt",
+          "charge",
+          "dash",
+          "hurry",
+          "pelt",
+          "run",
+          "rush",
+          "sprint"
+        ],
+        "meaning": "the sound of someone dashing or sprinting",
+        "example": [{
+          "file": "za-3a",
+          "contributor": "",
+          "display": "ザッ",
+          "source": "my_s-ranked_daughter"
+        }]
       }
     ],
     "literal": "za"
@@ -17597,44 +17880,69 @@
       "ズゥン",
       "ズゥゥン"
     ],
-    "definition": [{
-      "equivalent": [
-        "dejected",
-        "depressed",
-        "doom",
-        "dreary",
-        "gloom",
-        "glum",
-        "mope"
-      ],
-      "meaning": "an expression of low spirits",
-      "example": [
-        {
-          "file": "zun-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "dejected",
+          "depressed",
+          "doom",
+          "dreary",
+          "gloom",
+          "glum",
+          "mope"
+        ],
+        "meaning": "an expression of low spirits",
+        "example": [
+          {
+            "file": "zun-1a",
+            "contributor": "",
+            "display": "ずぅぅん",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "zun-1b",
+            "contributor": "",
+            "display": "ズーン",
+            "source": "komi_cant_communicate"
+          },
+          {
+            "file": "zun-1c",
+            "contributor": "",
+            "display": "ずうーん",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "zun-1d",
+            "contributor": "",
+            "display": "ズゥゥゥン",
+            "source": "hero_or_demon_king"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "bloodlust",
+          "furious",
+          "fury",
+          "incensed",
+          "intense",
+          "killing intent",
+          "livid",
+          "mad",
+          "pressure",
+          "rage",
+          "steamed",
+          "tension"
+        ],
+        "meaning": "an expression of rage, killing-intent, or bloodlust",
+        "example": [{
+          "file": "zun-2a",
           "contributor": "",
-          "display": "ずぅぅん",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "zun-1b",
-          "contributor": "",
-          "display": "ズーン",
-          "source": "komi_cant_communicate"
-        },
-        {
-          "file": "zun-1c",
-          "contributor": "",
-          "display": "ずうーん",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "zun-1d",
-          "contributor": "",
-          "display": "ズゥゥゥン",
-          "source": "hero_or_demon_king"
-        }
-      ]
-    }],
+          "display": "zun",
+          "source": "my_s-ranked_daughter"
+        }]
+      }
+    ],
     "literal": "zun"
   },
   {
