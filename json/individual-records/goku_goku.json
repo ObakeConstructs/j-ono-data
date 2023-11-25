@@ -31,7 +31,13 @@
         {
           "source": "otherworld_material_collector",
           "file": "goku_goku-1c",
-          "display": "ゴクゴク",
+          "display": "ゴク  ゴク",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "goku_goku-1d",
+          "display": "ごく  ごく",
           "contributor": ""
         }
       ]

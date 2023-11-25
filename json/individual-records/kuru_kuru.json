@@ -8,19 +8,26 @@
   ],
   "definition": [
     {
-      "meaning": "to turn or spin something",
+      "meaning": "to turn or spin in circles",
       "equivalent": [
         "pivot",
         "spin",
         "swing",
         "swivel",
         "turn",
-        "twist"
+        "twist",
+        "circle"
       ],
       "example": [
         {
           "source": "reincarnated_sage_daughters",
           "file": "kuru_kuru-1a",
+          "display": "くる  くる",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "kuru_kuru-1b",
           "display": "くる  くる",
           "contributor": ""
         }

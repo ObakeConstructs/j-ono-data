@@ -1,0 +1,36 @@
+{
+  "literal": "tashi",
+  "katakana": [
+    "タシ",
+    "タシッ"
+  ],
+  "hiragana": [
+    "たし",
+    "たしっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound or action of grabbing or clutching something with force, particularly with both hands",
+      "equivalent": [
+        "catch",
+        "clutch",
+        "glom",
+        "grab",
+        "grasp",
+        "hold",
+        "nab",
+        "seize",
+        "snag",
+        "snatch"
+      ],
+      "example": [
+        {
+          "source": "cheat_pharmacist",
+          "file": "tashi-1a",
+          "display": "タシッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

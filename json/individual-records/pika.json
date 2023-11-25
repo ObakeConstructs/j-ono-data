@@ -1,36 +1,46 @@
 {
-  "hiragana": [
-    "ぴか",
-    "ぴかっ",
-    "ぴかー",
-    "ぴかーっ"
-  ],
+  "literal": "pika",
   "katakana": [
     "ピカ",
     "ピカッ",
     "ピカー",
     "ピカーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bright",
-      "dazzle",
-      "gleam",
-      "glimmer",
-      "glitter",
-      "glow",
-      "light",
-      "radiance",
-      "shine",
-      "sparkle"
-    ],
-    "meaning": "a bright glowing appearance, typically metaphorical",
-    "example": [{
-      "file": "pika-1a",
-      "contributor": "",
-      "display": "ピカー",
-      "source": "komi_cant_communicate"
-    }]
-  }],
-  "literal": "pika"
+  "hiragana": [
+    "ぴか",
+    "ぴかっ",
+    "ぴかー",
+    "ぴかーっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a sudden or bright flash of light or a dazzling glimmer",
+      "equivalent": [
+        "bright",
+        "dazzle",
+        "gleam",
+        "glimmer",
+        "glitter",
+        "glow",
+        "light",
+        "radiance",
+        "shine",
+        "sparkle"
+      ],
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "pika-1a",
+          "display": "ピカー",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "pika-1b",
+          "display": "ピカッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -4371,6 +4371,12 @@
           "contributor": "",
           "display": "フリ  フリ",
           "source": "strongest_magician_was_human"
+        },
+        {
+          "file": "furi_furi-1d",
+          "contributor": "",
+          "display": "フリ  フリ",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -6208,8 +6214,14 @@
         {
           "file": "goku_goku-1c",
           "contributor": "",
-          "display": "ゴクゴク",
+          "display": "ゴク  ゴク",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "goku_goku-1d",
+          "contributor": "",
+          "display": "ごく  ごく",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -9002,11 +9014,14 @@
     "katakana": ["カリカリ"],
     "definition": [{
       "equivalent": [
+        "crackle crackle",
+        "crunch crunch",
+        "rustle rustle",
         "scratch scratch",
         "scribble scribble",
         "scritch scritch"
       ],
-      "meaning": "the sound of writing, as with a pen or pencil",
+      "meaning": "a scratching, crackling, or crunching sound",
       "example": [
         {
           "file": "kari_kari-1a",
@@ -9019,6 +9034,12 @@
           "contributor": "",
           "display": "カリ  カリ",
           "source": "isekai_pickup"
+        },
+        {
+          "file": "kari_kari-1c",
+          "contributor": "",
+          "display": "カリカリ",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -10180,6 +10201,7 @@
     "katakana": ["クルクル"],
     "definition": [{
       "equivalent": [
+        "circle",
         "pivot",
         "spin",
         "swing",
@@ -10187,13 +10209,21 @@
         "turn",
         "twist"
       ],
-      "meaning": "to turn or spin something",
-      "example": [{
-        "file": "kuru_kuru-1a",
-        "contributor": "",
-        "display": "くる  くる",
-        "source": "reincarnated_sage_daughters"
-      }]
+      "meaning": "to turn or spin in circles",
+      "example": [
+        {
+          "file": "kuru_kuru-1a",
+          "contributor": "",
+          "display": "くる  くる",
+          "source": "reincarnated_sage_daughters"
+        },
+        {
+          "file": "kuru_kuru-1b",
+          "contributor": "",
+          "display": "くる  くる",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "literal": "kuru kuru"
   },
@@ -12576,12 +12606,20 @@
         "slurp slurp"
       ],
       "meaning": "the sound of a tongue licking something",
-      "example": [{
-        "file": "pero_pero-1a",
-        "contributor": "",
-        "display": "ぺろ  ぺろ",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "file": "pero_pero-1a",
+          "contributor": "",
+          "display": "ぺろ  ぺろ",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "pero_pero-1b",
+          "contributor": "",
+          "display": "ペロ  ペロ",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "literal": "pero pero"
   },
@@ -12815,13 +12853,21 @@
         "shine",
         "sparkle"
       ],
-      "meaning": "a bright glowing appearance, typically metaphorical",
-      "example": [{
-        "file": "pika-1a",
-        "contributor": "",
-        "display": "ピカー",
-        "source": "komi_cant_communicate"
-      }]
+      "meaning": "a sudden or bright flash of light or a dazzling glimmer",
+      "example": [
+        {
+          "file": "pika-1a",
+          "contributor": "",
+          "display": "ピカー",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "pika-1b",
+          "contributor": "",
+          "display": "ピカッ",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "literal": "pika"
   },
@@ -14788,6 +14834,33 @@
   },
   {
     "hiragana": [
+      "しゅば",
+      "しゅばっ"
+    ],
+    "katakana": [
+      "シュバ",
+      "シュバッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "swish",
+        "swoosh",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "meaning": "a swift, precise or cutting motion",
+      "example": [{
+        "file": "shubba-1a",
+        "contributor": "",
+        "display": "シュバッ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "shubba"
+  },
+  {
+    "hiragana": [
       "しゅん",
       "しゅんっ",
       "しゅーんっ"
@@ -15250,41 +15323,34 @@
   {
     "hiragana": ["すんすん"],
     "katakana": ["スンスン"],
-    "definition": [
-      {
-        "equivalent": [
-          "calm",
-          "composed",
-          "cool",
-          "glide",
-          "serene",
-          "skim",
-          "smooth",
-          "tranquil"
-        ],
-        "meaning": "to move calmly and smoothly",
-        "example": [{
-          "file": "sun sun-1a",
+    "definition": [{
+      "equivalent": [
+        "sniff sniff",
+        "snuff snuff",
+        "snuffle snuffle"
+      ],
+      "meaning": "an sound of sniffing or snuffing",
+      "example": [
+        {
+          "file": "sun_sun-1a",
           "contributor": "",
           "display": "スン  スン",
           "source": "kuma_kuma_kuma_bear"
-        }]
-      },
-      {
-        "equivalent": [
-          "sniff sniff",
-          "snuff snuff",
-          "snuffle snuffle"
-        ],
-        "meaning": "an sound of sniffing or snuffing",
-        "example": [{
-          "file": "sun sun-2a",
+        },
+        {
+          "file": "sun_sun-1b",
           "contributor": "",
           "display": "スン  スン",
           "source": "dog_became_strongest"
-        }]
-      }
-    ],
+        },
+        {
+          "file": "sun_sun-1c",
+          "contributor": "",
+          "display": "スン  スン",
+          "source": "cheat_pharmacist"
+        }
+      ]
+    }],
     "literal": "sun sun"
   },
   {
@@ -15804,6 +15870,38 @@
       ]
     }],
     "literal": "tan"
+  },
+  {
+    "hiragana": [
+      "たし",
+      "たしっ"
+    ],
+    "katakana": [
+      "タシ",
+      "タシッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "catch",
+        "clutch",
+        "glom",
+        "grab",
+        "grasp",
+        "hold",
+        "nab",
+        "seize",
+        "snag",
+        "snatch"
+      ],
+      "meaning": "the sound or action of grabbing or clutching something with force, particularly with both hands",
+      "example": [{
+        "file": "tashi-1a",
+        "contributor": "",
+        "display": "タシッ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "tashi"
   },
   {
     "hiragana": [
@@ -17856,6 +17954,12 @@
             "contributor": "",
             "display": "ずい",
             "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "zui-1c",
+            "contributor": "",
+            "display": "ズィ",
+            "source": "cheat_pharmacist"
           }
         ]
       },

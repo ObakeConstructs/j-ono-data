@@ -8,27 +8,6 @@
   ],
   "definition": [
     {
-      "meaning": "to move calmly and smoothly",
-      "equivalent": [
-        "calm",
-        "composed",
-        "cool",
-        "glide",
-        "serene",
-        "skim",
-        "smooth",
-        "tranquil"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "sun sun-1a",
-          "display": "スン  スン",
-          "contributor": ""
-        }
-      ]
-    },
-    {
       "meaning": "an sound of sniffing or snuffing",
       "equivalent": [
         "sniff sniff",
@@ -37,8 +16,20 @@
       ],
       "example": [
         {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "sun_sun-1a",
+          "display": "スン  スン",
+          "contributor": ""
+        },
+        {
           "source": "dog_became_strongest",
-          "file": "sun sun-2a",
+          "file": "sun_sun-1b",
+          "display": "スン  スン",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "sun_sun-1c",
           "display": "スン  スン",
           "contributor": ""
         }

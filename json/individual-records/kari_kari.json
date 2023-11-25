@@ -8,11 +8,14 @@
   ],
   "definition": [
     {
-      "meaning": "the sound of writing, as with a pen or pencil",
+      "meaning": "a scratching, crackling, or crunching sound",
       "equivalent": [
         "scratch scratch",
         "scribble scribble",
-        "scritch scritch"
+        "scritch scritch",
+        "crackle crackle",
+        "crunch crunch",
+        "rustle rustle"
       ],
       "example": [
         {
@@ -25,6 +28,12 @@
           "source": "isekai_pickup",
           "file": "kari_kari-1b",
           "display": "カリ  カリ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "kari_kari-1c",
+          "display": "カリカリ",
           "contributor": ""
         }
       ]
