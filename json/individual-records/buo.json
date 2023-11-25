@@ -18,7 +18,7 @@
   ],
   "definition": [
     {
-      "meaning": "a sudden wind or a wind-like sound, can be gentle or intense depending on context",
+      "meaning": "a sound of wind or blowing",
       "equivalent": [
         "blast",
         "blow",
@@ -34,11 +34,17 @@
           "file": "buo-1a",
           "display": "ブォォォ",
           "contributor": ""
+        },
+        {
+          "source": "human_ranch",
+          "file": "buo-1b",
+          "display": "ブォォォォォォォォ",
+          "contributor": ""
         }
       ]
     },
     {
-      "meaning": "sound of a moving automobile",
+      "meaning": "a sound of a moving automobile",
       "equivalent": [
         "roar",
         "rumble",

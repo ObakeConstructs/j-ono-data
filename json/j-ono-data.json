@@ -1905,13 +1905,21 @@
           "voom",
           "whoosh"
         ],
-        "meaning": "a sudden wind or a wind-like sound, can be gentle or intense depending on context",
-        "example": [{
-          "file": "buo-1a",
-          "contributor": "",
-          "display": "ブォォォ",
-          "source": "otherworld_material_collector"
-        }]
+        "meaning": "a sound of wind or blowing",
+        "example": [
+          {
+            "file": "buo-1a",
+            "contributor": "",
+            "display": "ブォォォ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "buo-1b",
+            "contributor": "",
+            "display": "ブォォォォォォォォ",
+            "source": "human_ranch"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -1919,7 +1927,7 @@
           "rumble",
           "vroom"
         ],
-        "meaning": "sound of a moving automobile",
+        "meaning": "a sound of a moving automobile",
         "example": [
           {
             "file": "buo-2a",
@@ -3197,6 +3205,12 @@
           "contributor": "",
           "display": "ドキッ",
           "source": "isekai_pickup"
+        },
+        {
+          "file": "doki-1c",
+          "contributor": "",
+          "display": "ドキッ",
+          "source": "human_ranch"
         }
       ]
     }],
@@ -5520,13 +5534,21 @@
           "creak creak",
           "rattle"
         ],
-        "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
-        "example": [{
-          "file": "gata_gata-1a",
-          "contributor": "",
-          "display": "ガタ  ガタ",
-          "source": "komi_cant_communicate"
-        }]
+        "meaning": "a series of sharp clattering or rattling noises",
+        "example": [
+          {
+            "file": "gata_gata-1a",
+            "contributor": "",
+            "display": "ガタ  ガタ",
+            "source": "komi_cant_communicate"
+          },
+          {
+            "file": "gata_gata-1b",
+            "contributor": "",
+            "display": "ガタ  ガタ",
+            "source": "human_ranch"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -6402,11 +6424,12 @@
     "katakana": ["ゴシゴシ"],
     "definition": [{
       "equivalent": [
+        "buff buff",
         "rub rub",
         "scrub scrub",
         "swipe swipe"
       ],
-      "meaning": "to rub or scrub something against something else",
+      "meaning": "a series of rubbing or scrubbing sounds or motions",
       "example": [
         {
           "file": "goshi_goshi-1a",
@@ -6419,6 +6442,12 @@
           "contributor": "",
           "display": "ゴシ  ゴシ",
           "source": "a_rank_slow_life"
+        },
+        {
+          "file": "goshi_goshi-1c",
+          "contributor": "",
+          "display": "ゴシゴシ",
+          "source": "human_ranch"
         }
       ]
     }],
@@ -6535,6 +6564,36 @@
       }]
     }],
     "literal": "goun goun"
+  },
+  {
+    "hiragana": [
+      "ご",
+      "ごっ"
+    ],
+    "katakana": [
+      "ゴ",
+      "ゴッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "flap flap",
+        "flick flick",
+        "swing swing",
+        "swish swish",
+        "switch switch",
+        "swoosh swoosh",
+        "twitch twitch",
+        "wag wag"
+      ],
+      "meaning": "a series of side-to-side or up-and-down movements, often with quick jerky motions ",
+      "example": [{
+        "file": "go_go-1a",
+        "contributor": "",
+        "display": "ゴッ  ゴッ",
+        "source": "human_ranch"
+      }]
+    }],
+    "literal": "go go"
   },
   {
     "hiragana": [
@@ -8518,29 +8577,6 @@
     "definition": [
       {
         "equivalent": [
-          "aggravated",
-          "enraged",
-          "flustered",
-          "fuming",
-          "furious",
-          "fury",
-          "incensed",
-          "irate",
-          "livid",
-          "mad",
-          "rankled",
-          "steamed"
-        ],
-        "meaning": "an expression of anger ",
-        "example": [{
-          "file": "ka-1a",
-          "contributor": "",
-          "display": "カッ",
-          "source": "world_full_of_monsters"
-        }]
-      },
-      {
-        "equivalent": [
           "bright",
           "brighten",
           "glow",
@@ -8558,28 +8594,34 @@
       },
       {
         "equivalent": [
+          "clack",
+          "clank",
           "click",
-          "draw",
-          "print",
-          "scrape",
-          "scratch",
-          "scribble",
-          "stroke",
-          "tap",
-          "write"
+          "clink",
+          "tap"
         ],
-        "meaning": "the sound of writing something",
-        "example": [{
-          "file": "ka-3a",
-          "contributor": "",
-          "display": "カッ",
-          "source": "different_world_smartphone"
-        }]
+        "meaning": "a distinct and sharp sound associated with a light impact",
+        "example": [
+          {
+            "file": "ka-3a",
+            "contributor": "",
+            "display": "カッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "ka-3b",
+            "contributor": "",
+            "display": "カッ",
+            "source": "human_ranch"
+          }
+        ]
       },
       {
         "equivalent": [
           "blush",
-          "flush"
+          "flush",
+          "flustered",
+          "redden"
         ],
         "meaning": "an expression of blushing, as from excitement or embarrassment",
         "example": [
@@ -8600,6 +8642,12 @@
             "contributor": "",
             "display": "カーッ",
             "source": "isekai_territory_reform"
+          },
+          {
+            "file": "ka-4d",
+            "contributor": "",
+            "display": "カッ",
+            "source": "world_full_of_monsters"
           }
         ]
       }

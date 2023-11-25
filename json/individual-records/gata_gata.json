@@ -8,7 +8,7 @@
   ],
   "definition": [
     {
-      "meaning": "the sound of chairs, stools, or desks moving, as being pushed about",
+      "meaning": "a series of sharp clattering or rattling noises",
       "equivalent": [
         "clang clang",
         "clatter",
@@ -20,6 +20,12 @@
         {
           "source": "komi_cant_communicate",
           "file": "gata_gata-1a",
+          "display": "ガタ  ガタ",
+          "contributor": ""
+        },
+        {
+          "source": "human_ranch",
+          "file": "gata_gata-1b",
           "display": "ガタ  ガタ",
           "contributor": ""
         }

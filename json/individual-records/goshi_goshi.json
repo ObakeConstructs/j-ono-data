@@ -1,27 +1,40 @@
 {
-  "hiragana": ["ごしごし"],
-  "katakana": ["ゴシゴシ"],
-  "definition": [{
-    "equivalent": [
-      "rub rub",
-      "scrub scrub",
-      "swipe swipe"
-    ],
-    "meaning": "to rub or scrub something against something else",
-    "example": [
-      {
-        "file": "goshi_goshi-1a",
-        "contributor": "",
-        "display": "ごし  ごし",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "goshi_goshi-1b",
-        "contributor": "",
-        "display": "ゴシ  ゴシ",
-        "source": "a_rank_slow_life"
-      }
-    ]
-  }],
-  "literal": "goshi goshi"
+  "literal": "goshi goshi",
+  "katakana": [
+    "ゴシゴシ"
+  ],
+  "hiragana": [
+    "ごしごし"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of rubbing or scrubbing sounds or motions",
+      "equivalent": [
+        "rub rub",
+        "scrub scrub",
+        "swipe swipe",
+        "buff buff"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "goshi_goshi-1a",
+          "display": "ごし  ごし",
+          "contributor": ""
+        },
+        {
+          "source": "a_rank_slow_life",
+          "file": "goshi_goshi-1b",
+          "display": "ゴシ  ゴシ",
+          "contributor": ""
+        },
+        {
+          "source": "human_ranch",
+          "file": "goshi_goshi-1c",
+          "display": "ゴシゴシ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

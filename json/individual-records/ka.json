@@ -22,31 +22,6 @@
   ],
   "definition": [
     {
-      "meaning": "an expression of anger ",
-      "equivalent": [
-        "aggravated",
-        "enraged",
-        "flustered",
-        "fuming",
-        "furious",
-        "fury",
-        "incensed",
-        "irate",
-        "livid",
-        "mad",
-        "rankled",
-        "steamed"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "ka-1a",
-          "display": "カッ",
-          "contributor": ""
-        }
-      ]
-    },
-    {
       "meaning": "to brighten or shine suddenly",
       "equivalent": [
         "bright",
@@ -66,22 +41,24 @@
       ]
     },
     {
-      "meaning": "the sound of writing something",
+      "meaning": "a distinct and sharp sound associated with a light impact",
       "equivalent": [
         "click",
-        "draw",
-        "print",
-        "scrape",
-        "scratch",
-        "scribble",
-        "stroke",
         "tap",
-        "write"
+        "clack",
+        "clink",
+        "clank"
       ],
       "example": [
         {
           "source": "different_world_smartphone",
           "file": "ka-3a",
+          "display": "カッ",
+          "contributor": ""
+        },
+        {
+          "source": "human_ranch",
+          "file": "ka-3b",
           "display": "カッ",
           "contributor": ""
         }
@@ -91,7 +68,9 @@
       "meaning": "an expression of blushing, as from excitement or embarrassment",
       "equivalent": [
         "blush",
-        "flush"
+        "flush",
+        "flustered",
+        "redden"
       ],
       "example": [
         {
@@ -110,6 +89,12 @@
           "source": "isekai_territory_reform",
           "file": "ka-4c",
           "display": "カーッ",
+          "contributor": ""
+        },
+        {
+          "source": "world_full_of_monsters",
+          "file": "ka-4d",
+          "display": "カッ",
           "contributor": ""
         }
       ]
