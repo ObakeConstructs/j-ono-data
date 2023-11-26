@@ -1,26 +1,35 @@
 {
-  "hiragana": [
-    "びしゃ",
-    "びしゃっ"
-  ],
+  "literal": "bisha",
   "katakana": [
+    "ビシ",
+    "ビシッ",
     "ビシャ",
     "ビシャッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "dash",
-      "spatter",
-      "splash",
-      "splatter"
-    ],
-    "meaning": "the sound of something wet striking something else",
-    "example": [{
-      "file": "bisha-1a",
-      "contributor": "",
-      "display": "ビシャ",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "bisha"
+  "hiragana": [
+    "びし",
+    "びしっ",
+    "びしゃ",
+    "びしゃっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a small spraying or splashing sound",
+      "equivalent": [
+        "dash",
+        "spatter",
+        "splash",
+        "splatter",
+        "spray"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "bisha-1a",
+          "display": "ビシャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

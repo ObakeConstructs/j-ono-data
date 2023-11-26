@@ -28,16 +28,22 @@
     {
       "meaning": "popping open a closed container",
       "equivalent": [
-        "pop",
+        "lift",
         "open",
+        "pop",
         "reveal",
-        "uncover",
-        "lift"
+        "uncover"
       ],
       "example": [
         {
           "source": "otherworld_material_collector",
           "file": "paka-2a",
+          "display": "パカッ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "paka-2b",
           "display": "パカッ",
           "contributor": ""
         }

@@ -1,0 +1,30 @@
+{
+  "literal": "fumu fumu",
+  "katakana": [
+    "フムフム"
+  ],
+  "hiragana": [
+    "ふむふむ"
+  ],
+  "definition": [
+    {
+      "meaning": "an expression or sound of thoughtfulness or contemplation",
+      "equivalent": [
+        "hmm hmm",
+        "uh-huh",
+        "umm umm",
+        "uh uh",
+        "examine",
+        "think think"
+      ],
+      "example": [
+        {
+          "source": "cheat_pharmacist",
+          "file": "fumu_fumu-1a",
+          "display": "ふむ  ふむ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

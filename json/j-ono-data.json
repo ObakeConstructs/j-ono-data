@@ -1178,10 +1178,14 @@
   },
   {
     "hiragana": [
+      "びし",
+      "びしっ",
       "びしゃ",
       "びしゃっ"
     ],
     "katakana": [
+      "ビシ",
+      "ビシッ",
       "ビシャ",
       "ビシャッ"
     ],
@@ -1190,9 +1194,10 @@
         "dash",
         "spatter",
         "splash",
-        "splatter"
+        "splatter",
+        "spray"
       ],
-      "meaning": "the sound of something wet striking something else",
+      "meaning": "a small spraying or splashing sound",
       "example": [{
         "file": "bisha-1a",
         "contributor": "",
@@ -1201,6 +1206,26 @@
       }]
     }],
     "literal": "bisha"
+  },
+  {
+    "hiragana": ["びしびし"],
+    "katakana": ["ビシビシ"],
+    "definition": [{
+      "equivalent": [
+        "spatter spatter",
+        "splash splash",
+        "splatter splatter",
+        "spray spray"
+      ],
+      "meaning": "a series of spraying or splashing sounds",
+      "example": [{
+        "file": "bisha_bish-1a",
+        "contributor": "",
+        "display": "ビシ  ビシ  ビシ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "bisha bisha"
   },
   {
     "hiragana": [
@@ -4182,6 +4207,28 @@
     "literal": "fumu"
   },
   {
+    "hiragana": ["ふむふむ"],
+    "katakana": ["フムフム"],
+    "definition": [{
+      "equivalent": [
+        "examine",
+        "hmm hmm",
+        "think think",
+        "uh uh",
+        "uh-huh",
+        "umm umm"
+      ],
+      "meaning": "an expression or sound of thoughtfulness or contemplation",
+      "example": [{
+        "file": "fumu_fumu-1a",
+        "contributor": "",
+        "display": "ふむ  ふむ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "fumu fumu"
+  },
+  {
     "hiragana": [
       "ふん",
       "ふんっ"
@@ -6504,6 +6551,12 @@
           "contributor": "",
           "display": "ゴシゴシ",
           "source": "human_ranch"
+        },
+        {
+          "file": "goshi_goshi-1d",
+          "contributor": "",
+          "display": "ごし  ごし",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -7716,6 +7769,30 @@
     "literal": "hira hira"
   },
   {
+    "hiragana": ["ひりひり"],
+    "katakana": ["ヒリヒリ"],
+    "definition": [{
+      "equivalent": [
+        "ache ache",
+        "burn burn",
+        "pang pang",
+        "sting sting",
+        "tender tender",
+        "throb throb",
+        "tingle tingle",
+        "twinge twinge"
+      ],
+      "meaning": "an expression of  a tingling, stinging or mild burning sensation",
+      "example": [{
+        "file": "hiri_hiri-1a",
+        "contributor": "",
+        "display": "ヒリヒリ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "hiri hiri"
+  },
+  {
     "hiragana": [
       "ひし",
       "ひしっ"
@@ -8197,6 +8274,26 @@
       }]
     }],
     "literal": "jabu jabu"
+  },
+  {
+    "hiragana": ["じゃかじゃか"],
+    "katakana": ["ジャカジャカ"],
+    "definition": [{
+      "equivalent": [
+        "chatter chatter",
+        "clatter clatter",
+        "jingle jingle",
+        "rattle rattle"
+      ],
+      "meaning": "a series of rattling or clattering sounds",
+      "example": [{
+        "file": "jaka_jaka-1a",
+        "contributor": "",
+        "display": "ジャカ  ジャカ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "jaka jaka"
   },
   {
     "hiragana": [
@@ -11249,6 +11346,12 @@
           "contributor": "",
           "display": "なで  なで",
           "source": "isekai_territory_reform"
+        },
+        {
+          "file": "nade_nade-1d",
+          "contributor": "",
+          "display": "ナデ  ナデ",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -11916,7 +12019,7 @@
           "applause",
           "clap clap"
         ],
-        "meaning": "the sound of applause",
+        "meaning": "the sound of applause or clapping",
         "example": [
           {
             "file": "pachi_pachi-2a",
@@ -11929,6 +12032,12 @@
             "contributor": "",
             "display": "パチ  パチ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "pachi_pachi-2c",
+            "contributor": "",
+            "display": "パチ  パチ  パチ",
+            "source": "cheat_pharmacist"
           }
         ]
       }
@@ -11968,12 +12077,20 @@
           "uncover"
         ],
         "meaning": "popping open a closed container",
-        "example": [{
-          "file": "paka-2a",
-          "contributor": "",
-          "display": "パカッ",
-          "source": "otherworld_material_collector"
-        }]
+        "example": [
+          {
+            "file": "paka-2a",
+            "contributor": "",
+            "display": "パカッ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "paka-2b",
+            "contributor": "",
+            "display": "パカッ",
+            "source": "cheat_pharmacist"
+          }
+        ]
       }
     ],
     "literal": "paka"
@@ -14036,6 +14153,32 @@
     "literal": "pu"
   },
   {
+    "hiragana": [
+      "ぷち",
+      "ぷちっ"
+    ],
+    "katakana": [
+      "プチ",
+      "プチッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "click",
+        "crack",
+        "pop",
+        "snap"
+      ],
+      "meaning": "a gentle snapping or popping sound",
+      "example": [{
+        "file": "puchi-1a",
+        "contributor": "",
+        "display": "プチッ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "puchi"
+  },
+  {
     "hiragana": ["ぷちぷち"],
     "katakana": ["プチプチ"],
     "definition": [{
@@ -14480,6 +14623,27 @@
       }
     ],
     "literal": "pyu"
+  },
+  {
+    "hiragana": ["ぴゅいん"],
+    "katakana": ["ピュイン"],
+    "definition": [{
+      "equivalent": [
+        "delicate",
+        "gently",
+        "lightly",
+        "softly",
+        "tenderly"
+      ],
+      "meaning": "a soft or gentle sound",
+      "example": [{
+        "file": "pyuin-1a",
+        "contributor": "",
+        "display": "ピュイン",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "pyuin"
   },
   {
     "hiragana": ["ぴゅん"],
@@ -15673,20 +15837,27 @@
     "katakana": ["スタスタ"],
     "definition": [{
       "equivalent": [
-        " ignore",
-        "pass",
-        "pass by",
-        "walk",
-        "walk by",
-        "walk past"
+        "march march",
+        "step step",
+        "stomp stomp",
+        "tread tread",
+        "walk walk"
       ],
-      "meaning": "to move past someone quickly, typically ignoring them",
-      "example": [{
-        "file": "suta_suta-1a",
-        "contributor": "",
-        "display": "スタ  スタ",
-        "source": "komi_cant_communicate"
-      }]
+      "meaning": "a series of brisk and purposeful walking sounds",
+      "example": [
+        {
+          "file": "suta_suta-1a",
+          "contributor": "",
+          "display": "スタ  スタ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "suta_suta-1b",
+          "contributor": "",
+          "display": "スタ  スタ",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "literal": "suta suta"
   },
@@ -16289,6 +16460,12 @@
           "contributor": "",
           "display": "とぼとぼ",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "tobo_tobo-1c",
+          "contributor": "",
+          "display": "トボトボ",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -16630,12 +16807,13 @@
         "pinch pinch",
         "pluck pluck",
         "poke poke",
+        "prod prod",
         "pull pull",
         "push push",
         "tap tap",
         "tug tug"
       ],
-      "meaning": "a series of quick gentle pinches, pokes or tugs",
+      "meaning": "a series of quick or gentle pinching, poking or prodding",
       "example": [
         {
           "file": "tsun_tsun-1a",
@@ -16654,6 +16832,12 @@
           "contributor": "",
           "display": "つん  つん",
           "source": "hone_dragon"
+        },
+        {
+          "file": "tsun_tsun-1d",
+          "contributor": "",
+          "display": "ツン  ツン",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -17966,6 +18150,32 @@
       }]
     }],
     "literal": "zuba"
+  },
+  {
+    "hiragana": ["ずびしっ"],
+    "katakana": ["ズビシッ"],
+    "definition": [{
+      "equivalent": [
+        "crack",
+        "crunch",
+        "hit",
+        "impact",
+        "ka-blam",
+        "punch",
+        "slam",
+        "smack",
+        "smite",
+        "strike"
+      ],
+      "meaning": "a sharp, piercing or penetrating sound, usually precise",
+      "example": [{
+        "file": "zubishi-1a",
+        "contributor": "",
+        "display": "ズビシッ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "zubishi"
   },
   {
     "hiragana": [

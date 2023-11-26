@@ -8,17 +8,18 @@
   ],
   "definition": [
     {
-      "meaning": "a series of quick gentle pinches, pokes or tugs",
+      "meaning": "a series of quick or gentle pinching, poking or prodding",
       "equivalent": [
+        "nip nip",
         "nudge nudge",
+        "pinch pinch",
+        "pluck pluck",
         "poke poke",
+        "pull pull",
         "push push",
         "tap tap",
         "tug tug",
-        "pull pull",
-        "pinch pinch",
-        "pluck pluck",
-        "nip nip"
+        "prod prod"
       ],
       "example": [
         {
@@ -37,6 +38,12 @@
           "source": "hone_dragon",
           "file": "tsun_tsun-1c",
           "display": "つん  つん",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "tsun_tsun-1d",
+          "display": "ツン  ツン",
           "contributor": ""
         }
       ]

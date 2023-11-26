@@ -1,22 +1,35 @@
 {
-  "hiragana": ["すたすた"],
-  "katakana": ["スタスタ"],
-  "definition": [{
-    "equivalent": [
-      " ignore",
-      "pass",
-      "pass by",
-      "walk",
-      "walk by",
-      "walk past"
-    ],
-    "meaning": "to move past someone quickly, typically ignoring them",
-    "example": [{
-      "file": "suta_suta-1a",
-      "contributor": "",
-      "display": "スタ  スタ",
-      "source": "komi_cant_communicate"
-    }]
-  }],
-  "literal": "suta suta"
+  "literal": "suta suta",
+  "katakana": [
+    "スタスタ"
+  ],
+  "hiragana": [
+    "すたすた"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of brisk and purposeful walking sounds",
+      "equivalent": [
+        "walk walk",
+        "step step",
+        "tread tread",
+        "march march",
+        "stomp stomp"
+      ],
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "suta_suta-1a",
+          "display": "スタ  スタ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "suta_suta-1b",
+          "display": "スタ  スタ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

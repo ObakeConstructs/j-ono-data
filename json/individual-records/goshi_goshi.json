@@ -10,10 +10,10 @@
     {
       "meaning": "a series of rubbing or scrubbing sounds or motions",
       "equivalent": [
+        "buff buff",
         "rub rub",
         "scrub scrub",
-        "swipe swipe",
-        "buff buff"
+        "swipe swipe"
       ],
       "example": [
         {
@@ -32,6 +32,12 @@
           "source": "human_ranch",
           "file": "goshi_goshi-1c",
           "display": "ゴシゴシ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "goshi_goshi-1d",
+          "display": "ごし  ごし",
           "contributor": ""
         }
       ]

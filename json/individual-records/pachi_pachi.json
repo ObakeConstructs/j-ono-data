@@ -30,7 +30,7 @@
       ]
     },
     {
-      "meaning": "the sound of applause",
+      "meaning": "the sound of applause or clapping",
       "equivalent": [
         "applause",
         "clap clap"
@@ -46,6 +46,12 @@
           "source": "otherworld_material_collector",
           "file": "pachi_pachi-2b",
           "display": "パチ  パチ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "pachi_pachi-2c",
+          "display": "パチ  パチ  パチ",
           "contributor": ""
         }
       ]
