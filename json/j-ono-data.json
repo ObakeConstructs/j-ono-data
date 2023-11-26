@@ -351,6 +351,30 @@
     "literal": "baba"
   },
   {
+    "hiragana": ["ばちん"],
+    "katakana": ["バチン"],
+    "definition": [{
+      "equivalent": [
+        "bonk",
+        "flick",
+        "slap",
+        "smack",
+        "tap",
+        "thwack",
+        "whack",
+        "whap"
+      ],
+      "meaning": "a sharp and clear tapping or slapping sound",
+      "example": [{
+        "file": "bachin-1a",
+        "contributor": "",
+        "display": "バチン",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "bachin"
+  },
+  {
     "hiragana": [
       "ばが",
       "ばがっ"
@@ -4206,19 +4230,30 @@
     "katakana": ["フニ"],
     "definition": [{
       "equivalent": [
-        "caress",
-        "rub",
+        "fluffy",
+        "gentle",
+        "mushy",
+        "pliable",
         "soft",
-        "stroke",
+        "spongy",
+        "squishy",
         "tender"
       ],
-      "meaning": "a caressing or rubbing motion",
-      "example": [{
-        "file": "funi-1a",
-        "contributor": "",
-        "display": "ふに.",
-        "source": "hone_dragon"
-      }]
+      "meaning": "a soft, pliable or fluffy sensation",
+      "example": [
+        {
+          "file": "funi-1a",
+          "contributor": "",
+          "display": "ふに",
+          "source": "hone_dragon"
+        },
+        {
+          "file": "funi-1b",
+          "contributor": "",
+          "display": "ふに",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "literal": "funi"
   },
@@ -5457,20 +5492,23 @@
   {
     "hiragana": [
       "がた",
-      "がたっ"
+      "がたっ",
+      "がたゃ"
     ],
     "katakana": [
       "ガタ",
-      "ガタッ"
+      "ガタッ",
+      "ガタャ"
     ],
     "definition": [{
       "equivalent": [
         "clatter",
+        "click",
         "clunk",
         "creak",
         "rattle"
       ],
-      "meaning": "the sound of wood clattering on something hard, as when a chair or stool is moved",
+      "meaning": "a rattling or clattering sound, typically wooden, often used to express standing up from a chair",
       "example": [
         {
           "file": "gata-1a",
@@ -5495,6 +5533,12 @@
           "contributor": "",
           "display": "ガタッ",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "gata-1e",
+          "contributor": "",
+          "display": "ガタャ",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -10709,12 +10753,20 @@
         "shy"
       ],
       "meaning": "an expression of shyness or hesitation",
-      "example": [{
-        "file": "moji_moji-1a",
-        "contributor": "",
-        "display": "もじ  もじ",
-        "source": "nete_kunoichi"
-      }]
+      "example": [
+        {
+          "file": "moji_moji-1a",
+          "contributor": "",
+          "display": "もじ  もじ",
+          "source": "nete_kunoichi"
+        },
+        {
+          "file": "moji_moji-1b",
+          "contributor": "",
+          "display": "もじ  もじ",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "literal": "moji moji"
   },
@@ -10844,7 +10896,7 @@
         "unamused",
         "vexed"
       ],
-      "meaning": "an expression of annoyance",
+      "meaning": "the sound or act of puffing out one's cheeks, typicaly as an expression of annoyance",
       "example": [
         {
           "file": "mu-1a",
@@ -10857,10 +10909,42 @@
           "contributor": "",
           "display": "むう",
           "source": "reincarnated_farm_girl"
+        },
+        {
+          "file": "mu-1c",
+          "contributor": "",
+          "display": "むっ",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
     "literal": "mu"
+  },
+  {
+    "hiragana": [
+      "むぎゅ",
+      "むぎゅっ"
+    ],
+    "katakana": [
+      "ムギュ",
+      "ムギュッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "embrace",
+        "hug",
+        "squeeze",
+        "wrap"
+      ],
+      "meaning": "the sound or action of a tight, affectionate hug",
+      "example": [{
+        "file": "mugyu-1a",
+        "contributor": "",
+        "display": "むぎゅっ",
+        "source": "cheat_pharmacist"
+      }]
+    }],
+    "literal": "mugyu"
   },
   {
     "hiragana": [
@@ -12660,12 +12744,20 @@
         "whap whap"
       ],
       "meaning": "a series of harmless impacts, as from slapping",
-      "example": [{
-        "file": "peshi_peshi-1a",
-        "contributor": "",
-        "display": "ぺし  ぺし",
-        "source": "spy_x_family"
-      }]
+      "example": [
+        {
+          "file": "peshi_peshi-1a",
+          "contributor": "",
+          "display": "ぺし  ぺし",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "peshi_peshi-1b",
+          "contributor": "",
+          "display": "ぺし  ぺし",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "literal": "peshi peshi"
   },
@@ -12956,32 +13048,52 @@
       "ピコン",
       "ピコーン"
     ],
-    "definition": [{
-      "equivalent": [
-        "ba-ding",
-        "bing",
-        "chime",
-        "ding",
-        "jingle",
-        "ping",
-        "ring"
-      ],
-      "meaning": "the noise of an electronic chime, typical of games or computers",
-      "example": [
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "ba-ding",
+          "bing",
+          "chime",
+          "ding",
+          "jingle",
+          "ping",
+          "ring"
+        ],
+        "meaning": "the noise of an electronic chime, typical of games or computers",
+        "example": [{
           "file": "pikon-1a",
           "contributor": "",
           "display": "ピコン",
           "source": "different_world_smartphone"
-        },
-        {
-          "file": "pikon-1b",
-          "contributor": "",
-          "display": "ピコーン",
-          "source": "reincarnated_as_a_dragon_egg"
-        }
-      ]
-    }],
+        }]
+      },
+      {
+        "equivalent": [
+          "embarrass",
+          "react",
+          "realize",
+          "squirm",
+          "startle",
+          "surprise",
+          "twitch"
+        ],
+        "meaning": "an endearing, cute or slightly embarrassing reaction, typically momentary",
+        "example": [
+          {
+            "file": "pikon-2a",
+            "contributor": "",
+            "display": "ピコーン",
+            "source": "reincarnated_as_a_dragon_egg"
+          },
+          {
+            "file": "pikon-2b",
+            "contributor": "",
+            "display": "ぴこん",
+            "source": "cheat_pharmacist"
+          }
+        ]
+      }
+    ],
     "literal": "pikon"
   },
   {
