@@ -542,12 +542,20 @@
           "wow"
         ],
         "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
-        "example": [{
-          "file": "ban-2a",
-          "contributor": "",
-          "display": "バァーン",
-          "source": "isekai_av_filming"
-        }]
+        "example": [
+          {
+            "file": "ban-2a",
+            "contributor": "",
+            "display": "バァーン",
+            "source": "isekai_av_filming"
+          },
+          {
+            "file": "ban-2b",
+            "contributor": "",
+            "display": "バーン",
+            "source": "killed_by_gods_mistake"
+          }
+        ]
       }
     ],
     "literal": "ban"
@@ -969,34 +977,51 @@
       "ビ",
       "ビッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bang",
-        "bash",
-        "bop",
-        "clap",
-        "clobber",
-        "crack",
-        "hit",
-        "knock",
-        "pound",
-        "punch",
-        "slam",
-        "slug",
-        "smite",
-        "strike",
-        "thump",
-        "thwack",
-        "wallop"
-      ],
-      "meaning": "the sound of a strike in a fight",
-      "example": [{
-        "file": "bi-1a",
-        "contributor": "",
-        "display": "ビッ",
-        "source": "world_full_of_monsters"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "bang",
+          "bash",
+          "bop",
+          "clap",
+          "clobber",
+          "crack",
+          "hit",
+          "knock",
+          "pound",
+          "punch",
+          "slam",
+          "slug",
+          "smite",
+          "strike",
+          "thump",
+          "thwack",
+          "wallop"
+        ],
+        "meaning": "a short, sharp fighting sound",
+        "example": [{
+          "file": "bi-1a",
+          "contributor": "",
+          "display": "ビッ",
+          "source": "world_full_of_monsters"
+        }]
+      },
+      {
+        "equivalent": [
+          "flash",
+          "flick",
+          "fwip",
+          "snap"
+        ],
+        "meaning": "a short, sharp gesture, often unexpected",
+        "example": [{
+          "file": "bi-2a",
+          "contributor": "",
+          "display": "ビッ",
+          "source": "killed_by_gods_mistake"
+        }]
+      }
+    ],
     "literal": "bi"
   },
   {
@@ -2659,6 +2684,12 @@
           "contributor": "",
           "display": "ちゅっ",
           "source": "drawing"
+        },
+        {
+          "file": "chu-1c",
+          "contributor": "",
+          "display": "ちゅっ",
+          "source": "killed_by_gods_mistake"
         }
       ]
     }],
@@ -2933,31 +2964,6 @@
       ]
     }],
     "literal": "dara dara"
-  },
-  {
-    "hiragana": [
-      "ぢゅる",
-      "ぢゅるっ"
-    ],
-    "katakana": [
-      "ヂュル",
-      "ヂュルッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "drink",
-        "slurp",
-        "sup"
-      ],
-      "meaning": "to noisily consume a liquid or noodles",
-      "example": [{
-        "file": "djuru-1a",
-        "contributor": "",
-        "display": "ぢゅる",
-        "source": "d_genesis"
-      }]
-    }],
-    "literal": "djuru"
   },
   {
     "hiragana": [
@@ -8708,6 +8714,39 @@
   },
   {
     "hiragana": [
+      "ぢゅる",
+      "ぢゅるっ"
+    ],
+    "katakana": [
+      "ヂュル",
+      "ヂュルッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "kiss",
+        "slurp",
+        "suck"
+      ],
+      "meaning": "a slurping or licking sound",
+      "example": [
+        {
+          "file": "jyuru-1a",
+          "contributor": "",
+          "display": "ぢゅる",
+          "source": "d_genesis"
+        },
+        {
+          "file": "jyuru-1b",
+          "contributor": "",
+          "display": "ぢゅるっ",
+          "source": "killed_by_gods_mistake"
+        }
+      ]
+    }],
+    "literal": "jyuru"
+  },
+  {
+    "hiragana": [
       "か",
       "かっ",
       "かー",
@@ -8852,7 +8891,7 @@
         "ker-chak",
         "rattle"
       ],
-      "meaning": "a short, sharp click or clink",
+      "meaning": "a short, sharp clicking or clinking sound",
       "example": [
         {
           "file": "kacha-1a",
@@ -8865,6 +8904,12 @@
           "contributor": "",
           "display": "カチャ",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "kacha-1c",
+          "contributor": "",
+          "display": "カチャッ",
+          "source": "killed_by_gods_mistake"
         }
       ]
     }],
@@ -16298,6 +16343,35 @@
   },
   {
     "hiragana": [
+      "てへ",
+      "てへっ"
+    ],
+    "katakana": [
+      "テへ",
+      "テへッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "chuckle",
+        "giggle",
+        "laugh",
+        "snicker",
+        "snigger",
+        "tee hee",
+        "titter"
+      ],
+      "meaning": "a light and playful laugh or giggle",
+      "example": [{
+        "file": "tehe-1a",
+        "contributor": "",
+        "display": "てへっ",
+        "source": "killed_by_gods_mistake"
+      }]
+    }],
+    "literal": "tehe"
+  },
+  {
+    "hiragana": [
       "てか",
       "てかー"
     ],
@@ -17967,15 +18041,15 @@
     ],
     "definition": [{
       "equivalent": [
-        "dread",
-        "fear",
-        "fright",
-        "horror",
-        "panic",
-        "scare",
-        "terror"
+        "jerk",
+        "quiver",
+        "shake",
+        "shiver",
+        "shudder",
+        "tremble",
+        "twitch"
       ],
-      "meaning": "an expression of surprise, fear, or panic",
+      "meaning": "an indication of trembling or shuddering",
       "example": [
         {
           "file": "zoku-1a",

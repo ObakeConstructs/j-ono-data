@@ -17,14 +17,14 @@
       "meaning": "a soft sound of kissing, licking or sucking",
       "equivalent": [
         "drink",
+        "kiss",
+        "lick",
+        "lip",
         "quaff",
         "sip",
         "slurp",
         "suck",
-        "swig",
-        "kiss",
-        "lick",
-        "lip"
+        "swig"
       ],
       "example": [
         {
@@ -36,6 +36,12 @@
         {
           "source": "drawing",
           "file": "chu-1b",
+          "display": "ちゅっ",
+          "contributor": ""
+        },
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "chu-1c",
           "display": "ちゅっ",
           "contributor": ""
         }

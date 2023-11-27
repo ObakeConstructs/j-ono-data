@@ -1,43 +1,45 @@
 {
-  "hiragana": [
-    "ぞく",
-    "ぞくっ"
-  ],
+  "literal": "zoku",
   "katakana": [
     "ゾク",
     "ゾクッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "dread",
-      "fear",
-      "fright",
-      "horror",
-      "panic",
-      "scare",
-      "terror"
-    ],
-    "meaning": "an expression of surprise, fear, or panic",
-    "example": [
-      {
-        "file": "zoku-1a",
-        "contributor": "",
-        "display": "ぞく",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "zoku-1b",
-        "contributor": "",
-        "display": "ゾクッ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "zoku-1c",
-        "contributor": "",
-        "display": "ぞくっ",
-        "source": "komi_cant_communicate"
-      }
-    ]
-  }],
-  "literal": "zoku"
+  "hiragana": [
+    "ぞく",
+    "ぞくっ"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of trembling or shuddering",
+      "equivalent": [
+        "shudder",
+        "shiver",
+        "tremble",
+        "jerk",
+        "shake",
+        "quiver",
+        "twitch"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "zoku-1a",
+          "display": "ぞく",
+          "contributor": ""
+        },
+        {
+          "source": "world_full_of_monsters",
+          "file": "zoku-1b",
+          "display": "ゾクッ",
+          "contributor": ""
+        },
+        {
+          "source": "komi_cant_communicate",
+          "file": "zoku-1c",
+          "display": "ぞくっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

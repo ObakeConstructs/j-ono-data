@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "a short, sharp click or clink",
+      "meaning": "a short, sharp clicking or clinking sound",
       "equivalent": [
         "clack",
         "clatter",
@@ -30,6 +30,12 @@
           "source": "dog_became_strongest",
           "file": "kacha-1b",
           "display": "カチャ",
+          "contributor": ""
+        },
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "kacha-1c",
+          "display": "カチャッ",
           "contributor": ""
         }
       ]
