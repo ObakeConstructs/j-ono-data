@@ -1,19 +1,33 @@
 {
-  "hiragana": ["ぶくぶく"],
-  "katakana": ["ブクブク"],
-  "definition": [{
-    "equivalent": [
-      "boil boil",
-      "bop bop",
-      "bubble bubble"
-    ],
-    "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
-    "example": [{
-      "file": "buku_buku-1a",
-      "contributor": "",
-      "display": "ブク  ブク",
-      "source": "bungo"
-    }]
-  }],
-  "literal": "buku buku"
+  "literal": "buku buku",
+  "katakana": [
+    "ブクブク"
+  ],
+  "hiragana": [
+    "ぶくぶく"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
+      "equivalent": [
+        "boil boil",
+        "bop bop",
+        "bubble bubble"
+      ],
+      "example": [
+        {
+          "source": "bungo",
+          "file": "buku_buku-1a",
+          "display": "ブク  ブク",
+          "contributor": ""
+        },
+        {
+          "source": "buy_the_land",
+          "file": "buku_buku-1b",
+          "display": "ブク  ブク  ブク..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

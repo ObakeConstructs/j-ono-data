@@ -763,6 +763,36 @@
     "literal": "basha"
   },
   {
+    "hiragana": [
+      "ばしゃん",
+      "ばしゃーん"
+    ],
+    "katakana": [
+      "バシャン",
+      "バシャーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "gush",
+        "jet",
+        "slosh",
+        "spew",
+        "splash",
+        "sploosh",
+        "spout",
+        "swash"
+      ],
+      "meaning": "a medium to large splashing noise",
+      "example": [{
+        "file": "bashan-1a",
+        "contributor": "",
+        "display": "バシャーン..",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "bashan"
+  },
+  {
     "hiragana": ["ばしゃばしゃ"],
     "katakana": ["バシャバシャ"],
     "definition": [{
@@ -1850,12 +1880,20 @@
         "bubble bubble"
       ],
       "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
-      "example": [{
-        "file": "buku_buku-1a",
-        "contributor": "",
-        "display": "ブク  ブク",
-        "source": "bungo"
-      }]
+      "example": [
+        {
+          "file": "buku_buku-1a",
+          "contributor": "",
+          "display": "ブク  ブク",
+          "source": "bungo"
+        },
+        {
+          "file": "buku_buku-1b",
+          "contributor": "",
+          "display": "ブク  ブク  ブク..",
+          "source": "buy_the_land"
+        }
+      ]
     }],
     "literal": "buku buku"
   },
@@ -2447,12 +2485,20 @@
         "swash"
       ],
       "meaning": "the sound of moving or splashing water",
-      "example": [{
-        "file": "chapu-1a",
-        "contributor": "",
-        "display": "チャプ",
-        "source": "dog_became_strongest"
-      }]
+      "example": [
+        {
+          "file": "chapu-1a",
+          "contributor": "",
+          "display": "チャプ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "chapu-1b",
+          "contributor": "",
+          "display": "チャプ",
+          "source": "buy_the_land"
+        }
+      ]
     }],
     "literal": "chapu"
   },
@@ -3921,12 +3967,20 @@
           "umm"
         ],
         "meaning": "a vocalized sound expressing hesitation or thoughtful reflection, often drawn out",
-        "example": [{
-          "file": "e-1a",
-          "contributor": "",
-          "display": "えぇーっ",
-          "source": "isekai_pickup"
-        }]
+        "example": [
+          {
+            "file": "e-1a",
+            "contributor": "",
+            "display": "えぇーっ",
+            "source": "isekai_pickup"
+          },
+          {
+            "file": "e-1b",
+            "contributor": "",
+            "display": "え゙ぇっ",
+            "source": "buy_the_land"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -11823,6 +11877,33 @@
     "literal": "nyi"
   },
   {
+    "hiragana": ["にゅ"],
+    "katakana": ["ニュ"],
+    "definition": [{
+      "equivalent": [
+        "greasy",
+        "slick",
+        "slither",
+        "smooth",
+        "squeeze",
+        "squirm",
+        "squish",
+        "squoosh",
+        "twitch",
+        "wriggle",
+        "writhe"
+      ],
+      "meaning": "an indication or sound of something  squirming, squishy, or slick",
+      "example": [{
+        "file": "nyu-1a",
+        "contributor": "",
+        "display": "ニュ",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "nyu"
+  },
+  {
     "hiragana": [
       "お",
       "おっ",
@@ -11867,6 +11948,31 @@
       ]
     }],
     "literal": "o"
+  },
+  {
+    "hiragana": ["おっぱ"],
+    "katakana": ["おっぱ"],
+    "definition": [{
+      "equivalent": [
+        "amazed",
+        "gasp",
+        "realize",
+        "shock",
+        "startled",
+        "surprise",
+        "uh oh",
+        "understand",
+        "wha"
+      ],
+      "meaning": "an expression of surprise, realization, or understanding",
+      "example": [{
+        "file": "oppa-1a",
+        "contributor": "",
+        "display": "おっぱ...",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "oppa"
   },
   {
     "hiragana": ["おろおろ"],
@@ -11941,6 +12047,12 @@
             "contributor": "",
             "display": "パァッ",
             "source": "d_genesis"
+          },
+          {
+            "file": "pa-1c",
+            "contributor": "",
+            "display": "パァァ  ァァ",
+            "source": "buy_the_land"
           }
         ]
       },
@@ -13810,6 +13922,29 @@
       ]
     }],
     "literal": "poi"
+  },
+  {
+    "hiragana": ["ぽぃん"],
+    "katakana": ["ポィン"],
+    "definition": [{
+      "equivalent": [
+        "boing",
+        "bounce",
+        "bump",
+        "hop",
+        "jump",
+        "rebound",
+        "ricochet"
+      ],
+      "meaning": "a popping or bouncing sound",
+      "example": [{
+        "file": "poin-1a",
+        "contributor": "",
+        "display": "ぽぃん",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "poin"
   },
   {
     "hiragana": ["ぽこぽこ"],
@@ -17852,6 +17987,36 @@
   },
   {
     "hiragana": [
+      "ざば",
+      "ざばぁ"
+    ],
+    "katakana": [
+      "ザバ",
+      "ザバァ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "gush",
+        "jet",
+        "slosh",
+        "spew",
+        "splash",
+        "sploosh",
+        "spout",
+        "swash"
+      ],
+      "meaning": "a medium to large splashing sound",
+      "example": [{
+        "file": "zaba-1a",
+        "contributor": "",
+        "display": "ざばぁ.",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "zaba"
+  },
+  {
+    "hiragana": [
       "ざく",
       "ざくっ"
     ],
@@ -17997,6 +18162,32 @@
   },
   {
     "hiragana": [
+      "ざざん",
+      "ざざーん"
+    ],
+    "katakana": [
+      "ザザン",
+      "ザザーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "sha-shaa",
+        "shaa",
+        "surf",
+        "waves"
+      ],
+      "meaning": "the sound of water waves",
+      "example": [{
+        "file": "zazan-1a",
+        "contributor": "",
+        "display": "ザザーン",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "zazan"
+  },
+  {
+    "hiragana": [
       "ざざ",
       "ざっざっ"
     ],
@@ -18004,37 +18195,54 @@
       "ザザ",
       "ザッザッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "crunch crunch",
-        "crush",
-        "step step",
-        "stomp stomp",
-        "stroll",
-        "walk"
-      ],
-      "meaning": "sound of someone stepping or walking",
-      "example": [
-        {
-          "file": "za_za-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "crunch crunch",
+          "crush",
+          "step step",
+          "stomp stomp",
+          "stroll",
+          "walk"
+        ],
+        "meaning": "sound of someone stepping or walking",
+        "example": [
+          {
+            "file": "za_za-1a",
+            "contributor": "",
+            "display": "ザッ  ザッ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "za_za-1b",
+            "contributor": "",
+            "display": "ザッ  ザッ",
+            "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "za_za-1c",
+            "contributor": "",
+            "display": "ザ  ザ",
+            "source": "modern_dungeon_capture"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "sah-shaa",
+          "shaa",
+          "surf",
+          "waves"
+        ],
+        "meaning": "the rolling sound of waves",
+        "example": [{
+          "file": "za_za-2a",
           "contributor": "",
-          "display": "ザッ  ザッ",
-          "source": "d_genesis"
-        },
-        {
-          "file": "za_za-1b",
-          "contributor": "",
-          "display": "ザッ  ザッ",
-          "source": "abandoned_reincarnation_sage"
-        },
-        {
-          "file": "za_za-1c",
-          "contributor": "",
-          "display": "ザ  ザ",
-          "source": "modern_dungeon_capture"
-        }
-      ]
-    }],
+          "display": "ザザ",
+          "source": "buy_the_land"
+        }]
+      }
+    ],
     "literal": "za za"
   },
   {
@@ -18764,12 +18972,20 @@
         "slip"
       ],
       "meaning": "the sound of something sliding or being dragged",
-      "example": [{
-        "file": "zuru-1a",
-        "contributor": "",
-        "display": "ズル",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "zuru-1a",
+          "contributor": "",
+          "display": "ズル",
+          "source": "d_genesis"
+        },
+        {
+          "file": "zuru-1b",
+          "contributor": "",
+          "display": "ズル..",
+          "source": "buy_the_land"
+        }
+      ]
     }],
     "literal": "zuru"
   },

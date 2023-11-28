@@ -35,16 +35,22 @@
           "file": "e-1a",
           "display": "えぇーっ",
           "contributor": ""
+        },
+        {
+          "source": "buy_the_land",
+          "file": "e-1b",
+          "display": "え゙ぇっ",
+          "contributor": ""
         }
       ]
     },
     {
       "meaning": "a vocalized sound expressing surprise or concern",
       "equivalent": [
-        "huh?",
+        "ah?",
         "eh?",
-        "what?",
-        "ah?"
+        "huh?",
+        "what?"
       ],
       "example": [
         {

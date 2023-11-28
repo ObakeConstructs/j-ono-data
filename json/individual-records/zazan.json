@@ -1,0 +1,30 @@
+{
+  "literal": "zazan",
+  "katakana": [
+    "ザザン",
+    "ザザーン"
+  ],
+  "hiragana": [
+    "ざざん",
+    "ざざーん"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of water waves",
+      "equivalent": [
+        "shaa",
+        "sha-shaa",
+        "waves",
+        "surf"
+      ],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "zazan-1a",
+          "display": "ザザーン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

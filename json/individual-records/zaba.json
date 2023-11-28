@@ -1,0 +1,34 @@
+{
+  "literal": "zaba",
+  "katakana": [
+    "ザバ",
+    "ザバァ"
+  ],
+  "hiragana": [
+    "ざば",
+    "ざばぁ"
+  ],
+  "definition": [
+    {
+      "meaning": "a medium to large splashing sound",
+      "equivalent": [
+        "gush",
+        "jet",
+        "slosh",
+        "spew",
+        "splash",
+        "sploosh",
+        "spout",
+        "swash"
+      ],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "zaba-1a",
+          "display": "ざばぁ.",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
