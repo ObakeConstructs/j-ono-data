@@ -1,43 +1,53 @@
 {
-  "hiragana": [
-    "どご",
-    "どごっ"
-  ],
+  "literal": "dogo",
   "katakana": [
     "ドゴ",
     "ドゴッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bam",
-      "blow",
-      "chop",
-      "clobber",
-      "clout",
-      "crash",
-      "crunch",
-      "hit",
-      "impact",
-      "kick",
-      "knock",
-      "pelt",
-      "pound",
-      "punch",
-      "slam",
-      "slug",
-      "smash",
-      "strike",
-      "thud",
-      "thunk",
-      "wham"
-    ],
-    "meaning": "a painful strike",
-    "example": [{
-      "file": "dogo-1a",
-      "contributor": "",
-      "display": "ドゴッ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "dogo"
+  "hiragana": [
+    "どご",
+    "どごっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a painful strike",
+      "equivalent": [
+        "bam",
+        "blow",
+        "chop",
+        "clobber",
+        "clout",
+        "crash",
+        "crunch",
+        "hit",
+        "impact",
+        "kick",
+        "knock",
+        "pelt",
+        "pound",
+        "punch",
+        "slam",
+        "slug",
+        "smash",
+        "strike",
+        "thud",
+        "thunk",
+        "wham"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "dogo-1a",
+          "display": "ドゴッ",
+          "contributor": ""
+        },
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "dogo-1b",
+          "display": "ドゴッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

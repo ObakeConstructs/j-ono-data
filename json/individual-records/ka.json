@@ -37,17 +37,23 @@
           "file": "ka-2a",
           "display": "カッ",
           "contributor": ""
+        },
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "ka-2b",
+          "display": "カッ",
+          "contributor": ""
         }
       ]
     },
     {
       "meaning": "a distinct and sharp sound associated with a light impact",
       "equivalent": [
-        "click",
-        "tap",
         "clack",
+        "clank",
+        "click",
         "clink",
-        "clank"
+        "tap"
       ],
       "example": [
         {

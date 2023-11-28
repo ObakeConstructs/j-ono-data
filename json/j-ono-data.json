@@ -836,13 +836,21 @@
         "rumble",
         "tumult"
       ],
-      "meaning": "the sound of falling rocks or stones",
-      "example": [{
-        "file": "bashun-1a",
-        "contributor": "",
-        "display": "バシュンッ",
-        "source": "strongest_magician_was_human"
-      }]
+      "meaning": "a tumultuous sound of multiple impacts",
+      "example": [
+        {
+          "file": "bashun-1a",
+          "contributor": "",
+          "display": "バシュンッ",
+          "source": "strongest_magician_was_human"
+        },
+        {
+          "file": "bashun-1b",
+          "contributor": "",
+          "display": "バシュンッ",
+          "source": "killed_by_gods_mistake"
+        }
+      ]
     }],
     "literal": "bashun"
   },
@@ -3103,12 +3111,20 @@
         "wham"
       ],
       "meaning": "a painful strike",
-      "example": [{
-        "file": "dogo-1a",
-        "contributor": "",
-        "display": "ドゴッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "dogo-1a",
+          "contributor": "",
+          "display": "ドゴッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "dogo-1b",
+          "contributor": "",
+          "display": "ドゴッ",
+          "source": "killed_by_gods_mistake"
+        }
+      ]
     }],
     "literal": "dogo"
   },
@@ -7620,6 +7636,12 @@
             "contributor": "",
             "display": "はっ  はっ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "ha_ha-1c",
+            "contributor": "",
+            "display": "ハハハハ",
+            "source": "killed_by_gods_mistake"
           }
         ]
       },
@@ -8777,12 +8799,20 @@
           "shine"
         ],
         "meaning": "to brighten or shine suddenly",
-        "example": [{
-          "file": "ka-2a",
-          "contributor": "",
-          "display": "カッ",
-          "source": "hello_work"
-        }]
+        "example": [
+          {
+            "file": "ka-2a",
+            "contributor": "",
+            "display": "カッ",
+            "source": "hello_work"
+          },
+          {
+            "file": "ka-2b",
+            "contributor": "",
+            "display": "カッ",
+            "source": "killed_by_gods_mistake"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -10626,12 +10656,20 @@
         "view"
       ],
       "meaning": "to look around or to search",
-      "example": [{
-        "file": "kyoro-1a",
-        "contributor": "",
-        "display": "きょろ",
-        "source": "isekai_territory_reform"
-      }]
+      "example": [
+        {
+          "file": "kyoro-1a",
+          "contributor": "",
+          "display": "きょろ",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "kyoro-1b",
+          "contributor": "",
+          "display": "キョロ",
+          "source": "killed_by_gods_mistake"
+        }
+      ]
     }],
     "literal": "kyoro"
   },
@@ -14870,6 +14908,32 @@
   },
   {
     "hiragana": [
+      "さん",
+      "さんっ"
+    ],
+    "katakana": [
+      "サン",
+      "サンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cleave",
+        "cut",
+        "slash",
+        "slice"
+      ],
+      "meaning": "a fast cutting or slicing sound",
+      "example": [{
+        "file": "san-1a",
+        "contributor": "",
+        "display": "サンッ",
+        "source": "killed_by_gods_mistake"
+      }]
+    }],
+    "literal": "san"
+  },
+  {
+    "hiragana": [
       "さら",
       "さらっ",
       "さらぁ",
@@ -15563,12 +15627,20 @@
         "zoom"
       ],
       "meaning": "the sound of something moving fast, typically indicating a missed hit, as from a sword or baseball bat",
-      "example": [{
-        "file": "suka-1a",
-        "contributor": "",
-        "display": "スカッ!",
-        "source": "eternal_fool_asley"
-      }]
+      "example": [
+        {
+          "file": "suka-1a",
+          "contributor": "",
+          "display": "スカッ!",
+          "source": "eternal_fool_asley"
+        },
+        {
+          "file": "suka-1b",
+          "contributor": "",
+          "display": "スカッ",
+          "source": "killed_by_gods_mistake"
+        }
+      ]
     }],
     "literal": "suka"
   },
@@ -18417,7 +18489,8 @@
       "ずうん",
       "ずううん",
       "ずぅん",
-      "ずぅぅん"
+      "ずぅぅん",
+      "ずんっ"
     ],
     "katakana": [
       "ズン",
@@ -18426,7 +18499,8 @@
       "ズウン",
       "ズウウン",
       "ズゥン",
-      "ズゥゥン"
+      "ズゥゥン",
+      "ズンッ"
     ],
     "definition": [
       {
@@ -18486,8 +18560,27 @@
         "example": [{
           "file": "zun-2a",
           "contributor": "",
-          "display": "zun",
+          "display": "ズン",
           "source": "my_s-ranked_daughter"
+        }]
+      },
+      {
+        "equivalent": [
+          "bam",
+          "bang",
+          "crash",
+          "slam",
+          "thud",
+          "thump",
+          "wham",
+          "whomp"
+        ],
+        "meaning": "a hard crashing or thudding sound",
+        "example": [{
+          "file": "zun-3a",
+          "contributor": "",
+          "display": "ズンッ",
+          "source": "killed_by_gods_mistake"
         }]
       }
     ],
@@ -18527,6 +18620,66 @@
       ]
     }],
     "literal": "zun zun"
+  },
+  {
+    "hiragana": [
+      "ずお",
+      "ずおお",
+      "ずぉ",
+      "ずぉぉ"
+    ],
+    "katakana": [
+      "ズオ",
+      "ズオオ",
+      "ズォ",
+      "ズォォ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bully",
+        "fierce",
+        "growl",
+        "intense",
+        "intimidate",
+        "menace",
+        "pressure",
+        "threat"
+      ],
+      "meaning": "a menacing or intense vocalization",
+      "example": [{
+        "file": "zuo-1a",
+        "contributor": "",
+        "display": "ズオオ",
+        "source": "killed_by_gods_mistake"
+      }]
+    }],
+    "literal": "zuo"
+  },
+  {
+    "hiragana": [
+      "ずぱ",
+      "ずぱっ"
+    ],
+    "katakana": [
+      "ズパ",
+      "ズパッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cleave",
+        "cut",
+        "slash",
+        "slice"
+      ],
+      "meaning": "the sound of a sharp and impactful cut",
+      "example": [{
+        "file": "zupa-1a",
+        "contributor": "",
+        "display": "ズパッ",
+        "source": "killed_by_gods_mistake"
+      }]
+    }],
+    "literal": "zupa"
   },
   {
     "hiragana": ["ずら"],
@@ -18621,27 +18774,53 @@
     "literal": "zuru"
   },
   {
-    "hiragana": ["ずしゃ"],
-    "katakana": ["ズシャ"],
-    "definition": [{
-      "equivalent": [
-        "bam",
-        "crash",
-        "shatter",
-        "slam",
-        "smash",
-        "thud",
-        "thump",
-        "whomp"
-      ],
-      "meaning": "a hard impact from a falling or thrown person",
-      "example": [{
-        "file": "zusha-1a",
-        "contributor": "",
-        "display": "ズシャ",
-        "source": "hanako_24th_ward"
-      }]
-    }],
+    "hiragana": [
+      "ずしゃ",
+      "ずしゃっ"
+    ],
+    "katakana": [
+      "ズシャ",
+      "ズシャッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "bam",
+          "crash",
+          "shatter",
+          "slam",
+          "smash",
+          "thud",
+          "thump",
+          "whomp"
+        ],
+        "meaning": "the sound of a heavy or substantial impact",
+        "example": [{
+          "file": "zusha-1a",
+          "contributor": "",
+          "display": "ズシャ",
+          "source": "hanako_24th_ward"
+        }]
+      },
+      {
+        "equivalent": [
+          "fierce",
+          "grim",
+          "heavy",
+          "imposing",
+          "intimidating",
+          "portly",
+          "threatening"
+        ],
+        "meaning": "an imposing or heavy presence",
+        "example": [{
+          "file": "zusha-2a",
+          "contributor": "",
+          "display": "ズシャッ",
+          "source": "killed_by_gods_mistake"
+        }]
+      }
+    ],
     "literal": "zusha"
   },
   {

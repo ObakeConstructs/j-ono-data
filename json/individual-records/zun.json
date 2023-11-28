@@ -7,7 +7,8 @@
     "ズウン",
     "ズウウン",
     "ズゥン",
-    "ズゥゥン"
+    "ズゥゥン",
+    "ズンッ"
   ],
   "hiragana": [
     "ずん",
@@ -16,7 +17,8 @@
     "ずうん",
     "ずううん",
     "ずぅん",
-    "ずぅぅん"
+    "ずぅぅん",
+    "ずんっ"
   ],
   "definition": [
     {
@@ -60,24 +62,45 @@
     {
       "meaning": "an expression of rage, killing-intent, or bloodlust",
       "equivalent": [
-        "rage",
-        "fury",
+        "bloodlust",
         "furious",
+        "fury",
         "incensed",
+        "intense",
+        "killing intent",
         "livid",
         "mad",
-        "steamed",
-        "intense",
-        "tension",
         "pressure",
-        "killing intent",
-        "bloodlust"
+        "rage",
+        "steamed",
+        "tension"
       ],
       "example": [
         {
           "source": "my_s-ranked_daughter",
           "file": "zun-2a",
-          "display": "zun",
+          "display": "ズン",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a hard crashing or thudding sound",
+      "equivalent": [
+        "bam",
+        "bang",
+        "crash",
+        "slam",
+        "thud",
+        "thump",
+        "wham",
+        "whomp"
+      ],
+      "example": [
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "zun-3a",
+          "display": "ズンッ",
           "contributor": ""
         }
       ]

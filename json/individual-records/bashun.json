@@ -10,19 +10,25 @@
   ],
   "definition": [
     {
-      "meaning": "the sound of falling rocks or stones",
+      "meaning": "a tumultuous sound of multiple impacts",
       "equivalent": [
-        "rumble",
-        "boom",
-        "crash",
-        "tumult",
         "blast",
-        "clamor"
+        "boom",
+        "clamor",
+        "crash",
+        "rumble",
+        "tumult"
       ],
       "example": [
         {
           "source": "strongest_magician_was_human",
           "file": "bashun-1a",
+          "display": "バシュンッ",
+          "contributor": ""
+        },
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "bashun-1b",
           "display": "バシュンッ",
           "contributor": ""
         }

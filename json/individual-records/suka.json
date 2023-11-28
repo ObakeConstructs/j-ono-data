@@ -12,18 +12,24 @@
     {
       "meaning": "the sound of something moving fast, typically indicating a missed hit, as from a sword or baseball bat",
       "equivalent": [
+        "strike",
         "swish",
         "swoosh",
         "whoosh",
         "zip",
-        "zoom",
-        "strike"
+        "zoom"
       ],
       "example": [
         {
           "source": "eternal_fool_asley",
           "file": "suka-1a",
           "display": "スカッ!",
+          "contributor": ""
+        },
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "suka-1b",
+          "display": "スカッ",
           "contributor": ""
         }
       ]
