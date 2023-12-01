@@ -1,0 +1,30 @@
+{
+  "literal": "zappon",
+  "katakana": [
+    "ザッパン",
+    "ザッパーン"
+  ],
+  "hiragana": [
+    "ざっぱん",
+    "ざっぱーん"
+  ],
+  "definition": [
+    {
+      "meaning": "a large splashing sound",
+      "equivalent": [
+        "splash",
+        "fwoosh",
+        "swash",
+        "slosh"
+      ],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "zappon-1a",
+          "display": "ザッパーン!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

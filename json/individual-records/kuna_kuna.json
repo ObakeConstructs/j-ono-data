@@ -8,18 +8,24 @@
   ],
   "definition": [
     {
-      "meaning": "shaking from cold, fear, or conviction",
+      "meaning": "a series of shaking or trembling  movements",
       "equivalent": [
-        "tremble tremble",
-        "shudder shudder",
-        "shiver shiver",
         "quiver quiver",
-        "throb throb"
+        "shiver shiver",
+        "shudder shudder",
+        "throb throb",
+        "tremble tremble"
       ],
       "example": [
         {
           "source": "otherworld_material_collector",
           "file": "kuna_kuna-1a",
+          "display": "クナ  クナ",
+          "contributor": ""
+        },
+        {
+          "source": "buy_the_land",
+          "file": "kuna_kuna-1b",
           "display": "クナ  クナ",
           "contributor": ""
         }

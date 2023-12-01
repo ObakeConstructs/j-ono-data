@@ -1,14 +1,14 @@
 {
-  "literal": "pichan",
+  "literal": "pochan",
   "katakana": [
-    "ピチャン"
+    "ポチャン"
   ],
   "hiragana": [
-    "ぴちゃん"
+    "ぽちゃん"
   ],
   "definition": [
     {
-      "meaning": "a dripping sound or a small splashing sound",
+      "meaning": "a dripping sound or small splashing sound",
       "equivalent": [
         "dribble",
         "drip",
@@ -20,9 +20,9 @@
       ],
       "example": [
         {
-          "source": "hello_work",
-          "file": "pichan-1a",
-          "display": "ピチャン",
+          "source": "buy_the_land",
+          "file": "pochan-1a",
+          "display": "ポチャン",
           "contributor": ""
         }
       ]

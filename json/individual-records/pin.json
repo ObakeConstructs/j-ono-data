@@ -51,10 +51,10 @@
       "equivalent": [
         "ah-hah",
         "inspiration",
-        "revelation",
+        "ping",
         "realize",
         "recognition",
-        "ping",
+        "revelation",
         "spark"
       ],
       "example": [
@@ -62,6 +62,12 @@
           "source": "isekai_av_filming",
           "file": "pin-3a",
           "display": "ピーン",
+          "contributor": ""
+        },
+        {
+          "source": "buy_the_land",
+          "file": "pin-3b",
+          "display": "ピン",
           "contributor": ""
         }
       ]

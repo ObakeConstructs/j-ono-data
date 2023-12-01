@@ -8429,12 +8429,20 @@
         "tadah"
       ],
       "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
-      "example": [{
-        "file": "jan-1a",
-        "contributor": "",
-        "display": "ジャーン!!",
-        "source": "peter_grill"
-      }]
+      "example": [
+        {
+          "file": "jan-1a",
+          "contributor": "",
+          "display": "ジャーン!!",
+          "source": "peter_grill"
+        },
+        {
+          "file": "jan-1b",
+          "contributor": "",
+          "display": "じゃーん",
+          "source": "buy_the_land"
+        }
+      ]
     }],
     "literal": "jan"
   },
@@ -8647,28 +8655,44 @@
   {
     "hiragana": ["じたばた"],
     "katakana": ["ジタバタ"],
-    "definition": [{
-      "equivalent": [
-        "resist resist",
-        "struggle struggle",
-        "wriggle wriggle"
-      ],
-      "meaning": "an indication of strugging against restraints",
-      "example": [
-        {
-          "file": "jita_bata-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "resist",
+          "struggle",
+          "wriggle"
+        ],
+        "meaning": "an indication of strugging against restraints, typically in vain",
+        "example": [
+          {
+            "file": "jita_bata-1a",
+            "contributor": "",
+            "display": "じたばた",
+            "source": "hone_dragon"
+          },
+          {
+            "file": "jita_bata-1b",
+            "contributor": "",
+            "display": "じた  ばた",
+            "source": "isekai_av_filming"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "flail flail",
+          "hissy fit",
+          "temper tantrum"
+        ],
+        "meaning": "an indication of flailing in a fit of agitation, frustration, or temper",
+        "example": [{
+          "file": "jita_bata-2a",
           "contributor": "",
-          "display": "じたばた",
-          "source": "hone_dragon"
-        },
-        {
-          "file": "jita_bata-1b",
-          "contributor": "",
-          "display": "じた  ばた",
-          "source": "isekai_av_filming"
-        }
-      ]
-    }],
+          "display": "ジタ  バタ",
+          "source": "buy_the_land"
+        }]
+      }
+    ],
     "literal": "jita bata"
   },
   {
@@ -10317,13 +10341,21 @@
         "throb throb",
         "tremble tremble"
       ],
-      "meaning": "shaking from cold, fear, or conviction",
-      "example": [{
-        "file": "kuna_kuna-1a",
-        "contributor": "",
-        "display": "クナ  クナ",
-        "source": "otherworld_material_collector"
-      }]
+      "meaning": "a series of shaking or trembling  movements",
+      "example": [
+        {
+          "file": "kuna_kuna-1a",
+          "contributor": "",
+          "display": "クナ  クナ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "kuna_kuna-1b",
+          "contributor": "",
+          "display": "クナ  クナ",
+          "source": "buy_the_land"
+        }
+      ]
     }],
     "literal": "kuna kuna"
   },
@@ -11383,6 +11415,29 @@
       }]
     }],
     "literal": "munyun"
+  },
+  {
+    "hiragana": ["むしゃむしゃ"],
+    "katakana": ["ムシャムシャ"],
+    "definition": [{
+      "equivalent": [
+        "bite bite",
+        "chew chew",
+        "chomp chomp",
+        "eat eat",
+        "munch munch",
+        "nom nom",
+        "snarf snarf"
+      ],
+      "meaning": "a series of biting or chewing sounds",
+      "example": [{
+        "file": "musha_musha-1a",
+        "contributor": "",
+        "display": "ムシャ  ムシャ",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "musha musha"
   },
   {
     "hiragana": [
@@ -13202,7 +13257,7 @@
         "swirl",
         "trickle"
       ],
-      "meaning": "a very soft sound of water movement",
+      "meaning": "a dripping sound or a small splashing sound",
       "example": [{
         "file": "pichan-1a",
         "contributor": "",
@@ -13211,6 +13266,29 @@
       }]
     }],
     "literal": "pichan"
+  },
+  {
+    "hiragana": ["ぴちぴち"],
+    "katakana": ["ピチピチ"],
+    "definition": [{
+      "equivalent": [
+        "bounce bounce",
+        "energetic",
+        "flap flap",
+        "flop flop",
+        "fresh",
+        "lively",
+        "vibrant"
+      ],
+      "meaning": "an expression of something lively and energetic, often associated with freshly caught fish",
+      "example": [{
+        "file": "pichi_pichi-1a",
+        "contributor": "",
+        "display": "ピチ  ピチ  ピチ  ピチ",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "pichi pichi"
   },
   {
     "hiragana": ["ぴちょん"],
@@ -13577,12 +13655,20 @@
           "spark"
         ],
         "meaning": "an expression of sudden inspiration, revelation, or recognition",
-        "example": [{
-          "file": "pin-3a",
-          "contributor": "",
-          "display": "ピーン",
-          "source": "isekai_av_filming"
-        }]
+        "example": [
+          {
+            "file": "pin-3a",
+            "contributor": "",
+            "display": "ピーン",
+            "source": "isekai_av_filming"
+          },
+          {
+            "file": "pin-3b",
+            "contributor": "",
+            "display": "ピン",
+            "source": "buy_the_land"
+          }
+        ]
       }
     ],
     "literal": "pin"
@@ -13876,6 +13962,29 @@
       }
     ],
     "literal": "po"
+  },
+  {
+    "hiragana": ["ぽちゃん"],
+    "katakana": ["ポチャン"],
+    "definition": [{
+      "equivalent": [
+        "dribble",
+        "drip",
+        "plop",
+        "ripple",
+        "splash",
+        "swirl",
+        "trickle"
+      ],
+      "meaning": "a dripping sound or small splashing sound",
+      "example": [{
+        "file": "pochan-1a",
+        "contributor": "",
+        "display": "ポチャン",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "pochan"
   },
   {
     "hiragana": [
@@ -15210,6 +15319,30 @@
     "literal": "sharan"
   },
   {
+    "hiragana": ["しくしく"],
+    "katakana": ["シクシク"],
+    "definition": [{
+      "equivalent": [
+        "bawl bawl",
+        "cry cry",
+        "moan moan",
+        "sob sob",
+        "wail wail",
+        "weep weep",
+        "whimper whimper",
+        "whine whine"
+      ],
+      "meaning": "a series of whimpering or sobbing sound",
+      "example": [{
+        "file": "shiku_shiku-1a",
+        "contributor": "",
+        "display": "シク  シク  シク",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "shiku shiku"
+  },
+  {
     "hiragana": [
       "しん",
       "しーん",
@@ -15246,6 +15379,12 @@
           "contributor": "",
           "display": "シーン",
           "source": "isekai_pickup"
+        },
+        {
+          "file": "shin-1d",
+          "contributor": "",
+          "display": "しーん",
+          "source": "buy_the_land"
         }
       ]
     }],
@@ -18017,6 +18156,36 @@
   },
   {
     "hiragana": [
+      "ざぶん",
+      "ざぶーん"
+    ],
+    "katakana": [
+      "ザブン",
+      "ザブーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "gush",
+        "jet",
+        "slosh",
+        "spew",
+        "splash",
+        "sploosh",
+        "spout",
+        "swash"
+      ],
+      "meaning": "a large splashing sound",
+      "example": [{
+        "file": "zabun-1a",
+        "contributor": "",
+        "display": "ザブーン.",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "zabun"
+  },
+  {
+    "hiragana": [
       "ざく",
       "ざくっ"
     ],
@@ -18075,6 +18244,32 @@
       ]
     }],
     "literal": "zan"
+  },
+  {
+    "hiragana": [
+      "ざっぱん",
+      "ざっぱーん"
+    ],
+    "katakana": [
+      "ザッパン",
+      "ザッパーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "fwoosh",
+        "slosh",
+        "splash",
+        "swash"
+      ],
+      "meaning": "a large splashing sound",
+      "example": [{
+        "file": "zappon-1a",
+        "contributor": "",
+        "display": "ザッパーン!",
+        "source": "buy_the_land"
+      }]
+    }],
+    "literal": "zappon"
   },
   {
     "hiragana": [

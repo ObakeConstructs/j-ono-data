@@ -8,11 +8,11 @@
   ],
   "definition": [
     {
-      "meaning": "an indication of strugging against restraints",
+      "meaning": "an indication of strugging against restraints, typically in vain",
       "equivalent": [
-        "resist resist",
-        "struggle struggle",
-        "wriggle wriggle"
+        "resist",
+        "struggle",
+        "wriggle"
       ],
       "example": [
         {
@@ -25,6 +25,22 @@
           "source": "isekai_av_filming",
           "file": "jita_bata-1b",
           "display": "じた  ばた",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an indication of flailing in a fit of agitation, frustration, or temper",
+      "equivalent": [
+        "temper tantrum",
+        "flail flail",
+        "hissy fit"
+      ],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "jita_bata-2a",
+          "display": "ジタ  バタ",
           "contributor": ""
         }
       ]
