@@ -1,0 +1,35 @@
+{
+  "literal": "pe",
+  "katakana": [
+    "ペ",
+    "ペッ"
+  ],
+  "hiragana": [
+    "ペ",
+    "ペっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound spitting or ejecting something from the mouth",
+      "equivalent": [
+        "blarg",
+        "bleh",
+        "expectorate",
+        "ptoo",
+        "ptooey",
+        "spat",
+        "spit",
+        "spit out",
+        "sploosh"
+      ],
+      "example": [
+        {
+          "source": "berserk",
+          "file": "pe-1a",
+          "display": "ペッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

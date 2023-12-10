@@ -1,0 +1,36 @@
+{
+  "literal": "pashi pashi",
+  "katakana": [
+    "パシパシ"
+  ],
+  "hiragana": [
+    "ぱしぱし"
+  ],
+  "definition": [
+    {
+      "meaning": "a slapping or smacking sound",
+      "equivalent": [
+        "biff biff",
+        "bonk bonk",
+        "clap clap",
+        "clip clip",
+        "pat pat",
+        "rap rap",
+        "scuff scuff",
+        "slap slap",
+        "stroke stroke",
+        "swat swat",
+        "swipe swipe",
+        "thump thump"
+      ],
+      "example": [
+        {
+          "source": "berserk",
+          "file": "pashi_pashi-1a",
+          "display": "パシパシ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,21 +1,47 @@
 {
-  "hiragana": ["ぺらぺら"],
-  "katakana": ["ペラペラ"],
-  "definition": [{
-    "equivalent": [
-      "articulate",
-      "eloquent",
-      "glib glib",
-      "talk talk",
-      "verbose"
-    ],
-    "meaning": "to speak in a fluent and polished manner",
-    "example": [{
-      "file": "pera_pera-1a",
-      "contributor": "",
-      "display": "ペラ  ペラ  ペラ",
-      "source": "weakest_occupation_blacksmith"
-    }]
-  }],
-  "literal": "pera pera"
+  "literal": "pera pera",
+  "katakana": [
+    "ペラペラ"
+  ],
+  "hiragana": [
+    "ぺらぺら"
+  ],
+  "definition": [
+    {
+      "meaning": "to speak in a fluent and polished manner",
+      "equivalent": [
+        "articulate",
+        "eloquent",
+        "glib glib",
+        "talk talk",
+        "verbose"
+      ],
+      "example": [
+        {
+          "source": "weakest_occupation_blacksmith",
+          "file": "pera_pera-1a",
+          "display": "ペラ  ペラ  ペラ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a series of flapping noises",
+      "equivalent": [
+        "flap flap",
+        "flick flick",
+        "flit flit",
+        "swish swish",
+        "wave wave"
+      ],
+      "example": [
+        {
+          "source": "berserk",
+          "file": "pera_pera-2a",
+          "display": "ペラ  ペラ  ペラ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

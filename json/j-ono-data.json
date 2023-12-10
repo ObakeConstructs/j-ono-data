@@ -839,12 +839,20 @@
         "whomp"
       ],
       "meaning": "a sudden and loud impact",
-      "example": [{
-        "file": "bashi-1a",
-        "contributor": "",
-        "display": "バシッ",
-        "source": "hanako_24th_ward"
-      }]
+      "example": [
+        {
+          "file": "bashi-1a",
+          "contributor": "",
+          "display": "バシッ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "bashi-1b",
+          "contributor": "",
+          "display": "バシ!!",
+          "source": "berserk"
+        }
+      ]
     }],
     "literal": "bashi"
   },
@@ -1081,17 +1089,26 @@
         "slosh",
         "spatter",
         "splash",
+        "splat",
         "splatter",
         "spray",
         "squirt"
       ],
-      "meaning": "to cause a liquid to gush or splash",
-      "example": [{
-        "file": "bicha-1a",
-        "contributor": "",
-        "display": "びちゃ",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "a splashing or splattering sound",
+      "example": [
+        {
+          "file": "bicha-1a",
+          "contributor": "",
+          "display": "びちゃ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "bicha-1b",
+          "contributor": "",
+          "display": "ビチャ",
+          "source": "berserk"
+        }
+      ]
     }],
     "literal": "bicha"
   },
@@ -1469,6 +1486,29 @@
       }
     ],
     "literal": "bo"
+  },
+  {
+    "hiragana": ["ぼちゃん"],
+    "katakana": ["ボチャン"],
+    "definition": [{
+      "equivalent": [
+        "bloop",
+        "bloosh",
+        "slop",
+        "slosh",
+        "spatter",
+        "splash",
+        "swash"
+      ],
+      "meaning": "sound of something landing into water",
+      "example": [{
+        "file": "bochan-1a",
+        "contributor": "",
+        "display": "ボチャン",
+        "source": "berserk"
+      }]
+    }],
+    "literal": "bochan"
   },
   {
     "hiragana": [
@@ -4926,48 +4966,45 @@
   {
     "hiragana": ["がちゃ"],
     "katakana": ["ガチャ"],
-    "definition": [
-      {
-        "equivalent": [
-          "clack",
-          "click",
-          "ka-chik",
-          "tick"
-        ],
-        "meaning": "a small noise, as of pressing a button",
-        "example": [{
+    "definition": [{
+      "equivalent": [
+        "clack",
+        "clatter",
+        "click",
+        "clink",
+        "ka-chik",
+        "ker-chak",
+        "rattle",
+        "tick"
+      ],
+      "meaning": "a rattling or clattering sound",
+      "example": [
+        {
           "file": "gacha-1a",
           "contributor": "",
           "display": "ガチャ",
           "source": "d_genesis"
-        }]
-      },
-      {
-        "equivalent": [
-          "clack",
-          "clatter",
-          "click",
-          "clink",
-          "ker-chak",
-          "rattle"
-        ],
-        "meaning": "The short, sharp sounds of opening a swinging door",
-        "example": [
-          {
-            "file": "gacha-2a",
-            "contributor": "",
-            "display": "ガチャ",
-            "source": "spy_x_family"
-          },
-          {
-            "file": "gacha-2b",
-            "contributor": "",
-            "display": "ガチャ",
-            "source": "otherworld_material_collector"
-          }
-        ]
-      }
-    ],
+        },
+        {
+          "file": "gacha-1b",
+          "contributor": "",
+          "display": "ガチャ",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "gacha-1c",
+          "contributor": "",
+          "display": "ガチャ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "gacha-1d",
+          "contributor": "",
+          "display": "ガチャ",
+          "source": "berserk"
+        }
+      ]
+    }],
     "literal": "gacha"
   },
   {
@@ -5381,12 +5418,20 @@
           "rattle rattle"
         ],
         "meaning": "an indication of something moving with a clatter or rattle",
-        "example": [{
-          "file": "gara_gara-1b",
-          "contributor": "",
-          "display": "ガラ  ガラ",
-          "source": "otherworld_material_collector"
-        }]
+        "example": [
+          {
+            "file": "gara_gara-1b",
+            "contributor": "",
+            "display": "ガラ  ガラ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "gara_gara-1b",
+            "contributor": "",
+            "display": "ガラガラガラ..",
+            "source": "berserk"
+          }
+        ]
       }
     ],
     "literal": "gara gara"
@@ -6116,6 +6161,24 @@
     "literal": "giri"
   },
   {
+    "hiragana": ["ぎりぎり"],
+    "katakana": ["ギリギリ"],
+    "definition": [{
+      "equivalent": [
+        "gnash",
+        "grind"
+      ],
+      "meaning": "an expression of grinding one's teeth together, often in frustration or anger",
+      "example": [{
+        "file": "giri_giri-1a",
+        "contributor": "",
+        "display": "ギリ  ギリ",
+        "source": "berserk"
+      }]
+    }],
+    "literal": "giri giri"
+  },
+  {
     "hiragana": [
       "ぎろ",
       "ぎろっ"
@@ -6345,12 +6408,20 @@
         "swallow"
       ],
       "meaning": "the sound of gulping or swallowing",
-      "example": [{
-        "file": "gokun-1a",
-        "contributor": "",
-        "display": "ゴクン",
-        "source": "otherworld_material_collector"
-      }]
+      "example": [
+        {
+          "file": "gokun-1a",
+          "contributor": "",
+          "display": "ゴクン",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "gokun-1b",
+          "contributor": "",
+          "display": "ゴクン.",
+          "source": "berserk"
+        }
+      ]
     }],
     "literal": "gokun"
   },
@@ -10962,6 +11033,26 @@
     "literal": "mofu"
   },
   {
+    "hiragana": ["もがもが"],
+    "katakana": ["モガモガ"],
+    "definition": [{
+      "equivalent": [
+        "fumble flumble",
+        "rustle rustle",
+        "struggle struggle",
+        "wriggle wriggle"
+      ],
+      "meaning": "a fumbling or struggling sound, typically muffled",
+      "example": [{
+        "file": "moga_moga-1a",
+        "contributor": "",
+        "display": "モガ  モガ",
+        "source": "berserk"
+      }]
+    }],
+    "literal": "moga  moga"
+  },
+  {
     "hiragana": ["もぐもぐ"],
     "katakana": ["モグモグ"],
     "definition": [{
@@ -12707,6 +12798,34 @@
     "literal": "pashi"
   },
   {
+    "hiragana": ["ぱしぱし"],
+    "katakana": ["パシパシ"],
+    "definition": [{
+      "equivalent": [
+        "biff biff",
+        "bonk bonk",
+        "clap clap",
+        "clip clip",
+        "pat pat",
+        "rap rap",
+        "scuff scuff",
+        "slap slap",
+        "stroke stroke",
+        "swat swat",
+        "swipe swipe",
+        "thump thump"
+      ],
+      "meaning": "a slapping or smacking sound",
+      "example": [{
+        "file": "pashi_pashi-1a",
+        "contributor": "",
+        "display": "パシパシ",
+        "source": "berserk"
+      }]
+    }],
+    "literal": "pashi pashi"
+  },
+  {
     "hiragana": [
       "ぱた",
       "ぱたっ"
@@ -12841,6 +12960,37 @@
   },
   {
     "hiragana": [
+      "ペ",
+      "ペっ"
+    ],
+    "katakana": [
+      "ペ",
+      "ペッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blarg",
+        "bleh",
+        "expectorate",
+        "ptoo",
+        "ptooey",
+        "spat",
+        "spit",
+        "spit out",
+        "sploosh"
+      ],
+      "meaning": "the sound spitting or ejecting something from the mouth",
+      "example": [{
+        "file": "pe-1a",
+        "contributor": "",
+        "display": "ペッ",
+        "source": "berserk"
+      }]
+    }],
+    "literal": "pe"
+  },
+  {
+    "hiragana": [
       "ぺち",
       "ぺちっ"
     ],
@@ -12968,22 +13118,40 @@
   {
     "hiragana": ["ぺらぺら"],
     "katakana": ["ペラペラ"],
-    "definition": [{
-      "equivalent": [
-        "articulate",
-        "eloquent",
-        "glib glib",
-        "talk talk",
-        "verbose"
-      ],
-      "meaning": "to speak in a fluent and polished manner",
-      "example": [{
-        "file": "pera_pera-1a",
-        "contributor": "",
-        "display": "ペラ  ペラ  ペラ",
-        "source": "weakest_occupation_blacksmith"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "articulate",
+          "eloquent",
+          "glib glib",
+          "talk talk",
+          "verbose"
+        ],
+        "meaning": "to speak in a fluent and polished manner",
+        "example": [{
+          "file": "pera_pera-1a",
+          "contributor": "",
+          "display": "ペラ  ペラ  ペラ",
+          "source": "weakest_occupation_blacksmith"
+        }]
+      },
+      {
+        "equivalent": [
+          "flap flap",
+          "flick flick",
+          "flit flit",
+          "swish swish",
+          "wave wave"
+        ],
+        "meaning": "a series of flapping noises",
+        "example": [{
+          "file": "pera_pera-2a",
+          "contributor": "",
+          "display": "ペラ  ペラ  ペラ",
+          "source": "berserk"
+        }]
+      }
+    ],
     "literal": "pera pera"
   },
   {

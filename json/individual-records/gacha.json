@@ -8,12 +8,16 @@
   ],
   "definition": [
     {
-      "meaning": "a small noise, as of pressing a button",
+      "meaning": "a rattling or clattering sound",
       "equivalent": [
         "clack",
         "click",
         "ka-chik",
-        "tick"
+        "tick",
+        "ker-chak",
+        "clatter",
+        "clink",
+        "rattle"
       ],
       "example": [
         {
@@ -21,29 +25,22 @@
           "file": "gacha-1a",
           "display": "ガチャ",
           "contributor": ""
-        }
-      ]
-    },
-    {
-      "meaning": "The short, sharp sounds of opening a swinging door",
-      "equivalent": [
-        "clack",
-        "clatter",
-        "click",
-        "clink",
-        "ker-chak",
-        "rattle"
-      ],
-      "example": [
+        },
         {
           "source": "spy_x_family",
-          "file": "gacha-2a",
+          "file": "gacha-1b",
           "display": "ガチャ",
           "contributor": ""
         },
         {
           "source": "otherworld_material_collector",
-          "file": "gacha-2b",
+          "file": "gacha-1c",
+          "display": "ガチャ",
+          "contributor": ""
+        },
+        {
+          "source": "berserk",
+          "file": "gacha-1d",
           "display": "ガチャ",
           "contributor": ""
         }

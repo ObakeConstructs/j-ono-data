@@ -1,35 +1,45 @@
 {
-  "hiragana": [
-    "ばし",
-    "ばしっ"
-  ],
+  "literal": "bashi",
   "katakana": [
     "バシ",
     "バシッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bam",
-      "bang",
-      "crash",
-      "slam",
-      "slap",
-      "smack",
-      "thud",
-      "thump",
-      "thunk",
-      "whack",
-      "wham",
-      "whap",
-      "whomp"
-    ],
-    "meaning": "a sudden and loud impact",
-    "example": [{
-      "file": "bashi-1a",
-      "contributor": "",
-      "display": "バシッ",
-      "source": "hanako_24th_ward"
-    }]
-  }],
-  "literal": "bashi"
+  "hiragana": [
+    "ばし",
+    "ばしっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a sudden and loud impact",
+      "equivalent": [
+        "bam",
+        "bang",
+        "crash",
+        "slam",
+        "slap",
+        "smack",
+        "thud",
+        "thump",
+        "thunk",
+        "whack",
+        "wham",
+        "whap",
+        "whomp"
+      ],
+      "example": [
+        {
+          "source": "hanako_24th_ward",
+          "file": "bashi-1a",
+          "display": "バシッ",
+          "contributor": ""
+        },
+        {
+          "source": "berserk",
+          "file": "bashi-1b",
+          "display": "バシ!!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
