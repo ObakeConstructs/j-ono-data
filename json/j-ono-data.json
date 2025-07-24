@@ -1232,6 +1232,31 @@
   },
   {
     "hiragana": [
+      "びり",
+      "びりり"
+    ],
+    "katakana": [
+      "ビリ",
+      "ビリリ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "rend",
+        "rip",
+        "tear"
+      ],
+      "meaning": "sound of paper tearing or ripping",
+      "example": [{
+        "file": "biri-1a",
+        "contributor": "Artrix",
+        "display": "ビリリ",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "literal": "biri"
+  },
+  {
+    "hiragana": [
       "びりびり",
       "びりびりっ"
     ],
@@ -1613,6 +1638,35 @@
       }]
     }],
     "literal": "bokon"
+  },
+  {
+    "hiragana": [
+      "ぼん",
+      "ぼーん",
+      "ぼんっ"
+    ],
+    "katakana": [
+      "ボン",
+      "ボーン",
+      "ボンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "blam",
+        "boom",
+        "d-dum",
+        "ta-da"
+      ],
+      "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
+      "example": [{
+        "file": "bon-1a",
+        "contributor": "Artrix",
+        "display": "ボーン",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "literal": "bon"
   },
   {
     "hiragana": ["ぼろぼろ"],
@@ -4007,14 +4061,12 @@
           "umm"
         ],
         "meaning": "a vocalized sound expressing hesitation or thoughtful reflection, often drawn out",
-        "example": [
-          {
-            "file": "e-1a",
-            "contributor": "",
-            "display": "えぇーっ",
-            "source": "isekai_pickup"
-          }
-        ]
+        "example": [{
+          "file": "e-1a",
+          "contributor": "",
+          "display": "えぇーっ",
+          "source": "isekai_pickup"
+        }]
       },
       {
         "equivalent": [

@@ -1,0 +1,33 @@
+{
+  "literal": "bon",
+  "katakana": [
+    "ボン",
+    "ボーン",
+    "ボンッ"
+  ],
+  "hiragana": [
+    "ぼん",
+    "ぼーん",
+    "ぼんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
+      "equivalent": [
+        "bam",
+        "boom",
+        "d-dum",
+        "ta-da",
+        "blam"
+      ],
+      "example": [
+        {
+          "source": "pokemon_xy_break",
+          "file": "bon-1a",
+          "display": "ボーン",
+          "contributor": "Artrix"
+        }
+      ]
+    }
+  ]
+}
