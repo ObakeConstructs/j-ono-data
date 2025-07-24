@@ -12,20 +12,20 @@ body:
     attributes:
       label: Source
       description: Where is the example image from, as in which manga series?
-    validation:
+    validations:
       required: true
   - type: textarea
     id: reference
     attributes:
       label: References
       description: You can attack your image file or if you click this area, you can just drag and drop them here directly.
-    validation:
+    validations:
       required: true
   - type: input
     id: contribution
     attributes:
       label: Contributor Name
       description: What name would you like to show as the contributor for this example image (Leave blank if you do not want contribution credit)?
-    validation:
+    validations:
       required: false
       
