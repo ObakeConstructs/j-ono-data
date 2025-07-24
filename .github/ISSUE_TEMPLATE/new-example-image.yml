@@ -2,7 +2,7 @@ name: New Example image
 description: Suggest a new example image
 title: "[New Example]: "
 labels: ["enhancement"]
-assignees: ""
+
 
 body:
 
