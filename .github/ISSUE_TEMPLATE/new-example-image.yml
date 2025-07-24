@@ -10,8 +10,8 @@ body:
   - type: input
     id: onomatopoeia
     attributes:
-      label: Onomatopoeia
-      description: What is the japanese onomatopoeia associated with your new example image? (either katakana or hiragana)
+      label: Onomatopoeia (katakana or hiragana)
+      description: What is the japanese onomatopoeia associated with your new example image?
     validations:
       required: true
   - type: input
