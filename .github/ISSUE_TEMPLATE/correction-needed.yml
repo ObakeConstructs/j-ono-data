@@ -1,9 +1,36 @@
-name: Translation Correction
-description: Translation needs correction
+name: Translation Problem
+description: Translation has a problem
 title: "[Translation Correction]: "
-labels: ["enhancement"]
+labels: ["translation problem"]
 body:
   - type: markdown
     attributes:
       value: |
         Thanks for taking the time to point out a translation issue.
+  - type: input
+    id: onomatopoeia
+    attributes:
+      label: Onomatopoeia
+      description: What is the japanese onomatopoeia associated with the translation problem?
+    validations:
+      required: true
+  - type: checkboxes
+    id: field
+    attributes:
+      label: Problem Fields
+      description: Which specific field(s) have the translation problem?
+      options:
+        - japanese
+        - literal
+        - english equivalent
+        - meaning
+        - example image(s)
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please describe this translation problem.
+    validations:
+      required: true
