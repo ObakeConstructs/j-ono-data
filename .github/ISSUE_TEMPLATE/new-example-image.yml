@@ -11,7 +11,21 @@ body:
     id: onomatopoeia
     attributes:
       label: Onomatopoeia
-      description: What is the japanese onomatopoeia associated with your new example image?
+      description: What is the japanese onomatopoeia associated with your new example image? (either katakana or hiragana)
+    validations:
+      required: true
+  - type: input
+    id: literal
+    attributes:
+      label: Literal Translation
+      description: What is the literal translation of the onomatopoeia?
+    validations:
+      required: true
+  - type: input
+    id: meaning
+    attributes:
+      label: General Meaning
+      description: What is the general meaning or context of the onomatopoeia?
     validations:
       required: true
   - type: textarea
