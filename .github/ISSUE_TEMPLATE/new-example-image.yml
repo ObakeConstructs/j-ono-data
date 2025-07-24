@@ -25,7 +25,7 @@ body:
     id: contribution
     attributes:
       label: Contributor Name
-      description: What name would you like to show as the contributor for this example image (Leave blank if you do not want contribution credit)?
+      description: What name would you like to show as the contributor for this example image? (Leave blank if you do not want contribution credit.)
     validations:
       required: false
       
