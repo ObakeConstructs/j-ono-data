@@ -8,7 +8,7 @@ body:
       value: |
         Thanks for taking the time to suggest a new example image.
   - type: input
-    id: soundword
+    id: onomatopoeia
     attributes:
       label: Onomatopoeia
       description: What is the japanese onomatopoeia associated with your new example image?
