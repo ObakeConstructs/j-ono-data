@@ -1,4 +1,4 @@
-name: New Example image
+name: New Example image 
 description: Suggest a new example image
 title: "[New Example]: "
 labels: ["enhancement"]
@@ -7,6 +7,13 @@ body:
     attributes:
       value: |
         Thanks for taking the time to suggest a new example image.
+  - type: input
+    id: soundword
+    attributes:
+      label: Sound Word
+      description: What is the japanese onomatopoeia associated with your new example image?
+    validations:
+      required: true
   - type: textarea
     id: reference
     attributes:
