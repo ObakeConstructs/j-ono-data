@@ -10,7 +10,7 @@ body:
   - type: input
     id: soundword
     attributes:
-      label: Sound Word
+      label: Onomatopoeia
       description: What is the japanese onomatopoeia associated with your new example image?
     validations:
       required: true
