@@ -18,7 +18,7 @@ body:
     id: reference
     attributes:
       label: Image Reference
-      description: If you click this area, you can just drag and drop your new example image here (or click the paperclip icon below to attach the file).
+      description: If you click this area, you can just drag and drop your new example image here (or click the paperclip icon below to attach an image file).
     validations:
       required: true
   - type: input
