@@ -1,0 +1,9 @@
+name: Translation Correction
+description: Translation needs correction
+title: "[Translation Correction]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to point out a translation issue.
