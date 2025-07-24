@@ -7,18 +7,18 @@ body:
     attributes:
       value: |
         Thanks for taking the time to suggest a new example image.
+  - type: textarea
+    id: reference
+    attributes:
+      label: Image Reference
+      description: If you click this area, you can just drag and drop your new example image here (or click the paperclip icon below to attach the file).
+    validations:
+      required: true
   - type: input
     id: source
     attributes:
       label: Source
-      description: Where is the example image from, as in which manga series?
-    validations:
-      required: true
-  - type: textarea
-    id: reference
-    attributes:
-      label: References
-      description: You can attack your image file or if you click this area, you can just drag and drop them here directly.
+      description: Where is your example image coming from (as in, what is the name of the manga series)?
     validations:
       required: true
   - type: input
