@@ -8,13 +8,6 @@ body:
       value: |
         Thanks for taking the time to suggest a new example image.
   - type: input
-    id: onomatopoeia
-    attributes:
-      label: Japanese Onomatopoeia (katakana or hiragana)
-      description: What is the Japanese onomatopoeia associated with your new example image?
-    validations:
-      required: true
-  - type: input
     id: literal
     attributes:
       label: English Literals
