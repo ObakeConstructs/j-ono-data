@@ -2,29 +2,23 @@ name: New Example image
 description: Suggest a new example image
 title: "[New Example]: "
 labels: ["enhancement"]
-
-
 body:
-
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest a new example image.  
-        
+        Thanks for taking the time to suggest a new example image.
   - type: input  
     attributes:
       label: Source
       description: Where is the example image from, as in which manga series?
     validation:
       required: true
-      
   - type: textarea
     attributes:
       label: References
       description: You can attack your image file or if you click this area, you can just drag and drop them here directly.
     validation:
       required: true
-      
   - type: input
     attributes:
       label: Contributor Name
