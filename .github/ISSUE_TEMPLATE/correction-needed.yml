@@ -20,11 +20,11 @@ body:
       label: Problem Fields
       description: Which specific field(s) have the translation problem?
       options:
-        - japanese
-        - literal
-        - english equivalent
-        - meaning
-        - example image(s)
+        - label: japanese
+        - label: literal
+        - label: english equivalent
+        - label: meaning
+        - label: example image(s)
     validations:
       required: true
   - type: textarea
