@@ -11,14 +11,14 @@ body:
     id: onomatopoeia
     attributes:
       label: Onomatopoeia
-      description: What is the japanese onomatopoeia associated with the translation problem?
+      description: Which japanese onomatopoeia is associated with this translation problem?
     validations:
       required: true
   - type: checkboxes
     id: field
     attributes:
       label: Problem Fields
-      description: Which specific field(s) have the translation problem?
+      description: Which specific field(s) have this translation problem?
       options:
         - label: japanese
         - label: literal
