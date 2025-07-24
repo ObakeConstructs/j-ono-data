@@ -1,7 +1,7 @@
 name: New Example image 
 description: Suggest a new example image
 title: "[New Example]: "
-labels: ["enhancement"]
+labels: ["new image"]
 body:
   - type: markdown
     attributes:
