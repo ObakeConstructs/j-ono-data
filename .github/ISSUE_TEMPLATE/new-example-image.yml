@@ -10,21 +10,21 @@ body:
   - type: input
     id: onomatopoeia
     attributes:
-      label: Onomatopoeia (katakana or hiragana)
+      label: Japanese Onomatopoeia (katakana or hiragana)
       description: What is the japanese onomatopoeia associated with your new example image?
     validations:
       required: true
   - type: input
     id: literal
     attributes:
-      label: Literal Translation
-      description: What is the literal translation of the onomatopoeia?
+      label: English Literals
+      description: What are some English words that have the same or similar meanings as the Japanese onomatopoeia?
     validations:
       required: true
   - type: input
     id: meaning
     attributes:
-      label: General Meaning
+      label: English Meaning
       description: What is the general meaning or context of the onomatopoeia?
     validations:
       required: true
