@@ -36,16 +36,22 @@
           "file": "bi-1a",
           "display": "ビッ",
           "contributor": ""
+        },
+        {
+          "source": "blazing_fire_brigade",
+          "file": "bi-1b",
+          "display": "ビッ",
+          "contributor": ""
         }
       ]
     },
     {
       "meaning": "a short, sharp gesture, often unexpected",
       "equivalent": [
-        "fwip",
-        "snap",
+        "flash",
         "flick",
-        "flash"
+        "fwip",
+        "snap"
       ],
       "example": [
         {

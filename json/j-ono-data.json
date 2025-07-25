@@ -309,12 +309,28 @@
           "ta-da",
           "unveil"
         ],
-        "meaning": "to reveal or show something",
+        "meaning": "to reveal or show something suddenly",
         "example": [{
           "file": "ba-4a",
           "contributor": "",
           "display": "ばっ",
           "source": "spy_x_family"
+        }]
+      },
+      {
+        "equivalent": [
+          "epiphany",
+          "jolt",
+          "of course",
+          "realize",
+          "understand"
+        ],
+        "meaning": "an expression of realization or understanding",
+        "example": [{
+          "file": "ba-5a",
+          "contributor": "",
+          "display": "バッ",
+          "source": "blazing_fire_brigade"
         }]
       }
     ],
@@ -349,6 +365,26 @@
       }]
     }],
     "literal": "baba"
+  },
+  {
+    "hiragana": ["ばち"],
+    "katakana": ["バチ"],
+    "definition": [{
+      "equivalent": [
+        "buzz",
+        "bzz",
+        "crackle",
+        "jolt"
+      ],
+      "meaning": "the sound of an electrical discharge",
+      "example": [{
+        "file": "bachi-1a",
+        "contributor": "",
+        "display": "バチ",
+        "source": "blazing_fire_brigade"
+      }]
+    }],
+    "literal": "bachi"
   },
   {
     "hiragana": ["ばちん"],
@@ -1045,12 +1081,20 @@
           "wallop"
         ],
         "meaning": "a short, sharp fighting sound",
-        "example": [{
-          "file": "bi-1a",
-          "contributor": "",
-          "display": "ビッ",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "bi-1a",
+            "contributor": "",
+            "display": "ビッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "bi-1b",
+            "contributor": "",
+            "display": "ビッ",
+            "source": "blazing_fire_brigade"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -2203,13 +2247,21 @@
         "shudder",
         "tremble"
       ],
-      "meaning": "shaking involuntarily, as from fear or cold",
-      "example": [{
-        "file": "buru-1a",
-        "contributor": "",
-        "display": "ぶるるるるるるる",
-        "source": "komi_cant_communicate"
-      }]
+      "meaning": "shaking involuntarily, as from fear, cold, or excitement",
+      "example": [
+        {
+          "file": "buru-1a",
+          "contributor": "",
+          "display": "ぶるるるるるるる",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "buru-1b",
+          "contributor": "",
+          "display": "ブル",
+          "source": "blazing_fire_brigade"
+        }
+      ]
     }],
     "literal": "buru"
   },
@@ -4114,6 +4166,28 @@
     "literal": "ehe"
   },
   {
+    "hiragana": ["えいさ"],
+    "katakana": ["エイサ"],
+    "definition": [{
+      "equivalent": [
+        "effort",
+        "exert",
+        "hngh",
+        "push",
+        "strain",
+        "urgh"
+      ],
+      "meaning": "an indication of effort",
+      "example": [{
+        "file": "eisa-1a",
+        "contributor": "",
+        "display": "エイサ!",
+        "source": "blazing_fire_brigade"
+      }]
+    }],
+    "literal": "eisa"
+  },
+  {
     "hiragana": ["ふぁあ"],
     "katakana": ["ファア"],
     "definition": [{
@@ -4131,6 +4205,34 @@
       }]
     }],
     "literal": "faa"
+  },
+  {
+    "hiragana": [
+      "ふぁさ",
+      "ふぁさぁ",
+      "ふぁさぁぁ"
+    ],
+    "katakana": [
+      "ファサ",
+      "ファサァ",
+      "ファサァァ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "smell",
+        "sniff",
+        "snuff",
+        "whiff"
+      ],
+      "meaning": "a smelling or sniffing sound",
+      "example": [{
+        "file": "fasa-1a",
+        "contributor": "",
+        "display": "ファサァァ",
+        "source": "blazing_fire_brigade"
+      }]
+    }],
+    "literal": "fasa"
   },
   {
     "hiragana": [
@@ -5854,34 +5956,56 @@
     "literal": "gatsu gatsu"
   },
   {
-    "hiragana": ["がやがや"],
-    "katakana": ["ガヤガヤ"],
-    "definition": [{
-      "equivalent": [
-        "babel babel",
-        "blah blah",
-        "bustle bustle",
-        "cacophony",
-        "chatter chatter",
-        "clamor clamor",
-        "hubbub"
-      ],
-      "meaning": "the noise of a crowd of people talking",
-      "example": [
-        {
-          "file": "gaya_gaya-1a",
+    "hiragana": [
+      "がやがや",
+      "がゃがゃ"
+    ],
+    "katakana": [
+      "ガヤガヤ",
+      "ガャガャ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "babel babel",
+          "blah blah",
+          "bustle bustle",
+          "cacophony",
+          "chatter chatter",
+          "clamor clamor",
+          "hubbub"
+        ],
+        "meaning": "the noise of a crowd of people talking",
+        "example": [
+          {
+            "file": "gaya_gaya-1a",
+            "contributor": "",
+            "display": "ガヤ  ガヤ",
+            "source": "reincarnated_farm_girl"
+          },
+          {
+            "file": "gaya_gaya-1b",
+            "contributor": "",
+            "display": "がや  がや",
+            "source": "kuma_kuma_kuma_bear"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "scree",
+          "screech",
+          "squeal"
+        ],
+        "meaning": "the squealing sound of tires spinning",
+        "example": [{
+          "file": "gaya_gaya-2a",
           "contributor": "",
-          "display": "ガヤ  ガヤ",
-          "source": "reincarnated_farm_girl"
-        },
-        {
-          "file": "gaya_gaya-1b",
-          "contributor": "",
-          "display": "がや  がや",
-          "source": "kuma_kuma_kuma_bear"
-        }
-      ]
-    }],
+          "display": "ガャ  ガャ",
+          "source": "blazing_fire_brigade"
+        }]
+      }
+    ],
     "literal": "gaya gaya"
   },
   {
@@ -6406,6 +6530,25 @@
     "literal": "gogogo"
   },
   {
+    "hiragana": ["こき"],
+    "katakana": ["コキ"],
+    "definition": [{
+      "equivalent": [
+        "crack",
+        "pop",
+        "snap"
+      ],
+      "meaning": "the sharp sound of joint or bone cracking",
+      "example": [{
+        "file": "goki-1a",
+        "contributor": "",
+        "display": "コキ",
+        "source": "blazing_fire_brigade"
+      }]
+    }],
+    "literal": "goki"
+  },
+  {
     "hiragana": [
       "ごく",
       "ごくっ"
@@ -6542,21 +6685,30 @@
     ],
     "definition": [{
       "equivalent": [
+        "bam",
         "bat",
         "biff",
         "bonk",
         "bop",
         "clip",
         "gong",
+        "hit",
+        "knock",
+        "pound",
+        "punch",
         "scuff",
+        "slam",
         "smack",
         "sock",
+        "strike",
         "swat",
         "tap",
+        "thud",
         "thump",
+        "thunk",
         "whack"
       ],
-      "meaning": "to strike something in a minor or harmless manner",
+      "meaning": "the sound of a hit or strike, often in a minor or harmless manner",
       "example": [
         {
           "file": "gon-1a",
@@ -6575,6 +6727,12 @@
           "contributor": "",
           "display": "ゴン",
           "source": "spy_x_family"
+        },
+        {
+          "file": "gon-1d",
+          "contributor": "",
+          "display": "ゴン",
+          "source": "blazing_fire_brigade"
         }
       ]
     }],
@@ -8463,7 +8621,12 @@
     "hiragana": ["じゃぶじゃぶ"],
     "katakana": ["ジャブジャブ"],
     "definition": [{
-      "equivalent": ["splash splash"],
+      "equivalent": [
+        "slosh slosh",
+        "splash splash",
+        "splish splash",
+        "sploosh sploosh"
+      ],
       "meaning": "the sound of splashing water",
       "example": [{
         "file": "jabu_jabu-1a",
@@ -10002,6 +10165,30 @@
           "display": "コォ",
           "source": "different_world_smartphone"
         }]
+      },
+      {
+        "equivalent": [
+          "bat",
+          "biff",
+          "bonk",
+          "bop",
+          "clip",
+          "gong",
+          "scuff",
+          "smack",
+          "sock",
+          "swat",
+          "tap",
+          "thump",
+          "whack"
+        ],
+        "meaning": "to strike something in a minor or harmless manner",
+        "example": [{
+          "file": "ko-3a",
+          "contributor": "",
+          "display": "コッ",
+          "source": "blazing_fire_brigade"
+        }]
       }
     ],
     "literal": "ko"
@@ -10955,13 +11142,21 @@
           "tie",
           "tighten"
         ],
-        "meaning": "to fasten or attach something with a line or cord.",
-        "example": [{
-          "file": "kyu-2a",
-          "contributor": "",
-          "display": "きゅっ",
-          "source": "dog_became_strongest"
-        }]
+        "meaning": "to fasten or tie something",
+        "example": [
+          {
+            "file": "kyu-2a",
+            "contributor": "",
+            "display": "きゅっ",
+            "source": "dog_became_strongest"
+          },
+          {
+            "file": "kyu-2b",
+            "contributor": "",
+            "display": "キュ",
+            "source": "blazing_fire_brigade"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -13562,6 +13757,12 @@
           "contributor": "",
           "display": "ピカッ",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "pika-1c",
+          "contributor": "",
+          "display": "ピカ",
+          "source": "blazing_fire_brigade"
         }
       ]
     }],
@@ -13623,6 +13824,34 @@
       }
     ],
     "literal": "piki"
+  },
+  {
+    "hiragana": [
+      "ぴきん",
+      "ぴきーん"
+    ],
+    "katakana": [
+      "ピキン",
+      "ピキーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bing",
+        "dazzle",
+        "gleeful",
+        "ping",
+        "pleased",
+        "smug"
+      ],
+      "meaning": "a quick change of expression to happiness or smugness",
+      "example": [{
+        "file": "pikin-1a",
+        "contributor": "",
+        "display": "ピキーン",
+        "source": "blazing_fire_brigade"
+      }]
+    }],
+    "literal": "pikin"
   },
   {
     "hiragana": ["ぴきぴき"],
@@ -16046,6 +16275,12 @@
             "contributor": "",
             "display": "すぅっ...",
             "source": "strongest_thread_master"
+          },
+          {
+            "file": "su-3d",
+            "contributor": "",
+            "display": "スゥ..",
+            "source": "blazing_fire_brigade"
           }
         ]
       },
@@ -17639,6 +17874,25 @@
             "source": "fushi_no_kami"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "clench",
+          "gah",
+          "groan",
+          "grunt",
+          "push",
+          "strain",
+          "struggle",
+          "urgh"
+        ],
+        "meaning": "the sound of a grunt or a groan, expressing strain or effort",
+        "example": [{
+          "file": "un-3a",
+          "contributor": "",
+          "display": "うーんん...",
+          "source": "blazing_fire_brigade"
+        }]
       }
     ],
     "literal": "un"
@@ -17696,30 +17950,83 @@
   {
     "hiragana": [
       "うぉん",
-      "うぉーん"
+      "うぉーん",
+      "うぉぉん",
+      "うぉぉぉん"
     ],
     "katakana": [
       "ウォン",
-      "ウォーン"
+      "ウォーン",
+      "ウォォン",
+      "ウォォォン"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "arf",
+          "bark",
+          "howl",
+          "ruff",
+          "woof",
+          "yowl"
+        ],
+        "meaning": "the bark or howl of a wolf",
+        "example": [{
+          "file": "uon-1a",
+          "contributor": "",
+          "display": "ウォン",
+          "source": "different_world_smartphone"
+        }]
+      },
+      {
+        "equivalent": [
+          "alarm",
+          "blare",
+          "oogah",
+          "siren",
+          "wail"
+        ],
+        "meaning": "the loud sound of an alarm or siren",
+        "example": [{
+          "file": "uon-2a",
+          "contributor": "",
+          "display": "ウォォォン",
+          "source": "blazing_fire_brigade"
+        }]
+      }
+    ],
+    "literal": "uon"
+  },
+  {
+    "hiragana": [
+      "うぉんうぉん",
+      "うぉぉんうぉぉん",
+      "うぉぉぉんうぉぉぉん"
+    ],
+    "katakana": [
+      "ウォンウォン",
+      "ウォォンウォォン",
+      "ウォォォンウォォォン"
     ],
     "definition": [{
       "equivalent": [
-        "arf",
-        "bark",
-        "howl",
-        "ruff",
-        "woof",
-        "yowl"
+        "alarm",
+        "blare",
+        "nee naw",
+        "oogah oogah",
+        "siren",
+        "wail",
+        "wee woo"
       ],
-      "meaning": "the bark or howl of a wolf",
+      "meaning": "the loud sound of an alarm or siren",
       "example": [{
-        "file": "uon-1a",
+        "file": "uon_uon-1a",
         "contributor": "",
-        "display": "ウォン",
-        "source": "different_world_smartphone"
+        "display": "ウォォォン  ウォォォン",
+        "source": "blazing_fire_brigade"
       }]
     }],
-    "literal": "uon"
+    "literal": "uon uon"
   },
   {
     "hiragana": ["うろうろ"],
@@ -18638,18 +18945,33 @@
       },
       {
         "equivalent": [
-          "sah-shaa",
-          "shaa",
+          "fwoosh fwoosh",
+          "gush",
+          "pour",
+          "pssh pssh",
+          "shaa shaa",
+          "splash",
+          "sploosh",
+          "spray",
           "surf",
+          "swash",
           "waves"
         ],
-        "meaning": "the rolling sound of waves",
-        "example": [{
-          "file": "za_za-2a",
-          "contributor": "",
-          "display": "ザザ",
-          "source": "buy_the_land"
-        }]
+        "meaning": "the sound of moving water",
+        "example": [
+          {
+            "file": "za_za-2a",
+            "contributor": "",
+            "display": "ザザ",
+            "source": "buy_the_land"
+          },
+          {
+            "file": "za_za-2b",
+            "contributor": "",
+            "display": "ザザザザ",
+            "source": "blazing_fire_brigade"
+          }
+        ]
       }
     ],
     "literal": "za za"

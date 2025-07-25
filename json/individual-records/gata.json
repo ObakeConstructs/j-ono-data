@@ -2,20 +2,23 @@
   "literal": "gata",
   "katakana": [
     "ガタ",
-    "ガタッ"
+    "ガタッ",
+    "ガタャ"
   ],
   "hiragana": [
     "がた",
-    "がたっ"
+    "がたっ",
+    "がたゃ"
   ],
   "definition": [
     {
-      "meaning": "the sound of wood clattering on something hard, as when a chair or stool is moved",
+      "meaning": "a rattling or clattering sound, typically wooden, often used to express standing up from a chair",
       "equivalent": [
         "clatter",
         "clunk",
         "creak",
-        "rattle"
+        "rattle",
+        "click"
       ],
       "example": [
         {
@@ -40,6 +43,12 @@
           "source": "otherworld_material_collector",
           "file": "gata-1d",
           "display": "ガタッ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "gata-1e",
+          "display": "ガタャ",
           "contributor": ""
         }
       ]

@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "to strike something in a minor or harmless manner",
+      "meaning": "the sound of a hit or strike, often in a minor or harmless manner",
       "equivalent": [
         "bat",
         "biff",
@@ -22,9 +22,18 @@
         "smack",
         "sock",
         "swat",
+        "tap",
         "thump",
         "whack",
-        "tap"
+        "bam",
+        "hit",
+        "knock",
+        "pound",
+        "punch",
+        "slam",
+        "strike",
+        "thud",
+        "thunk"
       ],
       "example": [
         {
@@ -42,6 +51,12 @@
         {
           "source": "spy_x_family",
           "file": "gon-1c",
+          "display": "ゴン",
+          "contributor": ""
+        },
+        {
+          "source": "blazing_fire_brigade",
+          "file": "gon-1d",
           "display": "ゴン",
           "contributor": ""
         }

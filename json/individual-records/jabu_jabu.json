@@ -1,15 +1,28 @@
 {
-  "hiragana": ["じゃぶじゃぶ"],
-  "katakana": ["ジャブジャブ"],
-  "definition": [{
-    "equivalent": ["splash splash"],
-    "meaning": "the sound of splashing water",
-    "example": [{
-      "file": "jabu_jabu-1a",
-      "contributor": "",
-      "display": "ジャブ  ジャブ",
-      "source": "reincarnated_farm_girl"
-    }]
-  }],
-  "literal": "jabu jabu"
+  "literal": "jabu jabu",
+  "katakana": [
+    "ジャブジャブ"
+  ],
+  "hiragana": [
+    "じゃぶじゃぶ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of splashing water",
+      "equivalent": [
+        "splash splash",
+        "splish splash",
+        "slosh slosh",
+        "sploosh sploosh"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "jabu_jabu-1a",
+          "display": "ジャブ  ジャブ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

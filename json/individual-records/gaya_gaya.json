@@ -1,31 +1,55 @@
 {
-  "hiragana": ["がやがや"],
-  "katakana": ["ガヤガヤ"],
-  "definition": [{
-    "equivalent": [
-      "babel babel",
-      "blah blah",
-      "bustle bustle",
-      "cacophony",
-      "chatter chatter",
-      "clamor clamor",
-      "hubbub"
-    ],
-    "meaning": "the noise of a crowd of people talking",
-    "example": [
-      {
-        "file": "gaya_gaya-1a",
-        "contributor": "",
-        "display": "ガヤ  ガヤ",
-        "source": "reincarnated_farm_girl"
-      },
-      {
-        "file": "gaya_gaya-1b",
-        "contributor": "",
-        "display": "がや  がや",
-        "source": "kuma_kuma_kuma_bear"
-      }
-    ]
-  }],
-  "literal": "gaya gaya"
+  "literal": "gaya gaya",
+  "katakana": [
+    "ガヤガヤ",
+    "ガャガャ"
+  ],
+  "hiragana": [
+    "がやがや",
+    "がゃがゃ"
+  ],
+  "definition": [
+    {
+      "meaning": "the noise of a crowd of people talking",
+      "equivalent": [
+        "babel babel",
+        "blah blah",
+        "bustle bustle",
+        "cacophony",
+        "chatter chatter",
+        "clamor clamor",
+        "hubbub"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "gaya_gaya-1a",
+          "display": "ガヤ  ガヤ",
+          "contributor": ""
+        },
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "gaya_gaya-1b",
+          "display": "がや  がや",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the squealing sound of tires spinning",
+      "equivalent": [
+        "squeal",
+        "screech",
+        "scree"
+      ],
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "gaya_gaya-2a",
+          "display": "ガャ  ガャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

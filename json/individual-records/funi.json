@@ -8,19 +8,28 @@
   ],
   "definition": [
     {
-      "meaning": "a caressing or rubbing motion",
+      "meaning": "a soft, pliable or fluffy sensation",
       "equivalent": [
-        "caress",
-        "rub",
         "soft",
-        "stroke",
+        "pliable",
+        "fluffy",
+        "gentle",
+        "spongy",
+        "squishy",
+        "mushy",
         "tender"
       ],
       "example": [
         {
           "source": "hone_dragon",
           "file": "funi-1a",
-          "display": "ふに.",
+          "display": "ふに",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "funi-1b",
+          "display": "ふに",
           "contributor": ""
         }
       ]

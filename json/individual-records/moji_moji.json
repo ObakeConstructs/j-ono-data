@@ -11,14 +11,20 @@
       "meaning": "an expression of shyness or hesitation",
       "equivalent": [
         "bashful",
-        "hesitation",
         "embarrassed",
+        "hesitation",
         "shy"
       ],
       "example": [
         {
           "source": "nete_kunoichi",
           "file": "moji_moji-1a",
+          "display": "もじ  もじ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "moji_moji-1b",
           "display": "もじ  もじ",
           "contributor": ""
         }

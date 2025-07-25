@@ -14,10 +14,10 @@
     {
       "meaning": "to squeeze lightly or softly",
       "equivalent": [
-        "grasp",
-        "hold",
+        "cradle",
         "gently",
-        "cradle"
+        "grasp",
+        "hold"
       ],
       "example": [
         {
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "meaning": "to fasten or attach something with a line or cord.",
+      "meaning": "to fasten or tie something",
       "equivalent": [
         "bind",
         "cinch",
@@ -49,6 +49,12 @@
           "source": "dog_became_strongest",
           "file": "kyu-2a",
           "display": "きゅっ",
+          "contributor": ""
+        },
+        {
+          "source": "blazing_fire_brigade",
+          "file": "kyu-2b",
+          "display": "キュ",
           "contributor": ""
         }
       ]

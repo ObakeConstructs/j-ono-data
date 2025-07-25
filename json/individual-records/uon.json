@@ -1,28 +1,54 @@
 {
-  "hiragana": [
-    "うぉん",
-    "うぉーん"
-  ],
+  "literal": "uon",
   "katakana": [
     "ウォン",
-    "ウォーン"
+    "ウォーン",
+    "ウォォン",
+    "ウォォォン"
   ],
-  "definition": [{
-    "equivalent": [
-      "arf",
-      "bark",
-      "howl",
-      "ruff",
-      "woof",
-      "yowl"
-    ],
-    "meaning": "the bark or howl of a wolf",
-    "example": [{
-      "file": "uon-1a",
-      "contributor": "",
-      "display": "ウォン",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "uon"
+  "hiragana": [
+    "うぉん",
+    "うぉーん",
+    "うぉぉん",
+    "うぉぉぉん"
+  ],
+  "definition": [
+    {
+      "meaning": "the bark or howl of a wolf",
+      "equivalent": [
+        "arf",
+        "bark",
+        "howl",
+        "ruff",
+        "woof",
+        "yowl"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "uon-1a",
+          "display": "ウォン",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the loud sound of an alarm or siren",
+      "equivalent": [
+        "wail",
+        "blare",
+        "siren",
+        "alarm",
+        "oogah"
+      ],
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "uon-2a",
+          "display": "ウォォォン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

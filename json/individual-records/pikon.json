@@ -26,11 +26,31 @@
           "file": "pikon-1a",
           "display": "ピコン",
           "contributor": ""
-        },
+        }
+      ]
+    },
+    {
+      "meaning": "an endearing, cute or slightly embarrassing reaction, typically momentary",
+      "equivalent": [
+        "startle",
+        "surprise",
+        "react",
+        "twitch",
+        "squirm",
+        "embarrass",
+        "realize"
+      ],
+      "example": [
         {
           "source": "reincarnated_as_a_dragon_egg",
-          "file": "pikon-1b",
+          "file": "pikon-2a",
           "display": "ピコーン",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "pikon-2b",
+          "display": "ぴこん",
           "contributor": ""
         }
       ]

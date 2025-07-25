@@ -41,18 +41,31 @@
       ]
     },
     {
-      "meaning": "the rolling sound of waves",
+      "meaning": "the sound of moving water",
       "equivalent": [
-        "shaa",
-        "sah-shaa",
+        "shaa shaa",
+        "surf",
         "waves",
-        "surf"
+        "pssh pssh",
+        "spray",
+        "pour",
+        "splash",
+        "sploosh",
+        "swash",
+        "gush",
+        "fwoosh fwoosh"
       ],
       "example": [
         {
           "source": "buy_the_land",
           "file": "za_za-2a",
           "display": "ザザ",
+          "contributor": ""
+        },
+        {
+          "source": "blazing_fire_brigade",
+          "file": "za_za-2b",
+          "display": "ザザザザ",
           "contributor": ""
         }
       ]

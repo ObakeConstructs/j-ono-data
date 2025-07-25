@@ -100,19 +100,37 @@
       ]
     },
     {
-      "meaning": "to reveal or show something",
+      "meaning": "to reveal or show something suddenly",
       "equivalent": [
-        "show",
-        "reveal",
         "display",
-        "unveil",
-        "ta-da"
+        "reveal",
+        "show",
+        "ta-da",
+        "unveil"
       ],
       "example": [
         {
           "source": "spy_x_family",
           "file": "ba-4a",
           "display": "ばっ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an expression of realization or understanding",
+      "equivalent": [
+        "realize",
+        "understand",
+        "of course",
+        "jolt",
+        "epiphany"
+      ],
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "ba-5a",
+          "display": "バッ",
           "contributor": ""
         }
       ]
