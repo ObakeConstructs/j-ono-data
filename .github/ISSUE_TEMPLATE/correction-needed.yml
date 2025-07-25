@@ -18,7 +18,7 @@ body:
     id: field
     attributes:
       label: Problem Fields
-      description: Which specific field(s) have this translation problem?
+      description: Which specific field(s) need attention?
       options:
         - label: japanese
         - label: literal
