@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to suggest a new example image.  Be sure to include the Japanese onomatopoeia is in the title of the issue (either katakana or hiragana).
+        Thanks for taking the time to suggest a new example image.  Be sure to include the Japanese onomatopoeia in the title of the issue (either katakana or hiragana).
   - type: input
     id: literal
     attributes:
