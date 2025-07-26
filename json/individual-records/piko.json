@@ -1,0 +1,31 @@
+{
+  "literal": "piko",
+  "katakana": [
+    "ピコ",
+    "ピコッ"
+  ],
+  "hiragana": [
+    "ぴこ",
+    "ぴこっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a small jerk or twitch",
+      "equivalent": [
+        "flinch",
+        "quiver",
+        "shake",
+        "twitch",
+        "wince"
+      ],
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "piko-1a",
+          "display": "ピコッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

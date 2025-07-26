@@ -1,12 +1,12 @@
 {
-  "literal": "gyo",
+  "literal": "pisha",
   "katakana": [
-    "ギョ",
-    "ギョッ"
+    "ピシャ",
+    "ピシャッ"
   ],
   "hiragana": [
-    "ぎょ",
-    "ぎょっ"
+    "ぴしゃ",
+    "ぴしゃッ"
   ],
   "definition": [
     {
@@ -22,15 +22,9 @@
       ],
       "example": [
         {
-          "source": "isekai_av_filming",
-          "file": "gyo-1a",
-          "display": "ぎょっ",
-          "contributor": ""
-        },
-        {
           "source": "uncle_at_heart",
-          "file": "gyo-1b",
-          "display": "ぎょっ",
+          "file": "pisha-1a",
+          "display": "ピシャッ",
           "contributor": ""
         }
       ]

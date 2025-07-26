@@ -23,17 +23,23 @@
           "file": "suton-1a",
           "display": "ストン",
           "contributor": ""
+        },
+        {
+          "source": "uncle_at_heart",
+          "file": "suton-1b",
+          "display": "すとん",
+          "contributor": ""
         }
       ]
     },
     {
       "meaning": "to set something down",
       "equivalent": [
-        "set",
-        "plop",
         "drop",
         "place",
-        "plonk"
+        "plonk",
+        "plop",
+        "set"
       ],
       "example": [
         {

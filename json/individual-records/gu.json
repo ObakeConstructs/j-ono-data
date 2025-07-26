@@ -88,7 +88,7 @@
       ]
     },
     {
-      "meaning": "the breath hard as an expression of pain",
+      "meaning": "breathing hard as an expression of pain",
       "equivalent": [
         "breath",
         "gasp",
@@ -101,13 +101,13 @@
         {
           "source": "world_full_of_monsters",
           "file": "gu-3a",
-          "display": "ぐっ",
+          "display": "ぐっ...",
           "contributor": ""
         }
       ]
     },
     {
-      "meaning": "the sound of a stomach growling, expressing hunger",
+      "meaning": "the sound of a stomach growling, indicating hunger",
       "equivalent": [
         "growl",
         "grr",
@@ -137,6 +137,22 @@
         {
           "source": "strongest_thread_master",
           "file": "gu-5a",
+          "display": "ぐっ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "to look at someone or something with anger or disapproval",
+      "equivalent": [
+        "glare",
+        "glower",
+        "stare"
+      ],
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "gu-6a",
           "display": "ぐっ",
           "contributor": ""
         }

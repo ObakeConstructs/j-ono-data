@@ -2703,6 +2703,12 @@
           "contributor": "",
           "display": "チャリ",
           "source": "weakest_occupation_blacksmith"
+        },
+        {
+          "file": "chari-1c",
+          "contributor": "",
+          "display": "チャリ..",
+          "source": "uncle_at_heart"
         }
       ]
     }],
@@ -3449,34 +3455,54 @@
       "ドキ",
       "ドキッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "ba-dump",
-        "heartbeat",
-        "thump"
-      ],
-      "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
-      "example": [
-        {
-          "file": "doki-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "ba-dump",
+          "heartbeat",
+          "thump"
+        ],
+        "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
+        "example": [
+          {
+            "file": "doki-1a",
+            "contributor": "",
+            "display": "ドキッ",
+            "source": "isekai_territory_reform"
+          },
+          {
+            "file": "doki-1b",
+            "contributor": "",
+            "display": "ドキッ",
+            "source": "isekai_pickup"
+          },
+          {
+            "file": "doki-1c",
+            "contributor": "",
+            "display": "ドキッ",
+            "source": "human_ranch"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "bump",
+          "feel",
+          "jab",
+          "nudge",
+          "poke",
+          "prod",
+          "stroke"
+        ],
+        "meaning": "indication of a light or gentle poke or prod",
+        "example": [{
+          "file": "doki-2a",
           "contributor": "",
-          "display": "ドキッ",
-          "source": "isekai_territory_reform"
-        },
-        {
-          "file": "doki-1b",
-          "contributor": "",
-          "display": "ドキッ",
-          "source": "isekai_pickup"
-        },
-        {
-          "file": "doki-1c",
-          "contributor": "",
-          "display": "ドキッ",
-          "source": "human_ranch"
-        }
-      ]
-    }],
+          "display": "どき",
+          "source": "uncle_at_heart"
+        }]
+      }
+    ],
     "literal": "doki"
   },
   {
@@ -3595,6 +3621,12 @@
             "contributor": "",
             "display": "ドンッ",
             "source": "strongest_magician_was_human"
+          },
+          {
+            "file": "don-1f",
+            "contributor": "",
+            "display": "どんっ",
+            "source": "uncle_at_heart"
           }
         ]
       },
@@ -5203,7 +5235,7 @@
       ],
       "meaning": "to bite or chew on something",
       "example": [{
-        "file": "gaji_1a",
+        "file": "gaji-1a",
         "contributor": "",
         "display": "がじっ",
         "source": "abandoned_reincarnation_sage"
@@ -5461,16 +5493,27 @@
         "thud thud",
         "thump thump",
         "thunk thunk",
+        "ting ting",
+        "ting tink",
+        "tonk tonk",
         "whack whack",
         "wham wham"
       ],
-      "meaning": "a series of strong impact noises",
-      "example": [{
-        "file": "gan_gan_1a",
-        "contributor": "",
-        "display": "ガン  ガン  ガン  ガン",
-        "source": "peter_grill"
-      }]
+      "meaning": "a series of sharp impact noises",
+      "example": [
+        {
+          "file": "gan_gan-1a",
+          "contributor": "",
+          "display": "ガン  ガン  ガン  ガン",
+          "source": "peter_grill"
+        },
+        {
+          "file": "gan_gan-1b",
+          "contributor": "",
+          "display": "ガン  ガン  ガン",
+          "source": "uncle_at_heart"
+        }
+      ]
     }],
     "literal": "gan gan"
   },
@@ -5887,6 +5930,25 @@
       }]
     }],
     "literal": "gatan"
+  },
+  {
+    "hiragana": ["がたんごとん"],
+    "katakana": ["ガタンゴトン"],
+    "definition": [{
+      "equivalent": [
+        "clackety clack",
+        "clickety clack",
+        "gachunk gachunk"
+      ],
+      "meaning": "the rythmic sound of a train moving on a track",
+      "example": [{
+        "file": "gatan_gaton-1a",
+        "contributor": "",
+        "display": "ガタン  ゴトン",
+        "source": "uncle_at_heart"
+      }]
+    }],
+    "literal": "gatan gaton"
   },
   {
     "hiragana": ["がたがた"],
@@ -7150,11 +7212,11 @@
           "puff",
           "wheeze"
         ],
-        "meaning": "the breath hard as an expression of pain",
+        "meaning": "breathing hard as an expression of pain",
         "example": [{
           "file": "gu-3a",
           "contributor": "",
-          "display": "ぐっ",
+          "display": "ぐっ...",
           "source": "world_full_of_monsters"
         }]
       },
@@ -7164,7 +7226,7 @@
           "grr",
           "rumble"
         ],
-        "meaning": "the sound of a stomach growling, expressing hunger",
+        "meaning": "the sound of a stomach growling, indicating hunger",
         "example": [
           {
             "file": "gu-4a",
@@ -7188,6 +7250,20 @@
           "contributor": "",
           "display": "ぐっ",
           "source": "strongest_thread_master"
+        }]
+      },
+      {
+        "equivalent": [
+          "glare",
+          "glower",
+          "stare"
+        ],
+        "meaning": "to look at someone or something with anger or disapproval",
+        "example": [{
+          "file": "gu-6a",
+          "contributor": "",
+          "display": "ぐっ",
+          "source": "uncle_at_heart"
         }]
       }
     ],
@@ -7610,12 +7686,20 @@
         "surprised"
       ],
       "meaning": "an expression of shock or disbelief",
-      "example": [{
-        "file": "gyo-1a",
-        "contributor": "",
-        "display": "ぎょっ",
-        "source": "isekai_av_filming"
-      }]
+      "example": [
+        {
+          "file": "gyo-1a",
+          "contributor": "",
+          "display": "ぎょっ",
+          "source": "isekai_av_filming"
+        },
+        {
+          "file": "gyo-1b",
+          "contributor": "",
+          "display": "ぎょっ",
+          "source": "uncle_at_heart"
+        }
+      ]
     }],
     "literal": "gyo"
   },
@@ -7931,6 +8015,26 @@
       }]
     }],
     "literal": "hamu"
+  },
+  {
+    "hiragana": ["はむはむ"],
+    "katakana": ["ハムハム"],
+    "definition": [{
+      "equivalent": [
+        "bite bite",
+        "chew chew",
+        "gnaw gnaw",
+        "nom nom"
+      ],
+      "meaning": "the sound of eating or chewing",
+      "example": [{
+        "file": "hamu_hamu-1a",
+        "contributor": "",
+        "display": "はむ  はむ",
+        "source": "uncle_at_heart"
+      }]
+    }],
+    "literal": "hamu hamu"
   },
   {
     "hiragana": [
@@ -9648,6 +9752,12 @@
           "contributor": "",
           "display": "カサ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "kasa-1c",
+          "contributor": "",
+          "display": "カサッ",
+          "source": "uncle_at_heart"
         }
       ]
     }],
@@ -9741,6 +9851,27 @@
       }]
     }],
     "literal": "katata"
+  },
+  {
+    "hiragana": ["かたかた"],
+    "katakana": ["カタカタ"],
+    "definition": [{
+      "equivalent": [
+        "click click",
+        "clickety click",
+        "tacka tack",
+        "tap tap",
+        "ticka tick"
+      ],
+      "meaning": "the rythmic sound of typing on a modern keyboard",
+      "example": [{
+        "file": "kata_kata-1a",
+        "contributor": "",
+        "display": "カタ  カタ  カタ",
+        "source": "uncle_at_heart"
+      }]
+    }],
+    "literal": "kata katata"
   },
   {
     "hiragana": ["かつん"],
@@ -11564,12 +11695,26 @@
         "stand up"
       ],
       "meaning": "to sit up or stand up",
-      "example": [{
-        "file": "muku-1a",
-        "contributor": "",
-        "display": "ムクッ",
-        "source": "otherworld_material_collector"
-      }]
+      "example": [
+        {
+          "file": "muku-1a",
+          "contributor": "",
+          "display": "ムクッ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "muku-1b",
+          "contributor": "",
+          "display": "むく...",
+          "source": "uncle_at_heart"
+        },
+        {
+          "file": "muku-1c",
+          "contributor": "",
+          "display": "むくっ",
+          "source": "uncle_at_heart"
+        }
+      ]
     }],
     "literal": "muku"
   },
@@ -12017,6 +12162,12 @@
           "contributor": "",
           "display": "ニコ",
           "source": "fushi_no_kami"
+        },
+        {
+          "file": "niko-1e",
+          "contributor": "",
+          "display": "にこ",
+          "source": "uncle_at_heart"
         }
       ]
     }],
@@ -12504,6 +12655,12 @@
             "contributor": "",
             "display": "パチッ",
             "source": "strongest_thread_master"
+          },
+          {
+            "file": "pachi-1d",
+            "contributor": "",
+            "display": "パチ",
+            "source": "uncle_at_heart"
           }
         ]
       },
@@ -12527,6 +12684,12 @@
             "contributor": "",
             "display": "ぱちっ",
             "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "pachi-2c",
+            "contributor": "",
+            "display": "ぱち",
+            "source": "uncle_at_heart"
           }
         ]
       }
@@ -13874,6 +14037,33 @@
   },
   {
     "hiragana": [
+      "ぴこ",
+      "ぴこっ"
+    ],
+    "katakana": [
+      "ピコ",
+      "ピコッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "flinch",
+        "quiver",
+        "shake",
+        "twitch",
+        "wince"
+      ],
+      "meaning": "a small jerk or twitch",
+      "example": [{
+        "file": "piko-1a",
+        "contributor": "",
+        "display": "ピコッ",
+        "source": "uncle_at_heart"
+      }]
+    }],
+    "literal": "piko"
+  },
+  {
+    "hiragana": [
       "ぴこん",
       "ぴこーん"
     ],
@@ -14175,6 +14365,35 @@
       }]
     }],
     "literal": "pirorin"
+  },
+  {
+    "hiragana": [
+      "ぴしゃ",
+      "ぴしゃッ"
+    ],
+    "katakana": [
+      "ピシャ",
+      "ピシャッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "aghast",
+        "appalled",
+        "astounded",
+        "flabbergasted",
+        "shocked",
+        "stunned",
+        "surprised"
+      ],
+      "meaning": "an expression of shock or disbelief",
+      "example": [{
+        "file": "pisha-1a",
+        "contributor": "",
+        "display": "ピシャッ",
+        "source": "uncle_at_heart"
+      }]
+    }],
+    "literal": "pisha"
   },
   {
     "hiragana": [
@@ -14631,7 +14850,7 @@
           "source": "spy_x_family"
         },
         {
-          "file": "pon_pon_1b",
+          "file": "pon_pon-1b",
           "contributor": "",
           "display": "ポン  ポン",
           "source": "abandoned_reincarnation_sage"
@@ -14707,13 +14926,21 @@
         "slip",
         "topple"
       ],
-      "meaning": "the sound of something slipping or falling",
-      "example": [{
-        "file": "poro-1a",
-        "contributor": "",
-        "display": "ポロ",
-        "source": "komi_cant_communicate"
-      }]
+      "meaning": "an indication of something slipping or falling",
+      "example": [
+        {
+          "file": "poro-1a",
+          "contributor": "",
+          "display": "ポロ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "poro-1b",
+          "contributor": "",
+          "display": "ポロ...",
+          "source": "uncle_at_heart"
+        }
+      ]
     }],
     "literal": "poro"
   },
@@ -14770,6 +14997,26 @@
       }]
     }],
     "literal": "poto"
+  },
+  {
+    "hiragana": ["ぽつん"],
+    "katakana": ["ポツン"],
+    "definition": [{
+      "equivalent": [
+        "alone",
+        "isolated",
+        "lonely",
+        "secluded"
+      ],
+      "meaning": "an expression of isolation or loneliness",
+      "example": [{
+        "file": "potsun-1a",
+        "contributor": "",
+        "display": "ポツン",
+        "source": "uncle_at_heart"
+      }]
+    }],
+    "literal": "potsun"
   },
   {
     "hiragana": [
@@ -14897,7 +15144,7 @@
             "source": "abandoned_reincarnation_sage"
           },
           {
-            "file": "pu_1c",
+            "file": "pu-1c",
             "contributor": "",
             "display": "プッ",
             "source": "peter_grill"
@@ -15465,8 +15712,8 @@
   },
   {
     "hiragana": [
-      "サ",
-      "サッ",
+      "さ",
+      "さっ",
       "さー",
       "さーっ",
       "さぁ",
@@ -15548,6 +15795,12 @@
             "contributor": "",
             "display": "サッ",
             "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "sa-3c",
+            "contributor": "",
+            "display": "さっ",
+            "source": "uncle_at_heart"
           }
         ]
       },
@@ -15568,6 +15821,22 @@
           "contributor": "",
           "display": "サアッ",
           "source": "hanako_24th_ward"
+        }]
+      },
+      {
+        "equivalent": [
+          "plod",
+          "shuffle",
+          "step",
+          "tap",
+          "walk"
+        ],
+        "meaning": "a soft step",
+        "example": [{
+          "file": "sa-5a",
+          "contributor": "",
+          "display": "さあ...",
+          "source": "uncle_at_heart"
         }]
       }
     ],
@@ -15847,6 +16116,33 @@
       }]
     }],
     "literal": "shi shi"
+  },
+  {
+    "hiragana": [
+      "しょわ",
+      "しょわわ"
+    ],
+    "katakana": [
+      "ショワ",
+      "ショワワ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "pee",
+        "piddle",
+        "piss",
+        "pissing",
+        "urine"
+      ],
+      "meaning": "an indication of involuntary urination",
+      "example": [{
+        "file": "showa-1a",
+        "contributor": "",
+        "display": "しょわ...",
+        "source": "uncle_at_heart"
+      }]
+    }],
+    "literal": "showa"
   },
   {
     "hiragana": [
@@ -16295,12 +16591,20 @@
           "raise"
         ],
         "meaning": "the act of lifting something up",
-        "example": [{
-          "file": "su-4a",
-          "contributor": "",
-          "display": "スッ",
-          "source": "different_world_smartphone"
-        }]
+        "example": [
+          {
+            "file": "su-4a",
+            "contributor": "",
+            "display": "スッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "su-4b",
+            "contributor": "",
+            "display": "す...",
+            "source": "uncle_at_heart"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -16775,12 +17079,20 @@
           "squat"
         ],
         "meaning": "to sit or squat down",
-        "example": [{
-          "file": "suton-1a",
-          "contributor": "",
-          "display": "ストン",
-          "source": "dog_became_strongest"
-        }]
+        "example": [
+          {
+            "file": "suton-1a",
+            "contributor": "",
+            "display": "ストン",
+            "source": "dog_became_strongest"
+          },
+          {
+            "file": "suton-1b",
+            "contributor": "",
+            "display": "すとん",
+            "source": "uncle_at_heart"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -17970,7 +18282,7 @@
           "woof",
           "yowl"
         ],
-        "meaning": "the bark or howl of a wolf",
+        "meaning": "the bark or howl of a wolf or large dog",
         "example": [{
           "file": "uon-1a",
           "contributor": "",
@@ -18501,6 +18813,31 @@
     "literal": "yoro"
   },
   {
+    "hiragana": ["よたよた"],
+    "katakana": ["ヨタヨタ"],
+    "definition": [{
+      "equivalent": [
+        "careen",
+        "clumsy",
+        "lurch lurch",
+        "shuffle shuffle",
+        "stagger stagger",
+        "sway sway",
+        "totter totter",
+        "unsteady",
+        "waddle waddle"
+      ],
+      "meaning": "an indication of unsteadiness or clumsiness",
+      "example": [{
+        "file": "yota_yota-1a",
+        "contributor": "",
+        "display": "よた  よた",
+        "source": "uncle_at_heart"
+      }]
+    }],
+    "literal": "yota yota"
+  },
+  {
     "hiragana": [
       "ゆら",
       "ゆらっ"
@@ -18871,6 +19208,12 @@
           "contributor": "",
           "display": "ざわ  ざわ  ざわ",
           "source": "dungeon_dining_room"
+        },
+        {
+          "file": "zawa_zawa-1d",
+          "contributor": "",
+          "display": "ざわ  ざわ",
+          "source": "uncle_at_heart"
         }
       ]
     }],

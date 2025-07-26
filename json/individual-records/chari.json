@@ -1,38 +1,46 @@
 {
-  "hiragana": [
-    "ちゃり",
-    "ちゃりり",
-    "ちゃりりり"
-  ],
+  "literal": "chari",
   "katakana": [
     "チャリ",
     "チャリリ",
     "チャリリリ"
   ],
-  "definition": [{
-    "equivalent": [
-      "ching",
-      "clink",
-      "jingle",
-      "ting",
-      "tink",
-      "tinkle"
-    ],
-    "meaning": "a sharp light sound of rattling metal or glass",
-    "example": [
-      {
-        "file": "chari-1a",
-        "contributor": "",
-        "display": "チャリリリ",
-        "source": "hello_work"
-      },
-      {
-        "file": "chari-1b",
-        "contributor": "",
-        "display": "チャリ",
-        "source": "weakest_occupation_blacksmith"
-      }
-    ]
-  }],
-  "literal": "chari"
+  "hiragana": [
+    "ちゃり",
+    "ちゃりり",
+    "ちゃりりり"
+  ],
+  "definition": [
+    {
+      "meaning": "a sharp light sound of rattling metal or glass",
+      "equivalent": [
+        "ching",
+        "clink",
+        "jingle",
+        "ting",
+        "tink",
+        "tinkle"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "chari-1a",
+          "display": "チャリリリ",
+          "contributor": ""
+        },
+        {
+          "source": "weakest_occupation_blacksmith",
+          "file": "chari-1b",
+          "display": "チャリ",
+          "contributor": ""
+        },
+        {
+          "source": "uncle_at_heart",
+          "file": "chari-1c",
+          "display": "チャリ..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

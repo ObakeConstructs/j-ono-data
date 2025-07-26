@@ -8,7 +8,7 @@
   ],
   "definition": [
     {
-      "meaning": "a series of strong impact noises",
+      "meaning": "a series of sharp impact noises",
       "equivalent": [
         "bam bam",
         "bang bang",
@@ -16,17 +16,26 @@
         "smack smack",
         "smash smash",
         "thud thud",
-        "thump thump",
         "thud thud",
+        "thump thump",
         "thunk thunk",
         "whack whack",
-        "wham wham"
+        "wham wham",
+        "ting ting",
+        "ting tink",
+        "tonk tonk"
       ],
       "example": [
         {
           "source": "peter_grill",
-          "file": "gan_gan_1a",
+          "file": "gan_gan-1a",
           "display": "ガン  ガン  ガン  ガン",
+          "contributor": ""
+        },
+        {
+          "source": "uncle_at_heart",
+          "file": "gan_gan-1b",
+          "display": "ガン  ガン  ガン",
           "contributor": ""
         }
       ]

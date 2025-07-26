@@ -1,15 +1,5 @@
 {
-  "hiragana": [
-    "サ",
-    "サッ",
-    "さー",
-    "さーっ",
-    "さぁ",
-    "さぁぁ",
-    "さぁぁぁ",
-    "さあ",
-    "さあっ"
-  ],
+  "literal": "sa",
   "katakana": [
     "サ",
     "サッ",
@@ -21,8 +11,20 @@
     "サア",
     "サアッ"
   ],
+  "hiragana": [
+    "さ",
+    "さっ",
+    "さー",
+    "さーっ",
+    "さぁ",
+    "さぁぁ",
+    "さぁぁぁ",
+    "さあ",
+    "さあっ"
+  ],
   "definition": [
     {
+      "meaning": "soft sounds of rain or shower",
       "equivalent": [
         "drizzle",
         "drops",
@@ -31,15 +33,17 @@
         "shaa",
         "sss"
       ],
-      "meaning": "soft sounds of rain or shower",
-      "example": [{
-        "file": "sa-1a",
-        "contributor": "",
-        "display": "サァァァ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "sa-1a",
+          "display": "サァァァ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "an expression of worry or stress",
       "equivalent": [
         "chill",
         "dismay",
@@ -48,15 +52,17 @@
         "unnerve",
         "worry"
       ],
-      "meaning": "an expression of worry or stress",
-      "example": [{
-        "file": "sa-2a",
-        "contributor": "",
-        "display": "サァ",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "sa-2a",
+          "display": "サァ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
       "equivalent": [
         "avoid",
         "back up",
@@ -70,23 +76,29 @@
         "scoot",
         "sidestep"
       ],
-      "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "sa-3a",
-          "contributor": "",
           "display": "サッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_aristocrat",
           "file": "sa-3b",
-          "contributor": "",
           "display": "サッ",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
+        },
+        {
+          "source": "uncle_at_heart",
+          "file": "sa-3c",
+          "display": "さっ",
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "a loud noise of water splashing",
       "equivalent": [
         "gush",
         "jet",
@@ -97,14 +109,32 @@
         "spout",
         "swash"
       ],
-      "meaning": "a loud noise of water splashing",
-      "example": [{
-        "file": "sa-4a",
-        "contributor": "",
-        "display": "サアッ",
-        "source": "hanako_24th_ward"
-      }]
+      "example": [
+        {
+          "source": "hanako_24th_ward",
+          "file": "sa-4a",
+          "display": "サアッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a soft step",
+      "equivalent": [
+        "plod",
+        "shuffle",
+        "step",
+        "tap",
+        "walk"
+      ],
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "sa-5a",
+          "display": "さあ...",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "sa"
+  ]
 }
