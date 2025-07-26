@@ -1,20 +1,28 @@
 {
-  "hiragana": ["じろ"],
-  "katakana": ["ジロ"],
-  "definition": [{
-    "equivalent": [
-      "gape",
-      "gawk",
-      "peer",
-      "stare"
-    ],
-    "meaning": "a good hard stare at someone or something",
-    "example": [{
-      "file": "jiro-1a",
-      "contributor": "",
-      "display": "じろ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "jiro"
+  "literal": "jiro",
+  "katakana": [
+    "ジロ"
+  ],
+  "hiragana": [
+    "じろ"
+  ],
+  "definition": [
+    {
+      "meaning": "a good hard stare at someone or something",
+      "equivalent": [
+        "gape",
+        "gawk",
+        "peer",
+        "stare"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "jiro-1a",
+          "display": "じろ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

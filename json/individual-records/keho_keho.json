@@ -12,17 +12,17 @@
     {
       "meaning": "the sound of someone struggling to breath",
       "equivalent": [
-        "wheeze wheeze",
+        "cough cough",
         "gasp gasp",
-        "pant pant",
         "huff huff",
-        "cough cough"
+        "pant pant",
+        "wheeze wheeze"
       ],
       "example": [
         {
           "source": "nete_kunoichi",
           "file": "keho_keho-1a",
-          "display": "ケホッ  ケホ",
+          "display": "ケホッ  ケホ...",
           "contributor": ""
         },
         {

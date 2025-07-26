@@ -1,32 +1,36 @@
 {
-  "hiragana": [
-    "ぐぬぬ",
-    "ぐぬぬぬ"
-  ],
+  "literal": "gununu",
   "katakana": [
     "グヌヌ",
     "グヌヌヌ"
   ],
-  "definition": [{
-    "equivalent": [
-      "boil",
-      "chafe",
-      "fume",
-      "gnnn",
-      "grrr",
-      "rage",
-      "rankle",
-      "seethe",
-      "smolder",
-      "steam"
-    ],
-    "meaning": "an expression of passionate anger or fury",
-    "example": [{
-      "file": "gununu-1a",
-      "contributor": "",
-      "display": "ぐぬぬぬ",
-      "source": "hello_work"
-    }]
-  }],
-  "literal": "gununu"
+  "hiragana": [
+    "ぐぬぬ",
+    "ぐぬぬぬ"
+  ],
+  "definition": [
+    {
+      "meaning": "an expression of passionate anger or fury",
+      "equivalent": [
+        "boil",
+        "chafe",
+        "fume",
+        "gnnn",
+        "grrr",
+        "rage",
+        "rankle",
+        "seethe",
+        "smolder",
+        "steam"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "gununu-1a",
+          "display": "ぐぬぬぬ...!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

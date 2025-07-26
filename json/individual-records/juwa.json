@@ -16,17 +16,17 @@
     {
       "meaning": "a juicy sizzling sound, as of cooking meat",
       "equivalent": [
+        "fizz",
+        "hiss",
         "juicy",
         "sizzle",
-        "hiss",
-        "fizz",
         "steam"
       ],
       "example": [
         {
           "source": "dungeon_dining_room",
           "file": "juwa-1a",
-          "display": "ジュワワァ",
+          "display": "ジュワワァー",
           "contributor": ""
         }
       ]

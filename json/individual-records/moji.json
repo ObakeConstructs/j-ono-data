@@ -1,20 +1,28 @@
 {
-  "hiragana": ["もじ"],
-  "katakana": ["モジ"],
-  "definition": [{
-    "equivalent": [
-      "bashful",
-      "embarrassed",
-      "hesitation",
-      "shy"
-    ],
-    "meaning": "to express shyness or hesitation",
-    "example": [{
-      "file": "moji-1a",
-      "contributor": "",
-      "display": "もじ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "moji"
+  "literal": "moji",
+  "katakana": [
+    "モジ"
+  ],
+  "hiragana": [
+    "もじ"
+  ],
+  "definition": [
+    {
+      "meaning": "to express shyness or hesitation",
+      "equivalent": [
+        "bashful",
+        "embarrassed",
+        "hesitation",
+        "shy"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "moji-1a",
+          "display": "もじ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

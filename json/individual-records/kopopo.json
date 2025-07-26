@@ -1,26 +1,30 @@
 {
-  "hiragana": [
-    "こぽぽ",
-    "こぽぽぽ"
-  ],
+  "literal": "kopopo",
   "katakana": [
     "コポポ",
     "コポポポ"
   ],
-  "definition": [{
-    "equivalent": [
-      "glug",
-      "pour",
-      "slosh",
-      "trickle"
-    ],
-    "meaning": "sound of pouring liquid",
-    "example": [{
-      "file": "kopopo-1a",
-      "contributor": "",
-      "display": "コポポ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "kopopo"
+  "hiragana": [
+    "こぽぽ",
+    "こぽぽぽ"
+  ],
+  "definition": [
+    {
+      "meaning": "sound of pouring liquid",
+      "equivalent": [
+        "glug",
+        "pour",
+        "slosh",
+        "trickle"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "kopopo-1a",
+          "display": "コポポ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

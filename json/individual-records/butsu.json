@@ -1,24 +1,28 @@
 {
-  "hiragana": [
-    "ぶつ",
-    "ぶつっ"
-  ],
+  "literal": "butsu",
   "katakana": [
     "ブツ",
     "ブツッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "cut",
-      "slice"
-    ],
-    "meaning": "a smallish, shallow cut",
-    "example": [{
-      "file": "butsu-1a",
-      "contributor": "",
-      "display": "ブツッ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "butsu"
+  "hiragana": [
+    "ぶつ",
+    "ぶつっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a smallish, shallow cut",
+      "equivalent": [
+        "cut",
+        "slice"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "butsu-1a",
+          "display": "ブツッ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -12,28 +12,28 @@
     {
       "meaning": "the sound of a hit or strike, often in a minor or harmless manner",
       "equivalent": [
+        "bam",
         "bat",
         "biff",
         "bonk",
         "bop",
         "clip",
         "gong",
-        "scuff",
-        "smack",
-        "sock",
-        "swat",
-        "tap",
-        "thump",
-        "whack",
-        "bam",
         "hit",
         "knock",
         "pound",
         "punch",
+        "scuff",
         "slam",
+        "smack",
+        "sock",
         "strike",
+        "swat",
+        "tap",
         "thud",
-        "thunk"
+        "thump",
+        "thunk",
+        "whack"
       ],
       "example": [
         {
@@ -51,7 +51,7 @@
         {
           "source": "spy_x_family",
           "file": "gon-1c",
-          "display": "ゴン",
+          "display": "ゴン...",
           "contributor": ""
         },
         {

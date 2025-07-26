@@ -10,23 +10,23 @@
     {
       "meaning": "an indication or sound of something  squirming, squishy, or slick",
       "equivalent": [
+        "greasy",
+        "slick",
+        "slither",
+        "smooth",
+        "squeeze",
         "squirm",
-        "writhe",
-        "twitch",
-        "wriggle",
         "squish",
         "squoosh",
-        "slick",
-        "squeeze",
-        "slither",
-        "greasy",
-        "smooth"
+        "twitch",
+        "wriggle",
+        "writhe"
       ],
       "example": [
         {
           "source": "buy_the_land",
           "file": "nyu-1a",
-          "display": "ニュ",
+          "display": "ニュ..",
           "contributor": ""
         }
       ]

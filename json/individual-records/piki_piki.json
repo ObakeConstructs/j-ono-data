@@ -1,19 +1,31 @@
 {
-  "hiragana": ["ぴきぴき"],
-  "katakana": ["ピキピキ"],
-  "definition": [{
-    "equivalent": [
-      "crackle crackle",
-      "pop pop",
-      "snap snap"
-    ],
-    "meaning": "the continuous sound of cracking or popping, as from something about to break",
-    "example": [{
-      "file": "piki_piki-1a",
-      "contributor": "",
-      "display": "ピキ  ピキ",
-      "source": "abandoned_reincarnation_sage"
-    }]
-  }],
-  "literal": "piki piki"
+  "literal": "piki piki",
+  "katakana": [
+    "ピキピキ",
+    "ピキピキッ",
+    "ピキッピキッ"
+  ],
+  "hiragana": [
+    "ぴきぴき",
+    "ぴきぴきっ",
+    "ぴきっぴきっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the continuous sound of cracking or popping, as from something about to break",
+      "equivalent": [
+        "crackle crackle",
+        "pop pop",
+        "snap snap"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "piki_piki-1a",
+          "display": "ピキ  ピキ  ピキ  ピキッ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

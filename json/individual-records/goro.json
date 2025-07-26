@@ -1,18 +1,26 @@
 {
-  "hiragana": ["ごろ"],
-  "katakana": ["ゴロ"],
-  "definition": [{
-    "equivalent": [
-      "roll",
-      "turn"
-    ],
-    "meaning": "a rolling movement",
-    "example": [{
-      "file": "goro-1a",
-      "contributor": "",
-      "display": "ゴロ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "goro"
+  "literal": "goro",
+  "katakana": [
+    "ゴロ"
+  ],
+  "hiragana": [
+    "ごろ"
+  ],
+  "definition": [
+    {
+      "meaning": "a rolling movement",
+      "equivalent": [
+        "roll",
+        "turn"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "goro-1a",
+          "display": "ゴロ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

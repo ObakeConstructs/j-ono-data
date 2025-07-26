@@ -1,44 +1,46 @@
 {
-  "hiragana": [
-    "ぐる",
-    "ぐるっ",
-    "ぐるる",
-    "ぐるるる"
-  ],
+  "literal": "guru",
   "katakana": [
     "グル",
     "グルッ",
     "グルル",
     "グルルル"
   ],
-  "definition": [{
-    "equivalent": [
-      "growl",
-      "grumble",
-      "rumble",
-      "snarl"
-    ],
-    "meaning": "a low, gutteral noise",
-    "example": [
-      {
-        "file": "guru-1a",
-        "contributor": "",
-        "display": "ぐるるるるる",
-        "source": "otherworld_material_collector"
-      },
-      {
-        "file": "guru-1b",
-        "contributor": "",
-        "display": "ぐるるるる",
-        "source": "otherworld_material_collector"
-      },
-      {
-        "file": "guru-1c",
-        "contributor": "",
-        "display": "グルルル",
-        "source": "kuma_kuma_kuma_bear"
-      }
-    ]
-  }],
-  "literal": "guru"
+  "hiragana": [
+    "ぐる",
+    "ぐるっ",
+    "ぐるる",
+    "ぐるるる"
+  ],
+  "definition": [
+    {
+      "meaning": "a low, gutteral noise",
+      "equivalent": [
+        "growl",
+        "grumble",
+        "rumble",
+        "snarl"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "guru-1a",
+          "display": "ぐるるるるる",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "guru-1b",
+          "display": "ぐるるるる",
+          "contributor": ""
+        },
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "guru-1c",
+          "display": "グルルル...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,44 +1,46 @@
 {
-  "hiragana": [
-    "だ",
-    "だっ"
-  ],
+  "literal": "da",
   "katakana": [
     "ダ",
     "ダッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bolt",
-      "charge",
-      "dash",
-      "hurry",
-      "pelt",
-      "run",
-      "rush",
-      "sprint"
-    ],
-    "meaning": "to run or start running",
-    "example": [
-      {
-        "file": "da-1a",
-        "contributor": "",
-        "display": "ダッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "da-1b",
-        "contributor": "",
-        "display": "だっ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "da-1c",
-        "contributor": "",
-        "display": "だ",
-        "source": "komi_cant_communicate"
-      }
-    ]
-  }],
-  "literal": "da"
+  "hiragana": [
+    "だ",
+    "だっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to run or start running",
+      "equivalent": [
+        "bolt",
+        "charge",
+        "dash",
+        "hurry",
+        "pelt",
+        "run",
+        "rush",
+        "sprint"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "da-1a",
+          "display": "ダッ",
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "da-1b",
+          "display": "だっ",
+          "contributor": ""
+        },
+        {
+          "source": "komi_cant_communicate",
+          "file": "da-1c",
+          "display": "だー",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

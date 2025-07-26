@@ -1,31 +1,37 @@
 {
-  "hiragana": ["ぱらぱら"],
-  "katakana": ["パラパラ"],
-  "definition": [{
-    "equivalent": [
-      "flit flit",
-      "flutter",
-      "pit-a-pat",
-      "pitter-patter",
-      "sst sst",
-      "tap tap",
-      "tock tock"
-    ],
-    "meaning": "the sound of small things falling",
-    "example": [
-      {
-        "file": "para_para-1a",
-        "contributor": "",
-        "display": "パラ  パラ",
-        "source": "hello_work"
-      },
-      {
-        "file": "para_para-1b",
-        "contributor": "",
-        "display": "パラ  パラ",
-        "source": "bungo"
-      }
-    ]
-  }],
-  "literal": "para para"
+  "literal": "para para",
+  "katakana": [
+    "パラパラ"
+  ],
+  "hiragana": [
+    "ぱらぱら"
+  ],
+  "definition": [
+    {
+      "meaning": "the repeated or continuous sound of small things falling",
+      "equivalent": [
+        "flit flit",
+        "flutter",
+        "pit-a-pat",
+        "pitter-patter",
+        "sst sst",
+        "tap tap",
+        "tock tock"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "para_para-1a",
+          "display": "パラ  パラ...",
+          "contributor": ""
+        },
+        {
+          "source": "bungo",
+          "file": "para_para-1b",
+          "display": "パラ  パラ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
