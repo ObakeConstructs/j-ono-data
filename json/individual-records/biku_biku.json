@@ -1,0 +1,32 @@
+{
+  "literal": "biku biku",
+  "katakana": [
+    "ビクビク",
+    "ビクビクッ"
+  ],
+  "hiragana": [
+    "びくびく",
+    "ビクびくっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of jerky movements or twitches",
+      "equivalent": [
+        "flinch flinch",
+        "jerk jerk",
+        "quiver quiver",
+        "shake shake",
+        "twitch twitch",
+        "wince wince"
+      ],
+      "example": [
+        {
+          "source": "double_play",
+          "file": "biku_biku-1a",
+          "display": "クッ  ビク  ビクッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

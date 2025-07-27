@@ -84,6 +84,12 @@
           "file": "gu-2a",
           "display": "ぐっ",
           "contributor": ""
+        },
+        {
+          "source": "double_play",
+          "file": "gu-2b",
+          "display": "ぐっ...",
+          "contributor": ""
         }
       ]
     },
@@ -154,6 +160,22 @@
           "source": "uncle_at_heart",
           "file": "gu-6a",
           "display": "ぐっ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an indication or sound of heavy sleeping",
+      "equivalent": [
+        "snore",
+        "zzzz",
+        "sleep"
+      ],
+      "example": [
+        {
+          "source": "double_play",
+          "file": "gu-7a",
+          "display": "グー",
           "contributor": ""
         }
       ]

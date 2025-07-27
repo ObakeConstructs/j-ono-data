@@ -1,43 +1,60 @@
 {
-  "hiragana": [
-    "ぶ",
-    "ぶっ",
-    "ぶー",
-    "ぶーっ"
-  ],
+  "literal": "bu",
   "katakana": [
     "ブ",
     "ブッ",
     "ブー",
     "ブーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "blarg",
-      "bleh",
-      "expectorate",
-      "ptoo",
-      "ptooey",
-      "spat",
-      "spit",
-      "spit out",
-      "sploosh"
-    ],
-    "meaning": "to spit or otherwise eject something from the mouth",
-    "example": [
-      {
-        "file": "bu-1a",
-        "contributor": "",
-        "display": "ブーッ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "bu-1b",
-        "contributor": "",
-        "display": "ぶーっ",
-        "source": "hikaro_no_go"
-      }
-    ]
-  }],
-  "literal": "bu"
+  "hiragana": [
+    "ぶ",
+    "ぶっ",
+    "ぶー",
+    "ぶーっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to spit or otherwise eject something from the mouth",
+      "equivalent": [
+        "blarg",
+        "bleh",
+        "expectorate",
+        "ptoo",
+        "ptooey",
+        "spat",
+        "spit",
+        "spit out",
+        "sploosh"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "bu-1a",
+          "display": "ブーッ",
+          "contributor": ""
+        },
+        {
+          "source": "hikaro_no_go",
+          "file": "bu-1b",
+          "display": "ぶーっ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the sound of restraint from spitting or ejecting something from the mouth",
+      "equivalent": [
+        "blurg",
+        "erp"
+      ],
+      "example": [
+        {
+          "source": "double_play",
+          "file": "bu-2a",
+          "display": "ブッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

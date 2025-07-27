@@ -4,13 +4,15 @@
     "フフ",
     "フフッ",
     "フフフ",
-    "フーフー"
+    "フーフー",
+    "フーッフーッ"
   ],
   "hiragana": [
     "ふふ",
     "ふふっ",
     "ふふふ",
-    "ふーふー"
+    "フーフー",
+    "フーっフーっ"
   ],
   "definition": [
     {
@@ -44,7 +46,7 @@
       ]
     },
     {
-      "meaning": "to repeatedly exhale in a controlled manner, as to blow air onto something",
+      "meaning": "to repeatedly breath in a controlled, deliberate manner",
       "equivalent": [
         "blow blow",
         "breath breath",
@@ -56,6 +58,12 @@
           "source": "otherworld_material_collector",
           "file": "fu_fu-2a",
           "display": "フー  フー",
+          "contributor": ""
+        },
+        {
+          "source": "double_play",
+          "file": "fu_fu-2b",
+          "display": "フーッ  フーッ",
           "contributor": ""
         }
       ]

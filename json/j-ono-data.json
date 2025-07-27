@@ -979,6 +979,31 @@
     "literal": "bata bata"
   },
   {
+    "hiragana": [
+      "ベ",
+      "ベー"
+    ],
+    "katakana": [
+      "ベ",
+      "ベー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blah",
+        "nya",
+        "pbbbt"
+      ],
+      "meaning": "the sound or act of sticking out a tongue, often as an expression of disdain or disrespect",
+      "example": [{
+        "file": "be-1a",
+        "contributor": "",
+        "display": "ベー",
+        "source": "double_play"
+      }]
+    }],
+    "literal": "be"
+  },
+  {
     "hiragana": ["ベリベリ"],
     "katakana": ["ベリベリ"],
     "definition": [{
@@ -1250,6 +1275,34 @@
       }
     ],
     "literal": "bikun"
+  },
+  {
+    "hiragana": [
+      "びくびく",
+      "ビクびくっ"
+    ],
+    "katakana": [
+      "ビクビク",
+      "ビクビクッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "flinch flinch",
+        "jerk jerk",
+        "quiver quiver",
+        "shake shake",
+        "twitch twitch",
+        "wince wince"
+      ],
+      "meaning": "a series of jerky movements or twitches",
+      "example": [{
+        "file": "biku_biku-1a",
+        "contributor": "",
+        "display": "クッ  ビク  ビクッ",
+        "source": "double_play"
+      }]
+    }],
+    "literal": "biku biku"
   },
   {
     "hiragana": ["びくびくん"],
@@ -1892,34 +1945,49 @@
       "ブー",
       "ブーッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "blarg",
-        "bleh",
-        "expectorate",
-        "ptoo",
-        "ptooey",
-        "spat",
-        "spit",
-        "spit out",
-        "sploosh"
-      ],
-      "meaning": "to spit or otherwise eject something from the mouth",
-      "example": [
-        {
-          "file": "bu-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "blarg",
+          "bleh",
+          "expectorate",
+          "ptoo",
+          "ptooey",
+          "spat",
+          "spit",
+          "spit out",
+          "sploosh"
+        ],
+        "meaning": "to spit or otherwise eject something from the mouth",
+        "example": [
+          {
+            "file": "bu-1a",
+            "contributor": "",
+            "display": "ブーッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "bu-1b",
+            "contributor": "",
+            "display": "ぶーっ",
+            "source": "hikaro_no_go"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "blurg",
+          "erp"
+        ],
+        "meaning": "the sound of restraint from spitting or ejecting something from the mouth",
+        "example": [{
+          "file": "bu-2a",
           "contributor": "",
-          "display": "ブーッ",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "bu-1b",
-          "contributor": "",
-          "display": "ぶーっ",
-          "source": "hikaro_no_go"
-        }
-      ]
-    }],
+          "display": "ブッ",
+          "source": "double_play"
+        }]
+      }
+    ],
     "literal": "bu"
   },
   {
@@ -3545,6 +3613,26 @@
     "literal": "doki doki"
   },
   {
+    "hiragana": ["どくんどくん"],
+    "katakana": ["ドクンドクン"],
+    "definition": [{
+      "equivalent": [
+        "ba-bump",
+        "beat beat",
+        "pulse pulse",
+        "throb throb"
+      ],
+      "meaning": "an indication of rythmic throbbing, like a heartbeat",
+      "example": [{
+        "file": "dokun_dokun-1a",
+        "contributor": "",
+        "display": "ドクン  ドクン",
+        "source": "double_play"
+      }]
+    }],
+    "literal": "dokun dokun"
+  },
+  {
     "hiragana": [
       "どん",
       "どんっ",
@@ -4846,13 +4934,15 @@
       "ふふ",
       "ふふっ",
       "ふふふ",
-      "ふーふー"
+      "フーフー",
+      "フーっフーっ"
     ],
     "katakana": [
       "フフ",
       "フフッ",
       "フフフ",
-      "フーフー"
+      "フーフー",
+      "フーッフーッ"
     ],
     "definition": [
       {
@@ -4892,13 +4982,21 @@
           "exhale",
           "huff huff"
         ],
-        "meaning": "to repeatedly exhale in a controlled manner, as to blow air onto something",
-        "example": [{
-          "file": "fu_fu-2a",
-          "contributor": "",
-          "display": "フー  フー",
-          "source": "otherworld_material_collector"
-        }]
+        "meaning": "to repeatedly breath in a controlled, deliberate manner",
+        "example": [
+          {
+            "file": "fu_fu-2a",
+            "contributor": "",
+            "display": "フー  フー",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "fu_fu-2b",
+            "contributor": "",
+            "display": "フーッ  フーッ",
+            "source": "double_play"
+          }
+        ]
       }
     ],
     "literal": "fu fu"
@@ -7196,12 +7294,20 @@
           "thrust"
         ],
         "meaning": "to push or drive with force",
-        "example": [{
-          "file": "gu-2a",
-          "contributor": "",
-          "display": "ぐっ",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "gu-2a",
+            "contributor": "",
+            "display": "ぐっ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "gu-2b",
+            "contributor": "",
+            "display": "ぐっ...",
+            "source": "double_play"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -7264,6 +7370,20 @@
           "contributor": "",
           "display": "ぐっ",
           "source": "uncle_at_heart"
+        }]
+      },
+      {
+        "equivalent": [
+          "sleep",
+          "snore",
+          "zzzz"
+        ],
+        "meaning": "an indication or sound of heavy sleeping",
+        "example": [{
+          "file": "gu-7a",
+          "contributor": "",
+          "display": "グー",
+          "source": "double_play"
         }]
       }
     ],
@@ -7376,6 +7496,30 @@
       ]
     }],
     "literal": "gui"
+  },
+  {
+    "hiragana": ["ぐに"],
+    "katakana": ["グニ"],
+    "definition": [{
+      "equivalent": [
+        "compress",
+        "crush",
+        "mash",
+        "press",
+        "push",
+        "shove",
+        "squeeze",
+        "squish"
+      ],
+      "meaning": "an indication of squishy pressure",
+      "example": [{
+        "file": "guni-1a",
+        "contributor": "",
+        "display": "ぐに...",
+        "source": "double_play"
+      }]
+    }],
+    "literal": "guni"
   },
   {
     "hiragana": [
@@ -7908,13 +8052,21 @@
           "huff",
           "pant"
         ],
-        "meaning": "breathing hard from exertion or fear",
-        "example": [{
-          "file": "ha-1a",
-          "contributor": "",
-          "display": "はあ..",
-          "source": "different_world_smartphone"
-        }]
+        "meaning": "breathing hard from exertion, fear, or excitement",
+        "example": [
+          {
+            "file": "ha-1a",
+            "contributor": "",
+            "display": "はあ..",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "ha-1b",
+            "contributor": "",
+            "display": "ハッ",
+            "source": "double_play"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -8113,6 +8265,34 @@
       }
     ],
     "literal": "ha ha"
+  },
+  {
+    "hiragana": [
+      "ヘら",
+      "ヘらっ"
+    ],
+    "katakana": [
+      "ヘラ",
+      "ヘラッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "awkward",
+        "grin",
+        "heh",
+        "smile",
+        "uncomfortable ",
+        "uneasy"
+      ],
+      "meaning": "an awkward or uncomfortable smile",
+      "example": [{
+        "file": "hera-1a",
+        "contributor": "",
+        "display": "ヘラッ",
+        "source": "double_play"
+      }]
+    }],
+    "literal": "hera"
   },
   {
     "hiragana": [
@@ -9080,8 +9260,14 @@
     "literal": "jita bata"
   },
   {
-    "hiragana": ["じわっ"],
-    "katakana": ["ジワッ"],
+    "hiragana": [
+      "じわ",
+      "じわっ"
+    ],
+    "katakana": [
+      "ジワ",
+      "ジワッ"
+    ],
     "definition": [{
       "equivalent": [
         "sad",
@@ -9092,13 +9278,21 @@
         "weep",
         "whimper"
       ],
-      "meaning": "on the verge of tears, expressing sad emotions",
-      "example": [{
-        "file": "jiwa-1a",
-        "contributor": "",
-        "display": "じわっ",
-        "source": "isekai_territory_reform"
-      }]
+      "meaning": "an indication of leaking bodily fluid, as being on the verge of tears",
+      "example": [
+        {
+          "file": "jiwa-1a",
+          "contributor": "",
+          "display": "じわっ",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "jiwa-1b",
+          "contributor": "",
+          "display": "じわ...",
+          "source": "double_play"
+        }
+      ]
     }],
     "literal": "jiwa"
   },
@@ -10325,6 +10519,27 @@
     "literal": "ko"
   },
   {
+    "hiragana": ["くちゅ"],
+    "katakana": ["クチュ"],
+    "definition": [{
+      "equivalent": [
+        "caress",
+        "fondle",
+        "rub",
+        "squish",
+        "stroke"
+      ],
+      "meaning": "the indication or sound of soft stroking or rubbing",
+      "example": [{
+        "file": "kochun-1a",
+        "contributor": "",
+        "display": "クチュ...",
+        "source": "double_play"
+      }]
+    }],
+    "literal": "kochun"
+  },
+  {
     "hiragana": ["こほん"],
     "katakana": ["コホン"],
     "definition": [{
@@ -10576,6 +10791,35 @@
       }]
     }],
     "literal": "koso koso"
+  },
+  {
+    "hiragana": ["こすこす"],
+    "katakana": ["コスコス"],
+    "definition": [{
+      "equivalent": [
+        "buff buff",
+        "press press",
+        "rub rub",
+        "scour scour",
+        "scrub scrub"
+      ],
+      "meaning": "the indication or sound of rubbing or scrubbing with effort",
+      "example": [
+        {
+          "file": "kosu_kosu-1a",
+          "contributor": "",
+          "display": "コス  コス  コス  コス",
+          "source": "double_play"
+        },
+        {
+          "file": "kosu_kosu-1b",
+          "contributor": "",
+          "display": "コス  コス",
+          "source": "double_play"
+        }
+      ]
+    }],
+    "literal": "kosu kosu"
   },
   {
     "hiragana": [
@@ -13187,12 +13431,20 @@
           "snap"
         ],
         "meaning": "the sound of a camera shutter or the light of a camera flash",
-        "example": [{
-          "file": "pasha-2a",
-          "contributor": "",
-          "display": "パシャ",
-          "source": "different_world_smartphone"
-        }]
+        "example": [
+          {
+            "file": "pasha-2a",
+            "contributor": "",
+            "display": "パシャ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "pasha-2b",
+            "contributor": "",
+            "display": "パシャー",
+            "source": "double_play"
+          }
+        ]
       }
     ],
     "literal": "pasha"
@@ -15727,6 +15979,26 @@
     "literal": "pyun"
   },
   {
+    "hiragana": ["れろ"],
+    "katakana": ["レロ"],
+    "definition": [{
+      "equivalent": [
+        "flick",
+        "lap",
+        "lash",
+        "lick"
+      ],
+      "meaning": "an indication or sound of tongue licking",
+      "example": [{
+        "file": "rero-1a",
+        "contributor": "",
+        "display": "レロ...",
+        "source": "double_play"
+      }]
+    }],
+    "literal": "rero"
+  },
+  {
     "hiragana": [
       "りんごんりんごん",
       "りんごーんりんごーん"
@@ -15969,6 +16241,34 @@
   },
   {
     "hiragana": [
+      "さわ",
+      "さわっ"
+    ],
+    "katakana": [
+      "サワ",
+      "サワッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "brush",
+        "caress",
+        "feel",
+        "fondle",
+        "pet",
+        "touch"
+      ],
+      "meaning": "an indication or sound of light touching or movement",
+      "example": [{
+        "file": "sawa-1a",
+        "contributor": "",
+        "display": "さわっ...",
+        "source": "double_play"
+      }]
+    }],
+    "literal": "sawa"
+  },
+  {
+    "hiragana": [
       "ささ",
       "ささっ",
       "さっさっ",
@@ -16030,20 +16330,37 @@
       "シヤ",
       "シヤッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "cut",
-        "slice",
-        "slit"
-      ],
-      "meaning": "the sound of cutting into something, as with a sharp knife",
-      "example": [{
-        "file": "sha-1a",
-        "contributor": "",
-        "display": "シヤッ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "cut",
+          "slice",
+          "slit"
+        ],
+        "meaning": "the sound of cutting into something, as with a sharp knife",
+        "example": [{
+          "file": "sha-1a",
+          "contributor": "",
+          "display": "シヤッ",
+          "source": "kuma_kuma_kuma_bear"
+        }]
+      },
+      {
+        "equivalent": [
+          "hiss",
+          "shaa",
+          "sss",
+          "whizz"
+        ],
+        "meaning": "a hissing or spraying sound",
+        "example": [{
+          "file": "sha-2a",
+          "contributor": "",
+          "display": "シヤー",
+          "source": "double_play"
+        }]
+      }
+    ],
     "literal": "sha"
   },
   {
@@ -18131,21 +18448,37 @@
       "ウッ",
       "ウーッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "ugh",
-        "uh",
-        "uhn",
-        "urgh"
-      ],
-      "meaning": "appalled, discouraged, dismayed",
-      "example": [{
-        "file": "u-1a",
-        "contributor": "",
-        "display": "うっ",
-        "source": "d_genesis"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "uh",
+          "uhn"
+        ],
+        "meaning": "an audible gutteral breath or grunt, often involuntary",
+        "example": [{
+          "file": "u-1a",
+          "contributor": "",
+          "display": "うっ...",
+          "source": "double_play"
+        }]
+      },
+      {
+        "equivalent": [
+          "discouragement",
+          "dismay",
+          "ugh",
+          "uhn",
+          "urgh"
+        ],
+        "meaning": "an expression of dismay or discouragement",
+        "example": [{
+          "file": "u-2a",
+          "contributor": "",
+          "display": "うっ",
+          "source": "d_genesis"
+        }]
+      }
+    ],
     "literal": "u"
   },
   {

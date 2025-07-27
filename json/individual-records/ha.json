@@ -22,7 +22,7 @@
   ],
   "definition": [
     {
-      "meaning": "breathing hard from exertion or fear",
+      "meaning": "breathing hard from exertion, fear, or excitement",
       "equivalent": [
         "gasp",
         "ha",
@@ -35,6 +35,12 @@
           "source": "different_world_smartphone",
           "file": "ha-1a",
           "display": "はあ..",
+          "contributor": ""
+        },
+        {
+          "source": "double_play",
+          "file": "ha-1b",
+          "display": "ハッ",
           "contributor": ""
         }
       ]
