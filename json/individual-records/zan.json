@@ -1,34 +1,36 @@
 {
-  "hiragana": [
-    "ざん",
-    "ざんっ"
-  ],
+  "literal": "zan",
   "katakana": [
     "ザン",
     "ザンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "cleave",
-      "cut",
-      "slash",
-      "slice"
-    ],
-    "meaning": "a hard fast cut, as with a sword or knife",
-    "example": [
-      {
-        "file": "zan-1a",
-        "contributor": "",
-        "display": "ザン",
-        "source": "hello_work"
-      },
-      {
-        "file": "zan-1b",
-        "contributor": "",
-        "display": "ザンッ",
-        "source": "reincarnated_aristocrat"
-      }
-    ]
-  }],
-  "literal": "zan"
+  "hiragana": [
+    "ざん",
+    "ざんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a hard fast cut, as with a sword or knife",
+      "equivalent": [
+        "cleave",
+        "cut",
+        "slash",
+        "slice"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "zan-1a",
+          "display": "ザン!",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "zan-1b",
+          "display": "ザンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

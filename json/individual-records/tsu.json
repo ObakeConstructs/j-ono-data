@@ -1,29 +1,33 @@
 {
-  "hiragana": [
-    "つ",
-    "つー",
-    "っ"
-  ],
+  "literal": "tsu",
   "katakana": [
     "ツ",
     "ツー",
     "ッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "gasp",
-      "ha",
-      "hsss",
-      "oh",
-      "wha"
-    ],
-    "meaning": "a quick inhale or gasp, as from being surprised or frightened",
-    "example": [{
-      "file": "tsu-1a",
-      "contributor": "",
-      "display": "ツ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "tsu"
+  "hiragana": [
+    "つ",
+    "つー",
+    "っ"
+  ],
+  "definition": [
+    {
+      "meaning": "a quick inhale or gasp, as from being surprised or frightened",
+      "equivalent": [
+        "gasp",
+        "ha",
+        "hsss",
+        "oh",
+        "wha"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "tsu-1a",
+          "display": "ツ...!!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

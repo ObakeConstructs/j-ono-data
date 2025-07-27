@@ -1,18 +1,20 @@
 {
-  "hiragana": [
-    "ぴゅ",
-    "ぴゅっ",
-    "ぴゅー",
-    "ぴゅーっ"
-  ],
+  "literal": "pyu",
   "katakana": [
     "ピュ",
     "ピュッ",
     "ピュー",
     "ピューッ"
   ],
+  "hiragana": [
+    "ぴゅ",
+    "ぴゅっ",
+    "ぴゅー",
+    "ぴゅーっ"
+  ],
   "definition": [
     {
+      "meaning": "a stream of fluid discharged from narrow opening",
       "equivalent": [
         "burst",
         "gush",
@@ -23,15 +25,17 @@
         "spurt",
         "squirt"
       ],
-      "meaning": "a stream of fluid discharged from narrow opening",
-      "example": [{
-        "file": "pyu-1a",
-        "contributor": "",
-        "display": "ピューッ",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "pyu-1a",
+          "display": "ピューッ!!",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "meaning": "a sudden burst of speed, as from someone fleeing",
       "equivalent": [
         "dash",
         "flee",
@@ -42,14 +46,14 @@
         "zip",
         "zoom"
       ],
-      "meaning": "a sudden burst of speed, as from someone fleeing",
-      "example": [{
-        "file": "pyu-2a",
-        "contributor": "",
-        "display": "ピューッ",
-        "source": "a_rank_slow_life"
-      }]
+      "example": [
+        {
+          "source": "a_rank_slow_life",
+          "file": "pyu-2a",
+          "display": "ピューッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "pyu"
+  ]
 }

@@ -1,36 +1,40 @@
 {
-  "hiragana": [
-    "とろ",
-    "とろっ"
-  ],
+  "literal": "toro",
   "katakana": [
     "トロ",
     "トロッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "dissolve",
-      "dribble",
-      "drip",
-      "exude",
-      "flow",
-      "glop",
-      "liquify",
-      "melt",
-      "ooze",
-      "run",
-      "seep",
-      "soften",
-      "thaw",
-      "trickle"
-    ],
-    "meaning": "to melt, flow, or drip slowly",
-    "example": [{
-      "file": "toro-1a",
-      "contributor": "",
-      "display": "トロッ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "toro"
+  "hiragana": [
+    "とろ",
+    "とろっ"
+  ],
+  "definition": [
+    {
+      "meaning": "to melt, flow, or drip slowly",
+      "equivalent": [
+        "dissolve",
+        "dribble",
+        "drip",
+        "exude",
+        "flow",
+        "glop",
+        "liquify",
+        "melt",
+        "ooze",
+        "run",
+        "seep",
+        "soften",
+        "thaw",
+        "trickle"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "toro-1a",
+          "display": "トロッ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

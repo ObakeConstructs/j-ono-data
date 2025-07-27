@@ -12,17 +12,17 @@
       "equivalent": [
         "boing",
         "bounce",
-        "rebound",
         "bump",
         "hop",
         "jump",
+        "rebound",
         "ricochet"
       ],
       "example": [
         {
           "source": "buy_the_land",
           "file": "poin-1a",
-          "display": "ぽぃん",
+          "display": "ぽぃん.",
           "contributor": ""
         }
       ]

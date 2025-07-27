@@ -12,24 +12,24 @@
     {
       "meaning": "an indication of fear or disgust",
       "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble",
+        "alarm",
+        "disgust",
+        "dismay",
+        "distaste",
+        "dread",
         "fear",
         "panic",
-        "dread",
-        "dismay",
-        "alarm",
-        "distaste",
-        "disgust",
-        "repulsion"
+        "quiver",
+        "repulsion",
+        "shiver",
+        "shudder",
+        "tremble"
       ],
       "example": [
         {
           "source": "reincarnated_aristocrat",
           "file": "zowa-1a",
-          "display": "ぞわっ",
+          "display": "ぞわっ...",
           "contributor": ""
         },
         {

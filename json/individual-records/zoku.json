@@ -12,19 +12,19 @@
     {
       "meaning": "an indication of trembling or shuddering",
       "equivalent": [
-        "shudder",
-        "shiver",
-        "tremble",
         "jerk",
-        "shake",
         "quiver",
+        "shake",
+        "shiver",
+        "shudder",
+        "tremble",
         "twitch"
       ],
       "example": [
         {
           "source": "world_full_of_monsters",
           "file": "zoku-1a",
-          "display": "ぞく",
+          "display": "ぞくっ",
           "contributor": ""
         },
         {

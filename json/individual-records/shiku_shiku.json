@@ -10,20 +10,20 @@
     {
       "meaning": "a series of whimpering or sobbing sound",
       "equivalent": [
-        "sob sob",
-        "weep weep",
-        "cry cry",
         "bawl bawl",
-        "whimper whimper",
-        "whine whine",
+        "cry cry",
+        "moan moan",
+        "sob sob",
         "wail wail",
-        "moan moan"
+        "weep weep",
+        "whimper whimper",
+        "whine whine"
       ],
       "example": [
         {
           "source": "buy_the_land",
           "file": "shiku_shiku-1a",
-          "display": "シク  シク  シク",
+          "display": "シク  シク  シク...",
           "contributor": ""
         }
       ]

@@ -29,7 +29,7 @@
         {
           "source": "abandoned_reincarnation_sage",
           "file": "za_za-1b",
-          "display": "ザッ  ザッ",
+          "display": "ザッ...  ザッ...",
           "contributor": ""
         },
         {
@@ -43,23 +43,23 @@
     {
       "meaning": "the sound of moving water",
       "equivalent": [
-        "shaa shaa",
-        "surf",
-        "waves",
-        "pssh pssh",
-        "spray",
+        "fwoosh fwoosh",
+        "gush",
         "pour",
+        "pssh pssh",
+        "shaa shaa",
         "splash",
         "sploosh",
+        "spray",
+        "surf",
         "swash",
-        "gush",
-        "fwoosh fwoosh"
+        "waves"
       ],
       "example": [
         {
           "source": "buy_the_land",
           "file": "za_za-2a",
-          "display": "ザザ",
+          "display": "ザザ..",
           "contributor": ""
         },
         {
