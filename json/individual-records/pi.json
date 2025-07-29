@@ -35,14 +35,14 @@
       ]
     },
     {
-      "meaning": "the sound of a clean and efficient movement, often associated with paper",
+      "meaning": "an indication or sound of a small, efficient manipulation by hand, often associated with paper",
       "equivalent": [
+        "crisp",
         "flap",
+        "flick",
         "flip",
         "fwip",
         "pop",
-        "crisp",
-        "flick",
         "swipe"
       ],
       "example": [
@@ -56,6 +56,12 @@
           "source": "my_s-ranked_daughter",
           "file": "pi-2b",
           "display": "ぴっ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "pi-2c",
+          "display": "ピッ",
           "contributor": ""
         }
       ]

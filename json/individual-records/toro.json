@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "to melt, flow, or drip slowly",
+      "meaning": "the indication or sound of melting, flowing, or dripping slowly",
       "equivalent": [
         "dissolve",
         "dribble",
@@ -32,6 +32,12 @@
           "source": "world_full_of_monsters",
           "file": "toro-1a",
           "display": "トロッ...",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "toro-1b",
+          "display": "トロ....",
           "contributor": ""
         }
       ]

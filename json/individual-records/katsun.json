@@ -1,23 +1,56 @@
 {
-  "hiragana": ["かつん"],
-  "katakana": ["カツン"],
-  "definition": [{
-    "equivalent": [
-      "pound",
-      "scuff",
-      "step",
-      "stomp",
-      "tramp",
-      "tromp",
-      "trudge"
-    ],
-    "meaning": "a heavy footstep",
-    "example": [{
-      "file": "katsun-1a",
-      "contributor": "",
-      "display": "カツン",
-      "source": "dog_became_strongest"
-    }]
-  }],
-  "literal": "katsun"
+  "literal": "katsun",
+  "katakana": [
+    "カツン",
+    "カツンッ",
+    "カツーン"
+  ],
+  "hiragana": [
+    "かつん",
+    "かつんっ",
+    "かつーん"
+  ],
+  "definition": [
+    {
+      "meaning": "a heavy footstep",
+      "equivalent": [
+        "pound",
+        "scuff",
+        "step",
+        "stomp",
+        "tramp",
+        "tromp",
+        "trudge"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "katsun-1a",
+          "display": "カツン",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a rattling or clattering sound",
+      "equivalent": [
+        "clack",
+        "clatter",
+        "click",
+        "clink",
+        "ka-chik",
+        "ker-chak",
+        "rattle",
+        "tick"
+      ],
+      "example": [
+        {
+          "source": "gyaru_academy",
+          "file": "katsun-2a",
+          "display": "カツンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

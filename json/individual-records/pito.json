@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "a gentle touch",
+      "meaning": "a gentle or careful touch or contact",
       "equivalent": [
         "brush",
         "caress",
@@ -27,6 +27,12 @@
         {
           "source": "isekai_territory_reform",
           "file": "pito-1b",
+          "display": "ピトッ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "pito-1c",
           "display": "ピトッ",
           "contributor": ""
         }

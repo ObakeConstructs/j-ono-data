@@ -1,14 +1,16 @@
 {
   "literal": "amu",
   "katakana": [
-    "アム"
+    "アム",
+    "アムッ"
   ],
   "hiragana": [
-    "あむ"
+    "あむ",
+    "あむっ"
   ],
   "definition": [
     {
-      "meaning": "the sound of chewing or swallowing",
+      "meaning": "an indication or sound of eating, chewing, or putting something into the mouth",
       "equivalent": [
         "ahm",
         "bite",
@@ -24,6 +26,12 @@
           "source": "drawing",
           "file": "amu-1a",
           "display": "あむ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "amu-2a",
+          "display": "あむっ♥",
           "contributor": ""
         }
       ]

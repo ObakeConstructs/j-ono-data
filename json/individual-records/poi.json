@@ -14,7 +14,7 @@
   ],
   "definition": [
     {
-      "meaning": "to toss something away as useless or unwanted",
+      "meaning": "to toss something, often as trash or unwanted",
       "equivalent": [
         "chuck",
         "discard",
@@ -40,6 +40,12 @@
           "source": "spy_x_family",
           "file": "poi-1c",
           "display": "ポィッ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "poi-1d",
+          "display": "ポィ",
           "contributor": ""
         }
       ]

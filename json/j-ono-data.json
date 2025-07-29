@@ -96,8 +96,14 @@
     "literal": "ahan"
   },
   {
-    "hiragana": ["あむ"],
-    "katakana": ["アム"],
+    "hiragana": [
+      "あむ",
+      "あむっ"
+    ],
+    "katakana": [
+      "アム",
+      "アムッ"
+    ],
     "definition": [{
       "equivalent": [
         "ahm",
@@ -109,13 +115,21 @@
         "nosh",
         "savor"
       ],
-      "meaning": "the sound of chewing or swallowing",
-      "example": [{
-        "file": "amu-1a",
-        "contributor": "",
-        "display": "あむ",
-        "source": "drawing"
-      }]
+      "meaning": "an indication or sound of eating, chewing, or putting something into the mouth",
+      "example": [
+        {
+          "file": "amu-1a",
+          "contributor": "",
+          "display": "あむ",
+          "source": "drawing"
+        },
+        {
+          "file": "amu-2a",
+          "contributor": "",
+          "display": "あむっ♥",
+          "source": "gyaru_academy"
+        }
+      ]
     }],
     "literal": "amu"
   },
@@ -1266,12 +1280,20 @@
           "startle"
         ],
         "meaning": "an expression surprise or startlement",
-        "example": [{
-          "file": "bikun-2a",
-          "contributor": "",
-          "display": "ビクーン",
-          "source": "hello_work"
-        }]
+        "example": [
+          {
+            "file": "bikun-2a",
+            "contributor": "",
+            "display": "ビクーン",
+            "source": "hello_work"
+          },
+          {
+            "file": "bikun-2b",
+            "contributor": "",
+            "display": "ビクン",
+            "source": "gyaru_academy"
+          }
+        ]
       }
     ],
     "literal": "bikun"
@@ -2854,6 +2876,21 @@
     "literal": "chiki chiki"
   },
   {
+    "hiragana": ["ちーんこーんかーんこーん"],
+    "katakana": ["チーンコーンカーンコーン"],
+    "definition": [{
+      "equivalent": ["ding dong dang dong"],
+      "meaning": "the sound of a Japanese school bell",
+      "example": [{
+        "file": "chin_kon_kan_kon-1a",
+        "contributor": "",
+        "display": "チーン  コーン  カーン  コーン",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "chin kon kan kon"
+  },
+  {
     "hiragana": [
       "ちら",
       "ちらっ"
@@ -3005,6 +3042,25 @@
       ]
     }],
     "literal": "chun chun"
+  },
+  {
+    "hiragana": ["ちゅぷ"],
+    "katakana": ["チュプ"],
+    "definition": [{
+      "equivalent": [
+        "slurp",
+        "suck",
+        "suckle"
+      ],
+      "meaning": "the act or sound of sucking",
+      "example": [{
+        "file": "chupu-1a",
+        "contributor": "",
+        "display": "チュプ",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "chupu"
   },
   {
     "hiragana": [
@@ -4711,11 +4767,13 @@
   {
     "hiragana": [
       "ふら",
-      "ふらっ"
+      "ふらっ",
+      "ふらぁ"
     ],
     "katakana": [
       "フラ",
-      "フラッ"
+      "フラッ",
+      "フラァ"
     ],
     "definition": [{
       "equivalent": [
@@ -4737,6 +4795,12 @@
           "contributor": "",
           "display": "フラ",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "fura-1c",
+          "contributor": "",
+          "display": "フラァァァ...",
+          "source": "gyaru_academy"
         }
       ]
     }],
@@ -9336,6 +9400,36 @@
   },
   {
     "hiragana": [
+      "じゅん",
+      "じゅんっ"
+    ],
+    "katakana": [
+      "ジュン",
+      "ジュンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "drip drip",
+        "drop drop",
+        "flow flow",
+        "gush gush",
+        "ooze ooze",
+        "seep seep",
+        "trickle trickle",
+        "weep weep"
+      ],
+      "meaning": "an indication of a dripping or oozing fluid",
+      "example": [{
+        "file": "jun_jun-1a",
+        "contributor": "",
+        "display": "ジュン♡  ジュン♡",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "jun jun"
+  },
+  {
+    "hiragana": [
       "じゅる",
       "じゅるっ"
     ],
@@ -9349,13 +9443,21 @@
         "slaver",
         "slobber"
       ],
-      "meaning": "the act of drooling, often expressing affection or enthusiasm",
-      "example": [{
-        "file": "juru-1a",
-        "contributor": "",
-        "display": "じゅるっ",
-        "source": "s_rank_behemoth"
-      }]
+      "meaning": "the act or sound of drooling",
+      "example": [
+        {
+          "file": "juru-1a",
+          "contributor": "",
+          "display": "じゅるっ",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "juru-1b",
+          "contributor": "",
+          "display": "じゅるっ",
+          "source": "gyaru_academy"
+        }
+      ]
     }],
     "literal": "juru"
   },
@@ -9648,6 +9750,12 @@
           "contributor": "",
           "display": "カチャ  カチャ",
           "source": "nete_kunoichi"
+        },
+        {
+          "file": "kacha_kacha-1c",
+          "contributor": "",
+          "display": "カチャ  カチャ",
+          "source": "gyaru_academy"
         }
       ]
     }],
@@ -10068,26 +10176,55 @@
     "literal": "kata katata"
   },
   {
-    "hiragana": ["かつん"],
-    "katakana": ["カツン"],
-    "definition": [{
-      "equivalent": [
-        "pound",
-        "scuff",
-        "step",
-        "stomp",
-        "tramp",
-        "tromp",
-        "trudge"
-      ],
-      "meaning": "a heavy footstep",
-      "example": [{
-        "file": "katsun-1a",
-        "contributor": "",
-        "display": "カツン",
-        "source": "dog_became_strongest"
-      }]
-    }],
+    "hiragana": [
+      "かつん",
+      "かつんっ",
+      "かつーん"
+    ],
+    "katakana": [
+      "カツン",
+      "カツンッ",
+      "カツーン"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "pound",
+          "scuff",
+          "step",
+          "stomp",
+          "tramp",
+          "tromp",
+          "trudge"
+        ],
+        "meaning": "a heavy footstep",
+        "example": [{
+          "file": "katsun-1a",
+          "contributor": "",
+          "display": "カツン",
+          "source": "dog_became_strongest"
+        }]
+      },
+      {
+        "equivalent": [
+          "clack",
+          "clatter",
+          "click",
+          "clink",
+          "ka-chik",
+          "ker-chak",
+          "rattle",
+          "tick"
+        ],
+        "meaning": "a rattling or clattering sound",
+        "example": [{
+          "file": "katsun-2a",
+          "contributor": "",
+          "display": "カツンッ",
+          "source": "gyaru_academy"
+        }]
+      }
+    ],
     "literal": "katsun"
   },
   {
@@ -12546,6 +12683,35 @@
   },
   {
     "hiragana": [
+      "ヌリ",
+      "ヌリッ"
+    ],
+    "katakana": [
+      "ヌリ",
+      "ヌリッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "apply",
+        "coat",
+        "daub",
+        "paint",
+        "plaster",
+        "smear",
+        "smudge"
+      ],
+      "meaning": "the indication or sound of applying a sticky substance to a surface",
+      "example": [{
+        "file": "nuri-1a",
+        "contributor": "",
+        "display": "ヌリッ.....",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "nuri"
+  },
+  {
+    "hiragana": [
       "ぬるん",
       "ぬるんっ"
     ],
@@ -13348,8 +13514,14 @@
     "literal": "para para"
   },
   {
-    "hiragana": ["ぱさ"],
-    "katakana": ["パサ"],
+    "hiragana": [
+      "ぱさ",
+      "ぱさぁ"
+    ],
+    "katakana": [
+      "パサ",
+      "パサァ"
+    ],
     "definition": [{
       "equivalent": [
         "crinkle",
@@ -13358,12 +13530,20 @@
         "swish"
       ],
       "meaning": "the soft sound of moving paper or cloth",
-      "example": [{
-        "file": "pasa-1a",
-        "contributor": "",
-        "display": "ぱさ",
-        "source": "fushi_no_kami"
-      }]
+      "example": [
+        {
+          "file": "pasa-1a",
+          "contributor": "",
+          "display": "ぱさ",
+          "source": "fushi_no_kami"
+        },
+        {
+          "file": "pasa-1b",
+          "contributor": "",
+          "display": "パサァ",
+          "source": "gyaru_academy"
+        }
+      ]
     }],
     "literal": "pasa"
   },
@@ -13454,6 +13634,12 @@
           "contributor": "",
           "display": "パシッ",
           "source": "hanako_24th_ward"
+        },
+        {
+          "file": "pashi-1c",
+          "contributor": "",
+          "display": "パシッ",
+          "source": "gyaru_academy"
         }
       ]
     }],
@@ -13853,28 +14039,46 @@
   {
     "hiragana": ["ぺろん"],
     "katakana": ["ペロン"],
-    "definition": [{
-      "equivalent": [
-        "lap",
-        "lick",
-        "slurp"
-      ],
-      "meaning": "the sound of a tongue licking something",
-      "example": [
-        {
-          "file": "peron-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "lap",
+          "lick",
+          "slurp"
+        ],
+        "meaning": "the sound of a tongue licking something",
+        "example": [
+          {
+            "file": "peron-1a",
+            "contributor": "",
+            "display": "ぺろん",
+            "source": "s_rank_behemoth"
+          },
+          {
+            "file": "peron-1b",
+            "contributor": "",
+            "display": "ぺろん",
+            "source": "dog_became_strongest"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "dangle",
+          "drape",
+          "hang",
+          "suspend",
+          "sway"
+        ],
+        "meaning": "an indication of lightly hanging or dangling",
+        "example": [{
+          "file": "peron-2a",
           "contributor": "",
-          "display": "ぺろん",
-          "source": "s_rank_behemoth"
-        },
-        {
-          "file": "peron-1b",
-          "contributor": "",
-          "display": "ぺろん",
-          "source": "dog_became_strongest"
-        }
-      ]
-    }],
+          "display": "ペロン",
+          "source": "gyaru_academy"
+        }]
+      }
+    ],
     "literal": "peron"
   },
   {
@@ -14055,7 +14259,7 @@
           "pop",
           "swipe"
         ],
-        "meaning": "the sound of a clean and efficient movement, often associated with paper",
+        "meaning": "an indication or sound of a small, efficient manipulation by hand, often associated with paper",
         "example": [
           {
             "file": "pi-2a",
@@ -14068,6 +14272,12 @@
             "contributor": "",
             "display": "ぴっ",
             "source": "my_s-ranked_daughter"
+          },
+          {
+            "file": "pi-2c",
+            "contributor": "",
+            "display": "ピッ",
+            "source": "gyaru_academy"
           }
         ]
       }
@@ -14615,6 +14825,26 @@
     "literal": "pipi"
   },
   {
+    "hiragana": ["ぴら"],
+    "katakana": ["ピラ"],
+    "definition": [{
+      "equivalent": [
+        "expose",
+        "open",
+        "reveal",
+        "uncover"
+      ],
+      "meaning": "an indication or sound of opening or revealing, usually a thin material like cloth",
+      "example": [{
+        "file": "pira-1a",
+        "contributor": "",
+        "display": "ピラ...",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "pira"
+  },
+  {
     "hiragana": ["ぴろりん"],
     "katakana": ["ピロリン"],
     "definition": [{
@@ -14823,7 +15053,7 @@
         "feel",
         "touch"
       ],
-      "meaning": "a gentle touch",
+      "meaning": "a gentle or careful touch or contact",
       "example": [
         {
           "file": "pito-1a",
@@ -14836,6 +15066,12 @@
           "contributor": "",
           "display": "ピトッ",
           "source": "isekai_territory_reform"
+        },
+        {
+          "file": "pito-1c",
+          "contributor": "",
+          "display": "ピトッ",
+          "source": "gyaru_academy"
         }
       ]
     }],
@@ -14936,7 +15172,7 @@
         "toss",
         "unload"
       ],
-      "meaning": "to toss something away as useless or unwanted",
+      "meaning": "to toss something, often as trash or unwanted",
       "example": [
         {
           "file": "poi-1a",
@@ -14955,14 +15191,26 @@
           "contributor": "",
           "display": "ポィッ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "poi-1d",
+          "contributor": "",
+          "display": "ポィ",
+          "source": "gyaru_academy"
         }
       ]
     }],
     "literal": "poi"
   },
   {
-    "hiragana": ["ぽぃん"],
-    "katakana": ["ポィン"],
+    "hiragana": [
+      "ぽぃん",
+      "ぽぃんっ"
+    ],
+    "katakana": [
+      "ポィン",
+      "ポィンッ"
+    ],
     "definition": [{
       "equivalent": [
         "boing",
@@ -14973,7 +15221,7 @@
         "rebound",
         "ricochet"
       ],
-      "meaning": "a popping or bouncing sound",
+      "meaning": "an indication or sound of popping or bouncing",
       "example": [{
         "file": "poin-1a",
         "contributor": "",
@@ -14982,6 +15230,27 @@
       }]
     }],
     "literal": "poin"
+  },
+  {
+    "hiragana": ["ぽぃんぽぃん"],
+    "katakana": ["ポィンポィン"],
+    "definition": [{
+      "equivalent": [
+        "bob",
+        "boing",
+        "bounce",
+        "bump",
+        "hop"
+      ],
+      "meaning": "the indication or sound of bounces",
+      "example": [{
+        "file": "poin_poin-1a",
+        "contributor": "",
+        "display": "ポィン  ポィーン",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "poin poin"
   },
   {
     "hiragana": ["ぽこぽこ"],
@@ -15579,6 +15848,63 @@
   },
   {
     "hiragana": [
+      "ぷに",
+      "ぷにっ",
+      "ぷにぃ"
+    ],
+    "katakana": [
+      "プニ",
+      "プニッ",
+      "プニィ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "puffy",
+        "rubbery",
+        "soft",
+        "spongy",
+        "squishy"
+      ],
+      "meaning": "an indication of soft firmness, typically associated with flesh",
+      "example": [
+        {
+          "file": "puni-1a",
+          "contributor": "",
+          "display": "プニッ",
+          "source": "gyaru_academy"
+        },
+        {
+          "file": "puni-1b",
+          "contributor": "",
+          "display": "プニィ",
+          "source": "gyaru_academy"
+        }
+      ]
+    }],
+    "literal": "puni"
+  },
+  {
+    "hiragana": ["ぷにゅぅん"],
+    "katakana": ["プニュゥン"],
+    "definition": [{
+      "equivalent": [
+        "flesh",
+        "puffy",
+        "soft",
+        "squishy"
+      ],
+      "meaning": "an exaggerated indication of soft flesh",
+      "example": [{
+        "file": "punyun-1a",
+        "contributor": "",
+        "display": "プニュゥン♡♡♡",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "punyun"
+  },
+  {
+    "hiragana": [
       "ぷる",
       "ぷるる",
       "ぷるるる"
@@ -15636,6 +15962,35 @@
       ]
     }],
     "literal": "purun"
+  },
+  {
+    "hiragana": [
+      "ぷるんぷるん",
+      "ぷるんぷるんっ"
+    ],
+    "katakana": [
+      "プルンプルン",
+      "プルンプルンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "boing boing",
+        "bounce bounce",
+        "jiggle jiggle",
+        "quiver quiver",
+        "shake shake",
+        "sway sway",
+        "wobble wobble"
+      ],
+      "meaning": "an indication of a couple quick bounces or wobbles",
+      "example": [{
+        "file": "purun_purun-1a",
+        "contributor": "",
+        "display": "プルン  プルンッ",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "purun purun"
   },
   {
     "hiragana": ["ぷるぷる"],
@@ -15969,6 +16324,25 @@
       }]
     }],
     "literal": "rero"
+  },
+  {
+    "hiragana": ["れろれろ"],
+    "katakana": ["レロレロ"],
+    "definition": [{
+      "equivalent": [
+        "flick flick",
+        "lap lap",
+        "lick lick"
+      ],
+      "meaning": "the indication or sound of a series of tongue lickings",
+      "example": [{
+        "file": "rero_rero-1a",
+        "contributor": "",
+        "display": "レロ  レロ  レロ  レロ  レロ",
+        "source": "gyaru_academy"
+      }]
+    }],
+    "literal": "rero rero"
   },
   {
     "hiragana": [
@@ -18186,13 +18560,21 @@
         "thaw",
         "trickle"
       ],
-      "meaning": "to melt, flow, or drip slowly",
-      "example": [{
-        "file": "toro-1a",
-        "contributor": "",
-        "display": "トロッ...",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "the indication or sound of melting, flowing, or dripping slowly",
+      "example": [
+        {
+          "file": "toro-1a",
+          "contributor": "",
+          "display": "トロッ...",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "toro-1b",
+          "contributor": "",
+          "display": "トロ....",
+          "source": "gyaru_academy"
+        }
+      ]
     }],
     "literal": "toro"
   },

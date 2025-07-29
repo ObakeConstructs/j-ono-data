@@ -1,10 +1,12 @@
 {
   "literal": "pasa",
   "katakana": [
-    "パサ"
+    "パサ",
+    "パサァ"
   ],
   "hiragana": [
-    "ぱさ"
+    "ぱさ",
+    "ぱさぁ"
   ],
   "definition": [
     {
@@ -20,6 +22,12 @@
           "source": "fushi_no_kami",
           "file": "pasa-1a",
           "display": "ぱさ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "pasa-1b",
+          "display": "パサァ",
           "contributor": ""
         }
       ]
