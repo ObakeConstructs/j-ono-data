@@ -4393,21 +4393,38 @@
       "ファサァ",
       "ファサァァ"
     ],
-    "definition": [{
-      "equivalent": [
-        "smell",
-        "sniff",
-        "snuff",
-        "whiff"
-      ],
-      "meaning": "a smelling or sniffing sound",
-      "example": [{
-        "file": "fasa-1a",
-        "contributor": "",
-        "display": "ファサァァ",
-        "source": "blazing_fire_brigade"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "smell",
+          "sniff",
+          "snuff",
+          "whiff"
+        ],
+        "meaning": "a smelling or sniffing sound",
+        "example": [{
+          "file": "fasa-1a",
+          "contributor": "",
+          "display": "ファサァァ",
+          "source": "blazing_fire_brigade"
+        }]
+      },
+      {
+        "equivalent": [
+          "puff",
+          "soft",
+          "soft rustle",
+          "waft"
+        ],
+        "meaning": "the soft sound of cloth or clothes, typically being dropped to the floor",
+        "example": [{
+          "file": "fasa-2a",
+          "contributor": "",
+          "display": "ファサ",
+          "source": "rock_n_roll_ladies"
+        }]
+      }
+    ],
     "literal": "fasa"
   },
   {
@@ -8750,39 +8767,58 @@
       "ヒュー",
       "ヒューッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "shoom",
-        "swoosh",
-        "whish",
-        "whiz",
-        "whom",
-        "whoosh",
-        "zip",
-        "zoom"
-      ],
-      "meaning": "something moving quickly through the air",
-      "example": [
-        {
-          "file": "hyu-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "shoom",
+          "swoosh",
+          "whish",
+          "whiz",
+          "whom",
+          "whoosh",
+          "zip",
+          "zoom"
+        ],
+        "meaning": "something moving quickly through the air",
+        "example": [
+          {
+            "file": "hyu-1a",
+            "contributor": "",
+            "display": "ヒュッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "hyu-1b",
+            "contributor": "",
+            "display": "ヒュ..",
+            "source": "isekai_pickup"
+          },
+          {
+            "file": "hyu-1c",
+            "contributor": "",
+            "display": "ヒュッ",
+            "source": "my_s-ranked_daughter"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "adorable",
+          "aww",
+          "cute",
+          "pretty",
+          "stunning",
+          "woah"
+        ],
+        "meaning": "a soft interjection expressing a reaction to something adorable or cute",
+        "example": [{
+          "file": "hyu-2a",
           "contributor": "",
-          "display": "ヒュッ",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "hyu-1b",
-          "contributor": "",
-          "display": "ヒュ..",
-          "source": "isekai_pickup"
-        },
-        {
-          "file": "hyu-1c",
-          "contributor": "",
-          "display": "ヒュッ",
-          "source": "my_s-ranked_daughter"
-        }
-      ]
-    }],
+          "display": "...ヒュ...",
+          "source": "rock_n_roll_ladies"
+        }]
+      }
+    ],
     "literal": "hyu"
   },
   {
@@ -9109,6 +9145,25 @@
       ]
     }],
     "literal": "jara"
+  },
+  {
+    "hiragana": ["じゃじゃ"],
+    "katakana": ["ジャジャ"],
+    "definition": [{
+      "equivalent": [
+        "hiss hiss",
+        "sizzle sizzle",
+        "wah wah"
+      ],
+      "meaning": "a repeated hissing or distorted sound",
+      "example": [{
+        "file": "ja_ja-1a",
+        "contributor": "",
+        "display": "ジャ  ジャ  ジャ  ジャ  ジャ  ジャ",
+        "source": "rock_n_roll_ladies"
+      }]
+    }],
+    "literal": "ja ja"
   },
   {
     "hiragana": [
@@ -11462,12 +11517,20 @@
         "yelp"
       ],
       "meaning": "to cry out loudly and emotionally, often used humorously",
-      "example": [{
-        "file": "kya-1a",
-        "contributor": "",
-        "display": "きゃーっ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "kya-1a",
+          "contributor": "",
+          "display": "きゃーっ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "kya-1b",
+          "contributor": "",
+          "display": "きゃー!!",
+          "source": "rock_n_roll_ladies"
+        }
+      ]
     }],
     "literal": "kya"
   },
@@ -13873,8 +13936,11 @@
       "ペコッ"
     ],
     "definition": [{
-      "equivalent": ["bow"],
-      "meaning": "bowing the head or body in respect, deference, or reverence",
+      "equivalent": [
+        "bow",
+        "curtsy"
+      ],
+      "meaning": "bowing the head or body in respect or politeness",
       "example": [
         {
           "file": "peko-1a",
@@ -13887,6 +13953,12 @@
           "contributor": "",
           "display": "ぺこっ",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "peko-1c",
+          "contributor": "",
+          "display": "ペコ",
+          "source": "rock_n_roll_ladies"
         }
       ]
     }],
@@ -14197,21 +14269,38 @@
   {
     "hiragana": ["ぺたぺた"],
     "katakana": ["ペタペタ"],
-    "definition": [{
-      "equivalent": [
-        "bap bap",
-        "pat pat",
-        "poke poke",
-        "press press"
-      ],
-      "meaning": "to press repeatedly",
-      "example": [{
-        "file": "peta_peta-1a",
-        "contributor": "",
-        "display": "ぺた  ぺた",
-        "source": "reincarnated_aristocrat"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "bap bap",
+          "pat pat",
+          "poke poke",
+          "press press"
+        ],
+        "meaning": "to press repeatedly",
+        "example": [{
+          "file": "peta_peta-1a",
+          "contributor": "",
+          "display": "ぺた  ぺた",
+          "source": "reincarnated_aristocrat"
+        }]
+      },
+      {
+        "equivalent": [
+          "pitter-pat",
+          "scamper",
+          "step step",
+          "tap tap"
+        ],
+        "meaning": "the indication or sound of walking softly",
+        "example": [{
+          "file": "peta_peta-2a",
+          "contributor": "",
+          "display": "ペタペタ",
+          "source": "rock_n_roll_ladies"
+        }]
+      }
+    ],
     "literal": "peta peta"
   },
   {
@@ -18449,35 +18538,52 @@
       "トントン",
       "トントンッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bonk bonk",
-        "bop bop",
-        "bump bump",
-        "knock knock",
-        "step step",
-        "tap tap",
-        "thud thud",
-        "thump thump",
-        "tmp tmp",
-        "tok tok"
-      ],
-      "meaning": "a series of light, rhythmic steps or strikes",
-      "example": [
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "bonk bonk",
+          "bop bop",
+          "bump bump",
+          "knock knock",
+          "thud thud",
+          "thump thump",
+          "tmp tmp",
+          "tok tok"
+        ],
+        "meaning": "a series of light, rhythmic strikes",
+        "example": [{
           "file": "ton_ton-1a",
           "contributor": "",
           "display": "トン  トン",
           "source": "hello_work"
-        },
-        {
-          "file": "ton_ton-1b",
-          "contributor": "",
-          "display": "トン  トン  トン",
-          "source": "s_rank_behemoth"
-        }
-      ]
-    }],
+        }]
+      },
+      {
+        "equivalent": [
+          "march march",
+          "step step",
+          "stomp stomp",
+          "tap tap",
+          "tread tread",
+          "walk walk"
+        ],
+        "meaning": "the repeated sound of walking or stepping",
+        "example": [
+          {
+            "file": "ton_ton-2a",
+            "contributor": "",
+            "display": "トン  トン  トン",
+            "source": "s_rank_behemoth"
+          },
+          {
+            "file": "ton_ton-2b",
+            "contributor": "",
+            "display": "トン  トン",
+            "source": "rock_n_roll_ladies"
+          }
+        ]
+      }
+    ],
     "literal": "ton ton"
   },
   {
@@ -19557,12 +19663,20 @@
         "waddle waddle"
       ],
       "meaning": "an indication of unsteadiness or clumsiness",
-      "example": [{
-        "file": "yota_yota-1a",
-        "contributor": "",
-        "display": "よた  よた",
-        "source": "uncle_at_heart"
-      }]
+      "example": [
+        {
+          "file": "yota_yota-1a",
+          "contributor": "",
+          "display": "よた  よた",
+          "source": "uncle_at_heart"
+        },
+        {
+          "file": "yota_yota-1b",
+          "contributor": "",
+          "display": "ヨタ  ヨタ",
+          "source": "rock_n_roll_ladies"
+        }
+      ]
     }],
     "literal": "yota yota"
   },
@@ -20081,12 +20195,14 @@
     "hiragana": [
       "ぜぜ",
       "ぜえ",
-      "ぜぇ"
+      "ぜぇ",
+      "ぜーぜー"
     ],
     "katakana": [
       "ゼゼ",
       "ゼエゼエ",
-      "ゼェゼェ"
+      "ゼェゼェ",
+      "ゼーゼー"
     ],
     "definition": [{
       "equivalent": [
@@ -20108,6 +20224,12 @@
           "contributor": "",
           "display": "ゼェ  ゼェ",
           "source": "simple_sword_saint"
+        },
+        {
+          "file": "ze_ze-1c",
+          "contributor": "",
+          "display": "ゼーゼー",
+          "source": "rock_n_roll_ladies"
         }
       ]
     }],

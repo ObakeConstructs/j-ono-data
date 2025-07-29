@@ -10,14 +10,12 @@
   ],
   "definition": [
     {
-      "meaning": "a series of light, rhythmic steps or strikes",
+      "meaning": "a series of light, rhythmic strikes",
       "equivalent": [
         "bonk bonk",
         "bop bop",
         "bump bump",
         "knock knock",
-        "step step",
-        "tap tap",
         "thud thud",
         "thump thump",
         "tmp tmp",
@@ -29,11 +27,30 @@
           "file": "ton_ton-1a",
           "display": "トン  トン",
           "contributor": ""
-        },
+        }
+      ]
+    },
+    {
+      "meaning": "the repeated sound of walking or stepping",
+      "equivalent": [
+        "step step",
+        "tap tap",
+        "march march",
+        "stomp stomp",
+        "tread tread",
+        "walk walk"
+      ],
+      "example": [
         {
           "source": "s_rank_behemoth",
-          "file": "ton_ton-1b",
+          "file": "ton_ton-2a",
           "display": "トン  トン  トン",
+          "contributor": ""
+        },
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "ton_ton-2b",
+          "display": "トン  トン",
           "contributor": ""
         }
       ]

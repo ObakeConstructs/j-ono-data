@@ -10,9 +10,10 @@
   ],
   "definition": [
     {
-      "meaning": "bowing the head or body in respect, deference, or reverence",
+      "meaning": "bowing the head or body in respect or politeness",
       "equivalent": [
-        "bow"
+        "bow",
+        "curtsy"
       ],
       "example": [
         {
@@ -25,6 +26,12 @@
           "source": "dog_became_strongest",
           "file": "peko-1b",
           "display": "ぺこっ",
+          "contributor": ""
+        },
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "peko-1c",
+          "display": "ペコ",
           "contributor": ""
         }
       ]

@@ -3,12 +3,14 @@
   "katakana": [
     "ゼゼ",
     "ゼエゼエ",
-    "ゼェゼェ"
+    "ゼェゼェ",
+    "ゼーゼー"
   ],
   "hiragana": [
     "ぜぜ",
     "ぜえ",
-    "ぜぇ"
+    "ぜぇ",
+    "ぜーぜー"
   ],
   "definition": [
     {
@@ -30,6 +32,12 @@
           "source": "simple_sword_saint",
           "file": "ze_ze-1b",
           "display": "ゼェ  ゼェ",
+          "contributor": ""
+        },
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "ze_ze-1c",
+          "display": "ゼーゼー",
           "contributor": ""
         }
       ]

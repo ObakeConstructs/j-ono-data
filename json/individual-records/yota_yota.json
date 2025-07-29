@@ -10,21 +10,27 @@
     {
       "meaning": "an indication of unsteadiness or clumsiness",
       "equivalent": [
-        "stagger stagger",
-        "waddle waddle",
-        "unsteady",
-        "clumsy",
-        "totter totter",
-        "lurch lurch",
         "careen",
+        "clumsy",
+        "lurch lurch",
+        "shuffle shuffle",
+        "stagger stagger",
         "sway sway",
-        "shuffle shuffle"
+        "totter totter",
+        "unsteady",
+        "waddle waddle"
       ],
       "example": [
         {
           "source": "uncle_at_heart",
           "file": "yota_yota-1a",
           "display": "よた  よた",
+          "contributor": ""
+        },
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "yota_yota-1b",
+          "display": "ヨタ  ヨタ",
           "contributor": ""
         }
       ]
