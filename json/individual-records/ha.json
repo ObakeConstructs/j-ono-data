@@ -54,7 +54,7 @@
       ],
       "example": [
         {
-          "source": "different_world_smartphone",
+          "source": "d_genesis",
           "file": "ha-2a",
           "display": "は",
           "contributor": ""
@@ -84,23 +84,6 @@
           "source": "hello_work",
           "file": "ha-3b",
           "display": "ハッ",
-          "contributor": ""
-        }
-      ]
-    },
-    {
-      "meaning": "a single heartfelt laugh",
-      "equivalent": [
-        "ha",
-        "hah",
-        "heh",
-        "laugh. laughter"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "ha-4a",
-          "display": "はっ",
           "contributor": ""
         }
       ]

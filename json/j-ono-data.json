@@ -8161,7 +8161,7 @@
             "file": "ha-2a",
             "contributor": "",
             "display": "は",
-            "source": "different_world_smartphone"
+            "source": "d_genesis"
           },
           {
             "file": "ha-2b",
@@ -8191,21 +8191,6 @@
             "source": "hello_work"
           }
         ]
-      },
-      {
-        "equivalent": [
-          "ha",
-          "hah",
-          "heh",
-          "laugh. laughter"
-        ],
-        "meaning": "a single heartfelt laugh",
-        "example": [{
-          "file": "ha-4a",
-          "contributor": "",
-          "display": "はっ",
-          "source": "different_world_smartphone"
-        }]
       }
     ],
     "literal": "ha"
@@ -8308,6 +8293,12 @@
             "contributor": "",
             "display": "ハハハハ",
             "source": "killed_by_gods_mistake"
+          },
+          {
+            "file": "ha_ha-1d",
+            "contributor": "",
+            "display": "はっ  はっ  はっ",
+            "source": "different_world_smartphone"
           }
         ]
       },
