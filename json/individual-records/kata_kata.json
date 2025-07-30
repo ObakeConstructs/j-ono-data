@@ -1,0 +1,48 @@
+{
+  "literal": "kata kata",
+  "katakana": [
+    "カタカタ"
+  ],
+  "hiragana": [
+    "かたかた"
+  ],
+  "definition": [
+    {
+      "meaning": "the rythmic sound of typing on a modern keyboard",
+      "equivalent": [
+        "click click",
+        "clickety click",
+        "tacka tack",
+        "tap tap",
+        "ticka tick"
+      ],
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "kata_kata-1a",
+          "display": "カタ  カタ  カタ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an indication of trembling or shaking",
+      "equivalent": [
+        "quiver quiver",
+        "shake shake",
+        "shiver shiver",
+        "shudder shudder",
+        "tremble tremble",
+        "twitch twitch"
+      ],
+      "example": [
+        {
+          "source": "way_of_isekai_cooking",
+          "file": "kata_kata-2a",
+          "display": "カタ  カタ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

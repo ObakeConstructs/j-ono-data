@@ -324,12 +324,20 @@
           "unveil"
         ],
         "meaning": "to reveal or show something suddenly",
-        "example": [{
-          "file": "ba-4a",
-          "contributor": "",
-          "display": "ばっ",
-          "source": "spy_x_family"
-        }]
+        "example": [
+          {
+            "file": "ba-4a",
+            "contributor": "",
+            "display": "ばっ",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "ba-4b",
+            "contributor": "",
+            "display": "ばっ",
+            "source": "way_of_isekai_cooking"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -2840,6 +2848,33 @@
     "literal": "charin"
   },
   {
+    "hiragana": [
+      "ち",
+      "ちっ"
+    ],
+    "katakana": [
+      "チ",
+      "チッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bah",
+        "crap",
+        "damn",
+        "tch",
+        "tsk"
+      ],
+      "meaning": "a verbal interjection indicating annoyance ",
+      "example": [{
+        "file": "chi-1a",
+        "contributor": "",
+        "display": "ちっ",
+        "source": "way_of_isekai_cooking"
+      }]
+    }],
+    "literal": "chi"
+  },
+  {
     "hiragana": ["ちき"],
     "katakana": ["チキ"],
     "definition": [{
@@ -3294,6 +3329,33 @@
       ]
     }],
     "literal": "dara dara"
+  },
+  {
+    "hiragana": [
+      "でん",
+      "でんっ"
+    ],
+    "katakana": [
+      "デン",
+      "デンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "boom",
+        "da-dum",
+        "ta-da",
+        "tadah"
+      ],
+      "meaning": "to call attention to something amazing or surprising in a somewhat dramatic fashion",
+      "example": [{
+        "file": "den-1a",
+        "contributor": "",
+        "display": "で〜ん",
+        "source": "way_of_isekai_cooking"
+      }]
+    }],
+    "literal": "den"
   },
   {
     "hiragana": [
@@ -7006,20 +7068,37 @@
     "literal": "gopori"
   },
   {
-    "hiragana": ["ごろ"],
-    "katakana": ["ゴロ"],
+    "hiragana": [
+      "ごろ",
+      "ごろっ"
+    ],
+    "katakana": [
+      "ゴロ",
+      "ゴロッ"
+    ],
     "definition": [{
       "equivalent": [
+        "rock",
         "roll",
-        "turn"
+        "sway",
+        "turn",
+        "wobble"
       ],
-      "meaning": "a rolling movement",
-      "example": [{
-        "file": "goro-1a",
-        "contributor": "",
-        "display": "ゴロ...",
-        "source": "d_genesis"
-      }]
+      "meaning": "a indication or sound of rolling or rocking",
+      "example": [
+        {
+          "file": "goro-1a",
+          "contributor": "",
+          "display": "ゴロ...",
+          "source": "d_genesis"
+        },
+        {
+          "file": "goro-1b",
+          "contributor": "",
+          "display": "ゴロッ",
+          "source": "way_of_isekai_cooking"
+        }
+      ]
     }],
     "literal": "goro"
   },
@@ -7422,10 +7501,16 @@
             "source": "fushi_no_kami"
           },
           {
-            "file": "gu-5b",
+            "file": "gu-4b",
             "contributor": "",
             "display": "ぐー",
             "source": "isekai_territory_reform"
+          },
+          {
+            "file": "gu-4c",
+            "contributor": "",
+            "display": "ぐぅ",
+            "source": "way_of_isekai_cooking"
           }
         ]
       },
@@ -8189,6 +8274,12 @@
             "contributor": "",
             "display": "ハッ",
             "source": "hello_work"
+          },
+          {
+            "file": "ha-3c",
+            "contributor": "",
+            "display": "はあ...",
+            "source": "way_of_isekai_cooking"
           }
         ]
       }
@@ -10203,6 +10294,46 @@
   {
     "hiragana": ["かたかた"],
     "katakana": ["カタカタ"],
+    "definition": [
+      {
+        "equivalent": [
+          "click click",
+          "clickety click",
+          "tacka tack",
+          "tap tap",
+          "ticka tick"
+        ],
+        "meaning": "the rythmic sound of typing on a modern keyboard",
+        "example": [{
+          "file": "kata_kata-1a",
+          "contributor": "",
+          "display": "カタ  カタ  カタ",
+          "source": "uncle_at_heart"
+        }]
+      },
+      {
+        "equivalent": [
+          "quiver quiver",
+          "shake shake",
+          "shiver shiver",
+          "shudder shudder",
+          "tremble tremble",
+          "twitch twitch"
+        ],
+        "meaning": "an indication of trembling or shaking",
+        "example": [{
+          "file": "kata_kata-2a",
+          "contributor": "",
+          "display": "カタ  カタ",
+          "source": "way_of_isekai_cooking"
+        }]
+      }
+    ],
+    "literal": "kata kata"
+  },
+  {
+    "hiragana": ["かたかた"],
+    "katakana": ["カタカタ"],
     "definition": [{
       "equivalent": [
         "click click",
@@ -11088,6 +11219,37 @@
       }]
     }],
     "literal": "kua"
+  },
+  {
+    "hiragana": [
+      "くい",
+      "くぃ",
+      "くいっ"
+    ],
+    "katakana": [
+      "クイ",
+      "クィ",
+      "クイッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "beckon",
+        "flag",
+        "gestur",
+        "indicate",
+        "motion",
+        "signal",
+        "wave"
+      ],
+      "meaning": "a small gesture",
+      "example": [{
+        "file": "kui-1a",
+        "contributor": "",
+        "display": "クィ",
+        "source": "way_of_isekai_cooking"
+      }]
+    }],
+    "literal": "kui"
   },
   {
     "hiragana": [
@@ -14326,6 +14488,12 @@
             "contributor": "",
             "display": "ピ",
             "source": "different_world_smartphone"
+          },
+          {
+            "file": "pi-1c",
+            "contributor": "",
+            "display": "ピッ",
+            "source": "way_of_isekai_cooking"
           }
         ]
       },
@@ -14941,6 +15109,31 @@
       }]
     }],
     "literal": "pirorin"
+  },
+  {
+    "hiragana": [
+      "ぴるる",
+      "ぴるるる"
+    ],
+    "katakana": [
+      "ピルル",
+      "ピルルル"
+    ],
+    "definition": [{
+      "equivalent": [
+        "beep beep",
+        "ding-a-ling",
+        "ring ring"
+      ],
+      "meaning": "the sound of a telephone or cell phone ringing",
+      "example": [{
+        "file": "piruru-1a",
+        "contributor": "",
+        "display": "ピルルルルルル",
+        "source": "way_of_isekai_cooking"
+      }]
+    }],
+    "literal": "piruru"
   },
   {
     "hiragana": [

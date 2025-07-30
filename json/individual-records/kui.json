@@ -1,0 +1,35 @@
+{
+  "literal": "kui",
+  "katakana": [
+    "クイ",
+    "クィ",
+    "クイッ"
+  ],
+  "hiragana": [
+    "くい",
+    "くぃ",
+    "くいっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a small gesture",
+      "equivalent": [
+        "beckon",
+        "flag",
+        "gestur",
+        "motion",
+        "indicate",
+        "signal",
+        "wave"
+      ],
+      "example": [
+        {
+          "source": "way_of_isekai_cooking",
+          "file": "kui-1a",
+          "display": "クィ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

@@ -128,8 +128,14 @@
         },
         {
           "source": "isekai_territory_reform",
-          "file": "gu-5b",
+          "file": "gu-4b",
           "display": "ぐー",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_isekai_cooking",
+          "file": "gu-4c",
+          "display": "ぐぅ",
           "contributor": ""
         }
       ]
@@ -167,9 +173,9 @@
     {
       "meaning": "an indication or sound of heavy sleeping",
       "equivalent": [
+        "sleep",
         "snore",
-        "zzzz",
-        "sleep"
+        "zzzz"
       ],
       "example": [
         {
