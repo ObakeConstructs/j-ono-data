@@ -3265,6 +3265,12 @@
           "contributor": "",
           "display": "だんっ!!",
           "source": "eternal_fool_asley"
+        },
+        {
+          "file": "dan-1c",
+          "contributor": "",
+          "display": "だんっ",
+          "source": "saga_lagging_hero"
         }
       ]
     }],
@@ -3329,6 +3335,35 @@
       ]
     }],
     "literal": "dara dara"
+  },
+  {
+    "hiragana": [
+      "だ",
+      "だだ",
+      "だだだ"
+    ],
+    "katakana": [
+      "ダ",
+      "ダダ",
+      "ダダダ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "click click",
+        "clickety click",
+        "tacka tack",
+        "tap tap",
+        "ticka tick"
+      ],
+      "meaning": "the rythmic sound of typing on a modern keyboard",
+      "example": [{
+        "file": "da_da-1a",
+        "contributor": "",
+        "display": "ダ  ダ  ダ  ダ  ダ  ダ",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "da da"
   },
   {
     "hiragana": [
@@ -4229,6 +4264,39 @@
       }]
     }],
     "literal": "dosun"
+  },
+  {
+    "hiragana": [
+      "どよん",
+      "どよんッっ",
+      "どよーん"
+    ],
+    "katakana": [
+      "ドヨン",
+      "ドヨンッ",
+      "ドヨーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bleak",
+        "depressed",
+        "desolate",
+        "dire",
+        "dismal",
+        "down",
+        "gloom",
+        "gloomy",
+        "somber"
+      ],
+      "meaning": "an indication of gloom or a somber mood",
+      "example": [{
+        "file": "doyon-1a",
+        "contributor": "",
+        "display": "どよー..ん",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "doyon"
   },
   {
     "hiragana": [
@@ -6679,6 +6747,28 @@
     "literal": "giro"
   },
   {
+    "hiragana": ["ぎろり"],
+    "katakana": ["ギロリ"],
+    "definition": [{
+      "equivalent": [
+        "anger",
+        "disapproval",
+        "glare",
+        "glower",
+        "scowl",
+        "snarl"
+      ],
+      "meaning": "an indication of glaring or scowling, expressing anger or disapproval",
+      "example": [{
+        "file": "girori-1a",
+        "contributor": "",
+        "display": "ギロリ",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "girori"
+  },
+  {
     "hiragana": [
       "ご",
       "ごっ",
@@ -7011,7 +7101,7 @@
         "thunk",
         "whack"
       ],
-      "meaning": "the sound of a hit or strike, often in a minor or harmless manner",
+      "meaning": "the sound of a hit or strike, can be loud or soft depending on context",
       "example": [
         {
           "file": "gon-1a",
@@ -7036,6 +7126,12 @@
           "contributor": "",
           "display": "ゴン",
           "source": "blazing_fire_brigade"
+        },
+        {
+          "file": "gon-1e",
+          "contributor": "",
+          "display": "ゴン",
+          "source": "saga_lagging_hero"
         }
       ]
     }],
@@ -7664,6 +7760,29 @@
     "literal": "gui"
   },
   {
+    "hiragana": ["ぐいぐい"],
+    "katakana": ["グイグイ"],
+    "definition": [{
+      "equivalent": [
+        "eager",
+        "excited",
+        "geeked",
+        "gung ho",
+        "impatient",
+        "pumped",
+        "stoked"
+      ],
+      "meaning": "an expression of exaggerated enthusiasm or impatience",
+      "example": [{
+        "file": "gui_gui-1a",
+        "contributor": "",
+        "display": "ぐい  ぐい",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "gui gui"
+  },
+  {
     "hiragana": ["ぐに"],
     "katakana": ["グニ"],
     "definition": [{
@@ -7809,6 +7928,7 @@
     ],
     "definition": [{
       "equivalent": [
+        "flip",
         "pivot",
         "roll",
         "spin",
@@ -7817,7 +7937,7 @@
         "turn",
         "twist"
       ],
-      "meaning": "the act of turning something, typically oneself",
+      "meaning": "the act of turning, rolling, or flipping something",
       "example": [
         {
           "file": "gurun-1a",
@@ -7830,6 +7950,12 @@
           "contributor": "",
           "display": "ぐるんっ",
           "source": "strongest_failure_frame"
+        },
+        {
+          "file": "gurun-1c",
+          "contributor": "",
+          "display": "ぐるん",
+          "source": "saga_lagging_hero"
         }
       ]
     }],
@@ -8253,6 +8379,12 @@
             "contributor": "",
             "display": "はぁ",
             "source": "different_world_smartphone"
+          },
+          {
+            "file": "ha-2c",
+            "contributor": "",
+            "display": "はーっ",
+            "source": "saga_lagging_hero"
           }
         ]
       },
@@ -10720,6 +10852,33 @@
   },
   {
     "hiragana": [
+      "きき",
+      "ききき"
+    ],
+    "katakana": [
+      "キキ",
+      "キキキ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "anxious",
+        "danger",
+        "fraught",
+        "tense",
+        "uneasy"
+      ],
+      "meaning": "an indication of dramatic tension or danger",
+      "example": [{
+        "file": "ki_ki-1a",
+        "contributor": "",
+        "display": "キ  キ  キ  キ",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "ki ki"
+  },
+  {
+    "hiragana": [
       "こ",
       "こっ",
       "こぉ",
@@ -11219,6 +11378,35 @@
       }]
     }],
     "literal": "kua"
+  },
+  {
+    "hiragana": [
+      "クドクド",
+      "クドクドクド"
+    ],
+    "katakana": [
+      "くどくど",
+      "くどくどくど"
+    ],
+    "definition": [{
+      "equivalent": [
+        " harangue",
+        "lecture",
+        "on and on",
+        "rant rant",
+        "reprimand",
+        "scold",
+        "tirade"
+      ],
+      "meaning": "the act of talking or lecturing at great length",
+      "example": [{
+        "file": "kudo_kudo-1a",
+        "contributor": "",
+        "display": "くど  くど  くど",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "kudo kudo"
   },
   {
     "hiragana": [
@@ -13811,6 +13999,12 @@
             "contributor": "",
             "display": "パシャー",
             "source": "double_play"
+          },
+          {
+            "file": "pasha-2c",
+            "contributor": "",
+            "display": "パシャッ",
+            "source": "saga_lagging_hero"
           }
         ]
       }
@@ -15524,6 +15718,36 @@
       }]
     }],
     "literal": "poin poin"
+  },
+  {
+    "hiragana": [
+      "ぽかん",
+      "ぽかんっ"
+    ],
+    "katakana": [
+      "ポカン",
+      "ポカンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        " dumfounded",
+        "amazed",
+        "astonished",
+        "flabbergasted",
+        "shocked",
+        "stunned",
+        "surprised",
+        "wonder"
+      ],
+      "meaning": "expressing shock, surprise, or wonder",
+      "example": [{
+        "file": "pokan-1a",
+        "contributor": "",
+        "display": "ポカン",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "pokan"
   },
   {
     "hiragana": ["ぽこぽこ"],
@@ -18002,12 +18226,20 @@
         "tumble"
       ],
       "meaning": "to fall from a standing position, often suddenly and involuntarily",
-      "example": [{
-        "file": "suten-1a",
-        "contributor": "",
-        "display": "すてーん",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "suten-1a",
+          "contributor": "",
+          "display": "すてーん",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "suten-1b",
+          "contributor": "",
+          "display": "すてーん",
+          "source": "saga_lagging_hero"
+        }
+      ]
     }],
     "literal": "suten"
   },
@@ -19721,6 +19953,12 @@
           "contributor": "",
           "display": "わく  わく  わく",
           "source": "isekai_territory_reform"
+        },
+        {
+          "file": "waku_waku-1c",
+          "contributor": "",
+          "display": "わく  わく",
+          "source": "saga_lagging_hero"
         }
       ]
     }],
@@ -20125,6 +20363,12 @@
           "contributor": "",
           "display": "ザンッ",
           "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "zan-1c",
+          "contributor": "",
+          "display": "ザン",
+          "source": "saga_lagging_hero"
         }
       ]
     }],
@@ -20155,6 +20399,32 @@
       }]
     }],
     "literal": "zappon"
+  },
+  {
+    "hiragana": [
+      "ざりざり",
+      "ざりざりざり"
+    ],
+    "katakana": [
+      "ザリザリ",
+      "ザリザリザリ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "clash clash",
+        "grind grind",
+        "rasp rasp",
+        "scrape scrape"
+      ],
+      "meaning": "a loud scrape or grinding noise",
+      "example": [{
+        "file": "zari_zari-1a",
+        "contributor": "",
+        "display": "ザリ  ザリ  ザリ",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "zari zari"
   },
   {
     "hiragana": [
@@ -21097,6 +21367,33 @@
       ]
     }],
     "literal": "zuru"
+  },
+  {
+    "hiragana": [
+      "ずるずる",
+      "ずるずるっ"
+    ],
+    "katakana": [
+      "ズルズル",
+      "ズルズルッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "drag drag",
+        "move move",
+        "pull pull",
+        "slide slide",
+        "slip slip"
+      ],
+      "meaning": "the indication or sound of something sliding or being dragged",
+      "example": [{
+        "file": "zuru_zuru-1a",
+        "contributor": "",
+        "display": "ずるずる",
+        "source": "saga_lagging_hero"
+      }]
+    }],
+    "literal": "zuru zuru"
   },
   {
     "hiragana": [

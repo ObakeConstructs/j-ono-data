@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "the sound of a hit or strike, often in a minor or harmless manner",
+      "meaning": "the sound of a hit or strike, can be loud or soft depending on context",
       "equivalent": [
         "bam",
         "bat",
@@ -57,6 +57,12 @@
         {
           "source": "blazing_fire_brigade",
           "file": "gon-1d",
+          "display": "ゴン",
+          "contributor": ""
+        },
+        {
+          "source": "saga_lagging_hero",
+          "file": "gon-1e",
           "display": "ゴン",
           "contributor": ""
         }

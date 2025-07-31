@@ -1,0 +1,30 @@
+{
+  "literal": "zari zari",
+  "katakana": [
+    "ザリザリ",
+    "ザリザリザリ"
+  ],
+  "hiragana": [
+    "ざりざり",
+    "ざりざりざり"
+  ],
+  "definition": [
+    {
+      "meaning": "a loud scrape or grinding noise",
+      "equivalent": [
+        "grind grind",
+        "rasp rasp",
+        "scrape scrape",
+        "clash clash"
+      ],
+      "example": [
+        {
+          "source": "saga_lagging_hero",
+          "file": "zari_zari-1a",
+          "display": "ザリ  ザリ  ザリ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

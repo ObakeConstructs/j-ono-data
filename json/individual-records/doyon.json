@@ -1,0 +1,37 @@
+{
+  "literal": "doyon",
+  "katakana": [
+    "ドヨン",
+    "ドヨンッ",
+    "ドヨーン"
+  ],
+  "hiragana": [
+    "どよん",
+    "どよんッっ",
+    "どよーん"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of gloom or a somber mood",
+      "equivalent": [
+        "gloom",
+        "gloomy",
+        "down",
+        "depressed",
+        "bleak",
+        "somber",
+        "desolate",
+        "dismal",
+        "dire"
+      ],
+      "example": [
+        {
+          "source": "saga_lagging_hero",
+          "file": "doyon-1a",
+          "display": "どよー..ん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

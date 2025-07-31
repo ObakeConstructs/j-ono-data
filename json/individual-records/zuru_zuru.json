@@ -1,0 +1,31 @@
+{
+  "literal": "zuru zuru",
+  "katakana": [
+    "ズルズル",
+    "ズルズルッ"
+  ],
+  "hiragana": [
+    "ずるずる",
+    "ずるずるっ"
+  ],
+  "definition": [
+    {
+      "meaning": "the indication or sound of something sliding or being dragged",
+      "equivalent": [
+        "drag drag",
+        "move move",
+        "pull pull",
+        "slide slide",
+        "slip slip"
+      ],
+      "example": [
+        {
+          "source": "saga_lagging_hero",
+          "file": "zuru_zuru-1a",
+          "display": "ずるずる",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

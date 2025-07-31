@@ -1,0 +1,33 @@
+{
+  "literal": "da da",
+  "katakana": [
+    "ダ",
+    "ダダ",
+    "ダダダ"
+  ],
+  "hiragana": [
+    "だ",
+    "だだ",
+    "だだだ"
+  ],
+  "definition": [
+    {
+      "meaning": "the rythmic sound of typing on a modern keyboard",
+      "equivalent": [
+        "click click",
+        "clickety click",
+        "tacka tack",
+        "tap tap",
+        "ticka tick"
+      ],
+      "example": [
+        {
+          "source": "saga_lagging_hero",
+          "file": "da_da-1a",
+          "display": "ダ  ダ  ダ  ダ  ダ  ダ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
