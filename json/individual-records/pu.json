@@ -52,18 +52,31 @@
       ]
     },
     {
-      "meaning": "a small popping sound",
+      "meaning": "an indication or sound of a small pluck or poke",
       "equivalent": [
         "crack",
         "crackle",
         "pop",
-        "snap"
+        "snap",
+        "poke",
+        "prod",
+        "jab",
+        "pierce",
+        "pluck",
+        "pick",
+        "pull"
       ],
       "example": [
         {
           "source": "dog_became_strongest",
           "file": "pu-2a",
           "display": "プッ",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_sniper",
+          "file": "pu-2b",
+          "display": "プッ...",
           "contributor": ""
         }
       ]

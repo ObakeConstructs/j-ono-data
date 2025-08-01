@@ -4,17 +4,19 @@
     "ド",
     "ドッ",
     "ドォ",
-    "ドォッ"
+    "ドォッ",
+    "ドオォ"
   ],
   "hiragana": [
     "ど",
     "どっ",
     "どぉ",
-    "どぉっ"
+    "どぉっ",
+    "どおぉ"
   ],
   "definition": [
     {
-      "meaning": "a large impact or explosion",
+      "meaning": "the sound of an impact or explosion",
       "equivalent": [
         "bam",
         "bang",
@@ -49,6 +51,12 @@
           "source": "my_s-ranked_daughter",
           "file": "do-1c",
           "display": "ドッ",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_sniper",
+          "file": "do-1d",
+          "display": "ドッオォ",
           "contributor": ""
         }
       ]

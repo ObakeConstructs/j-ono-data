@@ -86,12 +86,20 @@
         "sigh"
       ],
       "meaning": "a moan of pleasure, often used in a comical manner",
-      "example": [{
-        "file": "ahan-1a",
-        "contributor": "",
-        "display": "あはーん",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "file": "ahan-1a",
+          "contributor": "",
+          "display": "あはーん",
+          "source": "hello_work"
+        },
+        {
+          "file": "ahan-1b",
+          "contributor": "",
+          "display": "あは〜ん",
+          "source": "isekai_sniper"
+        }
+      ]
     }],
     "literal": "ahan"
   },
@@ -612,6 +620,12 @@
             "contributor": "",
             "display": "バーン",
             "source": "killed_by_gods_mistake"
+          },
+          {
+            "file": "ban-2c",
+            "contributor": "",
+            "display": "バンッ",
+            "source": "isekai_sniper"
           }
         ]
       }
@@ -2968,6 +2982,43 @@
   },
   {
     "hiragana": [
+      "ち",
+      "ちち",
+      "ちちち",
+      "ちっ",
+      "ちちっ",
+      "ちちちっ"
+    ],
+    "katakana": [
+      "チ",
+      "チチ",
+      "チチチ",
+      "チッ",
+      "チチッ",
+      "チチチッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cheep cheep",
+        "chirp chirp",
+        "peep peep",
+        "pip pip",
+        "trill trill",
+        "tweet tweet",
+        "warble warble"
+      ],
+      "meaning": "the short sharp sound of a small bird",
+      "example": [{
+        "file": "chi_chi-1a",
+        "contributor": "",
+        "display": "チチチッ  チチッ",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "chi_chi"
+  },
+  {
+    "hiragana": [
       "ちょぃ",
       "ちょぃっ"
     ],
@@ -3397,13 +3448,15 @@
       "ど",
       "どっ",
       "どぉ",
-      "どぉっ"
+      "どぉっ",
+      "どおぉ"
     ],
     "katakana": [
       "ド",
       "ドッ",
       "ドォ",
-      "ドォッ"
+      "ドォッ",
+      "ドオォ"
     ],
     "definition": [
       {
@@ -3424,7 +3477,7 @@
           "whomp",
           "whump"
         ],
-        "meaning": "a large impact or explosion",
+        "meaning": "the sound of an impact or explosion",
         "example": [
           {
             "file": "do-1a",
@@ -3443,6 +3496,12 @@
             "contributor": "",
             "display": "ドッ",
             "source": "my_s-ranked_daughter"
+          },
+          {
+            "file": "do-1d",
+            "contributor": "",
+            "display": "ドッオォ",
+            "source": "isekai_sniper"
           }
         ]
       },
@@ -3495,6 +3554,30 @@
       }]
     }],
     "literal": "dobon"
+  },
+  {
+    "hiragana": [
+      "どどがどどが",
+      "どどがどどがっ"
+    ],
+    "katakana": [
+      "ドドガドドガ",
+      "ドドガドドガッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ba-dum ba-dum",
+        "gallop gallop"
+      ],
+      "meaning": "the rythmic sound of horses galloping",
+      "example": [{
+        "file": "dodoga_dodoga-1a",
+        "contributor": "",
+        "display": "ドドガ  ドドガッ",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "dodoga dodoga"
   },
   {
     "hiragana": [
@@ -3766,6 +3849,24 @@
     "literal": "doki doki"
   },
   {
+    "hiragana": ["どくん"],
+    "katakana": ["ドクン"],
+    "definition": [{
+      "equivalent": [
+        "ba-bump",
+        "throb"
+      ],
+      "meaning": "the indication or sound of strong heartbeat, often used to indicate a dramatic realization",
+      "example": [{
+        "file": "dokun-1a",
+        "contributor": "",
+        "display": "ドクン",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "dokun"
+  },
+  {
     "hiragana": ["どくんどくん"],
     "katakana": ["ドクンドクン"],
     "definition": [{
@@ -3784,6 +3885,33 @@
       }]
     }],
     "literal": "dokun dokun"
+  },
+  {
+    "hiragana": [
+      "どきゅん",
+      "どきゅうん",
+      "どきゅううん"
+    ],
+    "katakana": [
+      "ドキュン",
+      "ドキュウン",
+      "ドキュウウン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ba-dump",
+        "cute",
+        "longing"
+      ],
+      "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
+      "example": [{
+        "file": "dokyun-1a",
+        "contributor": "",
+        "display": "ドキュウウン",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "dokyun"
   },
   {
     "hiragana": [
@@ -5920,16 +6048,22 @@
         "meaning": "an indication of something moving with a clatter or rattle",
         "example": [
           {
-            "file": "gara_gara-1b",
+            "file": "gara_gara-2a",
             "contributor": "",
             "display": "ガラ  ガラ",
             "source": "otherworld_material_collector"
           },
           {
-            "file": "gara_gara-1b",
+            "file": "gara_gara-2b",
             "contributor": "",
             "display": "ガラガラガラ..",
             "source": "berserk"
+          },
+          {
+            "file": "gara_gara-2c",
+            "contributor": "",
+            "display": "ガラ  ガラ  ガ  ガラ",
+            "source": "isekai_sniper"
           }
         ]
       }
@@ -6296,12 +6430,20 @@
           "wobble"
         ],
         "meaning": "an indication of shaking, as from fear or cold",
-        "example": [{
-          "file": "gata_gata-2a",
-          "contributor": "",
-          "display": "ガタ  ガタ  ガタ",
-          "source": "drawing"
-        }]
+        "example": [
+          {
+            "file": "gata_gata-2a",
+            "contributor": "",
+            "display": "ガタ  ガタ  ガタ",
+            "source": "drawing"
+          },
+          {
+            "file": "gata_gata-2b",
+            "contributor": "",
+            "display": "ガタ  ガタ",
+            "source": "isekai_sniper"
+          }
+        ]
       }
     ],
     "literal": "gata gata"
@@ -6921,6 +7063,54 @@
       }]
     }],
     "literal": "gogogo"
+  },
+  {
+    "hiragana": [
+      "ごほ",
+      "ごほっ"
+    ],
+    "katakana": [
+      "ゴホ",
+      "ゴホッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cough",
+        "hack"
+      ],
+      "meaning": "the sound of a deep or wet cough",
+      "example": [{
+        "file": "goho-1a",
+        "contributor": "",
+        "display": "ゴホッ",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "goho"
+  },
+  {
+    "hiragana": [
+      "ごほごほ",
+      "ごほごほっ"
+    ],
+    "katakana": [
+      "ゴホゴホ",
+      "ゴホゴホッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cough cough",
+        "hack hack"
+      ],
+      "meaning": "a series of a deep or wet coughs",
+      "example": [{
+        "file": "goho_goho-1a",
+        "contributor": "",
+        "display": "ゴホ  ゴホッ",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "goho goho"
   },
   {
     "hiragana": ["こき"],
@@ -8808,37 +8998,52 @@
       "ホォ",
       "ホオ"
     ],
-    "definition": [{
-      "equivalent": [
-        "ahh",
-        "phew",
-        "relief",
-        "relieved",
-        "sigh",
-        "whew"
-      ],
-      "meaning": "the sound or expression of relief",
-      "example": [
-        {
-          "file": "ho-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "ahh",
+          "phew",
+          "relief",
+          "relieved",
+          "sigh",
+          "whew"
+        ],
+        "meaning": "the sound or expression of relief",
+        "example": [
+          {
+            "file": "ho-1a",
+            "contributor": "",
+            "display": "ほっ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "ho-1b",
+            "contributor": "",
+            "display": "ホッ",
+            "source": "peter_grill"
+          },
+          {
+            "file": "ho-1c",
+            "contributor": "",
+            "display": "ほぉー",
+            "source": "my_s-ranked_daughter"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "ah",
+          "oh"
+        ],
+        "meaning": "an expression of understanding or realization",
+        "example": [{
+          "file": "ho-2a",
           "contributor": "",
-          "display": "ほっ",
-          "source": "d_genesis"
-        },
-        {
-          "file": "ho-1b",
-          "contributor": "",
-          "display": "ホッ",
-          "source": "peter_grill"
-        },
-        {
-          "file": "ho-1c",
-          "contributor": "",
-          "display": "ほぉー",
-          "source": "my_s-ranked_daughter"
-        }
-      ]
-    }],
+          "display": "ほお...",
+          "source": "isekai_sniper"
+        }]
+      }
+    ],
     "literal": "ho"
   },
   {
@@ -8890,6 +9095,39 @@
   },
   {
     "hiragana": [
+      "ホホ",
+      "ホホホ",
+      "ホホッ",
+      "ホホホッ",
+      "ホッホッ"
+    ],
+    "katakana": [
+      "ほほ",
+      "ほほほ",
+      "ほほっ",
+      "ほほほっ",
+      "ほっほっ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "chortle",
+        "chuckle",
+        "ha ha",
+        "heh heh",
+        "laugh"
+      ],
+      "meaning": "a deep laugh",
+      "example": [{
+        "file": "ho_ho-1a",
+        "contributor": "",
+        "display": "ほっほっほ",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "ho ho"
+  },
+  {
+    "hiragana": [
       "ひゃ",
       "ひゃっ"
     ],
@@ -8924,12 +9162,20 @@
         "smooth"
       ],
       "meaning": "a quick, effortless action",
-      "example": [{
-        "file": "hyoi-1a",
-        "contributor": "",
-        "display": "ひょい",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "hyoi-1a",
+          "contributor": "",
+          "display": "ひょい",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "hyoi-1b",
+          "contributor": "",
+          "display": "ヒョイ",
+          "source": "isekai_sniper"
+        }
+      ]
     }],
     "literal": "hyoi"
   },
@@ -9359,6 +9605,34 @@
       ]
     }],
     "literal": "jara"
+  },
+  {
+    "hiragana": [
+      "じゃらん",
+      "じゃらーん"
+    ],
+    "katakana": [
+      "ジャラン",
+      "ジャラーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ching",
+        "clink",
+        "jingle",
+        "ting",
+        "tink",
+        "tinkle"
+      ],
+      "meaning": "a sharp light sound of rattling metal or glass",
+      "example": [{
+        "file": "jaran-1a",
+        "contributor": "",
+        "display": "ジャラーン",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "jaran"
   },
   {
     "hiragana": ["じゃじゃ"],
@@ -10563,6 +10837,33 @@
   },
   {
     "hiragana": [
+      "けほ",
+      "けほっ"
+    ],
+    "katakana": [
+      "ケホ",
+      "ケホッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "cough",
+        "gasp",
+        "huff",
+        "pant",
+        "wheeze"
+      ],
+      "meaning": "the sound of a coughing or a struggle to breath",
+      "example": [{
+        "file": "keho-1a",
+        "contributor": "",
+        "display": "ケホッ",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "keho"
+  },
+  {
+    "hiragana": [
       "けほけほ",
       "けほっけほっ"
     ],
@@ -10578,7 +10879,7 @@
         "pant pant",
         "wheeze wheeze"
       ],
-      "meaning": "the sound of someone struggling to breath",
+      "meaning": "the sound of someone coughing or struggling to breath",
       "example": [
         {
           "file": "keho_keho-1a",
@@ -11484,6 +11785,31 @@
       }
     ],
     "literal": "kui kui"
+  },
+  {
+    "hiragana": [
+      "くく",
+      "くくっ"
+    ],
+    "katakana": [
+      "クク",
+      "ククッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "creak",
+        "grind",
+        "rustle"
+      ],
+      "meaning": "a creaking sound of tightening rope or leather",
+      "example": [{
+        "file": "kuku-1a",
+        "contributor": "",
+        "display": "クク..",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "kuku-1a"
   },
   {
     "hiragana": [
@@ -13278,33 +13604,50 @@
       "オオオ",
       "オオオッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "hoh",
-        "oh"
-      ],
-      "meaning": "a brief exclamation expressing surprise or appreciation",
-      "example": [
-        {
-          "file": "o-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "hoh",
+          "oh"
+        ],
+        "meaning": "a brief exclamation expressing surprise or appreciation",
+        "example": [
+          {
+            "file": "o-1a",
+            "contributor": "",
+            "display": "お",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "o-1b",
+            "contributor": "",
+            "display": "おおおっ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "o-1c",
+            "contributor": "",
+            "display": "おおっ",
+            "source": "otherworld_material_collector"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "bellow",
+          "howl",
+          "roar",
+          "screech"
+        ],
+        "meaning": "a menacing roar or howl",
+        "example": [{
+          "file": "o-2a",
           "contributor": "",
-          "display": "お",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "o-1b",
-          "contributor": "",
-          "display": "おおおっ",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "o-1c",
-          "contributor": "",
-          "display": "おおっ",
-          "source": "otherworld_material_collector"
-        }
-      ]
-    }],
+          "display": "オオッ  オオォ",
+          "source": "isekai_sniper"
+        }]
+      }
+    ],
     "literal": "o"
   },
   {
@@ -14167,6 +14510,29 @@
       }
     ],
     "literal": "patan"
+  },
+  {
+    "hiragana": ["ぱたた"],
+    "katakana": ["パタタ"],
+    "definition": [{
+      "equivalent": [
+        "dribble",
+        "drip",
+        "plop",
+        "ripple",
+        "spatter",
+        "splash",
+        "trickle"
+      ],
+      "meaning": "a dripping or spattering sound",
+      "example": [{
+        "file": "patata-1a",
+        "contributor": "",
+        "display": "パタタ...",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "patata"
   },
   {
     "hiragana": ["ぱたぱた"],
@@ -16000,6 +16366,12 @@
           "contributor": "",
           "display": "ポロ  ポロ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "poro_poro-1c",
+          "contributor": "",
+          "display": "ポロ  ポロ",
+          "source": "isekai_sniper"
         }
       ]
     }],
@@ -16187,16 +16559,31 @@
         "equivalent": [
           "crack",
           "crackle",
+          "jab",
+          "pick",
+          "pierce",
+          "pluck",
+          "poke",
           "pop",
+          "prod",
+          "pull",
           "snap"
         ],
-        "meaning": "a small popping sound",
-        "example": [{
-          "file": "pu-2a",
-          "contributor": "",
-          "display": "プッ",
-          "source": "dog_became_strongest"
-        }]
+        "meaning": "an indication or sound of a small pluck or poke",
+        "example": [
+          {
+            "file": "pu-2a",
+            "contributor": "",
+            "display": "プッ",
+            "source": "dog_became_strongest"
+          },
+          {
+            "file": "pu-2b",
+            "contributor": "",
+            "display": "プッ...",
+            "source": "isekai_sniper"
+          }
+        ]
       }
     ],
     "literal": "pu"
@@ -16310,6 +16697,27 @@
       }]
     }],
     "literal": "pui"
+  },
+  {
+    "hiragana": ["ぷく"],
+    "katakana": ["プク"],
+    "definition": [{
+      "equivalent": [
+        "pout",
+        "puffy",
+        "snit",
+        "sulk",
+        "sullen"
+      ],
+      "meaning": "an indication of puffy cheeks, humorously expressing a sulk or a pout",
+      "example": [{
+        "file": "puku-1a",
+        "contributor": "",
+        "display": "ぷくー..",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "puku"
   },
   {
     "hiragana": [
@@ -16988,13 +17396,21 @@
           "tap",
           "walk"
         ],
-        "meaning": "a soft step",
-        "example": [{
-          "file": "sa-5a",
-          "contributor": "",
-          "display": "さあ...",
-          "source": "uncle_at_heart"
-        }]
+        "meaning": "the indication or sound of a soft step",
+        "example": [
+          {
+            "file": "sa-5a",
+            "contributor": "",
+            "display": "さあ...",
+            "source": "uncle_at_heart"
+          },
+          {
+            "file": "sa-5b",
+            "contributor": "",
+            "display": "サッ",
+            "source": "isekai_sniper"
+          }
+        ]
       }
     ],
     "literal": "sa"
@@ -17839,6 +18255,32 @@
   },
   {
     "hiragana": [
+      "すちゃ",
+      "すちゃっ"
+    ],
+    "katakana": [
+      "スチャ",
+      "スチャッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "careful",
+        "slow",
+        "steady",
+        "unfaltering"
+      ],
+      "meaning": "an indication of slow and steady movement",
+      "example": [{
+        "file": "sucha-1a",
+        "contributor": "",
+        "display": "スチャッ",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "sucha"
+  },
+  {
+    "hiragana": [
       "すか",
       "すかっ"
     ],
@@ -18657,6 +19099,29 @@
       }]
     }],
     "literal": "tata tata"
+  },
+  {
+    "hiragana": ["たゅんたゅん"],
+    "katakana": ["タュンタュン"],
+    "definition": [{
+      "equivalent": [
+        "boing boing",
+        "bounce bounce",
+        "jiggle jiggle",
+        "quiver quiver",
+        "shake shake",
+        "sway sway",
+        "wobble wobble"
+      ],
+      "meaning": "an indication of bouncing or jiggling",
+      "example": [{
+        "file": "tayun_tayun-1a",
+        "contributor": "",
+        "display": "たゅん  たゅん",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "tayun tayun"
   },
   {
     "hiragana": [
@@ -21067,6 +21532,31 @@
       }]
     }],
     "literal": "zuki"
+  },
+  {
+    "hiragana": [
+      "ずきゅん",
+      "ずっきゅん"
+    ],
+    "katakana": [
+      "ズキュン",
+      "ズッキュン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ba-dump",
+        "cute",
+        "longing"
+      ],
+      "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
+      "example": [{
+        "file": "zukyun-1a",
+        "contributor": "",
+        "display": "ズッキュン",
+        "source": "isekai_sniper"
+      }]
+    }],
+    "literal": "zukyun"
   },
   {
     "hiragana": [

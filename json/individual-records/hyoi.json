@@ -1,19 +1,33 @@
 {
-  "hiragana": ["ひょい"],
-  "katakana": ["ヒョイ"],
-  "definition": [{
-    "equivalent": [
-      "easy",
-      "effortless",
-      "smooth"
-    ],
-    "meaning": "a quick, effortless action",
-    "example": [{
-      "file": "hyoi-1a",
-      "contributor": "",
-      "display": "ひょい",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "hyoi"
+  "literal": "hyoi",
+  "katakana": [
+    "ヒョイ"
+  ],
+  "hiragana": [
+    "ひょい"
+  ],
+  "definition": [
+    {
+      "meaning": "a quick, effortless action",
+      "equivalent": [
+        "easy",
+        "effortless",
+        "smooth"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "hyoi-1a",
+          "display": "ひょい",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_sniper",
+          "file": "hyoi-1b",
+          "display": "ヒョイ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

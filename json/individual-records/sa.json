@@ -119,7 +119,7 @@
       ]
     },
     {
-      "meaning": "a soft step",
+      "meaning": "the indication or sound of a soft step",
       "equivalent": [
         "plod",
         "shuffle",
@@ -132,6 +132,12 @@
           "source": "uncle_at_heart",
           "file": "sa-5a",
           "display": "さあ...",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_sniper",
+          "file": "sa-5b",
+          "display": "サッ",
           "contributor": ""
         }
       ]

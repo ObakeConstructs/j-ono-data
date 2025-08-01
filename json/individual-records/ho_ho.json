@@ -1,0 +1,37 @@
+{
+  "literal": "ho ho",
+  "katakana": [
+    "ほほ",
+    "ほほほ",
+    "ほほっ",
+    "ほほほっ",
+    "ほっほっ"
+  ],
+  "hiragana": [
+    "ホホ",
+    "ホホホ",
+    "ホホッ",
+    "ホホホッ",
+    "ホッホッ"
+  ],
+  "definition": [
+    {
+      "meaning": "a deep laugh",
+      "equivalent": [
+        "chortle",
+        "chuckle",
+        "ha ha",
+        "heh heh",
+        "laugh"
+      ],
+      "example": [
+        {
+          "source": "isekai_sniper",
+          "file": "ho_ho-1a",
+          "display": "ほっほっほ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

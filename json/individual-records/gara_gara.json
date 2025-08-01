@@ -38,14 +38,20 @@
       "example": [
         {
           "source": "otherworld_material_collector",
-          "file": "gara_gara-1b",
+          "file": "gara_gara-2a",
           "display": "ガラ  ガラ",
           "contributor": ""
         },
         {
           "source": "berserk",
-          "file": "gara_gara-1b",
+          "file": "gara_gara-2b",
           "display": "ガラガラガラ..",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_sniper",
+          "file": "gara_gara-2c",
+          "display": "ガラ  ガラ  ガ  ガラ",
           "contributor": ""
         }
       ]
