@@ -1,7 +1,7 @@
 [
   {
     "publisher_name": "KODANSHA Ltd.",
-    "site": "https://www.kodansha.co.jp/",
+    "site": "https://www.kodansha.co.jp",
     "sources": [
       {
       "id": "abandoned_reincarnation_sage",
@@ -23,7 +23,7 @@
   },
   {
     "publisher_name": "SHUEISHA Inc.",
-    "site": "https://www.shueisha.co.jp/",
+    "site": "https://www.shueisha.co.jp",
     "sources": [
       {
         "id": "bungo",
@@ -45,7 +45,7 @@
   },
   {
     "publisher_name": "KADOKAWA Corp.",
-    "site": "https://www.kadokawa.co.jp/",
+    "site": "https://www.kadokawa.co.jp",
     "sources": [
       {
         "id": "d_genesis",
@@ -63,7 +63,7 @@
   },
   {
     "publisher_name": "MICRO MAGAZINE, Inc.",
-    "site": "https://micromagazine.co.jp/",
+    "site": "https://micromagazine.co.jp",
     "sources": [
       {
         "id": "dog_became_strongest",
@@ -77,7 +77,7 @@
   },
   {
     "publisher_name": "AKITA PUBLISHING Co., Ltd.",
-    "site": "https://www.akitashoten.co.jp/",
+    "site": "https://www.akitashoten.co.jp",
     "sources": [
       {
         "id": "hanako_24th_ward",
@@ -99,7 +99,7 @@
   },
   {
     "publisher_name": "KILL TIME COMMUNICATION PUBLISHING Co.",
-    "site": "https://www.ktcom.jp/",
+    "site": "https://www.ktcom.jp",
     "sources": [
       {
         "id": "hello_work",
@@ -113,7 +113,7 @@
   },
   {
     "publisher_name": "Shogakukan Inc.",
-    "site": "https://www.shogakukan.co.jp/",
+    "site": "https://www.shogakukan.co.jp",
     "sources": [
       {
         "id": "komi_cant_communicate",
@@ -131,7 +131,7 @@
   },
   {
     "publisher_name": "SHUFU TO SEIKATSU SHA CO., LTD.",
-    "site": "https://www.shufu.co.jp/",
+    "site": "https://www.shufu.co.jp",
     "sources": [
       {
         "id": "kuma_kuma_kuma_bear",
@@ -149,7 +149,7 @@
   },
   {
     "publisher_name": "OVERLAP, Inc.",
-    "site": "https://over-lap.co.jp/",
+    "site": "https://over-lap.co.jp",
     "sources": [
       {
         "id": "modern_dungeon_capture",
@@ -171,7 +171,7 @@
   },
   {
     "publisher_name": "AlphaPolis Co., Ltd.",
-    "site": "https://www.alphapolis.co.jp/",
+    "site": "https://www.alphapolis.co.jp",
     "sources": [
       {
         "id": "otherworld_material_collector",
@@ -181,7 +181,7 @@
   },
   {
     "publisher_name": "MAG Garden Corp.",
-    "site": "https://www.mag-garden.co.jp/",
+    "site": "https://www.mag-garden.co.jp",
     "sources": [
       {
         "id": "reincarnated_aristocrat",
@@ -195,7 +195,7 @@
   },
   {
     "publisher_name": "No9, Inc",
-    "site": "https://no9.co.jp/",
+    "site": "https://no9.co.jp",
     "sources": [
       {
         "id": "reincarnated_farm_girl",
@@ -213,7 +213,7 @@
   },
   {
     "publisher_name": "SQUARE ENIX",
-    "site": "https://www.jp.square-enix.com/",
+    "site": "https://www.jp.square-enix.com",
     "sources": [
       {
         "id": "world_full_of_monsters",
@@ -223,7 +223,7 @@
   },
   {
     "publisher_name": "HAKUSENSHA",
-    "site": "https://www.hakusensha.co.jp/",
+    "site": "https://www.hakusensha.co.jp",
     "sources": [
       {
         "id": "s_rank_behemoth",
@@ -237,7 +237,7 @@
   },
   {
     "publisher_name": "Futabasha Ltd.",
-    "site": "https://www.futabasha.co.jp/",
+    "site": "https://www.futabasha.co.jp",
     "sources": [
       {
         "id": "a_rank_slow_life",
@@ -255,7 +255,7 @@
   },
   {
     "publisher_name": "Coamix Inc.",
-    "site": "https://www.coamix.co.jp/",
+    "site": "https://www.coamix.co.jp",
     "sources": [
       {
         "id": "strongest_thread_master",
@@ -269,7 +269,7 @@
   },
   {
     "publisher_name": "EARTH STAR Entertainment",
-    "site": "https://www.earthstar.co.jp/",
+    "site": "https://www.earthstar.co.jp",
     "sources": [
       {
         "id": "eternal_fool_asley",
@@ -287,7 +287,7 @@
   },
   {
     "publisher_name": "TAKESHOBO Co., Ltd.",
-    "site": "https://www.takeshobo.co.jp/",
+    "site": "https://www.takeshobo.co.jp",
     "sources": [
       {
         "id": "human_ranch",
@@ -301,7 +301,7 @@
   },
   {
     "publisher_name": "Gentosha Inc.",
-    "site": "http://www.gentosha-comics.net/",
+    "site": "http://www.gentosha-comics.net",
     "sources": [
       {
         "id": "killed_by_gods_mistake",
@@ -315,7 +315,7 @@
   },
   {
     "publisher_name": "NIHONBUNGEISHA",
-    "site": "http://www.nihonbungeisha.co.jp/",
+    "site": "http://www.nihonbungeisha.co.jp",
     "sources": [
       {
         "id": "double_play",
