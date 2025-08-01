@@ -721,7 +721,7 @@
             "file": "basa-1d",
             "contributor": "",
             "display": "バサッ",
-            "source": "nete_kunoichi"
+            "source": "neet_kunoichi"
           },
           {
             "file": "basa-1e",
@@ -744,7 +744,7 @@
           "ta-da",
           "unveil"
         ],
-        "meaning": "to suddenly appear, as in a dramatic \"reveal\"",
+        "meaning": "to suddenly appear, as in a dramatic reveal",
         "example": [{
           "file": "basa-2a",
           "contributor": "",
@@ -1546,7 +1546,7 @@
           "file": "bishi-4a",
           "contributor": "",
           "display": "ビシッ",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         }]
       }
     ],
@@ -2540,7 +2540,7 @@
         "file": "bu_bu-1a",
         "contributor": "",
         "display": "ブー  ブー",
-        "source": "nete_kunoichi"
+        "source": "neet_kunoichi"
       }]
     }],
     "literal": "bu bu"
@@ -3842,7 +3842,7 @@
           "file": "doki_doki-1c",
           "contributor": "",
           "display": "ドッキ  ドッキ  ドッキ  ドッキ",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         }
       ]
     }],
@@ -5517,7 +5517,7 @@
             "file": "gaba-1c",
             "contributor": "",
             "display": "ガバッ",
-            "source": "nete_kunoichi"
+            "source": "neet_kunoichi"
           },
           {
             "file": "gaba-1d",
@@ -5727,12 +5727,20 @@
         "whang"
       ],
       "meaning": "the reverberating sound of a hard, sharp metallic strike",
-      "example": [{
-        "file": "gakin-1a",
-        "contributor": "",
-        "display": "ガキンッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "gakin-1a",
+          "contributor": "",
+          "display": "ガキンッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gakin-1b",
+          "contributor": "",
+          "display": "ガキンッ",
+          "source": "neet_kunoichi"
+        }
+      ]
     }],
     "literal": "gakin"
   },
@@ -7415,7 +7423,7 @@
           "file": "goron-1b",
           "contributor": "",
           "display": "ゴロン",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         },
         {
           "file": "goron-1c",
@@ -7466,7 +7474,7 @@
             "file": "goro_goro-2a",
             "contributor": "",
             "display": "ゴロ  ゴロ",
-            "source": "nete_kunoichi"
+            "source": "neet_kunoichi"
           },
           {
             "file": "goro_goro-2b",
@@ -9717,7 +9725,7 @@
           "file": "ji-2a",
           "contributor": "",
           "display": "ジー",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         }]
       }
     ],
@@ -10292,7 +10300,7 @@
           "file": "kacha_kacha-1b",
           "contributor": "",
           "display": "カチャ  カチャ",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         },
         {
           "file": "kacha_kacha-1c",
@@ -10885,7 +10893,7 @@
           "file": "keho_keho-1a",
           "contributor": "",
           "display": "ケホッ  ケホ...",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         },
         {
           "file": "keho_keho-1b",
@@ -11607,7 +11615,7 @@
           "file": "koto-1d",
           "contributor": "",
           "display": "コト..",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         }
       ]
     }],
@@ -12604,7 +12612,7 @@
           "file": "moji_moji-1a",
           "contributor": "",
           "display": "もじ  もじ",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         },
         {
           "file": "moji_moji-1b",
@@ -15073,7 +15081,7 @@
             "file": "pi-2a",
             "contributor": "",
             "display": "ピッ",
-            "source": "nete_kunoichi"
+            "source": "neet_kunoichi"
           },
           {
             "file": "pi-2b",
@@ -15419,7 +15427,7 @@
         "file": "pikon_pikon-1a",
         "contributor": "",
         "display": "ピコ  ピコ  ピコ",
-        "source": "nete_kunoichi"
+        "source": "neet_kunoichi"
       }]
     }],
     "literal": "pikon pikon"
@@ -16919,7 +16927,7 @@
           "file": "puru_puru-1b",
           "contributor": "",
           "display": "プル  プル",
-          "source": "nete_kunoichi"
+          "source": "neet_kunoichi"
         },
         {
           "file": "puru_puru-1c",
