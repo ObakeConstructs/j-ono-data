@@ -21446,6 +21446,48 @@
     "literal": "zuda"
   },
   {
+    "hiragana": ["ずぎゃ"],
+    "katakana": ["ズギャ"],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "blow",
+        "clobber",
+        "crunch",
+        "drill",
+        "hit",
+        "impact",
+        "impale",
+        "pelt",
+        "pierce",
+        "punch",
+        "skewer",
+        "slam",
+        "smash",
+        "spike",
+        "stab",
+        "strike",
+        "wham"
+      ],
+      "meaning": "the sound of a strong piercing blow",
+      "example": [
+        {
+          "file": "zugya-1a",
+          "contributor": "Artrix",
+          "display": "ズギャ",
+          "source": "pokemon_xy_break"
+        },
+        {
+          "file": "zugya-1b",
+          "contributor": "Artrix",
+          "display": "ズギャ",
+          "source": "pokemon_xy_break"
+        }
+      ]
+    }],
+    "literal": "zugya"
+  },
+  {
     "hiragana": [
       "ずい",
       "ずいっ",

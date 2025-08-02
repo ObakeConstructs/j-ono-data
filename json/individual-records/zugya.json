@@ -1,0 +1,48 @@
+{
+  "literal": "zugya",
+  "katakana": [
+    "ズギャ"
+  ],
+  "hiragana": [
+    "ずぎゃ"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of a strong piercing blow",
+      "equivalent": [
+        "bam",
+        "blow",
+        "clobber",
+        "crunch",
+        "drill",
+        "hit",
+        "impact",
+        "impale",
+        "pelt",
+        "pierce",
+        "punch",
+        "skewer",
+        "slam",
+        "smash",
+        "spike",
+        "stab",
+        "strike",
+        "wham"
+      ],
+      "example": [
+        {
+          "source": "pokemon_xy_break",
+          "file": "zugya-1a",
+          "display": "ズギャ",
+          "contributor": "Artrix"
+        },
+        {
+          "source": "pokemon_xy_break",
+          "file": "zugya-1b",
+          "display": "ズギャ",
+          "contributor": "Artrix"
+        }
+      ]
+    }
+  ]
+}
