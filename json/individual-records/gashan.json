@@ -1,39 +1,47 @@
 {
-  "hiragana": [
-    "がしゃん",
-    "がしゃーん",
-    "がしゃぁん",
-    "がしゃぁぁん"
-  ],
+  "literal": "gashan",
   "katakana": [
     "ガシャン",
     "ガシャーン",
     "ガシャァン",
     "ガシャァァン"
   ],
-  "definition": [{
-    "equivalent": [
-      "blast",
-      "crack",
-      "crash",
-      "shatter",
-      "smash"
-    ],
-    "meaning": "the sound of something suddenly breaking into pieces, as from an impact",
-    "example": [
-      {
-        "file": "gashan-1a",
-        "contributor": "",
-        "display": "ガシャン",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "gashan-1b",
-        "contributor": "",
-        "display": "ガシャァァン",
-        "source": "reincarnated_aristocrat"
-      }
-    ]
-  }],
-  "literal": "gashan"
+  "hiragana": [
+    "がしゃん",
+    "がしゃーん",
+    "がしゃぁん",
+    "がしゃぁぁん"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of an impact or crash",
+      "equivalent": [
+        "blast",
+        "crack",
+        "crash",
+        "shatter",
+        "smash"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gashan-1a",
+          "display": "ガシャン",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "gashan-1b",
+          "display": "ガシャァァン",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "gashan-1c",
+          "display": "ガシャン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

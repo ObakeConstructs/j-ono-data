@@ -540,6 +540,26 @@
     "literal": "baki baki"
   },
   {
+    "hiragana": ["ばく"],
+    "katakana": ["バク"],
+    "definition": [{
+      "equivalent": [
+        "chomp chomp",
+        "munch munch",
+        "nom nom",
+        "snarf snarf"
+      ],
+      "meaning": "to eat wildly, expressing hunger or enthusiasm",
+      "example": [{
+        "file": "baku_baku-1a",
+        "contributor": "",
+        "display": "バク  バク",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "baku baku"
+  },
+  {
     "hiragana": [
       "ばん",
       "ばーん",
@@ -1285,13 +1305,21 @@
           "shudder",
           "tremble"
         ],
-        "meaning": "a strong indication of shaking",
-        "example": [{
-          "file": "bikun-1a",
-          "contributor": "",
-          "display": "ビクン",
-          "source": "d_genesis"
-        }]
+        "meaning": "a strong indication of shaking or shuddering",
+        "example": [
+          {
+            "file": "bikun-1a",
+            "contributor": "",
+            "display": "ビクン",
+            "source": "d_genesis"
+          },
+          {
+            "file": "bikun-1b",
+            "contributor": "",
+            "display": "ビクン",
+            "source": "rise_of_the_outlaw_tamer"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -3138,7 +3166,7 @@
         "suck",
         "suckle"
       ],
-      "meaning": "the act or sound of sucking",
+      "meaning": "a licking or sucking sound",
       "example": [{
         "file": "chupu-1a",
         "contributor": "",
@@ -3180,6 +3208,32 @@
       ]
     }],
     "literal": "churu"
+  },
+  {
+    "hiragana": [
+      "ちゅちゅ",
+      "ちゅっちゅっ"
+    ],
+    "katakana": [
+      "チュチュ",
+      "チュッチュッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "kiss kiss",
+        "lick lick",
+        "slurp slurp",
+        "suck suck"
+      ],
+      "meaning": "the sound of continuous kissing, licking or sucking",
+      "example": [{
+        "file": "chu_chu-1a",
+        "contributor": "",
+        "display": "チュッ  チュッ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "chu chu"
   },
   {
     "hiragana": [
@@ -3582,11 +3636,19 @@
   {
     "hiragana": [
       "どご",
-      "どごっ"
+      "どごお",
+      "どごぉ",
+      "どごっ",
+      "どごおっ",
+      "どごぉっ"
     ],
     "katakana": [
       "ドゴ",
-      "ドゴッ"
+      "ドゴオ",
+      "ドゴォ",
+      "ドゴッ",
+      "ドゴオッ",
+      "ドゴォッ"
     ],
     "definition": [{
       "equivalent": [
@@ -3625,6 +3687,12 @@
           "contributor": "",
           "display": "ドゴッ",
           "source": "killed_by_gods_mistake"
+        },
+        {
+          "file": "dogo-1c",
+          "contributor": "",
+          "display": "ドゴオッ",
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     }],
@@ -6238,7 +6306,7 @@
         "shatter",
         "smash"
       ],
-      "meaning": "the sound of something suddenly breaking into pieces, as from an impact",
+      "meaning": "the sound of an impact or crash",
       "example": [
         {
           "file": "gashan-1a",
@@ -6251,6 +6319,12 @@
           "contributor": "",
           "display": "ガシャァァン",
           "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "gashan-1c",
+          "contributor": "",
+          "display": "ガシャン",
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     }],
@@ -6528,6 +6602,37 @@
       }
     ],
     "literal": "gaya gaya"
+  },
+  {
+    "hiragana": [
+      "がが",
+      "がっがっ"
+    ],
+    "katakana": [
+      "ガガ",
+      "ガッガッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "catch catch",
+        "clutch clutch",
+        "glom glom",
+        "grab grab",
+        "grasp grasp",
+        "nab nab",
+        "seize seize",
+        "snag snag",
+        "snatch snatch"
+      ],
+      "meaning": "a series of fast grabbing motions",
+      "example": [{
+        "file": "ga_ga-1a",
+        "contributor": "",
+        "display": "ガッ  ガッ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "ga ga"
   },
   {
     "hiragana": [
@@ -7200,6 +7305,12 @@
           "contributor": "",
           "display": "ゴクン.",
           "source": "berserk"
+        },
+        {
+          "file": "gokun-1c",
+          "contributor": "",
+          "display": "ゴクン",
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     }],
@@ -8110,6 +8221,12 @@
           "contributor": "",
           "display": "グルルル...",
           "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "guru-1d",
+          "contributor": "",
+          "display": "グルル..",
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     }],
@@ -9980,6 +10097,42 @@
     "literal": "jun jun"
   },
   {
+    "hiragana": ["じゅぽじゅぽ"],
+    "katakana": ["ジュポジュポ"],
+    "definition": [{
+      "equivalent": [
+        "slurp slurp",
+        "suck suck"
+      ],
+      "meaning": "a wet slurping sound",
+      "example": [{
+        "file": "jupo_jupo-1a",
+        "contributor": "",
+        "display": "ジュポ  ジュポ  ジュポ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "jupo jupo"
+  },
+  {
+    "hiragana": ["じゅぷじゅぷ"],
+    "katakana": ["ジュプジュプ"],
+    "definition": [{
+      "equivalent": [
+        "slurp slurp",
+        "suck suck"
+      ],
+      "meaning": "a wet slurping sound",
+      "example": [{
+        "file": "jupu_jupu-1a",
+        "contributor": "",
+        "display": "ジュプ  ジュプ  ジュプ  ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "jupu jupu"
+  },
+  {
     "hiragana": [
       "じゅる",
       "じゅるっ"
@@ -10056,9 +10209,10 @@
       "equivalent": [
         "kiss",
         "slurp",
-        "suck"
+        "suck",
+        "suckle"
       ],
-      "meaning": "a slurping or licking sound",
+      "meaning": "a wet licking or sucking sound",
       "example": [
         {
           "file": "jyuru-1a",
@@ -11689,6 +11843,28 @@
     "literal": "kua"
   },
   {
+    "hiragana": ["くちゅくちゅ"],
+    "katakana": ["クチュクチュ"],
+    "definition": [{
+      "equivalent": [
+        "glorp glorp",
+        "mwap mwap",
+        "shlop shlop",
+        "shmack shmack",
+        "smack smack",
+        "squelch squelch"
+      ],
+      "meaning": "a wet smacking sound, like chewing gum",
+      "example": [{
+        "file": "kuchu_kuchu-1a",
+        "contributor": "",
+        "display": "クチュ  クチュ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "kuchu kuchu"
+  },
+  {
     "hiragana": [
       "クドクド",
       "クドクドクド"
@@ -12324,12 +12500,14 @@
     "hiragana": [
       "きゅ",
       "きゅっ",
-      "きゅう"
+      "きゅう",
+      "きゅーっ"
     ],
     "katakana": [
       "キュ",
       "キュッ",
-      "キュウ"
+      "キュウ",
+      "キューッ"
     ],
     "definition": [
       {
@@ -12361,10 +12539,11 @@
           "cinch",
           "fasten",
           "lash",
+          "pull",
           "tie",
           "tighten"
         ],
-        "meaning": "to fasten or tie something",
+        "meaning": "an indication or sound of tying, fastening or pulling something tight",
         "example": [
           {
             "file": "kyu-2a",
@@ -12377,6 +12556,12 @@
             "contributor": "",
             "display": "キュ",
             "source": "blazing_fire_brigade"
+          },
+          {
+            "file": "kyu-2c",
+            "contributor": "",
+            "display": "キュッ♡",
+            "source": "rise_of_the_outlaw_tamer"
           }
         ]
       },
@@ -12387,12 +12572,20 @@
           "squeal"
         ],
         "meaning": "a shrill squeaking sound",
-        "example": [{
-          "file": "kyu-3a",
-          "contributor": "",
-          "display": "キュッ",
-          "source": "hikaro_no_go"
-        }]
+        "example": [
+          {
+            "file": "kyu-3a",
+            "contributor": "",
+            "display": "キュッ",
+            "source": "hikaro_no_go"
+          },
+          {
+            "file": "kyu-3b",
+            "contributor": "",
+            "display": "きゅーっ",
+            "source": "rise_of_the_outlaw_tamer"
+          }
+        ]
       }
     ],
     "literal": "kyu"
@@ -13262,7 +13455,7 @@
         "smile",
         "smirk"
       ],
-      "meaning": "an expression happiness, amusement, or agreement",
+      "meaning": "a smile or grin",
       "example": [
         {
           "file": "niko-1a",
@@ -13308,7 +13501,7 @@
         "smile",
         "smirk"
       ],
-      "meaning": "an expression happiness, amusement, or agreement",
+      "meaning": "a smile or grin",
       "example": [{
         "file": "niko_niko-1a",
         "contributor": "",
@@ -13317,6 +13510,32 @@
       }]
     }],
     "literal": "niko niko"
+  },
+  {
+    "hiragana": [
+      "にま",
+      "にまま"
+    ],
+    "katakana": [
+      "ニマ",
+      "ニママ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "beam",
+        "grin",
+        "smile",
+        "smirk"
+      ],
+      "meaning": "a smile or grin",
+      "example": [{
+        "file": "nima-1a",
+        "contributor": "",
+        "display": "ニママ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "nima"
   },
   {
     "hiragana": [
@@ -15124,6 +15343,26 @@
     "literal": "pichan"
   },
   {
+    "hiragana": ["ぴちゃぴちゃ"],
+    "katakana": ["ピチャピチャ"],
+    "definition": [{
+      "equivalent": [
+        "kiss",
+        "slurp",
+        "suck",
+        "suckle"
+      ],
+      "meaning": "a wet licking or sucking sound",
+      "example": [{
+        "file": "picha_picha-1a",
+        "contributor": "",
+        "display": "ピチャ  ピチャ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "picha picha"
+  },
+  {
     "hiragana": ["ぴちぴち"],
     "katakana": ["ピチピチ"],
     "definition": [{
@@ -16858,7 +17097,7 @@
         "sway",
         "wobble"
       ],
-      "meaning": "a small irregular movement",
+      "meaning": "the indication of a wobble or shake",
       "example": [
         {
           "file": "purun-1a",
@@ -16871,6 +17110,12 @@
           "contributor": "",
           "display": "プルン",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "purun-1c",
+          "contributor": "",
+          "display": "ぷるん",
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     }],
@@ -18965,6 +19210,34 @@
       ]
     }],
     "literal": "tan"
+  },
+  {
+    "hiragana": [
+      "たぷん",
+      "たぷんっ"
+    ],
+    "katakana": [
+      "タプン",
+      "タプンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "boing",
+        "jiggle",
+        "quiver",
+        "shake",
+        "sway",
+        "wobble"
+      ],
+      "meaning": "the indication of a wobble or shake",
+      "example": [{
+        "file": "tapun-1a",
+        "contributor": "",
+        "display": "タプン♡",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "tapun"
   },
   {
     "hiragana": [
@@ -21173,15 +21446,13 @@
     ],
     "definition": [{
       "equivalent": [
+        "flinch",
         "jerk",
-        "quiver",
-        "shake",
-        "shiver",
+        "jolt",
         "shudder",
-        "tremble",
-        "twitch"
+        "startle"
       ],
-      "meaning": "an indication of trembling or shuddering",
+      "meaning": "an expression of surprise or startlement",
       "example": [
         {
           "file": "zoku-1a",
@@ -21300,6 +21571,36 @@
       ]
     }],
     "literal": "zowa"
+  },
+  {
+    "hiragana": [
+      "ず",
+      "ずっ"
+    ],
+    "katakana": [
+      "ズ",
+      "ズッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "appear",
+        "arrive",
+        "display",
+        "emerge",
+        "reveal",
+        "show",
+        "ta-da",
+        "unveil"
+      ],
+      "meaning": "to suddenly appear, often in a dramatic reveal",
+      "example": [{
+        "file": "zu-1a",
+        "contributor": "",
+        "display": "ズッ..!",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    }],
+    "literal": "zu"
   },
   {
     "hiragana": [

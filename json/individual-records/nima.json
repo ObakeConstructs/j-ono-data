@@ -1,10 +1,12 @@
 {
-  "literal": "niko niko",
+  "literal": "nima",
   "katakana": [
-    "ニコニコ"
+    "ニマ",
+    "ニママ"
   ],
   "hiragana": [
-    "にこにこ"
+    "にま",
+    "にまま"
   ],
   "definition": [
     {
@@ -17,9 +19,9 @@
       ],
       "example": [
         {
-          "source": "komi_cant_communicate",
-          "file": "niko_niko-1a",
-          "display": "ニコ  ニコ",
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "nima-1a",
+          "display": "ニママ",
           "contributor": ""
         }
       ]

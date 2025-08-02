@@ -2,11 +2,19 @@
   "literal": "dogo",
   "katakana": [
     "ドゴ",
-    "ドゴッ"
+    "ドゴオ",
+    "ドゴォ",
+    "ドゴッ",
+    "ドゴオッ",
+    "ドゴォッ"
   ],
   "hiragana": [
     "どご",
-    "どごっ"
+    "どごお",
+    "どごぉ",
+    "どごっ",
+    "どごおっ",
+    "どごぉっ"
   ],
   "definition": [
     {
@@ -45,6 +53,12 @@
           "source": "killed_by_gods_mistake",
           "file": "dogo-1b",
           "display": "ドゴッ",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "dogo-1c",
+          "display": "ドゴオッ",
           "contributor": ""
         }
       ]

@@ -8,14 +8,14 @@
   ],
   "definition": [
     {
-      "meaning": "a small irregular movement",
+      "meaning": "the indication of a wobble or shake",
       "equivalent": [
         "boing",
         "jiggle",
         "quiver",
         "shake",
-        "wobble",
-        "sway"
+        "sway",
+        "wobble"
       ],
       "example": [
         {
@@ -28,6 +28,12 @@
           "source": "otherworld_material_collector",
           "file": "purun-1b",
           "display": "プルン",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "purun-1c",
+          "display": "ぷるん",
           "contributor": ""
         }
       ]

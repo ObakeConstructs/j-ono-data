@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "a strong indication of shaking",
+      "meaning": "a strong indication of shaking or shuddering",
       "equivalent": [
         "quiver",
         "shiver",
@@ -21,6 +21,12 @@
         {
           "source": "d_genesis",
           "file": "bikun-1a",
+          "display": "ビクン",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "bikun-1b",
           "display": "ビクン",
           "contributor": ""
         }

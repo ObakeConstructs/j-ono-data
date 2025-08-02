@@ -3,12 +3,14 @@
   "katakana": [
     "キュ",
     "キュッ",
-    "キュウ"
+    "キュウ",
+    "キューッ"
   ],
   "hiragana": [
     "きゅ",
     "きゅっ",
-    "きゅう"
+    "きゅう",
+    "きゅーっ"
   ],
   "definition": [
     {
@@ -35,14 +37,15 @@
       ]
     },
     {
-      "meaning": "to fasten or tie something",
+      "meaning": "an indication or sound of tying, fastening or pulling something tight",
       "equivalent": [
         "bind",
         "cinch",
         "fasten",
         "lash",
         "tie",
-        "tighten"
+        "tighten",
+        "pull"
       ],
       "example": [
         {
@@ -55,6 +58,12 @@
           "source": "blazing_fire_brigade",
           "file": "kyu-2b",
           "display": "キュ",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "kyu-2c",
+          "display": "キュッ♡",
           "contributor": ""
         }
       ]
@@ -71,6 +80,12 @@
           "source": "hikaro_no_go",
           "file": "kyu-3a",
           "display": "キュッ",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "kyu-3b",
+          "display": "きゅーっ",
           "contributor": ""
         }
       ]
