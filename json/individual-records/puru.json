@@ -3,29 +3,52 @@
   "katakana": [
     "プル",
     "プルル",
-    "プルルル"
+    "プルルル",
+    "プルッ",
+    "プルルッ"
   ],
   "hiragana": [
     "ぷる",
     "ぷるる",
-    "ぷるるる"
+    "ぷるるる",
+    "ぷるっ",
+    "ぷるるっ"
   ],
   "definition": [
     {
       "meaning": "an indication of shaking or buzzing",
       "equivalent": [
+        "buzz",
+        "hum",
         "quiver",
         "shiver",
         "shudder",
-        "tremble",
-        "buzz",
-        "hum"
+        "tremble"
       ],
       "example": [
         {
           "source": "drawing",
           "file": "puru-1a",
           "display": "プルルル",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the indication of a wobble or shake",
+      "equivalent": [
+        "boing",
+        "jiggle",
+        "quiver",
+        "shake",
+        "sway",
+        "wobble"
+      ],
+      "example": [
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "puru-2a",
+          "display": "ぷるるっ",
           "contributor": ""
         }
       ]

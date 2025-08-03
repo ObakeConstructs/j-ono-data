@@ -28,7 +28,7 @@
   ],
   "definition": [
     {
-      "meaning": "soft sounds of rain or shower",
+      "meaning": "soft sounds of rain or a shower",
       "equivalent": [
         "drizzle",
         "drops",
@@ -48,6 +48,12 @@
           "source": "hikaro_no_go",
           "file": "za-1b",
           "display": "ザァァァ",
+          "contributor": ""
+        },
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "za-1c",
+          "display": "ザァァァァ.....",
           "contributor": ""
         }
       ]

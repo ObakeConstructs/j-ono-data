@@ -9,6 +9,7 @@
     "サァァ",
     "サァァァ",
     "サア",
+    "サアア",
     "サアッ"
   ],
   "hiragana": [
@@ -20,11 +21,12 @@
     "さぁぁ",
     "さぁぁぁ",
     "さあ",
+    "さああ",
     "さあっ"
   ],
   "definition": [
     {
-      "meaning": "soft sounds of rain or shower",
+      "meaning": "the soft sounds of rain or a shower",
       "equivalent": [
         "drizzle",
         "drops",
@@ -38,6 +40,12 @@
           "source": "d_genesis",
           "file": "sa-1a",
           "display": "サァァァ...",
+          "contributor": ""
+        },
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "sa-1b",
+          "display": "さああ....",
           "contributor": ""
         }
       ]

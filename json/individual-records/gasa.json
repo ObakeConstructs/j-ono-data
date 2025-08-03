@@ -1,40 +1,50 @@
 {
-  "hiragana": [
-    "がさ",
-    "がさっ"
-  ],
+  "literal": "gasa",
   "katakana": [
     "ガサ",
     "ガサッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "flap",
-      "murmur",
-      "rustle",
-      "swish"
-    ],
-    "meaning": "a small natural sound of movement, as the movement of leaves or grass in the wind or fabric sliding",
-    "example": [
-      {
-        "file": "gasa-1a",
-        "contributor": "",
-        "display": "ガサ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "gasa-1b",
-        "contributor": "",
-        "display": "ガサ",
-        "source": "komi_cant_communicate"
-      },
-      {
-        "file": "gasa-1c",
-        "contributor": "",
-        "display": "ガサッ",
-        "source": "a_rank_slow_life"
-      }
-    ]
-  }],
-  "literal": "gasa"
+  "hiragana": [
+    "がさ",
+    "がさっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a small rustling sound, like the wind-blown leaves or cloth sliding",
+      "equivalent": [
+        "flap",
+        "murmur",
+        "rustle",
+        "swish",
+        "stir",
+        "whoosh"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "gasa-1a",
+          "display": "ガサ",
+          "contributor": ""
+        },
+        {
+          "source": "komi_cant_communicate",
+          "file": "gasa-1b",
+          "display": "ガサ",
+          "contributor": ""
+        },
+        {
+          "source": "a_rank_slow_life",
+          "file": "gasa-1c",
+          "display": "ガサッ",
+          "contributor": ""
+        },
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "gasa-1d",
+          "display": "がさ!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

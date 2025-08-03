@@ -13,14 +13,20 @@
         "flap",
         "flick",
         "flit",
-        "swish",
-        "flutter"
+        "flutter",
+        "swish"
       ],
       "example": [
         {
           "source": "dog_became_strongest",
           "file": "hira-1a",
           "display": "ヒラ",
+          "contributor": ""
+        },
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "hira-1b",
+          "display": "ひら.....",
           "contributor": ""
         }
       ]

@@ -12,13 +12,12 @@
   ],
   "definition": [
     {
-      "meaning": "an indication of soft firmness, typically associated with flesh",
+      "meaning": "an exaggerated indication of soft flesh",
       "equivalent": [
-        "soft",
+        "flesh",
         "puffy",
-        "spongy",
-        "squishy",
-        "rubbery"
+        "soft",
+        "squishy"
       ],
       "example": [
         {
@@ -31,6 +30,12 @@
           "source": "gyaru_academy",
           "file": "puni-1b",
           "display": "プニィ",
+          "contributor": ""
+        },
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "puni-1c",
+          "display": "ぷに!!",
           "contributor": ""
         }
       ]

@@ -1914,6 +1914,35 @@
   },
   {
     "hiragana": [
+      "ぼた",
+      "ぼたっ",
+      "ぼたたっ"
+    ],
+    "katakana": [
+      "ボタ",
+      "ボタッ",
+      "ボタタッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "drip",
+        "drop",
+        "flow",
+        "gush",
+        "splat"
+      ],
+      "meaning": "thes dripping sound of viscous fluid, typically blood",
+      "example": [{
+        "file": "bota-1a",
+        "contributor": "",
+        "display": "ボタタッ",
+        "source": "beastly_boys_and_girls"
+      }]
+    }],
+    "literal": "bota"
+  },
+  {
+    "hiragana": [
       "ぼと",
       "ぼとっ"
     ],
@@ -3007,6 +3036,25 @@
       ]
     }],
     "literal": "chira"
+  },
+  {
+    "hiragana": ["ちろちろ"],
+    "katakana": ["チロチロ"],
+    "definition": [{
+      "equivalent": [
+        "lap lap",
+        "lick lick",
+        "slurp slurp"
+      ],
+      "meaning": "the sound of a tongue licking something",
+      "example": [{
+        "file": "chiro_chiro-1a",
+        "contributor": "",
+        "display": "ちろ  ちろ",
+        "source": "beastly_boys_and_girls"
+      }]
+    }],
+    "literal": "chiro chiro"
   },
   {
     "hiragana": [
@@ -4971,6 +5019,27 @@
     "literal": "fua"
   },
   {
+    "hiragana": ["ふきふき"],
+    "katakana": ["フキフキ"],
+    "definition": [{
+      "equivalent": [
+        "brush brush",
+        "rub rub",
+        "scrub scrub",
+        "wash wash",
+        "wipe wipe"
+      ],
+      "meaning": "the indication or sound of brushing or wiping",
+      "example": [{
+        "file": "fuki_fuki-1a",
+        "contributor": "",
+        "display": "ふき  ふき",
+        "source": "beastly_boys_and_girls"
+      }]
+    }],
+    "literal": "fuki fuki"
+  },
+  {
     "hiragana": ["ふむ"],
     "katakana": ["フム"],
     "definition": [{
@@ -6194,9 +6263,11 @@
         "flap",
         "murmur",
         "rustle",
-        "swish"
+        "stir",
+        "swish",
+        "whoosh"
       ],
-      "meaning": "a small natural sound of movement, as the movement of leaves or grass in the wind or fabric sliding",
+      "meaning": "a small rustling sound, like the wind-blown leaves or cloth sliding",
       "example": [
         {
           "file": "gasa-1a",
@@ -6215,6 +6286,12 @@
           "contributor": "",
           "display": "ガサッ",
           "source": "a_rank_slow_life"
+        },
+        {
+          "file": "gasa-1d",
+          "contributor": "",
+          "display": "がさ!",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
@@ -6234,9 +6311,10 @@
         "movement",
         "rustle rustle",
         "stir stir",
-        "swish swish"
+        "swish swish",
+        "whoosh whoosh"
       ],
-      "meaning": "continuous small natural sounds, as the movement of leaves or underbrush",
+      "meaning": "small rustling sounds, like wind-blown leaves or underbrush",
       "example": [
         {
           "file": "gasa_gasa-1a",
@@ -8989,12 +9067,20 @@
         "swish"
       ],
       "meaning": "a soft flapping or fluttering sounds",
-      "example": [{
-        "file": "hira-1a",
-        "contributor": "",
-        "display": "ヒラ",
-        "source": "dog_became_strongest"
-      }]
+      "example": [
+        {
+          "file": "hira-1a",
+          "contributor": "",
+          "display": "ヒラ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "hira-1b",
+          "contributor": "",
+          "display": "ひら.....",
+          "source": "beastly_boys_and_girls"
+        }
+      ]
     }],
     "literal": "hira"
   },
@@ -9677,7 +9763,7 @@
         "ta-da",
         "tadah"
       ],
-      "meaning": "to call attention to something amazing or surprising in an overly-dramatic fashion",
+      "meaning": "to call attention to something in an overly-dramatic fashion",
       "example": [
         {
           "file": "jan-1a",
@@ -9690,6 +9776,12 @@
           "contributor": "",
           "display": "じゃーん",
           "source": "buy_the_land"
+        },
+        {
+          "file": "jan-1c",
+          "contributor": "",
+          "display": "じゃん",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
@@ -12491,6 +12583,12 @@
           "contributor": "",
           "display": "キョロ  キョロ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "kyoro_kyoro-1d",
+          "contributor": "",
+          "display": "きょろ  きょろ",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
@@ -12700,6 +12798,36 @@
     "literal": "mishi mishi"
   },
   {
+    "hiragana": [
+      "も",
+      "もっ",
+      "もー",
+      "もーっ"
+    ],
+    "katakana": [
+      "モ",
+      "モッ",
+      "モー",
+      "モーッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "complain",
+        "groan",
+        "lament",
+        "yell"
+      ],
+      "meaning": "the sound of a groan or yell in frustration or annoyance",
+      "example": [{
+        "file": "mo-1a",
+        "contributor": "",
+        "display": "もーっ",
+        "source": "beastly_boys_and_girls"
+      }]
+    }],
+    "literal": "mo"
+  },
+  {
     "hiragana": ["もふ"],
     "katakana": ["モフ"],
     "definition": [{
@@ -12892,6 +13020,26 @@
       }]
     }],
     "literal": "mowa mowa"
+  },
+  {
+    "hiragana": ["もぞもぞ"],
+    "katakana": ["モゾモゾ"],
+    "definition": [{
+      "equivalent": [
+        "squirm squirm",
+        "thrash thrash",
+        "wriggle wriggle",
+        "writhe writhe"
+      ],
+      "meaning": "the indication or sound of clumsy squirming or struggling",
+      "example": [{
+        "file": "mozo_mozo-1a",
+        "contributor": "",
+        "display": "もぞ  もぞ  もぞ",
+        "source": "beastly_boys_and_girls"
+      }]
+    }],
+    "literal": "mozo mozo"
   },
   {
     "hiragana": ["モッモッ"],
@@ -14404,12 +14552,20 @@
         "thump thump"
       ],
       "meaning": "a series of small or light impacts",
-      "example": [{
-        "file": "pan_pan-1a",
-        "contributor": "",
-        "display": "パン  パン",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "example": [
+        {
+          "file": "pan_pan-1a",
+          "contributor": "",
+          "display": "パン  パン",
+          "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "pan_pan-1b",
+          "contributor": "",
+          "display": "ぱん  ぱん",
+          "source": "beastly_boys_and_girls"
+        }
+      ]
     }],
     "literal": "pan pan"
   },
@@ -15043,6 +15199,12 @@
           "contributor": "",
           "display": "ペロッ",
           "source": "isekai_av_filming"
+        },
+        {
+          "file": "pero-1c",
+          "contributor": "",
+          "display": "ぺろ",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
@@ -17011,13 +17173,12 @@
     ],
     "definition": [{
       "equivalent": [
+        "flesh",
         "puffy",
-        "rubbery",
         "soft",
-        "spongy",
         "squishy"
       ],
-      "meaning": "an indication of soft firmness, typically associated with flesh",
+      "meaning": "an exaggerated indication of soft flesh",
       "example": [
         {
           "file": "puni-1a",
@@ -17030,10 +17191,42 @@
           "contributor": "",
           "display": "プニィ",
           "source": "gyaru_academy"
+        },
+        {
+          "file": "puni-1c",
+          "contributor": "",
+          "display": "ぷに!!",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
     "literal": "puni"
+  },
+  {
+    "hiragana": [
+      "ぷにゅ",
+      "ぷにゅっ"
+    ],
+    "katakana": [
+      "プニュ",
+      "プニュッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "flesh",
+        "puffy",
+        "soft",
+        "squishy"
+      ],
+      "meaning": "an exaggerated indication of soft flesh",
+      "example": [{
+        "file": "punyu-1a",
+        "contributor": "",
+        "display": "ぷにゅ...っ",
+        "source": "beastly_boys_and_girls"
+      }]
+    }],
+    "literal": "punyu"
   },
   {
     "hiragana": ["ぷにゅぅん"],
@@ -17059,30 +17252,53 @@
     "hiragana": [
       "ぷる",
       "ぷるる",
-      "ぷるるる"
+      "ぷるるる",
+      "ぷるっ",
+      "ぷるるっ"
     ],
     "katakana": [
       "プル",
       "プルル",
-      "プルルル"
+      "プルルル",
+      "プルッ",
+      "プルルッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "buzz",
-        "hum",
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "meaning": "an indication of shaking or buzzing",
-      "example": [{
-        "file": "puru-1a",
-        "contributor": "",
-        "display": "プルルル",
-        "source": "drawing"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "buzz",
+          "hum",
+          "quiver",
+          "shiver",
+          "shudder",
+          "tremble"
+        ],
+        "meaning": "an indication of shaking or buzzing",
+        "example": [{
+          "file": "puru-1a",
+          "contributor": "",
+          "display": "プルルル",
+          "source": "drawing"
+        }]
+      },
+      {
+        "equivalent": [
+          "boing",
+          "jiggle",
+          "quiver",
+          "shake",
+          "sway",
+          "wobble"
+        ],
+        "meaning": "the indication of a wobble or shake",
+        "example": [{
+          "file": "puru-2a",
+          "contributor": "",
+          "display": "ぷるるっ",
+          "source": "beastly_boys_and_girls"
+        }]
+      }
+    ],
     "literal": "puru"
   },
   {
@@ -17538,6 +17754,7 @@
       "さぁぁ",
       "さぁぁぁ",
       "さあ",
+      "さああ",
       "さあっ"
     ],
     "katakana": [
@@ -17549,6 +17766,7 @@
       "サァァ",
       "サァァァ",
       "サア",
+      "サアア",
       "サアッ"
     ],
     "definition": [
@@ -17561,13 +17779,21 @@
           "shaa",
           "sss"
         ],
-        "meaning": "soft sounds of rain or shower",
-        "example": [{
-          "file": "sa-1a",
-          "contributor": "",
-          "display": "サァァァ...",
-          "source": "d_genesis"
-        }]
+        "meaning": "the soft sounds of rain or a shower",
+        "example": [
+          {
+            "file": "sa-1a",
+            "contributor": "",
+            "display": "サァァァ...",
+            "source": "d_genesis"
+          },
+          {
+            "file": "sa-1b",
+            "contributor": "",
+            "display": "さああ....",
+            "source": "beastly_boys_and_girls"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -17746,6 +17972,12 @@
           "contributor": "",
           "display": "サラァァ",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "sara-1c",
+          "contributor": "",
+          "display": "さら...",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
@@ -18541,31 +18773,50 @@
       "スカ",
       "スカッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "strike",
-        "swish",
-        "swoosh",
-        "whoosh",
-        "zip",
-        "zoom"
-      ],
-      "meaning": "the sound of something moving fast, typically indicating a missed hit, as from a sword or baseball bat",
-      "example": [
-        {
-          "file": "suka-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "strike",
+          "swish",
+          "swoosh",
+          "whoosh",
+          "zip",
+          "zoom"
+        ],
+        "meaning": "the sound of something moving fast, typically indicating a missed hit, as from a sword or baseball bat",
+        "example": [
+          {
+            "file": "suka-1a",
+            "contributor": "",
+            "display": "スカッ!",
+            "source": "eternal_fool_asley"
+          },
+          {
+            "file": "suka-1b",
+            "contributor": "",
+            "display": "スカッ",
+            "source": "killed_by_gods_mistake"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "dose",
+          "nap",
+          "rest",
+          "sleep",
+          "slumber",
+          "zzz"
+        ],
+        "meaning": "the indication or sound of sleep",
+        "example": [{
+          "file": "suka-2a",
           "contributor": "",
-          "display": "スカッ!",
-          "source": "eternal_fool_asley"
-        },
-        {
-          "file": "suka-1b",
-          "contributor": "",
-          "display": "スカッ",
-          "source": "killed_by_gods_mistake"
-        }
-      ]
-    }],
+          "display": "すかー",
+          "source": "beastly_boys_and_girls"
+        }]
+      }
+    ],
     "literal": "suka"
   },
   {
@@ -18665,6 +18916,12 @@
           "contributor": "",
           "display": "スン  スン",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "sun_sun-1d",
+          "contributor": "",
+          "display": "すん  すん",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
@@ -19841,6 +20098,12 @@
           "contributor": "",
           "display": "トロ....",
           "source": "gyaru_academy"
+        },
+        {
+          "file": "toro-1c",
+          "contributor": "",
+          "display": "とろ...っ",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
@@ -20923,7 +21186,7 @@
           "shaa",
           "sss"
         ],
-        "meaning": "soft sounds of rain or shower",
+        "meaning": "soft sounds of rain or a shower",
         "example": [
           {
             "file": "za-1a",
@@ -20936,6 +21199,12 @@
             "contributor": "",
             "display": "ザァァァ",
             "source": "hikaro_no_go"
+          },
+          {
+            "file": "za-1c",
+            "contributor": "",
+            "display": "ザァァァァ.....",
+            "source": "beastly_boys_and_girls"
           }
         ]
       },
@@ -21475,6 +21744,28 @@
       ]
     }],
     "literal": "zoku"
+  },
+  {
+    "hiragana": ["ぞくぞく"],
+    "katakana": ["ゾクゾク"],
+    "definition": [{
+      "equivalent": [
+        "quiver quiver",
+        "shake shake",
+        "shiver shiver",
+        "shudder shudder",
+        "tremble tremble",
+        "twitch twitch"
+      ],
+      "meaning": "an indication of trembling or shaking",
+      "example": [{
+        "file": "zoku_zoku-1a",
+        "contributor": "",
+        "display": "ぞく  ぞく",
+        "source": "beastly_boys_and_girls"
+      }]
+    }],
+    "literal": "zoku zoku"
   },
   {
     "hiragana": [
