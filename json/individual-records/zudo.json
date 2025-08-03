@@ -1,0 +1,42 @@
+{
+  "literal": "zudo",
+  "katakana": [
+    "ズド"
+  ],
+  "hiragana": [
+    "ずど"
+  ],
+  "definition": [
+    {
+      "meaning": "the sound of a heavy impact or strike",
+      "equivalent": [
+        "bam",
+        "blow",
+        "clobber",
+        "crunch",
+        "drill",
+        "hit",
+        "impact",
+        "impale",
+        "pelt",
+        "pierce",
+        "punch",
+        "skewer",
+        "slam",
+        "smash",
+        "spike",
+        "stab",
+        "strike",
+        "wham"
+      ],
+      "example": [
+        {
+          "source": "pokemon_xy_break",
+          "file": "zudo-1a",
+          "display": "ズド",
+          "contributor": "Artrix"
+        }
+      ]
+    }
+  ]
+}

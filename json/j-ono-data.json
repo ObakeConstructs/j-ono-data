@@ -4550,7 +4550,8 @@
       "どどど",
       "どどどど",
       "どどっ",
-      "どどどっ"
+      "どどどっ",
+      "どどどどど"
     ],
     "katakana": [
       "ドド",
@@ -4559,7 +4560,8 @@
       "ドドド",
       "ドドドド",
       "ドドッ",
-      "ドドドッ"
+      "ドドドッ",
+      "ドドドドド"
     ],
     "definition": [
       {
@@ -4629,6 +4631,22 @@
             "source": "simple_sword_saint"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "danger",
+          "menace",
+          "peril",
+          "risk",
+          "threat"
+        ],
+        "meaning": "a sense of intense threat or menace",
+        "example": [{
+          "file": "do_do-4a",
+          "contributor": "Artrix",
+          "display": "ドドドドド",
+          "source": "pokemon_xy_break"
+        }]
       }
     ],
     "literal": "do do"
@@ -22036,6 +22054,40 @@
       }]
     }],
     "literal": "zuda"
+  },
+  {
+    "hiragana": ["ずど"],
+    "katakana": ["ズド"],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "blow",
+        "clobber",
+        "crunch",
+        "drill",
+        "hit",
+        "impact",
+        "impale",
+        "pelt",
+        "pierce",
+        "punch",
+        "skewer",
+        "slam",
+        "smash",
+        "spike",
+        "stab",
+        "strike",
+        "wham"
+      ],
+      "meaning": "the sound of a heavy impact or strike",
+      "example": [{
+        "file": "zudo-1a",
+        "contributor": "Artrix",
+        "display": "ズド",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "literal": "zudo"
   },
   {
     "hiragana": ["ずぎゃ"],

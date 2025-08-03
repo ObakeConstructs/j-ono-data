@@ -7,7 +7,8 @@
     "ドドド",
     "ドドドド",
     "ドドッ",
-    "ドドドッ"
+    "ドドドッ",
+    "ドドドドド"
   ],
   "hiragana": [
     "どど",
@@ -16,7 +17,8 @@
     "どどど",
     "どどどど",
     "どどっ",
-    "どどどっ"
+    "どどどっ",
+    "どどどどど"
   ],
   "definition": [
     {
@@ -88,6 +90,24 @@
           "file": "do_do-3b",
           "display": "ドドドッ",
           "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a sense of intense threat or menace",
+      "equivalent": [
+        "threat",
+        "danger",
+        "menace",
+        "risk",
+        "peril"
+      ],
+      "example": [
+        {
+          "source": "pokemon_xy_break",
+          "file": "do_do-4a",
+          "display": "ドドドドド",
+          "contributor": "Artrix"
         }
       ]
     }
