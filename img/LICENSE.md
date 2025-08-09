@@ -1,4 +1,4 @@
-dl/dr: All image files are copyright protected by their respective owners.  Ownership attribution is plainly displayed on each image.
+dl/dr: All image files are copyright protected by their respective owners.  The J-Ono application plainly displays ownership attribution with each image.
 
 # Attribution 3.0 Unported (CC BY 3.0)
 
