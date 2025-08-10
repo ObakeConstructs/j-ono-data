@@ -10,18 +10,24 @@
   ],
   "definition": [
     {
-      "meaning": "an act of movment or changing position",
+      "meaning": "an indication of movement or shifting positions",
       "equivalent": [
-        "shift",
-        "move",
         "motion",
+        "move",
+        "shift",
         "wave"
       ],
       "example": [
         {
           "source": "eternal_fool_asley",
           "file": "choi_choi-1a",
-          "display": "ちょぃ",
+          "display": "ちょぃ  ちょぃ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "choi_choi-1b",
+          "display": "ちょぃ  ちょぃ",
           "contributor": ""
         }
       ]

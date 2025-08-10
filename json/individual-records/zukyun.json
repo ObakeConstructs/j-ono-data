@@ -2,11 +2,13 @@
   "literal": "zukyun",
   "katakana": [
     "ズキュン",
-    "ズッキュン"
+    "ズッキュン",
+    "ズキューン"
   ],
   "hiragana": [
     "ずきゅん",
-    "ずっきゅん"
+    "ずっきゅん",
+    "ずきゅーん"
   ],
   "definition": [
     {
@@ -21,6 +23,12 @@
           "source": "isekai_sniper",
           "file": "zukyun-1a",
           "display": "ズッキュン",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "zukyun-1b",
+          "display": "ずきゅーん♡",
           "contributor": ""
         }
       ]

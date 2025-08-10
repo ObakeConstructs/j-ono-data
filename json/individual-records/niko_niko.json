@@ -1,14 +1,16 @@
 {
   "literal": "niko niko",
   "katakana": [
-    "ニコニコ"
+    "ニコニコ",
+    "ニッコニッコ"
   ],
   "hiragana": [
-    "にこにこ"
+    "にこにこ",
+    "にっこにっこ"
   ],
   "definition": [
     {
-      "meaning": "a smile or grin",
+      "meaning": "expressing a smile or grin",
       "equivalent": [
         "beam",
         "grin",
@@ -20,6 +22,12 @@
           "source": "komi_cant_communicate",
           "file": "niko_niko-1a",
           "display": "ニコ  ニコ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "niko_niko-1b",
+          "display": "ニッコ  ニッコ",
           "contributor": ""
         }
       ]

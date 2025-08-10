@@ -1,18 +1,32 @@
 {
-  "hiragana": ["にゃにゃ"],
-  "katakana": ["ニャニャ"],
-  "definition": [{
-    "equivalent": [
-      "meow meow",
-      "nya nya"
-    ],
-    "meaning": "mimicking a cat to express friendly, playful teasing",
-    "example": [{
-      "file": "nya_nya-1a",
-      "contributor": "",
-      "display": "ニャ  ニャ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "nya nya"
+  "literal": "nya nya",
+  "katakana": [
+    "ニャニャ"
+  ],
+  "hiragana": [
+    "にゃにゃ"
+  ],
+  "definition": [
+    {
+      "meaning": "mimicking a cat to express friendly, playful teasing",
+      "equivalent": [
+        "meow meow",
+        "nya nya"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "nya_nya-1a",
+          "display": "ニャ  ニャ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "nya_nya-1b",
+          "display": "にゃ  にゃ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

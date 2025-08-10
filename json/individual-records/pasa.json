@@ -2,11 +2,15 @@
   "literal": "pasa",
   "katakana": [
     "パサ",
-    "パサァ"
+    "パサァ",
+    "パサッ",
+    "パサァッ"
   ],
   "hiragana": [
     "ぱさ",
-    "ぱさぁ"
+    "ぱさぁ",
+    "ぱさっ",
+    "ぱさぁっ"
   ],
   "definition": [
     {
@@ -28,6 +32,12 @@
           "source": "gyaru_academy",
           "file": "pasa-1b",
           "display": "パサァ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "pasa-1c",
+          "display": "ぱさっ",
           "contributor": ""
         }
       ]

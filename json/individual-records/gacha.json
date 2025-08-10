@@ -1,23 +1,25 @@
 {
   "literal": "gacha",
   "katakana": [
-    "ガチャ"
+    "ガチャ",
+    "ガチャッ"
   ],
   "hiragana": [
-    "がちゃ"
+    "がちゃ",
+    "がちゃっ"
   ],
   "definition": [
     {
       "meaning": "a rattling or clattering sound",
       "equivalent": [
         "clack",
-        "click",
-        "ka-chik",
-        "tick",
-        "ker-chak",
         "clatter",
+        "click",
         "clink",
-        "rattle"
+        "ka-chik",
+        "ker-chak",
+        "rattle",
+        "tick"
       ],
       "example": [
         {
@@ -42,6 +44,12 @@
           "source": "berserk",
           "file": "gacha-1d",
           "display": "ガチャ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "gacha-1e",
+          "display": "ガチャッ",
           "contributor": ""
         }
       ]

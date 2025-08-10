@@ -3,12 +3,20 @@
   "katakana": [
     "ガク",
     "ガクー",
-    "ガクッ"
+    "ガクッ",
+    "ガクゥ",
+    "ガクゥゥ",
+    "ガクゥッ",
+    "ガクゥゥッ"
   ],
   "hiragana": [
     "がく",
     "がくー",
-    "がくっ"
+    "がくっ",
+    "がくぅ",
+    "がくぅぅ",
+    "がくぅっ",
+    "がくぅぅっ"
   ],
   "definition": [
     {
@@ -34,6 +42,12 @@
           "source": "world_full_of_monsters",
           "file": "gaku-1b",
           "display": "ガクッ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "gaku-1c",
+          "display": "ガクゥゥッ",
           "contributor": ""
         }
       ]

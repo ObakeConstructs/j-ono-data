@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "the sound of leaking air or gas, sometimes used to express embarrassment",
+      "meaning": "an indication or sound of leaking air or gas, sometimes used to express embarrassment or confusion",
       "equivalent": [
         "fizz",
         "hiss",
@@ -23,6 +23,12 @@
           "source": "hello_work",
           "file": "pushu-1a",
           "display": "プシューッ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "pushu-1b",
+          "display": "プシュ",
           "contributor": ""
         }
       ]

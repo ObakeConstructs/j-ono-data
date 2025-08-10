@@ -256,6 +256,12 @@
             "contributor": "",
             "display": "ばっ",
             "source": "dog_became_strongest"
+          },
+          {
+            "file": "ba-1c",
+            "contributor": "",
+            "display": "バッ",
+            "source": "yojo_life"
           }
         ]
       },
@@ -3159,13 +3165,21 @@
         "shift",
         "wave"
       ],
-      "meaning": "an act of movment or changing position",
-      "example": [{
-        "file": "choi_choi-1a",
-        "contributor": "",
-        "display": "ちょぃ",
-        "source": "eternal_fool_asley"
-      }]
+      "meaning": "an indication of movement or shifting positions",
+      "example": [
+        {
+          "file": "choi_choi-1a",
+          "contributor": "",
+          "display": "ちょぃ  ちょぃ",
+          "source": "eternal_fool_asley"
+        },
+        {
+          "file": "choi_choi-1b",
+          "contributor": "",
+          "display": "ちょぃ  ちょぃ",
+          "source": "yojo_life"
+        }
+      ]
     }],
     "literal": "choi choi"
   },
@@ -5786,8 +5800,14 @@
     "literal": "gabu"
   },
   {
-    "hiragana": ["がちゃ"],
-    "katakana": ["ガチャ"],
+    "hiragana": [
+      "がちゃ",
+      "がちゃっ"
+    ],
+    "katakana": [
+      "ガチャ",
+      "ガチャッ"
+    ],
     "definition": [{
       "equivalent": [
         "clack",
@@ -5824,6 +5844,12 @@
           "contributor": "",
           "display": "ガチャ",
           "source": "berserk"
+        },
+        {
+          "file": "gacha-1e",
+          "contributor": "",
+          "display": "ガチャッ",
+          "source": "yojo_life"
         }
       ]
     }],
@@ -5996,12 +6022,20 @@
     "hiragana": [
       "がく",
       "がくー",
-      "がくっ"
+      "がくっ",
+      "がくぅ",
+      "がくぅぅ",
+      "がくぅっ",
+      "がくぅぅっ"
     ],
     "katakana": [
       "ガク",
       "ガクー",
-      "ガクッ"
+      "ガクッ",
+      "ガクゥ",
+      "ガクゥゥ",
+      "ガクゥッ",
+      "ガクゥゥッ"
     ],
     "definition": [
       {
@@ -6028,6 +6062,12 @@
             "contributor": "",
             "display": "ガクッ",
             "source": "world_full_of_monsters"
+          },
+          {
+            "file": "gaku-1c",
+            "contributor": "",
+            "display": "ガクゥゥッ",
+            "source": "yojo_life"
           }
         ]
       },
@@ -6093,48 +6133,69 @@
       "ガォン",
       "ガォンッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bam",
-        "bang",
-        "bash",
-        "clout",
-        "hit",
-        "pelt",
-        "pound",
-        "punch",
-        "slam",
-        "smack",
-        "smash",
-        "thud",
-        "thump",
-        "thunk",
-        "wallop",
-        "whack",
-        "wham"
-      ],
-      "meaning": "the sound of a strong impact",
-      "example": [
-        {
-          "file": "gan-1a",
-          "contributor": "",
-          "display": "ガン",
-          "source": "d_genesis"
-        },
-        {
-          "file": "gan-1b",
-          "contributor": "",
-          "display": "ガォン!!",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "gan-1c",
+    "definition": [
+      {
+        "equivalent": [
+          "bam",
+          "bang",
+          "bash",
+          "clout",
+          "hit",
+          "pelt",
+          "pound",
+          "punch",
+          "slam",
+          "smack",
+          "smash",
+          "thud",
+          "thump",
+          "thunk",
+          "wallop",
+          "whack",
+          "wham"
+        ],
+        "meaning": "the sound of a strong impact",
+        "example": [
+          {
+            "file": "gan-1a",
+            "contributor": "",
+            "display": "ガン",
+            "source": "d_genesis"
+          },
+          {
+            "file": "gan-1b",
+            "contributor": "",
+            "display": "ガォン!!",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "gan-1c",
+            "contributor": "",
+            "display": "ガンッ",
+            "source": "reincarnated_aristocrat"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "amazed",
+          "astonished",
+          "jolt",
+          "revelation",
+          "shock",
+          "stun",
+          "surprise",
+          "wha!?"
+        ],
+        "meaning": "an expression or exclamation of surprise or revelation",
+        "example": [{
+          "file": "gan-2a",
           "contributor": "",
           "display": "ガンッ",
-          "source": "reincarnated_aristocrat"
-        }
-      ]
-    }],
+          "source": "yojo_life"
+        }]
+      }
+    ],
     "literal": "gan"
   },
   {
@@ -8117,12 +8178,20 @@
       {
         "equivalent": ["thumbs-up"],
         "meaning": "a gesture of approval or encouragement by way of a thumbs-up",
-        "example": [{
-          "file": "gu-5a",
-          "contributor": "",
-          "display": "ぐっ",
-          "source": "strongest_thread_master"
-        }]
+        "example": [
+          {
+            "file": "gu-5a",
+            "contributor": "",
+            "display": "ぐっ",
+            "source": "strongest_thread_master"
+          },
+          {
+            "file": "gu-5b",
+            "contributor": "",
+            "display": "グッ",
+            "source": "yojo_life"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -8178,31 +8247,41 @@
   {
     "hiragana": [
       "ぐぐ",
-      "ぐぐっ"
+      "ぐぐっ",
+      "ぐぐぐ"
     ],
     "katakana": [
       "ググ",
-      "ググッ"
+      "ググッ",
+      "グググ"
     ],
     "definition": [{
       "equivalent": [
-        "choke",
         "clench",
         "gah gah",
-        "groan",
-        "grunt",
+        "grab",
+        "grasp",
+        "grip",
         "pressure",
-        "push",
+        "squeeze",
         "strain",
         "struggle"
       ],
-      "meaning": "a sound or expresison of strain or tension",
-      "example": [{
-        "file": "gugu-1a",
-        "contributor": "",
-        "display": "ぐぐっ..",
-        "source": "isekai_pickup"
-      }]
+      "meaning": "the indication or sound of gripping or squeezing something, usually indicating strain or tension",
+      "example": [
+        {
+          "file": "gugu-1a",
+          "contributor": "",
+          "display": "ぐぐっ..",
+          "source": "isekai_pickup"
+        },
+        {
+          "file": "gugu-1b",
+          "contributor": "",
+          "display": "ぐぐぐ",
+          "source": "yojo_life"
+        }
+      ]
     }],
     "literal": "gugu"
   },
@@ -9505,30 +9584,55 @@
     "literal": "hya"
   },
   {
-    "hiragana": ["ひょい"],
-    "katakana": ["ヒョイ"],
-    "definition": [{
-      "equivalent": [
-        "easy",
-        "effortless",
-        "smooth"
-      ],
-      "meaning": "a quick, effortless action",
-      "example": [
-        {
-          "file": "hyoi-1a",
+    "hiragana": [
+      "ひょい",
+      "ひょいっ"
+    ],
+    "katakana": [
+      "ヒョイ",
+      "ヒョイッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "easy",
+          "effortless",
+          "smooth"
+        ],
+        "meaning": "a quick, effortless action",
+        "example": [
+          {
+            "file": "hyoi-1a",
+            "contributor": "",
+            "display": "ひょい",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "hyoi-1b",
+            "contributor": "",
+            "display": "ヒョイ",
+            "source": "isekai_sniper"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "appear",
+          "arrive",
+          "emerge",
+          "materialize",
+          "pop up",
+          "show up"
+        ],
+        "meaning": "an indication of suddenly appearring or showing up",
+        "example": [{
+          "file": "hyoi-2a",
           "contributor": "",
-          "display": "ひょい",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "hyoi-1b",
-          "contributor": "",
-          "display": "ヒョイ",
-          "source": "isekai_sniper"
-        }
-      ]
-    }],
+          "display": "ひょいっ",
+          "source": "yojo_life"
+        }]
+      }
+    ],
     "literal": "hyoi"
   },
   {
@@ -13851,8 +13955,14 @@
     "literal": "niko"
   },
   {
-    "hiragana": ["にこにこ"],
-    "katakana": ["ニコニコ"],
+    "hiragana": [
+      "にこにこ",
+      "にっこにっこ"
+    ],
+    "katakana": [
+      "ニコニコ",
+      "ニッコニッコ"
+    ],
     "definition": [{
       "equivalent": [
         "beam",
@@ -13860,13 +13970,21 @@
         "smile",
         "smirk"
       ],
-      "meaning": "a smile or grin",
-      "example": [{
-        "file": "niko_niko-1a",
-        "contributor": "",
-        "display": "ニコ  ニコ",
-        "source": "komi_cant_communicate"
-      }]
+      "meaning": "expressing a smile or grin",
+      "example": [
+        {
+          "file": "niko_niko-1a",
+          "contributor": "",
+          "display": "ニコ  ニコ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "niko_niko-1b",
+          "contributor": "",
+          "display": "ニッコ  ニッコ",
+          "source": "yojo_life"
+        }
+      ]
     }],
     "literal": "niko niko"
   },
@@ -14156,12 +14274,20 @@
         "nya nya"
       ],
       "meaning": "mimicking a cat to express friendly, playful teasing",
-      "example": [{
-        "file": "nya_nya-1a",
-        "contributor": "",
-        "display": "ニャ  ニャ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "nya_nya-1a",
+          "contributor": "",
+          "display": "ニャ  ニャ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "nya_nya-1b",
+          "contributor": "",
+          "display": "にゃ  にゃ",
+          "source": "yojo_life"
+        }
+      ]
     }],
     "literal": "nya nya"
   },
@@ -14927,11 +15053,15 @@
   {
     "hiragana": [
       "ぱさ",
-      "ぱさぁ"
+      "ぱさぁ",
+      "ぱさっ",
+      "ぱさぁっ"
     ],
     "katakana": [
       "パサ",
-      "パサァ"
+      "パサァ",
+      "パサッ",
+      "パサァッ"
     ],
     "definition": [{
       "equivalent": [
@@ -14953,6 +15083,12 @@
           "contributor": "",
           "display": "パサァ",
           "source": "gyaru_academy"
+        },
+        {
+          "file": "pasa-1c",
+          "contributor": "",
+          "display": "ぱさっ",
+          "source": "yojo_life"
         }
       ]
     }],
@@ -15336,6 +15472,12 @@
           "contributor": "",
           "display": "ペコ",
           "source": "rock_n_roll_ladies"
+        },
+        {
+          "file": "peko-1d",
+          "contributor": "",
+          "display": "ペコッ",
+          "source": "yojo_life"
         }
       ]
     }],
@@ -15425,12 +15567,20 @@
           "verbose"
         ],
         "meaning": "to speak in a fluent and polished manner",
-        "example": [{
-          "file": "pera_pera-1a",
-          "contributor": "",
-          "display": "ペラ  ペラ  ペラ",
-          "source": "weakest_occupation_blacksmith"
-        }]
+        "example": [
+          {
+            "file": "pera_pera-1a",
+            "contributor": "",
+            "display": "ペラ  ペラ  ペラ",
+            "source": "weakest_occupation_blacksmith"
+          },
+          {
+            "file": "pera_pera-1b",
+            "contributor": "",
+            "display": "ペラ  ペラ  ペラ",
+            "source": "yojo_life"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -16419,12 +16569,20 @@
         "surprised"
       ],
       "meaning": "an expression of shock or disbelief",
-      "example": [{
-        "file": "pisha-1a",
-        "contributor": "",
-        "display": "ピシャッ",
-        "source": "uncle_at_heart"
-      }]
+      "example": [
+        {
+          "file": "pisha-1a",
+          "contributor": "",
+          "display": "ピシャッ",
+          "source": "uncle_at_heart"
+        },
+        {
+          "file": "pisha-1b",
+          "contributor": "",
+          "display": "ピシッ",
+          "source": "yojo_life"
+        }
+      ]
     }],
     "literal": "pisha"
   },
@@ -17698,6 +17856,18 @@
           "contributor": "",
           "display": "プル  プル",
           "source": "spy_x_family"
+        },
+        {
+          "file": "puru_puru-1d",
+          "contributor": "",
+          "display": "プル  プル",
+          "source": "yojo_life"
+        },
+        {
+          "file": "puru_puru-1e",
+          "contributor": "",
+          "display": "プル   プル   プル",
+          "source": "yojo_life"
         }
       ]
     }],
@@ -17720,13 +17890,21 @@
         "pssshhh",
         "ssss"
       ],
-      "meaning": "the sound of leaking air or gas, sometimes used to express embarrassment",
-      "example": [{
-        "file": "pushu-1a",
-        "contributor": "",
-        "display": "プシューッ",
-        "source": "hello_work"
-      }]
+      "meaning": "an indication or sound of leaking air or gas, sometimes used to express embarrassment or confusion",
+      "example": [
+        {
+          "file": "pushu-1a",
+          "contributor": "",
+          "display": "プシューッ",
+          "source": "hello_work"
+        },
+        {
+          "file": "pushu-1b",
+          "contributor": "",
+          "display": "プシュ",
+          "source": "yojo_life"
+        }
+      ]
     }],
     "literal": "pushu"
   },
@@ -17820,6 +17998,36 @@
       }]
     }],
     "literal": "pya"
+  },
+  {
+    "hiragana": [
+      "ぴょこ",
+      "ぴょこっ"
+    ],
+    "katakana": [
+      "ピョコ",
+      "ピョコッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "appear",
+        "boing",
+        "bounce",
+        "flounce",
+        "prance",
+        "sashay",
+        "strut",
+        "swagger"
+      ],
+      "meaning": "moving or appearing quickly, often in a cute or bouncy manner",
+      "example": [{
+        "file": "pyoko-1a",
+        "contributor": "",
+        "display": "ピョコッ",
+        "source": "yojo_life"
+      }]
+    }],
+    "literal": "pyoko"
   },
   {
     "hiragana": [
@@ -18599,7 +18807,7 @@
           "sshh",
           "sss"
         ],
-        "meaning": "a hissing sound",
+        "meaning": "an indication or sound of leaking air or gas",
         "example": [
           {
             "file": "shu-2a",
@@ -18774,6 +18982,36 @@
       ]
     }],
     "literal": "shuru"
+  },
+  {
+    "hiragana": [
+      "しゅしゅ",
+      "しゅしゅっ",
+      "しゅしゅしゅ",
+      "しゅしゅしゅっ"
+    ],
+    "katakana": [
+      "シュシュ",
+      "シュシュッ",
+      "シュシュシュ",
+      "シュシュシュッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "fsshh",
+        "hiss",
+        "sshh",
+        "sss"
+      ],
+      "meaning": "an indication or sound of leaking air or gas, sometimes used to express embarrassment or confusion",
+      "example": [{
+        "file": "shu_shu-1a",
+        "contributor": "",
+        "display": "しゅしゅしゅ",
+        "source": "yojo_life"
+      }]
+    }],
+    "literal": "shu shu"
   },
   {
     "hiragana": [
@@ -19222,6 +19460,12 @@
           "contributor": "",
           "display": "すんっ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "sun-1c",
+          "contributor": "",
+          "display": "スン...",
+          "source": "yojo_life"
         }
       ]
     }],
@@ -19680,6 +19924,27 @@
           "contributor": "",
           "display": "ススス",
           "source": "different_world_smartphone"
+        }]
+      },
+      {
+        "equivalent": [
+          "caress caress",
+          "flick flick",
+          "gesture gesture",
+          "grab grab",
+          "pat pat",
+          "pet pet",
+          "reach reach",
+          "slide slide",
+          "stroke stroke",
+          "take take"
+        ],
+        "meaning": "simple or quick movements of the hand",
+        "example": [{
+          "file": "su_su-3a",
+          "contributor": "",
+          "display": "スス",
+          "source": "yojo_life"
         }]
       }
     ],
@@ -21266,12 +21531,20 @@
         "hubbub"
       ],
       "meaning": "the sound of multiple people talking simultaneously",
-      "example": [{
-        "file": "wai_wai-1a",
-        "contributor": "",
-        "display": "わい  わい",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "file": "wai_wai-1a",
+          "contributor": "",
+          "display": "わい  わい",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "wai_wai-1b",
+          "contributor": "",
+          "display": "わい  わい  わい",
+          "source": "yojo_life"
+        }
+      ]
     }],
     "literal": "wai wai"
   },
@@ -22592,11 +22865,13 @@
   {
     "hiragana": [
       "ずきゅん",
-      "ずっきゅん"
+      "ずっきゅん",
+      "ずきゅーん"
     ],
     "katakana": [
       "ズキュン",
-      "ズッキュン"
+      "ズッキュン",
+      "ズキューン"
     ],
     "definition": [{
       "equivalent": [
@@ -22605,12 +22880,20 @@
         "longing"
       ],
       "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
-      "example": [{
-        "file": "zukyun-1a",
-        "contributor": "",
-        "display": "ズッキュン",
-        "source": "isekai_sniper"
-      }]
+      "example": [
+        {
+          "file": "zukyun-1a",
+          "contributor": "",
+          "display": "ズッキュン",
+          "source": "isekai_sniper"
+        },
+        {
+          "file": "zukyun-1b",
+          "contributor": "",
+          "display": "ずきゅーん♡",
+          "source": "yojo_life"
+        }
+      ]
     }],
     "literal": "zukyun"
   },
