@@ -8,7 +8,7 @@
   "hiragana": [
     "がく",
     "がくー",
-    "ガクッ"
+    "がくっ"
   ],
   "definition": [
     {
@@ -41,18 +41,24 @@
     {
       "meaning": "an expression of depression or tiredness",
       "equivalent": [
-        "slump",
+        "collapse",
         "droop",
-        "wilt",
-        "sink",
         "flag",
-        "collapse"
+        "sink",
+        "slump",
+        "wilt"
       ],
       "example": [
         {
           "source": "peter_grill",
           "file": "gaku-2a",
           "display": "ガクー...",
+          "contributor": ""
+        },
+        {
+          "source": "sex_with_me_sells",
+          "file": "gaku-2b",
+          "display": "がくっ",
           "contributor": ""
         }
       ]

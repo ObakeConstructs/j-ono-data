@@ -37,15 +37,15 @@
       ]
     },
     {
-      "meaning": "an indication or sound of tying, fastening or pulling something tight",
+      "meaning": "the indication or sound of tying, fastening or pulling something tight",
       "equivalent": [
         "bind",
         "cinch",
         "fasten",
         "lash",
+        "pull",
         "tie",
-        "tighten",
-        "pull"
+        "tighten"
       ],
       "example": [
         {
@@ -64,6 +64,12 @@
           "source": "rise_of_the_outlaw_tamer",
           "file": "kyu-2c",
           "display": "キュッ♡",
+          "contributor": ""
+        },
+        {
+          "source": "sex_with_me_sells",
+          "file": "kyu-2d",
+          "display": "きゅっ",
           "contributor": ""
         }
       ]

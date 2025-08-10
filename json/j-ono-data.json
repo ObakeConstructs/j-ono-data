@@ -1838,6 +1838,33 @@
     "literal": "bon"
   },
   {
+    "hiragana": [
+      "ぼろ",
+      "ぼろっ"
+    ],
+    "katakana": [
+      "ボロ",
+      "ボロッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "drained",
+        "exhausted",
+        "tired",
+        "weary",
+        "worn out"
+      ],
+      "meaning": "an indication or expression of being worn out or exhausted",
+      "example": [{
+        "file": "boro-1a",
+        "contributor": "",
+        "display": "ボロッ...",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "boro"
+  },
+  {
     "hiragana": ["ぼろぼろ"],
     "katakana": ["ボロボロ"],
     "definition": [{
@@ -2100,23 +2127,38 @@
       "ブチ",
       "ブチッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "burst",
-        "crack",
-        "shatter",
-        "smack",
-        "snap",
-        "split"
-      ],
-      "meaning": "the sound of something suddenly breaking",
-      "example": [{
-        "file": "buchi-1a",
-        "contributor": "",
-        "display": "ブチッ",
-        "source": "hanako_24th_ward"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "burst",
+          "crack",
+          "shatter",
+          "smack",
+          "snap",
+          "split"
+        ],
+        "meaning": "the sound of something suddenly breaking, ",
+        "example": [{
+          "file": "buchi-1a",
+          "contributor": "",
+          "display": "ブチッ",
+          "source": "hanako_24th_ward"
+        }]
+      },
+      {
+        "equivalent": [
+          "break",
+          "snap"
+        ],
+        "meaning": "an indication or expression of mentally snapping",
+        "example": [{
+          "file": "buchi-2a",
+          "contributor": "",
+          "display": "ブチッ",
+          "source": "sex_with_me_sells"
+        }]
+      }
+    ],
     "literal": "buchi"
   },
   {
@@ -2387,12 +2429,20 @@
     "definition": [{
       "equivalent": ["vroom"],
       "meaning": "the sound of an automobile engine",
-      "example": [{
-        "file": "buro-1a",
-        "contributor": "",
-        "display": "ブロロロ",
-        "source": "spy_x_family"
-      }]
+      "example": [
+        {
+          "file": "buro-1a",
+          "contributor": "",
+          "display": "ブロロロ",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "buro-1b",
+          "contributor": "",
+          "display": "ブロロロ..",
+          "source": "sex_with_me_sells"
+        }
+      ]
     }],
     "literal": "buro"
   },
@@ -5946,7 +5996,7 @@
     "hiragana": [
       "がく",
       "がくー",
-      "ガクッ"
+      "がくっ"
     ],
     "katakana": [
       "ガク",
@@ -5991,12 +6041,20 @@
           "wilt"
         ],
         "meaning": "an expression of depression or tiredness",
-        "example": [{
-          "file": "gaku-2a",
-          "contributor": "",
-          "display": "ガクー...",
-          "source": "peter_grill"
-        }]
+        "example": [
+          {
+            "file": "gaku-2a",
+            "contributor": "",
+            "display": "ガクー...",
+            "source": "peter_grill"
+          },
+          {
+            "file": "gaku-2b",
+            "contributor": "",
+            "display": "がくっ",
+            "source": "sex_with_me_sells"
+          }
+        ]
       }
     ],
     "literal": "gaku"
@@ -6679,6 +6737,12 @@
             "contributor": "",
             "display": "がや  がや",
             "source": "kuma_kuma_kuma_bear"
+          },
+          {
+            "file": "gaya_gaya-1c",
+            "contributor": "",
+            "display": "がや  がや  がや  がや  がや  がや  がや",
+            "source": "sex_with_me_sells"
           }
         ]
       },
@@ -7005,6 +7069,33 @@
   },
   {
     "hiragana": [
+      "ぎんぎん",
+      "ぎんぎんっ"
+    ],
+    "katakana": [
+      "ギンギン",
+      "ギンギンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "fixate",
+        "glare",
+        "glower",
+        "regard",
+        "stare"
+      ],
+      "meaning": "a fixed intent look",
+      "example": [{
+        "file": "gin_gin-1a",
+        "contributor": "",
+        "display": "ギン  ギン",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "gin gin"
+  },
+  {
+    "hiragana": [
       "ぎら",
       "ぎらっ"
     ],
@@ -7043,12 +7134,20 @@
         "grind"
       ],
       "meaning": "an expression of grinding one's teeth together, often in frustration or anger",
-      "example": [{
-        "file": "giri-1a",
-        "contributor": "",
-        "display": "ギリッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "giri-1a",
+          "contributor": "",
+          "display": "ギリッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "giri-1b",
+          "contributor": "",
+          "display": "ギリッ",
+          "source": "sex_with_me_sells"
+        }
+      ]
     }],
     "literal": "giri"
   },
@@ -8973,6 +9072,30 @@
     "literal": "ha ha"
   },
   {
+    "hiragana": ["へな"],
+    "katakana": ["へナ"],
+    "definition": [{
+      "equivalent": [
+        "drained",
+        "knackered",
+        "limp",
+        "pooped",
+        "spent",
+        "spent",
+        "tired",
+        "weary"
+      ],
+      "meaning": "an indication or expression of being worn out or exhausted",
+      "example": [{
+        "file": "hena-1a",
+        "contributor": "",
+        "display": "へな...",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "hena"
+  },
+  {
     "hiragana": [
       "ヘら",
       "ヘらっ"
@@ -9574,6 +9697,38 @@
       }]
     }],
     "literal": "hyun hyun"
+  },
+  {
+    "hiragana": [
+      "ひゅぉぉ",
+      "ひゅぉぉぉ",
+      "ひゅおお",
+      "ひゅおおお"
+    ],
+    "katakana": [
+      "ヒュォォ",
+      "ヒュォォォ",
+      "ヒュオオ",
+      "ヒュオオオ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blow",
+        "gale",
+        "gust",
+        "howl",
+        "whoosh",
+        "wind"
+      ],
+      "meaning": "the sound of a strong or howling wind",
+      "example": [{
+        "file": "hyuoo-1a",
+        "contributor": "",
+        "display": "ヒュォォォォォ...",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "hyuoo"
   },
   {
     "hiragana": [
@@ -11257,6 +11412,32 @@
   },
   {
     "hiragana": [
+      "きも",
+      "きもっ"
+    ],
+    "katakana": [
+      "キモ",
+      "キモッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "denial",
+        "disbelief",
+        "rejection",
+        "what!?"
+      ],
+      "meaning": "an expression of incredulity or disbelief",
+      "example": [{
+        "file": "kimo-1a",
+        "contributor": "",
+        "display": "キモッ",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "kimo"
+  },
+  {
+    "hiragana": [
       "きん",
       "きぃん",
       "きぃーん"
@@ -11616,6 +11797,12 @@
           "contributor": "",
           "display": "こくっ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "koku-1c",
+          "contributor": "",
+          "display": "コクッ",
+          "source": "sex_with_me_sells"
         }
       ]
     }],
@@ -12659,7 +12846,7 @@
           "tie",
           "tighten"
         ],
-        "meaning": "an indication or sound of tying, fastening or pulling something tight",
+        "meaning": "the indication or sound of tying, fastening or pulling something tight",
         "example": [
           {
             "file": "kyu-2a",
@@ -12678,6 +12865,12 @@
             "contributor": "",
             "display": "キュッ♡",
             "source": "rise_of_the_outlaw_tamer"
+          },
+          {
+            "file": "kyu-2d",
+            "contributor": "",
+            "display": "きゅっ",
+            "source": "sex_with_me_sells"
           }
         ]
       },
@@ -13715,12 +13908,13 @@
     "definition": [{
       "equivalent": [
         "grin",
+        "leer",
         "smile",
         "smirk",
         "sneer",
         "snicker"
       ],
-      "meaning": "an unpleasant smile often expressing pleasure at someone else's trouble",
+      "meaning": "an unpleasant or evil smile",
       "example": [{
         "file": "niya-1a",
         "contributor": "",
@@ -13729,6 +13923,34 @@
       }]
     }],
     "literal": "niya"
+  },
+  {
+    "hiragana": [
+      "にやにや",
+      "にやにやっ"
+    ],
+    "katakana": [
+      "ニヤニヤ",
+      "ニヤニヤッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "grin",
+        "leer",
+        "smile",
+        "smirk",
+        "sneer",
+        "snicker"
+      ],
+      "meaning": "an unpleasant or evil smile",
+      "example": [{
+        "file": "niya_niya-1a",
+        "contributor": "",
+        "display": "にや  にや",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "niya niya"
   },
   {
     "hiragana": [
@@ -13803,6 +14025,29 @@
       }]
     }],
     "literal": "noso noso"
+  },
+  {
+    "hiragana": ["ぬらぬら"],
+    "katakana": ["ヌラヌラ"],
+    "definition": [{
+      "equivalent": [
+        "anger anger",
+        "danger danger",
+        "fury fury",
+        "ire ire",
+        "mad mad",
+        "peeved  peeved",
+        "roil roil"
+      ],
+      "meaning": "an expression of anger or irritation",
+      "example": [{
+        "file": "nura_nura-1a",
+        "contributor": "",
+        "display": "ヌラ  ヌラ  ヌラ",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "nura nura"
   },
   {
     "hiragana": [
@@ -14633,32 +14878,50 @@
   {
     "hiragana": ["ぱらぱら"],
     "katakana": ["パラパラ"],
-    "definition": [{
-      "equivalent": [
-        "flit flit",
-        "flutter",
-        "pit-a-pat",
-        "pitter-patter",
-        "sst sst",
-        "tap tap",
-        "tock tock"
-      ],
-      "meaning": "the repeated or continuous sound of small things falling",
-      "example": [
-        {
-          "file": "para_para-1a",
-          "contributor": "",
-          "display": "パラ  パラ...",
-          "source": "hello_work"
-        },
-        {
-          "file": "para_para-1b",
+    "definition": [
+      {
+        "equivalent": [
+          "flit flit",
+          "flutter",
+          "pit-a-pat",
+          "pitter-patter",
+          "sst sst",
+          "tap tap",
+          "tock tock"
+        ],
+        "meaning": "the repeated or continuous sound of small things falling",
+        "example": [
+          {
+            "file": "para_para-1a",
+            "contributor": "",
+            "display": "パラ  パラ...",
+            "source": "hello_work"
+          },
+          {
+            "file": "para_para-1b",
+            "contributor": "",
+            "display": "パラ  パラ",
+            "source": "bungo"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "flip flip",
+          "riffle riffle",
+          "skim skim",
+          "thumb thum",
+          "turn turn"
+        ],
+        "meaning": "sound of turning or riffling through paper pages",
+        "example": [{
+          "file": "para_para-2a",
           "contributor": "",
           "display": "パラ  パラ",
-          "source": "bungo"
-        }
-      ]
-    }],
+          "source": "sex_with_me_sells"
+        }]
+      }
+    ],
     "literal": "para para"
   },
   {
@@ -16060,8 +16323,14 @@
     "literal": "pipi"
   },
   {
-    "hiragana": ["ぴら"],
-    "katakana": ["ピラ"],
+    "hiragana": [
+      "ぴら",
+      "ぴらっ"
+    ],
+    "katakana": [
+      "ピラ",
+      "ピラッ"
+    ],
     "definition": [{
       "equivalent": [
         "expose",
@@ -16069,13 +16338,21 @@
         "reveal",
         "uncover"
       ],
-      "meaning": "an indication or sound of opening or revealing, usually a thin material like cloth",
-      "example": [{
-        "file": "pira-1a",
-        "contributor": "",
-        "display": "ピラ...",
-        "source": "gyaru_academy"
-      }]
+      "meaning": "an indication or sound of revealing something",
+      "example": [
+        {
+          "file": "pira-1a",
+          "contributor": "",
+          "display": "ピラ...",
+          "source": "gyaru_academy"
+        },
+        {
+          "file": "pira-1b",
+          "contributor": "",
+          "display": "ぴらっ",
+          "source": "sex_with_me_sells"
+        }
+      ]
     }],
     "literal": "pira"
   },
@@ -17292,12 +17569,20 @@
           "tremble"
         ],
         "meaning": "an indication of shaking or buzzing",
-        "example": [{
-          "file": "puru-1a",
-          "contributor": "",
-          "display": "プルルル",
-          "source": "drawing"
-        }]
+        "example": [
+          {
+            "file": "puru-1a",
+            "contributor": "",
+            "display": "プルルル",
+            "source": "drawing"
+          },
+          {
+            "file": "puru-1b",
+            "contributor": "",
+            "display": "プルルル....",
+            "source": "sex_with_me_sells"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -18836,6 +19121,42 @@
       }
     ],
     "literal": "suka"
+  },
+  {
+    "hiragana": [
+      "すこん",
+      "すこんっ"
+    ],
+    "katakana": [
+      "スコン",
+      "スコンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bat",
+        "biff",
+        "bonk",
+        "bop",
+        "clip",
+        "plonk",
+        "plunk",
+        "scuff",
+        "smack",
+        "sock",
+        "swat",
+        "tap",
+        "thump",
+        "whack"
+      ],
+      "meaning": "the indication or sound of a light, harmless strike",
+      "example": [{
+        "file": "sukon-1a",
+        "contributor": "",
+        "display": "スコン",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "sukon"
   },
   {
     "hiragana": [
@@ -21565,7 +21886,7 @@
         "surf",
         "waves"
       ],
-      "meaning": "the sound of water waves",
+      "meaning": "the sound of moving water or waves",
       "example": [{
         "file": "zazan-1a",
         "contributor": "",
@@ -21578,11 +21899,19 @@
   {
     "hiragana": [
       "ざざ",
-      "ざっざっ"
+      "ざっざっ",
+      "ざざぁ",
+      "ざざぁぁ",
+      "ざざあ",
+      "ざざああ"
     ],
     "katakana": [
       "ザザ",
-      "ザッザッ"
+      "ザッザッ",
+      "ザザァ",
+      "ザザァァ",
+      "ザザア",
+      "ザザアア"
     ],
     "definition": [
       {
@@ -21630,7 +21959,7 @@
           "swash",
           "waves"
         ],
-        "meaning": "the sound of moving water",
+        "meaning": "the sound of moving water or waves",
         "example": [
           {
             "file": "za_za-2a",
@@ -21643,6 +21972,12 @@
             "contributor": "",
             "display": "ザザザザ",
             "source": "blazing_fire_brigade"
+          },
+          {
+            "file": "za_za-2c",
+            "contributor": "",
+            "display": "ザザァ...",
+            "source": "sex_with_me_sells"
           }
         ]
       }
@@ -22226,6 +22561,33 @@
       }]
     }],
     "literal": "zuki"
+  },
+  {
+    "hiragana": [
+      "ずきん",
+      "ずきんっ"
+    ],
+    "katakana": [
+      "ズキン",
+      "ズキンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ache",
+        "anguish",
+        "misery",
+        "sting",
+        "throb"
+      ],
+      "meaning": "an expression of emotional or physical pain",
+      "example": [{
+        "file": "zukin-1a",
+        "contributor": "",
+        "display": "ズキン",
+        "source": "sex_with_me_sells"
+      }]
+    }],
+    "literal": "zukin"
   },
   {
     "hiragana": [

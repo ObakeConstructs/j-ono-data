@@ -1,18 +1,20 @@
 {
   "literal": "pira",
   "katakana": [
-    "ピラ"
+    "ピラ",
+    "ピラッ"
   ],
   "hiragana": [
-    "ぴら"
+    "ぴら",
+    "ぴらっ"
   ],
   "definition": [
     {
-      "meaning": "an indication or sound of opening or revealing, usually a thin material like cloth",
+      "meaning": "an indication or sound of revealing something",
       "equivalent": [
+        "expose",
         "open",
         "reveal",
-        "expose",
         "uncover"
       ],
       "example": [
@@ -20,6 +22,12 @@
           "source": "gyaru_academy",
           "file": "pira-1a",
           "display": "ピラ...",
+          "contributor": ""
+        },
+        {
+          "source": "sex_with_me_sells",
+          "file": "pira-1b",
+          "display": "ぴらっ",
           "contributor": ""
         }
       ]
