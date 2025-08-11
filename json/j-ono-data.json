@@ -54,12 +54,6 @@
           "source": "komi_cant_communicate"
         },
         {
-          "file": "ahaha-1b",
-          "contributor": "",
-          "display": "あはは",
-          "source": "komi_cant_communicate"
-        },
-        {
           "file": "ahaha-1c",
           "contributor": "",
           "display": "あっはっはっはっ",
@@ -1226,20 +1220,12 @@
         "squirt"
       ],
       "meaning": "a splashing or splattering sound",
-      "example": [
-        {
-          "file": "bicha-1a",
-          "contributor": "",
-          "display": "びちゃ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "bicha-1b",
-          "contributor": "",
-          "display": "ビチャ",
-          "source": "berserk"
-        }
-      ]
+      "example": [{
+        "file": "bicha-1a",
+        "contributor": "",
+        "display": "びちゃ",
+        "source": "world_full_of_monsters"
+      }]
     }],
     "literal": "bicha"
   },
@@ -1271,12 +1257,6 @@
           "contributor": "",
           "display": "びくっ",
           "source": "d_genesis"
-        },
-        {
-          "file": "biku-1b",
-          "contributor": "",
-          "display": "ビク",
-          "source": "different_world_smartphone"
         },
         {
           "file": "biku-1c",
@@ -2341,12 +2321,6 @@
           "contributor": "",
           "display": "ブン  ブンッ",
           "source": "world_full_of_monsters"
-        },
-        {
-          "file": "bun_bun-1c",
-          "contributor": "",
-          "display": "ブン  ブン",
-          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -3380,12 +3354,6 @@
           "contributor": "",
           "display": "だっ",
           "source": "different_world_smartphone"
-        },
-        {
-          "file": "da-1c",
-          "contributor": "",
-          "display": "だー",
-          "source": "komi_cant_communicate"
         }
       ]
     }],
@@ -3536,20 +3504,12 @@
         "trickle"
       ],
       "meaning": "continuously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
-      "example": [
-        {
-          "file": "dara_dara-1a",
-          "contributor": "",
-          "display": "ダラ  ダラ",
-          "source": "komi_cant_communicate"
-        },
-        {
-          "file": "dara_dara-1b",
-          "contributor": "",
-          "display": "だら  だら",
-          "source": "abandoned_reincarnation_sage"
-        }
-      ]
+      "example": [{
+        "file": "dara_dara-1b",
+        "contributor": "",
+        "display": "だら  だら",
+        "source": "abandoned_reincarnation_sage"
+      }]
     }],
     "literal": "dara dara"
   },
@@ -4397,12 +4357,6 @@
         ],
         "meaning": "to place or drop something onto a hard surface, often with a noticeable sound",
         "example": [
-          {
-            "file": "dosa-2a",
-            "contributor": "",
-            "display": "どさ...",
-            "source": "different_world_smartphone"
-          },
           {
             "file": "dosa-2b",
             "contributor": "",
@@ -9478,26 +9432,6 @@
     "literal": "ho"
   },
   {
-    "hiragana": ["ほほぅ"],
-    "katakana": ["ホホゥ"],
-    "definition": [{
-      "equivalent": [
-        "ah",
-        "ah ha",
-        "aha",
-        "well"
-      ],
-      "meaning": "an expression of unexpected realization",
-      "example": [{
-        "file": "hohou-1a",
-        "contributor": "",
-        "display": "ほほぅ",
-        "source": "different_world_smartphone"
-      }]
-    }],
-    "literal": "hohou"
-  },
-  {
     "hiragana": ["ほかほか"],
     "katakana": ["ホカホカ"],
     "definition": [{
@@ -9865,31 +9799,6 @@
       }]
     }],
     "literal": "hyuru"
-  },
-  {
-    "hiragana": [
-      "いえい",
-      "いえーい"
-    ],
-    "katakana": [
-      "イエイ",
-      "イエーイ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "ayyy",
-        "heyyy",
-        "yayyy"
-      ],
-      "meaning": "an expression of joy, approval, or excitement, often used humorously or as posing for a photograph",
-      "example": [{
-        "file": "iei-1a",
-        "contributor": "",
-        "display": "イエーイ",
-        "source": "komi_cant_communicate"
-      }]
-    }],
-    "literal": "iei"
   },
   {
     "hiragana": [
@@ -12327,52 +12236,6 @@
   },
   {
     "hiragana": [
-      "くいくい",
-      "くぃくぃ",
-      "くいくいっ"
-    ],
-    "katakana": [
-      "クイクイ",
-      "クィクィ",
-      "クイクイッ"
-    ],
-    "definition": [
-      {
-        "equivalent": [
-          "pluck",
-          "pull",
-          "tug"
-        ],
-        "meaning": "to gently pull or tug on something",
-        "example": [{
-          "file": "kui_kui-1a",
-          "contributor": "",
-          "display": "くい  くい",
-          "source": "different_world_smartphone"
-        }]
-      },
-      {
-        "equivalent": [
-          "beckon",
-          "flag",
-          "gesture",
-          "motion",
-          "signal",
-          "wave"
-        ],
-        "meaning": "to gesture at someone ambiguously",
-        "example": [{
-          "file": "kui_kui-2a",
-          "contributor": "",
-          "display": "くい  くいっ",
-          "source": "different_world_smartphone"
-        }]
-      }
-    ],
-    "literal": "kui kui"
-  },
-  {
-    "hiragana": [
       "くく",
       "くくっ"
     ],
@@ -12453,25 +12316,6 @@
       ]
     }],
     "literal": "kuna kuna"
-  },
-  {
-    "hiragana": ["くねくね"],
-    "katakana": ["クネクネ"],
-    "definition": [{
-      "equivalent": [
-        "boing",
-        "jiggle",
-        "wobble"
-      ],
-      "meaning": "a series of small irregular movements or oscillations",
-      "example": [{
-        "file": "kune_kune-1a",
-        "contributor": "",
-        "display": "くねくね",
-        "source": "komi_cant_communicate"
-      }]
-    }],
-    "literal": "kune kune"
   },
   {
     "hiragana": ["くんくん"],
@@ -16026,12 +15870,6 @@
       "meaning": "a sudden or bright flash of light or a dazzling glimmer",
       "example": [
         {
-          "file": "pika-1a",
-          "contributor": "",
-          "display": "ピカー",
-          "source": "komi_cant_communicate"
-        },
-        {
           "file": "pika-1b",
           "contributor": "",
           "display": "ピカッ",
@@ -16709,12 +16547,6 @@
           "contributor": "",
           "display": "ピタッ",
           "source": "world_full_of_monsters"
-        },
-        {
-          "file": "pita-1b",
-          "contributor": "",
-          "display": "ぴたっ",
-          "source": "different_world_smartphone"
         },
         {
           "file": "pita-1c",
@@ -18785,20 +18617,12 @@
           "zoom"
         ],
         "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
-        "example": [
-          {
-            "file": "shu-1a",
-            "contributor": "",
-            "display": "シュッ",
-            "source": "d_genesis"
-          },
-          {
-            "file": "shu-1b",
-            "contributor": "",
-            "display": "シュッ",
-            "source": "different_world_smartphone"
-          }
-        ]
+        "example": [{
+          "file": "shu-1a",
+          "contributor": "",
+          "display": "シュッ",
+          "source": "d_genesis"
+        }]
       },
       {
         "equivalent": [
@@ -19761,20 +19585,12 @@
         "tumble"
       ],
       "meaning": "to fall from a standing position, often suddenly and involuntarily",
-      "example": [
-        {
-          "file": "suten-1a",
-          "contributor": "",
-          "display": "すてーん",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "suten-1b",
-          "contributor": "",
-          "display": "すてーん",
-          "source": "saga_lagging_hero"
-        }
-      ]
+      "example": [{
+        "file": "suten-1b",
+        "contributor": "",
+        "display": "すてーん",
+        "source": "saga_lagging_hero"
+      }]
     }],
     "literal": "suten"
   },
@@ -22936,12 +22752,6 @@
             "contributor": "",
             "display": "ずぅぅん...",
             "source": "world_full_of_monsters"
-          },
-          {
-            "file": "zun-1b",
-            "contributor": "",
-            "display": "ズーン",
-            "source": "komi_cant_communicate"
           },
           {
             "file": "zun-1c",
