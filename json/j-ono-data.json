@@ -995,7 +995,7 @@
         "thud",
         "thwack"
       ],
-      "meaning": "The sound of a rattling impact, as from a door or window opening",
+      "meaning": "The sound of a rattling impact, as from a door or window opening or closing",
       "example": [
         {
           "file": "batan-1a",
@@ -2321,6 +2321,12 @@
           "contributor": "",
           "display": "ブン  ブンッ",
           "source": "world_full_of_monsters"
+        },
+        {
+          "file": "bun_bun-1c",
+          "contributor": "",
+          "display": "ブン  ブン  ブン",
+          "source": "ai_and_izawa"
         }
       ]
     }],
@@ -2421,6 +2427,12 @@
           "contributor": "",
           "display": "ブロロロ..",
           "source": "sex_with_me_sells"
+        },
+        {
+          "file": "buro-1c",
+          "contributor": "",
+          "display": "ブロロロロ",
+          "source": "ai_and_izawa"
         }
       ]
     }],
@@ -2501,12 +2513,20 @@
         "tremble"
       ],
       "meaning": "shaking involuntarily, as from fear or cold",
-      "example": [{
-        "file": "buru_buru-1a",
-        "contributor": "",
-        "display": "ブル  ブルッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "buru_buru-1a",
+          "contributor": "",
+          "display": "ブル  ブルッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "buru_buru-1b",
+          "contributor": "",
+          "display": "ぶる  ぶる  ぶる",
+          "source": "ai_and_izawa"
+        }
+      ]
     }],
     "literal": "buru buru"
   },
@@ -3997,12 +4017,20 @@
         "throb"
       ],
       "meaning": "the indication or sound of strong heartbeat, often used to indicate a dramatic realization",
-      "example": [{
-        "file": "dokun-1a",
-        "contributor": "",
-        "display": "ドクン",
-        "source": "isekai_sniper"
-      }]
+      "example": [
+        {
+          "file": "dokun-1a",
+          "contributor": "",
+          "display": "ドクン",
+          "source": "isekai_sniper"
+        },
+        {
+          "file": "dokun-1b",
+          "contributor": "",
+          "display": "ドクン",
+          "source": "ai_and_izawa"
+        }
+      ]
     }],
     "literal": "dokun"
   },
@@ -4016,13 +4044,21 @@
         "pulse pulse",
         "throb throb"
       ],
-      "meaning": "an indication of rythmic throbbing, like a heartbeat",
-      "example": [{
-        "file": "dokun_dokun-1a",
-        "contributor": "",
-        "display": "ドクン  ドクン",
-        "source": "double_play"
-      }]
+      "meaning": "an indication of a heartbeat or a rythmic throbbing",
+      "example": [
+        {
+          "file": "dokun_dokun-1a",
+          "contributor": "",
+          "display": "ドクン  ドクン",
+          "source": "ai_and_izawa"
+        },
+        {
+          "file": "dokun_dokun-1b",
+          "contributor": "",
+          "display": "ドクン  ドクン",
+          "source": "double_play"
+        }
+      ]
     }],
     "literal": "dokun dokun"
   },
@@ -4358,15 +4394,21 @@
         "meaning": "to place or drop something onto a hard surface, often with a noticeable sound",
         "example": [
           {
-            "file": "dosa-2b",
+            "file": "dosa-2a",
             "contributor": "",
             "display": "ドササッ",
+            "source": "ai_and_izawa"
+          },
+          {
+            "file": "dosa-2b",
+            "contributor": "",
+            "display": "ドサ",
             "source": "spy_x_family"
           },
           {
             "file": "dosa-2c",
             "contributor": "",
-            "display": "ドサ",
+            "display": "ドサッ",
             "source": "otherworld_material_collector"
           }
         ]
@@ -4664,6 +4706,21 @@
           "contributor": "Artrix",
           "display": "ドドドドド",
           "source": "pokemon_xy_break"
+        }]
+      },
+      {
+        "equivalent": [
+          "accelerate",
+          "race race",
+          "speed",
+          "vroom vroom"
+        ],
+        "meaning": "the sound of a loud or high-performance engine",
+        "example": [{
+          "file": "do_do-5a",
+          "contributor": "",
+          "display": "ドドドド",
+          "source": "ai_and_izawa"
         }]
       }
     ],
@@ -5383,21 +5440,37 @@
   {
     "hiragana": ["ふるふる"],
     "katakana": ["フルフル"],
-    "definition": [{
-      "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "meaning": "an indication of shaking",
-      "example": [{
-        "file": "furu_furu-1a",
-        "contributor": "",
-        "display": "フル  フル",
-        "source": "weakest_occupation_blacksmith"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "quiver",
+          "shiver",
+          "shudder",
+          "tremble"
+        ],
+        "meaning": "an indication of shaking",
+        "example": [{
+          "file": "furu_furu-1a",
+          "contributor": "",
+          "display": "フル  フル",
+          "source": "weakest_occupation_blacksmith"
+        }]
+      },
+      {
+        "equivalent": [
+          "no no",
+          "nope nope",
+          "shake shake"
+        ],
+        "meaning": "an indication of turning one's head side to side, as a way of expressing disagreement",
+        "example": [{
+          "file": "furu_furu-2a",
+          "contributor": "",
+          "display": "ふる  ふる  ふる",
+          "source": "ai_and_izawa"
+        }]
+      }
+    ],
     "literal": "furu furu"
   },
   {
@@ -5417,7 +5490,7 @@
         "lift",
         "sway"
       ],
-      "meaning": "to float gently or move softly",
+      "meaning": "an indication of floating gently or moving softly",
       "example": [
         {
           "file": "fuwa-1a",
@@ -5436,6 +5509,12 @@
           "contributor": "",
           "display": "フワッ",
           "source": "lord_of_the_hundred_demons"
+        },
+        {
+          "file": "fuwa-1d",
+          "contributor": "",
+          "display": "ふわっ",
+          "source": "ai_and_izawa"
         }
       ]
     }],
@@ -6693,6 +6772,12 @@
             "contributor": "",
             "display": "ガタ  ガタ",
             "source": "isekai_sniper"
+          },
+          {
+            "file": "gata_gata-2c",
+            "contributor": "",
+            "display": "ガタ  ガタ  ガタ  ガタ",
+            "source": "ai_and_izawa"
           }
         ]
       }
@@ -7202,12 +7287,20 @@
         "stare"
       ],
       "meaning": "a fixed intent look",
-      "example": [{
-        "file": "giro-1a",
-        "contributor": "",
-        "display": "ギロ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "giro-1a",
+          "contributor": "",
+          "display": "ギロ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "giro-1b",
+          "contributor": "",
+          "display": "ギロッ",
+          "source": "ai_and_izawa"
+        }
+      ]
     }],
     "literal": "giro"
   },
@@ -8144,6 +8237,12 @@
             "contributor": "",
             "display": "グッ",
             "source": "yojo_life"
+          },
+          {
+            "file": "gu-5c",
+            "contributor": "",
+            "display": "ぐっ",
+            "source": "ai_and_izawa"
           }
         ]
       },
@@ -8266,7 +8365,7 @@
         "wrest",
         "yank"
       ],
-      "meaning": "to take or seize, typically with a sudden motion or grasp",
+      "meaning": "a sudden or forceful hand movement",
       "example": [
         {
           "file": "gui-1a",
@@ -8291,6 +8390,12 @@
           "contributor": "",
           "display": "グイッ",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "gui-1e",
+          "contributor": "",
+          "display": "ぐぃっ",
+          "source": "ai_and_izawa"
         }
       ]
     }],
@@ -9346,7 +9451,8 @@
     "definition": [{
       "equivalent": [
         "softly",
-        "whisper"
+        "sotto voce",
+        "whisper whisper"
       ],
       "meaning": "to speak quietly in order to not be overheard",
       "example": [
@@ -9361,6 +9467,12 @@
           "contributor": "",
           "display": "ひそ  ひそ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "hiso_hiso-1c",
+          "contributor": "",
+          "display": "ヒソ  ヒソ",
+          "source": "ai_and_izawa"
         }
       ]
     }],
@@ -10163,27 +10275,46 @@
     "hiragana": [
       "じり",
       "じりり",
-      "じりりり"
+      "じりりり",
+      "じりっ"
     ],
     "katakana": [
       "ジリ",
       "ジリリ",
-      "ジリリリ"
+      "ジリリリ",
+      "ジリッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "beep beep",
-        "ding-a-ling",
-        "ring ring"
-      ],
-      "meaning": "sound of ringing, as from an alarm or phone",
-      "example": [{
-        "file": "jiri-1a",
-        "contributor": "",
-        "display": "ジリリ",
-        "source": "d_genesis"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "beep beep",
+          "ding-a-ling",
+          "ring ring"
+        ],
+        "meaning": "sound of ringing, as from an alarm or phone",
+        "example": [{
+          "file": "jiri-1a",
+          "contributor": "",
+          "display": "ジリリ",
+          "source": "d_genesis"
+        }]
+      },
+      {
+        "equivalent": [
+          "creep",
+          "inch",
+          "slowly",
+          "step"
+        ],
+        "meaning": "the indication of moving slowly or carefully",
+        "example": [{
+          "file": "jiri-2a",
+          "contributor": "",
+          "display": "じりっ",
+          "source": "ai_and_izawa"
+        }]
+      }
+    ],
     "literal": "jiri"
   },
   {
@@ -10196,7 +10327,7 @@
         "inch inch",
         "invade"
       ],
-      "meaning": "to approach by slow gradual steps",
+      "meaning": "an indication of moving or stepping slowly",
       "example": [{
         "file": "jiri_jiri-1a",
         "contributor": "",
@@ -12883,6 +13014,28 @@
     "literal": "kyuru"
   },
   {
+    "hiragana": ["きゅるきゅる"],
+    "katakana": ["キュルキュル"],
+    "definition": [{
+      "equivalent": [
+        "buzz buzz",
+        "hum hum",
+        "motor motor",
+        "move move",
+        "whir whir",
+        "zoom zoom"
+      ],
+      "meaning": "the indication or sound of tiny motors moving",
+      "example": [{
+        "file": "kyuru_kyuru-1a",
+        "contributor": "",
+        "display": "キュル  キュル",
+        "source": "ai_and_izawa"
+      }]
+    }],
+    "literal": "kyuru kyuru"
+  },
+  {
     "hiragana": [
       "みし",
       "みしっ"
@@ -14723,52 +14876,85 @@
       "パァン",
       "パァンッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bam",
-        "bang",
-        "clap",
-        "crash",
-        "impact",
-        "pow",
-        "slam",
-        "slap",
-        "smack",
-        "strike"
-      ],
-      "meaning": "a sudden resounding strike, often loud",
-      "example": [
-        {
-          "file": "pan-1a",
-          "contributor": "",
-          "display": "パンッ,  パン",
-          "source": "simple_sword_saint"
-        },
-        {
-          "file": "pan-1b",
-          "contributor": "",
-          "display": "パァンッ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "pan-1c",
-          "contributor": "",
-          "display": "ぱんっ",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "pan-1d",
-          "contributor": "",
-          "display": "パン",
-          "source": "reincarnated_farm_girl"
-        }
-      ]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "bam",
+          "bang",
+          "clap",
+          "crash",
+          "impact",
+          "pow",
+          "slam",
+          "slap",
+          "smack",
+          "strike"
+        ],
+        "meaning": "a sudden resounding strike, often loud",
+        "example": [
+          {
+            "file": "pan-1a",
+            "contributor": "",
+            "display": "パン",
+            "source": "simple_sword_saint"
+          },
+          {
+            "file": "pan-1b",
+            "contributor": "",
+            "display": "パァンッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "pan-1d",
+            "contributor": "",
+            "display": "パン",
+            "source": "reincarnated_farm_girl"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "biff",
+          "bonk",
+          "clap",
+          "clip",
+          "pat",
+          "rap",
+          "scuff",
+          "slap",
+          "stroke",
+          "swat",
+          "swipe",
+          "thump"
+        ],
+        "meaning": "the sound or a light or soft strike",
+        "example": [
+          {
+            "file": "pan-2a",
+            "contributor": "",
+            "display": "ぱんっ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "pan-2b",
+            "contributor": "",
+            "display": "パンッ",
+            "source": "ai_and_izawa"
+          }
+        ]
+      }
+    ],
     "literal": "pan"
   },
   {
-    "hiragana": ["ぱんぱん"],
-    "katakana": ["パンパン"],
+    "hiragana": [
+      "ぱんぱん",
+      "ぱんっぱんっ"
+    ],
+    "katakana": [
+      "パンパン",
+      "パンッパンッ"
+    ],
     "definition": [{
       "equivalent": [
         "biff biff",
@@ -14797,6 +14983,12 @@
           "contributor": "",
           "display": "ぱん  ぱん",
           "source": "beastly_boys_and_girls"
+        },
+        {
+          "file": "pan_pan-1c",
+          "contributor": "",
+          "display": "ぱんっ  ぱんっ",
+          "source": "ai_and_izawa"
         }
       ]
     }],
@@ -14840,6 +15032,12 @@
           "contributor": "",
           "display": "ぱら",
           "source": "fushi_no_kami"
+        },
+        {
+          "file": "para-1d",
+          "contributor": "",
+          "display": "パラ",
+          "source": "ai_and_izawa"
         }
       ]
     }],
@@ -15112,14 +15310,16 @@
       {
         "equivalent": [
           "bam",
+          "bop",
           "click",
           "close",
           "ker-chak",
           "latch",
           "slam",
-          "tchk"
+          "tchk",
+          "thump"
         ],
-        "meaning": "the sound of a door closing or latching",
+        "meaning": "the sound of something closing or latching",
         "example": [
           {
             "file": "patan-1a",
@@ -15132,6 +15332,12 @@
             "contributor": "",
             "display": "パタン",
             "source": "peter_grill"
+          },
+          {
+            "file": "patan-1c",
+            "contributor": "",
+            "display": "パタン",
+            "source": "ai_and_izawa"
           }
         ]
       },
@@ -16286,27 +16492,42 @@
   {
     "hiragana": [
       "ぴぴ",
-      "ぴぴぴ"
+      "ぴぴぴ",
+      "ぴっぴっ",
+      "ぴっぴっぴっ"
     ],
     "katakana": [
       "ピピ",
-      "ピピピ"
+      "ピピピ",
+      "ピッピッ",
+      "ピッピッピッ"
     ],
     "definition": [{
       "equivalent": [
+        "beep beep",
         "cheep cheep",
         "chirp chirp",
+        "ding ding",
         "peep peep",
+        "ping ping",
         "pip pip",
         "tweet tweet"
       ],
-      "meaning": "a series of short chirps or tweets from a bird",
-      "example": [{
-        "file": "pipi-1a",
-        "contributor": "",
-        "display": "ぴぴぴ",
-        "source": "my_s-ranked_daughter"
-      }]
+      "meaning": "a series of high pitched chirps or tones",
+      "example": [
+        {
+          "file": "pipi-1a",
+          "contributor": "",
+          "display": "ぴぴぴ",
+          "source": "my_s-ranked_daughter"
+        },
+        {
+          "file": "pipi-1b",
+          "contributor": "",
+          "display": "ピッ  ピッ  ピッ  ピッ  ピッ  ピッ  ピッ",
+          "source": "ai_and_izawa"
+        }
+      ]
     }],
     "literal": "pipi"
   },
@@ -16649,6 +16870,21 @@
           "contributor": "",
           "display": "ぽー...",
           "source": "world_full_of_monsters"
+        }]
+      },
+      {
+        "equivalent": [
+          "drip",
+          "drop",
+          "plink",
+          "plunk"
+        ],
+        "meaning": "the sound of a drop landing",
+        "example": [{
+          "file": "po-3a",
+          "contributor": "",
+          "display": "ポッ",
+          "source": "ai_and_izawa"
         }]
       }
     ],
@@ -18135,6 +18371,12 @@
             "contributor": "",
             "display": "さああ....",
             "source": "beastly_boys_and_girls"
+          },
+          {
+            "file": "sa-1c",
+            "contributor": "",
+            "display": "サァァァ",
+            "source": "ai_and_izawa"
           }
         ]
       },
@@ -20624,22 +20866,39 @@
       "ツー",
       "ッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "gasp",
-        "ha",
-        "hsss",
-        "oh",
-        "wha"
-      ],
-      "meaning": "a quick inhale or gasp, as from being surprised or frightened",
-      "example": [{
-        "file": "tsu-1a",
-        "contributor": "",
-        "display": "ツ...!!",
-        "source": "world_full_of_monsters"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "gasp",
+          "ha",
+          "hsss",
+          "oh",
+          "wha"
+        ],
+        "meaning": "a quick inhale or gasp, as from being surprised or frightened",
+        "example": [{
+          "file": "tsu-1a",
+          "contributor": "",
+          "display": "ツ...!!",
+          "source": "world_full_of_monsters"
+        }]
+      },
+      {
+        "equivalent": [
+          "dribble",
+          "drip",
+          "droplet",
+          "trickle"
+        ],
+        "meaning": "the indication of a small flowing liquid",
+        "example": [{
+          "file": "tsu-2a",
+          "contributor": "",
+          "display": "ッ",
+          "source": "ai_and_izawa"
+        }]
+      }
+    ],
     "literal": "tsu"
   },
   {
@@ -20817,6 +21076,30 @@
       }]
     }],
     "literal": "ua"
+  },
+  {
+    "hiragana": [
+      "うぃん",
+      "うぃーん"
+    ],
+    "katakana": [
+      "ウィン",
+      "ウィーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "humm",
+        "whirr"
+      ],
+      "meaning": "the sound of raising or lowering an automatic window",
+      "example": [{
+        "file": "uin-1a",
+        "contributor": "",
+        "display": "ウィーン",
+        "source": "ai_and_izawa"
+      }]
+    }],
+    "literal": "uin"
   },
   {
     "hiragana": [
@@ -21497,12 +21780,20 @@
         "wobble"
       ],
       "meaning": "unsteady or awkward movement",
-      "example": [{
-        "file": "yoro-1a",
-        "contributor": "",
-        "display": "ヨロッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "yoro-1a",
+          "contributor": "",
+          "display": "ヨロッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "yoro-1b",
+          "contributor": "",
+          "display": "ヨロッ",
+          "source": "ai_and_izawa"
+        }
+      ]
     }],
     "literal": "yoro"
   },

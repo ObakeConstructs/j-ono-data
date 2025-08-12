@@ -10,15 +10,17 @@
   ],
   "definition": [
     {
-      "meaning": "the sound of a door closing or latching",
+      "meaning": "the sound of something closing or latching",
       "equivalent": [
         "bam",
         "click",
         "close",
         "ker-chak",
+        "latch",
         "slam",
         "tchk",
-        "latch"
+        "bop",
+        "thump"
       ],
       "example": [
         {
@@ -30,6 +32,12 @@
         {
           "source": "peter_grill",
           "file": "patan-1b",
+          "display": "パタン",
+          "contributor": ""
+        },
+        {
+          "source": "ai_and_izawa",
+          "file": "patan-1c",
           "display": "パタン",
           "contributor": ""
         }

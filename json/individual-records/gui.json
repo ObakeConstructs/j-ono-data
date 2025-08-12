@@ -14,7 +14,7 @@
   ],
   "definition": [
     {
-      "meaning": "to take or seize, typically with a sudden motion or grasp",
+      "meaning": "a sudden or forceful hand movement",
       "equivalent": [
         "get",
         "grab",
@@ -51,6 +51,12 @@
           "source": "otherworld_material_collector",
           "file": "gui-1d",
           "display": "グイッ",
+          "contributor": ""
+        },
+        {
+          "source": "ai_and_izawa",
+          "file": "gui-1e",
+          "display": "ぐぃっ",
           "contributor": ""
         }
       ]

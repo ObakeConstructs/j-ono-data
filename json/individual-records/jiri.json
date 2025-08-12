@@ -1,27 +1,50 @@
 {
-  "hiragana": [
-    "じり",
-    "じりり",
-    "じりりり"
-  ],
+  "literal": "jiri",
   "katakana": [
     "ジリ",
     "ジリリ",
-    "ジリリリ"
+    "ジリリリ",
+    "ジリッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "beep beep",
-      "ding-a-ling",
-      "ring ring"
-    ],
-    "meaning": "sound of ringing, as from an alarm or phone",
-    "example": [{
-      "file": "jiri-1a",
-      "contributor": "",
-      "display": "ジリリ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "jiri"
+  "hiragana": [
+    "じり",
+    "じりり",
+    "じりりり",
+    "じりっ"
+  ],
+  "definition": [
+    {
+      "meaning": "sound of ringing, as from an alarm or phone",
+      "equivalent": [
+        "beep beep",
+        "ding-a-ling",
+        "ring ring"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "jiri-1a",
+          "display": "ジリリ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the indication of moving slowly or carefully",
+      "equivalent": [
+        "creep",
+        "inch",
+        "step",
+        "slowly"
+      ],
+      "example": [
+        {
+          "source": "ai_and_izawa",
+          "file": "jiri-2a",
+          "display": "じりっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

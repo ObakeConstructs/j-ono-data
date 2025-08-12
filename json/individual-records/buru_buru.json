@@ -1,26 +1,36 @@
 {
-  "hiragana": [
-    "ぶるぶる",
-    "ぶるぶるっ"
-  ],
+  "literal": "buru buru",
   "katakana": [
     "ブルブル",
     "ブルブルッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "quiver",
-      "shiver",
-      "shudder",
-      "tremble"
-    ],
-    "meaning": "shaking involuntarily, as from fear or cold",
-    "example": [{
-      "file": "buru_buru-1a",
-      "contributor": "",
-      "display": "ブル  ブルッ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "buru buru"
+  "hiragana": [
+    "ぶるぶる",
+    "ぶるぶるっ"
+  ],
+  "definition": [
+    {
+      "meaning": "shaking involuntarily, as from fear or cold",
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "buru_buru-1a",
+          "display": "ブル  ブルッ",
+          "contributor": ""
+        },
+        {
+          "source": "ai_and_izawa",
+          "file": "buru_buru-1b",
+          "display": "ぶる  ぶる  ぶる",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

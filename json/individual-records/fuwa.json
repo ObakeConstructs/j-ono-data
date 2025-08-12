@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "to float gently or move softly",
+      "meaning": "an indication of floating gently or moving softly",
       "equivalent": [
         "drift",
         "float",
@@ -35,6 +35,12 @@
           "source": "lord_of_the_hundred_demons",
           "file": "fuwa-1c",
           "display": "フワッ",
+          "contributor": ""
+        },
+        {
+          "source": "ai_and_izawa",
+          "file": "fuwa-1d",
+          "display": "ふわっ",
           "contributor": ""
         }
       ]

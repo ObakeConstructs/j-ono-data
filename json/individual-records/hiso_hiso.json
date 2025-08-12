@@ -11,7 +11,8 @@
       "meaning": "to speak quietly in order to not be overheard",
       "equivalent": [
         "softly",
-        "whisper"
+        "whisper whisper",
+        "sotto voce"
       ],
       "example": [
         {
@@ -24,6 +25,12 @@
           "source": "spy_x_family",
           "file": "hiso_hiso-1b",
           "display": "ひそ  ひそ",
+          "contributor": ""
+        },
+        {
+          "source": "ai_and_izawa",
+          "file": "hiso_hiso-1c",
+          "display": "ヒソ  ヒソ",
           "contributor": ""
         }
       ]

@@ -49,6 +49,23 @@
           "contributor": ""
         }
       ]
+    },
+    {
+      "meaning": "the sound of a drop landing",
+      "equivalent": [
+        "drip",
+        "drop",
+        "plink",
+        "plunk"
+      ],
+      "example": [
+        {
+          "source": "ai_and_izawa",
+          "file": "po-3a",
+          "display": "ポッ",
+          "contributor": ""
+        }
+      ]
     }
   ]
 }

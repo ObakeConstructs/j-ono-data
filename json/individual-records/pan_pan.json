@@ -1,10 +1,12 @@
 {
   "literal": "pan pan",
   "katakana": [
-    "パンパン"
+    "パンパン",
+    "パンッパンッ"
   ],
   "hiragana": [
-    "ぱんぱん"
+    "ぱんぱん",
+    "ぱんっぱんっ"
   ],
   "definition": [
     {
@@ -34,6 +36,12 @@
           "source": "beastly_boys_and_girls",
           "file": "pan_pan-1b",
           "display": "ぱん  ぱん",
+          "contributor": ""
+        },
+        {
+          "source": "ai_and_izawa",
+          "file": "pan_pan-1c",
+          "display": "ぱんっ  ぱんっ",
           "contributor": ""
         }
       ]

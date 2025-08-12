@@ -8,17 +8,23 @@
   ],
   "definition": [
     {
-      "meaning": "an indication of rythmic throbbing, like a heartbeat",
+      "meaning": "an indication of a heartbeat or a rythmic throbbing",
       "equivalent": [
-        "throb throb",
-        "pulse pulse",
+        "ba-bump",
         "beat beat",
-        "ba-bump"
+        "pulse pulse",
+        "throb throb"
       ],
       "example": [
         {
-          "source": "double_play",
+          "source": "ai_and_izawa",
           "file": "dokun_dokun-1a",
+          "display": "ドクン  ドクン",
+          "contributor": ""
+        },
+        {
+          "source": "double_play",
+          "file": "dokun_dokun-1b",
           "display": "ドクン  ドクン",
           "contributor": ""
         }

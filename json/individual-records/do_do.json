@@ -96,11 +96,11 @@
     {
       "meaning": "a sense of intense threat or menace",
       "equivalent": [
-        "threat",
         "danger",
         "menace",
+        "peril",
         "risk",
-        "peril"
+        "threat"
       ],
       "example": [
         {
@@ -108,6 +108,23 @@
           "file": "do_do-4a",
           "display": "ドドドドド",
           "contributor": "Artrix"
+        }
+      ]
+    },
+    {
+      "meaning": "the sound of a loud or high-performance engine",
+      "equivalent": [
+        "vroom vroom",
+        "race race",
+        "speed",
+        "accelerate"
+      ],
+      "example": [
+        {
+          "source": "ai_and_izawa",
+          "file": "do_do-5a",
+          "display": "ドドドド",
+          "contributor": ""
         }
       ]
     }

@@ -54,15 +54,21 @@
       ],
       "example": [
         {
+          "source": "ai_and_izawa",
+          "file": "dosa-2a",
+          "display": "ドササッ",
+          "contributor": ""
+        },
+        {
           "source": "spy_x_family",
           "file": "dosa-2b",
-          "display": "ドササッ",
+          "display": "ドサ",
           "contributor": ""
         },
         {
           "source": "otherworld_material_collector",
           "file": "dosa-2c",
-          "display": "ドサ",
+          "display": "ドサッ",
           "contributor": ""
         }
       ]
