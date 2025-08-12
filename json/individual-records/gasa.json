@@ -2,11 +2,15 @@
   "literal": "gasa",
   "katakana": [
     "ガサ",
-    "ガサッ"
+    "ガサッ",
+    "ガササ",
+    "ガササッ"
   ],
   "hiragana": [
     "がさ",
-    "がさっ"
+    "がさっ",
+    "がささ",
+    "がささっ"
   ],
   "definition": [
     {
@@ -15,8 +19,8 @@
         "flap",
         "murmur",
         "rustle",
-        "swish",
         "stir",
+        "swish",
         "whoosh"
       ],
       "example": [
@@ -43,6 +47,12 @@
           "file": "gasa-1d",
           "display": "がさ!",
           "contributor": ""
+        },
+        {
+          "source": "pokemon_xy_break",
+          "file": "gasa-1e",
+          "display": "ガササッ",
+          "contributor": "Artrix"
         }
       ]
     }

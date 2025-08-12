@@ -6422,11 +6422,15 @@
   {
     "hiragana": [
       "がさ",
-      "がさっ"
+      "がさっ",
+      "がささ",
+      "がささっ"
     ],
     "katakana": [
       "ガサ",
-      "ガサッ"
+      "ガサッ",
+      "ガササ",
+      "ガササッ"
     ],
     "definition": [{
       "equivalent": [
@@ -6462,6 +6466,12 @@
           "contributor": "",
           "display": "がさ!",
           "source": "beastly_boys_and_girls"
+        },
+        {
+          "file": "gasa-1e",
+          "contributor": "Artrix",
+          "display": "ガササッ",
+          "source": "pokemon_xy_break"
         }
       ]
     }],
