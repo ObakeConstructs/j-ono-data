@@ -1,0 +1,33 @@
+{
+  "literal": "zawa",
+  "katakana": [
+    "ザワ",
+    "ザヮ"
+  ],
+  "hiragana": [
+    "ざわ",
+    "ざゎ"
+  ],
+  "definition": [
+    {
+      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
+      "equivalent": [
+        "ballyhoo",
+        "buzz",
+        "chatter",
+        "commotion",
+        "din",
+        "hubbub",
+        "ruckus"
+      ],
+      "example": [
+        {
+          "source": "requiem_for_prophet",
+          "file": "zawa-1a",
+          "display": "ざわ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

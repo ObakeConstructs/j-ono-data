@@ -1,0 +1,33 @@
+{
+  "literal": "boron",
+  "katakana": [
+    "ボロン",
+    "ボロロン",
+    "ボロロロン"
+  ],
+  "hiragana": [
+    "ぼろん",
+    "ぼろろん",
+    "ぼろろろん"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of tears dripping",
+      "equivalent": [
+        "blub",
+        "cry",
+        "drip",
+        "sob",
+        "weep"
+      ],
+      "example": [
+        {
+          "source": "requiem_for_prophet",
+          "file": "boron-1a",
+          "display": "ボロロロン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

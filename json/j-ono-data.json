@@ -480,16 +480,26 @@
       "equivalent": [
         "crack",
         "crash",
+        "pop",
         "shatter",
-        "smash"
+        "smash",
+        "snap"
       ],
-      "meaning": "the sound of something suddenly falling apart or breaking into pieces",
-      "example": [{
-        "file": "baki-1a",
-        "contributor": "",
-        "display": "バキッ",
-        "source": "hanako_24th_ward"
-      }]
+      "meaning": "the sound of something breaking or cracking",
+      "example": [
+        {
+          "file": "baki-1a",
+          "contributor": "",
+          "display": "バキッ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "baki-1b",
+          "contributor": "",
+          "display": "バキッ",
+          "source": "requiem_for_prophet"
+        }
+      ]
     }],
     "literal": "baki"
   },
@@ -831,8 +841,14 @@
     "literal": "basa basa"
   },
   {
-    "hiragana": ["ばしゃ"],
-    "katakana": ["バシャ"],
+    "hiragana": [
+      "ばしゃ",
+      "ばしゃっ"
+    ],
+    "katakana": [
+      "バシャ",
+      "バシャッ"
+    ],
     "definition": [{
       "equivalent": [
         "gush",
@@ -845,12 +861,20 @@
         "swash"
       ],
       "meaning": "a medium to large splashing noise",
-      "example": [{
-        "file": "basha-1a",
-        "contributor": "",
-        "display": "バシャ",
-        "source": "reincarnated_sage_daughters"
-      }]
+      "example": [
+        {
+          "file": "basha-1a",
+          "contributor": "",
+          "display": "バシャ",
+          "source": "reincarnated_sage_daughters"
+        },
+        {
+          "file": "basha-1b",
+          "contributor": "",
+          "display": "バシャッ",
+          "source": "requiem_for_prophet"
+        }
+      ]
     }],
     "literal": "basha"
   },
@@ -1438,14 +1462,10 @@
   },
   {
     "hiragana": [
-      "びし",
-      "びしっ",
       "びしゃ",
       "びしゃっ"
     ],
     "katakana": [
-      "ビシ",
-      "ビシッ",
       "ビシャ",
       "ビシャッ"
     ],
@@ -1509,12 +1529,20 @@
           "straighten"
         ],
         "meaning": "a sudden stop of all movement as a reaction",
-        "example": [{
-          "file": "bishi-1a",
-          "contributor": "",
-          "display": "びしっ",
-          "source": "d_genesis"
-        }]
+        "example": [
+          {
+            "file": "bishi-1a",
+            "contributor": "",
+            "display": "びしっ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "bishi-1b",
+            "contributor": "",
+            "display": "びしっ",
+            "source": "requiem_for_prophet"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -1532,12 +1560,20 @@
           "whap"
         ],
         "meaning": "a light strike with an empty hand or something in hand",
-        "example": [{
-          "file": "bishi-2a",
-          "contributor": "",
-          "display": "ビシッ",
-          "source": "d_genesis"
-        }]
+        "example": [
+          {
+            "file": "bishi-2a",
+            "contributor": "",
+            "display": "ビシッ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "bishi-2b",
+            "contributor": "",
+            "display": "ビシーッ",
+            "source": "requiem_for_prophet"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -1849,6 +1885,35 @@
       }]
     }],
     "literal": "boro"
+  },
+  {
+    "hiragana": [
+      "ぼろん",
+      "ぼろろん",
+      "ぼろろろん"
+    ],
+    "katakana": [
+      "ボロン",
+      "ボロロン",
+      "ボロロロン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blub",
+        "cry",
+        "drip",
+        "sob",
+        "weep"
+      ],
+      "meaning": "an indication of tears dripping",
+      "example": [{
+        "file": "boron-1a",
+        "contributor": "",
+        "display": "ボロロロン",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "boron"
   },
   {
     "hiragana": ["ぼろぼろ"],
@@ -2471,6 +2536,12 @@
           "contributor": "",
           "display": "ブル",
           "source": "blazing_fire_brigade"
+        },
+        {
+          "file": "buru-1c",
+          "contributor": "",
+          "display": "ぶるっ",
+          "source": "requiem_for_prophet"
         }
       ]
     }],
@@ -2749,6 +2820,12 @@
           "contributor": "",
           "display": "ビュン!",
           "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "byun-1c",
+          "contributor": "",
+          "display": "びゅーん!!",
+          "source": "requiem_for_prophet"
         }
       ]
     }],
@@ -3030,6 +3107,35 @@
       }]
     }],
     "literal": "chiki chiki"
+  },
+  {
+    "hiragana": [
+      "ちん",
+      "ちーん"
+    ],
+    "katakana": [
+      "チン",
+      "チーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blat",
+        "blow",
+        "honk",
+        "screech",
+        "snort",
+        "snotter",
+        "squeak"
+      ],
+      "meaning": "a loud or shrill sound, often as blowing one's nose",
+      "example": [{
+        "file": "chin-1a",
+        "contributor": "",
+        "display": "チーン!!",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "chin"
   },
   {
     "hiragana": ["ちーんこーんかーんこーん"],
@@ -3965,9 +4071,44 @@
           "display": "どき",
           "source": "uncle_at_heart"
         }]
+      },
+      {
+        "equivalent": [
+          "flinch",
+          "jerk",
+          "jolt",
+          "shudder",
+          "startle"
+        ],
+        "meaning": "an indication of surprise or startlement",
+        "example": [{
+          "file": "doki-3a",
+          "contributor": "",
+          "display": "ドキ",
+          "source": "requiem_for_prophet"
+        }]
       }
     ],
     "literal": "doki"
+  },
+  {
+    "hiragana": ["どきん"],
+    "katakana": ["ドキン"],
+    "definition": [{
+      "equivalent": [
+        "ba-dump",
+        "heartbeat",
+        "thump"
+      ],
+      "meaning": "an indication of a heart beat, as when in nervious or embarrassed",
+      "example": [{
+        "file": "dokin-1a",
+        "contributor": "",
+        "display": "ドキン",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "dokin"
   },
   {
     "hiragana": [
@@ -5703,6 +5844,12 @@
             "contributor": "",
             "display": "ガッ",
             "source": "strongest_magician_was_human"
+          },
+          {
+            "file": "ga-2d",
+            "contributor": "",
+            "display": "がっ",
+            "source": "requiem_for_prophet"
           }
         ]
       },
@@ -6630,6 +6777,27 @@
       ]
     }],
     "literal": "gashi"
+  },
+  {
+    "hiragana": ["ぐすん"],
+    "katakana": ["グスン"],
+    "definition": [{
+      "equivalent": [
+        "blub",
+        "cry",
+        "sob",
+        "tears",
+        "weep"
+      ],
+      "meaning": "shedding tears as an expression of pain or distress",
+      "example": [{
+        "file": "gasun-1a",
+        "contributor": "",
+        "display": "ぐすん",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "gasun"
   },
   {
     "hiragana": [
@@ -8655,6 +8823,62 @@
     "literal": "gusa"
   },
   {
+    "hiragana": [
+      "ぐし",
+      "ぐしっ"
+    ],
+    "katakana": [
+      "グシ",
+      "グシッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blub",
+        "blubber",
+        "sniff",
+        "sniffle",
+        "snivel",
+        "snuffle",
+        "sob"
+      ],
+      "meaning": "the sound of sniffling or fighting back tears",
+      "example": [{
+        "file": "gushi-1a",
+        "contributor": "",
+        "display": "ぐしっ",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "gushi"
+  },
+  {
+    "hiragana": [
+      "ぐす",
+      "ぐすっ"
+    ],
+    "katakana": [
+      "グス",
+      "グスッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blub",
+        "cry",
+        "sob",
+        "tears",
+        "weep"
+      ],
+      "meaning": "tears welling up as an expression of pain or distress",
+      "example": [{
+        "file": "gusu-1a",
+        "contributor": "",
+        "display": "ぐすっ",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "gusu"
+  },
+  {
     "hiragana": ["ぐすんぐすん"],
     "katakana": ["グスングスン"],
     "definition": [{
@@ -8693,12 +8917,20 @@
         "weep"
       ],
       "meaning": "tears welling up as an expression of pain or distress",
-      "example": [{
-        "file": "gusu_gusu-1a",
-        "contributor": "",
-        "display": "ぐすっ  ぐすっ",
-        "source": "reincarnated_aristocrat"
-      }]
+      "example": [
+        {
+          "file": "gusu_gusu-1a",
+          "contributor": "",
+          "display": "ぐすっ  ぐすっ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "gusu_gusu-1b",
+          "contributor": "",
+          "display": "ぐすっ  ぐすっ",
+          "source": "requiem_for_prophet"
+        }
+      ]
     }],
     "literal": "gusu gusu"
   },
@@ -9912,13 +10144,21 @@
         "zip",
         "zoom"
       ],
-      "meaning": "something moving quickly through the air",
-      "example": [{
-        "file": "hyuru-1a",
-        "contributor": "",
-        "display": "ヒュルルル",
-        "source": "otherworld_material_collector"
-      }]
+      "meaning": "something moving quickly, often spinning",
+      "example": [
+        {
+          "file": "hyuru-1a",
+          "contributor": "",
+          "display": "ヒュルルル",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "hyuru-1b",
+          "contributor": "",
+          "display": "ヒュルルルル",
+          "source": "requiem_for_prophet"
+        }
+      ]
     }],
     "literal": "hyuru"
   },
@@ -12922,6 +13162,12 @@
             "contributor": "",
             "display": "きゅっ",
             "source": "lord_of_the_hundred_demons"
+          },
+          {
+            "file": "kyu-1c",
+            "contributor": "",
+            "display": "きゅっ",
+            "source": "requiem_for_prophet"
           }
         ]
       },
@@ -17257,6 +17503,7 @@
     "katakana": ["ポロ"],
     "definition": [{
       "equivalent": [
+        "drip",
         "drop",
         "fall",
         "plop",
@@ -17264,7 +17511,7 @@
         "slip",
         "topple"
       ],
-      "meaning": "an indication of something slipping or falling",
+      "meaning": "an indication of something dropping or falling",
       "example": [
         {
           "file": "poro-1a",
@@ -17277,6 +17524,12 @@
           "contributor": "",
           "display": "ポロ...",
           "source": "uncle_at_heart"
+        },
+        {
+          "file": "poro-1c",
+          "contributor": "",
+          "display": "ポロ",
+          "source": "requiem_for_prophet"
         }
       ]
     }],
@@ -17639,8 +17892,14 @@
     "literal": "pui"
   },
   {
-    "hiragana": ["ぷく"],
-    "katakana": ["プク"],
+    "hiragana": [
+      "ぷく",
+      "ぷくー"
+    ],
+    "katakana": [
+      "プク",
+      "プクー"
+    ],
     "definition": [{
       "equivalent": [
         "pout",
@@ -17650,12 +17909,20 @@
         "sullen"
       ],
       "meaning": "an indication of puffy cheeks, humorously expressing a sulk or a pout",
-      "example": [{
-        "file": "puku-1a",
-        "contributor": "",
-        "display": "ぷくー..",
-        "source": "isekai_sniper"
-      }]
+      "example": [
+        {
+          "file": "puku-1a",
+          "contributor": "",
+          "display": "ぷくー..",
+          "source": "isekai_sniper"
+        },
+        {
+          "file": "puku-1b",
+          "contributor": "",
+          "display": "ぷくー",
+          "source": "requiem_for_prophet"
+        }
+      ]
     }],
     "literal": "puku"
   },
@@ -19800,7 +20067,7 @@
         "tread tread",
         "walk walk"
       ],
-      "meaning": "a series of brisk and purposeful walking sounds",
+      "meaning": "the sound of brisk and purposeful walking",
       "example": [
         {
           "file": "suta_suta-1a",
@@ -20910,6 +21177,26 @@
       }
     ],
     "literal": "tsu"
+  },
+  {
+    "hiragana": ["つか"],
+    "katakana": ["ツカ"],
+    "definition": [{
+      "equivalent": [
+        "march march",
+        "step step",
+        "stomp stomp",
+        "tread tread"
+      ],
+      "meaning": "the sound of brisk and purposeful walking",
+      "example": [{
+        "file": "tsuka_tsuka-1a",
+        "contributor": "",
+        "display": "つか  つか  つか  つか  つか",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "tsuka tsuka"
   },
   {
     "hiragana": ["つんつん"],
@@ -22218,6 +22505,35 @@
     "literal": "zashu"
   },
   {
+    "hiragana": [
+      "ざわ",
+      "ざゎ"
+    ],
+    "katakana": [
+      "ザワ",
+      "ザヮ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ballyhoo",
+        "buzz",
+        "chatter",
+        "commotion",
+        "din",
+        "hubbub",
+        "ruckus"
+      ],
+      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
+      "example": [{
+        "file": "zawa-1a",
+        "contributor": "",
+        "display": "ざわ",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "zawa"
+  },
+  {
     "hiragana": ["ざわざわ"],
     "katakana": ["ザワザワ"],
     "definition": [{
@@ -23307,6 +23623,34 @@
       ]
     }],
     "literal": "zuru"
+  },
+  {
+    "hiragana": [
+      "ずるる",
+      "ずるるる"
+    ],
+    "katakana": [
+      "ズルル",
+      "ズルルル"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blub",
+        "slurp",
+        "sniff",
+        "sniffle",
+        "snivel",
+        "suck"
+      ],
+      "meaning": "a wet slurping or sniffing noise",
+      "example": [{
+        "file": "zururu-1a",
+        "contributor": "",
+        "display": "ズルル",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "zururu"
   },
   {
     "hiragana": [

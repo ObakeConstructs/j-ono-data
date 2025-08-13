@@ -8,14 +8,15 @@
   ],
   "definition": [
     {
-      "meaning": "an indication of something slipping or falling",
+      "meaning": "an indication of something dropping or falling",
       "equivalent": [
         "drop",
         "fall",
         "plop",
         "plunk",
         "slip",
-        "topple"
+        "topple",
+        "drip"
       ],
       "example": [
         {
@@ -28,6 +29,12 @@
           "source": "uncle_at_heart",
           "file": "poro-1b",
           "display": "ポロ...",
+          "contributor": ""
+        },
+        {
+          "source": "requiem_for_prophet",
+          "file": "poro-1c",
+          "display": "ポロ",
           "contributor": ""
         }
       ]

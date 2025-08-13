@@ -12,7 +12,7 @@
   ],
   "definition": [
     {
-      "meaning": "something moving quickly through the air",
+      "meaning": "something moving quickly, often spinning",
       "equivalent": [
         "shoom",
         "swoosh",
@@ -28,6 +28,12 @@
           "source": "otherworld_material_collector",
           "file": "hyuru-1a",
           "display": "ヒュルルル",
+          "contributor": ""
+        },
+        {
+          "source": "requiem_for_prophet",
+          "file": "hyuru-1b",
+          "display": "ヒュルルルル",
           "contributor": ""
         }
       ]

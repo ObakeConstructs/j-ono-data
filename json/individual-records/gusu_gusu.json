@@ -1,27 +1,37 @@
 {
-  "hiragana": [
-    "ぐすぐす",
-    "ぐすっぐすっ"
-  ],
+  "literal": "gusu gusu",
   "katakana": [
     "グスグス",
     "グスッグスッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "blub blub",
-      "cry cry",
-      "sob sob",
-      "tears tears",
-      "weep"
-    ],
-    "meaning": "tears welling up as an expression of pain or distress",
-    "example": [{
-      "file": "gusu_gusu-1a",
-      "contributor": "",
-      "display": "ぐすっ  ぐすっ",
-      "source": "reincarnated_aristocrat"
-    }]
-  }],
-  "literal": "gusu gusu"
+  "hiragana": [
+    "ぐすぐす",
+    "ぐすっぐすっ"
+  ],
+  "definition": [
+    {
+      "meaning": "tears welling up as an expression of pain or distress",
+      "equivalent": [
+        "blub blub",
+        "cry cry",
+        "sob sob",
+        "tears tears",
+        "weep"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "gusu_gusu-1a",
+          "display": "ぐすっ  ぐすっ",
+          "contributor": ""
+        },
+        {
+          "source": "requiem_for_prophet",
+          "file": "gusu_gusu-1b",
+          "display": "ぐすっ  ぐすっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

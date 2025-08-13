@@ -1,26 +1,34 @@
 {
   "literal": "puku",
   "katakana": [
-    "プク"
+    "プク",
+    "プクー"
   ],
   "hiragana": [
-    "ぷく"
+    "ぷく",
+    "ぷくー"
   ],
   "definition": [
     {
       "meaning": "an indication of puffy cheeks, humorously expressing a sulk or a pout",
       "equivalent": [
-        "puffy",
         "pout",
+        "puffy",
+        "snit",
         "sulk",
-        "sullen",
-        "snit"
+        "sullen"
       ],
       "example": [
         {
           "source": "isekai_sniper",
           "file": "puku-1a",
           "display": "ぷくー..",
+          "contributor": ""
+        },
+        {
+          "source": "requiem_for_prophet",
+          "file": "puku-1b",
+          "display": "ぷくー",
           "contributor": ""
         }
       ]

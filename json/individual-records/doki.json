@@ -40,19 +40,37 @@
     {
       "meaning": "indication of a light or gentle poke or prod",
       "equivalent": [
+        "bump",
+        "feel",
         "jab",
         "nudge",
         "poke",
         "prod",
-        "stroke",
-        "feel",
-        "bump"
+        "stroke"
       ],
       "example": [
         {
           "source": "uncle_at_heart",
           "file": "doki-2a",
           "display": "どき",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an indication of surprise or startlement",
+      "equivalent": [
+        "flinch",
+        "jerk",
+        "jolt",
+        "shudder",
+        "startle"
+      ],
+      "example": [
+        {
+          "source": "requiem_for_prophet",
+          "file": "doki-3a",
+          "display": "ドキ",
           "contributor": ""
         }
       ]
