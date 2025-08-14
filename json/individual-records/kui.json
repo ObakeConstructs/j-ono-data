@@ -17,8 +17,8 @@
         "beckon",
         "flag",
         "gestur",
-        "motion",
         "indicate",
+        "motion",
         "signal",
         "wave"
       ],
@@ -27,6 +27,23 @@
           "source": "way_of_isekai_cooking",
           "file": "kui-1a",
           "display": "クィ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "an indication of pulling or tugging on something",
+      "equivalent": [
+        "tug",
+        "pull",
+        "yank",
+        "jerk"
+      ],
+      "example": [
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "kui-1b",
+          "display": "くぃ..",
           "contributor": ""
         }
       ]

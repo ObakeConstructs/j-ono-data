@@ -2,11 +2,15 @@
   "literal": "bikun",
   "katakana": [
     "ビクン",
-    "ビクーン"
+    "ビクーン",
+    "ビクンッ",
+    "ビクーンッ"
   ],
   "hiragana": [
     "びくん",
-    "びくーん"
+    "びくーん",
+    "びくんっ",
+    "びくーんっ"
   ],
   "definition": [
     {
@@ -52,6 +56,12 @@
           "source": "gyaru_academy",
           "file": "bikun-2b",
           "display": "ビクン",
+          "contributor": ""
+        },
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "bikun-2c",
+          "display": "びくんっ",
           "contributor": ""
         }
       ]

@@ -397,23 +397,46 @@
     "literal": "baba"
   },
   {
-    "hiragana": ["ばち"],
-    "katakana": ["バチ"],
-    "definition": [{
-      "equivalent": [
-        "buzz",
-        "bzz",
-        "crackle",
-        "jolt"
-      ],
-      "meaning": "the sound of an electrical discharge",
-      "example": [{
-        "file": "bachi-1a",
-        "contributor": "",
-        "display": "バチ",
-        "source": "blazing_fire_brigade"
-      }]
-    }],
+    "hiragana": [
+      "ばち",
+      "ばちっ"
+    ],
+    "katakana": [
+      "バチ",
+      "バチッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "buzz",
+          "bzz",
+          "crackle",
+          "jolt"
+        ],
+        "meaning": "the sound of an electrical discharge",
+        "example": [{
+          "file": "bachi-1a",
+          "contributor": "",
+          "display": "バチ",
+          "source": "blazing_fire_brigade"
+        }]
+      },
+      {
+        "equivalent": [
+          "eye-contact",
+          "flinch",
+          "gaze",
+          "jolt"
+        ],
+        "meaning": "an indication of eye contact, often accidental",
+        "example": [{
+          "file": "bachi-2a",
+          "contributor": "",
+          "display": "ばちっ",
+          "source": "embarrassing_and_sweet"
+        }]
+      }
+    ],
     "literal": "bachi"
   },
   {
@@ -1301,11 +1324,15 @@
   {
     "hiragana": [
       "びくん",
-      "びくーん"
+      "びくーん",
+      "びくんっ",
+      "びくーんっ"
     ],
     "katakana": [
       "ビクン",
-      "ビクーン"
+      "ビクーン",
+      "ビクンッ",
+      "ビクーンッ"
     ],
     "definition": [
       {
@@ -1352,6 +1379,12 @@
             "contributor": "",
             "display": "ビクン",
             "source": "gyaru_academy"
+          },
+          {
+            "file": "bikun-2c",
+            "contributor": "",
+            "display": "びくんっ",
+            "source": "embarrassing_and_sweet"
           }
         ]
       }
@@ -4150,6 +4183,24 @@
     "literal": "doki doki"
   },
   {
+    "hiragana": ["どく"],
+    "katakana": ["ドク"],
+    "definition": [{
+      "equivalent": [
+        "ba-bump",
+        "throb"
+      ],
+      "meaning": "the indication or sound of strong heartbeat, often used to indicate a dramatic realization",
+      "example": [{
+        "file": "doku-1a",
+        "contributor": "",
+        "display": "ドク",
+        "source": "embarrassing_and_sweet"
+      }]
+    }],
+    "literal": "doku"
+  },
+  {
     "hiragana": ["どくん"],
     "katakana": ["ドクン"],
     "definition": [{
@@ -4170,6 +4221,12 @@
           "contributor": "",
           "display": "ドクン",
           "source": "ai_and_izawa"
+        },
+        {
+          "file": "dokun-1c",
+          "contributor": "",
+          "display": "ドクン",
+          "source": "embarrassing_and_sweet"
         }
       ]
     }],
@@ -5385,6 +5442,12 @@
           "contributor": "",
           "display": "ふに",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "funi-1c",
+          "contributor": "",
+          "display": "ふに..",
+          "source": "embarrassing_and_sweet"
         }
       ]
     }],
@@ -6034,6 +6097,29 @@
       ]
     }],
     "literal": "gacha"
+  },
+  {
+    "hiragana": ["がちがち"],
+    "katakana": ["ガチガチ"],
+    "definition": [{
+      "equivalent": [
+        "blank",
+        "expressionless",
+        "frozen",
+        "rigid",
+        "stiff",
+        "still",
+        "wooden"
+      ],
+      "meaning": "an indication of stiffness or stillness",
+      "example": [{
+        "file": "gachi-1a",
+        "contributor": "",
+        "display": "ガチ  ガチ",
+        "source": "embarrassing_and_sweet"
+      }]
+    }],
+    "literal": "gachi"
   },
   {
     "hiragana": [
@@ -8120,8 +8206,14 @@
     "literal": "goshi goshi"
   },
   {
-    "hiragana": ["ごそ"],
-    "katakana": ["ゴソ"],
+    "hiragana": [
+      "ごそ",
+      "ごそ"
+    ],
+    "katakana": [
+      "ゴソ",
+      "ゴソッ"
+    ],
     "definition": [{
       "equivalent": [
         "get",
@@ -8130,13 +8222,21 @@
         "rummage",
         "rustle"
       ],
-      "meaning": "an indication of reaching or searching for something",
-      "example": [{
-        "file": "goso-1a",
-        "contributor": "",
-        "display": "ごそ",
-        "source": "dog_became_strongest"
-      }]
+      "meaning": "an indication of reaching or searching for something, often related to clothing",
+      "example": [
+        {
+          "file": "goso-1a",
+          "contributor": "",
+          "display": "ごそ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "goso-1b",
+          "contributor": "",
+          "display": "ごそ",
+          "source": "embarrassing_and_sweet"
+        }
+      ]
     }],
     "literal": "goso"
   },
@@ -12114,23 +12214,40 @@
   {
     "hiragana": ["くちゅ"],
     "katakana": ["クチュ"],
-    "definition": [{
-      "equivalent": [
-        "caress",
-        "fondle",
-        "rub",
-        "squish",
-        "stroke"
-      ],
-      "meaning": "the indication or sound of soft stroking or rubbing",
-      "example": [{
-        "file": "kochun-1a",
-        "contributor": "",
-        "display": "クチュ...",
-        "source": "double_play"
-      }]
-    }],
-    "literal": "kochun"
+    "definition": [
+      {
+        "equivalent": [
+          "caress",
+          "fondle",
+          "rub",
+          "squish",
+          "stroke"
+        ],
+        "meaning": "the indication or sound of soft stroking or rubbing",
+        "example": [{
+          "file": "kochu-1a",
+          "contributor": "",
+          "display": "クチュ...",
+          "source": "double_play"
+        }]
+      },
+      {
+        "equivalent": [
+          "kiss",
+          "lick",
+          "slurp",
+          "smooch"
+        ],
+        "meaning": "the soft sound of kissing or licking",
+        "example": [{
+          "file": "kochu-2a",
+          "contributor": "",
+          "display": "くちゅ",
+          "source": "embarrassing_and_sweet"
+        }]
+      }
+    ],
+    "literal": "kochu"
   },
   {
     "hiragana": ["こほん"],
@@ -12595,24 +12712,41 @@
       "クィ",
       "クイッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "beckon",
-        "flag",
-        "gestur",
-        "indicate",
-        "motion",
-        "signal",
-        "wave"
-      ],
-      "meaning": "a small gesture",
-      "example": [{
-        "file": "kui-1a",
-        "contributor": "",
-        "display": "クィ",
-        "source": "way_of_isekai_cooking"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "beckon",
+          "flag",
+          "gestur",
+          "indicate",
+          "motion",
+          "signal",
+          "wave"
+        ],
+        "meaning": "a small gesture",
+        "example": [{
+          "file": "kui-1a",
+          "contributor": "",
+          "display": "クィ",
+          "source": "way_of_isekai_cooking"
+        }]
+      },
+      {
+        "equivalent": [
+          "jerk",
+          "pull",
+          "tug",
+          "yank"
+        ],
+        "meaning": "an indication of pulling or tugging on something",
+        "example": [{
+          "file": "kui-1b",
+          "contributor": "",
+          "display": "くぃ..",
+          "source": "embarrassing_and_sweet"
+        }]
+      }
+    ],
     "literal": "kui"
   },
   {
@@ -13531,6 +13665,28 @@
       }]
     }],
     "literal": "mokyu mokyu"
+  },
+  {
+    "hiragana": ["もたもた"],
+    "katakana": ["モタモタ"],
+    "definition": [{
+      "equivalent": [
+        "careful careful",
+        "dilly-dally",
+        "linger linger",
+        "slow slow",
+        "slowly slowly",
+        "wait wait"
+      ],
+      "meaning": "an indication of moving slowly",
+      "example": [{
+        "file": "mota_mota-1a",
+        "contributor": "",
+        "display": "もた...  もた...",
+        "source": "embarrassing_and_sweet"
+      }]
+    }],
+    "literal": "mota mota"
   },
   {
     "hiragana": [
@@ -17795,15 +17951,25 @@
         "click",
         "crack",
         "pop",
-        "snap"
+        "snap",
+        "unbutton",
+        "unclasp"
       ],
       "meaning": "a gentle snapping or popping sound",
-      "example": [{
-        "file": "puchi-1a",
-        "contributor": "",
-        "display": "プチッ",
-        "source": "cheat_pharmacist"
-      }]
+      "example": [
+        {
+          "file": "puchi-1a",
+          "contributor": "",
+          "display": "プチッ",
+          "source": "cheat_pharmacist"
+        },
+        {
+          "file": "puchi-1b",
+          "contributor": "",
+          "display": "プチ",
+          "source": "embarrassing_and_sweet"
+        }
+      ]
     }],
     "literal": "puchi"
   },
@@ -19424,6 +19590,37 @@
   },
   {
     "hiragana": [
+      "ソワ",
+      "ソヮ"
+    ],
+    "katakana": [
+      "そわ",
+      "そゎ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "fidget fidget",
+        "flutter flutter",
+        "jerk jerk",
+        "shake shake",
+        "shiver shiver",
+        "squirm squirm",
+        "twitch twitch",
+        "wiggle wiggle",
+        "wriggle wriggle"
+      ],
+      "meaning": "an indication of jerky or restless movements",
+      "example": [{
+        "file": "sowa_sowa-1a",
+        "contributor": "",
+        "display": "そわ  そわ",
+        "source": "embarrassing_and_sweet"
+      }]
+    }],
+    "literal": "sowa sowa"
+  },
+  {
+    "hiragana": [
       "す",
       "すっ",
       "すー",
@@ -19970,6 +20167,79 @@
       }]
     }],
     "literal": "supi supi"
+  },
+  {
+    "hiragana": [
+      "すり",
+      "すりっ"
+    ],
+    "katakana": [
+      "スリッ",
+      "スリッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "caress",
+        "feel",
+        "fondle",
+        "pet",
+        "stroke",
+        "touch"
+      ],
+      "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
+      "example": [{
+        "file": "suri-1a",
+        "contributor": "",
+        "display": "すりっ",
+        "source": "embarrassing_and_sweet"
+      }]
+    }],
+    "literal": "suri"
+  },
+  {
+    "hiragana": [
+      "する",
+      "するっ"
+    ],
+    "katakana": [
+      "スル",
+      "スルッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "caress",
+          "feel",
+          "fondle",
+          "pet",
+          "stroke",
+          "touch"
+        ],
+        "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
+        "example": [{
+          "file": "suru-1a",
+          "contributor": "",
+          "display": "スル",
+          "source": "embarrassing_and_sweet"
+        }]
+      },
+      {
+        "equivalent": [
+          "flap",
+          "murmur",
+          "rustle",
+          "swish"
+        ],
+        "meaning": "the soft sound of rustling fabric, typically slow",
+        "example": [{
+          "file": "suru-2a",
+          "contributor": "",
+          "display": "するっ",
+          "source": "embarrassing_and_sweet"
+        }]
+      }
+    ],
+    "literal": "suru"
   },
   {
     "hiragana": ["するする"],
@@ -22772,36 +23042,55 @@
       "ゾク",
       "ゾクッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "flinch",
-        "jerk",
-        "jolt",
-        "shudder",
-        "startle"
-      ],
-      "meaning": "an expression of surprise or startlement",
-      "example": [
-        {
-          "file": "zoku-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "flinch",
+          "jerk",
+          "jolt",
+          "shudder",
+          "startle"
+        ],
+        "meaning": "an expression of surprise or startlement",
+        "example": [
+          {
+            "file": "zoku-1a",
+            "contributor": "",
+            "display": "ぞくっ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "zoku-1b",
+            "contributor": "",
+            "display": "ゾクッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "zoku-1c",
+            "contributor": "",
+            "display": "ぞくっ",
+            "source": "komi_cant_communicate"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "quiver",
+          "shake",
+          "shiver",
+          "shudder",
+          "tremble",
+          "twitch"
+        ],
+        "meaning": "an indication of trembling or shaking",
+        "example": [{
+          "file": "zoku-2a",
           "contributor": "",
-          "display": "ぞくっ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "zoku-1b",
-          "contributor": "",
-          "display": "ゾクッ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "zoku-1c",
-          "contributor": "",
-          "display": "ぞくっ",
-          "source": "komi_cant_communicate"
-        }
-      ]
-    }],
+          "display": "ぞくっ...",
+          "source": "embarrassing_and_sweet"
+        }]
+      }
+    ],
     "literal": "zoku"
   },
   {

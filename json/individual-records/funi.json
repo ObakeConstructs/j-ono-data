@@ -10,13 +10,13 @@
     {
       "meaning": "a soft, pliable or fluffy sensation",
       "equivalent": [
-        "soft",
-        "pliable",
         "fluffy",
         "gentle",
+        "mushy",
+        "pliable",
+        "soft",
         "spongy",
         "squishy",
-        "mushy",
         "tender"
       ],
       "example": [
@@ -30,6 +30,12 @@
           "source": "cheat_pharmacist",
           "file": "funi-1b",
           "display": "ふに",
+          "contributor": ""
+        },
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "funi-1c",
+          "display": "ふに..",
           "contributor": ""
         }
       ]
