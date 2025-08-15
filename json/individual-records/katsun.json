@@ -12,7 +12,7 @@
   ],
   "definition": [
     {
-      "meaning": "a heavy footstep",
+      "meaning": "the sound of a footstep, often heavy",
       "equivalent": [
         "pound",
         "scuff",
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "meaning": "a rattling or clattering sound",
+      "meaning": "the sound of clattering or clanging",
       "equivalent": [
         "clack",
         "clatter",
@@ -41,13 +41,21 @@
         "ka-chik",
         "ker-chak",
         "rattle",
-        "tick"
+        "tick",
+        "clang",
+        "whang"
       ],
       "example": [
         {
           "source": "gyaru_academy",
           "file": "katsun-2a",
           "display": "カツンッ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "katsun-2b",
+          "display": "カツーン",
           "contributor": ""
         }
       ]

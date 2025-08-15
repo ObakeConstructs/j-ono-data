@@ -20,9 +20,9 @@
       ],
       "example": [
         {
-          "source": "world_full_of_monsters",
+          "source": "dungeon_dining_room",
           "file": "zawa_zawa-1a",
-          "display": "ザワ  ザワ",
+          "display": "ざわ  ざわ  ざわ",
           "contributor": ""
         },
         {
@@ -32,15 +32,30 @@
           "contributor": ""
         },
         {
-          "source": "dungeon_dining_room",
-          "file": "zawa_zawa-1c",
-          "display": "ざわ  ざわ  ざわ",
-          "contributor": ""
-        },
-        {
           "source": "uncle_at_heart",
-          "file": "zawa_zawa-1d",
+          "file": "zawa_zawa-1c",
           "display": "ざわ  ざわ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+      "equivalent": [
+        "dumfounded",
+        "amazed",
+        "astonished",
+        "flabbergasted",
+        "shock",
+        "stun",
+        "surprise",
+        "gasp"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "zawa_zawa-2a",
+          "display": "ザワ  ザワ",
           "contributor": ""
         }
       ]

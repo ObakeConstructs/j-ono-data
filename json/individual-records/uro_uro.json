@@ -8,21 +8,27 @@
   ],
   "definition": [
     {
-      "meaning": "to move about aimlessly",
+      "meaning": "an indication of move about aimlessly or pacing",
       "equivalent": [
-        "wander wander",
-        "roam roam",
-        "wander around",
         "mill about",
-        "stroll stroll",
         "pace pace",
-        "traipse traipse"
+        "roam roam",
+        "stroll stroll",
+        "traipse traipse",
+        "wander around",
+        "wander wander"
       ],
       "example": [
         {
           "source": "reincarnated_as_a_dragon_egg",
           "file": "uro_uro-1a",
           "display": "ウロ  ウロ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "uro_uro-1b",
+          "display": "うろ  うろ",
           "contributor": ""
         }
       ]

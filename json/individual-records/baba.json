@@ -14,18 +14,24 @@
       "equivalent": [
         "fwip",
         "fwit",
+        "jolt",
         "pop",
         "snap",
-        "zip",
-        "jolt",
         "startle",
-        "sudden"
+        "sudden",
+        "zip"
       ],
       "example": [
         {
           "source": "peter_grill",
           "file": "baba-1a",
           "display": "ババッ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "ba_ba-1b",
+          "display": "ば  ばっ",
           "contributor": ""
         }
       ]

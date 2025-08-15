@@ -10,24 +10,27 @@
   ],
   "definition": [
     {
-      "meaning": "to reach inside something, usually to get something from within",
+      "meaning": "an indication or sound of entering or plunging into something, sometimes forcefully",
       "equivalent": [
-        "reach",
-        "grab",
-        "get",
-        "snag",
-        "snatch",
-        "grasp",
-        "rummage",
-        "rifle",
-        "probe",
-        "dig through",
-        "dredge"
+        "enter",
+        "plunge",
+        "insert",
+        "sink",
+        "dip",
+        "penetrate",
+        "dunk",
+        "pierce"
       ],
       "example": [
         {
           "source": "otherworld_material_collector",
           "file": "zubo-1a",
+          "display": "ズボッ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "zubo-1b",
           "display": "ズボッ",
           "contributor": ""
         }

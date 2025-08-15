@@ -10,7 +10,7 @@
   ],
   "definition": [
     {
-      "meaning": "a series of impacts, often against something solid",
+      "meaning": "a series of sudden impact or gunshot sounds",
       "equivalent": [
         "bam bam",
         "hit hit",
@@ -20,13 +20,23 @@
         "slam slam",
         "strike strike",
         "thud thud",
-        "thunk thunk"
+        "thunk thunk",
+        "bang bang",
+        "boom boom",
+        "blast blast",
+        "whack whack"
       ],
       "example": [
         {
           "source": "lord_of_the_hundred_demons",
           "file": "dan_dan-1a",
           "display": "ダンッ  ダンッ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "dan_dan-1b",
+          "display": "ダン  ダン  ダン  ダン",
           "contributor": ""
         }
       ]

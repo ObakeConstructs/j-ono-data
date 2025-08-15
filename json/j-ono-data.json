@@ -387,12 +387,20 @@
         "zip"
       ],
       "meaning": "a sudden and/or fast movement",
-      "example": [{
-        "file": "baba-1a",
-        "contributor": "",
-        "display": "ババッ",
-        "source": "peter_grill"
-      }]
+      "example": [
+        {
+          "file": "baba-1a",
+          "contributor": "",
+          "display": "ババッ",
+          "source": "peter_grill"
+        },
+        {
+          "file": "ba_ba-1b",
+          "contributor": "",
+          "display": "ば  ばっ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "baba"
   },
@@ -2082,6 +2090,32 @@
   },
   {
     "hiragana": [
+      "ぼぅん",
+      "ぼぅぅん"
+    ],
+    "katakana": [
+      "ボゥン",
+      "ボゥゥン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "foom",
+        "fwoom",
+        "poof",
+        "whump"
+      ],
+      "meaning": "the sound of a soft or muffled explosion",
+      "example": [{
+        "file": "boun-1a",
+        "contributor": "Artrix",
+        "display": "ボゥン",
+        "source": "shogun_gold_in_america"
+      }]
+    }],
+    "literal": "boun"
+  },
+  {
+    "hiragana": [
       "ぼわ",
       "ぼわっ"
     ],
@@ -3578,15 +3612,20 @@
   {
     "hiragana": [
       "だん",
-      "だんっ"
+      "だんっ",
+      "だぁん"
     ],
     "katakana": [
       "ダン",
-      "ダンッ"
+      "ダンッ",
+      "ダァン"
     ],
     "definition": [{
       "equivalent": [
         "bam",
+        "bang",
+        "blast",
+        "boom",
         "hit",
         "knock",
         "pound",
@@ -3594,9 +3633,10 @@
         "slam",
         "strike",
         "thud",
-        "thunk"
+        "thunk",
+        "whack"
       ],
-      "meaning": "a sudden impacts, typically against something solid",
+      "meaning": "the sound of a sudden impact or gunshot",
       "example": [
         {
           "file": "dan-1a",
@@ -3615,6 +3655,12 @@
           "contributor": "",
           "display": "だんっ",
           "source": "saga_lagging_hero"
+        },
+        {
+          "file": "dan-1d",
+          "contributor": "",
+          "display": "ダァン",
+          "source": "shogun_gold_in_america"
         }
       ]
     }],
@@ -3632,6 +3678,9 @@
     "definition": [{
       "equivalent": [
         "bam bam",
+        "bang bang",
+        "blast blast",
+        "boom boom",
         "hit hit",
         "knock knock",
         "pound pound",
@@ -3639,15 +3688,24 @@
         "slam slam",
         "strike strike",
         "thud thud",
-        "thunk thunk"
+        "thunk thunk",
+        "whack whack"
       ],
-      "meaning": "a series of impacts, often against something solid",
-      "example": [{
-        "file": "dan_dan-1a",
-        "contributor": "",
-        "display": "ダンッ  ダンッ",
-        "source": "lord_of_the_hundred_demons"
-      }]
+      "meaning": "a series of sudden impact or gunshot sounds",
+      "example": [
+        {
+          "file": "dan_dan-1a",
+          "contributor": "",
+          "display": "ダンッ  ダンッ",
+          "source": "lord_of_the_hundred_demons"
+        },
+        {
+          "file": "dan_dan-1b",
+          "contributor": "",
+          "display": "ダン  ダン  ダン  ダン",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "dan dan"
   },
@@ -7540,20 +7598,34 @@
     "literal": "giri"
   },
   {
-    "hiragana": ["ぎりぎり"],
-    "katakana": ["ギリギリ"],
+    "hiragana": [
+      "ぎりぎり",
+      "ぎりぎりり"
+    ],
+    "katakana": [
+      "ギリギリ",
+      "ギリギリリ"
+    ],
     "definition": [{
       "equivalent": [
         "gnash",
         "grind"
       ],
-      "meaning": "an expression of grinding one's teeth together, often in frustration or anger",
-      "example": [{
-        "file": "giri_giri-1a",
-        "contributor": "",
-        "display": "ギリ  ギリ",
-        "source": "berserk"
-      }]
+      "meaning": "an expression of grinding one's teeth together, often in exertion, frustration or anger",
+      "example": [
+        {
+          "file": "giri_giri-1a",
+          "contributor": "",
+          "display": "ギリ  ギリ",
+          "source": "berserk"
+        },
+        {
+          "file": "giri_giri-1b",
+          "contributor": "",
+          "display": "ギリ  ギリリ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "giri giri"
   },
@@ -8601,47 +8673,6 @@
   },
   {
     "hiragana": [
-      "ぐぐ",
-      "ぐぐっ",
-      "ぐぐぐ"
-    ],
-    "katakana": [
-      "ググ",
-      "ググッ",
-      "グググ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "clench",
-        "gah gah",
-        "grab",
-        "grasp",
-        "grip",
-        "pressure",
-        "squeeze",
-        "strain",
-        "struggle"
-      ],
-      "meaning": "the indication or sound of gripping or squeezing something, usually indicating strain or tension",
-      "example": [
-        {
-          "file": "gugu-1a",
-          "contributor": "",
-          "display": "ぐぐっ..",
-          "source": "isekai_pickup"
-        },
-        {
-          "file": "gugu-1b",
-          "contributor": "",
-          "display": "ぐぐぐ",
-          "source": "yojo_life"
-        }
-      ]
-    }],
-    "literal": "gugu"
-  },
-  {
-    "hiragana": [
       "ぐい",
       "ぐいっ",
       "ぐぃ",
@@ -8999,6 +9030,33 @@
   },
   {
     "hiragana": [
+      "ぐしぐし",
+      "ぐしぐしっ"
+    ],
+    "katakana": [
+      "グシグシ",
+      "グシグシッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "creak",
+        "screech",
+        "shriek",
+        "squeak",
+        "squeal"
+      ],
+      "meaning": "a series of squeaking wood sounds",
+      "example": [{
+        "file": "gushi_gushi-1a",
+        "contributor": "",
+        "display": "グシグシ",
+        "source": "shogun_gold_in_america"
+      }]
+    }],
+    "literal": "gushi gushi"
+  },
+  {
+    "hiragana": [
       "ぐす",
       "ぐすっ"
     ],
@@ -9108,6 +9166,55 @@
       }]
     }],
     "literal": "guwa"
+  },
+  {
+    "hiragana": [
+      "ぐぐ",
+      "ぐっぐっ",
+      "ぐぐっ",
+      "ぐぐぐ"
+    ],
+    "katakana": [
+      "ググ",
+      "グッグッ",
+      "ググッ",
+      "グググ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "clench",
+        "gah gah",
+        "grab",
+        "grasp",
+        "grip",
+        "pressure",
+        "squeeze",
+        "strain",
+        "struggle"
+      ],
+      "meaning": "an indication or sound of gripping or squeezing something, usually indicating strain or tension",
+      "example": [
+        {
+          "file": "gugu-1a",
+          "contributor": "",
+          "display": "ぐぐっ..",
+          "source": "isekai_pickup"
+        },
+        {
+          "file": "gugu-1b",
+          "contributor": "",
+          "display": "ぐぐぐ",
+          "source": "yojo_life"
+        },
+        {
+          "file": "gugu-1c",
+          "contributor": "",
+          "display": "グッ  グッ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
+    }],
+    "literal": "gu gu"
   },
   {
     "hiragana": [
@@ -10412,15 +10519,24 @@
         "slosh slosh",
         "splash splash",
         "splish splash",
-        "sploosh sploosh"
+        "sploosh sploosh",
+        "wash wash"
       ],
       "meaning": "the sound of splashing water",
-      "example": [{
-        "file": "jabu_jabu-1a",
-        "contributor": "",
-        "display": "ジャブ  ジャブ",
-        "source": "reincarnated_farm_girl"
-      }]
+      "example": [
+        {
+          "file": "jabu_jabu-1a",
+          "contributor": "",
+          "display": "ジャブ  ジャブ",
+          "source": "reincarnated_farm_girl"
+        },
+        {
+          "file": "jabu_jabu-1b",
+          "contributor": "",
+          "display": "じゃぶ  じゃぶ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "jabu jabu"
   },
@@ -10480,6 +10596,32 @@
   },
   {
     "hiragana": [
+      "じゃきん",
+      "じゃきんっ"
+    ],
+    "katakana": [
+      "ジャキン",
+      "ジャキンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "ching",
+        "jing",
+        "shaa",
+        "shing"
+      ],
+      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "example": [{
+        "file": "jakin-1a",
+        "contributor": "",
+        "display": "ジャキンッ",
+        "source": "shogun_gold_in_america"
+      }]
+    }],
+    "literal": "jakin"
+  },
+  {
+    "hiragana": [
       "じゃん",
       "じゃーん"
     ],
@@ -10522,37 +10664,59 @@
   {
     "hiragana": [
       "じゃら",
-      "じゃらら"
+      "じゃらら",
+      "じゃらっ",
+      "じゃららっ"
     ],
     "katakana": [
       "ジャラ",
-      "ジャララ"
+      "ジャララ",
+      "ジャラッ",
+      "ジャララッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "ching",
-        "clink",
-        "jingle",
-        "ting",
-        "tink",
-        "tinkle"
-      ],
-      "meaning": "a sharp light sound of rattling metal or glass",
-      "example": [
-        {
-          "file": "jara-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "ching",
+          "clink",
+          "jingle",
+          "ting",
+          "tink",
+          "tinkle"
+        ],
+        "meaning": "a sharp light sound of rattling metal or glass",
+        "example": [
+          {
+            "file": "jara-1a",
+            "contributor": "",
+            "display": "ジャラ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "jara-1b",
+            "contributor": "",
+            "display": "ジャララ",
+            "source": "otherworld_material_collector"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "bam",
+          "boom",
+          "da-dum",
+          "ta-da",
+          "tadah"
+        ],
+        "meaning": "to call attention to something in an overly-dramatic fashion",
+        "example": [{
+          "file": "jara-2a",
           "contributor": "",
-          "display": "ジャラ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "jara-1b",
-          "contributor": "",
-          "display": "ジャララ",
-          "source": "otherworld_material_collector"
-        }
-      ]
-    }],
+          "display": "じゃらっ",
+          "source": "shogun_gold_in_america"
+        }]
+      }
+    ],
     "literal": "jara"
   },
   {
@@ -10870,6 +11034,38 @@
       ]
     }],
     "literal": "jiwa"
+  },
+  {
+    "hiragana": [
+      "じゅ",
+      "じゅぅ",
+      "じゅぅぅ",
+      "じゆ",
+      "じゆう",
+      "じゆうう"
+    ],
+    "katakana": [
+      "ジュ",
+      "ジュゥ",
+      "ジュゥゥ",
+      "ジユ",
+      "ジユウ",
+      "ジユウウ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "hiss",
+        "sizle"
+      ],
+      "meaning": "the sound of hissing or sizzling, as from cooking",
+      "example": [{
+        "file": "jiyu-1a",
+        "contributor": "",
+        "display": "じゅぅぅ...",
+        "source": "shogun_gold_in_america"
+      }]
+    }],
+    "literal": "jiyu"
   },
   {
     "hiragana": [
@@ -11785,7 +11981,7 @@
           "tromp",
           "trudge"
         ],
-        "meaning": "a heavy footstep",
+        "meaning": "the sound of a footstep, often heavy",
         "example": [{
           "file": "katsun-1a",
           "contributor": "",
@@ -11796,24 +11992,63 @@
       {
         "equivalent": [
           "clack",
+          "clang",
           "clatter",
           "click",
           "clink",
           "ka-chik",
           "ker-chak",
           "rattle",
-          "tick"
+          "tick",
+          "whang"
         ],
-        "meaning": "a rattling or clattering sound",
-        "example": [{
-          "file": "katsun-2a",
-          "contributor": "",
-          "display": "カツンッ",
-          "source": "gyaru_academy"
-        }]
+        "meaning": "the sound of clattering or clanging",
+        "example": [
+          {
+            "file": "katsun-2a",
+            "contributor": "",
+            "display": "カツンッ",
+            "source": "gyaru_academy"
+          },
+          {
+            "file": "katsun-2b",
+            "contributor": "",
+            "display": "カツーン",
+            "source": "shogun_gold_in_america"
+          }
+        ]
       }
     ],
     "literal": "katsun"
+  },
+  {
+    "hiragana": [
+      "かか",
+      "かっかっ",
+      "かつかつ"
+    ],
+    "katakana": [
+      "カカ",
+      "カッカッ",
+      "カツカツ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "clack clack",
+        "clang clang",
+        "click click",
+        "clink clink",
+        "tap tap"
+      ],
+      "meaning": "a series of sharp sounds from a light impact",
+      "example": [{
+        "file": "ka_ka-1a",
+        "contributor": "",
+        "display": "カツ  カツ",
+        "source": "shogun_gold_in_america"
+      }]
+    }],
+    "literal": "ka ka"
   },
   {
     "hiragana": [
@@ -12927,12 +13162,20 @@
         "whiff whiff"
       ],
       "meaning": "a series of sniffing or smelling sounds",
-      "example": [{
-        "file": "kun_kun-1a",
-        "contributor": "",
-        "display": "くんくん",
-        "source": "dog_became_strongest"
-      }]
+      "example": [
+        {
+          "file": "kun_kun-1a",
+          "contributor": "",
+          "display": "くんくん",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "kun_kun-1b",
+          "contributor": "",
+          "display": "くん  くん",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "kun kun"
   },
@@ -13510,6 +13753,26 @@
     "literal": "kyuru kyuru"
   },
   {
+    "hiragana": ["まきまき"],
+    "katakana": ["マキマキ"],
+    "definition": [{
+      "equivalent": [
+        "roll roll",
+        "twist twist",
+        "wind wind",
+        "wrap wrap"
+      ],
+      "meaning": "an indication of wrapping or winding something around something else",
+      "example": [{
+        "file": "maki_maki-1a",
+        "contributor": "",
+        "display": "まき  まき",
+        "source": "shogun_gold_in_america"
+      }]
+    }],
+    "literal": "maki maki"
+  },
+  {
     "hiragana": [
       "みし",
       "みしっ"
@@ -13678,6 +13941,12 @@
           "contributor": "",
           "display": "もぐ  もぐ",
           "source": "strongest_magician_was_human"
+        },
+        {
+          "file": "mogu_mogu-1c",
+          "contributor": "",
+          "display": "もぐ  もぐ  もぐ  もぐ",
+          "source": "shogun_gold_in_america"
         }
       ]
     }],
@@ -15289,6 +15558,32 @@
   },
   {
     "hiragana": [
+      "ぱから",
+      "ぱからっ"
+    ],
+    "katakana": [
+      "パカラ",
+      "パカラッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "charge",
+        "gallop",
+        "run",
+        "trot"
+      ],
+      "meaning": "the sound of a horse running or charging",
+      "example": [{
+        "file": "pakara-1a",
+        "contributor": "",
+        "display": "パカラッ",
+        "source": "shogun_gold_in_america"
+      }]
+    }],
+    "literal": "pakara"
+  },
+  {
+    "hiragana": [
       "ぱき",
       "ぱきっ"
     ],
@@ -15343,12 +15638,20 @@
         "savor"
       ],
       "meaning": "to close one's mouth, typically around a mouthful of food",
-      "example": [{
-        "file": "paku-1a",
-        "contributor": "",
-        "display": "パクッ",
-        "source": "otherworld_material_collector"
-      }]
+      "example": [
+        {
+          "file": "paku-1a",
+          "contributor": "",
+          "display": "パクッ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "paku-1b",
+          "contributor": "",
+          "display": "ぱくっ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "paku"
   },
@@ -15739,7 +16042,7 @@
         "nab",
         "snag"
       ],
-      "meaning": "the act of grabbing and holding",
+      "meaning": "the act of grabbing and catching something",
       "example": [
         {
           "file": "pashi-1a",
@@ -18125,12 +18428,14 @@
     "hiragana": [
       "ぷは",
       "ぷはっ",
-      "ぷはー"
+      "ぷはー",
+      "ぷはーっ"
     ],
     "katakana": [
       "プハ",
       "プハッ",
-      "プハー"
+      "プハー",
+      "プハーッ"
     ],
     "definition": [{
       "equivalent": [
@@ -18139,7 +18444,7 @@
         "phew",
         "whah"
       ],
-      "meaning": "a vocalized sound expressing relief or satisfaction, especially after taking a drink",
+      "meaning": "a vocalized sound expressing relief or satisfaction",
       "example": [
         {
           "file": "puha-1a",
@@ -18152,6 +18457,12 @@
           "contributor": "",
           "display": "ぷはっ",
           "source": "reincarnated_as_a_dragon_egg"
+        },
+        {
+          "file": "puha-1c",
+          "contributor": "",
+          "display": "ぷはーっ",
+          "source": "shogun_gold_in_america"
         }
       ]
     }],
@@ -19431,12 +19742,20 @@
           "zoom"
         ],
         "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
-        "example": [{
-          "file": "shu-1a",
-          "contributor": "",
-          "display": "シュッ",
-          "source": "d_genesis"
-        }]
+        "example": [
+          {
+            "file": "shu-1a",
+            "contributor": "",
+            "display": "シュッ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "shu-1b",
+            "contributor": "",
+            "display": "シュッ",
+            "source": "shogun_gold_in_america"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -22012,13 +22331,21 @@
         "wander around",
         "wander wander"
       ],
-      "meaning": "to move about aimlessly",
-      "example": [{
-        "file": "uro_uro-1a",
-        "contributor": "",
-        "display": "ウロ  ウロ",
-        "source": "reincarnated_as_a_dragon_egg"
-      }]
+      "meaning": "an indication of move about aimlessly or pacing",
+      "example": [
+        {
+          "file": "uro_uro-1a",
+          "contributor": "",
+          "display": "ウロ  ウロ",
+          "source": "reincarnated_as_a_dragon_egg"
+        },
+        {
+          "file": "uro_uro-1b",
+          "contributor": "",
+          "display": "うろ  うろ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "uro uro"
   },
@@ -23004,73 +23331,101 @@
   {
     "hiragana": [
       "ざわ",
-      "ざゎ"
+      "ざゎ",
+      "ざわっ",
+      "ざゎっ"
     ],
     "katakana": [
       "ザワ",
-      "ザヮ"
+      "ザヮ",
+      "ザワッ",
+      "ザヮッ"
     ],
     "definition": [{
       "equivalent": [
-        "ballyhoo",
-        "buzz",
-        "chatter",
-        "commotion",
-        "din",
-        "hubbub",
-        "ruckus"
+        "amazed",
+        "astonished",
+        "dumfounded",
+        "flabbergasted",
+        "gasp",
+        "shock",
+        "stun",
+        "surprise"
       ],
-      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-      "example": [{
-        "file": "zawa-1a",
-        "contributor": "",
-        "display": "ざわ",
-        "source": "requiem_for_prophet"
-      }]
+      "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+      "example": [
+        {
+          "file": "zawa-1a",
+          "contributor": "",
+          "display": "ざわ",
+          "source": "requiem_for_prophet"
+        },
+        {
+          "file": "zawa-1b",
+          "contributor": "",
+          "display": "ざゎっ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "zawa"
   },
   {
     "hiragana": ["ざわざわ"],
     "katakana": ["ザワザワ"],
-    "definition": [{
-      "equivalent": [
-        "ballyhoo",
-        "buzz",
-        "chatter",
-        "commotion",
-        "din",
-        "hubbub",
-        "ruckus"
-      ],
-      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-      "example": [
-        {
-          "file": "zawa_zawa-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "ballyhoo",
+          "buzz",
+          "chatter",
+          "commotion",
+          "din",
+          "hubbub",
+          "ruckus"
+        ],
+        "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
+        "example": [
+          {
+            "file": "zawa_zawa-1a",
+            "contributor": "",
+            "display": "ざわ  ざわ  ざわ",
+            "source": "dungeon_dining_room"
+          },
+          {
+            "file": "zawa_zawa-1b",
+            "contributor": "",
+            "display": "ザワ  ザワ",
+            "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "zawa_zawa-1c",
+            "contributor": "",
+            "display": "ざわ  ざわ",
+            "source": "uncle_at_heart"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "amazed",
+          "astonished",
+          "dumfounded",
+          "flabbergasted",
+          "gasp",
+          "shock",
+          "stun",
+          "surprise"
+        ],
+        "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+        "example": [{
+          "file": "zawa_zawa-2a",
           "contributor": "",
           "display": "ザワ  ザワ",
           "source": "world_full_of_monsters"
-        },
-        {
-          "file": "zawa_zawa-1b",
-          "contributor": "",
-          "display": "ザワ  ザワ",
-          "source": "abandoned_reincarnation_sage"
-        },
-        {
-          "file": "zawa_zawa-1c",
-          "contributor": "",
-          "display": "ざわ  ざわ  ざわ",
-          "source": "dungeon_dining_room"
-        },
-        {
-          "file": "zawa_zawa-1d",
-          "contributor": "",
-          "display": "ざわ  ざわ",
-          "source": "uncle_at_heart"
-        }
-      ]
-    }],
+        }]
+      }
+    ],
     "literal": "zawa zawa"
   },
   {
@@ -23561,25 +23916,30 @@
     ],
     "definition": [{
       "equivalent": [
-        "dig through",
-        "dredge",
-        "get",
-        "grab",
-        "grasp",
-        "probe",
-        "reach",
-        "rifle",
-        "rummage",
-        "snag",
-        "snatch"
+        "dip",
+        "dunk",
+        "enter",
+        "insert",
+        "penetrate",
+        "pierce",
+        "plunge",
+        "sink"
       ],
-      "meaning": "to reach inside something, usually to get something from within",
-      "example": [{
-        "file": "zubo-1a",
-        "contributor": "",
-        "display": "ズボッ",
-        "source": "otherworld_material_collector"
-      }]
+      "meaning": "an indication or sound of entering or plunging into something, sometimes forcefully",
+      "example": [
+        {
+          "file": "zubo-1a",
+          "contributor": "",
+          "display": "ズボッ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "zubo-1b",
+          "contributor": "",
+          "display": "ズボッ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "literal": "zubo"
   },

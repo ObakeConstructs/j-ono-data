@@ -1,18 +1,20 @@
 {
-  "literal": "gugu",
+  "literal": "gu gu",
   "katakana": [
     "ググ",
+    "グッグッ",
     "ググッ",
     "グググ"
   ],
   "hiragana": [
     "ぐぐ",
+    "ぐっぐっ",
     "ぐぐっ",
     "ぐぐぐ"
   ],
   "definition": [
     {
-      "meaning": "the indication or sound of gripping or squeezing something, usually indicating strain or tension",
+      "meaning": "an indication or sound of gripping or squeezing something, usually indicating strain or tension",
       "equivalent": [
         "clench",
         "gah gah",
@@ -35,6 +37,12 @@
           "source": "yojo_life",
           "file": "gugu-1b",
           "display": "ぐぐぐ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "gugu-1c",
+          "display": "グッ  グッ",
           "contributor": ""
         }
       ]

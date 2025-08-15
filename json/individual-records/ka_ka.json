@@ -1,0 +1,33 @@
+{
+  "literal": "ka ka",
+  "katakana": [
+    "カカ",
+    "カッカッ",
+    "カツカツ"
+  ],
+  "hiragana": [
+    "かか",
+    "かっかっ",
+    "かつかつ"
+  ],
+  "definition": [
+    {
+      "meaning": "a series of sharp sounds from a light impact",
+      "equivalent": [
+        "clack clack",
+        "clang clang",
+        "click click",
+        "clink clink",
+        "tap tap"
+      ],
+      "example": [
+        {
+          "source": "shogun_gold_in_america",
+          "file": "ka_ka-1a",
+          "display": "カツ  カツ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

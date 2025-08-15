@@ -2,29 +2,40 @@
   "literal": "zawa",
   "katakana": [
     "ザワ",
-    "ザヮ"
+    "ザヮ",
+    "ザワッ",
+    "ザヮッ"
   ],
   "hiragana": [
     "ざわ",
-    "ざゎ"
+    "ざゎ",
+    "ざわっ",
+    "ざゎっ"
   ],
   "definition": [
     {
-      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
+      "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
       "equivalent": [
-        "ballyhoo",
-        "buzz",
-        "chatter",
-        "commotion",
-        "din",
-        "hubbub",
-        "ruckus"
+        "dumfounded",
+        "amazed",
+        "astonished",
+        "flabbergasted",
+        "shock",
+        "stun",
+        "surprise",
+        "gasp"
       ],
       "example": [
         {
           "source": "requiem_for_prophet",
           "file": "zawa-1a",
           "display": "ざわ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "zawa-1b",
+          "display": "ざゎっ",
           "contributor": ""
         }
       ]

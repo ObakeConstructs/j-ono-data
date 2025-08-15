@@ -2,11 +2,15 @@
   "literal": "jara",
   "katakana": [
     "ジャラ",
-    "ジャララ"
+    "ジャララ",
+    "ジャラッ",
+    "ジャララッ"
   ],
   "hiragana": [
     "じゃら",
-    "じゃらら"
+    "じゃらら",
+    "じゃらっ",
+    "じゃららっ"
   ],
   "definition": [
     {
@@ -30,6 +34,24 @@
           "source": "otherworld_material_collector",
           "file": "jara-1b",
           "display": "ジャララ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "to call attention to something in an overly-dramatic fashion",
+      "equivalent": [
+        "bam",
+        "boom",
+        "da-dum",
+        "ta-da",
+        "tadah"
+      ],
+      "example": [
+        {
+          "source": "shogun_gold_in_america",
+          "file": "jara-2a",
+          "display": "じゃらっ",
           "contributor": ""
         }
       ]

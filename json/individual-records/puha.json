@@ -3,16 +3,18 @@
   "katakana": [
     "プハ",
     "プハッ",
-    "プハー"
+    "プハー",
+    "プハーッ"
   ],
   "hiragana": [
     "ぷは",
     "ぷはっ",
-    "ぷはー"
+    "ぷはー",
+    "ぷはーっ"
   ],
   "definition": [
     {
-      "meaning": "a vocalized sound expressing relief or satisfaction, especially after taking a drink",
+      "meaning": "a vocalized sound expressing relief or satisfaction",
       "equivalent": [
         "ahh",
         "fwah",
@@ -30,6 +32,12 @@
           "source": "reincarnated_as_a_dragon_egg",
           "file": "puha-1b",
           "display": "ぷはっ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "puha-1c",
+          "display": "ぷはーっ",
           "contributor": ""
         }
       ]

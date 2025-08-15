@@ -2,15 +2,17 @@
   "literal": "dan",
   "katakana": [
     "ダン",
-    "ダンッ"
+    "ダンッ",
+    "ダァン"
   ],
   "hiragana": [
     "だん",
-    "だんっ"
+    "だんっ",
+    "だぁん"
   ],
   "definition": [
     {
-      "meaning": "a sudden impacts, typically against something solid",
+      "meaning": "the sound of a sudden impact or gunshot",
       "equivalent": [
         "bam",
         "hit",
@@ -20,7 +22,11 @@
         "slam",
         "strike",
         "thud",
-        "thunk"
+        "thunk",
+        "bang",
+        "boom",
+        "blast",
+        "whack"
       ],
       "example": [
         {
@@ -39,6 +45,12 @@
           "source": "saga_lagging_hero",
           "file": "dan-1c",
           "display": "だんっ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "dan-1d",
+          "display": "ダァン",
           "contributor": ""
         }
       ]

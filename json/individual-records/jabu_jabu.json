@@ -10,16 +10,23 @@
     {
       "meaning": "the sound of splashing water",
       "equivalent": [
+        "slosh slosh",
         "splash splash",
         "splish splash",
-        "slosh slosh",
-        "sploosh sploosh"
+        "sploosh sploosh",
+        "wash wash"
       ],
       "example": [
         {
           "source": "reincarnated_farm_girl",
           "file": "jabu_jabu-1a",
           "display": "ジャブ  ジャブ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "jabu_jabu-1b",
+          "display": "じゃぶ  じゃぶ",
           "contributor": ""
         }
       ]
