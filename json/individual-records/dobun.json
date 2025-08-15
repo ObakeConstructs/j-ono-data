@@ -1,12 +1,10 @@
 {
-  "literal": "dobon",
+  "literal": "dobun",
   "katakana": [
-    "ドボン",
-    "ドボーン"
+    "ドブン"
   ],
   "hiragana": [
-    "どぼん",
-    "どぼーん"
+    "どぶん"
   ],
   "definition": [
     {
@@ -19,15 +17,9 @@
       ],
       "example": [
         {
-          "source": "hanako_24th_ward",
-          "file": "dobon-1a",
-          "display": "ドボーン",
-          "contributor": ""
-        },
-        {
           "source": "kaijuu_sdf",
-          "file": "dobon-1b",
-          "display": "ドボン",
+          "file": "dobun-1a",
+          "display": "ドブン",
           "contributor": ""
         }
       ]

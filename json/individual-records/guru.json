@@ -47,6 +47,28 @@
           "contributor": ""
         }
       ]
+    },
+    {
+      "meaning": "an indication or sound of something rotating or spinning",
+      "equivalent": [
+        "spin",
+        "rotate",
+        "revolve",
+        "turn",
+        "twirl",
+        "roll",
+        "whirl",
+        "wind",
+        "swivel"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "guru-2a",
+          "display": "グルルル",
+          "contributor": ""
+        }
+      ]
     }
   ]
 }

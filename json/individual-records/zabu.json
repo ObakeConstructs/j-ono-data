@@ -1,0 +1,40 @@
+{
+  "literal": "zabu",
+  "katakana": [
+    "ザブ",
+    "ザブウ",
+    "ザブウウ",
+    "ザブゥ",
+    "ザブゥゥ"
+  ],
+  "hiragana": [
+    "ざぶ",
+    "ざぶう",
+    "ざぶうう",
+    "ざぶぅ",
+    "ざぶぅぅ"
+  ],
+  "definition": [
+    {
+      "meaning": "a large splashing sound",
+      "equivalent": [
+        "gush",
+        "jet",
+        "slosh",
+        "spew",
+        "splash",
+        "sploosh",
+        "spout",
+        "swash"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "zabu-1a",
+          "display": "ザブウウ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

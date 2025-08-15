@@ -3821,24 +3821,48 @@
     ],
     "definition": [{
       "equivalent": [
-        "gush",
-        "jet",
-        "slosh",
-        "spew",
+        "plop",
+        "plunge",
         "splash",
-        "sploosh",
-        "spout",
-        "swash"
+        "sploosh"
       ],
-      "meaning": "the noise of something splashing into water",
-      "example": [{
-        "file": "dobon-1a",
-        "contributor": "",
-        "display": "ドボーン",
-        "source": "hanako_24th_ward"
-      }]
+      "meaning": "the sound of something splashing into water",
+      "example": [
+        {
+          "file": "dobon-1a",
+          "contributor": "",
+          "display": "ドボーン",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "dobon-1b",
+          "contributor": "",
+          "display": "ドボン",
+          "source": "kaijuu_sdf"
+        }
+      ]
     }],
     "literal": "dobon"
+  },
+  {
+    "hiragana": ["どぶん"],
+    "katakana": ["ドブン"],
+    "definition": [{
+      "equivalent": [
+        "plop",
+        "plunge",
+        "splash",
+        "sploosh"
+      ],
+      "meaning": "the sound of something splashing into water",
+      "example": [{
+        "file": "dobun-1a",
+        "contributor": "",
+        "display": "ドブン",
+        "source": "kaijuu_sdf"
+      }]
+    }],
+    "literal": "dobun"
   },
   {
     "hiragana": [
@@ -8806,41 +8830,63 @@
       "グルル",
       "グルルル"
     ],
-    "definition": [{
-      "equivalent": [
-        "growl",
-        "grumble",
-        "rumble",
-        "snarl"
-      ],
-      "meaning": "a low, gutteral noise",
-      "example": [
-        {
-          "file": "guru-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "growl",
+          "grumble",
+          "rumble",
+          "snarl"
+        ],
+        "meaning": "a low, gutteral noise",
+        "example": [
+          {
+            "file": "guru-1a",
+            "contributor": "",
+            "display": "ぐるるるるる",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "guru-1b",
+            "contributor": "",
+            "display": "ぐるるるる",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "guru-1c",
+            "contributor": "",
+            "display": "グルルル...",
+            "source": "kuma_kuma_kuma_bear"
+          },
+          {
+            "file": "guru-1d",
+            "contributor": "",
+            "display": "グルル..",
+            "source": "rise_of_the_outlaw_tamer"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "revolve",
+          "roll",
+          "rotate",
+          "spin",
+          "swivel",
+          "turn",
+          "twirl",
+          "whirl",
+          "wind"
+        ],
+        "meaning": "an indication or sound of something rotating or spinning",
+        "example": [{
+          "file": "guru-2a",
           "contributor": "",
-          "display": "ぐるるるるる",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "guru-1b",
-          "contributor": "",
-          "display": "ぐるるるる",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "guru-1c",
-          "contributor": "",
-          "display": "グルルル...",
-          "source": "kuma_kuma_kuma_bear"
-        },
-        {
-          "file": "guru-1d",
-          "contributor": "",
-          "display": "グルル..",
-          "source": "rise_of_the_outlaw_tamer"
-        }
-      ]
-    }],
+          "display": "グルルル",
+          "source": "kaijuu_sdf"
+        }]
+      }
+    ],
     "literal": "guru"
   },
   {
@@ -9062,6 +9108,44 @@
       }]
     }],
     "literal": "guwa"
+  },
+  {
+    "hiragana": [
+      "ぎゃ",
+      "ぎゃっ",
+      "ぎゃー",
+      "ぎゃぁ",
+      "ぎゃあ",
+      "ぎゃああ",
+      "ぎゃあああ"
+    ],
+    "katakana": [
+      "ギャ",
+      "ギャッ",
+      "ギャー",
+      "ギャァ",
+      "ギャア",
+      "ギャアア",
+      "ギャアアア"
+    ],
+    "definition": [{
+      "equivalent": [
+        "clangor",
+        "creak",
+        "jangle",
+        "screech",
+        "shriek",
+        "shrill"
+      ],
+      "meaning": "an abrupt shriek, as from distressed metal",
+      "example": [{
+        "file": "gya-1a",
+        "contributor": "",
+        "display": "ギャアアアアア",
+        "source": "kaijuu_sdf"
+      }]
+    }],
+    "literal": "gya"
   },
   {
     "hiragana": [
@@ -14554,6 +14638,33 @@
     "literal": "noso noso"
   },
   {
+    "hiragana": [
+      "ぬっ",
+      "ぬっ"
+    ],
+    "katakana": [
+      "ヌ",
+      "ヌッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "danger",
+        "menace",
+        "peril",
+        "threat",
+        "threaten"
+      ],
+      "meaning": "an indication of something large and menacing appearing",
+      "example": [{
+        "file": "nu-1a",
+        "contributor": "",
+        "display": "ぬっ",
+        "source": "kaijuu_sdf"
+      }]
+    }],
+    "literal": "nu"
+  },
+  {
     "hiragana": ["ぬらぬら"],
     "katakana": ["ヌラヌラ"],
     "definition": [{
@@ -16817,11 +16928,15 @@
   {
     "hiragana": [
       "ぴん",
-      "ぴーん"
+      "ぴーん",
+      "ぴいん",
+      "ぴいいん"
     ],
     "katakana": [
       "ピン",
-      "ピーン"
+      "ピーン",
+      "ピイン",
+      "ピイイン"
     ],
     "definition": [
       {
@@ -16882,6 +16997,20 @@
             "source": "buy_the_land"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "bing",
+          "ding",
+          "ping"
+        ],
+        "meaning": "a sharp pinging sound",
+        "example": [{
+          "file": "pin-4a",
+          "contributor": "",
+          "display": "ピイイン",
+          "source": "kaijuu_sdf"
+        }]
       }
     ],
     "literal": "pin"
@@ -22580,6 +22709,72 @@
   },
   {
     "hiragana": [
+      "ざばざば",
+      "ざばざばぁ"
+    ],
+    "katakana": [
+      "ザバザバ",
+      "ザバザバァ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "gush gush",
+        "jet jet",
+        "slosh slosh",
+        "spew spew",
+        "splash splash",
+        "sploosh sploosh",
+        "spout spout",
+        "swash swash"
+      ],
+      "meaning": "medium to large splashing sounds",
+      "example": [{
+        "file": "zaba_zaba-1a",
+        "contributor": "",
+        "display": "ザバ  ザバ  ザバ  ザバ  ザバ  ザバ",
+        "source": "kaijuu_sdf"
+      }]
+    }],
+    "literal": "zaba zaba"
+  },
+  {
+    "hiragana": [
+      "ざぶ",
+      "ざぶう",
+      "ざぶうう",
+      "ざぶぅ",
+      "ざぶぅぅ"
+    ],
+    "katakana": [
+      "ザブ",
+      "ザブウ",
+      "ザブウウ",
+      "ザブゥ",
+      "ザブゥゥ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "gush",
+        "jet",
+        "slosh",
+        "spew",
+        "splash",
+        "sploosh",
+        "spout",
+        "swash"
+      ],
+      "meaning": "a large splashing sound",
+      "example": [{
+        "file": "zabu-1a",
+        "contributor": "",
+        "display": "ザブウウ",
+        "source": "kaijuu_sdf"
+      }]
+    }],
+    "literal": "zabu"
+  },
+  {
+    "hiragana": [
       "ざぶん",
       "ざぶーん"
     ],
@@ -22726,6 +22921,38 @@
       }]
     }],
     "literal": "zari zari"
+  },
+  {
+    "hiragana": [
+      "ざさ",
+      "ざさあ",
+      "ざさああ",
+      "ざさあああ"
+    ],
+    "katakana": [
+      "ザサ",
+      "ザサア",
+      "ザサアア",
+      "ザサアアア"
+    ],
+    "definition": [{
+      "equivalent": [
+        "gush",
+        "jet",
+        "splash",
+        "sploosh",
+        "spout",
+        "whoosh"
+      ],
+      "meaning": "a loud sound of continuously flowing water",
+      "example": [{
+        "file": "zasa-1a",
+        "contributor": "",
+        "display": "ザサアアア",
+        "source": "kaijuu_sdf"
+      }]
+    }],
+    "literal": "zasa"
   },
   {
     "hiragana": [

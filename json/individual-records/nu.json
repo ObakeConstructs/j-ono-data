@@ -1,0 +1,31 @@
+{
+  "literal": "nu",
+  "katakana": [
+    "ヌ",
+    "ヌッ"
+  ],
+  "hiragana": [
+    "ぬっ",
+    "ぬっ"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of something large and menacing appearing",
+      "equivalent": [
+        "menace",
+        "threat",
+        "danger",
+        "threaten",
+        "peril"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "nu-1a",
+          "display": "ぬっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

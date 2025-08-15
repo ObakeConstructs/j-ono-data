@@ -2,11 +2,15 @@
   "literal": "pin",
   "katakana": [
     "ピン",
-    "ピーン"
+    "ピーン",
+    "ピイン",
+    "ピイイン"
   ],
   "hiragana": [
     "ぴん",
-    "ぴーん"
+    "ぴーん",
+    "ぴいん",
+    "ぴいいん"
   ],
   "definition": [
     {
@@ -68,6 +72,22 @@
           "source": "buy_the_land",
           "file": "pin-3b",
           "display": "ピン",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "meaning": "a sharp pinging sound",
+      "equivalent": [
+        "ping",
+        "ding",
+        "bing"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "pin-4a",
+          "display": "ピイイン",
           "contributor": ""
         }
       ]

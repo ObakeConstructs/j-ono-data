@@ -1,0 +1,36 @@
+{
+  "literal": "zasa",
+  "katakana": [
+    "ザサ",
+    "ザサア",
+    "ザサアア",
+    "ザサアアア"
+  ],
+  "hiragana": [
+    "ざさ",
+    "ざさあ",
+    "ざさああ",
+    "ざさあああ"
+  ],
+  "definition": [
+    {
+      "meaning": "a loud sound of continuously flowing water",
+      "equivalent": [
+        "gush",
+        "jet",
+        "splash",
+        "sploosh",
+        "spout",
+        "whoosh"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "zasa-1a",
+          "display": "ザサアアア",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}
