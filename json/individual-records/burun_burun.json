@@ -1,20 +1,35 @@
 {
-  "hiragana": ["ぶるんぶるん"],
-  "katakana": ["ブルンブルン"],
-  "definition": [{
-    "equivalent": [
-      "quiver",
-      "shiver",
-      "shudder",
-      "tremble"
-    ],
-    "meaning": "an indication of bouncing or shaking, often associated with breasts and fan service",
-    "example": [{
-      "file": "burun_burun-1a",
-      "contributor": "",
-      "display": "ぶるん  ぶるん",
-      "source": "s_rank_behemoth"
-    }]
-  }],
-  "literal": "burun burun"
+  "literal": "burun burun",
+  "katakana": [
+    "ブルンブルン"
+  ],
+  "hiragana": [
+    "ぶるんぶるん"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of bouncing or shaking",
+      "equivalent": [
+        "bounce bounce",
+        "shake shake",
+        "jerk jerk",
+        "quiver quiver",
+        "jiggle jigle"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "burun_burun-1a",
+          "display": "ぶるん  ぶるん",
+          "contributor": ""
+        },
+        {
+          "source": "35_year_olds_choice",
+          "file": "burun_burun-1b",
+          "display": "ぶるん♡  ぶるん♡",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

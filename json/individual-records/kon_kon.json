@@ -12,7 +12,8 @@
     {
       "meaning": "the sound of someone knocking on a door",
       "equivalent": [
-        "knock knock"
+        "knock knock",
+        "tap tap"
       ],
       "example": [
         {
@@ -25,6 +26,12 @@
           "source": "s_rank_behemoth",
           "file": "kon_kon-1b",
           "display": "コン  コンッ!",
+          "contributor": ""
+        },
+        {
+          "source": "35_year_olds_choice",
+          "file": "kon_kon-1c",
+          "display": "コン  コン",
           "contributor": ""
         }
       ]

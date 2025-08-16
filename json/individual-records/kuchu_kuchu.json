@@ -1,23 +1,34 @@
 {
   "literal": "kuchu kuchu",
   "katakana": [
-    "クチュクチュ"
+    "クチュクチュ",
+    "クチュクチュッ"
   ],
   "hiragana": [
-    "くちゅくちゅ"
+    "くちゅくちゅ",
+    "くちゅくちゅっ"
   ],
   "definition": [
     {
-      "meaning": "a wet smacking sound, like chewing gum",
+      "meaning": "a series of wet smacking sounds, like chewing gum or kissing",
       "equivalent": [
-        "shlop shlop",
-        "smack smack",
-        "mwap mwap",
         "glorp glorp",
+        "mwap mwap",
+        "shlop shlop",
         "shmack shmack",
-        "squelch squelch"
+        "smack smack",
+        "squelch squelch",
+        "kiss kiss",
+        "slup slup",
+        "slurp slurp"
       ],
       "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "kuchu_kuchu-1b",
+          "display": "くちゅ  くちゅっ",
+          "contributor": ""
+        },
         {
           "source": "rise_of_the_outlaw_tamer",
           "file": "kuchu_kuchu-1a",

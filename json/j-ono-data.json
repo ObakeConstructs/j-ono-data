@@ -1644,6 +1644,43 @@
     "literal": "bishi"
   },
   {
+    "hiragana": [
+      "びしびし",
+      "びしっびしっ"
+    ],
+    "katakana": [
+      "ビシビシ",
+      "ビシッビシッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bam bam",
+        "blow blow",
+        "chop chop",
+        "clobber clobber",
+        "clout clout",
+        "crunch crunch",
+        "hit hit",
+        "pound pound",
+        "punch punch",
+        "slam slam",
+        "slug slug",
+        "strike strike",
+        "thud thud",
+        "thunk thunk",
+        "wham wham"
+      ],
+      "meaning": "a series of sharp or forceful strikes",
+      "example": [{
+        "file": "bishi_bishi-1a",
+        "contributor": "",
+        "display": "びしっ♡  びしっ♡",
+        "source": "35_year_olds_choice"
+      }]
+    }],
+    "literal": "bishi bishi"
+  },
+  {
     "hiragana": ["びしゅ"],
     "katakana": ["ビシュ"],
     "definition": [{
@@ -2619,18 +2656,27 @@
     "katakana": ["ブルンブルン"],
     "definition": [{
       "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
+        "bounce bounce",
+        "jerk jerk",
+        "jiggle jigle",
+        "quiver quiver",
+        "shake shake"
       ],
-      "meaning": "an indication of bouncing or shaking, often associated with breasts and fan service",
-      "example": [{
-        "file": "burun_burun-1a",
-        "contributor": "",
-        "display": "ぶるん  ぶるん",
-        "source": "s_rank_behemoth"
-      }]
+      "meaning": "an indication of bouncing or shaking",
+      "example": [
+        {
+          "file": "burun_burun-1a",
+          "contributor": "",
+          "display": "ぶるん  ぶるん",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "burun_burun-1b",
+          "contributor": "",
+          "display": "ぶるん♡  ぶるん♡",
+          "source": "35_year_olds_choice"
+        }
+      ]
     }],
     "literal": "burun burun"
   },
@@ -2710,6 +2756,39 @@
       }]
     }],
     "literal": "butsu butsu"
+  },
+  {
+    "hiragana": [
+      "ぶぅ",
+      "ぶぅぅ",
+      "ぶぅぅぅ",
+      "ぶう",
+      "ぶうう",
+      "ぶううう"
+    ],
+    "katakana": [
+      "ブゥ",
+      "ブゥゥ",
+      "ブゥゥゥ",
+      "ブウ",
+      "ブウウ",
+      "ブウウウ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "idle",
+        "rumble",
+        "vrrm"
+      ],
+      "meaning": "the low rumble car engine, as idling",
+      "example": [{
+        "file": "buu-1a",
+        "contributor": "",
+        "display": "ブゥゥゥゥ",
+        "source": "35_year_olds_choice"
+      }]
+    }],
+    "literal": "buu"
   },
   {
     "hiragana": [
@@ -4912,12 +4991,12 @@
           "hit hit",
           "impact",
           "knock knock",
-          "pound",
+          "pound pound",
           "punch punch",
           "slam slam",
           "strike strike",
           "thud thud",
-          "thunk",
+          "thunk thunk",
           "wham wham"
         ],
         "meaning": "a series of painful, but non-fatal strikes, as from the back of a sword",
@@ -6703,11 +6782,13 @@
   {
     "hiragana": [
       "がる",
-      "がるる"
+      "がるる",
+      "がるるる"
     ],
     "katakana": [
       "ガル",
-      "ガルル"
+      "ガルル",
+      "ガルルル"
     ],
     "definition": [{
       "equivalent": [
@@ -6729,6 +6810,12 @@
           "contributor": "",
           "display": "がるるる",
           "source": "my_s-ranked_daughter"
+        },
+        {
+          "file": "garu-1c",
+          "contributor": "",
+          "display": "ガルル",
+          "source": "35_year_olds_choice"
         }
       ]
     }],
@@ -10013,6 +10100,35 @@
   },
   {
     "hiragana": [
+      "ひひ",
+      "ひひひ"
+    ],
+    "katakana": [
+      "ヒヒ",
+      "ヒヒヒ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "chortle chortle",
+        "chuckle chuckle",
+        "giggle giggle",
+        "hee hee",
+        "laugh laugh",
+        "snicker snicker",
+        "titter titter"
+      ],
+      "meaning": "a light laugh or giggle",
+      "example": [{
+        "file": "hi_hi-1a",
+        "contributor": "",
+        "display": "ヒヒヒ",
+        "source": "35_year_olds_choice"
+      }]
+    }],
+    "literal": "hi hi"
+  },
+  {
+    "hiragana": [
       "ほ",
       "ほっ",
       "ほー",
@@ -11849,6 +11965,31 @@
   },
   {
     "hiragana": [
+      "かしゅ",
+      "かしゅっ"
+    ],
+    "katakana": [
+      "カシュ",
+      "カシュッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "crack",
+        "fizz",
+        "pop"
+      ],
+      "meaning": "the pop and hiss sound of a soda can opening",
+      "example": [{
+        "file": "kashu-1a",
+        "contributor": "",
+        "display": "カシュッ",
+        "source": "35_year_olds_choice"
+      }]
+    }],
+    "literal": "kashu"
+  },
+  {
+    "hiragana": [
       "かた",
       "かたっ"
     ],
@@ -12531,44 +12672,6 @@
     "literal": "ko"
   },
   {
-    "hiragana": ["くちゅ"],
-    "katakana": ["クチュ"],
-    "definition": [
-      {
-        "equivalent": [
-          "caress",
-          "fondle",
-          "rub",
-          "squish",
-          "stroke"
-        ],
-        "meaning": "the indication or sound of soft stroking or rubbing",
-        "example": [{
-          "file": "kochu-1a",
-          "contributor": "",
-          "display": "クチュ...",
-          "source": "double_play"
-        }]
-      },
-      {
-        "equivalent": [
-          "kiss",
-          "lick",
-          "slurp",
-          "smooch"
-        ],
-        "meaning": "the soft sound of kissing or licking",
-        "example": [{
-          "file": "kochu-2a",
-          "contributor": "",
-          "display": "くちゅ",
-          "source": "embarrassing_and_sweet"
-        }]
-      }
-    ],
-    "literal": "kochu"
-  },
-  {
     "hiragana": ["こほん"],
     "katakana": ["コホン"],
     "definition": [{
@@ -12720,7 +12823,10 @@
       "コンコンッ"
     ],
     "definition": [{
-      "equivalent": ["knock knock"],
+      "equivalent": [
+        "knock knock",
+        "tap tap"
+      ],
       "meaning": "the sound of someone knocking on a door",
       "example": [
         {
@@ -12734,6 +12840,12 @@
           "contributor": "",
           "display": "コン  コンッ!",
           "source": "s_rank_behemoth"
+        },
+        {
+          "file": "kon_kon-1c",
+          "contributor": "",
+          "display": "コン  コン",
+          "source": "35_year_olds_choice"
         }
       ]
     }],
@@ -12970,24 +13082,75 @@
     "literal": "kua"
   },
   {
-    "hiragana": ["くちゅくちゅ"],
-    "katakana": ["クチュクチュ"],
+    "hiragana": ["くちゅ"],
+    "katakana": ["クチュ"],
+    "definition": [{
+      "equivalent": [
+        "glorp",
+        "kiss",
+        "mwap",
+        "shlop",
+        "shmack",
+        "slup",
+        "slurp",
+        "smack",
+        "squelch",
+        "squish"
+      ],
+      "meaning": "a wet smacking sound, like chewing gum or kissing",
+      "example": [
+        {
+          "file": "kuchu-1a",
+          "contributor": "",
+          "display": "クチュ...",
+          "source": "double_play"
+        },
+        {
+          "file": "kuchu-1b",
+          "contributor": "",
+          "display": "くちゅ",
+          "source": "embarrassing_and_sweet"
+        }
+      ]
+    }],
+    "literal": "kuchu"
+  },
+  {
+    "hiragana": [
+      "くちゅくちゅ",
+      "くちゅくちゅっ"
+    ],
+    "katakana": [
+      "クチュクチュ",
+      "クチュクチュッ"
+    ],
     "definition": [{
       "equivalent": [
         "glorp glorp",
+        "kiss kiss",
         "mwap mwap",
         "shlop shlop",
         "shmack shmack",
+        "slup slup",
+        "slurp slurp",
         "smack smack",
         "squelch squelch"
       ],
-      "meaning": "a wet smacking sound, like chewing gum",
-      "example": [{
-        "file": "kuchu_kuchu-1a",
-        "contributor": "",
-        "display": "クチュ  クチュ",
-        "source": "rise_of_the_outlaw_tamer"
-      }]
+      "meaning": "a series of wet smacking sounds, like chewing gum or kissing",
+      "example": [
+        {
+          "file": "kuchu_kuchu-1b",
+          "contributor": "",
+          "display": "くちゅ  くちゅっ",
+          "source": "35_year_olds_choice"
+        },
+        {
+          "file": "kuchu_kuchu-1a",
+          "contributor": "",
+          "display": "クチュ  クチュ",
+          "source": "rise_of_the_outlaw_tamer"
+        }
+      ]
     }],
     "literal": "kuchu kuchu"
   },
@@ -13067,6 +13230,34 @@
       }
     ],
     "literal": "kui"
+  },
+  {
+    "hiragana": [
+      "くか",
+      "くかー"
+    ],
+    "katakana": [
+      "クカ",
+      "クカー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "asleep",
+        "breath",
+        "drowsy",
+        "sleep",
+        "slumber",
+        "zzz"
+      ],
+      "meaning": "an indication of sleeping or the sound of sleepy breathing",
+      "example": [{
+        "file": "kuka-1a",
+        "contributor": "",
+        "display": "くかー",
+        "source": "35_year_olds_choice"
+      }]
+    }],
+    "literal": "kuka"
   },
   {
     "hiragana": [
@@ -14300,11 +14491,13 @@
   {
     "hiragana": [
       "むん",
-      "むんっ"
+      "むんっ",
+      "むーン"
     ],
     "katakana": [
       "ムン",
-      "ムンッ"
+      "ムンッ",
+      "ムーん"
     ],
     "definition": [{
       "equivalent": [
@@ -14315,12 +14508,20 @@
         "urgh"
       ],
       "meaning": "an expression of forceful exertion",
-      "example": [{
-        "file": "mun-1a",
-        "contributor": "",
-        "display": "ムンッ",
-        "source": "abandoned_reincarnation_sage"
-      }]
+      "example": [
+        {
+          "file": "mun-1a",
+          "contributor": "",
+          "display": "ムンッ",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "mun-1b",
+          "contributor": "",
+          "display": "むーン",
+          "source": "35_year_olds_choice"
+        }
+      ]
     }],
     "literal": "mun"
   },
@@ -18714,8 +18915,14 @@
     "literal": "puru"
   },
   {
-    "hiragana": ["ぷるん"],
-    "katakana": ["プルン"],
+    "hiragana": [
+      "ぷるん",
+      "ぷるんっ"
+    ],
+    "katakana": [
+      "プルン",
+      "プルンッ"
+    ],
     "definition": [{
       "equivalent": [
         "boing",
@@ -18744,6 +18951,12 @@
           "contributor": "",
           "display": "ぷるん",
           "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "purun-1d",
+          "contributor": "",
+          "display": "ぷるんっ",
+          "source": "35_year_olds_choice"
         }
       ]
     }],
@@ -21296,6 +21509,34 @@
     "literal": "tata tata"
   },
   {
+    "hiragana": [
+      "たゆん",
+      "たゆんっ"
+    ],
+    "katakana": [
+      "タユン",
+      "タユンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "boing",
+        "jiggle",
+        "quiver",
+        "shake",
+        "sway",
+        "wobble"
+      ],
+      "meaning": "the indication of a wobble or shake",
+      "example": [{
+        "file": "tayun-1a",
+        "contributor": "",
+        "display": "ぷるん♡",
+        "source": "35_year_olds_choice"
+      }]
+    }],
+    "literal": "tayun"
+  },
+  {
     "hiragana": ["たゅんたゅん"],
     "katakana": ["タュンタュン"],
     "definition": [{
@@ -22013,6 +22254,30 @@
       }]
     }],
     "literal": "tsurun"
+  },
+  {
+    "hiragana": [
+      "つつ",
+      "っっ"
+    ],
+    "katakana": [
+      "ツツ",
+      "ッッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "buzz buzz",
+        "bzz bzz"
+      ],
+      "meaning": "a series of electrical buzzing sounds",
+      "example": [{
+        "file": "tsu_tsu-1a",
+        "contributor": "",
+        "display": "つつ",
+        "source": "35_year_olds_choice"
+      }]
+    }],
+    "literal": "tsu tsu"
   },
   {
     "hiragana": [
@@ -22890,6 +23155,25 @@
       ]
     }],
     "literal": "yura"
+  },
+  {
+    "hiragana": ["ゆさゆさ"],
+    "katakana": ["ユサユサ"],
+    "definition": [{
+      "equivalent": [
+        "move move",
+        "push push",
+        "shake shake"
+      ],
+      "meaning": "an indication of moving something to and fro",
+      "example": [{
+        "file": "yusa_yusa-1a",
+        "contributor": "",
+        "display": "ゆさ  ゆさ",
+        "source": "35_year_olds_choice"
+      }]
+    }],
+    "literal": "yusa yusa"
   },
   {
     "hiragana": [

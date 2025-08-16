@@ -1,10 +1,12 @@
 {
   "literal": "purun",
   "katakana": [
-    "プルン"
+    "プルン",
+    "プルンッ"
   ],
   "hiragana": [
-    "ぷるん"
+    "ぷるん",
+    "ぷるんっ"
   ],
   "definition": [
     {
@@ -34,6 +36,12 @@
           "source": "rise_of_the_outlaw_tamer",
           "file": "purun-1c",
           "display": "ぷるん",
+          "contributor": ""
+        },
+        {
+          "source": "35_year_olds_choice",
+          "file": "purun-1d",
+          "display": "ぷるんっ",
           "contributor": ""
         }
       ]

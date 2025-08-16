@@ -30,12 +30,12 @@
         "hit hit",
         "impact",
         "knock knock",
-        "pound",
+        "pound pound",
         "punch punch",
         "slam slam",
         "strike strike",
         "thud thud",
-        "thunk",
+        "thunk thunk",
         "wham wham"
       ],
       "example": [
@@ -114,10 +114,10 @@
     {
       "meaning": "the sound of a loud or high-performance engine",
       "equivalent": [
-        "vroom vroom",
+        "accelerate",
         "race race",
         "speed",
-        "accelerate"
+        "vroom vroom"
       ],
       "example": [
         {

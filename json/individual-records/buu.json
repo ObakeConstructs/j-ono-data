@@ -1,0 +1,37 @@
+{
+  "literal": "buu",
+  "katakana": [
+    "ブゥ",
+    "ブゥゥ",
+    "ブゥゥゥ",
+    "ブウ",
+    "ブウウ",
+    "ブウウウ"
+  ],
+  "hiragana": [
+    "ぶぅ",
+    "ぶぅぅ",
+    "ぶぅぅぅ",
+    "ぶう",
+    "ぶうう",
+    "ぶううう"
+  ],
+  "definition": [
+    {
+      "meaning": "the low rumble car engine, as idling",
+      "equivalent": [
+        "vrrm",
+        "rumble",
+        "idle"
+      ],
+      "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "buu-1a",
+          "display": "ブゥゥゥゥ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

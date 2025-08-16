@@ -2,11 +2,13 @@
   "literal": "garu",
   "katakana": [
     "ガル",
-    "ガルル"
+    "ガルル",
+    "ガルルル"
   ],
   "hiragana": [
     "がる",
-    "がるる"
+    "がるる",
+    "がるるる"
   ],
   "definition": [
     {
@@ -28,6 +30,12 @@
           "source": "my_s-ranked_daughter",
           "file": "garu-1b",
           "display": "がるるる",
+          "contributor": ""
+        },
+        {
+          "source": "35_year_olds_choice",
+          "file": "garu-1c",
+          "display": "ガルル",
           "contributor": ""
         }
       ]
