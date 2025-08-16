@@ -3633,35 +3633,6 @@
   },
   {
     "hiragana": [
-      "だだ",
-      "だだっ"
-    ],
-    "katakana": [
-      "ダダ",
-      "ダダッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "bolt",
-        "charge",
-        "dash",
-        "hurry",
-        "run",
-        "rush",
-        "sprint"
-      ],
-      "meaning": "to run or start running",
-      "example": [{
-        "file": "dada-1a",
-        "contributor": "",
-        "display": "ダダッ",
-        "source": "world_full_of_monsters"
-      }]
-    }],
-    "literal": "dada"
-  },
-  {
-    "hiragana": [
       "だき",
       "だきっ"
     ],
@@ -3811,32 +3782,53 @@
   },
   {
     "hiragana": [
-      "だ",
       "だだ",
-      "だだだ"
+      "だだっ",
+      "だっだっ",
+      "だっだっだっ"
     ],
     "katakana": [
-      "ダ",
       "ダダ",
-      "ダダダ"
+      "ダダッ",
+      "ダッダッ",
+      "ダッダッダッ"
     ],
     "definition": [{
       "equivalent": [
+        "bang bang",
+        "boom boom",
         "click click",
-        "clickety click",
-        "tacka tack",
+        "clickity click",
+        "step step",
+        "stomp stomp",
         "tap tap",
-        "ticka tick"
+        "thump pthump",
+        "ticka tick",
+        "wham wham"
       ],
-      "meaning": "the rythmic sound of typing on a modern keyboard",
-      "example": [{
-        "file": "da_da-1a",
-        "contributor": "",
-        "display": "ダ  ダ  ダ  ダ  ダ  ダ",
-        "source": "saga_lagging_hero"
-      }]
+      "meaning": "rythmic percussive sounds, like running, typing, or even gunfire",
+      "example": [
+        {
+          "file": "da_da-1a",
+          "contributor": "",
+          "display": "ダダッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "da_da-1b",
+          "contributor": "",
+          "display": "ダ  ダ  ダ  ダ  ダ  ダ",
+          "source": "saga_lagging_hero"
+        },
+        {
+          "file": "da_da-1c",
+          "contributor": "",
+          "display": "ダッ  ダッ  ダッ",
+          "source": "kaijuu_sdf"
+        }
+      ]
     }],
-    "literal": "da da"
+    "literal": "da_da"
   },
   {
     "hiragana": [

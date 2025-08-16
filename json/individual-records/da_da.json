@@ -1,30 +1,49 @@
 {
-  "literal": "da da",
+  "literal": "da_da",
   "katakana": [
-    "ダ",
     "ダダ",
-    "ダダダ"
+    "ダダッ",
+    "ダッダッ",
+    "ダッダッダッ"
   ],
   "hiragana": [
-    "だ",
     "だだ",
-    "だだだ"
+    "だだっ",
+    "だっだっ",
+    "だっだっだっ"
   ],
   "definition": [
     {
-      "meaning": "the rythmic sound of typing on a modern keyboard",
+      "meaning": "rythmic percussive sounds, like running, typing, or even gunfire",
       "equivalent": [
-        "click click",
-        "clickety click",
-        "tacka tack",
         "tap tap",
-        "ticka tick"
+        "click click",
+        "thump pthump",
+        "boom boom",
+        "step step",
+        "bang bang",
+        "ticka tick",
+        "clickity click",
+        "stomp stomp",
+        "wham wham"
       ],
       "example": [
         {
-          "source": "saga_lagging_hero",
+          "source": "world_full_of_monsters",
           "file": "da_da-1a",
+          "display": "ダダッ",
+          "contributor": ""
+        },
+        {
+          "source": "saga_lagging_hero",
+          "file": "da_da-1b",
           "display": "ダ  ダ  ダ  ダ  ダ  ダ",
+          "contributor": ""
+        },
+        {
+          "source": "kaijuu_sdf",
+          "file": "da_da-1c",
+          "display": "ダッ  ダッ  ダッ",
           "contributor": ""
         }
       ]
