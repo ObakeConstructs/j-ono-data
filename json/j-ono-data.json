@@ -126,7 +126,7 @@
           "source": "drawing"
         },
         {
-          "file": "amu-2a",
+          "file": "amu-1b",
           "contributor": "",
           "display": "あむっ♡",
           "source": "gyaru_academy"
@@ -5131,7 +5131,7 @@
         ],
         "meaning": "a vocalized sound expressing surprise or concern",
         "example": [{
-          "file": "e-1b",
+          "file": "e-2a",
           "contributor": "",
           "display": "えっ!?",
           "source": "eternal_fool_asley"
@@ -5407,19 +5407,19 @@
         "meaning": "the sound of exhaling, often us as an expresison of exertion",
         "example": [
           {
-            "file": "fu-5a",
+            "file": "fu-4a",
             "contributor": "",
             "display": "ふぅ",
             "source": "different_world_smartphone"
           },
           {
-            "file": "fu-5b",
+            "file": "fu-4b",
             "contributor": "",
             "display": "ふぅっ",
             "source": "spy_x_family"
           },
           {
-            "file": "fu-5c",
+            "file": "fu-4c",
             "contributor": "",
             "display": "ふぅ",
             "source": "fushi_no_kami"
@@ -11409,6 +11409,41 @@
     "definition": [
       {
         "equivalent": [
+          "blush",
+          "flush",
+          "flustered",
+          "redden"
+        ],
+        "meaning": "an expression of blushing, as from excitement or embarrassment",
+        "example": [
+          {
+            "file": "ka-1a",
+            "contributor": "",
+            "display": "かー",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "ka-1b",
+            "contributor": "",
+            "display": "かぁぁ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "ka-1c",
+            "contributor": "",
+            "display": "カーッ",
+            "source": "isekai_territory_reform"
+          },
+          {
+            "file": "ka-1d",
+            "contributor": "",
+            "display": "カッ",
+            "source": "world_full_of_monsters"
+          }
+        ]
+      },
+      {
+        "equivalent": [
           "bright",
           "brighten",
           "glow",
@@ -11453,41 +11488,6 @@
             "contributor": "",
             "display": "カッ",
             "source": "human_ranch"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "blush",
-          "flush",
-          "flustered",
-          "redden"
-        ],
-        "meaning": "an expression of blushing, as from excitement or embarrassment",
-        "example": [
-          {
-            "file": "ka-4a",
-            "contributor": "",
-            "display": "かー",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "ka-4b",
-            "contributor": "",
-            "display": "かぁぁ",
-            "source": "otherworld_material_collector"
-          },
-          {
-            "file": "ka-4c",
-            "contributor": "",
-            "display": "カーッ",
-            "source": "isekai_territory_reform"
-          },
-          {
-            "file": "ka-4d",
-            "contributor": "",
-            "display": "カッ",
-            "source": "world_full_of_monsters"
           }
         ]
       }
@@ -13222,7 +13222,7 @@
         ],
         "meaning": "an indication of pulling or tugging on something",
         "example": [{
-          "file": "kui-1b",
+          "file": "kui-2a",
           "contributor": "",
           "display": "くぃ..",
           "source": "embarrassing_and_sweet"
@@ -22349,7 +22349,7 @@
       ],
       "meaning": "an exclamation sound, often extended, expressing a range of emotions, as in relief, embarrassment, or surprise",
       "example": [{
-        "file": "u-a1",
+        "file": "ua-1a",
         "contributor": "",
         "display": "うぁぁぁ",
         "source": "different_world_smartphone"

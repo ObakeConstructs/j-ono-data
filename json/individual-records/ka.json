@@ -22,6 +22,41 @@
   ],
   "definition": [
     {
+      "meaning": "an expression of blushing, as from excitement or embarrassment",
+      "equivalent": [
+        "blush",
+        "flush",
+        "flustered",
+        "redden"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "ka-1a",
+          "display": "かー",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "ka-1b",
+          "display": "かぁぁ",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_territory_reform",
+          "file": "ka-1c",
+          "display": "カーッ",
+          "contributor": ""
+        },
+        {
+          "source": "world_full_of_monsters",
+          "file": "ka-1d",
+          "display": "カッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
       "meaning": "to brighten or shine suddenly",
       "equivalent": [
         "bright",
@@ -65,41 +100,6 @@
         {
           "source": "human_ranch",
           "file": "ka-3b",
-          "display": "カッ",
-          "contributor": ""
-        }
-      ]
-    },
-    {
-      "meaning": "an expression of blushing, as from excitement or embarrassment",
-      "equivalent": [
-        "blush",
-        "flush",
-        "flustered",
-        "redden"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "ka-4a",
-          "display": "かー",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "ka-4b",
-          "display": "かぁぁ",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_territory_reform",
-          "file": "ka-4c",
-          "display": "カーッ",
-          "contributor": ""
-        },
-        {
-          "source": "world_full_of_monsters",
-          "file": "ka-4d",
           "display": "カッ",
           "contributor": ""
         }
