@@ -1,21 +1,29 @@
 {
-  "hiragana": ["ばしゃばしゃ"],
-  "katakana": ["バシャバシャ"],
-  "definition": [{
-    "equivalent": [
-      "slosh slosh",
-      "sop sop",
-      "splash splash",
-      "swash swash",
-      "wash wash"
-    ],
-    "meaning": "to splash water onto something, often used for cleaning or washing",
-    "example": [{
-      "file": "basha_basha-1a",
-      "contributor": "",
-      "display": "バシャ  バシャ",
-      "source": "reincarnated_sage_daughters"
-    }]
-  }],
-  "literal": "basha basha"
+  "literal": "basha basha",
+  "katakana": [
+    "バシャバシャ"
+  ],
+  "hiragana": [
+    "ばしゃばしゃ"
+  ],
+  "definition": [
+    {
+      "meaning": "sounds of water splashing",
+      "equivalent": [
+        "slosh slosh",
+        "sop sop",
+        "splash splash",
+        "swash swash",
+        "wash wash"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_sage_daughters",
+          "file": "basha_basha-1a",
+          "display": "バシャ  バシャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

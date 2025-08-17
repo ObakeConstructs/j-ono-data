@@ -1,26 +1,30 @@
 {
-  "hiragana": [
-    "ばきん",
-    "ばきんっ"
-  ],
+  "literal": "bakin",
   "katakana": [
     "バキン",
     "バキンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "crack",
-      "crash",
-      "shatter",
-      "smash"
-    ],
-    "meaning": "the sound of something suddenly falling apart or breaking into pieces",
-    "example": [{
-      "file": "bakin-1a",
-      "contributor": "",
-      "display": "バキンッ",
-      "source": "abandoned_reincarnation_sage"
-    }]
-  }],
-  "literal": "bakin"
+  "hiragana": [
+    "ばきん",
+    "ばきんっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a sound of something suddenly falling apart or breaking into pieces",
+      "equivalent": [
+        "crack",
+        "crash",
+        "shatter",
+        "smash"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "bakin-1a",
+          "display": "バキンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

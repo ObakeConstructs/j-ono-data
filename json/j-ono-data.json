@@ -45,7 +45,7 @@
         "laughter",
         "snicker"
       ],
-      "meaning": "the sound of loud laughter",
+      "meaning": "a sound of loud laughter",
       "example": [
         {
           "file": "ahaha-1a",
@@ -79,7 +79,7 @@
         "moan",
         "sigh"
       ],
-      "meaning": "a moan of pleasure, often used in a comical manner",
+      "meaning": "a sound of moaning, often used in a comical manner to express pleasure or desire",
       "example": [
         {
           "file": "ahan-1a",
@@ -151,7 +151,7 @@
         "mah",
         "wah"
       ],
-      "meaning": "a wide-open mouth, as preparing to eat something",
+      "meaning": "an indication or sound of a wide-open mouth, as preparing to eat something",
       "example": [{
         "file": "an-1a",
         "contributor": "",
@@ -237,7 +237,7 @@
           "turn",
           "whirl"
         ],
-        "meaning": "the act of turning around suddenly",
+        "meaning": "an indication of turning around suddenly",
         "example": [
           {
             "file": "ba-1a",
@@ -271,7 +271,7 @@
           "whoom",
           "zip"
         ],
-        "meaning": "a sudden and/or fast movement",
+        "meaning": "an indication of a sudden and/or fast movement",
         "example": [
           {
             "file": "ba-2a",
@@ -315,7 +315,7 @@
           "whap",
           "whomp"
         ],
-        "meaning": "a sudden and loud impact",
+        "meaning": "a sound of a sudden and loud impact",
         "example": [{
           "file": "ba-3a",
           "contributor": "",
@@ -331,7 +331,7 @@
           "ta-da",
           "unveil"
         ],
-        "meaning": "to reveal or show something suddenly",
+        "meaning": "an indication of revealing or showing something suddenly",
         "example": [
           {
             "file": "ba-4a",
@@ -421,7 +421,7 @@
           "crackle",
           "jolt"
         ],
-        "meaning": "the sound of an electrical discharge",
+        "meaning": "a sound of an electrical discharge",
         "example": [{
           "file": "bachi-1a",
           "contributor": "",
@@ -461,7 +461,7 @@
         "whack",
         "whap"
       ],
-      "meaning": "a sharp and clear tapping or slapping sound",
+      "meaning": "a sound of tapping or slapping",
       "example": [{
         "file": "bachin-1a",
         "contributor": "",
@@ -488,7 +488,7 @@
         "shatter",
         "smash"
       ],
-      "meaning": "a loud and dramatic impact or crash",
+      "meaning": "a sound of an impact or crash",
       "example": [{
         "file": "baga-1a",
         "contributor": "",
@@ -550,7 +550,7 @@
         "shatter",
         "smash"
       ],
-      "meaning": "the sound of something suddenly falling apart or breaking into pieces",
+      "meaning": "a sound of something suddenly falling apart or breaking into pieces",
       "example": [{
         "file": "bakin-1a",
         "contributor": "",
@@ -570,7 +570,7 @@
         "shatter shatter",
         "smash smash"
       ],
-      "meaning": "a series of cracking or breaking sounds",
+      "meaning": "sounds of cracking or breaking",
       "example": [{
         "file": "baki_baki-1a",
         "contributor": "",
@@ -590,7 +590,7 @@
         "nom nom",
         "snarf snarf"
       ],
-      "meaning": "to eat wildly, expressing hunger or enthusiasm",
+      "meaning": "an indication or sound of eating wildly, expressing hunger or enthusiasm",
       "example": [{
         "file": "baku_baku-1a",
         "contributor": "",
@@ -668,7 +668,7 @@
           "ta-da",
           "wow"
         ],
-        "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
+        "meaning": "an indication of something amazing or surprising, often shown in a dramatic fashion",
         "example": [
           {
             "file": "ban-2a",
@@ -702,7 +702,7 @@
         "crumble",
         "fall apart"
       ],
-      "meaning": "to crumble or fall apart",
+      "meaning": "an indication or sound of something crumbling or falling apart",
       "example": [{
         "file": "bara_bara-1a",
         "contributor": "",
@@ -727,7 +727,7 @@
         "rip",
         "tear"
       ],
-      "meaning": "sound of paper tearing or ripping",
+      "meaning": "a sound of paper tearing or ripping",
       "example": [{
         "file": "barin-1a",
         "contributor": "",
@@ -758,7 +758,7 @@
           "rustle",
           "swish"
         ],
-        "meaning": "soft sounds of cloth or paper movement",
+        "meaning": "a soft sound of cloth or paper movement",
         "example": [
           {
             "file": "basa-1a",
@@ -805,7 +805,7 @@
           "ta-da",
           "unveil"
         ],
-        "meaning": "to suddenly appear, as in a dramatic reveal",
+        "meaning": "an indication of appearing suddenly, as in a dramatic reveal",
         "example": [{
           "file": "basa-2a",
           "contributor": "",
@@ -825,50 +825,39 @@
       "バサバサ",
       "バサッバサッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "flap flap",
-          "flit flit",
-          "flutter flutter",
-          "rustle rustle",
-          "swish swish"
-        ],
-        "meaning": "soft sounds of cloth or paper movement",
-        "example": [
-          {
-            "file": "basa_basa-1a",
-            "contributor": "",
-            "display": "ばさ  ばさ",
-            "source": "hanako_24th_ward"
-          },
-          {
-            "file": "basa_basa-1b",
-            "contributor": "",
-            "display": "バサッ  バサッ",
-            "source": "otherworld_material_collector"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "flap flap",
-          "rumble rumble",
-          "swoosh swoosh",
-          "thud thud",
-          "thump thump",
-          "whoosh whoosh",
-          "whumph whumph"
-        ],
-        "meaning": "a series of heavy thudding or swooping sound",
-        "example": [{
+    "definition": [{
+      "equivalent": [
+        "flap flap",
+        "flit flit",
+        "flutter flutter",
+        "rustle rustle",
+        "swish swish",
+        "swoosh swoosh",
+        "whoosh whoosh",
+        "whump whump"
+      ],
+      "meaning": "rustling sounds of something moving through air",
+      "example": [
+        {
+          "file": "basa_basa-1a",
+          "contributor": "",
+          "display": "ばさ  ばさ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "basa_basa-1b",
+          "contributor": "",
+          "display": "バサッ  バサッ",
+          "source": "otherworld_material_collector"
+        },
+        {
           "file": "basa_basa-2a",
           "contributor": "",
           "display": "バサ  バサ  バサ",
           "source": "my_s-ranked_daughter"
-        }]
-      }
-    ],
+        }
+      ]
+    }],
     "literal": "basa basa"
   },
   {
@@ -891,7 +880,7 @@
         "spout",
         "swash"
       ],
-      "meaning": "a medium to large splashing noise",
+      "meaning": "a sound of a medium to large splash",
       "example": [
         {
           "file": "basha-1a",
@@ -929,7 +918,7 @@
         "spout",
         "swash"
       ],
-      "meaning": "a medium to large splashing noise",
+      "meaning": "a sound of a medium to large splash",
       "example": [{
         "file": "bashan-1a",
         "contributor": "",
@@ -950,7 +939,7 @@
         "swash swash",
         "wash wash"
       ],
-      "meaning": "to splash water onto something, often used for cleaning or washing",
+      "meaning": "sounds of water splashing",
       "example": [{
         "file": "basha_basha-1a",
         "contributor": "",
@@ -985,7 +974,7 @@
         "whap",
         "whomp"
       ],
-      "meaning": "a sudden and loud impact",
+      "meaning": "a sound of a sudden or loud impact",
       "example": [
         {
           "file": "bashi-1a",
@@ -1050,7 +1039,7 @@
         "thud",
         "thwack"
       ],
-      "meaning": "The sound of a rattling impact, as from a door or window opening or closing",
+      "meaning": "a sound of a rattling impact, as from a door or window opening or closing",
       "example": [
         {
           "file": "batan-1a",
@@ -1079,7 +1068,7 @@
         "step step",
         "thump thump"
       ],
-      "meaning": "the sound of shoes stepping across the floor",
+      "meaning": "a sound of shoes stepping across the floor",
       "example": [{
         "file": "bata_bata-1a",
         "contributor": "",
@@ -1104,7 +1093,7 @@
         "nya",
         "pbbbt"
       ],
-      "meaning": "the sound or act of sticking out a tongue, often as an expression of disdain or disrespect",
+      "meaning": "an indication or sound of sticking out one's tongue, often as an expression of disdain or disrespect",
       "example": [{
         "file": "be-1a",
         "contributor": "",
@@ -1124,7 +1113,7 @@
         "strip off",
         "tear tear"
       ],
-      "meaning": "the sound or action of stripping off the outer layer of something",
+      "meaning": "an indication or sound peeling or tearing something away",
       "example": [{
         "file": "beri_beri-1a",
         "contributor": "",
@@ -1145,7 +1134,7 @@
         "slosh",
         "slurp"
       ],
-      "meaning": "the loud sound of a licking tongue",
+      "meaning": "a sound of a licking tongue",
       "example": [{
         "file": "beron-1a",
         "contributor": "",
@@ -1176,7 +1165,7 @@
         "sticky",
         "tacky"
       ],
-      "meaning": "an indication of something that tends to stick to something else",
+      "meaning": "an indication of something sticky or gummy",
       "example": [{
         "file": "beta-1a",
         "contributor": "",
@@ -1216,7 +1205,7 @@
           "thwack",
           "wallop"
         ],
-        "meaning": "a short, sharp fighting sound",
+        "meaning": "a sound of a quick strike",
         "example": [
           {
             "file": "bi-1a",
@@ -1239,7 +1228,7 @@
           "fwip",
           "snap"
         ],
-        "meaning": "a short, sharp gesture, often unexpected",
+        "meaning": "an indication of a quick gesture",
         "example": [{
           "file": "bi-2a",
           "contributor": "",
@@ -1274,7 +1263,7 @@
         "spray",
         "squirt"
       ],
-      "meaning": "a splashing or splattering sound",
+      "meaning": "a sound of splashing or splattering",
       "example": [{
         "file": "bicha-1a",
         "contributor": "",
@@ -1350,7 +1339,7 @@
           "shudder",
           "tremble"
         ],
-        "meaning": "a strong indication of shaking or shuddering",
+        "meaning": "an indication of shaking or shuddering",
         "example": [
           {
             "file": "bikun-1a",
@@ -1374,7 +1363,7 @@
           "shudder",
           "startle"
         ],
-        "meaning": "an expression surprise or startlement",
+        "meaning": "an expression of surprise or startlement",
         "example": [
           {
             "file": "bikun-2a",
@@ -1417,7 +1406,7 @@
         "twitch twitch",
         "wince wince"
       ],
-      "meaning": "a series of jerky movements or twitches",
+      "meaning": "indications of jerky movement or twitching",
       "example": [{
         "file": "biku_biku-1a",
         "contributor": "",
@@ -1440,7 +1429,7 @@
         "tremble tremble",
         "tremor tremor"
       ],
-      "meaning": "a series of shakes, twitches, or convulsions",
+      "meaning": "indications of shaking, twitching, or convulsing",
       "example": [{
         "file": "biku_bikun-1a",
         "contributor": "",
@@ -1465,7 +1454,7 @@
         "rip",
         "tear"
       ],
-      "meaning": "sound of paper tearing or ripping",
+      "meaning": "a sound of paper tearing or ripping",
       "example": [{
         "file": "biri-1a",
         "contributor": "Artrix",
@@ -3806,7 +3795,7 @@
         "ticka tick",
         "wham wham"
       ],
-      "meaning": "rythmic percussive sounds, like running, typing, or even gunfire",
+      "meaning": "rythmic sounds, typically short and sharp, like running, typing, or even gunfire",
       "example": [
         {
           "file": "da_da-1a",

@@ -10,13 +10,16 @@
   ],
   "definition": [
     {
-      "meaning": "soft sounds of cloth or paper movement",
+      "meaning": "rustling sounds of something moving through air",
       "equivalent": [
         "flap flap",
         "flit flit",
         "flutter flutter",
         "rustle rustle",
-        "swish swish"
+        "swish swish",
+        "swoosh swoosh",
+        "whoosh whoosh",
+        "whump whump"
       ],
       "example": [
         {
@@ -30,21 +33,7 @@
           "file": "basa_basa-1b",
           "display": "バサッ  バサッ",
           "contributor": ""
-        }
-      ]
-    },
-    {
-      "meaning": "a series of heavy thudding or swooping sound",
-      "equivalent": [
-        "whoosh whoosh",
-        "swoosh swoosh",
-        "flap flap",
-        "thump thump",
-        "rumble rumble",
-        "thud thud",
-        "whumph whumph"
-      ],
-      "example": [
+        },
         {
           "source": "my_s-ranked_daughter",
           "file": "basa_basa-2a",
