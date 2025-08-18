@@ -1,26 +1,33 @@
 {
-  "hiragana": [
-    "ぼわ",
-    "ぼわっ"
-  ],
+  "literal": "bowa",
   "katakana": [
     "ボワ",
     "ボワッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "billow",
-      "bwaa",
-      "surge",
-      "swell"
-    ],
-    "meaning": "to bulge or swell outward, as in flame, smoke, or clouds",
-    "example": [{
-      "file": "bowa-1a",
-      "contributor": "",
-      "display": "ボワッ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "bowa"
+  "hiragana": [
+    "ぼわ",
+    "ぼわっ"
+  ],
+  "definition": [
+    {
+      "meaning": "an indication of something flaring or expanding outward, like flames or smoke",
+      "equivalent": [
+        "billow",
+        "bwaa",
+        "surge",
+        "swell",
+        "foof",
+        "whoosh",
+        "erupt"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "bowa-1a",
+          "display": "ボワッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

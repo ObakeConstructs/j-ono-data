@@ -14,7 +14,7 @@
   ],
   "definition": [
     {
-      "meaning": "a sudden stop of all movement as a reaction",
+      "meaning": "an indication of suddenly stopping as a reaction",
       "equivalent": [
         "freeze",
         "snap",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "meaning": "a light strike with an empty hand or something in hand",
+      "meaning": "a sound of a sudden strike",
       "equivalent": [
         "bop",
         "chop",
@@ -50,7 +50,9 @@
         "swat",
         "thump",
         "thwack",
-        "whap"
+        "whap",
+        "thud",
+        "thunk"
       ],
       "example": [
         {
@@ -64,17 +66,7 @@
           "file": "bishi-2b",
           "display": "ビシーッ",
           "contributor": ""
-        }
-      ]
-    },
-    {
-      "meaning": "the sound of an arrow landing or hitting something",
-      "equivalent": [
-        "thud",
-        "thunk",
-        "thwack"
-      ],
-      "example": [
+        },
         {
           "source": "different_world_smartphone",
           "file": "bishi-3a",
@@ -84,9 +76,11 @@
       ]
     },
     {
-      "meaning": "the act of pointing at something",
+      "meaning": "an indication of suddenly pointing at something",
       "equivalent": [
-        "point"
+        "point",
+        "gesture",
+        "indicate"
       ],
       "example": [
         {

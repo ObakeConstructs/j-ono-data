@@ -10,11 +10,14 @@
   ],
   "definition": [
     {
-      "meaning": "to speak softly and unclearly ",
+      "meaning": "an indication of mumbling or whispering",
       "equivalent": [
         "mumble",
         "murmur",
-        "mutter"
+        "mutter",
+        "quietly",
+        "whisper",
+        " sotto voce"
       ],
       "example": [
         {
@@ -22,16 +25,7 @@
           "file": "boso-1a",
           "display": "ぼそっ",
           "contributor": ""
-        }
-      ]
-    },
-    {
-      "meaning": "to speak softly so as to not be overheard",
-      "equivalent": [
-        "quietly",
-        "whisper"
-      ],
-      "example": [
+        },
         {
           "source": "lord_of_the_hundred_demons",
           "file": "boso-2a",

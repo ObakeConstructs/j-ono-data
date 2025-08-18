@@ -2,24 +2,28 @@
   "literal": "boyon",
   "katakana": [
     "ボョン",
-    "ボョンッ"
+    "ボョンッ",
+    "ボヨン",
+    "ボヨンッ"
   ],
   "hiragana": [
     "ぼょん",
-    "ぼょんっ"
+    "ぼょんっ",
+    "ぼよん",
+    "ぼよんっ"
   ],
   "definition": [
     {
-      "meaning": "the sound of something bouncing",
+      "meaning": "an indication of a bounce",
       "equivalent": [
         "boing",
         "bounce",
         "carom",
+        "jiggle",
         "rebound",
         "ricochet",
-        "wiggle",
-        "jiggle",
-        "squish"
+        "squish",
+        "wiggle"
       ],
       "example": [
         {
@@ -31,7 +35,7 @@
         {
           "source": "isekai_territory_reform",
           "file": "boyon-1b",
-          "display": "ぼょんっ",
+          "display": "ぼよんっ",
           "contributor": ""
         }
       ]

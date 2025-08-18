@@ -1,28 +1,32 @@
 {
-  "hiragana": [
-    "ぼと",
-    "ぼとっ"
-  ],
+  "literal": "boto",
   "katakana": [
     "ボト",
     "ボトッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "drop",
-      "fall",
-      "plop",
-      "plunk",
-      "slip",
-      "topple"
-    ],
-    "meaning": "the sound of something landing after falling",
-    "example": [{
-      "file": "boto-1a",
-      "contributor": "",
-      "display": "ボトッ",
-      "source": "dog_became_strongest"
-    }]
-  }],
-  "literal": "boto"
+  "hiragana": [
+    "ぼと",
+    "ぼとっ"
+  ],
+  "definition": [
+    {
+      "meaning": "a sound of something falling or landing",
+      "equivalent": [
+        "drop",
+        "fall",
+        "plop",
+        "plunk",
+        "slip",
+        "topple"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "boto-1a",
+          "display": "ボトッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -386,7 +386,7 @@
         "sudden",
         "zip"
       ],
-      "meaning": "a sudden and/or fast movement",
+      "meaning": "an indication or sound of sudden or fast movement",
       "example": [
         {
           "file": "baba-1a",
@@ -516,7 +516,7 @@
         "smash",
         "snap"
       ],
-      "meaning": "the sound of something breaking or cracking",
+      "meaning": "a sound of something breaking or cracking",
       "example": [
         {
           "file": "baki-1a",
@@ -1113,7 +1113,7 @@
         "strip off",
         "tear tear"
       ],
-      "meaning": "an indication or sound peeling or tearing something away",
+      "meaning": "an indication or sound of peeling or tearing something away",
       "example": [{
         "file": "beri_beri-1a",
         "contributor": "",
@@ -1507,7 +1507,7 @@
         "splatter",
         "spray"
       ],
-      "meaning": "a small spraying or splashing sound",
+      "meaning": "a small sound of spraying or splashing",
       "example": [{
         "file": "bisha-1a",
         "contributor": "",
@@ -1527,7 +1527,7 @@
         "splatter splatter",
         "spray spray"
       ],
-      "meaning": "a series of spraying or splashing sounds",
+      "meaning": "sounds of spraying or splashing",
       "example": [{
         "file": "bisha_bish-1a",
         "contributor": "",
@@ -1558,7 +1558,7 @@
           "stiffen",
           "straighten"
         ],
-        "meaning": "a sudden stop of all movement as a reaction",
+        "meaning": "an indication of suddenly stopping as a reaction",
         "example": [
           {
             "file": "bishi-1a",
@@ -1585,11 +1585,13 @@
           "smack",
           "spank",
           "swat",
+          "thud",
           "thump",
+          "thunk",
           "thwack",
           "whap"
         ],
-        "meaning": "a light strike with an empty hand or something in hand",
+        "meaning": "a sound of a sudden strike",
         "example": [
           {
             "file": "bishi-2a",
@@ -1602,26 +1604,22 @@
             "contributor": "",
             "display": "ビシーッ",
             "source": "requiem_for_prophet"
+          },
+          {
+            "file": "bishi-3a",
+            "contributor": "",
+            "display": "ビシッ",
+            "source": "different_world_smartphone"
           }
         ]
       },
       {
         "equivalent": [
-          "thud",
-          "thunk",
-          "thwack"
+          "gesture",
+          "indicate",
+          "point"
         ],
-        "meaning": "the sound of an arrow landing or hitting something",
-        "example": [{
-          "file": "bishi-3a",
-          "contributor": "",
-          "display": "ビシッ",
-          "source": "different_world_smartphone"
-        }]
-      },
-      {
-        "equivalent": ["point"],
-        "meaning": "the act of pointing at something",
+        "meaning": "an indication of suddenly pointing at something",
         "example": [{
           "file": "bishi-4a",
           "contributor": "",
@@ -1659,7 +1657,7 @@
         "thunk thunk",
         "wham wham"
       ],
-      "meaning": "a series of sharp or forceful strikes",
+      "meaning": "sounds of sudden or forceful strikes",
       "example": [{
         "file": "bishi_bishi-1a",
         "contributor": "",
@@ -1680,7 +1678,7 @@
         "whish",
         "zipwhiz"
       ],
-      "meaning": "The sound of an arrow being released",
+      "meaning": "a combined sound of snapping and rushing/whipping, as loosing an arrow",
       "example": [{
         "file": "bishu-1a",
         "contributor": "",
@@ -1725,7 +1723,7 @@
           "ignite",
           "torch"
         ],
-        "meaning": "to set on fire or to be on fire",
+        "meaning": "a sound of fire or burning",
         "example": [
           {
             "file": "bo-1a",
@@ -1759,7 +1757,7 @@
           "spacey",
           "vacant"
         ],
-        "meaning": "an indication of a lack of mental energy or a lack of attention",
+        "meaning": "an indication or expression of a lack of energy or attention",
         "example": [{
           "file": "bo-2a",
           "contributor": "",
@@ -1783,7 +1781,7 @@
         "splash",
         "swash"
       ],
-      "meaning": "sound of something landing into water",
+      "meaning": "a sound of something landing into water",
       "example": [{
         "file": "bochan-1a",
         "contributor": "",
@@ -1807,9 +1805,10 @@
         "floof",
         "fwump",
         "ploof",
-        "poof"
+        "poof",
+        "puff"
       ],
-      "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
+      "meaning": "a soft puffing sound",
       "example": [{
         "file": "bofu-1a",
         "contributor": "",
@@ -1824,10 +1823,13 @@
     "katakana": ["ボフン"],
     "definition": [{
       "equivalent": [
+        "floof",
+        "fwump",
+        "ploof",
         "poof",
         "puff"
       ],
-      "meaning": "a soft explosive puffing sound",
+      "meaning": "a soft puffing sound",
       "example": [
         {
           "file": "bofun-1a",
@@ -1862,9 +1864,10 @@
         "boil",
         "bubble",
         "glob",
-        "gob"
+        "gob",
+        "pop"
       ],
-      "meaning": "to form blisters or globules",
+      "meaning": "a sound of boiling or bubbling",
       "example": [{
         "file": "boko-1a",
         "contributor": "",
@@ -1887,7 +1890,7 @@
         "thunk",
         "tok"
       ],
-      "meaning": "the sound of something bouncing off a hard surface",
+      "meaning": "a sound of a sudden impact",
       "example": [{
         "file": "bokon-1a",
         "contributor": "",
@@ -1916,7 +1919,7 @@
         "d-dum",
         "ta-da"
       ],
-      "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
+      "meaning": "an indication of something amazing or surprising, often revealed in a dramatic fashion",
       "example": [{
         "file": "bon-1a",
         "contributor": "Artrix",
@@ -1993,7 +1996,7 @@
         "sob sob",
         "weep weep"
       ],
-      "meaning": "dripping tears as an expression of pain or distress",
+      "meaning": "indications of dripping tears as an expression of pain or distress",
       "example": [
         {
           "file": "boro_boro-1a",
@@ -2026,35 +2029,31 @@
       "ボソ",
       "ボソッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "mumble",
-          "murmur",
-          "mutter"
-        ],
-        "meaning": "to speak softly and unclearly ",
-        "example": [{
+    "definition": [{
+      "equivalent": [
+        " sotto voce",
+        "mumble",
+        "murmur",
+        "mutter",
+        "quietly",
+        "whisper"
+      ],
+      "meaning": "an indication of mumbling or whispering",
+      "example": [
+        {
           "file": "boso-1a",
           "contributor": "",
           "display": "ぼそっ",
           "source": "world_full_of_monsters"
-        }]
-      },
-      {
-        "equivalent": [
-          "quietly",
-          "whisper"
-        ],
-        "meaning": "to speak softly so as to not be overheard",
-        "example": [{
+        },
+        {
           "file": "boso-2a",
           "contributor": "",
           "display": "ぼそっ",
           "source": "lord_of_the_hundred_demons"
-        }]
-      }
-    ],
+        }
+      ]
+    }],
     "literal": "boso"
   },
   {
@@ -2076,7 +2075,7 @@
         "gush",
         "splat"
       ],
-      "meaning": "thes dripping sound of viscous fluid, typically blood",
+      "meaning": "a dripping sound of viscous fluids, typically blood",
       "example": [{
         "file": "bota-1a",
         "contributor": "",
@@ -2104,7 +2103,7 @@
         "slip",
         "topple"
       ],
-      "meaning": "the sound of something landing after falling",
+      "meaning": "a sound of something falling or landing",
       "example": [{
         "file": "boto-1a",
         "contributor": "",
@@ -2130,7 +2129,7 @@
         "poof",
         "whump"
       ],
-      "meaning": "the sound of a soft or muffled explosion",
+      "meaning": "a sound of a soft or muffled explosion",
       "example": [{
         "file": "boun-1a",
         "contributor": "Artrix",
@@ -2153,10 +2152,13 @@
       "equivalent": [
         "billow",
         "bwaa",
+        "erupt",
+        "foof",
         "surge",
-        "swell"
+        "swell",
+        "whoosh"
       ],
-      "meaning": "to bulge or swell outward, as in flame, smoke, or clouds",
+      "meaning": "an indication of something flaring or expanding outward, like flames or smoke",
       "example": [{
         "file": "bowa-1a",
         "contributor": "",
@@ -2169,11 +2171,15 @@
   {
     "hiragana": [
       "ぼょん",
-      "ぼょんっ"
+      "ぼょんっ",
+      "ぼよん",
+      "ぼよんっ"
     ],
     "katakana": [
       "ボョン",
-      "ボョンッ"
+      "ボョンッ",
+      "ボヨン",
+      "ボヨンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -2186,7 +2192,7 @@
         "squish",
         "wiggle"
       ],
-      "meaning": "the sound of something bouncing",
+      "meaning": "an indication of a bounce",
       "example": [
         {
           "file": "boyon-1a",
@@ -2197,7 +2203,7 @@
         {
           "file": "boyon-1b",
           "contributor": "",
-          "display": "ぼょんっ",
+          "display": "ぼよんっ",
           "source": "isekai_territory_reform"
         }
       ]
@@ -2230,7 +2236,7 @@
           "spit out",
           "sploosh"
         ],
-        "meaning": "to spit or otherwise eject something from the mouth",
+        "meaning": "a sound of spitting or spraying something from the mouth",
         "example": [
           {
             "file": "bu-1a",
@@ -2251,7 +2257,7 @@
           "blurg",
           "erp"
         ],
-        "meaning": "the sound of restraint from spitting or ejecting something from the mouth",
+        "meaning": "a sound of restraint from spitting or spraying something from the mouth",
         "example": [{
           "file": "bu-2a",
           "contributor": "",
@@ -2281,7 +2287,7 @@
           "snap",
           "split"
         ],
-        "meaning": "the sound of something suddenly breaking, ",
+        "meaning": "a sound of something snapping or breaking, ",
         "example": [{
           "file": "buchi-1a",
           "contributor": "",
@@ -2325,7 +2331,7 @@
         "snicker",
         "snort"
       ],
-      "meaning": "sound of suppressed laughter",
+      "meaning": "a sound of suppressed laughter",
       "example": [
         {
           "file": "bufu-1a",
@@ -2353,7 +2359,7 @@
         "saggy",
         "too big"
       ],
-      "meaning": "ill-fitted or baggy clothes",
+      "meaning": "an indication of ill-fitted or baggy clothes",
       "example": [{
         "file": "buka-1a",
         "contributor": "",
@@ -2372,7 +2378,7 @@
         "bop bop",
         "bubble bubble"
       ],
-      "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
+      "meaning": "sounds of boiling or bubbling",
       "example": [
         {
           "file": "buku_buku-1a",
@@ -2408,7 +2414,7 @@
           "zip",
           "zoom"
         ],
-        "meaning": "an indication of something swung quickly and often violently",
+        "meaning": "an indication of swinging something  quickly and often violently",
         "example": [
           {
             "file": "bun-1a",
@@ -2438,7 +2444,7 @@
           "tremble",
           "wobble"
         ],
-        "meaning": "an irregular or violent movement",
+        "meaning": "an indication of irregular or violent movement",
         "example": [{
           "file": "bun-2a",
           "contributor": "",
@@ -2466,7 +2472,7 @@
         "swish swish",
         "wave wave"
       ],
-      "meaning": "a quick movement from side to side or up and down",
+      "meaning": "indications of waving or shaking to and fro",
       "example": [
         {
           "file": "bun_bun-1a",
@@ -2571,8 +2577,11 @@
       "ブロロロ"
     ],
     "definition": [{
-      "equivalent": ["vroom"],
-      "meaning": "the sound of an automobile engine",
+      "equivalent": [
+        "rev",
+        "vroom"
+      ],
+      "meaning": "a sound of a car moving or an engine at work",
       "example": [
         {
           "file": "buro-1a",
@@ -2616,7 +2625,7 @@
         "shudder",
         "tremble"
       ],
-      "meaning": "shaking involuntarily, as from fear, cold, or excitement",
+      "meaning": "an indication of involuntary shaking, as from fear, cold, or excitement",
       "example": [
         {
           "file": "buru-1a",
@@ -2651,7 +2660,7 @@
         "quiver quiver",
         "shake shake"
       ],
-      "meaning": "an indication of bouncing or shaking",
+      "meaning": "indications of bouncing or shaking",
       "example": [
         {
           "file": "burun_burun-1a",
@@ -2685,7 +2694,7 @@
         "shudder",
         "tremble"
       ],
-      "meaning": "shaking involuntarily, as from fear or cold",
+      "meaning": "indications of involuntary shaking, as from fear, cold, or excitement",
       "example": [
         {
           "file": "buru_buru-1a",
@@ -2715,9 +2724,13 @@
     "definition": [{
       "equivalent": [
         "cut",
-        "slice"
+        "nick",
+        "prick",
+        "slice",
+        "snap",
+        "snip"
       ],
-      "meaning": "a smallish, shallow cut",
+      "meaning": "a sound of a quick cut, piercing, or break",
       "example": [{
         "file": "butsu-1a",
         "contributor": "",
@@ -2732,11 +2745,12 @@
     "katakana": ["ブツブツ"],
     "definition": [{
       "equivalent": [
+        "grumble",
         "mumble",
         "murmur",
         "mutter"
       ],
-      "meaning": "to mumble quietly, typically expressing unhappiness or dissatisfaction",
+      "meaning": "an indication of mumbling or grumbling",
       "example": [{
         "file": "butsu_butsu-1a",
         "contributor": "",
@@ -2769,7 +2783,7 @@
         "rumble",
         "vrrm"
       ],
-      "meaning": "the low rumble car engine, as idling",
+      "meaning": "a low rumbling sound of a car engine at idle",
       "example": [{
         "file": "buu-1a",
         "contributor": "",
@@ -2795,7 +2809,7 @@
           "boom",
           "ka-boom"
         ],
-        "meaning": "a loud explosion or explosive force",
+        "meaning": "a sound of a loud explosion or explosive force",
         "example": [
           {
             "file": "buwa-1a",
@@ -2819,7 +2833,7 @@
           "takeoff",
           "woosh"
         ],
-        "meaning": "something large or heavy rising or taking flight",
+        "meaning": "an indication or sound of something large or heavy rising or taking flight",
         "example": [{
           "file": "buwa-2a",
           "contributor": "",
@@ -2848,7 +2862,7 @@
         "boop boop",
         "buzz buzz"
       ],
-      "meaning": "a low-pitched beeping or buzzing sound",
+      "meaning": "a low-pitched sound beeping or buzzing",
       "example": [{
         "file": "bu_bu-1a",
         "contributor": "",
@@ -2884,7 +2898,7 @@
           "whoosh",
           "wind"
         ],
-        "meaning": "the sound of wind or blowing air",
+        "meaning": "a sound of wind or blowing air",
         "example": [
           {
             "file": "byu-1a",
@@ -2910,7 +2924,7 @@
           "zip",
           "zoom"
         ],
-        "meaning": "the sound of someone or something moving very quickly",
+        "meaning": "a sound of someone or something moving very quickly",
         "example": [{
           "file": "byu-2a",
           "contributor": "",
@@ -2942,7 +2956,7 @@
         "zip",
         "zoom"
       ],
-      "meaning": "the sound of someone or something moving very quickly",
+      "meaning": "a sound of someone or something moving very quickly",
       "example": [
         {
           "file": "byun-1a",
