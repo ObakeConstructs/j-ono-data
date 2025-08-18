@@ -1,28 +1,21 @@
 {
-  "literal": "kyodo kyodo",
-  "katakana": [
-    "キョドキョド"
-  ],
-  "hiragana": [
-    "きょどきょど"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of jerky or restless movements",
-      "equivalent": [
-        "twitch twitch",
-        "fidget fidget",
-        "flit flit",
-        "pace pace"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_as_a_dragon_egg",
-          "file": "kyodo_kyodo-1a",
-          "display": "キョド  キョド",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["きょどきょど"],
+  "katakana": ["キョドキョド"],
+  "definition": [{
+    "equivalent": [
+      "twitch twitch",
+      "fidget fidget",
+      "flit flit",
+      "pace pace"
+    ],
+    "meaning": "a series of jerky or restless movements",
+    "id": "kyodo_kyodo-1",
+    "example": [{
+      "file": "kyodo_kyodo-1a",
+      "contributor": "",
+      "display": "キョド  キョド",
+      "source": "reincarnated_as_a_dragon_egg"
+    }]
+  }],
+  "literal": "kyodo kyodo"
 }

@@ -1,28 +1,21 @@
 {
-  "literal": "tatan tatan",
-  "katakana": [
-    "タタンタタン"
-  ],
-  "hiragana": [
-    "たたんたたん"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of a train moving rapidly on its tracks",
-      "equivalent": [
-        "cla-clack cla-clack",
-        "clatter clatter",
-        "rattle rattle",
-        "ta-ta ta-ta"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "tatan_tatan-1a",
-          "display": "タタン  タタン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["たたんたたん"],
+  "katakana": ["タタンタタン"],
+  "definition": [{
+    "equivalent": [
+      "cla-clack cla-clack",
+      "clatter clatter",
+      "rattle rattle",
+      "ta-ta ta-ta"
+    ],
+    "meaning": "the sound of a train moving rapidly on its tracks",
+    "id": "tatan_tatan-1",
+    "example": [{
+      "file": "tatan_tatan-1a",
+      "contributor": "",
+      "display": "タタン  タタン",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "tatan tatan"
 }

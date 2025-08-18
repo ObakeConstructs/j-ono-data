@@ -1,16 +1,14 @@
 {
-  "literal": "zusha",
-  "katakana": [
-    "ズシャ",
-    "ズシャッ"
-  ],
   "hiragana": [
     "ずしゃ",
     "ずしゃっ"
   ],
+  "katakana": [
+    "ズシャ",
+    "ズシャッ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of a heavy or substantial impact",
       "equivalent": [
         "bam",
         "crash",
@@ -21,17 +19,16 @@
         "thump",
         "whomp"
       ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "zusha-1a",
-          "display": "ズシャ!",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of a heavy or substantial impact",
+      "id": "zusha-1",
+      "example": [{
+        "file": "zusha-1a",
+        "contributor": "",
+        "display": "ズシャ!",
+        "source": "hanako_24th_ward"
+      }]
     },
     {
-      "meaning": "an imposing or heavy presence",
       "equivalent": [
         "fierce",
         "grim",
@@ -41,14 +38,15 @@
         "portly",
         "threatening"
       ],
-      "example": [
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "zusha-2a",
-          "display": "ズシャッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an imposing or heavy presence",
+      "id": "zusha-2",
+      "example": [{
+        "file": "zusha-2a",
+        "contributor": "",
+        "display": "ズシャッ",
+        "source": "killed_by_gods_mistake"
+      }]
     }
-  ]
+  ],
+  "literal": "zusha"
 }

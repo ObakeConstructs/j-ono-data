@@ -1,28 +1,21 @@
 {
-  "literal": "muta muta",
-  "katakana": [
-    "ムタムタ"
-  ],
-  "hiragana": [
-    "むたむた"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of pokes or jabs with a finger",
-      "equivalent": [
-        "poke poke",
-        "prod prod",
-        "jab jab",
-        "nudge nudge"
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "muta_muta-1a",
-          "display": "むた  むた  むた  むた  むた",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["むたむた"],
+  "katakana": ["ムタムタ"],
+  "definition": [{
+    "equivalent": [
+      "poke poke",
+      "prod prod",
+      "jab jab",
+      "nudge nudge"
+    ],
+    "meaning": "a series of pokes or jabs with a finger",
+    "id": "muta_muta-1",
+    "example": [{
+      "file": "muta_muta-1a",
+      "contributor": "",
+      "display": "むた  むた  むた  むた  むた",
+      "source": "isekai_territory_reform"
+    }]
+  }],
+  "literal": "muta muta"
 }

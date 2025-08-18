@@ -1,35 +1,32 @@
 {
-  "literal": "sowa sowa",
-  "katakana": [
-    "ソワソワ",
-    "ソヮソヮ"
-  ],
   "hiragana": [
     "そわそわ",
     "そゎそゎ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of jerky or restless movements",
-      "equivalent": [
-        "fidget fidget",
-        "flutter flutter",
-        "jerk jerk",
-        "shake shake",
-        "shiver shiver",
-        "squirm squirm",
-        "twitch twitch",
-        "wiggle wiggle",
-        "wriggle wriggle"
-      ],
-      "example": [
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "sowa_sowa-1a",
-          "display": "そわ  そわ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ソワソワ",
+    "ソヮソヮ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fidget fidget",
+      "flutter flutter",
+      "jerk jerk",
+      "shake shake",
+      "shiver shiver",
+      "squirm squirm",
+      "twitch twitch",
+      "wiggle wiggle",
+      "wriggle wriggle"
+    ],
+    "meaning": "an indication of jerky or restless movements",
+    "id": "sowa_sowa-1",
+    "example": [{
+      "file": "sowa_sowa-1a",
+      "contributor": "",
+      "display": "そわ  そわ",
+      "source": "embarrassing_and_sweet"
+    }]
+  }],
+  "literal": "sowa sowa"
 }

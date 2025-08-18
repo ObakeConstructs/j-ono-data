@@ -1,26 +1,19 @@
 {
-  "literal": "goun goun",
-  "katakana": [
-    "ゴウンゴウン"
-  ],
-  "hiragana": [
-    "ごうんごうん"
-  ],
-  "definition": [
-    {
-      "meaning": "The repeated rumbling sound of heavy machinery",
-      "equivalent": [
-        "rumble",
-        "grumble"
-      ],
-      "example": [
-        {
-          "source": "isekai_av_filming",
-          "file": "goun_goun-1a",
-          "display": "ゴウン  ゴウン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ごうんごうん"],
+  "katakana": ["ゴウンゴウン"],
+  "definition": [{
+    "equivalent": [
+      "rumble",
+      "grumble"
+    ],
+    "meaning": "The repeated rumbling sound of heavy machinery",
+    "id": "goun_goun-1",
+    "example": [{
+      "file": "goun_goun-1a",
+      "contributor": "",
+      "display": "ゴウン  ゴウン",
+      "source": "isekai_av_filming"
+    }]
+  }],
+  "literal": "goun goun"
 }

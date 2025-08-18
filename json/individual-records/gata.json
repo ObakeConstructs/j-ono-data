@@ -1,57 +1,56 @@
 {
-  "literal": "gata",
-  "katakana": [
-    "ガタ",
-    "ガタッ",
-    "ガタャ"
-  ],
   "hiragana": [
     "がた",
     "がたっ",
     "がたゃ"
   ],
-  "definition": [
-    {
-      "meaning": "a rattling or clattering sound, typically wooden, often used to express standing up from a chair",
-      "equivalent": [
-        "clatter",
-        "clunk",
-        "creak",
-        "rattle",
-        "click"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "gata-1a",
-          "display": "ガタ",
-          "contributor": ""
-        },
-        {
-          "source": "hanako_24th_ward",
-          "file": "gata-1b",
-          "display": "ガタ",
-          "contributor": ""
-        },
-        {
-          "source": "hikaro_no_go",
-          "file": "gata-1c",
-          "display": "ガタッ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "gata-1d",
-          "display": "ガタッ",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "gata-1e",
-          "display": "ガタャ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガタ",
+    "ガタッ",
+    "ガタャ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clatter",
+      "clunk",
+      "creak",
+      "rattle",
+      "click"
+    ],
+    "meaning": "a rattling or clattering sound, typically wooden, often used to express standing up from a chair",
+    "id": "gata-1",
+    "example": [
+      {
+        "file": "gata-1a",
+        "contributor": "",
+        "display": "ガタ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "gata-1b",
+        "contributor": "",
+        "display": "ガタ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "gata-1c",
+        "contributor": "",
+        "display": "ガタッ",
+        "source": "hikaro_no_go"
+      },
+      {
+        "file": "gata-1d",
+        "contributor": "",
+        "display": "ガタッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "gata-1e",
+        "contributor": "",
+        "display": "ガタャ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "gata"
 }

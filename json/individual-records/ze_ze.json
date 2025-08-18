@@ -1,46 +1,45 @@
 {
-  "literal": "ze ze",
-  "katakana": [
-    "ゼゼ",
-    "ゼエゼエ",
-    "ゼェゼェ",
-    "ゼーゼー"
-  ],
   "hiragana": [
     "ぜぜ",
     "ぜえ",
     "ぜぇ",
     "ぜーぜー"
   ],
-  "definition": [
-    {
-      "meaning": "a series of deep or fast breaths",
-      "equivalent": [
-        "gasp gasp",
-        "huff huff",
-        "pant pant",
-        "wheeze wheeze"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "ze_ze-1a",
-          "display": "ぜー  ぜー",
-          "contributor": ""
-        },
-        {
-          "source": "simple_sword_saint",
-          "file": "ze_ze-1b",
-          "display": "ゼェ  ゼェ",
-          "contributor": ""
-        },
-        {
-          "source": "rock_n_roll_ladies",
-          "file": "ze_ze-1c",
-          "display": "ゼーゼー",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゼゼ",
+    "ゼエゼエ",
+    "ゼェゼェ",
+    "ゼーゼー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gasp gasp",
+      "huff huff",
+      "pant pant",
+      "wheeze wheeze"
+    ],
+    "meaning": "a series of deep or fast breaths",
+    "id": "ze_ze-1",
+    "example": [
+      {
+        "file": "ze_ze-1a",
+        "contributor": "",
+        "display": "ぜー  ぜー",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "ze_ze-1b",
+        "contributor": "",
+        "display": "ゼェ  ゼェ",
+        "source": "simple_sword_saint"
+      },
+      {
+        "file": "ze_ze-1c",
+        "contributor": "",
+        "display": "ゼーゼー",
+        "source": "rock_n_roll_ladies"
+      }
+    ]
+  }],
+  "literal": "ze ze"
 }

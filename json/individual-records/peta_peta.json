@@ -1,45 +1,39 @@
 {
-  "literal": "peta peta",
-  "katakana": [
-    "ペタペタ"
-  ],
-  "hiragana": [
-    "ぺたぺた"
-  ],
+  "hiragana": ["ぺたぺた"],
+  "katakana": ["ペタペタ"],
   "definition": [
     {
-      "meaning": "to press repeatedly",
       "equivalent": [
         "bap bap",
         "pat pat",
         "poke poke",
         "press press"
       ],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "peta_peta-1a",
-          "display": "ぺた  ぺた",
-          "contributor": ""
-        }
-      ]
+      "meaning": "to press repeatedly",
+      "id": "peta_peta-1",
+      "example": [{
+        "file": "peta_peta-1a",
+        "contributor": "",
+        "display": "ぺた  ぺた",
+        "source": "reincarnated_aristocrat"
+      }]
     },
     {
-      "meaning": "the indication or sound of walking softly",
       "equivalent": [
         "scamper",
         "step step",
         "tap tap",
         "pitter-pat"
       ],
-      "example": [
-        {
-          "source": "rock_n_roll_ladies",
-          "file": "peta_peta-2a",
-          "display": "ペタペタ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the indication or sound of walking softly",
+      "id": "peta_peta-2",
+      "example": [{
+        "file": "peta_peta-2a",
+        "contributor": "",
+        "display": "ペタペタ",
+        "source": "rock_n_roll_ladies"
+      }]
     }
-  ]
+  ],
+  "literal": "peta peta"
 }

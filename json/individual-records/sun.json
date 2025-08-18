@@ -1,38 +1,37 @@
 {
-  "literal": "sun",
-  "katakana": [
-    "スン",
-    "スンッ"
-  ],
   "hiragana": [
     "すん",
     "すんっ"
   ],
-  "definition": [
-    {
-      "meaning": "to express a calm and unruffled demeanor",
-      "equivalent": [
-        "calm",
-        "composed",
-        "cool",
-        "serene",
-        "smooth",
-        "tranquil"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "sun-1b",
-          "display": "すんっ",
-          "contributor": ""
-        },
-        {
-          "source": "yojo_life",
-          "file": "sun-1c",
-          "display": "スン...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "スン",
+    "スンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "calm",
+      "composed",
+      "cool",
+      "serene",
+      "smooth",
+      "tranquil"
+    ],
+    "meaning": "to express a calm and unruffled demeanor",
+    "id": "sun-1",
+    "example": [
+      {
+        "file": "sun-1b",
+        "contributor": "",
+        "display": "すんっ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "sun-1c",
+        "contributor": "",
+        "display": "スン...",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "literal": "sun"
 }

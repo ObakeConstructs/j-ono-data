@@ -1,35 +1,30 @@
 {
-  "literal": "suta suta",
-  "katakana": [
-    "スタスタ"
-  ],
-  "hiragana": [
-    "すたすた"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of brisk and purposeful walking",
-      "equivalent": [
-        "march march",
-        "step step",
-        "stomp stomp",
-        "tread tread",
-        "walk walk"
-      ],
-      "example": [
-        {
-          "source": "komi_cant_communicate",
-          "file": "suta_suta-1a",
-          "display": "スタ  スタ",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "suta_suta-1b",
-          "display": "スタ  スタ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["すたすた"],
+  "katakana": ["スタスタ"],
+  "definition": [{
+    "equivalent": [
+      "march march",
+      "step step",
+      "stomp stomp",
+      "tread tread",
+      "walk walk"
+    ],
+    "meaning": "the sound of brisk and purposeful walking",
+    "id": "suta_suta-1",
+    "example": [
+      {
+        "file": "suta_suta-1a",
+        "contributor": "",
+        "display": "スタ  スタ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "suta_suta-1b",
+        "contributor": "",
+        "display": "スタ  スタ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "suta suta"
 }

@@ -1,44 +1,43 @@
 {
-  "literal": "zowa",
-  "katakana": [
-    "ゾワ",
-    "ゾワッ"
-  ],
   "hiragana": [
     "ぞわ",
     "ぞわっ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of fear or disgust",
-      "equivalent": [
-        "alarm",
-        "disgust",
-        "dismay",
-        "distaste",
-        "dread",
-        "fear",
-        "panic",
-        "quiver",
-        "repulsion",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "zowa-1a",
-          "display": "ぞわっ...",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_territory_reform",
-          "file": "zowa-1b",
-          "display": "ゾワッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゾワ",
+    "ゾワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "alarm",
+      "disgust",
+      "dismay",
+      "distaste",
+      "dread",
+      "fear",
+      "panic",
+      "quiver",
+      "repulsion",
+      "shiver",
+      "shudder",
+      "tremble"
+    ],
+    "meaning": "an indication of fear or disgust",
+    "id": "zowa-1",
+    "example": [
+      {
+        "file": "zowa-1a",
+        "contributor": "",
+        "display": "ぞわっ...",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "zowa-1b",
+        "contributor": "",
+        "display": "ゾワッ",
+        "source": "isekai_territory_reform"
+      }
+    ]
+  }],
+  "literal": "zowa"
 }

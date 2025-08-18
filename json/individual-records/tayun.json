@@ -1,32 +1,29 @@
 {
-  "literal": "tayun",
-  "katakana": [
-    "タユン",
-    "タユンッ"
-  ],
   "hiragana": [
     "たゆん",
     "たゆんっ"
   ],
-  "definition": [
-    {
-      "meaning": "the indication of a wobble or shake",
-      "equivalent": [
-        "boing",
-        "jiggle",
-        "quiver",
-        "shake",
-        "sway",
-        "wobble"
-      ],
-      "example": [
-        {
-          "source": "35_year_olds_choice",
-          "file": "tayun-1a",
-          "display": "ぷるん♡",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "タユン",
+    "タユンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "boing",
+      "jiggle",
+      "quiver",
+      "shake",
+      "sway",
+      "wobble"
+    ],
+    "meaning": "the indication of a wobble or shake",
+    "id": "tayun-1",
+    "example": [{
+      "file": "tayun-1a",
+      "contributor": "",
+      "display": "ぷるん♡",
+      "source": "35_year_olds_choice"
+    }]
+  }],
+  "literal": "tayun"
 }

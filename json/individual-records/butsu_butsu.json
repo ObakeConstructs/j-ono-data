@@ -1,28 +1,21 @@
 {
-  "literal": "butsu butsu",
-  "katakana": [
-    "ブツブツ"
-  ],
-  "hiragana": [
-    "ぶつぶつ"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of mumbling or grumbling",
-      "equivalent": [
-        "mumble",
-        "murmur",
-        "mutter",
-        "grumble"
-      ],
-      "example": [
-        {
-          "source": "bungo",
-          "file": "butsu_butsu-1a",
-          "display": "ぶつ  ぶつ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぶつぶつ"],
+  "katakana": ["ブツブツ"],
+  "definition": [{
+    "equivalent": [
+      "mumble",
+      "murmur",
+      "mutter",
+      "grumble"
+    ],
+    "meaning": "an indication of mumbling or grumbling",
+    "id": "butsu_butsu-1",
+    "example": [{
+      "file": "butsu_butsu-1a",
+      "contributor": "",
+      "display": "ぶつ  ぶつ",
+      "source": "bungo"
+    }]
+  }],
+  "literal": "butsu butsu"
 }

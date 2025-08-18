@@ -1,46 +1,45 @@
 {
-  "literal": "pika",
-  "katakana": [
-    "ピカ",
-    "ピカッ",
-    "ピカー",
-    "ピカーッ"
-  ],
   "hiragana": [
     "ぴか",
     "ぴかっ",
     "ぴかー",
     "ぴかーっ"
   ],
-  "definition": [
-    {
-      "meaning": "a sudden or bright flash of light or a dazzling glimmer",
-      "equivalent": [
-        "bright",
-        "dazzle",
-        "gleam",
-        "glimmer",
-        "glitter",
-        "glow",
-        "light",
-        "radiance",
-        "shine",
-        "sparkle"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "pika-1b",
-          "display": "ピカッ",
-          "contributor": ""
-        },
-        {
-          "source": "blazing_fire_brigade",
-          "file": "pika-1c",
-          "display": "ピカ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピカ",
+    "ピカッ",
+    "ピカー",
+    "ピカーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bright",
+      "dazzle",
+      "gleam",
+      "glimmer",
+      "glitter",
+      "glow",
+      "light",
+      "radiance",
+      "shine",
+      "sparkle"
+    ],
+    "meaning": "a sudden or bright flash of light or a dazzling glimmer",
+    "id": "pika-1",
+    "example": [
+      {
+        "file": "pika-1b",
+        "contributor": "",
+        "display": "ピカッ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "pika-1c",
+        "contributor": "",
+        "display": "ピカ",
+        "source": "blazing_fire_brigade"
+      }
+    ]
+  }],
+  "literal": "pika"
 }

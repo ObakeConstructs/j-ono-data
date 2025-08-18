@@ -1,36 +1,35 @@
 {
-  "literal": "paku paku",
-  "katakana": [
-    "パクパク",
-    "パクッパクッ"
-  ],
   "hiragana": [
     "ぱくぱく",
     "ぱくっぱくっ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of eyes, hands, or mouths snapping open and closed quickly",
-      "equivalent": [
-        " open close",
-        "pop pop",
-        "flap flap",
-        "snap snap"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "paku_paku-1a",
-          "display": "ぱくぱく",
-          "contributor": ""
-        },
-        {
-          "source": "dog_became_strongest",
-          "file": "paku_paku-1b",
-          "display": "ぱく  ぱく",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "パクパク",
+    "パクッパクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      " open close",
+      "pop pop",
+      "flap flap",
+      "snap snap"
+    ],
+    "meaning": "an indication of eyes, hands, or mouths snapping open and closed quickly",
+    "id": "paku_paku-1",
+    "example": [
+      {
+        "file": "paku_paku-1a",
+        "contributor": "",
+        "display": "ぱくぱく",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "paku_paku-1b",
+        "contributor": "",
+        "display": "ぱく  ぱく",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "literal": "paku paku"
 }

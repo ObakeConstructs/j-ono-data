@@ -1,35 +1,34 @@
 {
-  "literal": "pon pon",
-  "katakana": [
-    "ポンポン",
-    "ポンポンッ"
-  ],
   "hiragana": [
     "ぽんぽん",
     "ぽんぽんっ"
   ],
-  "definition": [
-    {
-      "meaning": "a series of pats or strokes in a gentle manner",
-      "equivalent": [
-        "pat pat",
-        "pet pet",
-        "stroke stroke"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "pon_pon-1a",
-          "display": "ぽん  ぽん",
-          "contributor": ""
-        },
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "pon_pon-1b",
-          "display": "ポン  ポン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ポンポン",
+    "ポンポンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "pat pat",
+      "pet pet",
+      "stroke stroke"
+    ],
+    "meaning": "a series of pats or strokes in a gentle manner",
+    "id": "pon_pon-1",
+    "example": [
+      {
+        "file": "pon_pon-1a",
+        "contributor": "",
+        "display": "ぽん  ぽん",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "pon_pon-1b",
+        "contributor": "",
+        "display": "ポン  ポン",
+        "source": "abandoned_reincarnation_sage"
+      }
+    ]
+  }],
+  "literal": "pon pon"
 }

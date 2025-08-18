@@ -1,12 +1,4 @@
 {
-  "literal": "do",
-  "katakana": [
-    "ド",
-    "ドッ",
-    "ドォ",
-    "ドォッ",
-    "ドオォ"
-  ],
   "hiragana": [
     "ど",
     "どっ",
@@ -14,9 +6,15 @@
     "どぉっ",
     "どおぉ"
   ],
+  "katakana": [
+    "ド",
+    "ドッ",
+    "ドォ",
+    "ドォッ",
+    "ドオォ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of an impact or explosion",
       "equivalent": [
         "bam",
         "bang",
@@ -34,35 +32,36 @@
         "whomp",
         "whump"
       ],
+      "meaning": "the sound of an impact or explosion",
+      "id": "do-1",
       "example": [
         {
-          "source": "hello_work",
           "file": "do-1a",
+          "contributor": "",
           "display": "ドッ!",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "strongest_thread_master",
           "file": "do-1b",
+          "contributor": "",
           "display": "ドッ",
-          "contributor": ""
+          "source": "strongest_thread_master"
         },
         {
-          "source": "my_s-ranked_daughter",
           "file": "do-1c",
+          "contributor": "",
           "display": "ドッ",
-          "contributor": ""
+          "source": "my_s-ranked_daughter"
         },
         {
-          "source": "isekai_sniper",
           "file": "do-1d",
+          "contributor": "",
           "display": "ドッオォ",
-          "contributor": ""
+          "source": "isekai_sniper"
         }
       ]
     },
     {
-      "meaning": "an explosive outburst of laughter",
       "equivalent": [
         "boff",
         "doh",
@@ -71,14 +70,15 @@
         "snort",
         "whoop"
       ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "do-2a",
-          "display": "どっ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an explosive outburst of laughter",
+      "id": "do-2",
+      "example": [{
+        "file": "do-2a",
+        "contributor": "",
+        "display": "どっ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
     }
-  ]
+  ],
+  "literal": "do"
 }

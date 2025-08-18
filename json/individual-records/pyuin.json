@@ -1,29 +1,22 @@
 {
-  "literal": "pyuin",
-  "katakana": [
-    "ピュイン"
-  ],
-  "hiragana": [
-    "ぴゅいん"
-  ],
-  "definition": [
-    {
-      "meaning": "a soft or gentle sound",
-      "equivalent": [
-        "softly",
-        "gently",
-        "delicate",
-        "lightly",
-        "tenderly"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "pyuin-1a",
-          "display": "ピュイン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぴゅいん"],
+  "katakana": ["ピュイン"],
+  "definition": [{
+    "equivalent": [
+      "softly",
+      "gently",
+      "delicate",
+      "lightly",
+      "tenderly"
+    ],
+    "meaning": "a soft or gentle sound",
+    "id": "pyuin-1",
+    "example": [{
+      "file": "pyuin-1a",
+      "contributor": "",
+      "display": "ピュイン",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "pyuin"
 }

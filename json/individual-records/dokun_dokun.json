@@ -1,34 +1,29 @@
 {
-  "literal": "dokun dokun",
-  "katakana": [
-    "ドクンドクン"
-  ],
-  "hiragana": [
-    "どくんどくん"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of a heartbeat or a rythmic throbbing",
-      "equivalent": [
-        "ba-bump",
-        "beat beat",
-        "pulse pulse",
-        "throb throb"
-      ],
-      "example": [
-        {
-          "source": "ai_and_izawa",
-          "file": "dokun_dokun-1a",
-          "display": "ドクン  ドクン",
-          "contributor": ""
-        },
-        {
-          "source": "double_play",
-          "file": "dokun_dokun-1b",
-          "display": "ドクン  ドクン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どくんどくん"],
+  "katakana": ["ドクンドクン"],
+  "definition": [{
+    "equivalent": [
+      "ba-bump",
+      "beat beat",
+      "pulse pulse",
+      "throb throb"
+    ],
+    "meaning": "an indication of a heartbeat or a rythmic throbbing",
+    "id": "dokun_dokun-1",
+    "example": [
+      {
+        "file": "dokun_dokun-1a",
+        "contributor": "",
+        "display": "ドクン  ドクン",
+        "source": "ai_and_izawa"
+      },
+      {
+        "file": "dokun_dokun-1b",
+        "contributor": "",
+        "display": "ドクン  ドクン",
+        "source": "double_play"
+      }
+    ]
+  }],
+  "literal": "dokun dokun"
 }

@@ -1,34 +1,31 @@
 {
-  "literal": "vu",
-  "katakana": [
-    "ヴ",
-    "ヴッ",
-    "ヴー",
-    "ヴーッ"
-  ],
   "hiragana": [
     "ゔ",
     "ゔっ",
     "ゔー",
     "ゔーっ"
   ],
-  "definition": [
-    {
-      "meaning": "an expression of revulsion as if trying not to retch.",
-      "equivalent": [
-        "choke",
-        "gag",
-        "mphh",
-        "wmphh"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "vu-1a",
-          "display": "ゔっ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヴ",
+    "ヴッ",
+    "ヴー",
+    "ヴーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "choke",
+      "gag",
+      "mphh",
+      "wmphh"
+    ],
+    "meaning": "an expression of revulsion as if trying not to retch.",
+    "id": "vu-1",
+    "example": [{
+      "file": "vu-1a",
+      "contributor": "",
+      "display": "ゔっ...",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "vu"
 }

@@ -1,13 +1,4 @@
 {
-  "literal": "byu",
-  "katakana": [
-    "ビュ",
-    "ビュッ",
-    "ビュー",
-    "ビューッ",
-    "ビュウ",
-    "ビュゥ"
-  ],
   "hiragana": [
     "びゅ",
     "びゅっ",
@@ -16,9 +7,16 @@
     "びゅう",
     "びゅぅ"
   ],
+  "katakana": [
+    "ビュ",
+    "ビュッ",
+    "ビュー",
+    "ビューッ",
+    "ビュウ",
+    "ビュゥ"
+  ],
   "definition": [
     {
-      "meaning": "a sound of wind or blowing air",
       "equivalent": [
         "whish",
         "whistle",
@@ -26,23 +24,24 @@
         "whoosh",
         "wind"
       ],
+      "meaning": "a sound of wind or blowing air",
+      "id": "byu-1",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "byu-1a",
+          "contributor": "",
           "display": "ビュウ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "bungo",
           "file": "byu-1b",
+          "contributor": "",
           "display": "ビュ",
-          "contributor": ""
+          "source": "bungo"
         }
       ]
     },
     {
-      "meaning": "a sound of someone or something moving very quickly",
       "equivalent": [
         "shoom",
         "swoosh",
@@ -52,14 +51,15 @@
         "zip",
         "zoom"
       ],
-      "example": [
-        {
-          "source": "eternal_fool_asley",
-          "file": "byu-2a",
-          "display": "ビュッ!",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a sound of someone or something moving very quickly",
+      "id": "byu-2",
+      "example": [{
+        "file": "byu-2a",
+        "contributor": "",
+        "display": "ビュッ!",
+        "source": "eternal_fool_asley"
+      }]
     }
-  ]
+  ],
+  "literal": "byu"
 }

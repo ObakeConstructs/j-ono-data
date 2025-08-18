@@ -1,40 +1,39 @@
 {
-  "literal": "pera",
-  "katakana": [
-    "ペラ",
-    "ペラッ"
-  ],
   "hiragana": [
     "ぺら",
     "ぺらっ"
   ],
-  "definition": [
-    {
-      "meaning": "sound of turning pages or moving paper",
-      "equivalent": [
-        "flip",
-        "riffle",
-        "thumb",
-        "skim",
-        "turn",
-        "flap",
-        "rustle",
-        "crinkle"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "pera-1a",
-          "display": "ペラ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "pera-1b",
-          "display": "ペラッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ペラ",
+    "ペラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flip",
+      "riffle",
+      "thumb",
+      "skim",
+      "turn",
+      "flap",
+      "rustle",
+      "crinkle"
+    ],
+    "meaning": "sound of turning pages or moving paper",
+    "id": "pera-1",
+    "example": [
+      {
+        "file": "pera-1a",
+        "contributor": "",
+        "display": "ペラ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "pera-1b",
+        "contributor": "",
+        "display": "ペラッ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "pera"
 }

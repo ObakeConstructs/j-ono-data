@@ -1,28 +1,21 @@
 {
-  "literal": "bisha bisha",
-  "katakana": [
-    "ビシビシ"
-  ],
-  "hiragana": [
-    "びしびし"
-  ],
-  "definition": [
-    {
-      "meaning": "sounds of spraying or splashing",
-      "equivalent": [
-        "spatter spatter",
-        "splash splash",
-        "splatter splatter",
-        "spray spray"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "bisha_bish-1a",
-          "display": "ビシ  ビシ  ビシ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["びしびし"],
+  "katakana": ["ビシビシ"],
+  "definition": [{
+    "equivalent": [
+      "spatter spatter",
+      "splash splash",
+      "splatter splatter",
+      "spray spray"
+    ],
+    "meaning": "sounds of spraying or splashing",
+    "id": "bisha_bisha-1",
+    "example": [{
+      "file": "bisha_bish-1a",
+      "contributor": "",
+      "display": "ビシ  ビシ  ビシ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "bisha bisha"
 }

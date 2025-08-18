@@ -1,31 +1,28 @@
 {
-  "literal": "boro",
-  "katakana": [
-    "ボロ",
-    "ボロッ"
-  ],
   "hiragana": [
     "ぼろ",
     "ぼろっ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication or expression of being worn out or exhausted",
-      "equivalent": [
-        "tired",
-        "weary",
-        "exhausted",
-        "drained",
-        "worn out"
-      ],
-      "example": [
-        {
-          "source": "sex_with_me_sells",
-          "file": "boro-1a",
-          "display": "ボロッ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボロ",
+    "ボロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "tired",
+      "weary",
+      "exhausted",
+      "drained",
+      "worn out"
+    ],
+    "meaning": "an indication or expression of being worn out or exhausted",
+    "id": "boro-1",
+    "example": [{
+      "file": "boro-1a",
+      "contributor": "",
+      "display": "ボロッ...",
+      "source": "sex_with_me_sells"
+    }]
+  }],
+  "literal": "boro"
 }

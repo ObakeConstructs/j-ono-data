@@ -1,35 +1,28 @@
 {
-  "literal": "dosun",
-  "katakana": [
-    "ドスン"
-  ],
-  "hiragana": [
-    "どすん"
-  ],
-  "definition": [
-    {
-      "meaning": "a sound of a heavy impact or dull thud",
-      "equivalent": [
-        "bam",
-        "slam",
-        "slap",
-        "smack",
-        "thud",
-        "thump",
-        "thunk",
-        "whack",
-        "wham",
-        "whap",
-        "whomp"
-      ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "dosun-1a",
-          "display": "ドスン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どすん"],
+  "katakana": ["ドスン"],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "slam",
+      "slap",
+      "smack",
+      "thud",
+      "thump",
+      "thunk",
+      "whack",
+      "wham",
+      "whap",
+      "whomp"
+    ],
+    "meaning": "a sound of a heavy impact or dull thud",
+    "id": "dosun-1",
+    "example": [{
+      "file": "dosun-1a",
+      "contributor": "",
+      "display": "ドスン",
+      "source": "my_s-ranked_daughter"
+    }]
+  }],
+  "literal": "dosun"
 }

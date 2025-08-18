@@ -1,52 +1,48 @@
 {
-  "literal": "su su",
-  "katakana": [
-    "スス",
-    "ススス",
-    "スウスウ",
-    "スゥスゥ"
-  ],
   "hiragana": [
     "すす",
     "すすす",
     "すうすう",
     "すぅすぅ"
   ],
+  "katakana": [
+    "スス",
+    "ススス",
+    "スウスウ",
+    "スゥスゥ"
+  ],
   "definition": [
     {
-      "meaning": "soft breathing while sleeping or quietly snoring",
       "equivalent": [
         "beath",
         "huff",
         "whiff",
         "zzz"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "su_su-1a",
-          "display": "すぅ  すぅ...",
-          "contributor": ""
-        }
-      ]
+      "meaning": "soft breathing while sleeping or quietly snoring",
+      "id": "su_su-1",
+      "example": [{
+        "file": "su_su-1a",
+        "contributor": "",
+        "display": "すぅ  すぅ...",
+        "source": "world_full_of_monsters"
+      }]
     },
     {
-      "meaning": "to speak quietly, so as not be overheard",
       "equivalent": [
         "softly",
         "whisper"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "su_su-2a",
-          "display": "ススス",
-          "contributor": ""
-        }
-      ]
+      "meaning": "to speak quietly, so as not be overheard",
+      "id": "su_su-2",
+      "example": [{
+        "file": "su_su-2a",
+        "contributor": "",
+        "display": "ススス",
+        "source": "different_world_smartphone"
+      }]
     },
     {
-      "meaning": "simple or quick movements of the hand",
       "equivalent": [
         "caress caress",
         "flick flick",
@@ -59,14 +55,15 @@
         "stroke stroke",
         "take take"
       ],
-      "example": [
-        {
-          "source": "yojo_life",
-          "file": "su_su-3a",
-          "display": "スス",
-          "contributor": ""
-        }
-      ]
+      "meaning": "simple or quick movements of the hand",
+      "id": "su_su-3",
+      "example": [{
+        "file": "su_su-3a",
+        "contributor": "",
+        "display": "スス",
+        "source": "yojo_life"
+      }]
     }
-  ]
+  ],
+  "literal": "su su"
 }

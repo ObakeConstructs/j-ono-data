@@ -1,44 +1,39 @@
 {
-  "literal": "gan gan",
-  "katakana": [
-    "ガンガン"
-  ],
-  "hiragana": [
-    "がんがん"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of sharp impact noises",
-      "equivalent": [
-        "bam bam",
-        "bang bang",
-        "slam slam",
-        "smack smack",
-        "smash smash",
-        "thud thud",
-        "thud thud",
-        "thump thump",
-        "thunk thunk",
-        "whack whack",
-        "wham wham",
-        "ting ting",
-        "ting tink",
-        "tonk tonk"
-      ],
-      "example": [
-        {
-          "source": "peter_grill",
-          "file": "gan_gan-1a",
-          "display": "ガン  ガン  ガン  ガン",
-          "contributor": ""
-        },
-        {
-          "source": "uncle_at_heart",
-          "file": "gan_gan-1b",
-          "display": "ガン  ガン  ガン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["がんがん"],
+  "katakana": ["ガンガン"],
+  "definition": [{
+    "equivalent": [
+      "bam bam",
+      "bang bang",
+      "slam slam",
+      "smack smack",
+      "smash smash",
+      "thud thud",
+      "thud thud",
+      "thump thump",
+      "thunk thunk",
+      "whack whack",
+      "wham wham",
+      "ting ting",
+      "ting tink",
+      "tonk tonk"
+    ],
+    "meaning": "a series of sharp impact noises",
+    "id": "gan_gan-1",
+    "example": [
+      {
+        "file": "gan_gan-1a",
+        "contributor": "",
+        "display": "ガン  ガン  ガン  ガン",
+        "source": "peter_grill"
+      },
+      {
+        "file": "gan_gan-1b",
+        "contributor": "",
+        "display": "ガン  ガン  ガン",
+        "source": "uncle_at_heart"
+      }
+    ]
+  }],
+  "literal": "gan gan"
 }

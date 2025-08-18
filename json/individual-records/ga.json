@@ -1,15 +1,4 @@
 {
-  "literal": "ga",
-  "katakana": [
-    "ガ",
-    "ガッ",
-    "ガー",
-    "ガーッ",
-    "ガァ",
-    "ガァァ",
-    "ガア",
-    "ガアア"
-  ],
   "hiragana": [
     "が",
     "がっ",
@@ -20,9 +9,18 @@
     "があ",
     "がああ"
   ],
+  "katakana": [
+    "ガ",
+    "ガッ",
+    "ガー",
+    "ガーッ",
+    "ガァ",
+    "ガァァ",
+    "ガア",
+    "ガアア"
+  ],
   "definition": [
     {
-      "meaning": "a generic sound of impact, as from a fight or something dropped",
       "equivalent": [
         "bam",
         "blow",
@@ -51,35 +49,36 @@
         "wham",
         "whang"
       ],
+      "meaning": "a generic sound of impact, as from a fight or something dropped",
+      "id": "ga-1",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "ga-1a",
+          "contributor": "",
           "display": "ガッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_sage_daughters",
           "file": "ga-1b",
+          "contributor": "",
           "display": "ガッ",
-          "contributor": ""
+          "source": "reincarnated_sage_daughters"
         },
         {
-          "source": "komi_cant_communicate",
           "file": "ga-1c",
+          "contributor": "",
           "display": "ガ",
-          "contributor": ""
+          "source": "komi_cant_communicate"
         },
         {
-          "source": "eternal_fool_asley",
           "file": "ga-1d",
+          "contributor": "",
           "display": "がっ!",
-          "contributor": ""
+          "source": "eternal_fool_asley"
         }
       ]
     },
     {
-      "meaning": "seizing something with a sudden motion or grasp",
       "equivalent": [
         "catch",
         "clutch",
@@ -92,35 +91,36 @@
         "snag",
         "snatch"
       ],
+      "meaning": "seizing something with a sudden motion or grasp",
+      "id": "ga-2",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "ga-2a",
+          "contributor": "",
           "display": "ガッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "strongest_failure_frame",
           "file": "ga-2b",
+          "contributor": "",
           "display": "がっ",
-          "contributor": ""
+          "source": "strongest_failure_frame"
         },
         {
-          "source": "strongest_magician_was_human",
           "file": "ga-2c",
+          "contributor": "",
           "display": "ガッ",
-          "contributor": ""
+          "source": "strongest_magician_was_human"
         },
         {
-          "source": "requiem_for_prophet",
           "file": "ga-2d",
+          "contributor": "",
           "display": "がっ",
-          "contributor": ""
+          "source": "requiem_for_prophet"
         }
       ]
     },
     {
-      "meaning": "the sound of an animal growling or roaring",
       "equivalent": [
         "bellow",
         "growl",
@@ -134,14 +134,15 @@
         "snarl",
         "yell"
       ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "ga-3a",
-          "display": "ガァァァァ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of an animal growling or roaring",
+      "id": "ga-3",
+      "example": [{
+        "file": "ga-3a",
+        "contributor": "",
+        "display": "ガァァァァ",
+        "source": "my_s-ranked_daughter"
+      }]
     }
-  ]
+  ],
+  "literal": "ga"
 }

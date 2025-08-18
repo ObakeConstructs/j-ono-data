@@ -1,17 +1,4 @@
 {
-  "literal": "sa",
-  "katakana": [
-    "サ",
-    "サッ",
-    "サー",
-    "サーッ",
-    "サァ",
-    "サァァ",
-    "サァァァ",
-    "サア",
-    "サアア",
-    "サアッ"
-  ],
   "hiragana": [
     "さ",
     "さっ",
@@ -24,9 +11,20 @@
     "さああ",
     "さあっ"
   ],
+  "katakana": [
+    "サ",
+    "サッ",
+    "サー",
+    "サーッ",
+    "サァ",
+    "サァァ",
+    "サァァァ",
+    "サア",
+    "サアア",
+    "サアッ"
+  ],
   "definition": [
     {
-      "meaning": "the soft sounds of rain or a shower",
       "equivalent": [
         "drizzle",
         "drops",
@@ -35,29 +33,30 @@
         "shaa",
         "sss"
       ],
+      "meaning": "the soft sounds of rain or a shower",
+      "id": "sa-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "sa-1a",
+          "contributor": "",
           "display": "サァァァ...",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "beastly_boys_and_girls",
           "file": "sa-1b",
+          "contributor": "",
           "display": "さああ....",
-          "contributor": ""
+          "source": "beastly_boys_and_girls"
         },
         {
-          "source": "ai_and_izawa",
           "file": "sa-1c",
+          "contributor": "",
           "display": "サァァァ",
-          "contributor": ""
+          "source": "ai_and_izawa"
         }
       ]
     },
     {
-      "meaning": "an expression of worry or stress",
       "equivalent": [
         "chill",
         "dismay",
@@ -66,17 +65,16 @@
         "unnerve",
         "worry"
       ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "sa-2a",
-          "display": "サァー...",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an expression of worry or stress",
+      "id": "sa-2",
+      "example": [{
+        "file": "sa-2a",
+        "contributor": "",
+        "display": "サァー...",
+        "source": "hello_work"
+      }]
     },
     {
-      "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
       "equivalent": [
         "avoid",
         "back up",
@@ -90,29 +88,30 @@
         "scoot",
         "sidestep"
       ],
+      "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
+      "id": "sa-3",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "sa-3a",
+          "contributor": "",
           "display": "サッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "sa-3b",
+          "contributor": "",
           "display": "サッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "uncle_at_heart",
           "file": "sa-3c",
+          "contributor": "",
           "display": "さっ",
-          "contributor": ""
+          "source": "uncle_at_heart"
         }
       ]
     },
     {
-      "meaning": "a loud noise of water splashing",
       "equivalent": [
         "gush",
         "jet",
@@ -123,17 +122,16 @@
         "spout",
         "swash"
       ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "sa-4a",
-          "display": "サアッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a loud noise of water splashing",
+      "id": "sa-4",
+      "example": [{
+        "file": "sa-4a",
+        "contributor": "",
+        "display": "サアッ",
+        "source": "hanako_24th_ward"
+      }]
     },
     {
-      "meaning": "the indication or sound of a soft step",
       "equivalent": [
         "plod",
         "shuffle",
@@ -141,20 +139,23 @@
         "tap",
         "walk"
       ],
+      "meaning": "the indication or sound of a soft step",
+      "id": "sa-5",
       "example": [
         {
-          "source": "uncle_at_heart",
           "file": "sa-5a",
+          "contributor": "",
           "display": "さあ...",
-          "contributor": ""
+          "source": "uncle_at_heart"
         },
         {
-          "source": "isekai_sniper",
           "file": "sa-5b",
+          "contributor": "",
           "display": "サッ",
-          "contributor": ""
+          "source": "isekai_sniper"
         }
       ]
     }
-  ]
+  ],
+  "literal": "sa"
 }

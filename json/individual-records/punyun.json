@@ -1,28 +1,21 @@
 {
-  "literal": "punyun",
-  "katakana": [
-    "プニュゥン"
-  ],
-  "hiragana": [
-    "ぷにゅぅん"
-  ],
-  "definition": [
-    {
-      "meaning": "an exaggerated indication of soft flesh",
-      "equivalent": [
-        "soft",
-        "puffy",
-        "squishy",
-        "flesh"
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "punyun-1a",
-          "display": "プニュゥン♡♡♡",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぷにゅぅん"],
+  "katakana": ["プニュゥン"],
+  "definition": [{
+    "equivalent": [
+      "soft",
+      "puffy",
+      "squishy",
+      "flesh"
+    ],
+    "meaning": "an exaggerated indication of soft flesh",
+    "id": "punyun-1",
+    "example": [{
+      "file": "punyun-1a",
+      "contributor": "",
+      "display": "プニュゥン♡♡♡",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "punyun"
 }

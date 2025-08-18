@@ -1,51 +1,50 @@
 {
-  "literal": "gu gu",
-  "katakana": [
-    "ググ",
-    "グッグッ",
-    "ググッ",
-    "グググ"
-  ],
   "hiragana": [
     "ぐぐ",
     "ぐっぐっ",
     "ぐぐっ",
     "ぐぐぐ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication or sound of gripping or squeezing something, usually indicating strain or tension",
-      "equivalent": [
-        "clench",
-        "gah gah",
-        "grab",
-        "grasp",
-        "grip",
-        "pressure",
-        "squeeze",
-        "strain",
-        "struggle"
-      ],
-      "example": [
-        {
-          "source": "isekai_pickup",
-          "file": "gugu-1a",
-          "display": "ぐぐっ..",
-          "contributor": ""
-        },
-        {
-          "source": "yojo_life",
-          "file": "gugu-1b",
-          "display": "ぐぐぐ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "gugu-1c",
-          "display": "グッ  グッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ググ",
+    "グッグッ",
+    "ググッ",
+    "グググ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clench",
+      "gah gah",
+      "grab",
+      "grasp",
+      "grip",
+      "pressure",
+      "squeeze",
+      "strain",
+      "struggle"
+    ],
+    "meaning": "an indication or sound of gripping or squeezing something, usually indicating strain or tension",
+    "id": "gu_gu-1",
+    "example": [
+      {
+        "file": "gugu-1a",
+        "contributor": "",
+        "display": "ぐぐっ..",
+        "source": "isekai_pickup"
+      },
+      {
+        "file": "gugu-1b",
+        "contributor": "",
+        "display": "ぐぐぐ",
+        "source": "yojo_life"
+      },
+      {
+        "file": "gugu-1c",
+        "contributor": "",
+        "display": "グッ  グッ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "gu gu"
 }

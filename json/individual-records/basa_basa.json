@@ -1,46 +1,45 @@
 {
-  "literal": "basa basa",
-  "katakana": [
-    "バサバサ",
-    "バサッバサッ"
-  ],
   "hiragana": [
     "ばさばさ",
     "ばさっばさっ"
   ],
-  "definition": [
-    {
-      "meaning": "rustling sounds of something moving through air",
-      "equivalent": [
-        "flap flap",
-        "flit flit",
-        "flutter flutter",
-        "rustle rustle",
-        "swish swish",
-        "swoosh swoosh",
-        "whoosh whoosh",
-        "whump whump"
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "basa_basa-1a",
-          "display": "ばさ  ばさ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "basa_basa-1b",
-          "display": "バサッ  バサッ",
-          "contributor": ""
-        },
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "basa_basa-2a",
-          "display": "バサ  バサ  バサ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "バサバサ",
+    "バサッバサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flap flap",
+      "flit flit",
+      "flutter flutter",
+      "rustle rustle",
+      "swish swish",
+      "swoosh swoosh",
+      "whoosh whoosh",
+      "whump whump"
+    ],
+    "meaning": "rustling sounds of something moving through air",
+    "id": "basa_basa-1",
+    "example": [
+      {
+        "file": "basa_basa-1a",
+        "contributor": "",
+        "display": "ばさ  ばさ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "basa_basa-1b",
+        "contributor": "",
+        "display": "バサッ  バサッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "basa_basa-2a",
+        "contributor": "",
+        "display": "バサ  バサ  バサ",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "literal": "basa basa"
 }

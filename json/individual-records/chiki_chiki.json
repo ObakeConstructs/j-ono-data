@@ -1,26 +1,19 @@
 {
-  "literal": "chiki chiki",
-  "katakana": [
-    "チキチキ"
-  ],
-  "hiragana": [
-    "ちきちき"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of sharp clicking sounds",
-      "equivalent": [
-        "chik chik",
-        "click click"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "chiki_chiki-1a",
-          "display": "チキ  チキ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ちきちき"],
+  "katakana": ["チキチキ"],
+  "definition": [{
+    "equivalent": [
+      "chik chik",
+      "click click"
+    ],
+    "meaning": "a series of sharp clicking sounds",
+    "id": "chiki_chiki-1",
+    "example": [{
+      "file": "chiki_chiki-1a",
+      "contributor": "",
+      "display": "チキ  チキ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "chiki chiki"
 }

@@ -1,72 +1,71 @@
 {
-  "literal": "gon",
-  "katakana": [
-    "ゴン",
-    "ゴンッ"
-  ],
   "hiragana": [
     "ごん",
     "ごんっ"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of a hit or strike, can be loud or soft depending on context",
-      "equivalent": [
-        "bam",
-        "bat",
-        "biff",
-        "bonk",
-        "bop",
-        "clip",
-        "gong",
-        "hit",
-        "knock",
-        "pound",
-        "punch",
-        "scuff",
-        "slam",
-        "smack",
-        "sock",
-        "strike",
-        "swat",
-        "tap",
-        "thud",
-        "thump",
-        "thunk",
-        "whack"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gon-1a",
-          "display": "ゴンッ",
-          "contributor": ""
-        },
-        {
-          "source": "komi_cant_communicate",
-          "file": "gon-1b",
-          "display": "ゴン",
-          "contributor": ""
-        },
-        {
-          "source": "spy_x_family",
-          "file": "gon-1c",
-          "display": "ゴン...",
-          "contributor": ""
-        },
-        {
-          "source": "blazing_fire_brigade",
-          "file": "gon-1d",
-          "display": "ゴン",
-          "contributor": ""
-        },
-        {
-          "source": "saga_lagging_hero",
-          "file": "gon-1e",
-          "display": "ゴン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゴン",
+    "ゴンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "bat",
+      "biff",
+      "bonk",
+      "bop",
+      "clip",
+      "gong",
+      "hit",
+      "knock",
+      "pound",
+      "punch",
+      "scuff",
+      "slam",
+      "smack",
+      "sock",
+      "strike",
+      "swat",
+      "tap",
+      "thud",
+      "thump",
+      "thunk",
+      "whack"
+    ],
+    "meaning": "the sound of a hit or strike, can be loud or soft depending on context",
+    "id": "gon-1",
+    "example": [
+      {
+        "file": "gon-1a",
+        "contributor": "",
+        "display": "ゴンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gon-1b",
+        "contributor": "",
+        "display": "ゴン",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "gon-1c",
+        "contributor": "",
+        "display": "ゴン...",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "gon-1d",
+        "contributor": "",
+        "display": "ゴン",
+        "source": "blazing_fire_brigade"
+      },
+      {
+        "file": "gon-1e",
+        "contributor": "",
+        "display": "ゴン",
+        "source": "saga_lagging_hero"
+      }
+    ]
+  }],
+  "literal": "gon"
 }

@@ -1,18 +1,16 @@
 {
-  "literal": "dosu",
-  "katakana": [
-    "ドス",
-    "ドスッ",
-    "ドスゥ"
-  ],
   "hiragana": [
     "どす",
     "どすっ",
     "どすぅ"
   ],
+  "katakana": [
+    "ドス",
+    "ドスッ",
+    "ドスゥ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of a strike in a fight, usually non-lethal",
       "equivalent": [
         "bam",
         "blow",
@@ -33,29 +31,30 @@
         "thunk",
         "wham"
       ],
+      "meaning": "the sound of a strike in a fight, usually non-lethal",
+      "id": "dosu-1",
       "example": [
         {
-          "source": "reincarnated_aristocrat",
           "file": "dosu-1a",
+          "contributor": "",
           "display": "ドス",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "different_world_smartphone",
           "file": "dosu-1b",
+          "contributor": "",
           "display": "ドスゥ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "isekai_territory_reform",
           "file": "dosu-1c",
+          "contributor": "",
           "display": "ドスッ",
-          "contributor": ""
+          "source": "isekai_territory_reform"
         }
       ]
     },
     {
-      "meaning": "to drop something roughly or to sit down heavily",
       "equivalent": [
         "bam",
         "bang",
@@ -70,14 +69,15 @@
         "whap",
         "whomp"
       ],
-      "example": [
-        {
-          "source": "hikaro_no_go",
-          "file": "dosu-2a",
-          "display": "どすぅ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "to drop something roughly or to sit down heavily",
+      "id": "dosu-2",
+      "example": [{
+        "file": "dosu-2a",
+        "contributor": "",
+        "display": "どすぅ",
+        "source": "hikaro_no_go"
+      }]
     }
-  ]
+  ],
+  "literal": "dosu"
 }

@@ -1,31 +1,28 @@
 {
-  "literal": "baga",
-  "katakana": [
-    "バガ",
-    "バガッ"
-  ],
   "hiragana": [
     "ばが",
     "ばがっ"
   ],
-  "definition": [
-    {
-      "meaning": "a sound of an impact or crash",
-      "equivalent": [
-        "crash",
-        "crush",
-        "impact",
-        "shatter",
-        "smash"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "baga-1a",
-          "display": "バガッ..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "バガ",
+    "バガッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "crash",
+      "crush",
+      "impact",
+      "shatter",
+      "smash"
+    ],
+    "meaning": "a sound of an impact or crash",
+    "id": "baga-1",
+    "example": [{
+      "file": "baga-1a",
+      "contributor": "",
+      "display": "バガッ..",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "baga"
 }

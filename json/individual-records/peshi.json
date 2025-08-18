@@ -1,30 +1,27 @@
 {
-  "literal": "peshi",
-  "katakana": [
-    "ペシ",
-    "ペシッ"
-  ],
   "hiragana": [
     "ぺし",
     "ぺしっ"
   ],
-  "definition": [
-    {
-      "meaning": "a harmless but loud impact, as with a slap",
-      "equivalent": [
-        "bonk",
-        "slap",
-        "smack",
-        "whap"
-      ],
-      "example": [
-        {
-          "source": "hikaro_no_go",
-          "file": "peshi-1a",
-          "display": "ペシッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ペシ",
+    "ペシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bonk",
+      "slap",
+      "smack",
+      "whap"
+    ],
+    "meaning": "a harmless but loud impact, as with a slap",
+    "id": "peshi-1",
+    "example": [{
+      "file": "peshi-1a",
+      "contributor": "",
+      "display": "ペシッ",
+      "source": "hikaro_no_go"
+    }]
+  }],
+  "literal": "peshi"
 }

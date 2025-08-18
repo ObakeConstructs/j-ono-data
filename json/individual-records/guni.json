@@ -1,32 +1,25 @@
 {
-  "literal": "guni",
-  "katakana": [
-    "グニ"
-  ],
-  "hiragana": [
-    "ぐに"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of squishy pressure",
-      "equivalent": [
-        "squish",
-        "crush",
-        "shove",
-        "push",
-        "press",
-        "squeeze",
-        "mash",
-        "compress"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "guni-1a",
-          "display": "ぐに...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぐに"],
+  "katakana": ["グニ"],
+  "definition": [{
+    "equivalent": [
+      "squish",
+      "crush",
+      "shove",
+      "push",
+      "press",
+      "squeeze",
+      "mash",
+      "compress"
+    ],
+    "meaning": "an indication of squishy pressure",
+    "id": "guni-1",
+    "example": [{
+      "file": "guni-1a",
+      "contributor": "",
+      "display": "ぐに...",
+      "source": "double_play"
+    }]
+  }],
+  "literal": "guni"
 }

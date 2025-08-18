@@ -1,43 +1,38 @@
 {
-  "literal": "poro",
-  "katakana": [
-    "ポロ"
-  ],
-  "hiragana": [
-    "ぽろ"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of something dropping or falling",
-      "equivalent": [
-        "drop",
-        "fall",
-        "plop",
-        "plunk",
-        "slip",
-        "topple",
-        "drip"
-      ],
-      "example": [
-        {
-          "source": "komi_cant_communicate",
-          "file": "poro-1a",
-          "display": "ポロ",
-          "contributor": ""
-        },
-        {
-          "source": "uncle_at_heart",
-          "file": "poro-1b",
-          "display": "ポロ...",
-          "contributor": ""
-        },
-        {
-          "source": "requiem_for_prophet",
-          "file": "poro-1c",
-          "display": "ポロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぽろ"],
+  "katakana": ["ポロ"],
+  "definition": [{
+    "equivalent": [
+      "drop",
+      "fall",
+      "plop",
+      "plunk",
+      "slip",
+      "topple",
+      "drip"
+    ],
+    "meaning": "an indication of something dropping or falling",
+    "id": "poro-1",
+    "example": [
+      {
+        "file": "poro-1a",
+        "contributor": "",
+        "display": "ポロ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "poro-1b",
+        "contributor": "",
+        "display": "ポロ...",
+        "source": "uncle_at_heart"
+      },
+      {
+        "file": "poro-1c",
+        "contributor": "",
+        "display": "ポロ",
+        "source": "requiem_for_prophet"
+      }
+    ]
+  }],
+  "literal": "poro"
 }

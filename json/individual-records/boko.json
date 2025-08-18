@@ -1,34 +1,31 @@
 {
-  "literal": "boko",
-  "katakana": [
-    "ボコ",
-    "ボコッ"
-  ],
   "hiragana": [
     "ぼこ",
     "ぼこっ"
   ],
-  "definition": [
-    {
-      "meaning": "a sound of boiling or bubbling",
-      "equivalent": [
-        "bead",
-        "blister",
-        "blub",
-        "boil",
-        "bubble",
-        "glob",
-        "gob",
-        "pop"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "boko-1a",
-          "display": "ボコ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボコ",
+    "ボコッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bead",
+      "blister",
+      "blub",
+      "boil",
+      "bubble",
+      "glob",
+      "gob",
+      "pop"
+    ],
+    "meaning": "a sound of boiling or bubbling",
+    "id": "boko-1",
+    "example": [{
+      "file": "boko-1a",
+      "contributor": "",
+      "display": "ボコ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "boko"
 }

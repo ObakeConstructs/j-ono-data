@@ -1,29 +1,22 @@
 {
-  "literal": "gakyin",
-  "katakana": [
-    "ガキィン"
-  ],
-  "hiragana": [
-    "がきぃん"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of something metallic breaking",
-      "equivalent": [
-        "break",
-        "ga-king",
-        "ka-clang",
-        "rive",
-        "snap"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "gakyin-1a",
-          "display": "ガキィン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["がきぃん"],
+  "katakana": ["ガキィン"],
+  "definition": [{
+    "equivalent": [
+      "break",
+      "ga-king",
+      "ka-clang",
+      "rive",
+      "snap"
+    ],
+    "meaning": "the sound of something metallic breaking",
+    "id": "gakyin-1",
+    "example": [{
+      "file": "gakyin-1a",
+      "contributor": "",
+      "display": "ガキィン",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "gakyin"
 }

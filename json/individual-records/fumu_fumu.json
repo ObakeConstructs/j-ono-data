@@ -1,30 +1,23 @@
 {
-  "literal": "fumu fumu",
-  "katakana": [
-    "フムフム"
-  ],
-  "hiragana": [
-    "ふむふむ"
-  ],
-  "definition": [
-    {
-      "meaning": "an expression or sound of thoughtfulness or contemplation",
-      "equivalent": [
-        "hmm hmm",
-        "uh-huh",
-        "umm umm",
-        "uh uh",
-        "examine",
-        "think think"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "fumu_fumu-1a",
-          "display": "ふむ  ふむ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ふむふむ"],
+  "katakana": ["フムフム"],
+  "definition": [{
+    "equivalent": [
+      "hmm hmm",
+      "uh-huh",
+      "umm umm",
+      "uh uh",
+      "examine",
+      "think think"
+    ],
+    "meaning": "an expression or sound of thoughtfulness or contemplation",
+    "id": "fumu_fumu-1",
+    "example": [{
+      "file": "fumu_fumu-1a",
+      "contributor": "",
+      "display": "ふむ  ふむ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "fumu fumu"
 }

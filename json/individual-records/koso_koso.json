@@ -1,26 +1,19 @@
 {
-  "literal": "koso koso",
-  "katakana": [
-    "コソコソ"
-  ],
-  "hiragana": [
-    "こそこそ"
-  ],
-  "definition": [
-    {
-      "meaning": "to speak softly so as to not be overheard",
-      "equivalent": [
-        "quietly",
-        "whisper"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "koso_koso-1a",
-          "display": "こそ  こそ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["こそこそ"],
+  "katakana": ["コソコソ"],
+  "definition": [{
+    "equivalent": [
+      "quietly",
+      "whisper"
+    ],
+    "meaning": "to speak softly so as to not be overheard",
+    "id": "koso_koso-1",
+    "example": [{
+      "file": "koso_koso-1a",
+      "contributor": "",
+      "display": "こそ  こそ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "koso koso"
 }

@@ -1,36 +1,31 @@
 {
-  "literal": "peron",
-  "katakana": [
-    "ペロン"
-  ],
-  "hiragana": [
-    "ぺろん"
-  ],
+  "hiragana": ["ぺろん"],
+  "katakana": ["ペロン"],
   "definition": [
     {
-      "meaning": "the sound of a tongue licking something",
       "equivalent": [
         "lap",
         "lick",
         "slurp"
       ],
+      "meaning": "the sound of a tongue licking something",
+      "id": "peron-1",
       "example": [
         {
-          "source": "s_rank_behemoth",
           "file": "peron-1a",
+          "contributor": "",
           "display": "ぺろん",
-          "contributor": ""
+          "source": "s_rank_behemoth"
         },
         {
-          "source": "dog_became_strongest",
           "file": "peron-1b",
+          "contributor": "",
           "display": "ぺろん",
-          "contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     },
     {
-      "meaning": "an indication of lightly hanging or dangling",
       "equivalent": [
         "hang",
         "sway",
@@ -38,14 +33,15 @@
         "suspend",
         "drape"
       ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "peron-2a",
-          "display": "ペロン",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of lightly hanging or dangling",
+      "id": "peron-2",
+      "example": [{
+        "file": "peron-2a",
+        "contributor": "",
+        "display": "ペロン",
+        "source": "gyaru_academy"
+      }]
     }
-  ]
+  ],
+  "literal": "peron"
 }

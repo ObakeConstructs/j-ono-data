@@ -1,30 +1,27 @@
 {
-  "literal": "supi supi",
-  "katakana": [
-    "スピ",
-    "スピー"
-  ],
   "hiragana": [
     "すぴ",
     "すぴー"
   ],
-  "definition": [
-    {
-      "meaning": "soft breathing while sleeping or quietly snoring",
-      "equivalent": [
-        "beath",
-        "huff",
-        "whiff",
-        "zzz"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "supi_supi-1a",
-          "display": "スピー  スピー",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "スピ",
+    "スピー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beath",
+      "huff",
+      "whiff",
+      "zzz"
+    ],
+    "meaning": "soft breathing while sleeping or quietly snoring",
+    "id": "supi_supi-1",
+    "example": [{
+      "file": "supi_supi-1a",
+      "contributor": "",
+      "display": "スピー  スピー",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "supi supi"
 }

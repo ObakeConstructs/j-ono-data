@@ -1,29 +1,22 @@
 {
-  "literal": "kusu kusu",
-  "katakana": [
-    "クスクス"
-  ],
-  "hiragana": [
-    "くすくす"
-  ],
-  "definition": [
-    {
-      "meaning": "small light laughter or giggling",
-      "equivalent": [
-        "chortle",
-        "chuckle",
-        "giggle",
-        "heh heh",
-        "laughter"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "kusu_kusu-1a",
-          "display": "クス  クス",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["くすくす"],
+  "katakana": ["クスクス"],
+  "definition": [{
+    "equivalent": [
+      "chortle",
+      "chuckle",
+      "giggle",
+      "heh heh",
+      "laughter"
+    ],
+    "meaning": "small light laughter or giggling",
+    "id": "kusu_kusu-1",
+    "example": [{
+      "file": "kusu_kusu-1a",
+      "contributor": "",
+      "display": "クス  クス",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "kusu kusu"
 }

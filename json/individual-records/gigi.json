@@ -1,35 +1,32 @@
 {
-  "literal": "gigi",
-  "katakana": [
-    "ギギ",
-    "ギギギ",
-    "ギギギギ"
-  ],
   "hiragana": [
     "ぎぎ",
     "ぎぎぎ",
     "ぎぎぎぎ"
   ],
+  "katakana": [
+    "ギギ",
+    "ギギギ",
+    "ギギギギ"
+  ],
   "definition": [
     {
-      "meaning": "an expression of grinding one's teeth, as in pain or frustration",
       "equivalent": [
         "clench",
         "gnash",
         "grind",
         "grit"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "gigi-1a",
-          "display": "ギギ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an expression of grinding one's teeth, as in pain or frustration",
+      "id": "gigi-1",
+      "example": [{
+        "file": "gigi-1a",
+        "contributor": "",
+        "display": "ギギ",
+        "source": "different_world_smartphone"
+      }]
     },
     {
-      "meaning": "a series of squeak or squeals, as from a door, an old chair, or from animals",
       "equivalent": [
         "creak",
         "cry",
@@ -39,20 +36,23 @@
         "squeal",
         "squee"
       ],
+      "meaning": "a series of squeak or squeals, as from a door, an old chair, or from animals",
+      "id": "gigi-2",
       "example": [
         {
-          "source": "s_rank_behemoth",
           "file": "gigi-2a",
+          "contributor": "",
           "display": "ギギ...",
-          "contributor": ""
+          "source": "s_rank_behemoth"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "gigi-2b",
+          "contributor": "",
           "display": "ギギギギ...",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gigi"
 }

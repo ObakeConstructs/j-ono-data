@@ -1,38 +1,37 @@
 {
-  "literal": "puchi",
-  "katakana": [
-    "プチ",
-    "プチッ"
-  ],
   "hiragana": [
     "ぷち",
     "ぷちっ"
   ],
-  "definition": [
-    {
-      "meaning": "a gentle snapping or popping sound",
-      "equivalent": [
-        "click",
-        "crack",
-        "pop",
-        "snap",
-        "unbutton",
-        "unclasp"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "puchi-1a",
-          "display": "プチッ",
-          "contributor": ""
-        },
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "puchi-1b",
-          "display": "プチ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プチ",
+    "プチッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "click",
+      "crack",
+      "pop",
+      "snap",
+      "unbutton",
+      "unclasp"
+    ],
+    "meaning": "a gentle snapping or popping sound",
+    "id": "puchi-1",
+    "example": [
+      {
+        "file": "puchi-1a",
+        "contributor": "",
+        "display": "プチッ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "puchi-1b",
+        "contributor": "",
+        "display": "プチ",
+        "source": "embarrassing_and_sweet"
+      }
+    ]
+  }],
+  "literal": "puchi"
 }

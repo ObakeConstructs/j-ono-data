@@ -1,59 +1,58 @@
 {
-  "literal": "dan",
-  "katakana": [
-    "ダン",
-    "ダンッ",
-    "ダァン"
-  ],
   "hiragana": [
     "だん",
     "だんっ",
     "だぁん"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of a sudden impact or gunshot",
-      "equivalent": [
-        "bam",
-        "hit",
-        "knock",
-        "pound",
-        "punch",
-        "slam",
-        "strike",
-        "thud",
-        "thunk",
-        "bang",
-        "boom",
-        "blast",
-        "whack"
-      ],
-      "example": [
-        {
-          "source": "isekai_pickup",
-          "file": "dan-1a",
-          "display": "ダンッ",
-          "contributor": ""
-        },
-        {
-          "source": "eternal_fool_asley",
-          "file": "dan-1b",
-          "display": "だんっ!!",
-          "contributor": ""
-        },
-        {
-          "source": "saga_lagging_hero",
-          "file": "dan-1c",
-          "display": "だんっ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "dan-1d",
-          "display": "ダァン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ダン",
+    "ダンッ",
+    "ダァン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "hit",
+      "knock",
+      "pound",
+      "punch",
+      "slam",
+      "strike",
+      "thud",
+      "thunk",
+      "bang",
+      "boom",
+      "blast",
+      "whack"
+    ],
+    "meaning": "the sound of a sudden impact or gunshot",
+    "id": "dan-1",
+    "example": [
+      {
+        "file": "dan-1a",
+        "contributor": "",
+        "display": "ダンッ",
+        "source": "isekai_pickup"
+      },
+      {
+        "file": "dan-1b",
+        "contributor": "",
+        "display": "だんっ!!",
+        "source": "eternal_fool_asley"
+      },
+      {
+        "file": "dan-1c",
+        "contributor": "",
+        "display": "だんっ",
+        "source": "saga_lagging_hero"
+      },
+      {
+        "file": "dan-1d",
+        "contributor": "",
+        "display": "ダァン",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "dan"
 }

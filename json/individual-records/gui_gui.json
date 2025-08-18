@@ -1,31 +1,24 @@
 {
-  "literal": "gui gui",
-  "katakana": [
-    "グイグイ"
-  ],
-  "hiragana": [
-    "ぐいぐい"
-  ],
-  "definition": [
-    {
-      "meaning": "an expression of exaggerated enthusiasm or impatience",
-      "equivalent": [
-        "excited",
-        "eager",
-        "impatient",
-        "pumped",
-        "stoked",
-        "gung ho",
-        "geeked"
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "gui_gui-1a",
-          "display": "ぐい  ぐい",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぐいぐい"],
+  "katakana": ["グイグイ"],
+  "definition": [{
+    "equivalent": [
+      "excited",
+      "eager",
+      "impatient",
+      "pumped",
+      "stoked",
+      "gung ho",
+      "geeked"
+    ],
+    "meaning": "an expression of exaggerated enthusiasm or impatience",
+    "id": "gui_gui-1",
+    "example": [{
+      "file": "gui_gui-1a",
+      "contributor": "",
+      "display": "ぐい  ぐい",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "gui gui"
 }

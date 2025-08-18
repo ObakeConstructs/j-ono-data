@@ -1,31 +1,28 @@
 {
-  "literal": "zuru zuru",
-  "katakana": [
-    "ズルズル",
-    "ズルズルッ"
-  ],
   "hiragana": [
     "ずるずる",
     "ずるずるっ"
   ],
-  "definition": [
-    {
-      "meaning": "the indication or sound of something sliding or being dragged",
-      "equivalent": [
-        "drag drag",
-        "move move",
-        "pull pull",
-        "slide slide",
-        "slip slip"
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "zuru_zuru-1a",
-          "display": "ずるずる",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ズルズル",
+    "ズルズルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drag drag",
+      "move move",
+      "pull pull",
+      "slide slide",
+      "slip slip"
+    ],
+    "meaning": "the indication or sound of something sliding or being dragged",
+    "id": "zuru_zuru-1",
+    "example": [{
+      "file": "zuru_zuru-1a",
+      "contributor": "",
+      "display": "ずるずる",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "zuru zuru"
 }

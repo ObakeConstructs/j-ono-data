@@ -1,29 +1,22 @@
 {
-  "literal": "kusun",
-  "katakana": [
-    "クスン"
-  ],
-  "hiragana": [
-    "くすん"
-  ],
-  "definition": [
-    {
-      "meaning": "a soft cry or sniffle",
-      "equivalent": [
-        "cry",
-        "sob",
-        "sniffle",
-        "sniff",
-        "weep"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "kusun-1a",
-          "display": "くすん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["くすん"],
+  "katakana": ["クスン"],
+  "definition": [{
+    "equivalent": [
+      "cry",
+      "sob",
+      "sniffle",
+      "sniff",
+      "weep"
+    ],
+    "meaning": "a soft cry or sniffle",
+    "id": "kusun-1",
+    "example": [{
+      "file": "kusun-1a",
+      "contributor": "",
+      "display": "くすん",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "kusun"
 }

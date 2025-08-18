@@ -1,37 +1,32 @@
 {
-  "literal": "uro uro",
-  "katakana": [
-    "ウロウロ"
-  ],
-  "hiragana": [
-    "うろうろ"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of move about aimlessly or pacing",
-      "equivalent": [
-        "mill about",
-        "pace pace",
-        "roam roam",
-        "stroll stroll",
-        "traipse traipse",
-        "wander around",
-        "wander wander"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_as_a_dragon_egg",
-          "file": "uro_uro-1a",
-          "display": "ウロ  ウロ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "uro_uro-1b",
-          "display": "うろ  うろ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["うろうろ"],
+  "katakana": ["ウロウロ"],
+  "definition": [{
+    "equivalent": [
+      "mill about",
+      "pace pace",
+      "roam roam",
+      "stroll stroll",
+      "traipse traipse",
+      "wander around",
+      "wander wander"
+    ],
+    "meaning": "an indication of move about aimlessly or pacing",
+    "id": "uro_uro-1",
+    "example": [
+      {
+        "file": "uro_uro-1a",
+        "contributor": "",
+        "display": "ウロ  ウロ",
+        "source": "reincarnated_as_a_dragon_egg"
+      },
+      {
+        "file": "uro_uro-1b",
+        "contributor": "",
+        "display": "うろ  うろ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "uro uro"
 }

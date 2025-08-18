@@ -1,37 +1,32 @@
 {
-  "literal": "kiri kiri",
-  "katakana": [
-    "キリキリ"
-  ],
-  "hiragana": [
-    "きりきり"
-  ],
-  "definition": [
-    {
-      "meaning": "a sound of something pulled tight or straining under tension",
-      "equivalent": [
-        "creak creak",
-        "pull pull",
-        "strain strain",
-        "stress stress",
-        "stretch stretch",
-        "tense tense",
-        "tight tight"
-      ],
-      "example": [
-        {
-          "source": "marginal_taylor",
-          "file": "kiri_kiri-1a",
-          "display": "キリ  キリ",
-          "contributor": ""
-        },
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "kiri_kiri-1b",
-          "display": "キリ  キリ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["きりきり"],
+  "katakana": ["キリキリ"],
+  "definition": [{
+    "equivalent": [
+      "creak creak",
+      "pull pull",
+      "strain strain",
+      "stress stress",
+      "stretch stretch",
+      "tense tense",
+      "tight tight"
+    ],
+    "meaning": "a sound of something pulled tight or straining under tension",
+    "id": "kiri_kiri-1",
+    "example": [
+      {
+        "file": "kiri_kiri-1a",
+        "contributor": "",
+        "display": "キリ  キリ",
+        "source": "marginal_taylor"
+      },
+      {
+        "file": "kiri_kiri-1b",
+        "contributor": "",
+        "display": "キリ  キリ...",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "literal": "kiri kiri"
 }

@@ -1,20 +1,18 @@
 {
-  "literal": "pin",
-  "katakana": [
-    "ピン",
-    "ピーン",
-    "ピイン",
-    "ピイイン"
-  ],
   "hiragana": [
     "ぴん",
     "ぴーん",
     "ぴいん",
     "ぴいいん"
   ],
+  "katakana": [
+    "ピン",
+    "ピーン",
+    "ピイン",
+    "ピイイン"
+  ],
   "definition": [
     {
-      "meaning": "to suddenly approach someone or appear next to someone",
       "equivalent": [
         "appear",
         "flash",
@@ -22,17 +20,16 @@
         "zip",
         "zoom"
       ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "pin-1a",
-          "display": "ぴーん",
-          "contributor": ""
-        }
-      ]
+      "meaning": "to suddenly approach someone or appear next to someone",
+      "id": "pin-1",
+      "example": [{
+        "file": "pin-1a",
+        "contributor": "",
+        "display": "ぴーん",
+        "source": "s_rank_behemoth"
+      }]
     },
     {
-      "meaning": "the sound of a vibrating string, rope, or cable",
       "equivalent": [
         "pluck",
         "quiver",
@@ -41,17 +38,16 @@
         "twitch",
         "vibrate"
       ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "pin-2a",
-          "display": "ピン",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of a vibrating string, rope, or cable",
+      "id": "pin-2",
+      "example": [{
+        "file": "pin-2a",
+        "contributor": "",
+        "display": "ピン",
+        "source": "spy_x_family"
+      }]
     },
     {
-      "meaning": "an expression of sudden inspiration, revelation, or recognition",
       "equivalent": [
         "ah-hah",
         "inspiration",
@@ -61,36 +57,38 @@
         "revelation",
         "spark"
       ],
+      "meaning": "an expression of sudden inspiration, revelation, or recognition",
+      "id": "pin-3",
       "example": [
         {
-          "source": "isekai_av_filming",
           "file": "pin-3a",
+          "contributor": "",
           "display": "ピーン",
-          "contributor": ""
+          "source": "isekai_av_filming"
         },
         {
-          "source": "buy_the_land",
           "file": "pin-3b",
+          "contributor": "",
           "display": "ピン",
-          "contributor": ""
+          "source": "buy_the_land"
         }
       ]
     },
     {
-      "meaning": "a sharp pinging sound",
       "equivalent": [
         "ping",
         "ding",
         "bing"
       ],
-      "example": [
-        {
-          "source": "kaijuu_sdf",
-          "file": "pin-4a",
-          "display": "ピイイン",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a sharp pinging sound",
+      "id": "pin-4",
+      "example": [{
+        "file": "pin-4a",
+        "contributor": "",
+        "display": "ピイイン",
+        "source": "kaijuu_sdf"
+      }]
     }
-  ]
+  ],
+  "literal": "pin"
 }

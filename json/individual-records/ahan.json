@@ -1,36 +1,35 @@
 {
-  "literal": "ahan",
-  "katakana": [
-    "アハン",
-    "アハーン"
-  ],
   "hiragana": [
     "あはん",
     "あはーん"
   ],
-  "definition": [
-    {
-      "meaning": "a sound of moaning, often used in a comical manner to express pleasure or desire",
-      "equivalent": [
-        "aha-n",
-        "ahh",
-        "moan",
-        "sigh"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "ahan-1a",
-          "display": "あはーん",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_sniper",
-          "file": "ahan-1b",
-          "display": "あは〜ん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "アハン",
+    "アハーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aha-n",
+      "ahh",
+      "moan",
+      "sigh"
+    ],
+    "meaning": "a sound of moaning, often used in a comical manner to express pleasure or desire",
+    "id": "ahan-1",
+    "example": [
+      {
+        "file": "ahan-1a",
+        "contributor": "",
+        "display": "あはーん",
+        "source": "hello_work"
+      },
+      {
+        "file": "ahan-1b",
+        "contributor": "",
+        "display": "あは〜ん",
+        "source": "isekai_sniper"
+      }
+    ]
+  }],
+  "literal": "ahan"
 }

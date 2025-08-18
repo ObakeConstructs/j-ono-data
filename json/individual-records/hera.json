@@ -1,32 +1,29 @@
 {
-  "literal": "hera",
-  "katakana": [
-    "ヘラ",
-    "ヘラッ"
-  ],
   "hiragana": [
     "ヘら",
     "ヘらっ"
   ],
-  "definition": [
-    {
-      "meaning": "an awkward or uncomfortable smile",
-      "equivalent": [
-        "grin",
-        "smile",
-        "heh",
-        "awkward",
-        "uncomfortable ",
-        "uneasy"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "hera-1a",
-          "display": "ヘラッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヘラ",
+    "ヘラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "grin",
+      "smile",
+      "heh",
+      "awkward",
+      "uncomfortable ",
+      "uneasy"
+    ],
+    "meaning": "an awkward or uncomfortable smile",
+    "id": "hera-1",
+    "example": [{
+      "file": "hera-1a",
+      "contributor": "",
+      "display": "ヘラッ",
+      "source": "double_play"
+    }]
+  }],
+  "literal": "hera"
 }

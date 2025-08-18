@@ -1,18 +1,16 @@
 {
-  "literal": "shun",
-  "katakana": [
-    "シュン",
-    "シュンッ",
-    "シューンッ"
-  ],
   "hiragana": [
     "しゅん",
     "しゅんっ",
     "しゅーんっ"
   ],
+  "katakana": [
+    "シュン",
+    "シュンッ",
+    "シューンッ"
+  ],
   "definition": [
     {
-      "meaning": "an expression of sadness or gloom",
       "equivalent": [
         "crestfallen",
         "dejected",
@@ -25,29 +23,30 @@
         "sorrow",
         "unhappy"
       ],
+      "meaning": "an expression of sadness or gloom",
+      "id": "shun-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "shun-1a",
+          "contributor": "",
           "display": "しゅん...",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "peter_grill",
           "file": "shun-1b",
+          "contributor": "",
           "display": "シューン...",
-          "contributor": ""
+          "source": "peter_grill"
         },
         {
-          "source": "hero_or_demon_king",
           "file": "shun-1c",
+          "contributor": "",
           "display": "シュン",
-          "contributor": ""
+          "source": "hero_or_demon_king"
         }
       ]
     },
     {
-      "meaning": "to move quickly with only the sound of flowing air, often vanishing",
       "equivalent": [
         "fwip",
         "whiz",
@@ -55,20 +54,23 @@
         "zip",
         "zoom"
       ],
+      "meaning": "to move quickly with only the sound of flowing air, often vanishing",
+      "id": "shun-2",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "shun-2a",
+          "contributor": "",
           "display": "シュン",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "shun-2b",
+          "contributor": "",
           "display": "シュンッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     }
-  ]
+  ],
+  "literal": "shun"
 }

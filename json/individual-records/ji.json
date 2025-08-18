@@ -1,12 +1,4 @@
 {
-  "literal": "ji",
-  "katakana": [
-    "ジ",
-    "ジッ",
-    "ジー",
-    "ジーッ",
-    "ジィッ"
-  ],
   "hiragana": [
     "じ",
     "じっ",
@@ -14,9 +6,15 @@
     "じーっ",
     "じぃっ"
   ],
+  "katakana": [
+    "ジ",
+    "ジッ",
+    "ジー",
+    "ジーッ",
+    "ジィッ"
+  ],
   "definition": [
     {
-      "meaning": "a lengthy stare at someone or something",
       "equivalent": [
         "gape",
         "gawk",
@@ -26,47 +24,49 @@
         "stare",
         "study"
       ],
+      "meaning": "a lengthy stare at someone or something",
+      "id": "ji-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ji-1a",
+          "contributor": "",
           "display": "じっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "d_genesis",
           "file": "ji-1b",
+          "contributor": "",
           "display": "じぃっ...",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "komi_cant_communicate",
           "file": "ji-1c",
+          "contributor": "",
           "display": "じー",
-          "contributor": ""
+          "source": "komi_cant_communicate"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "ji-1d",
+          "contributor": "",
           "display": "じー",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     },
     {
-      "meaning": "the sound of a zipper opening or closing",
       "equivalent": [
         "unzip",
         "zip"
       ],
-      "example": [
-        {
-          "source": "neet_kunoichi",
-          "file": "ji-2a",
-          "display": "ジー",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of a zipper opening or closing",
+      "id": "ji-2",
+      "example": [{
+        "file": "ji-2a",
+        "contributor": "",
+        "display": "ジー",
+        "source": "neet_kunoichi"
+      }]
     }
-  ]
+  ],
+  "literal": "ji"
 }

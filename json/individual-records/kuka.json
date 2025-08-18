@@ -1,32 +1,29 @@
 {
-  "literal": "kuka",
-  "katakana": [
-    "クカ",
-    "クカー"
-  ],
   "hiragana": [
     "くか",
     "くかー"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of sleeping or the sound of sleepy breathing",
-      "equivalent": [
-        "zzz",
-        "breath",
-        "sleep",
-        "slumber",
-        "asleep",
-        "drowsy"
-      ],
-      "example": [
-        {
-          "source": "35_year_olds_choice",
-          "file": "kuka-1a",
-          "display": "くかー",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "クカ",
+    "クカー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "zzz",
+      "breath",
+      "sleep",
+      "slumber",
+      "asleep",
+      "drowsy"
+    ],
+    "meaning": "an indication of sleeping or the sound of sleepy breathing",
+    "id": "kuka-1",
+    "example": [{
+      "file": "kuka-1a",
+      "contributor": "",
+      "display": "くかー",
+      "source": "35_year_olds_choice"
+    }]
+  }],
+  "literal": "kuka"
 }

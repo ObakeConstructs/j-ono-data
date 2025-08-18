@@ -1,31 +1,28 @@
 {
-  "literal": "ki ki",
-  "katakana": [
-    "キキ",
-    "キキキ"
-  ],
   "hiragana": [
     "きき",
     "ききき"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of dramatic tension or danger",
-      "equivalent": [
-        "tense",
-        "danger",
-        "anxious",
-        "fraught",
-        "uneasy"
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "ki_ki-1a",
-          "display": "キ  キ  キ  キ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "キキ",
+    "キキキ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "tense",
+      "danger",
+      "anxious",
+      "fraught",
+      "uneasy"
+    ],
+    "meaning": "an indication of dramatic tension or danger",
+    "id": "ki_ki-1",
+    "example": [{
+      "file": "ki_ki-1a",
+      "contributor": "",
+      "display": "キ  キ  キ  キ",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "ki ki"
 }

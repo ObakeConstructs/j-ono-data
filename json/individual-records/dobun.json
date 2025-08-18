@@ -1,28 +1,21 @@
 {
-  "literal": "dobun",
-  "katakana": [
-    "ドブン"
-  ],
-  "hiragana": [
-    "どぶん"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of something splashing into water",
-      "equivalent": [
-        "splash",
-        "sploosh",
-        "plop",
-        "plunge"
-      ],
-      "example": [
-        {
-          "source": "kaijuu_sdf",
-          "file": "dobun-1a",
-          "display": "ドブン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どぶん"],
+  "katakana": ["ドブン"],
+  "definition": [{
+    "equivalent": [
+      "splash",
+      "sploosh",
+      "plop",
+      "plunge"
+    ],
+    "meaning": "the sound of something splashing into water",
+    "id": "dobun-1",
+    "example": [{
+      "file": "dobun-1a",
+      "contributor": "",
+      "display": "ドブン",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "literal": "dobun"
 }

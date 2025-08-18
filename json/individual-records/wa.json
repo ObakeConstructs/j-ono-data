@@ -1,18 +1,4 @@
 {
-  "literal": "wa",
-  "katakana": [
-    "ワ",
-    "ワッ",
-    "ワア",
-    "ワアッ",
-    "ワアア",
-    "ワアアア",
-    "ワァ",
-    "ワァッ",
-    "ワァァ",
-    "ワァァァ",
-    "ワーッ"
-  ],
   "hiragana": [
     "わ",
     "わっ",
@@ -26,45 +12,58 @@
     "わぁぁぁ",
     "わーっ"
   ],
-  "definition": [
-    {
-      "meaning": "a roar or shout, as in fear or in celebration",
-      "equivalent": [
-        "bellow",
-        "howl",
-        "raaa",
-        "roar",
-        "shout",
-        "waa",
-        "yaaa",
-        "yay"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "wa-1a",
-          "display": "わっ",
-          "contributor": ""
-        },
-        {
-          "source": "world_full_of_monsters",
-          "file": "wa-1b",
-          "display": "ワァァァ",
-          "contributor": ""
-        },
-        {
-          "source": "komi_cant_communicate",
-          "file": "wa-1c",
-          "display": "ワァァァ",
-          "contributor": ""
-        },
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "wa-1d",
-          "display": "わーっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ワ",
+    "ワッ",
+    "ワア",
+    "ワアッ",
+    "ワアア",
+    "ワアアア",
+    "ワァ",
+    "ワァッ",
+    "ワァァ",
+    "ワァァァ",
+    "ワーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bellow",
+      "howl",
+      "raaa",
+      "roar",
+      "shout",
+      "waa",
+      "yaaa",
+      "yay"
+    ],
+    "meaning": "a roar or shout, as in fear or in celebration",
+    "id": "wa-1",
+    "example": [
+      {
+        "file": "wa-1a",
+        "contributor": "",
+        "display": "わっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "wa-1b",
+        "contributor": "",
+        "display": "ワァァァ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "wa-1c",
+        "contributor": "",
+        "display": "ワァァァ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "wa-1d",
+        "contributor": "",
+        "display": "わーっ",
+        "source": "abandoned_reincarnation_sage"
+      }
+    ]
+  }],
+  "literal": "wa"
 }

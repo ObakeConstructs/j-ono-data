@@ -1,35 +1,30 @@
 {
-  "literal": "kyoro",
-  "katakana": [
-    "キョロ"
-  ],
-  "hiragana": [
-    "きょろ"
-  ],
-  "definition": [
-    {
-      "meaning": "to look around or to search",
-      "equivalent": [
-        "glance",
-        "glimpse",
-        "look",
-        "search",
-        "view"
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "kyoro-1a",
-          "display": "きょろ",
-          "contributor": ""
-        },
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "kyoro-1b",
-          "display": "キョロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["きょろ"],
+  "katakana": ["キョロ"],
+  "definition": [{
+    "equivalent": [
+      "glance",
+      "glimpse",
+      "look",
+      "search",
+      "view"
+    ],
+    "meaning": "to look around or to search",
+    "id": "kyoro-1",
+    "example": [
+      {
+        "file": "kyoro-1a",
+        "contributor": "",
+        "display": "きょろ",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "kyoro-1b",
+        "contributor": "",
+        "display": "キョロ",
+        "source": "killed_by_gods_mistake"
+      }
+    ]
+  }],
+  "literal": "kyoro"
 }

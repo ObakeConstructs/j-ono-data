@@ -1,31 +1,24 @@
 {
-  "literal": "musha musha",
-  "katakana": [
-    "ムシャムシャ"
-  ],
-  "hiragana": [
-    "むしゃむしゃ"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of biting or chewing sounds",
-      "equivalent": [
-        "nom nom",
-        "munch munch",
-        "bite bite",
-        "chomp chomp",
-        "snarf snarf",
-        "eat eat",
-        "chew chew"
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "musha_musha-1a",
-          "display": "ムシャ  ムシャ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["むしゃむしゃ"],
+  "katakana": ["ムシャムシャ"],
+  "definition": [{
+    "equivalent": [
+      "nom nom",
+      "munch munch",
+      "bite bite",
+      "chomp chomp",
+      "snarf snarf",
+      "eat eat",
+      "chew chew"
+    ],
+    "meaning": "a series of biting or chewing sounds",
+    "id": "musha_musha-1",
+    "example": [{
+      "file": "musha_musha-1a",
+      "contributor": "",
+      "display": "ムシャ  ムシャ",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "musha musha"
 }

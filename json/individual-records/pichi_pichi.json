@@ -1,31 +1,24 @@
 {
-  "literal": "pichi pichi",
-  "katakana": [
-    "ピチピチ"
-  ],
-  "hiragana": [
-    "ぴちぴち"
-  ],
-  "definition": [
-    {
-      "meaning": "an expression of something lively and energetic, often associated with freshly caught fish",
-      "equivalent": [
-        "flap flap",
-        "fresh",
-        "lively",
-        "energetic",
-        "bounce bounce",
-        "flop flop",
-        "vibrant"
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "pichi_pichi-1a",
-          "display": "ピチ  ピチ  ピチ  ピチ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぴちぴち"],
+  "katakana": ["ピチピチ"],
+  "definition": [{
+    "equivalent": [
+      "flap flap",
+      "fresh",
+      "lively",
+      "energetic",
+      "bounce bounce",
+      "flop flop",
+      "vibrant"
+    ],
+    "meaning": "an expression of something lively and energetic, often associated with freshly caught fish",
+    "id": "pichi_pichi-1",
+    "example": [{
+      "file": "pichi_pichi-1a",
+      "contributor": "",
+      "display": "ピチ  ピチ  ピチ  ピチ",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "pichi pichi"
 }

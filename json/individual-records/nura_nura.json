@@ -1,31 +1,24 @@
 {
-  "literal": "nura nura",
-  "katakana": [
-    "ヌラヌラ"
-  ],
-  "hiragana": [
-    "ぬらぬら"
-  ],
-  "definition": [
-    {
-      "meaning": "an expression of anger or irritation",
-      "equivalent": [
-        "anger anger",
-        "mad mad",
-        "danger danger",
-        "fury fury",
-        "ire ire",
-        "roil roil",
-        "peeved  peeved"
-      ],
-      "example": [
-        {
-          "source": "sex_with_me_sells",
-          "file": "nura_nura-1a",
-          "display": "ヌラ  ヌラ  ヌラ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぬらぬら"],
+  "katakana": ["ヌラヌラ"],
+  "definition": [{
+    "equivalent": [
+      "anger anger",
+      "mad mad",
+      "danger danger",
+      "fury fury",
+      "ire ire",
+      "roil roil",
+      "peeved  peeved"
+    ],
+    "meaning": "an expression of anger or irritation",
+    "id": "nura_nura-1",
+    "example": [{
+      "file": "nura_nura-1a",
+      "contributor": "",
+      "display": "ヌラ  ヌラ  ヌラ",
+      "source": "sex_with_me_sells"
+    }]
+  }],
+  "literal": "nura nura"
 }

@@ -1,42 +1,41 @@
 {
-  "literal": "zan",
-  "katakana": [
-    "ザン",
-    "ザンッ"
-  ],
   "hiragana": [
     "ざん",
     "ざんっ"
   ],
-  "definition": [
-    {
-      "meaning": "a hard fast cut, as with a sword or knife",
-      "equivalent": [
-        "cleave",
-        "cut",
-        "slash",
-        "slice"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "zan-1a",
-          "display": "ザン!",
-          "contributor": ""
-        },
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "zan-1b",
-          "display": "ザンッ",
-          "contributor": ""
-        },
-        {
-          "source": "saga_lagging_hero",
-          "file": "zan-1c",
-          "display": "ザン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザン",
+    "ザンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "slash",
+      "slice"
+    ],
+    "meaning": "a hard fast cut, as with a sword or knife",
+    "id": "zan-1",
+    "example": [
+      {
+        "file": "zan-1a",
+        "contributor": "",
+        "display": "ザン!",
+        "source": "hello_work"
+      },
+      {
+        "file": "zan-1b",
+        "contributor": "",
+        "display": "ザンッ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "zan-1c",
+        "contributor": "",
+        "display": "ザン",
+        "source": "saga_lagging_hero"
+      }
+    ]
+  }],
+  "literal": "zan"
 }

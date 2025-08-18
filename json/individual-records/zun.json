@@ -1,15 +1,4 @@
 {
-  "literal": "zun",
-  "katakana": [
-    "ズン",
-    "ズーン",
-    "ズウーン",
-    "ズウン",
-    "ズウウン",
-    "ズゥン",
-    "ズゥゥン",
-    "ズンッ"
-  ],
   "hiragana": [
     "ずん",
     "ずーん",
@@ -20,9 +9,18 @@
     "ずぅぅん",
     "ずんっ"
   ],
+  "katakana": [
+    "ズン",
+    "ズーン",
+    "ズウーン",
+    "ズウン",
+    "ズウウン",
+    "ズゥン",
+    "ズゥゥン",
+    "ズンッ"
+  ],
   "definition": [
     {
-      "meaning": "an expression of low spirits",
       "equivalent": [
         "dejected",
         "depressed",
@@ -32,29 +30,30 @@
         "glum",
         "mope"
       ],
+      "meaning": "an expression of low spirits",
+      "id": "zun-1",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "zun-1a",
+          "contributor": "",
           "display": "ずぅぅん...",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "zun-1c",
+          "contributor": "",
           "display": "ずうーん",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "hero_or_demon_king",
           "file": "zun-1d",
+          "contributor": "",
           "display": "ズゥゥゥン",
-          "contributor": ""
+          "source": "hero_or_demon_king"
         }
       ]
     },
     {
-      "meaning": "an expression of rage, killing-intent, or bloodlust",
       "equivalent": [
         "bloodlust",
         "furious",
@@ -69,17 +68,16 @@
         "steamed",
         "tension"
       ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "zun-2a",
-          "display": "ズン",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an expression of rage, killing-intent, or bloodlust",
+      "id": "zun-2",
+      "example": [{
+        "file": "zun-2a",
+        "contributor": "",
+        "display": "ズン",
+        "source": "my_s-ranked_daughter"
+      }]
     },
     {
-      "meaning": "a hard crashing or thudding sound",
       "equivalent": [
         "bam",
         "bang",
@@ -90,14 +88,15 @@
         "wham",
         "whomp"
       ],
-      "example": [
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "zun-3a",
-          "display": "ズンッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a hard crashing or thudding sound",
+      "id": "zun-3",
+      "example": [{
+        "file": "zun-3a",
+        "contributor": "",
+        "display": "ズンッ",
+        "source": "killed_by_gods_mistake"
+      }]
     }
-  ]
+  ],
+  "literal": "zun"
 }

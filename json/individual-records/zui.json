@@ -1,20 +1,18 @@
 {
-  "literal": "zui",
-  "katakana": [
-    "ズイ",
-    "ズイッ",
-    "ズィ",
-    "ズィッ"
-  ],
   "hiragana": [
     "ずい",
     "ずいっ",
     "ずぃ",
     "ずぃっ"
   ],
+  "katakana": [
+    "ズイ",
+    "ズイッ",
+    "ズィ",
+    "ズィッ"
+  ],
   "definition": [
     {
-      "meaning": "to stare at someone's face, often uncomfortably close",
       "equivalent": [
         "gape",
         "gawk",
@@ -24,29 +22,30 @@
         "stare",
         "study"
       ],
+      "meaning": "to stare at someone's face, often uncomfortably close",
+      "id": "zui-1",
       "example": [
         {
-          "source": "reincarnated_farm_girl",
           "file": "zui-1a",
+          "contributor": "",
           "display": "ずいっ",
-          "contributor": ""
+          "source": "reincarnated_farm_girl"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "zui-1b",
+          "contributor": "",
           "display": "ずい",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "cheat_pharmacist",
           "file": "zui-1c",
+          "contributor": "",
           "display": "ズィ",
-          "contributor": ""
+          "source": "cheat_pharmacist"
         }
       ]
     },
     {
-      "meaning": "to push something toward someone's face, typically in an aggressive or sudden manner",
       "equivalent": [
         "display",
         "give",
@@ -58,14 +57,15 @@
         "thrust",
         "unveil"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "zui-2a",
-          "display": "ずいっ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "to push something toward someone's face, typically in an aggressive or sudden manner",
+      "id": "zui-2",
+      "example": [{
+        "file": "zui-2a",
+        "contributor": "",
+        "display": "ずいっ",
+        "source": "different_world_smartphone"
+      }]
     }
-  ]
+  ],
+  "literal": "zui"
 }

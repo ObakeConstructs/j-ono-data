@@ -1,13 +1,4 @@
 {
-  "literal": "dokan",
-  "katakana": [
-    "ドカン",
-    "ドカンッ",
-    "ドカァン",
-    "ドカァンッ",
-    "ドカーン",
-    "ドカーンッ"
-  ],
   "hiragana": [
     "どかん",
     "どかんっ",
@@ -16,40 +7,48 @@
     "どかーん",
     "どかーんっ"
   ],
-  "definition": [
-    {
-      "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
-      "equivalent": [
-        "blam",
-        "blow",
-        "boom",
-        "crash",
-        "slam",
-        "smash",
-        "strike",
-        "wallop",
-        "wham"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "dokan-1a",
-          "display": "ドカァン",
-          "contributor": ""
-        },
-        {
-          "source": "strongest_magician_was_human",
-          "file": "dokan-1b",
-          "display": "ドカーンッ",
-          "contributor": ""
-        },
-        {
-          "source": "strongest_magician_was_human",
-          "file": "dokan-1c",
-          "display": "ドカン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドカン",
+    "ドカンッ",
+    "ドカァン",
+    "ドカァンッ",
+    "ドカーン",
+    "ドカーンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blam",
+      "blow",
+      "boom",
+      "crash",
+      "slam",
+      "smash",
+      "strike",
+      "wallop",
+      "wham"
+    ],
+    "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
+    "id": "dokan-1",
+    "example": [
+      {
+        "file": "dokan-1a",
+        "contributor": "",
+        "display": "ドカァン",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "dokan-1b",
+        "contributor": "",
+        "display": "ドカーンッ",
+        "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "dokan-1c",
+        "contributor": "",
+        "display": "ドカン",
+        "source": "strongest_magician_was_human"
+      }
+    ]
+  }],
+  "literal": "dokan"
 }

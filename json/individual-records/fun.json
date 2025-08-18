@@ -1,46 +1,45 @@
 {
-  "literal": "fun",
-  "katakana": [
-    "フン",
-    "フンッ"
-  ],
   "hiragana": [
     "ふん",
     "ふんっ"
   ],
-  "definition": [
-    {
-      "meaning": "the short sound of a grunt or a groan, may express strain, frustration, distress, or used as an offensive dismissal",
-      "equivalent": [
-        "arg",
-        "gah",
-        "groan",
-        "grunt",
-        "har",
-        "hmph",
-        "humph",
-        "urgh"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "fun-1a",
-          "display": "フンッ!!",
-          "contributor": ""
-        },
-        {
-          "source": "fushi_no_kami",
-          "file": "fun-1b",
-          "display": "ふん",
-          "contributor": ""
-        },
-        {
-          "source": "eternal_fool_asley",
-          "file": "fun-1c",
-          "display": "ふんっ!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "フン",
+    "フンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "arg",
+      "gah",
+      "groan",
+      "grunt",
+      "har",
+      "hmph",
+      "humph",
+      "urgh"
+    ],
+    "meaning": "the short sound of a grunt or a groan, may express strain, frustration, distress, or used as an offensive dismissal",
+    "id": "fun-1",
+    "example": [
+      {
+        "file": "fun-1a",
+        "contributor": "",
+        "display": "フンッ!!",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "fun-1b",
+        "contributor": "",
+        "display": "ふん",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "fun-1c",
+        "contributor": "",
+        "display": "ふんっ!",
+        "source": "eternal_fool_asley"
+      }
+    ]
+  }],
+  "literal": "fun"
 }

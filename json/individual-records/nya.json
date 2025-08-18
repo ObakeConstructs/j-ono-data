@@ -1,26 +1,19 @@
 {
-  "literal": "nya",
-  "katakana": [
-    "ニャ"
-  ],
-  "hiragana": [
-    "にゃ"
-  ],
-  "definition": [
-    {
-      "meaning": "mimicking a cat to express friendly, playful teasing",
-      "equivalent": [
-        "meow",
-        "nya"
-      ],
-      "example": [
-        {
-          "source": "isekai_pickup",
-          "file": "nya-1a",
-          "display": "ニャ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["にゃ"],
+  "katakana": ["ニャ"],
+  "definition": [{
+    "equivalent": [
+      "meow",
+      "nya"
+    ],
+    "meaning": "mimicking a cat to express friendly, playful teasing",
+    "id": "nya-1",
+    "example": [{
+      "file": "nya-1a",
+      "contributor": "",
+      "display": "ニャ...",
+      "source": "isekai_pickup"
+    }]
+  }],
+  "literal": "nya"
 }

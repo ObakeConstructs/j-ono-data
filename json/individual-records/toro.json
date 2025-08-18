@@ -1,52 +1,51 @@
 {
-  "literal": "toro",
-  "katakana": [
-    "トロ",
-    "トロッ"
-  ],
   "hiragana": [
     "とろ",
     "とろっ"
   ],
-  "definition": [
-    {
-      "meaning": "the indication or sound of melting, flowing, or dripping slowly",
-      "equivalent": [
-        "dissolve",
-        "dribble",
-        "drip",
-        "exude",
-        "flow",
-        "glop",
-        "liquify",
-        "melt",
-        "ooze",
-        "run",
-        "seep",
-        "soften",
-        "thaw",
-        "trickle"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "toro-1a",
-          "display": "トロッ...",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "toro-1b",
-          "display": "トロ....",
-          "contributor": ""
-        },
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "toro-1c",
-          "display": "とろ...っ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "トロ",
+    "トロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dissolve",
+      "dribble",
+      "drip",
+      "exude",
+      "flow",
+      "glop",
+      "liquify",
+      "melt",
+      "ooze",
+      "run",
+      "seep",
+      "soften",
+      "thaw",
+      "trickle"
+    ],
+    "meaning": "the indication or sound of melting, flowing, or dripping slowly",
+    "id": "toro-1",
+    "example": [
+      {
+        "file": "toro-1a",
+        "contributor": "",
+        "display": "トロッ...",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "toro-1b",
+        "contributor": "",
+        "display": "トロ....",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "toro-1c",
+        "contributor": "",
+        "display": "とろ...っ",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "literal": "toro"
 }

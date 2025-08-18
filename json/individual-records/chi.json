@@ -1,31 +1,28 @@
 {
-  "literal": "chi",
-  "katakana": [
-    "チ",
-    "チッ"
-  ],
   "hiragana": [
     "ち",
     "ちっ"
   ],
-  "definition": [
-    {
-      "meaning": "a verbal interjection indicating annoyance ",
-      "equivalent": [
-        "tch",
-        "tsk",
-        "bah",
-        "damn",
-        "crap"
-      ],
-      "example": [
-        {
-          "source": "way_of_isekai_cooking",
-          "file": "chi-1a",
-          "display": "ちっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チ",
+    "チッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "tch",
+      "tsk",
+      "bah",
+      "damn",
+      "crap"
+    ],
+    "meaning": "a verbal interjection indicating annoyance ",
+    "id": "chi-1",
+    "example": [{
+      "file": "chi-1a",
+      "contributor": "",
+      "display": "ちっ",
+      "source": "way_of_isekai_cooking"
+    }]
+  }],
+  "literal": "chi"
 }

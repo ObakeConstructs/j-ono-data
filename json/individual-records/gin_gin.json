@@ -1,31 +1,28 @@
 {
-  "literal": "gin gin",
-  "katakana": [
-    "ギンギン",
-    "ギンギンッ"
-  ],
   "hiragana": [
     "ぎんぎん",
     "ぎんぎんっ"
   ],
-  "definition": [
-    {
-      "meaning": "a fixed intent look",
-      "equivalent": [
-        "fixate",
-        "glare",
-        "glower",
-        "regard",
-        "stare"
-      ],
-      "example": [
-        {
-          "source": "sex_with_me_sells",
-          "file": "gin_gin-1a",
-          "display": "ギン  ギン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギンギン",
+    "ギンギンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fixate",
+      "glare",
+      "glower",
+      "regard",
+      "stare"
+    ],
+    "meaning": "a fixed intent look",
+    "id": "gin_gin-1",
+    "example": [{
+      "file": "gin_gin-1a",
+      "contributor": "",
+      "display": "ギン  ギン",
+      "source": "sex_with_me_sells"
+    }]
+  }],
+  "literal": "gin gin"
 }

@@ -1,27 +1,20 @@
 {
-  "literal": "rero rero",
-  "katakana": [
-    "レロレロ"
-  ],
-  "hiragana": [
-    "れろれろ"
-  ],
-  "definition": [
-    {
-      "meaning": "the indication or sound of a series of tongue lickings",
-      "equivalent": [
-        "flick flick",
-        "lap lap",
-        "lick lick"
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "rero_rero-1a",
-          "display": "レロ  レロ  レロ  レロ  レロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["れろれろ"],
+  "katakana": ["レロレロ"],
+  "definition": [{
+    "equivalent": [
+      "flick flick",
+      "lap lap",
+      "lick lick"
+    ],
+    "meaning": "the indication or sound of a series of tongue lickings",
+    "id": "rero_rero-1",
+    "example": [{
+      "file": "rero_rero-1a",
+      "contributor": "",
+      "display": "レロ  レロ  レロ  レロ  レロ",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "rero rero"
 }

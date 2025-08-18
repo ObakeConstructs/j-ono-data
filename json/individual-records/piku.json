@@ -1,16 +1,14 @@
 {
-  "literal": "piku",
-  "katakana": [
-    "ピク",
-    "ピクッ"
-  ],
   "hiragana": [
     "ぴく",
     "ぴくっ"
   ],
+  "katakana": [
+    "ピク",
+    "ピクッ"
+  ],
   "definition": [
     {
-      "meaning": "to tense up from surprise or fear",
       "equivalent": [
         "cringe",
         "flinch",
@@ -19,58 +17,59 @@
         "twitch",
         "wince"
       ],
+      "meaning": "to tense up from surprise or fear",
+      "id": "piku-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "piku-1a",
+          "contributor": "",
           "display": "ぴくっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "piku-1b",
+          "contributor": "",
           "display": "ピクッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "fushi_no_kami",
           "file": "piku-1c",
+          "contributor": "",
           "display": "ピク",
-          "contributor": ""
+          "source": "fushi_no_kami"
         }
       ]
     },
     {
-      "meaning": "a small, deliberate movement",
       "equivalent": [
         "fiddle",
         "fidget",
         "move",
         "twitch"
       ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "piku-2a",
-          "display": "ピク",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a small, deliberate movement",
+      "id": "piku-2",
+      "example": [{
+        "file": "piku-2a",
+        "contributor": "",
+        "display": "ピク",
+        "source": "d_genesis"
+      }]
     },
     {
-      "meaning": "to rapidly open and close one's eyes, as from slumber",
       "equivalent": [
         "blink",
         "squint"
       ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "piku-3a",
-          "display": "ぴく",
-          "contributor": ""
-        }
-      ]
+      "meaning": "to rapidly open and close one's eyes, as from slumber",
+      "id": "piku-3",
+      "example": [{
+        "file": "piku-3a",
+        "contributor": "",
+        "display": "ぴく",
+        "source": "s_rank_behemoth"
+      }]
     }
-  ]
+  ],
+  "literal": "piku"
 }

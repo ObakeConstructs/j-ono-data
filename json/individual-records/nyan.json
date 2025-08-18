@@ -1,28 +1,25 @@
 {
-  "literal": "nyan",
-  "katakana": [
-    "ニャン",
-    "ニャーン"
-  ],
   "hiragana": [
     "にゃん",
     "にゃーん"
   ],
-  "definition": [
-    {
-      "meaning": "the cry of a cat",
-      "equivalent": [
-        "meow",
-        "mrow"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "nyan-1a",
-          "display": "にゃーん!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ニャン",
+    "ニャーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "meow",
+      "mrow"
+    ],
+    "meaning": "the cry of a cat",
+    "id": "nyan-1",
+    "example": [{
+      "file": "nyan-1a",
+      "contributor": "",
+      "display": "にゃーん!",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "nyan"
 }

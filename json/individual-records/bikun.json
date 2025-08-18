@@ -1,43 +1,42 @@
 {
-  "literal": "bikun",
-  "katakana": [
-    "ビクン",
-    "ビクーン",
-    "ビクンッ",
-    "ビクーンッ"
-  ],
   "hiragana": [
     "びくん",
     "びくーん",
     "びくんっ",
     "びくーんっ"
   ],
+  "katakana": [
+    "ビクン",
+    "ビクーン",
+    "ビクンッ",
+    "ビクーンッ"
+  ],
   "definition": [
     {
-      "meaning": "an indication of shaking or shuddering",
       "equivalent": [
         "quiver",
         "shiver",
         "shudder",
         "tremble"
       ],
+      "meaning": "an indication of shaking or shuddering",
+      "id": "bikun-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "bikun-1a",
+          "contributor": "",
           "display": "ビクン",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "rise_of_the_outlaw_tamer",
           "file": "bikun-1b",
+          "contributor": "",
           "display": "ビクン",
-          "contributor": ""
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     },
     {
-      "meaning": "an expression of surprise or startlement",
       "equivalent": [
         "flinch",
         "jerk",
@@ -45,26 +44,29 @@
         "shudder",
         "startle"
       ],
+      "meaning": "an expression of surprise or startlement",
+      "id": "bikun-2",
       "example": [
         {
-          "source": "hello_work",
           "file": "bikun-2a",
+          "contributor": "",
           "display": "ビクーン",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "gyaru_academy",
           "file": "bikun-2b",
+          "contributor": "",
           "display": "ビクン",
-          "contributor": ""
+          "source": "gyaru_academy"
         },
         {
-          "source": "embarrassing_and_sweet",
           "file": "bikun-2c",
+          "contributor": "",
           "display": "びくんっ",
-          "contributor": ""
+          "source": "embarrassing_and_sweet"
         }
       ]
     }
-  ]
+  ],
+  "literal": "bikun"
 }

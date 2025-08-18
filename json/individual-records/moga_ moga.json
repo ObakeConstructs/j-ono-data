@@ -1,28 +1,21 @@
 {
-  "literal": "moga  moga",
-  "katakana": [
-    "モガモガ"
-  ],
-  "hiragana": [
-    "もがもが"
-  ],
-  "definition": [
-    {
-      "meaning": "a fumbling or struggling sound, typically muffled",
-      "equivalent": [
-        "fumble flumble",
-        "struggle struggle",
-        "rustle rustle",
-        "wriggle wriggle"
-      ],
-      "example": [
-        {
-          "source": "berserk",
-          "file": "moga_moga-1a",
-          "display": "モガ  モガ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["もがもが"],
+  "katakana": ["モガモガ"],
+  "definition": [{
+    "equivalent": [
+      "fumble flumble",
+      "struggle struggle",
+      "rustle rustle",
+      "wriggle wriggle"
+    ],
+    "meaning": "a fumbling or struggling sound, typically muffled",
+    "id": "moga_ moga-1",
+    "example": [{
+      "file": "moga_moga-1a",
+      "contributor": "",
+      "display": "モガ  モガ",
+      "source": "berserk"
+    }]
+  }],
+  "literal": "moga  moga"
 }

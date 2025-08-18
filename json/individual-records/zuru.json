@@ -1,37 +1,36 @@
 {
-  "literal": "zuru",
-  "katakana": [
-    "ズル",
-    "ズルッ"
-  ],
   "hiragana": [
     "ずる",
     "ずるっ"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of something sliding or being dragged",
-      "equivalent": [
-        "drag",
-        "move",
-        "pull",
-        "slide",
-        "slip"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "zuru-1a",
-          "display": "ズル...",
-          "contributor": ""
-        },
-        {
-          "source": "buy_the_land",
-          "file": "zuru-1b",
-          "display": "ズル..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ズル",
+    "ズルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drag",
+      "move",
+      "pull",
+      "slide",
+      "slip"
+    ],
+    "meaning": "the sound of something sliding or being dragged",
+    "id": "zuru-1",
+    "example": [
+      {
+        "file": "zuru-1a",
+        "contributor": "",
+        "display": "ズル...",
+        "source": "d_genesis"
+      },
+      {
+        "file": "zuru-1b",
+        "contributor": "",
+        "display": "ズル..",
+        "source": "buy_the_land"
+      }
+    ]
+  }],
+  "literal": "zuru"
 }

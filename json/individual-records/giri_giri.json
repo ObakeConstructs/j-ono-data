@@ -1,34 +1,33 @@
 {
-  "literal": "giri giri",
-  "katakana": [
-    "ギリギリ",
-    "ギリギリリ"
-  ],
   "hiragana": [
     "ぎりぎり",
     "ぎりぎりり"
   ],
-  "definition": [
-    {
-      "meaning": "an expression of grinding one's teeth together, often in exertion, frustration or anger",
-      "equivalent": [
-        "gnash",
-        "grind"
-      ],
-      "example": [
-        {
-          "source": "berserk",
-          "file": "giri_giri-1a",
-          "display": "ギリ  ギリ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "giri_giri-1b",
-          "display": "ギリ  ギリリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギリギリ",
+    "ギリギリリ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gnash",
+      "grind"
+    ],
+    "meaning": "an expression of grinding one's teeth together, often in exertion, frustration or anger",
+    "id": "giri_giri-1",
+    "example": [
+      {
+        "file": "giri_giri-1a",
+        "contributor": "",
+        "display": "ギリ  ギリ",
+        "source": "berserk"
+      },
+      {
+        "file": "giri_giri-1b",
+        "contributor": "",
+        "display": "ギリ  ギリリ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "giri giri"
 }

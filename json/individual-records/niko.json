@@ -1,58 +1,57 @@
 {
-  "literal": "niko",
-  "katakana": [
-    "ニコ",
-    "ニコッ",
-    "ニコオ",
-    "ニコォ"
-  ],
   "hiragana": [
     "にこ",
     "にこっ",
     "にこお",
     "にこぉ"
   ],
-  "definition": [
-    {
-      "meaning": "a smile or grin",
-      "equivalent": [
-        "beam",
-        "grin",
-        "smile",
-        "smirk"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "niko-1a",
-          "display": "ニコッ",
-          "contributor": ""
-        },
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "niko-1b",
-          "display": "にこっ",
-          "contributor": ""
-        },
-        {
-          "source": "weakest_occupation_blacksmith",
-          "file": "niko-1c",
-          "display": "ニコォ",
-          "contributor": ""
-        },
-        {
-          "source": "fushi_no_kami",
-          "file": "niko-1d",
-          "display": "ニコ",
-          "contributor": ""
-        },
-        {
-          "source": "uncle_at_heart",
-          "file": "niko-1e",
-          "display": "にこ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ニコ",
+    "ニコッ",
+    "ニコオ",
+    "ニコォ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beam",
+      "grin",
+      "smile",
+      "smirk"
+    ],
+    "meaning": "a smile or grin",
+    "id": "niko-1",
+    "example": [
+      {
+        "file": "niko-1a",
+        "contributor": "",
+        "display": "ニコッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "niko-1b",
+        "contributor": "",
+        "display": "にこっ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "niko-1c",
+        "contributor": "",
+        "display": "ニコォ",
+        "source": "weakest_occupation_blacksmith"
+      },
+      {
+        "file": "niko-1d",
+        "contributor": "",
+        "display": "ニコ",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "niko-1e",
+        "contributor": "",
+        "display": "にこ",
+        "source": "uncle_at_heart"
+      }
+    ]
+  }],
+  "literal": "niko"
 }

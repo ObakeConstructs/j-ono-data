@@ -1,14 +1,8 @@
 {
-  "literal": "pasha",
-  "katakana": [
-    "パシャ"
-  ],
-  "hiragana": [
-    "ぱしゃ"
-  ],
+  "hiragana": ["ぱしゃ"],
+  "katakana": ["パシャ"],
   "definition": [
     {
-      "meaning": "the sound of a small splash",
       "equivalent": [
         "slop",
         "slosh",
@@ -16,49 +10,53 @@
         "splash",
         "swash"
       ],
+      "meaning": "the sound of a small splash",
+      "id": "pasha-1",
       "example": [
         {
-          "source": "hello_work",
           "file": "pasha-1a",
+          "contributor": "",
           "display": "パシャ",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "strongest_failure_frame",
           "file": "pasha-1b",
+          "contributor": "",
           "display": "パシャ",
-          "contributor": ""
+          "source": "strongest_failure_frame"
         }
       ]
     },
     {
-      "meaning": "the sound of a camera shutter or the light of a camera flash",
       "equivalent": [
         "click",
         "flash",
         "photo",
         "snap"
       ],
+      "meaning": "the sound of a camera shutter or the light of a camera flash",
+      "id": "pasha-2",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "pasha-2a",
+          "contributor": "",
           "display": "パシャ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "double_play",
           "file": "pasha-2b",
+          "contributor": "",
           "display": "パシャー",
-          "contributor": ""
+          "source": "double_play"
         },
         {
-          "source": "saga_lagging_hero",
           "file": "pasha-2c",
+          "contributor": "",
           "display": "パシャッ",
-          "contributor": ""
+          "source": "saga_lagging_hero"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pasha"
 }

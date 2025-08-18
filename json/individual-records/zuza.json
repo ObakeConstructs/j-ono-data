@@ -1,12 +1,4 @@
 {
-  "literal": "zuza",
-  "katakana": [
-    "ズザ",
-    "ズザァ",
-    "ズザッ",
-    "ズザザ",
-    "ズザザザ"
-  ],
   "hiragana": [
     "ずざ",
     "ずざぁ",
@@ -14,9 +6,15 @@
     "ずざざ",
     "ずざざざ"
   ],
+  "katakana": [
+    "ズザ",
+    "ズザァ",
+    "ズザッ",
+    "ズザザ",
+    "ズザザザ"
+  ],
   "definition": [
     {
-      "meaning": "a hard impact from a falling or thrown person",
       "equivalent": [
         "bam",
         "crash",
@@ -27,37 +25,39 @@
         "thump",
         "whomp"
       ],
+      "meaning": "a hard impact from a falling or thrown person",
+      "id": "zuza-1",
       "example": [
         {
-          "source": "hanako_24th_ward",
           "file": "zuza-1a",
+          "contributor": "",
           "display": "ズザザ!",
-          "contributor": ""
+          "source": "hanako_24th_ward"
         },
         {
-          "source": "drawing",
           "file": "zuza-1b",
+          "contributor": "",
           "display": "ズザッ",
-          "contributor": ""
+          "source": "drawing"
         }
       ]
     },
     {
-      "meaning": "the sound sliding or skidding",
       "equivalent": [
         "screech",
         "skid",
         "slide",
         "squeel"
       ],
-      "example": [
-        {
-          "source": "eternal_fool_asley",
-          "file": "zuza-2a",
-          "display": "ズザァ...!!",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound sliding or skidding",
+      "id": "zuza-2",
+      "example": [{
+        "file": "zuza-2a",
+        "contributor": "",
+        "display": "ズザァ...!!",
+        "source": "eternal_fool_asley"
+      }]
     }
-  ]
+  ],
+  "literal": "zuza"
 }

@@ -1,16 +1,14 @@
 {
-  "literal": "zoku",
-  "katakana": [
-    "ゾク",
-    "ゾクッ"
-  ],
   "hiragana": [
     "ぞく",
     "ぞくっ"
   ],
+  "katakana": [
+    "ゾク",
+    "ゾクッ"
+  ],
   "definition": [
     {
-      "meaning": "an expression of surprise or startlement",
       "equivalent": [
         "flinch",
         "jerk",
@@ -18,29 +16,30 @@
         "shudder",
         "startle"
       ],
+      "meaning": "an expression of surprise or startlement",
+      "id": "zoku-1",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "zoku-1a",
+          "contributor": "",
           "display": "ぞくっ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "zoku-1b",
+          "contributor": "",
           "display": "ゾクッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "komi_cant_communicate",
           "file": "zoku-1c",
+          "contributor": "",
           "display": "ぞくっ",
-          "contributor": ""
+          "source": "komi_cant_communicate"
         }
       ]
     },
     {
-      "meaning": "an indication of trembling or shaking",
       "equivalent": [
         "quiver",
         "shake",
@@ -49,14 +48,15 @@
         "tremble",
         "twitch"
       ],
-      "example": [
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "zoku-2a",
-          "display": "ぞくっ...",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of trembling or shaking",
+      "id": "zoku-2",
+      "example": [{
+        "file": "zoku-2a",
+        "contributor": "",
+        "display": "ぞくっ...",
+        "source": "embarrassing_and_sweet"
+      }]
     }
-  ]
+  ],
+  "literal": "zoku"
 }

@@ -1,40 +1,39 @@
 {
-  "literal": "yura",
-  "katakana": [
-    "ユラ",
-    "ユラッ"
-  ],
   "hiragana": [
     "ゆら",
     "ゆらっ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of moving unsteadily",
-      "equivalent": [
-        "falter",
-        "lurch",
-        "reel",
-        "stagger",
-        "teeter",
-        "unsteady",
-        "waver",
-        "wobble"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "yura-1a",
-          "display": "ゆらっ",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_territory_reform",
-          "file": "yura-1b",
-          "display": "ユラッ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ユラ",
+    "ユラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "falter",
+      "lurch",
+      "reel",
+      "stagger",
+      "teeter",
+      "unsteady",
+      "waver",
+      "wobble"
+    ],
+    "meaning": "an indication of moving unsteadily",
+    "id": "yura-1",
+    "example": [
+      {
+        "file": "yura-1a",
+        "contributor": "",
+        "display": "ゆらっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "yura-1b",
+        "contributor": "",
+        "display": "ユラッ...",
+        "source": "isekai_territory_reform"
+      }
+    ]
+  }],
+  "literal": "yura"
 }

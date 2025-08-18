@@ -1,37 +1,36 @@
 {
-  "literal": "gakin",
-  "katakana": [
-    "ガキン",
-    "ガキンッ"
-  ],
   "hiragana": [
     "がきん",
     "がきんっ"
   ],
-  "definition": [
-    {
-      "meaning": "the reverberating sound of a hard, sharp metallic strike",
-      "equivalent": [
-        "clang",
-        "clank",
-        "clash",
-        "tang",
-        "whang"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gakin-1a",
-          "display": "ガキンッ",
-          "contributor": ""
-        },
-        {
-          "source": "neet_kunoichi",
-          "file": "gakin-1b",
-          "display": "ガキンッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガキン",
+    "ガキンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clang",
+      "clank",
+      "clash",
+      "tang",
+      "whang"
+    ],
+    "meaning": "the reverberating sound of a hard, sharp metallic strike",
+    "id": "gakin-1",
+    "example": [
+      {
+        "file": "gakin-1a",
+        "contributor": "",
+        "display": "ガキンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gakin-1b",
+        "contributor": "",
+        "display": "ガキンッ",
+        "source": "neet_kunoichi"
+      }
+    ]
+  }],
+  "literal": "gakin"
 }

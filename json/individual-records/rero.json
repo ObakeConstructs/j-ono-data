@@ -1,28 +1,21 @@
 {
-  "literal": "rero",
-  "katakana": [
-    "レロ"
-  ],
-  "hiragana": [
-    "れろ"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication or sound of tongue licking",
-      "equivalent": [
-        "lick",
-        "lap",
-        "lash",
-        "flick"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "rero-1a",
-          "display": "レロ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["れろ"],
+  "katakana": ["レロ"],
+  "definition": [{
+    "equivalent": [
+      "lick",
+      "lap",
+      "lash",
+      "flick"
+    ],
+    "meaning": "an indication or sound of tongue licking",
+    "id": "rero-1",
+    "example": [{
+      "file": "rero-1a",
+      "contributor": "",
+      "display": "レロ...",
+      "source": "double_play"
+    }]
+  }],
+  "literal": "rero"
 }

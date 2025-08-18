@@ -1,33 +1,30 @@
 {
-  "literal": "kuyu",
-  "katakana": [
-    "クユ",
-    "クユッ"
-  ],
   "hiragana": [
     "くゆ",
     "くゆっ"
   ],
-  "definition": [
-    {
-      "meaning": "an expression of of anticipation or excitement",
-      "equivalent": [
-        "anticipation",
-        "excitement",
-        "enthusiasm",
-        "passion",
-        "fervor",
-        "zeal",
-        "fired up"
-      ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "kuyu-1a",
-          "display": "くゆっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "クユ",
+    "クユッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "anticipation",
+      "excitement",
+      "enthusiasm",
+      "passion",
+      "fervor",
+      "zeal",
+      "fired up"
+    ],
+    "meaning": "an expression of of anticipation or excitement",
+    "id": "kuyu-1",
+    "example": [{
+      "file": "kuyu-1a",
+      "contributor": "",
+      "display": "くゆっ",
+      "source": "my_s-ranked_daughter"
+    }]
+  }],
+  "literal": "kuyu"
 }

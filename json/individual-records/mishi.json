@@ -1,42 +1,41 @@
 {
-  "literal": "mishi",
-  "katakana": [
-    "ミシ",
-    "ミシッ"
-  ],
   "hiragana": [
     "みし",
     "みしっ"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of something creaking, cracking, or splintering",
-      "equivalent": [
-        "burst",
-        "crack",
-        "creak",
-        "screech",
-        "shatter",
-        "shriek",
-        "snap",
-        "split",
-        "squeak",
-        "squeal"
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "mishi-1a",
-          "display": "ミシ  ミシッ",
-          "contributor": ""
-        },
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "mishi-1b",
-          "display": "みしっ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ミシ",
+    "ミシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "burst",
+      "crack",
+      "creak",
+      "screech",
+      "shatter",
+      "shriek",
+      "snap",
+      "split",
+      "squeak",
+      "squeal"
+    ],
+    "meaning": "the sound of something creaking, cracking, or splintering",
+    "id": "mishi-1",
+    "example": [
+      {
+        "file": "mishi-1a",
+        "contributor": "",
+        "display": "ミシ  ミシッ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "mishi-1b",
+        "contributor": "",
+        "display": "みしっ...",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "literal": "mishi"
 }

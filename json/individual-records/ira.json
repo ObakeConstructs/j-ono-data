@@ -1,37 +1,34 @@
 {
-  "literal": "ira",
-  "katakana": [
-    "イラ",
-    "イラッ"
-  ],
   "hiragana": [
     "いら",
     "いらっ"
   ],
-  "definition": [
-    {
-      "meaning": "an expression of annoyance",
-      "equivalent": [
-        "aggravated",
-        "annoyed",
-        "hmph",
-        "irked",
-        "irritated",
-        "narked",
-        "peeved",
-        "pissed",
-        "riled",
-        "unamused",
-        "vexed"
-      ],
-      "example": [
-        {
-          "source": "hero_or_demon_king",
-          "file": "ira-1a",
-          "display": "イラッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "イラ",
+    "イラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aggravated",
+      "annoyed",
+      "hmph",
+      "irked",
+      "irritated",
+      "narked",
+      "peeved",
+      "pissed",
+      "riled",
+      "unamused",
+      "vexed"
+    ],
+    "meaning": "an expression of annoyance",
+    "id": "ira-1",
+    "example": [{
+      "file": "ira-1a",
+      "contributor": "",
+      "display": "イラッ",
+      "source": "hero_or_demon_king"
+    }]
+  }],
+  "literal": "ira"
 }

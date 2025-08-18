@@ -1,44 +1,43 @@
 {
-  "literal": "zawa",
-  "katakana": [
-    "ザワ",
-    "ザヮ",
-    "ザワッ",
-    "ザヮッ"
-  ],
   "hiragana": [
     "ざわ",
     "ざゎ",
     "ざわっ",
     "ざゎっ"
   ],
-  "definition": [
-    {
-      "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
-      "equivalent": [
-        "dumfounded",
-        "amazed",
-        "astonished",
-        "flabbergasted",
-        "shock",
-        "stun",
-        "surprise",
-        "gasp"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "zawa-1a",
-          "display": "ざわ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "zawa-1b",
-          "display": "ざゎっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザワ",
+    "ザヮ",
+    "ザワッ",
+    "ザヮッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dumfounded",
+      "amazed",
+      "astonished",
+      "flabbergasted",
+      "shock",
+      "stun",
+      "surprise",
+      "gasp"
+    ],
+    "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+    "id": "zawa-1",
+    "example": [
+      {
+        "file": "zawa-1a",
+        "contributor": "",
+        "display": "ざわ",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "zawa-1b",
+        "contributor": "",
+        "display": "ざゎっ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "zawa"
 }

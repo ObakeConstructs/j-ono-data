@@ -1,49 +1,45 @@
 {
-  "literal": "jita bata",
-  "katakana": [
-    "ジタバタ"
-  ],
-  "hiragana": [
-    "じたばた"
-  ],
+  "hiragana": ["じたばた"],
+  "katakana": ["ジタバタ"],
   "definition": [
     {
-      "meaning": "an indication of strugging against restraints, typically in vain",
       "equivalent": [
         "resist",
         "struggle",
         "wriggle"
       ],
+      "meaning": "an indication of strugging against restraints, typically in vain",
+      "id": "jita_bata-1",
       "example": [
         {
-          "source": "hone_dragon",
           "file": "jita_bata-1a",
+          "contributor": "",
           "display": "じたばた",
-          "contributor": ""
+          "source": "hone_dragon"
         },
         {
-          "source": "isekai_av_filming",
           "file": "jita_bata-1b",
+          "contributor": "",
           "display": "じた  ばた",
-          "contributor": ""
+          "source": "isekai_av_filming"
         }
       ]
     },
     {
-      "meaning": "an indication of flailing in a fit of agitation, frustration, or temper",
       "equivalent": [
         "temper tantrum",
         "flail flail",
         "hissy fit"
       ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "jita_bata-2a",
-          "display": "ジタ  バタ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of flailing in a fit of agitation, frustration, or temper",
+      "id": "jita_bata-2",
+      "example": [{
+        "file": "jita_bata-2a",
+        "contributor": "",
+        "display": "ジタ  バタ",
+        "source": "buy_the_land"
+      }]
     }
-  ]
+  ],
+  "literal": "jita bata"
 }

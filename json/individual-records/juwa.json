@@ -1,35 +1,32 @@
 {
-  "literal": "juwa",
-  "katakana": [
-    "ジュワ",
-    "ジュワワ",
-    "ジュワァ",
-    "ジュワワァ"
-  ],
   "hiragana": [
     "じゅわ",
     "じゅわわ",
     "じゅわぁ",
     "じゅわわぁ"
   ],
-  "definition": [
-    {
-      "meaning": "a juicy sizzling sound, as of cooking meat",
-      "equivalent": [
-        "fizz",
-        "hiss",
-        "juicy",
-        "sizzle",
-        "steam"
-      ],
-      "example": [
-        {
-          "source": "dungeon_dining_room",
-          "file": "juwa-1a",
-          "display": "ジュワワァー",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジュワ",
+    "ジュワワ",
+    "ジュワァ",
+    "ジュワワァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fizz",
+      "hiss",
+      "juicy",
+      "sizzle",
+      "steam"
+    ],
+    "meaning": "a juicy sizzling sound, as of cooking meat",
+    "id": "juwa-1",
+    "example": [{
+      "file": "juwa-1a",
+      "contributor": "",
+      "display": "ジュワワァー",
+      "source": "dungeon_dining_room"
+    }]
+  }],
+  "literal": "juwa"
 }

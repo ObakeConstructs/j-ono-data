@@ -1,34 +1,31 @@
 {
-  "literal": "zoro",
-  "katakana": [
-    "ゾロ",
-    "ゾロッ"
-  ],
   "hiragana": [
     "ぞろ",
     "ぞろっ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of many people or creatures massed together",
-      "equivalent": [
-        "clan",
-        "crowd",
-        "gang",
-        "horde",
-        "mass",
-        "mob",
-        "pack",
-        "throng"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "zoro-1a",
-          "display": "ぞろっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゾロ",
+    "ゾロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clan",
+      "crowd",
+      "gang",
+      "horde",
+      "mass",
+      "mob",
+      "pack",
+      "throng"
+    ],
+    "meaning": "an indication of many people or creatures massed together",
+    "id": "zoro-1",
+    "example": [{
+      "file": "zoro-1a",
+      "contributor": "",
+      "display": "ぞろっ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "zoro"
 }

@@ -1,16 +1,14 @@
 {
-  "literal": "gara",
-  "katakana": [
-    "ガラ",
-    "ガラッ"
-  ],
   "hiragana": [
     "がら",
     "がらっ"
   ],
+  "katakana": [
+    "ガラ",
+    "ガラッ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of something sliding open or shut, like a window or sliding door",
       "equivalent": [
         "bang",
         "close",
@@ -22,43 +20,45 @@
         "swoosh",
         "thump"
       ],
+      "meaning": "the sound of something sliding open or shut, like a window or sliding door",
+      "id": "gara-1",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "gara-1a",
+          "contributor": "",
           "display": "ガラッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "bungo",
           "file": "gara-1b",
+          "contributor": "",
           "display": "ガラッ",
-          "contributor": ""
+          "source": "bungo"
         },
         {
-          "source": "simple_sword_saint",
           "file": "gara-1c",
+          "contributor": "",
           "display": "ガラッ",
-          "contributor": ""
+          "source": "simple_sword_saint"
         }
       ]
     },
     {
-      "meaning": "the sound of something falling apart, collapsing, or settling",
       "equivalent": [
         "clatter",
         "clutter",
         "rattle",
         "tumult"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gara-2a",
-          "display": "ガラッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of something falling apart, collapsing, or settling",
+      "id": "gara-2",
+      "example": [{
+        "file": "gara-2a",
+        "contributor": "",
+        "display": "ガラッ",
+        "source": "world_full_of_monsters"
+      }]
     }
-  ]
+  ],
+  "literal": "gara"
 }

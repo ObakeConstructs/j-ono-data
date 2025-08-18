@@ -1,34 +1,31 @@
 {
-  "literal": "zu",
-  "katakana": [
-    "ズ",
-    "ズッ"
-  ],
   "hiragana": [
     "ず",
     "ずっ"
   ],
-  "definition": [
-    {
-      "meaning": "to suddenly appear, often in a dramatic reveal",
-      "equivalent": [
-        "display",
-        "reveal",
-        "show",
-        "ta-da",
-        "unveil",
-        "appear",
-        "arrive",
-        "emerge"
-      ],
-      "example": [
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "zu-1a",
-          "display": "ズッ..!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ズ",
+    "ズッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "display",
+      "reveal",
+      "show",
+      "ta-da",
+      "unveil",
+      "appear",
+      "arrive",
+      "emerge"
+    ],
+    "meaning": "to suddenly appear, often in a dramatic reveal",
+    "id": "zu-1",
+    "example": [{
+      "file": "zu-1a",
+      "contributor": "",
+      "display": "ズッ..!",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "literal": "zu"
 }

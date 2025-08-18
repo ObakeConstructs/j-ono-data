@@ -1,14 +1,4 @@
 {
-  "literal": "gaku",
-  "katakana": [
-    "ガク",
-    "ガクー",
-    "ガクッ",
-    "ガクゥ",
-    "ガクゥゥ",
-    "ガクゥッ",
-    "ガクゥゥッ"
-  ],
   "hiragana": [
     "がく",
     "がくー",
@@ -18,9 +8,17 @@
     "がくぅっ",
     "がくぅぅっ"
   ],
+  "katakana": [
+    "ガク",
+    "ガクー",
+    "ガクッ",
+    "ガクゥ",
+    "ガクゥゥ",
+    "ガクゥッ",
+    "ガクゥゥッ"
+  ],
   "definition": [
     {
-      "meaning": "An expression of giving up or passing out",
       "equivalent": [
         "fall",
         "fold",
@@ -31,29 +29,30 @@
         "slump",
         "succumb"
       ],
+      "meaning": "An expression of giving up or passing out",
+      "id": "gaku-1",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "gaku-1a",
+          "contributor": "",
           "display": "がく",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "gaku-1b",
+          "contributor": "",
           "display": "ガクッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "yojo_life",
           "file": "gaku-1c",
+          "contributor": "",
           "display": "ガクゥゥッ",
-          "contributor": ""
+          "source": "yojo_life"
         }
       ]
     },
     {
-      "meaning": "an expression of depression or tiredness",
       "equivalent": [
         "collapse",
         "droop",
@@ -62,20 +61,23 @@
         "slump",
         "wilt"
       ],
+      "meaning": "an expression of depression or tiredness",
+      "id": "gaku-2",
       "example": [
         {
-          "source": "peter_grill",
           "file": "gaku-2a",
+          "contributor": "",
           "display": "ガクー...",
-          "contributor": ""
+          "source": "peter_grill"
         },
         {
-          "source": "sex_with_me_sells",
           "file": "gaku-2b",
+          "contributor": "",
           "display": "がくっ",
-          "contributor": ""
+          "source": "sex_with_me_sells"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gaku"
 }

@@ -1,32 +1,29 @@
 {
-  "literal": "suten",
-  "katakana": [
-    "ステン",
-    "ステーン"
-  ],
   "hiragana": [
     "すてん",
     "すてーん"
   ],
-  "definition": [
-    {
-      "meaning": "to fall from a standing position, often suddenly and involuntarily",
-      "equivalent": [
-        "fall",
-        "slip",
-        "stumble",
-        "topple",
-        "trip",
-        "tumble"
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "suten-1b",
-          "display": "すてーん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ステン",
+    "ステーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fall",
+      "slip",
+      "stumble",
+      "topple",
+      "trip",
+      "tumble"
+    ],
+    "meaning": "to fall from a standing position, often suddenly and involuntarily",
+    "id": "suten-1",
+    "example": [{
+      "file": "suten-1b",
+      "contributor": "",
+      "display": "すてーん",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "suten"
 }

@@ -1,13 +1,4 @@
 {
-  "literal": "ha ha",
-  "katakana": [
-    "ハハ",
-    "ハッハッ",
-    "ハァハァ",
-    "ハアハア",
-    "ハァッハァッ",
-    "ハアッハアッ"
-  ],
   "hiragana": [
     "はは",
     "はっはっ",
@@ -16,71 +7,80 @@
     "はぁっはぁっ",
     "はあっはあっ"
   ],
+  "katakana": [
+    "ハハ",
+    "ハッハッ",
+    "ハァハァ",
+    "ハアハア",
+    "ハァッハァッ",
+    "ハアッハアッ"
+  ],
   "definition": [
     {
+      "equivalent": ["haha"],
       "meaning": "laughter",
-      "equivalent": [
-        "haha"
-      ],
+      "id": "ha_ha-1",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "ha_ha-1a",
+          "contributor": "",
           "display": "はは",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "ha_ha-1b",
+          "contributor": "",
           "display": "はっ  はっ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "killed_by_gods_mistake",
           "file": "ha_ha-1c",
+          "contributor": "",
           "display": "ハハハハ",
-          "contributor": ""
+          "source": "killed_by_gods_mistake"
         },
         {
-          "source": "different_world_smartphone",
           "file": "ha_ha-1d",
+          "contributor": "",
           "display": "はっ  はっ  はっ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         }
       ]
     },
     {
-      "meaning": "to breathe hard, as from exertion, fear, or excitement",
       "equivalent": [
         "hah hah",
         "pant pant"
       ],
+      "meaning": "to breathe hard, as from exertion, fear, or excitement",
+      "id": "ha_ha-2",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ha_ha-2a",
+          "contributor": "",
           "display": "はぁ  はぁ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "komi_cant_communicate",
           "file": "ha_ha-2b",
+          "contributor": "",
           "display": "ハッ  ハッ",
-          "contributor": ""
+          "source": "komi_cant_communicate"
         },
         {
-          "source": "s_rank_behemoth",
           "file": "ha_ha-2c",
+          "contributor": "",
           "display": "ハア  ハア  ハア",
-          "contributor": ""
+          "source": "s_rank_behemoth"
         },
         {
-          "source": "strongest_failure_frame",
           "file": "ha_ha-2d",
+          "contributor": "",
           "display": "ハアッ  ハアッ  ハアッ",
-          "contributor": ""
+          "source": "strongest_failure_frame"
         }
       ]
     }
-  ]
+  ],
+  "literal": "ha ha"
 }

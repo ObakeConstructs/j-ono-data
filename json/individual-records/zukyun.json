@@ -1,37 +1,36 @@
 {
-  "literal": "zukyun",
-  "katakana": [
-    "ズキュン",
-    "ズッキュン",
-    "ズキューン"
-  ],
   "hiragana": [
     "ずきゅん",
     "ずっきゅん",
     "ずきゅーん"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
-      "equivalent": [
-        "ba-dump",
-        "cute",
-        "longing"
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "zukyun-1a",
-          "display": "ズッキュン",
-          "contributor": ""
-        },
-        {
-          "source": "yojo_life",
-          "file": "zukyun-1b",
-          "display": "ずきゅーん♡",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ズキュン",
+    "ズッキュン",
+    "ズキューン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ba-dump",
+      "cute",
+      "longing"
+    ],
+    "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
+    "id": "zukyun-1",
+    "example": [
+      {
+        "file": "zukyun-1a",
+        "contributor": "",
+        "display": "ズッキュン",
+        "source": "isekai_sniper"
+      },
+      {
+        "file": "zukyun-1b",
+        "contributor": "",
+        "display": "ずきゅーん♡",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "literal": "zukyun"
 }

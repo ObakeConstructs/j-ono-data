@@ -1,34 +1,31 @@
 {
-  "literal": "kara",
-  "katakana": [
-    "カラ",
-    "カラッ"
-  ],
   "hiragana": [
     "から",
     "からっ"
   ],
-  "definition": [
-    {
-      "meaning": "sound of a small, metallic clank",
-      "equivalent": [
-        "clang",
-        "clank",
-        "clump",
-        "clunk",
-        "hit",
-        "knock",
-        "plink",
-        "wham"
-      ],
-      "example": [
-        {
-          "source": "dungeon_dining_room",
-          "file": "kara-1a",
-          "display": "カラッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "カラ",
+    "カラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clang",
+      "clank",
+      "clump",
+      "clunk",
+      "hit",
+      "knock",
+      "plink",
+      "wham"
+    ],
+    "meaning": "sound of a small, metallic clank",
+    "id": "kara-1",
+    "example": [{
+      "file": "kara-1a",
+      "contributor": "",
+      "display": "カラッ",
+      "source": "dungeon_dining_room"
+    }]
+  }],
+  "literal": "kara"
 }

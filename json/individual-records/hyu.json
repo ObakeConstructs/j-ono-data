@@ -1,20 +1,18 @@
 {
-  "literal": "hyu",
-  "katakana": [
-    "ヒュ",
-    "ヒュッ",
-    "ヒュー",
-    "ヒューッ"
-  ],
   "hiragana": [
     "ひゅ",
     "ひゅっ",
     "ひゅー",
     "ひゅーっ"
   ],
+  "katakana": [
+    "ヒュ",
+    "ヒュッ",
+    "ヒュー",
+    "ヒューッ"
+  ],
   "definition": [
     {
-      "meaning": "something moving quickly through the air",
       "equivalent": [
         "shoom",
         "swoosh",
@@ -25,29 +23,30 @@
         "zip",
         "zoom"
       ],
+      "meaning": "something moving quickly through the air",
+      "id": "hyu-1",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "hyu-1a",
+          "contributor": "",
           "display": "ヒュッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "isekai_pickup",
           "file": "hyu-1b",
+          "contributor": "",
           "display": "ヒュ..",
-          "contributor": ""
+          "source": "isekai_pickup"
         },
         {
-          "source": "my_s-ranked_daughter",
           "file": "hyu-1c",
+          "contributor": "",
           "display": "ヒュッ",
-          "contributor": ""
+          "source": "my_s-ranked_daughter"
         }
       ]
     },
     {
-      "meaning": "a soft interjection expressing a reaction to something adorable or cute",
       "equivalent": [
         "aww",
         "cute",
@@ -56,14 +55,15 @@
         "adorable",
         "woah"
       ],
-      "example": [
-        {
-          "source": "rock_n_roll_ladies",
-          "file": "hyu-2a",
-          "display": "...ヒュ...",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a soft interjection expressing a reaction to something adorable or cute",
+      "id": "hyu-2",
+      "example": [{
+        "file": "hyu-2a",
+        "contributor": "",
+        "display": "...ヒュ...",
+        "source": "rock_n_roll_ladies"
+      }]
     }
-  ]
+  ],
+  "literal": "hyu"
 }

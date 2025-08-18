@@ -1,38 +1,37 @@
 {
-  "literal": "baki",
-  "katakana": [
-    "バキ",
-    "バキッ"
-  ],
   "hiragana": [
     "ばき",
     "ばきっ"
   ],
-  "definition": [
-    {
-      "meaning": "a sound of something breaking or cracking",
-      "equivalent": [
-        "crack",
-        "crash",
-        "pop",
-        "shatter",
-        "smash",
-        "snap"
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "baki-1a",
-          "display": "バキッ",
-          "contributor": ""
-        },
-        {
-          "source": "requiem_for_prophet",
-          "file": "baki-1b",
-          "display": "バキッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "バキ",
+    "バキッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "crack",
+      "crash",
+      "pop",
+      "shatter",
+      "smash",
+      "snap"
+    ],
+    "meaning": "a sound of something breaking or cracking",
+    "id": "baki-1",
+    "example": [
+      {
+        "file": "baki-1a",
+        "contributor": "",
+        "display": "バキッ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "baki-1b",
+        "contributor": "",
+        "display": "バキッ",
+        "source": "requiem_for_prophet"
+      }
+    ]
+  }],
+  "literal": "baki"
 }

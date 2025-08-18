@@ -1,45 +1,44 @@
 {
-  "literal": "dan dan",
-  "katakana": [
-    "ダンダン",
-    "ダンッダンッ"
-  ],
   "hiragana": [
     "だんだん",
     "だんっだんっ"
   ],
-  "definition": [
-    {
-      "meaning": "a series of sudden impact or gunshot sounds",
-      "equivalent": [
-        "bam bam",
-        "hit hit",
-        "knock knock",
-        "pound pound",
-        "punch punch",
-        "slam slam",
-        "strike strike",
-        "thud thud",
-        "thunk thunk",
-        "bang bang",
-        "boom boom",
-        "blast blast",
-        "whack whack"
-      ],
-      "example": [
-        {
-          "source": "lord_of_the_hundred_demons",
-          "file": "dan_dan-1a",
-          "display": "ダンッ  ダンッ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "dan_dan-1b",
-          "display": "ダン  ダン  ダン  ダン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ダンダン",
+    "ダンッダンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam bam",
+      "hit hit",
+      "knock knock",
+      "pound pound",
+      "punch punch",
+      "slam slam",
+      "strike strike",
+      "thud thud",
+      "thunk thunk",
+      "bang bang",
+      "boom boom",
+      "blast blast",
+      "whack whack"
+    ],
+    "meaning": "a series of sudden impact or gunshot sounds",
+    "id": "dan_dan-1",
+    "example": [
+      {
+        "file": "dan_dan-1a",
+        "contributor": "",
+        "display": "ダンッ  ダンッ",
+        "source": "lord_of_the_hundred_demons"
+      },
+      {
+        "file": "dan_dan-1b",
+        "contributor": "",
+        "display": "ダン  ダン  ダン  ダン",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "dan dan"
 }

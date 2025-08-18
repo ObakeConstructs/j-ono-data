@@ -1,20 +1,18 @@
 {
-  "literal": "pan",
-  "katakana": [
-    "パン",
-    "パンッ",
-    "パァン",
-    "パァンッ"
-  ],
   "hiragana": [
     "ぱん",
     "ぱんっ",
     "ぱぁん",
     "ぱぁんっ"
   ],
+  "katakana": [
+    "パン",
+    "パンッ",
+    "パァン",
+    "パァンッ"
+  ],
   "definition": [
     {
-      "meaning": "a sudden resounding strike, often loud",
       "equivalent": [
         "bam",
         "bang",
@@ -27,29 +25,30 @@
         "smack",
         "strike"
       ],
+      "meaning": "a sudden resounding strike, often loud",
+      "id": "pan-1",
       "example": [
         {
-          "source": "simple_sword_saint",
           "file": "pan-1a",
+          "contributor": "",
           "display": "パン",
-          "contributor": ""
+          "source": "simple_sword_saint"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "pan-1b",
+          "contributor": "",
           "display": "パァンッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "reincarnated_farm_girl",
           "file": "pan-1d",
+          "contributor": "",
           "display": "パン",
-          "contributor": ""
+          "source": "reincarnated_farm_girl"
         }
       ]
     },
     {
-      "meaning": "the sound or a light or soft strike",
       "equivalent": [
         "biff",
         "bonk",
@@ -64,20 +63,23 @@
         "swipe",
         "thump"
       ],
+      "meaning": "the sound or a light or soft strike",
+      "id": "pan-2",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "pan-2a",
+          "contributor": "",
           "display": "ぱんっ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "ai_and_izawa",
           "file": "pan-2b",
+          "contributor": "",
           "display": "パンッ",
-          "contributor": ""
+          "source": "ai_and_izawa"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pan"
 }

@@ -1,18 +1,4 @@
 {
-  "literal": "za",
-  "katakana": [
-    "ザ",
-    "ザッ",
-    "ザー",
-    "ザーッ",
-    "ザァ",
-    "ザァァ",
-    "ザァァァ",
-    "ザア",
-    "ザアア",
-    "ザアアア",
-    "ザアッ"
-  ],
   "hiragana": [
     "ざ",
     "ざっ",
@@ -26,9 +12,21 @@
     "ざあああ",
     "ざあっ"
   ],
+  "katakana": [
+    "ザ",
+    "ザッ",
+    "ザー",
+    "ザーッ",
+    "ザァ",
+    "ザァァ",
+    "ザァァァ",
+    "ザア",
+    "ザアア",
+    "ザアアア",
+    "ザアッ"
+  ],
   "definition": [
     {
-      "meaning": "soft sounds of rain or a shower",
       "equivalent": [
         "drizzle",
         "drops",
@@ -37,29 +35,30 @@
         "shaa",
         "sss"
       ],
+      "meaning": "soft sounds of rain or a shower",
+      "id": "za-1",
       "example": [
         {
-          "source": "bungo",
           "file": "za-1a",
+          "contributor": "",
           "display": "ザーッ",
-          "contributor": ""
+          "source": "bungo"
         },
         {
-          "source": "hikaro_no_go",
           "file": "za-1b",
+          "contributor": "",
           "display": "ザァァァ",
-          "contributor": ""
+          "source": "hikaro_no_go"
         },
         {
-          "source": "beastly_boys_and_girls",
           "file": "za-1c",
+          "contributor": "",
           "display": "ザァァァァ.....",
-          "contributor": ""
+          "source": "beastly_boys_and_girls"
         }
       ]
     },
     {
-      "meaning": "sound of someone taking a step or stomping",
       "equivalent": [
         "crunch",
         "crush",
@@ -69,23 +68,24 @@
         "tread",
         "walk"
       ],
+      "meaning": "sound of someone taking a step or stomping",
+      "id": "za-2",
       "example": [
         {
-          "source": "peter_grill",
           "file": "za-2b",
+          "contributor": "",
           "display": "ザッ",
-          "contributor": ""
+          "source": "peter_grill"
         },
         {
-          "source": "strongest_thread_master",
           "file": "za-2c",
+          "contributor": "",
           "display": "ざっ",
-          "contributor": ""
+          "source": "strongest_thread_master"
         }
       ]
     },
     {
-      "meaning": "the sound of someone dashing or sprinting",
       "equivalent": [
         "bolt",
         "charge",
@@ -96,14 +96,15 @@
         "rush",
         "sprint"
       ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "za-3a",
-          "display": "ザッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of someone dashing or sprinting",
+      "id": "za-3",
+      "example": [{
+        "file": "za-3a",
+        "contributor": "",
+        "display": "ザッ",
+        "source": "my_s-ranked_daughter"
+      }]
     }
-  ]
+  ],
+  "literal": "za"
 }

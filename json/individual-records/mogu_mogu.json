@@ -1,39 +1,34 @@
 {
-  "literal": "mogu mogu",
-  "katakana": [
-    "モグモグ"
-  ],
-  "hiragana": [
-    "もぐもぐ"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of eating and chewing",
-      "equivalent": [
-        "munch munch",
-        "nom nom",
-        "snarf snarf"
-      ],
-      "example": [
-        {
-          "source": "komi_cant_communicate",
-          "file": "mogu_mogu-1a",
-          "display": "モグ  モグ",
-          "contributor": ""
-        },
-        {
-          "source": "strongest_magician_was_human",
-          "file": "mogu_mogu-1b",
-          "display": "もぐ  もぐ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "mogu_mogu-1c",
-          "display": "もぐ  もぐ  もぐ  もぐ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["もぐもぐ"],
+  "katakana": ["モグモグ"],
+  "definition": [{
+    "equivalent": [
+      "munch munch",
+      "nom nom",
+      "snarf snarf"
+    ],
+    "meaning": "the sound of eating and chewing",
+    "id": "mogu_mogu-1",
+    "example": [
+      {
+        "file": "mogu_mogu-1a",
+        "contributor": "",
+        "display": "モグ  モグ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "mogu_mogu-1b",
+        "contributor": "",
+        "display": "もぐ  もぐ",
+        "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "mogu_mogu-1c",
+        "contributor": "",
+        "display": "もぐ  もぐ  もぐ  もぐ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "mogu mogu"
 }

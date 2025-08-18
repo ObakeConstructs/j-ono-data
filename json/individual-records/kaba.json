@@ -1,31 +1,28 @@
 {
-  "literal": "kaba",
-  "katakana": [
-    "カバ",
-    "カバッ"
-  ],
   "hiragana": [
     "かば",
     "かばっ"
   ],
-  "definition": [
-    {
-      "meaning": "to get up or sit up, as from a bed",
-      "equivalent": [
-        "get up",
-        "rise",
-        "sit up",
-        "up",
-        "arise"
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "kaba-1a",
-          "display": "かばっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "カバ",
+    "カバッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "get up",
+      "rise",
+      "sit up",
+      "up",
+      "arise"
+    ],
+    "meaning": "to get up or sit up, as from a bed",
+    "id": "kaba-1",
+    "example": [{
+      "file": "kaba-1a",
+      "contributor": "",
+      "display": "かばっ",
+      "source": "isekai_territory_reform"
+    }]
+  }],
+  "literal": "kaba"
 }

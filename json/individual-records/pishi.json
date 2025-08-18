@@ -1,16 +1,14 @@
 {
-  "literal": "pishi",
-  "katakana": [
-    "ピシ",
-    "ピシッ"
-  ],
   "hiragana": [
     "ぴし",
     "ぴしっ"
   ],
+  "katakana": [
+    "ピシ",
+    "ピシッ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of something suddenly breaking",
       "equivalent": [
         "burst",
         "crack",
@@ -19,23 +17,24 @@
         "snap",
         "split"
       ],
+      "meaning": "the sound of something suddenly breaking",
+      "id": "pishi-1",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "pishi-1a",
+          "contributor": "",
           "display": "ピシッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "pishi-1b",
+          "contributor": "",
           "display": "ピシッ",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         }
       ]
     },
     {
-      "meaning": "an expression of precision, usually with a rapid snapping to position",
       "equivalent": [
         "flick",
         "pop",
@@ -44,26 +43,29 @@
         "precise",
         "exactly"
       ],
+      "meaning": "an expression of precision, usually with a rapid snapping to position",
+      "id": "pishi-2",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "pishi-2a",
+          "contributor": "",
           "display": "ぴしっ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "fushi_no_kami",
           "file": "pishi-2b",
+          "contributor": "",
           "display": "ぴしっ",
-          "contributor": ""
+          "source": "fushi_no_kami"
         },
         {
-          "source": "hone_dragon",
           "file": "pishi-2c",
+          "contributor": "",
           "display": "ピシッ",
-          "contributor": ""
+          "source": "hone_dragon"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pishi"
 }

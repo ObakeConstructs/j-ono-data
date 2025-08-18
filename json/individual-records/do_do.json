@@ -1,15 +1,4 @@
 {
-  "literal": "do do",
-  "katakana": [
-    "ドド",
-    "ドォドォ",
-    "ドオドオ",
-    "ドドド",
-    "ドドドド",
-    "ドドッ",
-    "ドドドッ",
-    "ドドドドド"
-  ],
   "hiragana": [
     "どど",
     "どぉどぉ",
@@ -20,9 +9,18 @@
     "どどどっ",
     "どどどどど"
   ],
+  "katakana": [
+    "ドド",
+    "ドォドォ",
+    "ドオドオ",
+    "ドドド",
+    "ドドドド",
+    "ドドッ",
+    "ドドドッ",
+    "ドドドドド"
+  ],
   "definition": [
     {
-      "meaning": "a series of painful, but non-fatal strikes, as from the back of a sword",
       "equivalent": [
         "bam bam",
         "clobber",
@@ -38,17 +36,16 @@
         "thunk thunk",
         "wham wham"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "do_do-1a",
-          "display": "ドォ  ドォ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a series of painful, but non-fatal strikes, as from the back of a sword",
+      "id": "do_do-1",
+      "example": [{
+        "file": "do_do-1a",
+        "contributor": "",
+        "display": "ドォ  ドォ",
+        "source": "different_world_smartphone"
+      }]
     },
     {
-      "meaning": "a series of small explosions",
       "equivalent": [
         "bang bang",
         "blam blam",
@@ -56,17 +53,16 @@
         "boom boom",
         "whump whump"
       ],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "do_do-2a",
-          "display": "ドドドドドド",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a series of small explosions",
+      "id": "do_do-2",
+      "example": [{
+        "file": "do_do-2a",
+        "contributor": "",
+        "display": "ドドドドドド",
+        "source": "reincarnated_aristocrat"
+      }]
     },
     {
-      "meaning": "the sound of heavy or fast steps, as in stomping or running",
       "equivalent": [
         "bom bom",
         "race race",
@@ -78,23 +74,24 @@
         "thump thump",
         "tromp tromp"
       ],
+      "meaning": "the sound of heavy or fast steps, as in stomping or running",
+      "id": "do_do-3",
       "example": [
         {
-          "source": "kuma_kuma_kuma_bear",
           "file": "do_do-3a",
+          "contributor": "",
           "display": "ドドドド...",
-          "contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         },
         {
-          "source": "simple_sword_saint",
           "file": "do_do-3b",
+          "contributor": "",
           "display": "ドドドッ",
-          "contributor": ""
+          "source": "simple_sword_saint"
         }
       ]
     },
     {
-      "meaning": "a sense of intense threat or menace",
       "equivalent": [
         "danger",
         "menace",
@@ -102,31 +99,31 @@
         "risk",
         "threat"
       ],
-      "example": [
-        {
-          "source": "pokemon_xy_break",
-          "file": "do_do-4a",
-          "display": "ドドドドド",
-          "contributor": "Artrix"
-        }
-      ]
+      "meaning": "a sense of intense threat or menace",
+      "id": "do_do-4",
+      "example": [{
+        "file": "do_do-4a",
+        "contributor": "Artrix",
+        "display": "ドドドドド",
+        "source": "pokemon_xy_break"
+      }]
     },
     {
-      "meaning": "the sound of a loud or high-performance engine",
       "equivalent": [
         "accelerate",
         "race race",
         "speed",
         "vroom vroom"
       ],
-      "example": [
-        {
-          "source": "ai_and_izawa",
-          "file": "do_do-5a",
-          "display": "ドドドド",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of a loud or high-performance engine",
+      "id": "do_do-5",
+      "example": [{
+        "file": "do_do-5a",
+        "contributor": "",
+        "display": "ドドドド",
+        "source": "ai_and_izawa"
+      }]
     }
-  ]
+  ],
+  "literal": "do do"
 }

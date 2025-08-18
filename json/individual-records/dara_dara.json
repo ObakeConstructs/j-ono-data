@@ -1,29 +1,22 @@
 {
-  "literal": "dara dara",
-  "katakana": [
-    "ダラダラ"
-  ],
-  "hiragana": [
-    "だらだら"
-  ],
-  "definition": [
-    {
-      "meaning": "continuously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
-      "equivalent": [
-        "bead bead",
-        "dribble",
-        "drip drip",
-        "drop drop",
-        "trickle"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "dara_dara-1b",
-          "display": "だら  だら",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["だらだら"],
+  "katakana": ["ダラダラ"],
+  "definition": [{
+    "equivalent": [
+      "bead bead",
+      "dribble",
+      "drip drip",
+      "drop drop",
+      "trickle"
+    ],
+    "meaning": "continuously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
+    "id": "dara_dara-1",
+    "example": [{
+      "file": "dara_dara-1b",
+      "contributor": "",
+      "display": "だら  だら",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "dara dara"
 }

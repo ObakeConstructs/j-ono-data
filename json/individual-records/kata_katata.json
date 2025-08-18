@@ -1,29 +1,22 @@
 {
-  "literal": "kata katata",
-  "katakana": [
-    "カタカタ"
-  ],
-  "hiragana": [
-    "かたかた"
-  ],
-  "definition": [
-    {
-      "meaning": "the rythmic sound of typing on a modern keyboard",
-      "equivalent": [
-        "click click",
-        "tap tap",
-        "clickety click",
-        "ticka tick",
-        "tacka tack"
-      ],
-      "example": [
-        {
-          "source": "uncle_at_heart",
-          "file": "kata_kata-1a",
-          "display": "カタ  カタ  カタ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["かたかた"],
+  "katakana": ["カタカタ"],
+  "definition": [{
+    "equivalent": [
+      "click click",
+      "tap tap",
+      "clickety click",
+      "ticka tick",
+      "tacka tack"
+    ],
+    "meaning": "the rythmic sound of typing on a modern keyboard",
+    "id": "kata_katata-1",
+    "example": [{
+      "file": "kata_kata-1a",
+      "contributor": "",
+      "display": "カタ  カタ  カタ",
+      "source": "uncle_at_heart"
+    }]
+  }],
+  "literal": "kata katata"
 }

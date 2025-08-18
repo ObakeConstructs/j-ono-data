@@ -1,13 +1,4 @@
 {
-  "literal": "za za",
-  "katakana": [
-    "ザザ",
-    "ザッザッ",
-    "ザザァ",
-    "ザザァァ",
-    "ザザア",
-    "ザザアア"
-  ],
   "hiragana": [
     "ざざ",
     "ざっざっ",
@@ -16,9 +7,16 @@
     "ざざあ",
     "ざざああ"
   ],
+  "katakana": [
+    "ザザ",
+    "ザッザッ",
+    "ザザァ",
+    "ザザァァ",
+    "ザザア",
+    "ザザアア"
+  ],
   "definition": [
     {
-      "meaning": "sound of someone stepping or walking",
       "equivalent": [
         "crunch crunch",
         "crush",
@@ -27,29 +25,30 @@
         "stroll",
         "walk"
       ],
+      "meaning": "sound of someone stepping or walking",
+      "id": "za_za-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "za_za-1a",
+          "contributor": "",
           "display": "ザッ  ザッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "za_za-1b",
+          "contributor": "",
           "display": "ザッ...  ザッ...",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "modern_dungeon_capture",
           "file": "za_za-1c",
+          "contributor": "",
           "display": "ザ  ザ",
-          "contributor": ""
+          "source": "modern_dungeon_capture"
         }
       ]
     },
     {
-      "meaning": "the sound of moving water or waves",
       "equivalent": [
         "fwoosh fwoosh",
         "gush",
@@ -63,26 +62,29 @@
         "swash",
         "waves"
       ],
+      "meaning": "the sound of moving water or waves",
+      "id": "za_za-2",
       "example": [
         {
-          "source": "buy_the_land",
           "file": "za_za-2a",
+          "contributor": "",
           "display": "ザザ..",
-          "contributor": ""
+          "source": "buy_the_land"
         },
         {
-          "source": "blazing_fire_brigade",
           "file": "za_za-2b",
+          "contributor": "",
           "display": "ザザザザ",
-          "contributor": ""
+          "source": "blazing_fire_brigade"
         },
         {
-          "source": "sex_with_me_sells",
           "file": "za_za-2c",
+          "contributor": "",
           "display": "ザザァ...",
-          "contributor": ""
+          "source": "sex_with_me_sells"
         }
       ]
     }
-  ]
+  ],
+  "literal": "za za"
 }

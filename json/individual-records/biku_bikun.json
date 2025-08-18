@@ -1,31 +1,24 @@
 {
-  "literal": "biku bikun",
-  "katakana": [
-    "ビクビクン"
-  ],
-  "hiragana": [
-    "びくびくん"
-  ],
-  "definition": [
-    {
-      "meaning": "indications of shaking, twitching, or convulsing",
-      "equivalent": [
-        "convulse convulse",
-        "jolt jolt",
-        "quiver quiver",
-        "shiver shiver",
-        "shudder shudder",
-        "tremble tremble",
-        "tremor tremor"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_as_a_dragon_egg",
-          "file": "biku_bikun-1a",
-          "display": "ビク  ビク  ビクン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["びくびくん"],
+  "katakana": ["ビクビクン"],
+  "definition": [{
+    "equivalent": [
+      "convulse convulse",
+      "jolt jolt",
+      "quiver quiver",
+      "shiver shiver",
+      "shudder shudder",
+      "tremble tremble",
+      "tremor tremor"
+    ],
+    "meaning": "indications of shaking, twitching, or convulsing",
+    "id": "biku_bikun-1",
+    "example": [{
+      "file": "biku_bikun-1a",
+      "contributor": "",
+      "display": "ビク  ビク  ビクン",
+      "source": "reincarnated_as_a_dragon_egg"
+    }]
+  }],
+  "literal": "biku bikun"
 }

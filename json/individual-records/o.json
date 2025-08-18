@@ -1,13 +1,4 @@
 {
-  "literal": "o",
-  "katakana": [
-    "オ",
-    "オッ",
-    "オオ",
-    "オオッ",
-    "オオオ",
-    "オオオッ"
-  ],
   "hiragana": [
     "お",
     "おっ",
@@ -16,50 +7,59 @@
     "おおお",
     "おおおっ"
   ],
+  "katakana": [
+    "オ",
+    "オッ",
+    "オオ",
+    "オオッ",
+    "オオオ",
+    "オオオッ"
+  ],
   "definition": [
     {
-      "meaning": "a brief exclamation expressing surprise or appreciation",
       "equivalent": [
         "hoh",
         "oh"
       ],
+      "meaning": "a brief exclamation expressing surprise or appreciation",
+      "id": "o-1",
       "example": [
         {
-          "source": "otherworld_material_collector",
           "file": "o-1a",
+          "contributor": "",
           "display": "お",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "o-1b",
+          "contributor": "",
           "display": "おおおっ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "o-1c",
+          "contributor": "",
           "display": "おおっ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     },
     {
-      "meaning": "a menacing roar or howl",
       "equivalent": [
         "bellow",
         "howl",
         "roar",
         "screech"
       ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "o-2a",
-          "display": "オオッ  オオォ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a menacing roar or howl",
+      "id": "o-2",
+      "example": [{
+        "file": "o-2a",
+        "contributor": "",
+        "display": "オオッ  オオォ",
+        "source": "isekai_sniper"
+      }]
     }
-  ]
+  ],
+  "literal": "o"
 }

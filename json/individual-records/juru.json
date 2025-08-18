@@ -1,35 +1,34 @@
 {
-  "literal": "juru",
-  "katakana": [
-    "ジュル",
-    "ジュルッ"
-  ],
   "hiragana": [
     "じゅる",
     "じゅるっ"
   ],
-  "definition": [
-    {
-      "meaning": "the act or sound of drooling",
-      "equivalent": [
-        "drool",
-        "slaver",
-        "slobber"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "juru-1a",
-          "display": "じゅるっ",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "juru-1b",
-          "display": "じゅるっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジュル",
+    "ジュルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drool",
+      "slaver",
+      "slobber"
+    ],
+    "meaning": "the act or sound of drooling",
+    "id": "juru-1",
+    "example": [
+      {
+        "file": "juru-1a",
+        "contributor": "",
+        "display": "じゅるっ",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "juru-1b",
+        "contributor": "",
+        "display": "じゅるっ",
+        "source": "gyaru_academy"
+      }
+    ]
+  }],
+  "literal": "juru"
 }

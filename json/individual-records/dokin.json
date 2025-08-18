@@ -1,27 +1,20 @@
 {
-  "literal": "dokin",
-  "katakana": [
-    "ドキン"
-  ],
-  "hiragana": [
-    "どきん"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of a heart beat, as when in nervious or embarrassed",
-      "equivalent": [
-        "ba-dump",
-        "heartbeat",
-        "thump"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "dokin-1a",
-          "display": "ドキン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どきん"],
+  "katakana": ["ドキン"],
+  "definition": [{
+    "equivalent": [
+      "ba-dump",
+      "heartbeat",
+      "thump"
+    ],
+    "meaning": "an indication of a heart beat, as when in nervious or embarrassed",
+    "id": "dokin-1",
+    "example": [{
+      "file": "dokin-1a",
+      "contributor": "",
+      "display": "ドキン",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "dokin"
 }

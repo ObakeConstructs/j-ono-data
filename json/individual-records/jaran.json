@@ -1,32 +1,29 @@
 {
-  "literal": "jaran",
-  "katakana": [
-    "ジャラン",
-    "ジャラーン"
-  ],
   "hiragana": [
     "じゃらん",
     "じゃらーん"
   ],
-  "definition": [
-    {
-      "meaning": "a sharp light sound of rattling metal or glass",
-      "equivalent": [
-        "ching",
-        "clink",
-        "jingle",
-        "ting",
-        "tink",
-        "tinkle"
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "jaran-1a",
-          "display": "ジャラーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジャラン",
+    "ジャラーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ching",
+      "clink",
+      "jingle",
+      "ting",
+      "tink",
+      "tinkle"
+    ],
+    "meaning": "a sharp light sound of rattling metal or glass",
+    "id": "jaran-1",
+    "example": [{
+      "file": "jaran-1a",
+      "contributor": "",
+      "display": "ジャラーン",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "jaran"
 }

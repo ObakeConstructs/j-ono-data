@@ -1,34 +1,29 @@
 {
-  "literal": "moji moji",
-  "katakana": [
-    "モジモジ"
-  ],
-  "hiragana": [
-    "もじもじ"
-  ],
-  "definition": [
-    {
-      "meaning": "an expression of shyness or hesitation",
-      "equivalent": [
-        "bashful",
-        "embarrassed",
-        "hesitation",
-        "shy"
-      ],
-      "example": [
-        {
-          "source": "neet_kunoichi",
-          "file": "moji_moji-1a",
-          "display": "もじ  もじ",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "moji_moji-1b",
-          "display": "もじ  もじ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["もじもじ"],
+  "katakana": ["モジモジ"],
+  "definition": [{
+    "equivalent": [
+      "bashful",
+      "embarrassed",
+      "hesitation",
+      "shy"
+    ],
+    "meaning": "an expression of shyness or hesitation",
+    "id": "moji_moji-1",
+    "example": [
+      {
+        "file": "moji_moji-1a",
+        "contributor": "",
+        "display": "もじ  もじ",
+        "source": "neet_kunoichi"
+      },
+      {
+        "file": "moji_moji-1b",
+        "contributor": "",
+        "display": "もじ  もじ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "moji moji"
 }

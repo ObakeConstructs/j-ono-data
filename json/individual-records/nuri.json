@@ -1,33 +1,30 @@
 {
-  "literal": "nuri",
-  "katakana": [
-    "ヌリ",
-    "ヌリッ"
-  ],
   "hiragana": [
     "ぬり",
     "ぬりっ"
   ],
-  "definition": [
-    {
-      "meaning": "the indication or sound of applying a sticky substance to a surface",
-      "equivalent": [
-        "apply",
-        "coat",
-        "daub",
-        "paint",
-        "plaster",
-        "smear",
-        "smudge"
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "nuri-1a",
-          "display": "ヌリッ.....",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヌリ",
+    "ヌリッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "apply",
+      "coat",
+      "daub",
+      "paint",
+      "plaster",
+      "smear",
+      "smudge"
+    ],
+    "meaning": "the indication or sound of applying a sticky substance to a surface",
+    "id": "nuri-1",
+    "example": [{
+      "file": "nuri-1a",
+      "contributor": "",
+      "display": "ヌリッ.....",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "nuri"
 }

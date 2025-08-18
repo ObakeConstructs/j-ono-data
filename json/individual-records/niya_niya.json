@@ -1,32 +1,29 @@
 {
-  "literal": "niya niya",
-  "katakana": [
-    "ニヤニヤ",
-    "ニヤニヤッ"
-  ],
   "hiragana": [
     "にやにや",
     "にやにやっ"
   ],
-  "definition": [
-    {
-      "meaning": "an unpleasant or evil smile",
-      "equivalent": [
-        "grin",
-        "smile",
-        "smirk",
-        "sneer",
-        "snicker",
-        "leer"
-      ],
-      "example": [
-        {
-          "source": "sex_with_me_sells",
-          "file": "niya_niya-1a",
-          "display": "にや  にや",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ニヤニヤ",
+    "ニヤニヤッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "grin",
+      "smile",
+      "smirk",
+      "sneer",
+      "snicker",
+      "leer"
+    ],
+    "meaning": "an unpleasant or evil smile",
+    "id": "niya_niya-1",
+    "example": [{
+      "file": "niya_niya-1a",
+      "contributor": "",
+      "display": "にや  にや",
+      "source": "sex_with_me_sells"
+    }]
+  }],
+  "literal": "niya niya"
 }

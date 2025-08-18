@@ -1,27 +1,20 @@
 {
-  "literal": "fumu",
-  "katakana": [
-    "フム"
-  ],
-  "hiragana": [
-    "ふむ"
-  ],
-  "definition": [
-    {
-      "meaning": "an expression or sound of contemplation",
-      "equivalent": [
-        "hmm",
-        "umm",
-        "uh-huh"
-      ],
-      "example": [
-        {
-          "source": "fushi_no_kami",
-          "file": "fumu-1a",
-          "display": "ふむ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ふむ"],
+  "katakana": ["フム"],
+  "definition": [{
+    "equivalent": [
+      "hmm",
+      "umm",
+      "uh-huh"
+    ],
+    "meaning": "an expression or sound of contemplation",
+    "id": "fumu-1",
+    "example": [{
+      "file": "fumu-1a",
+      "contributor": "",
+      "display": "ふむ",
+      "source": "fushi_no_kami"
+    }]
+  }],
+  "literal": "fumu"
 }

@@ -1,26 +1,19 @@
 {
-  "literal": "doku",
-  "katakana": [
-    "ドク"
-  ],
-  "hiragana": [
-    "どく"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of a heartbeat or a rythmic throbbing",
-      "equivalent": [
-        "ba-bump",
-        "throb"
-      ],
-      "example": [
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "doku-1a",
-          "display": "ドク",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どく"],
+  "katakana": ["ドク"],
+  "definition": [{
+    "equivalent": [
+      "ba-bump",
+      "throb"
+    ],
+    "meaning": "an indication of a heartbeat or a rythmic throbbing",
+    "id": "doku-1",
+    "example": [{
+      "file": "doku-1a",
+      "contributor": "",
+      "display": "ドク",
+      "source": "embarrassing_and_sweet"
+    }]
+  }],
+  "literal": "doku"
 }

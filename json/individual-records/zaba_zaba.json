@@ -1,34 +1,31 @@
 {
-  "literal": "zaba zaba",
-  "katakana": [
-    "ザバザバ",
-    "ザバザバァ"
-  ],
   "hiragana": [
     "ざばざば",
     "ざばざばぁ"
   ],
-  "definition": [
-    {
-      "meaning": "medium to large splashing sounds",
-      "equivalent": [
-        "gush gush",
-        "jet jet",
-        "slosh slosh",
-        "spew spew",
-        "splash splash",
-        "sploosh sploosh",
-        "spout spout",
-        "swash swash"
-      ],
-      "example": [
-        {
-          "source": "kaijuu_sdf",
-          "file": "zaba_zaba-1a",
-          "display": "ザバ  ザバ  ザバ  ザバ  ザバ  ザバ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザバザバ",
+    "ザバザバァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gush gush",
+      "jet jet",
+      "slosh slosh",
+      "spew spew",
+      "splash splash",
+      "sploosh sploosh",
+      "spout spout",
+      "swash swash"
+    ],
+    "meaning": "medium to large splashing sounds",
+    "id": "zaba_zaba-1",
+    "example": [{
+      "file": "zaba_zaba-1a",
+      "contributor": "",
+      "display": "ザバ  ザバ  ザバ  ザバ  ザバ  ザバ",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "literal": "zaba zaba"
 }

@@ -1,13 +1,4 @@
 {
-  "literal": "jiyu",
-  "katakana": [
-    "ジュ",
-    "ジュゥ",
-    "ジュゥゥ",
-    "ジユ",
-    "ジユウ",
-    "ジユウウ"
-  ],
   "hiragana": [
     "じゅ",
     "じゅぅ",
@@ -16,21 +7,27 @@
     "じゆう",
     "じゆうう"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of hissing or sizzling, as from cooking",
-      "equivalent": [
-        "sizle",
-        "hiss"
-      ],
-      "example": [
-        {
-          "source": "shogun_gold_in_america",
-          "file": "jiyu-1a",
-          "display": "じゅぅぅ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジュ",
+    "ジュゥ",
+    "ジュゥゥ",
+    "ジユ",
+    "ジユウ",
+    "ジユウウ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "sizle",
+      "hiss"
+    ],
+    "meaning": "the sound of hissing or sizzling, as from cooking",
+    "id": "jiyu-1",
+    "example": [{
+      "file": "jiyu-1a",
+      "contributor": "",
+      "display": "じゅぅぅ...",
+      "source": "shogun_gold_in_america"
+    }]
+  }],
+  "literal": "jiyu"
 }

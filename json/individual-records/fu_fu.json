@@ -1,12 +1,4 @@
 {
-  "literal": "fu fu",
-  "katakana": [
-    "フフ",
-    "フフッ",
-    "フフフ",
-    "フーフー",
-    "フーッフーッ"
-  ],
   "hiragana": [
     "ふふ",
     "ふふっ",
@@ -14,9 +6,15 @@
     "ふーふー",
     "ふーっふーっ"
   ],
+  "katakana": [
+    "フフ",
+    "フフッ",
+    "フフフ",
+    "フーフー",
+    "フーッフーッ"
+  ],
   "definition": [
     {
-      "meaning": "a light laugh",
       "equivalent": [
         "chortle",
         "chuckle",
@@ -24,49 +22,53 @@
         "heh heh",
         "laugh"
       ],
+      "meaning": "a light laugh",
+      "id": "fu_fu-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "fu_fu-1a",
+          "contributor": "",
           "display": "フフフ...",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "d_genesis",
           "file": "fu_fu-1b",
+          "contributor": "",
           "display": "ふふっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "dog_became_strongest",
           "file": "fu_fu-1c",
+          "contributor": "",
           "display": "ふふ",
-          "contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     },
     {
-      "meaning": "to repeatedly breath in a controlled, deliberate manner",
       "equivalent": [
         "blow blow",
         "breath breath",
         "exhale",
         "huff huff"
       ],
+      "meaning": "to repeatedly breath in a controlled, deliberate manner",
+      "id": "fu_fu-2",
       "example": [
         {
-          "source": "otherworld_material_collector",
           "file": "fu_fu-2a",
+          "contributor": "",
           "display": "フー  フー",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "double_play",
           "file": "fu_fu-2b",
+          "contributor": "",
           "display": "フーッ  フーッ",
-          "contributor": ""
+          "source": "double_play"
         }
       ]
     }
-  ]
+  ],
+  "literal": "fu fu"
 }

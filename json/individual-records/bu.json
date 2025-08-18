@@ -1,20 +1,18 @@
 {
-  "literal": "bu",
-  "katakana": [
-    "ブ",
-    "ブッ",
-    "ブー",
-    "ブーッ"
-  ],
   "hiragana": [
     "ぶ",
     "ぶっ",
     "ぶー",
     "ぶーっ"
   ],
+  "katakana": [
+    "ブ",
+    "ブッ",
+    "ブー",
+    "ブーッ"
+  ],
   "definition": [
     {
-      "meaning": "a sound of spitting or spraying something from the mouth",
       "equivalent": [
         "blarg",
         "bleh",
@@ -26,35 +24,37 @@
         "spit out",
         "sploosh"
       ],
+      "meaning": "a sound of spitting or spraying something from the mouth",
+      "id": "bu-1",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "bu-1a",
+          "contributor": "",
           "display": "ブーッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "hikaro_no_go",
           "file": "bu-1b",
+          "contributor": "",
           "display": "ぶーっ",
-          "contributor": ""
+          "source": "hikaro_no_go"
         }
       ]
     },
     {
-      "meaning": "a sound of restraint from spitting or spraying something from the mouth",
       "equivalent": [
         "blurg",
         "erp"
       ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "bu-2a",
-          "display": "ブッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a sound of restraint from spitting or spraying something from the mouth",
+      "id": "bu-2",
+      "example": [{
+        "file": "bu-2a",
+        "contributor": "",
+        "display": "ブッ",
+        "source": "double_play"
+      }]
     }
-  ]
+  ],
+  "literal": "bu"
 }

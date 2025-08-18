@@ -1,39 +1,38 @@
 {
-  "literal": "suta",
-  "katakana": [
-    "スタ",
-    "スタッ"
-  ],
   "hiragana": [
     "すた",
     "すたっ"
   ],
-  "definition": [
-    {
-      "meaning": "to land after jumping or falling",
-      "equivalent": [
-        "alight",
-        "land",
-        "landing",
-        "settle",
-        "thump",
-        "touch down",
-        "whump"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "suta-1a",
-          "display": "スタッ",
-          "contributor": ""
-        },
-        {
-          "source": "dungeon_dining_room",
-          "file": "suta-1b",
-          "display": "スタッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "スタ",
+    "スタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "alight",
+      "land",
+      "landing",
+      "settle",
+      "thump",
+      "touch down",
+      "whump"
+    ],
+    "meaning": "to land after jumping or falling",
+    "id": "suta-1",
+    "example": [
+      {
+        "file": "suta-1a",
+        "contributor": "",
+        "display": "スタッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "suta-1b",
+        "contributor": "",
+        "display": "スタッ",
+        "source": "dungeon_dining_room"
+      }
+    ]
+  }],
+  "literal": "suta"
 }

@@ -1,36 +1,35 @@
 {
-  "literal": "jyuru",
-  "katakana": [
-    "ヂュル",
-    "ヂュルッ"
-  ],
   "hiragana": [
     "ぢゅる",
     "ぢゅるっ"
   ],
-  "definition": [
-    {
-      "meaning": "a wet licking or sucking sound",
-      "equivalent": [
-        "kiss",
-        "slurp",
-        "suck",
-        "suckle"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "jyuru-1a",
-          "display": "ぢゅる",
-          "contributor": ""
-        },
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "jyuru-1b",
-          "display": "ぢゅるっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヂュル",
+    "ヂュルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "kiss",
+      "slurp",
+      "suck",
+      "suckle"
+    ],
+    "meaning": "a wet licking or sucking sound",
+    "id": "jyuru-1",
+    "example": [
+      {
+        "file": "jyuru-1a",
+        "contributor": "",
+        "display": "ぢゅる",
+        "source": "d_genesis"
+      },
+      {
+        "file": "jyuru-1b",
+        "contributor": "",
+        "display": "ぢゅるっ",
+        "source": "killed_by_gods_mistake"
+      }
+    ]
+  }],
+  "literal": "jyuru"
 }

@@ -1,16 +1,14 @@
 {
-  "literal": "gaba",
-  "katakana": [
-    "ガバ",
-    "ガバッ"
-  ],
   "hiragana": [
     "がば",
     "がばっ"
   ],
+  "katakana": [
+    "ガバ",
+    "ガバッ"
+  ],
   "definition": [
     {
-      "meaning": "suddenly sitting or standing up",
       "equivalent": [
         "arise",
         "fwip",
@@ -20,35 +18,36 @@
         "stand",
         "suddenly"
       ],
+      "meaning": "suddenly sitting or standing up",
+      "id": "gaba-1",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "gaba-1a",
+          "contributor": "",
           "display": "ガバッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "strongest_magician_was_human",
           "file": "gaba-1b",
+          "contributor": "",
           "display": "ガバッ",
-          "contributor": ""
+          "source": "strongest_magician_was_human"
         },
         {
-          "source": "neet_kunoichi",
           "file": "gaba-1c",
+          "contributor": "",
           "display": "ガバッ",
-          "contributor": ""
+          "source": "neet_kunoichi"
         },
         {
-          "source": "simple_sword_saint",
           "file": "gaba-1d",
+          "contributor": "",
           "display": "がばっ",
-          "contributor": ""
+          "source": "simple_sword_saint"
         }
       ]
     },
     {
-      "meaning": "hugging someone",
       "equivalent": [
         "clasp",
         "cradle",
@@ -57,20 +56,23 @@
         "hold",
         "hug"
       ],
+      "meaning": "hugging someone",
+      "id": "gaba-2",
       "example": [
         {
-          "source": "d_genesis",
           "file": "gaba-2a",
+          "contributor": "",
           "display": "がば",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "isekai_territory_reform",
           "file": "gaba-2b",
+          "contributor": "",
           "display": "がばっ",
-          "contributor": ""
+          "source": "isekai_territory_reform"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gaba"
 }

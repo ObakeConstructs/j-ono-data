@@ -1,34 +1,29 @@
 {
-  "literal": "kun kun",
-  "katakana": [
-    "クンクン"
-  ],
-  "hiragana": [
-    "くんくん"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of sniffing or smelling sounds",
-      "equivalent": [
-        "smell smell",
-        "sniff sniff",
-        "snuff snuff",
-        "whiff whiff"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "kun_kun-1a",
-          "display": "くんくん",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "kun_kun-1b",
-          "display": "くん  くん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["くんくん"],
+  "katakana": ["クンクン"],
+  "definition": [{
+    "equivalent": [
+      "smell smell",
+      "sniff sniff",
+      "snuff snuff",
+      "whiff whiff"
+    ],
+    "meaning": "a series of sniffing or smelling sounds",
+    "id": "kun_kun-1",
+    "example": [
+      {
+        "file": "kun_kun-1a",
+        "contributor": "",
+        "display": "くんくん",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "kun_kun-1b",
+        "contributor": "",
+        "display": "くん  くん",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "kun kun"
 }

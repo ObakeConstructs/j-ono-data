@@ -1,27 +1,20 @@
 {
-  "literal": "ja ja",
-  "katakana": [
-    "ジャジャ"
-  ],
-  "hiragana": [
-    "じゃじゃ"
-  ],
-  "definition": [
-    {
-      "meaning": "a repeated hissing or distorted sound",
-      "equivalent": [
-        "hiss hiss",
-        "sizzle sizzle",
-        "wah wah"
-      ],
-      "example": [
-        {
-          "source": "rock_n_roll_ladies",
-          "file": "ja_ja-1a",
-          "display": "ジャ  ジャ  ジャ  ジャ  ジャ  ジャ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["じゃじゃ"],
+  "katakana": ["ジャジャ"],
+  "definition": [{
+    "equivalent": [
+      "hiss hiss",
+      "sizzle sizzle",
+      "wah wah"
+    ],
+    "meaning": "a repeated hissing or distorted sound",
+    "id": "ja_ja-1",
+    "example": [{
+      "file": "ja_ja-1a",
+      "contributor": "",
+      "display": "ジャ  ジャ  ジャ  ジャ  ジャ  ジャ",
+      "source": "rock_n_roll_ladies"
+    }]
+  }],
+  "literal": "ja ja"
 }

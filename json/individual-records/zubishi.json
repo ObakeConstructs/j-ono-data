@@ -1,34 +1,27 @@
 {
-  "literal": "zubishi",
-  "katakana": [
-    "ズビシッ"
-  ],
-  "hiragana": [
-    "ずびしっ"
-  ],
-  "definition": [
-    {
-      "meaning": "a sharp, piercing or penetrating sound, usually precise",
-      "equivalent": [
-        "punch",
-        "strike",
-        "smack",
-        "ka-blam",
-        "crack",
-        "hit",
-        "slam",
-        "smite",
-        "crunch",
-        "impact"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "zubishi-1a",
-          "display": "ズビシッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ずびしっ"],
+  "katakana": ["ズビシッ"],
+  "definition": [{
+    "equivalent": [
+      "punch",
+      "strike",
+      "smack",
+      "ka-blam",
+      "crack",
+      "hit",
+      "slam",
+      "smite",
+      "crunch",
+      "impact"
+    ],
+    "meaning": "a sharp, piercing or penetrating sound, usually precise",
+    "id": "zubishi-1",
+    "example": [{
+      "file": "zubishi-1a",
+      "contributor": "",
+      "display": "ズビシッ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "zubishi"
 }

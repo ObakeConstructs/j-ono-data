@@ -1,41 +1,40 @@
 {
-  "literal": "kira",
-  "katakana": [
-    "キラ",
-    "キラッ"
-  ],
   "hiragana": [
     "きら",
     "きらっ"
   ],
-  "definition": [
-    {
-      "meaning": "a small reflection or twinkle of light",
-      "equivalent": [
-        "flash",
-        "gleam",
-        "glimmer",
-        "glint",
-        "glisten",
-        "glitter",
-        "shine",
-        "sparkle",
-        "twinkle"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "kira-1a",
-          "display": "キラッ",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_territory_reform",
-          "file": "kira-1b",
-          "display": "きらっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "キラ",
+    "キラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flash",
+      "gleam",
+      "glimmer",
+      "glint",
+      "glisten",
+      "glitter",
+      "shine",
+      "sparkle",
+      "twinkle"
+    ],
+    "meaning": "a small reflection or twinkle of light",
+    "id": "kira-1",
+    "example": [
+      {
+        "file": "kira-1a",
+        "contributor": "",
+        "display": "キラッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "kira-1b",
+        "contributor": "",
+        "display": "きらっ",
+        "source": "isekai_territory_reform"
+      }
+    ]
+  }],
+  "literal": "kira"
 }

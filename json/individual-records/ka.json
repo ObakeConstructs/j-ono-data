@@ -1,15 +1,4 @@
 {
-  "literal": "ka",
-  "katakana": [
-    "カ",
-    "カッ",
-    "カー",
-    "カーッ",
-    "カア",
-    "カアア",
-    "カァ",
-    "カァァ"
-  ],
   "hiragana": [
     "か",
     "かっ",
@@ -20,44 +9,54 @@
     "かぁ",
     "かぁぁ"
   ],
+  "katakana": [
+    "カ",
+    "カッ",
+    "カー",
+    "カーッ",
+    "カア",
+    "カアア",
+    "カァ",
+    "カァァ"
+  ],
   "definition": [
     {
-      "meaning": "an expression of blushing, as from excitement or embarrassment",
       "equivalent": [
         "blush",
         "flush",
         "flustered",
         "redden"
       ],
+      "meaning": "an expression of blushing, as from excitement or embarrassment",
+      "id": "ka-1",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "ka-1a",
+          "contributor": "",
           "display": "かー",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "ka-1b",
+          "contributor": "",
           "display": "かぁぁ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "isekai_territory_reform",
           "file": "ka-1c",
+          "contributor": "",
           "display": "カーッ",
-          "contributor": ""
+          "source": "isekai_territory_reform"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "ka-1d",
+          "contributor": "",
           "display": "カッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         }
       ]
     },
     {
-      "meaning": "to brighten or shine suddenly",
       "equivalent": [
         "bright",
         "brighten",
@@ -66,23 +65,24 @@
         "light up",
         "shine"
       ],
+      "meaning": "to brighten or shine suddenly",
+      "id": "ka-2",
       "example": [
         {
-          "source": "hello_work",
           "file": "ka-2a",
+          "contributor": "",
           "display": "カッ!",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "killed_by_gods_mistake",
           "file": "ka-2b",
+          "contributor": "",
           "display": "カッ",
-          "contributor": ""
+          "source": "killed_by_gods_mistake"
         }
       ]
     },
     {
-      "meaning": "a distinct and sharp sound associated with a light impact",
       "equivalent": [
         "clack",
         "clank",
@@ -90,20 +90,23 @@
         "clink",
         "tap"
       ],
+      "meaning": "a distinct and sharp sound associated with a light impact",
+      "id": "ka-3",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "ka-3a",
+          "contributor": "",
           "display": "カッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "human_ranch",
           "file": "ka-3b",
+          "contributor": "",
           "display": "カッ",
-          "contributor": ""
+          "source": "human_ranch"
         }
       ]
     }
-  ]
+  ],
+  "literal": "ka"
 }

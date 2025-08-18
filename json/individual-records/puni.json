@@ -1,44 +1,43 @@
 {
-  "literal": "puni",
-  "katakana": [
-    "プニ",
-    "プニッ",
-    "プニィ"
-  ],
   "hiragana": [
     "ぷに",
     "ぷにっ",
     "ぷにぃ"
   ],
-  "definition": [
-    {
-      "meaning": "an exaggerated indication of soft flesh",
-      "equivalent": [
-        "flesh",
-        "puffy",
-        "soft",
-        "squishy"
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "puni-1a",
-          "display": "プニッ",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "puni-1b",
-          "display": "プニィ",
-          "contributor": ""
-        },
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "puni-1c",
-          "display": "ぷに!!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プニ",
+    "プニッ",
+    "プニィ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flesh",
+      "puffy",
+      "soft",
+      "squishy"
+    ],
+    "meaning": "an exaggerated indication of soft flesh",
+    "id": "puni-1",
+    "example": [
+      {
+        "file": "puni-1a",
+        "contributor": "",
+        "display": "プニッ",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "puni-1b",
+        "contributor": "",
+        "display": "プニィ",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "puni-1c",
+        "contributor": "",
+        "display": "ぷに!!",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "literal": "puni"
 }

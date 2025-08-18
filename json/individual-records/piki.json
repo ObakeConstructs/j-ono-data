@@ -1,33 +1,30 @@
 {
-  "literal": "piki",
-  "katakana": [
-    "ピキ",
-    "ピキッ"
-  ],
   "hiragana": [
     "ぴき",
     "ぴきっ"
   ],
+  "katakana": [
+    "ピキ",
+    "ピキッ"
+  ],
   "definition": [
     {
-      "meaning": "a cracking or popping sound",
       "equivalent": [
         "crack",
         "crackle",
         "pop",
         "snap"
       ],
-      "example": [
-        {
-          "source": "strongest_magician_was_human",
-          "file": "piki-1a",
-          "display": "ピキッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a cracking or popping sound",
+      "id": "piki-1",
+      "example": [{
+        "file": "piki-1a",
+        "contributor": "",
+        "display": "ピキッ",
+        "source": "strongest_magician_was_human"
+      }]
     },
     {
-      "meaning": "an expression of sudden anger or annoyance",
       "equivalent": [
         "angry",
         "annoyed",
@@ -40,20 +37,23 @@
         "riled",
         "snap"
       ],
+      "meaning": "an expression of sudden anger or annoyance",
+      "id": "piki-2",
       "example": [
         {
-          "source": "fushi_no_kami",
           "file": "piki-2a",
+          "contributor": "",
           "display": "ピキ",
-          "contributor": ""
+          "source": "fushi_no_kami"
         },
         {
-          "source": "my_s-ranked_daughter",
           "file": "piki-2b",
+          "contributor": "",
           "display": "ピキ..ッ..",
-          "contributor": ""
+          "source": "my_s-ranked_daughter"
         }
       ]
     }
-  ]
+  ],
+  "literal": "piki"
 }

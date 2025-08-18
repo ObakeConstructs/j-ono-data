@@ -1,33 +1,26 @@
 {
-  "literal": "oppa",
-  "katakana": [
-    "オッパ"
-  ],
-  "hiragana": [
-    "おっぱ"
-  ],
-  "definition": [
-    {
-      "meaning": "an expression of surprise, realization, or understanding",
-      "equivalent": [
-        "amazed",
-        "gasp",
-        "realize",
-        "shock",
-        "startled",
-        "surprise",
-        "uh oh",
-        "understand",
-        "wha"
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "oppa-1a",
-          "display": "おっぱ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["おっぱ"],
+  "katakana": ["オッパ"],
+  "definition": [{
+    "equivalent": [
+      "amazed",
+      "gasp",
+      "realize",
+      "shock",
+      "startled",
+      "surprise",
+      "uh oh",
+      "understand",
+      "wha"
+    ],
+    "meaning": "an expression of surprise, realization, or understanding",
+    "id": "oppa-1",
+    "example": [{
+      "file": "oppa-1a",
+      "contributor": "",
+      "display": "おっぱ...",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "oppa"
 }

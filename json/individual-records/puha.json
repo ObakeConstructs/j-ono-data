@@ -1,46 +1,45 @@
 {
-  "literal": "puha",
-  "katakana": [
-    "プハ",
-    "プハッ",
-    "プハー",
-    "プハーッ"
-  ],
   "hiragana": [
     "ぷは",
     "ぷはっ",
     "ぷはー",
     "ぷはーっ"
   ],
-  "definition": [
-    {
-      "meaning": "a vocalized sound expressing relief or satisfaction",
-      "equivalent": [
-        "ahh",
-        "fwah",
-        "phew",
-        "whah"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "puha-1a",
-          "display": "ぷはっ",
-          "contributor": ""
-        },
-        {
-          "source": "reincarnated_as_a_dragon_egg",
-          "file": "puha-1b",
-          "display": "ぷはっ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "puha-1c",
-          "display": "ぷはーっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プハ",
+    "プハッ",
+    "プハー",
+    "プハーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ahh",
+      "fwah",
+      "phew",
+      "whah"
+    ],
+    "meaning": "a vocalized sound expressing relief or satisfaction",
+    "id": "puha-1",
+    "example": [
+      {
+        "file": "puha-1a",
+        "contributor": "",
+        "display": "ぷはっ",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "puha-1b",
+        "contributor": "",
+        "display": "ぷはっ",
+        "source": "reincarnated_as_a_dragon_egg"
+      },
+      {
+        "file": "puha-1c",
+        "contributor": "",
+        "display": "ぷはーっ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "puha"
 }

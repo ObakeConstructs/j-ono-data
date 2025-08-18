@@ -1,34 +1,29 @@
 {
-  "literal": "peshi peshi",
-  "katakana": [
-    "ペシペシ"
-  ],
-  "hiragana": [
-    "ぺしぺし"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of harmless impacts, as from slapping",
-      "equivalent": [
-        "bonk bonk",
-        "slap slap",
-        "smack smack",
-        "whap whap"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "peshi_peshi-1a",
-          "display": "ぺし  ぺし",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "peshi_peshi-1b",
-          "display": "ぺし  ぺし",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぺしぺし"],
+  "katakana": ["ペシペシ"],
+  "definition": [{
+    "equivalent": [
+      "bonk bonk",
+      "slap slap",
+      "smack smack",
+      "whap whap"
+    ],
+    "meaning": "a series of harmless impacts, as from slapping",
+    "id": "peshi_peshi-1",
+    "example": [
+      {
+        "file": "peshi_peshi-1a",
+        "contributor": "",
+        "display": "ぺし  ぺし",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "peshi_peshi-1b",
+        "contributor": "",
+        "display": "ぺし  ぺし",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "peshi peshi"
 }

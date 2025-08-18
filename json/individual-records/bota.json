@@ -1,33 +1,30 @@
 {
-  "literal": "bota",
-  "katakana": [
-    "ボタ",
-    "ボタッ",
-    "ボタタッ"
-  ],
   "hiragana": [
     "ぼた",
     "ぼたっ",
     "ぼたたっ"
   ],
-  "definition": [
-    {
-      "meaning": "a dripping sound of viscous fluids, typically blood",
-      "equivalent": [
-        "drip",
-        "drop",
-        "flow",
-        "gush",
-        "splat"
-      ],
-      "example": [
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "bota-1a",
-          "display": "ボタタッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボタ",
+    "ボタッ",
+    "ボタタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drip",
+      "drop",
+      "flow",
+      "gush",
+      "splat"
+    ],
+    "meaning": "a dripping sound of viscous fluids, typically blood",
+    "id": "bota-1",
+    "example": [{
+      "file": "bota-1a",
+      "contributor": "",
+      "display": "ボタタッ",
+      "source": "beastly_boys_and_girls"
+    }]
+  }],
+  "literal": "bota"
 }

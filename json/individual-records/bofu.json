@@ -1,31 +1,28 @@
 {
-  "literal": "bofu",
-  "katakana": [
-    "ボフッ",
-    "ボフ"
-  ],
   "hiragana": [
     "ぼふ",
     "ぼふっ"
   ],
-  "definition": [
-    {
-      "meaning": "a soft puffing sound",
-      "equivalent": [
-        "floof",
-        "fwump",
-        "ploof",
-        "poof",
-        "puff"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "bofu-1a",
-          "display": "ボフッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボフッ",
+    "ボフ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "floof",
+      "fwump",
+      "ploof",
+      "poof",
+      "puff"
+    ],
+    "meaning": "a soft puffing sound",
+    "id": "bofu-1",
+    "example": [{
+      "file": "bofu-1a",
+      "contributor": "",
+      "display": "ボフッ",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "bofu"
 }

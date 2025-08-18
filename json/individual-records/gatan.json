@@ -1,32 +1,29 @@
 {
-  "literal": "gatan",
-  "katakana": [
-    "ガタン",
-    "ガターン"
-  ],
   "hiragana": [
     "がたん",
     "がたーん"
   ],
-  "definition": [
-    {
-      "meaning": "\"an expression of sudden inspiration, revelation, or recognition",
-      "equivalent": [
-        "ah-hah",
-        "inspiration",
-        "revelation",
-        "realize",
-        "recognition",
-        "spark"
-      ],
-      "example": [
-        {
-          "source": "isekai_av_filming",
-          "file": "gatan-1a",
-          "display": "ガタン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガタン",
+    "ガターン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ah-hah",
+      "inspiration",
+      "revelation",
+      "realize",
+      "recognition",
+      "spark"
+    ],
+    "meaning": "\"an expression of sudden inspiration, revelation, or recognition",
+    "id": "gatan-1",
+    "example": [{
+      "file": "gatan-1a",
+      "contributor": "",
+      "display": "ガタン",
+      "source": "isekai_av_filming"
+    }]
+  }],
+  "literal": "gatan"
 }

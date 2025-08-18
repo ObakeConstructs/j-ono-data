@@ -1,13 +1,4 @@
 {
-  "literal": "mu",
-  "katakana": [
-    "ム",
-    "ムッ",
-    "ムー",
-    "ムーッ",
-    "ムウ",
-    "ムウッ"
-  ],
   "hiragana": [
     "む",
     "むっ",
@@ -16,42 +7,50 @@
     "むう",
     "むうっ"
   ],
-  "definition": [
-    {
-      "meaning": "the sound or act of puffing out one's cheeks, typicaly as an expression of annoyance",
-      "equivalent": [
-        "aggravated",
-        "annoyed",
-        "hmph",
-        "irked",
-        "irritated",
-        "narked",
-        "peeved",
-        "pissed",
-        "riled",
-        "unamused",
-        "vexed"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "mu-1a",
-          "display": "ム...",
-          "contributor": ""
-        },
-        {
-          "source": "reincarnated_farm_girl",
-          "file": "mu-1b",
-          "display": "むう〜",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "mu-1c",
-          "display": "むっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ム",
+    "ムッ",
+    "ムー",
+    "ムーッ",
+    "ムウ",
+    "ムウッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aggravated",
+      "annoyed",
+      "hmph",
+      "irked",
+      "irritated",
+      "narked",
+      "peeved",
+      "pissed",
+      "riled",
+      "unamused",
+      "vexed"
+    ],
+    "meaning": "the sound or act of puffing out one's cheeks, typicaly as an expression of annoyance",
+    "id": "mu-1",
+    "example": [
+      {
+        "file": "mu-1a",
+        "contributor": "",
+        "display": "ム...",
+        "source": "d_genesis"
+      },
+      {
+        "file": "mu-1b",
+        "contributor": "",
+        "display": "むう〜",
+        "source": "reincarnated_farm_girl"
+      },
+      {
+        "file": "mu-1c",
+        "contributor": "",
+        "display": "むっ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "mu"
 }

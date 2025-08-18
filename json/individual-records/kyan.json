@@ -1,31 +1,28 @@
 {
-  "literal": "kyan",
-  "katakana": [
-    "キャン",
-    "キャーン"
-  ],
   "hiragana": [
     "きゃん",
     "きゃーん"
   ],
-  "definition": [
-    {
-      "meaning": "to squeal or cry out loudly, often used humorously",
-      "equivalent": [
-        "screech",
-        "shriek",
-        "squeal",
-        "yell",
-        "yelp"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "kyan-1a",
-          "display": "きゃん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "キャン",
+    "キャーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "screech",
+      "shriek",
+      "squeal",
+      "yell",
+      "yelp"
+    ],
+    "meaning": "to squeal or cry out loudly, often used humorously",
+    "id": "kyan-1",
+    "example": [{
+      "file": "kyan-1a",
+      "contributor": "",
+      "display": "きゃん",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "kyan"
 }

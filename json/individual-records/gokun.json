@@ -1,40 +1,35 @@
 {
-  "literal": "gokun",
-  "katakana": [
-    "ゴクン"
-  ],
-  "hiragana": [
-    "ごくん"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of gulping or swallowing",
-      "equivalent": [
-        "drink",
-        "gulp",
-        "quaff",
-        "swallow"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "gokun-1a",
-          "display": "ゴクン",
-          "contributor": ""
-        },
-        {
-          "source": "berserk",
-          "file": "gokun-1b",
-          "display": "ゴクン.",
-          "contributor": ""
-        },
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "gokun-1c",
-          "display": "ゴクン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ごくん"],
+  "katakana": ["ゴクン"],
+  "definition": [{
+    "equivalent": [
+      "drink",
+      "gulp",
+      "quaff",
+      "swallow"
+    ],
+    "meaning": "the sound of gulping or swallowing",
+    "id": "gokun-1",
+    "example": [
+      {
+        "file": "gokun-1a",
+        "contributor": "",
+        "display": "ゴクン",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "gokun-1b",
+        "contributor": "",
+        "display": "ゴクン.",
+        "source": "berserk"
+      },
+      {
+        "file": "gokun-1c",
+        "contributor": "",
+        "display": "ゴクン",
+        "source": "rise_of_the_outlaw_tamer"
+      }
+    ]
+  }],
+  "literal": "gokun"
 }

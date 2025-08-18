@@ -1,16 +1,14 @@
 {
-  "literal": "un",
-  "katakana": [
-    "ウン",
-    "ウーン"
-  ],
   "hiragana": [
     "うん",
     "うーん"
   ],
+  "katakana": [
+    "ウン",
+    "ウーン"
+  ],
   "definition": [
     {
-      "meaning": "nodding to express agreement",
       "equivalent": [
         "exactly",
         "mm-hmm",
@@ -19,39 +17,39 @@
         "yeah",
         "yes"
       ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "un-1a",
-          "display": "うん",
-          "contributor": ""
-        }
-      ]
+      "meaning": "nodding to express agreement",
+      "id": "un-1",
+      "example": [{
+        "file": "un-1a",
+        "contributor": "",
+        "display": "うん",
+        "source": "d_genesis"
+      }]
     },
     {
-      "meaning": "an expression or sound of contemplation",
       "equivalent": [
         "hmm",
         "uh",
         "um"
       ],
+      "meaning": "an expression or sound of contemplation",
+      "id": "un-2",
       "example": [
         {
-          "source": "d_genesis",
           "file": "un-2a",
+          "contributor": "",
           "display": "うーん",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "fushi_no_kami",
           "file": "un-2b",
+          "contributor": "",
           "display": "うーん",
-          "contributor": ""
+          "source": "fushi_no_kami"
         }
       ]
     },
     {
-      "meaning": "the sound of a grunt or a groan, expressing strain or effort",
       "equivalent": [
         "clench",
         "gah",
@@ -62,14 +60,15 @@
         "struggle",
         "urgh"
       ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "un-3a",
-          "display": "う〜んん...",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of a grunt or a groan, expressing strain or effort",
+      "id": "un-3",
+      "example": [{
+        "file": "un-3a",
+        "contributor": "",
+        "display": "う〜んん...",
+        "source": "blazing_fire_brigade"
+      }]
     }
-  ]
+  ],
+  "literal": "un"
 }

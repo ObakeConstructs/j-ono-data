@@ -1,42 +1,41 @@
 {
-  "literal": "kasa",
-  "katakana": [
-    "カサ",
-    "カサッ"
-  ],
   "hiragana": [
     "かさ",
     "かさっ"
   ],
-  "definition": [
-    {
-      "meaning": "a gentle, quiet sound of movement, as that of fabric, paper, or plants",
-      "equivalent": [
-        "flap",
-        "murmur",
-        "rustle",
-        "swish"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "kasa-1a",
-          "display": "カサ...",
-          "contributor": ""
-        },
-        {
-          "source": "spy_x_family",
-          "file": "kasa-1b",
-          "display": "カサ...",
-          "contributor": ""
-        },
-        {
-          "source": "uncle_at_heart",
-          "file": "kasa-1c",
-          "display": "カサッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "カサ",
+    "カサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flap",
+      "murmur",
+      "rustle",
+      "swish"
+    ],
+    "meaning": "a gentle, quiet sound of movement, as that of fabric, paper, or plants",
+    "id": "kasa-1",
+    "example": [
+      {
+        "file": "kasa-1a",
+        "contributor": "",
+        "display": "カサ...",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "kasa-1b",
+        "contributor": "",
+        "display": "カサ...",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "kasa-1c",
+        "contributor": "",
+        "display": "カサッ",
+        "source": "uncle_at_heart"
+      }
+    ]
+  }],
+  "literal": "kasa"
 }

@@ -13,8 +13,8 @@
         "ah",
         "oh"
       ],
-      "id": "ah-1",
       "meaning": "an indication of surprise, amazement, or a sudden realization",
+      "id": "ah-1",
       "example": [{
         "file": "ah-1a",
         "contributor": "",
@@ -47,6 +47,7 @@
         "snicker"
       ],
       "meaning": "a sound of loud laughter",
+      "id": "ahaha-1",
       "example": [
         {
           "file": "ahaha-1a",
@@ -81,6 +82,7 @@
         "sigh"
       ],
       "meaning": "a sound of moaning, often used in a comical manner to express pleasure or desire",
+      "id": "ahan-1",
       "example": [
         {
           "file": "ahan-1a",
@@ -119,6 +121,7 @@
         "savor"
       ],
       "meaning": "an indication or sound of eating, chewing, or putting something into the mouth",
+      "id": "amu-1",
       "example": [
         {
           "file": "amu-1a",
@@ -153,6 +156,7 @@
         "wah"
       ],
       "meaning": "an indication or sound of a wide-open mouth, as preparing to eat something",
+      "id": "an-1",
       "example": [{
         "file": "an-1a",
         "contributor": "",
@@ -185,6 +189,7 @@
         "worry"
       ],
       "meaning": "an expression of panic, anxiety, or uncertainty",
+      "id": "awa-1",
       "example": [{
         "file": "awa-1a",
         "contributor": "",
@@ -211,6 +216,7 @@
         "worry"
       ],
       "meaning": "an expression of panic, anxiety, or uncertainty",
+      "id": "awa_awa-1",
       "example": [{
         "file": "awa_awa-1a",
         "contributor": "",
@@ -239,6 +245,7 @@
           "whirl"
         ],
         "meaning": "an indication of turning around suddenly",
+        "id": "ba-1",
         "example": [
           {
             "file": "ba-1a",
@@ -273,6 +280,7 @@
           "zip"
         ],
         "meaning": "an indication of a sudden and/or fast movement",
+        "id": "ba-2",
         "example": [
           {
             "file": "ba-2a",
@@ -317,6 +325,7 @@
           "whomp"
         ],
         "meaning": "a sound of a sudden and loud impact",
+        "id": "ba-3",
         "example": [{
           "file": "ba-3a",
           "contributor": "",
@@ -333,6 +342,7 @@
           "unveil"
         ],
         "meaning": "an indication of revealing or showing something suddenly",
+        "id": "ba-4",
         "example": [
           {
             "file": "ba-4a",
@@ -357,6 +367,7 @@
           "understand"
         ],
         "meaning": "an expression of realization or understanding",
+        "id": "ba-5",
         "example": [{
           "file": "ba-5a",
           "contributor": "",
@@ -388,6 +399,7 @@
         "zip"
       ],
       "meaning": "an indication or sound of sudden or fast movement",
+      "id": "baba-1",
       "example": [
         {
           "file": "baba-1a",
@@ -423,6 +435,7 @@
           "jolt"
         ],
         "meaning": "a sound of an electrical discharge",
+        "id": "bachi-1",
         "example": [{
           "file": "bachi-1a",
           "contributor": "",
@@ -438,6 +451,7 @@
           "jolt"
         ],
         "meaning": "an indication of eye contact, often accidental",
+        "id": "bachi-2",
         "example": [{
           "file": "bachi-2a",
           "contributor": "",
@@ -463,6 +477,7 @@
         "whap"
       ],
       "meaning": "a sound of tapping or slapping",
+      "id": "bachin-1",
       "example": [{
         "file": "bachin-1a",
         "contributor": "",
@@ -490,6 +505,7 @@
         "smash"
       ],
       "meaning": "a sound of an impact or crash",
+      "id": "baga-1",
       "example": [{
         "file": "baga-1a",
         "contributor": "",
@@ -518,6 +534,7 @@
         "snap"
       ],
       "meaning": "a sound of something breaking or cracking",
+      "id": "baki-1",
       "example": [
         {
           "file": "baki-1a",
@@ -552,6 +569,7 @@
         "smash"
       ],
       "meaning": "a sound of something suddenly falling apart or breaking into pieces",
+      "id": "bakin-1",
       "example": [{
         "file": "bakin-1a",
         "contributor": "",
@@ -572,6 +590,7 @@
         "smash smash"
       ],
       "meaning": "sounds of cracking or breaking",
+      "id": "baki_baki-1",
       "example": [{
         "file": "baki_baki-1a",
         "contributor": "",
@@ -592,6 +611,7 @@
         "snarf snarf"
       ],
       "meaning": "an indication or sound of eating wildly, expressing hunger or enthusiasm",
+      "id": "baku_baku-1",
       "example": [{
         "file": "baku_baku-1a",
         "contributor": "",
@@ -634,6 +654,7 @@
           "whack"
         ],
         "meaning": "a short, sharp sound of impact",
+        "id": "ban-1",
         "example": [
           {
             "file": "ban-1a",
@@ -670,6 +691,7 @@
           "wow"
         ],
         "meaning": "an indication of something amazing or surprising, often shown in a dramatic fashion",
+        "id": "ban-2",
         "example": [
           {
             "file": "ban-2a",
@@ -704,6 +726,7 @@
         "fall apart"
       ],
       "meaning": "an indication or sound of something crumbling or falling apart",
+      "id": "bara_bara-1",
       "example": [{
         "file": "bara_bara-1a",
         "contributor": "",
@@ -729,6 +752,7 @@
         "tear"
       ],
       "meaning": "a sound of paper tearing or ripping",
+      "id": "barin-1",
       "example": [{
         "file": "barin-1a",
         "contributor": "",
@@ -760,6 +784,7 @@
           "swish"
         ],
         "meaning": "a soft sound of cloth or paper movement",
+        "id": "basa-1",
         "example": [
           {
             "file": "basa-1a",
@@ -807,6 +832,7 @@
           "unveil"
         ],
         "meaning": "an indication of appearing suddenly, as in a dramatic reveal",
+        "id": "basa-2",
         "example": [{
           "file": "basa-2a",
           "contributor": "",
@@ -838,6 +864,7 @@
         "whump whump"
       ],
       "meaning": "rustling sounds of something moving through air",
+      "id": "basa_basa-1",
       "example": [
         {
           "file": "basa_basa-1a",
@@ -882,6 +909,7 @@
         "swash"
       ],
       "meaning": "a sound of a medium to large splash",
+      "id": "basha-1",
       "example": [
         {
           "file": "basha-1a",
@@ -920,6 +948,7 @@
         "swash"
       ],
       "meaning": "a sound of a medium to large splash",
+      "id": "bashan-1",
       "example": [{
         "file": "bashan-1a",
         "contributor": "",
@@ -941,6 +970,7 @@
         "wash wash"
       ],
       "meaning": "sounds of water splashing",
+      "id": "basha_basha-1",
       "example": [{
         "file": "basha_basha-1a",
         "contributor": "",
@@ -976,6 +1006,7 @@
         "whomp"
       ],
       "meaning": "a sound of a sudden or loud impact",
+      "id": "bashi-1",
       "example": [
         {
           "file": "bashi-1a",
@@ -1012,6 +1043,7 @@
         "tumult"
       ],
       "meaning": "a tumultuous sound of multiple impacts",
+      "id": "bashun-1",
       "example": [
         {
           "file": "bashun-1a",
@@ -1041,6 +1073,7 @@
         "thwack"
       ],
       "meaning": "a sound of a rattling impact, as from a door or window opening or closing",
+      "id": "batan-1",
       "example": [
         {
           "file": "batan-1a",
@@ -1070,6 +1103,7 @@
         "thump thump"
       ],
       "meaning": "a sound of shoes stepping across the floor",
+      "id": "bata_bata-1",
       "example": [{
         "file": "bata_bata-1a",
         "contributor": "",
@@ -1095,6 +1129,7 @@
         "pbbbt"
       ],
       "meaning": "an indication or sound of sticking out one's tongue, often as an expression of disdain or disrespect",
+      "id": "be-1",
       "example": [{
         "file": "be-1a",
         "contributor": "",
@@ -1115,6 +1150,7 @@
         "tear tear"
       ],
       "meaning": "an indication or sound of peeling or tearing something away",
+      "id": "beri_beri-1",
       "example": [{
         "file": "beri_beri-1a",
         "contributor": "",
@@ -1136,6 +1172,7 @@
         "slurp"
       ],
       "meaning": "a sound of a licking tongue",
+      "id": "beron-1",
       "example": [{
         "file": "beron-1a",
         "contributor": "",
@@ -1167,6 +1204,7 @@
         "tacky"
       ],
       "meaning": "an indication of something sticky or gummy",
+      "id": "beta-1",
       "example": [{
         "file": "beta-1a",
         "contributor": "",
@@ -1207,6 +1245,7 @@
           "wallop"
         ],
         "meaning": "a sound of a quick strike",
+        "id": "bi-1",
         "example": [
           {
             "file": "bi-1a",
@@ -1230,6 +1269,7 @@
           "snap"
         ],
         "meaning": "an indication of a quick gesture",
+        "id": "bi-2",
         "example": [{
           "file": "bi-2a",
           "contributor": "",
@@ -1265,6 +1305,7 @@
         "squirt"
       ],
       "meaning": "a sound of splashing or splattering",
+      "id": "bicha-1",
       "example": [{
         "file": "bicha-1a",
         "contributor": "",
@@ -1296,6 +1337,7 @@
         "startle"
       ],
       "meaning": "an expression of surprise or startlement",
+      "id": "biku-1",
       "example": [
         {
           "file": "biku-1a",
@@ -1341,6 +1383,7 @@
           "tremble"
         ],
         "meaning": "an indication of shaking or shuddering",
+        "id": "bikun-1",
         "example": [
           {
             "file": "bikun-1a",
@@ -1365,6 +1408,7 @@
           "startle"
         ],
         "meaning": "an expression of surprise or startlement",
+        "id": "bikun-2",
         "example": [
           {
             "file": "bikun-2a",
@@ -1408,6 +1452,7 @@
         "wince wince"
       ],
       "meaning": "indications of jerky movement or twitching",
+      "id": "biku_biku-1",
       "example": [{
         "file": "biku_biku-1a",
         "contributor": "",
@@ -1431,6 +1476,7 @@
         "tremor tremor"
       ],
       "meaning": "indications of shaking, twitching, or convulsing",
+      "id": "biku_bikun-1",
       "example": [{
         "file": "biku_bikun-1a",
         "contributor": "",
@@ -1456,6 +1502,7 @@
         "tear"
       ],
       "meaning": "a sound of paper tearing or ripping",
+      "id": "biri-1",
       "example": [{
         "file": "biri-1a",
         "contributor": "Artrix",
@@ -1482,6 +1529,7 @@
         "tremble"
       ],
       "meaning": "an indication of shaking",
+      "id": "biri_biri-1",
       "example": [{
         "file": "biri_biri-1a",
         "contributor": "",
@@ -1509,6 +1557,7 @@
         "spray"
       ],
       "meaning": "a small sound of spraying or splashing",
+      "id": "bisha-1",
       "example": [{
         "file": "bisha-1a",
         "contributor": "",
@@ -1529,6 +1578,7 @@
         "spray spray"
       ],
       "meaning": "sounds of spraying or splashing",
+      "id": "bisha_bisha-1",
       "example": [{
         "file": "bisha_bish-1a",
         "contributor": "",
@@ -1560,6 +1610,7 @@
           "straighten"
         ],
         "meaning": "an indication of suddenly stopping as a reaction",
+        "id": "bishi-1",
         "example": [
           {
             "file": "bishi-1a",
@@ -1593,6 +1644,7 @@
           "whap"
         ],
         "meaning": "a sound of a sudden strike",
+        "id": "bishi-2",
         "example": [
           {
             "file": "bishi-2a",
@@ -1621,6 +1673,7 @@
           "point"
         ],
         "meaning": "an indication of suddenly pointing at something",
+        "id": "bishi-3",
         "example": [{
           "file": "bishi-4a",
           "contributor": "",
@@ -1659,6 +1712,7 @@
         "wham wham"
       ],
       "meaning": "sounds of sudden or forceful strikes",
+      "id": "bishi_bishi-1",
       "example": [{
         "file": "bishi_bishi-1a",
         "contributor": "",
@@ -1680,6 +1734,7 @@
         "zipwhiz"
       ],
       "meaning": "a combined sound of snapping and rushing/whipping, as loosing an arrow",
+      "id": "bishu-1",
       "example": [{
         "file": "bishu-1a",
         "contributor": "",
@@ -1725,6 +1780,7 @@
           "torch"
         ],
         "meaning": "a sound of fire or burning",
+        "id": "bo-1",
         "example": [
           {
             "file": "bo-1a",
@@ -1759,6 +1815,7 @@
           "vacant"
         ],
         "meaning": "an indication or expression of a lack of energy or attention",
+        "id": "bo-2",
         "example": [{
           "file": "bo-2a",
           "contributor": "",
@@ -1783,6 +1840,7 @@
         "swash"
       ],
       "meaning": "a sound of something landing into water",
+      "id": "bochan-1",
       "example": [{
         "file": "bochan-1a",
         "contributor": "",
@@ -1810,6 +1868,7 @@
         "puff"
       ],
       "meaning": "a soft puffing sound",
+      "id": "bofu-1",
       "example": [{
         "file": "bofu-1a",
         "contributor": "",
@@ -1831,6 +1890,7 @@
         "puff"
       ],
       "meaning": "a soft puffing sound",
+      "id": "bofun-1",
       "example": [
         {
           "file": "bofun-1a",
@@ -1869,6 +1929,7 @@
         "pop"
       ],
       "meaning": "a sound of boiling or bubbling",
+      "id": "boko-1",
       "example": [{
         "file": "boko-1a",
         "contributor": "",
@@ -1892,6 +1953,7 @@
         "tok"
       ],
       "meaning": "a sound of a sudden impact",
+      "id": "bokon-1",
       "example": [{
         "file": "bokon-1a",
         "contributor": "",
@@ -1921,6 +1983,7 @@
         "ta-da"
       ],
       "meaning": "an indication of something amazing or surprising, often revealed in a dramatic fashion",
+      "id": "bon-1",
       "example": [{
         "file": "bon-1a",
         "contributor": "Artrix",
@@ -1948,6 +2011,7 @@
         "worn out"
       ],
       "meaning": "an indication or expression of being worn out or exhausted",
+      "id": "boro-1",
       "example": [{
         "file": "boro-1a",
         "contributor": "",
@@ -1977,6 +2041,7 @@
         "weep"
       ],
       "meaning": "an indication of tears dripping",
+      "id": "boron-1",
       "example": [{
         "file": "boron-1a",
         "contributor": "",
@@ -1998,6 +2063,7 @@
         "weep weep"
       ],
       "meaning": "indications of dripping tears as an expression of pain or distress",
+      "id": "boro_boro-1",
       "example": [
         {
           "file": "boro_boro-1a",
@@ -2040,6 +2106,7 @@
         "whisper"
       ],
       "meaning": "an indication of mumbling or whispering",
+      "id": "boso-1",
       "example": [
         {
           "file": "boso-1a",
@@ -2077,6 +2144,7 @@
         "splat"
       ],
       "meaning": "a dripping sound of viscous fluids, typically blood",
+      "id": "bota-1",
       "example": [{
         "file": "bota-1a",
         "contributor": "",
@@ -2105,6 +2173,7 @@
         "topple"
       ],
       "meaning": "a sound of something falling or landing",
+      "id": "boto-1",
       "example": [{
         "file": "boto-1a",
         "contributor": "",
@@ -2131,6 +2200,7 @@
         "whump"
       ],
       "meaning": "a sound of a soft or muffled explosion",
+      "id": "boun-1",
       "example": [{
         "file": "boun-1a",
         "contributor": "Artrix",
@@ -2160,6 +2230,7 @@
         "whoosh"
       ],
       "meaning": "an indication of something flaring or expanding outward, like flames or smoke",
+      "id": "bowa-1",
       "example": [{
         "file": "bowa-1a",
         "contributor": "",
@@ -2194,6 +2265,7 @@
         "wiggle"
       ],
       "meaning": "an indication of a bounce",
+      "id": "boyon-1",
       "example": [
         {
           "file": "boyon-1a",
@@ -2238,6 +2310,7 @@
           "sploosh"
         ],
         "meaning": "a sound of spitting or spraying something from the mouth",
+        "id": "bu-1",
         "example": [
           {
             "file": "bu-1a",
@@ -2259,6 +2332,7 @@
           "erp"
         ],
         "meaning": "a sound of restraint from spitting or spraying something from the mouth",
+        "id": "bu-2",
         "example": [{
           "file": "bu-2a",
           "contributor": "",
@@ -2289,6 +2363,7 @@
           "split"
         ],
         "meaning": "a sound of something snapping or breaking, ",
+        "id": "buchi-1",
         "example": [{
           "file": "buchi-1a",
           "contributor": "",
@@ -2302,6 +2377,7 @@
           "snap"
         ],
         "meaning": "an indication or expression of mentally snapping",
+        "id": "buchi-2",
         "example": [{
           "file": "buchi-2a",
           "contributor": "",
@@ -2333,6 +2409,7 @@
         "snort"
       ],
       "meaning": "a sound of suppressed laughter",
+      "id": "bufu-1",
       "example": [
         {
           "file": "bufu-1a",
@@ -2361,6 +2438,7 @@
         "too big"
       ],
       "meaning": "an indication of ill-fitted or baggy clothes",
+      "id": "buka-1",
       "example": [{
         "file": "buka-1a",
         "contributor": "",
@@ -2380,6 +2458,7 @@
         "bubble bubble"
       ],
       "meaning": "sounds of boiling or bubbling",
+      "id": "buku_buku-1",
       "example": [
         {
           "file": "buku_buku-1a",
@@ -2415,7 +2494,8 @@
           "zip",
           "zoom"
         ],
-        "meaning": "an indication of swinging something  quickly and often violently",
+        "meaning": "an indication of swinging something quickly and often violently",
+        "id": "bun-1",
         "example": [
           {
             "file": "bun-1a",
@@ -2446,6 +2526,7 @@
           "wobble"
         ],
         "meaning": "an indication of irregular or violent movement",
+        "id": "bun-2",
         "example": [{
           "file": "bun-2a",
           "contributor": "",
@@ -2474,6 +2555,7 @@
         "wave wave"
       ],
       "meaning": "indications of waving or shaking to and fro",
+      "id": "bun_bun-1",
       "example": [
         {
           "file": "bun_bun-1a",
@@ -2526,6 +2608,7 @@
           "whoosh"
         ],
         "meaning": "a sound of wind or blowing",
+        "id": "buo-1",
         "example": [
           {
             "file": "buo-1a",
@@ -2548,6 +2631,7 @@
           "vroom"
         ],
         "meaning": "a sound of a moving automobile",
+        "id": "buo-2",
         "example": [
           {
             "file": "buo-2a",
@@ -2583,6 +2667,7 @@
         "vroom"
       ],
       "meaning": "a sound of a car moving or an engine at work",
+      "id": "buro-1",
       "example": [
         {
           "file": "buro-1a",
@@ -2627,6 +2712,7 @@
         "tremble"
       ],
       "meaning": "an indication of involuntary shaking, as from fear, cold, or excitement",
+      "id": "buru-1",
       "example": [
         {
           "file": "buru-1a",
@@ -2662,6 +2748,7 @@
         "shake shake"
       ],
       "meaning": "indications of bouncing or shaking",
+      "id": "burun_burun-1",
       "example": [
         {
           "file": "burun_burun-1a",
@@ -2696,6 +2783,7 @@
         "tremble"
       ],
       "meaning": "indications of involuntary shaking, as from fear, cold, or excitement",
+      "id": "buru_buru-1",
       "example": [
         {
           "file": "buru_buru-1a",
@@ -2732,6 +2820,7 @@
         "snip"
       ],
       "meaning": "a sound of a quick cut, piercing, or break",
+      "id": "butsu-1",
       "example": [{
         "file": "butsu-1a",
         "contributor": "",
@@ -2752,6 +2841,7 @@
         "mutter"
       ],
       "meaning": "an indication of mumbling or grumbling",
+      "id": "butsu_butsu-1",
       "example": [{
         "file": "butsu_butsu-1a",
         "contributor": "",
@@ -2785,6 +2875,7 @@
         "vrrm"
       ],
       "meaning": "a low rumbling sound of a car engine at idle",
+      "id": "buu-1",
       "example": [{
         "file": "buu-1a",
         "contributor": "",
@@ -2811,6 +2902,7 @@
           "ka-boom"
         ],
         "meaning": "a sound of a loud explosion or explosive force",
+        "id": "buwa-1",
         "example": [
           {
             "file": "buwa-1a",
@@ -2835,6 +2927,7 @@
           "woosh"
         ],
         "meaning": "an indication or sound of something large or heavy rising or taking flight",
+        "id": "buwa-2",
         "example": [{
           "file": "buwa-2a",
           "contributor": "",
@@ -2863,7 +2956,8 @@
         "boop boop",
         "buzz buzz"
       ],
-      "meaning": "a low-pitched sound beeping or buzzing",
+      "meaning": "a low-pitched sound of beeping or buzzing",
+      "id": "bu_bu-1",
       "example": [{
         "file": "bu_bu-1a",
         "contributor": "",
@@ -2900,6 +2994,7 @@
           "wind"
         ],
         "meaning": "a sound of wind or blowing air",
+        "id": "byu-1",
         "example": [
           {
             "file": "byu-1a",
@@ -2926,6 +3021,7 @@
           "zoom"
         ],
         "meaning": "a sound of someone or something moving very quickly",
+        "id": "byu-2",
         "example": [{
           "file": "byu-2a",
           "contributor": "",
@@ -2958,6 +3054,7 @@
         "zoom"
       ],
       "meaning": "a sound of someone or something moving very quickly",
+      "id": "byun-1",
       "example": [
         {
           "file": "byun-1a",
@@ -2998,6 +3095,7 @@
         "shing"
       ],
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "id": "cha-1",
       "example": [{
         "file": "cha-1a",
         "contributor": "",
@@ -3024,6 +3122,7 @@
         "ker-chack"
       ],
       "meaning": "the sound of short, sharp, metallic clicks",
+      "id": "chaki-1",
       "example": [
         {
           "file": "chaki-1a",
@@ -3056,6 +3155,7 @@
         "shing"
       ],
       "meaning": "a metallic sound, typical when unsheathing blades",
+      "id": "chakin-1",
       "example": [{
         "file": "chakin-1a",
         "contributor": "",
@@ -3077,6 +3177,7 @@
         "swash"
       ],
       "meaning": "the sound of moving or splashing water",
+      "id": "chapu-1",
       "example": [
         {
           "file": "chapu-1a",
@@ -3107,6 +3208,7 @@
         "rattle"
       ],
       "meaning": "a short rattling noise",
+      "id": "chara-1",
       "example": [{
         "file": "chara-1a",
         "contributor": "",
@@ -3137,6 +3239,7 @@
         "tinkle"
       ],
       "meaning": "a sharp light sound of rattling metal or glass",
+      "id": "chari-1",
       "example": [
         {
           "file": "chari-1a",
@@ -3178,6 +3281,7 @@
         "tink"
       ],
       "meaning": "a small metallic noise, typically of tossed coins",
+      "id": "charin-1",
       "example": [
         {
           "file": "charin-1a",
@@ -3213,6 +3317,7 @@
         "tsk"
       ],
       "meaning": "a verbal interjection indicating annoyance ",
+      "id": "chi-1",
       "example": [{
         "file": "chi-1a",
         "contributor": "",
@@ -3231,6 +3336,7 @@
         "click"
       ],
       "meaning": "a sharp clicking sound",
+      "id": "chiki-1",
       "example": [{
         "file": "chiki-1a",
         "contributor": "",
@@ -3249,6 +3355,7 @@
         "click click"
       ],
       "meaning": "a series of sharp clicking sounds",
+      "id": "chiki_chiki-1",
       "example": [{
         "file": "chiki_chiki-1a",
         "contributor": "",
@@ -3278,6 +3385,7 @@
         "squeak"
       ],
       "meaning": "a loud or shrill sound, often as blowing one's nose",
+      "id": "chin-1",
       "example": [{
         "file": "chin-1a",
         "contributor": "",
@@ -3293,6 +3401,7 @@
     "definition": [{
       "equivalent": ["ding dong dang dong"],
       "meaning": "the sound of a Japanese school bell",
+      "id": "chin_kon kan kon-1",
       "example": [{
         "file": "chin_kon_kan_kon-1a",
         "contributor": "",
@@ -3320,6 +3429,7 @@
         "view"
       ],
       "meaning": "a quick or hasty look",
+      "id": "chira-1",
       "example": [
         {
           "file": "chira-1a",
@@ -3353,6 +3463,7 @@
         "slurp slurp"
       ],
       "meaning": "the sound of a tongue licking something",
+      "id": "chiro_chiro-1",
       "example": [{
         "file": "chiro_chiro-1a",
         "contributor": "",
@@ -3390,6 +3501,7 @@
         "warble warble"
       ],
       "meaning": "the short sharp sound of a small bird",
+      "id": "chi_chi-1",
       "example": [{
         "file": "chi_chi-1a",
         "contributor": "",
@@ -3416,6 +3528,7 @@
         "wave"
       ],
       "meaning": "an indication of movement or shifting positions",
+      "id": "choi_choi-1",
       "example": [
         {
           "file": "choi_choi-1a",
@@ -3459,6 +3572,7 @@
         "swig"
       ],
       "meaning": "a soft sound of kissing, licking or sucking",
+      "id": "chu-1",
       "example": [
         {
           "file": "chu-1a",
@@ -3502,6 +3616,7 @@
         "warble warble"
       ],
       "meaning": "a series of short sharp sound, as from a small bird",
+      "id": "chun_chun-1",
       "example": [
         {
           "file": "chun_chun-1a",
@@ -3529,6 +3644,7 @@
         "suckle"
       ],
       "meaning": "a licking or sucking sound",
+      "id": "chupu-1",
       "example": [{
         "file": "chupu-1a",
         "contributor": "",
@@ -3554,6 +3670,7 @@
         "sup"
       ],
       "meaning": "to noisily consume a liquid or noodles",
+      "id": "churu-1",
       "example": [
         {
           "file": "churu-1a",
@@ -3588,6 +3705,7 @@
         "suck suck"
       ],
       "meaning": "the sound of continuous kissing, licking or sucking",
+      "id": "chu_chu-1",
       "example": [{
         "file": "chu_chu-1a",
         "contributor": "",
@@ -3618,6 +3736,7 @@
         "sprint"
       ],
       "meaning": "to run or start running",
+      "id": "da-1",
       "example": [
         {
           "file": "da-1a",
@@ -3654,6 +3773,7 @@
         "hug"
       ],
       "meaning": "the act of putting one's arms around someone and holding tightly",
+      "id": "daki-1",
       "example": [{
         "file": "daki-1a",
         "contributor": "",
@@ -3691,6 +3811,7 @@
         "whack"
       ],
       "meaning": "the sound of a sudden impact or gunshot",
+      "id": "dan-1",
       "example": [
         {
           "file": "dan-1a",
@@ -3746,6 +3867,7 @@
         "whack whack"
       ],
       "meaning": "a series of sudden impact or gunshot sounds",
+      "id": "dan_dan-1",
       "example": [
         {
           "file": "dan_dan-1a",
@@ -3775,6 +3897,7 @@
         "trickle"
       ],
       "meaning": "continuously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
+      "id": "dara_dara-1",
       "example": [{
         "file": "dara_dara-1b",
         "contributor": "",
@@ -3811,6 +3934,7 @@
         "wham wham"
       ],
       "meaning": "rythmic sounds, typically short and sharp, like running, typing, or even gunfire",
+      "id": "da_da-1",
       "example": [
         {
           "file": "da_da-1a",
@@ -3852,6 +3976,7 @@
         "tadah"
       ],
       "meaning": "to call attention to something amazing or surprising in a somewhat dramatic fashion",
+      "id": "den-1",
       "example": [{
         "file": "den-1a",
         "contributor": "",
@@ -3896,6 +4021,7 @@
           "whump"
         ],
         "meaning": "the sound of an impact or explosion",
+        "id": "do-1",
         "example": [
           {
             "file": "do-1a",
@@ -3933,6 +4059,7 @@
           "whoop"
         ],
         "meaning": "an explosive outburst of laughter",
+        "id": "do-2",
         "example": [{
           "file": "do-2a",
           "contributor": "",
@@ -3960,6 +4087,7 @@
         "sploosh"
       ],
       "meaning": "the sound of something splashing into water",
+      "id": "dobon-1",
       "example": [
         {
           "file": "dobon-1a",
@@ -3988,6 +4116,7 @@
         "sploosh"
       ],
       "meaning": "the sound of something splashing into water",
+      "id": "dobun-1",
       "example": [{
         "file": "dobun-1a",
         "contributor": "",
@@ -4012,6 +4141,7 @@
         "gallop gallop"
       ],
       "meaning": "the rythmic sound of horses galloping",
+      "id": "dodoga_dodoga-1",
       "example": [{
         "file": "dodoga_dodoga-1a",
         "contributor": "",
@@ -4063,6 +4193,7 @@
         "wham"
       ],
       "meaning": "a painful strike",
+      "id": "dogo-1",
       "example": [
         {
           "file": "dogo-1a",
@@ -4105,6 +4236,7 @@
         "wham"
       ],
       "meaning": "a large impact or an explosion",
+      "id": "dogon-1",
       "example": [{
         "file": "dogon-1a",
         "contributor": "",
@@ -4136,6 +4268,7 @@
         "wham"
       ],
       "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
+      "id": "doka-1",
       "example": [
         {
           "file": "doka-1a",
@@ -4183,6 +4316,7 @@
         "wham"
       ],
       "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
+      "id": "dokan-1",
       "example": [
         {
           "file": "dokan-1a",
@@ -4223,6 +4357,7 @@
           "thump"
         ],
         "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
+        "id": "doki-1",
         "example": [
           {
             "file": "doki-1a",
@@ -4255,6 +4390,7 @@
           "stroke"
         ],
         "meaning": "indication of a light or gentle poke or prod",
+        "id": "doki-2",
         "example": [{
           "file": "doki-2a",
           "contributor": "",
@@ -4271,6 +4407,7 @@
           "startle"
         ],
         "meaning": "an indication of surprise or startlement",
+        "id": "doki-3",
         "example": [{
           "file": "doki-3a",
           "contributor": "",
@@ -4291,6 +4428,7 @@
         "thump"
       ],
       "meaning": "an indication of a heart beat, as when in nervious or embarrassed",
+      "id": "dokin-1",
       "example": [{
         "file": "dokin-1a",
         "contributor": "",
@@ -4316,6 +4454,7 @@
         "thump thump"
       ],
       "meaning": "indication of elevated heart rate, like when in love, scared, or otherwise excited",
+      "id": "doki_doki-1",
       "example": [
         {
           "file": "doki_doki-1a",
@@ -4348,6 +4487,7 @@
         "throb"
       ],
       "meaning": "an indication of a heartbeat or a rythmic throbbing",
+      "id": "doku-1",
       "example": [{
         "file": "doku-1a",
         "contributor": "",
@@ -4366,6 +4506,7 @@
         "throb"
       ],
       "meaning": "the indication or sound of strong heartbeat, often used to indicate a dramatic realization",
+      "id": "dokun-1",
       "example": [
         {
           "file": "dokun-1a",
@@ -4400,6 +4541,7 @@
         "throb throb"
       ],
       "meaning": "an indication of a heartbeat or a rythmic throbbing",
+      "id": "dokun_dokun-1",
       "example": [
         {
           "file": "dokun_dokun-1a",
@@ -4435,6 +4577,7 @@
         "longing"
       ],
       "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
+      "id": "dokyun-1",
       "example": [{
         "file": "dokyun-1a",
         "contributor": "",
@@ -4491,6 +4634,7 @@
           "wreck"
         ],
         "meaning": "a sound of things impacting, can be loud or soft depending on context",
+        "id": "don-1",
         "example": [
           {
             "file": "don-1a",
@@ -4540,6 +4684,7 @@
           "ta-da"
         ],
         "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
+        "id": "don-2",
         "example": [
           {
             "file": "don-2a",
@@ -4579,6 +4724,7 @@
           "whump"
         ],
         "meaning": "a relatively small explosion",
+        "id": "don-3",
         "example": [{
           "file": "don-3a",
           "contributor": "",
@@ -4603,6 +4749,7 @@
         "wham wham"
       ],
       "meaning": "a series of sudden loud noises",
+      "id": "don_don-1",
       "example": [
         {
           "file": "don_don-1a",
@@ -4637,6 +4784,7 @@
         "trickle"
       ],
       "meaning": "sound of pouring liquid",
+      "id": "dopopo-1",
       "example": [{
         "file": "dopopo-1a",
         "contributor": "",
@@ -4677,6 +4825,7 @@
         "trickle"
       ],
       "meaning": "to melt, flow, or drip slowly",
+      "id": "doro-1",
       "example": [
         {
           "file": "doro-1a",
@@ -4716,6 +4865,7 @@
           "tumble"
         ],
         "meaning": "to fall down from an upright position",
+        "id": "dosa-1",
         "example": [
           {
             "file": "dosa-1a",
@@ -4747,6 +4897,7 @@
           "whump"
         ],
         "meaning": "to place or drop something onto a hard surface, often with a noticeable sound",
+        "id": "dosa-2",
         "example": [
           {
             "file": "dosa-2a",
@@ -4799,6 +4950,7 @@
         "whomp"
       ],
       "meaning": "the sound of a heavy impact, as from a falling person or a dropped object",
+      "id": "dosha-1",
       "example": [
         {
           "file": "dosha-1a",
@@ -4850,6 +5002,7 @@
           "wham"
         ],
         "meaning": "the sound of a strike in a fight, usually non-lethal",
+        "id": "dosu-1",
         "example": [
           {
             "file": "dosu-1a",
@@ -4887,6 +5040,7 @@
           "whomp"
         ],
         "meaning": "to drop something roughly or to sit down heavily",
+        "id": "dosu-2",
         "example": [{
           "file": "dosu-2a",
           "contributor": "",
@@ -4915,6 +5069,7 @@
         "whomp"
       ],
       "meaning": "a sound of a heavy impact or dull thud",
+      "id": "dosun-1",
       "example": [{
         "file": "dosun-1a",
         "contributor": "",
@@ -4948,6 +5103,7 @@
         "somber"
       ],
       "meaning": "an indication of gloom or a somber mood",
+      "id": "doyon-1",
       "example": [{
         "file": "doyon-1a",
         "contributor": "",
@@ -4996,6 +5152,7 @@
           "wham wham"
         ],
         "meaning": "a series of painful, but non-fatal strikes, as from the back of a sword",
+        "id": "do_do-1",
         "example": [{
           "file": "do_do-1a",
           "contributor": "",
@@ -5012,6 +5169,7 @@
           "whump whump"
         ],
         "meaning": "a series of small explosions",
+        "id": "do_do-2",
         "example": [{
           "file": "do_do-2a",
           "contributor": "",
@@ -5032,6 +5190,7 @@
           "tromp tromp"
         ],
         "meaning": "the sound of heavy or fast steps, as in stomping or running",
+        "id": "do_do-3",
         "example": [
           {
             "file": "do_do-3a",
@@ -5056,6 +5215,7 @@
           "threat"
         ],
         "meaning": "a sense of intense threat or menace",
+        "id": "do_do-4",
         "example": [{
           "file": "do_do-4a",
           "contributor": "Artrix",
@@ -5071,6 +5231,7 @@
           "vroom vroom"
         ],
         "meaning": "the sound of a loud or high-performance engine",
+        "id": "do_do-5",
         "example": [{
           "file": "do_do-5a",
           "contributor": "",
@@ -5111,6 +5272,7 @@
           "umm"
         ],
         "meaning": "a vocalized sound expressing hesitation or thoughtful reflection, often drawn out",
+        "id": "e-1",
         "example": [{
           "file": "e-1a",
           "contributor": "",
@@ -5126,6 +5288,7 @@
           "what?"
         ],
         "meaning": "a vocalized sound expressing surprise or concern",
+        "id": "e-2",
         "example": [{
           "file": "e-2a",
           "contributor": "",
@@ -5154,6 +5317,7 @@
         "titter"
       ],
       "meaning": "strained, forced, or embarrassed laughter",
+      "id": "ehe-1",
       "example": [{
         "file": "ehe-1a",
         "contributor": "",
@@ -5176,6 +5340,7 @@
         "urgh"
       ],
       "meaning": "an indication of effort",
+      "id": "eisa-1",
       "example": [{
         "file": "eisa-1a",
         "contributor": "",
@@ -5195,6 +5360,7 @@
         "yawn"
       ],
       "meaning": "a deep breath expressing tiredness or boredom",
+      "id": "faa-1",
       "example": [{
         "file": "faa-1a",
         "contributor": "",
@@ -5224,6 +5390,7 @@
           "whiff"
         ],
         "meaning": "a smelling or sniffing sound",
+        "id": "fasa-1",
         "example": [{
           "file": "fasa-1a",
           "contributor": "",
@@ -5239,6 +5406,7 @@
           "waft"
         ],
         "meaning": "the soft sound of cloth or clothes, typically being dropped to the floor",
+        "id": "fasa-2",
         "example": [{
           "file": "fasa-2a",
           "contributor": "",
@@ -5269,6 +5437,7 @@
         "toss"
       ],
       "meaning": "to throw or toss",
+      "id": "fiun-1",
       "example": [{
         "file": "fiun-1a",
         "contributor": "",
@@ -5313,6 +5482,7 @@
           "snicker"
         ],
         "meaning": "a quick, short laugh or an expression of humor",
+        "id": "fu-1",
         "example": [
           {
             "file": "fu-1a",
@@ -5339,6 +5509,7 @@
           "whoom"
         ],
         "meaning": "a sudden and/or fast movement",
+        "id": "fu-2",
         "example": [
           {
             "file": "fu-2a",
@@ -5370,6 +5541,7 @@
           "whew"
         ],
         "meaning": "an expression of relief",
+        "id": "fu-3",
         "example": [
           {
             "file": "fu-3a",
@@ -5401,6 +5573,7 @@
           "whew"
         ],
         "meaning": "the sound of exhaling, often us as an expresison of exertion",
+        "id": "fu-4",
         "example": [
           {
             "file": "fu-4a",
@@ -5449,6 +5622,7 @@
         "yawn"
       ],
       "meaning": "a wide open-mouth yawn expressing tiredness or boredom",
+      "id": "fua-1",
       "example": [
         {
           "file": "fua-1a",
@@ -5478,6 +5652,7 @@
         "wipe wipe"
       ],
       "meaning": "the indication or sound of brushing or wiping",
+      "id": "fuki_fuki-1",
       "example": [{
         "file": "fuki_fuki-1a",
         "contributor": "",
@@ -5497,6 +5672,7 @@
         "umm"
       ],
       "meaning": "an expression or sound of contemplation",
+      "id": "fumu-1",
       "example": [{
         "file": "fumu-1a",
         "contributor": "",
@@ -5519,6 +5695,7 @@
         "umm umm"
       ],
       "meaning": "an expression or sound of thoughtfulness or contemplation",
+      "id": "fumu_fumu-1",
       "example": [{
         "file": "fumu_fumu-1a",
         "contributor": "",
@@ -5549,6 +5726,7 @@
         "urgh"
       ],
       "meaning": "the short sound of a grunt or a groan, may express strain, frustration, distress, or used as an offensive dismissal",
+      "id": "fun-1",
       "example": [
         {
           "file": "fun-1a",
@@ -5587,6 +5765,7 @@
         "tender"
       ],
       "meaning": "a soft, pliable or fluffy sensation",
+      "id": "funi-1",
       "example": [
         {
           "file": "funi-1a",
@@ -5621,6 +5800,7 @@
         "whiff whiff"
       ],
       "meaning": "to repeatedly smell or sniff something",
+      "id": "fun_fun-1",
       "example": [{
         "file": "fun_fun-1a",
         "contributor": "",
@@ -5649,6 +5829,7 @@
         "woozy"
       ],
       "meaning": "a temporary loss or near loss of consciousness",
+      "id": "fura-1",
       "example": [
         {
           "file": "fura-1a",
@@ -5686,6 +5867,7 @@
         "wobble"
       ],
       "meaning": "an indication of shaking or wobbling",
+      "id": "fura_fura-1",
       "example": [
         {
           "file": "fura_fura-1a",
@@ -5722,6 +5904,7 @@
         "twist"
       ],
       "meaning": "to quickly turn or look away",
+      "id": "furi-1",
       "example": [{
         "file": "furi-1a",
         "contributor": "",
@@ -5749,6 +5932,7 @@
         "wave wave"
       ],
       "meaning": "a quick side to side motion",
+      "id": "furi_furi-1",
       "example": [
         {
           "file": "furi_furi-1a",
@@ -5783,6 +5967,7 @@
         "tremble"
       ],
       "meaning": "an indication of shaking",
+      "id": "furo_furo-1",
       "example": [{
         "file": "furo_furo-1a",
         "contributor": "",
@@ -5804,6 +5989,7 @@
           "tremble"
         ],
         "meaning": "an indication of shaking",
+        "id": "furu_furu-1",
         "example": [{
           "file": "furu_furu-1a",
           "contributor": "",
@@ -5818,6 +6004,7 @@
           "shake shake"
         ],
         "meaning": "an indication of turning one's head side to side, as a way of expressing disagreement",
+        "id": "furu_furu-2",
         "example": [{
           "file": "furu_furu-2a",
           "contributor": "",
@@ -5846,6 +6033,7 @@
         "sway"
       ],
       "meaning": "an indication of floating gently or moving softly",
+      "id": "fuwa-1",
       "example": [
         {
           "file": "fuwa-1a",
@@ -5900,6 +6088,7 @@
           "laugh"
         ],
         "meaning": "a light laugh",
+        "id": "fu_fu-1",
         "example": [
           {
             "file": "fu_fu-1a",
@@ -5929,6 +6118,7 @@
           "huff huff"
         ],
         "meaning": "to repeatedly breath in a controlled, deliberate manner",
+        "id": "fu_fu-2",
         "example": [
           {
             "file": "fu_fu-2a",
@@ -5999,6 +6189,7 @@
           "whang"
         ],
         "meaning": "a generic sound of impact, as from a fight or something dropped",
+        "id": "ga-1",
         "example": [
           {
             "file": "ga-1a",
@@ -6040,6 +6231,7 @@
           "snatch"
         ],
         "meaning": "seizing something with a sudden motion or grasp",
+        "id": "ga-2",
         "example": [
           {
             "file": "ga-2a",
@@ -6082,6 +6274,7 @@
           "yell"
         ],
         "meaning": "the sound of an animal growling or roaring",
+        "id": "ga-3",
         "example": [{
           "file": "ga-3a",
           "contributor": "",
@@ -6113,6 +6306,7 @@
           "suddenly"
         ],
         "meaning": "suddenly sitting or standing up",
+        "id": "gaba-1",
         "example": [
           {
             "file": "gaba-1a",
@@ -6150,6 +6344,7 @@
           "hug"
         ],
         "meaning": "hugging someone",
+        "id": "gaba-2",
         "example": [
           {
             "file": "gaba-2a",
@@ -6184,6 +6379,7 @@
         "crunch"
       ],
       "meaning": "a strong bite",
+      "id": "gabu-1",
       "example": [{
         "file": "gabu-1a",
         "contributor": "",
@@ -6214,6 +6410,7 @@
         "tick"
       ],
       "meaning": "a rattling or clattering sound",
+      "id": "gacha-1",
       "example": [
         {
           "file": "gacha-1a",
@@ -6263,6 +6460,7 @@
         "wooden"
       ],
       "meaning": "an indication of stiffness or stillness",
+      "id": "gachi-1",
       "example": [{
         "file": "gachi-1a",
         "contributor": "",
@@ -6293,6 +6491,7 @@
         "laughter"
       ],
       "meaning": "loud, heartfelt laughter, sometimes expressing evil humor",
+      "id": "gaha-1",
       "example": [{
         "file": "gaha-1a",
         "contributor": "",
@@ -6319,6 +6518,7 @@
         "grind"
       ],
       "meaning": "to bite or chew on something",
+      "id": "gaji-1",
       "example": [{
         "file": "gaji-1a",
         "contributor": "",
@@ -6348,6 +6548,7 @@
         "whang"
       ],
       "meaning": "the sound of a hard, sharp metallic strike",
+      "id": "gaki-1",
       "example": [{
         "file": "gaki-1a",
         "contributor": "",
@@ -6375,6 +6576,7 @@
         "whang"
       ],
       "meaning": "the reverberating sound of a hard, sharp metallic strike",
+      "id": "gakin-1",
       "example": [
         {
           "file": "gakin-1a",
@@ -6412,6 +6614,7 @@
         "tonk"
       ],
       "meaning": "a light sound of an impact, often hollow as with wood or plastic",
+      "id": "gakon-1",
       "example": [
         {
           "file": "gakon-1a",
@@ -6467,6 +6670,7 @@
           "succumb"
         ],
         "meaning": "An expression of giving up or passing out",
+        "id": "gaku-1",
         "example": [
           {
             "file": "gaku-1a",
@@ -6498,6 +6702,7 @@
           "wilt"
         ],
         "meaning": "an expression of depression or tiredness",
+        "id": "gaku-2",
         "example": [
           {
             "file": "gaku-2a",
@@ -6528,6 +6733,7 @@
         "snap"
       ],
       "meaning": "the sound of something metallic breaking",
+      "id": "gakyin-1",
       "example": [{
         "file": "gakyin-1a",
         "contributor": "",
@@ -6572,6 +6778,7 @@
           "wham"
         ],
         "meaning": "the sound of a strong impact",
+        "id": "gan-1",
         "example": [
           {
             "file": "gan-1a",
@@ -6605,6 +6812,7 @@
           "wha!?"
         ],
         "meaning": "an expression or exclamation of surprise or revelation",
+        "id": "gan-2",
         "example": [{
           "file": "gan-2a",
           "contributor": "",
@@ -6636,6 +6844,7 @@
         "wham wham"
       ],
       "meaning": "a series of sharp impact noises",
+      "id": "gan_gan-1",
       "example": [
         {
           "file": "gan_gan-1a",
@@ -6676,6 +6885,7 @@
           "thump"
         ],
         "meaning": "the sound of something sliding open or shut, like a window or sliding door",
+        "id": "gara-1",
         "example": [
           {
             "file": "gara-1a",
@@ -6705,6 +6915,7 @@
           "tumult"
         ],
         "meaning": "the sound of something falling apart, collapsing, or settling",
+        "id": "gara-2",
         "example": [{
           "file": "gara-2a",
           "contributor": "",
@@ -6730,6 +6941,7 @@
           "tumult"
         ],
         "meaning": "a series of sounds indicating something breaking apart, collapsing, or settling",
+        "id": "gara_gara-1",
         "example": [{
           "file": "gara_gara-1a",
           "contributor": "",
@@ -6745,6 +6957,7 @@
           "rattle rattle"
         ],
         "meaning": "an indication of something moving with a clatter or rattle",
+        "id": "gara_gara-2",
         "example": [
           {
             "file": "gara_gara-2a",
@@ -6788,6 +7001,7 @@
         "snarl"
       ],
       "meaning": "a low, guttural growling noise",
+      "id": "garu-1",
       "example": [
         {
           "file": "garu-1a",
@@ -6834,6 +7048,7 @@
         "whoosh"
       ],
       "meaning": "a small rustling sound, like the wind-blown leaves or cloth sliding",
+      "id": "gasa-1",
       "example": [
         {
           "file": "gasa-1a",
@@ -6887,6 +7102,7 @@
         "whoosh whoosh"
       ],
       "meaning": "small rustling sounds, like wind-blown leaves or underbrush",
+      "id": "gasa_gasa-1",
       "example": [
         {
           "file": "gasa_gasa-1a",
@@ -6926,6 +7142,7 @@
         "ker-chunk"
       ],
       "meaning": "a short sharp noise",
+      "id": "gasha-1",
       "example": [{
         "file": "gasha-1a",
         "contributor": "",
@@ -6957,6 +7174,7 @@
         "smash"
       ],
       "meaning": "the sound of an impact or crash",
+      "id": "gashan-1",
       "example": [
         {
           "file": "gashan-1a",
@@ -7000,6 +7218,7 @@
         "snag"
       ],
       "meaning": "the act of grabbing or holding",
+      "id": "gashi-1",
       "example": [
         {
           "file": "gashi-1a",
@@ -7035,6 +7254,7 @@
         "weep"
       ],
       "meaning": "shedding tears as an expression of pain or distress",
+      "id": "gasun-1",
       "example": [{
         "file": "gasun-1a",
         "contributor": "",
@@ -7064,6 +7284,7 @@
         "rattle"
       ],
       "meaning": "a rattling or clattering sound, typically wooden, often used to express standing up from a chair",
+      "id": "gata-1",
       "example": [
         {
           "file": "gata-1a",
@@ -7118,6 +7339,7 @@
         "spark"
       ],
       "meaning": "\"an expression of sudden inspiration, revelation, or recognition",
+      "id": "gatan-1",
       "example": [{
         "file": "gatan-1a",
         "contributor": "",
@@ -7137,6 +7359,7 @@
         "gachunk gachunk"
       ],
       "meaning": "the rythmic sound of a train moving on a track",
+      "id": "gatan_gaton-1",
       "example": [{
         "file": "gatan_gaton-1a",
         "contributor": "",
@@ -7159,6 +7382,7 @@
           "rattle"
         ],
         "meaning": "a series of sharp clattering or rattling noises",
+        "id": "gata_gata-1",
         "example": [
           {
             "file": "gata_gata-1a",
@@ -7183,6 +7407,7 @@
           "wobble"
         ],
         "meaning": "an indication of shaking, as from fear or cold",
+        "id": "gata_gata-2",
         "example": [
           {
             "file": "gata_gata-2a",
@@ -7218,6 +7443,7 @@
         "wash wash"
       ],
       "meaning": "the sound of scrubbing something clean",
+      "id": "gatsu_gatsu-1",
       "example": [{
         "file": "gatsu_gatsu-1a",
         "contributor": "",
@@ -7248,6 +7474,7 @@
           "hubbub"
         ],
         "meaning": "the noise of a crowd of people talking",
+        "id": "gaya_gaya-1",
         "example": [
           {
             "file": "gaya_gaya-1a",
@@ -7276,6 +7503,7 @@
           "squeal"
         ],
         "meaning": "the squealing sound of tires spinning",
+        "id": "gaya_gaya-2",
         "example": [{
           "file": "gaya_gaya-2a",
           "contributor": "",
@@ -7308,6 +7536,7 @@
         "snatch snatch"
       ],
       "meaning": "a series of fast grabbing motions",
+      "id": "ga_ga-1",
       "example": [{
         "file": "ga_ga-1a",
         "contributor": "",
@@ -7334,6 +7563,7 @@
         "geh"
       ],
       "meaning": "an expression of mild alarm, dismay, or annoyance",
+      "id": "ge-1",
       "example": [{
         "file": "ge-1a",
         "contributor": "",
@@ -7376,6 +7606,7 @@
           "tense"
         ],
         "meaning": "an expression of unwavering determination",
+        "id": "gi-1",
         "example": [
           {
             "file": "gi-1a",
@@ -7402,6 +7633,7 @@
           "squee"
         ],
         "meaning": "a high-pitched squeak or squeal, as from a squeaky door, an old chair or the cry of a small animal",
+        "id": "gi-2",
         "example": [
           {
             "file": "gi-2a",
@@ -7452,6 +7684,7 @@
           "grit"
         ],
         "meaning": "an expression of grinding one's teeth, as in pain or frustration",
+        "id": "gigi-1",
         "example": [{
           "file": "gigi-1a",
           "contributor": "",
@@ -7470,6 +7703,7 @@
           "squee"
         ],
         "meaning": "a series of squeak or squeals, as from a door, an old chair, or from animals",
+        "id": "gigi-2",
         "example": [
           {
             "file": "gigi-2a",
@@ -7507,6 +7741,7 @@
         "urk"
       ],
       "meaning": "an expression of dismay, guilt and/or surprise",
+      "id": "giku-1",
       "example": [
         {
           "file": "giku-1a",
@@ -7548,6 +7783,7 @@
         "stare"
       ],
       "meaning": "a fixed intent look",
+      "id": "gin-1",
       "example": [
         {
           "file": "gin-1a",
@@ -7581,6 +7817,7 @@
         "stare"
       ],
       "meaning": "to look at someone or something with anger or disapproval",
+      "id": "ginuro-1",
       "example": [{
         "file": "ginuro-1a",
         "contributor": "",
@@ -7608,6 +7845,7 @@
         "stare"
       ],
       "meaning": "a fixed intent look",
+      "id": "gin_gin-1",
       "example": [{
         "file": "gin_gin-1a",
         "contributor": "",
@@ -7633,6 +7871,7 @@
         "stare"
       ],
       "meaning": "to look at someone or something with anger or disapproval",
+      "id": "gira-1",
       "example": [{
         "file": "gira-1a",
         "contributor": "",
@@ -7657,6 +7896,7 @@
         "grind"
       ],
       "meaning": "an expression of grinding one's teeth together, often in frustration or anger",
+      "id": "giri-1",
       "example": [
         {
           "file": "giri-1a",
@@ -7689,6 +7929,7 @@
         "grind"
       ],
       "meaning": "an expression of grinding one's teeth together, often in exertion, frustration or anger",
+      "id": "giri_giri-1",
       "example": [
         {
           "file": "giri_giri-1a",
@@ -7724,6 +7965,7 @@
         "stare"
       ],
       "meaning": "a fixed intent look",
+      "id": "giro-1",
       "example": [
         {
           "file": "giro-1a",
@@ -7754,6 +7996,7 @@
         "snarl"
       ],
       "meaning": "an indication of glaring or scowling, expressing anger or disapproval",
+      "id": "girori-1",
       "example": [{
         "file": "girori-1a",
         "contributor": "",
@@ -7804,6 +8047,7 @@
           "whack"
         ],
         "meaning": "the sound of moderate impact, as of someone being struck",
+        "id": "go-1",
         "example": [
           {
             "file": "go-1a",
@@ -7835,6 +8079,7 @@
           "whom"
         ],
         "meaning": "a strong explosion or the effect of a nearby explosion",
+        "id": "go-2",
         "example": [
           {
             "file": "go-2a",
@@ -7858,6 +8103,7 @@
           "fwoosh"
         ],
         "meaning": "the sound of being on fire and burning fiercely",
+        "id": "go-3",
         "example": [
           {
             "file": "go-3a",
@@ -7908,6 +8154,7 @@
         "scrape scrape scrape"
       ],
       "meaning": "a harsh rumbling or grinding noise",
+      "id": "gogogo-1",
       "example": [{
         "file": "gogogo-1a",
         "contributor": "",
@@ -7932,6 +8179,7 @@
         "hack"
       ],
       "meaning": "the sound of a deep or wet cough",
+      "id": "goho-1",
       "example": [{
         "file": "goho-1a",
         "contributor": "",
@@ -7956,6 +8204,7 @@
         "hack hack"
       ],
       "meaning": "a series of a deep or wet coughs",
+      "id": "goho_goho-1",
       "example": [{
         "file": "goho_goho-1a",
         "contributor": "",
@@ -7975,6 +8224,7 @@
         "snap"
       ],
       "meaning": "the sharp sound of joint or bone cracking",
+      "id": "goki-1",
       "example": [{
         "file": "goki-1a",
         "contributor": "",
@@ -7999,6 +8249,7 @@
         "swallow"
       ],
       "meaning": "the sound of gulping or swallowing",
+      "id": "goku-1",
       "example": [
         {
           "file": "goku-1a",
@@ -8033,6 +8284,7 @@
         "swallow"
       ],
       "meaning": "the sound of gulping or swallowing",
+      "id": "gokun-1",
       "example": [
         {
           "file": "gokun-1a",
@@ -8067,6 +8319,7 @@
         "swallow swallow"
       ],
       "meaning": "the repeated sounds of gulping or swallowing",
+      "id": "goku_goku-1",
       "example": [
         {
           "file": "goku_goku-1a",
@@ -8107,6 +8360,7 @@
         "swallow swallow"
       ],
       "meaning": "the sound of swallowing a liquid",
+      "id": "gokyu_gokyu-1",
       "example": [{
         "file": "gokyu_gokyu-1a",
         "contributor": "",
@@ -8151,6 +8405,7 @@
         "whack"
       ],
       "meaning": "the sound of a hit or strike, can be loud or soft depending on context",
+      "id": "gon-1",
       "example": [
         {
           "file": "gon-1a",
@@ -8203,6 +8458,7 @@
         "swoosh"
       ],
       "meaning": "to flow out in great quantities or with force",
+      "id": "gopori-1",
       "example": [{
         "file": "gopori-1a",
         "contributor": "",
@@ -8230,6 +8486,7 @@
         "wobble"
       ],
       "meaning": "a indication or sound of rolling or rocking",
+      "id": "goro-1",
       "example": [
         {
           "file": "goro-1a",
@@ -8263,6 +8520,7 @@
         "turn"
       ],
       "meaning": "an indication of rolling over or falling over",
+      "id": "goron-1",
       "example": [
         {
           "file": "goron-1a",
@@ -8302,6 +8560,7 @@
           "thrum"
         ],
         "meaning": "a continuous low vibration, typically from a content or pleased cat",
+        "id": "goro_goro-1",
         "example": [{
           "file": "goro_goro-1a",
           "contributor": "",
@@ -8320,6 +8579,7 @@
           "turn over"
         ],
         "meaning": "the act of rolling or rolling over",
+        "id": "goro_goro-2",
         "example": [
           {
             "file": "goro_goro-2a",
@@ -8349,6 +8609,7 @@
         "swipe swipe"
       ],
       "meaning": "a series of rubbing or scrubbing sounds or motions",
+      "id": "goshi_goshi-1",
       "example": [
         {
           "file": "goshi_goshi-1a",
@@ -8396,6 +8657,7 @@
         "rustle"
       ],
       "meaning": "an indication of reaching or searching for something, often related to clothing",
+      "id": "goso-1",
       "example": [
         {
           "file": "goso-1a",
@@ -8433,6 +8695,7 @@
         "tonk"
       ],
       "meaning": "the sound of a soft impact from something being set down or placed",
+      "id": "goto-1",
       "example": [
         {
           "file": "goto-1a",
@@ -8477,6 +8740,7 @@
         "yaaa"
       ],
       "meaning": "a loud, violent shout",
+      "id": "gou-1",
       "example": [{
         "file": "gou-1a",
         "contributor": "",
@@ -8495,6 +8759,7 @@
         "rumble"
       ],
       "meaning": "The repeated rumbling sound of heavy machinery",
+      "id": "goun_goun-1",
       "example": [{
         "file": "goun_goun-1a",
         "contributor": "",
@@ -8525,6 +8790,7 @@
         "wag wag"
       ],
       "meaning": "a series of side-to-side or up-and-down movements, often with quick jerky motions ",
+      "id": "go_go-1",
       "example": [{
         "file": "go_go-1a",
         "contributor": "",
@@ -8575,6 +8841,7 @@
           "squeeze"
         ],
         "meaning": "the act of making a fist or grabbing/holding something strongly",
+        "id": "gu-1",
         "example": [
           {
             "file": "gu-1a",
@@ -8613,6 +8880,7 @@
           "thrust"
         ],
         "meaning": "to push or drive with force",
+        "id": "gu-2",
         "example": [
           {
             "file": "gu-2a",
@@ -8638,6 +8906,7 @@
           "wheeze"
         ],
         "meaning": "breathing hard as an expression of pain",
+        "id": "gu-3",
         "example": [{
           "file": "gu-3a",
           "contributor": "",
@@ -8652,6 +8921,7 @@
           "rumble"
         ],
         "meaning": "the sound of a stomach growling, indicating hunger",
+        "id": "gu-4",
         "example": [
           {
             "file": "gu-4a",
@@ -8676,6 +8946,7 @@
       {
         "equivalent": ["thumbs-up"],
         "meaning": "a gesture of approval or encouragement by way of a thumbs-up",
+        "id": "gu-5",
         "example": [
           {
             "file": "gu-5a",
@@ -8704,6 +8975,7 @@
           "stare"
         ],
         "meaning": "to look at someone or something with anger or disapproval",
+        "id": "gu-6",
         "example": [{
           "file": "gu-6a",
           "contributor": "",
@@ -8718,6 +8990,7 @@
           "zzzz"
         ],
         "meaning": "an indication or sound of heavy sleeping",
+        "id": "gu-7",
         "example": [{
           "file": "gu-7a",
           "contributor": "",
@@ -8739,6 +9012,7 @@
         "swallow swallow"
       ],
       "meaning": "noisily gulping down a liquid, particularly alcohol",
+      "id": "gubi_gubi-1",
       "example": [{
         "file": "gubi_gubi-1a",
         "contributor": "",
@@ -8776,6 +9050,7 @@
         "yank"
       ],
       "meaning": "a sudden or forceful hand movement",
+      "id": "gui-1",
       "example": [
         {
           "file": "gui-1a",
@@ -8825,6 +9100,7 @@
         "stoked"
       ],
       "meaning": "an expression of exaggerated enthusiasm or impatience",
+      "id": "gui_gui-1",
       "example": [{
         "file": "gui_gui-1a",
         "contributor": "",
@@ -8849,6 +9125,7 @@
         "squish"
       ],
       "meaning": "an indication of squishy pressure",
+      "id": "guni-1",
       "example": [{
         "file": "guni-1a",
         "contributor": "",
@@ -8881,6 +9158,7 @@
         "steam"
       ],
       "meaning": "an expression of passionate anger or fury",
+      "id": "gununu-1",
       "example": [{
         "file": "gununu-1a",
         "contributor": "",
@@ -8908,6 +9186,7 @@
         "unbalanced"
       ],
       "meaning": "an indication of something tipping or falling out of balance",
+      "id": "gura-1",
       "example": [
         {
           "file": "gura-1a",
@@ -8947,6 +9226,7 @@
           "snarl"
         ],
         "meaning": "a low, gutteral noise",
+        "id": "guru-1",
         "example": [
           {
             "file": "guru-1a",
@@ -8987,6 +9267,7 @@
           "wind"
         ],
         "meaning": "an indication or sound of something rotating or spinning",
+        "id": "guru-2",
         "example": [{
           "file": "guru-2a",
           "contributor": "",
@@ -9018,6 +9299,7 @@
         "twist"
       ],
       "meaning": "the act of turning, rolling, or flipping something",
+      "id": "gurun-1",
       "example": [
         {
           "file": "gurun-1a",
@@ -9059,6 +9341,7 @@
         "stab"
       ],
       "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
+      "id": "gusa-1",
       "example": [
         {
           "file": "gusa-1a",
@@ -9096,6 +9379,7 @@
         "sob"
       ],
       "meaning": "the sound of sniffling or fighting back tears",
+      "id": "gushi-1",
       "example": [{
         "file": "gushi-1a",
         "contributor": "",
@@ -9123,6 +9407,7 @@
         "squeal"
       ],
       "meaning": "a series of squeaking wood sounds",
+      "id": "gushi_gushi-1",
       "example": [{
         "file": "gushi_gushi-1a",
         "contributor": "",
@@ -9150,6 +9435,7 @@
         "weep"
       ],
       "meaning": "tears welling up as an expression of pain or distress",
+      "id": "gusu-1",
       "example": [{
         "file": "gusu-1a",
         "contributor": "",
@@ -9171,6 +9457,7 @@
         "weep"
       ],
       "meaning": "shedding tears as an expression of pain or distress",
+      "id": "gusun_gusun-1",
       "example": [{
         "file": "gusun_gusun-1a",
         "contributor": "",
@@ -9198,6 +9485,7 @@
         "weep"
       ],
       "meaning": "tears welling up as an expression of pain or distress",
+      "id": "gusu_gusu-1",
       "example": [
         {
           "file": "gusu_gusu-1a",
@@ -9235,6 +9523,7 @@
         "yell"
       ],
       "meaning": "a long, loud shout or cry",
+      "id": "guwa-1",
       "example": [{
         "file": "guwa-1a",
         "contributor": "",
@@ -9270,6 +9559,7 @@
         "struggle"
       ],
       "meaning": "an indication or sound of gripping or squeezing something, usually indicating strain or tension",
+      "id": "gu_gu-1",
       "example": [
         {
           "file": "gugu-1a",
@@ -9322,6 +9612,7 @@
         "shrill"
       ],
       "meaning": "an abrupt shriek, as from distressed metal",
+      "id": "gya-1",
       "example": [{
         "file": "gya-1a",
         "contributor": "",
@@ -9351,6 +9642,7 @@
         "squawk squawk"
       ],
       "meaning": "a series of abrupt shrieks, typically from animals",
+      "id": "gya_gya-1",
       "example": [{
         "file": "gya_gya-1a",
         "contributor": "",
@@ -9380,6 +9672,7 @@
         "surprised"
       ],
       "meaning": "an expression of shock or disbelief",
+      "id": "gyo-1",
       "example": [
         {
           "file": "gyo-1a",
@@ -9427,6 +9720,7 @@
           "squeeze"
         ],
         "meaning": "the act of embracing or hugging",
+        "id": "gyu-1",
         "example": [
           {
             "file": "gyu-1a",
@@ -9452,6 +9746,7 @@
           "squeeze"
         ],
         "meaning": "the act of grabbing something and holding it",
+        "id": "gyu-2",
         "example": [
           {
             "file": "gyu-2a",
@@ -9480,6 +9775,7 @@
           "rumble"
         ],
         "meaning": "a low, rumbling noise, as with a growling stomach",
+        "id": "gyu-3",
         "example": [{
           "file": "gyu-3a",
           "contributor": "",
@@ -9508,6 +9804,7 @@
         "wrap"
       ],
       "meaning": "the act of embracing or hugging",
+      "id": "gyumu-1",
       "example": [{
         "file": "gyumu-1a",
         "contributor": "",
@@ -9536,6 +9833,7 @@
         "whirl"
       ],
       "meaning": "to spin in circles, typically very fast",
+      "id": "gyun-1",
       "example": [{
         "file": "gyun-1a",
         "contributor": "",
@@ -9563,6 +9861,7 @@
         "rumble"
       ],
       "meaning": "a low, rumbling noise, as with a growling stomach",
+      "id": "gyuru-1",
       "example": [{
         "file": "gyuru-1a",
         "contributor": "",
@@ -9603,6 +9902,7 @@
           "pant"
         ],
         "meaning": "breathing hard from exertion, fear, or excitement",
+        "id": "ha-1",
         "example": [
           {
             "file": "ha-1a",
@@ -9625,6 +9925,7 @@
           "sigh"
         ],
         "meaning": "a deep sigh or exhalation",
+        "id": "ha-2",
         "example": [
           {
             "file": "ha-2a",
@@ -9652,6 +9953,7 @@
           "realize"
         ],
         "meaning": "a sudden realization or understanding",
+        "id": "ha-3",
         "example": [
           {
             "file": "ha-3a",
@@ -9686,6 +9988,7 @@
         "huff huff"
       ],
       "meaning": "a series of exhales, as from blowing on hot food",
+      "id": "hafu_hafu-1",
       "example": [{
         "file": "hafu_hafu-1a",
         "contributor": "",
@@ -9706,6 +10009,7 @@
         "grind"
       ],
       "meaning": "to bite or chew on something",
+      "id": "hamu-1",
       "example": [{
         "file": "hamu-1a",
         "contributor": "",
@@ -9726,6 +10030,7 @@
         "nom nom"
       ],
       "meaning": "the sound of eating or chewing",
+      "id": "hamu_hamu-1",
       "example": [{
         "file": "hamu_hamu-1a",
         "contributor": "",
@@ -9756,6 +10061,7 @@
       {
         "equivalent": ["haha"],
         "meaning": "laughter",
+        "id": "ha_ha-1",
         "example": [
           {
             "file": "ha_ha-1a",
@@ -9789,6 +10095,7 @@
           "pant pant"
         ],
         "meaning": "to breathe hard, as from exertion, fear, or excitement",
+        "id": "ha_ha-2",
         "example": [
           {
             "file": "ha_ha-2a",
@@ -9834,6 +10141,7 @@
         "weary"
       ],
       "meaning": "an indication or expression of being worn out or exhausted",
+      "id": "hena-1",
       "example": [{
         "file": "hena-1a",
         "contributor": "",
@@ -9862,6 +10170,7 @@
         "uneasy"
       ],
       "meaning": "an awkward or uncomfortable smile",
+      "id": "hera-1",
       "example": [{
         "file": "hera-1a",
         "contributor": "",
@@ -9903,6 +10212,7 @@
         "yikes"
       ],
       "meaning": "a high-pitched squeal of surprise, sometimes used for comedic effect",
+      "id": "hi-1",
       "example": [
         {
           "file": "hi-1a",
@@ -9935,6 +10245,7 @@
         "hiccup"
       ],
       "meaning": "a hiccup, often indicating a state of drunkenness",
+      "id": "hikku-1",
       "example": [{
         "file": "hikku-1a",
         "contributor": "",
@@ -9956,6 +10267,7 @@
         "swish"
       ],
       "meaning": "a soft flapping or fluttering sounds",
+      "id": "hira-1",
       "example": [
         {
           "file": "hira-1a",
@@ -9985,6 +10297,7 @@
         "wave wave"
       ],
       "meaning": "a series of flapping sounds, as from a bird flying or a flag in the wind",
+      "id": "hira_hira-1",
       "example": [{
         "file": "hira_hira-1a",
         "contributor": "",
@@ -10009,6 +10322,7 @@
         "twinge twinge"
       ],
       "meaning": "an expression of  a tingling, stinging or mild burning sensation",
+      "id": "hiri_hiri-1",
       "example": [{
         "file": "hiri_hiri-1a",
         "contributor": "",
@@ -10038,6 +10352,7 @@
         "squeeze"
       ],
       "meaning": "the act of putting one's arms around someone and holding tightly, typically expressing strong emotions",
+      "id": "hishi-1",
       "example": [
         {
           "file": "hishi-1a",
@@ -10065,6 +10380,7 @@
         "whisper whisper"
       ],
       "meaning": "to speak quietly in order to not be overheard",
+      "id": "hiso_hiso-1",
       "example": [
         {
           "file": "hiso_hiso-1a",
@@ -10108,6 +10424,7 @@
         "titter titter"
       ],
       "meaning": "a light laugh or giggle",
+      "id": "hi_hi-1",
       "example": [{
         "file": "hi_hi-1a",
         "contributor": "",
@@ -10145,6 +10462,7 @@
           "whew"
         ],
         "meaning": "the sound or expression of relief",
+        "id": "ho-1",
         "example": [
           {
             "file": "ho-1a",
@@ -10172,6 +10490,7 @@
           "oh"
         ],
         "meaning": "an expression of understanding or realization",
+        "id": "ho-2",
         "example": [{
           "file": "ho-2a",
           "contributor": "",
@@ -10192,6 +10511,7 @@
         "warm"
       ],
       "meaning": "an indication of something that is warm, typically freshly cooked food",
+      "id": "hoka_hoka-1",
       "example": [
         {
           "file": "hoka_hoka-1a",
@@ -10233,6 +10553,7 @@
         "laugh"
       ],
       "meaning": "a deep laugh",
+      "id": "ho_ho-1",
       "example": [{
         "file": "ho_ho-1a",
         "contributor": "",
@@ -10259,6 +10580,7 @@
         "what"
       ],
       "meaning": "A verbal expression of surprise and amazement",
+      "id": "hya-1",
       "example": [{
         "file": "hya-1a",
         "contributor": "",
@@ -10285,6 +10607,7 @@
           "smooth"
         ],
         "meaning": "a quick, effortless action",
+        "id": "hyoi-1",
         "example": [
           {
             "file": "hyoi-1a",
@@ -10310,6 +10633,7 @@
           "show up"
         ],
         "meaning": "an indication of suddenly appearring or showing up",
+        "id": "hyoi-2",
         "example": [{
           "file": "hyoi-2a",
           "contributor": "",
@@ -10338,6 +10662,7 @@
         "regard"
       ],
       "meaning": "an expression of taking a look, often from behind something, as from hiding",
+      "id": "hyoko-1",
       "example": [
         {
           "file": "hyoko-1a",
@@ -10381,6 +10706,7 @@
           "zoom"
         ],
         "meaning": "something moving quickly through the air",
+        "id": "hyu-1",
         "example": [
           {
             "file": "hyu-1a",
@@ -10412,6 +10738,7 @@
           "woah"
         ],
         "meaning": "a soft interjection expressing a reaction to something adorable or cute",
+        "id": "hyu-2",
         "example": [{
           "file": "hyu-2a",
           "contributor": "",
@@ -10443,6 +10770,7 @@
         "zoom"
       ],
       "meaning": "something moving quickly through the air",
+      "id": "hyun-1",
       "example": [
         {
           "file": "hyun-1a",
@@ -10478,6 +10806,7 @@
         "zip zip"
       ],
       "meaning": "something moving through the air quickly and repetitively ",
+      "id": "hyun_hyun-1",
       "example": [{
         "file": "hyun_hyun-1a",
         "contributor": "",
@@ -10510,6 +10839,7 @@
         "wind"
       ],
       "meaning": "the sound of a strong or howling wind",
+      "id": "hyuoo-1",
       "example": [{
         "file": "hyuoo-1a",
         "contributor": "",
@@ -10542,6 +10872,7 @@
         "zoom"
       ],
       "meaning": "something moving quickly, often spinning",
+      "id": "hyuru-1",
       "example": [
         {
           "file": "hyuru-1a",
@@ -10583,6 +10914,7 @@
         "vexed"
       ],
       "meaning": "an expression of annoyance",
+      "id": "ira-1",
       "example": [{
         "file": "ira-1a",
         "contributor": "",
@@ -10608,6 +10940,7 @@
         "ow"
       ],
       "meaning": "an expression of pain",
+      "id": "itai-1",
       "example": [{
         "file": "itai-1a",
         "contributor": "",
@@ -10629,6 +10962,7 @@
         "wash wash"
       ],
       "meaning": "the sound of splashing water",
+      "id": "jabu_jabu-1",
       "example": [
         {
           "file": "jabu_jabu-1a",
@@ -10657,6 +10991,7 @@
         "rattle rattle"
       ],
       "meaning": "a series of rattling or clattering sounds",
+      "id": "jaka_jaka-1",
       "example": [{
         "file": "jaka_jaka-1a",
         "contributor": "",
@@ -10683,6 +11018,7 @@
         "shing"
       ],
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "id": "jaki-1",
       "example": [
         {
           "file": "jaki-1a",
@@ -10717,6 +11053,7 @@
         "shing"
       ],
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "id": "jakin-1",
       "example": [{
         "file": "jakin-1a",
         "contributor": "",
@@ -10744,6 +11081,7 @@
         "tadah"
       ],
       "meaning": "to call attention to something in an overly-dramatic fashion",
+      "id": "jan-1",
       "example": [
         {
           "file": "jan-1a",
@@ -10791,6 +11129,7 @@
           "tinkle"
         ],
         "meaning": "a sharp light sound of rattling metal or glass",
+        "id": "jara-1",
         "example": [
           {
             "file": "jara-1a",
@@ -10815,6 +11154,7 @@
           "tadah"
         ],
         "meaning": "to call attention to something in an overly-dramatic fashion",
+        "id": "jara-2",
         "example": [{
           "file": "jara-2a",
           "contributor": "",
@@ -10844,6 +11184,7 @@
         "tinkle"
       ],
       "meaning": "a sharp light sound of rattling metal or glass",
+      "id": "jaran-1",
       "example": [{
         "file": "jaran-1a",
         "contributor": "",
@@ -10863,6 +11204,7 @@
         "wah wah"
       ],
       "meaning": "a repeated hissing or distorted sound",
+      "id": "ja_ja-1",
       "example": [{
         "file": "ja_ja-1a",
         "contributor": "",
@@ -10899,6 +11241,7 @@
           "study"
         ],
         "meaning": "a lengthy stare at someone or something",
+        "id": "ji-1",
         "example": [
           {
             "file": "ji-1a",
@@ -10932,6 +11275,7 @@
           "zip"
         ],
         "meaning": "the sound of a zipper opening or closing",
+        "id": "ji-2",
         "example": [{
           "file": "ji-2a",
           "contributor": "",
@@ -10966,6 +11310,7 @@
         "study"
       ],
       "meaning": "a lengthy stare at someone or something",
+      "id": "jin-1",
       "example": [{
         "file": "jin-1a",
         "contributor": "",
@@ -10996,6 +11341,7 @@
           "ring ring"
         ],
         "meaning": "sound of ringing, as from an alarm or phone",
+        "id": "jiri-1",
         "example": [{
           "file": "jiri-1a",
           "contributor": "",
@@ -11011,6 +11357,7 @@
           "step"
         ],
         "meaning": "the indication of moving slowly or carefully",
+        "id": "jiri-2",
         "example": [{
           "file": "jiri-2a",
           "contributor": "",
@@ -11032,6 +11379,7 @@
         "invade"
       ],
       "meaning": "an indication of moving or stepping slowly",
+      "id": "jiri_jiri-1",
       "example": [{
         "file": "jiri_jiri-1a",
         "contributor": "",
@@ -11052,6 +11400,7 @@
         "stare"
       ],
       "meaning": "a good hard stare at someone or something",
+      "id": "jiro-1",
       "example": [{
         "file": "jiro-1a",
         "contributor": "",
@@ -11072,6 +11421,7 @@
           "wriggle"
         ],
         "meaning": "an indication of strugging against restraints, typically in vain",
+        "id": "jita_bata-1",
         "example": [
           {
             "file": "jita_bata-1a",
@@ -11094,6 +11444,7 @@
           "temper tantrum"
         ],
         "meaning": "an indication of flailing in a fit of agitation, frustration, or temper",
+        "id": "jita_bata-2",
         "example": [{
           "file": "jita_bata-2a",
           "contributor": "",
@@ -11124,6 +11475,7 @@
         "whimper"
       ],
       "meaning": "an indication of leaking bodily fluid, as being on the verge of tears",
+      "id": "jiwa-1",
       "example": [
         {
           "file": "jiwa-1a",
@@ -11164,6 +11516,7 @@
         "sizle"
       ],
       "meaning": "the sound of hissing or sizzling, as from cooking",
+      "id": "jiyu-1",
       "example": [{
         "file": "jiyu-1a",
         "contributor": "",
@@ -11202,6 +11555,7 @@
         "sizzle"
       ],
       "meaning": "a sizzling sound, as of meat cooking",
+      "id": "ju-1",
       "example": [{
         "file": "ju-1a",
         "contributor": "",
@@ -11232,6 +11586,7 @@
         "weep weep"
       ],
       "meaning": "an indication of a dripping or oozing fluid",
+      "id": "jun_jun-1",
       "example": [{
         "file": "jun_jun-1a",
         "contributor": "",
@@ -11250,6 +11605,7 @@
         "suck suck"
       ],
       "meaning": "a wet slurping sound",
+      "id": "jupo_jupo-1",
       "example": [{
         "file": "jupo_jupo-1a",
         "contributor": "",
@@ -11268,6 +11624,7 @@
         "suck suck"
       ],
       "meaning": "a wet slurping sound",
+      "id": "jupu_jupu-1",
       "example": [{
         "file": "jupu_jupu-1a",
         "contributor": "",
@@ -11293,6 +11650,7 @@
         "slobber"
       ],
       "meaning": "the act or sound of drooling",
+      "id": "juru-1",
       "example": [
         {
           "file": "juru-1a",
@@ -11332,6 +11690,7 @@
         "steam"
       ],
       "meaning": "a juicy sizzling sound, as of cooking meat",
+      "id": "juwa-1",
       "example": [{
         "file": "juwa-1a",
         "contributor": "",
@@ -11358,6 +11717,7 @@
         "suckle"
       ],
       "meaning": "a wet licking or sucking sound",
+      "id": "jyuru-1",
       "example": [
         {
           "file": "jyuru-1a",
@@ -11405,6 +11765,7 @@
           "redden"
         ],
         "meaning": "an expression of blushing, as from excitement or embarrassment",
+        "id": "ka-1",
         "example": [
           {
             "file": "ka-1a",
@@ -11442,6 +11803,7 @@
           "shine"
         ],
         "meaning": "to brighten or shine suddenly",
+        "id": "ka-2",
         "example": [
           {
             "file": "ka-2a",
@@ -11466,6 +11828,7 @@
           "tap"
         ],
         "meaning": "a distinct and sharp sound associated with a light impact",
+        "id": "ka-3",
         "example": [
           {
             "file": "ka-3a",
@@ -11502,6 +11865,7 @@
         "up"
       ],
       "meaning": "to get up or sit up, as from a bed",
+      "id": "kaba-1",
       "example": [{
         "file": "kaba-1a",
         "contributor": "",
@@ -11530,6 +11894,7 @@
         "rattle"
       ],
       "meaning": "a short, sharp clicking or clinking sound",
+      "id": "kacha-1",
       "example": [
         {
           "file": "kacha-1a",
@@ -11566,6 +11931,7 @@
         "rattle"
       ],
       "meaning": "short, sharp clicks or clinks",
+      "id": "kachan-1",
       "example": [{
         "file": "kachan-1a",
         "contributor": "",
@@ -11588,6 +11954,7 @@
         "rattle"
       ],
       "meaning": "a series of short, sharp clicks or clinks",
+      "id": "kacha_kacha-1",
       "example": [
         {
           "file": "kacha_kacha-1a",
@@ -11627,6 +11994,7 @@
         "snap"
       ],
       "meaning": "a small clicking noise",
+      "id": "kachi-1",
       "example": [
         {
           "file": "kachi-1a",
@@ -11654,6 +12022,7 @@
         "tap tap"
       ],
       "meaning": "a series of short, sharp clicks or clinks",
+      "id": "kachi_kachi-1",
       "example": [{
         "file": "kachi_kachi-1a",
         "contributor": "",
@@ -11679,6 +12048,7 @@
         "write"
       ],
       "meaning": "the sound of writing something, as on paper or chalkboard",
+      "id": "kaki_kaki-1",
       "example": [
         {
           "file": "kaki_kaki-1a",
@@ -11709,6 +12079,7 @@
         "tick"
       ],
       "meaning": "the sound of a strong click or snap",
+      "id": "kan-1",
       "example": [{
         "file": "kan-1a",
         "contributor": "",
@@ -11731,6 +12102,7 @@
         "tang tang"
       ],
       "meaning": "a series of loud metallic ringing noises, as from a bell",
+      "id": "kan_kan-1",
       "example": [{
         "file": "kan_kan-1a",
         "contributor": "",
@@ -11751,6 +12123,7 @@
         "ker-chack"
       ],
       "meaning": "the sound of something opening",
+      "id": "kapa-1",
       "example": [{
         "file": "kapa-1a",
         "contributor": "",
@@ -11781,6 +12154,7 @@
         "wham"
       ],
       "meaning": "sound of a small, metallic clank",
+      "id": "kara-1",
       "example": [{
         "file": "kara-1a",
         "contributor": "",
@@ -11811,6 +12185,7 @@
         "wham"
       ],
       "meaning": "a sound of a small, hard strike",
+      "id": "karan-1",
       "example": [{
         "file": "karan-1a",
         "contributor": "",
@@ -11830,6 +12205,7 @@
         "ding ding"
       ],
       "meaning": "a series of a small, hard metallic strike, as from a bell",
+      "id": "karan_karan-1",
       "example": [{
         "file": "karan_karan-1a",
         "contributor": "",
@@ -11852,6 +12228,7 @@
         "scritch scritch"
       ],
       "meaning": "a scratching, crackling, or crunching sound",
+      "id": "kari_kari-1",
       "example": [
         {
           "file": "kari_kari-1a",
@@ -11892,6 +12269,7 @@
         "swish"
       ],
       "meaning": "a gentle, quiet sound of movement, as that of fabric, paper, or plants",
+      "id": "kasa-1",
       "example": [
         {
           "file": "kasa-1a",
@@ -11936,6 +12314,7 @@
         "tick"
       ],
       "meaning": "the quick sound of a camera or phone taking a photo",
+      "id": "kasha-1",
       "example": [
         {
           "file": "kasha-1a",
@@ -11969,6 +12348,7 @@
         "pop"
       ],
       "meaning": "the pop and hiss sound of a soda can opening",
+      "id": "kashu-1",
       "example": [{
         "file": "kashu-1a",
         "contributor": "",
@@ -11994,6 +12374,7 @@
         "rattle"
       ],
       "meaning": "to stand or sit, and/or the noise of a chair or stool moving while standing or sitting",
+      "id": "kata-1",
       "example": [
         {
           "file": "kata-1a",
@@ -12020,6 +12401,7 @@
         "tap tap tap"
       ],
       "meaning": "rapid typing on a modern keyboard",
+      "id": "katata-1",
       "example": [{
         "file": "katata-1a",
         "contributor": "",
@@ -12042,6 +12424,7 @@
           "ticka tick"
         ],
         "meaning": "the rythmic sound of typing on a modern keyboard",
+        "id": "kata_kata-1",
         "example": [{
           "file": "kata_kata-1a",
           "contributor": "",
@@ -12059,6 +12442,7 @@
           "twitch twitch"
         ],
         "meaning": "an indication of trembling or shaking",
+        "id": "kata_kata-2",
         "example": [{
           "file": "kata_kata-2a",
           "contributor": "",
@@ -12081,6 +12465,7 @@
         "ticka tick"
       ],
       "meaning": "the rythmic sound of typing on a modern keyboard",
+      "id": "kata_katata-1",
       "example": [{
         "file": "kata_kata-1a",
         "contributor": "",
@@ -12113,6 +12498,7 @@
           "trudge"
         ],
         "meaning": "the sound of a footstep, often heavy",
+        "id": "katsun-1",
         "example": [{
           "file": "katsun-1a",
           "contributor": "",
@@ -12134,6 +12520,7 @@
           "whang"
         ],
         "meaning": "the sound of clattering or clanging",
+        "id": "katsun-2",
         "example": [
           {
             "file": "katsun-2a",
@@ -12172,6 +12559,7 @@
         "tap tap"
       ],
       "meaning": "a series of sharp sounds from a light impact",
+      "id": "ka_ka-1",
       "example": [{
         "file": "ka_ka-1a",
         "contributor": "",
@@ -12197,6 +12585,7 @@
         "tsk"
       ],
       "meaning": "a short laugh, usually in annoyance or when looking down at someone",
+      "id": "ke-1",
       "example": [{
         "file": "ke-1a",
         "contributor": "",
@@ -12224,6 +12613,7 @@
         "wheeze"
       ],
       "meaning": "the sound of a coughing or a struggle to breath",
+      "id": "keho-1",
       "example": [{
         "file": "keho-1a",
         "contributor": "",
@@ -12251,6 +12641,7 @@
         "wheeze wheeze"
       ],
       "meaning": "the sound of someone coughing or struggling to breath",
+      "id": "keho_keho-1",
       "example": [
         {
           "file": "keho_keho-1a",
@@ -12282,6 +12673,7 @@
         "titter titter"
       ],
       "meaning": "a light laugh or giggle",
+      "id": "keta_keta-1",
       "example": [{
         "file": "keta_keta-1a",
         "contributor": "",
@@ -12316,6 +12708,7 @@
           "squeal"
         ],
         "meaning": "a fairly loud squeaking or screeching noise",
+        "id": "ki-1",
         "example": [
           {
             "file": "ki-1a",
@@ -12344,6 +12737,7 @@
           "stare"
         ],
         "meaning": "to look at someone or something with anger or disapproval",
+        "id": "ki-2",
         "example": [{
           "file": "ki-2a",
           "contributor": "",
@@ -12371,6 +12765,7 @@
         "what!?"
       ],
       "meaning": "an expression of incredulity or disbelief",
+      "id": "kimo-1",
       "example": [{
         "file": "kimo-1a",
         "contributor": "",
@@ -12400,6 +12795,7 @@
         "squeal"
       ],
       "meaning": "a fairly loud squeaking noise, like an old door or chair",
+      "id": "kin-1",
       "example": [{
         "file": "kin-1a",
         "contributor": "",
@@ -12415,6 +12811,7 @@
     "definition": [{
       "equivalent": ["ding dong dang dong"],
       "meaning": "the sound of a Japanese school bell",
+      "id": "kin_kon_kan_kon-1",
       "example": [{
         "file": "kin_kon_kan_kon-1a",
         "contributor": "",
@@ -12446,6 +12843,7 @@
         "twinkle"
       ],
       "meaning": "a small reflection or twinkle of light",
+      "id": "kira-1",
       "example": [
         {
           "file": "kira-1a",
@@ -12481,6 +12879,7 @@
         "shing"
       ],
       "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "id": "kiran-1",
       "example": [{
         "file": "kiran-1a",
         "contributor": "",
@@ -12500,6 +12899,7 @@
         "twinkle twinkle"
       ],
       "meaning": "to give off or reflect bright moving points of light",
+      "id": "kira_kira-1",
       "example": [
         {
           "file": "kira_kira-1a",
@@ -12531,6 +12931,7 @@
         "tight tight"
       ],
       "meaning": "a sound of something pulled tight or straining under tension",
+      "id": "kiri_kiri-1",
       "example": [
         {
           "file": "kiri_kiri-1a",
@@ -12566,6 +12967,7 @@
         "uneasy"
       ],
       "meaning": "an indication of dramatic tension or danger",
+      "id": "ki_ki-1",
       "example": [{
         "file": "ki_ki-1a",
         "contributor": "",
@@ -12606,6 +13008,7 @@
           "walk"
         ],
         "meaning": "the sound of walking",
+        "id": "ko-1",
         "example": [
           {
             "file": "ko-1a",
@@ -12627,6 +13030,7 @@
           "rumble"
         ],
         "meaning": "expressing or emanating vast power or killing intent",
+        "id": "ko-2",
         "example": [{
           "file": "ko-2a",
           "contributor": "",
@@ -12651,6 +13055,7 @@
           "whack"
         ],
         "meaning": "to strike something in a minor or harmless manner",
+        "id": "ko-3",
         "example": [{
           "file": "ko-3a",
           "contributor": "",
@@ -12672,6 +13077,7 @@
         "rasp"
       ],
       "meaning": "to cough or to make a noise like a cough",
+      "id": "kohon-1",
       "example": [
         {
           "file": "kohon-1a",
@@ -12708,6 +13114,7 @@
         "yes"
       ],
       "meaning": "a quick nod of the head, typically to express agreement",
+      "id": "koku-1",
       "example": [
         {
           "file": "koku-1a",
@@ -12744,6 +13151,7 @@
         "yes"
       ],
       "meaning": "a quick nod of the head, typically to express agreement",
+      "id": "kokuri-1",
       "example": [{
         "file": "kokuri-1a",
         "contributor": "",
@@ -12766,6 +13174,7 @@
         "yes yes"
       ],
       "meaning": "repeatedly nodding the head, as expressing agreement or assent",
+      "id": "koku_koku-1",
       "example": [{
         "file": "koku_koku-1a",
         "contributor": "",
@@ -12794,6 +13203,7 @@
         "knock"
       ],
       "meaning": "a soft banging noise, but harder than a tap",
+      "id": "kon-1",
       "example": [{
         "file": "kon-1a",
         "contributor": "",
@@ -12818,6 +13228,7 @@
         "tap tap"
       ],
       "meaning": "the sound of someone knocking on a door",
+      "id": "kon_kon-1",
       "example": [
         {
           "file": "kon_kon-1a",
@@ -12858,6 +13269,7 @@
         "trickle"
       ],
       "meaning": "sound of pouring liquid",
+      "id": "kopopo-1",
       "example": [{
         "file": "kopopo-1a",
         "contributor": "",
@@ -12880,6 +13292,7 @@
         "topple"
       ],
       "meaning": "the sound of something landing after falling",
+      "id": "koro-1",
       "example": [{
         "file": "koro-1a",
         "contributor": "",
@@ -12902,6 +13315,7 @@
         "topple"
       ],
       "meaning": "the sound of something landing after falling",
+      "id": "koron-1",
       "example": [{
         "file": "koron-1a",
         "contributor": "",
@@ -12920,6 +13334,7 @@
         "whisper"
       ],
       "meaning": "to speak softly so as to not be overheard",
+      "id": "koso_koso-1",
       "example": [{
         "file": "koso_koso-1a",
         "contributor": "",
@@ -12941,6 +13356,7 @@
         "scrub scrub"
       ],
       "meaning": "the indication or sound of rubbing or scrubbing with effort",
+      "id": "kosu_kosu-1",
       "example": [
         {
           "file": "kosu_kosu-1a",
@@ -12975,6 +13391,7 @@
         "touch"
       ],
       "meaning": "to put down or touch gently",
+      "id": "koto-1",
       "example": [
         {
           "file": "koto-1a",
@@ -13029,6 +13446,7 @@
         "gah"
       ],
       "meaning": "an expression of pain or pressure, often suppressed",
+      "id": "ku-1",
       "example": [
         {
           "file": "ku-1a",
@@ -13062,6 +13480,7 @@
         "yawn"
       ],
       "meaning": "a deep breath expressing tiredness or boredom",
+      "id": "kua-1",
       "example": [{
         "file": "kua-1a",
         "contributor": "",
@@ -13088,6 +13507,7 @@
         "squish"
       ],
       "meaning": "a wet smacking sound, like chewing gum or kissing",
+      "id": "kuchu-1",
       "example": [
         {
           "file": "kuchu-1a",
@@ -13127,6 +13547,7 @@
         "squelch squelch"
       ],
       "meaning": "a series of wet smacking sounds, like chewing gum or kissing",
+      "id": "kuchu_kuchu-1",
       "example": [
         {
           "file": "kuchu_kuchu-1b",
@@ -13164,6 +13585,7 @@
         "tirade"
       ],
       "meaning": "the act of talking or lecturing at great length",
+      "id": "kudo_kudo-1",
       "example": [{
         "file": "kudo_kudo-1a",
         "contributor": "",
@@ -13196,6 +13618,7 @@
           "wave"
         ],
         "meaning": "a small gesture",
+        "id": "kui-1",
         "example": [{
           "file": "kui-1a",
           "contributor": "",
@@ -13211,6 +13634,7 @@
           "yank"
         ],
         "meaning": "an indication of pulling or tugging on something",
+        "id": "kui-2",
         "example": [{
           "file": "kui-2a",
           "contributor": "",
@@ -13240,6 +13664,7 @@
         "zzz"
       ],
       "meaning": "an indication of sleeping or the sound of sleepy breathing",
+      "id": "kuka-1",
       "example": [{
         "file": "kuka-1a",
         "contributor": "",
@@ -13265,6 +13690,7 @@
         "rustle"
       ],
       "meaning": "a creaking sound of tightening rope or leather",
+      "id": "kuku-1a-1",
       "example": [{
         "file": "kuku-1a",
         "contributor": "",
@@ -13294,6 +13720,7 @@
         "titter"
       ],
       "meaning": "the sound of a snicker or giggle",
+      "id": "kuku-1",
       "example": [{
         "file": "kuku-1a",
         "contributor": "",
@@ -13315,6 +13742,7 @@
         "tremble tremble"
       ],
       "meaning": "a series of shaking or trembling  movements",
+      "id": "kuna_kuna-1",
       "example": [
         {
           "file": "kuna_kuna-1a",
@@ -13343,6 +13771,7 @@
         "whiff whiff"
       ],
       "meaning": "a series of sniffing or smelling sounds",
+      "id": "kun_kun-1",
       "example": [
         {
           "file": "kun_kun-1a",
@@ -13381,6 +13810,7 @@
         "woozy"
       ],
       "meaning": "a temporary loss or near loss of consciousness",
+      "id": "kura-1",
       "example": [{
         "file": "kura-1a",
         "contributor": "",
@@ -13409,6 +13839,7 @@
         "twist"
       ],
       "meaning": "the act of turning something, typically oneself",
+      "id": "kuru-1",
       "example": [
         {
           "file": "kuru-1a",
@@ -13451,6 +13882,7 @@
         "twist"
       ],
       "meaning": "the act of turning something, typically oneself",
+      "id": "kurun-1",
       "example": [{
         "file": "kurun-1a",
         "contributor": "",
@@ -13474,6 +13906,7 @@
         "twist"
       ],
       "meaning": "to turn or spin in circles",
+      "id": "kuru_kuru-1",
       "example": [
         {
           "file": "kuru_kuru-1a",
@@ -13512,6 +13945,7 @@
         "titter"
       ],
       "meaning": "a small light laugh, sometimes associated with arrogant or wry humor",
+      "id": "kusu-1",
       "example": [
         {
           "file": "kusu-1a",
@@ -13547,6 +13981,7 @@
         "weep"
       ],
       "meaning": "a soft cry or sniffle",
+      "id": "kusun-1",
       "example": [{
         "file": "kusun-1a",
         "contributor": "",
@@ -13568,6 +14003,7 @@
         "laughter"
       ],
       "meaning": "small light laughter or giggling",
+      "id": "kusu_kusu-1",
       "example": [{
         "file": "kusu_kusu-1a",
         "contributor": "",
@@ -13597,6 +14033,7 @@
         "zeal"
       ],
       "meaning": "an expression of of anticipation or excitement",
+      "id": "kuyu-1",
       "example": [{
         "file": "kuyu-1a",
         "contributor": "",
@@ -13636,6 +14073,7 @@
         "yelp"
       ],
       "meaning": "to cry out loudly and emotionally, often used humorously",
+      "id": "kya-1",
       "example": [
         {
           "file": "kya-1a",
@@ -13671,6 +14109,7 @@
         "yelp"
       ],
       "meaning": "to squeal or cry out loudly, often used humorously",
+      "id": "kyan-1",
       "example": [{
         "file": "kyan-1a",
         "contributor": "",
@@ -13691,6 +14130,7 @@
         "twitch twitch"
       ],
       "meaning": "a series of jerky or restless movements",
+      "id": "kyodo_kyodo-1",
       "example": [{
         "file": "kyodo_kyodo-1a",
         "contributor": "",
@@ -13712,6 +14152,7 @@
         "view"
       ],
       "meaning": "to look around or to search",
+      "id": "kyoro-1",
       "example": [
         {
           "file": "kyoro-1a",
@@ -13741,6 +14182,7 @@
         "view view"
       ],
       "meaning": "to look around or search hastily",
+      "id": "kyoro_kyoro-1",
       "example": [
         {
           "file": "kyoro_kyoro-1a",
@@ -13792,6 +14234,7 @@
           "hold"
         ],
         "meaning": "to squeeze lightly or softly",
+        "id": "kyu-1",
         "example": [
           {
             "file": "kyu-1a",
@@ -13824,6 +14267,7 @@
           "tighten"
         ],
         "meaning": "the indication or sound of tying, fastening or pulling something tight",
+        "id": "kyu-2",
         "example": [
           {
             "file": "kyu-2a",
@@ -13858,6 +14302,7 @@
           "squeal"
         ],
         "meaning": "a shrill squeaking sound",
+        "id": "kyu-3",
         "example": [
           {
             "file": "kyu-3a",
@@ -13894,6 +14339,7 @@
         "rumble"
       ],
       "meaning": "a low, rumbling noise, as with a growling stomach",
+      "id": "kyuru-1",
       "example": [
         {
           "file": "kyuru-1a",
@@ -13924,6 +14370,7 @@
         "zoom zoom"
       ],
       "meaning": "the indication or sound of tiny motors moving",
+      "id": "kyuru_kyuru-1",
       "example": [{
         "file": "kyuru_kyuru-1a",
         "contributor": "",
@@ -13944,6 +14391,7 @@
         "wrap wrap"
       ],
       "meaning": "an indication of wrapping or winding something around something else",
+      "id": "maki_maki-1",
       "example": [{
         "file": "maki_maki-1a",
         "contributor": "",
@@ -13976,6 +14424,7 @@
         "squeal"
       ],
       "meaning": "the sound of something creaking, cracking, or splintering",
+      "id": "mishi-1",
       "example": [
         {
           "file": "mishi-1a",
@@ -14018,6 +14467,7 @@
         "squeal"
       ],
       "meaning": "a series of creaking, cracking, or splintering sounds",
+      "id": "mishi_mishi-1",
       "example": [{
         "file": "mishi-1a",
         "contributor": "",
@@ -14048,6 +14498,7 @@
         "yell"
       ],
       "meaning": "the sound of a groan or yell in frustration or annoyance",
+      "id": "mo-1",
       "example": [{
         "file": "mo-1a",
         "contributor": "",
@@ -14071,6 +14522,7 @@
         "stroke"
       ],
       "meaning": "the act of petting something with soft, fluffy fur or hair ",
+      "id": "mofu-1",
       "example": [{
         "file": "mofu-1a",
         "contributor": "",
@@ -14091,6 +14543,7 @@
         "wriggle wriggle"
       ],
       "meaning": "a fumbling or struggling sound, typically muffled",
+      "id": "moga_ moga-1",
       "example": [{
         "file": "moga_moga-1a",
         "contributor": "",
@@ -14110,6 +14563,7 @@
         "snarf snarf"
       ],
       "meaning": "the sound of eating and chewing",
+      "id": "mogu_mogu-1",
       "example": [
         {
           "file": "mogu_mogu-1a",
@@ -14144,6 +14598,7 @@
         "shy"
       ],
       "meaning": "to express shyness or hesitation",
+      "id": "moji-1",
       "example": [{
         "file": "moji-1a",
         "contributor": "",
@@ -14164,6 +14619,7 @@
         "shy"
       ],
       "meaning": "an expression of shyness or hesitation",
+      "id": "moji_moji-1",
       "example": [
         {
           "file": "moji_moji-1a",
@@ -14191,6 +14647,7 @@
         "snarf snarf"
       ],
       "meaning": "the sound of eating and chewing",
+      "id": "mokyu_mokyu-1",
       "example": [{
         "file": "mokyu_mokyu-1a",
         "contributor": "",
@@ -14213,6 +14670,7 @@
         "wait wait"
       ],
       "meaning": "an indication of moving slowly",
+      "id": "mota_mota-1",
       "example": [{
         "file": "mota_mota-1a",
         "contributor": "",
@@ -14245,6 +14703,7 @@
         "vapor"
       ],
       "meaning": "a billowing cloud, as from smoke or a fog",
+      "id": "mowa-1",
       "example": [{
         "file": "mowa-1a",
         "contributor": "",
@@ -14270,6 +14729,7 @@
         "vapor"
       ],
       "meaning": "a billowing cloud, as from smoke or a fog",
+      "id": "mowa_mowa-1",
       "example": [{
         "file": "mowa_mowa-1a",
         "contributor": "",
@@ -14290,6 +14750,7 @@
         "writhe writhe"
       ],
       "meaning": "the indication or sound of clumsy squirming or struggling",
+      "id": "mozo_mozo-1",
       "example": [{
         "file": "mozo_mozo-1a",
         "contributor": "",
@@ -14309,6 +14770,7 @@
         "snarf snarf"
       ],
       "meaning": "the sound of eating and chewing, often in a humorous context",
+      "id": "mo_mo-1",
       "example": [{
         "file": "mo_mo-1a",
         "contributor": "",
@@ -14350,6 +14812,7 @@
         "vexed"
       ],
       "meaning": "the sound or act of puffing out one's cheeks, typicaly as an expression of annoyance",
+      "id": "mu-1",
       "example": [
         {
           "file": "mu-1a",
@@ -14390,6 +14853,7 @@
         "wrap"
       ],
       "meaning": "the sound or action of a tight, affectionate hug",
+      "id": "mugyu-1",
       "example": [{
         "file": "mugyu-1a",
         "contributor": "",
@@ -14419,6 +14883,7 @@
         "stand up"
       ],
       "meaning": "to sit up or stand up",
+      "id": "muku-1",
       "example": [
         {
           "file": "muku-1a",
@@ -14461,6 +14926,7 @@
         "what?"
       ],
       "meaning": "an expression of thinking, considering, or realization",
+      "id": "mumu-1",
       "example": [
         {
           "file": "mumu-1a",
@@ -14498,6 +14964,7 @@
         "urgh"
       ],
       "meaning": "an expression of forceful exertion",
+      "id": "mun-1",
       "example": [
         {
           "file": "mun-1a",
@@ -14537,6 +15004,7 @@
         "touch"
       ],
       "meaning": "touching, fondling, or squeezing someone else",
+      "id": "muni-1",
       "example": [{
         "file": "muni-1a",
         "contributor": "",
@@ -14562,6 +15030,7 @@
         "touch"
       ],
       "meaning": "to touch, fondle, or squeeze someone else",
+      "id": "munya-1",
       "example": [{
         "file": "munya-1a",
         "contributor": "",
@@ -14587,6 +15056,7 @@
         "slumber"
       ],
       "meaning": "expressing sleep or sleepiness",
+      "id": "munya_munya-1",
       "example": [
         {
           "file": "munya_munya-1a",
@@ -14618,6 +15088,7 @@
         "supple"
       ],
       "meaning": "soft and pliable, often in reference to female breasts",
+      "id": "munyun-1",
       "example": [{
         "file": "munyun-1a",
         "contributor": "",
@@ -14641,6 +15112,7 @@
         "snarf snarf"
       ],
       "meaning": "a series of biting or chewing sounds",
+      "id": "musha_musha-1",
       "example": [{
         "file": "musha_musha-1a",
         "contributor": "",
@@ -14667,6 +15139,7 @@
         "prod"
       ],
       "meaning": "to poke or jab with a finger",
+      "id": "muta-1",
       "example": [{
         "file": "muta-1a",
         "contributor": "",
@@ -14687,6 +15160,7 @@
         "prod prod"
       ],
       "meaning": "a series of pokes or jabs with a finger",
+      "id": "muta_muta-1",
       "example": [{
         "file": "muta_muta-1a",
         "contributor": "",
@@ -14710,6 +15184,7 @@
         "unnerved"
       ],
       "meaning": "an expression of impatience, restlessness, or anxiety",
+      "id": "muzu_muzu-1",
       "example": [{
         "file": "muzu_muzu-1a",
         "contributor": "",
@@ -14731,6 +15206,7 @@
         "stroke stroke"
       ],
       "meaning": "a series of strokes in a tender or affectionate manner, usually on the top of the head",
+      "id": "nade_nade-1",
       "example": [
         {
           "file": "nade_nade-1a",
@@ -14769,6 +15245,7 @@
         "smooch"
       ],
       "meaning": "kissing as a sign of affection",
+      "id": "nchu-1",
       "example": [{
         "file": "nchu-1a",
         "contributor": "",
@@ -14795,6 +15272,7 @@
         "snicker"
       ],
       "meaning": "a lighthearted and cheerful hum or soft laugh",
+      "id": "nfufu-1",
       "example": [{
         "file": "nfufu-1a",
         "contributor": "",
@@ -14816,6 +15294,7 @@
         "swig swig"
       ],
       "meaning": "the sound of someone enthusiastically drinking",
+      "id": "ngu_ngu-1",
       "example": [{
         "file": "ngu_ngu-1a",
         "contributor": "",
@@ -14842,6 +15321,7 @@
         "smirk"
       ],
       "meaning": "a smile, often genuine",
+      "id": "ni-1",
       "example": [{
         "file": "ni-1a",
         "contributor": "",
@@ -14872,6 +15352,7 @@
         "smirk"
       ],
       "meaning": "a smile or grin",
+      "id": "niko-1",
       "example": [
         {
           "file": "niko-1a",
@@ -14924,6 +15405,7 @@
         "smirk"
       ],
       "meaning": "expressing a smile or grin",
+      "id": "niko_niko-1",
       "example": [
         {
           "file": "niko_niko-1a",
@@ -14958,6 +15440,7 @@
         "smirk"
       ],
       "meaning": "a smile or grin",
+      "id": "nima-1",
       "example": [{
         "file": "nima-1a",
         "contributor": "",
@@ -14986,6 +15469,7 @@
         "snicker"
       ],
       "meaning": "an unpleasant or evil smile",
+      "id": "niya-1",
       "example": [{
         "file": "niya-1a",
         "contributor": "",
@@ -15014,6 +15498,7 @@
         "snicker"
       ],
       "meaning": "an unpleasant or evil smile",
+      "id": "niya_niya-1",
       "example": [{
         "file": "niya_niya-1a",
         "contributor": "",
@@ -15041,6 +15526,7 @@
         "nosh"
       ],
       "meaning": "the act or sound of eating and chewing",
+      "id": "nma-1",
       "example": [{
         "file": "nma-1a",
         "contributor": "",
@@ -15067,6 +15553,7 @@
         "ride"
       ],
       "meaning": "to climb onto something and sit down",
+      "id": "nori-1",
       "example": [{
         "file": "nori-1a",
         "contributor": "",
@@ -15088,6 +15575,7 @@
         "slug slug"
       ],
       "meaning": "to move slowly or ponderously",
+      "id": "noso_noso-1",
       "example": [{
         "file": "noso_noso-1a",
         "contributor": "",
@@ -15115,6 +15603,7 @@
         "threaten"
       ],
       "meaning": "an indication of something large and menacing appearing",
+      "id": "nu-1",
       "example": [{
         "file": "nu-1a",
         "contributor": "",
@@ -15138,6 +15627,7 @@
         "roil roil"
       ],
       "meaning": "an expression of anger or irritation",
+      "id": "nura_nura-1",
       "example": [{
         "file": "nura_nura-1a",
         "contributor": "",
@@ -15167,6 +15657,7 @@
         "smudge"
       ],
       "meaning": "the indication or sound of applying a sticky substance to a surface",
+      "id": "nuri-1",
       "example": [{
         "file": "nuri-1a",
         "contributor": "",
@@ -15194,6 +15685,7 @@
         "slippery"
       ],
       "meaning": "an indication of something wet or slippery ",
+      "id": "nurun-1",
       "example": [{
         "file": "nurun-1a",
         "contributor": "",
@@ -15212,6 +15704,7 @@
         "nya"
       ],
       "meaning": "mimicking a cat to express friendly, playful teasing",
+      "id": "nya-1",
       "example": [{
         "file": "nya-1a",
         "contributor": "",
@@ -15236,6 +15729,7 @@
         "mrow"
       ],
       "meaning": "the cry of a cat",
+      "id": "nyan-1",
       "example": [{
         "file": "nyan-1a",
         "contributor": "",
@@ -15254,6 +15748,7 @@
         "nya nya"
       ],
       "meaning": "mimicking a cat to express friendly, playful teasing",
+      "id": "nya_nya-1",
       "example": [
         {
           "file": "nya_nya-1a",
@@ -15287,6 +15782,7 @@
         "smirk"
       ],
       "meaning": "a mischievous or unpleasant smile",
+      "id": "nyi-1",
       "example": [
         {
           "file": "nyi-1a",
@@ -15322,6 +15818,7 @@
         "writhe"
       ],
       "meaning": "an indication or sound of something  squirming, squishy, or slick",
+      "id": "nyu-1",
       "example": [{
         "file": "nyu-1a",
         "contributor": "",
@@ -15355,6 +15852,7 @@
           "oh"
         ],
         "meaning": "a brief exclamation expressing surprise or appreciation",
+        "id": "o-1",
         "example": [
           {
             "file": "o-1a",
@@ -15384,6 +15882,7 @@
           "screech"
         ],
         "meaning": "a menacing roar or howl",
+        "id": "o-2",
         "example": [{
           "file": "o-2a",
           "contributor": "",
@@ -15410,6 +15909,7 @@
         "wha"
       ],
       "meaning": "an expression of surprise, realization, or understanding",
+      "id": "oppa-1",
       "example": [{
         "file": "oppa-1a",
         "contributor": "",
@@ -15433,6 +15933,7 @@
         "terror"
       ],
       "meaning": "an expression of surprise, fear, or panic",
+      "id": "oro_oro-1",
       "example": [
         {
           "file": "oro_oro-1a",
@@ -15480,6 +15981,7 @@
           "shine"
         ],
         "meaning": "to brighten or shine suddenly",
+        "id": "pa-1",
         "example": [
           {
             "file": "pa-1a",
@@ -15514,6 +16016,7 @@
           "shine"
         ],
         "meaning": "to become glad, happy, or excited",
+        "id": "pa-2",
         "example": [{
           "file": "pa-2a",
           "contributor": "",
@@ -15544,6 +16047,7 @@
           "tick"
         ],
         "meaning": "the sound of a short sharp click",
+        "id": "pachi-1",
         "example": [
           {
             "file": "pachi-1a",
@@ -15579,6 +16083,7 @@
           "squint"
         ],
         "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
+        "id": "pachi-2",
         "example": [
           {
             "file": "pachi-2a",
@@ -15623,6 +16128,7 @@
         "tick"
       ],
       "meaning": "the generic sound of a click or snap",
+      "id": "pachin-1",
       "example": [
         {
           "file": "pachin-1a",
@@ -15651,6 +16157,7 @@
           "snap snap"
         ],
         "meaning": "the continuous sound of crackling, as from a fire",
+        "id": "pachi_pachi-1",
         "example": [
           {
             "file": "pachi_pachi-1a",
@@ -15672,6 +16179,7 @@
           "clap clap"
         ],
         "meaning": "the sound of applause or clapping",
+        "id": "pachi_pachi-2",
         "example": [
           {
             "file": "pachi_pachi-2a",
@@ -15713,6 +16221,7 @@
           "wow"
         ],
         "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
+        "id": "paka-1",
         "example": [{
           "file": "paka-1a",
           "contributor": "",
@@ -15729,6 +16238,7 @@
           "uncover"
         ],
         "meaning": "popping open a closed container",
+        "id": "paka-2",
         "example": [
           {
             "file": "paka-2a",
@@ -15764,6 +16274,7 @@
         "trot"
       ],
       "meaning": "the sound of a horse running or charging",
+      "id": "pakara-1",
       "example": [{
         "file": "pakara-1a",
         "contributor": "",
@@ -15791,6 +16302,7 @@
         "snap"
       ],
       "meaning": "the sharp sound of something cracking or popping",
+      "id": "paki-1",
       "example": [
         {
           "file": "paki-1a",
@@ -15829,6 +16341,7 @@
         "savor"
       ],
       "meaning": "to close one's mouth, typically around a mouthful of food",
+      "id": "paku-1",
       "example": [
         {
           "file": "paku-1a",
@@ -15863,6 +16376,7 @@
         "snap snap"
       ],
       "meaning": "an indication of eyes, hands, or mouths snapping open and closed quickly",
+      "id": "paku_paku-1",
       "example": [
         {
           "file": "paku_paku-1a",
@@ -15908,6 +16422,7 @@
           "strike"
         ],
         "meaning": "a sudden resounding strike, often loud",
+        "id": "pan-1",
         "example": [
           {
             "file": "pan-1a",
@@ -15945,6 +16460,7 @@
           "thump"
         ],
         "meaning": "the sound or a light or soft strike",
+        "id": "pan-2",
         "example": [
           {
             "file": "pan-2a",
@@ -15988,6 +16504,7 @@
         "thump thump"
       ],
       "meaning": "a series of small or light impacts",
+      "id": "pan_pan-1",
       "example": [
         {
           "file": "pan_pan-1a",
@@ -16031,6 +16548,7 @@
         "turn"
       ],
       "meaning": "sound of turning or riffling through paper pages",
+      "id": "para-1",
       "example": [
         {
           "file": "para-1a",
@@ -16075,6 +16593,7 @@
           "tock tock"
         ],
         "meaning": "the repeated or continuous sound of small things falling",
+        "id": "para_para-1",
         "example": [
           {
             "file": "para_para-1a",
@@ -16099,6 +16618,7 @@
           "turn turn"
         ],
         "meaning": "sound of turning or riffling through paper pages",
+        "id": "para_para-2",
         "example": [{
           "file": "para_para-2a",
           "contributor": "",
@@ -16130,6 +16650,7 @@
         "swish"
       ],
       "meaning": "the soft sound of moving paper or cloth",
+      "id": "pasa-1",
       "example": [
         {
           "file": "pasa-1a",
@@ -16166,6 +16687,7 @@
           "swash"
         ],
         "meaning": "the sound of a small splash",
+        "id": "pasha-1",
         "example": [
           {
             "file": "pasha-1a",
@@ -16189,6 +16711,7 @@
           "snap"
         ],
         "meaning": "the sound of a camera shutter or the light of a camera flash",
+        "id": "pasha-2",
         "example": [
           {
             "file": "pasha-2a",
@@ -16234,6 +16757,7 @@
         "snag"
       ],
       "meaning": "the act of grabbing and catching something",
+      "id": "pashi-1",
       "example": [
         {
           "file": "pashi-1a",
@@ -16276,6 +16800,7 @@
         "thump thump"
       ],
       "meaning": "a slapping or smacking sound",
+      "id": "pashi_pashi-1",
       "example": [{
         "file": "pashi_pashi-1a",
         "contributor": "",
@@ -16305,6 +16830,7 @@
         "tumble"
       ],
       "meaning": "an indication of falling from an upright position",
+      "id": "pata-1",
       "example": [{
         "file": "pata-1a",
         "contributor": "",
@@ -16337,6 +16863,7 @@
           "thump"
         ],
         "meaning": "the sound of something closing or latching",
+        "id": "patan-1",
         "example": [
           {
             "file": "patan-1a",
@@ -16368,6 +16895,7 @@
           "tumble"
         ],
         "meaning": "to fall down from an upright position",
+        "id": "patan-2",
         "example": [{
           "file": "patan-2a",
           "contributor": "",
@@ -16392,6 +16920,7 @@
         "trickle"
       ],
       "meaning": "a dripping or spattering sound",
+      "id": "patata-1",
       "example": [{
         "file": "patata-1a",
         "contributor": "",
@@ -16413,6 +16942,7 @@
         "wave wave"
       ],
       "meaning": "a series of flapping sounds, as from bird wings or a flag in the wind",
+      "id": "pata_pata-1",
       "example": [
         {
           "file": "pata_pata-1a",
@@ -16440,6 +16970,7 @@
         "pat pat"
       ],
       "meaning": "to repeatedly pat or brush something off, as for removing dirt or dust",
+      "id": "pa_pa-1",
       "example": [{
         "file": "pa_pa-1a",
         "contributor": "",
@@ -16471,6 +17002,7 @@
         "sploosh"
       ],
       "meaning": "the sound spitting or ejecting something from the mouth",
+      "id": "pe-1",
       "example": [{
         "file": "pe-1a",
         "contributor": "",
@@ -16497,6 +17029,7 @@
         "whack"
       ],
       "meaning": "the sound of a slap",
+      "id": "pechi-1",
       "example": [{
         "file": "pechi-1a",
         "contributor": "",
@@ -16521,6 +17054,7 @@
         "curtsy"
       ],
       "meaning": "bowing the head or body in respect or politeness",
+      "id": "peko-1",
       "example": [
         {
           "file": "peko-1a",
@@ -16566,6 +17100,7 @@
         "truckle truckle"
       ],
       "meaning": "to bow, grovel or otherwise ingratiate  oneself with a superior",
+      "id": "peko_peko-1",
       "example": [
         {
           "file": "peko_peko-1a",
@@ -16604,6 +17139,7 @@
         "turn"
       ],
       "meaning": "sound of turning pages or moving paper",
+      "id": "pera-1",
       "example": [
         {
           "file": "pera-1a",
@@ -16634,6 +17170,7 @@
           "verbose"
         ],
         "meaning": "to speak in a fluent and polished manner",
+        "id": "pera_pera-1",
         "example": [
           {
             "file": "pera_pera-1a",
@@ -16658,6 +17195,7 @@
           "wave wave"
         ],
         "meaning": "a series of flapping noises",
+        "id": "pera_pera-2",
         "example": [{
           "file": "pera_pera-2a",
           "contributor": "",
@@ -16685,6 +17223,7 @@
         "taste"
       ],
       "meaning": "the sound of a tongue licking something",
+      "id": "pero-1",
       "example": [
         {
           "file": "pero-1a",
@@ -16719,6 +17258,7 @@
           "slurp"
         ],
         "meaning": "the sound of a tongue licking something",
+        "id": "peron-1",
         "example": [
           {
             "file": "peron-1a",
@@ -16743,6 +17283,7 @@
           "sway"
         ],
         "meaning": "an indication of lightly hanging or dangling",
+        "id": "peron-2",
         "example": [{
           "file": "peron-2a",
           "contributor": "",
@@ -16763,6 +17304,7 @@
         "slurp slurp"
       ],
       "meaning": "the sound of a tongue licking something",
+      "id": "pero_pero-1",
       "example": [
         {
           "file": "pero_pero-1a",
@@ -16797,6 +17339,7 @@
         "whap"
       ],
       "meaning": "a harmless but loud impact, as with a slap",
+      "id": "peshi-1",
       "example": [{
         "file": "peshi-1a",
         "contributor": "",
@@ -16817,6 +17360,7 @@
         "whap whap"
       ],
       "meaning": "a series of harmless impacts, as from slapping",
+      "id": "peshi_peshi-1",
       "example": [
         {
           "file": "peshi_peshi-1a",
@@ -16857,6 +17401,7 @@
         "wilt"
       ],
       "meaning": "to sit or drop clumsily or lazily",
+      "id": "petan-1",
       "example": [{
         "file": "petan-1a",
         "contributor": "",
@@ -16878,6 +17423,7 @@
           "press press"
         ],
         "meaning": "to press repeatedly",
+        "id": "peta_peta-1",
         "example": [{
           "file": "peta_peta-1a",
           "contributor": "",
@@ -16893,6 +17439,7 @@
           "tap tap"
         ],
         "meaning": "the indication or sound of walking softly",
+        "id": "peta_peta-2",
         "example": [{
           "file": "peta_peta-2a",
           "contributor": "",
@@ -16923,6 +17470,7 @@
           "ping"
         ],
         "meaning": "a short electronic beep or similar high-pitched noise",
+        "id": "pi-1",
         "example": [
           {
             "file": "pi-1a",
@@ -16955,6 +17503,7 @@
           "swipe"
         ],
         "meaning": "an indication or sound of a small, efficient manipulation by hand, often associated with paper",
+        "id": "pi-2",
         "example": [
           {
             "file": "pi-2a",
@@ -16993,6 +17542,7 @@
         "trickle"
       ],
       "meaning": "a dripping sound or a small splashing sound",
+      "id": "pichan-1",
       "example": [{
         "file": "pichan-1a",
         "contributor": "",
@@ -17013,6 +17563,7 @@
         "suckle"
       ],
       "meaning": "a wet licking or sucking sound",
+      "id": "picha_picha-1",
       "example": [{
         "file": "picha_picha-1a",
         "contributor": "",
@@ -17036,6 +17587,7 @@
         "vibrant"
       ],
       "meaning": "an expression of something lively and energetic, often associated with freshly caught fish",
+      "id": "pichi_pichi-1",
       "example": [{
         "file": "pichi_pichi-1a",
         "contributor": "",
@@ -17055,6 +17607,7 @@
         "plink"
       ],
       "meaning": "the sound of a single drip of fluid",
+      "id": "pichon-1",
       "example": [{
         "file": "pichon-1a",
         "contributor": "",
@@ -17091,6 +17644,7 @@
         "sparkle"
       ],
       "meaning": "a sudden or bright flash of light or a dazzling glimmer",
+      "id": "pika-1",
       "example": [
         {
           "file": "pika-1b",
@@ -17126,6 +17680,7 @@
           "snap"
         ],
         "meaning": "a cracking or popping sound",
+        "id": "piki-1",
         "example": [{
           "file": "piki-1a",
           "contributor": "",
@@ -17147,6 +17702,7 @@
           "snap"
         ],
         "meaning": "an expression of sudden anger or annoyance",
+        "id": "piki-2",
         "example": [
           {
             "file": "piki-2a",
@@ -17184,6 +17740,7 @@
         "smug"
       ],
       "meaning": "a quick change of expression to happiness or smugness",
+      "id": "pikin-1",
       "example": [{
         "file": "pikin-1a",
         "contributor": "",
@@ -17211,6 +17768,7 @@
         "snap snap"
       ],
       "meaning": "the continuous sound of cracking or popping, as from something about to break",
+      "id": "piki_piki-1",
       "example": [{
         "file": "piki_piki-1a",
         "contributor": "",
@@ -17238,6 +17796,7 @@
         "wince"
       ],
       "meaning": "a small jerk or twitch",
+      "id": "piko-1",
       "example": [{
         "file": "piko-1a",
         "contributor": "",
@@ -17268,6 +17827,7 @@
           "ring"
         ],
         "meaning": "the noise of an electronic chime, typical of games or computers",
+        "id": "pikon-1",
         "example": [{
           "file": "pikon-1a",
           "contributor": "",
@@ -17286,6 +17846,7 @@
           "twitch"
         ],
         "meaning": "an endearing, cute or slightly embarrassing reaction, typically momentary",
+        "id": "pikon-2",
         "example": [
           {
             "file": "pikon-2a",
@@ -17316,6 +17877,7 @@
         "ping ping"
       ],
       "meaning": "the repetitive beeps of generic video games",
+      "id": "pikon_pikon-1",
       "example": [{
         "file": "pikon_pikon-1a",
         "contributor": "",
@@ -17345,6 +17907,7 @@
           "wince"
         ],
         "meaning": "to tense up from surprise or fear",
+        "id": "piku-1",
         "example": [
           {
             "file": "piku-1a",
@@ -17374,6 +17937,7 @@
           "twitch"
         ],
         "meaning": "a small, deliberate movement",
+        "id": "piku-2",
         "example": [{
           "file": "piku-2a",
           "contributor": "",
@@ -17387,6 +17951,7 @@
           "squint"
         ],
         "meaning": "to rapidly open and close one's eyes, as from slumber",
+        "id": "piku-3",
         "example": [{
           "file": "piku-3a",
           "contributor": "",
@@ -17410,6 +17975,7 @@
         "wince wince"
       ],
       "meaning": "a series of jerky movements or twitches",
+      "id": "piku_piku-1",
       "example": [{
         "file": "piku_piku-1a",
         "contributor": "",
@@ -17442,6 +18008,7 @@
           "zoom"
         ],
         "meaning": "to suddenly approach someone or appear next to someone",
+        "id": "pin-1",
         "example": [{
           "file": "pin-1a",
           "contributor": "",
@@ -17459,6 +18026,7 @@
           "vibrate"
         ],
         "meaning": "the sound of a vibrating string, rope, or cable",
+        "id": "pin-2",
         "example": [{
           "file": "pin-2a",
           "contributor": "",
@@ -17477,6 +18045,7 @@
           "spark"
         ],
         "meaning": "an expression of sudden inspiration, revelation, or recognition",
+        "id": "pin-3",
         "example": [
           {
             "file": "pin-3a",
@@ -17499,6 +18068,7 @@
           "ping"
         ],
         "meaning": "a sharp pinging sound",
+        "id": "pin-4",
         "example": [{
           "file": "pin-4a",
           "contributor": "",
@@ -17515,6 +18085,7 @@
     "definition": [{
       "equivalent": ["ding-dong"],
       "meaning": "the sound of a doorbell",
+      "id": "pin_pon-1",
       "example": [{
         "file": "pinpon-1a",
         "contributor": "",
@@ -17549,6 +18120,7 @@
         "tweet tweet"
       ],
       "meaning": "a series of high pitched chirps or tones",
+      "id": "pipi-1",
       "example": [
         {
           "file": "pipi-1a",
@@ -17583,6 +18155,7 @@
         "uncover"
       ],
       "meaning": "an indication or sound of revealing something",
+      "id": "pira-1",
       "example": [
         {
           "file": "pira-1a",
@@ -17609,6 +18182,7 @@
         "ding-a-ling"
       ],
       "meaning": "a cell phone ring tone",
+      "id": "pirorin-1",
       "example": [{
         "file": "pirorin-1a",
         "contributor": "",
@@ -17634,6 +18208,7 @@
         "ring ring"
       ],
       "meaning": "the sound of a telephone or cell phone ringing",
+      "id": "piruru-1",
       "example": [{
         "file": "piruru-1a",
         "contributor": "",
@@ -17663,6 +18238,7 @@
         "surprised"
       ],
       "meaning": "an expression of shock or disbelief",
+      "id": "pisha-1",
       "example": [
         {
           "file": "pisha-1a",
@@ -17700,6 +18276,7 @@
         "surprised"
       ],
       "meaning": "a dramatic expression of shock or disbelief",
+      "id": "pishan-1",
       "example": [{
         "file": "pishan-1a",
         "contributor": "",
@@ -17729,6 +18306,7 @@
           "split"
         ],
         "meaning": "the sound of something suddenly breaking",
+        "id": "pishi-1",
         "example": [
           {
             "file": "pishi-1a",
@@ -17754,6 +18332,7 @@
           "zip"
         ],
         "meaning": "an expression of precision, usually with a rapid snapping to position",
+        "id": "pishi-2",
         "example": [
           {
             "file": "pishi-2a",
@@ -17797,6 +18376,7 @@
         "stop"
       ],
       "meaning": "to bring something to an immediate end or standstill",
+      "id": "pita-1",
       "example": [
         {
           "file": "pita-1a",
@@ -17837,6 +18417,7 @@
         "touch"
       ],
       "meaning": "a gentle or careful touch or contact",
+      "id": "pito-1",
       "example": [
         {
           "file": "pito-1a",
@@ -17882,6 +18463,7 @@
           "light"
         ],
         "meaning": "an indication that something is emitting light",
+        "id": "po-1",
         "example": [{
           "file": "po-1a",
           "contributor": "",
@@ -17900,6 +18482,7 @@
           "stare"
         ],
         "meaning": "riveted in wonder or surprise, typical in love-at-first-sight scenarios",
+        "id": "po-2",
         "example": [{
           "file": "po-2a",
           "contributor": "",
@@ -17915,6 +18498,7 @@
           "plunk"
         ],
         "meaning": "the sound of a drop landing",
+        "id": "po-3",
         "example": [{
           "file": "po-3a",
           "contributor": "",
@@ -17939,6 +18523,7 @@
         "trickle"
       ],
       "meaning": "a dripping sound or small splashing sound",
+      "id": "pochan-1",
       "example": [{
         "file": "pochan-1a",
         "contributor": "",
@@ -17971,6 +18556,7 @@
         "unload"
       ],
       "meaning": "to toss something, often as trash or unwanted",
+      "id": "poi-1",
       "example": [
         {
           "file": "poi-1a",
@@ -18020,6 +18606,7 @@
         "ricochet"
       ],
       "meaning": "an indication or sound of popping or bouncing",
+      "id": "poin-1",
       "example": [{
         "file": "poin-1a",
         "contributor": "",
@@ -18041,6 +18628,7 @@
         "hop"
       ],
       "meaning": "the indication or sound of bounces",
+      "id": "poin_poin-1",
       "example": [{
         "file": "poin_poin-1a",
         "contributor": "",
@@ -18071,6 +18659,7 @@
         "wonder"
       ],
       "meaning": "expressing shock, surprise, or wonder",
+      "id": "pokan-1",
       "example": [{
         "file": "pokan-1a",
         "contributor": "",
@@ -18091,6 +18680,7 @@
         "bubble bubble"
       ],
       "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
+      "id": "poko_poko-1",
       "example": [{
         "file": "poko_poko-1a",
         "contributor": "",
@@ -18116,6 +18706,7 @@
           "puff"
         ],
         "meaning": "the sound of something magically appearing or disappearing, often with little clouds of smoke",
+        "id": "pon-1",
         "example": [
           {
             "file": "pon-1a",
@@ -18143,6 +18734,7 @@
           "thump"
         ],
         "meaning": "the sound of a soft strike or blow not intended to harm",
+        "id": "pon-2",
         "example": [
           {
             "file": "pon-2a",
@@ -18179,6 +18771,7 @@
           "toss"
         ],
         "meaning": "to give something to someone else",
+        "id": "pon-3",
         "example": [{
           "file": "pon-3a",
           "contributor": "",
@@ -18205,6 +18798,7 @@
         "stroke stroke"
       ],
       "meaning": "a series of pats or strokes in a gentle manner",
+      "id": "pon_pon-1",
       "example": [
         {
           "file": "pon_pon-1a",
@@ -18248,6 +18842,7 @@
         "whistle"
       ],
       "meaning": "the long, loud sound of a train whistle or air horn",
+      "id": "poo-1",
       "example": [{
         "file": "poo-1a",
         "contributor": "",
@@ -18268,6 +18863,7 @@
         "scuff scuff"
       ],
       "meaning": "a series of scratching or scraping noises",
+      "id": "pori_pori-1",
       "example": [{
         "file": "pori_pori-1a",
         "contributor": "",
@@ -18291,6 +18887,7 @@
         "topple"
       ],
       "meaning": "an indication of something dropping or falling",
+      "id": "poro-1",
       "example": [
         {
           "file": "poro-1a",
@@ -18326,6 +18923,7 @@
         "weep"
       ],
       "meaning": "shedding tears as an expression of pain or distress",
+      "id": "poro_poro-1",
       "example": [
         {
           "file": "poro_poro-1a",
@@ -18365,6 +18963,7 @@
         "release"
       ],
       "meaning": "to cause or allow something to fall",
+      "id": "poto-1",
       "example": [{
         "file": "poto-1a",
         "contributor": "",
@@ -18385,6 +18984,7 @@
         "secluded"
       ],
       "meaning": "an expression of isolation or loneliness",
+      "id": "potsun-1",
       "example": [{
         "file": "potsun-1a",
         "contributor": "",
@@ -18412,6 +19012,7 @@
         "shine"
       ],
       "meaning": "a bright glowing appearance, often from some sort of magical effect",
+      "id": "pou-1",
       "example": [
         {
           "file": "pou-1a",
@@ -18447,6 +19048,7 @@
         "shine"
       ],
       "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
+      "id": "pou_pou-1",
       "example": [{
         "file": "pou_pou-1a",
         "contributor": "",
@@ -18466,6 +19068,7 @@
         "wobble"
       ],
       "meaning": "a series of small irregular movements",
+      "id": "poyuyun-1",
       "example": [{
         "file": "poyuyun-1a",
         "contributor": "",
@@ -18506,6 +19109,7 @@
           "toot"
         ],
         "meaning": "the sound of someone expelling air or gas from a bodily orifice, as in suppressed laughter or flatulence",
+        "id": "pu-1",
         "example": [
           {
             "file": "pu-1a",
@@ -18542,6 +19146,7 @@
           "snap"
         ],
         "meaning": "an indication or sound of a small pluck or poke",
+        "id": "pu-2",
         "example": [
           {
             "file": "pu-2a",
@@ -18579,6 +19184,7 @@
         "unclasp"
       ],
       "meaning": "a gentle snapping or popping sound",
+      "id": "puchi-1",
       "example": [
         {
           "file": "puchi-1a",
@@ -18606,6 +19212,7 @@
         "snap snap"
       ],
       "meaning": "a series of snapping or popping sounds",
+      "id": "puchi_puchi-1",
       "example": [{
         "file": "puchi_puchi-1a",
         "contributor": "",
@@ -18636,6 +19243,7 @@
         "whah"
       ],
       "meaning": "a vocalized sound expressing relief or satisfaction",
+      "id": "puha-1",
       "example": [
         {
           "file": "puha-1a",
@@ -18679,6 +19287,7 @@
         "turn"
       ],
       "meaning": "to deliberately ignore or treat rudely ",
+      "id": "pui-1",
       "example": [{
         "file": "pui-1a",
         "contributor": "",
@@ -18706,6 +19315,7 @@
         "sullen"
       ],
       "meaning": "an indication of puffy cheeks, humorously expressing a sulk or a pout",
+      "id": "puku-1",
       "example": [
         {
           "file": "puku-1a",
@@ -18746,6 +19356,7 @@
         "resentful"
       ],
       "meaning": "an expression of irritation or annoyance, usually associated with young girls",
+      "id": "pun-1",
       "example": [{
         "file": "pun-1a",
         "contributor": "",
@@ -18774,6 +19385,7 @@
         "squishy"
       ],
       "meaning": "an exaggerated indication of soft flesh",
+      "id": "puni-1",
       "example": [
         {
           "file": "puni-1a",
@@ -18814,6 +19426,7 @@
         "squishy"
       ],
       "meaning": "an exaggerated indication of soft flesh",
+      "id": "punyu-1",
       "example": [{
         "file": "punyu-1a",
         "contributor": "",
@@ -18834,6 +19447,7 @@
         "squishy"
       ],
       "meaning": "an exaggerated indication of soft flesh",
+      "id": "punyun-1",
       "example": [{
         "file": "punyun-1a",
         "contributor": "",
@@ -18869,6 +19483,7 @@
           "tremble"
         ],
         "meaning": "an indication of shaking or buzzing",
+        "id": "puru-1",
         "example": [
           {
             "file": "puru-1a",
@@ -18894,6 +19509,7 @@
           "wobble"
         ],
         "meaning": "the indication of a wobble or shake",
+        "id": "puru-2",
         "example": [{
           "file": "puru-2a",
           "contributor": "",
@@ -18923,6 +19539,7 @@
         "wobble"
       ],
       "meaning": "the indication of a wobble or shake",
+      "id": "purun-1",
       "example": [
         {
           "file": "purun-1a",
@@ -18972,6 +19589,7 @@
         "wobble wobble"
       ],
       "meaning": "an indication of a couple quick bounces or wobbles",
+      "id": "purun_purun-1",
       "example": [{
         "file": "purun_purun-1a",
         "contributor": "",
@@ -18992,6 +19610,7 @@
         "tremble"
       ],
       "meaning": "an indication of shaking or quivering",
+      "id": "puru_puru-1",
       "example": [
         {
           "file": "puru_puru-1a",
@@ -19045,6 +19664,7 @@
         "ssss"
       ],
       "meaning": "an indication or sound of leaking air or gas, sometimes used to express embarrassment or confusion",
+      "id": "pushu-1",
       "example": [
         {
           "file": "pushu-1a",
@@ -19078,6 +19698,7 @@
         "psh psh"
       ],
       "meaning": "the sound of a silenced pistol being fired",
+      "id": "pushu_pushu-1",
       "example": [{
         "file": "pushu_pushu-1a",
         "contributor": "",
@@ -19097,6 +19718,7 @@
         "psk"
       ],
       "meaning": "small puncture",
+      "id": "pusu-1",
       "example": [{
         "file": "pusu-1a",
         "contributor": "",
@@ -19116,6 +19738,7 @@
         "sputter"
       ],
       "meaning": "something that was on fire reduced to smoke",
+      "id": "pusu_pusu-1",
       "example": [{
         "file": "pusu_pusu-1a",
         "contributor": "",
@@ -19144,6 +19767,7 @@
         "pyaa"
       ],
       "meaning": "the sound of a sudden release of pressure, or a burst of energy",
+      "id": "pya-1",
       "example": [{
         "file": "pya-1a",
         "contributor": "",
@@ -19174,6 +19798,7 @@
         "swagger"
       ],
       "meaning": "moving or appearing quickly, often in a cute or bouncy manner",
+      "id": "pyoko-1",
       "example": [{
         "file": "pyoko-1a",
         "contributor": "",
@@ -19200,6 +19825,7 @@
         "skip skip"
       ],
       "meaning": "to run around in a cute and bouncy manner",
+      "id": "pyoko_pyoko-1",
       "example": [{
         "file": "pyoko_pyoko-1a",
         "contributor": "",
@@ -19223,6 +19849,7 @@
         "vault"
       ],
       "meaning": "the act of leaping into the air",
+      "id": "pyon-1",
       "example": [
         {
           "file": "pyon-1a",
@@ -19272,6 +19899,7 @@
           "squirt"
         ],
         "meaning": "a stream of fluid discharged from narrow opening",
+        "id": "pyu-1",
         "example": [{
           "file": "pyu-1a",
           "contributor": "",
@@ -19291,6 +19919,7 @@
           "zoom"
         ],
         "meaning": "a sudden burst of speed, as from someone fleeing",
+        "id": "pyu-2",
         "example": [{
           "file": "pyu-2a",
           "contributor": "",
@@ -19313,6 +19942,7 @@
         "tenderly"
       ],
       "meaning": "a soft or gentle sound",
+      "id": "pyuin-1",
       "example": [{
         "file": "pyuin-1a",
         "contributor": "",
@@ -19335,6 +19965,7 @@
         "zip"
       ],
       "meaning": "an indication of something moving at high speed through the air",
+      "id": "pyun-1",
       "example": [{
         "file": "pyun-1a",
         "contributor": "",
@@ -19355,6 +19986,7 @@
         "lick"
       ],
       "meaning": "an indication or sound of tongue licking",
+      "id": "rero-1",
       "example": [{
         "file": "rero-1a",
         "contributor": "",
@@ -19374,6 +20006,7 @@
         "lick lick"
       ],
       "meaning": "the indication or sound of a series of tongue lickings",
+      "id": "rero_rero-1",
       "example": [{
         "file": "rero_rero-1a",
         "contributor": "",
@@ -19400,6 +20033,7 @@
         "toll toll"
       ],
       "meaning": "a series of loud bell or gong noises",
+      "id": "ringon_ringon-1",
       "example": [{
         "file": "ringon_ringon-1a",
         "contributor": "",
@@ -19445,6 +20079,7 @@
           "sss"
         ],
         "meaning": "the soft sounds of rain or a shower",
+        "id": "sa-1",
         "example": [
           {
             "file": "sa-1a",
@@ -19476,6 +20111,7 @@
           "worry"
         ],
         "meaning": "an expression of worry or stress",
+        "id": "sa-2",
         "example": [{
           "file": "sa-2a",
           "contributor": "",
@@ -19498,6 +20134,7 @@
           "sidestep"
         ],
         "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
+        "id": "sa-3",
         "example": [
           {
             "file": "sa-3a",
@@ -19531,6 +20168,7 @@
           "swash"
         ],
         "meaning": "a loud noise of water splashing",
+        "id": "sa-4",
         "example": [{
           "file": "sa-4a",
           "contributor": "",
@@ -19547,6 +20185,7 @@
           "walk"
         ],
         "meaning": "the indication or sound of a soft step",
+        "id": "sa-5",
         "example": [
           {
             "file": "sa-5a",
@@ -19576,6 +20215,7 @@
         "walk"
       ],
       "meaning": "sound of someone walking, as on grass or gravel",
+      "id": "saku-1",
       "example": [{
         "file": "saku-1a",
         "contributor": "",
@@ -19602,6 +20242,7 @@
         "slice"
       ],
       "meaning": "a fast cutting or slicing sound",
+      "id": "san-1",
       "example": [{
         "file": "san-1a",
         "contributor": "",
@@ -19631,6 +20272,7 @@
         "whoosh"
       ],
       "meaning": "the soft movement of hair, as in a gentle breeze",
+      "id": "sara-1",
       "example": [
         {
           "file": "sara-1a",
@@ -19673,6 +20315,7 @@
         "touch"
       ],
       "meaning": "an indication or sound of light touching or movement",
+      "id": "sawa-1",
       "example": [{
         "file": "sawa-1a",
         "contributor": "",
@@ -19706,6 +20349,7 @@
           "scoot"
         ],
         "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
+        "id": "sa_sa-1",
         "example": [{
           "file": "sa_sa-1a",
           "contributor": "",
@@ -19722,6 +20366,7 @@
           "swoosh swoosh"
         ],
         "meaning": "a repeated soft brushing sound",
+        "id": "sa_sa-2",
         "example": [{
           "file": "sa_sa-2a",
           "contributor": "",
@@ -19753,6 +20398,7 @@
           "slit"
         ],
         "meaning": "the sound of cutting into something, as with a sharp knife",
+        "id": "sha-1",
         "example": [{
           "file": "sha-1a",
           "contributor": "",
@@ -19768,6 +20414,7 @@
           "whizz"
         ],
         "meaning": "a hissing or spraying sound",
+        "id": "sha-2",
         "example": [{
           "file": "sha-2a",
           "contributor": "",
@@ -19795,6 +20442,7 @@
         "rattle"
       ],
       "meaning": "a light rattling sound",
+      "id": "sharan-1",
       "example": [{
         "file": "sharan-1a",
         "contributor": "",
@@ -19819,6 +20467,7 @@
         "whine whine"
       ],
       "meaning": "a series of whimpering or sobbing sound",
+      "id": "shiku_shiku-1",
       "example": [{
         "file": "shiku_shiku-1a",
         "contributor": "",
@@ -19847,6 +20496,7 @@
         "still"
       ],
       "meaning": "an indication of the absence of sound",
+      "id": "shin-1",
       "example": [
         {
           "file": "shin-1a",
@@ -19882,6 +20532,7 @@
     "definition": [{
       "equivalent": ["shoo shoo"],
       "meaning": "an expression meant to send or scare away someone or something",
+      "id": "shi_shi-1",
       "example": [{
         "file": "shi_shi-1a",
         "contributor": "",
@@ -19909,6 +20560,7 @@
         "urine"
       ],
       "meaning": "an indication of involuntary urination",
+      "id": "showa-1",
       "example": [{
         "file": "showa-1a",
         "contributor": "",
@@ -19945,6 +20597,7 @@
           "zoom"
         ],
         "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
+        "id": "shu-1",
         "example": [
           {
             "file": "shu-1a",
@@ -19968,6 +20621,7 @@
           "sss"
         ],
         "meaning": "an indication or sound of leaking air or gas",
+        "id": "shu-2",
         "example": [
           {
             "file": "shu-2a",
@@ -19994,6 +20648,7 @@
           "stop"
         ],
         "meaning": "a blocking maneuver in combat",
+        "id": "shu-3",
         "example": [{
           "file": "shu-3a",
           "contributor": "",
@@ -20022,6 +20677,7 @@
         "zoom"
       ],
       "meaning": "a swift, precise or cutting motion",
+      "id": "shubba-1",
       "example": [{
         "file": "shubba-1a",
         "contributor": "",
@@ -20057,6 +20713,7 @@
           "unhappy"
         ],
         "meaning": "an expression of sadness or gloom",
+        "id": "shun-1",
         "example": [
           {
             "file": "shun-1a",
@@ -20087,6 +20744,7 @@
           "zoom"
         ],
         "meaning": "to move quickly with only the sound of flowing air, often vanishing",
+        "id": "shun-2",
         "example": [
           {
             "file": "shun-2a",
@@ -20126,6 +20784,7 @@
         "wrap"
       ],
       "meaning": "an indication of a snake-like movement",
+      "id": "shuru-1",
       "example": [
         {
           "file": "shuru-1a",
@@ -20164,6 +20823,7 @@
         "sss"
       ],
       "meaning": "an indication or sound of leaking air or gas, sometimes used to express embarrassment or confusion",
+      "id": "shu_shu-1",
       "example": [{
         "file": "shu_shu-1a",
         "contributor": "",
@@ -20200,6 +20860,7 @@
           "tip toe"
         ],
         "meaning": "to move in a secretive or quiet manner",
+        "id": "so-1",
         "example": [
           {
             "file": "so-1a",
@@ -20229,6 +20890,7 @@
           "touch"
         ],
         "meaning": "to reach out to someone, so as to touch or present them with something",
+        "id": "so-2",
         "example": [{
           "file": "so-2a",
           "contributor": "",
@@ -20261,6 +20923,7 @@
         "wriggle wriggle"
       ],
       "meaning": "an indication of jerky or restless movements",
+      "id": "sowa_sowa-1",
       "example": [{
         "file": "sowa_sowa-1a",
         "contributor": "",
@@ -20305,6 +20968,7 @@
           "pass by"
         ],
         "meaning": "to move past someone, typically ignoring them",
+        "id": "su-1",
         "example": [
           {
             "file": "su-1a",
@@ -20344,6 +21008,7 @@
           "yield"
         ],
         "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
+        "id": "su-2",
         "example": [
           {
             "file": "su-2a",
@@ -20388,6 +21053,7 @@
           "inhale"
         ],
         "meaning": "a deep breath, typically inhaled",
+        "id": "su-3",
         "example": [
           {
             "file": "su-3a",
@@ -20426,6 +21092,7 @@
           "raise"
         ],
         "meaning": "the act of lifting something up",
+        "id": "su-4",
         "example": [
           {
             "file": "su-4a",
@@ -20460,6 +21127,7 @@
           "zero in on"
         ],
         "meaning": "a sudden change in demeanor, as expressing a nearby threat",
+        "id": "su-5",
         "example": [{
           "file": "su-5a",
           "contributor": "",
@@ -20487,6 +21155,7 @@
         "unfaltering"
       ],
       "meaning": "an indication of slow and steady movement",
+      "id": "sucha-1",
       "example": [{
         "file": "sucha-1a",
         "contributor": "",
@@ -20516,6 +21185,7 @@
           "zoom"
         ],
         "meaning": "the sound of something moving fast, typically indicating a missed hit, as from a sword or baseball bat",
+        "id": "suka-1",
         "example": [
           {
             "file": "suka-1a",
@@ -20541,6 +21211,7 @@
           "zzz"
         ],
         "meaning": "the indication or sound of sleep",
+        "id": "suka-2",
         "example": [{
           "file": "suka-2a",
           "contributor": "",
@@ -20578,6 +21249,7 @@
         "whack"
       ],
       "meaning": "the indication or sound of a light, harmless strike",
+      "id": "sukon-1",
       "example": [{
         "file": "sukon-1a",
         "contributor": "",
@@ -20603,6 +21275,7 @@
         "stand up"
       ],
       "meaning": "stand up and get to one's feet",
+      "id": "suku-1",
       "example": [
         {
           "file": "suku-1a",
@@ -20639,6 +21312,7 @@
         "tranquil"
       ],
       "meaning": "to express a calm and unruffled demeanor",
+      "id": "sun-1",
       "example": [
         {
           "file": "sun-1b",
@@ -20666,6 +21340,7 @@
         "snuffle snuffle"
       ],
       "meaning": "an sound of sniffing or snuffing",
+      "id": "sun_sun-1",
       "example": [
         {
           "file": "sun_sun-1a",
@@ -20716,6 +21391,7 @@
         "slice"
       ],
       "meaning": "a fast cut, as with a sword or knife",
+      "id": "supa-1",
       "example": [
         {
           "file": "supa-1a",
@@ -20744,6 +21420,7 @@
         "slice"
       ],
       "meaning": "a fast cut, as with a sword or knife",
+      "id": "supan-1",
       "example": [{
         "file": "supan-1a",
         "contributor": "",
@@ -20770,6 +21447,7 @@
         "zzz"
       ],
       "meaning": "soft breathing while sleeping or quietly snoring",
+      "id": "supi-1",
       "example": [
         {
           "file": "supi-1a",
@@ -20804,6 +21482,7 @@
         "zzz"
       ],
       "meaning": "soft breathing while sleeping or quietly snoring",
+      "id": "supi_supi-1",
       "example": [{
         "file": "supi_supi-1a",
         "contributor": "",
@@ -20832,6 +21511,7 @@
         "touch"
       ],
       "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
+      "id": "suri-1a-1",
       "example": [{
         "file": "suri-1a",
         "contributor": "",
@@ -20861,6 +21541,7 @@
           "touch"
         ],
         "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
+        "id": "suru-1",
         "example": [{
           "file": "suru-1a",
           "contributor": "",
@@ -20876,6 +21557,7 @@
           "swish"
         ],
         "meaning": "the soft sound of rustling fabric, typically slow",
+        "id": "suru-2",
         "example": [{
           "file": "suru-2a",
           "contributor": "",
@@ -20896,6 +21578,7 @@
         "swift swift"
       ],
       "meaning": "an smooth or nimble action or movement",
+      "id": "suru_suru-1",
       "example": [{
         "file": "suru_suru-1a",
         "contributor": "",
@@ -20925,6 +21608,7 @@
         "whump"
       ],
       "meaning": "to land after jumping or falling",
+      "id": "suta-1",
       "example": [
         {
           "file": "suta-1a",
@@ -20962,6 +21646,7 @@
         "whump"
       ],
       "meaning": "to land after jumping or falling",
+      "id": "sutan-1",
       "example": [{
         "file": "sutan-1a",
         "contributor": "",
@@ -20983,6 +21668,7 @@
         "walk walk"
       ],
       "meaning": "the sound of brisk and purposeful walking",
+      "id": "suta_suta-1",
       "example": [
         {
           "file": "suta_suta-1a",
@@ -21019,6 +21705,7 @@
         "tumble"
       ],
       "meaning": "to fall from a standing position, often suddenly and involuntarily",
+      "id": "suten-1",
       "example": [{
         "file": "suten-1b",
         "contributor": "",
@@ -21051,6 +21738,7 @@
         "touch"
       ],
       "meaning": "to lightly hold or contact someone",
+      "id": "suto-1",
       "example": [{
         "file": "suto-1a",
         "contributor": "",
@@ -21074,6 +21762,7 @@
           "squat"
         ],
         "meaning": "to sit or squat down",
+        "id": "suton-1",
         "example": [
           {
             "file": "suton-1a",
@@ -21098,6 +21787,7 @@
           "set"
         ],
         "meaning": "to set something down",
+        "id": "suton-2",
         "example": [{
           "file": "suton-2a",
           "contributor": "",
@@ -21125,6 +21815,7 @@
         "inhale exhale"
       ],
       "meaning": "the sound of breathing, both inhale and exhale",
+      "id": "su_ha-1",
       "example": [{
         "file": "su_ha-1a",
         "contributor": "",
@@ -21156,6 +21847,7 @@
           "zzz"
         ],
         "meaning": "soft breathing while sleeping or quietly snoring",
+        "id": "su_su-1",
         "example": [{
           "file": "su_su-1a",
           "contributor": "",
@@ -21169,6 +21861,7 @@
           "whisper"
         ],
         "meaning": "to speak quietly, so as not be overheard",
+        "id": "su_su-2",
         "example": [{
           "file": "su_su-2a",
           "contributor": "",
@@ -21190,6 +21883,7 @@
           "take take"
         ],
         "meaning": "simple or quick movements of the hand",
+        "id": "su_su-3",
         "example": [{
           "file": "su_su-3a",
           "contributor": "",
@@ -21223,6 +21917,7 @@
           "vault"
         ],
         "meaning": "to quickly or suddenly jump",
+        "id": "ta-1",
         "example": [{
           "file": "ta-1a",
           "contributor": "",
@@ -21242,6 +21937,7 @@
           "sprint"
         ],
         "meaning": "to run or start running",
+        "id": "ta-2",
         "example": [
           {
             "file": "ta-2a",
@@ -21271,6 +21967,7 @@
           "tap"
         ],
         "meaning": "a soft sound of a controlled ninja-like landing",
+        "id": "ta-3",
         "example": [{
           "file": "ta-3a",
           "contributor": "",
@@ -21299,6 +21996,7 @@
         "thunk"
       ],
       "meaning": "the sound of a light impact",
+      "id": "tan-1",
       "example": [
         {
           "file": "tan-1a",
@@ -21341,6 +22039,7 @@
         "wobble"
       ],
       "meaning": "the indication of a wobble or shake",
+      "id": "tapun-1",
       "example": [{
         "file": "tapun-1a",
         "contributor": "",
@@ -21373,6 +22072,7 @@
         "snatch"
       ],
       "meaning": "the sound or action of grabbing or clutching something with force, particularly with both hands",
+      "id": "tashi-1",
       "example": [{
         "file": "tashi-1a",
         "contributor": "",
@@ -21408,6 +22108,7 @@
         "tap tap"
       ],
       "meaning": "to run lightly",
+      "id": "tata-1",
       "example": [
         {
           "file": "tata-1a",
@@ -21448,6 +22149,7 @@
         "ta-ta ta-ta"
       ],
       "meaning": "the sound of a train moving rapidly on its tracks",
+      "id": "tatan_tatan-1",
       "example": [{
         "file": "tatan_tatan-1a",
         "contributor": "",
@@ -21477,6 +22179,7 @@
         "trot trot"
       ],
       "meaning": "a fast-running gait, as that of a quadruped",
+      "id": "tata_tata-1",
       "example": [{
         "file": "tata_tata-1a",
         "contributor": "",
@@ -21505,6 +22208,7 @@
         "wobble"
       ],
       "meaning": "the indication of a wobble or shake",
+      "id": "tayun-1",
       "example": [{
         "file": "tayun-1a",
         "contributor": "",
@@ -21528,6 +22232,7 @@
         "wobble wobble"
       ],
       "meaning": "an indication of bouncing or jiggling",
+      "id": "tayun_tayun-1",
       "example": [{
         "file": "tayun_tayun-1a",
         "contributor": "",
@@ -21557,6 +22262,7 @@
         "titter"
       ],
       "meaning": "a light and playful laugh or giggle",
+      "id": "tehe-1",
       "example": [{
         "file": "tehe-1a",
         "contributor": "",
@@ -21589,6 +22295,7 @@
         "twinkle"
       ],
       "meaning": "to shine or sparkle brightly, often used humorously for a shiny bald head",
+      "id": "teka-1",
       "example": [{
         "file": "teka-1a",
         "contributor": "",
@@ -21613,6 +22320,7 @@
         "walk walk"
       ],
       "meaning": "to walk at a relatively moderate pace",
+      "id": "teku_teku-1",
       "example": [{
         "file": "teku_teku-1a",
         "contributor": "",
@@ -21642,6 +22350,7 @@
         "trot trot"
       ],
       "meaning": "to run lightly",
+      "id": "te_te-1",
       "example": [{
         "file": "te_te-1a",
         "contributor": "",
@@ -21669,6 +22378,7 @@
           "tap"
         ],
         "meaning": "a soft sound of a controlled ninja-like landing",
+        "id": "to-1",
         "example": [
           {
             "file": "to-1a",
@@ -21694,6 +22404,7 @@
           "tick"
         ],
         "meaning": "a soft click or tap sound",
+        "id": "to-2",
         "example": [{
           "file": "to-2a",
           "contributor": "",
@@ -21718,6 +22429,7 @@
         "trudge trudge"
       ],
       "meaning": "to walk heavily or slowly, often an expression of emotional disturbance or tiredness",
+      "id": "tobo_tobo-1",
       "example": [
         {
           "file": "tobo_tobo-1a",
@@ -21750,6 +22462,7 @@
         "gurgle"
       ],
       "meaning": "the sound of pouring liquid, as from a bottle",
+      "id": "toku_toku-1",
       "example": [
         {
           "file": "toku_toku-1a",
@@ -21788,6 +22501,7 @@
           "thunk"
         ],
         "meaning": "the sound of a small or light impact",
+        "id": "ton-1",
         "example": [
           {
             "file": "ton-1a",
@@ -21814,6 +22528,7 @@
           "vault"
         ],
         "meaning": "the act of leaping into the air",
+        "id": "ton-2",
         "example": [{
           "file": "ton-2a",
           "contributor": "",
@@ -21846,6 +22561,7 @@
           "tok tok"
         ],
         "meaning": "a series of light, rhythmic strikes",
+        "id": "ton_ton-1",
         "example": [{
           "file": "ton_ton-1a",
           "contributor": "",
@@ -21863,6 +22579,7 @@
           "walk walk"
         ],
         "meaning": "the repeated sound of walking or stepping",
+        "id": "ton_ton-2",
         "example": [
           {
             "file": "ton_ton-2a",
@@ -21898,6 +22615,7 @@
         "trickle"
       ],
       "meaning": "sound of pouring liquid",
+      "id": "topopo-1",
       "example": [
         {
           "file": "topopo-1a",
@@ -21926,6 +22644,7 @@
         "trickle"
       ],
       "meaning": "the sound of pouring liquid",
+      "id": "topu_topu-1",
       "example": [{
         "file": "topu_topu-1a",
         "contributor": "",
@@ -21962,6 +22681,7 @@
         "trickle"
       ],
       "meaning": "the indication or sound of melting, flowing, or dripping slowly",
+      "id": "toro-1",
       "example": [
         {
           "file": "toro-1a",
@@ -22002,6 +22722,7 @@
         "poof"
       ],
       "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
+      "id": "tosa-1",
       "example": [{
         "file": "tosa-1a",
         "contributor": "",
@@ -22028,6 +22749,7 @@
         "tick tick"
       ],
       "meaning": "a series of soft quick taps, as on a cell phone",
+      "id": "toto-1",
       "example": [{
         "file": "toto-1a",
         "contributor": "",
@@ -22060,6 +22782,7 @@
         "walk walk"
       ],
       "meaning": "a series of soft or quick steps",
+      "id": "to_to-1",
       "example": [{
         "file": "to_to-1a",
         "contributor": "",
@@ -22090,6 +22813,7 @@
           "wha"
         ],
         "meaning": "a quick inhale or gasp, as from being surprised or frightened",
+        "id": "tsu-1",
         "example": [{
           "file": "tsu-1a",
           "contributor": "",
@@ -22105,6 +22829,7 @@
           "trickle"
         ],
         "meaning": "the indication of a small flowing liquid",
+        "id": "tsu-2",
         "example": [{
           "file": "tsu-2a",
           "contributor": "",
@@ -22126,6 +22851,7 @@
         "tread tread"
       ],
       "meaning": "the sound of brisk and purposeful walking",
+      "id": "tsuka_tsuka-1",
       "example": [{
         "file": "tsuka_tsuka-1a",
         "contributor": "",
@@ -22152,6 +22878,7 @@
         "tug tug"
       ],
       "meaning": "a series of quick or gentle pinching, poking or prodding",
+      "id": "tsun_tsun-1",
       "example": [
         {
           "file": "tsun_tsun-1a",
@@ -22198,6 +22925,7 @@
         "slippery"
       ],
       "meaning": "to slip or to have a surface smooth enough to slip on",
+      "id": "tsuru-1",
       "example": [{
         "file": "tsuru-1a",
         "contributor": "",
@@ -22224,6 +22952,7 @@
         "slippery"
       ],
       "meaning": "to slip or to have a surface smooth enough to slip on",
+      "id": "tsurun-1",
       "example": [{
         "file": "tsurun-1a",
         "contributor": "",
@@ -22248,6 +22977,7 @@
         "bzz bzz"
       ],
       "meaning": "a series of electrical buzzing sounds",
+      "id": "tsu_tsu-1",
       "example": [{
         "file": "tsu_tsu-1a",
         "contributor": "",
@@ -22277,6 +23007,7 @@
           "uhn"
         ],
         "meaning": "an audible gutteral breath or grunt, often involuntary",
+        "id": "u-1",
         "example": [{
           "file": "u-1a",
           "contributor": "",
@@ -22293,6 +23024,7 @@
           "urgh"
         ],
         "meaning": "an expression of dismay or discouragement",
+        "id": "u-2",
         "example": [{
           "file": "u-2a",
           "contributor": "",
@@ -22326,6 +23058,7 @@
         "whaa"
       ],
       "meaning": "an exclamation sound, often extended, expressing a range of emotions, as in relief, embarrassment, or surprise",
+      "id": "ua-1",
       "example": [{
         "file": "ua-1a",
         "contributor": "",
@@ -22350,6 +23083,7 @@
         "whirr"
       ],
       "meaning": "the sound of raising or lowering an automatic window",
+      "id": "uin-1",
       "example": [{
         "file": "uin-1a",
         "contributor": "",
@@ -22379,6 +23113,7 @@
           "yes"
         ],
         "meaning": "nodding to express agreement",
+        "id": "un-1",
         "example": [{
           "file": "un-1a",
           "contributor": "",
@@ -22393,6 +23128,7 @@
           "um"
         ],
         "meaning": "an expression or sound of contemplation",
+        "id": "un-2",
         "example": [
           {
             "file": "un-2a",
@@ -22420,6 +23156,7 @@
           "urgh"
         ],
         "meaning": "the sound of a grunt or a groan, expressing strain or effort",
+        "id": "un-3",
         "example": [{
           "file": "un-3a",
           "contributor": "",
@@ -22447,6 +23184,7 @@
           "yep yep"
         ],
         "meaning": "nodding the head repeatedly to express friendly agreement",
+        "id": "un_un-1",
         "example": [
           {
             "file": "un_un-1a",
@@ -22470,6 +23208,7 @@
           "ummm ummm"
         ],
         "meaning": "a series of low sounds expressing pain or grief",
+        "id": "un_un-2",
         "example": [{
           "file": "un_un-2a",
           "contributor": "",
@@ -22504,6 +23243,7 @@
           "yowl"
         ],
         "meaning": "the bark or howl of a wolf or large dog",
+        "id": "uon-1",
         "example": [{
           "file": "uon-1a",
           "contributor": "",
@@ -22520,6 +23260,7 @@
           "wail"
         ],
         "meaning": "the loud sound of an alarm or siren",
+        "id": "uon-2",
         "example": [{
           "file": "uon-2a",
           "contributor": "",
@@ -22552,6 +23293,7 @@
         "wee woo"
       ],
       "meaning": "the loud sound of an alarm or siren",
+      "id": "uon_uon-1",
       "example": [{
         "file": "uon_uon-1a",
         "contributor": "",
@@ -22575,6 +23317,7 @@
         "wander wander"
       ],
       "meaning": "an indication of move about aimlessly or pacing",
+      "id": "uro_uro-1",
       "example": [
         {
           "file": "uro_uro-1a",
@@ -22610,6 +23353,7 @@
         "teardrop"
       ],
       "meaning": "the formation of a teardrop",
+      "id": "uru-1",
       "example": [{
         "file": "uru-1a",
         "contributor": "",
@@ -22651,6 +23395,7 @@
         "wail"
       ],
       "meaning": "to cry loudly indicating pain or distress",
+      "id": "uwan-1",
       "example": [
         {
           "file": "uwan-1a",
@@ -22685,6 +23430,7 @@
         "threat"
       ],
       "meaning": "a feeling of threat",
+      "id": "uzo-1",
       "example": [{
         "file": "uzo-1a",
         "contributor": "",
@@ -22709,6 +23455,7 @@
         "thrill thrill"
       ],
       "meaning": "an expression of excitement or anticipation",
+      "id": "uzu_uzu-1",
       "example": [{
         "file": "uzu_uzu-1a",
         "contributor": "",
@@ -22739,6 +23486,7 @@
         "wmphh"
       ],
       "meaning": "an expression of revulsion as if trying not to retch.",
+      "id": "vu-1",
       "example": [{
         "file": "vu-1a",
         "contributor": "",
@@ -22764,6 +23512,7 @@
         "whoom"
       ],
       "meaning": "the sound of some sort of magic taking effect or causing something to appear",
+      "id": "vun-1",
       "example": [
         {
           "file": "vun-1a",
@@ -22826,6 +23575,7 @@
         "yay"
       ],
       "meaning": "a roar or shout, as in fear or in celebration",
+      "id": "wa-1",
       "example": [
         {
           "file": "wa-1a",
@@ -22867,6 +23617,7 @@
         "yap"
       ],
       "meaning": "a soft or half-hearted bark",
+      "id": "wafu-1",
       "example": [{
         "file": "wafu-1a",
         "contributor": "",
@@ -22896,6 +23647,7 @@
         "hubbub"
       ],
       "meaning": "the sound of multiple people talking simultaneously",
+      "id": "wai_wai-1",
       "example": [
         {
           "file": "wai_wai-1a",
@@ -22927,6 +23679,7 @@
         "pleased"
       ],
       "meaning": "an expression of enthusiasm or eager anticipation",
+      "id": "waku_waku-1",
       "example": [
         {
           "file": "waku_waku-1a",
@@ -22967,6 +23720,7 @@
         "woof"
       ],
       "meaning": "The gruff barking noise of a dog or a wolf",
+      "id": "wan-1",
       "example": [
         {
           "file": "wan-1a",
@@ -22995,6 +23749,7 @@
         "tremble tremble"
       ],
       "meaning": "an indication of trembling, typically from fear",
+      "id": "wana_wana-1",
       "example": [{
         "file": "wana_wana-1a",
         "contributor": "",
@@ -23017,6 +23772,7 @@
         "wave wave"
       ],
       "meaning": "an expression of panic or mistake, often with waving of hands",
+      "id": "wata_wata-1",
       "example": [{
         "file": "wata_wata-1a",
         "contributor": "",
@@ -23046,6 +23802,7 @@
         "wobble"
       ],
       "meaning": "unsteady or awkward movement",
+      "id": "yoro-1",
       "example": [
         {
           "file": "yoro-1a",
@@ -23079,6 +23836,7 @@
         "waddle waddle"
       ],
       "meaning": "an indication of unsteadiness or clumsiness",
+      "id": "yota_yota-1",
       "example": [
         {
           "file": "yota_yota-1a",
@@ -23117,6 +23875,7 @@
         "wobble"
       ],
       "meaning": "an indication of moving unsteadily",
+      "id": "yura-1",
       "example": [
         {
           "file": "yura-1a",
@@ -23144,6 +23903,7 @@
         "shake shake"
       ],
       "meaning": "an indication of moving something to and fro",
+      "id": "yusa_yusa-1",
       "example": [{
         "file": "yusa_yusa-1a",
         "contributor": "",
@@ -23191,6 +23951,7 @@
           "sss"
         ],
         "meaning": "soft sounds of rain or a shower",
+        "id": "za-1",
         "example": [
           {
             "file": "za-1a",
@@ -23223,6 +23984,7 @@
           "walk"
         ],
         "meaning": "sound of someone taking a step or stomping",
+        "id": "za-2",
         "example": [
           {
             "file": "za-2b",
@@ -23250,6 +24012,7 @@
           "sprint"
         ],
         "meaning": "the sound of someone dashing or sprinting",
+        "id": "za-3",
         "example": [{
           "file": "za-3a",
           "contributor": "",
@@ -23281,6 +24044,7 @@
         "swash"
       ],
       "meaning": "a medium to large splashing sound",
+      "id": "zaba-1",
       "example": [{
         "file": "zaba-1a",
         "contributor": "",
@@ -23311,6 +24075,7 @@
         "swash swash"
       ],
       "meaning": "medium to large splashing sounds",
+      "id": "zaba_zaba-1",
       "example": [{
         "file": "zaba_zaba-1a",
         "contributor": "",
@@ -23347,6 +24112,7 @@
         "swash"
       ],
       "meaning": "a large splashing sound",
+      "id": "zabu-1",
       "example": [{
         "file": "zabu-1a",
         "contributor": "",
@@ -23377,6 +24143,7 @@
         "swash"
       ],
       "meaning": "a large splashing sound",
+      "id": "zabun-1",
       "example": [{
         "file": "zabun-1a",
         "contributor": "",
@@ -23404,6 +24171,7 @@
         "stab"
       ],
       "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
+      "id": "zaku-1",
       "example": [{
         "file": "zaku-1a",
         "contributor": "",
@@ -23430,6 +24198,7 @@
         "slice"
       ],
       "meaning": "a hard fast cut, as with a sword or knife",
+      "id": "zan-1",
       "example": [
         {
           "file": "zan-1a",
@@ -23470,6 +24239,7 @@
         "swash"
       ],
       "meaning": "a large splashing sound",
+      "id": "zappon-1",
       "example": [{
         "file": "zappon-1a",
         "contributor": "",
@@ -23496,6 +24266,7 @@
         "scrape scrape"
       ],
       "meaning": "a loud scrape or grinding noise",
+      "id": "zari_zari-1",
       "example": [{
         "file": "zari_zari-1a",
         "contributor": "",
@@ -23528,6 +24299,7 @@
         "whoosh"
       ],
       "meaning": "a loud sound of continuously flowing water",
+      "id": "zasa-1",
       "example": [{
         "file": "zasa-1a",
         "contributor": "",
@@ -23555,6 +24327,7 @@
         "squash"
       ],
       "meaning": "the sound of an ungraceful landing",
+      "id": "zasha-1",
       "example": [{
         "file": "zasha-1a",
         "contributor": "",
@@ -23575,6 +24348,7 @@
         "slice"
       ],
       "meaning": "a fast, heavy cut, as with a sword or knife",
+      "id": "zashu-1",
       "example": [{
         "file": "zashu-1a",
         "contributor": "",
@@ -23609,6 +24383,7 @@
         "surprise"
       ],
       "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+      "id": "zawa-1",
       "example": [
         {
           "file": "zawa-1a",
@@ -23641,6 +24416,7 @@
           "ruckus"
         ],
         "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
+        "id": "zawa_zawa-1",
         "example": [
           {
             "file": "zawa_zawa-1a",
@@ -23674,6 +24450,7 @@
           "surprise"
         ],
         "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+        "id": "zawa_zawa-2",
         "example": [{
           "file": "zawa_zawa-2a",
           "contributor": "",
@@ -23701,6 +24478,7 @@
         "waves"
       ],
       "meaning": "the sound of moving water or waves",
+      "id": "zazan-1",
       "example": [{
         "file": "zazan-1a",
         "contributor": "",
@@ -23738,6 +24516,7 @@
           "walk"
         ],
         "meaning": "sound of someone stepping or walking",
+        "id": "za_za-1",
         "example": [
           {
             "file": "za_za-1a",
@@ -23774,6 +24553,7 @@
           "waves"
         ],
         "meaning": "the sound of moving water or waves",
+        "id": "za_za-2",
         "example": [
           {
             "file": "za_za-2a",
@@ -23818,6 +24598,7 @@
         "wheeze"
       ],
       "meaning": "the sound of a deep indrawn breath",
+      "id": "ze-1",
       "example": [{
         "file": "ze-1a",
         "contributor": "",
@@ -23848,6 +24629,7 @@
         "wheeze wheeze"
       ],
       "meaning": "a series of deep or fast breaths",
+      "id": "ze_ze-1",
       "example": [
         {
           "file": "ze_ze-1a",
@@ -23890,6 +24672,7 @@
           "startle"
         ],
         "meaning": "an expression of surprise or startlement",
+        "id": "zoku-1",
         "example": [
           {
             "file": "zoku-1a",
@@ -23921,6 +24704,7 @@
           "twitch"
         ],
         "meaning": "an indication of trembling or shaking",
+        "id": "zoku-2",
         "example": [{
           "file": "zoku-2a",
           "contributor": "",
@@ -23944,6 +24728,7 @@
         "twitch twitch"
       ],
       "meaning": "an indication of trembling or shaking",
+      "id": "zoku_zoku-1",
       "example": [{
         "file": "zoku_zoku-1a",
         "contributor": "",
@@ -23974,6 +24759,7 @@
         "throng"
       ],
       "meaning": "an indication of many people or creatures massed together",
+      "id": "zoro-1",
       "example": [{
         "file": "zoro-1a",
         "contributor": "",
@@ -23998,6 +24784,7 @@
         "throng"
       ],
       "meaning": "a large number of persons or creatures massed together",
+      "id": "zoro_zoro-1",
       "example": [{
         "file": "zoro_zoro-1a",
         "contributor": "",
@@ -24032,6 +24819,7 @@
         "tremble"
       ],
       "meaning": "an indication of fear or disgust",
+      "id": "zowa-1",
       "example": [
         {
           "file": "zowa-1a",
@@ -24070,6 +24858,7 @@
         "unveil"
       ],
       "meaning": "to suddenly appear, often in a dramatic reveal",
+      "id": "zu-1",
       "example": [{
         "file": "zu-1a",
         "contributor": "",
@@ -24100,6 +24889,7 @@
         "zoom"
       ],
       "meaning": "something suddenly and quickly moving through the air",
+      "id": "zua-1",
       "example": [{
         "file": "zua-1a",
         "contributor": "",
@@ -24126,6 +24916,7 @@
         "slice"
       ],
       "meaning": "a cut, as with a sword or knife",
+      "id": "zuba-1",
       "example": [{
         "file": "zuba-1a",
         "contributor": "",
@@ -24152,6 +24943,7 @@
         "strike"
       ],
       "meaning": "a sharp, piercing or penetrating sound, usually precise",
+      "id": "zubishi-1",
       "example": [{
         "file": "zubishi-1a",
         "contributor": "",
@@ -24182,6 +24974,7 @@
         "sink"
       ],
       "meaning": "an indication or sound of entering or plunging into something, sometimes forcefully",
+      "id": "zubo-1",
       "example": [
         {
           "file": "zubo-1a",
@@ -24219,6 +25012,7 @@
         "tump"
       ],
       "meaning": "to fall as a result of slipping",
+      "id": "zuda-1",
       "example": [{
         "file": "zuda-1a",
         "contributor": "",
@@ -24253,6 +25047,7 @@
         "wham"
       ],
       "meaning": "the sound of a heavy impact or strike",
+      "id": "zudo-1",
       "example": [{
         "file": "zudo-1a",
         "contributor": "Artrix",
@@ -24287,6 +25082,7 @@
         "wham"
       ],
       "meaning": "the sound of a strong piercing blow",
+      "id": "zugya-1",
       "example": [
         {
           "file": "zugya-1a",
@@ -24329,6 +25125,7 @@
           "study"
         ],
         "meaning": "to stare at someone's face, often uncomfortably close",
+        "id": "zui-1",
         "example": [
           {
             "file": "zui-1a",
@@ -24363,6 +25160,7 @@
           "unveil"
         ],
         "meaning": "to push something toward someone's face, typically in an aggressive or sudden manner",
+        "id": "zui-2",
         "example": [{
           "file": "zui-2a",
           "contributor": "",
@@ -24391,6 +25189,7 @@
         "throb"
       ],
       "meaning": "an expression of sharp pain",
+      "id": "zuki-1",
       "example": [{
         "file": "zuki-1a",
         "contributor": "",
@@ -24418,6 +25217,7 @@
         "throb"
       ],
       "meaning": "an expression of emotional or physical pain",
+      "id": "zukin-1",
       "example": [{
         "file": "zukin-1a",
         "contributor": "",
@@ -24445,6 +25245,7 @@
         "longing"
       ],
       "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
+      "id": "zukyun-1",
       "example": [
         {
           "file": "zukyun-1a",
@@ -24495,6 +25296,7 @@
           "mope"
         ],
         "meaning": "an expression of low spirits",
+        "id": "zun-1",
         "example": [
           {
             "file": "zun-1a",
@@ -24532,6 +25334,7 @@
           "tension"
         ],
         "meaning": "an expression of rage, killing-intent, or bloodlust",
+        "id": "zun-2",
         "example": [{
           "file": "zun-2a",
           "contributor": "",
@@ -24551,6 +25354,7 @@
           "whomp"
         ],
         "meaning": "a hard crashing or thudding sound",
+        "id": "zun-3",
         "example": [{
           "file": "zun-3a",
           "contributor": "",
@@ -24579,6 +25383,7 @@
         "trot trot"
       ],
       "meaning": "to walk or run quickly",
+      "id": "zun_zun-1",
       "example": [
         {
           "file": "zun_zun-1a",
@@ -24621,6 +25426,7 @@
         "threat"
       ],
       "meaning": "a menacing or intense vocalization",
+      "id": "zuo-1",
       "example": [{
         "file": "zuo-1a",
         "contributor": "",
@@ -24647,6 +25453,7 @@
         "slice"
       ],
       "meaning": "the sound of a sharp and impactful cut",
+      "id": "zupa-1",
       "example": [{
         "file": "zupa-1a",
         "contributor": "",
@@ -24665,6 +25472,7 @@
         "queued"
       ],
       "meaning": "a series of things or people lined up one after another",
+      "id": "zura-1",
       "example": [{
         "file": "zura-1a",
         "contributor": "",
@@ -24686,6 +25494,7 @@
           "slide slide"
         ],
         "meaning": "to series of sliding or dragging noises",
+        "id": "zuri_zuri-1",
         "example": [
           {
             "file": "zuri_zuri-1a",
@@ -24711,6 +25520,7 @@
           "waddle waddle"
         ],
         "meaning": "to stand or walk in an unsteady manner",
+        "id": "zuri_zuri-2",
         "example": [{
           "file": "zuri_zuri-2a",
           "contributor": "",
@@ -24739,6 +25549,7 @@
         "slip"
       ],
       "meaning": "the sound of something sliding or being dragged",
+      "id": "zuru-1",
       "example": [
         {
           "file": "zuru-1a",
@@ -24775,6 +25586,7 @@
         "suck"
       ],
       "meaning": "a wet slurping or sniffing noise",
+      "id": "zururu-1",
       "example": [{
         "file": "zururu-1a",
         "contributor": "",
@@ -24802,6 +25614,7 @@
         "slip slip"
       ],
       "meaning": "the indication or sound of something sliding or being dragged",
+      "id": "zuru_zuru-1",
       "example": [{
         "file": "zuru_zuru-1a",
         "contributor": "",
@@ -24833,6 +25646,7 @@
           "whomp"
         ],
         "meaning": "the sound of a heavy or substantial impact",
+        "id": "zusha-1",
         "example": [{
           "file": "zusha-1a",
           "contributor": "",
@@ -24851,6 +25665,7 @@
           "threatening"
         ],
         "meaning": "an imposing or heavy presence",
+        "id": "zusha-2",
         "example": [{
           "file": "zusha-2a",
           "contributor": "",
@@ -24889,6 +25704,7 @@
           "whomp"
         ],
         "meaning": "a hard impact from a falling or thrown person",
+        "id": "zuza-1",
         "example": [
           {
             "file": "zuza-1a",
@@ -24912,6 +25728,7 @@
           "squeel"
         ],
         "meaning": "the sound sliding or skidding",
+        "id": "zuza-2",
         "example": [{
           "file": "zuza-2a",
           "contributor": "",

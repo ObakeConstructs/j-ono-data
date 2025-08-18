@@ -1,33 +1,28 @@
 {
-  "literal": "pero pero",
-  "katakana": [
-    "ペロペロ"
-  ],
-  "hiragana": [
-    "ぺろぺろ"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of a tongue licking something",
-      "equivalent": [
-        "lap lap",
-        "lick lick",
-        "slurp slurp"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "pero_pero-1a",
-          "display": "ぺろ  ぺろ",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "pero_pero-1b",
-          "display": "ペロ  ペロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぺろぺろ"],
+  "katakana": ["ペロペロ"],
+  "definition": [{
+    "equivalent": [
+      "lap lap",
+      "lick lick",
+      "slurp slurp"
+    ],
+    "meaning": "the sound of a tongue licking something",
+    "id": "pero_pero-1",
+    "example": [
+      {
+        "file": "pero_pero-1a",
+        "contributor": "",
+        "display": "ぺろ  ぺろ",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "pero_pero-1b",
+        "contributor": "",
+        "display": "ペロ  ペロ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "pero pero"
 }

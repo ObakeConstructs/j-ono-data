@@ -1,13 +1,4 @@
 {
-  "literal": "shu",
-  "katakana": [
-    "シュ",
-    "シュッ",
-    "シュゥ",
-    "シュウ",
-    "シュゥゥ",
-    "シュウウ"
-  ],
   "hiragana": [
     "しゅ",
     "しゅっ",
@@ -16,9 +7,16 @@
     "しゅぃぃ",
     "しゅいい"
   ],
+  "katakana": [
+    "シュ",
+    "シュッ",
+    "シュゥ",
+    "シュウ",
+    "シュゥゥ",
+    "シュウウ"
+  ],
   "definition": [
     {
-      "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
       "equivalent": [
         "fwip",
         "whiz",
@@ -26,46 +24,48 @@
         "zip",
         "zoom"
       ],
+      "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
+      "id": "shu-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "shu-1a",
+          "contributor": "",
           "display": "シュッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "shogun_gold_in_america",
           "file": "shu-1b",
+          "contributor": "",
           "display": "シュッ",
-          "contributor": ""
+          "source": "shogun_gold_in_america"
         }
       ]
     },
     {
-      "meaning": "an indication or sound of leaking air or gas",
       "equivalent": [
         "fsshh",
         "hiss",
         "sshh",
         "sss"
       ],
+      "meaning": "an indication or sound of leaking air or gas",
+      "id": "shu-2",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "shu-2a",
+          "contributor": "",
           "display": "シュゥゥ...",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "isekai_av_filming",
           "file": "shu-2b",
+          "contributor": "",
           "display": "シュウウウウウ",
-          "contributor": ""
+          "source": "isekai_av_filming"
         }
       ]
     },
     {
-      "meaning": "a blocking maneuver in combat",
       "equivalent": [
         "block",
         "check",
@@ -75,14 +75,15 @@
         "obstruct",
         "stop"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "shu-3a",
-          "display": "シュッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a blocking maneuver in combat",
+      "id": "shu-3",
+      "example": [{
+        "file": "shu-3a",
+        "contributor": "",
+        "display": "シュッ",
+        "source": "world_full_of_monsters"
+      }]
     }
-  ]
+  ],
+  "literal": "shu"
 }

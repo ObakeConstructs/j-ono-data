@@ -1,17 +1,4 @@
 {
-  "literal": "go",
-  "katakana": [
-    "ゴ",
-    "ゴッ",
-    "ゴー",
-    "ゴーッ",
-    "ゴォ",
-    "ゴォッ",
-    "ゴォォ",
-    "ゴォォォ",
-    "ゴオ",
-    "ゴオッ"
-  ],
   "hiragana": [
     "ご",
     "ごっ",
@@ -24,9 +11,20 @@
     "ごお",
     "ごおっ"
   ],
+  "katakana": [
+    "ゴ",
+    "ゴッ",
+    "ゴー",
+    "ゴーッ",
+    "ゴォ",
+    "ゴォッ",
+    "ゴォォ",
+    "ゴォォォ",
+    "ゴオ",
+    "ゴオッ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of moderate impact, as of someone being struck",
       "equivalent": [
         "bam",
         "bang",
@@ -40,29 +38,30 @@
         "thwack",
         "whack"
       ],
+      "meaning": "the sound of moderate impact, as of someone being struck",
+      "id": "go-1",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "go-1a",
+          "contributor": "",
           "display": "ゴ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "go-1b",
+          "contributor": "",
           "display": "ゴッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "hone_dragon",
           "file": "go-1c",
+          "contributor": "",
           "display": "ゴッ",
-          "contributor": ""
+          "source": "hone_dragon"
         }
       ]
     },
     {
-      "meaning": "a strong explosion or the effect of a nearby explosion",
       "equivalent": [
         "blast",
         "boom",
@@ -71,55 +70,59 @@
         "swoosh",
         "whom"
       ],
+      "meaning": "a strong explosion or the effect of a nearby explosion",
+      "id": "go-2",
       "example": [
         {
-          "source": "hello_work",
           "file": "go-2a",
+          "contributor": "",
           "display": "ゴォッ",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "kuma_kuma_kuma_bear",
           "file": "go-2b",
+          "contributor": "",
           "display": "ゴオ",
-          "contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         }
       ]
     },
     {
-      "meaning": "the sound of being on fire and burning fiercely",
       "equivalent": [
         "blaze",
         "burn",
         "flames",
         "fwoosh"
       ],
+      "meaning": "the sound of being on fire and burning fiercely",
+      "id": "go-3",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "go-3a",
+          "contributor": "",
           "display": "ゴォォ..",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "s_rank_behemoth",
           "file": "go-3b",
+          "contributor": "",
           "display": "ゴ",
-          "contributor": ""
+          "source": "s_rank_behemoth"
         },
         {
-          "source": "different_world_smartphone",
           "file": "go-3c",
+          "contributor": "",
           "display": "ゴッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "different_world_smartphone",
           "file": "go-3d",
+          "contributor": "",
           "display": "ゴオッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         }
       ]
     }
-  ]
+  ],
+  "literal": "go"
 }

@@ -1,42 +1,37 @@
 {
-  "literal": "kari kari",
-  "katakana": [
-    "カリカリ"
-  ],
-  "hiragana": [
-    "かりかり"
-  ],
-  "definition": [
-    {
-      "meaning": "a scratching, crackling, or crunching sound",
-      "equivalent": [
-        "scratch scratch",
-        "scribble scribble",
-        "scritch scritch",
-        "crackle crackle",
-        "crunch crunch",
-        "rustle rustle"
-      ],
-      "example": [
-        {
-          "source": "fushi_no_kami",
-          "file": "kari_kari-1a",
-          "display": "カリ  カリ",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_pickup",
-          "file": "kari_kari-1b",
-          "display": "カリ  カリ",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "kari_kari-1c",
-          "display": "カリカリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["かりかり"],
+  "katakana": ["カリカリ"],
+  "definition": [{
+    "equivalent": [
+      "scratch scratch",
+      "scribble scribble",
+      "scritch scritch",
+      "crackle crackle",
+      "crunch crunch",
+      "rustle rustle"
+    ],
+    "meaning": "a scratching, crackling, or crunching sound",
+    "id": "kari_kari-1",
+    "example": [
+      {
+        "file": "kari_kari-1a",
+        "contributor": "",
+        "display": "カリ  カリ",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "kari_kari-1b",
+        "contributor": "",
+        "display": "カリ  カリ",
+        "source": "isekai_pickup"
+      },
+      {
+        "file": "kari_kari-1c",
+        "contributor": "",
+        "display": "カリカリ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "kari kari"
 }

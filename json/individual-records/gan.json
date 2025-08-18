@@ -1,20 +1,18 @@
 {
-  "literal": "gan",
-  "katakana": [
-    "ガン",
-    "ガンッ",
-    "ガォン",
-    "ガォンッ"
-  ],
   "hiragana": [
     "がん",
     "がんっ",
     "がぉん",
     "がぉんっ"
   ],
+  "katakana": [
+    "ガン",
+    "ガンッ",
+    "ガォン",
+    "ガォンッ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of a strong impact",
       "equivalent": [
         "bam",
         "bang",
@@ -34,29 +32,30 @@
         "whack",
         "wham"
       ],
+      "meaning": "the sound of a strong impact",
+      "id": "gan-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "gan-1a",
+          "contributor": "",
           "display": "ガン",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "different_world_smartphone",
           "file": "gan-1b",
+          "contributor": "",
           "display": "ガォン!!",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "gan-1c",
+          "contributor": "",
           "display": "ガンッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     },
     {
-      "meaning": "an expression or exclamation of surprise or revelation",
       "equivalent": [
         "shock",
         "jolt",
@@ -67,14 +66,15 @@
         "stun",
         "amazed"
       ],
-      "example": [
-        {
-          "source": "yojo_life",
-          "file": "gan-2a",
-          "display": "ガンッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an expression or exclamation of surprise or revelation",
+      "id": "gan-2",
+      "example": [{
+        "file": "gan-2a",
+        "contributor": "",
+        "display": "ガンッ",
+        "source": "yojo_life"
+      }]
     }
-  ]
+  ],
+  "literal": "gan"
 }

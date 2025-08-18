@@ -1,39 +1,38 @@
 {
-  "literal": "chun chun",
-  "katakana": [
-    "チュンチュン",
-    "チュンチュンッ"
-  ],
   "hiragana": [
     "ちゅんちゅん",
     "ちゅんちゅんっ"
   ],
-  "definition": [
-    {
-      "meaning": "a series of short sharp sound, as from a small bird",
-      "equivalent": [
-        "cheep cheep",
-        "chirp chirp",
-        "peep peep",
-        "pip pip",
-        "trill trill",
-        "tweet tweet",
-        "warble warble"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "chun_chun-1a",
-          "display": "チュン  チュンッ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "chun_chun-1b",
-          "display": "チュン  チュン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チュンチュン",
+    "チュンチュンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cheep cheep",
+      "chirp chirp",
+      "peep peep",
+      "pip pip",
+      "trill trill",
+      "tweet tweet",
+      "warble warble"
+    ],
+    "meaning": "a series of short sharp sound, as from a small bird",
+    "id": "chun_chun-1",
+    "example": [
+      {
+        "file": "chun_chun-1a",
+        "contributor": "",
+        "display": "チュン  チュンッ",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "chun_chun-1b",
+        "contributor": "",
+        "display": "チュン  チュン",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "chun chun"
 }

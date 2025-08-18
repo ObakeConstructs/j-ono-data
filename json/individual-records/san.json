@@ -1,30 +1,27 @@
 {
-  "literal": "san",
-  "katakana": [
-    "サン",
-    "サンッ"
-  ],
   "hiragana": [
     "さん",
     "さんっ"
   ],
-  "definition": [
-    {
-      "meaning": "a fast cutting or slicing sound",
-      "equivalent": [
-        "cleave",
-        "cut",
-        "slash",
-        "slice"
-      ],
-      "example": [
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "san-1a",
-          "display": "サンッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "サン",
+    "サンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "slash",
+      "slice"
+    ],
+    "meaning": "a fast cutting or slicing sound",
+    "id": "san-1",
+    "example": [{
+      "file": "san-1a",
+      "contributor": "",
+      "display": "サンッ",
+      "source": "killed_by_gods_mistake"
+    }]
+  }],
+  "literal": "san"
 }

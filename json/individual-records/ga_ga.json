@@ -1,35 +1,32 @@
 {
-  "literal": "ga ga",
-  "katakana": [
-    "ガガ",
-    "ガッガッ"
-  ],
   "hiragana": [
     "がが",
     "がっがっ"
   ],
-  "definition": [
-    {
-      "meaning": "a series of fast grabbing motions",
-      "equivalent": [
-        "catch catch",
-        "clutch clutch",
-        "glom glom",
-        "grab grab",
-        "grasp grasp",
-        "nab nab",
-        "seize seize",
-        "snag snag",
-        "snatch snatch"
-      ],
-      "example": [
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "ga_ga-1a",
-          "display": "ガッ  ガッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガガ",
+    "ガッガッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "catch catch",
+      "clutch clutch",
+      "glom glom",
+      "grab grab",
+      "grasp grasp",
+      "nab nab",
+      "seize seize",
+      "snag snag",
+      "snatch snatch"
+    ],
+    "meaning": "a series of fast grabbing motions",
+    "id": "ga_ga-1",
+    "example": [{
+      "file": "ga_ga-1a",
+      "contributor": "",
+      "display": "ガッ  ガッ",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "literal": "ga ga"
 }

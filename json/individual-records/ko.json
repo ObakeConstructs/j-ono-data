@@ -1,15 +1,4 @@
 {
-  "literal": "ko",
-  "katakana": [
-    "コ",
-    "コッ",
-    "コォ",
-    "コオ",
-    "コォォ",
-    "コオオ",
-    "コォォォ",
-    "コオオオ"
-  ],
   "hiragana": [
     "こ",
     "こっ",
@@ -20,9 +9,18 @@
     "こぉおお",
     "こおぉぉ"
   ],
+  "katakana": [
+    "コ",
+    "コッ",
+    "コォ",
+    "コオ",
+    "コォォ",
+    "コオオ",
+    "コォォォ",
+    "コオオオ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of walking",
       "equivalent": [
         "plod",
         "shuffle",
@@ -30,38 +28,38 @@
         "tap",
         "walk"
       ],
+      "meaning": "the sound of walking",
+      "id": "ko-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ko-1a",
+          "contributor": "",
           "display": "コッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "strongest_magician_was_human",
           "file": "ko-1b",
+          "contributor": "",
           "display": "コッ",
-          "contributor": ""
+          "source": "strongest_magician_was_human"
         }
       ]
     },
     {
-      "meaning": "expressing or emanating vast power or killing intent",
       "equivalent": [
         "fwoosh",
         "rumble"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "ko-2a",
-          "display": "コォ....",
-          "contributor": ""
-        }
-      ]
+      "meaning": "expressing or emanating vast power or killing intent",
+      "id": "ko-2",
+      "example": [{
+        "file": "ko-2a",
+        "contributor": "",
+        "display": "コォ....",
+        "source": "different_world_smartphone"
+      }]
     },
     {
-      "meaning": "to strike something in a minor or harmless manner",
       "equivalent": [
         "bat",
         "biff",
@@ -77,14 +75,15 @@
         "thump",
         "whack"
       ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "ko-3a",
-          "display": "コッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "to strike something in a minor or harmless manner",
+      "id": "ko-3",
+      "example": [{
+        "file": "ko-3a",
+        "contributor": "",
+        "display": "コッ",
+        "source": "blazing_fire_brigade"
+      }]
     }
-  ]
+  ],
+  "literal": "ko"
 }

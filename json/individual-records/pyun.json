@@ -1,30 +1,23 @@
 {
-  "literal": "pyun",
-  "katakana": [
-    "ピュン"
-  ],
-  "hiragana": [
-    "ぴゅん"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of something moving at high speed through the air",
-      "equivalent": [
-        "fwip",
-        "fwit",
-        "pyu",
-        "whish",
-        "whiz",
-        "zip"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "pyun-1a",
-          "display": "ピュン!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぴゅん"],
+  "katakana": ["ピュン"],
+  "definition": [{
+    "equivalent": [
+      "fwip",
+      "fwit",
+      "pyu",
+      "whish",
+      "whiz",
+      "zip"
+    ],
+    "meaning": "an indication of something moving at high speed through the air",
+    "id": "pyun-1",
+    "example": [{
+      "file": "pyun-1a",
+      "contributor": "",
+      "display": "ピュン!",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "pyun"
 }

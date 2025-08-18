@@ -1,18 +1,16 @@
 {
-  "literal": "katsun",
-  "katakana": [
-    "カツン",
-    "カツンッ",
-    "カツーン"
-  ],
   "hiragana": [
     "かつん",
     "かつんっ",
     "かつーん"
   ],
+  "katakana": [
+    "カツン",
+    "カツンッ",
+    "カツーン"
+  ],
   "definition": [
     {
-      "meaning": "the sound of a footstep, often heavy",
       "equivalent": [
         "pound",
         "scuff",
@@ -22,17 +20,16 @@
         "tromp",
         "trudge"
       ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "katsun-1a",
-          "display": "カツン",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the sound of a footstep, often heavy",
+      "id": "katsun-1",
+      "example": [{
+        "file": "katsun-1a",
+        "contributor": "",
+        "display": "カツン",
+        "source": "dog_became_strongest"
+      }]
     },
     {
-      "meaning": "the sound of clattering or clanging",
       "equivalent": [
         "clack",
         "clatter",
@@ -45,20 +42,23 @@
         "clang",
         "whang"
       ],
+      "meaning": "the sound of clattering or clanging",
+      "id": "katsun-2",
       "example": [
         {
-          "source": "gyaru_academy",
           "file": "katsun-2a",
+          "contributor": "",
           "display": "カツンッ",
-          "contributor": ""
+          "source": "gyaru_academy"
         },
         {
-          "source": "shogun_gold_in_america",
           "file": "katsun-2b",
+          "contributor": "",
           "display": "カツーン",
-          "contributor": ""
+          "source": "shogun_gold_in_america"
         }
       ]
     }
-  ]
+  ],
+  "literal": "katsun"
 }

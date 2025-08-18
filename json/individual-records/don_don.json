@@ -1,37 +1,32 @@
 {
-  "literal": "don don",
-  "katakana": [
-    "ドンドン"
-  ],
-  "hiragana": [
-    "どんどん"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of sudden loud noises",
-      "equivalent": [
-        "bam bam",
-        "bang bang",
-        "boom boom",
-        "crack crack",
-        "wham wham",
-        "knock knock",
-        "pop pop"
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "don_don-1a",
-          "display": "ドン  ドン  ドン",
-          "contributor": ""
-        },
-        {
-          "source": "peter_grill",
-          "file": "don_don-1b",
-          "display": "ドン  ドン  ドン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どんどん"],
+  "katakana": ["ドンドン"],
+  "definition": [{
+    "equivalent": [
+      "bam bam",
+      "bang bang",
+      "boom boom",
+      "crack crack",
+      "wham wham",
+      "knock knock",
+      "pop pop"
+    ],
+    "meaning": "a series of sudden loud noises",
+    "id": "don_don-1",
+    "example": [
+      {
+        "file": "don_don-1a",
+        "contributor": "",
+        "display": "ドン  ドン  ドン",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "don_don-1b",
+        "contributor": "",
+        "display": "ドン  ドン  ドン",
+        "source": "peter_grill"
+      }
+    ]
+  }],
+  "literal": "don don"
 }

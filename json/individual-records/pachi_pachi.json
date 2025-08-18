@@ -1,60 +1,58 @@
 {
-  "literal": "pachi pachi",
-  "katakana": [
-    "パチパチ"
-  ],
-  "hiragana": [
-    "ぱちぱち"
-  ],
+  "hiragana": ["ぱちぱち"],
+  "katakana": ["パチパチ"],
   "definition": [
     {
-      "meaning": "the continuous sound of crackling, as from a fire",
       "equivalent": [
         "crackle crackle",
         "pop pop",
         "snap snap"
       ],
+      "meaning": "the continuous sound of crackling, as from a fire",
+      "id": "pachi_pachi-1",
       "example": [
         {
-          "source": "hello_work",
           "file": "pachi_pachi-1a",
+          "contributor": "",
           "display": "パチ  パチ",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "isekai_pickup",
           "file": "pachi_pachi-1b",
+          "contributor": "",
           "display": "パチ  パチ",
-          "contributor": ""
+          "source": "isekai_pickup"
         }
       ]
     },
     {
-      "meaning": "the sound of applause or clapping",
       "equivalent": [
         "applause",
         "clap clap"
       ],
+      "meaning": "the sound of applause or clapping",
+      "id": "pachi_pachi-2",
       "example": [
         {
-          "source": "reincarnated_aristocrat",
           "file": "pachi_pachi-2a",
+          "contributor": "",
           "display": "パチ  パチ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "pachi_pachi-2b",
+          "contributor": "",
           "display": "パチ  パチ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "cheat_pharmacist",
           "file": "pachi_pachi-2c",
+          "contributor": "",
           "display": "パチ  パチ  パチ",
-          "contributor": ""
+          "source": "cheat_pharmacist"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pachi pachi"
 }

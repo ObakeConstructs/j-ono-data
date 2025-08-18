@@ -1,26 +1,19 @@
 {
-  "literal": "zura",
-  "katakana": [
-    "ズラ"
-  ],
-  "hiragana": [
-    "ずら"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of things or people lined up one after another",
-      "equivalent": [
-        "lined up",
-        "queued"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "zura-1a",
-          "display": "ズラー...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ずら"],
+  "katakana": ["ズラ"],
+  "definition": [{
+    "equivalent": [
+      "lined up",
+      "queued"
+    ],
+    "meaning": "a series of things or people lined up one after another",
+    "id": "zura-1",
+    "example": [{
+      "file": "zura-1a",
+      "contributor": "",
+      "display": "ズラー...",
+      "source": "reincarnated_aristocrat"
+    }]
+  }],
+  "literal": "zura"
 }

@@ -1,31 +1,28 @@
 {
-  "literal": "den",
-  "katakana": [
-    "デン",
-    "デンッ"
-  ],
   "hiragana": [
     "でん",
     "でんっ"
   ],
-  "definition": [
-    {
-      "meaning": "to call attention to something amazing or surprising in a somewhat dramatic fashion",
-      "equivalent": [
-        "bam",
-        "boom",
-        "da-dum",
-        "ta-da",
-        "tadah"
-      ],
-      "example": [
-        {
-          "source": "way_of_isekai_cooking",
-          "file": "den-1a",
-          "display": "で〜ん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "デン",
+    "デンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "boom",
+      "da-dum",
+      "ta-da",
+      "tadah"
+    ],
+    "meaning": "to call attention to something amazing or surprising in a somewhat dramatic fashion",
+    "id": "den-1",
+    "example": [{
+      "file": "den-1a",
+      "contributor": "",
+      "display": "で〜ん",
+      "source": "way_of_isekai_cooking"
+    }]
+  }],
+  "literal": "den"
 }

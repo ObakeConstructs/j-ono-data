@@ -1,14 +1,8 @@
 {
-  "literal": "zawa zawa",
-  "katakana": [
-    "ザワザワ"
-  ],
-  "hiragana": [
-    "ざわざわ"
-  ],
+  "hiragana": ["ざわざわ"],
+  "katakana": ["ザワザワ"],
   "definition": [
     {
-      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
       "equivalent": [
         "ballyhoo",
         "buzz",
@@ -18,29 +12,30 @@
         "hubbub",
         "ruckus"
       ],
+      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
+      "id": "zawa_zawa-1",
       "example": [
         {
-          "source": "dungeon_dining_room",
           "file": "zawa_zawa-1a",
+          "contributor": "",
           "display": "ざわ  ざわ  ざわ",
-          "contributor": ""
+          "source": "dungeon_dining_room"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "zawa_zawa-1b",
+          "contributor": "",
           "display": "ザワ  ザワ",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "uncle_at_heart",
           "file": "zawa_zawa-1c",
+          "contributor": "",
           "display": "ざわ  ざわ",
-          "contributor": ""
+          "source": "uncle_at_heart"
         }
       ]
     },
     {
-      "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
       "equivalent": [
         "dumfounded",
         "amazed",
@@ -51,14 +46,15 @@
         "surprise",
         "gasp"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "zawa_zawa-2a",
-          "display": "ザワ  ザワ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+      "id": "zawa_zawa-2",
+      "example": [{
+        "file": "zawa_zawa-2a",
+        "contributor": "",
+        "display": "ザワ  ザワ",
+        "source": "world_full_of_monsters"
+      }]
     }
-  ]
+  ],
+  "literal": "zawa zawa"
 }

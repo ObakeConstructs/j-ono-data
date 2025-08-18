@@ -1,35 +1,32 @@
 {
-  "literal": "u",
-  "katakana": [
-    "ウ",
-    "ウー",
-    "ウッ",
-    "ウーッ"
-  ],
   "hiragana": [
     "う",
     "うー",
     "うっ",
     "うーっ"
   ],
+  "katakana": [
+    "ウ",
+    "ウー",
+    "ウッ",
+    "ウーッ"
+  ],
   "definition": [
     {
-      "meaning": "an audible gutteral breath or grunt, often involuntary",
       "equivalent": [
         "uh",
         "uhn"
       ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "u-1a",
-          "display": "うっ...",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an audible gutteral breath or grunt, often involuntary",
+      "id": "u-1",
+      "example": [{
+        "file": "u-1a",
+        "contributor": "",
+        "display": "うっ...",
+        "source": "double_play"
+      }]
     },
     {
-      "meaning": "an expression of dismay or discouragement",
       "equivalent": [
         "ugh",
         "urgh",
@@ -37,14 +34,15 @@
         "discouragement",
         "uhn"
       ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "u-2a",
-          "display": "うっ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an expression of dismay or discouragement",
+      "id": "u-2",
+      "example": [{
+        "file": "u-2a",
+        "contributor": "",
+        "display": "うっ",
+        "source": "d_genesis"
+      }]
     }
-  ]
+  ],
+  "literal": "u"
 }

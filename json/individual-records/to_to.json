@@ -1,36 +1,33 @@
 {
-  "literal": "to to",
-  "katakana": [
-    "トト",
-    "トトト",
-    "トットッ",
-    "トットットッ"
-  ],
   "hiragana": [
     "とと",
     "ととと",
     "とっとっ",
     "とっとっとっ"
   ],
-  "definition": [
-    {
-      "meaning": "a series of soft or quick steps",
-      "equivalent": [
-        "step step",
-        "tap tap",
-        "walk walk",
-        "tread tread",
-        "pad pad",
-        "plod plod"
-      ],
-      "example": [
-        {
-          "source": "fushi_no_kami",
-          "file": "to_to-1a",
-          "display": "とっ  とっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "トト",
+    "トトト",
+    "トットッ",
+    "トットットッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "step step",
+      "tap tap",
+      "walk walk",
+      "tread tread",
+      "pad pad",
+      "plod plod"
+    ],
+    "meaning": "a series of soft or quick steps",
+    "id": "to_to-1",
+    "example": [{
+      "file": "to_to-1a",
+      "contributor": "",
+      "display": "とっ  とっ",
+      "source": "fushi_no_kami"
+    }]
+  }],
+  "literal": "to to"
 }

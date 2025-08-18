@@ -1,30 +1,27 @@
 {
-  "literal": "ni",
-  "katakana": [
-    "ニ",
-    "ニッ"
-  ],
   "hiragana": [
     "に",
     "にっ"
   ],
-  "definition": [
-    {
-      "meaning": "a smile, often genuine",
-      "equivalent": [
-        "smile",
-        "grin",
-        "smirk",
-        "heh"
-      ],
-      "example": [
-        {
-          "source": "fushi_no_kami",
-          "file": "ni-1a",
-          "display": "ニッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ニ",
+    "ニッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "smile",
+      "grin",
+      "smirk",
+      "heh"
+    ],
+    "meaning": "a smile, often genuine",
+    "id": "ni-1",
+    "example": [{
+      "file": "ni-1a",
+      "contributor": "",
+      "display": "ニッ",
+      "source": "fushi_no_kami"
+    }]
+  }],
+  "literal": "ni"
 }

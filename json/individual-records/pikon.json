@@ -1,16 +1,14 @@
 {
-  "literal": "pikon",
-  "katakana": [
-    "ピコン",
-    "ピコーン"
-  ],
   "hiragana": [
     "ぴこん",
     "ぴこーん"
   ],
+  "katakana": [
+    "ピコン",
+    "ピコーン"
+  ],
   "definition": [
     {
-      "meaning": "the noise of an electronic chime, typical of games or computers",
       "equivalent": [
         "ba-ding",
         "bing",
@@ -20,17 +18,16 @@
         "ping",
         "ring"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "pikon-1a",
-          "display": "ピコン",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the noise of an electronic chime, typical of games or computers",
+      "id": "pikon-1",
+      "example": [{
+        "file": "pikon-1a",
+        "contributor": "",
+        "display": "ピコン",
+        "source": "different_world_smartphone"
+      }]
     },
     {
-      "meaning": "an endearing, cute or slightly embarrassing reaction, typically momentary",
       "equivalent": [
         "startle",
         "surprise",
@@ -40,20 +37,23 @@
         "embarrass",
         "realize"
       ],
+      "meaning": "an endearing, cute or slightly embarrassing reaction, typically momentary",
+      "id": "pikon-2",
       "example": [
         {
-          "source": "reincarnated_as_a_dragon_egg",
           "file": "pikon-2a",
+          "contributor": "",
           "display": "ピコーン",
-          "contributor": ""
+          "source": "reincarnated_as_a_dragon_egg"
         },
         {
-          "source": "cheat_pharmacist",
           "file": "pikon-2b",
+          "contributor": "",
           "display": "ぴこん",
-          "contributor": ""
+          "source": "cheat_pharmacist"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pikon"
 }

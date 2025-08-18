@@ -1,49 +1,48 @@
 {
-  "literal": "fuwa",
-  "katakana": [
-    "フワ",
-    "フワッ"
-  ],
   "hiragana": [
     "ふわっ",
     "ふわ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of floating gently or moving softly",
-      "equivalent": [
-        "drift",
-        "float",
-        "hover",
-        "lift",
-        "sway"
-      ],
-      "example": [
-        {
-          "source": "strongest_magician_was_human",
-          "file": "fuwa-1a",
-          "display": "ふわっ",
-          "contributor": ""
-        },
-        {
-          "source": "simple_sword_saint",
-          "file": "fuwa-1b",
-          "display": "フワッ",
-          "contributor": ""
-        },
-        {
-          "source": "lord_of_the_hundred_demons",
-          "file": "fuwa-1c",
-          "display": "フワッ",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "fuwa-1d",
-          "display": "ふわっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "フワ",
+    "フワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drift",
+      "float",
+      "hover",
+      "lift",
+      "sway"
+    ],
+    "meaning": "an indication of floating gently or moving softly",
+    "id": "fuwa-1",
+    "example": [
+      {
+        "file": "fuwa-1a",
+        "contributor": "",
+        "display": "ふわっ",
+        "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "fuwa-1b",
+        "contributor": "",
+        "display": "フワッ",
+        "source": "simple_sword_saint"
+      },
+      {
+        "file": "fuwa-1c",
+        "contributor": "",
+        "display": "フワッ",
+        "source": "lord_of_the_hundred_demons"
+      },
+      {
+        "file": "fuwa-1d",
+        "contributor": "",
+        "display": "ふわっ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "literal": "fuwa"
 }

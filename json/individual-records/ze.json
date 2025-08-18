@@ -1,33 +1,30 @@
 {
-  "literal": "ze",
-  "katakana": [
-    "ゼ",
-    "ゼッ",
-    "ゼエ",
-    "ゼェ"
-  ],
   "hiragana": [
     "ぜ",
     "ぜっ",
     "ぜえ",
     "ぜぇ"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of a deep indrawn breath",
-      "equivalent": [
-        "gasp",
-        "inhale",
-        "wheeze"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "ze-1a",
-          "display": "ぜ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゼ",
+    "ゼッ",
+    "ゼエ",
+    "ゼェ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gasp",
+      "inhale",
+      "wheeze"
+    ],
+    "meaning": "the sound of a deep indrawn breath",
+    "id": "ze-1",
+    "example": [{
+      "file": "ze-1a",
+      "contributor": "",
+      "display": "ぜ...",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "ze"
 }

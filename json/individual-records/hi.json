@@ -1,15 +1,4 @@
 {
-  "literal": "hi",
-  "katakana": [
-    "ヒ",
-    "ヒッ",
-    "ヒィ",
-    "ヒィィ",
-    "ヒィィィ",
-    "ヒィッ",
-    "ヒィィッ",
-    "ヒィィィッ"
-  ],
   "hiragana": [
     "ひ",
     "ひっ",
@@ -20,38 +9,48 @@
     "びぃぃっ",
     "びぃぃぃっ"
   ],
-  "definition": [
-    {
-      "meaning": "a high-pitched squeal of surprise, sometimes used for comedic effect",
-      "equivalent": [
-        "eek",
-        "eep",
-        "shriek",
-        "squeal",
-        "yelp",
-        "yike",
-        "yikes"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "hi-1a",
-          "display": "ヒッ",
-          "contributor": ""
-        },
-        {
-          "source": "world_full_of_monsters",
-          "file": "hi-1b",
-          "display": "ヒィィィッ...",
-          "contributor": ""
-        },
-        {
-          "source": "hanako_24th_ward",
-          "file": "hi-1c",
-          "display": "ひー",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヒ",
+    "ヒッ",
+    "ヒィ",
+    "ヒィィ",
+    "ヒィィィ",
+    "ヒィッ",
+    "ヒィィッ",
+    "ヒィィィッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "eek",
+      "eep",
+      "shriek",
+      "squeal",
+      "yelp",
+      "yike",
+      "yikes"
+    ],
+    "meaning": "a high-pitched squeal of surprise, sometimes used for comedic effect",
+    "id": "hi-1",
+    "example": [
+      {
+        "file": "hi-1a",
+        "contributor": "",
+        "display": "ヒッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "hi-1b",
+        "contributor": "",
+        "display": "ヒィィィッ...",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "hi-1c",
+        "contributor": "",
+        "display": "ひー",
+        "source": "hanako_24th_ward"
+      }
+    ]
+  }],
+  "literal": "hi"
 }

@@ -1,31 +1,28 @@
 {
-  "literal": "keho",
-  "katakana": [
-    "ケホ",
-    "ケホッ"
-  ],
   "hiragana": [
     "けほ",
     "けほっ"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of a coughing or a struggle to breath",
-      "equivalent": [
-        "cough",
-        "gasp",
-        "huff",
-        "pant",
-        "wheeze"
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "keho-1a",
-          "display": "ケホッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ケホ",
+    "ケホッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cough",
+      "gasp",
+      "huff",
+      "pant",
+      "wheeze"
+    ],
+    "meaning": "the sound of a coughing or a struggle to breath",
+    "id": "keho-1",
+    "example": [{
+      "file": "keho-1a",
+      "contributor": "",
+      "display": "ケホッ",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "keho"
 }

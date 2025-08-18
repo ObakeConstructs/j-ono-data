@@ -1,35 +1,34 @@
 {
-  "literal": "nyi",
-  "katakana": [
-    "ニィ",
-    "ニイ"
-  ],
   "hiragana": [
     "にぃ",
     "にい"
   ],
-  "definition": [
-    {
-      "meaning": "a mischievous or unpleasant smile",
-      "equivalent": [
-        "grin",
-        "smile",
-        "smirk"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "nyi-1a",
-          "display": "ニィ...!",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "nyi-1b",
-          "display": "ニィ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ニィ",
+    "ニイ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "grin",
+      "smile",
+      "smirk"
+    ],
+    "meaning": "a mischievous or unpleasant smile",
+    "id": "nyi-1",
+    "example": [
+      {
+        "file": "nyi-1a",
+        "contributor": "",
+        "display": "ニィ...!",
+        "source": "hello_work"
+      },
+      {
+        "file": "nyi-1b",
+        "contributor": "",
+        "display": "ニィ...",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "nyi"
 }

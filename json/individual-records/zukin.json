@@ -1,31 +1,28 @@
 {
-  "literal": "zukin",
-  "katakana": [
-    "ズキン",
-    "ズキンッ"
-  ],
   "hiragana": [
     "ずきん",
     "ずきんっ"
   ],
-  "definition": [
-    {
-      "meaning": "an expression of emotional or physical pain",
-      "equivalent": [
-        "throb",
-        "sting",
-        "ache",
-        "anguish",
-        "misery"
-      ],
-      "example": [
-        {
-          "source": "sex_with_me_sells",
-          "file": "zukin-1a",
-          "display": "ズキン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ズキン",
+    "ズキンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "throb",
+      "sting",
+      "ache",
+      "anguish",
+      "misery"
+    ],
+    "meaning": "an expression of emotional or physical pain",
+    "id": "zukin-1",
+    "example": [{
+      "file": "zukin-1a",
+      "contributor": "",
+      "display": "ズキン",
+      "source": "sex_with_me_sells"
+    }]
+  }],
+  "literal": "zukin"
 }

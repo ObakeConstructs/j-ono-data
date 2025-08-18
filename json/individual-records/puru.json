@@ -1,12 +1,4 @@
 {
-  "literal": "puru",
-  "katakana": [
-    "プル",
-    "プルル",
-    "プルルル",
-    "プルッ",
-    "プルルッ"
-  ],
   "hiragana": [
     "ぷる",
     "ぷるる",
@@ -14,9 +6,15 @@
     "ぷるっ",
     "ぷるるっ"
   ],
+  "katakana": [
+    "プル",
+    "プルル",
+    "プルルル",
+    "プルッ",
+    "プルルッ"
+  ],
   "definition": [
     {
-      "meaning": "an indication of shaking or buzzing",
       "equivalent": [
         "buzz",
         "hum",
@@ -25,23 +23,24 @@
         "shudder",
         "tremble"
       ],
+      "meaning": "an indication of shaking or buzzing",
+      "id": "puru-1",
       "example": [
         {
-          "source": "drawing",
           "file": "puru-1a",
+          "contributor": "",
           "display": "プルルル",
-          "contributor": ""
+          "source": "drawing"
         },
         {
-          "source": "sex_with_me_sells",
           "file": "puru-1b",
+          "contributor": "",
           "display": "プルルル....",
-          "contributor": ""
+          "source": "sex_with_me_sells"
         }
       ]
     },
     {
-      "meaning": "the indication of a wobble or shake",
       "equivalent": [
         "boing",
         "jiggle",
@@ -50,14 +49,15 @@
         "sway",
         "wobble"
       ],
-      "example": [
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "puru-2a",
-          "display": "ぷるるっ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the indication of a wobble or shake",
+      "id": "puru-2",
+      "example": [{
+        "file": "puru-2a",
+        "contributor": "",
+        "display": "ぷるるっ",
+        "source": "beastly_boys_and_girls"
+      }]
     }
-  ]
+  ],
+  "literal": "puru"
 }

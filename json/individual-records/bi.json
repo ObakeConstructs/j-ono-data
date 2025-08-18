@@ -1,16 +1,14 @@
 {
-  "literal": "bi",
-  "katakana": [
-    "ビ",
-    "ビッ"
-  ],
   "hiragana": [
     "び",
     "びっ"
   ],
+  "katakana": [
+    "ビ",
+    "ビッ"
+  ],
   "definition": [
     {
-      "meaning": "a sound of a quick strike",
       "equivalent": [
         "bang",
         "bash",
@@ -30,37 +28,39 @@
         "thwack",
         "wallop"
       ],
+      "meaning": "a sound of a quick strike",
+      "id": "bi-1",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "bi-1a",
+          "contributor": "",
           "display": "ビッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "blazing_fire_brigade",
           "file": "bi-1b",
+          "contributor": "",
           "display": "ビッ",
-          "contributor": ""
+          "source": "blazing_fire_brigade"
         }
       ]
     },
     {
-      "meaning": "an indication of a quick gesture",
       "equivalent": [
         "flash",
         "flick",
         "fwip",
         "snap"
       ],
-      "example": [
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "bi-2a",
-          "display": "ビッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of a quick gesture",
+      "id": "bi-2",
+      "example": [{
+        "file": "bi-2a",
+        "contributor": "",
+        "display": "ビッ",
+        "source": "killed_by_gods_mistake"
+      }]
     }
-  ]
+  ],
+  "literal": "bi"
 }

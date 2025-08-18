@@ -1,29 +1,22 @@
 {
-  "literal": "wafu",
-  "katakana": [
-    "ワフ"
-  ],
-  "hiragana": [
-    "わふ"
-  ],
-  "definition": [
-    {
-      "meaning": "a soft or half-hearted bark",
-      "equivalent": [
-        "woof",
-        "ruff",
-        "bark",
-        "arf",
-        "yap"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "wafu-1a",
-          "display": "ワフ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["わふ"],
+  "katakana": ["ワフ"],
+  "definition": [{
+    "equivalent": [
+      "woof",
+      "ruff",
+      "bark",
+      "arf",
+      "yap"
+    ],
+    "meaning": "a soft or half-hearted bark",
+    "id": "wafu-1",
+    "example": [{
+      "file": "wafu-1a",
+      "contributor": "",
+      "display": "ワフ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "wafu"
 }

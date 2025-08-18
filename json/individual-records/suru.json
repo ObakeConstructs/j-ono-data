@@ -1,16 +1,14 @@
 {
-  "literal": "suru",
-  "katakana": [
-    "スル",
-    "スルッ"
-  ],
   "hiragana": [
     "する",
     "するっ"
   ],
+  "katakana": [
+    "スル",
+    "スルッ"
+  ],
   "definition": [
     {
-      "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
       "equivalent": [
         "touch",
         "caress",
@@ -19,31 +17,31 @@
         "pet",
         "feel"
       ],
-      "example": [
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "suru-1a",
-          "display": "スル",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
+      "id": "suru-1",
+      "example": [{
+        "file": "suru-1a",
+        "contributor": "",
+        "display": "スル",
+        "source": "embarrassing_and_sweet"
+      }]
     },
     {
-      "meaning": "the soft sound of rustling fabric, typically slow",
       "equivalent": [
         "flap",
         "murmur",
         "rustle",
         "swish"
       ],
-      "example": [
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "suru-2a",
-          "display": "するっ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "the soft sound of rustling fabric, typically slow",
+      "id": "suru-2",
+      "example": [{
+        "file": "suru-2a",
+        "contributor": "",
+        "display": "するっ",
+        "source": "embarrassing_and_sweet"
+      }]
     }
-  ]
+  ],
+  "literal": "suru"
 }

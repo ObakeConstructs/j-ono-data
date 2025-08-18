@@ -1,37 +1,32 @@
 {
-  "literal": "kuru kuru",
-  "katakana": [
-    "クルクル"
-  ],
-  "hiragana": [
-    "くるくる"
-  ],
-  "definition": [
-    {
-      "meaning": "to turn or spin in circles",
-      "equivalent": [
-        "pivot",
-        "spin",
-        "swing",
-        "swivel",
-        "turn",
-        "twist",
-        "circle"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_sage_daughters",
-          "file": "kuru_kuru-1a",
-          "display": "くる  くる",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "kuru_kuru-1b",
-          "display": "くる  くる",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["くるくる"],
+  "katakana": ["クルクル"],
+  "definition": [{
+    "equivalent": [
+      "pivot",
+      "spin",
+      "swing",
+      "swivel",
+      "turn",
+      "twist",
+      "circle"
+    ],
+    "meaning": "to turn or spin in circles",
+    "id": "kuru_kuru-1",
+    "example": [
+      {
+        "file": "kuru_kuru-1a",
+        "contributor": "",
+        "display": "くる  くる",
+        "source": "reincarnated_sage_daughters"
+      },
+      {
+        "file": "kuru_kuru-1b",
+        "contributor": "",
+        "display": "くる  くる",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "kuru kuru"
 }

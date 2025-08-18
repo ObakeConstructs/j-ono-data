@@ -1,32 +1,29 @@
 {
-  "literal": "paka",
-  "katakana": [
-    "パカ",
-    "パカッ"
-  ],
   "hiragana": [
     "ぱか",
     "ぱかっ"
   ],
+  "katakana": [
+    "パカ",
+    "パカッ"
+  ],
   "definition": [
     {
-      "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
       "equivalent": [
         "hoorah",
         "ta-da",
         "wow"
       ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "paka-1a",
-          "display": "ぱか",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
+      "id": "paka-1",
+      "example": [{
+        "file": "paka-1a",
+        "contributor": "",
+        "display": "ぱか",
+        "source": "kuma_kuma_kuma_bear"
+      }]
     },
     {
-      "meaning": "popping open a closed container",
       "equivalent": [
         "lift",
         "open",
@@ -34,20 +31,23 @@
         "reveal",
         "uncover"
       ],
+      "meaning": "popping open a closed container",
+      "id": "paka-2",
       "example": [
         {
-          "source": "otherworld_material_collector",
           "file": "paka-2a",
+          "contributor": "",
           "display": "パカッ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "cheat_pharmacist",
           "file": "paka-2b",
+          "contributor": "",
           "display": "パカッ",
-          "contributor": ""
+          "source": "cheat_pharmacist"
         }
       ]
     }
-  ]
+  ],
+  "literal": "paka"
 }

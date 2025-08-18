@@ -1,20 +1,18 @@
 {
-  "literal": "ta",
-  "katakana": [
-    "タ",
-    "タッ",
-    "ター",
-    "ターッ"
-  ],
   "hiragana": [
     "た",
     "たっ",
     "たー",
     "たーっ"
   ],
+  "katakana": [
+    "タ",
+    "タッ",
+    "ター",
+    "ターッ"
+  ],
   "definition": [
     {
-      "meaning": "to quickly or suddenly jump",
       "equivalent": [
         "bolt",
         "bound",
@@ -22,17 +20,16 @@
         "leap",
         "vault"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "ta-1a",
-          "display": "タッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "to quickly or suddenly jump",
+      "id": "ta-1",
+      "example": [{
+        "file": "ta-1a",
+        "contributor": "",
+        "display": "タッ",
+        "source": "world_full_of_monsters"
+      }]
     },
     {
-      "meaning": "to run or start running",
       "equivalent": [
         "bolt",
         "charge",
@@ -43,43 +40,45 @@
         "rush",
         "sprint"
       ],
+      "meaning": "to run or start running",
+      "id": "ta-2",
       "example": [
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "ta-2a",
+          "contributor": "",
           "display": "たっ...",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "strongest_thread_master",
           "file": "ta-2b",
+          "contributor": "",
           "display": "タッ",
-          "contributor": ""
+          "source": "strongest_thread_master"
         },
         {
-          "source": "eternal_fool_asley",
           "file": "ta-2c",
+          "contributor": "",
           "display": "タッ...!",
-          "contributor": ""
+          "source": "eternal_fool_asley"
         }
       ]
     },
     {
-      "meaning": "a soft sound of a controlled ninja-like landing",
       "equivalent": [
         "flick",
         "land",
         "pat",
         "tap"
       ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "ta-3a",
-          "display": "タッ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a soft sound of a controlled ninja-like landing",
+      "id": "ta-3",
+      "example": [{
+        "file": "ta-3a",
+        "contributor": "",
+        "display": "タッ",
+        "source": "my_s-ranked_daughter"
+      }]
     }
-  ]
+  ],
+  "literal": "ta"
 }

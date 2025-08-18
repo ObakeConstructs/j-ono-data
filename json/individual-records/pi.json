@@ -1,16 +1,14 @@
 {
-  "literal": "pi",
-  "katakana": [
-    "ピ",
-    "ピッ"
-  ],
   "hiragana": [
     "ぴ",
     "ぴっ"
   ],
+  "katakana": [
+    "ピ",
+    "ピッ"
+  ],
   "definition": [
     {
-      "meaning": "a short electronic beep or similar high-pitched noise",
       "equivalent": [
         "beep",
         "bing",
@@ -19,29 +17,30 @@
         "peep",
         "ping"
       ],
+      "meaning": "a short electronic beep or similar high-pitched noise",
+      "id": "pi-1",
       "example": [
         {
-          "source": "modern_dungeon_capture",
           "file": "pi-1a",
+          "contributor": "",
           "display": "ピッ",
-          "contributor": ""
+          "source": "modern_dungeon_capture"
         },
         {
-          "source": "different_world_smartphone",
           "file": "pi-1b",
+          "contributor": "",
           "display": "ピ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "way_of_isekai_cooking",
           "file": "pi-1c",
+          "contributor": "",
           "display": "ピッ",
-          "contributor": ""
+          "source": "way_of_isekai_cooking"
         }
       ]
     },
     {
-      "meaning": "an indication or sound of a small, efficient manipulation by hand, often associated with paper",
       "equivalent": [
         "crisp",
         "flap",
@@ -51,26 +50,29 @@
         "pop",
         "swipe"
       ],
+      "meaning": "an indication or sound of a small, efficient manipulation by hand, often associated with paper",
+      "id": "pi-2",
       "example": [
         {
-          "source": "neet_kunoichi",
           "file": "pi-2a",
+          "contributor": "",
           "display": "ピッ",
-          "contributor": ""
+          "source": "neet_kunoichi"
         },
         {
-          "source": "my_s-ranked_daughter",
           "file": "pi-2b",
+          "contributor": "",
           "display": "ぴっ",
-          "contributor": ""
+          "source": "my_s-ranked_daughter"
         },
         {
-          "source": "gyaru_academy",
           "file": "pi-2c",
+          "contributor": "",
           "display": "ピッ",
-          "contributor": ""
+          "source": "gyaru_academy"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pi"
 }

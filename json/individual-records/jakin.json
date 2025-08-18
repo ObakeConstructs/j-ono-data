@@ -1,30 +1,27 @@
 {
-  "literal": "jakin",
-  "katakana": [
-    "ジャキン",
-    "ジャキンッ"
-  ],
   "hiragana": [
     "じゃきん",
     "じゃきんっ"
   ],
-  "definition": [
-    {
-      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
-      "equivalent": [
-        "ching",
-        "jing",
-        "shaa",
-        "shing"
-      ],
-      "example": [
-        {
-          "source": "shogun_gold_in_america",
-          "file": "jakin-1a",
-          "display": "ジャキンッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジャキン",
+    "ジャキンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ching",
+      "jing",
+      "shaa",
+      "shing"
+    ],
+    "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+    "id": "jakin-1",
+    "example": [{
+      "file": "jakin-1a",
+      "contributor": "",
+      "display": "ジャキンッ",
+      "source": "shogun_gold_in_america"
+    }]
+  }],
+  "literal": "jakin"
 }

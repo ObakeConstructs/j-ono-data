@@ -1,44 +1,38 @@
 {
-  "literal": "furu furu",
-  "katakana": [
-    "フルフル"
-  ],
-  "hiragana": [
-    "ふるふる"
-  ],
+  "hiragana": ["ふるふる"],
+  "katakana": ["フルフル"],
   "definition": [
     {
-      "meaning": "an indication of shaking",
       "equivalent": [
         "quiver",
         "shiver",
         "shudder",
         "tremble"
       ],
-      "example": [
-        {
-          "source": "weakest_occupation_blacksmith",
-          "file": "furu_furu-1a",
-          "display": "フル  フル",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of shaking",
+      "id": "furu_furu-1",
+      "example": [{
+        "file": "furu_furu-1a",
+        "contributor": "",
+        "display": "フル  フル",
+        "source": "weakest_occupation_blacksmith"
+      }]
     },
     {
-      "meaning": "an indication of turning one's head side to side, as a way of expressing disagreement",
       "equivalent": [
         "shake shake",
         "no no",
         "nope nope"
       ],
-      "example": [
-        {
-          "source": "ai_and_izawa",
-          "file": "furu_furu-2a",
-          "display": "ふる  ふる  ふる",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of turning one's head side to side, as a way of expressing disagreement",
+      "id": "furu_furu-2",
+      "example": [{
+        "file": "furu_furu-2a",
+        "contributor": "",
+        "display": "ふる  ふる  ふる",
+        "source": "ai_and_izawa"
+      }]
     }
-  ]
+  ],
+  "literal": "furu furu"
 }

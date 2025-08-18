@@ -1,36 +1,33 @@
 {
-  "literal": "teka",
-  "katakana": [
-    "テカ",
-    "テカー"
-  ],
   "hiragana": [
     "てか",
     "てかー"
   ],
-  "definition": [
-    {
-      "meaning": "to shine or sparkle brightly, often used humorously for a shiny bald head",
-      "equivalent": [
-        "bedazzle",
-        "flash",
-        "glare",
-        "gleam",
-        "glisten",
-        "sheen",
-        "shimmer",
-        "shine",
-        "sparkle",
-        "twinkle"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "teka-1a",
-          "display": "テカー!!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "テカ",
+    "テカー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bedazzle",
+      "flash",
+      "glare",
+      "gleam",
+      "glisten",
+      "sheen",
+      "shimmer",
+      "shine",
+      "sparkle",
+      "twinkle"
+    ],
+    "meaning": "to shine or sparkle brightly, often used humorously for a shiny bald head",
+    "id": "teka-1",
+    "example": [{
+      "file": "teka-1a",
+      "contributor": "",
+      "display": "テカー!!",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "teka"
 }

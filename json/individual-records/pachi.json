@@ -1,16 +1,14 @@
 {
-  "literal": "pachi",
-  "katakana": [
-    "パチ",
-    "パチッ"
-  ],
   "hiragana": [
     "ぱち",
     "ぱちっ"
   ],
+  "katakana": [
+    "パチ",
+    "パチッ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of a short sharp click",
       "equivalent": [
         "clack",
         "click",
@@ -19,61 +17,65 @@
         "tap",
         "tick"
       ],
+      "meaning": "the sound of a short sharp click",
+      "id": "pachi-1",
       "example": [
         {
-          "source": "hikaro_no_go",
           "file": "pachi-1a",
+          "contributor": "",
           "display": "ぱちっ",
-          "contributor": ""
+          "source": "hikaro_no_go"
         },
         {
-          "source": "hikaro_no_go",
           "file": "pachi-1b",
+          "contributor": "",
           "display": "パチッ",
-          "contributor": ""
+          "source": "hikaro_no_go"
         },
         {
-          "source": "strongest_thread_master",
           "file": "pachi-1c",
+          "contributor": "",
           "display": "パチッ",
-          "contributor": ""
+          "source": "strongest_thread_master"
         },
         {
-          "source": "uncle_at_heart",
           "file": "pachi-1d",
+          "contributor": "",
           "display": "パチ",
-          "contributor": ""
+          "source": "uncle_at_heart"
         }
       ]
     },
     {
-      "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
       "equivalent": [
         "blink",
         "open",
         "snap",
         "squint"
       ],
+      "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
+      "id": "pachi-2",
       "example": [
         {
-          "source": "weakest_occupation_blacksmith",
           "file": "pachi-2a",
+          "contributor": "",
           "display": "パチ",
-          "contributor": ""
+          "source": "weakest_occupation_blacksmith"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "pachi-2b",
+          "contributor": "",
           "display": "ぱちっ",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "uncle_at_heart",
           "file": "pachi-2c",
+          "contributor": "",
           "display": "ぱち",
-          "contributor": ""
+          "source": "uncle_at_heart"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pachi"
 }

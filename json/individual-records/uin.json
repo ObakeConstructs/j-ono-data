@@ -1,28 +1,25 @@
 {
-  "literal": "uin",
-  "katakana": [
-    "ウィン",
-    "ウィーン"
-  ],
   "hiragana": [
     "うぃん",
     "うぃーん"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of raising or lowering an automatic window",
-      "equivalent": [
-        "whirr",
-        "humm"
-      ],
-      "example": [
-        {
-          "source": "ai_and_izawa",
-          "file": "uin-1a",
-          "display": "ウィーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ウィン",
+    "ウィーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "whirr",
+      "humm"
+    ],
+    "meaning": "the sound of raising or lowering an automatic window",
+    "id": "uin-1",
+    "example": [{
+      "file": "uin-1a",
+      "contributor": "",
+      "display": "ウィーン",
+      "source": "ai_and_izawa"
+    }]
+  }],
+  "literal": "uin"
 }

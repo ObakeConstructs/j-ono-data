@@ -1,52 +1,47 @@
 {
-  "literal": "puru puru",
-  "katakana": [
-    "プルプル"
-  ],
-  "hiragana": [
-    "ぷるぷる"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of shaking or quivering",
-      "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "puru_puru-1a",
-          "display": "ぷる  ぷる",
-          "contributor": ""
-        },
-        {
-          "source": "neet_kunoichi",
-          "file": "puru_puru-1b",
-          "display": "プル  プル",
-          "contributor": ""
-        },
-        {
-          "source": "spy_x_family",
-          "file": "puru_puru-1c",
-          "display": "プル  プル",
-          "contributor": ""
-        },
-        {
-          "source": "yojo_life",
-          "file": "puru_puru-1d",
-          "display": "プル  プル",
-          "contributor": ""
-        },
-        {
-          "source": "yojo_life",
-          "file": "puru_puru-1e",
-          "display": "プル   プル   プル",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぷるぷる"],
+  "katakana": ["プルプル"],
+  "definition": [{
+    "equivalent": [
+      "quiver",
+      "shiver",
+      "shudder",
+      "tremble"
+    ],
+    "meaning": "an indication of shaking or quivering",
+    "id": "puru_puru-1",
+    "example": [
+      {
+        "file": "puru_puru-1a",
+        "contributor": "",
+        "display": "ぷる  ぷる",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "puru_puru-1b",
+        "contributor": "",
+        "display": "プル  プル",
+        "source": "neet_kunoichi"
+      },
+      {
+        "file": "puru_puru-1c",
+        "contributor": "",
+        "display": "プル  プル",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "puru_puru-1d",
+        "contributor": "",
+        "display": "プル  プル",
+        "source": "yojo_life"
+      },
+      {
+        "file": "puru_puru-1e",
+        "contributor": "",
+        "display": "プル   プル   プル",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "literal": "puru puru"
 }

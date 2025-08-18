@@ -1,28 +1,21 @@
 {
-  "literal": "poko poko",
-  "katakana": [
-    "ポコポコ"
-  ],
-  "hiragana": [
-    "ぽこぽこ"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
-      "equivalent": [
-        "boil boil",
-        "blub blub",
-        "bop bop",
-        "bubble bubble"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "poko_poko-1a",
-          "display": "ポコ  ポコ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぽこぽこ"],
+  "katakana": ["ポコポコ"],
+  "definition": [{
+    "equivalent": [
+      "boil boil",
+      "blub blub",
+      "bop bop",
+      "bubble bubble"
+    ],
+    "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
+    "id": "poko_poko-1",
+    "example": [{
+      "file": "poko_poko-1a",
+      "contributor": "",
+      "display": "ポコ  ポコ",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "poko poko"
 }

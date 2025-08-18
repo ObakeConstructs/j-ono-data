@@ -1,51 +1,50 @@
 {
-  "literal": "para",
-  "katakana": [
-    "パラ",
-    "パララ",
-    "パラララ"
-  ],
   "hiragana": [
     "ぱら",
     "ぱらら",
     "ぱららら"
   ],
-  "definition": [
-    {
-      "meaning": "sound of turning or riffling through paper pages",
-      "equivalent": [
-        "flip",
-        "riffle",
-        "skim",
-        "thumb",
-        "turn"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "para-1a",
-          "display": "パラ",
-          "contributor": ""
-        },
-        {
-          "source": "spy_x_family",
-          "file": "para-1b",
-          "display": "パラララ..",
-          "contributor": ""
-        },
-        {
-          "source": "fushi_no_kami",
-          "file": "para-1c",
-          "display": "ぱら",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "para-1d",
-          "display": "パラ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "パラ",
+    "パララ",
+    "パラララ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flip",
+      "riffle",
+      "skim",
+      "thumb",
+      "turn"
+    ],
+    "meaning": "sound of turning or riffling through paper pages",
+    "id": "para-1",
+    "example": [
+      {
+        "file": "para-1a",
+        "contributor": "",
+        "display": "パラ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "para-1b",
+        "contributor": "",
+        "display": "パラララ..",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "para-1c",
+        "contributor": "",
+        "display": "ぱら",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "para-1d",
+        "contributor": "",
+        "display": "パラ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "literal": "para"
 }

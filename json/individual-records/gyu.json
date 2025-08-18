@@ -1,15 +1,4 @@
 {
-  "literal": "gyu",
-  "katakana": [
-    "ギュ",
-    "ギュッ",
-    "ギュウ",
-    "ギュウウ",
-    "ギュウウウ",
-    "ギュゥ",
-    "ギュゥゥ",
-    "ギュゥゥゥ"
-  ],
   "hiragana": [
     "ぎゅ",
     "ぎゅっ",
@@ -20,32 +9,42 @@
     "ぎゅぅぅ",
     "ぎゅぅぅぅ"
   ],
+  "katakana": [
+    "ギュ",
+    "ギュッ",
+    "ギュウ",
+    "ギュウウ",
+    "ギュウウウ",
+    "ギュゥ",
+    "ギュゥゥ",
+    "ギュゥゥゥ"
+  ],
   "definition": [
     {
-      "meaning": "the act of embracing or hugging",
       "equivalent": [
         "embrace",
         "hold",
         "hug",
         "squeeze"
       ],
+      "meaning": "the act of embracing or hugging",
+      "id": "gyu-1",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "gyu-1a",
+          "contributor": "",
           "display": "ぎゅう",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "gyu-1b",
+          "contributor": "",
           "display": "ぎゅっ",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         }
       ]
     },
     {
-      "meaning": "the act of grabbing something and holding it",
       "equivalent": [
         "clasp",
         "clench",
@@ -54,42 +53,44 @@
         "hold",
         "squeeze"
       ],
+      "meaning": "the act of grabbing something and holding it",
+      "id": "gyu-2",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "gyu-2a",
+          "contributor": "",
           "display": "ぎゅっ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "marginal_taylor",
           "file": "gyu-2b",
+          "contributor": "",
           "display": "ギュ",
-          "contributor": ""
+          "source": "marginal_taylor"
         },
         {
-          "source": "drawing",
           "file": "gyu-2c",
+          "contributor": "",
           "display": "ギュッ",
-          "contributor": ""
+          "source": "drawing"
         }
       ]
     },
     {
-      "meaning": "a low, rumbling noise, as with a growling stomach",
       "equivalent": [
         "growl",
         "grumble",
         "rumble"
       ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "gyu-3a",
-          "display": "ぎゅうぅぅ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a low, rumbling noise, as with a growling stomach",
+      "id": "gyu-3",
+      "example": [{
+        "file": "gyu-3a",
+        "contributor": "",
+        "display": "ぎゅうぅぅ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
     }
-  ]
+  ],
+  "literal": "gyu"
 }

@@ -1,37 +1,32 @@
 {
-  "literal": "oro oro",
-  "katakana": [
-    "オロオロ"
-  ],
-  "hiragana": [
-    "おろおろ"
-  ],
-  "definition": [
-    {
-      "meaning": "an expression of surprise, fear, or panic",
-      "equivalent": [
-        "dread",
-        "fear",
-        "fright",
-        "horror",
-        "panic",
-        "scare",
-        "terror"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "oro_oro-1a",
-          "display": "オロ  オロ  オロ  オロ",
-          "contributor": ""
-        },
-        {
-          "source": "eternal_fool_asley",
-          "file": "oro_oro-1b",
-          "display": "オロ  オロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["おろおろ"],
+  "katakana": ["オロオロ"],
+  "definition": [{
+    "equivalent": [
+      "dread",
+      "fear",
+      "fright",
+      "horror",
+      "panic",
+      "scare",
+      "terror"
+    ],
+    "meaning": "an expression of surprise, fear, or panic",
+    "id": "oro_oro-1",
+    "example": [
+      {
+        "file": "oro_oro-1a",
+        "contributor": "",
+        "display": "オロ  オロ  オロ  オロ",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "oro_oro-1b",
+        "contributor": "",
+        "display": "オロ  オロ",
+        "source": "eternal_fool_asley"
+      }
+    ]
+  }],
+  "literal": "oro oro"
 }

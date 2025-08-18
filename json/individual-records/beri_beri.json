@@ -1,28 +1,21 @@
 {
-  "literal": "beri beri",
-  "katakana": [
-    "ベリベリ"
-  ],
-  "hiragana": [
-    "ベりベり"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication or sound of peeling or tearing something away",
-      "equivalent": [
-        "peel peel",
-        "rip rip",
-        "strip off",
-        "tear tear"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "beri_beri-1a",
-          "display": "ベリ  ベリ  ベリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ベりベり"],
+  "katakana": ["ベリベリ"],
+  "definition": [{
+    "equivalent": [
+      "peel peel",
+      "rip rip",
+      "strip off",
+      "tear tear"
+    ],
+    "meaning": "an indication or sound of peeling or tearing something away",
+    "id": "beri_beri-1",
+    "example": [{
+      "file": "beri_beri-1a",
+      "contributor": "",
+      "display": "ベリ  ベリ  ベリ",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "beri beri"
 }

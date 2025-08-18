@@ -1,27 +1,20 @@
 {
-  "literal": "chiro chiro",
-  "katakana": [
-    "チロチロ"
-  ],
-  "hiragana": [
-    "ちろちろ"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of a tongue licking something",
-      "equivalent": [
-        "lap lap",
-        "lick lick",
-        "slurp slurp"
-      ],
-      "example": [
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "chiro_chiro-1a",
-          "display": "ちろ  ちろ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ちろちろ"],
+  "katakana": ["チロチロ"],
+  "definition": [{
+    "equivalent": [
+      "lap lap",
+      "lick lick",
+      "slurp slurp"
+    ],
+    "meaning": "the sound of a tongue licking something",
+    "id": "chiro_chiro-1",
+    "example": [{
+      "file": "chiro_chiro-1a",
+      "contributor": "",
+      "display": "ちろ  ちろ",
+      "source": "beastly_boys_and_girls"
+    }]
+  }],
+  "literal": "chiro chiro"
 }

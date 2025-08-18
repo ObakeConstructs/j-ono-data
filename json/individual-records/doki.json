@@ -1,44 +1,43 @@
 {
-  "literal": "doki",
-  "katakana": [
-    "ドキ",
-    "ドキッ"
-  ],
   "hiragana": [
     "どき",
     "どきっ"
   ],
+  "katakana": [
+    "ドキ",
+    "ドキッ"
+  ],
   "definition": [
     {
-      "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
       "equivalent": [
         "ba-dump",
         "heartbeat",
         "thump"
       ],
+      "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
+      "id": "doki-1",
       "example": [
         {
-          "source": "isekai_territory_reform",
           "file": "doki-1a",
+          "contributor": "",
           "display": "ドキッ",
-          "contributor": ""
+          "source": "isekai_territory_reform"
         },
         {
-          "source": "isekai_pickup",
           "file": "doki-1b",
+          "contributor": "",
           "display": "ドキッ",
-          "contributor": ""
+          "source": "isekai_pickup"
         },
         {
-          "source": "human_ranch",
           "file": "doki-1c",
+          "contributor": "",
           "display": "ドキッ",
-          "contributor": ""
+          "source": "human_ranch"
         }
       ]
     },
     {
-      "meaning": "indication of a light or gentle poke or prod",
       "equivalent": [
         "bump",
         "feel",
@@ -48,17 +47,16 @@
         "prod",
         "stroke"
       ],
-      "example": [
-        {
-          "source": "uncle_at_heart",
-          "file": "doki-2a",
-          "display": "どき",
-          "contributor": ""
-        }
-      ]
+      "meaning": "indication of a light or gentle poke or prod",
+      "id": "doki-2",
+      "example": [{
+        "file": "doki-2a",
+        "contributor": "",
+        "display": "どき",
+        "source": "uncle_at_heart"
+      }]
     },
     {
-      "meaning": "an indication of surprise or startlement",
       "equivalent": [
         "flinch",
         "jerk",
@@ -66,14 +64,15 @@
         "shudder",
         "startle"
       ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "doki-3a",
-          "display": "ドキ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of surprise or startlement",
+      "id": "doki-3",
+      "example": [{
+        "file": "doki-3a",
+        "contributor": "",
+        "display": "ドキ",
+        "source": "requiem_for_prophet"
+      }]
     }
-  ]
+  ],
+  "literal": "doki"
 }

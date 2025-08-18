@@ -1,14 +1,8 @@
 {
-  "literal": "gata gata",
-  "katakana": [
-    "ガタガタ"
-  ],
-  "hiragana": [
-    "がたがた"
-  ],
+  "hiragana": ["がたがた"],
+  "katakana": ["ガタガタ"],
   "definition": [
     {
-      "meaning": "a series of sharp clattering or rattling noises",
       "equivalent": [
         "clang clang",
         "clatter",
@@ -16,23 +10,24 @@
         "creak creak",
         "rattle"
       ],
+      "meaning": "a series of sharp clattering or rattling noises",
+      "id": "gata_gata-1",
       "example": [
         {
-          "source": "komi_cant_communicate",
           "file": "gata_gata-1a",
+          "contributor": "",
           "display": "ガタ  ガタ",
-          "contributor": ""
+          "source": "komi_cant_communicate"
         },
         {
-          "source": "human_ranch",
           "file": "gata_gata-1b",
+          "contributor": "",
           "display": "ガタ  ガタ",
-          "contributor": ""
+          "source": "human_ranch"
         }
       ]
     },
     {
-      "meaning": "an indication of shaking, as from fear or cold",
       "equivalent": [
         "quiver",
         "shiver",
@@ -40,26 +35,29 @@
         "tremble",
         "wobble"
       ],
+      "meaning": "an indication of shaking, as from fear or cold",
+      "id": "gata_gata-2",
       "example": [
         {
-          "source": "drawing",
           "file": "gata_gata-2a",
+          "contributor": "",
           "display": "ガタ  ガタ  ガタ",
-          "contributor": ""
+          "source": "drawing"
         },
         {
-          "source": "isekai_sniper",
           "file": "gata_gata-2b",
+          "contributor": "",
           "display": "ガタ  ガタ",
-          "contributor": ""
+          "source": "isekai_sniper"
         },
         {
-          "source": "ai_and_izawa",
           "file": "gata_gata-2c",
+          "contributor": "",
           "display": "ガタ  ガタ  ガタ  ガタ",
-          "contributor": ""
+          "source": "ai_and_izawa"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gata gata"
 }

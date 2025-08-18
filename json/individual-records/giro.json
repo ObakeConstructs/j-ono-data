@@ -1,37 +1,36 @@
 {
-  "literal": "giro",
-  "katakana": [
-    "ギロ",
-    "ギロッ"
-  ],
   "hiragana": [
     "ぎろ",
     "ぎろっ"
   ],
-  "definition": [
-    {
-      "meaning": "a fixed intent look",
-      "equivalent": [
-        "fixate",
-        "glare",
-        "glower",
-        "regard",
-        "stare"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "giro-1a",
-          "display": "ギロ",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "giro-1b",
-          "display": "ギロッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギロ",
+    "ギロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fixate",
+      "glare",
+      "glower",
+      "regard",
+      "stare"
+    ],
+    "meaning": "a fixed intent look",
+    "id": "giro-1",
+    "example": [
+      {
+        "file": "giro-1a",
+        "contributor": "",
+        "display": "ギロ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "giro-1b",
+        "contributor": "",
+        "display": "ギロッ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "literal": "giro"
 }

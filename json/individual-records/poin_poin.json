@@ -1,29 +1,22 @@
 {
-  "literal": "poin poin",
-  "katakana": [
-    "ポィンポィン"
-  ],
-  "hiragana": [
-    "ぽぃんぽぃん"
-  ],
-  "definition": [
-    {
-      "meaning": "the indication or sound of bounces",
-      "equivalent": [
-        "boing",
-        "bounce",
-        "bump",
-        "hop",
-        "bob"
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "poin_poin-1a",
-          "display": "ポィン  ポィーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぽぃんぽぃん"],
+  "katakana": ["ポィンポィン"],
+  "definition": [{
+    "equivalent": [
+      "boing",
+      "bounce",
+      "bump",
+      "hop",
+      "bob"
+    ],
+    "meaning": "the indication or sound of bounces",
+    "id": "poin_poin-1",
+    "example": [{
+      "file": "poin_poin-1a",
+      "contributor": "",
+      "display": "ポィン  ポィーン",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "poin poin"
 }

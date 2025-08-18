@@ -1,33 +1,30 @@
 {
-  "literal": "gushi",
-  "katakana": [
-    "グシ",
-    "グシッ"
-  ],
   "hiragana": [
     "ぐし",
     "ぐしっ"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of sniffling or fighting back tears",
-      "equivalent": [
-        "sniff",
-        "sniffle",
-        "sob",
-        "snivel",
-        "snuffle",
-        "blub",
-        "blubber"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "gushi-1a",
-          "display": "ぐしっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グシ",
+    "グシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "sniff",
+      "sniffle",
+      "sob",
+      "snivel",
+      "snuffle",
+      "blub",
+      "blubber"
+    ],
+    "meaning": "the sound of sniffling or fighting back tears",
+    "id": "gushi-1",
+    "example": [{
+      "file": "gushi-1a",
+      "contributor": "",
+      "display": "ぐしっ",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "gushi"
 }

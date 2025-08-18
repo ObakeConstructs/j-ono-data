@@ -1,44 +1,43 @@
 {
-  "literal": "fura",
-  "katakana": [
-    "フラ",
-    "フラッ",
-    "フラァ"
-  ],
   "hiragana": [
     "ふら",
     "ふらっ",
     "ふらぁ"
   ],
-  "definition": [
-    {
-      "meaning": "a temporary loss or near loss of consciousness",
-      "equivalent": [
-        "dizzy",
-        "faint",
-        "swoon",
-        "woozy"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "fura-1a",
-          "display": "フラッ",
-          "contributor": ""
-        },
-        {
-          "source": "dog_became_strongest",
-          "file": "fura-1b",
-          "display": "フラ",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "fura-1c",
-          "display": "フラァァァ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "フラ",
+    "フラッ",
+    "フラァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dizzy",
+      "faint",
+      "swoon",
+      "woozy"
+    ],
+    "meaning": "a temporary loss or near loss of consciousness",
+    "id": "fura-1",
+    "example": [
+      {
+        "file": "fura-1a",
+        "contributor": "",
+        "display": "フラッ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "fura-1b",
+        "contributor": "",
+        "display": "フラ",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "fura-1c",
+        "contributor": "",
+        "display": "フラァァァ...",
+        "source": "gyaru_academy"
+      }
+    ]
+  }],
+  "literal": "fura"
 }

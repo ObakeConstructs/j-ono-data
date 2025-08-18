@@ -1,34 +1,31 @@
 {
-  "literal": "pyoko",
-  "katakana": [
-    "ピョコ",
-    "ピョコッ"
-  ],
   "hiragana": [
     "ぴょこ",
     "ぴょこっ"
   ],
-  "definition": [
-    {
-      "meaning": "moving or appearing quickly, often in a cute or bouncy manner",
-      "equivalent": [
-        "flounce",
-        "prance",
-        "strut",
-        "sashay",
-        "swagger",
-        "appear",
-        "bounce",
-        "boing"
-      ],
-      "example": [
-        {
-          "source": "yojo_life",
-          "file": "pyoko-1a",
-          "display": "ピョコッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピョコ",
+    "ピョコッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flounce",
+      "prance",
+      "strut",
+      "sashay",
+      "swagger",
+      "appear",
+      "bounce",
+      "boing"
+    ],
+    "meaning": "moving or appearing quickly, often in a cute or bouncy manner",
+    "id": "pyoko-1",
+    "example": [{
+      "file": "pyoko-1a",
+      "contributor": "",
+      "display": "ピョコッ",
+      "source": "yojo_life"
+    }]
+  }],
+  "literal": "pyoko"
 }

@@ -1,29 +1,22 @@
 {
-  "literal": "noso noso",
-  "katakana": [
-    "ノソノソ"
-  ],
-  "hiragana": [
-    "のそのそ"
-  ],
-  "definition": [
-    {
-      "meaning": "to move slowly or ponderously",
-      "equivalent": [
-        "slow slow",
-        "heavy heavy",
-        "slug slug",
-        "dawdle dawdle",
-        "lazy lazy"
-      ],
-      "example": [
-        {
-          "source": "hone_dragon",
-          "file": "noso_noso-1a",
-          "display": "のそ  のそ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["のそのそ"],
+  "katakana": ["ノソノソ"],
+  "definition": [{
+    "equivalent": [
+      "slow slow",
+      "heavy heavy",
+      "slug slug",
+      "dawdle dawdle",
+      "lazy lazy"
+    ],
+    "meaning": "to move slowly or ponderously",
+    "id": "noso_noso-1",
+    "example": [{
+      "file": "noso_noso-1a",
+      "contributor": "",
+      "display": "のそ  のそ",
+      "source": "hone_dragon"
+    }]
+  }],
+  "literal": "noso noso"
 }

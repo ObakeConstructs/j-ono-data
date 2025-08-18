@@ -1,39 +1,38 @@
 {
-  "literal": "mun",
-  "katakana": [
-    "ムン",
-    "ムンッ",
-    "ムーン"
-  ],
   "hiragana": [
     "むん",
     "むんっ",
     "むーん"
   ],
-  "definition": [
-    {
-      "meaning": "an expression of forceful exertion",
-      "equivalent": [
-        "effort",
-        "exert",
-        "hngh",
-        "strain",
-        "urgh"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "mun-1a",
-          "display": "ムンッ",
-          "contributor": ""
-        },
-        {
-          "source": "35_year_olds_choice",
-          "file": "mun-1b",
-          "display": "むーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ムン",
+    "ムンッ",
+    "ムーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "effort",
+      "exert",
+      "hngh",
+      "strain",
+      "urgh"
+    ],
+    "meaning": "an expression of forceful exertion",
+    "id": "mun-1",
+    "example": [
+      {
+        "file": "mun-1a",
+        "contributor": "",
+        "display": "ムンッ",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "mun-1b",
+        "contributor": "",
+        "display": "むーン",
+        "source": "35_year_olds_choice"
+      }
+    ]
+  }],
+  "literal": "mun"
 }

@@ -1,61 +1,60 @@
 {
-  "literal": "basa",
-  "katakana": [
-    "バサ",
-    "バサッ",
-    "バサァ",
-    "バサア"
-  ],
   "hiragana": [
     "ばさ",
     "ばさっ",
     "ばさぁ",
     "ばさあ"
   ],
+  "katakana": [
+    "バサ",
+    "バサッ",
+    "バサァ",
+    "バサア"
+  ],
   "definition": [
     {
-      "meaning": "a soft sound of cloth or paper movement",
       "equivalent": [
         "crinkle",
         "flap",
         "rustle",
         "swish"
       ],
+      "meaning": "a soft sound of cloth or paper movement",
+      "id": "basa-1",
       "example": [
         {
-          "source": "hello_work",
           "file": "basa-1a",
+          "contributor": "",
           "display": "バサ",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "weakest_occupation_blacksmith",
           "file": "basa-1b",
+          "contributor": "",
           "display": "バサ",
-          "contributor": ""
+          "source": "weakest_occupation_blacksmith"
         },
         {
-          "source": "modern_dungeon_capture",
           "file": "basa-1c",
+          "contributor": "",
           "display": "ばさッ",
-          "contributor": ""
+          "source": "modern_dungeon_capture"
         },
         {
-          "source": "neet_kunoichi",
           "file": "basa-1d",
+          "contributor": "",
           "display": "バサッ",
-          "contributor": ""
+          "source": "neet_kunoichi"
         },
         {
-          "source": "hero_or_demon_king",
           "file": "basa-1e",
+          "contributor": "",
           "display": "バサ",
-          "contributor": ""
+          "source": "hero_or_demon_king"
         }
       ]
     },
     {
-      "meaning": "an indication of appearing suddenly, as in a dramatic reveal",
       "equivalent": [
         "appear",
         "arrive",
@@ -68,14 +67,15 @@
         "ta-da",
         "unveil"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "basa-2a",
-          "display": "バサァ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of appearing suddenly, as in a dramatic reveal",
+      "id": "basa-2",
+      "example": [{
+        "file": "basa-2a",
+        "contributor": "",
+        "display": "バサァ",
+        "source": "different_world_smartphone"
+      }]
     }
-  ]
+  ],
+  "literal": "basa"
 }

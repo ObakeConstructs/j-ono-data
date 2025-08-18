@@ -1,40 +1,39 @@
 {
-  "literal": "shuru",
-  "katakana": [
-    "シュル",
-    "シュルッ"
-  ],
   "hiragana": [
     "しゅる",
     "しゅるっ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of a snake-like movement",
-      "equivalent": [
-        "coil",
-        "curl",
-        "snake",
-        "spiral",
-        "swirl",
-        "twist",
-        "wind",
-        "wrap"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "shuru-1a",
-          "display": "しゅるっ",
-          "contributor": ""
-        },
-        {
-          "source": "hone_dragon",
-          "file": "shuru-1b",
-          "display": "しゅる",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "シュル",
+    "シュルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "coil",
+      "curl",
+      "snake",
+      "spiral",
+      "swirl",
+      "twist",
+      "wind",
+      "wrap"
+    ],
+    "meaning": "an indication of a snake-like movement",
+    "id": "shuru-1",
+    "example": [
+      {
+        "file": "shuru-1a",
+        "contributor": "",
+        "display": "しゅるっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "shuru-1b",
+        "contributor": "",
+        "display": "しゅる",
+        "source": "hone_dragon"
+      }
+    ]
+  }],
+  "literal": "shuru"
 }

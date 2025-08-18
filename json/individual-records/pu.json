@@ -1,13 +1,4 @@
 {
-  "literal": "pu",
-  "katakana": [
-    "プ",
-    "プッ",
-    "プウ",
-    "プウウ",
-    "プウウー",
-    "プゥ"
-  ],
   "hiragana": [
     "ぷ",
     "ぷっ",
@@ -16,9 +7,16 @@
     "ぷううー",
     "ぷぅ"
   ],
+  "katakana": [
+    "プ",
+    "プッ",
+    "プウ",
+    "プウウ",
+    "プウウー",
+    "プゥ"
+  ],
   "definition": [
     {
-      "meaning": "the sound of someone expelling air or gas from a bodily orifice, as in suppressed laughter or flatulence",
       "equivalent": [
         "fart",
         "ha",
@@ -30,29 +28,30 @@
         "snort",
         "toot"
       ],
+      "meaning": "the sound of someone expelling air or gas from a bodily orifice, as in suppressed laughter or flatulence",
+      "id": "pu-1",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "pu-1a",
+          "contributor": "",
           "display": "ぷーっ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "pu-1b",
+          "contributor": "",
           "display": "プゥゥー...",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "peter_grill",
           "file": "pu-1c",
+          "contributor": "",
           "display": "プッ",
-          "contributor": ""
+          "source": "peter_grill"
         }
       ]
     },
     {
-      "meaning": "an indication or sound of a small pluck or poke",
       "equivalent": [
         "crack",
         "crackle",
@@ -66,20 +65,23 @@
         "pick",
         "pull"
       ],
+      "meaning": "an indication or sound of a small pluck or poke",
+      "id": "pu-2",
       "example": [
         {
-          "source": "dog_became_strongest",
           "file": "pu-2a",
+          "contributor": "",
           "display": "プッ",
-          "contributor": ""
+          "source": "dog_became_strongest"
         },
         {
-          "source": "isekai_sniper",
           "file": "pu-2b",
+          "contributor": "",
           "display": "プッ...",
-          "contributor": ""
+          "source": "isekai_sniper"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pu"
 }

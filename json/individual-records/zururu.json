@@ -1,32 +1,29 @@
 {
-  "literal": "zururu",
-  "katakana": [
-    "ズルル",
-    "ズルルル"
-  ],
   "hiragana": [
     "ずるる",
     "ずるるる"
   ],
-  "definition": [
-    {
-      "meaning": "a wet slurping or sniffing noise",
-      "equivalent": [
-        "slurp",
-        "suck",
-        "sniff",
-        "sniffle",
-        "snivel",
-        "blub"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "zururu-1a",
-          "display": "ズルル",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ズルル",
+    "ズルルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "slurp",
+      "suck",
+      "sniff",
+      "sniffle",
+      "snivel",
+      "blub"
+    ],
+    "meaning": "a wet slurping or sniffing noise",
+    "id": "zururu-1",
+    "example": [{
+      "file": "zururu-1a",
+      "contributor": "",
+      "display": "ズルル",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "zururu"
 }

@@ -1,40 +1,39 @@
 {
-  "literal": "zubo",
-  "katakana": [
-    "ズボ",
-    "ズボッ"
-  ],
   "hiragana": [
     "ずぼ",
     "ずぼっ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication or sound of entering or plunging into something, sometimes forcefully",
-      "equivalent": [
-        "enter",
-        "plunge",
-        "insert",
-        "sink",
-        "dip",
-        "penetrate",
-        "dunk",
-        "pierce"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "zubo-1a",
-          "display": "ズボッ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "zubo-1b",
-          "display": "ズボッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ズボ",
+    "ズボッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "enter",
+      "plunge",
+      "insert",
+      "sink",
+      "dip",
+      "penetrate",
+      "dunk",
+      "pierce"
+    ],
+    "meaning": "an indication or sound of entering or plunging into something, sometimes forcefully",
+    "id": "zubo-1",
+    "example": [
+      {
+        "file": "zubo-1a",
+        "contributor": "",
+        "display": "ズボッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "zubo-1b",
+        "contributor": "",
+        "display": "ズボッ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "zubo"
 }

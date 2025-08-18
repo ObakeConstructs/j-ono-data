@@ -1,35 +1,30 @@
 {
-  "literal": "kuna kuna",
-  "katakana": [
-    "クナクナ"
-  ],
-  "hiragana": [
-    "くなくな"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of shaking or trembling  movements",
-      "equivalent": [
-        "quiver quiver",
-        "shiver shiver",
-        "shudder shudder",
-        "throb throb",
-        "tremble tremble"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "kuna_kuna-1a",
-          "display": "クナ  クナ",
-          "contributor": ""
-        },
-        {
-          "source": "buy_the_land",
-          "file": "kuna_kuna-1b",
-          "display": "クナ  クナ..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["くなくな"],
+  "katakana": ["クナクナ"],
+  "definition": [{
+    "equivalent": [
+      "quiver quiver",
+      "shiver shiver",
+      "shudder shudder",
+      "throb throb",
+      "tremble tremble"
+    ],
+    "meaning": "a series of shaking or trembling  movements",
+    "id": "kuna_kuna-1",
+    "example": [
+      {
+        "file": "kuna_kuna-1a",
+        "contributor": "",
+        "display": "クナ  クナ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "kuna_kuna-1b",
+        "contributor": "",
+        "display": "クナ  クナ..",
+        "source": "buy_the_land"
+      }
+    ]
+  }],
+  "literal": "kuna kuna"
 }

@@ -1,31 +1,24 @@
 {
-  "literal": "tayun tayun",
-  "katakana": [
-    "タュンタュン"
-  ],
-  "hiragana": [
-    "たゅんたゅん"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of bouncing or jiggling",
-      "equivalent": [
-        "bounce bounce",
-        "jiggle jiggle",
-        "boing boing",
-        "quiver quiver",
-        "shake shake",
-        "sway sway",
-        "wobble wobble"
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "tayun_tayun-1a",
-          "display": "たゅん  たゅん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["たゅんたゅん"],
+  "katakana": ["タュンタュン"],
+  "definition": [{
+    "equivalent": [
+      "bounce bounce",
+      "jiggle jiggle",
+      "boing boing",
+      "quiver quiver",
+      "shake shake",
+      "sway sway",
+      "wobble wobble"
+    ],
+    "meaning": "an indication of bouncing or jiggling",
+    "id": "tayun_tayun-1",
+    "example": [{
+      "file": "tayun_tayun-1a",
+      "contributor": "",
+      "display": "たゅん  たゅん",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "tayun tayun"
 }

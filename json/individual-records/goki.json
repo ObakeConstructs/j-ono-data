@@ -1,27 +1,20 @@
 {
-  "literal": "goki",
-  "katakana": [
-    "コキ"
-  ],
-  "hiragana": [
-    "こき"
-  ],
-  "definition": [
-    {
-      "meaning": "the sharp sound of joint or bone cracking",
-      "equivalent": [
-        "crack",
-        "pop",
-        "snap"
-      ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "goki-1a",
-          "display": "コキ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["こき"],
+  "katakana": ["コキ"],
+  "definition": [{
+    "equivalent": [
+      "crack",
+      "pop",
+      "snap"
+    ],
+    "meaning": "the sharp sound of joint or bone cracking",
+    "id": "goki-1",
+    "example": [{
+      "file": "goki-1a",
+      "contributor": "",
+      "display": "コキ",
+      "source": "blazing_fire_brigade"
+    }]
+  }],
+  "literal": "goki"
 }

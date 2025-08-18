@@ -1,27 +1,20 @@
 {
-  "literal": "suru suru",
-  "katakana": [
-    "スルスル"
-  ],
-  "hiragana": [
-    "するする"
-  ],
-  "definition": [
-    {
-      "meaning": "an smooth or nimble action or movement",
-      "equivalent": [
-        "nimble nimble",
-        "smooth  smooth",
-        "swift swift"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "suru_suru-1a",
-          "display": "する  する...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["するする"],
+  "katakana": ["スルスル"],
+  "definition": [{
+    "equivalent": [
+      "nimble nimble",
+      "smooth  smooth",
+      "swift swift"
+    ],
+    "meaning": "an smooth or nimble action or movement",
+    "id": "suru_suru-1",
+    "example": [{
+      "file": "suru_suru-1a",
+      "contributor": "",
+      "display": "する  する...",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "suru suru"
 }

@@ -1,39 +1,34 @@
 {
-  "literal": "peko peko",
-  "katakana": [
-    "ペコペコ"
-  ],
-  "hiragana": [
-    "ぺこぺこ"
-  ],
-  "definition": [
-    {
-      "meaning": "to bow, grovel or otherwise ingratiate  oneself with a superior",
-      "equivalent": [
-        "abase",
-        "bootlick",
-        "bow bow",
-        "fawn fawn",
-        "grovel grovel",
-        "humble humble",
-        "kneel kneel",
-        "suck up",
-        "truckle truckle"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "peko_peko-1a",
-          "display": "ペコ  ペコ",
-          "contributor": ""
-        },
-        {
-          "source": "hero_or_demon_king",
-          "file": "peko_peko-1b",
-          "display": "ペコ  ペコ  ペコ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぺこぺこ"],
+  "katakana": ["ペコペコ"],
+  "definition": [{
+    "equivalent": [
+      "abase",
+      "bootlick",
+      "bow bow",
+      "fawn fawn",
+      "grovel grovel",
+      "humble humble",
+      "kneel kneel",
+      "suck up",
+      "truckle truckle"
+    ],
+    "meaning": "to bow, grovel or otherwise ingratiate  oneself with a superior",
+    "id": "peko_peko-1",
+    "example": [
+      {
+        "file": "peko_peko-1a",
+        "contributor": "",
+        "display": "ペコ  ペコ",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "peko_peko-1b",
+        "contributor": "",
+        "display": "ペコ  ペコ  ペコ",
+        "source": "hero_or_demon_king"
+      }
+    ]
+  }],
+  "literal": "peko peko"
 }

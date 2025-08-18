@@ -1,18 +1,16 @@
 {
-  "literal": "kui",
-  "katakana": [
-    "クイ",
-    "クィ",
-    "クイッ"
-  ],
   "hiragana": [
     "くい",
     "くぃ",
     "くいっ"
   ],
+  "katakana": [
+    "クイ",
+    "クィ",
+    "クイッ"
+  ],
   "definition": [
     {
-      "meaning": "a small gesture",
       "equivalent": [
         "beckon",
         "flag",
@@ -22,31 +20,31 @@
         "signal",
         "wave"
       ],
-      "example": [
-        {
-          "source": "way_of_isekai_cooking",
-          "file": "kui-1a",
-          "display": "クィ",
-          "contributor": ""
-        }
-      ]
+      "meaning": "a small gesture",
+      "id": "kui-1",
+      "example": [{
+        "file": "kui-1a",
+        "contributor": "",
+        "display": "クィ",
+        "source": "way_of_isekai_cooking"
+      }]
     },
     {
-      "meaning": "an indication of pulling or tugging on something",
       "equivalent": [
         "tug",
         "pull",
         "yank",
         "jerk"
       ],
-      "example": [
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "kui-2a",
-          "display": "くぃ..",
-          "contributor": ""
-        }
-      ]
+      "meaning": "an indication of pulling or tugging on something",
+      "id": "kui-2",
+      "example": [{
+        "file": "kui-2a",
+        "contributor": "",
+        "display": "くぃ..",
+        "source": "embarrassing_and_sweet"
+      }]
     }
-  ]
+  ],
+  "literal": "kui"
 }

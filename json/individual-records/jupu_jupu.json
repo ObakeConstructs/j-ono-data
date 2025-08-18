@@ -1,26 +1,19 @@
 {
-  "literal": "jupu jupu",
-  "katakana": [
-    "ジュプジュプ"
-  ],
-  "hiragana": [
-    "じゅぷじゅぷ"
-  ],
-  "definition": [
-    {
-      "meaning": "a wet slurping sound",
-      "equivalent": [
-        "slurp slurp",
-        "suck suck"
-      ],
-      "example": [
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "jupu_jupu-1a",
-          "display": "ジュプ  ジュプ  ジュプ  ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["じゅぷじゅぷ"],
+  "katakana": ["ジュプジュプ"],
+  "definition": [{
+    "equivalent": [
+      "slurp slurp",
+      "suck suck"
+    ],
+    "meaning": "a wet slurping sound",
+    "id": "jupu_jupu-1",
+    "example": [{
+      "file": "jupu_jupu-1a",
+      "contributor": "",
+      "display": "ジュプ  ジュプ  ジュプ  ",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "literal": "jupu jupu"
 }

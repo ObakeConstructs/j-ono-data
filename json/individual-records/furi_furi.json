@@ -1,43 +1,42 @@
 {
-  "literal": "furi furi",
-  "katakana": [
-    "フリフリ",
-    "フリフリッ"
-  ],
   "hiragana": [
     "ふりふり",
     "ふりふりっ"
   ],
-  "definition": [
-    {
-      "meaning": "a quick side to side motion",
-      "equivalent": [
-        " flip flip",
-        "flick flick",
-        "swish swish",
-        "wag wag",
-        "wave wave"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "furi_furi-1a",
-          "display": "ふり  ふりっ",
-          "contributor": ""
-        },
-        {
-          "source": "strongest_magician_was_human",
-          "file": "furi_furi-1c",
-          "display": "フリ  フリ",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "furi_furi-1d",
-          "display": "フリ  フリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "フリフリ",
+    "フリフリッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      " flip flip",
+      "flick flick",
+      "swish swish",
+      "wag wag",
+      "wave wave"
+    ],
+    "meaning": "a quick side to side motion",
+    "id": "furi_furi-1",
+    "example": [
+      {
+        "file": "furi_furi-1a",
+        "contributor": "",
+        "display": "ふり  ふりっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "furi_furi-1c",
+        "contributor": "",
+        "display": "フリ  フリ",
+        "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "furi_furi-1d",
+        "contributor": "",
+        "display": "フリ  フリ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "furi furi"
 }

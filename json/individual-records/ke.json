@@ -1,29 +1,26 @@
 {
-  "literal": "ke",
-  "katakana": [
-    "ケ",
-    "ケッ"
-  ],
   "hiragana": [
     "け",
     "けっ"
   ],
-  "definition": [
-    {
-      "meaning": "a short laugh, usually in annoyance or when looking down at someone",
-      "equivalent": [
-        "heh",
-        "hmph",
-        "tsk"
-      ],
-      "example": [
-        {
-          "source": "fushi_no_kami",
-          "file": "ke-1a",
-          "display": "ケッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ケ",
+    "ケッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "heh",
+      "hmph",
+      "tsk"
+    ],
+    "meaning": "a short laugh, usually in annoyance or when looking down at someone",
+    "id": "ke-1",
+    "example": [{
+      "file": "ke-1a",
+      "contributor": "",
+      "display": "ケッ",
+      "source": "fushi_no_kami"
+    }]
+  }],
+  "literal": "ke"
 }

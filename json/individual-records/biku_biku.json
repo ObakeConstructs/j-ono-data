@@ -1,32 +1,29 @@
 {
-  "literal": "biku biku",
-  "katakana": [
-    "ビクビク",
-    "ビクビクッ"
-  ],
   "hiragana": [
     "びくびく",
     "びくびくっ"
   ],
-  "definition": [
-    {
-      "meaning": "indications of jerky movement or twitching",
-      "equivalent": [
-        "flinch flinch",
-        "jerk jerk",
-        "quiver quiver",
-        "shake shake",
-        "twitch twitch",
-        "wince wince"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "biku_biku-1a",
-          "display": "クッ  ビク  ビクッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ビクビク",
+    "ビクビクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flinch flinch",
+      "jerk jerk",
+      "quiver quiver",
+      "shake shake",
+      "twitch twitch",
+      "wince wince"
+    ],
+    "meaning": "indications of jerky movement or twitching",
+    "id": "biku_biku-1",
+    "example": [{
+      "file": "biku_biku-1a",
+      "contributor": "",
+      "display": "クッ  ビク  ビクッ",
+      "source": "double_play"
+    }]
+  }],
+  "literal": "biku biku"
 }

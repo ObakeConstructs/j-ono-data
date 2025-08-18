@@ -1,13 +1,4 @@
 {
-  "literal": "buu",
-  "katakana": [
-    "ブゥ",
-    "ブゥゥ",
-    "ブゥゥゥ",
-    "ブウ",
-    "ブウウ",
-    "ブウウウ"
-  ],
   "hiragana": [
     "ぶぅ",
     "ぶぅぅ",
@@ -16,22 +7,28 @@
     "ぶうう",
     "ぶううう"
   ],
-  "definition": [
-    {
-      "meaning": "a low rumbling sound of a car engine at idle",
-      "equivalent": [
-        "idle",
-        "rumble",
-        "vrrm"
-      ],
-      "example": [
-        {
-          "source": "35_year_olds_choice",
-          "file": "buu-1a",
-          "display": "ブゥゥゥゥ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ブゥ",
+    "ブゥゥ",
+    "ブゥゥゥ",
+    "ブウ",
+    "ブウウ",
+    "ブウウウ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "idle",
+      "rumble",
+      "vrrm"
+    ],
+    "meaning": "a low rumbling sound of a car engine at idle",
+    "id": "buu-1",
+    "example": [{
+      "file": "buu-1a",
+      "contributor": "",
+      "display": "ブゥゥゥゥ",
+      "source": "35_year_olds_choice"
+    }]
+  }],
+  "literal": "buu"
 }

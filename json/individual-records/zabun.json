@@ -1,34 +1,31 @@
 {
-  "literal": "zabun",
-  "katakana": [
-    "ザブン",
-    "ザブーン"
-  ],
   "hiragana": [
     "ざぶん",
     "ざぶーん"
   ],
-  "definition": [
-    {
-      "meaning": "a large splashing sound",
-      "equivalent": [
-        "gush",
-        "jet",
-        "slosh",
-        "spew",
-        "splash",
-        "sploosh",
-        "spout",
-        "swash"
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "zabun-1a",
-          "display": "ザブーン.",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザブン",
+    "ザブーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gush",
+      "jet",
+      "slosh",
+      "spew",
+      "splash",
+      "sploosh",
+      "spout",
+      "swash"
+    ],
+    "meaning": "a large splashing sound",
+    "id": "zabun-1",
+    "example": [{
+      "file": "zabun-1a",
+      "contributor": "",
+      "display": "ザブーン.",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "zabun"
 }

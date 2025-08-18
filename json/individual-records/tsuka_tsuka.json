@@ -1,28 +1,21 @@
 {
-  "literal": "tsuka tsuka",
-  "katakana": [
-    "ツカ"
-  ],
-  "hiragana": [
-    "つか"
-  ],
-  "definition": [
-    {
-      "meaning": "the sound of brisk and purposeful walking",
-      "equivalent": [
-        "march march",
-        "step step",
-        "stomp stomp",
-        "tread tread"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "tsuka_tsuka-1a",
-          "display": "つか  つか  つか  つか  つか",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["つか"],
+  "katakana": ["ツカ"],
+  "definition": [{
+    "equivalent": [
+      "march march",
+      "step step",
+      "stomp stomp",
+      "tread tread"
+    ],
+    "meaning": "the sound of brisk and purposeful walking",
+    "id": "tsuka_tsuka-1",
+    "example": [{
+      "file": "tsuka_tsuka-1a",
+      "contributor": "",
+      "display": "つか  つか  つか  つか  つか",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "tsuka tsuka"
 }

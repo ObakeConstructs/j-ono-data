@@ -1,39 +1,34 @@
 {
-  "literal": "yota yota",
-  "katakana": [
-    "ヨタヨタ"
-  ],
-  "hiragana": [
-    "よたよた"
-  ],
-  "definition": [
-    {
-      "meaning": "an indication of unsteadiness or clumsiness",
-      "equivalent": [
-        "careen",
-        "clumsy",
-        "lurch lurch",
-        "shuffle shuffle",
-        "stagger stagger",
-        "sway sway",
-        "totter totter",
-        "unsteady",
-        "waddle waddle"
-      ],
-      "example": [
-        {
-          "source": "uncle_at_heart",
-          "file": "yota_yota-1a",
-          "display": "よた  よた",
-          "contributor": ""
-        },
-        {
-          "source": "rock_n_roll_ladies",
-          "file": "yota_yota-1b",
-          "display": "ヨタ  ヨタ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["よたよた"],
+  "katakana": ["ヨタヨタ"],
+  "definition": [{
+    "equivalent": [
+      "careen",
+      "clumsy",
+      "lurch lurch",
+      "shuffle shuffle",
+      "stagger stagger",
+      "sway sway",
+      "totter totter",
+      "unsteady",
+      "waddle waddle"
+    ],
+    "meaning": "an indication of unsteadiness or clumsiness",
+    "id": "yota_yota-1",
+    "example": [
+      {
+        "file": "yota_yota-1a",
+        "contributor": "",
+        "display": "よた  よた",
+        "source": "uncle_at_heart"
+      },
+      {
+        "file": "yota_yota-1b",
+        "contributor": "",
+        "display": "ヨタ  ヨタ",
+        "source": "rock_n_roll_ladies"
+      }
+    ]
+  }],
+  "literal": "yota yota"
 }

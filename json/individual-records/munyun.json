@@ -1,31 +1,24 @@
 {
-  "literal": "munyun",
-  "katakana": [
-    "ムニュン"
-  ],
-  "hiragana": [
-    "むにゅん"
-  ],
-  "definition": [
-    {
-      "meaning": "soft and pliable, often in reference to female breasts",
-      "equivalent": [
-        "flaccid",
-        "flesh",
-        "soft",
-        "squish",
-        "squishy",
-        "squoosh",
-        "supple"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "munyun-1a",
-          "display": "むにゅん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["むにゅん"],
+  "katakana": ["ムニュン"],
+  "definition": [{
+    "equivalent": [
+      "flaccid",
+      "flesh",
+      "soft",
+      "squish",
+      "squishy",
+      "squoosh",
+      "supple"
+    ],
+    "meaning": "soft and pliable, often in reference to female breasts",
+    "id": "munyun-1",
+    "example": [{
+      "file": "munyun-1a",
+      "contributor": "",
+      "display": "むにゅん",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "munyun"
 }

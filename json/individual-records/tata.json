@@ -1,12 +1,4 @@
 {
-  "literal": "tata",
-  "katakana": [
-    "タタ",
-    "タタッ",
-    "タタタ",
-    "タッタッ",
-    "タッタッタッ"
-  ],
   "hiragana": [
     "たた",
     "たたっ",
@@ -14,44 +6,51 @@
     "たったっ",
     "たったったっ"
   ],
-  "definition": [
-    {
-      "meaning": "to run lightly",
-      "equivalent": [
-        "dash",
-        "quickly",
-        "run",
-        "scamper",
-        "sprint",
-        "step step",
-        "tap tap"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "tata-1a",
-          "display": "タタッ",
-          "contributor": ""
-        },
-        {
-          "source": "d_genesis",
-          "file": "tata-1b",
-          "display": "たたたー",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "tata-1d",
-          "display": "タタ...",
-          "contributor": ""
-        },
-        {
-          "source": "fushi_no_kami",
-          "file": "tata-1e",
-          "display": "たっ  たっ  たっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "タタ",
+    "タタッ",
+    "タタタ",
+    "タッタッ",
+    "タッタッタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dash",
+      "quickly",
+      "run",
+      "scamper",
+      "sprint",
+      "step step",
+      "tap tap"
+    ],
+    "meaning": "to run lightly",
+    "id": "tata-1",
+    "example": [
+      {
+        "file": "tata-1a",
+        "contributor": "",
+        "display": "タタッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "tata-1b",
+        "contributor": "",
+        "display": "たたたー",
+        "source": "d_genesis"
+      },
+      {
+        "file": "tata-1d",
+        "contributor": "",
+        "display": "タタ...",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "tata-1e",
+        "contributor": "",
+        "display": "たっ  たっ  たっ",
+        "source": "fushi_no_kami"
+      }
+    ]
+  }],
+  "literal": "tata"
 }

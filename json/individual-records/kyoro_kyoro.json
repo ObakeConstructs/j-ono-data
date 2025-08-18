@@ -1,47 +1,42 @@
 {
-  "literal": "kyoro kyoro",
-  "katakana": [
-    "キョロキョロ"
-  ],
-  "hiragana": [
-    "きょろきょろ"
-  ],
-  "definition": [
-    {
-      "meaning": "to look around or search hastily",
-      "equivalent": [
-        "glance glance",
-        "glimpse glimpse",
-        "look look",
-        "search search",
-        "view view"
-      ],
-      "example": [
-        {
-          "source": "weakest_occupation_blacksmith",
-          "file": "kyoro_kyoro-1a",
-          "display": "キョロ  キョロ",
-          "contributor": ""
-        },
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "kyoro_kyoro-1b",
-          "display": "キョロ  キョロ",
-          "contributor": ""
-        },
-        {
-          "source": "spy_x_family",
-          "file": "kyoro_kyoro-1c",
-          "display": "キョロ  キョロ",
-          "contributor": ""
-        },
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "kyoro_kyoro-1d",
-          "display": "きょろ  きょろ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["きょろきょろ"],
+  "katakana": ["キョロキョロ"],
+  "definition": [{
+    "equivalent": [
+      "glance glance",
+      "glimpse glimpse",
+      "look look",
+      "search search",
+      "view view"
+    ],
+    "meaning": "to look around or search hastily",
+    "id": "kyoro_kyoro-1",
+    "example": [
+      {
+        "file": "kyoro_kyoro-1a",
+        "contributor": "",
+        "display": "キョロ  キョロ",
+        "source": "weakest_occupation_blacksmith"
+      },
+      {
+        "file": "kyoro_kyoro-1b",
+        "contributor": "",
+        "display": "キョロ  キョロ",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "kyoro_kyoro-1c",
+        "contributor": "",
+        "display": "キョロ  キョロ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "kyoro_kyoro-1d",
+        "contributor": "",
+        "display": "きょろ  きょろ",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "literal": "kyoro kyoro"
 }

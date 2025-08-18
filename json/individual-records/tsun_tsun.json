@@ -1,52 +1,47 @@
 {
-  "literal": "tsun tsun",
-  "katakana": [
-    "ツンツン"
-  ],
-  "hiragana": [
-    "つんつん"
-  ],
-  "definition": [
-    {
-      "meaning": "a series of quick or gentle pinching, poking or prodding",
-      "equivalent": [
-        "nip nip",
-        "nudge nudge",
-        "pinch pinch",
-        "pluck pluck",
-        "poke poke",
-        "pull pull",
-        "push push",
-        "tap tap",
-        "tug tug",
-        "prod prod"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "tsun_tsun-1a",
-          "display": "つん  つん",
-          "contributor": ""
-        },
-        {
-          "source": "simple_sword_saint",
-          "file": "tsun_tsun-1b",
-          "display": "ツンツン",
-          "contributor": ""
-        },
-        {
-          "source": "hone_dragon",
-          "file": "tsun_tsun-1c",
-          "display": "つん  つん",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "tsun_tsun-1d",
-          "display": "ツン  ツン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["つんつん"],
+  "katakana": ["ツンツン"],
+  "definition": [{
+    "equivalent": [
+      "nip nip",
+      "nudge nudge",
+      "pinch pinch",
+      "pluck pluck",
+      "poke poke",
+      "pull pull",
+      "push push",
+      "tap tap",
+      "tug tug",
+      "prod prod"
+    ],
+    "meaning": "a series of quick or gentle pinching, poking or prodding",
+    "id": "tsun_tsun-1",
+    "example": [
+      {
+        "file": "tsun_tsun-1a",
+        "contributor": "",
+        "display": "つん  つん",
+        "source": "d_genesis"
+      },
+      {
+        "file": "tsun_tsun-1b",
+        "contributor": "",
+        "display": "ツンツン",
+        "source": "simple_sword_saint"
+      },
+      {
+        "file": "tsun_tsun-1c",
+        "contributor": "",
+        "display": "つん  つん",
+        "source": "hone_dragon"
+      },
+      {
+        "file": "tsun_tsun-1d",
+        "contributor": "",
+        "display": "ツン  ツン",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "tsun tsun"
 }

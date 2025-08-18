@@ -1,39 +1,34 @@
 {
-  "literal": "hiso hiso",
-  "katakana": [
-    "ヒソヒソ"
-  ],
-  "hiragana": [
-    "ひそひそ"
-  ],
-  "definition": [
-    {
-      "meaning": "to speak quietly in order to not be overheard",
-      "equivalent": [
-        "softly",
-        "whisper whisper",
-        "sotto voce"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "hiso_hiso-1a",
-          "display": "ヒソ  ヒソ",
-          "contributor": ""
-        },
-        {
-          "source": "spy_x_family",
-          "file": "hiso_hiso-1b",
-          "display": "ひそ  ひそ",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "hiso_hiso-1c",
-          "display": "ヒソ  ヒソ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ひそひそ"],
+  "katakana": ["ヒソヒソ"],
+  "definition": [{
+    "equivalent": [
+      "softly",
+      "whisper whisper",
+      "sotto voce"
+    ],
+    "meaning": "to speak quietly in order to not be overheard",
+    "id": "hiso_hiso-1",
+    "example": [
+      {
+        "file": "hiso_hiso-1a",
+        "contributor": "",
+        "display": "ヒソ  ヒソ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "hiso_hiso-1b",
+        "contributor": "",
+        "display": "ひそ  ひそ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "hiso_hiso-1c",
+        "contributor": "",
+        "display": "ヒソ  ヒソ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "literal": "hiso hiso"
 }

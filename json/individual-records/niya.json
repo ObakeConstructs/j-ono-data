@@ -1,32 +1,29 @@
 {
-  "literal": "niya",
-  "katakana": [
-    "ニヤ",
-    "ニヤッ"
-  ],
   "hiragana": [
     "にや",
     "にやっ"
   ],
-  "definition": [
-    {
-      "meaning": "an unpleasant or evil smile",
-      "equivalent": [
-        "grin",
-        "smile",
-        "smirk",
-        "sneer",
-        "snicker",
-        "leer"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "niya-1a",
-          "display": "ニヤッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ニヤ",
+    "ニヤッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "grin",
+      "smile",
+      "smirk",
+      "sneer",
+      "snicker",
+      "leer"
+    ],
+    "meaning": "an unpleasant or evil smile",
+    "id": "niya-1",
+    "example": [{
+      "file": "niya-1a",
+      "contributor": "",
+      "display": "ニヤッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "niya"
 }

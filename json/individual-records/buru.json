@@ -1,46 +1,45 @@
 {
-  "literal": "buru",
-  "katakana": [
-    "ブル",
-    "ブルッ",
-    "ブルル",
-    "ブルルル"
-  ],
   "hiragana": [
     "ぶる",
     "ぶるっ",
     "ぶるる",
     "ぶるるる"
   ],
-  "definition": [
-    {
-      "meaning": "an indication of involuntary shaking, as from fear, cold, or excitement",
-      "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "example": [
-        {
-          "source": "komi_cant_communicate",
-          "file": "buru-1a",
-          "display": "ぶるるるるるるる",
-          "contributor": ""
-        },
-        {
-          "source": "blazing_fire_brigade",
-          "file": "buru-1b",
-          "display": "ブル",
-          "contributor": ""
-        },
-        {
-          "source": "requiem_for_prophet",
-          "file": "buru-1c",
-          "display": "ぶるっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ブル",
+    "ブルッ",
+    "ブルル",
+    "ブルルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "quiver",
+      "shiver",
+      "shudder",
+      "tremble"
+    ],
+    "meaning": "an indication of involuntary shaking, as from fear, cold, or excitement",
+    "id": "buru-1",
+    "example": [
+      {
+        "file": "buru-1a",
+        "contributor": "",
+        "display": "ぶるるるるるるる",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "buru-1b",
+        "contributor": "",
+        "display": "ブル",
+        "source": "blazing_fire_brigade"
+      },
+      {
+        "file": "buru-1c",
+        "contributor": "",
+        "display": "ぶるっ",
+        "source": "requiem_for_prophet"
+      }
+    ]
+  }],
+  "literal": "buru"
 }

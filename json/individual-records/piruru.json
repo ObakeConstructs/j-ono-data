@@ -1,29 +1,26 @@
 {
-  "literal": "piruru",
-  "katakana": [
-    "ピルル",
-    "ピルルル"
-  ],
   "hiragana": [
     "ぴるる",
     "ぴるるる"
   ],
-  "definition": [
-    {
-      "meaning": "the sound of a telephone or cell phone ringing",
-      "equivalent": [
-        "ring ring",
-        "beep beep",
-        "ding-a-ling"
-      ],
-      "example": [
-        {
-          "source": "way_of_isekai_cooking",
-          "file": "piruru-1a",
-          "display": "ピルルルルルル",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピルル",
+    "ピルルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ring ring",
+      "beep beep",
+      "ding-a-ling"
+    ],
+    "meaning": "the sound of a telephone or cell phone ringing",
+    "id": "piruru-1",
+    "example": [{
+      "file": "piruru-1a",
+      "contributor": "",
+      "display": "ピルルルルルル",
+      "source": "way_of_isekai_cooking"
+    }]
+  }],
+  "literal": "piruru"
 }

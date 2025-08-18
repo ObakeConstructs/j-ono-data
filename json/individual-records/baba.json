@@ -1,40 +1,39 @@
 {
-  "literal": "baba",
-  "katakana": [
-    "ババ",
-    "ババッ"
-  ],
   "hiragana": [
     "ばば",
     "ばばっ"
   ],
-  "definition": [
-    {
-      "meaning": "an indication or sound of sudden or fast movement",
-      "equivalent": [
-        "fwip",
-        "fwit",
-        "jolt",
-        "pop",
-        "snap",
-        "startle",
-        "sudden",
-        "zip"
-      ],
-      "example": [
-        {
-          "source": "peter_grill",
-          "file": "baba-1a",
-          "display": "ババッ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "ba_ba-1b",
-          "display": "ば  ばっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ババ",
+    "ババッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fwip",
+      "fwit",
+      "jolt",
+      "pop",
+      "snap",
+      "startle",
+      "sudden",
+      "zip"
+    ],
+    "meaning": "an indication or sound of sudden or fast movement",
+    "id": "baba-1",
+    "example": [
+      {
+        "file": "baba-1a",
+        "contributor": "",
+        "display": "ババッ",
+        "source": "peter_grill"
+      },
+      {
+        "file": "ba_ba-1b",
+        "contributor": "",
+        "display": "ば  ばっ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "baba"
 }

@@ -1,28 +1,25 @@
 {
-  "literal": "dodoga dodoga",
-  "katakana": [
-    "ドドガドドガ",
-    "ドドガドドガッ"
-  ],
   "hiragana": [
     "どどがどどが",
     "どどがどどがっ"
   ],
-  "definition": [
-    {
-      "meaning": "the rythmic sound of horses galloping",
-      "equivalent": [
-        "gallop gallop",
-        "ba-dum ba-dum"
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "dodoga_dodoga-1a",
-          "display": "ドドガ  ドドガッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドドガドドガ",
+    "ドドガドドガッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gallop gallop",
+      "ba-dum ba-dum"
+    ],
+    "meaning": "the rythmic sound of horses galloping",
+    "id": "dodoga_dodoga-1",
+    "example": [{
+      "file": "dodoga_dodoga-1a",
+      "contributor": "",
+      "display": "ドドガ  ドドガッ",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "dodoga dodoga"
 }

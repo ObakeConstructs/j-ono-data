@@ -1,52 +1,51 @@
 {
-  "literal": "da da",
-  "katakana": [
-    "ダダ",
-    "ダダッ",
-    "ダッダッ",
-    "ダッダッダッ"
-  ],
   "hiragana": [
     "だだ",
     "だだっ",
     "だっだっ",
     "だっだっだっ"
   ],
-  "definition": [
-    {
-      "meaning": "rythmic sounds, typically short and sharp, like running, typing, or even gunfire",
-      "equivalent": [
-        "bang bang",
-        "boom boom",
-        "click click",
-        "clickity click",
-        "step step",
-        "stomp stomp",
-        "tap tap",
-        "thump pthump",
-        "ticka tick",
-        "wham wham"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "da_da-1a",
-          "display": "ダダッ",
-          "contributor": ""
-        },
-        {
-          "source": "saga_lagging_hero",
-          "file": "da_da-1b",
-          "display": "ダ  ダ  ダ  ダ  ダ  ダ",
-          "contributor": ""
-        },
-        {
-          "source": "kaijuu_sdf",
-          "file": "da_da-1c",
-          "display": "ダッ  ダッ  ダッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ダダ",
+    "ダダッ",
+    "ダッダッ",
+    "ダッダッダッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bang bang",
+      "boom boom",
+      "click click",
+      "clickity click",
+      "step step",
+      "stomp stomp",
+      "tap tap",
+      "thump pthump",
+      "ticka tick",
+      "wham wham"
+    ],
+    "meaning": "rythmic sounds, typically short and sharp, like running, typing, or even gunfire",
+    "id": "da_da-1",
+    "example": [
+      {
+        "file": "da_da-1a",
+        "contributor": "",
+        "display": "ダダッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "da_da-1b",
+        "contributor": "",
+        "display": "ダ  ダ  ダ  ダ  ダ  ダ",
+        "source": "saga_lagging_hero"
+      },
+      {
+        "file": "da_da-1c",
+        "contributor": "",
+        "display": "ダッ  ダッ  ダッ",
+        "source": "kaijuu_sdf"
+      }
+    ]
+  }],
+  "literal": "da da"
 }

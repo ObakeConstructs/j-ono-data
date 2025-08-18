@@ -1,39 +1,34 @@
 {
-  "literal": "munya munya",
-  "katakana": [
-    "ムニャムニャ"
-  ],
-  "hiragana": [
-    "むにゃむにゃ"
-  ],
-  "definition": [
-    {
-      "meaning": "expressing sleep or sleepiness",
-      "equivalent": [
-        "dose",
-        "dozy",
-        "dream",
-        "drowsy",
-        "nap",
-        "rest",
-        "sleep",
-        "sleepy",
-        "slumber"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "munya_munya-1a",
-          "display": "むにゃ  むにゃ",
-          "contributor": ""
-        },
-        {
-          "source": "peter_grill",
-          "file": "munya_munya-1b",
-          "display": "むにゃ  むにゃ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["むにゃむにゃ"],
+  "katakana": ["ムニャムニャ"],
+  "definition": [{
+    "equivalent": [
+      "dose",
+      "dozy",
+      "dream",
+      "drowsy",
+      "nap",
+      "rest",
+      "sleep",
+      "sleepy",
+      "slumber"
+    ],
+    "meaning": "expressing sleep or sleepiness",
+    "id": "munya_munya-1",
+    "example": [
+      {
+        "file": "munya_munya-1a",
+        "contributor": "",
+        "display": "むにゃ  むにゃ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "munya_munya-1b",
+        "contributor": "",
+        "display": "むにゃ  むにゃ",
+        "source": "peter_grill"
+      }
+    ]
+  }],
+  "literal": "munya munya"
 }
