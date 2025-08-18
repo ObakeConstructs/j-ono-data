@@ -12,31 +12,29 @@ All source records are stored in a single JSON array in the `j-ono-source.json` 
 
 ## SOURCE RECORD
 * Each Source Record contains...
-  * a "publisher_name" string
+  * a "publisher_name" string (shown in J-Ono Search as publisher's copyright for associated images)
+  * a "site" string (not used, just a convenience) 
   * an array of "source" objects.
 * Each "source" object contains
-  * an "id" name string
-  * a "manga" title string
+  * an "id" name string (unique id string)
+  * a "manga" title string (shown in J-Ono Search as manga title for associated images)
 
 Example Soure Record:
 ```
-{
-  "publisher_name": "KODANSHA Ltd.",
-  "sources": [
-    {
-    "id": "abandoned_reincarnation_sage",
-    "manga": "Suterareta Tensei Kenja"
-    },
-    {
-      "id": "marginal_taylor",
-      "manga": "Marginal Taylor"
-    },
-    {
-      "id": "weakest_occupation_blacksmith",
-      "manga": "Fuguushoku \"Kajishi\" dakedo Saikyou desu"
-    }
-  ]
-}
+ {
+    "publisher_name": "SHINCHOSHA",
+    "site": "https://comicbunch-kai.com/",
+    "sources": [
+      {
+        "id": "kaijuu_sdf",
+        "manga": "Kaijuu Jieitai"
+      },
+      {
+        "id": "shogun_gold_in_america",
+        "manga": "Tokugawa Maizoukin wa America"
+      }
+    ]
+  }
 ```
 
 ## DATA FILE STRUCTURE
