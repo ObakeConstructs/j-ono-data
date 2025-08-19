@@ -1,17 +1,14 @@
 {
-  "literal": "ba",
-  "katakana": [
-    "バ",
-    "バッ"
-  ],
   "hiragana": [
     "ば",
     "ばっ"
   ],
+  "katakana": [
+    "バ",
+    "バッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "meaning": "an indication of turning around suddenly",
       "equivalent": [
         "about-face",
         "pivot",
@@ -19,30 +16,30 @@
         "turn",
         "whirl"
       ],
+      "refer": "",
+      "meaning": "an indication of turning around suddenly",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ba-1a",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "dog_became_strongest",
           "file": "ba-1b",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "dog_became_strongest"
         },
         {
-          "source": "yojo_life",
           "file": "ba-1c",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "yojo_life"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "the indication of a sudden and/or fast movement",
       "equivalent": [
         "charge",
         "dash",
@@ -54,36 +51,36 @@
         "whoom",
         "zip"
       ],
+      "refer": "",
+      "meaning": "an indication of a sudden and/or fast movement",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ba-2a",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "different_world_smartphone",
           "file": "ba-2b",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "strongest_magician_was_human",
           "file": "ba-2c",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "strongest_magician_was_human"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "ba-2d",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "the sound of a sudden and loud impact",
       "equivalent": [
         "bam",
         "bang",
@@ -99,18 +96,16 @@
         "whap",
         "whomp"
       ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "ba-3a",
-          "display": "バッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a sound of a sudden and loud impact",
+      "example": [{
+        "file": "ba-3a",
+        "contributor": "",
+        "display": "バッ",
+        "source": "d_genesis"
+      }]
     },
     {
-      "refer": "",
-      "meaning": "an indication of revealing or showing something suddenly",
       "equivalent": [
         "display",
         "reveal",
@@ -118,24 +113,24 @@
         "ta-da",
         "unveil"
       ],
+      "refer": "",
+      "meaning": "an indication of revealing or showing something suddenly",
       "example": [
         {
-          "source": "spy_x_family",
           "file": "ba-4a",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "spy_x_family"
         },
         {
-          "source": "way_of_isekai_cooking",
           "file": "ba-4b",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "way_of_isekai_cooking"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "an expression of realization or understanding",
       "equivalent": [
         "epiphany",
         "jolt",
@@ -143,14 +138,15 @@
         "realize",
         "understand"
       ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "ba-5a",
-          "display": "バッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "an expression of realization or understanding",
+      "example": [{
+        "file": "ba-5a",
+        "contributor": "",
+        "display": "バッ",
+        "source": "blazing_fire_brigade"
+      }]
     }
-  ]
+  ],
+  "literal": "ba"
 }

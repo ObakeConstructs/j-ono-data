@@ -1,41 +1,39 @@
 {
-  "literal": "basha",
-  "katakana": [
-    "バシャ",
-    "バシャッ"
-  ],
   "hiragana": [
     "ばしゃ",
     "ばしゃっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "the sound of a medium to large splash",
-      "equivalent": [
-        "gush",
-        "jet",
-        "slosh",
-        "spew",
-        "splash",
-        "sploosh",
-        "spout",
-        "swash"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_sage_daughters",
-          "file": "basha-1a",
-          "display": "バシャ",
-          "contributor": ""
-        },
-        {
-          "source": "requiem_for_prophet",
-          "file": "basha-1b",
-          "display": "バシャッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "バシャ",
+    "バシャッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gush",
+      "jet",
+      "slosh",
+      "spew",
+      "splash",
+      "sploosh",
+      "spout",
+      "swash"
+    ],
+    "refer": "",
+    "meaning": "a sound of a medium to large splash",
+    "example": [
+      {
+        "file": "basha-1a",
+        "contributor": "",
+        "display": "バシャ",
+        "source": "reincarnated_sage_daughters"
+      },
+      {
+        "file": "basha-1b",
+        "contributor": "",
+        "display": "バシャッ",
+        "source": "requiem_for_prophet"
+      }
+    ]
+  }],
+  "literal": "basha"
 }
