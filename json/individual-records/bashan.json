@@ -1,31 +1,35 @@
 {
-  "hiragana": [
-    "ばしゃん",
-    "ばしゃーん"
-  ],
+  "literal": "bashan",
   "katakana": [
     "バシャン",
     "バシャーン"
   ],
-  "definition": [{
-    "equivalent": [
-      "gush",
-      "jet",
-      "slosh",
-      "spew",
-      "splash",
-      "sploosh",
-      "spout",
-      "swash"
-    ],
-    "ref": "",
-    "meaning": "a sound of a medium to large splash",
-    "example": [{
-      "file": "bashan-1a",
-      "contributor": "",
-      "display": "バシャーン..",
-      "source": "buy_the_land"
-    }]
-  }],
-  "literal": "bashan"
+  "hiragana": [
+    "ばしゃん",
+    "ばしゃーん"
+  ],
+  "definition": [
+    {
+      "refer": "basha:1",
+      "meaning": "a sound of a medium to large splash",
+      "equivalent": [
+        "gush",
+        "jet",
+        "slosh",
+        "spew",
+        "splash",
+        "sploosh",
+        "spout",
+        "swash"
+      ],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "bashan-1a",
+          "display": "バシャーン..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

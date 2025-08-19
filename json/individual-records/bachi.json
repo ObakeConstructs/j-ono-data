@@ -1,45 +1,49 @@
 {
-  "hiragana": [
-    "ばち",
-    "ばちっ"
-  ],
+  "literal": "bachi",
   "katakana": [
     "バチ",
     "バチッ"
   ],
+  "hiragana": [
+    "ばち",
+    "ばちっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "the sound of an electrical discharge",
       "equivalent": [
         "buzz",
         "bzz",
         "crackle",
         "jolt"
       ],
-      "ref": "",
-      "meaning": "a sound of an electrical discharge",
-      "example": [{
-        "file": "bachi-1a",
-        "contributor": "",
-        "display": "バチ",
-        "source": "blazing_fire_brigade"
-      }]
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "bachi-1a",
+          "display": "バチ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "meaning": "an indication of eye contact, often accidental",
       "equivalent": [
         "eye-contact",
         "flinch",
         "gaze",
         "jolt"
       ],
-      "ref": "",
-      "meaning": "an indication of eye contact, often accidental",
-      "example": [{
-        "file": "bachi-2a",
-        "contributor": "",
-        "display": "ばちっ",
-        "source": "embarrassing_and_sweet"
-      }]
+      "example": [
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "bachi-2a",
+          "display": "ばちっ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "bachi"
+  ]
 }

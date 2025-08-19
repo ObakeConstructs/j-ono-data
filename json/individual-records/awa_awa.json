@@ -1,27 +1,35 @@
 {
-  "hiragana": ["あわあわ"],
-  "katakana": ["アワアワ"],
-  "definition": [{
-    "equivalent": [
-      "anxiety",
-      "panic panic",
-      "nervous",
-      "worry",
-      "um um",
-      "dismay dismay",
-      "jitter jitter",
-      "agitation",
-      "fluster",
-      "uh uh"
-    ],
-    "ref": "",
-    "meaning": "an expression of panic, anxiety, or uncertainty",
-    "example": [{
-      "file": "awa_awa-1a",
-      "contributor": "",
-      "display": "アワ  アワ  アワ",
-      "source": "peter_grill"
-    }]
-  }],
-  "literal": "awa awa"
+  "literal": "awa awa",
+  "katakana": [
+    "アワアワ"
+  ],
+  "hiragana": [
+    "あわあわ"
+  ],
+  "definition": [
+    {
+      "refer": "awa awa:1",
+      "meaning": "an expression of panic, anxiety, or uncertainty.",
+      "equivalent": [
+        "agitation",
+        "anxiety",
+        "dismay dismay",
+        "fluster",
+        "jitter jitter",
+        "nervous",
+        "panic panic",
+        "uh uh",
+        "um um",
+        "worry"
+      ],
+      "example": [
+        {
+          "source": "peter_grill",
+          "file": "awa_awa-1a",
+          "display": "アワ  アワ  アワ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
