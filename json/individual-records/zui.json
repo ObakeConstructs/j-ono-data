@@ -1,18 +1,21 @@
 {
-  "hiragana": [
-    "ずい",
-    "ずいっ",
-    "ずぃ",
-    "ずぃっ"
-  ],
+  "literal": "zui",
   "katakana": [
     "ズイ",
     "ズイッ",
     "ズィ",
     "ズィッ"
   ],
+  "hiragana": [
+    "ずい",
+    "ずいっ",
+    "ずぃ",
+    "ずぃっ"
+  ],
   "definition": [
     {
+      "meaning": "an indication of getting too close to someone's face, often uncomfortably so",
+      "me_id": "zui-1",
       "equivalent": [
         "gape",
         "gawk",
@@ -22,30 +25,30 @@
         "stare",
         "study"
       ],
-      "meaning": "to stare at someone's face, often uncomfortably close",
-      "id": "zui-1",
       "example": [
         {
+          "source": "reincarnated_farm_girl",
           "file": "zui-1a",
-          "contributor": "",
           "display": "ずいっ",
-          "source": "reincarnated_farm_girl"
+          "contributor": ""
         },
         {
+          "source": "abandoned_reincarnation_sage",
           "file": "zui-1b",
-          "contributor": "",
           "display": "ずい",
-          "source": "abandoned_reincarnation_sage"
+          "contributor": ""
         },
         {
+          "source": "cheat_pharmacist",
           "file": "zui-1c",
-          "contributor": "",
           "display": "ズィ",
-          "source": "cheat_pharmacist"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "an indication of thrusting, shoving, or pushing",
+      "me_id": "zui-2",
       "equivalent": [
         "display",
         "give",
@@ -57,15 +60,20 @@
         "thrust",
         "unveil"
       ],
-      "meaning": "to push something toward someone's face, typically in an aggressive or sudden manner",
-      "id": "zui-2",
-      "example": [{
-        "file": "zui-2a",
-        "contributor": "",
-        "display": "ずいっ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "zui-2a",
+          "display": "ずいっ",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_the_house_husband",
+          "file": "zui-2b",
+          "display": "ズィッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "zui"
+  ]
 }

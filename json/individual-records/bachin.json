@@ -1,25 +1,41 @@
 {
-  "hiragana": ["ばちん"],
-  "katakana": ["バチン"],
-  "definition": [{
-    "equivalent": [
-      "bonk",
-      "flick",
-      "slap",
-      "smack",
-      "tap",
-      "thwack",
-      "whack",
-      "whap"
-    ],
-    "meaning": "a sound of tapping or slapping",
-    "id": "bachin-1",
-    "example": [{
-      "file": "bachin-1a",
-      "contributor": "",
-      "display": "バチン",
-      "source": "cheat_pharmacist"
-    }]
-  }],
-  "literal": "bachin"
+  "literal": "bachin",
+  "katakana": [
+    "バチン"
+  ],
+  "hiragana": [
+    "ばちん"
+  ],
+  "definition": [
+    {
+      "meaning": "a sharp sound of snapping or clicking",
+      "me_id": "bachin-1",
+      "equivalent": [
+        "bonk",
+        "flick",
+        "slap",
+        "smack",
+        "tap",
+        "thwack",
+        "whack",
+        "whap",
+        "snap",
+        "click"
+      ],
+      "example": [
+        {
+          "source": "cheat_pharmacist",
+          "file": "bachin-1a",
+          "display": "バチン",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_the_house_husband",
+          "file": "bachin-1b",
+          "display": "バチン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

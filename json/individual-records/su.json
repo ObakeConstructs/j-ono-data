@@ -1,17 +1,5 @@
 {
-  "hiragana": [
-    "す",
-    "すっ",
-    "すー",
-    "すーっ",
-    "すぅ",
-    "すぅっ",
-    "すぅぅ",
-    "すぅぅぅ",
-    "すう",
-    "すうう",
-    "すううう"
-  ],
+  "literal": "su",
   "katakana": [
     "ス",
     "スッ",
@@ -25,37 +13,52 @@
     "スウウ",
     "スウウウ"
   ],
+  "hiragana": [
+    "す",
+    "すっ",
+    "すー",
+    "すーっ",
+    "すぅ",
+    "すぅっ",
+    "すぅぅ",
+    "すぅぅぅ",
+    "すう",
+    "すうう",
+    "すううう"
+  ],
   "definition": [
     {
+      "meaning": "an indication of moving past someone, typically ignoring them",
+      "me_id": "su-1",
       "equivalent": [
         "ignore",
         "pass",
         "pass by"
       ],
-      "meaning": "to move past someone, typically ignoring them",
-      "id": "su-1",
       "example": [
         {
+          "source": "d_genesis",
           "file": "su-1a",
-          "contributor": "",
           "display": "スッ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "su-1b",
-          "contributor": "",
           "display": "すー...",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "strongest_magician_was_human",
           "file": "su-1c",
-          "contributor": "",
           "display": "スッ",
-          "source": "strongest_magician_was_human"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "an indication of a slow, careful, or smooth motion",
+      "me_id": "su-2",
       "equivalent": [
         "deliver",
         "gesture",
@@ -72,42 +75,54 @@
         "take",
         "yield"
       ],
-      "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
-      "id": "su-2",
       "example": [
         {
+          "source": "d_genesis",
           "file": "su-2a",
-          "contributor": "",
           "display": "ス...",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "su-2b",
-          "contributor": "",
           "display": "ス...",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "su-2c",
-          "contributor": "",
           "display": "ス...",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "su-2d",
-          "contributor": "",
           "display": "スッ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "fushi_no_kami",
           "file": "su-2e",
-          "contributor": "",
           "display": "す",
-          "source": "fushi_no_kami"
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "su-5a",
+          "display": "スッ",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_the_house_husband",
+          "file": "su-4g",
+          "display": "ス",
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "a sound of a deep breath, typically inhaled",
+      "me_id": "su-3",
       "equivalent": [
         "blow out",
         "breath in",
@@ -117,36 +132,36 @@
         "huff",
         "inhale"
       ],
-      "meaning": "a deep breath, typically inhaled",
-      "id": "su-3",
       "example": [
         {
+          "source": "hello_work",
           "file": "su-3a",
-          "contributor": "",
           "display": "スゥゥゥ..",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "su-3b",
-          "contributor": "",
           "display": "すぅ...",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "strongest_thread_master",
           "file": "su-3c",
-          "contributor": "",
           "display": "すぅっ...",
-          "source": "strongest_thread_master"
+          "contributor": ""
         },
         {
+          "source": "blazing_fire_brigade",
           "file": "su-3d",
-          "contributor": "",
           "display": "スゥ..",
-          "source": "blazing_fire_brigade"
+          "contributor": ""
         }
       ]
     },
     {
+      "meaning": "an indication of lifting or carrying",
+      "me_id": "su-4",
       "equivalent": [
         "bear",
         "carry",
@@ -156,50 +171,20 @@
         "lift",
         "raise"
       ],
-      "meaning": "the act of lifting something up",
-      "id": "su-4",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "su-4a",
-          "contributor": "",
           "display": "スッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "uncle_at_heart",
           "file": "su-4b",
-          "contributor": "",
           "display": "す...",
-          "source": "uncle_at_heart"
+          "contributor": ""
         }
       ]
-    },
-    {
-      "equivalent": [
-        "attend",
-        "concentrate",
-        "eye",
-        "focus",
-        "glance",
-        "glare",
-        "heed",
-        "hone in",
-        "look",
-        "notice",
-        "realize",
-        "rivet",
-        "sst",
-        "view",
-        "zero in on"
-      ],
-      "meaning": "a sudden change in demeanor, as expressing a nearby threat",
-      "id": "su-5",
-      "example": [{
-        "file": "su-5a",
-        "contributor": "",
-        "display": "スッ",
-        "source": "different_world_smartphone"
-      }]
     }
-  ],
-  "literal": "su"
+  ]
 }

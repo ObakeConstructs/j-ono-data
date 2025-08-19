@@ -1,19 +1,43 @@
 {
-  "hiragana": ["にゃ"],
-  "katakana": ["ニャ"],
-  "definition": [{
-    "equivalent": [
-      "meow",
-      "nya"
-    ],
-    "meaning": "mimicking a cat to express friendly, playful teasing",
-    "id": "nya-1",
-    "example": [{
-      "file": "nya-1a",
-      "contributor": "",
-      "display": "ニャ...",
-      "source": "isekai_pickup"
-    }]
-  }],
-  "literal": "nya"
+  "literal": "nya",
+  "katakana": [
+    "ニャ",
+    "ニャァ",
+    "ニャァァ",
+    "ニャア",
+    "ニャアア"
+  ],
+  "hiragana": [
+    "にゃ",
+    "にゃぁ",
+    "にゃぁぁ",
+    "にゃあ",
+    "にゃああ"
+  ],
+  "definition": [
+    {
+      "meaning": "a sound of a cat's meow, or mimicking a cat's meow, typically to express friendly, playful teasing",
+      "me_id": "nya-1",
+      "equivalent": [
+        "meow",
+        "nya",
+        "mrow",
+        "miaow"
+      ],
+      "example": [
+        {
+          "source": "isekai_pickup",
+          "file": "nya-1a",
+          "display": "ニャ...",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_the_house_husband",
+          "file": "nya-1b",
+          "display": "ニャァァ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

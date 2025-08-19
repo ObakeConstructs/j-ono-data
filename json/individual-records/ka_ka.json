@@ -1,30 +1,40 @@
 {
-  "hiragana": [
-    "かか",
-    "かっかっ",
-    "かつかつ"
-  ],
+  "literal": "ka ka",
   "katakana": [
     "カカ",
     "カッカッ",
     "カツカツ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clack clack",
-      "clang clang",
-      "click click",
-      "clink clink",
-      "tap tap"
-    ],
-    "meaning": "a series of sharp sounds from a light impact",
-    "id": "ka_ka-1",
-    "example": [{
-      "file": "ka_ka-1a",
-      "contributor": "",
-      "display": "カツ  カツ",
-      "source": "shogun_gold_in_america"
-    }]
-  }],
-  "literal": "ka ka"
+  "hiragana": [
+    "かか",
+    "かっかっ",
+    "かつかつ"
+  ],
+  "definition": [
+    {
+      "meaning": "short, sharp sounds of light impacts or strikes",
+      "me_id": "ka_ka-1",
+      "equivalent": [
+        "clack clack",
+        "clang clang",
+        "click click",
+        "clink clink",
+        "tap tap"
+      ],
+      "example": [
+        {
+          "source": "shogun_gold_in_america",
+          "file": "ka_ka-1a",
+          "display": "カツ  カツ",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_the_house_husband",
+          "file": "ka_ka-1b",
+          "display": "カッ  カッ  カッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

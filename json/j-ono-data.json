@@ -14,7 +14,6 @@
         "oh"
       ],
       "meaning": "an indication of surprise, amazement, or a sudden realization",
-      "id": "ah-1",
       "example": [{
         "file": "ah-1a",
         "contributor": "",
@@ -468,22 +467,31 @@
     "definition": [{
       "equivalent": [
         "bonk",
+        "click",
         "flick",
         "slap",
         "smack",
+        "snap",
         "tap",
         "thwack",
         "whack",
         "whap"
       ],
-      "meaning": "a sound of tapping or slapping",
-      "id": "bachin-1",
-      "example": [{
-        "file": "bachin-1a",
-        "contributor": "",
-        "display": "バチン",
-        "source": "cheat_pharmacist"
-      }]
+      "meaning": "a sharp sound of snapping or clicking",
+      "example": [
+        {
+          "file": "bachin-1a",
+          "contributor": "",
+          "display": "バチン",
+          "source": "cheat_pharmacist"
+        },
+        {
+          "file": "bachin-1b",
+          "contributor": "",
+          "display": "バチン",
+          "source": "way_of_the_house_husband"
+        }
+      ]
     }],
     "literal": "bachin"
   },
@@ -4970,6 +4978,38 @@
   },
   {
     "hiragana": [
+      "どしん",
+      "どしーん",
+      "どっしん",
+      "どっしーん"
+    ],
+    "katakana": [
+      "ドシン",
+      "ドシーン",
+      "ドッシン",
+      "ドッシーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bump",
+        "pound",
+        "slam",
+        "thud",
+        "thump",
+        "whump"
+      ],
+      "meaning": "a sound of a heavy impact or thud",
+      "example": [{
+        "file": "doshin-1a",
+        "contributor": "",
+        "display": "どっしーん",
+        "source": "way_of_the_house_husband"
+      }]
+    }],
+    "literal": "doshin"
+  },
+  {
+    "hiragana": [
       "どす",
       "どすっ",
       "どすぅ"
@@ -7173,8 +7213,7 @@
         "shatter",
         "smash"
       ],
-      "meaning": "the sound of an impact or crash",
-      "id": "gashan-1",
+      "meaning": "a sound of an impact or crash",
       "example": [
         {
           "file": "gashan-1a",
@@ -7193,6 +7232,12 @@
           "contributor": "",
           "display": "ガシャン",
           "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "gashan-1d",
+          "contributor": "",
+          "display": "ガシャン",
+          "source": "way_of_the_house_husband"
         }
       ]
     }],
@@ -11554,14 +11599,21 @@
         "hiss",
         "sizzle"
       ],
-      "meaning": "a sizzling sound, as of meat cooking",
-      "id": "ju-1",
-      "example": [{
-        "file": "ju-1a",
-        "contributor": "",
-        "display": "ジュウウ...",
-        "source": "strongest_thread_master"
-      }]
+      "meaning": "a sound of sizzling, as from cooking",
+      "example": [
+        {
+          "file": "ju-1a",
+          "contributor": "",
+          "display": "ジュウウ...",
+          "source": "strongest_thread_master"
+        },
+        {
+          "file": "ju-1b",
+          "contributor": "",
+          "display": "じゅう",
+          "source": "way_of_the_house_husband"
+        }
+      ]
     }],
     "literal": "ju"
   },
@@ -12078,14 +12130,21 @@
         "tap",
         "tick"
       ],
-      "meaning": "the sound of a strong click or snap",
-      "id": "kan-1",
-      "example": [{
-        "file": "kan-1a",
-        "contributor": "",
-        "display": "カン",
-        "source": "a_rank_slow_life"
-      }]
+      "meaning": "a sound of tapping or striking",
+      "example": [
+        {
+          "file": "kan-1a",
+          "contributor": "",
+          "display": "カン",
+          "source": "a_rank_slow_life"
+        },
+        {
+          "file": "kan-1b",
+          "contributor": "",
+          "display": "カン",
+          "source": "way_of_the_house_husband"
+        }
+      ]
     }],
     "literal": "kan"
   },
@@ -12132,6 +12191,27 @@
       }]
     }],
     "literal": "kapa"
+  },
+  {
+    "hiragana": ["かぽ"],
+    "katakana": ["カポ"],
+    "definition": [{
+      "equivalent": [
+        "click",
+        "plop",
+        "pop",
+        "puts on",
+        "snap"
+      ],
+      "meaning": "a soft, hollow sound of covering something or fitting something over an opening",
+      "example": [{
+        "file": "kapo-1a",
+        "contributor": "",
+        "display": "カポ",
+        "source": "way_of_the_house_husband"
+      }]
+    }],
+    "literal": "kapo"
   },
   {
     "hiragana": [
@@ -12558,14 +12638,21 @@
         "clink clink",
         "tap tap"
       ],
-      "meaning": "a series of sharp sounds from a light impact",
-      "id": "ka_ka-1",
-      "example": [{
-        "file": "ka_ka-1a",
-        "contributor": "",
-        "display": "カツ  カツ",
-        "source": "shogun_gold_in_america"
-      }]
+      "meaning": "short, sharp sounds of light impacts or strikes",
+      "example": [
+        {
+          "file": "ka_ka-1a",
+          "contributor": "",
+          "display": "カツ  カツ",
+          "source": "shogun_gold_in_america"
+        },
+        {
+          "file": "ka_ka-1b",
+          "contributor": "",
+          "display": "カッ  カッ  カッ",
+          "source": "way_of_the_house_husband"
+        }
+      ]
     }],
     "literal": "ka ka"
   },
@@ -13423,6 +13510,30 @@
   },
   {
     "hiragana": [
+      "ことこと",
+      "ことことこと"
+    ],
+    "katakana": [
+      "コトコト",
+      "コトコトコト"
+    ],
+    "definition": [{
+      "equivalent": [
+        "boil boil",
+        "simmer simmer"
+      ],
+      "meaning": "an indication or sound of simmering or boiling",
+      "example": [{
+        "file": "koto_koto-1a",
+        "contributor": "",
+        "display": "コト  コト  コト",
+        "source": "way_of_the_house_husband"
+      }]
+    }],
+    "literal": "koto koto"
+  },
+  {
+    "hiragana": [
       "く",
       "くっ",
       "くー",
@@ -14233,8 +14344,7 @@
           "grasp",
           "hold"
         ],
-        "meaning": "to squeeze lightly or softly",
-        "id": "kyu-1",
+        "meaning": "an indication of squeezing lightly or softly",
         "example": [
           {
             "file": "kyu-1a",
@@ -14266,8 +14376,7 @@
           "tie",
           "tighten"
         ],
-        "meaning": "the indication or sound of tying, fastening or pulling something tight",
-        "id": "kyu-2",
+        "meaning": "an indication or sound of tying, fastening or pulling something tight",
         "example": [
           {
             "file": "kyu-2a",
@@ -14302,7 +14411,6 @@
           "squeal"
         ],
         "meaning": "a shrill squeaking sound",
-        "id": "kyu-3",
         "example": [
           {
             "file": "kyu-3a",
@@ -14315,6 +14423,12 @@
             "contributor": "",
             "display": "きゅーっ",
             "source": "rise_of_the_outlaw_tamer"
+          },
+          {
+            "file": "kyu-3c",
+            "contributor": "",
+            "display": "キュ",
+            "source": "way_of_the_house_husband"
           }
         ]
       }
@@ -15696,21 +15810,42 @@
     "literal": "nurun"
   },
   {
-    "hiragana": ["にゃ"],
-    "katakana": ["ニャ"],
+    "hiragana": [
+      "にゃ",
+      "にゃぁ",
+      "にゃぁぁ",
+      "にゃあ",
+      "にゃああ"
+    ],
+    "katakana": [
+      "ニャ",
+      "ニャァ",
+      "ニャァァ",
+      "ニャア",
+      "ニャアア"
+    ],
     "definition": [{
       "equivalent": [
         "meow",
+        "miaow",
+        "mrow",
         "nya"
       ],
-      "meaning": "mimicking a cat to express friendly, playful teasing",
-      "id": "nya-1",
-      "example": [{
-        "file": "nya-1a",
-        "contributor": "",
-        "display": "ニャ...",
-        "source": "isekai_pickup"
-      }]
+      "meaning": "a sound of a cat's meow, or mimicking a cat's meow, typically to express friendly, playful teasing",
+      "example": [
+        {
+          "file": "nya-1a",
+          "contributor": "",
+          "display": "ニャ...",
+          "source": "isekai_pickup"
+        },
+        {
+          "file": "nya-1b",
+          "contributor": "",
+          "display": "ニャァァ",
+          "source": "way_of_the_house_husband"
+        }
+      ]
     }],
     "literal": "nya"
   },
@@ -18080,18 +18215,31 @@
     "literal": "pin"
   },
   {
-    "hiragana": ["ぴんぽーん"],
-    "katakana": ["ピンポーン"],
+    "hiragana": [
+      "ぴんぽん",
+      "ぴんぽーん"
+    ],
+    "katakana": [
+      "ピンポン",
+      "ピンポーン"
+    ],
     "definition": [{
       "equivalent": ["ding-dong"],
-      "meaning": "the sound of a doorbell",
-      "id": "pin_pon-1",
-      "example": [{
-        "file": "pinpon-1a",
-        "contributor": "",
-        "display": "ピン  ポーン",
-        "source": "d_genesis"
-      }]
+      "meaning": "a sound of a doorbell",
+      "example": [
+        {
+          "file": "pinpon-1a",
+          "contributor": "",
+          "display": "ピン  ポーン",
+          "source": "d_genesis"
+        },
+        {
+          "file": "pin_pon-1b",
+          "contributor": "",
+          "display": "ピン  ポーン",
+          "source": "way_of_the_house_husband"
+        }
+      ]
     }],
     "literal": "pin pon"
   },
@@ -20967,8 +21115,7 @@
           "pass",
           "pass by"
         ],
-        "meaning": "to move past someone, typically ignoring them",
-        "id": "su-1",
+        "meaning": "an indication of moving past someone, typically ignoring them",
         "example": [
           {
             "file": "su-1a",
@@ -21007,8 +21154,7 @@
           "take",
           "yield"
         ],
-        "meaning": "the simple movement of a hand; to give something, to take something, or to make a gesture",
-        "id": "su-2",
+        "meaning": "an indication of a slow, careful, or smooth motion",
         "example": [
           {
             "file": "su-2a",
@@ -21039,6 +21185,18 @@
             "contributor": "",
             "display": "す",
             "source": "fushi_no_kami"
+          },
+          {
+            "file": "su-5a",
+            "contributor": "",
+            "display": "スッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "su-4g",
+            "contributor": "",
+            "display": "ス",
+            "source": "way_of_the_house_husband"
           }
         ]
       },
@@ -21052,8 +21210,7 @@
           "huff",
           "inhale"
         ],
-        "meaning": "a deep breath, typically inhaled",
-        "id": "su-3",
+        "meaning": "a sound of a deep breath, typically inhaled",
         "example": [
           {
             "file": "su-3a",
@@ -21091,8 +21248,7 @@
           "lift",
           "raise"
         ],
-        "meaning": "the act of lifting something up",
-        "id": "su-4",
+        "meaning": "an indication of lifting or carrying",
         "example": [
           {
             "file": "su-4a",
@@ -21107,33 +21263,6 @@
             "source": "uncle_at_heart"
           }
         ]
-      },
-      {
-        "equivalent": [
-          "attend",
-          "concentrate",
-          "eye",
-          "focus",
-          "glance",
-          "glare",
-          "heed",
-          "hone in",
-          "look",
-          "notice",
-          "realize",
-          "rivet",
-          "sst",
-          "view",
-          "zero in on"
-        ],
-        "meaning": "a sudden change in demeanor, as expressing a nearby threat",
-        "id": "su-5",
-        "example": [{
-          "file": "su-5a",
-          "contributor": "",
-          "display": "スッ",
-          "source": "different_world_smartphone"
-        }]
       }
     ],
     "literal": "su"
@@ -23950,8 +24079,7 @@
           "shaa",
           "sss"
         ],
-        "meaning": "soft sounds of rain or a shower",
-        "id": "za-1",
+        "meaning": "a soft sound of raining or a shower",
         "example": [
           {
             "file": "za-1a",
@@ -23983,8 +24111,7 @@
           "tread",
           "walk"
         ],
-        "meaning": "sound of someone taking a step or stomping",
-        "id": "za-2",
+        "meaning": "a sound of someone taking a step or stomping",
         "example": [
           {
             "file": "za-2b",
@@ -24009,16 +24136,24 @@
           "pelt",
           "run",
           "rush",
-          "sprint"
+          "sprint",
+          "zoom"
         ],
-        "meaning": "the sound of someone dashing or sprinting",
-        "id": "za-3",
-        "example": [{
-          "file": "za-3a",
-          "contributor": "",
-          "display": "ザッ",
-          "source": "my_s-ranked_daughter"
-        }]
+        "meaning": "an indication or  sound of someone moving very fast",
+        "example": [
+          {
+            "file": "za-3a",
+            "contributor": "",
+            "display": "ザッ",
+            "source": "my_s-ranked_daughter"
+          },
+          {
+            "file": "za-3b",
+            "contributor": "",
+            "display": "ザッ",
+            "source": "way_of_the_house_husband"
+          }
+        ]
       }
     ],
     "literal": "za"
@@ -25124,8 +25259,7 @@
           "stare",
           "study"
         ],
-        "meaning": "to stare at someone's face, often uncomfortably close",
-        "id": "zui-1",
+        "meaning": "an indication of getting too close to someone's face, often uncomfortably so",
         "example": [
           {
             "file": "zui-1a",
@@ -25159,14 +25293,21 @@
           "thrust",
           "unveil"
         ],
-        "meaning": "to push something toward someone's face, typically in an aggressive or sudden manner",
-        "id": "zui-2",
-        "example": [{
-          "file": "zui-2a",
-          "contributor": "",
-          "display": "ずいっ",
-          "source": "different_world_smartphone"
-        }]
+        "meaning": "an indication of thrusting, shoving, or pushing",
+        "example": [
+          {
+            "file": "zui-2a",
+            "contributor": "",
+            "display": "ずいっ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "zui-2b",
+            "contributor": "",
+            "display": "ズィッ",
+            "source": "way_of_the_house_husband"
+          }
+        ]
       }
     ],
     "literal": "zui"
