@@ -1,29 +1,26 @@
 {
-  "literal": "koto koto",
-  "katakana": [
-    "コトコト",
-    "コトコトコト"
-  ],
   "hiragana": [
     "ことこと",
     "ことことこと"
   ],
-  "definition": [
-    {
-      "meaning": "an indication or sound of simmering or boiling",
-      "me_id": "koto_koto-1",
-      "equivalent": [
-        "simmer simmer",
-        "boil boil"
-      ],
-      "example": [
-        {
-          "source": "way_of_the_house_husband",
-          "file": "koto_koto-1a",
-          "display": "コト  コト  コト",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "コトコト",
+    "コトコトコト"
+  ],
+  "definition": [{
+    "equivalent": [
+      "simmer simmer",
+      "boil boil"
+    ],
+    "ref": "",
+    "meaning": "an indication or sound of simmering or boiling",
+    "id": "koto_koto-1",
+    "example": [{
+      "file": "koto_koto-1a",
+      "contributor": "",
+      "display": "コト  コト  コト",
+      "source": "way_of_the_house_husband"
+    }]
+  }],
+  "literal": "koto koto"
 }

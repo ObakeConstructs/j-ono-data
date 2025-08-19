@@ -1,15 +1,4 @@
 {
-  "literal": "ju",
-  "katakana": [
-    "ジュウゥ",
-    "ジュー",
-    "ジュゥ",
-    "ジュゥゥ",
-    "ジュゥゥゥ",
-    "ジュウ",
-    "ジュウウ",
-    "ジュウウウ"
-  ],
   "hiragana": [
     "じゅうぅ",
     "じゅー",
@@ -20,30 +9,40 @@
     "じゅうう",
     "じゅううう"
   ],
-  "definition": [
-    {
-      "meaning": "a sound of sizzling, as from cooking",
-      "me_id": "ju-1",
-      "equivalent": [
-        "burn",
-        "fizz",
-        "hiss",
-        "sizzle"
-      ],
-      "example": [
-        {
-          "source": "strongest_thread_master",
-          "file": "ju-1a",
-          "display": "ジュウウ...",
-          "contributor": ""
-        },
-        {
-          "source": "way_of_the_house_husband",
-          "file": "ju-1b",
-          "display": "じゅう",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジュウゥ",
+    "ジュー",
+    "ジュゥ",
+    "ジュゥゥ",
+    "ジュゥゥゥ",
+    "ジュウ",
+    "ジュウウ",
+    "ジュウウウ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "burn",
+      "fizz",
+      "hiss",
+      "sizzle"
+    ],
+    "ref": "",
+    "meaning": "a sound of sizzling, as from cooking",
+    "id": "ju-1",
+    "example": [
+      {
+        "file": "ju-1a",
+        "contributor": "",
+        "display": "ジュウウ...",
+        "source": "strongest_thread_master"
+      },
+      {
+        "file": "ju-1b",
+        "contributor": "",
+        "display": "じゅう",
+        "source": "way_of_the_house_husband"
+      }
+    ]
+  }],
+  "literal": "ju"
 }

@@ -478,6 +478,7 @@
         "whap"
       ],
       "meaning": "a sharp sound of snapping or clicking",
+      "id": "bachin-1",
       "example": [
         {
           "file": "bachin-1a",
@@ -4999,6 +5000,7 @@
         "whump"
       ],
       "meaning": "a sound of a heavy impact or thud",
+      "id": "doshin-1",
       "example": [{
         "file": "doshin-1a",
         "contributor": "",
@@ -7214,6 +7216,7 @@
         "smash"
       ],
       "meaning": "a sound of an impact or crash",
+      "id": "gashan-1",
       "example": [
         {
           "file": "gashan-1a",
@@ -11600,6 +11603,7 @@
         "sizzle"
       ],
       "meaning": "a sound of sizzling, as from cooking",
+      "id": "ju-1",
       "example": [
         {
           "file": "ju-1a",
@@ -12131,6 +12135,7 @@
         "tick"
       ],
       "meaning": "a sound of tapping or striking",
+      "id": "kan-1",
       "example": [
         {
           "file": "kan-1a",
@@ -12204,6 +12209,7 @@
         "snap"
       ],
       "meaning": "a soft, hollow sound of covering something or fitting something over an opening",
+      "id": "kapo-1",
       "example": [{
         "file": "kapo-1a",
         "contributor": "",
@@ -12639,6 +12645,7 @@
         "tap tap"
       ],
       "meaning": "short, sharp sounds of light impacts or strikes",
+      "id": "ka_ka-1",
       "example": [
         {
           "file": "ka_ka-1a",
@@ -13523,6 +13530,7 @@
         "simmer simmer"
       ],
       "meaning": "an indication or sound of simmering or boiling",
+      "id": "koto_koto-1",
       "example": [{
         "file": "koto_koto-1a",
         "contributor": "",
@@ -14345,6 +14353,7 @@
           "hold"
         ],
         "meaning": "an indication of squeezing lightly or softly",
+        "id": "kyu-1",
         "example": [
           {
             "file": "kyu-1a",
@@ -14377,6 +14386,7 @@
           "tighten"
         ],
         "meaning": "an indication or sound of tying, fastening or pulling something tight",
+        "id": "kyu-2",
         "example": [
           {
             "file": "kyu-2a",
@@ -14411,6 +14421,7 @@
           "squeal"
         ],
         "meaning": "a shrill squeaking sound",
+        "id": "kyu-3",
         "example": [
           {
             "file": "kyu-3a",
@@ -15832,6 +15843,7 @@
         "nya"
       ],
       "meaning": "a sound of a cat's meow, or mimicking a cat's meow, typically to express friendly, playful teasing",
+      "id": "nya-1",
       "example": [
         {
           "file": "nya-1a",
@@ -18226,6 +18238,7 @@
     "definition": [{
       "equivalent": ["ding-dong"],
       "meaning": "a sound of a doorbell",
+      "id": "pin_pon-1",
       "example": [
         {
           "file": "pinpon-1a",
@@ -21116,6 +21129,7 @@
           "pass by"
         ],
         "meaning": "an indication of moving past someone, typically ignoring them",
+        "id": "su-1",
         "example": [
           {
             "file": "su-1a",
@@ -21155,6 +21169,7 @@
           "yield"
         ],
         "meaning": "an indication of a slow, careful, or smooth motion",
+        "id": "su-2",
         "example": [
           {
             "file": "su-2a",
@@ -21211,6 +21226,7 @@
           "inhale"
         ],
         "meaning": "a sound of a deep breath, typically inhaled",
+        "id": "su-3",
         "example": [
           {
             "file": "su-3a",
@@ -21249,6 +21265,7 @@
           "raise"
         ],
         "meaning": "an indication of lifting or carrying",
+        "id": "su-4",
         "example": [
           {
             "file": "su-4a",
@@ -24080,6 +24097,7 @@
           "sss"
         ],
         "meaning": "a soft sound of raining or a shower",
+        "id": "za-1",
         "example": [
           {
             "file": "za-1a",
@@ -24112,6 +24130,7 @@
           "walk"
         ],
         "meaning": "a sound of someone taking a step or stomping",
+        "id": "za-2",
         "example": [
           {
             "file": "za-2b",
@@ -24140,6 +24159,7 @@
           "zoom"
         ],
         "meaning": "an indication or  sound of someone moving very fast",
+        "id": "za-3",
         "example": [
           {
             "file": "za-3a",
@@ -25258,6 +25278,7 @@
           "too close"
         ],
         "meaning": "an indication of getting too close to someone's face, often uncomfortably so",
+        "id": "zui-1",
         "example": [
           {
             "file": "zui-1a",
@@ -25289,6 +25310,7 @@
           "thrust"
         ],
         "meaning": "an indication of thrusting, shoving, or pushing",
+        "id": "zui-2",
         "example": [
           {
             "file": "zui-2a",

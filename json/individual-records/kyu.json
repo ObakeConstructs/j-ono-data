@@ -1,51 +1,49 @@
 {
-  "literal": "kyu",
-  "katakana": [
-    "キュ",
-    "キュッ",
-    "キュウ",
-    "キューッ"
-  ],
   "hiragana": [
     "きゅ",
     "きゅっ",
     "きゅう",
     "きゅーっ"
   ],
+  "katakana": [
+    "キュ",
+    "キュッ",
+    "キュウ",
+    "キューッ"
+  ],
   "definition": [
     {
-      "meaning": "an indication of squeezing lightly or softly",
-      "me_id": "kyu-1",
       "equivalent": [
         "cradle",
         "gently",
         "grasp",
         "hold"
       ],
+      "ref": "",
+      "meaning": "an indication of squeezing lightly or softly",
+      "id": "kyu-1",
       "example": [
         {
-          "source": "d_genesis",
           "file": "kyu-1a",
+          "contributor": "",
           "display": "きゅ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "lord_of_the_hundred_demons",
           "file": "kyu-1b",
+          "contributor": "",
           "display": "きゅっ",
-          "contributor": ""
+          "source": "lord_of_the_hundred_demons"
         },
         {
-          "source": "requiem_for_prophet",
           "file": "kyu-1c",
+          "contributor": "",
           "display": "きゅっ",
-          "contributor": ""
+          "source": "requiem_for_prophet"
         }
       ]
     },
     {
-      "meaning": "an indication or sound of tying, fastening or pulling something tight",
-      "me_id": "kyu-2",
       "equivalent": [
         "bind",
         "cinch",
@@ -55,61 +53,66 @@
         "tie",
         "tighten"
       ],
+      "ref": "",
+      "meaning": "an indication or sound of tying, fastening or pulling something tight",
+      "id": "kyu-2",
       "example": [
         {
-          "source": "dog_became_strongest",
           "file": "kyu-2a",
+          "contributor": "",
           "display": "きゅっ",
-          "contributor": ""
+          "source": "dog_became_strongest"
         },
         {
-          "source": "blazing_fire_brigade",
           "file": "kyu-2b",
+          "contributor": "",
           "display": "キュ",
-          "contributor": ""
+          "source": "blazing_fire_brigade"
         },
         {
-          "source": "rise_of_the_outlaw_tamer",
           "file": "kyu-2c",
+          "contributor": "",
           "display": "キュッ♡",
-          "contributor": ""
+          "source": "rise_of_the_outlaw_tamer"
         },
         {
-          "source": "sex_with_me_sells",
           "file": "kyu-2d",
+          "contributor": "",
           "display": "きゅっ",
-          "contributor": ""
+          "source": "sex_with_me_sells"
         }
       ]
     },
     {
-      "meaning": "a shrill squeaking sound",
-      "me_id": "kyu-3",
       "equivalent": [
         "screech",
         "squeak",
         "squeal"
       ],
+      "ref": "",
+      "meaning": "a shrill squeaking sound",
+      "id": "kyu-3",
       "example": [
         {
-          "source": "hikaro_no_go",
           "file": "kyu-3a",
+          "contributor": "",
           "display": "キュッ",
-          "contributor": ""
+          "source": "hikaro_no_go"
         },
         {
-          "source": "rise_of_the_outlaw_tamer",
           "file": "kyu-3b",
+          "contributor": "",
           "display": "きゅーっ",
-          "contributor": ""
+          "source": "rise_of_the_outlaw_tamer"
         },
         {
-          "source": "way_of_the_house_husband",
           "file": "kyu-3c",
+          "contributor": "",
           "display": "キュ",
-          "contributor": ""
+          "source": "way_of_the_house_husband"
         }
       ]
     }
-  ]
+  ],
+  "literal": "kyu"
 }

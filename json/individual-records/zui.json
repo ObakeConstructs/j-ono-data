@@ -1,21 +1,18 @@
 {
-  "literal": "zui",
-  "katakana": [
-    "ズイ",
-    "ズイッ",
-    "ズィ",
-    "ズィッ"
-  ],
   "hiragana": [
     "ずい",
     "ずいっ",
     "ずぃ",
     "ずぃっ"
   ],
+  "katakana": [
+    "ズイ",
+    "ズイッ",
+    "ズィ",
+    "ズィッ"
+  ],
   "definition": [
     {
-      "meaning": "an indication of getting too close to someone's face, often uncomfortably so",
-      "me_id": "undefined",
       "equivalent": [
         "close",
         "tight",
@@ -23,30 +20,31 @@
         "too close",
         "crowded"
       ],
+      "ref": "",
+      "meaning": "an indication of getting too close to someone's face, often uncomfortably so",
+      "id": "zui-1",
       "example": [
         {
-          "source": "reincarnated_farm_girl",
           "file": "zui-1a",
+          "contributor": "",
           "display": "ずいっ",
-          "contributor": ""
+          "source": "reincarnated_farm_girl"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "zui-1b",
+          "contributor": "",
           "display": "ずい",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "cheat_pharmacist",
           "file": "zui-1c",
+          "contributor": "",
           "display": "ズィ",
-          "contributor": ""
+          "source": "cheat_pharmacist"
         }
       ]
     },
     {
-      "meaning": "an indication of thrusting, shoving, or pushing",
-      "me_id": "undefined",
       "equivalent": [
         "thrust",
         "shove",
@@ -55,20 +53,24 @@
         "move",
         "force"
       ],
+      "ref": "",
+      "meaning": "an indication of thrusting, shoving, or pushing",
+      "id": "zui-2",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "zui-2a",
+          "contributor": "",
           "display": "ずいっ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "way_of_the_house_husband",
           "file": "zui-2b",
+          "contributor": "",
           "display": "ズィッ",
-          "contributor": ""
+          "source": "way_of_the_house_husband"
         }
       ]
     }
-  ]
+  ],
+  "literal": "zui"
 }
