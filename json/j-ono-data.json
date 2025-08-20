@@ -3849,10 +3849,14 @@
     ],
     "definition": [{
       "equivalent": [
+        "bam bam",
         "bang bang",
         "boom boom",
         "click click",
         "clickity click",
+        "crack crack",
+        "knock knock",
+        "pop pop",
         "step step",
         "stomp stomp",
         "tap tap",
@@ -4569,16 +4573,9 @@
         ]
       },
       {
-        "equivalent": [
-          "bam",
-          "boom",
-          "d-dum",
-          "dah",
-          "here",
-          "ta-da"
-        ],
-        "refer": "",
-        "meaning": "to call attention to something amazing or surprising in a dramatic fashion",
+        "equivalent": [""],
+        "refer": "bon:1",
+        "meaning": "",
         "example": [
           {
             "file": "don-2a",
@@ -4613,17 +4610,9 @@
     "hiragana": ["どんどん"],
     "katakana": ["ドンドン"],
     "definition": [{
-      "equivalent": [
-        "bam bam",
-        "bang bang",
-        "boom boom",
-        "crack crack",
-        "knock knock",
-        "pop pop",
-        "wham wham"
-      ],
-      "refer": "",
-      "meaning": "a series of sudden loud noises",
+      "equivalent": [""],
+      "refer": "da da:1",
+      "meaning": "",
       "example": [
         {
           "file": "don_don-1a",
@@ -4658,7 +4647,7 @@
         "trickle"
       ],
       "refer": "",
-      "meaning": "sound of pouring liquid",
+      "meaning": "a sound of pouring liquid",
       "example": [{
         "file": "dopopo-1a",
         "contributor": "",
@@ -4699,7 +4688,7 @@
         "trickle"
       ],
       "refer": "",
-      "meaning": "to melt, flow, or drip slowly",
+      "meaning": "a indication or sound of melting, flowing, or drippping, often  slowly",
       "example": [
         {
           "file": "doro-1a",
@@ -4739,7 +4728,7 @@
           "tumble"
         ],
         "refer": "",
-        "meaning": "to fall down from an upright position",
+        "meaning": "a sound of falling down or collapsing from an upright position",
         "example": [
           {
             "file": "dosa-1a",
@@ -4771,7 +4760,7 @@
           "whump"
         ],
         "refer": "",
-        "meaning": "to place or drop something onto a hard surface, often with a noticeable sound",
+        "meaning": "a sound of placing or dropping something onto a hard surface",
         "example": [
           {
             "file": "dosa-2a",
@@ -4824,7 +4813,7 @@
         "whomp"
       ],
       "refer": "",
-      "meaning": "the sound of a heavy impact, as from a falling person or a dropped object",
+      "meaning": "the sound of a heavy impact",
       "example": [
         {
           "file": "dosha-1a",
@@ -4932,26 +4921,13 @@
         ]
       },
       {
-        "equivalent": [
-          "bam",
-          "bang",
-          "crash",
-          "slam",
-          "smack",
-          "thud",
-          "thump",
-          "thunk",
-          "whack",
-          "wham",
-          "whap",
-          "whomp"
-        ],
-        "refer": "",
-        "meaning": "to drop something roughly or to sit down heavily",
+        "equivalent": [""],
+        "refer": "dosa:1",
+        "meaning": "",
         "example": [{
           "file": "dosu-2a",
           "contributor": "",
-          "display": "どすぅ",
+          "display": "どすっ",
           "source": "hikaro_no_go"
         }]
       }
@@ -4976,7 +4952,7 @@
         "whomp"
       ],
       "refer": "",
-      "meaning": "a sound of a heavy impact or dull thud",
+      "meaning": "the sound of a heavy or dull impact",
       "example": [{
         "file": "dosun-1a",
         "contributor": "",
@@ -5059,7 +5035,7 @@
           "wham wham"
         ],
         "refer": "",
-        "meaning": "a series of painful, but non-fatal strikes, as from the back of a sword",
+        "meaning": "sounds of painful, but non-fatal strikes",
         "example": [{
           "file": "do_do-1a",
           "contributor": "",
@@ -5076,7 +5052,7 @@
           "whump whump"
         ],
         "refer": "",
-        "meaning": "a series of small explosions",
+        "meaning": "sounds of small explosions",
         "example": [{
           "file": "do_do-2a",
           "contributor": "",
@@ -5097,7 +5073,7 @@
           "tromp tromp"
         ],
         "refer": "",
-        "meaning": "the sound of heavy or fast steps, as in stomping or running",
+        "meaning": "sounds of heavy or fast steps, as in stomping or running",
         "example": [
           {
             "file": "do_do-3a",
@@ -5122,7 +5098,7 @@
           "threat"
         ],
         "refer": "",
-        "meaning": "a sense of intense threat or menace",
+        "meaning": "an indication of intense threat or menace",
         "example": [{
           "file": "do_do-4a",
           "contributor": "Artrix",
@@ -5133,9 +5109,9 @@
       {
         "equivalent": [
           "accelerate",
-          "race race",
+          "race",
           "speed",
-          "vroom vroom"
+          "vroom"
         ],
         "refer": "",
         "meaning": "the sound of a loud or high-performance engine",
@@ -5179,7 +5155,7 @@
           "umm"
         ],
         "refer": "",
-        "meaning": "a vocalized sound expressing hesitation or thoughtful reflection, often drawn out",
+        "meaning": "a drawn-out vocalized sound, expressing hesitation or thoughtful reflection",
         "example": [{
           "file": "e-1a",
           "contributor": "",
@@ -5195,7 +5171,7 @@
           "what?"
         ],
         "refer": "",
-        "meaning": "a vocalized sound expressing surprise or concern",
+        "meaning": "a short vocalized sound, expressing surprise or concern",
         "example": [{
           "file": "e-2a",
           "contributor": "",
@@ -5224,7 +5200,7 @@
         "titter"
       ],
       "refer": "",
-      "meaning": "strained, forced, or embarrassed laughter",
+      "meaning": "a sound of strained, forced, or embarrassed laughter",
       "example": [{
         "file": "ehe-1a",
         "contributor": "",
@@ -5241,13 +5217,16 @@
       "equivalent": [
         "effort",
         "exert",
+        "heave",
         "hngh",
+        "hup",
         "push",
         "strain",
-        "urgh"
+        "urgh",
+        "yeah"
       ],
       "refer": "",
-      "meaning": "an indication of effort",
+      "meaning": "an indication of effort or exertion",
       "example": [{
         "file": "eisa-1a",
         "contributor": "",

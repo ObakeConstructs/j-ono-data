@@ -1,23 +1,34 @@
 {
-  "hiragana": ["えいさ"],
-  "katakana": ["エイサ"],
-  "definition": [{
-    "equivalent": [
-      "push",
-      "effort",
-      "exert",
-      "hngh",
-      "strain",
-      "urgh"
-    ],
-    "refer": "",
-    "meaning": "an indication of effort",
-    "example": [{
-      "file": "eisa-1a",
-      "contributor": "",
-      "display": "エイサ!",
-      "source": "blazing_fire_brigade"
-    }]
-  }],
-  "literal": "eisa"
+  "literal": "eisa",
+  "katakana": [
+    "エイサ"
+  ],
+  "hiragana": [
+    "えいさ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "an indication of effort or exertion",
+      "equivalent": [
+        "effort",
+        "exert",
+        "heave",
+        "hngh",
+        "hup",
+        "push",
+        "strain",
+        "urgh",
+        "yeah"
+      ],
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "eisa-1a",
+          "display": "エイサ!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
