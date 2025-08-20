@@ -3587,7 +3587,7 @@
         "suckle"
       ],
       "refer": "",
-      "meaning": "a sound sucking or slurping",
+      "meaning": "a sound of sucking or slurping",
       "example": [{
         "file": "chupu-1a",
         "contributor": "",
@@ -3674,7 +3674,7 @@
         "sprint"
       ],
       "refer": "",
-      "meaning": "to run or start running",
+      "meaning": "an indication of running or starting to run",
       "example": [
         {
           "file": "da-1a",
@@ -3711,7 +3711,7 @@
         "hug"
       ],
       "refer": "",
-      "meaning": "the act of putting one's arms around someone and holding tightly",
+      "meaning": "an indication of hugging or embracing",
       "example": [{
         "file": "daki-1a",
         "contributor": "",
@@ -3789,23 +3789,9 @@
       "ダンッダンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "bam bam",
-        "bang bang",
-        "blast blast",
-        "boom boom",
-        "hit hit",
-        "knock knock",
-        "pound pound",
-        "punch punch",
-        "slam slam",
-        "strike strike",
-        "thud thud",
-        "thunk thunk",
-        "whack whack"
-      ],
-      "refer": "",
-      "meaning": "a series of sudden impact or gunshot sounds",
+      "equivalent": [""],
+      "refer": "dan:1",
+      "meaning": "",
       "example": [
         {
           "file": "dan_dan-1a",
@@ -3828,14 +3814,17 @@
     "katakana": ["ダラダラ"],
     "definition": [{
       "equivalent": [
-        "bead bead",
+        "bead",
         "dribble",
-        "drip drip",
-        "drop drop",
-        "trickle"
+        "drip",
+        "drop",
+        "fret",
+        "sweat",
+        "trickle",
+        "worry"
       ],
       "refer": "",
-      "meaning": "continuously dripping sweat as an expression of anxiety or sudden realization, often used humorously",
+      "meaning": "indications of dripping sweat, as an expression of anxiety or sudden realization, often used humorously",
       "example": [{
         "file": "dara_dara-1b",
         "contributor": "",
@@ -3872,7 +3861,7 @@
         "wham wham"
       ],
       "refer": "",
-      "meaning": "rythmic sounds, typically short and sharp, like running, typing, or even gunfire",
+      "meaning": "rythmic sounds of short and sharp impacts",
       "example": [
         {
           "file": "da_da-1a",
@@ -3914,7 +3903,7 @@
         "tadah"
       ],
       "refer": "",
-      "meaning": "to call attention to something amazing or surprising in a somewhat dramatic fashion",
+      "meaning": "an indication of something amazing or surprising in a somewhat dramatic fashion",
       "example": [{
         "file": "den-1a",
         "contributor": "",
@@ -3997,7 +3986,7 @@
           "whoop"
         ],
         "refer": "",
-        "meaning": "an explosive outburst of laughter",
+        "meaning": "the sound of a burst of laughter, often rude or mocking",
         "example": [{
           "file": "do-2a",
           "contributor": "",
@@ -4025,7 +4014,7 @@
         "sploosh"
       ],
       "refer": "",
-      "meaning": "the sound of something splashing into water",
+      "meaning": "the sound of water splashing",
       "example": [
         {
           "file": "dobon-1a",
@@ -4047,14 +4036,9 @@
     "hiragana": ["どぶん"],
     "katakana": ["ドブン"],
     "definition": [{
-      "equivalent": [
-        "plop",
-        "plunge",
-        "splash",
-        "sploosh"
-      ],
-      "refer": "",
-      "meaning": "the sound of something splashing into water",
+      "equivalent": [""],
+      "refer": "dobon:1",
+      "meaning": "",
       "example": [{
         "file": "dobun-1a",
         "contributor": "",
@@ -4079,7 +4063,7 @@
         "gallop gallop"
       ],
       "refer": "",
-      "meaning": "the rythmic sound of horses galloping",
+      "meaning": "rythmic sounds of horses galloping",
       "example": [{
         "file": "dodoga_dodoga-1a",
         "contributor": "",
@@ -4109,6 +4093,7 @@
     "definition": [{
       "equivalent": [
         "bam",
+        "blam",
         "blow",
         "chop",
         "clobber",
@@ -4131,7 +4116,7 @@
         "wham"
       ],
       "refer": "",
-      "meaning": "a painful strike",
+      "meaning": "the sound of an impact or strike",
       "example": [
         {
           "file": "dogo-1a",
@@ -4165,16 +4150,9 @@
       "ドゴンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "blam",
-        "blow",
-        "crash",
-        "smash",
-        "strike",
-        "wham"
-      ],
-      "refer": "",
-      "meaning": "a large impact or an explosion",
+      "equivalent": [""],
+      "refer": "dogo:1",
+      "meaning": "",
       "example": [{
         "file": "dogon-1a",
         "contributor": "",
@@ -4206,7 +4184,7 @@
         "wham"
       ],
       "refer": "",
-      "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
+      "meaning": "a sudden booming sound of violent or explosive force",
       "example": [
         {
           "file": "doka-1a",
@@ -4242,19 +4220,9 @@
       "ドカーンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "blam",
-        "blow",
-        "boom",
-        "crash",
-        "slam",
-        "smash",
-        "strike",
-        "wallop",
-        "wham"
-      ],
-      "refer": "",
-      "meaning": "a loud and sudden booming sound, typically indicating a violent or explosive force",
+      "equivalent": [""],
+      "refer": "doka:1",
+      "meaning": "",
       "example": [
         {
           "file": "dokan-1a",
@@ -4292,10 +4260,11 @@
         "equivalent": [
           "ba-dump",
           "heartbeat",
+          "throb",
           "thump"
         ],
         "refer": "",
-        "meaning": "indication of a heart beat, as when in love, scared, or otherwise excited",
+        "meaning": "the indication of a heart beat or throb, as when in love, nervous, or otherwise excited",
         "example": [
           {
             "file": "doki-1a",
@@ -4328,7 +4297,7 @@
           "stroke"
         ],
         "refer": "",
-        "meaning": "indication of a light or gentle poke or prod",
+        "meaning": "the indication of a light or gentle poke or prod",
         "example": [{
           "file": "doki-2a",
           "contributor": "",
@@ -4360,13 +4329,9 @@
     "hiragana": ["どきん"],
     "katakana": ["ドキン"],
     "definition": [{
-      "equivalent": [
-        "ba-dump",
-        "heartbeat",
-        "thump"
-      ],
-      "refer": "",
-      "meaning": "an indication of a heart beat, as when in nervious or embarrassed",
+      "equivalent": [""],
+      "refer": "doki:1",
+      "meaning": "",
       "example": [{
         "file": "dokin-1a",
         "contributor": "",
@@ -4386,13 +4351,9 @@
       "ドッキドッキ"
     ],
     "definition": [{
-      "equivalent": [
-        "ba-dump",
-        "heartbeat",
-        "thump thump"
-      ],
-      "refer": "",
-      "meaning": "indication of elevated heart rate, like when in love, scared, or otherwise excited",
+      "equivalent": [""],
+      "refer": "doki:1",
+      "meaning": "",
       "example": [
         {
           "file": "doki_doki-1a",
@@ -4420,12 +4381,9 @@
     "hiragana": ["どく"],
     "katakana": ["ドク"],
     "definition": [{
-      "equivalent": [
-        "ba-bump",
-        "throb"
-      ],
-      "refer": "",
-      "meaning": "an indication of a heartbeat or a rythmic throbbing",
+      "equivalent": [""],
+      "refer": "doki:1",
+      "meaning": "",
       "example": [{
         "file": "doku-1a",
         "contributor": "",
@@ -4439,12 +4397,9 @@
     "hiragana": ["どくん"],
     "katakana": ["ドクン"],
     "definition": [{
-      "equivalent": [
-        "ba-bump",
-        "throb"
-      ],
-      "refer": "",
-      "meaning": "the indication or sound of strong heartbeat, often used to indicate a dramatic realization",
+      "equivalent": [""],
+      "refer": "doki:1",
+      "meaning": "",
       "example": [
         {
           "file": "dokun-1a",
@@ -4472,14 +4427,9 @@
     "hiragana": ["どくんどくん"],
     "katakana": ["ドクンドクン"],
     "definition": [{
-      "equivalent": [
-        "ba-bump",
-        "beat beat",
-        "pulse pulse",
-        "throb throb"
-      ],
-      "refer": "",
-      "meaning": "an indication of a heartbeat or a rythmic throbbing",
+      "equivalent": [""],
+      "refer": "doki:1",
+      "meaning": "",
       "example": [
         {
           "file": "dokun_dokun-1a",
@@ -4572,7 +4522,7 @@
           "wreck"
         ],
         "refer": "",
-        "meaning": "a sound of things impacting, can be loud or soft depending on context",
+        "meaning": "the sound of an impact or strike",
         "example": [
           {
             "file": "don-1a",
@@ -4609,6 +4559,12 @@
             "contributor": "",
             "display": "どんっ",
             "source": "uncle_at_heart"
+          },
+          {
+            "file": "don-1g",
+            "contributor": "",
+            "display": "ドオン",
+            "source": "kuma_kuma_kuma_bear"
           }
         ]
       },
@@ -4649,26 +4605,6 @@
             "source": "spy_x_family"
           }
         ]
-      },
-      {
-        "equivalent": [
-          "bam",
-          "bang",
-          "blast",
-          "boom",
-          "crack",
-          "pop",
-          "whomp",
-          "whump"
-        ],
-        "refer": "",
-        "meaning": "a relatively small explosion",
-        "example": [{
-          "file": "don-3a",
-          "contributor": "",
-          "display": "ドオン",
-          "source": "kuma_kuma_kuma_bear"
-        }]
       }
     ],
     "literal": "don"

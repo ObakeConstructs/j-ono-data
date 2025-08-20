@@ -1,29 +1,28 @@
 {
-  "hiragana": [
-    "どごん",
-    "どごんっ"
-  ],
+  "literal": "dogon",
   "katakana": [
     "ドゴン",
     "ドゴンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "blam",
-      "blow",
-      "crash",
-      "smash",
-      "strike",
-      "wham"
-    ],
-    "refer": "",
-    "meaning": "a large impact or an explosion",
-    "example": [{
-      "file": "dogon-1a",
-      "contributor": "",
-      "display": "ドゴン",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "dogon"
+  "hiragana": [
+    "どごん",
+    "どごんっ"
+  ],
+  "definition": [
+    {
+      "refer": "dogo:1",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "dogon-1a",
+          "display": "ドゴン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
