@@ -66,26 +66,28 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   * a "display" string
   * a "source" string
 
-Example Definition Record:
+Examples of Definition Records:
+
+```
+{
+  "literal": "baki",
+  "katakana": [ "バキ", "バキッ" ],
+  "hiragana": [ "ばき", "ばきっ" ],
+  "definition": [{
+      "refer": "",
+      "equivalent": [ "crack", "crash", "pop", "shatter", "smash", "snap" ],
+      "meaning": "a sound of something cracking or breaking",
+      "example": [{
+          "source": "hanako_24th_ward",
+          "file": "baki-1a",
+          "display": "バキッ",
+          "contributor": ""
+        }]
+    }]
+}
 ```
 
-{
-  "literal": "an",
-  "katakana": [ "アン", "アーン" ],
-  "hiragana": [ "あん", "あーん" ],
-  "definition": [{
-    "refer": "",
-    "equivalent": [ "aah", "ahh", "mah", "wah" ],
-    "meaning": "a wide open mouth, as preparing to eat something",
-    "example": [{
-      "file": "an-1a",
-      "contributor": "",
-      "display": "あーん",
-      "source": "otherworld_material_collector"
-    }]
-  }]
-}
-
+```
 ```
 
 ## IMAGE FILE
