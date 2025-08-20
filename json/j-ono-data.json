@@ -203,20 +203,9 @@
     "hiragana": ["あわあわ"],
     "katakana": ["アワアワ"],
     "definition": [{
-      "equivalent": [
-        "agitation",
-        "anxiety",
-        "dismay dismay",
-        "fluster",
-        "jitter jitter",
-        "nervous",
-        "panic panic",
-        "uh uh",
-        "um um",
-        "worry"
-      ],
+      "equivalent": [""],
       "refer": "awa:1",
-      "meaning": "an expression of panic, anxiety, or uncertainty.",
+      "meaning": "",
       "example": [{
         "file": "awa_awa-1a",
         "contributor": "",
@@ -280,7 +269,7 @@
           "zip"
         ],
         "refer": "",
-        "meaning": "an indication of a sudden and/or fast movement",
+        "meaning": "the indication of a sudden and/or fast movement",
         "example": [
           {
             "file": "ba-2a",
@@ -312,20 +301,18 @@
         "equivalent": [
           "bam",
           "bang",
-          "crash",
+          "hit",
           "slam",
           "slap",
           "smack",
-          "thud",
           "thump",
-          "thunk",
+          "thwack",
           "whack",
           "wham",
-          "whap",
-          "whomp"
+          "whap"
         ],
         "refer": "",
-        "meaning": "a sound of a sudden and loud impact",
+        "meaning": "the sound of an impact, usually sudden",
         "example": [{
           "file": "ba-3a",
           "contributor": "",
@@ -388,18 +375,9 @@
       "ババッ"
     ],
     "definition": [{
-      "equivalent": [
-        "fwip",
-        "fwit",
-        "jolt",
-        "pop",
-        "snap",
-        "startle",
-        "sudden",
-        "zip"
-      ],
-      "refer": "",
-      "meaning": "an indication or sound of sudden or fast movement",
+      "equivalent": [""],
+      "refer": "ba:2",
+      "meaning": "",
       "example": [
         {
           "file": "baba-1a",
@@ -435,7 +413,7 @@
           "jolt"
         ],
         "refer": "",
-        "meaning": "a sound of an electrical discharge",
+        "meaning": "the sound of an electrical discharge",
         "example": [{
           "file": "bachi-1a",
           "contributor": "",
@@ -515,7 +493,7 @@
         "smash"
       ],
       "refer": "",
-      "meaning": "a sound of an impact or crash",
+      "meaning": "the sound of an impact or crash",
       "example": [{
         "file": "baga-1a",
         "contributor": "",
@@ -544,7 +522,7 @@
         "snap"
       ],
       "refer": "",
-      "meaning": "a sound of something breaking or cracking",
+      "meaning": "a sound of something cracking or breaking",
       "example": [
         {
           "file": "baki-1a",
@@ -572,14 +550,9 @@
       "バキンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "crack",
-        "crash",
-        "shatter",
-        "smash"
-      ],
-      "refer": "",
-      "meaning": "a sound of something suddenly falling apart or breaking into pieces",
+      "equivalent": [""],
+      "refer": "baki:1",
+      "meaning": "",
       "example": [{
         "file": "bakin-1a",
         "contributor": "",
@@ -593,14 +566,9 @@
     "hiragana": ["ばきばき"],
     "katakana": ["バキバキ"],
     "definition": [{
-      "equivalent": [
-        "crack crack",
-        "crash crash",
-        "shatter shatter",
-        "smash smash"
-      ],
-      "refer": "",
-      "meaning": "sounds of cracking or breaking",
+      "equivalent": [""],
+      "refer": "baki:1",
+      "meaning": "",
       "example": [{
         "file": "baki_baki-1a",
         "contributor": "",
@@ -650,21 +618,9 @@
     ],
     "definition": [
       {
-        "equivalent": [
-          "bam",
-          "bang",
-          "crack",
-          "hit",
-          "pound",
-          "slam",
-          "slap",
-          "slug",
-          "sock",
-          "thwack",
-          "whack"
-        ],
-        "refer": "",
-        "meaning": "a short, sharp sound of impact",
+        "equivalent": [""],
+        "refer": "ba:3",
+        "meaning": "",
         "example": [
           {
             "file": "ban-1a",
@@ -919,7 +875,7 @@
         "swash"
       ],
       "refer": "",
-      "meaning": "the sound of a medium to large splash",
+      "meaning": "a sound of water splashing",
       "example": [
         {
           "file": "basha-1a",
@@ -947,18 +903,9 @@
       "バシャーン"
     ],
     "definition": [{
-      "equivalent": [
-        "gush",
-        "jet",
-        "slosh",
-        "spew",
-        "splash",
-        "sploosh",
-        "spout",
-        "swash"
-      ],
+      "equivalent": [""],
       "refer": "basha:1",
-      "meaning": "a sound of a medium to large splash...",
+      "meaning": "",
       "example": [{
         "file": "bashan-1a",
         "contributor": "",
@@ -1182,7 +1129,7 @@
         "slurp"
       ],
       "refer": "",
-      "meaning": "a sound of a licking tongue",
+      "meaning": "the sound of a licking tongue",
       "example": [{
         "file": "beron-1a",
         "contributor": "",
@@ -1255,7 +1202,7 @@
           "wallop"
         ],
         "refer": "",
-        "meaning": "a sound of a quick strike",
+        "meaning": "the sound of a quick strike",
         "example": [
           {
             "file": "bi-1a",
@@ -1279,7 +1226,7 @@
           "snap"
         ],
         "refer": "",
-        "meaning": "an indication of a quick gesture",
+        "meaning": "the indication of a quick gesture",
         "example": [{
           "file": "bi-2a",
           "contributor": "",
