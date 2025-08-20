@@ -54,11 +54,11 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   * an array of "hiragana" strings
   * an array of "definition" objects
 * Each "definition" object contains...
-  * either...
-    * a "refer" string as a reference to another definition (for normalizing duplicate definitions)
-  * or...
-    * an array of english "equivalent" strings
-    * a "meaning" string
+  * a "refer" string as a reference to another definition (for normalizing duplicate definitions)
+    * the convention of a "refer" strings is `<literal>:<def num>`, where "def num" is the array index of the referred definition
+    * a non-blank "refer" string will supercede all "meaning" and "equivalent" values in the Search tool.
+  * an array of english "equivalent" strings
+  * a "meaning" string
   * an array of "example" objects
 * Each "example" object contains...
   * a "filename" string
