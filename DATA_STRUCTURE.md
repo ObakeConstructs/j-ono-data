@@ -16,7 +16,7 @@ All source records are stored in a single JSON array in the `j-ono-source.json` 
   * a "site" string (not used, just a convenience) 
   * an array of "source" objects.
 * Each "source" object contains
-  * an "id" name string (unique id string)
+  * a unique "id" name string
   * a "manga" title string (shown in J-Ono Search as manga title for associated images)
 
 Example Soure Record:
@@ -54,8 +54,11 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   * an array of "hiragana" strings
   * an array of "definition" objects
 * Each "definition" object contains...
-  * an array of english "equivalent" strings
-  * a "meaning" string
+  * either...
+    * a "refer" string as a reference to another definition (for normalizing duplicate definitions)
+  * or...
+    * an array of english "equivalent" strings
+    * a "meaning" string
   * an array of "example" objects
 * Each "example" object contains...
   * a "filename" string
@@ -71,6 +74,7 @@ Example Definition Record:
   "katakana": [ "アン", "アーン" ],
   "hiragana": [ "あん", "あーん" ],
   "definition": [{
+    "refer": "",
     "equivalent": [ "aah", "ahh", "mah", "wah" ],
     "meaning": "a wide open mouth, as preparing to eat something",
     "example": [{
