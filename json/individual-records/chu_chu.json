@@ -1,27 +1,28 @@
 {
-  "hiragana": [
-    "ちゅちゅ",
-    "ちゅっちゅっ"
-  ],
+  "literal": "chu chu",
   "katakana": [
     "チュチュ",
     "チュッチュッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "kiss kiss",
-      "lick lick",
-      "slurp slurp",
-      "suck suck"
-    ],
-    "refer": "",
-    "meaning": "the sound of continuous kissing, licking or sucking",
-    "example": [{
-      "file": "chu_chu-1a",
-      "contributor": "",
-      "display": "チュッ  チュッ",
-      "source": "rise_of_the_outlaw_tamer"
-    }]
-  }],
-  "literal": "chu chu"
+  "hiragana": [
+    "ちゅちゅ",
+    "ちゅっちゅっ"
+  ],
+  "definition": [
+    {
+      "refer": "chu:1",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "chu_chu-1a",
+          "display": "チュッ  チュッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

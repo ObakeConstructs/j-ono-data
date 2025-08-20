@@ -1,27 +1,31 @@
 {
-  "hiragana": [
-    "あん",
-    "あーん"
-  ],
+  "literal": "an",
   "katakana": [
     "アン",
     "アーン"
   ],
-  "definition": [{
-    "equivalent": [
-      "aah",
-      "ahh",
-      "mah",
-      "wah"
-    ],
-    "refer": "",
-    "meaning": "an indication or sound of a wide-open mouth, as preparing to eat something",
-    "example": [{
-      "file": "an-1a",
-      "contributor": "",
-      "display": "あーん",
-      "source": "otherworld_material_collector"
-    }]
-  }],
-  "literal": "an"
+  "hiragana": [
+    "あん",
+    "あーん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "an indication or sound of opening one's mouth",
+      "equivalent": [
+        "aah",
+        "ahh",
+        "mah",
+        "wah"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "an-1a",
+          "display": "あーん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

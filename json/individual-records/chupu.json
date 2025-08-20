@@ -1,20 +1,28 @@
 {
-  "hiragana": ["ちゅぷ"],
-  "katakana": ["チュプ"],
-  "definition": [{
-    "equivalent": [
-      "slurp",
-      "suck",
-      "suckle"
-    ],
-    "refer": "",
-    "meaning": "a licking or sucking sound",
-    "example": [{
-      "file": "chupu-1a",
-      "contributor": "",
-      "display": "チュプ",
-      "source": "gyaru_academy"
-    }]
-  }],
-  "literal": "chupu"
+  "literal": "chupu",
+  "katakana": [
+    "チュプ"
+  ],
+  "hiragana": [
+    "ちゅぷ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "a sound sucking or slurping",
+      "equivalent": [
+        "slurp",
+        "suck",
+        "suckle"
+      ],
+      "example": [
+        {
+          "source": "gyaru_academy",
+          "file": "chupu-1a",
+          "display": "チュプ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

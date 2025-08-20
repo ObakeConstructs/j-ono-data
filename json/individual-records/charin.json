@@ -1,36 +1,34 @@
 {
-  "hiragana": [
-    "ちゃりん",
-    "ちゃりーん"
-  ],
+  "literal": "charin",
   "katakana": [
     "チャリン",
     "チャリーン"
   ],
-  "definition": [{
-    "equivalent": [
-      "ching",
-      "clink",
-      "ding",
-      "ting",
-      "tink"
-    ],
-    "refer": "",
-    "meaning": "a small metallic noise, typically of tossed coins",
-    "example": [
-      {
-        "file": "charin-1a",
-        "contributor": "",
-        "display": "チャリン",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "charin-1b",
-        "contributor": "",
-        "display": "チャリン..",
-        "source": "isekai_pickup"
-      }
-    ]
-  }],
-  "literal": "charin"
+  "hiragana": [
+    "ちゃりん",
+    "ちゃりーん"
+  ],
+  "definition": [
+    {
+      "refer": "chari:1",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "charin-1a",
+          "display": "チャリン",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_pickup",
+          "file": "charin-1b",
+          "display": "チャリン..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

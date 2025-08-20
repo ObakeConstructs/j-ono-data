@@ -1,23 +1,32 @@
 {
-  "hiragana": ["ちゃら"],
-  "katakana": ["チャラ"],
-  "definition": [{
-    "equivalent": [
-      "clack",
-      "clatter",
-      "click",
-      "clink",
-      "ker-chak",
-      "rattle"
-    ],
-    "refer": "",
-    "meaning": "a short rattling noise",
-    "example": [{
-      "file": "chara-1a",
-      "contributor": "",
-      "display": "チャラ...",
-      "source": "s_rank_behemoth"
-    }]
-  }],
-  "literal": "chara"
+  "literal": "chara",
+  "katakana": [
+    "チャラ"
+  ],
+  "hiragana": [
+    "ちゃら"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "a sound of rattling or jingling",
+      "equivalent": [
+        "clack",
+        "clatter",
+        "click",
+        "clink",
+        "ker-chak",
+        "rattle",
+        "jingle"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "chara-1a",
+          "display": "チャラ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

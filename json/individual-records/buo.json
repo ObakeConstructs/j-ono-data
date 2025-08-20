@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "ぶお",
-    "ぶおお",
-    "ぶおおお",
-    "ぶぉ",
-    "ぶぉぉ",
-    "ぶぉぉぉ"
-  ],
+  "literal": "buo",
   "katakana": [
     "ブオ",
     "ブオオ",
@@ -15,8 +8,18 @@
     "ブォォ",
     "ブォォォ"
   ],
+  "hiragana": [
+    "ぶお",
+    "ぶおお",
+    "ぶおおお",
+    "ぶぉ",
+    "ぶぉぉ",
+    "ぶぉぉぉ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "a sound of wind or blowing",
       "equivalent": [
         "blast",
         "blow",
@@ -26,46 +29,43 @@
         "voom",
         "whoosh"
       ],
-      "refer": "",
-      "meaning": "a sound of wind or blowing",
       "example": [
         {
+          "source": "otherworld_material_collector",
           "file": "buo-1a",
-          "contributor": "",
           "display": "ブォォォ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "human_ranch",
           "file": "buo-1b",
-          "contributor": "",
           "display": "ブォォォォォォォォ",
-          "source": "human_ranch"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "the sound of a moving automobile",
       "equivalent": [
         "roar",
         "rumble",
         "vroom"
       ],
-      "refer": "",
-      "meaning": "a sound of a moving automobile",
       "example": [
         {
+          "source": "hero_or_demon_king",
           "file": "buo-2a",
-          "contributor": "",
           "display": "ブォォォ",
-          "source": "hero_or_demon_king"
+          "contributor": ""
         },
         {
+          "source": "spy_x_family",
           "file": "buo-2b",
-          "contributor": "",
           "display": "ブォォォ",
-          "source": "spy_x_family"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "buo"
+  ]
 }

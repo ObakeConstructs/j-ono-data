@@ -156,7 +156,7 @@
         "wah"
       ],
       "refer": "",
-      "meaning": "an indication or sound of a wide-open mouth, as preparing to eat something",
+      "meaning": "an indication or sound of opening one's mouth",
       "example": [{
         "file": "an-1a",
         "contributor": "",
@@ -963,7 +963,7 @@
         "whomp"
       ],
       "refer": "",
-      "meaning": "a sound of a sudden or loud impact",
+      "meaning": "the sound of a sudden or loud impact",
       "example": [
         {
           "file": "bashi-1a",
@@ -1030,7 +1030,7 @@
         "thwack"
       ],
       "refer": "",
-      "meaning": "a sound of a rattling impact, as from a door or window opening or closing",
+      "meaning": "the sound of a rattling impact, as from a door or window opening or closing",
       "example": [
         {
           "file": "batan-1a",
@@ -1601,7 +1601,7 @@
           "whap"
         ],
         "refer": "",
-        "meaning": "a sound of a sudden strike",
+        "meaning": "the sound of a sudden strike",
         "example": [
           {
             "file": "bishi-2a",
@@ -1630,7 +1630,7 @@
           "point"
         ],
         "refer": "",
-        "meaning": "an indication of suddenly pointing at something",
+        "meaning": "an indication of suddenly pointing at something,",
         "example": [{
           "file": "bishi-3a",
           "contributor": "",
@@ -1772,7 +1772,7 @@
           "vacant"
         ],
         "refer": "",
-        "meaning": "an indication or expression of a lack of energy or attention",
+        "meaning": "the indication or expression of a lack of energy or attention",
         "example": [{
           "file": "bo-2a",
           "contributor": "",
@@ -1910,7 +1910,7 @@
         "tok"
       ],
       "refer": "",
-      "meaning": "a sound of a sudden impact",
+      "meaning": "the sound of a sudden impact",
       "example": [{
         "file": "bokon-1a",
         "contributor": "",
@@ -2157,7 +2157,7 @@
         "whump"
       ],
       "refer": "",
-      "meaning": "a sound of a soft or muffled explosion",
+      "meaning": "the sound of a soft or muffled explosion",
       "example": [{
         "file": "boun-1a",
         "contributor": "Artrix",
@@ -2222,7 +2222,7 @@
         "wiggle"
       ],
       "refer": "",
-      "meaning": "an indication of a bounce",
+      "meaning": "the indication of a bounce",
       "example": [
         {
           "file": "boyon-1a",
@@ -2588,7 +2588,7 @@
           "vroom"
         ],
         "refer": "",
-        "meaning": "a sound of a moving automobile",
+        "meaning": "the sound of a moving automobile",
         "example": [
           {
             "file": "buo-2a",
@@ -2624,7 +2624,7 @@
         "vroom"
       ],
       "refer": "",
-      "meaning": "a sound of a car moving or an engine at work",
+      "meaning": "the sound of a car moving or an engine at work",
       "example": [
         {
           "file": "buro-1a",
@@ -2777,7 +2777,7 @@
         "snip"
       ],
       "refer": "",
-      "meaning": "a sound of a quick cut, piercing, or break",
+      "meaning": "the sound of a quick cut, piercing, or break",
       "example": [{
         "file": "butsu-1a",
         "contributor": "",
@@ -2832,7 +2832,7 @@
         "vrrm"
       ],
       "refer": "",
-      "meaning": "a low rumbling sound of a car engine at idle",
+      "meaning": "the low rumbling sound of a car engine at idle",
       "example": [{
         "file": "buu-1a",
         "contributor": "",
@@ -2859,7 +2859,7 @@
           "ka-boom"
         ],
         "refer": "",
-        "meaning": "a sound of a loud explosion or explosive force",
+        "meaning": "the sound of a loud explosion or explosive force",
         "example": [
           {
             "file": "buwa-1a",
@@ -3052,7 +3052,7 @@
         "shing"
       ],
       "refer": "",
-      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "meaning": "a short metallic sound, as of a sharp instrument suddenly appearing",
       "example": [{
         "file": "cha-1a",
         "contributor": "",
@@ -3107,12 +3107,9 @@
       "チャキーン"
     ],
     "definition": [{
-      "equivalent": [
-        "ching",
-        "shing"
-      ],
-      "refer": "",
-      "meaning": "a metallic sound, typical when unsheathing blades",
+      "equivalent": [""],
+      "refer": "cha:1",
+      "meaning": "",
       "example": [{
         "file": "chakin-1a",
         "contributor": "",
@@ -3161,11 +3158,12 @@
         "clatter",
         "click",
         "clink",
+        "jingle",
         "ker-chak",
         "rattle"
       ],
       "refer": "",
-      "meaning": "a short rattling noise",
+      "meaning": "a sound of rattling or jingling",
       "example": [{
         "file": "chara-1a",
         "contributor": "",
@@ -3230,15 +3228,9 @@
       "チャリーン"
     ],
     "definition": [{
-      "equivalent": [
-        "ching",
-        "clink",
-        "ding",
-        "ting",
-        "tink"
-      ],
-      "refer": "",
-      "meaning": "a small metallic noise, typically of tossed coins",
+      "equivalent": [""],
+      "refer": "chari:1",
+      "meaning": "",
       "example": [
         {
           "file": "charin-1a",
@@ -3274,7 +3266,7 @@
         "tsk"
       ],
       "refer": "",
-      "meaning": "a verbal interjection indicating annoyance ",
+      "meaning": "the sound of a dental tsk, typically indicating annoyance ",
       "example": [{
         "file": "chi-1a",
         "contributor": "",
@@ -3293,7 +3285,7 @@
         "click"
       ],
       "refer": "",
-      "meaning": "a sharp clicking sound",
+      "meaning": "a sharp sound of clicking",
       "example": [{
         "file": "chiki-1a",
         "contributor": "",
@@ -3307,12 +3299,9 @@
     "hiragana": ["ちきちき"],
     "katakana": ["チキチキ"],
     "definition": [{
-      "equivalent": [
-        "chik chik",
-        "click click"
-      ],
-      "refer": "",
-      "meaning": "a series of sharp clicking sounds",
+      "equivalent": [""],
+      "refer": "chiki:1",
+      "meaning": "",
       "example": [{
         "file": "chiki_chiki-1a",
         "contributor": "",
@@ -3342,7 +3331,7 @@
         "squeak"
       ],
       "refer": "",
-      "meaning": "a loud or shrill sound, often as blowing one's nose",
+      "meaning": "a loud or shrill sound of blowing one's nose, usually humorous",
       "example": [{
         "file": "chin-1a",
         "contributor": "",
@@ -3386,7 +3375,7 @@
         "view"
       ],
       "refer": "",
-      "meaning": "a quick or hasty look",
+      "meaning": "the indication of a quick or hasty look",
       "example": [
         {
           "file": "chira-1a",
@@ -3518,18 +3507,15 @@
     ],
     "definition": [{
       "equivalent": [
-        "drink",
         "kiss",
         "lick",
-        "lip",
-        "quaff",
-        "sip",
         "slurp",
+        "smooch",
         "suck",
-        "swig"
+        "suckle"
       ],
       "refer": "",
-      "meaning": "a soft sound of kissing, licking or sucking",
+      "meaning": "a sound of kissing, licking, or sucking",
       "example": [
         {
           "file": "chu-1a",
@@ -3564,16 +3550,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "cheep cheep",
-        "chirp chirp",
-        "peep peep",
-        "pip pip",
-        "trill trill",
-        "tweet tweet",
-        "warble warble"
+        "cheep",
+        "chirp",
+        "peep",
+        "pip",
+        "trill",
+        "tweet",
+        "warble"
       ],
       "refer": "",
-      "meaning": "a series of short sharp sound, as from a small bird",
+      "meaning": "short sharp sounds of a small bird",
       "example": [
         {
           "file": "chun_chun-1a",
@@ -3601,7 +3587,7 @@
         "suckle"
       ],
       "refer": "",
-      "meaning": "a licking or sucking sound",
+      "meaning": "a sound sucking or slurping",
       "example": [{
         "file": "chupu-1a",
         "contributor": "",
@@ -3627,7 +3613,7 @@
         "sup"
       ],
       "refer": "",
-      "meaning": "to noisily consume a liquid or noodles",
+      "meaning": "a sound of sucking or slurping",
       "example": [
         {
           "file": "churu-1a",
@@ -3655,14 +3641,9 @@
       "チュッチュッ"
     ],
     "definition": [{
-      "equivalent": [
-        "kiss kiss",
-        "lick lick",
-        "slurp slurp",
-        "suck suck"
-      ],
-      "refer": "",
-      "meaning": "the sound of continuous kissing, licking or sucking",
+      "equivalent": [""],
+      "refer": "chu:1",
+      "meaning": "",
       "example": [{
         "file": "chu_chu-1a",
         "contributor": "",

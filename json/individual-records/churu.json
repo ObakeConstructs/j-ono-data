@@ -1,34 +1,36 @@
 {
-  "hiragana": [
-    "ちゅる",
-    "ちゅるっ"
-  ],
+  "literal": "churu",
   "katakana": [
     "チュル",
     "チュルッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "drink",
-      "slurp",
-      "sup"
-    ],
-    "refer": "",
-    "meaning": "to noisily consume a liquid or noodles",
-    "example": [
-      {
-        "file": "churu-1a",
-        "contributor": "",
-        "display": "ちゅる",
-        "source": "d_genesis"
-      },
-      {
-        "file": "churu-1b",
-        "contributor": "",
-        "display": "チュル..",
-        "source": "rise_of_the_outlaw_tamer"
-      }
-    ]
-  }],
-  "literal": "churu"
+  "hiragana": [
+    "ちゅる",
+    "ちゅるっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "a sound of sucking or slurping",
+      "equivalent": [
+        "drink",
+        "slurp",
+        "sup"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "churu-1a",
+          "display": "ちゅる",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "churu-1b",
+          "display": "チュル..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

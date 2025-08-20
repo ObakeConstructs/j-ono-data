@@ -1,29 +1,33 @@
 {
-  "hiragana": [
-    "ぶつ",
-    "ぶつっ"
-  ],
+  "literal": "butsu",
   "katakana": [
     "ブツ",
     "ブツッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "cut",
-      "slice",
-      "snip",
-      "nick",
-      "snap",
-      "prick"
-    ],
-    "refer": "",
-    "meaning": "a sound of a quick cut, piercing, or break",
-    "example": [{
-      "file": "butsu-1a",
-      "contributor": "",
-      "display": "ブツッ...",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "butsu"
+  "hiragana": [
+    "ぶつ",
+    "ぶつっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "the sound of a quick cut, piercing, or break",
+      "equivalent": [
+        "cut",
+        "nick",
+        "prick",
+        "slice",
+        "snap",
+        "snip"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "butsu-1a",
+          "display": "ブツッ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

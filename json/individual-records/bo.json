@@ -1,16 +1,5 @@
 {
-  "hiragana": [
-    "ぼ",
-    "ぼっ",
-    "ぼー",
-    "ぼーっ",
-    "ぼお",
-    "ぼおお",
-    "ぼおおお",
-    "ぼぉ",
-    "ぼぉぉ",
-    "ぼぉぉぉ"
-  ],
+  "literal": "bo",
   "katakana": [
     "ボ",
     "ボッ",
@@ -23,8 +12,22 @@
     "ボォォ",
     "ボォォォ"
   ],
+  "hiragana": [
+    "ぼ",
+    "ぼっ",
+    "ぼー",
+    "ぼーっ",
+    "ぼお",
+    "ぼおお",
+    "ぼおおお",
+    "ぼぉ",
+    "ぼぉぉ",
+    "ぼぉぉぉ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "a sound of fire or burning",
       "equivalent": [
         "blaze",
         "burn",
@@ -33,24 +36,24 @@
         "ignite",
         "torch"
       ],
-      "refer": "",
-      "meaning": "a sound of fire or burning",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "bo-1a",
-          "contributor": "",
           "display": "ボッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "spy_x_family",
           "file": "bo-1b",
-          "contributor": "",
           "display": "ボォォォ",
-          "source": "spy_x_family"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "the indication or expression of a lack of energy or attention",
       "equivalent": [
         "day-dream",
         "distracted",
@@ -68,15 +71,14 @@
         "spacey",
         "vacant"
       ],
-      "refer": "",
-      "meaning": "an indication or expression of a lack of energy or attention",
-      "example": [{
-        "file": "bo-2a",
-        "contributor": "",
-        "display": "ぼー...",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "bo-2a",
+          "display": "ぼー...",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "bo"
+  ]
 }
