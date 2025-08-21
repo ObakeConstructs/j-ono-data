@@ -1,36 +1,34 @@
 {
-  "hiragana": [
-    "がさがさ",
-    "がさがさっ"
-  ],
+  "literal": "gasa gasa",
   "katakana": [
     "ガサガサ",
     "ガサガサッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "movement",
-      "rustle rustle",
-      "stir stir",
-      "swish swish",
-      "whoosh whoosh"
-    ],
-    "refer": "",
-    "meaning": "small rustling sounds, like wind-blown leaves or underbrush",
-    "example": [
-      {
-        "file": "gasa_gasa-1a",
-        "contributor": "",
-        "display": "ガサ  ガサ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "gasa_gasa-1b",
-        "contributor": "",
-        "display": "ガサ  ガサッ",
-        "source": "reincarnated_aristocrat"
-      }
-    ]
-  }],
-  "literal": "gasa gasa"
+  "hiragana": [
+    "がさがさ",
+    "がさがさっ"
+  ],
+  "definition": [
+    {
+      "refer": "gasa:1",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gasa_gasa-1a",
+          "display": "ガサ  ガサ",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "gasa_gasa-1b",
+          "display": "ガサ  ガサッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

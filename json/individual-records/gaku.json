@@ -1,13 +1,5 @@
 {
-  "hiragana": [
-    "がく",
-    "がくー",
-    "がくっ",
-    "がくぅ",
-    "がくぅぅ",
-    "がくぅっ",
-    "がくぅぅっ"
-  ],
+  "literal": "gaku",
   "katakana": [
     "ガク",
     "ガクー",
@@ -17,8 +9,19 @@
     "ガクゥッ",
     "ガクゥゥッ"
   ],
+  "hiragana": [
+    "がく",
+    "がくー",
+    "がくっ",
+    "がくぅ",
+    "がくぅぅ",
+    "がくぅっ",
+    "がくぅぅっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "an expression of giving up or passing out",
       "equivalent": [
         "fall",
         "fold",
@@ -29,30 +32,30 @@
         "slump",
         "succumb"
       ],
-      "refer": "",
-      "meaning": "An expression of giving up or passing out",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "gaku-1a",
-          "contributor": "",
           "display": "がく",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "world_full_of_monsters",
           "file": "gaku-1b",
-          "contributor": "",
           "display": "ガクッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "yojo_life",
           "file": "gaku-1c",
-          "contributor": "",
           "display": "ガクゥゥッ",
-          "source": "yojo_life"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "an expression of depression or tiredness",
       "equivalent": [
         "collapse",
         "droop",
@@ -61,23 +64,20 @@
         "slump",
         "wilt"
       ],
-      "refer": "",
-      "meaning": "an expression of depression or tiredness",
       "example": [
         {
+          "source": "peter_grill",
           "file": "gaku-2a",
-          "contributor": "",
           "display": "ガクー...",
-          "source": "peter_grill"
+          "contributor": ""
         },
         {
+          "source": "sex_with_me_sells",
           "file": "gaku-2b",
-          "contributor": "",
           "display": "がくっ",
-          "source": "sex_with_me_sells"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "gaku"
+  ]
 }

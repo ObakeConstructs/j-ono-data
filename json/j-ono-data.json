@@ -312,7 +312,7 @@
           "whap"
         ],
         "refer": "",
-        "meaning": "the sound of an impact, usually sudden",
+        "meaning": "the sound of a medium impact, usually sudden or short",
         "example": [{
           "file": "ba-3a",
           "contributor": "",
@@ -6064,7 +6064,7 @@
           "whang"
         ],
         "refer": "",
-        "meaning": "a generic sound of impact, as from a fight or something dropped",
+        "meaning": "the sound of a medium impact or strike, usually short or abrupt",
         "example": [
           {
             "file": "ga-1a",
@@ -6106,7 +6106,7 @@
           "snatch"
         ],
         "refer": "",
-        "meaning": "seizing something with a sudden motion or grasp",
+        "meaning": "an indication or sound of seizing something with a sudden motion or grasp",
         "example": [
           {
             "file": "ga-2a",
@@ -6181,7 +6181,7 @@
           "suddenly"
         ],
         "refer": "",
-        "meaning": "suddenly sitting or standing up",
+        "meaning": "an indication of suddenly sitting or standing up",
         "example": [
           {
             "file": "gaba-1a",
@@ -6214,12 +6214,13 @@
           "clasp",
           "cradle",
           "embrace",
+          "grab",
           "grasp",
           "hold",
           "hug"
         ],
         "refer": "",
-        "meaning": "hugging someone",
+        "meaning": "an indication of grabbing or hugging someone, often sudden or unexpected",
         "example": [
           {
             "file": "gaba-2a",
@@ -6254,7 +6255,7 @@
         "crunch"
       ],
       "refer": "",
-      "meaning": "a strong bite",
+      "meaning": "the sound of a bite",
       "example": [{
         "file": "gabu-1a",
         "contributor": "",
@@ -6285,7 +6286,7 @@
         "tick"
       ],
       "refer": "",
-      "meaning": "a rattling or clattering sound",
+      "meaning": "a sound of rattling or clattering",
       "example": [
         {
           "file": "gacha-1a",
@@ -6366,7 +6367,7 @@
         "laughter"
       ],
       "refer": "",
-      "meaning": "loud, heartfelt laughter, sometimes expressing evil humor",
+      "meaning": "a sound of loud, heartfelt laughter",
       "example": [{
         "file": "gaha-1a",
         "contributor": "",
@@ -6393,7 +6394,7 @@
         "grind"
       ],
       "refer": "",
-      "meaning": "to bite or chew on something",
+      "meaning": "a sound of biting or chewing",
       "example": [{
         "file": "gaji-1a",
         "contributor": "",
@@ -6419,11 +6420,12 @@
         "clang",
         "clank",
         "clash",
+        "crunch",
         "tang",
         "whang"
       ],
       "refer": "",
-      "meaning": "the sound of a hard, sharp metallic strike",
+      "meaning": "a sound of opposed or resisted impacts or strikes",
       "example": [{
         "file": "gaki-1a",
         "contributor": "",
@@ -6443,15 +6445,9 @@
       "ガキンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "clang",
-        "clank",
-        "clash",
-        "tang",
-        "whang"
-      ],
-      "refer": "",
-      "meaning": "the reverberating sound of a hard, sharp metallic strike",
+      "equivalent": [""],
+      "refer": "gaki:1",
+      "meaning": "",
       "example": [
         {
           "file": "gakin-1a",
@@ -6489,7 +6485,7 @@
         "tonk"
       ],
       "refer": "",
-      "meaning": "a light sound of an impact, often hollow as with wood or plastic",
+      "meaning": "a light, hollow sound of an impact",
       "example": [
         {
           "file": "gakon-1a",
@@ -6545,7 +6541,7 @@
           "succumb"
         ],
         "refer": "",
-        "meaning": "An expression of giving up or passing out",
+        "meaning": "an expression of giving up or passing out",
         "example": [
           {
             "file": "gaku-1a",
@@ -6608,7 +6604,7 @@
         "snap"
       ],
       "refer": "",
-      "meaning": "the sound of something metallic breaking",
+      "meaning": "a sound of breaking metal",
       "example": [{
         "file": "gakyin-1a",
         "contributor": "",
@@ -6653,7 +6649,7 @@
           "wham"
         ],
         "refer": "",
-        "meaning": "the sound of a strong impact",
+        "meaning": "the sound of a medium or heavy impact or strike, usually hard, metallic, or violent",
         "example": [
           {
             "file": "gan-1a",
@@ -6702,24 +6698,9 @@
     "hiragana": ["がんがん"],
     "katakana": ["ガンガン"],
     "definition": [{
-      "equivalent": [
-        "bam bam",
-        "bang bang",
-        "slam slam",
-        "smack smack",
-        "smash smash",
-        "thud thud",
-        "thud thud",
-        "thump thump",
-        "thunk thunk",
-        "ting ting",
-        "ting tink",
-        "tonk tonk",
-        "whack whack",
-        "wham wham"
-      ],
-      "refer": "",
-      "meaning": "a series of sharp impact noises",
+      "equivalent": [""],
+      "refer": "gan:1",
+      "meaning": "",
       "example": [
         {
           "file": "gan_gan-1a",
@@ -6760,7 +6741,7 @@
           "thump"
         ],
         "refer": "",
-        "meaning": "the sound of something sliding open or shut, like a window or sliding door",
+        "meaning": "a sound of something sliding open or shut, like a window or sliding door",
         "example": [
           {
             "file": "gara-1a",
@@ -6790,7 +6771,7 @@
           "tumult"
         ],
         "refer": "",
-        "meaning": "the sound of something falling apart, collapsing, or settling",
+        "meaning": "a sound of something falling apart, collapsing, or settling",
         "example": [{
           "file": "gara-2a",
           "contributor": "",
@@ -6806,17 +6787,9 @@
     "katakana": ["ガラガラ"],
     "definition": [
       {
-        "equivalent": [
-          "clack clack",
-          "clank clank",
-          "clatter clatter",
-          "crash crash",
-          "rattle rattle",
-          "smash smash",
-          "tumult"
-        ],
-        "refer": "",
-        "meaning": "a series of sounds indicating something breaking apart, collapsing, or settling",
+        "equivalent": [""],
+        "refer": "gara:2",
+        "meaning": "",
         "example": [{
           "file": "gara_gara-1a",
           "contributor": "",
@@ -6826,13 +6799,13 @@
       },
       {
         "equivalent": [
-          "clank clank",
-          "clatter clatter",
-          "clunk clunk",
-          "rattle rattle"
+          "clank",
+          "clatter",
+          "clunk",
+          "rattle"
         ],
         "refer": "",
-        "meaning": "an indication of something moving with a clatter or rattle",
+        "meaning": "a sound of something moving with a clatter or rattle",
         "example": [
           {
             "file": "gara_gara-2a",
@@ -6876,7 +6849,7 @@
         "snarl"
       ],
       "refer": "",
-      "meaning": "a low, guttural growling noise",
+      "meaning": "the sound of a low, guttural growl",
       "example": [
         {
           "file": "garu-1a",
@@ -6916,6 +6889,7 @@
     "definition": [{
       "equivalent": [
         "flap",
+        "movement",
         "murmur",
         "rustle",
         "stir",
@@ -6923,7 +6897,7 @@
         "whoosh"
       ],
       "refer": "",
-      "meaning": "a small rustling sound, like the wind-blown leaves or cloth sliding",
+      "meaning": "a sound of something rustling or flapping",
       "example": [
         {
           "file": "gasa-1a",
@@ -6969,15 +6943,9 @@
       "ガサガサッ"
     ],
     "definition": [{
-      "equivalent": [
-        "movement",
-        "rustle rustle",
-        "stir stir",
-        "swish swish",
-        "whoosh whoosh"
-      ],
-      "refer": "",
-      "meaning": "small rustling sounds, like wind-blown leaves or underbrush",
+      "equivalent": [""],
+      "refer": "gasa:1",
+      "meaning": "",
       "example": [
         {
           "file": "gasa_gasa-1a",
@@ -7017,7 +6985,7 @@
         "ker-chunk"
       ],
       "refer": "",
-      "meaning": "a short sharp noise",
+      "meaning": "a short noise of something breaking",
       "example": [{
         "file": "gasha-1a",
         "contributor": "",
@@ -7049,7 +7017,7 @@
         "smash"
       ],
       "refer": "",
-      "meaning": "a sound of an impact or crash",
+      "meaning": "the sound of an impact, usually chaotic or explosive",
       "example": [
         {
           "file": "gashan-1a",
@@ -7099,7 +7067,7 @@
         "snag"
       ],
       "refer": "",
-      "meaning": "the act of grabbing or holding",
+      "meaning": "an indication of grabbing or holding something",
       "example": [
         {
           "file": "gashi-1a",
@@ -7135,7 +7103,7 @@
         "weep"
       ],
       "refer": "",
-      "meaning": "shedding tears as an expression of pain or distress",
+      "meaning": "an indication of shedding tears, as an expression of pain or distress",
       "example": [{
         "file": "gasun-1a",
         "contributor": "",
@@ -7165,7 +7133,7 @@
         "rattle"
       ],
       "refer": "",
-      "meaning": "a rattling or clattering sound, typically wooden, often used to express standing up from a chair",
+      "meaning": "a rattling or clattering sound, often used to express standing up from a chair",
       "example": [
         {
           "file": "gata-1a",
@@ -7220,7 +7188,7 @@
         "spark"
       ],
       "refer": "",
-      "meaning": "\"an expression of sudden inspiration, revelation, or recognition",
+      "meaning": "an expression of sudden inspiration, revelation, or recognition",
       "example": [{
         "file": "gatan-1a",
         "contributor": "",
@@ -7263,7 +7231,7 @@
           "rattle"
         ],
         "refer": "",
-        "meaning": "a series of sharp clattering or rattling noises",
+        "meaning": "sharp rattling or clattering sounds",
         "example": [
           {
             "file": "gata_gata-1a",
@@ -7312,27 +7280,6 @@
       }
     ],
     "literal": "gata gata"
-  },
-  {
-    "hiragana": ["がつがつ"],
-    "katakana": ["ガツガツ"],
-    "definition": [{
-      "equivalent": [
-        "scour scour",
-        "scrub scrub",
-        "swab swab",
-        "wash wash"
-      ],
-      "refer": "",
-      "meaning": "the sound of scrubbing something clean",
-      "example": [{
-        "file": "gatsu_gatsu-1a",
-        "contributor": "",
-        "display": "ガツ  ガツ",
-        "source": "reincarnated_sage_daughters"
-      }]
-    }],
-    "literal": "gatsu gatsu"
   },
   {
     "hiragana": [
@@ -7398,33 +7345,48 @@
   {
     "hiragana": [
       "がが",
-      "がっがっ"
+      "がっがっ",
+      "がつがつ"
     ],
     "katakana": [
       "ガガ",
-      "ガッガッ"
+      "ガッガッ",
+      "ガツガツ"
     ],
-    "definition": [{
-      "equivalent": [
-        "catch catch",
-        "clutch clutch",
-        "glom glom",
-        "grab grab",
-        "grasp grasp",
-        "nab nab",
-        "seize seize",
-        "snag snag",
-        "snatch snatch"
-      ],
-      "refer": "",
-      "meaning": "a series of fast grabbing motions",
-      "example": [{
-        "file": "ga_ga-1a",
-        "contributor": "",
-        "display": "ガッ  ガッ",
-        "source": "rise_of_the_outlaw_tamer"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "catch catch",
+          "clutch clutch",
+          "glom glom",
+          "grab grab",
+          "grasp grasp",
+          "nab nab",
+          "seize seize",
+          "snag snag",
+          "snatch snatch"
+        ],
+        "refer": "",
+        "meaning": "sounds of a eating food noisily",
+        "example": [{
+          "file": "ga_ga-1a",
+          "contributor": "",
+          "display": "ガッ  ガッ",
+          "source": "rise_of_the_outlaw_tamer"
+        }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "ga:1",
+        "meaning": "",
+        "example": [{
+          "file": "ga_ga-2a",
+          "contributor": "",
+          "display": "ガツガツ",
+          "source": "reincarnated_sage_daughters"
+        }]
+      }
+    ],
     "literal": "ga ga"
   },
   {
@@ -8094,26 +8056,6 @@
       }]
     }],
     "literal": "goho goho"
-  },
-  {
-    "hiragana": ["こき"],
-    "katakana": ["コキ"],
-    "definition": [{
-      "equivalent": [
-        "crack",
-        "pop",
-        "snap"
-      ],
-      "refer": "",
-      "meaning": "the sharp sound of joint or bone cracking",
-      "example": [{
-        "file": "goki-1a",
-        "contributor": "",
-        "display": "コキ",
-        "source": "blazing_fire_brigade"
-      }]
-    }],
-    "literal": "goki"
   },
   {
     "hiragana": [
@@ -13021,6 +12963,26 @@
       ]
     }],
     "literal": "kohon"
+  },
+  {
+    "hiragana": ["こき"],
+    "katakana": ["コキ"],
+    "definition": [{
+      "equivalent": [
+        "crack",
+        "pop",
+        "snap"
+      ],
+      "refer": "",
+      "meaning": "a sharp sound of joint or bone cracking",
+      "example": [{
+        "file": "koki-1a",
+        "contributor": "",
+        "display": "コキ",
+        "source": "blazing_fire_brigade"
+      }]
+    }],
+    "literal": "koki"
   },
   {
     "hiragana": [

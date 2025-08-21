@@ -1,56 +1,56 @@
 {
-  "hiragana": ["がらがら"],
-  "katakana": ["ガラガラ"],
+  "literal": "gara gara",
+  "katakana": [
+    "ガラガラ"
+  ],
+  "hiragana": [
+    "がらがら"
+  ],
   "definition": [
     {
+      "refer": "gara:2",
+      "meaning": "",
       "equivalent": [
-        "clack clack",
-        "clank clank",
-        "clatter clatter",
-        "crash crash",
-        "rattle rattle",
-        "smash smash",
-        "tumult"
+        ""
       ],
-      "refer": "",
-      "meaning": "a series of sounds indicating something breaking apart, collapsing, or settling",
-      "example": [{
-        "file": "gara_gara-1a",
-        "contributor": "",
-        "display": "ガラ  ガラ  ガラ",
-        "source": "hanako_24th_ward"
-      }]
-    },
-    {
-      "equivalent": [
-        "clank clank",
-        "clatter clatter",
-        "clunk clunk",
-        "rattle rattle"
-      ],
-      "refer": "",
-      "meaning": "an indication of something moving with a clatter or rattle",
       "example": [
         {
+          "source": "hanako_24th_ward",
+          "file": "gara_gara-1a",
+          "display": "ガラ  ガラ  ガラ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "refer": "",
+      "meaning": "a sound of something moving with a clatter or rattle",
+      "equivalent": [
+        "clank",
+        "clatter",
+        "clunk",
+        "rattle"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
           "file": "gara_gara-2a",
-          "contributor": "",
           "display": "ガラ  ガラ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "berserk",
           "file": "gara_gara-2b",
-          "contributor": "",
           "display": "ガラガラガラ..",
-          "source": "berserk"
+          "contributor": ""
         },
         {
+          "source": "isekai_sniper",
           "file": "gara_gara-2c",
-          "contributor": "",
           "display": "ガラ  ガラ  ガ  ガラ",
-          "source": "isekai_sniper"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "gara gara"
+  ]
 }

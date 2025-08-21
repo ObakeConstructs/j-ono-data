@@ -1,43 +1,45 @@
 {
-  "hiragana": [
-    "がる",
-    "がるる",
-    "がるるる"
-  ],
+  "literal": "garu",
   "katakana": [
     "ガル",
     "ガルル",
     "ガルルル"
   ],
-  "definition": [{
-    "equivalent": [
-      "growl",
-      "grumble",
-      "rumble",
-      "snarl"
-    ],
-    "refer": "",
-    "meaning": "a low, guttural growling noise",
-    "example": [
-      {
-        "file": "garu-1a",
-        "contributor": "",
-        "display": "ガルル",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "garu-1b",
-        "contributor": "",
-        "display": "がるるる",
-        "source": "my_s-ranked_daughter"
-      },
-      {
-        "file": "garu-1c",
-        "contributor": "",
-        "display": "ガルル",
-        "source": "35_year_olds_choice"
-      }
-    ]
-  }],
-  "literal": "garu"
+  "hiragana": [
+    "がる",
+    "がるる",
+    "がるるる"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "the sound of a low, guttural growl",
+      "equivalent": [
+        "growl",
+        "grumble",
+        "rumble",
+        "snarl"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "garu-1a",
+          "display": "ガルル",
+          "contributor": ""
+        },
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "garu-1b",
+          "display": "がるるる",
+          "contributor": ""
+        },
+        {
+          "source": "35_year_olds_choice",
+          "file": "garu-1c",
+          "display": "ガルル",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

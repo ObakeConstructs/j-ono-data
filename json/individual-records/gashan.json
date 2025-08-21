@@ -1,52 +1,54 @@
 {
-  "hiragana": [
-    "がしゃん",
-    "がしゃーん",
-    "がしゃぁん",
-    "がしゃぁぁん"
-  ],
+  "literal": "gashan",
   "katakana": [
     "ガシャン",
     "ガシャーン",
     "ガシャァン",
     "ガシャァァン"
   ],
-  "definition": [{
-    "equivalent": [
-      "blast",
-      "crack",
-      "crash",
-      "shatter",
-      "smash"
-    ],
-    "refer": "",
-    "meaning": "a sound of an impact or crash",
-    "example": [
-      {
-        "file": "gashan-1a",
-        "contributor": "",
-        "display": "ガシャン",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "gashan-1b",
-        "contributor": "",
-        "display": "ガシャァァン",
-        "source": "reincarnated_aristocrat"
-      },
-      {
-        "file": "gashan-1c",
-        "contributor": "",
-        "display": "ガシャン",
-        "source": "rise_of_the_outlaw_tamer"
-      },
-      {
-        "file": "gashan-1d",
-        "contributor": "",
-        "display": "ガシャン",
-        "source": "way_of_the_house_husband"
-      }
-    ]
-  }],
-  "literal": "gashan"
+  "hiragana": [
+    "がしゃん",
+    "がしゃーん",
+    "がしゃぁん",
+    "がしゃぁぁん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "the sound of an impact, usually chaotic or explosive",
+      "equivalent": [
+        "blast",
+        "crack",
+        "crash",
+        "shatter",
+        "smash"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gashan-1a",
+          "display": "ガシャン",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "gashan-1b",
+          "display": "ガシャァァン",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "gashan-1c",
+          "display": "ガシャン",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_the_house_husband",
+          "file": "gashan-1d",
+          "display": "ガシャン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

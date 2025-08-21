@@ -1,32 +1,36 @@
 {
-  "hiragana": [
-    "がしゃ",
-    "がしゃっ"
-  ],
+  "literal": "gasha",
   "katakana": [
     "ガシャ",
     "ガシャッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clack",
-      "clang",
-      "clank",
-      "clash",
-      "clatter",
-      "clunk",
-      "crack",
-      "crunch",
-      "ker-chunk"
-    ],
-    "refer": "",
-    "meaning": "a short sharp noise",
-    "example": [{
-      "file": "gasha-1a",
-      "contributor": "",
-      "display": "ガシャッ",
-      "source": "modern_dungeon_capture"
-    }]
-  }],
-  "literal": "gasha"
+  "hiragana": [
+    "がしゃ",
+    "がしゃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "a short noise of something breaking",
+      "equivalent": [
+        "clack",
+        "clang",
+        "clank",
+        "clash",
+        "clatter",
+        "clunk",
+        "crack",
+        "crunch",
+        "ker-chunk"
+      ],
+      "example": [
+        {
+          "source": "modern_dungeon_capture",
+          "file": "gasha-1a",
+          "display": "ガシャッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

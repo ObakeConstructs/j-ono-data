@@ -1,14 +1,17 @@
 {
-  "hiragana": [
-    "がば",
-    "がばっ"
-  ],
+  "literal": "gaba",
   "katakana": [
     "ガバ",
     "ガバッ"
   ],
+  "hiragana": [
+    "がば",
+    "がばっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "an indication of suddenly sitting or standing up",
       "equivalent": [
         "arise",
         "fwip",
@@ -18,61 +21,59 @@
         "stand",
         "suddenly"
       ],
-      "refer": "",
-      "meaning": "suddenly sitting or standing up",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "gaba-1a",
-          "contributor": "",
           "display": "ガバッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "strongest_magician_was_human",
           "file": "gaba-1b",
-          "contributor": "",
           "display": "ガバッ",
-          "source": "strongest_magician_was_human"
+          "contributor": ""
         },
         {
+          "source": "neet_kunoichi",
           "file": "gaba-1c",
-          "contributor": "",
           "display": "ガバッ",
-          "source": "neet_kunoichi"
+          "contributor": ""
         },
         {
+          "source": "simple_sword_saint",
           "file": "gaba-1d",
-          "contributor": "",
           "display": "がばっ",
-          "source": "simple_sword_saint"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "an indication of grabbing or hugging someone, often sudden or unexpected",
       "equivalent": [
         "clasp",
         "cradle",
         "embrace",
+        "grab",
         "grasp",
         "hold",
         "hug"
       ],
-      "refer": "",
-      "meaning": "hugging someone",
       "example": [
         {
+          "source": "d_genesis",
           "file": "gaba-2a",
-          "contributor": "",
           "display": "がば",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "isekai_territory_reform",
           "file": "gaba-2b",
-          "contributor": "",
           "display": "がばっ",
-          "source": "isekai_territory_reform"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "gaba"
+  ]
 }

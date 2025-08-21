@@ -1,44 +1,46 @@
 {
-  "hiragana": [
-    "がこん",
-    "がこんっ"
-  ],
+  "literal": "gakon",
   "katakana": [
     "ガコン",
     "ガコンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clunk",
-      "ga-thunk",
-      "ka-thunk",
-      "knock",
-      "thunk",
-      "thwack",
-      "tonk"
-    ],
-    "refer": "",
-    "meaning": "a light sound of an impact, often hollow as with wood or plastic",
-    "example": [
-      {
-        "file": "gakon-1a",
-        "contributor": "",
-        "display": "ガコンッ",
-        "source": "reincarnated_aristocrat"
-      },
-      {
-        "file": "gakon-1b",
-        "contributor": "",
-        "display": "ガコン",
-        "source": "hanako_24th_ward"
-      },
-      {
-        "file": "gakon-1c",
-        "contributor": "",
-        "display": "ガコン",
-        "source": "dog_became_strongest"
-      }
-    ]
-  }],
-  "literal": "gakon"
+  "hiragana": [
+    "がこん",
+    "がこんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "a light, hollow sound of an impact",
+      "equivalent": [
+        "clunk",
+        "ga-thunk",
+        "ka-thunk",
+        "knock",
+        "thunk",
+        "thwack",
+        "tonk"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "gakon-1a",
+          "display": "ガコンッ",
+          "contributor": ""
+        },
+        {
+          "source": "hanako_24th_ward",
+          "file": "gakon-1b",
+          "display": "ガコン",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "gakon-1c",
+          "display": "ガコン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

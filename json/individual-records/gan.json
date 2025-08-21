@@ -1,18 +1,21 @@
 {
-  "hiragana": [
-    "がん",
-    "がんっ",
-    "がぉん",
-    "がぉんっ"
-  ],
+  "literal": "gan",
   "katakana": [
     "ガン",
     "ガンッ",
     "ガォン",
     "ガォンッ"
   ],
+  "hiragana": [
+    "がん",
+    "がんっ",
+    "がぉん",
+    "がぉんっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "the sound of a medium or heavy impact or strike, usually hard, metallic, or violent",
       "equivalent": [
         "bam",
         "bang",
@@ -32,49 +35,48 @@
         "whack",
         "wham"
       ],
-      "refer": "",
-      "meaning": "the sound of a strong impact",
       "example": [
         {
+          "source": "d_genesis",
           "file": "gan-1a",
-          "contributor": "",
           "display": "ガン",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "gan-1b",
-          "contributor": "",
           "display": "ガォン!!",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_aristocrat",
           "file": "gan-1c",
-          "contributor": "",
           "display": "ガンッ",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [
-        "shock",
-        "jolt",
-        "surprise",
-        "revelation",
-        "wha!?",
-        "astonished",
-        "stun",
-        "amazed"
-      ],
       "refer": "",
       "meaning": "an expression or exclamation of surprise or revelation",
-      "example": [{
-        "file": "gan-2a",
-        "contributor": "",
-        "display": "ガンッ",
-        "source": "yojo_life"
-      }]
+      "equivalent": [
+        "amazed",
+        "astonished",
+        "jolt",
+        "revelation",
+        "shock",
+        "stun",
+        "surprise",
+        "wha!?"
+      ],
+      "example": [
+        {
+          "source": "yojo_life",
+          "file": "gan-2a",
+          "display": "ガンッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "gan"
+  ]
 }

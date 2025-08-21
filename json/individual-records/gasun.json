@@ -1,22 +1,30 @@
 {
-  "hiragana": ["ぐすん"],
-  "katakana": ["グスン"],
-  "definition": [{
-    "equivalent": [
-      "blub",
-      "cry",
-      "sob",
-      "tears",
-      "weep"
-    ],
-    "refer": "",
-    "meaning": "shedding tears as an expression of pain or distress",
-    "example": [{
-      "file": "gasun-1a",
-      "contributor": "",
-      "display": "ぐすん",
-      "source": "requiem_for_prophet"
-    }]
-  }],
-  "literal": "gasun"
+  "literal": "gasun",
+  "katakana": [
+    "グスン"
+  ],
+  "hiragana": [
+    "ぐすん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "an indication of shedding tears, as an expression of pain or distress",
+      "equivalent": [
+        "blub",
+        "cry",
+        "sob",
+        "tears",
+        "weep"
+      ],
+      "example": [
+        {
+          "source": "requiem_for_prophet",
+          "file": "gasun-1a",
+          "display": "ぐすん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

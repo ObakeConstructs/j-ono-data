@@ -1,59 +1,62 @@
 {
-  "hiragana": [
-    "がさ",
-    "がさっ",
-    "がささ",
-    "がささっ"
-  ],
+  "literal": "gasa",
   "katakana": [
     "ガサ",
     "ガサッ",
     "ガササ",
     "ガササッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "flap",
-      "murmur",
-      "rustle",
-      "stir",
-      "swish",
-      "whoosh"
-    ],
-    "refer": "",
-    "meaning": "a small rustling sound, like the wind-blown leaves or cloth sliding",
-    "example": [
-      {
-        "file": "gasa-1a",
-        "contributor": "",
-        "display": "ガサ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "gasa-1b",
-        "contributor": "",
-        "display": "ガサ",
-        "source": "komi_cant_communicate"
-      },
-      {
-        "file": "gasa-1c",
-        "contributor": "",
-        "display": "ガサッ",
-        "source": "a_rank_slow_life"
-      },
-      {
-        "file": "gasa-1d",
-        "contributor": "",
-        "display": "がさ!",
-        "source": "beastly_boys_and_girls"
-      },
-      {
-        "file": "gasa-1e",
-        "contributor": "Artrix",
-        "display": "ガササッ",
-        "source": "pokemon_xy_break"
-      }
-    ]
-  }],
-  "literal": "gasa"
+  "hiragana": [
+    "がさ",
+    "がさっ",
+    "がささ",
+    "がささっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "a sound of something rustling or flapping",
+      "equivalent": [
+        "flap",
+        "movement",
+        "murmur",
+        "rustle",
+        "stir",
+        "swish",
+        "whoosh"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "gasa-1a",
+          "display": "ガサ",
+          "contributor": ""
+        },
+        {
+          "source": "komi_cant_communicate",
+          "file": "gasa-1b",
+          "display": "ガサ",
+          "contributor": ""
+        },
+        {
+          "source": "a_rank_slow_life",
+          "file": "gasa-1c",
+          "display": "ガサッ",
+          "contributor": ""
+        },
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "gasa-1d",
+          "display": "がさ!",
+          "contributor": ""
+        },
+        {
+          "source": "pokemon_xy_break",
+          "file": "gasa-1e",
+          "display": "ガササッ",
+          "contributor": "Artrix"
+        }
+      ]
+    }
+  ]
 }
