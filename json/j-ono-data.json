@@ -5839,9 +5839,15 @@
     "hiragana": ["ふろふろ"],
     "katakana": ["フロフロ"],
     "definition": [{
-      "equivalent": [""],
-      "refer": "furo furo:1",
-      "meaning": "",
+      "equivalent": [
+        "quiver",
+        "shake",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "refer": "",
+      "meaning": "an indication of shaking",
       "example": [{
         "file": "furo_furo-1a",
         "contributor": "",
@@ -5856,14 +5862,9 @@
     "katakana": ["フルフル"],
     "definition": [
       {
-        "equivalent": [
-          "quiver",
-          "shiver",
-          "shudder",
-          "tremble"
-        ],
-        "refer": "",
-        "meaning": "an indication of shaking",
+        "equivalent": [""],
+        "refer": "furo furo:1",
+        "meaning": "",
         "example": [{
           "file": "furu_furu-1a",
           "contributor": "",
