@@ -1,21 +1,26 @@
 {
-  "hiragana": ["ふろふろ"],
-  "katakana": ["フロフロ"],
-  "definition": [{
-    "equivalent": [
-      "quiver",
-      "shiver",
-      "shudder",
-      "tremble"
-    ],
-    "refer": "",
-    "meaning": "an indication of shaking",
-    "example": [{
-      "file": "furo_furo-1a",
-      "contributor": "",
-      "display": "ふろ  ふろ",
-      "source": "reincarnated_aristocrat"
-    }]
-  }],
-  "literal": "furo furo"
+  "literal": "furo furo",
+  "katakana": [
+    "フロフロ"
+  ],
+  "hiragana": [
+    "ふろふろ"
+  ],
+  "definition": [
+    {
+      "refer": "furo furo:1",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "furo_furo-1a",
+          "display": "ふろ  ふろ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

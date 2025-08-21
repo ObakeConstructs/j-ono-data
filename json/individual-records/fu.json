@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "ふ",
-    "ふっ",
-    "ふー",
-    "ふーっ",
-    "ふう",
-    "ふうっ",
-    "ふぅ",
-    "ふぅっ"
-  ],
+  "literal": "fu",
   "katakana": [
     "フ",
     "フッ",
@@ -19,8 +10,20 @@
     "フゥ",
     "フゥッ"
   ],
+  "hiragana": [
+    "ふ",
+    "ふっ",
+    "ふー",
+    "ふーっ",
+    "ふう",
+    "ふうっ",
+    "ふぅ",
+    "ふぅっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "the sound of a quick, short laugh",
       "equivalent": [
         "chortle",
         "chuckle",
@@ -32,24 +35,24 @@
         "smirk",
         "snicker"
       ],
-      "refer": "",
-      "meaning": "a quick, short laugh or an expression of humor",
       "example": [
         {
+          "source": "d_genesis",
           "file": "fu-1a",
-          "contributor": "",
           "display": "ふっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "fu-1b",
-          "contributor": "",
           "display": "ふ...",
-          "source": "d_genesis"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "the indication of a sudden or fast movement",
       "equivalent": [
         "fwip",
         "fwit",
@@ -59,30 +62,30 @@
         "snap",
         "whoom"
       ],
-      "refer": "",
-      "meaning": "a sudden and/or fast movement",
       "example": [
         {
+          "source": "spy_x_family",
           "file": "fu-2a",
-          "contributor": "",
           "display": "フッ",
-          "source": "spy_x_family"
+          "contributor": ""
         },
         {
+          "source": "world_full_of_monsters",
           "file": "fu-2b",
-          "contributor": "",
           "display": "フーッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "fu-2c",
-          "contributor": "",
           "display": "フッ",
-          "source": "d_genesis"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "an expression of relief",
       "equivalent": [
         "ease",
         "fwhew",
@@ -91,30 +94,30 @@
         "solace",
         "whew"
       ],
-      "refer": "",
-      "meaning": "an expression of relief",
       "example": [
         {
+          "source": "world_full_of_monsters",
           "file": "fu-3a",
-          "contributor": "",
           "display": "ふーっ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "fu-3b",
-          "contributor": "",
           "display": "ふう",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "peter_grill",
           "file": "fu-3c",
-          "contributor": "",
           "display": "フウ",
-          "source": "peter_grill"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "a sound of exhaling, often used as an expresison of exertion",
       "equivalent": [
         "gasp",
         "ha",
@@ -123,29 +126,26 @@
         "phew",
         "whew"
       ],
-      "refer": "",
-      "meaning": "the sound of exhaling, often us as an expresison of exertion",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "fu-4a",
-          "contributor": "",
           "display": "ふぅ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "spy_x_family",
           "file": "fu-4b",
-          "contributor": "",
           "display": "ふぅっ",
-          "source": "spy_x_family"
+          "contributor": ""
         },
         {
+          "source": "fushi_no_kami",
           "file": "fu-4c",
-          "contributor": "",
           "display": "ふぅ",
-          "source": "fushi_no_kami"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "fu"
+  ]
 }

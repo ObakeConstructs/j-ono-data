@@ -1,11 +1,5 @@
 {
-  "hiragana": [
-    "ふふ",
-    "ふふっ",
-    "ふふふ",
-    "ふーふー",
-    "ふーっふーっ"
-  ],
+  "literal": "fu fu",
   "katakana": [
     "フフ",
     "フフッ",
@@ -13,8 +7,17 @@
     "フーフー",
     "フーッフーッ"
   ],
+  "hiragana": [
+    "ふふ",
+    "ふふっ",
+    "ふふふ",
+    "ふーふー",
+    "ふーっふーっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "the sound of a light laugh",
       "equivalent": [
         "chortle",
         "chuckle",
@@ -22,53 +25,50 @@
         "heh heh",
         "laugh"
       ],
-      "refer": "",
-      "meaning": "a light laugh",
       "example": [
         {
+          "source": "d_genesis",
           "file": "fu_fu-1a",
-          "contributor": "",
           "display": "フフフ...",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "fu_fu-1b",
-          "contributor": "",
           "display": "ふふっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "dog_became_strongest",
           "file": "fu_fu-1c",
-          "contributor": "",
           "display": "ふふ",
-          "source": "dog_became_strongest"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "sounds of breathing in a controlled, deliberate manner",
       "equivalent": [
         "blow blow",
         "breath breath",
         "exhale",
         "huff huff"
       ],
-      "refer": "",
-      "meaning": "to repeatedly breath in a controlled, deliberate manner",
       "example": [
         {
+          "source": "otherworld_material_collector",
           "file": "fu_fu-2a",
-          "contributor": "",
           "display": "フー  フー",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "double_play",
           "file": "fu_fu-2b",
-          "contributor": "",
           "display": "フーッ  フーッ",
-          "source": "double_play"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "fu fu"
+  ]
 }

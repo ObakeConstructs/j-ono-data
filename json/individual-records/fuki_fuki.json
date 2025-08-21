@@ -1,22 +1,30 @@
 {
-  "hiragana": ["ふきふき"],
-  "katakana": ["フキフキ"],
-  "definition": [{
-    "equivalent": [
-      "scrub scrub",
-      "wipe wipe",
-      "brush brush",
-      "wash wash",
-      "rub rub"
-    ],
-    "refer": "",
-    "meaning": "the indication or sound of brushing or wiping",
-    "example": [{
-      "file": "fuki_fuki-1a",
-      "contributor": "",
-      "display": "ふき  ふき",
-      "source": "beastly_boys_and_girls"
-    }]
-  }],
-  "literal": "fuki fuki"
+  "literal": "fuki fuki",
+  "katakana": [
+    "フキフキ"
+  ],
+  "hiragana": [
+    "ふきふき"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "an indication or sound of brushing or wiping",
+      "equivalent": [
+        "brush brush",
+        "rub rub",
+        "scrub scrub",
+        "wash wash",
+        "wipe wipe"
+      ],
+      "example": [
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "fuki_fuki-1a",
+          "display": "ふき  ふき",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

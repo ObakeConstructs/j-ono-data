@@ -1,30 +1,34 @@
 {
-  "hiragana": [
-    "ふぃうん",
-    "ふぃうーん"
-  ],
+  "literal": "fiun",
   "katakana": [
     "フィウン",
     "フィウーン"
   ],
-  "definition": [{
-    "equivalent": [
-      "throw",
-      "toss",
-      "hurl",
-      "fling",
-      "chuck",
-      "lob",
-      "heave"
-    ],
-    "refer": "",
-    "meaning": "to throw or toss",
-    "example": [{
-      "file": "fiun-1a",
-      "contributor": "",
-      "display": "フィウーン",
-      "source": "strongest_magician_was_human"
-    }]
-  }],
-  "literal": "fiun"
+  "hiragana": [
+    "ふぃうん",
+    "ふぃうーん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "a wooshing or whistling sound of something moving quickly through the air",
+      "equivalent": [
+        "fwoom",
+        "whoosh",
+        "whiff",
+        "swoosh",
+        "throw",
+        "swing",
+        "zip"
+      ],
+      "example": [
+        {
+          "source": "strongest_magician_was_human",
+          "file": "fiun-1a",
+          "display": "フィウーン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

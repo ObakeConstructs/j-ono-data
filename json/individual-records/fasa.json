@@ -1,47 +1,51 @@
 {
-  "hiragana": [
-    "ふぁさ",
-    "ふぁさぁ",
-    "ふぁさぁぁ"
-  ],
+  "literal": "fasa",
   "katakana": [
     "ファサ",
     "ファサァ",
     "ファサァァ"
   ],
+  "hiragana": [
+    "ふぁさ",
+    "ふぁさぁ",
+    "ふぁさぁぁ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "a sound of sniffing or smelling",
       "equivalent": [
         "smell",
         "sniff",
         "snuff",
         "whiff"
       ],
-      "refer": "",
-      "meaning": "a smelling or sniffing sound",
-      "example": [{
-        "file": "fasa-1a",
-        "contributor": "",
-        "display": "ファサァァ",
-        "source": "blazing_fire_brigade"
-      }]
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "fasa-1a",
+          "display": "ファサァァ",
+          "contributor": ""
+        }
+      ]
     },
     {
-      "equivalent": [
-        "soft",
-        "waft",
-        "puff",
-        "soft rustle"
-      ],
       "refer": "",
-      "meaning": "the soft sound of cloth or clothes, typically being dropped to the floor",
-      "example": [{
-        "file": "fasa-2a",
-        "contributor": "",
-        "display": "ファサ",
-        "source": "rock_n_roll_ladies"
-      }]
+      "meaning": "a soft sound of moving cloth or clothes",
+      "equivalent": [
+        "puff",
+        "soft",
+        "soft rustle",
+        "waft"
+      ],
+      "example": [
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "fasa-2a",
+          "display": "ファサ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "fasa"
+  ]
 }

@@ -5246,7 +5246,7 @@
         "yawn"
       ],
       "refer": "",
-      "meaning": "a deep breath expressing tiredness or boredom",
+      "meaning": "the sound of a deep breath, expressing tiredness or boredom",
       "example": [{
         "file": "faa-1a",
         "contributor": "",
@@ -5276,7 +5276,7 @@
           "whiff"
         ],
         "refer": "",
-        "meaning": "a smelling or sniffing sound",
+        "meaning": "a sound of sniffing or smelling",
         "example": [{
           "file": "fasa-1a",
           "contributor": "",
@@ -5292,7 +5292,7 @@
           "waft"
         ],
         "refer": "",
-        "meaning": "the soft sound of cloth or clothes, typically being dropped to the floor",
+        "meaning": "a soft sound of moving cloth or clothes",
         "example": [{
           "file": "fasa-2a",
           "contributor": "",
@@ -5314,16 +5314,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "chuck",
-        "fling",
-        "heave",
-        "hurl",
-        "lob",
+        "fwoom",
+        "swing",
+        "swoosh",
         "throw",
-        "toss"
+        "whiff",
+        "whoosh",
+        "zip"
       ],
       "refer": "",
-      "meaning": "to throw or toss",
+      "meaning": "a wooshing or whistling sound of something moving quickly through the air",
       "example": [{
         "file": "fiun-1a",
         "contributor": "",
@@ -5368,7 +5368,7 @@
           "snicker"
         ],
         "refer": "",
-        "meaning": "a quick, short laugh or an expression of humor",
+        "meaning": "the sound of a quick, short laugh",
         "example": [
           {
             "file": "fu-1a",
@@ -5395,7 +5395,7 @@
           "whoom"
         ],
         "refer": "",
-        "meaning": "a sudden and/or fast movement",
+        "meaning": "the indication of a sudden or fast movement",
         "example": [
           {
             "file": "fu-2a",
@@ -5459,7 +5459,7 @@
           "whew"
         ],
         "refer": "",
-        "meaning": "the sound of exhaling, often us as an expresison of exertion",
+        "meaning": "a sound of exhaling, often used as an expresison of exertion",
         "example": [
           {
             "file": "fu-4a",
@@ -5508,7 +5508,7 @@
         "yawn"
       ],
       "refer": "",
-      "meaning": "a wide open-mouth yawn expressing tiredness or boredom",
+      "meaning": "the sound of a wide open-mouth yawn, expressing tiredness or boredom",
       "example": [
         {
           "file": "fua-1a",
@@ -5538,7 +5538,7 @@
         "wipe wipe"
       ],
       "refer": "",
-      "meaning": "the indication or sound of brushing or wiping",
+      "meaning": "an indication or sound of brushing or wiping",
       "example": [{
         "file": "fuki_fuki-1a",
         "contributor": "",
@@ -5572,16 +5572,9 @@
     "hiragana": ["ふむふむ"],
     "katakana": ["フムフム"],
     "definition": [{
-      "equivalent": [
-        "examine",
-        "hmm hmm",
-        "think think",
-        "uh uh",
-        "uh-huh",
-        "umm umm"
-      ],
-      "refer": "",
-      "meaning": "an expression or sound of thoughtfulness or contemplation",
+      "equivalent": [""],
+      "refer": "fumu:1",
+      "meaning": "",
       "example": [{
         "file": "fumu_fumu-1a",
         "contributor": "",
@@ -5641,17 +5634,17 @@
     "katakana": ["フニ"],
     "definition": [{
       "equivalent": [
-        "fluffy",
-        "gentle",
-        "mushy",
+        "fluff",
+        "gently",
+        "mush",
         "pliable",
-        "soft",
+        "softly",
         "spongy",
-        "squishy",
+        "squish",
         "tender"
       ],
       "refer": "",
-      "meaning": "a soft, pliable or fluffy sensation",
+      "meaning": "an indication or sound or pressing or touching something soft, pliable or fluffy",
       "example": [
         {
           "file": "funi-1a",
@@ -5686,7 +5679,7 @@
         "whiff whiff"
       ],
       "refer": "",
-      "meaning": "to repeatedly smell or sniff something",
+      "meaning": "indications or sounds of smelling or sniffing",
       "example": [{
         "file": "fun_fun-1a",
         "contributor": "",
@@ -5715,7 +5708,7 @@
         "woozy"
       ],
       "refer": "",
-      "meaning": "a temporary loss or near loss of consciousness",
+      "meaning": "an indication of fainting or losing consciousness",
       "example": [
         {
           "file": "fura-1a",
@@ -5790,7 +5783,7 @@
         "twist"
       ],
       "refer": "",
-      "meaning": "to quickly turn or look away",
+      "meaning": "an indication of turning quickly or looking away",
       "example": [{
         "file": "furi-1a",
         "contributor": "",
@@ -5818,7 +5811,7 @@
         "wave wave"
       ],
       "refer": "",
-      "meaning": "a quick side to side motion",
+      "meaning": "the indication of a quick side to side motion",
       "example": [
         {
           "file": "furi_furi-1a",
@@ -5846,14 +5839,9 @@
     "hiragana": ["ふろふろ"],
     "katakana": ["フロフロ"],
     "definition": [{
-      "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "refer": "",
-      "meaning": "an indication of shaking",
+      "equivalent": [""],
+      "refer": "furo furo:1",
+      "meaning": "",
       "example": [{
         "file": "furo_furo-1a",
         "contributor": "",
@@ -5974,7 +5962,7 @@
           "laugh"
         ],
         "refer": "",
-        "meaning": "a light laugh",
+        "meaning": "the sound of a light laugh",
         "example": [
           {
             "file": "fu_fu-1a",
@@ -6004,7 +5992,7 @@
           "huff huff"
         ],
         "refer": "",
-        "meaning": "to repeatedly breath in a controlled, deliberate manner",
+        "meaning": "sounds of breathing in a controlled, deliberate manner",
         "example": [
           {
             "file": "fu_fu-2a",

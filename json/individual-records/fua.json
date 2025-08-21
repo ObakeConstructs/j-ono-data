@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "ふあ",
-    "ふぁ",
-    "ふああ",
-    "ふぁぁ",
-    "ふあああ",
-    "ふぁぁぁ"
-  ],
+  "literal": "fua",
   "katakana": [
     "フア",
     "ファ",
@@ -15,28 +8,37 @@
     "フアアア",
     "ファァァ"
   ],
-  "definition": [{
-    "equivalent": [
-      "huff",
-      "whaa",
-      "yawn"
-    ],
-    "refer": "",
-    "meaning": "a wide open-mouth yawn expressing tiredness or boredom",
-    "example": [
-      {
-        "file": "fua-1a",
-        "contributor": "",
-        "display": "ふあああ",
-        "source": "hanako_24th_ward"
-      },
-      {
-        "file": "fua-1b",
-        "contributor": "",
-        "display": "ふあー..",
-        "source": "abandoned_reincarnation_sage"
-      }
-    ]
-  }],
-  "literal": "fua"
+  "hiragana": [
+    "ふあ",
+    "ふぁ",
+    "ふああ",
+    "ふぁぁ",
+    "ふあああ",
+    "ふぁぁぁ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "the sound of a wide open-mouth yawn, expressing tiredness or boredom",
+      "equivalent": [
+        "huff",
+        "whaa",
+        "yawn"
+      ],
+      "example": [
+        {
+          "source": "hanako_24th_ward",
+          "file": "fua-1a",
+          "display": "ふあああ",
+          "contributor": ""
+        },
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "fua-1b",
+          "display": "ふあー..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,39 +1,45 @@
 {
-  "hiragana": ["ふに"],
-  "katakana": ["フニ"],
-  "definition": [{
-    "equivalent": [
-      "fluffy",
-      "gentle",
-      "mushy",
-      "pliable",
-      "soft",
-      "spongy",
-      "squishy",
-      "tender"
-    ],
-    "refer": "",
-    "meaning": "a soft, pliable or fluffy sensation",
-    "example": [
-      {
-        "file": "funi-1a",
-        "contributor": "",
-        "display": "ふに",
-        "source": "hone_dragon"
-      },
-      {
-        "file": "funi-1b",
-        "contributor": "",
-        "display": "ふに",
-        "source": "cheat_pharmacist"
-      },
-      {
-        "file": "funi-1c",
-        "contributor": "",
-        "display": "ふに..",
-        "source": "embarrassing_and_sweet"
-      }
-    ]
-  }],
-  "literal": "funi"
+  "literal": "funi",
+  "katakana": [
+    "フニ"
+  ],
+  "hiragana": [
+    "ふに"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "an indication or sound or pressing or touching something soft, pliable or fluffy",
+      "equivalent": [
+        "fluff",
+        "gently",
+        "mush",
+        "pliable",
+        "softly",
+        "spongy",
+        "squish",
+        "tender"
+      ],
+      "example": [
+        {
+          "source": "hone_dragon",
+          "file": "funi-1a",
+          "display": "ふに",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "funi-1b",
+          "display": "ふに",
+          "contributor": ""
+        },
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "funi-1c",
+          "display": "ふに..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
