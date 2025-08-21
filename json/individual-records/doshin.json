@@ -1,33 +1,37 @@
 {
-  "hiragana": [
-    "どしん",
-    "どしーん",
-    "どっしん",
-    "どっしーん"
-  ],
+  "literal": "doshin",
   "katakana": [
     "ドシン",
     "ドシーン",
     "ドッシン",
     "ドッシーン"
   ],
-  "definition": [{
-    "equivalent": [
-      "thud",
-      "thump",
-      "slam",
-      "bump",
-      "whump",
-      "pound"
-    ],
-    "refer": "",
-    "meaning": "a sound of a heavy impact or thud",
-    "example": [{
-      "file": "doshin-1a",
-      "contributor": "",
-      "display": "どっしーん",
-      "source": "way_of_the_house_husband"
-    }]
-  }],
-  "literal": "doshin"
+  "hiragana": [
+    "どしん",
+    "どしーん",
+    "どっしん",
+    "どっしーん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "the sound of a heavy impact or thud",
+      "equivalent": [
+        "bump",
+        "pound",
+        "slam",
+        "thud",
+        "thump",
+        "whump"
+      ],
+      "example": [
+        {
+          "source": "way_of_the_house_husband",
+          "file": "doshin-1a",
+          "display": "どっしーん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
