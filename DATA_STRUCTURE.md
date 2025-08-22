@@ -119,7 +119,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 }
 ```
 
-Note that in the J-Ono search tool, the resulting meaning of this example would be `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be `fixate, glare, glower, regard, stare, scowl`.
+Note that in the J-Ono search tool, the resulting meaning of this definition record would be displayed as `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be displayed as `fixate, glare, glower, regard, stare, scowl`.
 
 ## IMAGE FILES
 * Each Image File is in a folder corresponding to its source name
