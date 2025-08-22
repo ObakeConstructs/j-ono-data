@@ -6985,7 +6985,7 @@
         "ker-chunk"
       ],
       "refer": "",
-      "meaning": "a short noise of something breaking",
+      "meaning": "a short sound of something breaking",
       "example": [{
         "file": "gasha-1a",
         "contributor": "",
@@ -7231,7 +7231,7 @@
           "rattle"
         ],
         "refer": "",
-        "meaning": "sharp rattling or clattering sounds",
+        "meaning": "sharp sounds of rattling or clattering",
         "example": [
           {
             "file": "gata_gata-1a",
@@ -7302,7 +7302,7 @@
           "hubbub"
         ],
         "refer": "",
-        "meaning": "the noise of a crowd of people talking",
+        "meaning": "the sound of a crowd of people talking",
         "example": [
           {
             "file": "gaya_gaya-1a",
@@ -7476,7 +7476,7 @@
           "squee"
         ],
         "refer": "",
-        "meaning": "a high-pitched squeak or squeal, as from a squeaky door, an old chair or the cry of a small animal",
+        "meaning": "the sound of a high-pitched squeak or squeal",
         "example": [
           {
             "file": "gi-2a",
@@ -7527,7 +7527,7 @@
           "grit"
         ],
         "refer": "",
-        "meaning": "an expression of grinding one's teeth, as in pain or frustration",
+        "meaning": "an expression of grinding one's teeth",
         "example": [{
           "file": "gigi-1a",
           "contributor": "",
@@ -7536,17 +7536,9 @@
         }]
       },
       {
-        "equivalent": [
-          "creak",
-          "cry",
-          "screech",
-          "shriek",
-          "squeak",
-          "squeal",
-          "squee"
-        ],
-        "refer": "",
-        "meaning": "a series of squeak or squeals, as from a door, an old chair, or from animals",
+        "equivalent": [""],
+        "refer": "gi:1",
+        "meaning": "",
         "example": [
           {
             "file": "gigi-2a",
@@ -7623,10 +7615,11 @@
         "glare",
         "glower",
         "regard",
+        "scowl",
         "stare"
       ],
       "refer": "",
-      "meaning": "a fixed intent look",
+      "meaning": "an indication of glaring or staring",
       "example": [
         {
           "file": "gin-1a",
@@ -7654,13 +7647,9 @@
       "ギヌロォ"
     ],
     "definition": [{
-      "equivalent": [
-        "glare",
-        "glower",
-        "stare"
-      ],
-      "refer": "",
-      "meaning": "to look at someone or something with anger or disapproval",
+      "equivalent": [""],
+      "refer": "gin:1",
+      "meaning": "",
       "example": [{
         "file": "ginuro-1a",
         "contributor": "",
@@ -7680,15 +7669,9 @@
       "ギンギンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "fixate",
-        "glare",
-        "glower",
-        "regard",
-        "stare"
-      ],
-      "refer": "",
-      "meaning": "a fixed intent look",
+      "equivalent": [""],
+      "refer": "gin:1",
+      "meaning": "",
       "example": [{
         "file": "gin_gin-1a",
         "contributor": "",
@@ -7708,13 +7691,9 @@
       "ギラッ"
     ],
     "definition": [{
-      "equivalent": [
-        "glare",
-        "glower",
-        "stare"
-      ],
-      "refer": "",
-      "meaning": "to look at someone or something with anger or disapproval",
+      "equivalent": [""],
+      "refer": "gin",
+      "meaning": "",
       "example": [{
         "file": "gira-1a",
         "contributor": "",
@@ -7734,12 +7713,9 @@
       "ギリッ"
     ],
     "definition": [{
-      "equivalent": [
-        "gnash",
-        "grind"
-      ],
-      "refer": "",
-      "meaning": "an expression of grinding one's teeth together, often in frustration or anger",
+      "equivalent": [""],
+      "refer": "gigi:1",
+      "meaning": "",
       "example": [
         {
           "file": "giri-1a",
@@ -7767,12 +7743,9 @@
       "ギリギリリ"
     ],
     "definition": [{
-      "equivalent": [
-        "gnash",
-        "grind"
-      ],
-      "refer": "",
-      "meaning": "an expression of grinding one's teeth together, often in exertion, frustration or anger",
+      "equivalent": [""],
+      "refer": "gigi:1",
+      "meaning": "",
       "example": [
         {
           "file": "giri_giri-1a",
@@ -7800,15 +7773,9 @@
       "ギロッ"
     ],
     "definition": [{
-      "equivalent": [
-        "fixate",
-        "glare",
-        "glower",
-        "regard",
-        "stare"
-      ],
-      "refer": "",
-      "meaning": "a fixed intent look",
+      "equivalent": [""],
+      "refer": "gin:1",
+      "meaning": "",
       "example": [
         {
           "file": "giro-1a",
@@ -7830,16 +7797,9 @@
     "hiragana": ["ぎろり"],
     "katakana": ["ギロリ"],
     "definition": [{
-      "equivalent": [
-        "anger",
-        "disapproval",
-        "glare",
-        "glower",
-        "scowl",
-        "snarl"
-      ],
-      "refer": "",
-      "meaning": "an indication of glaring or scowling, expressing anger or disapproval",
+      "equivalent": [""],
+      "refer": "gin:1",
+      "meaning": "",
       "example": [{
         "file": "girori-1a",
         "contributor": "",

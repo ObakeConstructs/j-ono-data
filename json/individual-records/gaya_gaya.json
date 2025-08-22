@@ -1,14 +1,17 @@
 {
-  "hiragana": [
-    "がやがや",
-    "がゃがゃ"
-  ],
+  "literal": "gaya gaya",
   "katakana": [
     "ガヤガヤ",
     "ガャガャ"
   ],
+  "hiragana": [
+    "がやがや",
+    "がゃがゃ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "the sound of a crowd of people talking",
       "equivalent": [
         "babel babel",
         "blah blah",
@@ -18,44 +21,43 @@
         "clamor clamor",
         "hubbub"
       ],
-      "refer": "",
-      "meaning": "the noise of a crowd of people talking",
       "example": [
         {
+          "source": "reincarnated_farm_girl",
           "file": "gaya_gaya-1a",
-          "contributor": "",
           "display": "ガヤ  ガヤ",
-          "source": "reincarnated_farm_girl"
+          "contributor": ""
         },
         {
+          "source": "kuma_kuma_kuma_bear",
           "file": "gaya_gaya-1b",
-          "contributor": "",
           "display": "がや  がや",
-          "source": "kuma_kuma_kuma_bear"
+          "contributor": ""
         },
         {
+          "source": "sex_with_me_sells",
           "file": "gaya_gaya-1c",
-          "contributor": "",
           "display": "がや  がや  がや  がや  がや  がや  がや",
-          "source": "sex_with_me_sells"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "the squealing sound of tires spinning",
       "equivalent": [
         "scree",
         "screech",
         "squeal"
       ],
-      "refer": "",
-      "meaning": "the squealing sound of tires spinning",
-      "example": [{
-        "file": "gaya_gaya-2a",
-        "contributor": "",
-        "display": "ガャ  ガャ",
-        "source": "blazing_fire_brigade"
-      }]
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "gaya_gaya-2a",
+          "display": "ガャ  ガャ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "gaya gaya"
+  ]
 }

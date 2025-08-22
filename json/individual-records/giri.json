@@ -1,33 +1,34 @@
 {
-  "hiragana": [
-    "ぎり",
-    "ぎりっ"
-  ],
+  "literal": "giri",
   "katakana": [
     "ギリ",
     "ギリッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "gnash",
-      "grind"
-    ],
-    "refer": "",
-    "meaning": "an expression of grinding one's teeth together, often in frustration or anger",
-    "example": [
-      {
-        "file": "giri-1a",
-        "contributor": "",
-        "display": "ギリッ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "giri-1b",
-        "contributor": "",
-        "display": "ギリッ",
-        "source": "sex_with_me_sells"
-      }
-    ]
-  }],
-  "literal": "giri"
+  "hiragana": [
+    "ぎり",
+    "ぎりっ"
+  ],
+  "definition": [
+    {
+      "refer": "gigi:1",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "giri-1a",
+          "display": "ギリッ",
+          "contributor": ""
+        },
+        {
+          "source": "sex_with_me_sells",
+          "file": "giri-1b",
+          "display": "ギリッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

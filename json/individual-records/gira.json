@@ -1,26 +1,28 @@
 {
-  "hiragana": [
-    "ぎら",
-    "ぎらっ"
-  ],
+  "literal": "gira",
   "katakana": [
     "ギラ",
     "ギラッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "glare",
-      "glower",
-      "stare"
-    ],
-    "refer": "",
-    "meaning": "to look at someone or something with anger or disapproval",
-    "example": [{
-      "file": "gira-1a",
-      "contributor": "",
-      "display": "ギラッ",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "gira"
+  "hiragana": [
+    "ぎら",
+    "ぎらっ"
+  ],
+  "definition": [
+    {
+      "refer": "gin",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gira-1a",
+          "display": "ギラッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
