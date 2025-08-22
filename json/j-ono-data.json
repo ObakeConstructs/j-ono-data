@@ -7691,7 +7691,7 @@
     ],
     "definition": [{
       "equivalent": [""],
-      "refer": "gin",
+      "refer": "gin:1",
       "meaning": "",
       "example": [{
         "file": "gira-1a",
