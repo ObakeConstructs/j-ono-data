@@ -53,61 +53,73 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 ## DEFINITION RECORDS
 * Each Definition Record contains...
   * a "literal" translation string
-  * an array of "katagana" strings
+  * an array of "katakana" strings
   * an array of "hiragana" strings
   * an array of "definition" objects
 * Each "definition" object contains...
-  * a "refer" string as a reference to another definition (for normalizing duplicate definitions)
-    * the convention of a "refer" strings is `<literal>:<def num>`, where "def num" is the array index of the referred definition
-    * a non-blank "refer" string will supercede all "meaning" and "equivalent" values in the Search tool.
   * a "meaning" string
-  * an array of english "equivalent" strings
+  * an array of English "equivalent" strings
   * an array of "example" objects
+  * a "refer" string 
+    * "refer" strings reference other definitions (for normalizing duplicate definitions)
+    * the convention of a "refer" strings is `<literal>:<def num>` ("def num" is the index of the referred definition array)
+    * "meaning" values from the referred definition are displayed prior to local meanings in the J-Ono search tool (as a simple concatenation)
+    * "equivalent" values from the referred definition are listed prior to local equivalents in the J-Ono search tool
 * Each "example" object contains...
   * a "source" string with a source id (see SOURCE RECORDS)
   * a "file" string with the filename of the image file (see IMAGE FILES)
   * a "display" string with the matching kana
   * a "contributor" string with the name of the individual that contributed the example (defaults to "Nightbug")
 
-Examples of Definition Records:
+### Example of a Definition Records:
 
 ```json
 {
-  "literal": "baki",
-  "katakana": [ "バキ", "バキッ" ],
-  "hiragana": [ "ばき", "ばきっ" ],
+  "literal": "gin",
+  "katakana": [ "ギン", "ギンッ" ],
+  "hiragana": [ "ぎん", "ぎんっ" ],
   "definition": [{
       "refer": "",
-      "meaning": "a sound of something cracking or breaking",
-      "equivalent": [ "crack", "crash", "pop", "shatter", "smash", "snap" ],
+      "meaning": "an indication of glaring or staring",
+      "equivalent": [ "fixate", "glare", "glower", "regard", "stare" ],
       "example": [{
-          "source": "hanako_24th_ward",
-          "file": "baki-1a",
-          "display": "バキッ",
+          "source": "world_full_of_monsters",
+          "file": "gin-1a",
+          "display": "ギン",
+          "contributor": ""
+        },
+        {
+          "source": "dungeon_dining_room",
+          "file": "gin-1b",
+          "display": "ギンッ",
           "contributor": ""
         }]
     }]
 }
 ```
 
+### Example of a Definition Records with Reference (referencing previous example):
+
 ```json
 {
-  "literal": "bakin",
-  "katakana": [ "バキン", "バキンッ" ],
-  "hiragana": [ "ばきん", "ばきんっ" ],
-  "definition": [ {
-      "refer": "baki:1",
-      "meaning": "",
-      "equivalent": [""],
+  "literal": "ginuro",
+  "katakana": [ "ギヌロ", "ギヌロォ" ],
+  "hiragana": [ "ぎぬろ", "ぎぬろぉ" ],
+  "definition": [{
+      "refer": "gin:1",
+      "meaning": ", typically drawn out and menacing",
+      "equivalent": [ "scowl" ],
       "example": [{
-          "source": "abandoned_reincarnation_sage",
-          "file": "bakin-1a",
-          "display": "バキンッ",
+          "source": "hello_work",
+          "file": "ginuro-1a",
+          "display": "ギヌロォ..!",
           "contributor": ""
         }]
     }]
 }
 ```
+
+Note that in the J-Ono search tool, the resulting meaning of this example would be `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be `fixate, glare, glower, regard, stare, scowl`.
 
 ## IMAGE FILES
 * Each Image File is in a folder corresponding to its source name
