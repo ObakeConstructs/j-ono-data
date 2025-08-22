@@ -7615,7 +7615,6 @@
         "glare",
         "glower",
         "regard",
-        "scowl",
         "stare"
       ],
       "refer": "",
@@ -7647,9 +7646,9 @@
       "ギヌロォ"
     ],
     "definition": [{
-      "equivalent": [""],
+      "equivalent": ["scowl"],
       "refer": "gin:1",
-      "meaning": "",
+      "meaning": ", typically drawn out and menacing",
       "example": [{
         "file": "ginuro-1a",
         "contributor": "",
@@ -7797,9 +7796,9 @@
     "hiragana": ["ぎろり"],
     "katakana": ["ギロリ"],
     "definition": [{
-      "equivalent": [""],
+      "equivalent": ["scowl"],
       "refer": "gin:1",
-      "meaning": "",
+      "meaning": ", expressing anger or disappoval",
       "example": [{
         "file": "girori-1a",
         "contributor": "",
