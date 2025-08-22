@@ -98,7 +98,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 }
 ```
 
-### Example of a Definition Records with Reference (referencing previous example):
+### Example of a Definition Records with a Reference:
 
 ```json
 {
