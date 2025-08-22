@@ -1,21 +1,26 @@
 {
-  "hiragana": ["ごきゅごきゅ"],
-  "katakana": ["ゴキュゴキュ"],
-  "definition": [{
-    "equivalent": [
-      "drink drink",
-      "gulp gulp",
-      "quaff quaff",
-      "swallow swallow"
-    ],
-    "refer": "",
-    "meaning": "the sound of swallowing a liquid",
-    "example": [{
-      "file": "gokyu_gokyu-1a",
-      "contributor": "",
-      "display": "ごきゅ  ごきゅ",
-      "source": "hanako_24th_ward"
-    }]
-  }],
-  "literal": "gokyu gokyu"
+  "literal": "gokyu gokyu",
+  "katakana": [
+    "ゴキュゴキュ"
+  ],
+  "hiragana": [
+    "ごきゅごきゅ"
+  ],
+  "definition": [
+    {
+      "refer": "goku:1",
+      "meaning": ", often loud, heavy, or wet",
+      "equivalent": [
+        "chug"
+      ],
+      "example": [
+        {
+          "source": "hanako_24th_ward",
+          "file": "gokyu_gokyu-1a",
+          "display": "ごきゅ  ごきゅ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,36 +1,50 @@
 {
-  "hiragana": [
-    "ごそ",
-    "ごそ"
-  ],
+  "literal": "goso",
   "katakana": [
     "ゴソ",
     "ゴソッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "get",
-      "locate",
-      "reach",
-      "rummage",
-      "rustle"
-    ],
-    "refer": "",
-    "meaning": "an indication of reaching or searching for something, often related to clothing",
-    "example": [
-      {
-        "file": "goso-1a",
-        "contributor": "",
-        "display": "ごそ",
-        "source": "dog_became_strongest"
-      },
-      {
-        "file": "goso-1b",
-        "contributor": "",
-        "display": "ごそ",
-        "source": "embarrassing_and_sweet"
-      }
-    ]
-  }],
-  "literal": "goso"
+  "hiragana": [
+    "ごそ",
+    "ごそっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "an indication of rummaging or searching",
+      "equivalent": [
+        "get",
+        "locate",
+        "reach",
+        "rummage",
+        "rustle"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "goso-1a",
+          "display": "ごそ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "refer": "",
+      "meaning": "the indication or sound of a rough or awkward motion",
+      "equivalent": [
+        "rustle",
+        "shift",
+        "pull",
+        "tug"
+      ],
+      "example": [
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "goso-1b",
+          "display": "ごそ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

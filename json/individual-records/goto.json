@@ -1,44 +1,46 @@
 {
-  "hiragana": [
-    "ごと",
-    "ごとっ"
-  ],
+  "literal": "goto",
   "katakana": [
     "ゴト",
     "ゴトッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clunk",
-      "ga-thunk",
-      "ka-thunk",
-      "knock",
-      "thunk",
-      "thwack",
-      "tonk"
-    ],
-    "refer": "",
-    "meaning": "the sound of a soft impact from something being set down or placed",
-    "example": [
-      {
-        "file": "goto-1a",
-        "contributor": "",
-        "display": "ゴト",
-        "source": "dog_became_strongest"
-      },
-      {
-        "file": "goto-1b",
-        "contributor": "",
-        "display": "ゴト",
-        "source": "otherworld_material_collector"
-      },
-      {
-        "file": "goto-1c",
-        "contributor": "",
-        "display": "ゴトッ",
-        "source": "otherworld_material_collector"
-      }
-    ]
-  }],
-  "literal": "goto"
+  "hiragana": [
+    "ごと",
+    "ごとっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "a sound of placing or setting down something with weight",
+      "equivalent": [
+        "clunk",
+        "ga-thunk",
+        "ka-thunk",
+        "knock",
+        "thunk",
+        "thwack",
+        "tonk"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "goto-1a",
+          "display": "ゴト",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "goto-1b",
+          "display": "ゴト",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "goto-1c",
+          "display": "ゴトッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

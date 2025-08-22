@@ -1,31 +1,29 @@
 {
-  "hiragana": [
-    "ご",
-    "ごっ"
-  ],
+  "literal": "go go",
   "katakana": [
-    "ゴ",
-    "ゴッ"
+    "ゴゴ",
+    "ゴッゴッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "swish swish",
-      "swoosh swoosh",
-      "flick flick",
-      "flap flap",
-      "swing swing",
-      "switch switch",
-      "wag wag",
-      "twitch twitch"
-    ],
-    "refer": "",
-    "meaning": "a series of side-to-side or up-and-down movements, often with quick jerky motions ",
-    "example": [{
-      "file": "go_go-1a",
-      "contributor": "",
-      "display": "ゴッ  ゴッ",
-      "source": "human_ranch"
-    }]
-  }],
-  "literal": "go go"
+  "hiragana": [
+    "ごご",
+    "ごっごっ"
+  ],
+  "definition": [
+    {
+      "refer": "go:1",
+      "meaning": ", repeated or rythmic ",
+      "equivalent": [
+        "knock",
+        "tap"
+      ],
+      "example": [
+        {
+          "source": "human_ranch",
+          "file": "go_go-1a",
+          "display": "ゴッ  ゴッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

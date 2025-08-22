@@ -1202,7 +1202,7 @@
           "wallop"
         ],
         "refer": "",
-        "meaning": "the sound of a quick strike",
+        "meaning": "the sound of a quick impact",
         "example": [
           {
             "file": "bi-1a",
@@ -7133,7 +7133,7 @@
         "rattle"
       ],
       "refer": "",
-      "meaning": "a rattling or clattering sound, often used to express standing up from a chair",
+      "meaning": "a sound of rattling or clattering, often used to express standing up from a chair",
       "example": [
         {
           "file": "gata-1a",
@@ -7849,7 +7849,7 @@
           "whack"
         ],
         "refer": "",
-        "meaning": "the sound of moderate impact, as of someone being struck",
+        "meaning": "the sound of a medium or heavy impact",
         "example": [
           {
             "file": "go-1a",
@@ -7868,6 +7868,12 @@
             "contributor": "",
             "display": "ゴッ",
             "source": "hone_dragon"
+          },
+          {
+            "file": "go-2a",
+            "contributor": "",
+            "display": "ゴォッ",
+            "source": "hello_work"
           }
         ]
       },
@@ -7881,21 +7887,13 @@
           "whom"
         ],
         "refer": "",
-        "meaning": "a strong explosion or the effect of a nearby explosion",
-        "example": [
-          {
-            "file": "go-2a",
-            "contributor": "",
-            "display": "ゴォッ",
-            "source": "hello_work"
-          },
-          {
-            "file": "go-2b",
-            "contributor": "",
-            "display": "ゴオ",
-            "source": "kuma_kuma_kuma_bear"
-          }
-        ]
+        "meaning": "the sound of an explosion",
+        "example": [{
+          "file": "go-2b",
+          "contributor": "",
+          "display": "ゴオ",
+          "source": "kuma_kuma_kuma_bear"
+        }]
       },
       {
         "equivalent": [
@@ -7905,7 +7903,7 @@
           "fwoosh"
         ],
         "refer": "",
-        "meaning": "the sound of being on fire and burning fiercely",
+        "meaning": "a sound of fire or burning",
         "example": [
           {
             "file": "go-3a",
@@ -7956,7 +7954,7 @@
         "scrape scrape scrape"
       ],
       "refer": "",
-      "meaning": "a harsh rumbling or grinding noise",
+      "meaning": "a sound of harsh rumbling or grinding",
       "example": [{
         "file": "gogogo-1a",
         "contributor": "",
@@ -7981,7 +7979,7 @@
         "hack"
       ],
       "refer": "",
-      "meaning": "the sound of a deep or wet cough",
+      "meaning": "the sound of coughing",
       "example": [{
         "file": "goho-1a",
         "contributor": "",
@@ -8001,12 +7999,9 @@
       "ゴホゴホッ"
     ],
     "definition": [{
-      "equivalent": [
-        "cough cough",
-        "hack hack"
-      ],
-      "refer": "",
-      "meaning": "a series of a deep or wet coughs",
+      "equivalent": [""],
+      "refer": "goho:1",
+      "meaning": "",
       "example": [{
         "file": "goho_goho-1a",
         "contributor": "",
@@ -8027,7 +8022,9 @@
     ],
     "definition": [{
       "equivalent": [
+        "drink",
         "gulp",
+        "quaff",
         "swallow"
       ],
       "refer": "",
@@ -8059,14 +8056,9 @@
     "hiragana": ["ごくん"],
     "katakana": ["ゴクン"],
     "definition": [{
-      "equivalent": [
-        "drink",
-        "gulp",
-        "quaff",
-        "swallow"
-      ],
-      "refer": "",
-      "meaning": "the sound of gulping or swallowing",
+      "equivalent": [""],
+      "refer": "goku:1",
+      "meaning": "",
       "example": [
         {
           "file": "gokun-1a",
@@ -8094,14 +8086,9 @@
     "hiragana": ["ごくごく"],
     "katakana": ["ゴクゴク"],
     "definition": [{
-      "equivalent": [
-        "drink drink",
-        "gulp gulp",
-        "quaff quaff",
-        "swallow swallow"
-      ],
-      "refer": "",
-      "meaning": "the repeated sounds of gulping or swallowing",
+      "equivalent": [""],
+      "refer": "goku:1",
+      "meaning": "",
       "example": [
         {
           "file": "goku_goku-1a",
@@ -8135,14 +8122,9 @@
     "hiragana": ["ごきゅごきゅ"],
     "katakana": ["ゴキュゴキュ"],
     "definition": [{
-      "equivalent": [
-        "drink drink",
-        "gulp gulp",
-        "quaff quaff",
-        "swallow swallow"
-      ],
-      "refer": "",
-      "meaning": "the sound of swallowing a liquid",
+      "equivalent": ["chug"],
+      "refer": "goku:1",
+      "meaning": ", often loud, heavy, or wet",
       "example": [{
         "file": "gokyu_gokyu-1a",
         "contributor": "",
@@ -8162,32 +8144,9 @@
       "ゴンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "bam",
-        "bat",
-        "biff",
-        "bonk",
-        "bop",
-        "clip",
-        "gong",
-        "hit",
-        "knock",
-        "pound",
-        "punch",
-        "scuff",
-        "slam",
-        "smack",
-        "sock",
-        "strike",
-        "swat",
-        "tap",
-        "thud",
-        "thump",
-        "thunk",
-        "whack"
-      ],
-      "refer": "",
-      "meaning": "the sound of a hit or strike, can be loud or soft depending on context",
+      "equivalent": [""],
+      "refer": "go:1",
+      "meaning": "",
       "example": [
         {
           "file": "gon-1a",
@@ -8228,19 +8187,14 @@
     "katakana": ["ゴポリ"],
     "definition": [{
       "equivalent": [
-        "belch",
-        "disgorge",
-        "eject",
+        "drip",
+        "ooze",
         "pour",
-        "run",
-        "spew",
-        "spurt",
-        "squirt",
-        "stream",
-        "swoosh"
+        "pour",
+        "run"
       ],
       "refer": "",
-      "meaning": "to flow out in great quantities or with force",
+      "meaning": "an indication or sound of slowly oozing or dripping",
       "example": [{
         "file": "gopori-1a",
         "contributor": "",
@@ -8268,7 +8222,7 @@
         "wobble"
       ],
       "refer": "",
-      "meaning": "a indication or sound of rolling or rocking",
+      "meaning": "an indication or sound of rolling or rocking",
       "example": [
         {
           "file": "goro-1a",
@@ -8294,7 +8248,6 @@
         "fall",
         "rock",
         "roll",
-        "roll",
         "roll over",
         "spin",
         "thump",
@@ -8302,7 +8255,7 @@
         "turn"
       ],
       "refer": "",
-      "meaning": "an indication of rolling over or falling over",
+      "meaning": "an indication or sound of rolling over or falling over",
       "example": [
         {
           "file": "goron-1a",
@@ -8342,7 +8295,7 @@
           "thrum"
         ],
         "refer": "",
-        "meaning": "a continuous low vibration, typically from a content or pleased cat",
+        "meaning": "the sound of a low purr, typically from a cat",
         "example": [{
           "file": "goro_goro-1a",
           "contributor": "",
@@ -8351,17 +8304,9 @@
         }]
       },
       {
-        "equivalent": [
-          "roll",
-          "roll over",
-          "roll roll",
-          "spin",
-          "spin spin",
-          "turn",
-          "turn over"
-        ],
-        "refer": "",
-        "meaning": "the act of rolling or rolling over",
+        "equivalent": [""],
+        "refer": "goro:1",
+        "meaning": "",
         "example": [
           {
             "file": "goro_goro-2a",
@@ -8385,13 +8330,13 @@
     "katakana": ["ゴシゴシ"],
     "definition": [{
       "equivalent": [
-        "buff buff",
-        "rub rub",
-        "scrub scrub",
-        "swipe swipe"
+        "buff",
+        "rub",
+        "scrub",
+        "swipe"
       ],
       "refer": "",
-      "meaning": "a series of rubbing or scrubbing sounds or motions",
+      "meaning": "an indication or sound of rubbing or scrubbing",
       "example": [
         {
           "file": "goshi_goshi-1a",
@@ -8424,37 +8369,47 @@
   {
     "hiragana": [
       "ごそ",
-      "ごそ"
+      "ごそっ"
     ],
     "katakana": [
       "ゴソ",
       "ゴソッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "get",
-        "locate",
-        "reach",
-        "rummage",
-        "rustle"
-      ],
-      "refer": "",
-      "meaning": "an indication of reaching or searching for something, often related to clothing",
-      "example": [
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "get",
+          "locate",
+          "reach",
+          "rummage",
+          "rustle"
+        ],
+        "refer": "",
+        "meaning": "an indication of rummaging or searching",
+        "example": [{
           "file": "goso-1a",
           "contributor": "",
           "display": "ごそ",
           "source": "dog_became_strongest"
-        },
-        {
+        }]
+      },
+      {
+        "equivalent": [
+          "pull",
+          "rustle",
+          "shift",
+          "tug"
+        ],
+        "refer": "",
+        "meaning": "the indication or sound of a rough or awkward motion",
+        "example": [{
           "file": "goso-1b",
           "contributor": "",
           "display": "ごそ",
           "source": "embarrassing_and_sweet"
-        }
-      ]
-    }],
+        }]
+      }
+    ],
     "literal": "goso"
   },
   {
@@ -8477,7 +8432,7 @@
         "tonk"
       ],
       "refer": "",
-      "meaning": "the sound of a soft impact from something being set down or placed",
+      "meaning": "a sound of placing or setting down something with weight",
       "example": [
         {
           "file": "goto-1a",
@@ -8522,7 +8477,7 @@
         "yaaa"
       ],
       "refer": "",
-      "meaning": "a loud, violent shout",
+      "meaning": "the sound of a loud or violent shout",
       "example": [{
         "file": "gou-1a",
         "contributor": "",
@@ -8541,7 +8496,7 @@
         "rumble"
       ],
       "refer": "",
-      "meaning": "The repeated rumbling sound of heavy machinery",
+      "meaning": "the rumbling sound of a motor or machinery",
       "example": [{
         "file": "goun_goun-1a",
         "contributor": "",
@@ -8553,26 +8508,20 @@
   },
   {
     "hiragana": [
-      "ご",
-      "ごっ"
+      "ごご",
+      "ごっごっ"
     ],
     "katakana": [
-      "ゴ",
-      "ゴッ"
+      "ゴゴ",
+      "ゴッゴッ"
     ],
     "definition": [{
       "equivalent": [
-        "flap flap",
-        "flick flick",
-        "swing swing",
-        "swish swish",
-        "switch switch",
-        "swoosh swoosh",
-        "twitch twitch",
-        "wag wag"
+        "knock",
+        "tap"
       ],
-      "refer": "",
-      "meaning": "a series of side-to-side or up-and-down movements, often with quick jerky motions ",
+      "refer": "go:1",
+      "meaning": ", repeated or rythmic ",
       "example": [{
         "file": "go_go-1a",
         "contributor": "",

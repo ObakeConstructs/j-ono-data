@@ -1,25 +1,28 @@
 {
-  "hiragana": [
-    "ごほごほ",
-    "ごほごほっ"
-  ],
+  "literal": "goho goho",
   "katakana": [
     "ゴホゴホ",
     "ゴホゴホッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "cough cough",
-      "hack hack"
-    ],
-    "refer": "",
-    "meaning": "a series of a deep or wet coughs",
-    "example": [{
-      "file": "goho_goho-1a",
-      "contributor": "",
-      "display": "ゴホ  ゴホッ",
-      "source": "isekai_sniper"
-    }]
-  }],
-  "literal": "goho goho"
+  "hiragana": [
+    "ごほごほ",
+    "ごほごほっ"
+  ],
+  "definition": [
+    {
+      "refer": "goho:1",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "isekai_sniper",
+          "file": "goho_goho-1a",
+          "display": "ゴホ  ゴホッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

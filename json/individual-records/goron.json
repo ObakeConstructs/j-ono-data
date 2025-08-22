@@ -1,40 +1,45 @@
 {
-  "hiragana": ["ごろん"],
-  "katakana": ["ゴロン"],
-  "definition": [{
-    "equivalent": [
-      "rock",
-      "roll",
-      "roll over",
-      "spin",
-      "tumble",
-      "turn",
-      "roll",
-      "thump",
-      "fall"
-    ],
-    "refer": "",
-    "meaning": "an indication of rolling over or falling over",
-    "example": [
-      {
-        "file": "goron-1a",
-        "contributor": "",
-        "display": "ごろん",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "goron-1b",
-        "contributor": "",
-        "display": "ゴロン",
-        "source": "neet_kunoichi"
-      },
-      {
-        "file": "goron-1c",
-        "contributor": "",
-        "display": "ゴロン",
-        "source": "spy_x_family"
-      }
-    ]
-  }],
-  "literal": "goron"
+  "literal": "goron",
+  "katakana": [
+    "ゴロン"
+  ],
+  "hiragana": [
+    "ごろん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "meaning": "an indication or sound of rolling over or falling over",
+      "equivalent": [
+        "fall",
+        "rock",
+        "roll",
+        "roll over",
+        "spin",
+        "thump",
+        "tumble",
+        "turn"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "goron-1a",
+          "display": "ごろん",
+          "contributor": ""
+        },
+        {
+          "source": "neet_kunoichi",
+          "file": "goron-1b",
+          "display": "ゴロン",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "goron-1c",
+          "display": "ゴロン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
