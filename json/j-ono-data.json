@@ -8022,13 +8022,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "drink",
         "gulp",
-        "quaff",
         "swallow"
       ],
       "refer": "",
-      "meaning": "the sound of gulping or swallowing",
+      "meaning": "a sound of gulping or swallowing",
       "example": [
         {
           "file": "goku-1a",
@@ -8572,7 +8570,7 @@
           "squeeze"
         ],
         "refer": "",
-        "meaning": "the act of making a fist or grabbing/holding something strongly",
+        "meaning": "the indication of a strong, firm, or tightening grip",
         "example": [
           {
             "file": "gu-1a",
@@ -8611,7 +8609,7 @@
           "thrust"
         ],
         "refer": "",
-        "meaning": "to push or drive with force",
+        "meaning": "an indication or sound of pushing or driving with force",
         "example": [
           {
             "file": "gu-2a",
@@ -8637,7 +8635,7 @@
           "wheeze"
         ],
         "refer": "",
-        "meaning": "breathing hard as an expression of pain",
+        "meaning": "a sound of breathing hard",
         "example": [{
           "file": "gu-3a",
           "contributor": "",
@@ -8652,7 +8650,7 @@
           "rumble"
         ],
         "refer": "",
-        "meaning": "the sound of a stomach growling, indicating hunger",
+        "meaning": "the sound of a stomach growling",
         "example": [
           {
             "file": "gu-4a",
@@ -8675,9 +8673,12 @@
         ]
       },
       {
-        "equivalent": ["thumbs-up"],
+        "equivalent": [
+          "ayyy",
+          "thumbs-up"
+        ],
         "refer": "",
-        "meaning": "a gesture of approval or encouragement by way of a thumbs-up",
+        "meaning": "the expression or gesture of approval or encouragement, by way of a thumbs up",
         "example": [
           {
             "file": "gu-5a",
@@ -8703,10 +8704,11 @@
         "equivalent": [
           "glare",
           "glower",
+          "simmer",
           "stare"
         ],
         "refer": "",
-        "meaning": "to look at someone or something with anger or disapproval",
+        "meaning": "an expression anger or disapproval",
         "example": [{
           "file": "gu-6a",
           "contributor": "",
@@ -8736,14 +8738,9 @@
     "hiragana": ["ぐびぐび"],
     "katakana": ["グビグビ"],
     "definition": [{
-      "equivalent": [
-        "drink drink",
-        "gulp gulp",
-        "quaff quaff",
-        "swallow swallow"
-      ],
-      "refer": "",
-      "meaning": "noisily gulping down a liquid, particularly alcohol",
+      "equivalent": [""],
+      "refer": "goku:1",
+      "meaning": "",
       "example": [{
         "file": "gubi_gubi-1a",
         "contributor": "",
@@ -8773,15 +8770,17 @@
         "nab",
         "pull",
         "seize",
+        "shove",
         "snag",
-        "snatch",
+        "snake",
+        "swipe",
         "take",
         "tug",
         "wrest",
         "yank"
       ],
       "refer": "",
-      "meaning": "a sudden or forceful hand movement",
+      "meaning": "the indication or sound of a forceful movement",
       "example": [
         {
           "file": "gui-1a",
@@ -8821,17 +8820,9 @@
     "hiragana": ["ぐいぐい"],
     "katakana": ["グイグイ"],
     "definition": [{
-      "equivalent": [
-        "eager",
-        "excited",
-        "geeked",
-        "gung ho",
-        "impatient",
-        "pumped",
-        "stoked"
-      ],
-      "refer": "",
-      "meaning": "an expression of exaggerated enthusiasm or impatience",
+      "equivalent": [""],
+      "refer": "gui:1",
+      "meaning": "",
       "example": [{
         "file": "gui_gui-1a",
         "contributor": "",
@@ -8957,7 +8948,7 @@
           "snarl"
         ],
         "refer": "",
-        "meaning": "a low, gutteral noise",
+        "meaning": "the sound of a growl",
         "example": [
           {
             "file": "guru-1a",
@@ -9030,7 +9021,7 @@
         "twist"
       ],
       "refer": "",
-      "meaning": "the act of turning, rolling, or flipping something",
+      "meaning": "an act of turning, rolling, or flipping something",
       "example": [
         {
           "file": "gurun-1a",
@@ -9072,7 +9063,7 @@
         "stab"
       ],
       "refer": "",
-      "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
+      "meaning": "a sound of stabbing or piercing",
       "example": [
         {
           "file": "gusa-1a",
@@ -9101,16 +9092,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "blub",
-        "blubber",
-        "sniff",
-        "sniffle",
-        "snivel",
-        "snuffle",
-        "sob"
+        "press",
+        "push",
+        "rub",
+        "scrub",
+        "wipe"
       ],
       "refer": "",
-      "meaning": "the sound of sniffling or fighting back tears",
+      "meaning": "an indication of pressing or rubbing in a rough or forceful way",
       "example": [{
         "file": "gushi-1a",
         "contributor": "",
@@ -9130,15 +9119,9 @@
       "グシグシッ"
     ],
     "definition": [{
-      "equivalent": [
-        "creak",
-        "screech",
-        "shriek",
-        "squeak",
-        "squeal"
-      ],
-      "refer": "",
-      "meaning": "a series of squeaking wood sounds",
+      "equivalent": [""],
+      "refer": "gushi:1",
+      "meaning": "",
       "example": [{
         "file": "gushi_gushi-1a",
         "contributor": "",
@@ -9166,7 +9149,7 @@
         "weep"
       ],
       "refer": "",
-      "meaning": "tears welling up as an expression of pain or distress",
+      "meaning": "an indication of tears welling up, as an expression of pain or distress",
       "example": [{
         "file": "gusu-1a",
         "contributor": "",
@@ -9180,15 +9163,9 @@
     "hiragana": ["ぐすんぐすん"],
     "katakana": ["グスングスン"],
     "definition": [{
-      "equivalent": [
-        "blub",
-        "cry",
-        "sob",
-        "tears",
-        "weep"
-      ],
-      "refer": "",
-      "meaning": "shedding tears as an expression of pain or distress",
+      "equivalent": [""],
+      "refer": "gusu:1",
+      "meaning": "",
       "example": [{
         "file": "gusun_gusun-1a",
         "contributor": "",
@@ -9208,15 +9185,9 @@
       "グスッグスッ"
     ],
     "definition": [{
-      "equivalent": [
-        "blub blub",
-        "cry cry",
-        "sob sob",
-        "tears tears",
-        "weep"
-      ],
-      "refer": "",
-      "meaning": "tears welling up as an expression of pain or distress",
+      "equivalent": [""],
+      "refer": "gusu:1",
+      "meaning": "",
       "example": [
         {
           "file": "gusu_gusu-1a",
@@ -9254,7 +9225,7 @@
         "yell"
       ],
       "refer": "",
-      "meaning": "a long, loud shout or cry",
+      "meaning": "the sound of a loud shout or cry",
       "example": [{
         "file": "guwa-1a",
         "contributor": "",
@@ -9278,19 +9249,9 @@
       "グググ"
     ],
     "definition": [{
-      "equivalent": [
-        "clench",
-        "gah gah",
-        "grab",
-        "grasp",
-        "grip",
-        "pressure",
-        "squeeze",
-        "strain",
-        "struggle"
-      ],
-      "refer": "",
-      "meaning": "an indication or sound of gripping or squeezing something, usually indicating strain or tension",
+      "equivalent": [""],
+      "refer": "gu:1",
+      "meaning": "",
       "example": [
         {
           "file": "gugu-1a",

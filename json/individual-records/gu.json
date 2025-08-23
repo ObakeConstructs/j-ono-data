@@ -1,18 +1,5 @@
 {
-  "hiragana": [
-    "ぐ",
-    "ぐっ",
-    "ぐー",
-    "ぐーっ",
-    "ぐ",
-    "ぐう",
-    "ぐうっ",
-    "ぐうう",
-    "ぐううう",
-    "ぐぅ",
-    "ぐぅぅ",
-    "ぐぅぅぅ"
-  ],
+  "literal": "gu",
   "katakana": [
     "グ",
     "グッ",
@@ -27,8 +14,24 @@
     "グゥゥ",
     "グゥゥゥ"
   ],
+  "hiragana": [
+    "ぐ",
+    "ぐっ",
+    "ぐー",
+    "ぐーっ",
+    "ぐ",
+    "ぐう",
+    "ぐうっ",
+    "ぐうう",
+    "ぐううう",
+    "ぐぅ",
+    "ぐぅぅ",
+    "ぐぅぅぅ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "the indication of a strong, firm, or tightening grip",
       "equivalent": [
         "clench",
         "firm grip",
@@ -38,36 +41,36 @@
         "hold",
         "squeeze"
       ],
-      "refer": "",
-      "meaning": "the act of making a fist or grabbing/holding something strongly",
       "example": [
         {
+          "source": "d_genesis",
           "file": "gu-1a",
-          "contributor": "",
           "display": "ぐっ...",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "gu-1b",
-          "contributor": "",
           "display": "グッ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "strongest_failure_frame",
           "file": "gu-1c",
-          "contributor": "",
           "display": "ぐ",
-          "source": "strongest_failure_frame"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "gu-1d",
-          "contributor": "",
           "display": "グッ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "an indication or sound of pushing or driving with force",
       "equivalent": [
         "drive",
         "force",
@@ -77,24 +80,24 @@
         "shove",
         "thrust"
       ],
-      "refer": "",
-      "meaning": "to push or drive with force",
       "example": [
         {
+          "source": "world_full_of_monsters",
           "file": "gu-2a",
-          "contributor": "",
           "display": "ぐっ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "double_play",
           "file": "gu-2b",
-          "contributor": "",
           "display": "ぐっ...",
-          "source": "double_play"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "a sound of breathing hard",
       "equivalent": [
         "breath",
         "gasp",
@@ -103,99 +106,106 @@
         "puff",
         "wheeze"
       ],
-      "refer": "",
-      "meaning": "breathing hard as an expression of pain",
-      "example": [{
-        "file": "gu-3a",
-        "contributor": "",
-        "display": "ぐっ...",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "gu-3a",
+          "display": "ぐっ...",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "meaning": "the sound of a stomach growling",
       "equivalent": [
         "growl",
         "grr",
         "rumble"
       ],
-      "refer": "",
-      "meaning": "the sound of a stomach growling, indicating hunger",
       "example": [
         {
+          "source": "fushi_no_kami",
           "file": "gu-4a",
-          "contributor": "",
           "display": "ぐぅぅぅぅぅ",
-          "source": "fushi_no_kami"
+          "contributor": ""
         },
         {
+          "source": "isekai_territory_reform",
           "file": "gu-4b",
-          "contributor": "",
           "display": "ぐー",
-          "source": "isekai_territory_reform"
+          "contributor": ""
         },
         {
+          "source": "way_of_isekai_cooking",
           "file": "gu-4c",
-          "contributor": "",
           "display": "ぐぅ",
-          "source": "way_of_isekai_cooking"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": ["thumbs-up"],
       "refer": "",
-      "meaning": "a gesture of approval or encouragement by way of a thumbs-up",
+      "meaning": "the expression or gesture of approval or encouragement, by way of a thumbs up",
+      "equivalent": [
+        "thumbs-up",
+        "ayyy"
+      ],
       "example": [
         {
+          "source": "strongest_thread_master",
           "file": "gu-5a",
-          "contributor": "",
           "display": "ぐっ",
-          "source": "strongest_thread_master"
+          "contributor": ""
         },
         {
+          "source": "yojo_life",
           "file": "gu-5b",
-          "contributor": "",
           "display": "グッ",
-          "source": "yojo_life"
+          "contributor": ""
         },
         {
+          "source": "ai_and_izawa",
           "file": "gu-5c",
-          "contributor": "",
           "display": "ぐっ",
-          "source": "ai_and_izawa"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "an expression anger or disapproval",
       "equivalent": [
         "glare",
         "glower",
-        "stare"
+        "stare",
+        "simmer"
       ],
-      "refer": "",
-      "meaning": "to look at someone or something with anger or disapproval",
-      "example": [{
-        "file": "gu-6a",
-        "contributor": "",
-        "display": "ぐっ",
-        "source": "uncle_at_heart"
-      }]
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "gu-6a",
+          "display": "ぐっ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "meaning": "an indication or sound of heavy sleeping",
       "equivalent": [
         "sleep",
         "snore",
         "zzzz"
       ],
-      "refer": "",
-      "meaning": "an indication or sound of heavy sleeping",
-      "example": [{
-        "file": "gu-7a",
-        "contributor": "",
-        "display": "グー",
-        "source": "double_play"
-      }]
+      "example": [
+        {
+          "source": "double_play",
+          "file": "gu-7a",
+          "display": "グー",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "gu"
+  ]
 }

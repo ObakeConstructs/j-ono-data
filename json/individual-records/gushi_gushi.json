@@ -1,28 +1,28 @@
 {
-  "hiragana": [
-    "ぐしぐし",
-    "ぐしぐしっ"
-  ],
+  "literal": "gushi gushi",
   "katakana": [
     "グシグシ",
     "グシグシッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "creak",
-      "screech",
-      "shriek",
-      "squeak",
-      "squeal"
-    ],
-    "refer": "",
-    "meaning": "a series of squeaking wood sounds",
-    "example": [{
-      "file": "gushi_gushi-1a",
-      "contributor": "",
-      "display": "グシ  グシ",
-      "source": "shogun_gold_in_america"
-    }]
-  }],
-  "literal": "gushi gushi"
+  "hiragana": [
+    "ぐしぐし",
+    "ぐしぐしっ"
+  ],
+  "definition": [
+    {
+      "refer": "gushi:1",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "shogun_gold_in_america",
+          "file": "gushi_gushi-1a",
+          "display": "グシ  グシ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

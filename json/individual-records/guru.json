@@ -1,74 +1,76 @@
 {
-  "hiragana": [
-    "ぐる",
-    "ぐるっ",
-    "ぐるる",
-    "ぐるるる"
-  ],
+  "literal": "guru",
   "katakana": [
     "グル",
     "グルッ",
     "グルル",
     "グルルル"
   ],
+  "hiragana": [
+    "ぐる",
+    "ぐるっ",
+    "ぐるる",
+    "ぐるるる"
+  ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "the sound of a growl",
       "equivalent": [
         "growl",
         "grumble",
         "rumble",
         "snarl"
       ],
-      "refer": "",
-      "meaning": "a low, gutteral noise",
       "example": [
         {
+          "source": "otherworld_material_collector",
           "file": "guru-1a",
-          "contributor": "",
           "display": "ぐるるるるる",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "guru-1b",
-          "contributor": "",
           "display": "ぐるるるる",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "kuma_kuma_kuma_bear",
           "file": "guru-1c",
-          "contributor": "",
           "display": "グルルル...",
-          "source": "kuma_kuma_kuma_bear"
+          "contributor": ""
         },
         {
+          "source": "rise_of_the_outlaw_tamer",
           "file": "guru-1d",
-          "contributor": "",
           "display": "グルル..",
-          "source": "rise_of_the_outlaw_tamer"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [
-        "spin",
-        "rotate",
-        "revolve",
-        "turn",
-        "twirl",
-        "roll",
-        "whirl",
-        "wind",
-        "swivel"
-      ],
       "refer": "",
       "meaning": "an indication or sound of something rotating or spinning",
-      "example": [{
-        "file": "guru-2a",
-        "contributor": "",
-        "display": "グルルル",
-        "source": "kaijuu_sdf"
-      }]
+      "equivalent": [
+        "revolve",
+        "roll",
+        "rotate",
+        "spin",
+        "swivel",
+        "turn",
+        "twirl",
+        "whirl",
+        "wind"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "guru-2a",
+          "display": "グルルル",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "guru"
+  ]
 }
