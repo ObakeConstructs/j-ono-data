@@ -1401,47 +1401,35 @@
     ],
     "definition": [{
       "equivalent": [
-        "flinch flinch",
-        "jerk jerk",
-        "quiver quiver",
-        "shake shake",
-        "twitch twitch",
-        "wince wince"
+        "convulse",
+        "flinch",
+        "jerk",
+        "jolt",
+        "quiver",
+        "shake",
+        "shiver",
+        "tremble",
+        "twitch",
+        "wince"
       ],
       "refer": "",
       "meaning": "indications of jerky movement or twitching",
-      "example": [{
-        "file": "biku_biku-1a",
-        "contributor": "",
-        "display": "クッ  ビク  ビクッ",
-        "source": "double_play"
-      }]
+      "example": [
+        {
+          "file": "biku_biku-1a",
+          "contributor": "",
+          "display": "クッ  ビク  ビクッ",
+          "source": "double_play"
+        },
+        {
+          "file": "biku_bikun-1a",
+          "contributor": "",
+          "display": "ビク  ビク  ビクン",
+          "source": "reincarnated_as_a_dragon_egg"
+        }
+      ]
     }],
     "literal": "biku biku"
-  },
-  {
-    "hiragana": ["びくびくん"],
-    "katakana": ["ビクビクン"],
-    "definition": [{
-      "equivalent": [
-        "convulse convulse",
-        "jolt jolt",
-        "quiver quiver",
-        "shiver shiver",
-        "shudder shudder",
-        "tremble tremble",
-        "tremor tremor"
-      ],
-      "refer": "",
-      "meaning": "indications of shaking, twitching, or convulsing",
-      "example": [{
-        "file": "biku_bikun-1a",
-        "contributor": "",
-        "display": "ビク  ビク  ビクン",
-        "source": "reincarnated_as_a_dragon_egg"
-      }]
-    }],
-    "literal": "biku bikun"
   },
   {
     "hiragana": [
@@ -2245,13 +2233,25 @@
       "ぶ",
       "ぶっ",
       "ぶー",
-      "ぶーっ"
+      "ぶーっ",
+      "ぶぅ",
+      "ぶぅぅ",
+      "ぶぅぅぅ",
+      "ぶう",
+      "ぶうう",
+      "ぶううう"
     ],
     "katakana": [
       "ブ",
       "ブッ",
       "ブー",
-      "ブーッ"
+      "ブーッ",
+      "ブゥ",
+      "ブゥゥ",
+      "ブゥゥゥ",
+      "ブウ",
+      "ブウウ",
+      "ブウウウ"
     ],
     "definition": [
       {
@@ -2289,12 +2289,27 @@
           "erp"
         ],
         "refer": "",
-        "meaning": "a sound of restraint from spitting or spraying something from the mouth",
+        "meaning": "an aborted urge to spit or spray something from the mouth",
         "example": [{
           "file": "bu-2a",
           "contributor": "",
           "display": "ブッ",
           "source": "double_play"
+        }]
+      },
+      {
+        "equivalent": [
+          "idle",
+          "rumble",
+          "vrrm"
+        ],
+        "refer": "",
+        "meaning": "the low rumble of a car engine at idle",
+        "example": [{
+          "file": "buu-1a",
+          "contributor": "",
+          "display": "ブゥゥゥゥ",
+          "source": "35_year_olds_choice"
         }]
       }
     ],
@@ -2807,40 +2822,6 @@
       }]
     }],
     "literal": "butsu butsu"
-  },
-  {
-    "hiragana": [
-      "ぶぅ",
-      "ぶぅぅ",
-      "ぶぅぅぅ",
-      "ぶう",
-      "ぶうう",
-      "ぶううう"
-    ],
-    "katakana": [
-      "ブゥ",
-      "ブゥゥ",
-      "ブゥゥゥ",
-      "ブウ",
-      "ブウウ",
-      "ブウウウ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "idle",
-        "rumble",
-        "vrrm"
-      ],
-      "refer": "",
-      "meaning": "the low rumbling sound of a car engine at idle",
-      "example": [{
-        "file": "buu-1a",
-        "contributor": "",
-        "display": "ブゥゥゥゥ",
-        "source": "35_year_olds_choice"
-      }]
-    }],
-    "literal": "buu"
   },
   {
     "hiragana": [
@@ -6317,6 +6298,12 @@
           "contributor": "",
           "display": "ガチャッ",
           "source": "yojo_life"
+        },
+        {
+          "file": "gacha-1e",
+          "contributor": "",
+          "display": "ガチャ",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -7092,28 +7079,6 @@
     "literal": "gashi"
   },
   {
-    "hiragana": ["ぐすん"],
-    "katakana": ["グスン"],
-    "definition": [{
-      "equivalent": [
-        "blub",
-        "cry",
-        "sob",
-        "tears",
-        "weep"
-      ],
-      "refer": "",
-      "meaning": "an indication of shedding tears, as an expression of pain or distress",
-      "example": [{
-        "file": "gasun-1a",
-        "contributor": "",
-        "display": "ぐすん",
-        "source": "requiem_for_prophet"
-      }]
-    }],
-    "literal": "gasun"
-  },
-  {
     "hiragana": [
       "がた",
       "がたっ",
@@ -7158,12 +7123,6 @@
           "contributor": "",
           "display": "ガタッ",
           "source": "otherworld_material_collector"
-        },
-        {
-          "file": "gata-1e",
-          "contributor": "",
-          "display": "ガタャ",
-          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -9158,6 +9117,22 @@
       }]
     }],
     "literal": "gusu"
+  },
+  {
+    "hiragana": ["ぐすん"],
+    "katakana": ["グスン"],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "gusu:1",
+      "meaning": "",
+      "example": [{
+        "file": "gusun-1a",
+        "contributor": "",
+        "display": "ぐすん",
+        "source": "requiem_for_prophet"
+      }]
+    }],
+    "literal": "gusun"
   },
   {
     "hiragana": ["ぐすんぐすん"],
@@ -24744,6 +24719,27 @@
       }]
     }],
     "literal": "zuba"
+  },
+  {
+    "hiragana": ["ずばばん"],
+    "katakana": ["ズババン"],
+    "definition": [{
+      "equivalent": [
+        "da-dum",
+        "ker-blam",
+        "ta-da",
+        "wha-bam"
+      ],
+      "refer": "",
+      "meaning": "to reveal something mundane in an overly dramatic fashion, often used humorously",
+      "example": [{
+        "file": "zubaban-1a",
+        "contributor": "",
+        "display": "ズババン!",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "literal": "zubaban"
   },
   {
     "hiragana": ["ずびしっ"],

@@ -1,18 +1,33 @@
 {
-  "hiragana": [
-    "ぶ",
-    "ぶっ",
-    "ぶー",
-    "ぶーっ"
-  ],
+  "literal": "bu",
   "katakana": [
     "ブ",
     "ブッ",
     "ブー",
-    "ブーッ"
+    "ブーッ",
+    "ブゥ",
+    "ブゥゥ",
+    "ブゥゥゥ",
+    "ブウ",
+    "ブウウ",
+    "ブウウウ"
+  ],
+  "hiragana": [
+    "ぶ",
+    "ぶっ",
+    "ぶー",
+    "ぶーっ",
+    "ぶぅ",
+    "ぶぅぅ",
+    "ぶぅぅぅ",
+    "ぶう",
+    "ぶうう",
+    "ぶううう"
   ],
   "definition": [
     {
+      "refer": "",
+      "meaning": "a sound of spitting or spraying something from the mouth",
       "equivalent": [
         "blarg",
         "bleh",
@@ -24,37 +39,53 @@
         "spit out",
         "sploosh"
       ],
-      "refer": "",
-      "meaning": "a sound of spitting or spraying something from the mouth",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "bu-1a",
-          "contributor": "",
           "display": "ブーッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "hikaro_no_go",
           "file": "bu-1b",
-          "contributor": "",
           "display": "ぶーっ",
-          "source": "hikaro_no_go"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "meaning": "an aborted urge to spit or spray something from the mouth",
       "equivalent": [
         "blurg",
         "erp"
       ],
+      "example": [
+        {
+          "source": "double_play",
+          "file": "bu-2a",
+          "display": "ブッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
       "refer": "",
-      "meaning": "a sound of restraint from spitting or spraying something from the mouth",
-      "example": [{
-        "file": "bu-2a",
-        "contributor": "",
-        "display": "ブッ",
-        "source": "double_play"
-      }]
+      "meaning": "the low rumble of a car engine at idle",
+      "equivalent": [
+        "idle",
+        "rumble",
+        "vrrm"
+      ],
+      "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "buu-1a",
+          "display": "ブゥゥゥゥ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "bu"
+  ]
 }

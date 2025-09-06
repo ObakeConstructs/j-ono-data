@@ -1,5 +1,5 @@
 {
-  "literal": "gasun",
+  "literal": "gusun",
   "katakana": [
     "グスン"
   ],
@@ -8,19 +8,15 @@
   ],
   "definition": [
     {
-      "refer": "",
-      "meaning": "an indication of shedding tears, as an expression of pain or distress",
+      "refer": "gusu:1",
+      "meaning": "",
       "equivalent": [
-        "blub",
-        "cry",
-        "sob",
-        "tears",
-        "weep"
+        ""
       ],
       "example": [
         {
           "source": "requiem_for_prophet",
-          "file": "gasun-1a",
+          "file": "gusun-1a",
           "display": "ぐすん",
           "contributor": ""
         }
