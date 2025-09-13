@@ -1,34 +1,31 @@
 {
-  "literal": "fiun",
-  "katakana": [
-    "フィウン",
-    "フィウーン"
-  ],
   "hiragana": [
     "ふぃうん",
     "ふぃうーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "a wooshing or whistling sound of something moving quickly through the air",
-      "equivalent": [
-        "fwoom",
-        "whoosh",
-        "whiff",
-        "swoosh",
-        "throw",
-        "swing",
-        "zip"
-      ],
-      "example": [
-        {
-          "source": "strongest_magician_was_human",
-          "file": "fiun-1a",
-          "display": "フィウーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "フィウン",
+    "フィウーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fwoom",
+      "whoosh",
+      "whiff",
+      "swoosh",
+      "throw",
+      "swing",
+      "zip"
+    ],
+    "refer": "",
+    "meaning": "a wooshing or whistling sound of something moving quickly through the air",
+    "type": "",
+    "example": [{
+      "file": "fiun-1a",
+      "contributor": "",
+      "display": "フィウーン",
+      "source": "strongest_magician_was_human"
+    }]
+  }],
+  "literal": "fiun"
 }

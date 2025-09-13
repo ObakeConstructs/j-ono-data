@@ -1,38 +1,37 @@
 {
-  "literal": "gin",
-  "katakana": [
-    "ギン",
-    "ギンッ"
-  ],
   "hiragana": [
     "ぎん",
     "ぎんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "an indication of glaring or staring",
-      "equivalent": [
-        "fixate",
-        "glare",
-        "glower",
-        "regard",
-        "stare"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gin-1a",
-          "display": "ギン",
-          "contributor": ""
-        },
-        {
-          "source": "dungeon_dining_room",
-          "file": "gin-1b",
-          "display": "ギンッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギン",
+    "ギンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fixate",
+      "glare",
+      "glower",
+      "regard",
+      "stare"
+    ],
+    "refer": "",
+    "meaning": "an indication of glaring or staring",
+    "type": "",
+    "example": [
+      {
+        "file": "gin-1a",
+        "contributor": "",
+        "display": "ギン",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gin-1b",
+        "contributor": "",
+        "display": "ギンッ",
+        "source": "dungeon_dining_room"
+      }
+    ]
+  }],
+  "literal": "gin"
 }

@@ -1,44 +1,37 @@
 {
-  "literal": "goku goku",
-  "katakana": [
-    "ゴクゴク"
-  ],
-  "hiragana": [
-    "ごくごく"
-  ],
-  "definition": [
-    {
-      "refer": "goku:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "goku_goku-1a",
-          "display": "ごく  ごく",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "goku_goku-1b",
-          "display": "ゴクゴク",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "goku_goku-1c",
-          "display": "ゴク  ゴク",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "goku_goku-1d",
-          "display": "ごく  ごく",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ごくごく"],
+  "katakana": ["ゴクゴク"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "goku:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "goku_goku-1a",
+        "contributor": "",
+        "display": "ごく  ごく",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "goku_goku-1b",
+        "contributor": "",
+        "display": "ゴクゴク",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "goku_goku-1c",
+        "contributor": "",
+        "display": "ゴク  ゴク",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "goku_goku-1d",
+        "contributor": "",
+        "display": "ごく  ごく",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "goku goku"
 }

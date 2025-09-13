@@ -1,46 +1,45 @@
 {
-  "literal": "gashi",
-  "katakana": [
-    "ガシ",
-    "ガシッ"
-  ],
   "hiragana": [
     "がし",
     "がしっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "an indication of grabbing or holding something",
-      "equivalent": [
-        "get",
-        "grab",
-        "grasp",
-        "grip",
-        "hold",
-        "nab",
-        "snag"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gashi-1a",
-          "display": "ガシッ",
-          "contributor": ""
-        },
-        {
-          "source": "peter_grill",
-          "file": "gashi-1b",
-          "display": "がしっ",
-          "contributor": ""
-        },
-        {
-          "source": "hone_dragon",
-          "file": "gashi-1c",
-          "display": "がしっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガシ",
+    "ガシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "get",
+      "grab",
+      "grasp",
+      "grip",
+      "hold",
+      "nab",
+      "snag"
+    ],
+    "refer": "",
+    "meaning": "an indication of grabbing or holding something",
+    "type": "",
+    "example": [
+      {
+        "file": "gashi-1a",
+        "contributor": "",
+        "display": "ガシッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gashi-1b",
+        "contributor": "",
+        "display": "がしっ",
+        "source": "peter_grill"
+      },
+      {
+        "file": "gashi-1c",
+        "contributor": "",
+        "display": "がしっ",
+        "source": "hone_dragon"
+      }
+    ]
+  }],
+  "literal": "gashi"
 }

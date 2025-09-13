@@ -1,34 +1,31 @@
 {
-  "literal": "gusu gusu",
-  "katakana": [
-    "グスグス",
-    "グスッグスッ"
-  ],
   "hiragana": [
     "ぐすぐす",
     "ぐすっぐすっ"
   ],
-  "definition": [
-    {
-      "refer": "gusu:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "gusu_gusu-1a",
-          "display": "ぐすっ  ぐすっ",
-          "contributor": ""
-        },
-        {
-          "source": "requiem_for_prophet",
-          "file": "gusu_gusu-1b",
-          "display": "ぐすっ  ぐすっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グスグス",
+    "グスッグスッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gusu:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "gusu_gusu-1a",
+        "contributor": "",
+        "display": "ぐすっ  ぐすっ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "gusu_gusu-1b",
+        "contributor": "",
+        "display": "ぐすっ  ぐすっ",
+        "source": "requiem_for_prophet"
+      }
+    ]
+  }],
+  "literal": "gusu gusu"
 }

@@ -1,28 +1,23 @@
 {
-  "literal": "chu chu",
-  "katakana": [
-    "チュチュ",
-    "チュッチュッ"
-  ],
   "hiragana": [
     "ちゅちゅ",
     "ちゅっちゅっ"
   ],
-  "definition": [
-    {
-      "refer": "chu:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "chu_chu-1a",
-          "display": "チュッ  チュッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チュチュ",
+    "チュッチュッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "chu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "chu_chu-1a",
+      "contributor": "",
+      "display": "チュッ  チュッ",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "literal": "chu chu"
 }

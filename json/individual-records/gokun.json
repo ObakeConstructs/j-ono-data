@@ -1,38 +1,31 @@
 {
-  "literal": "gokun",
-  "katakana": [
-    "ゴクン"
-  ],
-  "hiragana": [
-    "ごくん"
-  ],
-  "definition": [
-    {
-      "refer": "goku:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "gokun-1a",
-          "display": "ゴクン",
-          "contributor": ""
-        },
-        {
-          "source": "berserk",
-          "file": "gokun-1b",
-          "display": "ゴクン.",
-          "contributor": ""
-        },
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "gokun-1c",
-          "display": "ゴクン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ごくん"],
+  "katakana": ["ゴクン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "goku:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "gokun-1a",
+        "contributor": "",
+        "display": "ゴクン",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "gokun-1b",
+        "contributor": "",
+        "display": "ゴクン.",
+        "source": "berserk"
+      },
+      {
+        "file": "gokun-1c",
+        "contributor": "",
+        "display": "ゴクン",
+        "source": "rise_of_the_outlaw_tamer"
+      }
+    ]
+  }],
+  "literal": "gokun"
 }

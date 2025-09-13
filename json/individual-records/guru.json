@@ -1,57 +1,55 @@
 {
-  "literal": "guru",
-  "katakana": [
-    "グル",
-    "グルッ",
-    "グルル",
-    "グルルル"
-  ],
   "hiragana": [
     "ぐる",
     "ぐるっ",
     "ぐるる",
     "ぐるるる"
   ],
+  "katakana": [
+    "グル",
+    "グルッ",
+    "グルル",
+    "グルルル"
+  ],
   "definition": [
     {
-      "refer": "",
-      "meaning": "the sound of a growl",
       "equivalent": [
         "growl",
         "grumble",
         "rumble",
         "snarl"
       ],
+      "refer": "",
+      "meaning": "the sound of a growl",
+      "type": "",
       "example": [
         {
-          "source": "otherworld_material_collector",
           "file": "guru-1a",
+          "contributor": "",
           "display": "ぐるるるるる",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "guru-1b",
+          "contributor": "",
           "display": "ぐるるるる",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "kuma_kuma_kuma_bear",
           "file": "guru-1c",
+          "contributor": "",
           "display": "グルルル...",
-          "contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         },
         {
-          "source": "rise_of_the_outlaw_tamer",
           "file": "guru-1d",
+          "contributor": "",
           "display": "グルル..",
-          "contributor": ""
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "an indication or sound of something rotating or spinning",
       "equivalent": [
         "revolve",
         "roll",
@@ -63,14 +61,16 @@
         "whirl",
         "wind"
       ],
-      "example": [
-        {
-          "source": "kaijuu_sdf",
-          "file": "guru-2a",
-          "display": "グルルル",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "an indication or sound of something rotating or spinning",
+      "type": "",
+      "example": [{
+        "file": "guru-2a",
+        "contributor": "",
+        "display": "グルルル",
+        "source": "kaijuu_sdf"
+      }]
     }
-  ]
+  ],
+  "literal": "guru"
 }

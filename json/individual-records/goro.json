@@ -1,38 +1,37 @@
 {
-  "literal": "goro",
-  "katakana": [
-    "ゴロ",
-    "ゴロッ"
-  ],
   "hiragana": [
     "ごろ",
     "ごろっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "an indication or sound of rolling or rocking",
-      "equivalent": [
-        "rock",
-        "roll",
-        "sway",
-        "turn",
-        "wobble"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "goro-1a",
-          "display": "ゴロ...",
-          "contributor": ""
-        },
-        {
-          "source": "way_of_isekai_cooking",
-          "file": "goro-1b",
-          "display": "ゴロッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゴロ",
+    "ゴロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "rock",
+      "roll",
+      "sway",
+      "turn",
+      "wobble"
+    ],
+    "refer": "",
+    "meaning": "an indication or sound of rolling or rocking",
+    "type": "",
+    "example": [
+      {
+        "file": "goro-1a",
+        "contributor": "",
+        "display": "ゴロ...",
+        "source": "d_genesis"
+      },
+      {
+        "file": "goro-1b",
+        "contributor": "",
+        "display": "ゴロッ",
+        "source": "way_of_isekai_cooking"
+      }
+    ]
+  }],
+  "literal": "goro"
 }

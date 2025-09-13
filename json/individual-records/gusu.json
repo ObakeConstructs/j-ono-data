@@ -1,32 +1,29 @@
 {
-  "literal": "gusu",
-  "katakana": [
-    "グス",
-    "グスッ"
-  ],
   "hiragana": [
     "ぐす",
     "ぐすっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "an indication of tears welling up, as an expression of pain or distress",
-      "equivalent": [
-        "blub",
-        "cry",
-        "sob",
-        "tears",
-        "weep"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "gusu-1a",
-          "display": "ぐすっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グス",
+    "グスッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blub",
+      "cry",
+      "sob",
+      "tears",
+      "weep"
+    ],
+    "refer": "",
+    "meaning": "an indication of tears welling up, as an expression of pain or distress",
+    "type": "",
+    "example": [{
+      "file": "gusu-1a",
+      "contributor": "",
+      "display": "ぐすっ",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "gusu"
 }

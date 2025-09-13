@@ -1,31 +1,28 @@
 {
-  "literal": "cha",
-  "katakana": [
-    "チャ",
-    "チャッ"
-  ],
   "hiragana": [
     "ちゃ",
     "ちゃっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "a short metallic sound, as of a sharp instrument suddenly appearing",
-      "equivalent": [
-        "ching",
-        "jing",
-        "shaa",
-        "shing"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "cha-1a",
-          "display": "チャッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チャ",
+    "チャッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ching",
+      "jing",
+      "shaa",
+      "shing"
+    ],
+    "refer": "",
+    "meaning": "a short metallic sound, as of a sharp instrument suddenly appearing",
+    "type": "",
+    "example": [{
+      "file": "cha-1a",
+      "contributor": "",
+      "display": "チャッ",
+      "source": "reincarnated_aristocrat"
+    }]
+  }],
+  "literal": "cha"
 }

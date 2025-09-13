@@ -1,45 +1,43 @@
 {
-  "literal": "bishi",
-  "katakana": [
-    "ビシ",
-    "ビシッ",
-    "ビシー",
-    "ビシーッ"
-  ],
   "hiragana": [
     "びし",
     "びしっ",
     "びしー",
     "びしーっ"
   ],
+  "katakana": [
+    "ビシ",
+    "ビシッ",
+    "ビシー",
+    "ビシーッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "meaning": "an indication of suddenly stopping as a reaction",
       "equivalent": [
         "freeze",
         "snap",
         "stiffen",
         "straighten"
       ],
+      "refer": "",
+      "meaning": "an indication of suddenly stopping as a reaction",
+      "type": "",
       "example": [
         {
-          "source": "d_genesis",
           "file": "bishi-1a",
+          "contributor": "",
           "display": "びしっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "requiem_for_prophet",
           "file": "bishi-1b",
+          "contributor": "",
           "display": "びしっ",
-          "contributor": ""
+          "source": "requiem_for_prophet"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "the sound of a sudden strike",
       "equivalent": [
         "bop",
         "chop",
@@ -56,43 +54,46 @@
         "thwack",
         "whap"
       ],
+      "refer": "",
+      "meaning": "the sound of a sudden strike",
+      "type": "",
       "example": [
         {
-          "source": "d_genesis",
           "file": "bishi-2a",
+          "contributor": "",
           "display": "ビシッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "requiem_for_prophet",
           "file": "bishi-2b",
+          "contributor": "",
           "display": "ビシーッ",
-          "contributor": ""
+          "source": "requiem_for_prophet"
         },
         {
-          "source": "different_world_smartphone",
           "file": "bishi-2c",
+          "contributor": "",
           "display": "ビシッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "an indication of suddenly pointing at something,",
       "equivalent": [
         "gesture",
         "indicate",
         "point"
       ],
-      "example": [
-        {
-          "source": "neet_kunoichi",
-          "file": "bishi-3a",
-          "display": "ビシッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "an indication of suddenly pointing at something,",
+      "type": "",
+      "example": [{
+        "file": "bishi-3a",
+        "contributor": "",
+        "display": "ビシッ",
+        "source": "neet_kunoichi"
+      }]
     }
-  ]
+  ],
+  "literal": "bishi"
 }

@@ -1,17 +1,14 @@
 {
-  "literal": "gaya gaya",
-  "katakana": [
-    "ガヤガヤ",
-    "ガャガャ"
-  ],
   "hiragana": [
     "がやがや",
     "がゃがゃ"
   ],
+  "katakana": [
+    "ガヤガヤ",
+    "ガャガャ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "meaning": "the sound of a crowd of people talking",
       "equivalent": [
         "babel babel",
         "blah blah",
@@ -21,43 +18,46 @@
         "clamor clamor",
         "hubbub"
       ],
+      "refer": "",
+      "meaning": "the sound of a crowd of people talking",
+      "type": "",
       "example": [
         {
-          "source": "reincarnated_farm_girl",
           "file": "gaya_gaya-1a",
+          "contributor": "",
           "display": "ガヤ  ガヤ",
-          "contributor": ""
+          "source": "reincarnated_farm_girl"
         },
         {
-          "source": "kuma_kuma_kuma_bear",
           "file": "gaya_gaya-1b",
+          "contributor": "",
           "display": "がや  がや",
-          "contributor": ""
+          "source": "kuma_kuma_kuma_bear"
         },
         {
-          "source": "sex_with_me_sells",
           "file": "gaya_gaya-1c",
+          "contributor": "",
           "display": "がや  がや  がや  がや  がや  がや  がや",
-          "contributor": ""
+          "source": "sex_with_me_sells"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "the squealing sound of tires spinning",
       "equivalent": [
         "scree",
         "screech",
         "squeal"
       ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "gaya_gaya-2a",
-          "display": "ガャ  ガャ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "the squealing sound of tires spinning",
+      "type": "",
+      "example": [{
+        "file": "gaya_gaya-2a",
+        "contributor": "",
+        "display": "ガャ  ガャ",
+        "source": "blazing_fire_brigade"
+      }]
     }
-  ]
+  ],
+  "literal": "gaya gaya"
 }

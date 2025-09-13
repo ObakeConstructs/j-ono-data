@@ -1,19 +1,16 @@
 {
-  "literal": "dosu",
-  "katakana": [
-    "ドス",
-    "ドスッ",
-    "ドスゥ"
-  ],
   "hiragana": [
     "どす",
     "どすっ",
     "どすぅ"
   ],
+  "katakana": [
+    "ドス",
+    "ドスッ",
+    "ドスゥ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "meaning": "the sound of a strike in a fight, usually non-lethal",
       "equivalent": [
         "bam",
         "blow",
@@ -34,41 +31,42 @@
         "thunk",
         "wham"
       ],
+      "refer": "",
+      "meaning": "the sound of a strike in a fight, usually non-lethal",
+      "type": "",
       "example": [
         {
-          "source": "reincarnated_aristocrat",
           "file": "dosu-1a",
+          "contributor": "",
           "display": "ドス",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "different_world_smartphone",
           "file": "dosu-1b",
+          "contributor": "",
           "display": "ドスゥ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "isekai_territory_reform",
           "file": "dosu-1c",
+          "contributor": "",
           "display": "ドスッ",
-          "contributor": ""
+          "source": "isekai_territory_reform"
         }
       ]
     },
     {
+      "equivalent": [""],
       "refer": "dosa:1",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "hikaro_no_go",
-          "file": "dosu-2a",
-          "display": "どすっ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "dosu-2a",
+        "contributor": "",
+        "display": "どすっ",
+        "source": "hikaro_no_go"
+      }]
     }
-  ]
+  ],
+  "literal": "dosu"
 }

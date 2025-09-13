@@ -1,52 +1,51 @@
 {
-  "literal": "gata",
-  "katakana": [
-    "ガタ",
-    "ガタッ",
-    "ガタャ"
-  ],
   "hiragana": [
     "がた",
     "がたっ",
     "がたゃ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "a sound of rattling or clattering, often used to express standing up from a chair",
-      "equivalent": [
-        "clatter",
-        "click",
-        "clunk",
-        "creak",
-        "rattle"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "gata-1a",
-          "display": "ガタ",
-          "contributor": ""
-        },
-        {
-          "source": "hanako_24th_ward",
-          "file": "gata-1b",
-          "display": "ガタ",
-          "contributor": ""
-        },
-        {
-          "source": "hikaro_no_go",
-          "file": "gata-1c",
-          "display": "ガタッ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "gata-1d",
-          "display": "ガタッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガタ",
+    "ガタッ",
+    "ガタャ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clatter",
+      "click",
+      "clunk",
+      "creak",
+      "rattle"
+    ],
+    "refer": "",
+    "meaning": "a sound of rattling or clattering, often used to express standing up from a chair",
+    "type": "",
+    "example": [
+      {
+        "file": "gata-1a",
+        "contributor": "",
+        "display": "ガタ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "gata-1b",
+        "contributor": "",
+        "display": "ガタ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "gata-1c",
+        "contributor": "",
+        "display": "ガタッ",
+        "source": "hikaro_no_go"
+      },
+      {
+        "file": "gata-1d",
+        "contributor": "",
+        "display": "ガタッ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "gata"
 }

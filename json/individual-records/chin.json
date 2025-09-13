@@ -1,34 +1,31 @@
 {
-  "literal": "chin",
-  "katakana": [
-    "チン",
-    "チーン"
-  ],
   "hiragana": [
     "ちん",
     "ちーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "a loud or shrill sound of blowing one's nose, usually humorous",
-      "equivalent": [
-        "blat",
-        "blow",
-        "honk",
-        "screech",
-        "snort",
-        "snotter",
-        "squeak"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "chin-1a",
-          "display": "チーン!!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チン",
+    "チーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blat",
+      "blow",
+      "honk",
+      "screech",
+      "snort",
+      "snotter",
+      "squeak"
+    ],
+    "refer": "",
+    "meaning": "a loud or shrill sound of blowing one's nose, usually humorous",
+    "type": "",
+    "example": [{
+      "file": "chin-1a",
+      "contributor": "",
+      "display": "チーン!!",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "chin"
 }

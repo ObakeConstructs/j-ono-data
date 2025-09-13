@@ -1,28 +1,23 @@
 {
-  "literal": "dogon",
-  "katakana": [
-    "ドゴン",
-    "ドゴンッ"
-  ],
   "hiragana": [
     "どごん",
     "どごんっ"
   ],
-  "definition": [
-    {
-      "refer": "dogo:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "dogon-1a",
-          "display": "ドゴン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドゴン",
+    "ドゴンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dogo:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "dogon-1a",
+      "contributor": "",
+      "display": "ドゴン",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "dogon"
 }

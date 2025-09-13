@@ -1,35 +1,32 @@
 {
-  "literal": "gou",
-  "katakana": [
-    "ゴウ",
-    "ゴウッ",
-    "ゴウウ",
-    "ゴウウッ"
-  ],
   "hiragana": [
     "ごう",
     "ごうっ",
     "ごうう",
     "ごううっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "the sound of a loud or violent shout",
-      "equivalent": [
-        "howl",
-        "raaa",
-        "roar",
-        "yaaa"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gou-1a",
-          "display": "ゴウッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゴウ",
+    "ゴウッ",
+    "ゴウウ",
+    "ゴウウッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "howl",
+      "raaa",
+      "roar",
+      "yaaa"
+    ],
+    "refer": "",
+    "meaning": "the sound of a loud or violent shout",
+    "type": "",
+    "example": [{
+      "file": "gou-1a",
+      "contributor": "",
+      "display": "ゴウッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gou"
 }

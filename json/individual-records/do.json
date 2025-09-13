@@ -1,12 +1,4 @@
 {
-  "literal": "do",
-  "katakana": [
-    "ド",
-    "ドッ",
-    "ドォ",
-    "ドォッ",
-    "ドオォ"
-  ],
   "hiragana": [
     "ど",
     "どっ",
@@ -14,10 +6,15 @@
     "どぉっ",
     "どおぉ"
   ],
+  "katakana": [
+    "ド",
+    "ドッ",
+    "ドォ",
+    "ドォッ",
+    "ドオォ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "meaning": "the sound of an impact or explosion",
       "equivalent": [
         "bam",
         "bang",
@@ -35,36 +32,37 @@
         "whomp",
         "whump"
       ],
+      "refer": "",
+      "meaning": "the sound of an impact or explosion",
+      "type": "",
       "example": [
         {
-          "source": "hello_work",
           "file": "do-1a",
+          "contributor": "",
           "display": "ドッ!",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "strongest_thread_master",
           "file": "do-1b",
+          "contributor": "",
           "display": "ドッ",
-          "contributor": ""
+          "source": "strongest_thread_master"
         },
         {
-          "source": "my_s-ranked_daughter",
           "file": "do-1c",
+          "contributor": "",
           "display": "ドッ",
-          "contributor": ""
+          "source": "my_s-ranked_daughter"
         },
         {
-          "source": "isekai_sniper",
           "file": "do-1d",
+          "contributor": "",
           "display": "ドッオォ",
-          "contributor": ""
+          "source": "isekai_sniper"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "the sound of a burst of laughter, often rude or mocking",
       "equivalent": [
         "boff",
         "doh",
@@ -73,14 +71,16 @@
         "snort",
         "whoop"
       ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "do-2a",
-          "display": "どっ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "the sound of a burst of laughter, often rude or mocking",
+      "type": "",
+      "example": [{
+        "file": "do-2a",
+        "contributor": "",
+        "display": "どっ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
     }
-  ]
+  ],
+  "literal": "do"
 }

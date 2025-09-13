@@ -1,13 +1,4 @@
 {
-  "literal": "dogo",
-  "katakana": [
-    "ドゴ",
-    "ドゴオ",
-    "ドゴォ",
-    "ドゴッ",
-    "ドゴオッ",
-    "ドゴォッ"
-  ],
   "hiragana": [
     "どご",
     "どごお",
@@ -16,54 +7,62 @@
     "どごおっ",
     "どごぉっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "the sound of an impact or strike",
-      "equivalent": [
-        "bam",
-        "blam",
-        "blow",
-        "chop",
-        "clobber",
-        "clout",
-        "crash",
-        "crunch",
-        "hit",
-        "impact",
-        "kick",
-        "knock",
-        "pelt",
-        "pound",
-        "punch",
-        "slam",
-        "slug",
-        "smash",
-        "strike",
-        "thud",
-        "thunk",
-        "wham"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "dogo-1a",
-          "display": "ドゴッ",
-          "contributor": ""
-        },
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "dogo-1b",
-          "display": "ドゴッ",
-          "contributor": ""
-        },
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "dogo-1c",
-          "display": "ドゴオッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドゴ",
+    "ドゴオ",
+    "ドゴォ",
+    "ドゴッ",
+    "ドゴオッ",
+    "ドゴォッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "blam",
+      "blow",
+      "chop",
+      "clobber",
+      "clout",
+      "crash",
+      "crunch",
+      "hit",
+      "impact",
+      "kick",
+      "knock",
+      "pelt",
+      "pound",
+      "punch",
+      "slam",
+      "slug",
+      "smash",
+      "strike",
+      "thud",
+      "thunk",
+      "wham"
+    ],
+    "refer": "",
+    "meaning": "the sound of an impact or strike",
+    "type": "",
+    "example": [
+      {
+        "file": "dogo-1a",
+        "contributor": "",
+        "display": "ドゴッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "dogo-1b",
+        "contributor": "",
+        "display": "ドゴッ",
+        "source": "killed_by_gods_mistake"
+      },
+      {
+        "file": "dogo-1c",
+        "contributor": "",
+        "display": "ドゴオッ",
+        "source": "rise_of_the_outlaw_tamer"
+      }
+    ]
+  }],
+  "literal": "dogo"
 }

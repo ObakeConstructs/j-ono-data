@@ -1,26 +1,17 @@
 {
-  "literal": "dobun",
-  "katakana": [
-    "ドブン"
-  ],
-  "hiragana": [
-    "どぶん"
-  ],
-  "definition": [
-    {
-      "refer": "dobon:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "kaijuu_sdf",
-          "file": "dobun-1a",
-          "display": "ドブン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どぶん"],
+  "katakana": ["ドブン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dobon:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "dobun-1a",
+      "contributor": "",
+      "display": "ドブン",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "literal": "dobun"
 }

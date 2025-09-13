@@ -1,26 +1,17 @@
 {
-  "literal": "fumu fumu",
-  "katakana": [
-    "フムフム"
-  ],
-  "hiragana": [
-    "ふむふむ"
-  ],
-  "definition": [
-    {
-      "refer": "fumu:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "fumu_fumu-1a",
-          "display": "ふむ  ふむ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ふむふむ"],
+  "katakana": ["フムフム"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "fumu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "fumu_fumu-1a",
+      "contributor": "",
+      "display": "ふむ  ふむ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "fumu fumu"
 }

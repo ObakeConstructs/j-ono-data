@@ -1,51 +1,50 @@
 {
-  "literal": "doro",
-  "katakana": [
-    "ドロ",
-    "ドロッ",
-    "ドロオ",
-    "ドロォ"
-  ],
   "hiragana": [
     "どろ",
     "どろっ",
     "どろお",
     "どろぉ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "a indication or sound of melting, flowing, or drippping, often  slowly",
-      "equivalent": [
-        "dissolve",
-        "dribble",
-        "drip",
-        "exude",
-        "flow",
-        "glop",
-        "liquify",
-        "melt",
-        "ooze",
-        "run",
-        "seep",
-        "soften",
-        "thaw",
-        "trickle"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "doro-1a",
-          "display": "ドロッ",
-          "contributor": ""
-        },
-        {
-          "source": "hello_work",
-          "file": "doro-1b",
-          "display": "ドロオ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドロ",
+    "ドロッ",
+    "ドロオ",
+    "ドロォ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dissolve",
+      "dribble",
+      "drip",
+      "exude",
+      "flow",
+      "glop",
+      "liquify",
+      "melt",
+      "ooze",
+      "run",
+      "seep",
+      "soften",
+      "thaw",
+      "trickle"
+    ],
+    "refer": "",
+    "meaning": "a indication or sound of melting, flowing, or drippping, often  slowly",
+    "type": "",
+    "example": [
+      {
+        "file": "doro-1a",
+        "contributor": "",
+        "display": "ドロッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "doro-1b",
+        "contributor": "",
+        "display": "ドロオ",
+        "source": "hello_work"
+      }
+    ]
+  }],
+  "literal": "doro"
 }

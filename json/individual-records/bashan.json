@@ -1,28 +1,23 @@
 {
-  "literal": "bashan",
-  "katakana": [
-    "バシャン",
-    "バシャーン"
-  ],
   "hiragana": [
     "ばしゃん",
     "ばしゃーん"
   ],
-  "definition": [
-    {
-      "refer": "basha:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "bashan-1a",
-          "display": "バシャーン..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "バシャン",
+    "バシャーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "basha:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "bashan-1a",
+      "contributor": "",
+      "display": "バシャーン..",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "bashan"
 }

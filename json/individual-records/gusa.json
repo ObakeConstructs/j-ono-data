@@ -1,38 +1,37 @@
 {
-  "literal": "gusa",
-  "katakana": [
-    "グサ",
-    "グサッ"
-  ],
   "hiragana": [
     "ぐさ",
     "ぐさっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "a sound of stabbing or piercing",
-      "equivalent": [
-        "impale",
-        "jab",
-        "pierce",
-        "skewer",
-        "stab"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gusa-1a",
-          "display": "グサッ",
-          "contributor": ""
-        },
-        {
-          "source": "strongest_magician_was_human",
-          "file": "gusa-1b",
-          "display": "グサッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グサ",
+    "グサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "impale",
+      "jab",
+      "pierce",
+      "skewer",
+      "stab"
+    ],
+    "refer": "",
+    "meaning": "a sound of stabbing or piercing",
+    "type": "",
+    "example": [
+      {
+        "file": "gusa-1a",
+        "contributor": "",
+        "display": "グサッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gusa-1b",
+        "contributor": "",
+        "display": "グサッ",
+        "source": "strongest_magician_was_human"
+      }
+    ]
+  }],
+  "literal": "gusa"
 }

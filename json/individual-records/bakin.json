@@ -1,28 +1,23 @@
 {
-  "literal": "bakin",
-  "katakana": [
-    "バキン",
-    "バキンッ"
-  ],
   "hiragana": [
     "ばきん",
     "ばきんっ"
   ],
-  "definition": [
-    {
-      "refer": "baki:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "bakin-1a",
-          "display": "バキンッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "バキン",
+    "バキンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "baki:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "bakin-1a",
+      "contributor": "",
+      "display": "バキンッ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "bakin"
 }

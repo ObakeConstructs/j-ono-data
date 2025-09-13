@@ -1,28 +1,23 @@
 {
-  "literal": "gushi gushi",
-  "katakana": [
-    "グシグシ",
-    "グシグシッ"
-  ],
   "hiragana": [
     "ぐしぐし",
     "ぐしぐしっ"
   ],
-  "definition": [
-    {
-      "refer": "gushi:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "shogun_gold_in_america",
-          "file": "gushi_gushi-1a",
-          "display": "グシ  グシ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グシグシ",
+    "グシグシッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gushi:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gushi_gushi-1a",
+      "contributor": "",
+      "display": "グシ  グシ",
+      "source": "shogun_gold_in_america"
+    }]
+  }],
+  "literal": "gushi gushi"
 }

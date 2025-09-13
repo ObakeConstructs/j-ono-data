@@ -1,32 +1,25 @@
 {
-  "literal": "gan gan",
-  "katakana": [
-    "ガンガン"
-  ],
-  "hiragana": [
-    "がんがん"
-  ],
-  "definition": [
-    {
-      "refer": "gan:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "peter_grill",
-          "file": "gan_gan-1a",
-          "display": "ガン  ガン  ガン  ガン",
-          "contributor": ""
-        },
-        {
-          "source": "uncle_at_heart",
-          "file": "gan_gan-1b",
-          "display": "ガン  ガン  ガン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["がんがん"],
+  "katakana": ["ガンガン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gan:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "gan_gan-1a",
+        "contributor": "",
+        "display": "ガン  ガン  ガン  ガン",
+        "source": "peter_grill"
+      },
+      {
+        "file": "gan_gan-1b",
+        "contributor": "",
+        "display": "ガン  ガン  ガン",
+        "source": "uncle_at_heart"
+      }
+    ]
+  }],
+  "literal": "gan gan"
 }

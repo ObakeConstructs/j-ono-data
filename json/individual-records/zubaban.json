@@ -1,29 +1,22 @@
 {
-  "literal": "zubaban",
-  "katakana": [
-    "ズババン"
-  ],
-  "hiragana": [
-    "ずばばん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "to reveal something mundane in an overly dramatic fashion, often used humorously",
-      "equivalent": [
-        "da-dum",
-        "ker-blam",
-        "ta-da",
-        "wha-bam"
-      ],
-      "example": [
-        {
-          "source": "pokemon_xy_break",
-          "file": "zubaban-1a",
-          "display": "ズババン!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ずばばん"],
+  "katakana": ["ズババン"],
+  "definition": [{
+    "equivalent": [
+      "da-dum",
+      "ker-blam",
+      "ta-da",
+      "wha-bam"
+    ],
+    "refer": "",
+    "meaning": "to reveal something mundane in an overly dramatic fashion, often used humorously",
+    "type": "",
+    "example": [{
+      "file": "zubaban-1a",
+      "contributor": "",
+      "display": "ズババン!",
+      "source": "pokemon_xy_break"
+    }]
+  }],
+  "literal": "zubaban"
 }

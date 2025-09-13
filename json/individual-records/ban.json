@@ -1,13 +1,4 @@
 {
-  "literal": "ban",
-  "katakana": [
-    "バン",
-    "バーン",
-    "バンッ",
-    "バァン",
-    "バァーン",
-    "バァンッ"
-  ],
   "hiragana": [
     "ばん",
     "ばーん",
@@ -16,43 +7,48 @@
     "ばぁーん",
     "ばぁんっ"
   ],
+  "katakana": [
+    "バン",
+    "バーン",
+    "バンッ",
+    "バァン",
+    "バァーン",
+    "バァンッ"
+  ],
   "definition": [
     {
+      "equivalent": [""],
       "refer": "ba:3",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
+      "type": "",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ban-1a",
+          "contributor": "",
           "display": "ばん!",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "ban-1b",
+          "contributor": "",
           "display": "バンッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "ban-1c",
+          "contributor": "",
           "display": "バン",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "peter_grill",
           "file": "ban-1d",
+          "contributor": "",
           "display": "バァンッ",
-          "contributor": ""
+          "source": "peter_grill"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "an indication of something amazing or surprising, often shown in a dramatic fashion",
       "equivalent": [
         "bam",
         "boom",
@@ -60,26 +56,30 @@
         "ta-da",
         "wow"
       ],
+      "refer": "",
+      "meaning": "an indication of something amazing or surprising, often shown in a dramatic fashion",
+      "type": "",
       "example": [
         {
-          "source": "isekai_av_filming",
           "file": "ban-2a",
+          "contributor": "",
           "display": "バァーン",
-          "contributor": ""
+          "source": "isekai_av_filming"
         },
         {
-          "source": "killed_by_gods_mistake",
           "file": "ban-2b",
+          "contributor": "",
           "display": "バーン",
-          "contributor": ""
+          "source": "killed_by_gods_mistake"
         },
         {
-          "source": "isekai_sniper",
           "file": "ban-2c",
+          "contributor": "",
           "display": "バンッ",
-          "contributor": ""
+          "source": "isekai_sniper"
         }
       ]
     }
-  ]
+  ],
+  "literal": "ban"
 }

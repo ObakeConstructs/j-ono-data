@@ -1,28 +1,23 @@
 {
-  "literal": "chakin",
-  "katakana": [
-    "チャキン",
-    "チャキーン"
-  ],
   "hiragana": [
     "ちゃきん",
     "ちゃきーん"
   ],
-  "definition": [
-    {
-      "refer": "cha:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "chakin-1a",
-          "display": "チャキン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チャキン",
+    "チャキーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "cha:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "chakin-1a",
+      "contributor": "",
+      "display": "チャキン",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "chakin"
 }

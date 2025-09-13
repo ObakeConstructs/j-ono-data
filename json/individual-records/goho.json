@@ -1,29 +1,26 @@
 {
-  "literal": "goho",
-  "katakana": [
-    "ゴホ",
-    "ゴホッ"
-  ],
   "hiragana": [
     "ごほ",
     "ごほっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "the sound of coughing",
-      "equivalent": [
-        "cough",
-        "hack"
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "goho-1a",
-          "display": "ゴホッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゴホ",
+    "ゴホッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cough",
+      "hack"
+    ],
+    "refer": "",
+    "meaning": "the sound of coughing",
+    "type": "",
+    "example": [{
+      "file": "goho-1a",
+      "contributor": "",
+      "display": "ゴホッ",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "goho"
 }

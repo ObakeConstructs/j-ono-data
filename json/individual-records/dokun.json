@@ -1,38 +1,31 @@
 {
-  "literal": "dokun",
-  "katakana": [
-    "ドクン"
-  ],
-  "hiragana": [
-    "どくん"
-  ],
-  "definition": [
-    {
-      "refer": "doki:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "dokun-1a",
-          "display": "ドクン",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "dokun-1b",
-          "display": "ドクン",
-          "contributor": ""
-        },
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "dokun-1c",
-          "display": "ドクン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どくん"],
+  "katakana": ["ドクン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "doki:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "dokun-1a",
+        "contributor": "",
+        "display": "ドクン",
+        "source": "isekai_sniper"
+      },
+      {
+        "file": "dokun-1b",
+        "contributor": "",
+        "display": "ドクン",
+        "source": "ai_and_izawa"
+      },
+      {
+        "file": "dokun-1c",
+        "contributor": "",
+        "display": "ドクン",
+        "source": "embarrassing_and_sweet"
+      }
+    ]
+  }],
+  "literal": "dokun"
 }

@@ -1,37 +1,36 @@
 {
-  "literal": "dobon",
-  "katakana": [
-    "ドボン",
-    "ドボーン"
-  ],
   "hiragana": [
     "どぼん",
     "どぼーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "the sound of water splashing",
-      "equivalent": [
-        "plop",
-        "plunge",
-        "splash",
-        "sploosh"
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "dobon-1a",
-          "display": "ドボーン",
-          "contributor": ""
-        },
-        {
-          "source": "kaijuu_sdf",
-          "file": "dobon-1b",
-          "display": "ドボン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドボン",
+    "ドボーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "plop",
+      "plunge",
+      "splash",
+      "sploosh"
+    ],
+    "refer": "",
+    "meaning": "the sound of water splashing",
+    "type": "",
+    "example": [
+      {
+        "file": "dobon-1a",
+        "contributor": "",
+        "display": "ドボーン",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "dobon-1b",
+        "contributor": "",
+        "display": "ドボン",
+        "source": "kaijuu_sdf"
+      }
+    ]
+  }],
+  "literal": "dobon"
 }

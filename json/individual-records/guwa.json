@@ -1,34 +1,31 @@
 {
-  "literal": "guwa",
-  "katakana": [
-    "グワ",
-    "グワッ"
-  ],
   "hiragana": [
     "ぐわ",
     "ぐわっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "the sound of a loud shout or cry",
-      "equivalent": [
-        "bellow",
-        "howl",
-        "roar",
-        "scream",
-        "screech",
-        "shriek",
-        "yell"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "guwa-1a",
-          "display": "ぐわっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グワ",
+    "グワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bellow",
+      "howl",
+      "roar",
+      "scream",
+      "screech",
+      "shriek",
+      "yell"
+    ],
+    "refer": "",
+    "meaning": "the sound of a loud shout or cry",
+    "type": "",
+    "example": [{
+      "file": "guwa-1a",
+      "contributor": "",
+      "display": "ぐわっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "guwa"
 }

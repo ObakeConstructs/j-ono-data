@@ -1,35 +1,32 @@
 {
-  "literal": "gaha",
-  "katakana": [
-    "ガハ",
-    "ガハッ",
-    "ガハハ",
-    "ガハハハ"
-  ],
   "hiragana": [
     "がは",
     "がはっ",
     "がはは",
     "がははは"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "a sound of loud, heartfelt laughter",
-      "equivalent": [
-        "ga ha",
-        "ha ha",
-        "laugh",
-        "laughter"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "gaha-1a",
-          "display": "がははは",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガハ",
+    "ガハッ",
+    "ガハハ",
+    "ガハハハ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ga ha",
+      "ha ha",
+      "laugh",
+      "laughter"
+    ],
+    "refer": "",
+    "meaning": "a sound of loud, heartfelt laughter",
+    "type": "",
+    "example": [{
+      "file": "gaha-1a",
+      "contributor": "",
+      "display": "がははは",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "gaha"
 }

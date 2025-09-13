@@ -1,42 +1,41 @@
 {
-  "literal": "doka",
-  "katakana": [
-    "ドカ",
-    "ドカッ"
-  ],
   "hiragana": [
     "どか",
     "どかっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "a sudden booming sound of violent or explosive force",
-      "equivalent": [
-        "blam",
-        "blow",
-        "boom",
-        "crash",
-        "slam",
-        "smash",
-        "strike",
-        "wallop",
-        "wham"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "doka-1a",
-          "display": "ドカ",
-          "contributor": ""
-        },
-        {
-          "source": "hanako_24th_ward",
-          "file": "doka-1b",
-          "display": "ドカッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドカ",
+    "ドカッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blam",
+      "blow",
+      "boom",
+      "crash",
+      "slam",
+      "smash",
+      "strike",
+      "wallop",
+      "wham"
+    ],
+    "refer": "",
+    "meaning": "a sudden booming sound of violent or explosive force",
+    "type": "",
+    "example": [
+      {
+        "file": "doka-1a",
+        "contributor": "",
+        "display": "ドカ",
+        "source": "hello_work"
+      },
+      {
+        "file": "doka-1b",
+        "contributor": "",
+        "display": "ドカッ",
+        "source": "hanako_24th_ward"
+      }
+    ]
+  }],
+  "literal": "doka"
 }

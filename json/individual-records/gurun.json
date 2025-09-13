@@ -1,47 +1,46 @@
 {
-  "literal": "gurun",
-  "katakana": [
-    "グルン",
-    "グルンッ"
-  ],
   "hiragana": [
     "ぐるん",
     "ぐるんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "an act of turning, rolling, or flipping something",
-      "equivalent": [
-        "flip",
-        "pivot",
-        "roll",
-        "spin",
-        "swing",
-        "swivel",
-        "turn",
-        "twist"
-      ],
-      "example": [
-        {
-          "source": "bungo",
-          "file": "gurun-1a",
-          "display": "ぐるん",
-          "contributor": ""
-        },
-        {
-          "source": "strongest_failure_frame",
-          "file": "gurun-1b",
-          "display": "ぐるんっ",
-          "contributor": ""
-        },
-        {
-          "source": "saga_lagging_hero",
-          "file": "gurun-1c",
-          "display": "ぐるん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グルン",
+    "グルンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flip",
+      "pivot",
+      "roll",
+      "spin",
+      "swing",
+      "swivel",
+      "turn",
+      "twist"
+    ],
+    "refer": "",
+    "meaning": "an act of turning, rolling, or flipping something",
+    "type": "",
+    "example": [
+      {
+        "file": "gurun-1a",
+        "contributor": "",
+        "display": "ぐるん",
+        "source": "bungo"
+      },
+      {
+        "file": "gurun-1b",
+        "contributor": "",
+        "display": "ぐるんっ",
+        "source": "strongest_failure_frame"
+      },
+      {
+        "file": "gurun-1c",
+        "contributor": "",
+        "display": "ぐるん",
+        "source": "saga_lagging_hero"
+      }
+    ]
+  }],
+  "literal": "gurun"
 }

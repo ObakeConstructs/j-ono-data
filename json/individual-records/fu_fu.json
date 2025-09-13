@@ -1,12 +1,4 @@
 {
-  "literal": "fu fu",
-  "katakana": [
-    "フフ",
-    "フフッ",
-    "フフフ",
-    "フーフー",
-    "フーッフーッ"
-  ],
   "hiragana": [
     "ふふ",
     "ふふっ",
@@ -14,10 +6,15 @@
     "ふーふー",
     "ふーっふーっ"
   ],
+  "katakana": [
+    "フフ",
+    "フフッ",
+    "フフフ",
+    "フーフー",
+    "フーッフーッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "meaning": "the sound of a light laugh",
       "equivalent": [
         "chortle",
         "chuckle",
@@ -25,50 +22,55 @@
         "heh heh",
         "laugh"
       ],
+      "refer": "",
+      "meaning": "the sound of a light laugh",
+      "type": "",
       "example": [
         {
-          "source": "d_genesis",
           "file": "fu_fu-1a",
+          "contributor": "",
           "display": "フフフ...",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "d_genesis",
           "file": "fu_fu-1b",
+          "contributor": "",
           "display": "ふふっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "dog_became_strongest",
           "file": "fu_fu-1c",
+          "contributor": "",
           "display": "ふふ",
-          "contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     },
     {
-      "refer": "",
-      "meaning": "sounds of breathing in a controlled, deliberate manner",
       "equivalent": [
         "blow blow",
         "breath breath",
         "exhale",
         "huff huff"
       ],
+      "refer": "",
+      "meaning": "sounds of breathing in a controlled, deliberate manner",
+      "type": "",
       "example": [
         {
-          "source": "otherworld_material_collector",
           "file": "fu_fu-2a",
+          "contributor": "",
           "display": "フー  フー",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "double_play",
           "file": "fu_fu-2b",
+          "contributor": "",
           "display": "フーッ  フーッ",
-          "contributor": ""
+          "source": "double_play"
         }
       ]
     }
-  ]
+  ],
+  "literal": "fu fu"
 }

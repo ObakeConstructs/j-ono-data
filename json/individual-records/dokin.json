@@ -1,26 +1,17 @@
 {
-  "literal": "dokin",
-  "katakana": [
-    "ドキン"
-  ],
-  "hiragana": [
-    "どきん"
-  ],
-  "definition": [
-    {
-      "refer": "doki:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "dokin-1a",
-          "display": "ドキン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どきん"],
+  "katakana": ["ドキン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "doki:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "dokin-1a",
+      "contributor": "",
+      "display": "ドキン",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "dokin"
 }

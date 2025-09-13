@@ -1,28 +1,23 @@
 {
-  "literal": "gin gin",
-  "katakana": [
-    "ギンギン",
-    "ギンギンッ"
-  ],
   "hiragana": [
     "ぎんぎん",
     "ぎんぎんっ"
   ],
-  "definition": [
-    {
-      "refer": "gin:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "sex_with_me_sells",
-          "file": "gin_gin-1a",
-          "display": "ギン  ギン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギンギン",
+    "ギンギンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gin:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gin_gin-1a",
+      "contributor": "",
+      "display": "ギン  ギン",
+      "source": "sex_with_me_sells"
+    }]
+  }],
+  "literal": "gin gin"
 }

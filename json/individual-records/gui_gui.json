@@ -1,26 +1,17 @@
 {
-  "literal": "gui gui",
-  "katakana": [
-    "グイグイ"
-  ],
-  "hiragana": [
-    "ぐいぐい"
-  ],
-  "definition": [
-    {
-      "refer": "gui:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "gui_gui-1a",
-          "display": "ぐい  ぐい",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぐいぐい"],
+  "katakana": ["グイグイ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gui:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gui_gui-1a",
+      "contributor": "",
+      "display": "ぐい  ぐい",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "gui gui"
 }

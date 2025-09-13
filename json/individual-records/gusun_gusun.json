@@ -1,26 +1,17 @@
 {
-  "literal": "gusun gusun",
-  "katakana": [
-    "グスングスン"
-  ],
-  "hiragana": [
-    "ぐすんぐすん"
-  ],
-  "definition": [
-    {
-      "refer": "gusu:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "gusun_gusun-1a",
-          "display": "ぐすん  ぐすん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぐすんぐすん"],
+  "katakana": ["グスングスン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gusu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gusun_gusun-1a",
+      "contributor": "",
+      "display": "ぐすん  ぐすん",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "gusun gusun"
 }

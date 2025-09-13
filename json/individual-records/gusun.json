@@ -1,26 +1,17 @@
 {
-  "literal": "gusun",
-  "katakana": [
-    "グスン"
-  ],
-  "hiragana": [
-    "ぐすん"
-  ],
-  "definition": [
-    {
-      "refer": "gusu:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "gusun-1a",
-          "display": "ぐすん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぐすん"],
+  "katakana": ["グスン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gusu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gusun-1a",
+      "contributor": "",
+      "display": "ぐすん",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "gusun"
 }

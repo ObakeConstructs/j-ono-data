@@ -1,28 +1,23 @@
 {
-  "literal": "ginuro",
-  "katakana": [
-    "ギヌロ",
-    "ギヌロォ"
-  ],
   "hiragana": [
     "ぎぬろ",
     "ぎぬろぉ"
   ],
-  "definition": [
-    {
-      "refer": "gin:1",
-      "meaning": ", typically drawn out and menacing",
-      "equivalent": [
-        "scowl"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "ginuro-1a",
-          "display": "ギヌロォ..!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギヌロ",
+    "ギヌロォ"
+  ],
+  "definition": [{
+    "equivalent": ["scowl"],
+    "refer": "gin:1",
+    "meaning": ", typically drawn out and menacing",
+    "type": "",
+    "example": [{
+      "file": "ginuro-1a",
+      "contributor": "",
+      "display": "ギヌロォ..!",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "ginuro"
 }

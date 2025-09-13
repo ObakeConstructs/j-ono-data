@@ -1,26 +1,17 @@
 {
-  "literal": "awa awa",
-  "katakana": [
-    "アワアワ"
-  ],
-  "hiragana": [
-    "あわあわ"
-  ],
-  "definition": [
-    {
-      "refer": "awa:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "peter_grill",
-          "file": "awa_awa-1a",
-          "display": "アワ  アワ  アワ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["あわあわ"],
+  "katakana": ["アワアワ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "awa:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "awa_awa-1a",
+      "contributor": "",
+      "display": "アワ  アワ  アワ",
+      "source": "peter_grill"
+    }]
+  }],
+  "literal": "awa awa"
 }

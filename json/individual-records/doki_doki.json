@@ -1,40 +1,37 @@
 {
-  "literal": "doki doki",
-  "katakana": [
-    "ドキドキ",
-    "ドッキドッキ"
-  ],
   "hiragana": [
     "どきどき",
     "どっきどっき"
   ],
-  "definition": [
-    {
-      "refer": "doki:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "doki_doki-1a",
-          "display": "ドキ  ドキ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "doki_doki-1b",
-          "display": "ドッキ  ドッキ",
-          "contributor": ""
-        },
-        {
-          "source": "neet_kunoichi",
-          "file": "doki_doki-1c",
-          "display": "ドッキ  ドッキ  ドッキ  ドッキ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドキドキ",
+    "ドッキドッキ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "doki:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "doki_doki-1a",
+        "contributor": "",
+        "display": "ドキ  ドキ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "doki_doki-1b",
+        "contributor": "",
+        "display": "ドッキ  ドッキ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "doki_doki-1c",
+        "contributor": "",
+        "display": "ドッキ  ドッキ  ドッキ  ドッキ",
+        "source": "neet_kunoichi"
+      }
+    ]
+  }],
+  "literal": "doki doki"
 }

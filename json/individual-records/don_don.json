@@ -1,32 +1,25 @@
 {
-  "literal": "don don",
-  "katakana": [
-    "ドンドン"
-  ],
-  "hiragana": [
-    "どんどん"
-  ],
-  "definition": [
-    {
-      "refer": "da da:1",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "don_don-1a",
-          "display": "ドン  ドン  ドン",
-          "contributor": ""
-        },
-        {
-          "source": "peter_grill",
-          "file": "don_don-1b",
-          "display": "ドン  ドン  ドン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どんどん"],
+  "katakana": ["ドンドン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "da da:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "don_don-1a",
+        "contributor": "",
+        "display": "ドン  ドン  ドン",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "don_don-1b",
+        "contributor": "",
+        "display": "ドン  ドン  ドン",
+        "source": "peter_grill"
+      }
+    ]
+  }],
+  "literal": "don don"
 }

@@ -1,30 +1,23 @@
 {
-  "literal": "beron",
-  "katakana": [
-    "ベロン"
-  ],
-  "hiragana": [
-    "べろん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "meaning": "the sound of a licking tongue",
-      "equivalent": [
-        "lap",
-        "lick",
-        "shlurp",
-        "slosh",
-        "slurp"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "beron-1a",
-          "display": "ベロン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["べろん"],
+  "katakana": ["ベロン"],
+  "definition": [{
+    "equivalent": [
+      "lap",
+      "lick",
+      "shlurp",
+      "slosh",
+      "slurp"
+    ],
+    "refer": "",
+    "meaning": "the sound of a licking tongue",
+    "type": "",
+    "example": [{
+      "file": "beron-1a",
+      "contributor": "",
+      "display": "ベロン",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "beron"
 }
