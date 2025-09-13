@@ -15,7 +15,7 @@
       ],
       "refer": "",
       "meaning": "an indication of surprise, amazement, or a sudden realization",
-      "type": "onomato",
+      "type": "o",
       "example": [{
         "file": "ah-1a",
         "contributor": "",
@@ -49,7 +49,7 @@
       ],
       "refer": "",
       "meaning": "a sound of loud laughter",
-      "type": "voiced",
+      "type": "v",
       "example": [
         {
           "file": "ahaha-1a",
@@ -85,7 +85,7 @@
       ],
       "refer": "",
       "meaning": "a sound of moaning, often used in a comical manner to express pleasure or desire",
-      "type": "voiced",
+      "type": "v",
       "example": [
         {
           "file": "ahan-1a",
@@ -125,7 +125,7 @@
       ],
       "refer": "",
       "meaning": "an indication or sound of eating, chewing, or putting something into the mouth",
-      "type": "anomato",
+      "type": "o",
       "example": [
         {
           "file": "amu-1a",
