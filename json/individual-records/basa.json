@@ -1,61 +1,65 @@
 {
-  "hiragana": [
-    "ばさ",
-    "ばさっ",
-    "ばさぁ",
-    "ばさあ"
-  ],
+  "literal": "basa",
   "katakana": [
     "バサ",
     "バサッ",
     "バサァ",
     "バサア"
   ],
+  "hiragana": [
+    "ばさ",
+    "ばさっ",
+    "ばさぁ",
+    "ばさあ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "om",
+      "meaning": "a rustling or flapping sound",
       "equivalent": [
         "crinkle",
         "flap",
         "rustle",
         "swish"
       ],
-      "refer": "",
-      "meaning": "a soft sound of cloth or paper movement",
-      "type": "",
       "example": [
         {
+          "source": "hello_work",
           "file": "basa-1a",
-          "contributor": "",
           "display": "バサ",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "weakest_occupation_blacksmith",
           "file": "basa-1b",
-          "contributor": "",
           "display": "バサ",
-          "source": "weakest_occupation_blacksmith"
+          "contributor": ""
         },
         {
+          "source": "modern_dungeon_capture",
           "file": "basa-1c",
-          "contributor": "",
           "display": "ばさッ",
-          "source": "modern_dungeon_capture"
+          "contributor": ""
         },
         {
+          "source": "neet_kunoichi",
           "file": "basa-1d",
-          "contributor": "",
           "display": "バサッ",
-          "source": "neet_kunoichi"
+          "contributor": ""
         },
         {
+          "source": "hero_or_demon_king",
           "file": "basa-1e",
-          "contributor": "",
           "display": "バサ",
-          "source": "hero_or_demon_king"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "c",
+      "meaning": "a dramatic or stylized reveal",
       "equivalent": [
         "appear",
         "arrive",
@@ -68,16 +72,14 @@
         "ta-da",
         "unveil"
       ],
-      "refer": "",
-      "meaning": "an indication of appearing suddenly, as in a dramatic reveal",
-      "type": "",
-      "example": [{
-        "file": "basa-2a",
-        "contributor": "",
-        "display": "バサァ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "basa-2a",
+          "display": "バサァ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "basa"
+  ]
 }

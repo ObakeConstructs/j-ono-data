@@ -1,21 +1,29 @@
 {
-  "hiragana": ["ばらばら"],
-  "katakana": ["バラバラ"],
-  "definition": [{
-    "equivalent": [
-      "break",
-      "crumble",
-      "fall apart"
-    ],
-    "refer": "",
-    "meaning": "an indication or sound of something crumbling or falling apart",
-    "type": "",
-    "example": [{
-      "file": "bara_bara-1a",
-      "contributor": "",
-      "display": "バラ  バラ",
-      "source": "isekai_territory_reform"
-    }]
-  }],
-  "literal": "bara bara"
+  "literal": "bara bara",
+  "katakana": [
+    "バラバラ"
+  ],
+  "hiragana": [
+    "ばらばら"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "osm",
+      "meaning": "things breaking apart, scattering, or falling to pieces",
+      "equivalent": [
+        "break",
+        "crumble",
+        "fall apart"
+      ],
+      "example": [
+        {
+          "source": "isekai_territory_reform",
+          "file": "bara_bara-1a",
+          "display": "バラ  バラ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

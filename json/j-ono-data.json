@@ -14,8 +14,8 @@
         "oh"
       ],
       "refer": "",
-      "meaning": "an indication of surprise, amazement, or a sudden realization",
-      "type": "o",
+      "meaning": "surprise, recognition, or realization",
+      "type": "ve",
       "example": [{
         "file": "ah-1a",
         "contributor": "",
@@ -48,8 +48,8 @@
         "snicker"
       ],
       "refer": "",
-      "meaning": "a sound of loud laughter",
-      "type": "v",
+      "meaning": "laughter, often long or repeated",
+      "type": "ve",
       "example": [
         {
           "file": "ahaha-1a",
@@ -84,8 +84,8 @@
         "sigh"
       ],
       "refer": "",
-      "meaning": "a sound of moaning, often used in a comical manner to express pleasure or desire",
-      "type": "v",
+      "meaning": "drawn-out moaning, often sensual or playful",
+      "type": "ve",
       "example": [
         {
           "file": "ahan-1a",
@@ -96,7 +96,7 @@
         {
           "file": "ahan-1b",
           "contributor": "",
-          "display": "あは〜ん",
+          "display": "あはーん",
           "source": "isekai_sniper"
         }
       ]
@@ -124,8 +124,8 @@
         "savor"
       ],
       "refer": "",
-      "meaning": "an indication or sound of eating, chewing, or putting something into the mouth",
-      "type": "o",
+      "meaning": "eating, chewing, or mouthing something, typically in a soft or cute fashion",
+      "type": "om",
       "example": [
         {
           "file": "amu-1a",
@@ -160,8 +160,8 @@
         "wah"
       ],
       "refer": "",
-      "meaning": "an indication or sound of opening one's mouth",
-      "type": "",
+      "meaning": "opening the mouth wide, often exaggerated",
+      "type": "vm",
       "example": [{
         "file": "an-1a",
         "contributor": "",
@@ -184,6 +184,7 @@
       "equivalent": [
         "agitation",
         "anxiety",
+        "confused",
         "dismay",
         "fluster",
         "jitter",
@@ -194,8 +195,8 @@
         "worry"
       ],
       "refer": "",
-      "meaning": "an expression of panic, anxiety, or uncertainty",
-      "type": "",
+      "meaning": "stammering or exclamation showing panic, confusion, or fluster",
+      "type": "ve",
       "example": [{
         "file": "awa-1a",
         "contributor": "",
@@ -241,8 +242,8 @@
           "whirl"
         ],
         "refer": "",
-        "meaning": "an indication of turning around suddenly",
-        "type": "",
+        "meaning": "turning around suddenly",
+        "type": "m",
         "example": [
           {
             "file": "ba-1a",
@@ -277,8 +278,8 @@
           "zip"
         ],
         "refer": "",
-        "meaning": "the indication of a sudden and/or fast movement",
-        "type": "",
+        "meaning": "a sudden and/or fast movement",
+        "type": "m",
         "example": [
           {
             "file": "ba-2a",
@@ -303,32 +304,14 @@
             "contributor": "",
             "display": "バッ",
             "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "ba-3a",
+            "contributor": "",
+            "display": "バッ",
+            "source": "d_genesis"
           }
         ]
-      },
-      {
-        "equivalent": [
-          "bam",
-          "bang",
-          "hit",
-          "slam",
-          "slap",
-          "smack",
-          "thump",
-          "thwack",
-          "whack",
-          "wham",
-          "whap"
-        ],
-        "refer": "",
-        "meaning": "the sound of a medium impact, usually sudden or short",
-        "type": "",
-        "example": [{
-          "file": "ba-3a",
-          "contributor": "",
-          "display": "バッ",
-          "source": "d_genesis"
-        }]
       },
       {
         "equivalent": [
@@ -339,8 +322,8 @@
           "unveil"
         ],
         "refer": "",
-        "meaning": "an indication of revealing or showing something suddenly",
-        "type": "",
+        "meaning": "revealing or showing something suddenly",
+        "type": "m",
         "example": [
           {
             "file": "ba-4a",
@@ -355,24 +338,6 @@
             "source": "way_of_isekai_cooking"
           }
         ]
-      },
-      {
-        "equivalent": [
-          "epiphany",
-          "jolt",
-          "of course",
-          "realize",
-          "understand"
-        ],
-        "refer": "",
-        "meaning": "an expression of realization or understanding",
-        "type": "",
-        "example": [{
-          "file": "ba-5a",
-          "contributor": "",
-          "display": "バッ",
-          "source": "blazing_fire_brigade"
-        }]
       }
     ],
     "literal": "ba"
@@ -422,12 +387,16 @@
         "equivalent": [
           "buzz",
           "bzz",
+          "crack",
           "crackle",
-          "jolt"
+          "jolt",
+          "snap",
+          "spark",
+          "zap"
         ],
         "refer": "",
-        "meaning": "the sound of an electrical discharge",
-        "type": "",
+        "meaning": "a sharp snap, crackle, or spark",
+        "type": "o",
         "example": [{
           "file": "bachi-1a",
           "contributor": "",
@@ -443,8 +412,8 @@
           "jolt"
         ],
         "refer": "",
-        "meaning": "an indication of eye contact, often accidental",
-        "type": "",
+        "meaning": "sharp, charged eye contact",
+        "type": "me",
         "example": [{
           "file": "bachi-2a",
           "contributor": "",
@@ -472,8 +441,8 @@
         "whap"
       ],
       "refer": "",
-      "meaning": "a sharp sound of snapping or clicking",
-      "type": "",
+      "meaning": "a sharp snap or click",
+      "type": "o",
       "example": [
         {
           "file": "bachin-1a",
@@ -509,8 +478,8 @@
         "smash"
       ],
       "refer": "",
-      "meaning": "the sound of an impact or crash",
-      "type": "",
+      "meaning": "a heavy impact or crash",
+      "type": "om",
       "example": [{
         "file": "baga-1a",
         "contributor": "",
@@ -539,8 +508,8 @@
         "snap"
       ],
       "refer": "",
-      "meaning": "a sound of something cracking or breaking",
-      "type": "",
+      "meaning": "a sharp cracking or breaking sound, often violent",
+      "type": "om",
       "example": [
         {
           "file": "baki-1a",
@@ -599,8 +568,8 @@
     "literal": "baki baki"
   },
   {
-    "hiragana": ["ばく"],
-    "katakana": ["バク"],
+    "hiragana": ["ばくばく"],
+    "katakana": ["バクバク"],
     "definition": [{
       "equivalent": [
         "chomp chomp",
@@ -609,8 +578,8 @@
         "snarf snarf"
       ],
       "refer": "",
-      "meaning": "an indication or sound of eating wildly, expressing hunger or enthusiasm",
-      "type": "",
+      "meaning": "eating wildly, expressing enthusiasm or hunger",
+      "type": "om",
       "example": [{
         "file": "baku_baku-1a",
         "contributor": "",
@@ -639,10 +608,22 @@
     ],
     "definition": [
       {
-        "equivalent": [""],
-        "refer": "ba:3",
-        "meaning": "",
-        "type": "",
+        "equivalent": [
+          "bam",
+          "bang",
+          "hit",
+          "slam",
+          "slap",
+          "smack",
+          "thump",
+          "thwack",
+          "whack",
+          "wham",
+          "whap"
+        ],
+        "refer": "",
+        "meaning": "a medium impact, usually sudden or short",
+        "type": "om",
         "example": [
           {
             "file": "ban-1a",
@@ -679,8 +660,8 @@
           "wow"
         ],
         "refer": "",
-        "meaning": "an indication of something amazing or surprising, often shown in a dramatic fashion",
-        "type": "",
+        "meaning": "a dramatic, sudden emphasis, or reveal",
+        "type": "c",
         "example": [
           {
             "file": "ban-2a",
@@ -715,8 +696,8 @@
         "fall apart"
       ],
       "refer": "",
-      "meaning": "an indication or sound of something crumbling or falling apart",
-      "type": "",
+      "meaning": "things breaking apart, scattering, or falling to pieces",
+      "type": "osm",
       "example": [{
         "file": "bara_bara-1a",
         "contributor": "",
@@ -737,13 +718,16 @@
     ],
     "definition": [{
       "equivalent": [
+        "break",
         "rend",
         "rip",
+        "shatter",
+        "smash",
         "tear"
       ],
       "refer": "",
-      "meaning": "a sound of paper tearing or ripping",
-      "type": "",
+      "meaning": "sharp tearing, breaking or smashing",
+      "type": "om",
       "example": [{
         "file": "barin-1a",
         "contributor": "",
@@ -775,8 +759,8 @@
           "swish"
         ],
         "refer": "",
-        "meaning": "a soft sound of cloth or paper movement",
-        "type": "",
+        "meaning": "a rustling or flapping sound",
+        "type": "om",
         "example": [
           {
             "file": "basa-1a",
@@ -824,8 +808,8 @@
           "unveil"
         ],
         "refer": "",
-        "meaning": "an indication of appearing suddenly, as in a dramatic reveal",
-        "type": "",
+        "meaning": "a dramatic or stylized reveal",
+        "type": "c",
         "example": [{
           "file": "basa-2a",
           "contributor": "",
@@ -846,18 +830,9 @@
       "バサッバサッ"
     ],
     "definition": [{
-      "equivalent": [
-        "flap flap",
-        "flit flit",
-        "flutter flutter",
-        "rustle rustle",
-        "swish swish",
-        "swoosh swoosh",
-        "whoosh whoosh",
-        "whump whump"
-      ],
-      "refer": "",
-      "meaning": "rustling sounds of something moving through air",
+      "equivalent": [""],
+      "refer": "basa:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -903,8 +878,8 @@
         "swash"
       ],
       "refer": "",
-      "meaning": "a sound of water splashing",
-      "type": "",
+      "meaning": "sound of a liquid splashing",
+      "type": "om",
       "example": [
         {
           "file": "basha-1a",
@@ -949,15 +924,9 @@
     "hiragana": ["ばしゃばしゃ"],
     "katakana": ["バシャバシャ"],
     "definition": [{
-      "equivalent": [
-        "slosh slosh",
-        "sop sop",
-        "splash splash",
-        "swash swash",
-        "wash wash"
-      ],
-      "refer": "",
-      "meaning": "sounds of water splashing",
+      "equivalent": [""],
+      "refer": "basha:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "basha_basha-1a",
@@ -994,8 +963,8 @@
         "whomp"
       ],
       "refer": "",
-      "meaning": "the sound of a sudden or loud impact",
-      "type": "",
+      "meaning": "a sudden or loud impact",
+      "type": "om",
       "example": [
         {
           "file": "bashi-1a",
@@ -1033,7 +1002,7 @@
       ],
       "refer": "",
       "meaning": "a tumultuous sound of multiple impacts",
-      "type": "",
+      "type": "om",
       "example": [
         {
           "file": "bashun-1a",
@@ -1063,8 +1032,8 @@
         "thwack"
       ],
       "refer": "",
-      "meaning": "the sound of a rattling impact, as from a door or window opening or closing",
-      "type": "",
+      "meaning": "a heavy, abrupt thud, often from a door, window, or a falling object",
+      "type": "om",
       "example": [
         {
           "file": "batan-1a",
@@ -1094,8 +1063,8 @@
         "thump thump"
       ],
       "refer": "",
-      "meaning": "a sound of shoes stepping across the floor",
-      "type": "",
+      "meaning": "quick, light-sounding steps",
+      "type": "om",
       "example": [{
         "file": "bata_bata-1a",
         "contributor": "",
@@ -1121,8 +1090,8 @@
         "pbbbt"
       ],
       "refer": "",
-      "meaning": "an indication or sound of sticking out one's tongue, often as an expression of disdain or disrespect",
-      "type": "",
+      "meaning": "sticking out one's tongue, often playfully or mockingly",
+      "type": "me",
       "example": [{
         "file": "be-1a",
         "contributor": "",
@@ -1143,8 +1112,8 @@
         "tear tear"
       ],
       "refer": "",
-      "meaning": "an indication or sound of peeling or tearing something away",
-      "type": "",
+      "meaning": "peeling or tearing something away",
+      "type": "om",
       "example": [{
         "file": "beri_beri-1a",
         "contributor": "",
@@ -1166,8 +1135,8 @@
         "slurp"
       ],
       "refer": "",
-      "meaning": "the sound of a licking tongue",
-      "type": "",
+      "meaning": "an exaggerated lick or a tongue hanging loosely",
+      "type": "om",
       "example": [{
         "file": "beron-1a",
         "contributor": "",
@@ -1192,6 +1161,7 @@
     ],
     "definition": [{
       "equivalent": [
+        "clammy",
         "cling",
         "gummy",
         "stick",
@@ -1199,8 +1169,8 @@
         "tacky"
       ],
       "refer": "",
-      "meaning": "an indication of something sticky or gummy",
-      "type": "",
+      "meaning": "sticky, gummy or clammy",
+      "type": "s",
       "example": [{
         "file": "beta-1a",
         "contributor": "",

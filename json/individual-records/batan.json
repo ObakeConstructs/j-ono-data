@@ -1,31 +1,37 @@
 {
-  "hiragana": ["ばたん"],
-  "katakana": ["バタン"],
-  "definition": [{
-    "equivalent": [
-      "bam",
-      "ker-chack",
-      "slam",
-      "thud",
-      "thwack"
-    ],
-    "refer": "",
-    "meaning": "the sound of a rattling impact, as from a door or window opening or closing",
-    "type": "",
-    "example": [
-      {
-        "file": "batan-1a",
-        "contributor": "",
-        "display": "バタン",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "batan-1b",
-        "contributor": "",
-        "display": "バタン",
-        "source": "eternal_fool_asley"
-      }
-    ]
-  }],
-  "literal": "batan"
+  "literal": "batan",
+  "katakana": [
+    "バタン"
+  ],
+  "hiragana": [
+    "ばたん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "om",
+      "meaning": "a heavy, abrupt thud, often from a door, window, or a falling object",
+      "equivalent": [
+        "bam",
+        "ker-chack",
+        "slam",
+        "thud",
+        "thwack"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "batan-1a",
+          "display": "バタン",
+          "contributor": ""
+        },
+        {
+          "source": "eternal_fool_asley",
+          "file": "batan-1b",
+          "display": "バタン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

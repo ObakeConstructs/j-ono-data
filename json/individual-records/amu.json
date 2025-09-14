@@ -1,40 +1,42 @@
 {
-  "hiragana": [
-    "あむ",
-    "あむっ"
-  ],
+  "literal": "amu",
   "katakana": [
     "アム",
     "アムッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "ahm",
-      "bite",
-      "close",
-      "eat",
-      "munch",
-      "nom",
-      "nosh",
-      "savor"
-    ],
-    "refer": "",
-    "meaning": "an indication or sound of eating, chewing, or putting something into the mouth",
-    "type": "",
-    "example": [
-      {
-        "file": "amu-1a",
-        "contributor": "",
-        "display": "あむ",
-        "source": "drawing"
-      },
-      {
-        "file": "amu-1b",
-        "contributor": "",
-        "display": "あむっ♡",
-        "source": "gyaru_academy"
-      }
-    ]
-  }],
-  "literal": "amu"
+  "hiragana": [
+    "あむ",
+    "あむっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "om",
+      "meaning": "eating, chewing, or mouthing something, typically in a soft or cute fashion",
+      "equivalent": [
+        "ahm",
+        "bite",
+        "close",
+        "eat",
+        "munch",
+        "nom",
+        "nosh",
+        "savor"
+      ],
+      "example": [
+        {
+          "source": "drawing",
+          "file": "amu-1a",
+          "display": "あむ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "amu-1b",
+          "display": "あむっ♡",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
