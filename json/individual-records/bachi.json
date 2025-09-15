@@ -12,16 +12,16 @@
     {
       "refer": "",
       "type": "o",
-      "meaning": "a sharp snap, crackle, or spark",
+      "meaning": "a sharp snap, crackle, or spark of an electrical discharge",
       "equivalent": [
         "buzz",
         "bzz",
+        "crack",
         "crackle",
         "jolt",
-        "zap",
-        "crack",
         "snap",
-        "spark"
+        "spark",
+        "zap"
       ],
       "example": [
         {
@@ -34,7 +34,7 @@
     },
     {
       "refer": "",
-      "type": "me",
+      "type": "em",
       "meaning": "sharp, charged eye contact",
       "equivalent": [
         "eye-contact",

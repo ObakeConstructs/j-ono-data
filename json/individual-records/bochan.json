@@ -1,25 +1,33 @@
 {
-  "hiragana": ["ぼちゃん"],
-  "katakana": ["ボチャン"],
-  "definition": [{
-    "equivalent": [
-      "bloop",
-      "bloosh",
-      "slop",
-      "slosh",
-      "spatter",
-      "splash",
-      "swash"
-    ],
-    "refer": "",
-    "meaning": "a sound of something landing into water",
-    "type": "",
-    "example": [{
-      "file": "bochan-1a",
-      "contributor": "",
-      "display": "ボチャン",
-      "source": "berserk"
-    }]
-  }],
-  "literal": "bochan"
+  "literal": "bochan",
+  "katakana": [
+    "ボチャン"
+  ],
+  "hiragana": [
+    "ぼちゃん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "om",
+      "meaning": "a splash from something falling or landing into water",
+      "equivalent": [
+        "bloop",
+        "bloosh",
+        "slop",
+        "slosh",
+        "spatter",
+        "splash",
+        "swash"
+      ],
+      "example": [
+        {
+          "source": "berserk",
+          "file": "bochan-1a",
+          "display": "ボチャン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

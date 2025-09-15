@@ -15,7 +15,7 @@
       ],
       "refer": "",
       "meaning": "surprise, recognition, or realization",
-      "type": "ve",
+      "type": "ev",
       "example": [{
         "file": "ah-1a",
         "contributor": "",
@@ -49,7 +49,7 @@
       ],
       "refer": "",
       "meaning": "laughter, often long or repeated",
-      "type": "ve",
+      "type": "ev",
       "example": [
         {
           "file": "ahaha-1a",
@@ -84,8 +84,8 @@
         "sigh"
       ],
       "refer": "",
-      "meaning": "drawn-out moaning, often sensual or playful",
-      "type": "ve",
+      "meaning": "moaning, often sensual or playful",
+      "type": "ev",
       "example": [
         {
           "file": "ahan-1a",
@@ -125,7 +125,7 @@
       ],
       "refer": "",
       "meaning": "eating, chewing, or mouthing something, typically in a soft or cute fashion",
-      "type": "om",
+      "type": "mo",
       "example": [
         {
           "file": "amu-1a",
@@ -161,7 +161,7 @@
       ],
       "refer": "",
       "meaning": "opening the mouth wide, often exaggerated",
-      "type": "vm",
+      "type": "mv",
       "example": [{
         "file": "an-1a",
         "contributor": "",
@@ -196,7 +196,7 @@
       ],
       "refer": "",
       "meaning": "stammering or exclamation showing panic, confusion, or fluster",
-      "type": "ve",
+      "type": "ev",
       "example": [{
         "file": "awa-1a",
         "contributor": "",
@@ -395,7 +395,7 @@
           "zap"
         ],
         "refer": "",
-        "meaning": "a sharp snap, crackle, or spark",
+        "meaning": "a sharp snap, crackle, or spark of an electrical discharge",
         "type": "o",
         "example": [{
           "file": "bachi-1a",
@@ -413,7 +413,7 @@
         ],
         "refer": "",
         "meaning": "sharp, charged eye contact",
-        "type": "me",
+        "type": "em",
         "example": [{
           "file": "bachi-2a",
           "contributor": "",
@@ -579,7 +579,7 @@
       ],
       "refer": "",
       "meaning": "eating wildly, expressing enthusiasm or hunger",
-      "type": "om",
+      "type": "me",
       "example": [{
         "file": "baku_baku-1a",
         "contributor": "",
@@ -656,11 +656,12 @@
           "bam",
           "boom",
           "d-dum",
+          "reveal",
           "ta-da",
           "wow"
         ],
         "refer": "",
-        "meaning": "a dramatic, sudden emphasis, or reveal",
+        "meaning": "a dramatic or stylized reveal",
         "type": "c",
         "example": [
           {
@@ -693,10 +694,11 @@
       "equivalent": [
         "break",
         "crumble",
-        "fall apart"
+        "fall apart",
+        "scatter"
       ],
       "refer": "",
-      "meaning": "things breaking apart, scattering, or falling to pieces",
+      "meaning": "things breaking apart, scattering, and/or falling to pieces",
       "type": "osm",
       "example": [{
         "file": "bara_bara-1a",
@@ -878,7 +880,7 @@
         "swash"
       ],
       "refer": "",
-      "meaning": "sound of a liquid splashing",
+      "meaning": "sound of liquid splashing",
       "type": "om",
       "example": [
         {
@@ -1136,7 +1138,7 @@
       ],
       "refer": "",
       "meaning": "an exaggerated lick or a tongue hanging loosely",
-      "type": "om",
+      "type": "mo",
       "example": [{
         "file": "beron-1a",
         "contributor": "",
@@ -1211,8 +1213,8 @@
           "wallop"
         ],
         "refer": "",
-        "meaning": "the sound of a quick impact",
-        "type": "",
+        "meaning": "a quick impact",
+        "type": "om",
         "example": [
           {
             "file": "bi-1a",
@@ -1236,8 +1238,8 @@
           "snap"
         ],
         "refer": "",
-        "meaning": "the indication of a quick gesture",
-        "type": "",
+        "meaning": "a quick gesture",
+        "type": "m",
         "example": [{
           "file": "bi-2a",
           "contributor": "",
@@ -1274,7 +1276,7 @@
       ],
       "refer": "",
       "meaning": "a sound of splashing or splattering",
-      "type": "",
+      "type": "o",
       "example": [{
         "file": "bicha-1a",
         "contributor": "",
@@ -1303,11 +1305,12 @@
         "jerk",
         "jolt",
         "shudder",
-        "startle"
+        "startle",
+        "twitch"
       ],
       "refer": "",
-      "meaning": "an expression of surprise or startlement",
-      "type": "",
+      "meaning": "an abrupt flinch, twitch, or shudder as a reation",
+      "type": "m",
       "example": [
         {
           "file": "biku-1a",
@@ -1344,65 +1347,44 @@
       "ビクンッ",
       "ビクーンッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "quiver",
-          "shiver",
-          "shudder",
-          "tremble"
-        ],
-        "refer": "",
-        "meaning": "an indication of shaking or shuddering",
-        "type": "",
-        "example": [
-          {
-            "file": "bikun-1a",
-            "contributor": "",
-            "display": "ビクン",
-            "source": "d_genesis"
-          },
-          {
-            "file": "bikun-1b",
-            "contributor": "",
-            "display": "ビクン",
-            "source": "rise_of_the_outlaw_tamer"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "flinch",
-          "jerk",
-          "jolt",
-          "shudder",
-          "startle"
-        ],
-        "refer": "",
-        "meaning": "an expression of surprise or startlement",
-        "type": "",
-        "example": [
-          {
-            "file": "bikun-2a",
-            "contributor": "",
-            "display": "ビクーン",
-            "source": "hello_work"
-          },
-          {
-            "file": "bikun-2b",
-            "contributor": "",
-            "display": "ビクン",
-            "source": "gyaru_academy"
-          },
-          {
-            "file": "bikun-2c",
-            "contributor": "",
-            "display": "びくんっ",
-            "source": "embarrassing_and_sweet"
-          }
-        ]
-      }
-    ],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "biku:1",
+      "meaning": "",
+      "type": "",
+      "example": [
+        {
+          "file": "bikun-1a",
+          "contributor": "",
+          "display": "ビクン",
+          "source": "d_genesis"
+        },
+        {
+          "file": "bikun-1b",
+          "contributor": "",
+          "display": "ビクン",
+          "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "bikun-2a",
+          "contributor": "",
+          "display": "ビクーン",
+          "source": "hello_work"
+        },
+        {
+          "file": "bikun-2b",
+          "contributor": "",
+          "display": "ビクン",
+          "source": "gyaru_academy"
+        },
+        {
+          "file": "bikun-2c",
+          "contributor": "",
+          "display": "びくんっ",
+          "source": "embarrassing_and_sweet"
+        }
+      ]
+    }],
     "literal": "bikun"
   },
   {
@@ -1428,8 +1410,8 @@
         "wince"
       ],
       "refer": "",
-      "meaning": "indications of jerky movement or twitching",
-      "type": "",
+      "meaning": "jerky movements or twitching",
+      "type": "m",
       "example": [
         {
           "file": "biku_biku-1a",
@@ -1463,8 +1445,8 @@
         "tear"
       ],
       "refer": "",
-      "meaning": "a sound of paper tearing or ripping",
-      "type": "",
+      "meaning": "sharp tearing or ripping sound, often of paper",
+      "type": "om",
       "example": [{
         "file": "biri-1a",
         "contributor": "Artrix",
@@ -1491,8 +1473,8 @@
         "tremble"
       ],
       "refer": "",
-      "meaning": "an indication of shaking",
-      "type": "",
+      "meaning": "trembling or shaking",
+      "type": "m",
       "example": [{
         "file": "biri_biri-1a",
         "contributor": "",
@@ -1520,8 +1502,8 @@
         "spray"
       ],
       "refer": "",
-      "meaning": "a small sound of spraying or splashing",
-      "type": "",
+      "meaning": "liquid splashing or spraying",
+      "type": "om",
       "example": [{
         "file": "bisha-1a",
         "contributor": "",
@@ -1535,14 +1517,9 @@
     "hiragana": ["びしびし"],
     "katakana": ["ビシビシ"],
     "definition": [{
-      "equivalent": [
-        "spatter spatter",
-        "splash splash",
-        "splatter splatter",
-        "spray spray"
-      ],
-      "refer": "",
-      "meaning": "sounds of spraying or splashing",
+      "equivalent": [""],
+      "refer": "bisha:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "bisha_bish-1a",
@@ -1575,8 +1552,8 @@
           "straighten"
         ],
         "refer": "",
-        "meaning": "an indication of suddenly stopping as a reaction",
-        "type": "",
+        "meaning": "suddenly stopping as a reaction",
+        "type": "me",
         "example": [
           {
             "file": "bishi-1a",
@@ -1610,8 +1587,8 @@
           "whap"
         ],
         "refer": "",
-        "meaning": "the sound of a sudden strike",
-        "type": "",
+        "meaning": "sharp, sudden impact sound",
+        "type": "om",
         "example": [
           {
             "file": "bishi-2a",
@@ -1640,8 +1617,8 @@
           "point"
         ],
         "refer": "",
-        "meaning": "an indication of suddenly pointing at something,",
-        "type": "",
+        "meaning": "suddenly pointing at something,",
+        "type": "m",
         "example": [{
           "file": "bishi-3a",
           "contributor": "",
@@ -1662,25 +1639,9 @@
       "ビシッビシッ"
     ],
     "definition": [{
-      "equivalent": [
-        "bam bam",
-        "blow blow",
-        "chop chop",
-        "clobber clobber",
-        "clout clout",
-        "crunch crunch",
-        "hit hit",
-        "pound pound",
-        "punch punch",
-        "slam slam",
-        "slug slug",
-        "strike strike",
-        "thud thud",
-        "thunk thunk",
-        "wham wham"
-      ],
-      "refer": "",
-      "meaning": "sounds of sudden or forceful strikes",
+      "equivalent": [""],
+      "refer": "bishi:2",
+      "meaning": "s",
       "type": "",
       "example": [{
         "file": "bishi_bishi-1a",
@@ -1703,8 +1664,8 @@
         "zipwhiz"
       ],
       "refer": "",
-      "meaning": "a combined sound of snapping and rushing/whipping, as loosing an arrow",
-      "type": "",
+      "meaning": "the sudden sound of loosing an arrow",
+      "type": "om",
       "example": [{
         "file": "bishu-1a",
         "contributor": "",
@@ -1750,8 +1711,8 @@
           "torch"
         ],
         "refer": "",
-        "meaning": "a sound of fire or burning",
-        "type": "",
+        "meaning": "a burst of fire or something burning",
+        "type": "om",
         "example": [
           {
             "file": "bo-1a",
@@ -1774,11 +1735,13 @@
           "dopey",
           "dozy",
           "dreamy",
+          "droop",
           "drowsy",
           "groggy",
           "hazy",
           "languid",
           "lethargic",
+          "limp",
           "listless",
           "relaxed",
           "sluggish",
@@ -1786,8 +1749,8 @@
           "vacant"
         ],
         "refer": "",
-        "meaning": "the indication or expression of a lack of energy or attention",
-        "type": "",
+        "meaning": "sluggish or drowsy",
+        "type": "sec",
         "example": [{
           "file": "bo-2a",
           "contributor": "",
@@ -1812,8 +1775,8 @@
         "swash"
       ],
       "refer": "",
-      "meaning": "a sound of something landing into water",
-      "type": "",
+      "meaning": "a splash from something falling or landing into water",
+      "type": "om",
       "example": [{
         "file": "bochan-1a",
         "contributor": "",
@@ -1841,8 +1804,8 @@
         "puff"
       ],
       "refer": "",
-      "meaning": "a soft puffing sound",
-      "type": "",
+      "meaning": "a soft, muffled, or gentle puffing/thudding sound",
+      "type": "om",
       "example": [{
         "file": "bofu-1a",
         "contributor": "",
@@ -1856,15 +1819,9 @@
     "hiragana": ["ぼふん"],
     "katakana": ["ボフン"],
     "definition": [{
-      "equivalent": [
-        "floof",
-        "fwump",
-        "ploof",
-        "poof",
-        "puff"
-      ],
-      "refer": "",
-      "meaning": "a soft puffing sound",
+      "equivalent": [""],
+      "refer": "bofu:1",
+      "meaning": "",
       "type": "",
       "example": [
         {

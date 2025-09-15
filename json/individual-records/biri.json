@@ -1,27 +1,31 @@
 {
-  "hiragana": [
-    "びり",
-    "びりり"
-  ],
+  "literal": "biri",
   "katakana": [
     "ビリ",
     "ビリリ"
   ],
-  "definition": [{
-    "equivalent": [
-      "rend",
-      "rip",
-      "tear"
-    ],
-    "refer": "",
-    "meaning": "a sound of paper tearing or ripping",
-    "type": "",
-    "example": [{
-      "file": "biri-1a",
-      "contributor": "Artrix",
-      "display": "ビリリ",
-      "source": "pokemon_xy_break"
-    }]
-  }],
-  "literal": "biri"
+  "hiragana": [
+    "びり",
+    "びりり"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "om",
+      "meaning": "sharp tearing or ripping sound, often of paper",
+      "equivalent": [
+        "rend",
+        "rip",
+        "tear"
+      ],
+      "example": [
+        {
+          "source": "pokemon_xy_break",
+          "file": "biri-1a",
+          "display": "ビリリ",
+          "contributor": "Artrix"
+        }
+      ]
+    }
+  ]
 }

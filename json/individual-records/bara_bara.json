@@ -10,11 +10,12 @@
     {
       "refer": "",
       "type": "osm",
-      "meaning": "things breaking apart, scattering, or falling to pieces",
+      "meaning": "things breaking apart, scattering, and/or falling to pieces",
       "equivalent": [
         "break",
         "crumble",
-        "fall apart"
+        "fall apart",
+        "scatter"
       ],
       "example": [
         {

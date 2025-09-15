@@ -1,36 +1,40 @@
 {
-  "hiragana": [
-    "びちゃ",
-    "びちゃっ",
-    "びちゃぁ"
-  ],
+  "literal": "bicha",
   "katakana": [
     "ビチャ",
     "ビチャッ",
     "ビチャァ"
   ],
-  "definition": [{
-    "equivalent": [
-      "gout",
-      "gush",
-      "sloosh",
-      "slosh",
-      "spatter",
-      "splash",
-      "splat",
-      "splatter",
-      "spray",
-      "squirt"
-    ],
-    "refer": "",
-    "meaning": "a sound of splashing or splattering",
-    "type": "",
-    "example": [{
-      "file": "bicha-1a",
-      "contributor": "",
-      "display": "びちゃ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "bicha"
+  "hiragana": [
+    "びちゃ",
+    "びちゃっ",
+    "びちゃぁ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a sound of splashing or splattering",
+      "equivalent": [
+        "gout",
+        "gush",
+        "sloosh",
+        "slosh",
+        "spatter",
+        "splash",
+        "splat",
+        "splatter",
+        "spray",
+        "squirt"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "bicha-1a",
+          "display": "びちゃ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

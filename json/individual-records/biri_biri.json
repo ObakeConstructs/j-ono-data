@@ -1,28 +1,32 @@
 {
-  "hiragana": [
-    "びりびり",
-    "びりびりっ"
-  ],
+  "literal": "biri biri",
   "katakana": [
     "ビリビリ",
     "ビリビリッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "quiver",
-      "shiver",
-      "shudder",
-      "tremble"
-    ],
-    "refer": "",
-    "meaning": "an indication of shaking",
-    "type": "",
-    "example": [{
-      "file": "biri_biri-1a",
-      "contributor": "",
-      "display": "ビリ  ビリ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "biri biri"
+  "hiragana": [
+    "びりびり",
+    "びりびりっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "trembling or shaking",
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "biri_biri-1a",
+          "display": "ビリ  ビリ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

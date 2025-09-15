@@ -1,23 +1,31 @@
 {
-  "hiragana": ["びしゅ"],
-  "katakana": ["ビシュ"],
-  "definition": [{
-    "equivalent": [
-      "fwip",
-      "swish",
-      "whirr",
-      "whish",
-      "zipwhiz"
-    ],
-    "refer": "",
-    "meaning": "a combined sound of snapping and rushing/whipping, as loosing an arrow",
-    "type": "",
-    "example": [{
-      "file": "bishu-1a",
-      "contributor": "",
-      "display": "ビシュ",
-      "source": "hello_work"
-    }]
-  }],
-  "literal": "bishu"
+  "literal": "bishu",
+  "katakana": [
+    "ビシュ"
+  ],
+  "hiragana": [
+    "びしゅ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "om",
+      "meaning": "the sudden sound of loosing an arrow",
+      "equivalent": [
+        "fwip",
+        "swish",
+        "whirr",
+        "whish",
+        "zipwhiz"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "bishu-1a",
+          "display": "ビシュ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

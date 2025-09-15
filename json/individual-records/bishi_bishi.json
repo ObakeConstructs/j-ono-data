@@ -1,39 +1,27 @@
 {
-  "hiragana": [
-    "びしびし",
-    "びしっびしっ"
-  ],
+  "literal": "bishi bishi",
   "katakana": [
     "ビシビシ",
     "ビシッビシッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bam bam",
-      "blow blow",
-      "chop chop",
-      "clobber clobber",
-      "clout clout",
-      "crunch crunch",
-      "hit hit",
-      "pound pound",
-      "punch punch",
-      "slam slam",
-      "slug slug",
-      "strike strike",
-      "thud thud",
-      "thunk thunk",
-      "wham wham"
-    ],
-    "refer": "",
-    "meaning": "sounds of sudden or forceful strikes",
-    "type": "",
-    "example": [{
-      "file": "bishi_bishi-1a",
-      "contributor": "",
-      "display": "びしっ♡  びしっ♡",
-      "source": "35_year_olds_choice"
-    }]
-  }],
-  "literal": "bishi bishi"
+  "hiragana": [
+    "びしびし",
+    "びしっびしっ"
+  ],
+  "definition": [
+    {
+      "refer": "bishi:2",
+      "type": "",
+      "meaning": "s",
+      "equivalent": [""],
+      "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "bishi_bishi-1a",
+          "display": "びしっ♡  びしっ♡",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,74 +1,57 @@
 {
-  "hiragana": [
-    "びくん",
-    "びくーん",
-    "びくんっ",
-    "びくーんっ"
-  ],
+  "literal": "bikun",
   "katakana": [
     "ビクン",
     "ビクーン",
     "ビクンッ",
     "ビクーンッ"
   ],
+  "hiragana": [
+    "びくん",
+    "びくーん",
+    "びくんっ",
+    "びくーんっ"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "refer": "",
-      "meaning": "an indication of shaking or shuddering",
+      "refer": "biku:1",
       "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
       "example": [
         {
+          "source": "d_genesis",
           "file": "bikun-1a",
-          "contributor": "",
           "display": "ビクン",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "rise_of_the_outlaw_tamer",
           "file": "bikun-1b",
-          "contributor": "",
           "display": "ビクン",
-          "source": "rise_of_the_outlaw_tamer"
-        }
-      ]
-    },
-    {
-      "equivalent": [
-        "flinch",
-        "jerk",
-        "jolt",
-        "shudder",
-        "startle"
-      ],
-      "refer": "",
-      "meaning": "an expression of surprise or startlement",
-      "type": "",
-      "example": [
+          "contributor": ""
+        },
         {
+          "source": "hello_work",
           "file": "bikun-2a",
-          "contributor": "",
           "display": "ビクーン",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "gyaru_academy",
           "file": "bikun-2b",
-          "contributor": "",
           "display": "ビクン",
-          "source": "gyaru_academy"
+          "contributor": ""
         },
         {
+          "source": "embarrassing_and_sweet",
           "file": "bikun-2c",
-          "contributor": "",
           "display": "びくんっ",
-          "source": "embarrassing_and_sweet"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "bikun"
+  ]
 }

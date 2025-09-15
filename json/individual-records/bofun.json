@@ -1,31 +1,33 @@
 {
-  "hiragana": ["ぼふん"],
-  "katakana": ["ボフン"],
-  "definition": [{
-    "equivalent": [
-      "poof",
-      "puff",
-      "floof",
-      "fwump",
-      "ploof"
-    ],
-    "refer": "",
-    "meaning": "a soft puffing sound",
-    "type": "",
-    "example": [
-      {
-        "file": "bofun-1a",
-        "contributor": "",
-        "display": "ボフン",
-        "source": "otherworld_material_collector"
-      },
-      {
-        "file": "bofun-1b",
-        "contributor": "",
-        "display": "ボフン",
-        "source": "hone_dragon"
-      }
-    ]
-  }],
-  "literal": "bofun"
+  "literal": "bofun",
+  "katakana": [
+    "ボフン"
+  ],
+  "hiragana": [
+    "ぼふん"
+  ],
+  "definition": [
+    {
+      "refer": "bofu:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "bofun-1a",
+          "display": "ボフン",
+          "contributor": ""
+        },
+        {
+          "source": "hone_dragon",
+          "file": "bofun-1b",
+          "display": "ボフン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
