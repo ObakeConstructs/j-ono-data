@@ -60,11 +60,21 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   * a "meaning" string
   * an array of English "equivalent" strings
   * an array of "example" objects
-  * a "refer" string 
+  * a "refer" string  &nbsp;&nbsp;<sub><sup>\*\*NEW\*\*</sup></sub>
     * "refer" strings reference other definitions (for normalizing duplicate definitions)
     * the convention of a "refer" strings is `<literal>:<def num>` ("def num" is the index of the referred definition array)
     * "meaning" values from the referred definition are displayed prior to local meanings in the J-Ono search tool (as a simple concatenation)
     * "equivalent" values from the referred definition are listed prior to local equivalents in the J-Ono search tool
+  * a "type" string &nbsp;&nbsp;<sub><sup>\*\*NEW\*\*</sup></sub>
+    * "type" strings codify the definition classification
+    * there are six possible classification types:
+      * "o" = onomatopoeic (擬音語)
+      * "v" = voiced/vocal (擬声語)
+      * "s" = state/condition (擬態語)
+      * "m" = motion/movement (擬容語)
+      * "e" = emotion/feeling (擬情語)
+      * "c" = symbolic cue (記号的オノマトペ)
+    * the "type" string is currently NOT displayed in the search tool, but will be once all definitions have updated with a "type" string
 * Each "example" object contains...
   * a "source" string with a source id (see SOURCE RECORDS)
   * a "file" string with the filename of the image file (see IMAGE FILES)
@@ -80,6 +90,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   "hiragana": [ "ぎん", "ぎんっ" ],
   "definition": [{
       "refer": "",
+      "type": "ec",
       "meaning": "an indication of glaring or staring",
       "equivalent": [ "fixate", "glare", "glower", "regard", "stare" ],
       "example": [{
