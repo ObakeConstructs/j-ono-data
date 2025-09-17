@@ -1,29 +1,32 @@
 {
-  "hiragana": [
-    "どきゅん",
-    "どきゅうん",
-    "どきゅううん"
-  ],
+  "literal": "dokyun",
   "katakana": [
     "ドキュン",
     "ドキュウン",
     "ドキュウウン"
   ],
-  "definition": [{
-    "equivalent": [
-      "ba-dump",
-      "cute",
-      "longing"
-    ],
-    "refer": "",
-    "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
-    "type": "",
-    "example": [{
-      "file": "dokyun-1a",
-      "contributor": "",
-      "display": "ドキュウウン",
-      "source": "isekai_sniper"
-    }]
-  }],
-  "literal": "dokyun"
+  "hiragana": [
+    "どきゅん",
+    "どきゅうん",
+    "どきゅううん"
+  ],
+  "definition": [
+    {
+      "refer": "doku:1",
+      "type": "",
+      "meaning": ", indicating exaggerated cuteness or desirability",
+      "equivalent": [
+        "cute",
+        "longing"
+      ],
+      "example": [
+        {
+          "source": "isekai_sniper",
+          "file": "dokyun-1a",
+          "display": "ドキュウウン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

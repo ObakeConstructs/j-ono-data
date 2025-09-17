@@ -1,36 +1,40 @@
 {
-  "hiragana": [
-    "ちょぃ",
-    "ちょぃっ"
-  ],
+  "literal": "choi choi",
   "katakana": [
-    "チョィ",
-    "チョィッ"
+    "チョィチョィ",
+    "チョィッチョィッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "motion",
-      "move",
-      "shift",
-      "wave"
-    ],
-    "refer": "",
-    "meaning": "an indication of movement or shifting positions",
-    "type": "",
-    "example": [
-      {
-        "file": "choi_choi-1a",
-        "contributor": "",
-        "display": "ちょぃ  ちょぃ",
-        "source": "eternal_fool_asley"
-      },
-      {
-        "file": "choi_choi-1b",
-        "contributor": "",
-        "display": "ちょぃ  ちょぃ",
-        "source": "yojo_life"
-      }
-    ]
-  }],
-  "literal": "choi choi"
+  "hiragana": [
+    "ちょぃちょぃ",
+    "ちょぃっちょぃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "small movements or gestures",
+      "equivalent": [
+        "fidget",
+        "gesture",
+        "motion",
+        "move",
+        "shift",
+        "wave"
+      ],
+      "example": [
+        {
+          "source": "eternal_fool_asley",
+          "file": "choi_choi-1a",
+          "display": "ちょぃ  ちょぃ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "choi_choi-1b",
+          "display": "ちょぃ  ちょぃ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

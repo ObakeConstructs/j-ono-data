@@ -1,47 +1,37 @@
 {
-  "hiragana": [
-    "どし",
-    "どしゃ",
-    "どしゃぁ"
-  ],
+  "literal": "dosha",
   "katakana": [
     "ドシ",
     "ドシャ",
     "ドシャァ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bam",
-      "bang",
-      "crash",
-      "slam",
-      "slap",
-      "smack",
-      "thud",
-      "thump",
-      "thunk",
-      "whack",
-      "wham",
-      "whap",
-      "whomp"
-    ],
-    "refer": "",
-    "meaning": "the sound of a heavy impact",
-    "type": "",
-    "example": [
-      {
-        "file": "dosha-1a",
-        "contributor": "",
-        "display": "どしゃ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "dosha-1b",
-        "contributor": "",
-        "display": "ドシャァ...",
-        "source": "my_s-ranked_daughter"
-      }
-    ]
-  }],
-  "literal": "dosha"
+  "hiragana": [
+    "どし",
+    "どしゃ",
+    "どしゃぁ"
+  ],
+  "definition": [
+    {
+      "refer": "dosa:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "dosha-1a",
+          "display": "どしゃ",
+          "contributor": ""
+        },
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "dosha-1b",
+          "display": "ドシャァ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

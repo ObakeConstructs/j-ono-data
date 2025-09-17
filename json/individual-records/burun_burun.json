@@ -1,31 +1,37 @@
 {
-  "hiragana": ["ぶるんぶるん"],
-  "katakana": ["ブルンブルン"],
-  "definition": [{
-    "equivalent": [
-      "bounce bounce",
-      "jerk jerk",
-      "jiggle jigle",
-      "quiver quiver",
-      "shake shake"
-    ],
-    "refer": "",
-    "meaning": "indications of bouncing or shaking",
-    "type": "",
-    "example": [
-      {
-        "file": "burun_burun-1a",
-        "contributor": "",
-        "display": "ぶるん  ぶるん",
-        "source": "s_rank_behemoth"
-      },
-      {
-        "file": "burun_burun-1b",
-        "contributor": "",
-        "display": "ぶるん♡  ぶるん♡",
-        "source": "35_year_olds_choice"
-      }
-    ]
-  }],
-  "literal": "burun burun"
+  "literal": "burun burun",
+  "katakana": [
+    "ブルンブルン"
+  ],
+  "hiragana": [
+    "ぶるんぶるん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "mo",
+      "meaning": "bouncing or shaking, often energetic or exaggerated",
+      "equivalent": [
+        "bounce bounce",
+        "jerk jerk",
+        "jiggle jigle",
+        "quiver quiver",
+        "shake shake"
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "burun_burun-1a",
+          "display": "ぶるん  ぶるん",
+          "contributor": ""
+        },
+        {
+          "source": "35_year_olds_choice",
+          "file": "burun_burun-1b",
+          "display": "ぶるん♡  ぶるん♡",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

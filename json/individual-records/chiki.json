@@ -1,20 +1,28 @@
 {
-  "hiragana": ["ちき"],
-  "katakana": ["チキ"],
-  "definition": [{
-    "equivalent": [
-      "chik",
-      "click"
-    ],
-    "refer": "",
-    "meaning": "a sharp sound of clicking",
-    "type": "",
-    "example": [{
-      "file": "chiki-1a",
-      "contributor": "",
-      "display": "チキ...",
-      "source": "spy_x_family"
-    }]
-  }],
-  "literal": "chiki"
+  "literal": "chiki",
+  "katakana": [
+    "チキ"
+  ],
+  "hiragana": [
+    "ちき"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "sharp and short clicking",
+      "equivalent": [
+        "chik",
+        "click"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "chiki-1a",
+          "display": "チキ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

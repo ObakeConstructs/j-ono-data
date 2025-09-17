@@ -1,17 +1,30 @@
 {
-  "hiragana": ["どく"],
-  "katakana": ["ドク"],
-  "definition": [{
-    "equivalent": [""],
-    "refer": "doki:1",
-    "meaning": "",
-    "type": "",
-    "example": [{
-      "file": "doku-1a",
-      "contributor": "",
-      "display": "ドク",
-      "source": "embarrassing_and_sweet"
-    }]
-  }],
-  "literal": "doku"
+  "literal": "doku",
+  "katakana": [
+    "ドク"
+  ],
+  "hiragana": [
+    "どく"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "se",
+      "meaning": "heartbeat or throbbing",
+      "equivalent": [
+        "ba-dump",
+        "heartbeat",
+        "throb",
+        "thump"
+      ],
+      "example": [
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "doku-1a",
+          "display": "ドク",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

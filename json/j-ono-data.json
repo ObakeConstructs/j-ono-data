@@ -15,7 +15,7 @@
       ],
       "refer": "",
       "meaning": "surprise, recognition, or realization",
-      "type": "ev",
+      "type": "ve",
       "example": [{
         "file": "ah-1a",
         "contributor": "",
@@ -1750,7 +1750,7 @@
         ],
         "refer": "",
         "meaning": "sluggish or drowsy",
-        "type": "sec",
+        "type": "se",
         "example": [{
           "file": "bo-2a",
           "contributor": "",
@@ -2107,8 +2107,8 @@
         "topple"
       ],
       "refer": "",
-      "meaning": "a sound of something falling or landing",
-      "type": "",
+      "meaning": "an object falling or landing",
+      "type": "om",
       "example": [{
         "file": "boto-1a",
         "contributor": "",
@@ -2726,8 +2726,8 @@
         "shake shake"
       ],
       "refer": "",
-      "meaning": "indications of bouncing or shaking",
-      "type": "",
+      "meaning": "bouncing or shaking, often energetic or exaggerated",
+      "type": "mo",
       "example": [
         {
           "file": "burun_burun-1a",
@@ -2762,8 +2762,8 @@
         "tremble"
       ],
       "refer": "",
-      "meaning": "indications of involuntary shaking, as from fear, cold, or excitement",
-      "type": "",
+      "meaning": "involuntary shaking, as from fear, cold, or excitement",
+      "type": "ms",
       "example": [
         {
           "file": "buru_buru-1a",
@@ -3007,8 +3007,8 @@
         "zoom"
       ],
       "refer": "",
-      "meaning": "a sound of someone or something moving very quickly",
-      "type": "",
+      "meaning": "someone or something moving very fast",
+      "type": "mo",
       "example": [
         {
           "file": "byun-1a",
@@ -3049,8 +3049,8 @@
         "shing"
       ],
       "refer": "",
-      "meaning": "a short metallic sound, as of a sharp instrument suddenly appearing",
-      "type": "",
+      "meaning": "a short metallic sound, as of quickly drawing a sword",
+      "type": "om",
       "example": [{
         "file": "cha-1a",
         "contributor": "",
@@ -3074,11 +3074,12 @@
         "chack",
         "click",
         "ka-chik",
-        "ker-chack"
+        "ker-chack",
+        "snap"
       ],
       "refer": "",
-      "meaning": "the sound of short, sharp, metallic clicks",
-      "type": "",
+      "meaning": "short, sharp, metallic click or snap",
+      "type": "o",
       "example": [
         {
           "file": "chaki-1a",
@@ -3131,8 +3132,8 @@
         "swash"
       ],
       "refer": "",
-      "meaning": "the sound of moving or splashing water",
-      "type": "",
+      "meaning": "moving or splashing water",
+      "type": "om",
       "example": [
         {
           "file": "chapu-1a",
@@ -3164,8 +3165,8 @@
         "rattle"
       ],
       "refer": "",
-      "meaning": "a sound of rattling or jingling",
-      "type": "",
+      "meaning": "rattling or jingling, usually metallic",
+      "type": "o",
       "example": [{
         "file": "chara-1a",
         "contributor": "",
@@ -3191,13 +3192,14 @@
         "ching",
         "clink",
         "jingle",
+        "rattle",
         "ting",
         "tink",
         "tinkle"
       ],
       "refer": "",
-      "meaning": "a sharp light sound of rattling metal or glass",
-      "type": "",
+      "meaning": "clinking or rattling of metal or glass",
+      "type": "om",
       "example": [
         {
           "file": "chari-1a",
@@ -3270,8 +3272,8 @@
         "tsk"
       ],
       "refer": "",
-      "meaning": "the sound of a dental tsk, typically indicating annoyance ",
-      "type": "",
+      "meaning": "a dental click or tsk, typically indicating annoyance ",
+      "type": "ve",
       "example": [{
         "file": "chi-1a",
         "contributor": "",
@@ -3290,8 +3292,8 @@
         "click"
       ],
       "refer": "",
-      "meaning": "a sharp sound of clicking",
-      "type": "",
+      "meaning": "sharp and short clicking",
+      "type": "o",
       "example": [{
         "file": "chiki-1a",
         "contributor": "",
@@ -3338,8 +3340,8 @@
         "squeak"
       ],
       "refer": "",
-      "meaning": "a loud or shrill sound of blowing one's nose, usually humorous",
-      "type": "",
+      "meaning": "blowing one's nose, often loud or shrill, usually humorously",
+      "type": "vm",
       "example": [{
         "file": "chin-1a",
         "contributor": "",
@@ -3356,7 +3358,7 @@
       "equivalent": ["ding dong dang dong"],
       "refer": "",
       "meaning": "the sound of a Japanese school bell",
-      "type": "",
+      "type": "o",
       "example": [{
         "file": "chin_kon_kan_kon-1a",
         "contributor": "",
@@ -3384,8 +3386,8 @@
         "view"
       ],
       "refer": "",
-      "meaning": "the indication of a quick or hasty look",
-      "type": "",
+      "meaning": "a quick or hasty look",
+      "type": "m",
       "example": [
         {
           "file": "chira-1a",
@@ -3414,13 +3416,16 @@
     "katakana": ["チロチロ"],
     "definition": [{
       "equivalent": [
-        "lap lap",
-        "lick lick",
-        "slurp slurp"
+        "dart",
+        "flick",
+        "flicker",
+        "flit",
+        "flitter",
+        "flutter"
       ],
       "refer": "",
-      "meaning": "the sound of a tongue licking something",
-      "type": "",
+      "meaning": "lightly flickering or darting",
+      "type": "m",
       "example": [{
         "file": "chiro_chiro-1a",
         "contributor": "",
@@ -3453,13 +3458,13 @@
         "chirp chirp",
         "peep peep",
         "pip pip",
-        "trill trill",
+        "trill",
         "tweet tweet",
-        "warble warble"
+        "warble"
       ],
       "refer": "",
       "meaning": "the short sharp sound of a small bird",
-      "type": "",
+      "type": "v",
       "example": [{
         "file": "chi_chi-1a",
         "contributor": "",
@@ -3467,27 +3472,29 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "chi_chi"
+    "literal": "chi chi"
   },
   {
     "hiragana": [
-      "ちょぃ",
-      "ちょぃっ"
+      "ちょぃちょぃ",
+      "ちょぃっちょぃっ"
     ],
     "katakana": [
-      "チョィ",
-      "チョィッ"
+      "チョィチョィ",
+      "チョィッチョィッ"
     ],
     "definition": [{
       "equivalent": [
+        "fidget",
+        "gesture",
         "motion",
         "move",
         "shift",
         "wave"
       ],
       "refer": "",
-      "meaning": "an indication of movement or shifting positions",
-      "type": "",
+      "meaning": "small movements or gestures",
+      "type": "m",
       "example": [
         {
           "file": "choi_choi-1a",
@@ -3528,8 +3535,8 @@
         "suckle"
       ],
       "refer": "",
-      "meaning": "a sound of kissing, licking, or sucking",
-      "type": "",
+      "meaning": "kissing, licking, or sucking",
+      "type": "ov",
       "example": [
         {
           "file": "chu-1a",
@@ -3563,17 +3570,9 @@
       "チュンチュンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "cheep",
-        "chirp",
-        "peep",
-        "pip",
-        "trill",
-        "tweet",
-        "warble"
-      ],
-      "refer": "",
-      "meaning": "short sharp sounds of a small bird",
+      "equivalent": [""],
+      "refer": "chi chi:1",
+      "meaning": ", often used to indicate dawn or early morning",
       "type": "",
       "example": [
         {
@@ -3597,13 +3596,16 @@
     "katakana": ["チュプ"],
     "definition": [{
       "equivalent": [
+        "kiss",
+        "sip",
         "slurp",
+        "smooch",
         "suck",
         "suckle"
       ],
       "refer": "",
-      "meaning": "a sound of sucking or slurping",
-      "type": "",
+      "meaning": "kissing, sipping or lightly slurping",
+      "type": "ov",
       "example": [{
         "file": "chupu-1a",
         "contributor": "",
@@ -3623,13 +3625,9 @@
       "チュルッ"
     ],
     "definition": [{
-      "equivalent": [
-        "drink",
-        "slurp",
-        "sup"
-      ],
-      "refer": "",
-      "meaning": "a sound of sucking or slurping",
+      "equivalent": [""],
+      "refer": "chupu:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -3692,8 +3690,8 @@
         "sprint"
       ],
       "refer": "",
-      "meaning": "an indication of running or starting to run",
-      "type": "",
+      "meaning": "running or dashing, usually the initial burst or start",
+      "type": "om",
       "example": [
         {
           "file": "da-1a",
@@ -3730,8 +3728,8 @@
         "hug"
       ],
       "refer": "",
-      "meaning": "an indication of hugging or embracing",
-      "type": "",
+      "meaning": "a sudden, decisive hug/embrace, typically not gentle",
+      "type": "m",
       "example": [{
         "file": "daki-1a",
         "contributor": "",
@@ -3769,8 +3767,8 @@
         "whack"
       ],
       "refer": "",
-      "meaning": "the sound of a sudden impact or gunshot",
-      "type": "",
+      "meaning": "a sudden hard impact/bang",
+      "type": "om",
       "example": [
         {
           "file": "dan-1a",
@@ -3846,8 +3844,8 @@
         "worry"
       ],
       "refer": "",
-      "meaning": "indications of dripping sweat, as an expression of anxiety or sudden realization, often used humorously",
-      "type": "",
+      "meaning": "dripping or flowing continuously",
+      "type": "smo",
       "example": [{
         "file": "dara_dara-1b",
         "contributor": "",
@@ -3888,8 +3886,8 @@
         "wham wham"
       ],
       "refer": "",
-      "meaning": "rythmic sounds of short and sharp impacts",
-      "type": "",
+      "meaning": "short and sharp impacts, typically rhythmic",
+      "type": "om",
       "example": [
         {
           "file": "da_da-1a",
@@ -3931,12 +3929,12 @@
         "tadah"
       ],
       "refer": "",
-      "meaning": "an indication of something amazing or surprising in a somewhat dramatic fashion",
-      "type": "",
+      "meaning": "showing or revealing something in a somewhat dramatic fashion",
+      "type": "c",
       "example": [{
         "file": "den-1a",
         "contributor": "",
-        "display": "で〜ん",
+        "display": "でーん",
         "source": "way_of_isekai_cooking"
       }]
     }],
@@ -3977,8 +3975,8 @@
           "whump"
         ],
         "refer": "",
-        "meaning": "the sound of an impact or explosion",
-        "type": "",
+        "meaning": "a loud impact or explosion",
+        "type": "o",
         "example": [
           {
             "file": "do-1a",
@@ -4016,8 +4014,8 @@
           "whoop"
         ],
         "refer": "",
-        "meaning": "the sound of a burst of laughter, often rude or mocking",
-        "type": "",
+        "meaning": "a burst of laughter, often rude or mocking",
+        "type": "ve",
         "example": [{
           "file": "do-2a",
           "contributor": "",
@@ -4045,8 +4043,8 @@
         "sploosh"
       ],
       "refer": "",
-      "meaning": "the sound of water splashing",
-      "type": "",
+      "meaning": "water splashing",
+      "type": "om",
       "example": [
         {
           "file": "dobon-1a",
@@ -4097,7 +4095,7 @@
       ],
       "refer": "",
       "meaning": "rythmic sounds of horses galloping",
-      "type": "",
+      "type": "om",
       "example": [{
         "file": "dodoga_dodoga-1a",
         "contributor": "",
@@ -4150,8 +4148,8 @@
         "wham"
       ],
       "refer": "",
-      "meaning": "the sound of an impact or strike",
-      "type": "",
+      "meaning": "a violent or explosive impact or strike",
+      "type": "om",
       "example": [
         {
           "file": "dogo-1a",
@@ -4208,19 +4206,9 @@
       "ドカッ"
     ],
     "definition": [{
-      "equivalent": [
-        "blam",
-        "blow",
-        "boom",
-        "crash",
-        "slam",
-        "smash",
-        "strike",
-        "wallop",
-        "wham"
-      ],
-      "refer": "",
-      "meaning": "a sudden booming sound of violent or explosive force",
+      "equivalent": [""],
+      "refer": "dogo:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -4295,15 +4283,10 @@
     ],
     "definition": [
       {
-        "equivalent": [
-          "ba-dump",
-          "heartbeat",
-          "throb",
-          "thump"
-        ],
-        "refer": "",
-        "meaning": "the indication of a heart beat or throb, as when in love, nervous, or otherwise excited",
-        "type": "",
+        "equivalent": [""],
+        "refer": "doku:1",
+        "meaning": ", as when in love, nervous, or excited",
+        "type": "es",
         "example": [
           {
             "file": "doki-1a",
@@ -4336,8 +4319,8 @@
           "stroke"
         ],
         "refer": "",
-        "meaning": "the indication of a light or gentle poke or prod",
-        "type": "",
+        "meaning": "a light or gentle poke or prod",
+        "type": "m",
         "example": [{
           "file": "doki-2a",
           "contributor": "",
@@ -4354,8 +4337,8 @@
           "startle"
         ],
         "refer": "",
-        "meaning": "an indication of surprise or startlement",
-        "type": "",
+        "meaning": "jerk or flinch, as when surprised or startled",
+        "type": "me",
         "example": [{
           "file": "doki-3a",
           "contributor": "",
@@ -4371,7 +4354,7 @@
     "katakana": ["ドキン"],
     "definition": [{
       "equivalent": [""],
-      "refer": "doki:1",
+      "refer": "doku:1",
       "meaning": "",
       "type": "",
       "example": [{
@@ -4394,7 +4377,7 @@
     ],
     "definition": [{
       "equivalent": [""],
-      "refer": "doki:1",
+      "refer": "doku:1",
       "meaning": "",
       "type": "",
       "example": [
@@ -4424,10 +4407,15 @@
     "hiragana": ["どく"],
     "katakana": ["ドク"],
     "definition": [{
-      "equivalent": [""],
-      "refer": "doki:1",
-      "meaning": "",
-      "type": "",
+      "equivalent": [
+        "ba-dump",
+        "heartbeat",
+        "throb",
+        "thump"
+      ],
+      "refer": "",
+      "meaning": "heartbeat or throbbing",
+      "type": "se",
       "example": [{
         "file": "doku-1a",
         "contributor": "",
@@ -4442,7 +4430,7 @@
     "katakana": ["ドクン"],
     "definition": [{
       "equivalent": [""],
-      "refer": "doki:1",
+      "refer": "doku:1",
       "meaning": "",
       "type": "",
       "example": [
@@ -4473,7 +4461,7 @@
     "katakana": ["ドクンドクン"],
     "definition": [{
       "equivalent": [""],
-      "refer": "doki:1",
+      "refer": "doku:1",
       "meaning": "",
       "type": "",
       "example": [
@@ -4506,12 +4494,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "ba-dump",
         "cute",
         "longing"
       ],
-      "refer": "",
-      "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
+      "refer": "doku:1",
+      "meaning": ", indicating exaggerated cuteness or desirability",
       "type": "",
       "example": [{
         "file": "dokyun-1a",
@@ -4569,8 +4556,8 @@
           "wreck"
         ],
         "refer": "",
-        "meaning": "the sound of an impact or strike",
-        "type": "",
+        "meaning": "an impact or strike",
+        "type": "om",
         "example": [
           {
             "file": "don-1a",
@@ -4693,8 +4680,8 @@
         "trickle"
       ],
       "refer": "",
-      "meaning": "a sound of pouring liquid",
-      "type": "",
+      "meaning": "pouring liquid",
+      "type": "om",
       "example": [{
         "file": "dopopo-1a",
         "contributor": "",
@@ -4735,8 +4722,8 @@
         "trickle"
       ],
       "refer": "",
-      "meaning": "a indication or sound of melting, flowing, or drippping, often  slowly",
-      "type": "",
+      "meaning": "melting, flowing, or dripping, usually thick and slow",
+      "type": "ms",
       "example": [
         {
           "file": "doro-1a",
@@ -4776,8 +4763,8 @@
           "tumble"
         ],
         "refer": "",
-        "meaning": "a sound of falling down or collapsing from an upright position",
-        "type": "",
+        "meaning": "falling down or collapsing from an upright position",
+        "type": "om",
         "example": [
           {
             "file": "dosa-1a",
@@ -4809,8 +4796,8 @@
           "whump"
         ],
         "refer": "",
-        "meaning": "a sound of placing or dropping something onto a hard surface",
-        "type": "",
+        "meaning": "placing or dropping something onto a hard surface",
+        "type": "om",
         "example": [
           {
             "file": "dosa-2a",
@@ -4847,23 +4834,9 @@
       "ドシャァ"
     ],
     "definition": [{
-      "equivalent": [
-        "bam",
-        "bang",
-        "crash",
-        "slam",
-        "slap",
-        "smack",
-        "thud",
-        "thump",
-        "thunk",
-        "whack",
-        "wham",
-        "whap",
-        "whomp"
-      ],
-      "refer": "",
-      "meaning": "the sound of a heavy impact",
+      "equivalent": [""],
+      "refer": "dosa:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -4896,16 +4869,9 @@
       "ドッシーン"
     ],
     "definition": [{
-      "equivalent": [
-        "bump",
-        "pound",
-        "slam",
-        "thud",
-        "thump",
-        "whump"
-      ],
-      "refer": "",
-      "meaning": "the sound of a heavy impact or thud",
+      "equivalent": [""],
+      "refer": "dosa:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "doshin-1a",
@@ -4946,12 +4912,14 @@
           "slug",
           "strike",
           "thud",
+          "thump",
           "thunk",
-          "wham"
+          "wham",
+          "whomp"
         ],
         "refer": "",
-        "meaning": "the sound of a strike in a fight, usually non-lethal",
-        "type": "",
+        "meaning": "a dull or heavy strike/impact in a fight",
+        "type": "om",
         "example": [
           {
             "file": "dosu-1a",
@@ -4992,21 +4960,9 @@
     "hiragana": ["どすん"],
     "katakana": ["ドスン"],
     "definition": [{
-      "equivalent": [
-        "bam",
-        "slam",
-        "slap",
-        "smack",
-        "thud",
-        "thump",
-        "thunk",
-        "whack",
-        "wham",
-        "whap",
-        "whomp"
-      ],
-      "refer": "",
-      "meaning": "the sound of a heavy or dull impact",
+      "equivalent": [""],
+      "refer": "dosu:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "dosun-1a",
@@ -5041,8 +4997,8 @@
         "somber"
       ],
       "refer": "",
-      "meaning": "an indication of gloom or a somber mood",
-      "type": "",
+      "meaning": "a gloomy or somber mood/setting",
+      "type": "c",
       "example": [{
         "file": "doyon-1a",
         "contributor": "",
@@ -5216,8 +5172,8 @@
           "umm"
         ],
         "refer": "",
-        "meaning": "a drawn-out vocalized sound, expressing hesitation or thoughtful reflection",
-        "type": "",
+        "meaning": "a drawn-out vocalized tone, expressing hesitation or thoughtful reflection",
+        "type": "ve",
         "example": [{
           "file": "e-1a",
           "contributor": "",
@@ -5233,8 +5189,8 @@
           "what?"
         ],
         "refer": "",
-        "meaning": "a short vocalized sound, expressing surprise or concern",
-        "type": "",
+        "meaning": "a short vocalized tone, expressing surprise or concern",
+        "type": "ve",
         "example": [{
           "file": "e-2a",
           "contributor": "",
@@ -5263,8 +5219,8 @@
         "titter"
       ],
       "refer": "",
-      "meaning": "a sound of strained, forced, or embarrassed laughter",
-      "type": "",
+      "meaning": "strained, forced, or embarrassed laughter",
+      "type": "ve",
       "example": [{
         "file": "ehe-1a",
         "contributor": "",
@@ -5290,8 +5246,8 @@
         "yeah"
       ],
       "refer": "",
-      "meaning": "an indication of effort or exertion",
-      "type": "",
+      "meaning": "effort or exertion",
+      "type": "sm",
       "example": [{
         "file": "eisa-1a",
         "contributor": "",
@@ -5302,8 +5258,16 @@
     "literal": "eisa"
   },
   {
-    "hiragana": ["ふぁあ"],
-    "katakana": ["ファア"],
+    "hiragana": [
+      "ふぁ",
+      "ふぁぁ",
+      "ふああ"
+    ],
+    "katakana": [
+      "ファ",
+      "ファァ",
+      "フアア"
+    ],
     "definition": [{
       "equivalent": [
         "huff",
@@ -5311,12 +5275,12 @@
         "yawn"
       ],
       "refer": "",
-      "meaning": "the sound of a deep breath, expressing tiredness or boredom",
-      "type": "",
+      "meaning": "a deep breath or yawn, expressing tiredness or boredom",
+      "type": "vms",
       "example": [{
         "file": "faa-1a",
         "contributor": "",
-        "display": "ふぁあ...",
+        "display": "ふああ...",
         "source": "world_full_of_monsters"
       }]
     }],
@@ -5333,42 +5297,33 @@
       "ファサァ",
       "ファサァァ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "smell",
-          "sniff",
-          "snuff",
-          "whiff"
-        ],
-        "refer": "",
-        "meaning": "a sound of sniffing or smelling",
-        "type": "",
-        "example": [{
+    "definition": [{
+      "equivalent": [
+        "airy",
+        "puff",
+        "rustle",
+        "soft",
+        "waft",
+        "whiff"
+      ],
+      "refer": "",
+      "meaning": "a light fluttering or airy movement",
+      "type": "m",
+      "example": [
+        {
           "file": "fasa-1a",
           "contributor": "",
           "display": "ファサァァ",
           "source": "blazing_fire_brigade"
-        }]
-      },
-      {
-        "equivalent": [
-          "puff",
-          "soft",
-          "soft rustle",
-          "waft"
-        ],
-        "refer": "",
-        "meaning": "a soft sound of moving cloth or clothes",
-        "type": "",
-        "example": [{
+        },
+        {
           "file": "fasa-2a",
           "contributor": "",
           "display": "ファサ",
           "source": "rock_n_roll_ladies"
-        }]
-      }
-    ],
+        }
+      ]
+    }],
     "literal": "fasa"
   },
   {
@@ -5391,8 +5346,8 @@
         "zip"
       ],
       "refer": "",
-      "meaning": "a wooshing or whistling sound of something moving quickly through the air",
-      "type": "",
+      "meaning": "wooshing or whistling sound, as of something moving quickly through the air",
+      "type": "om",
       "example": [{
         "file": "fiun-1a",
         "contributor": "",
@@ -5437,8 +5392,8 @@
           "snicker"
         ],
         "refer": "",
-        "meaning": "the sound of a quick, short laugh",
-        "type": "",
+        "meaning": "a quick, short laugh",
+        "type": "ve",
         "example": [
           {
             "file": "fu-1a",
@@ -5465,8 +5420,8 @@
           "whoom"
         ],
         "refer": "",
-        "meaning": "the indication of a sudden or fast movement",
-        "type": "",
+        "meaning": "a sudden or fast movement",
+        "type": "m",
         "example": [
           {
             "file": "fu-2a",
@@ -5492,14 +5447,18 @@
         "equivalent": [
           "ease",
           "fwhew",
+          "gasp",
+          "ha",
+          "haa",
+          "pant",
+          "phew",
           "release",
           "relief",
-          "solace",
           "whew"
         ],
         "refer": "",
-        "meaning": "an expression of relief",
-        "type": "",
+        "meaning": "an exhale or release of breath",
+        "type": "ve",
         "example": [
           {
             "file": "fu-3a",
@@ -5518,22 +5477,7 @@
             "contributor": "",
             "display": "フウ",
             "source": "peter_grill"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "gasp",
-          "ha",
-          "haa",
-          "pant",
-          "phew",
-          "whew"
-        ],
-        "refer": "",
-        "meaning": "a sound of exhaling, often used as an expresison of exertion",
-        "type": "",
-        "example": [
+          },
           {
             "file": "fu-4a",
             "contributor": "",

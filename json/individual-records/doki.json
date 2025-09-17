@@ -1,45 +1,46 @@
 {
-  "hiragana": [
-    "どき",
-    "どきっ"
-  ],
+  "literal": "doki",
   "katakana": [
     "ドキ",
     "ドキッ"
   ],
+  "hiragana": [
+    "どき",
+    "どきっ"
+  ],
   "definition": [
     {
+      "refer": "doku:1",
+      "type": "es",
+      "meaning": ", as when in love, nervous, or excited",
       "equivalent": [
-        "ba-dump",
-        "heartbeat",
-        "thump",
-        "throb"
+        ""
       ],
-      "refer": "",
-      "meaning": "the indication of a heart beat or throb, as when in love, nervous, or otherwise excited",
-      "type": "",
       "example": [
         {
+          "source": "isekai_territory_reform",
           "file": "doki-1a",
-          "contributor": "",
           "display": "ドキッ",
-          "source": "isekai_territory_reform"
+          "contributor": ""
         },
         {
+          "source": "isekai_pickup",
           "file": "doki-1b",
-          "contributor": "",
           "display": "ドキッ",
-          "source": "isekai_pickup"
+          "contributor": ""
         },
         {
+          "source": "human_ranch",
           "file": "doki-1c",
-          "contributor": "",
           "display": "ドキッ",
-          "source": "human_ranch"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "a light or gentle poke or prod",
       "equivalent": [
         "bump",
         "feel",
@@ -49,17 +50,19 @@
         "prod",
         "stroke"
       ],
-      "refer": "",
-      "meaning": "the indication of a light or gentle poke or prod",
-      "type": "",
-      "example": [{
-        "file": "doki-2a",
-        "contributor": "",
-        "display": "どき",
-        "source": "uncle_at_heart"
-      }]
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "doki-2a",
+          "display": "どき",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "me",
+      "meaning": "jerk or flinch, as when surprised or startled",
       "equivalent": [
         "flinch",
         "jerk",
@@ -67,16 +70,14 @@
         "shudder",
         "startle"
       ],
-      "refer": "",
-      "meaning": "an indication of surprise or startlement",
-      "type": "",
-      "example": [{
-        "file": "doki-3a",
-        "contributor": "",
-        "display": "ドキ",
-        "source": "requiem_for_prophet"
-      }]
+      "example": [
+        {
+          "source": "requiem_for_prophet",
+          "file": "doki-3a",
+          "display": "ドキ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "doki"
+  ]
 }

@@ -1,30 +1,34 @@
 {
-  "hiragana": [
-    "だき",
-    "だきっ"
-  ],
+  "literal": "daki",
   "katakana": [
     "ダキ",
     "ダキッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clasp",
-      "cradle",
-      "embrace",
-      "grasp",
-      "hold",
-      "hug"
-    ],
-    "refer": "",
-    "meaning": "an indication of hugging or embracing",
-    "type": "",
-    "example": [{
-      "file": "daki-1a",
-      "contributor": "",
-      "display": "ダキッ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "daki"
+  "hiragana": [
+    "だき",
+    "だきっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a sudden, decisive hug/embrace, typically not gentle",
+      "equivalent": [
+        "clasp",
+        "cradle",
+        "embrace",
+        "grasp",
+        "hold",
+        "hug"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "daki-1a",
+          "display": "ダキッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

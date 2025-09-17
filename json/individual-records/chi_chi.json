@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "ち",
-    "ちち",
-    "ちちち",
-    "ちっ",
-    "ちちっ",
-    "ちちちっ"
-  ],
+  "literal": "chi chi",
   "katakana": [
     "チ",
     "チチ",
@@ -15,25 +8,36 @@
     "チチッ",
     "チチチッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "tweet tweet",
-      "chirp chirp",
-      "cheep cheep",
-      "peep peep",
-      "pip pip",
-      "trill trill",
-      "warble warble"
-    ],
-    "refer": "",
-    "meaning": "the short sharp sound of a small bird",
-    "type": "",
-    "example": [{
-      "file": "chi_chi-1a",
-      "contributor": "",
-      "display": "チチチッ  チチッ",
-      "source": "isekai_sniper"
-    }]
-  }],
-  "literal": "chi_chi"
+  "hiragana": [
+    "ち",
+    "ちち",
+    "ちちち",
+    "ちっ",
+    "ちちっ",
+    "ちちちっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "the short sharp sound of a small bird",
+      "equivalent": [
+        "cheep cheep",
+        "chirp chirp",
+        "peep peep",
+        "pip pip",
+        "trill",
+        "tweet tweet",
+        "warble"
+      ],
+      "example": [
+        {
+          "source": "isekai_sniper",
+          "file": "chi_chi-1a",
+          "display": "チチチッ  チチッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

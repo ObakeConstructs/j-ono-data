@@ -1,43 +1,45 @@
 {
-  "hiragana": [
-    "ちら",
-    "ちらっ"
-  ],
+  "literal": "chira",
   "katakana": [
     "チラ",
     "チラッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "glance",
-      "glimpse",
-      "look",
-      "peek",
-      "view"
-    ],
-    "refer": "",
-    "meaning": "the indication of a quick or hasty look",
-    "type": "",
-    "example": [
-      {
-        "file": "chira-1a",
-        "contributor": "",
-        "display": "チラ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "chira-1b",
-        "contributor": "",
-        "display": "ちらっ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "chira-1c",
-        "contributor": "",
-        "display": "チラッ",
-        "source": "kuma_kuma_kuma_bear"
-      }
-    ]
-  }],
-  "literal": "chira"
+  "hiragana": [
+    "ちら",
+    "ちらっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a quick or hasty look",
+      "equivalent": [
+        "glance",
+        "glimpse",
+        "look",
+        "peek",
+        "view"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "chira-1a",
+          "display": "チラ",
+          "contributor": ""
+        },
+        {
+          "source": "world_full_of_monsters",
+          "file": "chira-1b",
+          "display": "ちらっ",
+          "contributor": ""
+        },
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "chira-1c",
+          "display": "チラッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
