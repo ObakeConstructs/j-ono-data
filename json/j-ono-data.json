@@ -1861,8 +1861,8 @@
         "pop"
       ],
       "refer": "",
-      "meaning": "a sound of boiling or bubbling",
-      "type": "",
+      "meaning": "liquid bubbling or boiling",
+      "type": "om",
       "example": [{
         "file": "boko-1a",
         "contributor": "",
@@ -1886,8 +1886,8 @@
         "tok"
       ],
       "refer": "",
-      "meaning": "the sound of a sudden impact",
-      "type": "",
+      "meaning": "a somewhat hollow sounding impact",
+      "type": "om",
       "example": [{
         "file": "bokon-1a",
         "contributor": "",
@@ -1917,8 +1917,8 @@
         "ta-da"
       ],
       "refer": "",
-      "meaning": "an indication of something amazing or surprising, often revealed in a dramatic fashion",
-      "type": "",
+      "meaning": "to show or reveal something impressive, shocking or surprising",
+      "type": "ce",
       "example": [{
         "file": "bon-1a",
         "contributor": "Artrix",
@@ -1946,8 +1946,8 @@
         "worn out"
       ],
       "refer": "",
-      "meaning": "an indication or expression of being worn out or exhausted",
-      "type": "",
+      "meaning": "worn out or exhausted",
+      "type": "se",
       "example": [{
         "file": "boro-1a",
         "contributor": "",
@@ -1977,8 +1977,8 @@
         "weep"
       ],
       "refer": "",
-      "meaning": "an indication of tears dripping",
-      "type": "",
+      "meaning": "emotionally fall apart, usually expressed as crying",
+      "type": "sem",
       "example": [{
         "file": "boron-1a",
         "contributor": "",
@@ -1992,15 +1992,9 @@
     "hiragana": ["ぼろぼろ"],
     "katakana": ["ボロボロ"],
     "definition": [{
-      "equivalent": [
-        "blub blub",
-        "cry cry",
-        "drip drip",
-        "sob sob",
-        "weep weep"
-      ],
-      "refer": "",
-      "meaning": "indications of dripping tears as an expression of pain or distress",
+      "equivalent": [""],
+      "refer": "boron:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -2044,8 +2038,8 @@
         "whisper"
       ],
       "refer": "",
-      "meaning": "an indication of mumbling or whispering",
-      "type": "",
+      "meaning": "mumbling or whispering",
+      "type": "v",
       "example": [
         {
           "file": "boso-1a",
@@ -2083,8 +2077,8 @@
         "splat"
       ],
       "refer": "",
-      "meaning": "a dripping sound of viscous fluids, typically blood",
-      "type": "",
+      "meaning": "viscous fluids dripping, typically blood",
+      "type": "om",
       "example": [{
         "file": "bota-1a",
         "contributor": "",
@@ -2141,8 +2135,8 @@
         "whump"
       ],
       "refer": "",
-      "meaning": "the sound of a soft or muffled explosion",
-      "type": "",
+      "meaning": "a soft, muffled, or hollow explosive sound",
+      "type": "o",
       "example": [{
         "file": "boun-1a",
         "contributor": "Artrix",
@@ -2172,8 +2166,8 @@
         "whoosh"
       ],
       "refer": "",
-      "meaning": "an indication of something flaring or expanding outward, like flames or smoke",
-      "type": "",
+      "meaning": "something flaring or expanding outward, like flames or smoke",
+      "type": "om",
       "example": [{
         "file": "bowa-1a",
         "contributor": "",
@@ -2208,8 +2202,8 @@
         "wiggle"
       ],
       "refer": "",
-      "meaning": "the indication of a bounce",
-      "type": "",
+      "meaning": "a springy, bouncy motion",
+      "type": "mo",
       "example": [
         {
           "file": "boyon-1a",
@@ -2266,8 +2260,8 @@
           "sploosh"
         ],
         "refer": "",
-        "meaning": "a sound of spitting or spraying something from the mouth",
-        "type": "",
+        "meaning": "spitting or spraying something from the mouth",
+        "type": "ome",
         "example": [
           {
             "file": "bu-1a",
@@ -2290,7 +2284,7 @@
         ],
         "refer": "",
         "meaning": "an aborted urge to spit or spray something from the mouth",
-        "type": "",
+        "type": "me",
         "example": [{
           "file": "bu-2a",
           "contributor": "",
@@ -2306,7 +2300,7 @@
         ],
         "refer": "",
         "meaning": "the low rumble of a car engine at idle",
-        "type": "",
+        "type": "o",
         "example": [{
           "file": "buu-1a",
           "contributor": "",
@@ -2337,8 +2331,8 @@
           "split"
         ],
         "refer": "",
-        "meaning": "a sound of something snapping or breaking, ",
-        "type": "",
+        "meaning": "something snapping or breaking, ",
+        "type": "om",
         "example": [{
           "file": "buchi-1a",
           "contributor": "",
@@ -2352,8 +2346,8 @@
           "snap"
         ],
         "refer": "",
-        "meaning": "an indication or expression of mentally snapping",
-        "type": "",
+        "meaning": "losing one's patience or mentally snapping",
+        "type": "e",
         "example": [{
           "file": "buchi-2a",
           "contributor": "",
@@ -2385,8 +2379,8 @@
         "snort"
       ],
       "refer": "",
-      "meaning": "a sound of suppressed laughter",
-      "type": "",
+      "meaning": "suppressed laughter, often involuntary",
+      "type": "vem",
       "example": [
         {
           "file": "bufu-1a",
@@ -2415,8 +2409,8 @@
         "too big"
       ],
       "refer": "",
-      "meaning": "an indication of ill-fitted or baggy clothes",
-      "type": "",
+      "meaning": "ill-fitted or baggy clothes",
+      "type": "s",
       "example": [{
         "file": "buka-1a",
         "contributor": "",
@@ -2436,8 +2430,8 @@
         "bubble bubble"
       ],
       "refer": "",
-      "meaning": "sounds of boiling or bubbling",
-      "type": "",
+      "meaning": "continuous boiling or bubbling liquid",
+      "type": "om",
       "example": [
         {
           "file": "buku_buku-1a",
@@ -2474,8 +2468,8 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "an indication of swinging something quickly and often violently",
-        "type": "",
+        "meaning": "swinging or whipping something quickly and often violently",
+        "type": "mo",
         "example": [
           {
             "file": "bun-1a",
@@ -2506,8 +2500,8 @@
           "wobble"
         ],
         "refer": "",
-        "meaning": "an indication of irregular or violent movement",
-        "type": "",
+        "meaning": "an abrupt, jerky, or uncontrolled movement",
+        "type": "m",
         "example": [{
           "file": "bun-2a",
           "contributor": "",
@@ -2537,7 +2531,7 @@
       ],
       "refer": "",
       "meaning": "indications of waving or shaking to and fro",
-      "type": "",
+      "type": "mo",
       "example": [
         {
           "file": "bun_bun-1a",
@@ -2590,8 +2584,8 @@
           "whoosh"
         ],
         "refer": "",
-        "meaning": "a sound of wind or blowing",
-        "type": "",
+        "meaning": "low rushing sound of blowing or moving air",
+        "type": "om",
         "example": [
           {
             "file": "buo-1a",
@@ -2609,13 +2603,14 @@
       },
       {
         "equivalent": [
+          "rev",
           "roar",
           "rumble",
           "vroom"
         ],
         "refer": "",
-        "meaning": "the sound of a moving automobile",
-        "type": "",
+        "meaning": "the low rumble of an automobile engine",
+        "type": "om",
         "example": [
           {
             "file": "buo-2a",
@@ -2646,12 +2641,9 @@
       "ブロロロ"
     ],
     "definition": [{
-      "equivalent": [
-        "rev",
-        "vroom"
-      ],
-      "refer": "",
-      "meaning": "the sound of a car moving or an engine at work",
+      "equivalent": [""],
+      "refer": "buo:2",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -2697,8 +2689,8 @@
         "tremble"
       ],
       "refer": "",
-      "meaning": "an indication of involuntary shaking, as from fear, cold, or excitement",
-      "type": "",
+      "meaning": "involuntary shaking, as from fear, cold, or excitement",
+      "type": "mse",
       "example": [
         {
           "file": "buru-1a",
@@ -2808,8 +2800,8 @@
         "snip"
       ],
       "refer": "",
-      "meaning": "the sound of a quick cut, piercing, or break",
-      "type": "",
+      "meaning": "a quick cut, piercing, or break",
+      "type": "om",
       "example": [{
         "file": "butsu-1a",
         "contributor": "",
@@ -2830,8 +2822,8 @@
         "mutter"
       ],
       "refer": "",
-      "meaning": "an indication of mumbling or grumbling",
-      "type": "",
+      "meaning": "mumbling, grumbling, or low-level compaining",
+      "type": "ve",
       "example": [{
         "file": "butsu_butsu-1a",
         "contributor": "",
@@ -2858,8 +2850,8 @@
           "ka-boom"
         ],
         "refer": "",
-        "meaning": "the sound of a loud explosion or explosive force",
-        "type": "",
+        "meaning": "a loud explosion or explosive force",
+        "type": "om",
         "example": [
           {
             "file": "buwa-1a",
@@ -2884,8 +2876,8 @@
           "woosh"
         ],
         "refer": "",
-        "meaning": "an indication or sound of something large or heavy rising or taking flight",
-        "type": "",
+        "meaning": "something large or heavy rising or taking flight",
+        "type": "mo",
         "example": [{
           "file": "buwa-2a",
           "contributor": "",
@@ -2915,8 +2907,8 @@
         "buzz buzz"
       ],
       "refer": "",
-      "meaning": "a low-pitched sound of beeping or buzzing",
-      "type": "",
+      "meaning": "a low-pitched beeping or buzzing",
+      "type": "o",
       "example": [{
         "file": "bu_bu-1a",
         "contributor": "",
@@ -2953,8 +2945,8 @@
           "wind"
         ],
         "refer": "",
-        "meaning": "a sound of wind or blowing air",
-        "type": "",
+        "meaning": "wind or blowing air",
+        "type": "om",
         "example": [
           {
             "file": "byu-1a",
@@ -2981,8 +2973,8 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "a sound of someone or something moving very quickly",
-        "type": "",
+        "meaning": "someone or something moving very quickly",
+        "type": "mo",
         "example": [{
           "file": "byu-2a",
           "contributor": "",

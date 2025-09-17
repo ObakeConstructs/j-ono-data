@@ -1,14 +1,18 @@
 {
-  "hiragana": [
-    "ぶち",
-    "ぶちっ"
-  ],
+  "literal": "buchi",
   "katakana": [
     "ブチ",
     "ブチッ"
   ],
+  "hiragana": [
+    "ぶち",
+    "ぶちっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "om",
+      "meaning": "something snapping or breaking, ",
       "equivalent": [
         "burst",
         "crack",
@@ -17,31 +21,31 @@
         "snap",
         "split"
       ],
-      "refer": "",
-      "meaning": "a sound of something snapping or breaking, ",
-      "type": "",
-      "example": [{
-        "file": "buchi-1a",
-        "contributor": "",
-        "display": "ブチッ",
-        "source": "hanako_24th_ward"
-      }]
+      "example": [
+        {
+          "source": "hanako_24th_ward",
+          "file": "buchi-1a",
+          "display": "ブチッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "e",
+      "meaning": "losing one's patience or mentally snapping",
       "equivalent": [
         "break",
         "snap"
       ],
-      "refer": "",
-      "meaning": "an indication or expression of mentally snapping",
-      "type": "",
-      "example": [{
-        "file": "buchi-2a",
-        "contributor": "",
-        "display": "ブチッ",
-        "source": "sex_with_me_sells"
-      }]
+      "example": [
+        {
+          "source": "sex_with_me_sells",
+          "file": "buchi-2a",
+          "display": "ブチッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "buchi"
+  ]
 }

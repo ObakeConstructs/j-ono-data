@@ -1,25 +1,33 @@
 {
-  "hiragana": ["ぼこん"],
-  "katakana": ["ボコン"],
-  "definition": [{
-    "equivalent": [
-      "bonk",
-      "bop",
-      "bounce",
-      "bump",
-      "thump",
-      "thunk",
-      "tok"
-    ],
-    "refer": "",
-    "meaning": "the sound of a sudden impact",
-    "type": "",
-    "example": [{
-      "file": "bokon-1a",
-      "contributor": "",
-      "display": "ボコン",
-      "source": "bungo"
-    }]
-  }],
-  "literal": "bokon"
+  "literal": "bokon",
+  "katakana": [
+    "ボコン"
+  ],
+  "hiragana": [
+    "ぼこん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "om",
+      "meaning": "a somewhat hollow sounding impact",
+      "equivalent": [
+        "bonk",
+        "bop",
+        "bounce",
+        "bump",
+        "thump",
+        "thunk",
+        "tok"
+      ],
+      "example": [
+        {
+          "source": "bungo",
+          "file": "bokon-1a",
+          "display": "ボコン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

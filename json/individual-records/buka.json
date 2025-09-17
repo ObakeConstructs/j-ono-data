@@ -1,22 +1,30 @@
 {
-  "hiragana": ["ぶか"],
-  "katakana": ["ブカ"],
-  "definition": [{
-    "equivalent": [
-      "baggy",
-      "loose",
-      "saggy",
-      "too big"
-    ],
-    "refer": "",
-    "meaning": "an indication of ill-fitted or baggy clothes",
-    "type": "",
-    "example": [{
-      "file": "buka-1a",
-      "contributor": "",
-      "display": "ブカ",
-      "source": "hero_or_demon_king"
-    }]
-  }],
-  "literal": "buka"
+  "literal": "buka",
+  "katakana": [
+    "ブカ"
+  ],
+  "hiragana": [
+    "ぶか"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "ill-fitted or baggy clothes",
+      "equivalent": [
+        "baggy",
+        "loose",
+        "saggy",
+        "too big"
+      ],
+      "example": [
+        {
+          "source": "hero_or_demon_king",
+          "file": "buka-1a",
+          "display": "ブカ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

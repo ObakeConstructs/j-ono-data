@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "びゅ",
-    "びゅっ",
-    "びゅー",
-    "びゅっ",
-    "びゅう",
-    "びゅぅ"
-  ],
+  "literal": "byu",
   "katakana": [
     "ビュ",
     "ビュッ",
@@ -15,8 +8,19 @@
     "ビュウ",
     "ビュゥ"
   ],
+  "hiragana": [
+    "びゅ",
+    "びゅっ",
+    "びゅー",
+    "びゅっ",
+    "びゅう",
+    "びゅぅ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "om",
+      "meaning": "wind or blowing air",
       "equivalent": [
         "whish",
         "whistle",
@@ -24,25 +28,25 @@
         "whoosh",
         "wind"
       ],
-      "refer": "",
-      "meaning": "a sound of wind or blowing air",
-      "type": "",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "byu-1a",
-          "contributor": "",
           "display": "ビュウ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "bungo",
           "file": "byu-1b",
-          "contributor": "",
           "display": "ビュ",
-          "source": "bungo"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "mo",
+      "meaning": "someone or something moving very quickly",
       "equivalent": [
         "shoom",
         "swoosh",
@@ -52,16 +56,14 @@
         "zip",
         "zoom"
       ],
-      "refer": "",
-      "meaning": "a sound of someone or something moving very quickly",
-      "type": "",
-      "example": [{
-        "file": "byu-2a",
-        "contributor": "",
-        "display": "ビュッ!",
-        "source": "eternal_fool_asley"
-      }]
+      "example": [
+        {
+          "source": "eternal_fool_asley",
+          "file": "byu-2a",
+          "display": "ビュッ!",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "byu"
+  ]
 }

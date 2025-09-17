@@ -1,40 +1,42 @@
 {
-  "hiragana": [
-    "ぶふ",
-    "ぶふっ",
-    "ぶふー",
-    "ぶふーっ"
-  ],
+  "literal": "bufu",
   "katakana": [
     "ブフ",
     "ブフッ",
     "ブフー",
     "ブフーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "chortle",
-      "guffaw",
-      "snicker",
-      "snort"
-    ],
-    "refer": "",
-    "meaning": "a sound of suppressed laughter",
-    "type": "",
-    "example": [
-      {
-        "file": "bufu-1a",
-        "contributor": "",
-        "display": "ぶふっ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "bufu-1b",
-        "contributor": "",
-        "display": "ブフッ",
-        "source": "d_genesis"
-      }
-    ]
-  }],
-  "literal": "bufu"
+  "hiragana": [
+    "ぶふ",
+    "ぶふっ",
+    "ぶふー",
+    "ぶふーっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "vem",
+      "meaning": "suppressed laughter, often involuntary",
+      "equivalent": [
+        "chortle",
+        "guffaw",
+        "snicker",
+        "snort"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "bufu-1a",
+          "display": "ぶふっ",
+          "contributor": ""
+        },
+        {
+          "source": "d_genesis",
+          "file": "bufu-1b",
+          "display": "ブフッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

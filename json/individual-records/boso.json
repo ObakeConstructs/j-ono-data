@@ -1,38 +1,40 @@
 {
-  "hiragana": [
-    "ぼそ",
-    "ぼそっ"
-  ],
+  "literal": "boso",
   "katakana": [
     "ボソ",
     "ボソッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "mumble",
-      "murmur",
-      "mutter",
-      "quietly",
-      "whisper",
-      " sotto voce"
-    ],
-    "refer": "",
-    "meaning": "an indication of mumbling or whispering",
-    "type": "",
-    "example": [
-      {
-        "file": "boso-1a",
-        "contributor": "",
-        "display": "ぼそっ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "boso-1b",
-        "contributor": "",
-        "display": "ぼそっ",
-        "source": "lord_of_the_hundred_demons"
-      }
-    ]
-  }],
-  "literal": "boso"
+  "hiragana": [
+    "ぼそ",
+    "ぼそっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "mumbling or whispering",
+      "equivalent": [
+        " sotto voce",
+        "mumble",
+        "murmur",
+        "mutter",
+        "quietly",
+        "whisper"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "boso-1a",
+          "display": "ぼそっ",
+          "contributor": ""
+        },
+        {
+          "source": "lord_of_the_hundred_demons",
+          "file": "boso-1b",
+          "display": "ぼそっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
