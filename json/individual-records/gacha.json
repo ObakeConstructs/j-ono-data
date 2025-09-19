@@ -1,64 +1,66 @@
 {
-  "hiragana": [
-    "がちゃ",
-    "がちゃっ"
-  ],
+  "literal": "gacha",
   "katakana": [
     "ガチャ",
     "ガチャッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clack",
-      "clatter",
-      "click",
-      "clink",
-      "ka-chik",
-      "ker-chak",
-      "rattle",
-      "tick"
-    ],
-    "refer": "",
-    "meaning": "a sound of rattling or clattering",
-    "type": "",
-    "example": [
-      {
-        "file": "gacha-1a",
-        "contributor": "",
-        "display": "ガチャ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "gacha-1b",
-        "contributor": "",
-        "display": "ガチャ",
-        "source": "spy_x_family"
-      },
-      {
-        "file": "gacha-1c",
-        "contributor": "",
-        "display": "ガチャ",
-        "source": "otherworld_material_collector"
-      },
-      {
-        "file": "gacha-1d",
-        "contributor": "",
-        "display": "ガチャ",
-        "source": "berserk"
-      },
-      {
-        "file": "gacha-1e",
-        "contributor": "",
-        "display": "ガチャッ",
-        "source": "yojo_life"
-      },
-      {
-        "file": "gacha-1e",
-        "contributor": "",
-        "display": "ガチャ",
-        "source": "cheat_pharmacist"
-      }
-    ]
-  }],
-  "literal": "gacha"
+  "hiragana": [
+    "がちゃ",
+    "がちゃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a rattling, clattering, or clicking sound, often metallic or mechanical",
+      "equivalent": [
+        "clack",
+        "clatter",
+        "click",
+        "clink",
+        "ka-chik",
+        "ker-chak",
+        "rattle",
+        "tick"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "gacha-1a",
+          "display": "ガチャ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "gacha-1b",
+          "display": "ガチャ",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "gacha-1c",
+          "display": "ガチャ",
+          "contributor": ""
+        },
+        {
+          "source": "berserk",
+          "file": "gacha-1d",
+          "display": "ガチャ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "gacha-1e",
+          "display": "ガチャッ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "gacha-1e",
+          "display": "ガチャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

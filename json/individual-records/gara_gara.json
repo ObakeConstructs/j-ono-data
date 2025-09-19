@@ -1,50 +1,58 @@
 {
-  "hiragana": ["がらがら"],
-  "katakana": ["ガラガラ"],
+  "literal": "gara gara",
+  "katakana": [
+    "ガラガラ"
+  ],
+  "hiragana": [
+    "がらがら"
+  ],
   "definition": [
     {
-      "equivalent": [""],
-      "refer": "gara:2",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "gara_gara-1a",
-        "contributor": "",
-        "display": "ガラ  ガラ  ガラ",
-        "source": "hanako_24th_ward"
-      }]
-    },
-    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a continuous or repeated clatter or rattle",
       "equivalent": [
         "clank",
         "clatter",
         "clunk",
         "rattle"
       ],
-      "refer": "",
-      "meaning": "a sound of something moving with a clatter or rattle",
-      "type": "",
       "example": [
         {
+          "source": "otherworld_material_collector",
           "file": "gara_gara-2a",
-          "contributor": "",
           "display": "ガラ  ガラ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "berserk",
           "file": "gara_gara-2b",
-          "contributor": "",
           "display": "ガラガラガラ..",
-          "source": "berserk"
+          "contributor": ""
         },
         {
+          "source": "isekai_sniper",
           "file": "gara_gara-2c",
-          "contributor": "",
           "display": "ガラ  ガラ  ガ  ガラ",
-          "source": "isekai_sniper"
+          "contributor": ""
         }
       ]
-    }
-  ],
-  "literal": "gara gara"
+    },
+    {
+      "refer": "gara:2",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "hanako_24th_ward",
+          "file": "gara_gara-1a",
+          "display": "ガラ  ガラ  ガラ",
+          "contributor": ""
+        }
+      ]
+    },
+  ]
 }

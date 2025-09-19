@@ -1,28 +1,32 @@
 {
-  "hiragana": [
-    "げ",
-    "げっ"
-  ],
+  "literal": "ge",
   "katakana": [
     "ゲ",
     "ゲッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "ack",
-      "damn",
-      "gah",
-      "geh"
-    ],
-    "refer": "",
-    "meaning": "an expression of mild alarm, dismay, or annoyance",
-    "type": "",
-    "example": [{
-      "file": "ge-1a",
-      "contributor": "",
-      "display": "げっ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "ge"
+  "hiragana": [
+    "げ",
+    "げっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "a short exclamation of mild alarm, dismay, or annoyance",
+      "equivalent": [
+        "ack",
+        "damn",
+        "gah",
+        "geh"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "ge-1a",
+          "display": "げっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

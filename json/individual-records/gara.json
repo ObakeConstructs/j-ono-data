@@ -1,18 +1,24 @@
 {
-  "hiragana": [
-    "がら",
-    "がらっ"
-  ],
+  "literal": "gara",
   "katakana": [
     "ガラ",
     "ガラッ"
   ],
+  "hiragana": [
+    "がら",
+    "がらっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "sliding or rattling, as of something opening or closing, like a window or sliding door",
       "equivalent": [
         "bang",
+        "clatter",
         "close",
         "open",
+        "rattle",
         "shut",
         "slam",
         "slide",
@@ -20,47 +26,46 @@
         "swoosh",
         "thump"
       ],
-      "refer": "",
-      "meaning": "a sound of something sliding open or shut, like a window or sliding door",
-      "type": "",
       "example": [
         {
+          "source": "world_full_of_monsters",
           "file": "gara-1a",
-          "contributor": "",
           "display": "ガラッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "bungo",
           "file": "gara-1b",
-          "contributor": "",
           "display": "ガラッ",
-          "source": "bungo"
+          "contributor": ""
         },
         {
+          "source": "simple_sword_saint",
           "file": "gara-1c",
-          "contributor": "",
           "display": "ガラッ",
-          "source": "simple_sword_saint"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "hard rattling or crunching of something breaking down, tumbling, or crumbling",
       "equivalent": [
         "clatter",
         "clutter",
+        "crunch",
         "rattle",
         "tumult"
       ],
-      "refer": "",
-      "meaning": "a sound of something falling apart, collapsing, or settling",
-      "type": "",
-      "example": [{
-        "file": "gara-2a",
-        "contributor": "",
-        "display": "ガラッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "gara-2a",
+          "display": "ガラッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "gara"
+  ]
 }

@@ -1,27 +1,31 @@
 {
-  "hiragana": [
-    "がぶ",
-    "がぶっ"
-  ],
+  "literal": "gabu",
   "katakana": [
     "ガブ",
     "ガブッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bite",
-      "chomp",
-      "crunch"
-    ],
-    "refer": "",
-    "meaning": "the sound of a bite",
-    "type": "",
-    "example": [{
-      "file": "gabu-1a",
-      "contributor": "",
-      "display": "ガブッ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "gabu"
+  "hiragana": [
+    "がぶ",
+    "がぶっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a big or forceful bite, usually sudden or exaggerated",
+      "equivalent": [
+        "bite",
+        "chomp",
+        "crunch"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "gabu-1a",
+          "display": "ガブッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

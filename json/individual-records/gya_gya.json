@@ -1,31 +1,42 @@
 {
-  "hiragana": [
-    "ぎゃぎゃ",
-    "ぎゃっぎゃっ",
-    "ぎゃぁぎゃぁ",
-    "ぎゃーぎゃー"
-  ],
+  "literal": "gya gya",
   "katakana": [
     "ギャギャ",
     "ギャッギャッ",
     "ギャァギャァ",
     "ギャーギャー"
   ],
-  "definition": [{
-    "equivalent": [
-      "caw caw",
-      "screech screech",
-      "squawk squawk"
-    ],
-    "refer": "",
-    "meaning": "a series of abrupt shrieks, typically from animals",
-    "type": "",
-    "example": [{
-      "file": "gya_gya-1a",
-      "contributor": "",
-      "display": "ギャァ  ギャッ",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "gya gya"
+  "hiragana": [
+    "ぎゃぎゃ",
+    "ぎゃっぎゃっ",
+    "ぎゃぁぎゃぁ",
+    "ぎゃーぎゃー"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "abrupt shrieks or squeals",
+      "equivalent": [
+        "caw caw",
+        "screech screech",
+        "squawk squawk",
+        "squeal squeal"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gya_gya-1a",
+          "display": "ギャァ  ギャッ",
+          "contributor": ""
+        },
+        {
+          "source": "blazing_fire_brigade",
+          "file": "gaya_gaya-2a",
+          "display": "ギャ  ギャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

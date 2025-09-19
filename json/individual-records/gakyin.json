@@ -1,23 +1,31 @@
 {
-  "hiragana": ["がきぃん"],
-  "katakana": ["ガキィン"],
-  "definition": [{
-    "equivalent": [
-      "break",
-      "ga-king",
-      "ka-clang",
-      "rive",
-      "snap"
-    ],
-    "refer": "",
-    "meaning": "a sound of breaking metal",
-    "type": "",
-    "example": [{
-      "file": "gakyin-1a",
-      "contributor": "",
-      "display": "ガキィン",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "gakyin"
+  "literal": "gakyin",
+  "katakana": [
+    "ガキィン"
+  ],
+  "hiragana": [
+    "がきぃん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a sharp, high pitched sound of metal breaking or snapping",
+      "equivalent": [
+        "break",
+        "ga-king",
+        "ka-clang",
+        "rive",
+        "snap"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gakyin-1a",
+          "display": "ガキィン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

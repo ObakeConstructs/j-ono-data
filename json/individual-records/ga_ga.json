@@ -1,16 +1,20 @@
 {
-  "hiragana": [
-    "がが",
-    "がっがっ",
-    "がつがつ"
-  ],
+  "literal": "ga ga",
   "katakana": [
     "ガガ",
     "ガッガッ",
     "ガツガツ"
   ],
+  "hiragana": [
+    "がが",
+    "がっがっ",
+    "がつがつ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "eating noisily or voraciously, often forceful or exaggerated ",
       "equivalent": [
         "catch catch",
         "clutch clutch",
@@ -22,28 +26,30 @@
         "snag snag",
         "snatch snatch"
       ],
-      "refer": "",
-      "meaning": "sounds of a eating food noisily",
-      "type": "",
-      "example": [{
-        "file": "ga_ga-1a",
-        "contributor": "",
-        "display": "ガッ  ガッ",
-        "source": "rise_of_the_outlaw_tamer"
-      }]
+      "example": [
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "ga_ga-1a",
+          "display": "ガッ  ガッ",
+          "contributor": ""
+        }
+      ]
     },
     {
-      "equivalent": [""],
       "refer": "ga:1",
-      "meaning": "",
       "type": "",
-      "example": [{
-        "file": "ga_ga-2a",
-        "contributor": "",
-        "display": "ガツガツ",
-        "source": "reincarnated_sage_daughters"
-      }]
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "reincarnated_sage_daughters",
+          "file": "ga_ga-2a",
+          "display": "ガツガツ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ga ga"
+  ]
 }

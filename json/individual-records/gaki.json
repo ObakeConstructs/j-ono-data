@@ -1,32 +1,39 @@
 {
-  "hiragana": [
-    "がき",
-    "がきっ",
-    "がきぃっ"
-  ],
+  "literal": "gaki",
   "katakana": [
     "ガキ",
     "ガキッ",
     "ガキィッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clang",
-      "clank",
-      "clash",
-      "crunch",
-      "tang",
-      "whang"
-    ],
-    "refer": "",
-    "meaning": "a sound of opposed or resisted impacts or strikes",
-    "type": "",
-    "example": [{
-      "file": "gaki-1a",
-      "contributor": "",
-      "display": "ガキッ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "gaki"
+  "hiragana": [
+    "がき",
+    "がきっ",
+    "がきぃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a sharp clashing, snapping, or colliding sound",
+      "equivalent": [
+        "block",
+        "clang",
+        "clank",
+        "clash",
+        "collide",
+        "crunch",
+        "snap",
+        "tang",
+        "whang"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "gaki-1a",
+          "display": "ガキッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

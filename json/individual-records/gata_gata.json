@@ -1,8 +1,16 @@
 {
-  "hiragana": ["がたがた"],
-  "katakana": ["ガタガタ"],
+  "literal": "gata gata",
+  "katakana": [
+    "ガタガタ"
+  ],
+  "hiragana": [
+    "がたがた"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "sharp rattling or clattering",
       "equivalent": [
         "clang clang",
         "clatter",
@@ -10,25 +18,25 @@
         "creak creak",
         "rattle"
       ],
-      "refer": "",
-      "meaning": "sharp sounds of rattling or clattering",
-      "type": "",
       "example": [
         {
+          "source": "komi_cant_communicate",
           "file": "gata_gata-1a",
-          "contributor": "",
           "display": "ガタ  ガタ",
-          "source": "komi_cant_communicate"
+          "contributor": ""
         },
         {
+          "source": "human_ranch",
           "file": "gata_gata-1b",
-          "contributor": "",
           "display": "ガタ  ガタ",
-          "source": "human_ranch"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "shaking or trembling, as from fear or cold",
       "equivalent": [
         "quiver",
         "shiver",
@@ -36,30 +44,26 @@
         "tremble",
         "wobble"
       ],
-      "refer": "",
-      "meaning": "an indication of shaking, as from fear or cold",
-      "type": "",
       "example": [
         {
+          "source": "drawing",
           "file": "gata_gata-2a",
-          "contributor": "",
           "display": "ガタ  ガタ  ガタ",
-          "source": "drawing"
+          "contributor": ""
         },
         {
+          "source": "isekai_sniper",
           "file": "gata_gata-2b",
-          "contributor": "",
           "display": "ガタ  ガタ",
-          "source": "isekai_sniper"
+          "contributor": ""
         },
         {
+          "source": "ai_and_izawa",
           "file": "gata_gata-2c",
-          "contributor": "",
           "display": "ガタ  ガタ  ガタ  ガタ",
-          "source": "ai_and_izawa"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "gata gata"
+  ]
 }
