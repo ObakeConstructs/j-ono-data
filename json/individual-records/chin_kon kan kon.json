@@ -1,27 +1,17 @@
 {
-  "literal": "chin kon kan kon",
-  "katakana": [
-    "チーンコーンカーンコーン"
-  ],
-  "hiragana": [
-    "ちーんこーんかーんこーん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the sound of a Japanese school bell",
-      "equivalent": [
-        "ding dong dang dong"
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "chin_kon_kan_kon-1a",
-          "display": "チーン  コーン  カーン  コーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ちーんこーんかーんこーん"],
+  "katakana": ["チーンコーンカーンコーン"],
+  "definition": [{
+    "equivalent": ["ding dong dang dong"],
+    "refer": "",
+    "meaning": "the sound of a Japanese school bell",
+    "type": "o",
+    "example": [{
+      "file": "chin_kon_kan_kon-1a",
+      "contributor": "",
+      "display": "チーン  コーン  カーン  コーン",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "chin kon kan kon"
 }

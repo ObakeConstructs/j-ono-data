@@ -1,31 +1,23 @@
 {
-  "literal": "bata bata",
-  "katakana": [
-    "バタバタ"
-  ],
-  "hiragana": [
-    "ばたばた"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "om",
-      "meaning": "quick, light-sounding steps",
-      "equivalent": [
-        "footsteps",
-        "pitter-pat",
-        "run",
-        "step step",
-        "thump thump"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "bata_bata-1a",
-          "display": "バタ  バタ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ばたばた"],
+  "katakana": ["バタバタ"],
+  "definition": [{
+    "equivalent": [
+      "footsteps",
+      "pitter-pat",
+      "run",
+      "step step",
+      "thump thump"
+    ],
+    "refer": "",
+    "meaning": "quick, light-sounding steps",
+    "type": "o",
+    "example": [{
+      "file": "bata_bata-1a",
+      "contributor": "",
+      "display": "バタ  バタ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "bata bata"
 }

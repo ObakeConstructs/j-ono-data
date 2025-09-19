@@ -1,17 +1,4 @@
 {
-  "literal": "bu",
-  "katakana": [
-    "ブ",
-    "ブッ",
-    "ブー",
-    "ブーッ",
-    "ブゥ",
-    "ブゥゥ",
-    "ブゥゥゥ",
-    "ブウ",
-    "ブウウ",
-    "ブウウウ"
-  ],
   "hiragana": [
     "ぶ",
     "ぶっ",
@@ -24,11 +11,20 @@
     "ぶうう",
     "ぶううう"
   ],
+  "katakana": [
+    "ブ",
+    "ブッ",
+    "ブー",
+    "ブーッ",
+    "ブゥ",
+    "ブゥゥ",
+    "ブゥゥゥ",
+    "ブウ",
+    "ブウウ",
+    "ブウウウ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "ome",
-      "meaning": "spitting or spraying something from the mouth",
       "equivalent": [
         "blarg",
         "bleh",
@@ -40,55 +36,55 @@
         "spit out",
         "sploosh"
       ],
+      "refer": "",
+      "meaning": "spitting or spraying something from the mouth",
+      "type": "o",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "bu-1a",
+          "contributor": "",
           "display": "ブーッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "hikaro_no_go",
           "file": "bu-1b",
+          "contributor": "",
           "display": "ぶーっ",
-          "contributor": ""
+          "source": "hikaro_no_go"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "me",
-      "meaning": "an aborted urge to spit or spray something from the mouth",
       "equivalent": [
         "blurg",
         "erp"
       ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "bu-2a",
-          "display": "ブッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "an aborted urge to spit or spray something from the mouth",
+      "type": "m",
+      "example": [{
+        "file": "bu-2a",
+        "contributor": "",
+        "display": "ブッ",
+        "source": "double_play"
+      }]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "the low rumble of a car engine at idle",
       "equivalent": [
         "idle",
         "rumble",
         "vrrm"
       ],
-      "example": [
-        {
-          "source": "35_year_olds_choice",
-          "file": "buu-1a",
-          "display": "ブゥゥゥゥ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "the low rumble of a car engine at idle",
+      "type": "o",
+      "example": [{
+        "file": "buu-1a",
+        "contributor": "",
+        "display": "ブゥゥゥゥ",
+        "source": "35_year_olds_choice"
+      }]
     }
-  ]
+  ],
+  "literal": "bu"
 }

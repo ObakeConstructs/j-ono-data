@@ -1,49 +1,47 @@
 {
-  "literal": "chari",
-  "katakana": [
-    "チャリ",
-    "チャリリ",
-    "チャリリリ"
-  ],
   "hiragana": [
     "ちゃり",
     "ちゃりり",
     "ちゃりりり"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "om",
-      "meaning": "clinking or rattling of metal or glass",
-      "equivalent": [
-        "ching",
-        "clink",
-        "jingle",
-        "rattle",
-        "ting",
-        "tink",
-        "tinkle"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "chari-1a",
-          "display": "チャリリリ",
-          "contributor": ""
-        },
-        {
-          "source": "weakest_occupation_blacksmith",
-          "file": "chari-1b",
-          "display": "チャリ",
-          "contributor": ""
-        },
-        {
-          "source": "uncle_at_heart",
-          "file": "chari-1c",
-          "display": "チャリ..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チャリ",
+    "チャリリ",
+    "チャリリリ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ching",
+      "clink",
+      "jingle",
+      "rattle",
+      "ting",
+      "tink",
+      "tinkle"
+    ],
+    "refer": "",
+    "meaning": "clinking or rattling of metal or glass",
+    "type": "o",
+    "example": [
+      {
+        "file": "chari-1a",
+        "contributor": "",
+        "display": "チャリリリ",
+        "source": "hello_work"
+      },
+      {
+        "file": "chari-1b",
+        "contributor": "",
+        "display": "チャリ",
+        "source": "weakest_occupation_blacksmith"
+      },
+      {
+        "file": "chari-1c",
+        "contributor": "",
+        "display": "チャリ..",
+        "source": "uncle_at_heart"
+      }
+    ]
+  }],
+  "literal": "chari"
 }

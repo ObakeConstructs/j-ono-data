@@ -1,32 +1,24 @@
 {
-  "literal": "chiro chiro",
-  "katakana": [
-    "チロチロ"
-  ],
-  "hiragana": [
-    "ちろちろ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "lightly flickering or darting",
-      "equivalent": [
-        "dart",
-        "flick",
-        "flicker",
-        "flit",
-        "flitter",
-        "flutter"
-      ],
-      "example": [
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "chiro_chiro-1a",
-          "display": "ちろ  ちろ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ちろちろ"],
+  "katakana": ["チロチロ"],
+  "definition": [{
+    "equivalent": [
+      "dart",
+      "flick",
+      "flicker",
+      "flit",
+      "flitter",
+      "flutter"
+    ],
+    "refer": "",
+    "meaning": "lightly flickering or darting",
+    "type": "m",
+    "example": [{
+      "file": "chiro_chiro-1a",
+      "contributor": "",
+      "display": "ちろ  ちろ",
+      "source": "beastly_boys_and_girls"
+    }]
+  }],
+  "literal": "chiro chiro"
 }

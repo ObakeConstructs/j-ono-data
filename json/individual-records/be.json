@@ -1,31 +1,27 @@
 {
-  "literal": "be",
-  "katakana": [
-    "ベ",
-    "ベー"
-  ],
   "hiragana": [
     "ベ",
     "ベー"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "me",
-      "meaning": "sticking out one's tongue, often playfully or mockingly",
-      "equivalent": [
-        "blah",
-        "nya",
-        "pbbbt"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "be-1a",
-          "display": "ベー",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ベ",
+    "ベー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blah",
+      "nya",
+      "pbbbt"
+    ],
+    "refer": "",
+    "meaning": "sticking out one's tongue, often playfully or mockingly",
+    "type": "m",
+    "example": [{
+      "file": "be-1a",
+      "contributor": "",
+      "display": "ベー",
+      "source": "double_play"
+    }]
+  }],
+  "literal": "be"
 }

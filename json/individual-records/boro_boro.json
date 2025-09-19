@@ -1,37 +1,31 @@
 {
-  "literal": "boro boro",
-  "katakana": [
-    "ボロボロ"
-  ],
-  "hiragana": [
-    "ぼろぼろ"
-  ],
-  "definition": [
-    {
-      "refer": "boron:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [""],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "boro_boro-1a",
-          "display": "ぼろ  ぼろ",
-          "contributor": ""
-        },
-        {
-          "source": "hone_dragon",
-          "file": "boro_boro-1b",
-          "display": "ぼろぼろ",
-          "contributor": ""
-        },
-        {
-          "source": "drawing",
-          "file": "boro_boro-1c",
-          "display": "ボロ  ボロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぼろぼろ"],
+  "katakana": ["ボロボロ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "boron:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "boro_boro-1a",
+        "contributor": "",
+        "display": "ぼろ  ぼろ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "boro_boro-1b",
+        "contributor": "",
+        "display": "ぼろぼろ",
+        "source": "hone_dragon"
+      },
+      {
+        "file": "boro_boro-1c",
+        "contributor": "",
+        "display": "ボロ  ボロ",
+        "source": "drawing"
+      }
+    ]
+  }],
+  "literal": "boro boro"
 }

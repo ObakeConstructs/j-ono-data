@@ -1,35 +1,31 @@
 {
-  "literal": "bowa",
-  "katakana": [
-    "ボワ",
-    "ボワッ"
-  ],
   "hiragana": [
     "ぼわ",
     "ぼわっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "om",
-      "meaning": "something flaring or expanding outward, like flames or smoke",
-      "equivalent": [
-        "billow",
-        "bwaa",
-        "erupt",
-        "foof",
-        "surge",
-        "swell",
-        "whoosh"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "bowa-1a",
-          "display": "ボワッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボワ",
+    "ボワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "billow",
+      "bwaa",
+      "erupt",
+      "foof",
+      "surge",
+      "swell",
+      "whoosh"
+    ],
+    "refer": "",
+    "meaning": "something flaring or expanding outward, like flames or smoke",
+    "type": "o",
+    "example": [{
+      "file": "bowa-1a",
+      "contributor": "",
+      "display": "ボワッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "bowa"
 }

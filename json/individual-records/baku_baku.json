@@ -1,30 +1,22 @@
 {
-  "literal": "baku baku",
-  "katakana": [
-    "バクバク"
-  ],
-  "hiragana": [
-    "ばくばく"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "me",
-      "meaning": "eating wildly, expressing enthusiasm or hunger",
-      "equivalent": [
-        "chomp chomp",
-        "munch munch",
-        "nom nom",
-        "snarf snarf"
-      ],
-      "example": [
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "baku_baku-1a",
-          "display": "バク  バク",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ばくばく"],
+  "katakana": ["バクバク"],
+  "definition": [{
+    "equivalent": [
+      "chomp chomp",
+      "munch munch",
+      "nom nom",
+      "snarf snarf"
+    ],
+    "refer": "",
+    "meaning": "eating wildly, expressing enthusiasm or hunger",
+    "type": "m",
+    "example": [{
+      "file": "baku_baku-1a",
+      "contributor": "",
+      "display": "バク  バク",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "literal": "baku baku"
 }

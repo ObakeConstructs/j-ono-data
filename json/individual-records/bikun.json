@@ -1,57 +1,53 @@
 {
-  "literal": "bikun",
-  "katakana": [
-    "ビクン",
-    "ビクーン",
-    "ビクンッ",
-    "ビクーンッ"
-  ],
   "hiragana": [
     "びくん",
     "びくーん",
     "びくんっ",
     "びくーんっ"
   ],
-  "definition": [
-    {
-      "refer": "biku:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "bikun-1a",
-          "display": "ビクン",
-          "contributor": ""
-        },
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "bikun-1b",
-          "display": "ビクン",
-          "contributor": ""
-        },
-        {
-          "source": "hello_work",
-          "file": "bikun-2a",
-          "display": "ビクーン",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "bikun-2b",
-          "display": "ビクン",
-          "contributor": ""
-        },
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "bikun-2c",
-          "display": "びくんっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ビクン",
+    "ビクーン",
+    "ビクンッ",
+    "ビクーンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "biku:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "bikun-1a",
+        "contributor": "",
+        "display": "ビクン",
+        "source": "d_genesis"
+      },
+      {
+        "file": "bikun-1b",
+        "contributor": "",
+        "display": "ビクン",
+        "source": "rise_of_the_outlaw_tamer"
+      },
+      {
+        "file": "bikun-2a",
+        "contributor": "",
+        "display": "ビクーン",
+        "source": "hello_work"
+      },
+      {
+        "file": "bikun-2b",
+        "contributor": "",
+        "display": "ビクン",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "bikun-2c",
+        "contributor": "",
+        "display": "びくんっ",
+        "source": "embarrassing_and_sweet"
+      }
+    ]
+  }],
+  "literal": "bikun"
 }

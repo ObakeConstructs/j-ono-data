@@ -1,32 +1,28 @@
 {
-  "literal": "boun",
-  "katakana": [
-    "ボゥン",
-    "ボゥゥン"
-  ],
   "hiragana": [
     "ぼぅん",
     "ぼぅぅん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "a soft, muffled, or hollow explosive sound",
-      "equivalent": [
-        "foom",
-        "fwoom",
-        "poof",
-        "whump"
-      ],
-      "example": [
-        {
-          "source": "shogun_gold_in_america",
-          "file": "boun-1a",
-          "display": "ボゥン",
-          "contributor": "Artrix"
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボゥン",
+    "ボゥゥン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "foom",
+      "fwoom",
+      "poof",
+      "whump"
+    ],
+    "refer": "",
+    "meaning": "a soft, muffled, or hollow explosive sound",
+    "type": "o",
+    "example": [{
+      "file": "boun-1a",
+      "contributor": "Artrix",
+      "display": "ボゥン",
+      "source": "shogun_gold_in_america"
+    }]
+  }],
+  "literal": "boun"
 }

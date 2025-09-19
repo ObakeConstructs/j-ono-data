@@ -1,49 +1,47 @@
 {
-  "literal": "byun",
-  "katakana": [
-    "ビュン",
-    "ビュンッ",
-    "ビューン"
-  ],
   "hiragana": [
     "びゅん",
     "びゅんっ",
     "びゅーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "mo",
-      "meaning": "someone or something moving very fast",
-      "equivalent": [
-        "shoom",
-        "swoosh",
-        "whish",
-        "whiz",
-        "whoosh",
-        "zip",
-        "zoom"
-      ],
-      "example": [
-        {
-          "source": "bungo",
-          "file": "byun-1a",
-          "display": "ビューン",
-          "contributor": ""
-        },
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "byun-1b",
-          "display": "ビュン!",
-          "contributor": ""
-        },
-        {
-          "source": "requiem_for_prophet",
-          "file": "byun-1c",
-          "display": "びゅーん!!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ビュン",
+    "ビュンッ",
+    "ビューン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "shoom",
+      "swoosh",
+      "whish",
+      "whiz",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "refer": "",
+    "meaning": "someone or something moving very fast",
+    "type": "m",
+    "example": [
+      {
+        "file": "byun-1a",
+        "contributor": "",
+        "display": "ビューン",
+        "source": "bungo"
+      },
+      {
+        "file": "byun-1b",
+        "contributor": "",
+        "display": "ビュン!",
+        "source": "rise_of_the_outlaw_tamer"
+      },
+      {
+        "file": "byun-1c",
+        "contributor": "",
+        "display": "びゅーん!!",
+        "source": "requiem_for_prophet"
+      }
+    ]
+  }],
+  "literal": "byun"
 }

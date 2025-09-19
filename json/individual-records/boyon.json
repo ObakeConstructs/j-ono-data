@@ -1,46 +1,44 @@
 {
-  "literal": "boyon",
-  "katakana": [
-    "ボョン",
-    "ボョンッ",
-    "ボヨン",
-    "ボヨンッ"
-  ],
   "hiragana": [
     "ぼょん",
     "ぼょんっ",
     "ぼよん",
     "ぼよんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "mo",
-      "meaning": "a springy, bouncy motion",
-      "equivalent": [
-        "boing",
-        "bounce",
-        "carom",
-        "jiggle",
-        "rebound",
-        "ricochet",
-        "squish",
-        "wiggle"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "boyon-1a",
-          "display": "ボョンッ",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_territory_reform",
-          "file": "boyon-1b",
-          "display": "ぼよんっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボョン",
+    "ボョンッ",
+    "ボヨン",
+    "ボヨンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "boing",
+      "bounce",
+      "carom",
+      "jiggle",
+      "rebound",
+      "ricochet",
+      "squish",
+      "wiggle"
+    ],
+    "refer": "",
+    "meaning": "a springy, bouncy motion",
+    "type": "m",
+    "example": [
+      {
+        "file": "boyon-1a",
+        "contributor": "",
+        "display": "ボョンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "boyon-1b",
+        "contributor": "",
+        "display": "ぼよんっ",
+        "source": "isekai_territory_reform"
+      }
+    ]
+  }],
+  "literal": "boyon"
 }

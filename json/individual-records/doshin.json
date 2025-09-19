@@ -1,33 +1,27 @@
 {
-  "literal": "doshin",
-  "katakana": [
-    "ドシン",
-    "ドシーン",
-    "ドッシン",
-    "ドッシーン"
-  ],
   "hiragana": [
     "どしん",
     "どしーん",
     "どっしん",
     "どっしーん"
   ],
-  "definition": [
-    {
-      "refer": "dosa:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "way_of_the_house_husband",
-          "file": "doshin-1a",
-          "display": "どっしーん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドシン",
+    "ドシーン",
+    "ドッシン",
+    "ドッシーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dosa:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "doshin-1a",
+      "contributor": "",
+      "display": "どっしーん",
+      "source": "way_of_the_house_husband"
+    }]
+  }],
+  "literal": "doshin"
 }

@@ -1,32 +1,28 @@
 {
-  "literal": "an",
-  "katakana": [
-    "アン",
-    "アーン"
-  ],
   "hiragana": [
     "あん",
     "あーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "mv",
-      "meaning": "opening the mouth wide, often exaggerated",
-      "equivalent": [
-        "aah",
-        "ahh",
-        "mah",
-        "wah"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "an-1a",
-          "display": "あーん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "アン",
+    "アーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aah",
+      "ahh",
+      "mah",
+      "wah"
+    ],
+    "refer": "",
+    "meaning": "opening the mouth wide, often exaggerated",
+    "type": "m",
+    "example": [{
+      "file": "an-1a",
+      "contributor": "",
+      "display": "あーん",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "an"
 }

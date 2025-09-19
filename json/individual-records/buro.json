@@ -1,43 +1,39 @@
 {
-  "literal": "buro",
-  "katakana": [
-    "ブロ",
-    "ブロロ",
-    "ブロロロ"
-  ],
   "hiragana": [
     "ぶろ",
     "ぶろろ",
     "ぶろろろ"
   ],
-  "definition": [
-    {
-      "refer": "buo:2",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "buro-1a",
-          "display": "ブロロロ",
-          "contributor": ""
-        },
-        {
-          "source": "sex_with_me_sells",
-          "file": "buro-1b",
-          "display": "ブロロロ..",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "buro-1c",
-          "display": "ブロロロロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ブロ",
+    "ブロロ",
+    "ブロロロ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "buo:2",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "buro-1a",
+        "contributor": "",
+        "display": "ブロロロ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "buro-1b",
+        "contributor": "",
+        "display": "ブロロロ..",
+        "source": "sex_with_me_sells"
+      },
+      {
+        "file": "buro-1c",
+        "contributor": "",
+        "display": "ブロロロロ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "literal": "buro"
 }

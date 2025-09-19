@@ -1,15 +1,4 @@
 {
-  "literal": "e",
-  "katakana": [
-    "エ",
-    "エッ",
-    "エェ",
-    "エェッ",
-    "エェーッ",
-    "エエ",
-    "エエッ",
-    "エエーッ"
-  ],
   "hiragana": [
     "え",
     "えっ",
@@ -20,44 +9,51 @@
     "ええっ",
     "ええーっ"
   ],
+  "katakana": [
+    "エ",
+    "エッ",
+    "エェ",
+    "エェッ",
+    "エェーッ",
+    "エエ",
+    "エエッ",
+    "エエーッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "ve",
-      "meaning": "a drawn-out vocalized tone, expressing hesitation or thoughtful reflection",
       "equivalent": [
         "let's see",
         "think",
         "uh",
         "umm"
       ],
-      "example": [
-        {
-          "source": "isekai_pickup",
-          "file": "e-1a",
-          "display": "えぇーっ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a drawn-out vocalized tone, expressing hesitation or thoughtful reflection",
+      "type": "v",
+      "example": [{
+        "file": "e-1a",
+        "contributor": "",
+        "display": "えぇーっ",
+        "source": "isekai_pickup"
+      }]
     },
     {
-      "refer": "",
-      "type": "ve",
-      "meaning": "a short vocalized tone, expressing surprise or concern",
       "equivalent": [
         "ah?",
         "eh?",
         "huh?",
         "what?"
       ],
-      "example": [
-        {
-          "source": "eternal_fool_asley",
-          "file": "e-2a",
-          "display": "えっ!?",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a short vocalized tone, expressing surprise or concern",
+      "type": "v",
+      "example": [{
+        "file": "e-2a",
+        "contributor": "",
+        "display": "えっ!?",
+        "source": "eternal_fool_asley"
+      }]
     }
-  ]
+  ],
+  "literal": "e"
 }

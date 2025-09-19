@@ -4,14 +4,14 @@
   "definition": [{
     "equivalent": [
       "quiver",
+      "shake",
       "shiver",
       "shudder",
-      "tremble",
-      "shake"
+      "tremble"
     ],
     "refer": "",
-    "meaning": "an indication of shaking",
-    "type": "",
+    "meaning": "shaking or trembling",
+    "type": "m",
     "example": [{
       "file": "furo_furo-1a",
       "contributor": "",

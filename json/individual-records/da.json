@@ -1,42 +1,40 @@
 {
-  "literal": "da",
-  "katakana": [
-    "ダ",
-    "ダッ"
-  ],
   "hiragana": [
     "だ",
     "だっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "om",
-      "meaning": "running or dashing, usually the initial burst or start",
-      "equivalent": [
-        "bolt",
-        "charge",
-        "dash",
-        "hurry",
-        "pelt",
-        "run",
-        "rush",
-        "sprint"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "da-1a",
-          "display": "ダッ",
-          "contributor": ""
-        },
-        {
-          "source": "different_world_smartphone",
-          "file": "da-1b",
-          "display": "だっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ダ",
+    "ダッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bolt",
+      "charge",
+      "dash",
+      "hurry",
+      "pelt",
+      "run",
+      "rush",
+      "sprint"
+    ],
+    "refer": "",
+    "meaning": "running or dashing, usually the initial burst or start",
+    "type": "o",
+    "example": [
+      {
+        "file": "da-1a",
+        "contributor": "",
+        "display": "ダッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "da-1b",
+        "contributor": "",
+        "display": "だっ",
+        "source": "different_world_smartphone"
+      }
+    ]
+  }],
+  "literal": "da"
 }

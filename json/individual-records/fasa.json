@@ -1,42 +1,40 @@
 {
-  "literal": "fasa",
-  "katakana": [
-    "ファサ",
-    "ファサァ",
-    "ファサァァ"
-  ],
   "hiragana": [
     "ふぁさ",
     "ふぁさぁ",
     "ふぁさぁぁ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "a light fluttering or airy movement",
-      "equivalent": [
-        "airy",
-        "puff",
-        "rustle",
-        "soft",
-        "waft",
-        "whiff"
-      ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "fasa-1a",
-          "display": "ファサァァ",
-          "contributor": ""
-        },
-        {
-          "source": "rock_n_roll_ladies",
-          "file": "fasa-2a",
-          "display": "ファサ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ファサ",
+    "ファサァ",
+    "ファサァァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "airy",
+      "puff",
+      "rustle",
+      "soft",
+      "waft",
+      "whiff"
+    ],
+    "refer": "",
+    "meaning": "a light fluttering or airy movement",
+    "type": "m",
+    "example": [
+      {
+        "file": "fasa-1a",
+        "contributor": "",
+        "display": "ファサァァ",
+        "source": "blazing_fire_brigade"
+      },
+      {
+        "file": "fasa-2a",
+        "contributor": "",
+        "display": "ファサ",
+        "source": "rock_n_roll_ladies"
+      }
+    ]
+  }],
+  "literal": "fasa"
 }

@@ -1,32 +1,24 @@
 {
-  "literal": "chupu",
-  "katakana": [
-    "チュプ"
-  ],
-  "hiragana": [
-    "ちゅぷ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "ov",
-      "meaning": "kissing, sipping or lightly slurping",
-      "equivalent": [
-        "kiss",
-        "sip",
-        "slurp",
-        "smooch",
-        "suck",
-        "suckle"
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "chupu-1a",
-          "display": "チュプ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ちゅぷ"],
+  "katakana": ["チュプ"],
+  "definition": [{
+    "equivalent": [
+      "kiss",
+      "sip",
+      "slurp",
+      "smooch",
+      "suck",
+      "suckle"
+    ],
+    "refer": "",
+    "meaning": "kissing, sipping or lightly slurping",
+    "type": "o",
+    "example": [{
+      "file": "chupu-1a",
+      "contributor": "",
+      "display": "ちゅぷ",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "chupu"
 }

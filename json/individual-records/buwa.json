@@ -1,42 +1,38 @@
 {
-  "literal": "buwa",
-  "katakana": [
-    "ブワ",
-    "ブワッ"
-  ],
   "hiragana": [
     "ぶわ",
     "ぶわっ"
   ],
+  "katakana": [
+    "ブワ",
+    "ブワッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "om",
-      "meaning": "a loud explosion or explosive force",
       "equivalent": [
         "bang",
         "boom",
         "ka-boom"
       ],
+      "refer": "",
+      "meaning": "a loud explosion or explosive force",
+      "type": "o",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "buwa-1a",
+          "contributor": "",
           "display": "ぶわっ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "buwa-1b",
+          "contributor": "",
           "display": "ブワッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "mo",
-      "meaning": "something large or heavy rising or taking flight",
       "equivalent": [
         "ascend",
         "launch",
@@ -44,14 +40,16 @@
         "takeoff",
         "woosh"
       ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "buwa-2a",
-          "display": "ブワッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "something large or heavy rising or taking flight",
+      "type": "m",
+      "example": [{
+        "file": "buwa-2a",
+        "contributor": "",
+        "display": "ブワッ",
+        "source": "hello_work"
+      }]
     }
-  ]
+  ],
+  "literal": "buwa"
 }

@@ -1,35 +1,31 @@
 {
-  "literal": "doka",
-  "katakana": [
-    "ドカ",
-    "ドカッ"
-  ],
   "hiragana": [
     "どか",
     "どかっ"
   ],
-  "definition": [
-    {
-      "refer": "dogo:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "doka-1a",
-          "display": "ドカ",
-          "contributor": ""
-        },
-        {
-          "source": "hanako_24th_ward",
-          "file": "doka-1b",
-          "display": "ドカッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドカ",
+    "ドカッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dogo:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "doka-1a",
+        "contributor": "",
+        "display": "ドカ",
+        "source": "hello_work"
+      },
+      {
+        "file": "doka-1b",
+        "contributor": "",
+        "display": "ドカッ",
+        "source": "hanako_24th_ward"
+      }
+    ]
+  }],
+  "literal": "doka"
 }

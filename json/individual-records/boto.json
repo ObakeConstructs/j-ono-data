@@ -1,34 +1,30 @@
 {
-  "literal": "boto",
-  "katakana": [
-    "ボト",
-    "ボトッ"
-  ],
   "hiragana": [
     "ぼと",
     "ぼとっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "om",
-      "meaning": "an object falling or landing",
-      "equivalent": [
-        "drop",
-        "fall",
-        "plop",
-        "plunk",
-        "slip",
-        "topple"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "boto-1a",
-          "display": "ボトッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボト",
+    "ボトッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drop",
+      "fall",
+      "plop",
+      "plunk",
+      "slip",
+      "topple"
+    ],
+    "refer": "",
+    "meaning": "an object falling or landing",
+    "type": "o",
+    "example": [{
+      "file": "boto-1a",
+      "contributor": "",
+      "display": "ボトッ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "boto"
 }

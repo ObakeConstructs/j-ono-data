@@ -1,39 +1,35 @@
 {
-  "literal": "doyon",
-  "katakana": [
-    "ドヨン",
-    "ドヨンッ",
-    "ドヨーン"
-  ],
   "hiragana": [
     "どよん",
     "どよんっ",
     "どよーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "c",
-      "meaning": "a gloomy or somber mood/setting",
-      "equivalent": [
-        "bleak",
-        "depressed",
-        "desolate",
-        "dire",
-        "dismal",
-        "down",
-        "gloom",
-        "gloomy",
-        "somber"
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "doyon-1a",
-          "display": "どよー..ん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ドヨン",
+    "ドヨンッ",
+    "ドヨーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bleak",
+      "depressed",
+      "desolate",
+      "dire",
+      "dismal",
+      "down",
+      "gloom",
+      "gloomy",
+      "somber"
+    ],
+    "refer": "",
+    "meaning": "a gloomy or somber mood/setting",
+    "type": "c",
+    "example": [{
+      "file": "doyon-1a",
+      "contributor": "",
+      "display": "どよー..ん",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "doyon"
 }

@@ -1,30 +1,26 @@
 {
-  "literal": "ah",
-  "katakana": [
-    "ア",
-    "アッ"
-  ],
   "hiragana": [
     "あ",
     "あっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "ve",
-      "meaning": "surprise, recognition, or realization",
-      "equivalent": [
-        "ah",
-        "oh"
-      ],
-      "example": [
-        {
-          "source": "isekai_pickup",
-          "file": "ah-1a",
-          "display": "あっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ア",
+    "アッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ah",
+      "oh"
+    ],
+    "refer": "",
+    "meaning": "surprise, recognition, or realization",
+    "type": "v",
+    "example": [{
+      "file": "ah-1a",
+      "contributor": "",
+      "display": "あっ",
+      "source": "isekai_pickup"
+    }]
+  }],
+  "literal": "ah"
 }

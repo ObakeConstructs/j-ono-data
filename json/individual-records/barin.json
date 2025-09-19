@@ -1,34 +1,30 @@
 {
-  "literal": "barin",
-  "katakana": [
-    "バリン",
-    "バリーン"
-  ],
   "hiragana": [
     "ばりん",
     "ばりーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "om",
-      "meaning": "sharp tearing, breaking or smashing",
-      "equivalent": [
-        "rend",
-        "rip",
-        "tear",
-        "break",
-        "smash",
-        "shatter"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "barin-1a",
-          "display": "バリーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "バリン",
+    "バリーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "rend",
+      "rip",
+      "tear",
+      "break",
+      "smash",
+      "shatter"
+    ],
+    "refer": "",
+    "meaning": "sharp tearing, breaking or smashing",
+    "type": "o",
+    "example": [{
+      "file": "barin-1a",
+      "contributor": "",
+      "display": "バリーン",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "barin"
 }

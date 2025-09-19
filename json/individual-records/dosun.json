@@ -1,27 +1,17 @@
 {
-  "literal": "dosun",
-  "katakana": [
-    "ドスン"
-  ],
-  "hiragana": [
-    "どすん"
-  ],
-  "definition": [
-    {
-      "refer": "dosu:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "dosun-1a",
-          "display": "ドスン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どすん"],
+  "katakana": ["ドスン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dosu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "dosun-1a",
+      "contributor": "",
+      "display": "ドスン",
+      "source": "my_s-ranked_daughter"
+    }]
+  }],
+  "literal": "dosun"
 }

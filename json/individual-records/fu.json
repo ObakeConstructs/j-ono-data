@@ -1,15 +1,4 @@
 {
-  "literal": "fu",
-  "katakana": [
-    "フ",
-    "フッ",
-    "フー",
-    "フーッ",
-    "フウ",
-    "フウッ",
-    "フゥ",
-    "フゥッ"
-  ],
   "hiragana": [
     "ふ",
     "ふっ",
@@ -20,11 +9,18 @@
     "ふぅ",
     "ふぅっ"
   ],
+  "katakana": [
+    "フ",
+    "フッ",
+    "フー",
+    "フーッ",
+    "フウ",
+    "フウッ",
+    "フゥ",
+    "フゥッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "ve",
-      "meaning": "a quick, short laugh",
       "equivalent": [
         "chortle",
         "chuckle",
@@ -36,25 +32,25 @@
         "smirk",
         "snicker"
       ],
+      "refer": "",
+      "meaning": "a quick, short laugh",
+      "type": "v",
       "example": [
         {
-          "source": "d_genesis",
           "file": "fu-1a",
+          "contributor": "",
           "display": "ふっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "d_genesis",
           "file": "fu-1b",
+          "contributor": "",
           "display": "ふ...",
-          "contributor": ""
+          "source": "d_genesis"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a sudden or fast movement",
       "equivalent": [
         "fwip",
         "fwit",
@@ -64,31 +60,31 @@
         "snap",
         "whoom"
       ],
+      "refer": "",
+      "meaning": "a sudden or fast movement",
+      "type": "m",
       "example": [
         {
-          "source": "spy_x_family",
           "file": "fu-2a",
+          "contributor": "",
           "display": "フッ",
-          "contributor": ""
+          "source": "spy_x_family"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "fu-2b",
+          "contributor": "",
           "display": "フーッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "d_genesis",
           "file": "fu-2c",
+          "contributor": "",
           "display": "フッ",
-          "contributor": ""
+          "source": "d_genesis"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "ve",
-      "meaning": "an exhale or release of breath",
       "equivalent": [
         "ease",
         "fwhew",
@@ -101,44 +97,48 @@
         "relief",
         "whew"
       ],
+      "refer": "",
+      "meaning": "an exhale or release of breath",
+      "type": "v",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "fu-3a",
+          "contributor": "",
           "display": "ふーっ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "fu-3b",
+          "contributor": "",
           "display": "ふう",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "peter_grill",
           "file": "fu-3c",
+          "contributor": "",
           "display": "フウ",
-          "contributor": ""
+          "source": "peter_grill"
         },
         {
-          "source": "different_world_smartphone",
           "file": "fu-4a",
+          "contributor": "",
           "display": "ふぅ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "spy_x_family",
           "file": "fu-4b",
+          "contributor": "",
           "display": "ふぅっ",
-          "contributor": ""
+          "source": "spy_x_family"
         },
         {
-          "source": "fushi_no_kami",
           "file": "fu-4c",
+          "contributor": "",
           "display": "ふぅ",
-          "contributor": ""
+          "source": "fushi_no_kami"
         }
       ]
     }
-  ]
+  ],
+  "literal": "fu"
 }

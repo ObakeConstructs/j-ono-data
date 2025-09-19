@@ -1,33 +1,25 @@
 {
-  "literal": "dokun dokun",
-  "katakana": [
-    "ドクンドクン"
-  ],
-  "hiragana": [
-    "どくんどくん"
-  ],
-  "definition": [
-    {
-      "refer": "doku:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "ai_and_izawa",
-          "file": "dokun_dokun-1a",
-          "display": "ドクン  ドクン",
-          "contributor": ""
-        },
-        {
-          "source": "double_play",
-          "file": "dokun_dokun-1b",
-          "display": "ドクン  ドクン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["どくんどくん"],
+  "katakana": ["ドクンドクン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "doku:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "dokun_dokun-1a",
+        "contributor": "",
+        "display": "ドクン  ドクン",
+        "source": "ai_and_izawa"
+      },
+      {
+        "file": "dokun_dokun-1b",
+        "contributor": "",
+        "display": "ドクン  ドクン",
+        "source": "double_play"
+      }
+    ]
+  }],
+  "literal": "dokun dokun"
 }

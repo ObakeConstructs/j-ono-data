@@ -1,27 +1,17 @@
 {
-  "literal": "basha basha",
-  "katakana": [
-    "バシャバシャ"
-  ],
-  "hiragana": [
-    "ばしゃばしゃ"
-  ],
-  "definition": [
-    {
-      "refer": "basha:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "reincarnated_sage_daughters",
-          "file": "basha_basha-1a",
-          "display": "バシャ  バシャ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ばしゃばしゃ"],
+  "katakana": ["バシャバシャ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "basha:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "basha_basha-1a",
+      "contributor": "",
+      "display": "バシャ  バシャ",
+      "source": "reincarnated_sage_daughters"
+    }]
+  }],
+  "literal": "basha basha"
 }

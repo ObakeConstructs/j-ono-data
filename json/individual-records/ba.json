@@ -1,18 +1,14 @@
 {
-  "literal": "ba",
-  "katakana": [
-    "バ",
-    "バッ"
-  ],
   "hiragana": [
     "ば",
     "ばっ"
   ],
+  "katakana": [
+    "バ",
+    "バッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "turning around suddenly",
       "equivalent": [
         "about-face",
         "pivot",
@@ -20,31 +16,31 @@
         "turn",
         "whirl"
       ],
+      "refer": "",
+      "meaning": "turning around suddenly",
+      "type": "m",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ba-1a",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "dog_became_strongest",
           "file": "ba-1b",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "dog_became_strongest"
         },
         {
-          "source": "yojo_life",
           "file": "ba-1c",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "yojo_life"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a sudden and/or fast movement",
       "equivalent": [
         "charge",
         "dash",
@@ -56,43 +52,43 @@
         "whoom",
         "zip"
       ],
+      "refer": "",
+      "meaning": "a sudden and/or fast movement",
+      "type": "m",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ba-2a",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "different_world_smartphone",
           "file": "ba-2b",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "strongest_magician_was_human",
           "file": "ba-2c",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "strongest_magician_was_human"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "ba-2d",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "d_genesis",
           "file": "ba-3a",
+          "contributor": "",
           "display": "バッ",
-          "contributor": ""
+          "source": "d_genesis"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "revealing or showing something suddenly",
       "equivalent": [
         "display",
         "reveal",
@@ -100,20 +96,24 @@
         "ta-da",
         "unveil"
       ],
+      "refer": "",
+      "meaning": "revealing or showing something suddenly",
+      "type": "m",
       "example": [
         {
-          "source": "spy_x_family",
           "file": "ba-4a",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "spy_x_family"
         },
         {
-          "source": "way_of_isekai_cooking",
           "file": "ba-4b",
+          "contributor": "",
           "display": "ばっ",
-          "contributor": ""
+          "source": "way_of_isekai_cooking"
         }
       ]
     }
-  ]
+  ],
+  "literal": "ba"
 }

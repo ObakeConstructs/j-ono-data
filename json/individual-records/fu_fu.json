@@ -23,8 +23,8 @@
         "laugh"
       ],
       "refer": "",
-      "meaning": "the sound of a light laugh",
-      "type": "",
+      "meaning": "a light laugh",
+      "type": "v",
       "example": [
         {
           "file": "fu_fu-1a",
@@ -51,11 +51,12 @@
         "blow blow",
         "breath breath",
         "exhale",
-        "huff huff"
+        "huff huff",
+        "inhale"
       ],
       "refer": "",
-      "meaning": "sounds of breathing in a controlled, deliberate manner",
-      "type": "",
+      "meaning": "breathing in a controlled, deliberate manner",
+      "type": "v",
       "example": [
         {
           "file": "fu_fu-2a",

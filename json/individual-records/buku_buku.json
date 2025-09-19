@@ -1,35 +1,29 @@
 {
-  "literal": "buku buku",
-  "katakana": [
-    "ブクブク"
-  ],
-  "hiragana": [
-    "ぶくぶく"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "om",
-      "meaning": "continuous boiling or bubbling liquid",
-      "equivalent": [
-        "boil boil",
-        "bop bop",
-        "bubble bubble"
-      ],
-      "example": [
-        {
-          "source": "bungo",
-          "file": "buku_buku-1a",
-          "display": "ブク  ブク",
-          "contributor": ""
-        },
-        {
-          "source": "buy_the_land",
-          "file": "buku_buku-1b",
-          "display": "ブク  ブク  ブク..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぶくぶく"],
+  "katakana": ["ブクブク"],
+  "definition": [{
+    "equivalent": [
+      "boil boil",
+      "bop bop",
+      "bubble bubble"
+    ],
+    "refer": "",
+    "meaning": "continuous boiling or bubbling liquid",
+    "type": "o",
+    "example": [
+      {
+        "file": "buku_buku-1a",
+        "contributor": "",
+        "display": "ブク  ブク",
+        "source": "bungo"
+      },
+      {
+        "file": "buku_buku-1b",
+        "contributor": "",
+        "display": "ブク  ブク  ブク..",
+        "source": "buy_the_land"
+      }
+    ]
+  }],
+  "literal": "buku buku"
 }

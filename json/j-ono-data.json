@@ -15,7 +15,7 @@
       ],
       "refer": "",
       "meaning": "surprise, recognition, or realization",
-      "type": "ve",
+      "type": "v",
       "example": [{
         "file": "ah-1a",
         "contributor": "",
@@ -49,7 +49,7 @@
       ],
       "refer": "",
       "meaning": "laughter, often long or repeated",
-      "type": "ev",
+      "type": "e",
       "example": [
         {
           "file": "ahaha-1a",
@@ -85,7 +85,7 @@
       ],
       "refer": "",
       "meaning": "moaning, often sensual or playful",
-      "type": "ev",
+      "type": "e",
       "example": [
         {
           "file": "ahan-1a",
@@ -125,7 +125,7 @@
       ],
       "refer": "",
       "meaning": "eating, chewing, or mouthing something, typically in a soft or cute fashion",
-      "type": "mo",
+      "type": "m",
       "example": [
         {
           "file": "amu-1a",
@@ -161,7 +161,7 @@
       ],
       "refer": "",
       "meaning": "opening the mouth wide, often exaggerated",
-      "type": "mv",
+      "type": "m",
       "example": [{
         "file": "an-1a",
         "contributor": "",
@@ -196,7 +196,7 @@
       ],
       "refer": "",
       "meaning": "stammering or exclamation showing panic, confusion, or fluster",
-      "type": "ev",
+      "type": "e",
       "example": [{
         "file": "awa-1a",
         "contributor": "",
@@ -413,7 +413,7 @@
         ],
         "refer": "",
         "meaning": "sharp, charged eye contact",
-        "type": "em",
+        "type": "e",
         "example": [{
           "file": "bachi-2a",
           "contributor": "",
@@ -479,7 +479,7 @@
       ],
       "refer": "",
       "meaning": "a heavy impact or crash",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "baga-1a",
         "contributor": "",
@@ -509,7 +509,7 @@
       ],
       "refer": "",
       "meaning": "a sharp cracking or breaking sound, often violent",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "baki-1a",
@@ -579,7 +579,7 @@
       ],
       "refer": "",
       "meaning": "eating wildly, expressing enthusiasm or hunger",
-      "type": "me",
+      "type": "m",
       "example": [{
         "file": "baku_baku-1a",
         "contributor": "",
@@ -623,7 +623,7 @@
         ],
         "refer": "",
         "meaning": "a medium impact, usually sudden or short",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "ban-1a",
@@ -699,7 +699,7 @@
       ],
       "refer": "",
       "meaning": "things breaking apart, scattering, and/or falling to pieces",
-      "type": "osm",
+      "type": "o",
       "example": [{
         "file": "bara_bara-1a",
         "contributor": "",
@@ -729,7 +729,7 @@
       ],
       "refer": "",
       "meaning": "sharp tearing, breaking or smashing",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "barin-1a",
         "contributor": "",
@@ -762,7 +762,7 @@
         ],
         "refer": "",
         "meaning": "a rustling or flapping sound",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "basa-1a",
@@ -881,7 +881,7 @@
       ],
       "refer": "",
       "meaning": "sound of liquid splashing",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "basha-1a",
@@ -966,7 +966,7 @@
       ],
       "refer": "",
       "meaning": "a sudden or loud impact",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "bashi-1a",
@@ -1004,7 +1004,7 @@
       ],
       "refer": "",
       "meaning": "a tumultuous sound of multiple impacts",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "bashun-1a",
@@ -1035,7 +1035,7 @@
       ],
       "refer": "",
       "meaning": "a heavy, abrupt thud, often from a door, window, or a falling object",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "batan-1a",
@@ -1066,7 +1066,7 @@
       ],
       "refer": "",
       "meaning": "quick, light-sounding steps",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "bata_bata-1a",
         "contributor": "",
@@ -1093,7 +1093,7 @@
       ],
       "refer": "",
       "meaning": "sticking out one's tongue, often playfully or mockingly",
-      "type": "me",
+      "type": "m",
       "example": [{
         "file": "be-1a",
         "contributor": "",
@@ -1115,7 +1115,7 @@
       ],
       "refer": "",
       "meaning": "peeling or tearing something away",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "beri_beri-1a",
         "contributor": "",
@@ -1138,7 +1138,7 @@
       ],
       "refer": "",
       "meaning": "an exaggerated lick or a tongue hanging loosely",
-      "type": "mo",
+      "type": "m",
       "example": [{
         "file": "beron-1a",
         "contributor": "",
@@ -1214,7 +1214,7 @@
         ],
         "refer": "",
         "meaning": "a quick impact",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "bi-1a",
@@ -1446,7 +1446,7 @@
       ],
       "refer": "",
       "meaning": "sharp tearing or ripping sound, often of paper",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "biri-1a",
         "contributor": "Artrix",
@@ -1503,7 +1503,7 @@
       ],
       "refer": "",
       "meaning": "liquid splashing or spraying",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "bisha-1a",
         "contributor": "",
@@ -1553,7 +1553,7 @@
         ],
         "refer": "",
         "meaning": "suddenly stopping as a reaction",
-        "type": "me",
+        "type": "m",
         "example": [
           {
             "file": "bishi-1a",
@@ -1588,7 +1588,7 @@
         ],
         "refer": "",
         "meaning": "sharp, sudden impact sound",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "bishi-2a",
@@ -1665,7 +1665,7 @@
       ],
       "refer": "",
       "meaning": "the sudden sound of loosing an arrow",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "bishu-1a",
         "contributor": "",
@@ -1712,7 +1712,7 @@
         ],
         "refer": "",
         "meaning": "a burst of fire or something burning",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "bo-1a",
@@ -1750,7 +1750,7 @@
         ],
         "refer": "",
         "meaning": "sluggish or drowsy",
-        "type": "se",
+        "type": "s",
         "example": [{
           "file": "bo-2a",
           "contributor": "",
@@ -1776,7 +1776,7 @@
       ],
       "refer": "",
       "meaning": "a splash from something falling or landing into water",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "bochan-1a",
         "contributor": "",
@@ -1805,7 +1805,7 @@
       ],
       "refer": "",
       "meaning": "a soft, muffled, or gentle puffing/thudding sound",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "bofu-1a",
         "contributor": "",
@@ -1862,7 +1862,7 @@
       ],
       "refer": "",
       "meaning": "liquid bubbling or boiling",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "boko-1a",
         "contributor": "",
@@ -1887,7 +1887,7 @@
       ],
       "refer": "",
       "meaning": "a somewhat hollow sounding impact",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "bokon-1a",
         "contributor": "",
@@ -1918,7 +1918,7 @@
       ],
       "refer": "",
       "meaning": "to show or reveal something impressive, shocking or surprising",
-      "type": "ce",
+      "type": "c",
       "example": [{
         "file": "bon-1a",
         "contributor": "Artrix",
@@ -1947,7 +1947,7 @@
       ],
       "refer": "",
       "meaning": "worn out or exhausted",
-      "type": "se",
+      "type": "s",
       "example": [{
         "file": "boro-1a",
         "contributor": "",
@@ -1978,7 +1978,7 @@
       ],
       "refer": "",
       "meaning": "emotionally fall apart, usually expressed as crying",
-      "type": "sem",
+      "type": "s",
       "example": [{
         "file": "boron-1a",
         "contributor": "",
@@ -2078,7 +2078,7 @@
       ],
       "refer": "",
       "meaning": "viscous fluids dripping, typically blood",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "bota-1a",
         "contributor": "",
@@ -2108,7 +2108,7 @@
       ],
       "refer": "",
       "meaning": "an object falling or landing",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "boto-1a",
         "contributor": "",
@@ -2167,7 +2167,7 @@
       ],
       "refer": "",
       "meaning": "something flaring or expanding outward, like flames or smoke",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "bowa-1a",
         "contributor": "",
@@ -2203,7 +2203,7 @@
       ],
       "refer": "",
       "meaning": "a springy, bouncy motion",
-      "type": "mo",
+      "type": "m",
       "example": [
         {
           "file": "boyon-1a",
@@ -2261,7 +2261,7 @@
         ],
         "refer": "",
         "meaning": "spitting or spraying something from the mouth",
-        "type": "ome",
+        "type": "o",
         "example": [
           {
             "file": "bu-1a",
@@ -2284,7 +2284,7 @@
         ],
         "refer": "",
         "meaning": "an aborted urge to spit or spray something from the mouth",
-        "type": "me",
+        "type": "m",
         "example": [{
           "file": "bu-2a",
           "contributor": "",
@@ -2332,7 +2332,7 @@
         ],
         "refer": "",
         "meaning": "something snapping or breaking, ",
-        "type": "om",
+        "type": "o",
         "example": [{
           "file": "buchi-1a",
           "contributor": "",
@@ -2380,7 +2380,7 @@
       ],
       "refer": "",
       "meaning": "suppressed laughter, often involuntary",
-      "type": "vem",
+      "type": "v",
       "example": [
         {
           "file": "bufu-1a",
@@ -2431,7 +2431,7 @@
       ],
       "refer": "",
       "meaning": "continuous boiling or bubbling liquid",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "buku_buku-1a",
@@ -2469,7 +2469,7 @@
         ],
         "refer": "",
         "meaning": "swinging or whipping something quickly and often violently",
-        "type": "mo",
+        "type": "m",
         "example": [
           {
             "file": "bun-1a",
@@ -2524,14 +2524,16 @@
     "definition": [{
       "equivalent": [
         "flick flick",
+        "flip flip",
         "shake shake",
         "swipe swipe",
         "swish swish",
+        "wag wag",
         "wave wave"
       ],
       "refer": "",
       "meaning": "indications of waving or shaking to and fro",
-      "type": "mo",
+      "type": "m",
       "example": [
         {
           "file": "bun_bun-1a",
@@ -2585,7 +2587,7 @@
         ],
         "refer": "",
         "meaning": "low rushing sound of blowing or moving air",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "buo-1a",
@@ -2610,7 +2612,7 @@
         ],
         "refer": "",
         "meaning": "the low rumble of an automobile engine",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "buo-2a",
@@ -2690,7 +2692,7 @@
       ],
       "refer": "",
       "meaning": "involuntary shaking, as from fear, cold, or excitement",
-      "type": "mse",
+      "type": "m",
       "example": [
         {
           "file": "buru-1a",
@@ -2727,7 +2729,7 @@
       ],
       "refer": "",
       "meaning": "bouncing or shaking, often energetic or exaggerated",
-      "type": "mo",
+      "type": "m",
       "example": [
         {
           "file": "burun_burun-1a",
@@ -2763,7 +2765,7 @@
       ],
       "refer": "",
       "meaning": "involuntary shaking, as from fear, cold, or excitement",
-      "type": "ms",
+      "type": "m",
       "example": [
         {
           "file": "buru_buru-1a",
@@ -2801,7 +2803,7 @@
       ],
       "refer": "",
       "meaning": "a quick cut, piercing, or break",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "butsu-1a",
         "contributor": "",
@@ -2823,7 +2825,7 @@
       ],
       "refer": "",
       "meaning": "mumbling, grumbling, or low-level compaining",
-      "type": "ve",
+      "type": "v",
       "example": [{
         "file": "butsu_butsu-1a",
         "contributor": "",
@@ -2851,7 +2853,7 @@
         ],
         "refer": "",
         "meaning": "a loud explosion or explosive force",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "buwa-1a",
@@ -2877,7 +2879,7 @@
         ],
         "refer": "",
         "meaning": "something large or heavy rising or taking flight",
-        "type": "mo",
+        "type": "m",
         "example": [{
           "file": "buwa-2a",
           "contributor": "",
@@ -2946,7 +2948,7 @@
         ],
         "refer": "",
         "meaning": "wind or blowing air",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "byu-1a",
@@ -2974,7 +2976,7 @@
         ],
         "refer": "",
         "meaning": "someone or something moving very quickly",
-        "type": "mo",
+        "type": "m",
         "example": [{
           "file": "byu-2a",
           "contributor": "",
@@ -3008,7 +3010,7 @@
       ],
       "refer": "",
       "meaning": "someone or something moving very fast",
-      "type": "mo",
+      "type": "m",
       "example": [
         {
           "file": "byun-1a",
@@ -3050,7 +3052,7 @@
       ],
       "refer": "",
       "meaning": "a short metallic sound, as of quickly drawing a sword",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "cha-1a",
         "contributor": "",
@@ -3133,7 +3135,7 @@
       ],
       "refer": "",
       "meaning": "moving or splashing water",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "chapu-1a",
@@ -3199,7 +3201,7 @@
       ],
       "refer": "",
       "meaning": "clinking or rattling of metal or glass",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "chari-1a",
@@ -3273,7 +3275,7 @@
       ],
       "refer": "",
       "meaning": "a dental click or tsk, typically indicating annoyance ",
-      "type": "ve",
+      "type": "v",
       "example": [{
         "file": "chi-1a",
         "contributor": "",
@@ -3341,7 +3343,7 @@
       ],
       "refer": "",
       "meaning": "blowing one's nose, often loud or shrill, usually humorously",
-      "type": "vm",
+      "type": "v",
       "example": [{
         "file": "chin-1a",
         "contributor": "",
@@ -3536,7 +3538,7 @@
       ],
       "refer": "",
       "meaning": "kissing, licking, or sucking",
-      "type": "ov",
+      "type": "o",
       "example": [
         {
           "file": "chu-1a",
@@ -3605,11 +3607,11 @@
       ],
       "refer": "",
       "meaning": "kissing, sipping or lightly slurping",
-      "type": "ov",
+      "type": "o",
       "example": [{
         "file": "chupu-1a",
         "contributor": "",
-        "display": "チュプ",
+        "display": "ちゅぷ",
         "source": "gyaru_academy"
       }]
     }],
@@ -3691,7 +3693,7 @@
       ],
       "refer": "",
       "meaning": "running or dashing, usually the initial burst or start",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "da-1a",
@@ -3768,7 +3770,7 @@
       ],
       "refer": "",
       "meaning": "a sudden hard impact/bang",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "dan-1a",
@@ -3845,7 +3847,7 @@
       ],
       "refer": "",
       "meaning": "dripping or flowing continuously",
-      "type": "smo",
+      "type": "s",
       "example": [{
         "file": "dara_dara-1b",
         "contributor": "",
@@ -3887,7 +3889,7 @@
       ],
       "refer": "",
       "meaning": "short and sharp impacts, typically rhythmic",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "da_da-1a",
@@ -4015,7 +4017,7 @@
         ],
         "refer": "",
         "meaning": "a burst of laughter, often rude or mocking",
-        "type": "ve",
+        "type": "v",
         "example": [{
           "file": "do-2a",
           "contributor": "",
@@ -4044,7 +4046,7 @@
       ],
       "refer": "",
       "meaning": "water splashing",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "dobon-1a",
@@ -4095,7 +4097,7 @@
       ],
       "refer": "",
       "meaning": "rythmic sounds of horses galloping",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "dodoga_dodoga-1a",
         "contributor": "",
@@ -4149,7 +4151,7 @@
       ],
       "refer": "",
       "meaning": "a violent or explosive impact or strike",
-      "type": "om",
+      "type": "o",
       "example": [
         {
           "file": "dogo-1a",
@@ -4286,7 +4288,7 @@
         "equivalent": [""],
         "refer": "doku:1",
         "meaning": ", as when in love, nervous, or excited",
-        "type": "es",
+        "type": "e",
         "example": [
           {
             "file": "doki-1a",
@@ -4338,7 +4340,7 @@
         ],
         "refer": "",
         "meaning": "jerk or flinch, as when surprised or startled",
-        "type": "me",
+        "type": "m",
         "example": [{
           "file": "doki-3a",
           "contributor": "",
@@ -4415,7 +4417,7 @@
       ],
       "refer": "",
       "meaning": "heartbeat or throbbing",
-      "type": "se",
+      "type": "s",
       "example": [{
         "file": "doku-1a",
         "contributor": "",
@@ -4557,7 +4559,7 @@
         ],
         "refer": "",
         "meaning": "an impact or strike",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "don-1a",
@@ -4681,7 +4683,7 @@
       ],
       "refer": "",
       "meaning": "pouring liquid",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "dopopo-1a",
         "contributor": "",
@@ -4723,7 +4725,7 @@
       ],
       "refer": "",
       "meaning": "melting, flowing, or dripping, usually thick and slow",
-      "type": "ms",
+      "type": "m",
       "example": [
         {
           "file": "doro-1a",
@@ -4764,7 +4766,7 @@
         ],
         "refer": "",
         "meaning": "falling down or collapsing from an upright position",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "dosa-1a",
@@ -4797,7 +4799,7 @@
         ],
         "refer": "",
         "meaning": "placing or dropping something onto a hard surface",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "dosa-2a",
@@ -4919,7 +4921,7 @@
         ],
         "refer": "",
         "meaning": "a dull or heavy strike/impact in a fight",
-        "type": "om",
+        "type": "o",
         "example": [
           {
             "file": "dosu-1a",
@@ -5173,7 +5175,7 @@
         ],
         "refer": "",
         "meaning": "a drawn-out vocalized tone, expressing hesitation or thoughtful reflection",
-        "type": "ve",
+        "type": "v",
         "example": [{
           "file": "e-1a",
           "contributor": "",
@@ -5190,7 +5192,7 @@
         ],
         "refer": "",
         "meaning": "a short vocalized tone, expressing surprise or concern",
-        "type": "ve",
+        "type": "v",
         "example": [{
           "file": "e-2a",
           "contributor": "",
@@ -5220,7 +5222,7 @@
       ],
       "refer": "",
       "meaning": "strained, forced, or embarrassed laughter",
-      "type": "ve",
+      "type": "v",
       "example": [{
         "file": "ehe-1a",
         "contributor": "",
@@ -5247,7 +5249,7 @@
       ],
       "refer": "",
       "meaning": "effort or exertion",
-      "type": "sm",
+      "type": "s",
       "example": [{
         "file": "eisa-1a",
         "contributor": "",
@@ -5276,7 +5278,7 @@
       ],
       "refer": "",
       "meaning": "a deep breath or yawn, expressing tiredness or boredom",
-      "type": "vms",
+      "type": "v",
       "example": [{
         "file": "faa-1a",
         "contributor": "",
@@ -5347,7 +5349,7 @@
       ],
       "refer": "",
       "meaning": "wooshing or whistling sound, as of something moving quickly through the air",
-      "type": "om",
+      "type": "o",
       "example": [{
         "file": "fiun-1a",
         "contributor": "",
@@ -5393,7 +5395,7 @@
         ],
         "refer": "",
         "meaning": "a quick, short laugh",
-        "type": "ve",
+        "type": "v",
         "example": [
           {
             "file": "fu-1a",
@@ -5458,7 +5460,7 @@
         ],
         "refer": "",
         "meaning": "an exhale or release of breath",
-        "type": "ve",
+        "type": "v",
         "example": [
           {
             "file": "fu-3a",
@@ -5525,8 +5527,8 @@
         "yawn"
       ],
       "refer": "",
-      "meaning": "the sound of a wide open-mouth yawn, expressing tiredness or boredom",
-      "type": "",
+      "meaning": "a wide open-mouth yawn, expressing tiredness or boredom",
+      "type": "v",
       "example": [
         {
           "file": "fua-1a",
@@ -5552,12 +5554,11 @@
         "brush brush",
         "rub rub",
         "scrub scrub",
-        "wash wash",
         "wipe wipe"
       ],
       "refer": "",
-      "meaning": "an indication or sound of brushing or wiping",
-      "type": "",
+      "meaning": "lightly brushing or wiping",
+      "type": "m",
       "example": [{
         "file": "fuki_fuki-1a",
         "contributor": "",
@@ -5577,8 +5578,8 @@
         "umm"
       ],
       "refer": "",
-      "meaning": "an expression or sound of contemplation",
-      "type": "",
+      "meaning": "an expression of thoughtful contemplation",
+      "type": "v",
       "example": [{
         "file": "fumu-1a",
         "contributor": "",
@@ -5626,8 +5627,8 @@
         "urgh"
       ],
       "refer": "",
-      "meaning": "the short sound of a grunt or a groan, may express strain, frustration, distress, or used as an offensive dismissal",
-      "type": "",
+      "meaning": "a short, forceful grunt or snort, typically expressing effort, irritation, or dismissal",
+      "type": "v",
       "example": [
         {
           "file": "fun-1a",
@@ -5656,18 +5657,18 @@
     "katakana": ["フニ"],
     "definition": [{
       "equivalent": [
-        "fluff",
+        "fluffy",
         "gently",
-        "mush",
+        "mushy",
         "pliable",
-        "softly",
+        "soft",
         "spongy",
-        "squish",
+        "squishy",
         "tender"
       ],
       "refer": "",
-      "meaning": "an indication or sound of pressing or touching something soft, pliable or fluffy",
-      "type": "",
+      "meaning": "the feel of a soft, pliable or fluffy texture",
+      "type": "s",
       "example": [
         {
           "file": "funi-1a",
@@ -5702,8 +5703,8 @@
         "whiff whiff"
       ],
       "refer": "",
-      "meaning": "indications or sounds of smelling or sniffing",
-      "type": "",
+      "meaning": "smelling or sniffing",
+      "type": "o",
       "example": [{
         "file": "fun_fun-1a",
         "contributor": "",
@@ -5732,8 +5733,8 @@
         "woozy"
       ],
       "refer": "",
-      "meaning": "an indication of fainting or losing consciousness",
-      "type": "",
+      "meaning": "wavering or staggering, often just before fainting or collapsing",
+      "type": "s",
       "example": [
         {
           "file": "fura-1a",
@@ -5771,8 +5772,8 @@
         "wobble"
       ],
       "refer": "",
-      "meaning": "an indication of shaking or wobbling",
-      "type": "",
+      "meaning": "shaking or wobbling",
+      "type": "m",
       "example": [
         {
           "file": "fura_fura-1a",
@@ -5809,8 +5810,8 @@
         "twist"
       ],
       "refer": "",
-      "meaning": "an indication of turning quickly or looking away",
-      "type": "",
+      "meaning": "turning or spinning quickly, often expressing evasiveness or embarrassment",
+      "type": "m",
       "example": [{
         "file": "furi-1a",
         "contributor": "",
@@ -5830,15 +5831,9 @@
       "フリフリッ"
     ],
     "definition": [{
-      "equivalent": [
-        " flip flip",
-        "flick flick",
-        "swish swish",
-        "wag wag",
-        "wave wave"
-      ],
-      "refer": "",
-      "meaning": "the indication of a quick side to side motion",
+      "equivalent": [""],
+      "refer": "bun bun:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -5875,8 +5870,8 @@
         "tremble"
       ],
       "refer": "",
-      "meaning": "an indication of shaking",
-      "type": "",
+      "meaning": "shaking or trembling",
+      "type": "m",
       "example": [{
         "file": "furo_furo-1a",
         "contributor": "",
@@ -5909,8 +5904,8 @@
           "shake shake"
         ],
         "refer": "",
-        "meaning": "an indication of turning one's head side to side, as a way of expressing disagreement",
-        "type": "",
+        "meaning": "shaking one's head side to side, as a way of expressing disagreement",
+        "type": "m",
         "example": [{
           "file": "furu_furu-2a",
           "contributor": "",
@@ -5923,8 +5918,8 @@
   },
   {
     "hiragana": [
-      "ふわっ",
-      "ふわ"
+      "ふわ",
+      "ふわっ"
     ],
     "katakana": [
       "フワ",
@@ -5939,8 +5934,8 @@
         "sway"
       ],
       "refer": "",
-      "meaning": "an indication of floating gently or moving softly",
-      "type": "",
+      "meaning": "moving or floating gently, softly, or delicately",
+      "type": "m",
       "example": [
         {
           "file": "fuwa-1a",
@@ -5995,8 +5990,8 @@
           "laugh"
         ],
         "refer": "",
-        "meaning": "the sound of a light laugh",
-        "type": "",
+        "meaning": "a light laugh",
+        "type": "v",
         "example": [
           {
             "file": "fu_fu-1a",
@@ -6023,11 +6018,12 @@
           "blow blow",
           "breath breath",
           "exhale",
-          "huff huff"
+          "huff huff",
+          "inhale"
         ],
         "refer": "",
-        "meaning": "sounds of breathing in a controlled, deliberate manner",
-        "type": "",
+        "meaning": "breathing in a controlled, deliberate manner",
+        "type": "v",
         "example": [
           {
             "file": "fu_fu-2a",
@@ -6098,8 +6094,8 @@
           "whang"
         ],
         "refer": "",
-        "meaning": "the sound of a medium impact or strike, usually short or abrupt",
-        "type": "",
+        "meaning": "a medium impact or strike, usually short or abrupt",
+        "type": "o",
         "example": [
           {
             "file": "ga-1a",
@@ -6141,8 +6137,8 @@
           "snatch"
         ],
         "refer": "",
-        "meaning": "an indication or sound of seizing something with a sudden motion or grasp",
-        "type": "",
+        "meaning": "seizing something with a sudden motion or grasp",
+        "type": "m",
         "example": [
           {
             "file": "ga-2a",
@@ -6185,8 +6181,8 @@
           "yell"
         ],
         "refer": "",
-        "meaning": "the sound of an animal growling or roaring",
-        "type": "",
+        "meaning": "growling or roaring",
+        "type": "v",
         "example": [{
           "file": "ga-3a",
           "contributor": "",
@@ -6218,8 +6214,8 @@
           "suddenly"
         ],
         "refer": "",
-        "meaning": "an indication of suddenly sitting or standing up",
-        "type": "",
+        "meaning": "suddenly and energetically sitting up or standing up",
+        "type": "m",
         "example": [
           {
             "file": "gaba-1a",
@@ -6258,8 +6254,8 @@
           "hug"
         ],
         "refer": "",
-        "meaning": "an indication of grabbing or hugging someone, often sudden or unexpected",
-        "type": "",
+        "meaning": "suddenly and energetically grabbing or hugging someone",
+        "type": "m",
         "example": [
           {
             "file": "gaba-2a",

@@ -1,44 +1,42 @@
 {
-  "literal": "biku biku",
-  "katakana": [
-    "ビクビク",
-    "ビクビクッ"
-  ],
   "hiragana": [
     "びくびく",
     "びくびくっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "jerky movements or twitching",
-      "equivalent": [
-        "convulse",
-        "flinch",
-        "jerk",
-        "jolt",
-        "quiver",
-        "shake",
-        "shiver",
-        "tremble",
-        "twitch",
-        "wince"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "biku_biku-1a",
-          "display": "クッ  ビク  ビクッ",
-          "contributor": ""
-        },
-        {
-          "source": "reincarnated_as_a_dragon_egg",
-          "file": "biku_bikun-1a",
-          "display": "ビク  ビク  ビクン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ビクビク",
+    "ビクビクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "convulse",
+      "flinch",
+      "jerk",
+      "jolt",
+      "quiver",
+      "shake",
+      "shiver",
+      "tremble",
+      "twitch",
+      "wince"
+    ],
+    "refer": "",
+    "meaning": "jerky movements or twitching",
+    "type": "m",
+    "example": [
+      {
+        "file": "biku_biku-1a",
+        "contributor": "",
+        "display": "クッ  ビク  ビクッ",
+        "source": "double_play"
+      },
+      {
+        "file": "biku_bikun-1a",
+        "contributor": "",
+        "display": "ビク  ビク  ビクン",
+        "source": "reincarnated_as_a_dragon_egg"
+      }
+    ]
+  }],
+  "literal": "biku biku"
 }

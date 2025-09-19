@@ -1,50 +1,48 @@
 {
-  "literal": "chu",
-  "katakana": [
-    "チュ",
-    "チュッ",
-    "チュー",
-    "チューッ"
-  ],
   "hiragana": [
     "ちゅ",
     "ちゅっ",
     "ちゅー",
     "ちゅーっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "ov",
-      "meaning": "kissing, licking, or sucking",
-      "equivalent": [
-        "kiss",
-        "lick",
-        "slurp",
-        "smooch",
-        "suck",
-        "suckle"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "chu-1a",
-          "display": "ちゅーっ",
-          "contributor": ""
-        },
-        {
-          "source": "drawing",
-          "file": "chu-1b",
-          "display": "ちゅっ",
-          "contributor": ""
-        },
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "chu-1c",
-          "display": "ちゅっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チュ",
+    "チュッ",
+    "チュー",
+    "チューッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "kiss",
+      "lick",
+      "slurp",
+      "smooch",
+      "suck",
+      "suckle"
+    ],
+    "refer": "",
+    "meaning": "kissing, licking, or sucking",
+    "type": "o",
+    "example": [
+      {
+        "file": "chu-1a",
+        "contributor": "",
+        "display": "ちゅーっ",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "chu-1b",
+        "contributor": "",
+        "display": "ちゅっ",
+        "source": "drawing"
+      },
+      {
+        "file": "chu-1c",
+        "contributor": "",
+        "display": "ちゅっ",
+        "source": "killed_by_gods_mistake"
+      }
+    ]
+  }],
+  "literal": "chu"
 }

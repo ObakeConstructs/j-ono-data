@@ -1,45 +1,45 @@
 {
-  "literal": "bun bun",
-  "katakana": [
-    "ブンブン",
-    "ブンブンッ"
-  ],
   "hiragana": [
     "ぶんぶん",
     "ぶんぶんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "mo",
-      "meaning": "indications of waving or shaking to and fro",
-      "equivalent": [
-        "flick flick",
-        "shake shake",
-        "swipe swipe",
-        "swish swish",
-        "wave wave"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "bun_bun-1a",
-          "display": "ぶん  ぶんっ",
-          "contributor": ""
-        },
-        {
-          "source": "world_full_of_monsters",
-          "file": "bun_bun-1b",
-          "display": "ブン  ブンッ",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "bun_bun-1c",
-          "display": "ブン  ブン  ブン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ブンブン",
+    "ブンブンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flick flick",
+      "flip flip",
+      "shake shake",
+      "swipe swipe",
+      "swish swish",
+      "wag wag",
+      "wave wave"
+    ],
+    "refer": "",
+    "meaning": "indications of waving or shaking to and fro",
+    "type": "m",
+    "example": [
+      {
+        "file": "bun_bun-1a",
+        "contributor": "",
+        "display": "ぶん  ぶんっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "bun_bun-1b",
+        "contributor": "",
+        "display": "ブン  ブンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "bun_bun-1c",
+        "contributor": "",
+        "display": "ブン  ブン  ブン",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "literal": "bun bun"
 }

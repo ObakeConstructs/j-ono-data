@@ -1,33 +1,29 @@
 {
-  "literal": "chi",
-  "katakana": [
-    "チ",
-    "チッ"
-  ],
   "hiragana": [
     "ち",
     "ちっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "ve",
-      "meaning": "a dental click or tsk, typically indicating annoyance ",
-      "equivalent": [
-        "bah",
-        "crap",
-        "damn",
-        "tch",
-        "tsk"
-      ],
-      "example": [
-        {
-          "source": "way_of_isekai_cooking",
-          "file": "chi-1a",
-          "display": "ちっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チ",
+    "チッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bah",
+      "crap",
+      "damn",
+      "tch",
+      "tsk"
+    ],
+    "refer": "",
+    "meaning": "a dental click or tsk, typically indicating annoyance ",
+    "type": "v",
+    "example": [{
+      "file": "chi-1a",
+      "contributor": "",
+      "display": "ちっ",
+      "source": "way_of_isekai_cooking"
+    }]
+  }],
+  "literal": "chi"
 }

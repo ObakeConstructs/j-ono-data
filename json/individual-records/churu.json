@@ -1,35 +1,31 @@
 {
-  "literal": "churu",
-  "katakana": [
-    "チュル",
-    "チュルッ"
-  ],
   "hiragana": [
     "ちゅる",
     "ちゅるっ"
   ],
-  "definition": [
-    {
-      "refer": "chupu:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "churu-1a",
-          "display": "ちゅる",
-          "contributor": ""
-        },
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "churu-1b",
-          "display": "チュル..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "チュル",
+    "チュルッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "chupu:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "churu-1a",
+        "contributor": "",
+        "display": "ちゅる",
+        "source": "d_genesis"
+      },
+      {
+        "file": "churu-1b",
+        "contributor": "",
+        "display": "チュル..",
+        "source": "rise_of_the_outlaw_tamer"
+      }
+    ]
+  }],
+  "literal": "churu"
 }

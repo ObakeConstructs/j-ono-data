@@ -1,38 +1,36 @@
 {
-  "literal": "ahan",
-  "katakana": [
-    "アハン",
-    "アハーン"
-  ],
   "hiragana": [
     "あはん",
     "あはーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "ev",
-      "meaning": "moaning, often sensual or playful",
-      "equivalent": [
-        "aha-n",
-        "ahh",
-        "moan",
-        "sigh"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "ahan-1a",
-          "display": "あはーん",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_sniper",
-          "file": "ahan-1b",
-          "display": "あはーん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "アハン",
+    "アハーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aha-n",
+      "ahh",
+      "moan",
+      "sigh"
+    ],
+    "refer": "",
+    "meaning": "moaning, often sensual or playful",
+    "type": "e",
+    "example": [
+      {
+        "file": "ahan-1a",
+        "contributor": "",
+        "display": "あはーん",
+        "source": "hello_work"
+      },
+      {
+        "file": "ahan-1b",
+        "contributor": "",
+        "display": "あはーん",
+        "source": "isekai_sniper"
+      }
+    ]
+  }],
+  "literal": "ahan"
 }

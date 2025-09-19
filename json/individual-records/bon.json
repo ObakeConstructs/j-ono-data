@@ -1,35 +1,31 @@
 {
-  "literal": "bon",
-  "katakana": [
-    "ボン",
-    "ボーン",
-    "ボンッ"
-  ],
   "hiragana": [
     "ぼん",
     "ぼーん",
     "ぼんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "ce",
-      "meaning": "to show or reveal something impressive, shocking or surprising",
-      "equivalent": [
-        "bam",
-        "blam",
-        "boom",
-        "d-dum",
-        "ta-da"
-      ],
-      "example": [
-        {
-          "source": "pokemon_xy_break",
-          "file": "bon-1a",
-          "display": "ボーン",
-          "contributor": "Artrix"
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ボン",
+    "ボーン",
+    "ボンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "blam",
+      "boom",
+      "d-dum",
+      "ta-da"
+    ],
+    "refer": "",
+    "meaning": "to show or reveal something impressive, shocking or surprising",
+    "type": "c",
+    "example": [{
+      "file": "bon-1a",
+      "contributor": "Artrix",
+      "display": "ボーン",
+      "source": "pokemon_xy_break"
+    }]
+  }],
+  "literal": "bon"
 }

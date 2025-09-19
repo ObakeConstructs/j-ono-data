@@ -1,20 +1,16 @@
 {
-  "literal": "dosa",
-  "katakana": [
-    "ドサ",
-    "ドサッ",
-    "ドササッ"
-  ],
   "hiragana": [
     "どさ",
     "どさっ",
     "どささっ"
   ],
+  "katakana": [
+    "ドサ",
+    "ドサッ",
+    "ドササッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "om",
-      "meaning": "falling down or collapsing from an upright position",
       "equivalent": [
         "buckle",
         "collapse",
@@ -23,31 +19,31 @@
         "topple",
         "tumble"
       ],
+      "refer": "",
+      "meaning": "falling down or collapsing from an upright position",
+      "type": "o",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "dosa-1a",
+          "contributor": "",
           "display": "どさ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_sage_daughters",
           "file": "dosa-1b",
+          "contributor": "",
           "display": "ドサッ",
-          "contributor": ""
+          "source": "reincarnated_sage_daughters"
         },
         {
-          "source": "strongest_magician_was_human",
           "file": "dosa-1c",
+          "contributor": "",
           "display": "ドサッ",
-          "contributor": ""
+          "source": "strongest_magician_was_human"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "om",
-      "meaning": "placing or dropping something onto a hard surface",
       "equivalent": [
         "deposit",
         "place",
@@ -56,26 +52,30 @@
         "thump",
         "whump"
       ],
+      "refer": "",
+      "meaning": "placing or dropping something onto a hard surface",
+      "type": "o",
       "example": [
         {
-          "source": "ai_and_izawa",
           "file": "dosa-2a",
+          "contributor": "",
           "display": "ドササッ",
-          "contributor": ""
+          "source": "ai_and_izawa"
         },
         {
-          "source": "spy_x_family",
           "file": "dosa-2b",
+          "contributor": "",
           "display": "ドサ",
-          "contributor": ""
+          "source": "spy_x_family"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "dosa-2c",
+          "contributor": "",
           "display": "ドサッ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }
-  ]
+  ],
+  "literal": "dosa"
 }

@@ -1,33 +1,29 @@
 {
-  "literal": "faa",
-  "katakana": [
-    "ファ",
-    "ファァ",
-    "フアア"
-  ],
   "hiragana": [
     "ふぁ",
     "ふぁぁ",
     "ふああ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "vms",
-      "meaning": "a deep breath or yawn, expressing tiredness or boredom",
-      "equivalent": [
-        "huff",
-        "whaa",
-        "yawn"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "faa-1a",
-          "display": "ふああ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ファ",
+    "ファァ",
+    "フアア"
+  ],
+  "definition": [{
+    "equivalent": [
+      "huff",
+      "whaa",
+      "yawn"
+    ],
+    "refer": "",
+    "meaning": "a deep breath or yawn, expressing tiredness or boredom",
+    "type": "v",
+    "example": [{
+      "file": "faa-1a",
+      "contributor": "",
+      "display": "ふああ...",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "faa"
 }

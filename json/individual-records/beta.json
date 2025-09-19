@@ -1,38 +1,34 @@
 {
-  "literal": "beta",
-  "katakana": [
-    "ベタ",
-    "ベタッ",
-    "ベタァ",
-    "ベタァッ"
-  ],
   "hiragana": [
     "べた",
     "べたっ",
     "べたぁ",
     "べたぁっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "sticky, gummy or clammy",
-      "equivalent": [
-        "clammy",
-        "cling",
-        "gummy",
-        "stick",
-        "sticky",
-        "tacky"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "beta-1a",
-          "display": "ベタァ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ベタ",
+    "ベタッ",
+    "ベタァ",
+    "ベタァッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clammy",
+      "cling",
+      "gummy",
+      "stick",
+      "sticky",
+      "tacky"
+    ],
+    "refer": "",
+    "meaning": "sticky, gummy or clammy",
+    "type": "s",
+    "example": [{
+      "file": "beta-1a",
+      "contributor": "",
+      "display": "ベタァ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "beta"
 }

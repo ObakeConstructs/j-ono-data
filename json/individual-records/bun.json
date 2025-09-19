@@ -1,18 +1,14 @@
 {
-  "literal": "bun",
-  "katakana": [
-    "ブン",
-    "ブンッ"
-  ],
   "hiragana": [
     "ぶん",
     "ぶんっ"
   ],
+  "katakana": [
+    "ブン",
+    "ブンッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "mo",
-      "meaning": "swinging or whipping something quickly and often violently",
       "equivalent": [
         "swish",
         "swoosh",
@@ -20,25 +16,25 @@
         "zip",
         "zoom"
       ],
+      "refer": "",
+      "meaning": "swinging or whipping something quickly and often violently",
+      "type": "m",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "bun-1a",
+          "contributor": "",
           "display": "ブンッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "spy_x_family",
           "file": "bun-1b",
+          "contributor": "",
           "display": "ブンッ",
-          "contributor": ""
+          "source": "spy_x_family"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "an abrupt, jerky, or uncontrolled movement",
       "equivalent": [
         "convulse",
         "flutter",
@@ -52,14 +48,16 @@
         "tremble",
         "wobble"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "bun-2a",
-          "display": "ブンッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "an abrupt, jerky, or uncontrolled movement",
+      "type": "m",
+      "example": [{
+        "file": "bun-2a",
+        "contributor": "",
+        "display": "ブンッ",
+        "source": "world_full_of_monsters"
+      }]
     }
-  ]
+  ],
+  "literal": "bun"
 }
