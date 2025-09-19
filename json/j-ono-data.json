@@ -49,7 +49,7 @@
       ],
       "refer": "",
       "meaning": "laughter, often long or repeated",
-      "type": "e",
+      "type": "v",
       "example": [
         {
           "file": "ahaha-1a",
@@ -85,7 +85,7 @@
       ],
       "refer": "",
       "meaning": "moaning, often sensual or playful",
-      "type": "e",
+      "type": "v",
       "example": [
         {
           "file": "ahan-1a",
@@ -196,7 +196,7 @@
       ],
       "refer": "",
       "meaning": "stammering or exclamation showing panic, confusion, or fluster",
-      "type": "e",
+      "type": "v",
       "example": [{
         "file": "awa-1a",
         "contributor": "",
@@ -1416,7 +1416,7 @@
         {
           "file": "biku_biku-1a",
           "contributor": "",
-          "display": "クッ  ビク  ビクッ",
+          "display": "ビクッ  ビク  ビクッ",
           "source": "double_play"
         },
         {
@@ -6290,8 +6290,8 @@
         "crunch"
       ],
       "refer": "",
-      "meaning": "the sound of a bite",
-      "type": "",
+      "meaning": "a big or forceful bite, usually sudden or exaggerated",
+      "type": "o",
       "example": [{
         "file": "gabu-1a",
         "contributor": "",
@@ -6322,8 +6322,8 @@
         "tick"
       ],
       "refer": "",
-      "meaning": "a sound of rattling or clattering",
-      "type": "",
+      "meaning": "a rattling, clattering, or clicking sound, often metallic or mechanical",
+      "type": "o",
       "example": [
         {
           "file": "gacha-1a",
@@ -6379,8 +6379,8 @@
         "wooden"
       ],
       "refer": "",
-      "meaning": "an indication of stiffness or stillness",
-      "type": "",
+      "meaning": "rigid stiffness or hardness",
+      "type": "s",
       "example": [{
         "file": "gachi-1a",
         "contributor": "",
@@ -6411,8 +6411,8 @@
         "laughter"
       ],
       "refer": "",
-      "meaning": "a sound of loud, heartfelt laughter",
-      "type": "",
+      "meaning": "boistrous or loud laughter",
+      "type": "v",
       "example": [{
         "file": "gaha-1a",
         "contributor": "",
@@ -6434,13 +6434,13 @@
     "definition": [{
       "equivalent": [
         "bite",
-        "chew",
-        "gnaw",
-        "grind"
+        "chomp",
+        "crunch",
+        "snap"
       ],
       "refer": "",
-      "meaning": "a sound of biting or chewing",
-      "type": "",
+      "meaning": "biting into something",
+      "type": "m",
       "example": [{
         "file": "gaji-1a",
         "contributor": "",
@@ -6463,16 +6463,19 @@
     ],
     "definition": [{
       "equivalent": [
+        "block",
         "clang",
         "clank",
         "clash",
+        "collide",
         "crunch",
+        "snap",
         "tang",
         "whang"
       ],
       "refer": "",
-      "meaning": "a sound of opposed or resisted impacts or strikes",
-      "type": "",
+      "meaning": "a sharp clashing, snapping, or colliding sound",
+      "type": "o",
       "example": [{
         "file": "gaki-1a",
         "contributor": "",
@@ -6524,6 +6527,7 @@
     ],
     "definition": [{
       "equivalent": [
+        "bank",
         "clunk",
         "ga-thunk",
         "ka-thunk",
@@ -6533,8 +6537,8 @@
         "tonk"
       ],
       "refer": "",
-      "meaning": "a light, hollow sound of an impact",
-      "type": "",
+      "meaning": "a hollow clunking or banging sound",
+      "type": "o",
       "example": [
         {
           "file": "gakon-1a",
@@ -6590,8 +6594,8 @@
           "succumb"
         ],
         "refer": "",
-        "meaning": "an expression of giving up or passing out",
-        "type": "",
+        "meaning": "a physical collapse, as with fainting or knees buckling",
+        "type": "o",
         "example": [
           {
             "file": "gaku-1a",
@@ -6623,8 +6627,8 @@
           "wilt"
         ],
         "refer": "",
-        "meaning": "an expression of depression or tiredness",
-        "type": "",
+        "meaning": "a sudden loss of energy or spirit",
+        "type": "s",
         "example": [
           {
             "file": "gaku-2a",
@@ -6655,8 +6659,8 @@
         "snap"
       ],
       "refer": "",
-      "meaning": "a sound of breaking metal",
-      "type": "",
+      "meaning": "a sharp, high pitched sound of metal breaking or snapping",
+      "type": "o",
       "example": [{
         "file": "gakyin-1a",
         "contributor": "",
@@ -19920,7 +19924,7 @@
         {
           "file": "puru_puru-1e",
           "contributor": "",
-          "display": "プル   プル   プル",
+          "display": "プル  プル  プル",
           "source": "yojo_life"
         }
       ]
