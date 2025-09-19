@@ -73,7 +73,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
       * "s" = state/condition (擬態語)
       * "m" = motion/movement (擬容語)
       * "e" = emotion/feeling (擬情語)
-      * "c" = symbolic cue (記号的オノマトペ)
+      * "c" = meta/visual cue (記号的オノマトペ)
     * the "type" string is currently NOT displayed in the search tool, but will be once all definitions have updated with a "type" string
 * Each "example" object contains...
   * a "source" string with a source id (see SOURCE RECORDS)
@@ -90,7 +90,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   "hiragana": [ "ぎん", "ぎんっ" ],
   "definition": [{
       "refer": "",
-      "type": "ec",
+      "type": "e",
       "meaning": "an indication of glaring or staring",
       "equivalent": [ "fixate", "glare", "glower", "regard", "stare" ],
       "example": [{
@@ -118,6 +118,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   "hiragana": [ "ぎぬろ", "ぎぬろぉ" ],
   "definition": [{
       "refer": "gin:1",
+      "type": "",
       "meaning": ", typically drawn out and menacing",
       "equivalent": [ "scowl" ],
       "example": [{
