@@ -1,0 +1,53 @@
+{
+  "literal": "gi gi",
+  "katakana": [
+    "ギギ",
+    "ギギギ",
+    "ギギギギ"
+  ],
+  "hiragana": [
+    "ぎぎ",
+    "ぎぎぎ",
+    "ぎぎぎぎ"
+  ],
+  "definition": [
+    {
+      "refer": "gi:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "gigi-1a",
+          "display": "ギギギギギ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "refer": "gi:2",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "gigi-2a",
+          "display": "ギ...  ギギ...",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "gigi-2b",
+          "display": "ギギギギ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

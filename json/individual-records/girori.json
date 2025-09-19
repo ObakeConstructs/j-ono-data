@@ -1,17 +1,27 @@
 {
-  "hiragana": ["ぎろり"],
-  "katakana": ["ギロリ"],
-  "definition": [{
-    "equivalent": ["scowl"],
-    "refer": "gin:1",
-    "meaning": ", expressing anger or disappoval",
-    "type": "",
-    "example": [{
-      "file": "girori-1a",
-      "contributor": "",
-      "display": "ギロリ",
-      "source": "saga_lagging_hero"
-    }]
-  }],
-  "literal": "girori"
+  "literal": "girori",
+  "katakana": [
+    "ギロリ"
+  ],
+  "hiragana": [
+    "ぎろり"
+  ],
+  "definition": [
+    {
+      "refer": "gin:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "saga_lagging_hero",
+          "file": "girori-1a",
+          "display": "ギロリ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

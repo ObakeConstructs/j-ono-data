@@ -1978,7 +1978,7 @@
       ],
       "refer": "",
       "meaning": "emotionally fall apart, usually expressed as crying",
-      "type": "s",
+      "type": "e",
       "example": [{
         "file": "boron-1a",
         "contributor": "",
@@ -7486,8 +7486,8 @@
           "tense"
         ],
         "refer": "",
-        "meaning": "an expression of unwavering determination",
-        "type": "",
+        "meaning": "tense determination or resolve",
+        "type": "s",
         "example": [
           {
             "file": "gi-1a",
@@ -7514,8 +7514,8 @@
           "squee"
         ],
         "refer": "",
-        "meaning": "the sound of a high-pitched squeak or squeal",
-        "type": "",
+        "meaning": "a sharp, high-pitched squeak or squeal",
+        "type": "o",
         "example": [
           {
             "file": "gi-2a",
@@ -7530,12 +7530,6 @@
             "source": "reincarnated_aristocrat"
           },
           {
-            "file": "gi-2c",
-            "contributor": "",
-            "display": "ギ...",
-            "source": "s_rank_behemoth"
-          },
-          {
             "file": "gi-2d",
             "contributor": "",
             "display": "ギィィ",
@@ -7548,58 +7542,6 @@
   },
   {
     "hiragana": [
-      "ぎぎ",
-      "ぎぎぎ",
-      "ぎぎぎぎ"
-    ],
-    "katakana": [
-      "ギギ",
-      "ギギギ",
-      "ギギギギ"
-    ],
-    "definition": [
-      {
-        "equivalent": [
-          "clench",
-          "gnash",
-          "grind",
-          "grit"
-        ],
-        "refer": "",
-        "meaning": "an expression of grinding one's teeth",
-        "type": "",
-        "example": [{
-          "file": "gigi-1a",
-          "contributor": "",
-          "display": "ギギ",
-          "source": "different_world_smartphone"
-        }]
-      },
-      {
-        "equivalent": [""],
-        "refer": "gi:1",
-        "meaning": "",
-        "type": "",
-        "example": [
-          {
-            "file": "gigi-2a",
-            "contributor": "",
-            "display": "ギギ...",
-            "source": "s_rank_behemoth"
-          },
-          {
-            "file": "gigi-2b",
-            "contributor": "",
-            "display": "ギギギギ...",
-            "source": "otherworld_material_collector"
-          }
-        ]
-      }
-    ],
-    "literal": "gigi"
-  },
-  {
-    "hiragana": [
       "ぎく",
       "ぎくっ"
     ],
@@ -7609,16 +7551,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "alarm",
         "erk",
+        "flinch",
         "guilt",
         "gulp",
         "shock",
         "urk"
       ],
       "refer": "",
-      "meaning": "an expression of dismay, guilt and/or surprise",
-      "type": "",
+      "meaning": "a brief flinch or reaction to dismay, guilt or surprise",
+      "type": "e",
       "example": [
         {
           "file": "giku-1a",
@@ -7657,11 +7599,12 @@
         "glare",
         "glower",
         "regard",
+        "scowl",
         "stare"
       ],
       "refer": "",
-      "meaning": "an indication of glaring or staring",
-      "type": "",
+      "meaning": "a sharp, intense glare or stare",
+      "type": "e",
       "example": [
         {
           "file": "gin-1a",
@@ -7689,7 +7632,7 @@
       "ギヌロォ"
     ],
     "definition": [{
-      "equivalent": ["scowl"],
+      "equivalent": [""],
       "refer": "gin:1",
       "meaning": ", typically drawn out and menacing",
       "type": "",
@@ -7758,10 +7701,15 @@
       "ギリッ"
     ],
     "definition": [{
-      "equivalent": [""],
-      "refer": "gigi:1",
-      "meaning": "",
-      "type": "",
+      "equivalent": [
+        "clench",
+        "gnash",
+        "grind",
+        "grit"
+      ],
+      "refer": "",
+      "meaning": "a sharp grinding of teeth, typically expressing anger, frustration, or determination",
+      "type": "e",
       "example": [
         {
           "file": "giri-1a",
@@ -7790,7 +7738,7 @@
     ],
     "definition": [{
       "equivalent": [""],
-      "refer": "gigi:1",
+      "refer": "giri:1",
       "meaning": "",
       "type": "",
       "example": [
@@ -7845,9 +7793,9 @@
     "hiragana": ["ぎろり"],
     "katakana": ["ギロリ"],
     "definition": [{
-      "equivalent": ["scowl"],
+      "equivalent": [""],
       "refer": "gin:1",
-      "meaning": ", expressing anger or disappoval",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "girori-1a",
@@ -7857,6 +7805,53 @@
       }]
     }],
     "literal": "girori"
+  },
+  {
+    "hiragana": [
+      "ぎぎ",
+      "ぎぎぎ",
+      "ぎぎぎぎ"
+    ],
+    "katakana": [
+      "ギギ",
+      "ギギギ",
+      "ギギギギ"
+    ],
+    "definition": [
+      {
+        "equivalent": [""],
+        "refer": "gi:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "gigi-1a",
+          "contributor": "",
+          "display": "ギギギギギ",
+          "source": "different_world_smartphone"
+        }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "gi:2",
+        "meaning": "",
+        "type": "",
+        "example": [
+          {
+            "file": "gigi-2a",
+            "contributor": "",
+            "display": "ギ...  ギギ...",
+            "source": "s_rank_behemoth"
+          },
+          {
+            "file": "gigi-2b",
+            "contributor": "",
+            "display": "ギギギギ...",
+            "source": "otherworld_material_collector"
+          }
+        ]
+      }
+    ],
+    "literal": "gi gi"
   },
   {
     "hiragana": [
