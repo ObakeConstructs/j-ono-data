@@ -18944,7 +18944,7 @@
       "example": [{
         "file": "poka-1a",
         "contributor": "Artrix",
-        "display": "ポカ<sub>ブ<\/sub>!!",
+        "display": "ポカ<sub><sup>ブ<\/sup><\/sub>!!",
         "source": "pokemon_xy_break"
       }]
     }],
