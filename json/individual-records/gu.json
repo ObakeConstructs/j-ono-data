@@ -1,18 +1,5 @@
 {
-  "hiragana": [
-    "ぐ",
-    "ぐっ",
-    "ぐー",
-    "ぐーっ",
-    "ぐ",
-    "ぐう",
-    "ぐうっ",
-    "ぐうう",
-    "ぐううう",
-    "ぐぅ",
-    "ぐぅぅ",
-    "ぐぅぅぅ"
-  ],
+  "literal": "gu",
   "katakana": [
     "グ",
     "グッ",
@@ -27,8 +14,25 @@
     "グゥゥ",
     "グゥゥゥ"
   ],
+  "hiragana": [
+    "ぐ",
+    "ぐっ",
+    "ぐー",
+    "ぐーっ",
+    "ぐ",
+    "ぐう",
+    "ぐうっ",
+    "ぐうう",
+    "ぐううう",
+    "ぐぅ",
+    "ぐぅぅ",
+    "ぐぅぅぅ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "a strong, firm, or tightening grip",
       "equivalent": [
         "clench",
         "firm grip",
@@ -38,37 +42,37 @@
         "hold",
         "squeeze"
       ],
-      "refer": "",
-      "meaning": "the indication of a strong, firm, or tightening grip",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "gu-1a",
-          "contributor": "",
           "display": "ぐっ...",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "gu-1b",
-          "contributor": "",
           "display": "グッ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "strongest_failure_frame",
           "file": "gu-1c",
-          "contributor": "",
           "display": "ぐ",
-          "source": "strongest_failure_frame"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "gu-1d",
-          "contributor": "",
           "display": "グッ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "pushing or driving with force",
       "equivalent": [
         "drive",
         "force",
@@ -78,25 +82,25 @@
         "shove",
         "thrust"
       ],
-      "refer": "",
-      "meaning": "an indication or sound of pushing or driving with force",
-      "type": "",
       "example": [
         {
+          "source": "world_full_of_monsters",
           "file": "gu-2a",
-          "contributor": "",
           "display": "ぐっ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "double_play",
           "file": "gu-2b",
-          "contributor": "",
           "display": "ぐっ...",
-          "source": "double_play"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "a tense reaction to sudden pain or exertion",
       "equivalent": [
         "breath",
         "gasp",
@@ -105,108 +109,110 @@
         "puff",
         "wheeze"
       ],
-      "refer": "",
-      "meaning": "a sound of breathing hard",
-      "type": "",
-      "example": [{
-        "file": "gu-3a",
-        "contributor": "",
-        "display": "ぐっ...",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "gu-3a",
+          "display": "ぐっ...",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "a stomach growling",
       "equivalent": [
         "growl",
         "grr",
         "rumble"
       ],
-      "refer": "",
-      "meaning": "the sound of a stomach growling",
-      "type": "",
       "example": [
         {
+          "source": "fushi_no_kami",
           "file": "gu-4a",
-          "contributor": "",
           "display": "ぐぅぅぅぅぅ",
-          "source": "fushi_no_kami"
+          "contributor": ""
         },
         {
+          "source": "isekai_territory_reform",
           "file": "gu-4b",
-          "contributor": "",
           "display": "ぐー",
-          "source": "isekai_territory_reform"
+          "contributor": ""
         },
         {
+          "source": "way_of_isekai_cooking",
           "file": "gu-4c",
-          "contributor": "",
           "display": "ぐぅ",
-          "source": "way_of_isekai_cooking"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [
-        "thumbs-up",
-        "ayyy"
-      ],
       "refer": "",
-      "meaning": "the expression or gesture of approval or encouragement, by way of a thumbs up",
-      "type": "",
+      "type": "m",
+      "meaning": "a gesture of approval or encouragement, by way of a thumbs up",
+      "equivalent": [
+        "ayyy",
+        "thumbs-up"
+      ],
       "example": [
         {
+          "source": "strongest_thread_master",
           "file": "gu-5a",
-          "contributor": "",
           "display": "ぐっ",
-          "source": "strongest_thread_master"
+          "contributor": ""
         },
         {
+          "source": "yojo_life",
           "file": "gu-5b",
-          "contributor": "",
           "display": "グッ",
-          "source": "yojo_life"
+          "contributor": ""
         },
         {
+          "source": "ai_and_izawa",
           "file": "gu-5c",
-          "contributor": "",
           "display": "ぐっ",
-          "source": "ai_and_izawa"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "emotional suppression or tension",
       "equivalent": [
         "glare",
         "glower",
-        "stare",
-        "simmer"
+        "simmer",
+        "stare"
       ],
-      "refer": "",
-      "meaning": "an expression anger or disapproval",
-      "type": "",
-      "example": [{
-        "file": "gu-6a",
-        "contributor": "",
-        "display": "ぐっ",
-        "source": "uncle_at_heart"
-      }]
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "gu-6a",
+          "display": "ぐっ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "sleeping or unconscious",
       "equivalent": [
         "sleep",
         "snore",
         "zzzz"
       ],
-      "refer": "",
-      "meaning": "an indication or sound of heavy sleeping",
-      "type": "",
-      "example": [{
-        "file": "gu-7a",
-        "contributor": "",
-        "display": "グー",
-        "source": "double_play"
-      }]
+      "example": [
+        {
+          "source": "double_play",
+          "file": "gu-7a",
+          "display": "グー",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "gu"
+  ]
 }

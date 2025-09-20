@@ -1,31 +1,35 @@
 {
-  "hiragana": [
-    "ごごご",
-    "ごごごご",
-    "ごごごごご"
-  ],
+  "literal": "gogogo",
   "katakana": [
     "ゴゴゴ",
     "ゴゴゴゴ",
     "ゴゴゴゴゴ"
   ],
-  "definition": [{
-    "equivalent": [
-      "grind grind grind",
-      "groan groan groan",
-      "rasp rasp rasp",
-      "rumble rumble rumble",
-      "scrape scrape scrape"
-    ],
-    "refer": "",
-    "meaning": "a sound of harsh rumbling or grinding",
-    "type": "",
-    "example": [{
-      "file": "gogogo-1a",
-      "contributor": "",
-      "display": "ゴゴゴゴゴ",
-      "source": "modern_dungeon_capture"
-    }]
-  }],
-  "literal": "gogogo"
+  "hiragana": [
+    "ごごご",
+    "ごごごご",
+    "ごごごごご"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a harsh rumbling or grinding",
+      "equivalent": [
+        "grind grind grind",
+        "groan groan groan",
+        "rasp rasp rasp",
+        "rumble rumble rumble",
+        "scrape scrape scrape"
+      ],
+      "example": [
+        {
+          "source": "modern_dungeon_capture",
+          "file": "gogogo-1a",
+          "display": "ゴゴゴゴゴ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

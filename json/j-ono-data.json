@@ -7894,8 +7894,8 @@
           "whack"
         ],
         "refer": "",
-        "meaning": "the sound of a medium or heavy impact",
-        "type": "",
+        "meaning": "the thud or blow from a solid impact",
+        "type": "o",
         "example": [
           {
             "file": "go-1a",
@@ -7933,8 +7933,8 @@
           "whom"
         ],
         "refer": "",
-        "meaning": "the sound of an explosion",
-        "type": "",
+        "meaning": "a sudden blast or explosion",
+        "type": "o",
         "example": [{
           "file": "go-2b",
           "contributor": "",
@@ -7947,11 +7947,12 @@
           "blaze",
           "burn",
           "flames",
+          "flare",
           "fwoosh"
         ],
         "refer": "",
-        "meaning": "a sound of fire or burning",
-        "type": "",
+        "meaning": "a sudden flare or burst of flames",
+        "type": "o",
         "example": [
           {
             "file": "go-3a",
@@ -8002,8 +8003,8 @@
         "scrape scrape scrape"
       ],
       "refer": "",
-      "meaning": "a sound of harsh rumbling or grinding",
-      "type": "",
+      "meaning": "a harsh rumbling or grinding",
+      "type": "o",
       "example": [{
         "file": "gogogo-1a",
         "contributor": "",
@@ -8028,8 +8029,8 @@
         "hack"
       ],
       "refer": "",
-      "meaning": "the sound of coughing",
-      "type": "",
+      "meaning": "a sharp or sudden cough",
+      "type": "o",
       "example": [{
         "file": "goho-1a",
         "contributor": "",
@@ -8051,7 +8052,7 @@
     "definition": [{
       "equivalent": [""],
       "refer": "goho:1",
-      "meaning": "",
+      "meaning": ", recurring or repeated",
       "type": "",
       "example": [{
         "file": "goho_goho-1a",
@@ -8077,8 +8078,8 @@
         "swallow"
       ],
       "refer": "",
-      "meaning": "a sound of gulping or swallowing",
-      "type": "",
+      "meaning": "gulping or swallowing",
+      "type": "v",
       "example": [
         {
           "file": "goku-1a",
@@ -8241,15 +8242,16 @@
     "katakana": ["ゴポリ"],
     "definition": [{
       "equivalent": [
-        "drip",
+        "exude",
+        "flow",
+        "glop",
+        "gurgle",
         "ooze",
-        "pour",
-        "pour",
-        "run"
+        "seep"
       ],
       "refer": "",
-      "meaning": "an indication or sound of slowly oozing or dripping",
-      "type": "",
+      "meaning": "oozing, seeping, or flowing, typically thick or viscous",
+      "type": "o",
       "example": [{
         "file": "gopori-1a",
         "contributor": "",
@@ -8272,13 +8274,16 @@
       "equivalent": [
         "rock",
         "roll",
+        "roll over",
+        "spin",
         "sway",
+        "tumble",
         "turn",
         "wobble"
       ],
       "refer": "",
-      "meaning": "an indication or sound of rolling or rocking",
-      "type": "",
+      "meaning": "rolling or tumbling",
+      "type": "o",
       "example": [
         {
           "file": "goro-1a",
@@ -8300,18 +8305,9 @@
     "hiragana": ["ごろん"],
     "katakana": ["ゴロン"],
     "definition": [{
-      "equivalent": [
-        "fall",
-        "rock",
-        "roll",
-        "roll over",
-        "spin",
-        "thump",
-        "tumble",
-        "turn"
-      ],
-      "refer": "",
-      "meaning": "an indication or sound of rolling over or falling over",
+      "equivalent": [""],
+      "refer": "goro:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -8352,8 +8348,8 @@
           "thrum"
         ],
         "refer": "",
-        "meaning": "the sound of a low purr, typically from a cat",
-        "type": "",
+        "meaning": "the low vibration of a purring cat",
+        "type": "v",
         "example": [{
           "file": "goro_goro-1a",
           "contributor": "",
@@ -8395,8 +8391,8 @@
         "swipe"
       ],
       "refer": "",
-      "meaning": "an indication or sound of rubbing or scrubbing",
-      "type": "",
+      "meaning": "rubbing or scrubbing, often vigorously",
+      "type": "o",
       "example": [
         {
           "file": "goshi_goshi-1a",
@@ -8445,8 +8441,8 @@
           "rustle"
         ],
         "refer": "",
-        "meaning": "an indication of rummaging or searching",
-        "type": "",
+        "meaning": "rustling sounds of rummaging or searching",
+        "type": "o",
         "example": [{
           "file": "goso-1a",
           "contributor": "",
@@ -8462,8 +8458,8 @@
           "tug"
         ],
         "refer": "",
-        "meaning": "the indication or sound of a rough or awkward motion",
-        "type": "",
+        "meaning": "rustling sounds of a rough, clumsy, or awkward motion",
+        "type": "o",
         "example": [{
           "file": "goso-1b",
           "contributor": "",
@@ -8489,13 +8485,13 @@
         "ga-thunk",
         "ka-thunk",
         "knock",
+        "thud",
         "thunk",
-        "thwack",
         "tonk"
       ],
       "refer": "",
-      "meaning": "a sound of placing or setting down something with weight",
-      "type": "",
+      "meaning": "the dull sound of placing or setting down something heavy",
+      "type": "o",
       "example": [
         {
           "file": "goto-1a",
@@ -8534,14 +8530,19 @@
     ],
     "definition": [{
       "equivalent": [
+        "blast",
+        "boom",
+        "burst",
+        "flurry",
         "howl",
-        "raaa",
         "roar",
-        "yaaa"
+        "rush",
+        "tumult",
+        "williwaw"
       ],
       "refer": "",
-      "meaning": "the sound of a loud or violent shout",
-      "type": "",
+      "meaning": "a loud rushing, roaring, or blasting sound, as from intense elemental or magical forces, or heavy machinery",
+      "type": "o",
       "example": [{
         "file": "gou-1a",
         "contributor": "",
@@ -8560,8 +8561,8 @@
         "rumble"
       ],
       "refer": "",
-      "meaning": "the rumbling sound of a motor or machinery",
-      "type": "",
+      "meaning": "the low rumbling of a motor or machinery",
+      "type": "o",
       "example": [{
         "file": "goun_goun-1a",
         "contributor": "",
@@ -8638,8 +8639,8 @@
           "squeeze"
         ],
         "refer": "",
-        "meaning": "the indication of a strong, firm, or tightening grip",
-        "type": "",
+        "meaning": "a strong, firm, or tightening grip",
+        "type": "m",
         "example": [
           {
             "file": "gu-1a",
@@ -8678,8 +8679,8 @@
           "thrust"
         ],
         "refer": "",
-        "meaning": "an indication or sound of pushing or driving with force",
-        "type": "",
+        "meaning": "pushing or driving with force",
+        "type": "m",
         "example": [
           {
             "file": "gu-2a",
@@ -8705,8 +8706,8 @@
           "wheeze"
         ],
         "refer": "",
-        "meaning": "a sound of breathing hard",
-        "type": "",
+        "meaning": "a tense reaction to sudden pain or exertion",
+        "type": "s",
         "example": [{
           "file": "gu-3a",
           "contributor": "",
@@ -8721,8 +8722,8 @@
           "rumble"
         ],
         "refer": "",
-        "meaning": "the sound of a stomach growling",
-        "type": "",
+        "meaning": "a stomach growling",
+        "type": "o",
         "example": [
           {
             "file": "gu-4a",
@@ -8750,8 +8751,8 @@
           "thumbs-up"
         ],
         "refer": "",
-        "meaning": "the expression or gesture of approval or encouragement, by way of a thumbs up",
-        "type": "",
+        "meaning": "a gesture of approval or encouragement, by way of a thumbs up",
+        "type": "m",
         "example": [
           {
             "file": "gu-5a",
@@ -8781,8 +8782,8 @@
           "stare"
         ],
         "refer": "",
-        "meaning": "an expression anger or disapproval",
-        "type": "",
+        "meaning": "emotional suppression or tension",
+        "type": "s",
         "example": [{
           "file": "gu-6a",
           "contributor": "",
@@ -8797,8 +8798,8 @@
           "zzzz"
         ],
         "refer": "",
-        "meaning": "an indication or sound of heavy sleeping",
-        "type": "",
+        "meaning": "sleeping or unconscious",
+        "type": "s",
         "example": [{
           "file": "gu-7a",
           "contributor": "",
@@ -8848,7 +8849,6 @@
         "seize",
         "shove",
         "snag",
-        "snake",
         "swipe",
         "take",
         "tug",
@@ -8856,8 +8856,8 @@
         "yank"
       ],
       "refer": "",
-      "meaning": "the indication or sound of a forceful movement",
-      "type": "",
+      "meaning": "a forceful grab, push, or pull",
+      "type": "m",
       "example": [
         {
           "file": "gui-1a",

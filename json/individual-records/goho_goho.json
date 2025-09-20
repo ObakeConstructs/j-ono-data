@@ -1,23 +1,29 @@
 {
-  "hiragana": [
-    "ごほごほ",
-    "ごほごほっ"
-  ],
+  "literal": "goho goho",
   "katakana": [
     "ゴホゴホ",
     "ゴホゴホッ"
   ],
-  "definition": [{
-    "equivalent": [""],
-    "refer": "goho:1",
-    "meaning": "",
-    "type": "",
-    "example": [{
-      "file": "goho_goho-1a",
-      "contributor": "",
-      "display": "ゴホ  ゴホッ",
-      "source": "isekai_sniper"
-    }]
-  }],
-  "literal": "goho goho"
+  "hiragana": [
+    "ごほごほ",
+    "ごほごほっ"
+  ],
+  "definition": [
+    {
+      "refer": "goho:1",
+      "type": "",
+      "meaning": ", recurring or repeated",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "isekai_sniper",
+          "file": "goho_goho-1a",
+          "display": "ゴホ  ゴホッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
