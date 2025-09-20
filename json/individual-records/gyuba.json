@@ -1,0 +1,31 @@
+{
+  "literal": "gyuba",
+  "katakana": [
+    "ギュバ"
+  ],
+  "hiragana": [
+    "ぎゅば"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a sense of tightening or charging followed by an impact or bursting sound",
+      "equivalent": [
+        "blast",
+        "boom",
+        "burst",
+        "slam",
+        "wha-bam",
+      ],
+      "example": [
+        {
+          "source": "pokemon_xy_break",
+          "file": "gyuba-1a",
+          "display": "ギュバ",
+          "contributor": "Artrix"
+        }
+      ]
+    }
+  ]
+}

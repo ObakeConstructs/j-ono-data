@@ -1,43 +1,47 @@
 {
-  "hiragana": [
-    "びし",
-    "びしっ",
-    "びしー",
-    "びしーっ"
-  ],
+  "literal": "bishi",
   "katakana": [
     "ビシ",
     "ビシッ",
     "ビシー",
     "ビシーッ"
   ],
+  "hiragana": [
+    "びし",
+    "びしっ",
+    "びしー",
+    "びしーっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "suddenly stopping as a reaction",
       "equivalent": [
         "freeze",
         "snap",
         "stiffen",
         "straighten"
       ],
-      "refer": "",
-      "meaning": "suddenly stopping as a reaction",
-      "type": "m",
       "example": [
         {
+          "source": "d_genesis",
           "file": "bishi-1a",
-          "contributor": "",
           "display": "びしっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "requiem_for_prophet",
           "file": "bishi-1b",
-          "contributor": "",
           "display": "びしっ",
-          "source": "requiem_for_prophet"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "sharp, sudden impact",
       "equivalent": [
         "bop",
         "chop",
@@ -54,46 +58,55 @@
         "thwack",
         "whap"
       ],
-      "refer": "",
-      "meaning": "sharp, sudden impact sound",
-      "type": "o",
       "example": [
         {
+          "source": "d_genesis",
           "file": "bishi-2a",
-          "contributor": "",
           "display": "ビシッ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "requiem_for_prophet",
           "file": "bishi-2b",
-          "contributor": "",
           "display": "ビシーッ",
-          "source": "requiem_for_prophet"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "bishi-2c",
-          "contributor": "",
           "display": "ビシッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "an emphatic, clean gesture or presentation",
       "equivalent": [
+        "display",
+        "emphatic",
+        "forceful",
         "gesture",
         "indicate",
-        "point"
+        "point",
+        "reveal",
+        "show"
       ],
-      "refer": "",
-      "meaning": "suddenly pointing at something,",
-      "type": "m",
-      "example": [{
-        "file": "bishi-3a",
-        "contributor": "",
-        "display": "ビシッ",
-        "source": "neet_kunoichi"
-      }]
+      "example": [
+        {
+          "source": "neet_kunoichi",
+          "file": "bishi-3a",
+          "display": "ビシッ",
+          "contributor": ""
+        },
+        {
+          "source": "pokemon_xy_break",
+          "file": "bishi-3b",
+          "display": "ビシ",
+          "contributor": "Artrix"
+        }
+      ]
     }
-  ],
-  "literal": "bishi"
+  ]
 }

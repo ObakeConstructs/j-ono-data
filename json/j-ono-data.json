@@ -1587,7 +1587,7 @@
           "whap"
         ],
         "refer": "",
-        "meaning": "sharp, sudden impact sound",
+        "meaning": "sharp, sudden impact",
         "type": "o",
         "example": [
           {
@@ -1612,19 +1612,32 @@
       },
       {
         "equivalent": [
+          "display",
+          "emphatic",
+          "forceful",
           "gesture",
           "indicate",
-          "point"
+          "point",
+          "reveal",
+          "show"
         ],
         "refer": "",
-        "meaning": "suddenly pointing at something,",
+        "meaning": "an emphatic, clean gesture or presentation",
         "type": "m",
-        "example": [{
-          "file": "bishi-3a",
-          "contributor": "",
-          "display": "ビシッ",
-          "source": "neet_kunoichi"
-        }]
+        "example": [
+          {
+            "file": "bishi-3a",
+            "contributor": "",
+            "display": "ビシッ",
+            "source": "neet_kunoichi"
+          },
+          {
+            "file": "bishi-3b",
+            "contributor": "Artrix",
+            "display": "ビシ",
+            "source": "pokemon_xy_break"
+          }
+        ]
       }
     ],
     "literal": "bishi"
@@ -9601,6 +9614,29 @@
       }
     ],
     "literal": "gyu"
+  },
+  {
+    "hiragana": ["ぎゅば"],
+    "katakana": ["ギュバ"],
+    "definition": [{
+      "equivalent": [
+        "blast",
+        "boom",
+        "burst",
+        "slam",
+        "wha-bam"
+      ],
+      "refer": "",
+      "meaning": "a sense of tightening or charging followed by an impact or bursting sound",
+      "type": "o",
+      "example": [{
+        "file": "gyuba-1a",
+        "contributor": "Artrix",
+        "display": "ギュバ",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "literal": "gyuba"
   },
   {
     "hiragana": [
@@ -25381,7 +25417,7 @@
       "type": "",
       "example": [{
         "file": "zubaban-1a",
-        "contributor": "",
+        "contributor": "Artrix",
         "display": "ズババン!",
         "source": "pokemon_xy_break"
       }]
