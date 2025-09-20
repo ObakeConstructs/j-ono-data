@@ -1,0 +1,36 @@
+{
+  "literal": "poka",
+  "katakana": [
+    "ポカ",
+    "ポカッ"
+  ],
+  "hiragana": [
+    "ぽか",
+    "ぽかっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a light or comedic strike or impact",
+      "equivalent": [
+        " dumfounded",
+        "amazed",
+        "astonished",
+        "flabbergasted",
+        "shocked",
+        "stunned",
+        "surprised",
+        "wonder"
+      ],
+      "example": [
+        {
+          "source": "pokemon_xy_break",
+          "file": "poka-1a",
+          "display": "ポカ<sub>ブ</sub>!!",
+          "contributor": "Artrix"
+        }
+      ]
+    }
+  ]
+}
