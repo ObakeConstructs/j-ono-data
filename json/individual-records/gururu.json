@@ -1,0 +1,68 @@
+{
+  "literal": "gururu",
+  "katakana": [
+    "グルル",
+    "グルルル"
+  ],
+  "hiragana": [
+    "ぐるる",
+    "ぐるるる"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "a low growl",
+      "equivalent": [
+        "growl",
+        "grumble",
+        "rumble",
+        "snarl"
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "guru-1a",
+          "display": "ぐるるるるる",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "guru-1b",
+          "display": "ぐるるるる",
+          "contributor": ""
+        },
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "guru-1c",
+          "display": "グルルル...",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "guru-1d",
+          "display": "グルル..",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a rumbling or grinding soung of something turning or spinning",
+      "equivalent": [
+        "roll",
+        "rumble",
+        "grind"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "guru-2a",
+          "display": "グルルル",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

@@ -8928,18 +8928,18 @@
     "katakana": ["グニ"],
     "definition": [{
       "equivalent": [
-        "compress",
-        "crush",
-        "mash",
-        "press",
-        "push",
-        "shove",
-        "squeeze",
-        "squish"
+        "flexible",
+        "mushy",
+        "pliable",
+        "pliant",
+        "soft",
+        "squish",
+        "squishy",
+        "squoosh"
       ],
       "refer": "",
-      "meaning": "an indication of squishy pressure",
-      "type": "",
+      "meaning": "something squishy, pliable, or yielding",
+      "type": "s",
       "example": [{
         "file": "guni-1a",
         "contributor": "",
@@ -8972,8 +8972,8 @@
         "steam"
       ],
       "refer": "",
-      "meaning": "an expression of passionate anger or fury",
-      "type": "",
+      "meaning": "suppressed frustration or irritation",
+      "type": "e",
       "example": [{
         "file": "gununu-1a",
         "contributor": "",
@@ -8997,12 +8997,14 @@
         "shift",
         "spill",
         "stagger",
+        "teeter",
         "tip",
-        "unbalanced"
+        "wobble",
+        "wobble"
       ],
       "refer": "",
-      "meaning": "an indication of something tipping or falling out of balance",
-      "type": "",
+      "meaning": "the feeling of tipping, wobbling, or losing balance",
+      "type": "o",
       "example": [
         {
           "file": "gura-1a",
@@ -9022,14 +9024,76 @@
   },
   {
     "hiragana": [
-      "ぐる",
-      "ぐるっ",
+      "ぐるん",
+      "ぐるんっ"
+    ],
+    "katakana": [
+      "グルン",
+      "グルンッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "flip",
+          "pivot",
+          "roll",
+          "spin",
+          "swing",
+          "swivel",
+          "turn",
+          "twist"
+        ],
+        "refer": "",
+        "meaning": "turning, rolling, or flipping movement",
+        "type": "m",
+        "example": [
+          {
+            "file": "gurun-1a",
+            "contributor": "",
+            "display": "ぐるん",
+            "source": "bungo"
+          },
+          {
+            "file": "gurun-1c",
+            "contributor": "",
+            "display": "ぐるん",
+            "source": "saga_lagging_hero"
+          },
+          {
+            "file": "gurun-1c",
+            "contributor": "",
+            "display": "ぐるん",
+            "source": "saga_lagging_hero"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "flick",
+          "flit",
+          "swish",
+          "whip",
+          "zip"
+        ],
+        "refer": "",
+        "meaning": "a fast, sudden or jerky movement",
+        "type": "m",
+        "example": [{
+          "file": "gurun-1b",
+          "contributor": "",
+          "display": "ぐ<sub><sup>る<\/sup><\/sub>んっ",
+          "source": "strongest_failure_frame"
+        }]
+      }
+    ],
+    "literal": "gurun"
+  },
+  {
+    "hiragana": [
       "ぐるる",
       "ぐるるる"
     ],
     "katakana": [
-      "グル",
-      "グルッ",
       "グルル",
       "グルルル"
     ],
@@ -9042,8 +9106,8 @@
           "snarl"
         ],
         "refer": "",
-        "meaning": "the sound of a growl",
-        "type": "",
+        "meaning": "a low growl",
+        "type": "v",
         "example": [
           {
             "file": "guru-1a",
@@ -9073,19 +9137,13 @@
       },
       {
         "equivalent": [
-          "revolve",
+          "grind",
           "roll",
-          "rotate",
-          "spin",
-          "swivel",
-          "turn",
-          "twirl",
-          "whirl",
-          "wind"
+          "rumble"
         ],
         "refer": "",
-        "meaning": "an indication or sound of something rotating or spinning",
-        "type": "",
+        "meaning": "a rumbling or grinding soung of something turning or spinning",
+        "type": "o",
         "example": [{
           "file": "guru-2a",
           "contributor": "",
@@ -9094,53 +9152,7 @@
         }]
       }
     ],
-    "literal": "guru"
-  },
-  {
-    "hiragana": [
-      "ぐるん",
-      "ぐるんっ"
-    ],
-    "katakana": [
-      "グルン",
-      "グルンッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "flip",
-        "pivot",
-        "roll",
-        "spin",
-        "swing",
-        "swivel",
-        "turn",
-        "twist"
-      ],
-      "refer": "",
-      "meaning": "an act of turning, rolling, or flipping something",
-      "type": "",
-      "example": [
-        {
-          "file": "gurun-1a",
-          "contributor": "",
-          "display": "ぐるん",
-          "source": "bungo"
-        },
-        {
-          "file": "gurun-1b",
-          "contributor": "",
-          "display": "ぐるんっ",
-          "source": "strongest_failure_frame"
-        },
-        {
-          "file": "gurun-1c",
-          "contributor": "",
-          "display": "ぐるん",
-          "source": "saga_lagging_hero"
-        }
-      ]
-    }],
-    "literal": "gurun"
+    "literal": "gururu"
   },
   {
     "hiragana": [
@@ -9160,8 +9172,8 @@
         "stab"
       ],
       "refer": "",
-      "meaning": "a sound of stabbing or piercing",
-      "type": "",
+      "meaning": "a sudden or forceful piercing, stabbing or skewering",
+      "type": "o",
       "example": [
         {
           "file": "gusa-1a",
@@ -9197,8 +9209,8 @@
         "wipe"
       ],
       "refer": "",
-      "meaning": "an indication of pressing or rubbing in a rough or forceful way",
-      "type": "",
+      "meaning": "the sound of roughly pressing or rubbing something soft",
+      "type": "o",
       "example": [{
         "file": "gushi-1a",
         "contributor": "",
@@ -9244,13 +9256,15 @@
       "equivalent": [
         "blub",
         "cry",
+        "sniff",
+        "sniffle",
         "sob",
         "tears",
         "weep"
       ],
       "refer": "",
-      "meaning": "an indication of tears welling up, as an expression of pain or distress",
-      "type": "",
+      "meaning": "the soft sniffling or sobbing sound of crying",
+      "type": "v",
       "example": [{
         "file": "gusu-1a",
         "contributor": "",
@@ -9345,8 +9359,8 @@
         "yell"
       ],
       "refer": "",
-      "meaning": "the sound of a loud shout or cry",
-      "type": "",
+      "meaning": "a sudden, loud shout or cry, expressing a strong emotional outburst",
+      "type": "e",
       "example": [{
         "file": "guwa-1a",
         "contributor": "",
@@ -9426,8 +9440,8 @@
         "shrill"
       ],
       "refer": "",
-      "meaning": "an abrupt shriek, as from distressed metal",
-      "type": "",
+      "meaning": "loud, high-pitched screeching of distressed metal",
+      "type": "o",
       "example": [{
         "file": "gya-1a",
         "contributor": "",
@@ -9458,7 +9472,7 @@
         "squeal squeal"
       ],
       "refer": "",
-      "meaning": "abrupt shrieks or squeals",
+      "meaning": "continuous or repeated shrieks or squeals",
       "type": "o",
       "example": [
         {
@@ -9497,8 +9511,8 @@
         "surprised"
       ],
       "refer": "",
-      "meaning": "an expression of shock or disbelief",
-      "type": "",
+      "meaning": "a sudden reation of shock or surprise",
+      "type": "e",
       "example": [
         {
           "file": "gyo-1a",
@@ -9546,8 +9560,8 @@
           "squeeze"
         ],
         "refer": "",
-        "meaning": "the act of embracing or hugging",
-        "type": "",
+        "meaning": "embracing or hugging",
+        "type": "m",
         "example": [
           {
             "file": "gyu-1a",
@@ -9573,8 +9587,8 @@
           "squeeze"
         ],
         "refer": "",
-        "meaning": "the act of grabbing something and holding it",
-        "type": "",
+        "meaning": "grabbing something and holding it",
+        "type": "m",
         "example": [
           {
             "file": "gyu-2a",
@@ -9603,8 +9617,8 @@
           "rumble"
         ],
         "refer": "",
-        "meaning": "a low, rumbling noise, as with a growling stomach",
-        "type": "",
+        "meaning": "the low rumble of a stomach growling",
+        "type": "o",
         "example": [{
           "file": "gyu-3a",
           "contributor": "",
@@ -9648,15 +9662,9 @@
       "ギュムッ"
     ],
     "definition": [{
-      "equivalent": [
-        "embrace",
-        "grab",
-        "hug",
-        "squeeze",
-        "wrap"
-      ],
-      "refer": "",
-      "meaning": "the act of embracing or hugging",
+      "equivalent": [""],
+      "refer": "gyu:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "gyumu-1a",
@@ -9686,8 +9694,8 @@
         "whirl"
       ],
       "refer": "",
-      "meaning": "to spin in circles, typically very fast",
-      "type": "",
+      "meaning": "a spinning, turning, or whirling motion, often with sudden speed or force",
+      "type": "m",
       "example": [{
         "file": "gyun-1a",
         "contributor": "",
@@ -9709,13 +9717,9 @@
       "ギュルルル"
     ],
     "definition": [{
-      "equivalent": [
-        "growl",
-        "grumble",
-        "rumble"
-      ],
-      "refer": "",
-      "meaning": "a low, rumbling noise, as with a growling stomach",
+      "equivalent": [""],
+      "refer": "gyu:3",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "gyuru-1a",

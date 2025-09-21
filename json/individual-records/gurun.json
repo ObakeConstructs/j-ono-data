@@ -1,46 +1,68 @@
 {
-  "hiragana": [
-    "ぐるん",
-    "ぐるんっ"
-  ],
+  "literal": "gurun",
   "katakana": [
     "グルン",
     "グルンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "flip",
-      "pivot",
-      "roll",
-      "spin",
-      "swing",
-      "swivel",
-      "turn",
-      "twist"
-    ],
-    "refer": "",
-    "meaning": "an act of turning, rolling, or flipping something",
-    "type": "",
-    "example": [
-      {
-        "file": "gurun-1a",
-        "contributor": "",
-        "display": "ぐるん",
-        "source": "bungo"
-      },
-      {
-        "file": "gurun-1b",
-        "contributor": "",
-        "display": "ぐるんっ",
-        "source": "strongest_failure_frame"
-      },
-      {
-        "file": "gurun-1c",
-        "contributor": "",
-        "display": "ぐるん",
-        "source": "saga_lagging_hero"
-      }
-    ]
-  }],
-  "literal": "gurun"
+  "hiragana": [
+    "ぐるん",
+    "ぐるんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "turning, rolling, or flipping movement",
+      "equivalent": [
+        "flip",
+        "pivot",
+        "roll",
+        "spin",
+        "swing",
+        "swivel",
+        "turn",
+        "twist"
+      ],
+      "example": [
+        {
+          "source": "bungo",
+          "file": "gurun-1a",
+          "display": "ぐるん",
+          "contributor": ""
+        },
+        {
+          "source": "saga_lagging_hero",
+          "file": "gurun-1c",
+          "display": "ぐるん",
+          "contributor": ""
+        },
+        {
+          "source": "saga_lagging_hero",
+          "file": "gurun-1c",
+          "display": "ぐるん",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a fast, sudden or jerky movement",
+      "equivalent": [
+        "flick",
+        "flit",
+        "swish",
+        "whip",
+        "zip"
+      ],
+      "example": [
+        {
+          "source": "strongest_failure_frame",
+          "file": "gurun-1b",
+          "display": "ぐ<sub><sup>る</sup></sub>んっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

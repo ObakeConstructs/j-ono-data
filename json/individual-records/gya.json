@@ -1,13 +1,5 @@
 {
-  "hiragana": [
-    "ぎゃ",
-    "ぎゃっ",
-    "ぎゃー",
-    "ぎゃぁ",
-    "ぎゃあ",
-    "ぎゃああ",
-    "ぎゃあああ"
-  ],
+  "literal": "gya",
   "katakana": [
     "ギャ",
     "ギャッ",
@@ -17,24 +9,36 @@
     "ギャアア",
     "ギャアアア"
   ],
-  "definition": [{
-    "equivalent": [
-      "shriek",
-      "shrill",
-      "creak",
-      "screech",
-      "jangle",
-      "clangor"
-    ],
-    "refer": "",
-    "meaning": "an abrupt shriek, as from distressed metal",
-    "type": "",
-    "example": [{
-      "file": "gya-1a",
-      "contributor": "",
-      "display": "ギャアアアアア",
-      "source": "kaijuu_sdf"
-    }]
-  }],
-  "literal": "gya"
+  "hiragana": [
+    "ぎゃ",
+    "ぎゃっ",
+    "ぎゃー",
+    "ぎゃぁ",
+    "ぎゃあ",
+    "ぎゃああ",
+    "ぎゃあああ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "loud, high-pitched screeching of distressed metal",
+      "equivalent": [
+        "clangor",
+        "creak",
+        "jangle",
+        "screech",
+        "shriek",
+        "shrill"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "gya-1a",
+          "display": "ギャアアアアア",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
