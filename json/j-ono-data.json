@@ -720,12 +720,12 @@
     ],
     "definition": [{
       "equivalent": [
-        "break",
         "rend",
         "rip",
-        "shatter",
+        "tear",
+        "break",
         "smash",
-        "tear"
+        "shatter"
       ],
       "refer": "",
       "meaning": "sharp tearing, breaking or smashing",
@@ -6003,7 +6003,7 @@
           "laugh"
         ],
         "refer": "",
-        "meaning": "a light laugh",
+        "meaning": "light laughter",
         "type": "v",
         "example": [
           {
@@ -6447,8 +6447,8 @@
     "definition": [{
       "equivalent": [
         "bite",
-        "chomp",
         "crunch",
+        "chomp",
         "snap"
       ],
       "refer": "",
@@ -6783,7 +6783,7 @@
         {
           "file": "gan_gan-1b",
           "contributor": "",
-          "display": "ガン  ガン  ガン",
+          "display": "ガッ  ガン  ガン",
           "source": "uncle_at_heart"
         }
       ]
@@ -7239,8 +7239,8 @@
       "equivalent": [
         "ah-hah",
         "inspiration",
-        "realization",
         "realize",
+        "realization",
         "recognition",
         "revelation",
         "spark",
@@ -8543,14 +8543,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "blast",
-        "boom",
-        "burst",
-        "flurry",
         "howl",
         "roar",
-        "rush",
+        "boom",
+        "blast",
         "tumult",
+        "burst",
+        "rush",
+        "flurry",
         "williwaw"
       ],
       "refer": "",
@@ -9137,9 +9137,9 @@
       },
       {
         "equivalent": [
-          "grind",
           "roll",
-          "rumble"
+          "rumble",
+          "grind"
         ],
         "refer": "",
         "meaning": "a rumbling or grinding soung of something turning or spinning",
@@ -9761,8 +9761,8 @@
           "pant"
         ],
         "refer": "",
-        "meaning": "breathing hard from exertion, fear, or excitement",
-        "type": "",
+        "meaning": "a sharp inhale or gasp from exertion, fear, or excitement",
+        "type": "v",
         "example": [
           {
             "file": "ha-1a",
@@ -9785,8 +9785,8 @@
           "sigh"
         ],
         "refer": "",
-        "meaning": "a deep sigh or exhalation",
-        "type": "",
+        "meaning": "a quick sigh of relief or release of tension",
+        "type": "v",
         "example": [
           {
             "file": "ha-2a",
@@ -9810,12 +9810,13 @@
       },
       {
         "equivalent": [
+          "aha",
           "gasp",
           "realize"
         ],
         "refer": "",
         "meaning": "a sudden realization or understanding",
-        "type": "",
+        "type": "e",
         "example": [
           {
             "file": "ha-3a",
@@ -9850,8 +9851,8 @@
         "huff huff"
       ],
       "refer": "",
-      "meaning": "a series of exhales, as from blowing on hot food",
-      "type": "",
+      "meaning": "repeated light breaths while eating or blowing on hot food",
+      "type": "v",
       "example": [{
         "file": "hafu_hafu-1a",
         "contributor": "",
@@ -9869,11 +9870,13 @@
         "bite",
         "chew",
         "gnaw",
-        "grind"
+        "grind",
+        "nibble",
+        "snack"
       ],
       "refer": "",
-      "meaning": "to bite or chew on something",
-      "type": "",
+      "meaning": "small, gentle biting or nibbling",
+      "type": "v",
       "example": [{
         "file": "hamu-1a",
         "contributor": "",
@@ -9887,14 +9890,9 @@
     "hiragana": ["はむはむ"],
     "katakana": ["ハムハム"],
     "definition": [{
-      "equivalent": [
-        "bite bite",
-        "chew chew",
-        "gnaw gnaw",
-        "nom nom"
-      ],
-      "refer": "",
-      "meaning": "the sound of eating or chewing",
+      "equivalent": [""],
+      "refer": "hamu:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "hamu_hamu-1a",
@@ -9927,7 +9925,7 @@
         "equivalent": ["haha"],
         "refer": "",
         "meaning": "laughter",
-        "type": "",
+        "type": "v",
         "example": [
           {
             "file": "ha_ha-1a",
@@ -9961,8 +9959,8 @@
           "pant pant"
         ],
         "refer": "",
-        "meaning": "to breathe hard, as from exertion, fear, or excitement",
-        "type": "",
+        "meaning": "panting or breathing hard, as from exertion, fear, or excitement",
+        "type": "v",
         "example": [
           {
             "file": "ha_ha-2a",
@@ -9998,18 +9996,19 @@
     "katakana": ["へナ"],
     "definition": [{
       "equivalent": [
+        "collapse",
         "drained",
         "knackered",
         "limp",
         "pooped",
         "spent",
-        "spent",
         "tired",
+        "weak",
         "weary"
       ],
       "refer": "",
-      "meaning": "an indication or expression of being worn out or exhausted",
-      "type": "",
+      "meaning": "limp, weak or collapsing, as from exhaustion",
+      "type": "s",
       "example": [{
         "file": "hena-1a",
         "contributor": "",
@@ -10038,8 +10037,8 @@
         "uneasy"
       ],
       "refer": "",
-      "meaning": "an awkward or uncomfortable smile",
-      "type": "",
+      "meaning": "Grinning foolishly, sheepishly, or inappropriately.",
+      "type": "s",
       "example": [{
         "file": "hera-1a",
         "contributor": "",
@@ -10081,8 +10080,8 @@
         "yikes"
       ],
       "refer": "",
-      "meaning": "a high-pitched squeal of surprise, sometimes used for comedic effect",
-      "type": "",
+      "meaning": "a short, involuntary cry or gasp, as when startled, frightened or surprised",
+      "type": "v",
       "example": [
         {
           "file": "hi-1a",
@@ -10112,11 +10111,12 @@
     "definition": [{
       "equivalent": [
         "drunk",
-        "hiccup"
+        "hiccup",
+        "hik"
       ],
       "refer": "",
-      "meaning": "a hiccup, often indicating a state of drunkenness",
-      "type": "",
+      "meaning": "a hiccup, often used to indicate drunkenness",
+      "type": "v",
       "example": [{
         "file": "hikku-1a",
         "contributor": "",
@@ -10138,8 +10138,8 @@
         "swish"
       ],
       "refer": "",
-      "meaning": "a soft flapping or fluttering sounds",
-      "type": "",
+      "meaning": "soft, airy flapping or fluttering",
+      "type": "o",
       "example": [
         {
           "file": "hira-1a",
@@ -10161,15 +10161,9 @@
     "hiragana": ["ひらひら"],
     "katakana": ["ヒラヒラ"],
     "definition": [{
-      "equivalent": [
-        "flap flap",
-        "flick flick",
-        "flit flit",
-        "swish swish",
-        "wave wave"
-      ],
-      "refer": "",
-      "meaning": "a series of flapping sounds, as from a bird flying or a flag in the wind",
+      "equivalent": [""],
+      "refer": "hira:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "hira_hira-1a",
@@ -10185,18 +10179,18 @@
     "katakana": ["ヒリヒリ"],
     "definition": [{
       "equivalent": [
-        "ache ache",
-        "burn burn",
-        "pang pang",
-        "sting sting",
-        "tender tender",
-        "throb throb",
-        "tingle tingle",
-        "twinge twinge"
+        "ache",
+        "burn",
+        "pang",
+        "sting",
+        "tender",
+        "throb",
+        "tingle",
+        "twinge"
       ],
       "refer": "",
       "meaning": "an expression of  a tingling, stinging or mild burning sensation",
-      "type": "",
+      "type": "s",
       "example": [{
         "file": "hiri_hiri-1a",
         "contributor": "",
@@ -10226,8 +10220,8 @@
         "squeeze"
       ],
       "refer": "",
-      "meaning": "the act of putting one's arms around someone and holding tightly, typically expressing strong emotions",
-      "type": "",
+      "meaning": "gripping or hugging tightly, often sudden or expressing strong emotions",
+      "type": "m",
       "example": [
         {
           "file": "hishi-1a",
@@ -10252,11 +10246,11 @@
       "equivalent": [
         "softly",
         "sotto voce",
-        "whisper whisper"
+        "whisper"
       ],
       "refer": "",
-      "meaning": "to speak quietly in order to not be overheard",
-      "type": "",
+      "meaning": "whispering or speaking quietly, often furtively",
+      "type": "v",
       "example": [
         {
           "file": "hiso_hiso-1a",
@@ -10300,8 +10294,8 @@
         "titter titter"
       ],
       "refer": "",
-      "meaning": "a light laugh or giggle",
-      "type": "",
+      "meaning": "A light, mischievous laugh or giggle",
+      "type": "v",
       "example": [{
         "file": "hi_hi-1a",
         "contributor": "",
@@ -10339,8 +10333,8 @@
           "whew"
         ],
         "refer": "",
-        "meaning": "the sound or expression of relief",
-        "type": "",
+        "meaning": "a short exhale, usually expressing relief",
+        "type": "v",
         "example": [
           {
             "file": "ho-1a",
@@ -10369,7 +10363,7 @@
         ],
         "refer": "",
         "meaning": "an expression of understanding or realization",
-        "type": "",
+        "type": "e",
         "example": [{
           "file": "ho-2a",
           "contributor": "",
@@ -10385,13 +10379,14 @@
     "katakana": ["ホカホカ"],
     "definition": [{
       "equivalent": [
+        "fresh",
         "steamy",
         "toasty",
         "warm"
       ],
       "refer": "",
-      "meaning": "an indication of something that is warm, typically freshly cooked food",
-      "type": "",
+      "meaning": "fresh and warm, as of freshly cooked food",
+      "type": "s",
       "example": [
         {
           "file": "hoka_hoka-1a",
@@ -10428,13 +10423,13 @@
       "equivalent": [
         "chortle",
         "chuckle",
-        "ha ha",
         "heh heh",
+        "ho ho",
         "laugh"
       ],
       "refer": "",
-      "meaning": "a deep laugh",
-      "type": "",
+      "meaning": "a deep, controlled laugh, often formal, sophisticated or gently mocking",
+      "type": "v",
       "example": [{
         "file": "ho_ho-1a",
         "contributor": "",
@@ -10461,8 +10456,8 @@
         "what"
       ],
       "refer": "",
-      "meaning": "A verbal expression of surprise and amazement",
-      "type": "",
+      "meaning": "a quick exclamation of surprise or amazement, often involuntary",
+      "type": "v",
       "example": [{
         "file": "hya-1a",
         "contributor": "",
@@ -10484,13 +10479,18 @@
     "definition": [
       {
         "equivalent": [
+          "agile",
           "easy",
           "effortless",
-          "smooth"
+          "graceful",
+          "nimble",
+          "quick",
+          "smooth",
+          "spry"
         ],
         "refer": "",
-        "meaning": "a quick, effortless action",
-        "type": "",
+        "meaning": "a quick, agile, or effortless action",
+        "type": "m",
         "example": [
           {
             "file": "hyoi-1a",
@@ -10516,8 +10516,8 @@
           "show up"
         ],
         "refer": "",
-        "meaning": "an indication of suddenly appearring or showing up",
-        "type": "",
+        "meaning": "a sudden appearance or arrival",
+        "type": "c",
         "example": [{
           "file": "hyoi-2a",
           "contributor": "",
@@ -10539,15 +10539,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "gander",
+        "glance",
+        "glimpse",
         "look",
         "peek",
         "peep",
-        "regard"
+        "peep"
       ],
       "refer": "",
-      "meaning": "an expression of taking a look, often from behind something, as from hiding",
-      "type": "",
+      "meaning": "taking a quick, subtle, or secretive peek",
+      "type": "m",
       "example": [
         {
           "file": "hyoko-1a",
@@ -10581,6 +10582,10 @@
     "definition": [
       {
         "equivalent": [
+          "dart",
+          "flick",
+          "flit",
+          "fwip",
           "shoom",
           "swoosh",
           "whish",
@@ -10591,8 +10596,8 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "something moving quickly through the air",
-        "type": "",
+        "meaning": "a swift darting movement through the air",
+        "type": "m",
         "example": [
           {
             "file": "hyu-1a",
@@ -10624,8 +10629,8 @@
           "woah"
         ],
         "refer": "",
-        "meaning": "a soft interjection expressing a reaction to something adorable or cute",
-        "type": "",
+        "meaning": "a soft vocalization as a reaction to something cute or endearing, often involuntary",
+        "type": "v",
         "example": [{
           "file": "hyu-2a",
           "contributor": "",
@@ -10646,18 +10651,9 @@
       "ヒュンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "shoom",
-        "swoosh",
-        "whish",
-        "whiz",
-        "whom",
-        "whoosh",
-        "zip",
-        "zoom"
-      ],
-      "refer": "",
-      "meaning": "something moving quickly through the air",
+      "equivalent": [""],
+      "refer": "hyu:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -10686,15 +10682,9 @@
     "hiragana": ["ひゅんひゅん"],
     "katakana": ["ヒュンヒュン"],
     "definition": [{
-      "equivalent": [
-        "shoom shoom",
-        "swoosh swoosh",
-        "whish whish",
-        "whoosh whoosh",
-        "zip zip"
-      ],
-      "refer": "",
-      "meaning": "something moving through the air quickly and repetitively ",
+      "equivalent": [""],
+      "refer": "hyu:1",
+      "meaning": ", repeated or continuous",
       "type": "",
       "example": [{
         "file": "hyun_hyun-1a",
@@ -10728,8 +10718,8 @@
         "wind"
       ],
       "refer": "",
-      "meaning": "the sound of a strong or howling wind",
-      "type": "",
+      "meaning": "the sound of strong, howling wind",
+      "type": "o",
       "example": [{
         "file": "hyuoo-1a",
         "contributor": "",
@@ -10752,8 +10742,12 @@
     ],
     "definition": [{
       "equivalent": [
+        "roll",
         "shoom",
+        "spin",
         "swoosh",
+        "twirl",
+        "whirl",
         "whish",
         "whiz",
         "whom",
@@ -10762,8 +10756,8 @@
         "zoom"
       ],
       "refer": "",
-      "meaning": "something moving quickly, often spinning",
-      "type": "",
+      "meaning": "moving, spinning or whirling quickly, often smoothly",
+      "type": "m",
       "example": [
         {
           "file": "hyuru-1a",
@@ -10805,8 +10799,8 @@
         "vexed"
       ],
       "refer": "",
-      "meaning": "an expression of annoyance",
-      "type": "",
+      "meaning": "a brief, sharp feeling of annoyance or irritation",
+      "type": "e",
       "example": [{
         "file": "ira-1a",
         "contributor": "",
@@ -10832,8 +10826,8 @@
         "ow"
       ],
       "refer": "",
-      "meaning": "an expression of pain",
-      "type": "",
+      "meaning": "a feeling or expression of pain or discomfort",
+      "type": "e",
       "example": [{
         "file": "itai-1a",
         "contributor": "",
@@ -10879,10 +10873,10 @@
     "katakana": ["ジャカジャカ"],
     "definition": [{
       "equivalent": [
-        "chatter chatter",
+        "rattle rattle",
         "clatter clatter",
-        "jingle jingle",
-        "rattle rattle"
+        "chatter chatter",
+        "jingle jingle"
       ],
       "refer": "",
       "meaning": "a series of rattling or clattering sounds",
@@ -11259,8 +11253,8 @@
         "equivalent": [
           "creep",
           "inch",
-          "slowly",
-          "step"
+          "step",
+          "slowly"
         ],
         "refer": "",
         "meaning": "the indication of moving slowly or carefully",
@@ -11349,9 +11343,9 @@
       },
       {
         "equivalent": [
+          "temper tantrum",
           "flail flail",
-          "hissy fit",
-          "temper tantrum"
+          "hissy fit"
         ],
         "refer": "",
         "meaning": "an indication of flailing in a fit of agitation, frustration, or temper",
@@ -11424,8 +11418,8 @@
     ],
     "definition": [{
       "equivalent": [
-        "hiss",
-        "sizle"
+        "sizle",
+        "hiss"
       ],
       "refer": "",
       "meaning": "the sound of hissing or sizzling, as from cooking",
@@ -11502,9 +11496,9 @@
         "drop drop",
         "flow flow",
         "gush gush",
-        "ooze ooze",
-        "seep seep",
         "trickle trickle",
+        "seep seep",
+        "ooze ooze",
         "weep weep"
       ],
       "refer": "",
@@ -11789,11 +11783,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "arise",
         "get up",
         "rise",
         "sit up",
-        "up"
+        "up",
+        "arise"
       ],
       "refer": "",
       "meaning": "to get up or sit up, as from a bed",
@@ -12043,9 +12037,9 @@
       "equivalent": [
         "clang clang",
         "clank clank",
+        "ring ring",
         "ding ding",
         "gong gong",
-        "ring ring",
         "tang tang"
       ],
       "refer": "",
@@ -12087,11 +12081,11 @@
     "katakana": ["カポ"],
     "definition": [{
       "equivalent": [
-        "click",
         "plop",
-        "pop",
+        "snap",
         "puts on",
-        "snap"
+        "pop",
+        "click"
       ],
       "refer": "",
       "meaning": "a soft, hollow sound of covering something or fitting something over an opening",
@@ -12195,12 +12189,12 @@
     "katakana": ["カリカリ"],
     "definition": [{
       "equivalent": [
-        "crackle crackle",
-        "crunch crunch",
-        "rustle rustle",
         "scratch scratch",
         "scribble scribble",
-        "scritch scritch"
+        "scritch scritch",
+        "crackle crackle",
+        "crunch crunch",
+        "rustle rustle"
       ],
       "refer": "",
       "meaning": "a scratching, crackling, or crunching sound",
@@ -12321,9 +12315,9 @@
     ],
     "definition": [{
       "equivalent": [
-        "crack",
+        "pop",
         "fizz",
-        "pop"
+        "crack"
       ],
       "refer": "",
       "meaning": "the pop and hiss sound of a soda can opening",
@@ -12442,10 +12436,10 @@
     "definition": [{
       "equivalent": [
         "click click",
-        "clickety click",
-        "tacka tack",
         "tap tap",
-        "ticka tick"
+        "clickety click",
+        "ticka tick",
+        "tacka tack"
       ],
       "refer": "",
       "meaning": "the rythmic sound of typing on a modern keyboard",
@@ -12494,7 +12488,6 @@
       {
         "equivalent": [
           "clack",
-          "clang",
           "clatter",
           "click",
           "clink",
@@ -12502,6 +12495,7 @@
           "ker-chak",
           "rattle",
           "tick",
+          "clang",
           "whang"
         ],
         "refer": "",
@@ -12760,10 +12754,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "denial",
+        "what!?",
         "disbelief",
-        "rejection",
-        "what!?"
+        "denial",
+        "rejection"
       ],
       "refer": "",
       "meaning": "an expression of incredulity or disbelief",
@@ -12968,10 +12962,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "anxious",
-        "danger",
-        "fraught",
         "tense",
+        "danger",
+        "anxious",
+        "fraught",
         "uneasy"
       ],
       "refer": "",
@@ -13392,11 +13386,11 @@
     "katakana": ["コスコス"],
     "definition": [{
       "equivalent": [
-        "buff buff",
-        "press press",
         "rub rub",
+        "scrub scrub",
         "scour scour",
-        "scrub scrub"
+        "press press",
+        "buff buff"
       ],
       "refer": "",
       "meaning": "the indication or sound of rubbing or scrubbing with effort",
@@ -13477,8 +13471,8 @@
     ],
     "definition": [{
       "equivalent": [
-        "boil boil",
-        "simmer simmer"
+        "simmer simmer",
+        "boil boil"
       ],
       "refer": "",
       "meaning": "an indication or sound of simmering or boiling",
@@ -13569,15 +13563,15 @@
     "definition": [{
       "equivalent": [
         "glorp",
-        "kiss",
         "mwap",
         "shlop",
+        "squish",
         "shmack",
-        "slup",
-        "slurp",
         "smack",
         "squelch",
-        "squish"
+        "kiss",
+        "slup",
+        "slurp"
       ],
       "refer": "",
       "meaning": "a wet smacking sound, like chewing gum or kissing",
@@ -13611,14 +13605,14 @@
     "definition": [{
       "equivalent": [
         "glorp glorp",
-        "kiss kiss",
         "mwap mwap",
         "shlop shlop",
         "shmack shmack",
-        "slup slup",
-        "slurp slurp",
         "smack smack",
-        "squelch squelch"
+        "squelch squelch",
+        "kiss kiss",
+        "slup slup",
+        "slurp slurp"
       ],
       "refer": "",
       "meaning": "a series of wet smacking sounds, like chewing gum or kissing",
@@ -13705,10 +13699,10 @@
       },
       {
         "equivalent": [
-          "jerk",
-          "pull",
           "tug",
-          "yank"
+          "pull",
+          "yank",
+          "jerk"
         ],
         "refer": "",
         "meaning": "an indication of pulling or tugging on something",
@@ -13734,12 +13728,12 @@
     ],
     "definition": [{
       "equivalent": [
-        "asleep",
+        "zzz",
         "breath",
-        "drowsy",
         "sleep",
         "slumber",
-        "zzz"
+        "asleep",
+        "drowsy"
       ],
       "refer": "",
       "meaning": "an indication of sleeping or the sound of sleepy breathing",
@@ -13765,8 +13759,8 @@
     "definition": [{
       "equivalent": [
         "creak",
-        "grind",
-        "rustle"
+        "rustle",
+        "grind"
       ],
       "refer": "",
       "meaning": "a creaking sound of tightening rope or leather",
@@ -13791,13 +13785,13 @@
     ],
     "definition": [{
       "equivalent": [
-        "cackle",
-        "chortle",
-        "chuckle",
-        "giggle",
-        "laugh",
         "snicker",
-        "titter"
+        "giggle",
+        "chuckle",
+        "titter",
+        "chortle",
+        "laugh",
+        "cackle"
       ],
       "refer": "",
       "meaning": "the sound of a snicker or giggle",
@@ -13983,13 +13977,13 @@
     "katakana": ["クルクル"],
     "definition": [{
       "equivalent": [
-        "circle",
         "pivot",
         "spin",
         "swing",
         "swivel",
         "turn",
-        "twist"
+        "twist",
+        "circle"
       ],
       "refer": "",
       "meaning": "to turn or spin in circles",
@@ -14063,9 +14057,9 @@
     "definition": [{
       "equivalent": [
         "cry",
-        "sniff",
-        "sniffle",
         "sob",
+        "sniffle",
+        "sniff",
         "weep"
       ],
       "refer": "",
@@ -14115,12 +14109,12 @@
     "definition": [{
       "equivalent": [
         "anticipation",
-        "enthusiasm",
         "excitement",
-        "fervor",
-        "fired up",
+        "enthusiasm",
         "passion",
-        "zeal"
+        "fervor",
+        "zeal",
+        "fired up"
       ],
       "refer": "",
       "meaning": "an expression of of anticipation or excitement",
@@ -14217,10 +14211,10 @@
     "katakana": ["キョドキョド"],
     "definition": [{
       "equivalent": [
+        "twitch twitch",
         "fidget fidget",
         "flit flit",
-        "pace pace",
-        "twitch twitch"
+        "pace pace"
       ],
       "refer": "",
       "meaning": "a series of jerky or restless movements",
@@ -14468,12 +14462,12 @@
     "katakana": ["キュルキュル"],
     "definition": [{
       "equivalent": [
-        "buzz buzz",
         "hum hum",
+        "buzz buzz",
         "motor motor",
         "move move",
-        "whir whir",
-        "zoom zoom"
+        "zoom zoom",
+        "whir whir"
       ],
       "refer": "",
       "meaning": "the indication or sound of tiny motors moving",
@@ -14492,10 +14486,10 @@
     "katakana": ["マキマキ"],
     "definition": [{
       "equivalent": [
-        "roll roll",
-        "twist twist",
+        "wrap wrap",
         "wind wind",
-        "wrap wrap"
+        "twist twist",
+        "roll roll"
       ],
       "refer": "",
       "meaning": "an indication of wrapping or winding something around something else",
@@ -14602,10 +14596,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "complain",
         "groan",
-        "lament",
-        "yell"
+        "yell",
+        "complain",
+        "lament"
       ],
       "refer": "",
       "meaning": "the sound of a groan or yell in frustration or annoyance",
@@ -14650,8 +14644,8 @@
     "definition": [{
       "equivalent": [
         "fumble flumble",
-        "rustle rustle",
         "struggle struggle",
+        "rustle rustle",
         "wriggle wriggle"
       ],
       "refer": "",
@@ -14779,12 +14773,12 @@
     "katakana": ["モタモタ"],
     "definition": [{
       "equivalent": [
-        "careful careful",
-        "dilly-dally",
-        "linger linger",
         "slow slow",
+        "wait wait",
+        "careful careful",
         "slowly slowly",
-        "wait wait"
+        "linger linger",
+        "dilly-dally"
       ],
       "refer": "",
       "meaning": "an indication of moving slowly",
@@ -14809,7 +14803,6 @@
     ],
     "definition": [{
       "equivalent": [
-        "billow",
         "cloud",
         "fog",
         "haze",
@@ -14818,7 +14811,8 @@
         "smog",
         "smoke",
         "steam",
-        "vapor"
+        "vapor",
+        "billow"
       ],
       "refer": "",
       "meaning": "a billowing cloud, as from smoke or a fog",
@@ -14865,9 +14859,9 @@
     "definition": [{
       "equivalent": [
         "squirm squirm",
-        "thrash thrash",
+        "writhe writhe",
         "wriggle wriggle",
-        "writhe writhe"
+        "thrash thrash"
       ],
       "refer": "",
       "meaning": "the indication or sound of clumsy squirming or struggling",
@@ -15234,13 +15228,13 @@
     "katakana": ["ムシャムシャ"],
     "definition": [{
       "equivalent": [
-        "bite bite",
-        "chew chew",
-        "chomp chomp",
-        "eat eat",
-        "munch munch",
         "nom nom",
-        "snarf snarf"
+        "munch munch",
+        "bite bite",
+        "chomp chomp",
+        "snarf snarf",
+        "eat eat",
+        "chew chew"
       ],
       "refer": "",
       "meaning": "a series of biting or chewing sounds",
@@ -15265,10 +15259,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "jab",
-        "nudge",
         "poke",
-        "prod"
+        "prod",
+        "jab",
+        "nudge"
       ],
       "refer": "",
       "meaning": "to poke or jab with a finger",
@@ -15287,10 +15281,10 @@
     "katakana": ["ムタムタ"],
     "definition": [{
       "equivalent": [
-        "jab jab",
-        "nudge nudge",
         "poke poke",
-        "prod prod"
+        "prod prod",
+        "jab jab",
+        "nudge nudge"
       ],
       "refer": "",
       "meaning": "a series of pokes or jabs with a finger",
@@ -15309,13 +15303,13 @@
     "katakana": ["ムズムズ"],
     "definition": [{
       "equivalent": [
-        "anxious",
         "impatient",
-        "nervous",
         "restless",
-        "tense",
+        "anxious",
         "uneasy",
-        "unnerved"
+        "tense",
+        "unnerved",
+        "nervous"
       ],
       "refer": "",
       "meaning": "an expression of impatience, restlessness, or anxiety",
@@ -15401,8 +15395,8 @@
         "chuckle",
         "grin",
         "ha",
-        "hmm hmm",
         "hum hum",
+        "hmm hmm",
         "laugh",
         "smile",
         "smirk",
@@ -15425,10 +15419,10 @@
     "katakana": ["ングング"],
     "definition": [{
       "equivalent": [
-        "drink drink",
         "gulp gulp",
-        "quaff quaff",
         "swallow swallow",
+        "drink drink",
+        "quaff quaff",
         "swig swig"
       ],
       "refer": "",
@@ -15454,10 +15448,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "grin",
-        "heh",
         "smile",
-        "smirk"
+        "grin",
+        "smirk",
+        "heh"
       ],
       "refer": "",
       "meaning": "a smile, often genuine",
@@ -15605,11 +15599,11 @@
     "definition": [{
       "equivalent": [
         "grin",
-        "leer",
         "smile",
         "smirk",
         "sneer",
-        "snicker"
+        "snicker",
+        "leer"
       ],
       "refer": "",
       "meaning": "an unpleasant or evil smile",
@@ -15635,11 +15629,11 @@
     "definition": [{
       "equivalent": [
         "grin",
-        "leer",
         "smile",
         "smirk",
         "sneer",
-        "snicker"
+        "snicker",
+        "leer"
       ],
       "refer": "",
       "meaning": "an unpleasant or evil smile",
@@ -15693,9 +15687,9 @@
     ],
     "definition": [{
       "equivalent": [
+        "mount",
         "climb on",
         "climb up",
-        "mount",
         "ride"
       ],
       "refer": "",
@@ -15715,11 +15709,11 @@
     "katakana": ["ノソノソ"],
     "definition": [{
       "equivalent": [
-        "dawdle dawdle",
-        "heavy heavy",
-        "lazy lazy",
         "slow slow",
-        "slug slug"
+        "heavy heavy",
+        "slug slug",
+        "dawdle dawdle",
+        "lazy lazy"
       ],
       "refer": "",
       "meaning": "to move slowly or ponderously",
@@ -15744,11 +15738,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "danger",
         "menace",
-        "peril",
         "threat",
-        "threaten"
+        "danger",
+        "threaten",
+        "peril"
       ],
       "refer": "",
       "meaning": "an indication of something large and menacing appearing",
@@ -15768,12 +15762,12 @@
     "definition": [{
       "equivalent": [
         "anger anger",
+        "mad mad",
         "danger danger",
         "fury fury",
         "ire ire",
-        "mad mad",
-        "peeved  peeved",
-        "roil roil"
+        "roil roil",
+        "peeved  peeved"
       ],
       "refer": "",
       "meaning": "an expression of anger or irritation",
@@ -15829,11 +15823,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "greasy",
+        "slippery",
         "shlup",
-        "slick",
         "slimey",
-        "slippery"
+        "slick",
+        "greasy"
       ],
       "refer": "",
       "meaning": "an indication of something wet or slippery ",
@@ -15865,9 +15859,9 @@
     "definition": [{
       "equivalent": [
         "meow",
-        "miaow",
+        "nya",
         "mrow",
-        "nya"
+        "miaow"
       ],
       "refer": "",
       "meaning": "a sound of a cat's meow, or mimicking a cat's meow, typically to express friendly, playful teasing",
@@ -16460,10 +16454,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "charge",
-        "gallop",
+        "trot",
         "run",
-        "trot"
+        "charge",
+        "gallop"
       ],
       "refer": "",
       "meaning": "the sound of a horse running or charging",
@@ -16566,8 +16560,8 @@
     "definition": [{
       "equivalent": [
         " open close",
-        "flap flap",
         "pop pop",
+        "flap flap",
         "snap snap"
       ],
       "refer": "",
@@ -17061,13 +17055,13 @@
       {
         "equivalent": [
           "bam",
-          "bop",
           "click",
           "close",
           "ker-chak",
           "latch",
           "slam",
           "tchk",
+          "bop",
           "thump"
         ],
         "refer": "",
@@ -17346,14 +17340,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "crinkle",
-        "flap",
         "flip",
         "riffle",
-        "rustle",
-        "skim",
         "thumb",
-        "turn"
+        "skim",
+        "turn",
+        "flap",
+        "rustle",
+        "crinkle"
       ],
       "refer": "",
       "meaning": "sound of turning pages or moving paper",
@@ -17498,11 +17492,11 @@
       },
       {
         "equivalent": [
-          "dangle",
-          "drape",
           "hang",
+          "sway",
+          "dangle",
           "suspend",
-          "sway"
+          "drape"
         ],
         "refer": "",
         "meaning": "an indication of lightly hanging or dangling",
@@ -17661,10 +17655,10 @@
       },
       {
         "equivalent": [
-          "pitter-pat",
           "scamper",
           "step step",
-          "tap tap"
+          "tap tap",
+          "pitter-pat"
         ],
         "refer": "",
         "meaning": "the indication or sound of walking softly",
@@ -17811,12 +17805,12 @@
     "katakana": ["ピチピチ"],
     "definition": [{
       "equivalent": [
-        "bounce bounce",
-        "energetic",
         "flap flap",
-        "flop flop",
         "fresh",
         "lively",
+        "energetic",
+        "bounce bounce",
+        "flop flop",
         "vibrant"
       ],
       "refer": "",
@@ -17971,11 +17965,11 @@
     "definition": [{
       "equivalent": [
         "bing",
+        "ping",
         "dazzle",
         "gleeful",
-        "ping",
-        "pleased",
-        "smug"
+        "smug",
+        "pleased"
       ],
       "refer": "",
       "meaning": "a quick change of expression to happiness or smugness",
@@ -18079,13 +18073,13 @@
       },
       {
         "equivalent": [
-          "embarrass",
-          "react",
-          "realize",
-          "squirm",
           "startle",
           "surprise",
-          "twitch"
+          "react",
+          "twitch",
+          "squirm",
+          "embarrass",
+          "realize"
         ],
         "refer": "",
         "meaning": "an endearing, cute or slightly embarrassing reaction, typically momentary",
@@ -18113,11 +18107,11 @@
     "katakana": ["ピコピコ"],
     "definition": [{
       "equivalent": [
-        "ba-ding ba-ding",
         "beep beep",
+        "ping ping",
         "bing bing",
-        "ding ding",
-        "ping ping"
+        "ba-ding ba-ding",
+        "ding ding"
       ],
       "refer": "",
       "meaning": "the repetitive beeps of generic video games",
@@ -18314,9 +18308,9 @@
       },
       {
         "equivalent": [
-          "bing",
+          "ping",
           "ding",
-          "ping"
+          "bing"
         ],
         "refer": "",
         "meaning": "a sharp pinging sound",
@@ -18377,14 +18371,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "beep beep",
         "cheep cheep",
         "chirp chirp",
-        "ding ding",
         "peep peep",
-        "ping ping",
         "pip pip",
-        "tweet tweet"
+        "tweet tweet",
+        "beep beep",
+        "ping ping",
+        "ding ding"
       ],
       "refer": "",
       "meaning": "a series of high pitched chirps or tones",
@@ -18473,9 +18467,9 @@
     ],
     "definition": [{
       "equivalent": [
+        "ring ring",
         "beep beep",
-        "ding-a-ling",
-        "ring ring"
+        "ding-a-ling"
       ],
       "refer": "",
       "meaning": "the sound of a telephone or cell phone ringing",
@@ -18598,12 +18592,12 @@
       },
       {
         "equivalent": [
-          "exactly",
           "flick",
           "pop",
-          "precise",
           "snap",
-          "zip"
+          "zip",
+          "precise",
+          "exactly"
         ],
         "refer": "",
         "meaning": "an expression of precision, usually with a rapid snapping to position",
@@ -18904,11 +18898,11 @@
     "katakana": ["ポィンポィン"],
     "definition": [{
       "equivalent": [
-        "bob",
         "boing",
         "bounce",
         "bump",
-        "hop"
+        "hop",
+        "bob"
       ],
       "refer": "",
       "meaning": "the indication or sound of bounces",
@@ -18977,14 +18971,14 @@
     ],
     "definition": [{
       "equivalent": [
-        " dumfounded",
-        "amazed",
-        "astonished",
-        "flabbergasted",
         "shocked",
-        "stunned",
         "surprised",
-        "wonder"
+        "wonder",
+        "astonished",
+        "amazed",
+        "flabbergasted",
+        "stunned",
+        " dumfounded"
       ],
       "refer": "",
       "meaning": "expressing shock, surprise, or wonder",
@@ -19003,8 +18997,8 @@
     "katakana": ["ポコポコ"],
     "definition": [{
       "equivalent": [
-        "blub blub",
         "boil boil",
+        "blub blub",
         "bop bop",
         "bubble bubble"
       ],
@@ -19192,9 +19186,9 @@
     "katakana": ["ポリポリ"],
     "definition": [{
       "equivalent": [
-        "scrape scrape",
         "scratch scratch",
         "scritch scritch",
+        "scrape scrape",
         "scuff scuff"
       ],
       "refer": "",
@@ -19214,13 +19208,13 @@
     "katakana": ["ポロ"],
     "definition": [{
       "equivalent": [
-        "drip",
         "drop",
         "fall",
         "plop",
         "plunk",
         "slip",
-        "topple"
+        "topple",
+        "drip"
       ],
       "refer": "",
       "meaning": "an indication of something dropping or falling",
@@ -19479,15 +19473,15 @@
         "equivalent": [
           "crack",
           "crackle",
+          "pop",
+          "snap",
+          "poke",
+          "prod",
           "jab",
-          "pick",
           "pierce",
           "pluck",
-          "poke",
-          "pop",
-          "prod",
-          "pull",
-          "snap"
+          "pick",
+          "pull"
         ],
         "refer": "",
         "meaning": "an indication or sound of a small pluck or poke",
@@ -19553,9 +19547,9 @@
     "katakana": ["プチプチ"],
     "definition": [{
       "equivalent": [
-        "crack crack",
+        "snap snap",
         "pop pop",
-        "snap snap"
+        "crack crack"
       ],
       "refer": "",
       "meaning": "a series of snapping or popping sounds",
@@ -19694,15 +19688,15 @@
     ],
     "definition": [{
       "equivalent": [
-        "angry",
-        "annoyed",
-        "indignant",
-        "irked",
         "irritated",
-        "mad",
-        "peeved",
+        "annoyed",
         "petulant",
         "pissed",
+        "angry",
+        "peeved",
+        "irked",
+        "mad",
+        "indignant",
         "resentful"
       ],
       "refer": "",
@@ -19794,10 +19788,10 @@
     "katakana": ["プニュゥン"],
     "definition": [{
       "equivalent": [
-        "flesh",
-        "puffy",
         "soft",
-        "squishy"
+        "puffy",
+        "squishy",
+        "flesh"
       ],
       "refer": "",
       "meaning": "an exaggerated indication of soft flesh",
@@ -19938,12 +19932,12 @@
     "definition": [{
       "equivalent": [
         "boing boing",
-        "bounce bounce",
         "jiggle jiggle",
         "quiver quiver",
         "shake shake",
         "sway sway",
-        "wobble wobble"
+        "wobble wobble",
+        "bounce bounce"
       ],
       "refer": "",
       "meaning": "an indication of a couple quick bounces or wobbles",
@@ -20054,8 +20048,8 @@
     "definition": [{
       "equivalent": [
         "pap pap",
-        "pew pew",
-        "psh psh"
+        "psh psh",
+        "pew pew"
       ],
       "refer": "",
       "meaning": "the sound of a silenced pistol being fired",
@@ -20152,14 +20146,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "appear",
-        "boing",
-        "bounce",
         "flounce",
         "prance",
-        "sashay",
         "strut",
-        "swagger"
+        "sashay",
+        "swagger",
+        "appear",
+        "bounce",
+        "boing"
       ],
       "refer": "",
       "meaning": "moving or appearing quickly, often in a cute or bouncy manner",
@@ -20184,8 +20178,8 @@
     ],
     "definition": [{
       "equivalent": [
-        "bounce bounce",
         "bound bound",
+        "bounce bounce",
         "hop hop",
         "skip skip"
       ],
@@ -20304,10 +20298,10 @@
     "katakana": ["ピュイン"],
     "definition": [{
       "equivalent": [
-        "delicate",
-        "gently",
-        "lightly",
         "softly",
+        "gently",
+        "delicate",
+        "lightly",
         "tenderly"
       ],
       "refer": "",
@@ -20351,10 +20345,10 @@
     "katakana": ["レロ"],
     "definition": [{
       "equivalent": [
-        "flick",
+        "lick",
         "lap",
         "lash",
-        "lick"
+        "flick"
       ],
       "refer": "",
       "meaning": "an indication or sound of tongue licking",
@@ -20689,12 +20683,12 @@
     ],
     "definition": [{
       "equivalent": [
+        "touch",
+        "feel",
         "brush",
         "caress",
-        "feel",
-        "fondle",
         "pet",
-        "touch"
+        "fondle"
       ],
       "refer": "",
       "meaning": "an indication or sound of light touching or movement",
@@ -20944,11 +20938,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "pee",
-        "piddle",
         "piss",
+        "pee",
         "pissing",
-        "urine"
+        "urine",
+        "piddle"
       ],
       "refer": "",
       "meaning": "an indication of involuntary urination",
@@ -21066,10 +21060,10 @@
     "definition": [{
       "equivalent": [
         "swish",
-        "swoosh",
         "whoosh",
         "zip",
-        "zoom"
+        "zoom",
+        "swoosh"
       ],
       "refer": "",
       "meaning": "a swift, precise or cutting motion",
@@ -21541,10 +21535,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "careful",
         "slow",
         "steady",
-        "unfaltering"
+        "unfaltering",
+        "careful"
       ],
       "refer": "",
       "meaning": "an indication of slow and steady movement",
@@ -21906,12 +21900,12 @@
     ],
     "definition": [{
       "equivalent": [
+        "touch",
         "caress",
-        "feel",
+        "stroke",
         "fondle",
         "pet",
-        "stroke",
-        "touch"
+        "feel"
       ],
       "refer": "",
       "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
@@ -21937,12 +21931,12 @@
     "definition": [
       {
         "equivalent": [
+          "touch",
           "caress",
-          "feel",
+          "stroke",
           "fondle",
           "pet",
-          "stroke",
-          "touch"
+          "feel"
         ],
         "refer": "",
         "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
@@ -22049,8 +22043,8 @@
         "land",
         "landing",
         "settle",
-        "thump",
         "touch down",
+        "thump",
         "whump"
       ],
       "refer": "",
@@ -22223,10 +22217,10 @@
     ],
     "definition": [{
       "equivalent": [
+        "inhale exhale",
         "breath",
         "breathe",
-        "deep breath",
-        "inhale exhale"
+        "deep breath"
       ],
       "refer": "",
       "meaning": "the sound of breathing, both inhale and exhale",
@@ -22651,9 +22645,9 @@
     "katakana": ["タュンタュン"],
     "definition": [{
       "equivalent": [
-        "boing boing",
         "bounce bounce",
         "jiggle jiggle",
+        "boing boing",
         "quiver quiver",
         "shake shake",
         "sway sway",
@@ -22682,12 +22676,12 @@
     ],
     "definition": [{
       "equivalent": [
+        "tee hee",
         "chuckle",
         "giggle",
         "laugh",
         "snicker",
         "snigger",
-        "tee hee",
         "titter"
       ],
       "refer": "",
@@ -23011,10 +23005,10 @@
       },
       {
         "equivalent": [
-          "march march",
           "step step",
-          "stomp stomp",
           "tap tap",
+          "march march",
+          "stomp stomp",
           "tread tread",
           "walk walk"
         ],
@@ -23220,12 +23214,12 @@
     ],
     "definition": [{
       "equivalent": [
-        "pad pad",
-        "plod plod",
         "step step",
         "tap tap",
+        "walk walk",
         "tread tread",
-        "walk walk"
+        "pad pad",
+        "plod plod"
       ],
       "refer": "",
       "meaning": "a series of soft or quick steps",
@@ -23271,10 +23265,10 @@
       },
       {
         "equivalent": [
-          "dribble",
           "drip",
+          "trickle",
           "droplet",
-          "trickle"
+          "dribble"
         ],
         "refer": "",
         "meaning": "the indication of a small flowing liquid",
@@ -23321,11 +23315,11 @@
         "pinch pinch",
         "pluck pluck",
         "poke poke",
-        "prod prod",
         "pull pull",
         "push push",
         "tap tap",
-        "tug tug"
+        "tug tug",
+        "prod prod"
       ],
       "refer": "",
       "meaning": "a series of quick or gentle pinching, poking or prodding",
@@ -23472,11 +23466,11 @@
       },
       {
         "equivalent": [
-          "discouragement",
-          "dismay",
           "ugh",
-          "uhn",
-          "urgh"
+          "urgh",
+          "dismay",
+          "discouragement",
+          "uhn"
         ],
         "refer": "",
         "meaning": "an expression of dismay or discouragement",
@@ -23536,8 +23530,8 @@
     ],
     "definition": [{
       "equivalent": [
-        "humm",
-        "whirr"
+        "whirr",
+        "humm"
       ],
       "refer": "",
       "meaning": "the sound of raising or lowering an automatic window",
@@ -23749,13 +23743,13 @@
     ],
     "definition": [{
       "equivalent": [
-        "alarm",
-        "blare",
         "nee naw",
+        "wee woo",
         "oogah oogah",
-        "siren",
         "wail",
-        "wee woo"
+        "blare",
+        "siren",
+        "alarm"
       ],
       "refer": "",
       "meaning": "the loud sound of an alarm or siren",
@@ -23915,14 +23909,14 @@
     "katakana": ["ウズウズ"],
     "definition": [{
       "equivalent": [
-        " delighted",
+        "excited excited",
         "eager eager",
         "enthusiastic",
-        "excited excited",
-        "happy happy",
+        "thrill thrill",
+        " delighted",
         "inspired",
-        "joy joy",
-        "thrill thrill"
+        "happy happy",
+        "joy joy"
       ],
       "refer": "",
       "meaning": "an expression of excitement or anticipation",
@@ -24084,10 +24078,10 @@
     "katakana": ["ワフ"],
     "definition": [{
       "equivalent": [
-        "arf",
-        "bark",
-        "ruff",
         "woof",
+        "ruff",
+        "bark",
+        "arf",
         "yap"
       ],
       "refer": "",
@@ -24381,9 +24375,9 @@
     "katakana": ["ユサユサ"],
     "definition": [{
       "equivalent": [
+        "shake shake",
         "move move",
-        "push push",
-        "shake shake"
+        "push push"
       ],
       "refer": "",
       "meaning": "an indication of moving something to and fro",
@@ -24735,10 +24729,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "fwoosh",
-        "slosh",
         "splash",
-        "swash"
+        "fwoosh",
+        "swash",
+        "slosh"
       ],
       "refer": "",
       "meaning": "a large splashing sound",
@@ -24763,10 +24757,10 @@
     ],
     "definition": [{
       "equivalent": [
-        "clash clash",
         "grind grind",
         "rasp rasp",
-        "scrape scrape"
+        "scrape scrape",
+        "clash clash"
       ],
       "refer": "",
       "meaning": "a loud scrape or grinding noise",
@@ -24825,11 +24819,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "flop",
-        "flump",
-        "shaa",
         "splat",
-        "squash"
+        "squash",
+        "flump",
+        "flop",
+        "shaa"
       ],
       "refer": "",
       "meaning": "the sound of an ungraceful landing",
@@ -24880,14 +24874,14 @@
     ],
     "definition": [{
       "equivalent": [
+        "dumfounded",
         "amazed",
         "astonished",
-        "dumfounded",
         "flabbergasted",
-        "gasp",
         "shock",
         "stun",
-        "surprise"
+        "surprise",
+        "gasp"
       ],
       "refer": "",
       "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
@@ -24949,14 +24943,14 @@
       },
       {
         "equivalent": [
+          "dumfounded",
           "amazed",
           "astonished",
-          "dumfounded",
           "flabbergasted",
-          "gasp",
           "shock",
           "stun",
-          "surprise"
+          "surprise",
+          "gasp"
         ],
         "refer": "",
         "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
@@ -25369,14 +25363,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "appear",
-        "arrive",
         "display",
-        "emerge",
         "reveal",
         "show",
         "ta-da",
-        "unveil"
+        "unveil",
+        "appear",
+        "arrive",
+        "emerge"
       ],
       "refer": "",
       "meaning": "to suddenly appear, often in a dramatic reveal",
@@ -25477,16 +25471,16 @@
     "katakana": ["ズビシッ"],
     "definition": [{
       "equivalent": [
-        "crack",
-        "crunch",
-        "hit",
-        "impact",
-        "ka-blam",
         "punch",
-        "slam",
+        "strike",
         "smack",
+        "ka-blam",
+        "crack",
+        "hit",
+        "slam",
         "smite",
-        "strike"
+        "crunch",
+        "impact"
       ],
       "refer": "",
       "meaning": "a sharp, piercing or penetrating sound, usually precise",
@@ -25511,14 +25505,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "dip",
-        "dunk",
         "enter",
-        "insert",
-        "penetrate",
-        "pierce",
         "plunge",
-        "sink"
+        "insert",
+        "sink",
+        "dip",
+        "penetrate",
+        "dunk",
+        "pierce"
       ],
       "refer": "",
       "meaning": "an indication or sound of entering or plunging into something, sometimes forcefully",
@@ -25668,10 +25662,10 @@
       {
         "equivalent": [
           "close",
-          "crowded",
-          "press",
           "tight",
-          "too close"
+          "press",
+          "too close",
+          "crowded"
         ],
         "refer": "",
         "meaning": "an indication of getting too close to someone's face, often uncomfortably so",
@@ -25699,12 +25693,12 @@
       },
       {
         "equivalent": [
-          "drive",
-          "force",
-          "move",
-          "push",
+          "thrust",
           "shove",
-          "thrust"
+          "push",
+          "drive",
+          "move",
+          "force"
         ],
         "refer": "",
         "meaning": "an indication of thrusting, shoving, or pushing",
@@ -25741,8 +25735,8 @@
         "ache",
         "hurt",
         "pain",
-        "sting",
-        "throb"
+        "throb",
+        "sting"
       ],
       "refer": "",
       "meaning": "an expression of sharp pain",
@@ -25767,11 +25761,11 @@
     ],
     "definition": [{
       "equivalent": [
+        "throb",
+        "sting",
         "ache",
         "anguish",
-        "misery",
-        "sting",
-        "throb"
+        "misery"
       ],
       "refer": "",
       "meaning": "an expression of emotional or physical pain",
@@ -25932,17 +25926,17 @@
     "katakana": ["ズンズン"],
     "definition": [{
       "equivalent": [
-        "chase chase",
-        "dash dash",
-        "jog jog",
-        "rush rush",
-        "scoot scoot",
-        "scurry scurry",
-        "sprint sprint",
         "step step",
         "tap tap",
         "thump thump",
-        "trot trot"
+        "jog jog",
+        "trot trot",
+        "sprint sprint",
+        "dash dash",
+        "scurry scurry",
+        "scoot scoot",
+        "rush rush",
+        "chase chase"
       ],
       "refer": "",
       "meaning": "to walk or run quickly",
@@ -25979,14 +25973,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "bully",
-        "fierce",
-        "growl",
-        "intense",
-        "intimidate",
         "menace",
+        "threat",
+        "intimidate",
+        "bully",
         "pressure",
-        "threat"
+        "intense",
+        "fierce",
+        "growl"
       ],
       "refer": "",
       "meaning": "a menacing or intense vocalization",
@@ -26147,12 +26141,12 @@
     ],
     "definition": [{
       "equivalent": [
-        "blub",
         "slurp",
+        "suck",
         "sniff",
         "sniffle",
         "snivel",
-        "suck"
+        "blub"
       ],
       "refer": "",
       "meaning": "a wet slurping or sniffing noise",

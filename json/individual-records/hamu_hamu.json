@@ -1,22 +1,27 @@
 {
-  "hiragana": ["はむはむ"],
-  "katakana": ["ハムハム"],
-  "definition": [{
-    "equivalent": [
-      "bite bite",
-      "chew chew",
-      "gnaw gnaw",
-      "nom nom"
-    ],
-    "refer": "",
-    "meaning": "the sound of eating or chewing",
-    "type": "",
-    "example": [{
-      "file": "hamu_hamu-1a",
-      "contributor": "",
-      "display": "はむ  はむ",
-      "source": "uncle_at_heart"
-    }]
-  }],
-  "literal": "hamu hamu"
+  "literal": "hamu hamu",
+  "katakana": [
+    "ハムハム"
+  ],
+  "hiragana": [
+    "はむはむ"
+  ],
+  "definition": [
+    {
+      "refer": "hamu:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "hamu_hamu-1a",
+          "display": "はむ  はむ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

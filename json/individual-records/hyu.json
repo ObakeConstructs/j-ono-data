@@ -1,19 +1,27 @@
 {
-  "hiragana": [
-    "ひゅ",
-    "ひゅっ",
-    "ひゅー",
-    "ひゅーっ"
-  ],
+  "literal": "hyu",
   "katakana": [
     "ヒュ",
     "ヒュッ",
     "ヒュー",
     "ヒューッ"
   ],
+  "hiragana": [
+    "ひゅ",
+    "ひゅっ",
+    "ひゅー",
+    "ひゅーっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "a swift darting movement through the air",
       "equivalent": [
+        "dart",
+        "flick",
+        "flit",
+        "fwip",
         "shoom",
         "swoosh",
         "whish",
@@ -23,49 +31,47 @@
         "zip",
         "zoom"
       ],
-      "refer": "",
-      "meaning": "something moving quickly through the air",
-      "type": "",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "hyu-1a",
-          "contributor": "",
           "display": "ヒュッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "isekai_pickup",
           "file": "hyu-1b",
-          "contributor": "",
           "display": "ヒュ..",
-          "source": "isekai_pickup"
+          "contributor": ""
         },
         {
+          "source": "my_s-ranked_daughter",
           "file": "hyu-1c",
-          "contributor": "",
           "display": "ヒュッ",
-          "source": "my_s-ranked_daughter"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "v",
+      "meaning": "a soft vocalization as a reaction to something cute or endearing, often involuntary",
       "equivalent": [
+        "adorable",
         "aww",
         "cute",
-        "stunning",
         "pretty",
-        "adorable",
+        "stunning",
         "woah"
       ],
-      "refer": "",
-      "meaning": "a soft interjection expressing a reaction to something adorable or cute",
-      "type": "",
-      "example": [{
-        "file": "hyu-2a",
-        "contributor": "",
-        "display": "...ヒュ...",
-        "source": "rock_n_roll_ladies"
-      }]
+      "example": [
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "hyu-2a",
+          "display": "...ヒュ...",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "hyu"
+  ]
 }

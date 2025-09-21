@@ -1,34 +1,38 @@
 {
-  "hiragana": [
-    "ひゅぉぉ",
-    "ひゅぉぉぉ",
-    "ひゅおお",
-    "ひゅおおお"
-  ],
+  "literal": "hyuoo",
   "katakana": [
     "ヒュォォ",
     "ヒュォォォ",
     "ヒュオオ",
     "ヒュオオオ"
   ],
-  "definition": [{
-    "equivalent": [
-      "whoosh",
-      "howl",
-      "blow",
-      "gale",
-      "wind",
-      "gust"
-    ],
-    "refer": "",
-    "meaning": "the sound of a strong or howling wind",
-    "type": "",
-    "example": [{
-      "file": "hyuoo-1a",
-      "contributor": "",
-      "display": "ヒュォォォォォ...",
-      "source": "sex_with_me_sells"
-    }]
-  }],
-  "literal": "hyuoo"
+  "hiragana": [
+    "ひゅぉぉ",
+    "ひゅぉぉぉ",
+    "ひゅおお",
+    "ひゅおおお"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "the sound of strong, howling wind",
+      "equivalent": [
+        "blow",
+        "gale",
+        "gust",
+        "howl",
+        "whoosh",
+        "wind"
+      ],
+      "example": [
+        {
+          "source": "sex_with_me_sells",
+          "file": "hyuoo-1a",
+          "display": "ヒュォォォォォ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

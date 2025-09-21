@@ -1,23 +1,27 @@
 {
-  "hiragana": ["ひらひら"],
-  "katakana": ["ヒラヒラ"],
-  "definition": [{
-    "equivalent": [
-      "flap flap",
-      "flick flick",
-      "flit flit",
-      "swish swish",
-      "wave wave"
-    ],
-    "refer": "",
-    "meaning": "a series of flapping sounds, as from a bird flying or a flag in the wind",
-    "type": "",
-    "example": [{
-      "file": "hira_hira-1a",
-      "contributor": "",
-      "display": "ひら  ひら",
-      "source": "lord_of_the_hundred_demons"
-    }]
-  }],
-  "literal": "hira hira"
+  "literal": "hira hira",
+  "katakana": [
+    "ヒラヒラ"
+  ],
+  "hiragana": [
+    "ひらひら"
+  ],
+  "definition": [
+    {
+      "refer": "hira:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "lord_of_the_hundred_demons",
+          "file": "hira_hira-1a",
+          "display": "ひら  ひら",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

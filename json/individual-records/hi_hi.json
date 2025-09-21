@@ -1,31 +1,35 @@
 {
-  "hiragana": [
-    "ひひ",
-    "ひひひ"
-  ],
+  "literal": "hi hi",
   "katakana": [
     "ヒヒ",
     "ヒヒヒ"
   ],
-  "definition": [{
-    "equivalent": [
-      "chortle chortle",
-      "chuckle chuckle",
-      "giggle giggle",
-      "hee hee",
-      "laugh laugh",
-      "snicker snicker",
-      "titter titter"
-    ],
-    "refer": "",
-    "meaning": "a light laugh or giggle",
-    "type": "",
-    "example": [{
-      "file": "hi_hi-1a",
-      "contributor": "",
-      "display": "ヒヒヒ",
-      "source": "35_year_olds_choice"
-    }]
-  }],
-  "literal": "hi hi"
+  "hiragana": [
+    "ひひ",
+    "ひひひ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "A light, mischievous laugh or giggle",
+      "equivalent": [
+        "chortle chortle",
+        "chuckle chuckle",
+        "giggle giggle",
+        "hee hee",
+        "laugh laugh",
+        "snicker snicker",
+        "titter titter"
+      ],
+      "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "hi_hi-1a",
+          "display": "ヒヒヒ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

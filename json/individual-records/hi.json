@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "ひ",
-    "ひっ",
-    "びぃ",
-    "びぃぃ",
-    "びぃぃぃ",
-    "びぃっ",
-    "びぃぃっ",
-    "びぃぃぃっ"
-  ],
+  "literal": "hi",
   "katakana": [
     "ヒ",
     "ヒッ",
@@ -19,39 +10,50 @@
     "ヒィィッ",
     "ヒィィィッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "eek",
-      "eep",
-      "shriek",
-      "squeal",
-      "yelp",
-      "yike",
-      "yikes"
-    ],
-    "refer": "",
-    "meaning": "a high-pitched squeal of surprise, sometimes used for comedic effect",
-    "type": "",
-    "example": [
-      {
-        "file": "hi-1a",
-        "contributor": "",
-        "display": "ヒッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "hi-1b",
-        "contributor": "",
-        "display": "ヒィィィッ...",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "hi-1c",
-        "contributor": "",
-        "display": "ひー",
-        "source": "hanako_24th_ward"
-      }
-    ]
-  }],
-  "literal": "hi"
+  "hiragana": [
+    "ひ",
+    "ひっ",
+    "びぃ",
+    "びぃぃ",
+    "びぃぃぃ",
+    "びぃっ",
+    "びぃぃっ",
+    "びぃぃぃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "a short, involuntary cry or gasp, as when startled, frightened or surprised",
+      "equivalent": [
+        "eek",
+        "eep",
+        "shriek",
+        "squeal",
+        "yelp",
+        "yike",
+        "yikes"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "hi-1a",
+          "display": "ヒッ",
+          "contributor": ""
+        },
+        {
+          "source": "world_full_of_monsters",
+          "file": "hi-1b",
+          "display": "ヒィィィッ...",
+          "contributor": ""
+        },
+        {
+          "source": "hanako_24th_ward",
+          "file": "hi-1c",
+          "display": "ひー",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

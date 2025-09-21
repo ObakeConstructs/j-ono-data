@@ -1,23 +1,27 @@
 {
-  "hiragana": ["ひゅんひゅん"],
-  "katakana": ["ヒュンヒュン"],
-  "definition": [{
-    "equivalent": [
-      "shoom shoom",
-      "swoosh swoosh",
-      "whish whish",
-      "whoosh whoosh",
-      "zip zip"
-    ],
-    "refer": "",
-    "meaning": "something moving through the air quickly and repetitively ",
-    "type": "",
-    "example": [{
-      "file": "hyun_hyun-1a",
-      "contributor": "",
-      "display": "ヒュン  ヒュン",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "hyun hyun"
+  "literal": "hyun hyun",
+  "katakana": [
+    "ヒュンヒュン"
+  ],
+  "hiragana": [
+    "ひゅんひゅん"
+  ],
+  "definition": [
+    {
+      "refer": "hyu:1",
+      "type": "",
+      "meaning": ", repeated or continuous",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "hyun_hyun-1a",
+          "display": "ヒュン  ヒュン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

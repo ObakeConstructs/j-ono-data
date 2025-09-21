@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "ほ",
-    "ほっ",
-    "ほー",
-    "ほーっ",
-    "ほぉ",
-    "ほお"
-  ],
+  "literal": "ho",
   "katakana": [
     "ホ",
     "ホッ",
@@ -15,8 +8,19 @@
     "ホォ",
     "ホオ"
   ],
+  "hiragana": [
+    "ほ",
+    "ほっ",
+    "ほー",
+    "ほーっ",
+    "ほぉ",
+    "ほお"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "v",
+      "meaning": "a short exhale, usually expressing relief",
       "equivalent": [
         "ahh",
         "phew",
@@ -25,45 +29,43 @@
         "sigh",
         "whew"
       ],
-      "refer": "",
-      "meaning": "the sound or expression of relief",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "ho-1a",
-          "contributor": "",
           "display": "ほっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "peter_grill",
           "file": "ho-1b",
-          "contributor": "",
           "display": "ホッ",
-          "source": "peter_grill"
+          "contributor": ""
         },
         {
+          "source": "my_s-ranked_daughter",
           "file": "ho-1c",
-          "contributor": "",
           "display": "ほぉー",
-          "source": "my_s-ranked_daughter"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "e",
+      "meaning": "an expression of understanding or realization",
       "equivalent": [
         "ah",
         "oh"
       ],
-      "refer": "",
-      "meaning": "an expression of understanding or realization",
-      "type": "",
-      "example": [{
-        "file": "ho-2a",
-        "contributor": "",
-        "display": "ほお...",
-        "source": "isekai_sniper"
-      }]
+      "example": [
+        {
+          "source": "isekai_sniper",
+          "file": "ho-2a",
+          "display": "ほお...",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ho"
+  ]
 }

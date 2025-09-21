@@ -1,21 +1,29 @@
 {
-  "hiragana": ["はふはふ"],
-  "katakana": ["ハフハフ"],
-  "definition": [{
-    "equivalent": [
-      "huff huff",
-      "blow blow",
-      "hoo hoo"
-    ],
-    "refer": "",
-    "meaning": "a series of exhales, as from blowing on hot food",
-    "type": "",
-    "example": [{
-      "file": "hafu_hafu-1a",
-      "contributor": "",
-      "display": "はふ  はふ",
-      "source": "dungeon_dining_room"
-    }]
-  }],
-  "literal": "hafu hafu"
+  "literal": "hafu hafu",
+  "katakana": [
+    "ハフハフ"
+  ],
+  "hiragana": [
+    "はふはふ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "repeated light breaths while eating or blowing on hot food",
+      "equivalent": [
+        "blow blow",
+        "hoo hoo",
+        "huff huff"
+      ],
+      "example": [
+        {
+          "source": "dungeon_dining_room",
+          "file": "hafu_hafu-1a",
+          "display": "はふ  はふ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

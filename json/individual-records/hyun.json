@@ -1,46 +1,41 @@
 {
-  "hiragana": [
-    "ひゅん",
-    "ひゅんっ"
-  ],
+  "literal": "hyun",
   "katakana": [
     "ヒュン",
     "ヒュンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "shoom",
-      "swoosh",
-      "whish",
-      "whiz",
-      "whom",
-      "whoosh",
-      "zip",
-      "zoom"
-    ],
-    "refer": "",
-    "meaning": "something moving quickly through the air",
-    "type": "",
-    "example": [
-      {
-        "file": "hyun-1a",
-        "contributor": "",
-        "display": "ヒュンッ",
-        "source": "hello_work"
-      },
-      {
-        "file": "hyun-1b",
-        "contributor": "",
-        "display": "ヒュン",
-        "source": "hanako_24th_ward"
-      },
-      {
-        "file": "hyun-1c",
-        "contributor": "",
-        "display": "ヒュン",
-        "source": "my_s-ranked_daughter"
-      }
-    ]
-  }],
-  "literal": "hyun"
+  "hiragana": [
+    "ひゅん",
+    "ひゅんっ"
+  ],
+  "definition": [
+    {
+      "refer": "hyu:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "hyun-1a",
+          "display": "ヒュンッ",
+          "contributor": ""
+        },
+        {
+          "source": "hanako_24th_ward",
+          "file": "hyun-1b",
+          "display": "ヒュン",
+          "contributor": ""
+        },
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "hyun-1c",
+          "display": "ヒュン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

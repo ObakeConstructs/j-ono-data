@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "は",
-    "はっ",
-    "はあ",
-    "はあっ",
-    "はー",
-    "はーっ",
-    "はぁ",
-    "はぁっ"
-  ],
+  "literal": "ha",
   "katakana": [
     "ハ",
     "ハッ",
@@ -19,8 +10,21 @@
     "ハァ",
     "ハァッ"
   ],
+  "hiragana": [
+    "は",
+    "はっ",
+    "はあ",
+    "はあっ",
+    "はー",
+    "はーっ",
+    "はぁ",
+    "はぁっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "v",
+      "meaning": "a sharp inhale or gasp from exertion, fear, or excitement",
       "equivalent": [
         "gasp",
         "ha",
@@ -28,83 +32,80 @@
         "huff",
         "pant"
       ],
-      "refer": "",
-      "meaning": "breathing hard from exertion, fear, or excitement",
-      "type": "",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "ha-1a",
-          "contributor": "",
           "display": "はあ..",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "double_play",
           "file": "ha-1b",
-          "contributor": "",
           "display": "ハッ",
-          "source": "double_play"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "v",
+      "meaning": "a quick sigh of relief or release of tension",
       "equivalent": [
         "exhale",
         "hahh",
         "sigh"
       ],
-      "refer": "",
-      "meaning": "a deep sigh or exhalation",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "ha-2a",
-          "contributor": "",
           "display": "は",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "ha-2b",
-          "contributor": "",
           "display": "はぁ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "saga_lagging_hero",
           "file": "ha-2c",
-          "contributor": "",
           "display": "はーっ",
-          "source": "saga_lagging_hero"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "e",
+      "meaning": "a sudden realization or understanding",
       "equivalent": [
+        "aha",
         "gasp",
         "realize"
       ],
-      "refer": "",
-      "meaning": "a sudden realization or understanding",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "ha-3a",
-          "contributor": "",
           "display": "はっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "hello_work",
           "file": "ha-3b",
-          "contributor": "",
           "display": "ハッ",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "way_of_isekai_cooking",
           "file": "ha-3c",
-          "contributor": "",
           "display": "はあ...",
-          "source": "way_of_isekai_cooking"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "ha"
+  ]
 }

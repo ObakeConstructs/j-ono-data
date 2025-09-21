@@ -1,27 +1,31 @@
 {
-  "hiragana": [
-    "いたい",
-    "いたーい"
-  ],
+  "literal": "itai",
   "katakana": [
     "イタイ",
     "イターイ"
   ],
-  "definition": [{
-    "equivalent": [
-      "fah",
-      "ouch",
-      "ow"
-    ],
-    "refer": "",
-    "meaning": "an expression of pain",
-    "type": "",
-    "example": [{
-      "file": "itai-1a",
-      "contributor": "",
-      "display": "イターイ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "itai"
+  "hiragana": [
+    "いたい",
+    "いたーい"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "a feeling or expression of pain or discomfort",
+      "equivalent": [
+        "fah",
+        "ouch",
+        "ow"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "itai-1a",
+          "display": "イターイ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
