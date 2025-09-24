@@ -653,15 +653,21 @@
       },
       {
         "equivalent": [
+          "appear",
+          "arrive",
           "bam",
           "boom",
           "d-dum",
+          "display",
+          "emerge",
+          "expose",
           "reveal",
           "ta-da",
+          "unveil",
           "wow"
         ],
         "refer": "",
-        "meaning": "a dramatic or stylized reveal",
+        "meaning": "a dramatic or stylized reveal or appearance",
         "type": "c",
         "example": [
           {
@@ -797,21 +803,10 @@
         ]
       },
       {
-        "equivalent": [
-          "appear",
-          "arrive",
-          "emerge",
-          "expose",
-          "loom",
-          "reveal",
-          "shaa",
-          "show up",
-          "ta-da",
-          "unveil"
-        ],
-        "refer": "",
-        "meaning": "a dramatic or stylized reveal",
-        "type": "c",
+        "equivalent": [""],
+        "refer": "ban:2",
+        "meaning": "",
+        "type": "",
         "example": [{
           "file": "basa-2a",
           "contributor": "",
@@ -4620,7 +4615,7 @@
       },
       {
         "equivalent": [""],
-        "refer": "bon:1",
+        "refer": "den:1",
         "meaning": "",
         "type": "",
         "example": [
@@ -10842,15 +10837,14 @@
     "katakana": ["ジャブジャブ"],
     "definition": [{
       "equivalent": [
-        "slosh slosh",
-        "splash splash",
+        "sloshing",
+        "splashing",
         "splish splash",
-        "sploosh sploosh",
-        "wash wash"
+        "washing"
       ],
       "refer": "",
-      "meaning": "the sound of splashing water",
-      "type": "",
+      "meaning": "splashing or sloshing of water, often vigorous",
+      "type": "o",
       "example": [
         {
           "file": "jabu_jabu-1a",
@@ -10873,14 +10867,12 @@
     "katakana": ["ジャカジャカ"],
     "definition": [{
       "equivalent": [
-        "rattle rattle",
-        "clatter clatter",
-        "chatter chatter",
-        "jingle jingle"
+        "clatter",
+        "rattle"
       ],
       "refer": "",
-      "meaning": "a series of rattling or clattering sounds",
-      "type": "",
+      "meaning": "rapid rattling or clattering",
+      "type": "o",
       "example": [{
         "file": "jaka_jaka-1a",
         "contributor": "",
@@ -10899,31 +10891,42 @@
       "ジャキ",
       "ジャキッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "ching",
-        "jing",
-        "shaa",
-        "shing"
-      ],
-      "refer": "",
-      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
-      "type": "",
-      "example": [
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "ching",
+          "jing",
+          "shaa",
+          "shing"
+        ],
+        "refer": "",
+        "meaning": "the sharp metallic sound of a weapon drawn or readied",
+        "type": "o",
+        "example": [{
           "file": "jaki-1a",
           "contributor": "",
           "display": "ジャキ",
           "source": "different_world_smartphone"
-        },
-        {
+        }]
+      },
+      {
+        "equivalent": [
+          "danger",
+          "edge",
+          "glint",
+          "sharp"
+        ],
+        "refer": "",
+        "meaning": "the sudden flash of a sharp or dangerous edge",
+        "type": "c",
+        "example": [{
           "file": "jaki-1b",
           "contributor": "",
           "display": "じゃきっ",
           "source": "world_full_of_monsters"
-        }
-      ]
-    }],
+        }]
+      }
+    ],
     "literal": "jaki"
   },
   {
@@ -10936,14 +10939,9 @@
       "ジャキンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "ching",
-        "jing",
-        "shaa",
-        "shing"
-      ],
-      "refer": "",
-      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "equivalent": [""],
+      "refer": "jaki:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "jakin-1a",
@@ -10964,15 +10962,9 @@
       "ジャーン"
     ],
     "definition": [{
-      "equivalent": [
-        "bam",
-        "boom",
-        "da-dum",
-        "ta-da",
-        "tadah"
-      ],
-      "refer": "",
-      "meaning": "to call attention to something in an overly-dramatic fashion",
+      "equivalent": [""],
+      "refer": "ban:2",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -11021,8 +11013,8 @@
           "tinkle"
         ],
         "refer": "",
-        "meaning": "a sharp light sound of rattling metal or glass",
-        "type": "",
+        "meaning": "sharp, light clinking or jingling, usually metallic",
+        "type": "o",
         "example": [
           {
             "file": "jara-1a",
@@ -11039,15 +11031,9 @@
         ]
       },
       {
-        "equivalent": [
-          "bam",
-          "boom",
-          "da-dum",
-          "ta-da",
-          "tadah"
-        ],
-        "refer": "",
-        "meaning": "to call attention to something in an overly-dramatic fashion",
+        "equivalent": [""],
+        "refer": "ban:2",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "jara-2a",
@@ -11069,16 +11055,9 @@
       "ジャラーン"
     ],
     "definition": [{
-      "equivalent": [
-        "ching",
-        "clink",
-        "jingle",
-        "ting",
-        "tink",
-        "tinkle"
-      ],
-      "refer": "",
-      "meaning": "a sharp light sound of rattling metal or glass",
+      "equivalent": [""],
+      "refer": "jara:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "jaran-1a",
@@ -11094,13 +11073,15 @@
     "katakana": ["ジャジャ"],
     "definition": [{
       "equivalent": [
-        "hiss hiss",
-        "sizzle sizzle",
-        "wah wah"
+        "buzz",
+        "crackle",
+        "distortion",
+        "fizz",
+        "static"
       ],
       "refer": "",
-      "meaning": "a repeated hissing or distorted sound",
-      "type": "",
+      "meaning": "electronic distortion or static",
+      "type": "o",
       "example": [{
         "file": "ja_ja-1a",
         "contributor": "",
@@ -11137,8 +11118,8 @@
           "study"
         ],
         "refer": "",
-        "meaning": "a lengthy stare at someone or something",
-        "type": "",
+        "meaning": "a long, fixed stare",
+        "type": "c",
         "example": [
           {
             "file": "ji-1a",
@@ -11168,12 +11149,18 @@
       },
       {
         "equivalent": [
-          "unzip",
+          "burr",
+          "buzz",
+          "chirr",
+          "churr",
+          "drone",
+          "hum",
+          "purr",
           "zip"
         ],
         "refer": "",
-        "meaning": "the sound of a zipper opening or closing",
-        "type": "",
+        "meaning": "a droning or buzzing sound",
+        "type": "o",
         "example": [{
           "file": "ji-2a",
           "contributor": "",
@@ -11198,17 +11185,9 @@
       "ジーンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "gape",
-        "gawk",
-        "peer",
-        "regard",
-        "scrutinize",
-        "stare",
-        "study"
-      ],
-      "refer": "",
-      "meaning": "a lengthy stare at someone or something",
+      "equivalent": [""],
+      "refer": "ji:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "jin-1a",
@@ -11237,11 +11216,11 @@
         "equivalent": [
           "beep beep",
           "ding-a-ling",
-          "ring ring"
+          "ring"
         ],
         "refer": "",
-        "meaning": "sound of ringing, as from an alarm or phone",
-        "type": "",
+        "meaning": "a shrill metallic ringing sound, as from an alarm or phone",
+        "type": "o",
         "example": [{
           "file": "jiri-1a",
           "contributor": "",
@@ -11253,12 +11232,13 @@
         "equivalent": [
           "creep",
           "inch",
+          "slowly",
           "step",
-          "slowly"
+          "tense"
         ],
         "refer": "",
-        "meaning": "the indication of moving slowly or carefully",
-        "type": "",
+        "meaning": "slow, cautious, or tense movement, often step by step",
+        "type": "m",
         "example": [{
           "file": "jiri-2a",
           "contributor": "",
@@ -11273,14 +11253,9 @@
     "hiragana": ["じりじり"],
     "katakana": ["ジリジリ"],
     "definition": [{
-      "equivalent": [
-        "creep creep",
-        "encroach",
-        "inch inch",
-        "invade"
-      ],
-      "refer": "",
-      "meaning": "an indication of moving or stepping slowly",
+      "equivalent": [""],
+      "refer": "jiri:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "jiri_jiri-1a",
@@ -11295,14 +11270,9 @@
     "hiragana": ["じろ"],
     "katakana": ["ジロ"],
     "definition": [{
-      "equivalent": [
-        "gape",
-        "gawk",
-        "peer",
-        "stare"
-      ],
-      "refer": "",
-      "meaning": "a good hard stare at someone or something",
+      "equivalent": [""],
+      "refer": "ji:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "jiro-1a",
@@ -11319,13 +11289,14 @@
     "definition": [
       {
         "equivalent": [
+          "flail",
           "resist",
           "struggle",
           "wriggle"
         ],
         "refer": "",
-        "meaning": "an indication of strugging against restraints, typically in vain",
-        "type": "",
+        "meaning": "strugging in vain against physical restraints",
+        "type": "m",
         "example": [
           {
             "file": "jita_bata-1a",
@@ -11343,13 +11314,17 @@
       },
       {
         "equivalent": [
+          "flail",
+          "fuss",
+          "hissy fit",
+          "huff",
+          "tantrum",
           "temper tantrum",
-          "flail flail",
-          "hissy fit"
+          "tizzy"
         ],
         "refer": "",
-        "meaning": "an indication of flailing in a fit of agitation, frustration, or temper",
-        "type": "",
+        "meaning": "fussing or flailing in a fit of temper, usually ineffectively",
+        "type": "m",
         "example": [{
           "file": "jita_bata-2a",
           "contributor": "",
@@ -11371,17 +11346,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "sad",
-        "sniff",
-        "sniffle",
-        "sorrow",
+        "drip",
+        "exude",
+        "flow",
+        "ooze",
+        "seep",
         "tears",
-        "weep",
-        "whimper"
+        "weep"
       ],
       "refer": "",
-      "meaning": "an indication of leaking bodily fluid, as being on the verge of tears",
-      "type": "",
+      "meaning": "a gradual seeping or oozing of a liquid",
+      "type": "m",
       "example": [
         {
           "file": "jiwa-1a",
@@ -11398,40 +11373,6 @@
       ]
     }],
     "literal": "jiwa"
-  },
-  {
-    "hiragana": [
-      "じゅ",
-      "じゅぅ",
-      "じゅぅぅ",
-      "じゆ",
-      "じゆう",
-      "じゆうう"
-    ],
-    "katakana": [
-      "ジュ",
-      "ジュゥ",
-      "ジュゥゥ",
-      "ジユ",
-      "ジユウ",
-      "ジユウウ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "sizle",
-        "hiss"
-      ],
-      "refer": "",
-      "meaning": "the sound of hissing or sizzling, as from cooking",
-      "type": "",
-      "example": [{
-        "file": "jiyu-1a",
-        "contributor": "",
-        "display": "じゅぅぅ...",
-        "source": "shogun_gold_in_america"
-      }]
-    }],
-    "literal": "jiyu"
   },
   {
     "hiragana": [
@@ -11459,11 +11400,13 @@
         "burn",
         "fizz",
         "hiss",
-        "sizzle"
+        "juicy",
+        "sizzle",
+        "steam"
       ],
       "refer": "",
-      "meaning": "a sound of sizzling, as from cooking",
-      "type": "",
+      "meaning": "hissing or sizzling, as from cooking",
+      "type": "o",
       "example": [
         {
           "file": "ju-1a",
@@ -11476,6 +11419,12 @@
           "contributor": "",
           "display": "じゅう",
           "source": "way_of_the_house_husband"
+        },
+        {
+          "file": "jiyu-1a",
+          "contributor": "",
+          "display": "ゅぅぅ...",
+          "source": "shogun_gold_in_america"
         }
       ]
     }],
@@ -11491,18 +11440,9 @@
       "ジュンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "drip drip",
-        "drop drop",
-        "flow flow",
-        "gush gush",
-        "trickle trickle",
-        "seep seep",
-        "ooze ooze",
-        "weep weep"
-      ],
-      "refer": "",
-      "meaning": "an indication of a dripping or oozing fluid",
+      "equivalent": [""],
+      "refer": "jiwa:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "jun_jun-1a",
@@ -11518,12 +11458,13 @@
     "katakana": ["ジュポジュポ"],
     "definition": [{
       "equivalent": [
-        "slurp slurp",
-        "suck suck"
+        "slurp",
+        "suck",
+        "wet"
       ],
       "refer": "",
-      "meaning": "a wet slurping sound",
-      "type": "",
+      "meaning": "a wet slurping or sucking sound",
+      "type": "o",
       "example": [{
         "file": "jupo_jupo-1a",
         "contributor": "",
@@ -11537,12 +11478,9 @@
     "hiragana": ["じゅぷじゅぷ"],
     "katakana": ["ジュプジュプ"],
     "definition": [{
-      "equivalent": [
-        "slurp slurp",
-        "suck suck"
-      ],
-      "refer": "",
-      "meaning": "a wet slurping sound",
+      "equivalent": [""],
+      "refer": "jupo jupo:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "jupu_jupu-1a",
@@ -11566,11 +11504,12 @@
       "equivalent": [
         "drool",
         "slaver",
-        "slobber"
+        "slobber",
+        "slurp"
       ],
       "refer": "",
-      "meaning": "the act or sound of drooling",
-      "type": "",
+      "meaning": "a brief slurping or drooling sound",
+      "type": "o",
       "example": [
         {
           "file": "juru-1a",
@@ -11602,15 +11541,9 @@
       "ジュワワァ"
     ],
     "definition": [{
-      "equivalent": [
-        "fizz",
-        "hiss",
-        "juicy",
-        "sizzle",
-        "steam"
-      ],
-      "refer": "",
-      "meaning": "a juicy sizzling sound, as of cooking meat",
+      "equivalent": [""],
+      "refer": "ju:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "juwa-1a",
@@ -11633,13 +11566,14 @@
     "definition": [{
       "equivalent": [
         "kiss",
+        "lick",
         "slurp",
         "suck",
         "suckle"
       ],
       "refer": "",
-      "meaning": "a wet licking or sucking sound",
-      "type": "",
+      "meaning": "a wet slurping or sucking sound",
+      "type": "o",
       "example": [
         {
           "file": "jyuru-1a",

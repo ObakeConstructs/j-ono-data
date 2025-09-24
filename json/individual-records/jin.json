@@ -1,35 +1,33 @@
 {
-  "hiragana": [
-    "じん",
-    "じんっ",
-    "じーん",
-    "じーんっ"
-  ],
+  "literal": "jin",
   "katakana": [
     "ジン",
     "ジンッ",
     "ジーン",
     "ジーンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "gape",
-      "gawk",
-      "peer",
-      "regard",
-      "scrutinize",
-      "stare",
-      "study"
-    ],
-    "refer": "",
-    "meaning": "a lengthy stare at someone or something",
-    "type": "",
-    "example": [{
-      "file": "jin-1a",
-      "contributor": "",
-      "display": "じーん",
-      "source": "reincarnated_farm_girl"
-    }]
-  }],
-  "literal": "jin"
+  "hiragana": [
+    "じん",
+    "じんっ",
+    "じーん",
+    "じーんっ"
+  ],
+  "definition": [
+    {
+      "refer": "ji:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "jin-1a",
+          "display": "じーん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

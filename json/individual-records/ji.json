@@ -1,11 +1,5 @@
 {
-  "hiragana": [
-    "じ",
-    "じっ",
-    "じー",
-    "じーっ",
-    "じぃっ"
-  ],
+  "literal": "ji",
   "katakana": [
     "ジ",
     "ジッ",
@@ -13,8 +7,18 @@
     "ジーッ",
     "ジィッ"
   ],
+  "hiragana": [
+    "じ",
+    "じっ",
+    "じー",
+    "じーっ",
+    "じぃっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "c",
+      "meaning": "a long, fixed stare",
       "equivalent": [
         "gape",
         "gawk",
@@ -24,51 +28,55 @@
         "stare",
         "study"
       ],
-      "refer": "",
-      "meaning": "a lengthy stare at someone or something",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "ji-1a",
-          "contributor": "",
           "display": "じっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "ji-1b",
-          "contributor": "",
           "display": "じぃっ...",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "komi_cant_communicate",
           "file": "ji-1c",
-          "contributor": "",
           "display": "じー",
-          "source": "komi_cant_communicate"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "ji-1d",
-          "contributor": "",
           "display": "じー",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "a droning or buzzing sound",
       "equivalent": [
-        "unzip",
+        "burr",
+        "buzz",
+        "chirr",
+        "churr",
+        "drone",
+        "hum",
+        "purr",
         "zip"
       ],
-      "refer": "",
-      "meaning": "the sound of a zipper opening or closing",
-      "type": "",
-      "example": [{
-        "file": "ji-2a",
-        "contributor": "",
-        "display": "ジー",
-        "source": "neet_kunoichi"
-      }]
+      "example": [
+        {
+          "source": "neet_kunoichi",
+          "file": "ji-2a",
+          "display": "ジー",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ji"
+  ]
 }

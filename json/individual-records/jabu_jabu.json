@@ -1,31 +1,36 @@
 {
-  "hiragana": ["じゃぶじゃぶ"],
-  "katakana": ["ジャブジャブ"],
-  "definition": [{
-    "equivalent": [
-      "slosh slosh",
-      "splash splash",
-      "splish splash",
-      "sploosh sploosh",
-      "wash wash"
-    ],
-    "refer": "",
-    "meaning": "the sound of splashing water",
-    "type": "",
-    "example": [
-      {
-        "file": "jabu_jabu-1a",
-        "contributor": "",
-        "display": "ジャブ  ジャブ",
-        "source": "reincarnated_farm_girl"
-      },
-      {
-        "file": "jabu_jabu-1b",
-        "contributor": "",
-        "display": "じゃぶ  じゃぶ",
-        "source": "shogun_gold_in_america"
-      }
-    ]
-  }],
-  "literal": "jabu jabu"
+  "literal": "jabu jabu",
+  "katakana": [
+    "ジャブジャブ"
+  ],
+  "hiragana": [
+    "じゃぶじゃぶ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "splashing or sloshing of water, often vigorous",
+      "equivalent": [
+        "sloshing",
+        "splashing",
+        "splish splash",
+        "washing"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "jabu_jabu-1a",
+          "display": "ジャブ  ジャブ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "jabu_jabu-1b",
+          "display": "じゃぶ  じゃぶ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

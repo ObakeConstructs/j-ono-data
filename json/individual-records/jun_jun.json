@@ -1,32 +1,29 @@
 {
-  "hiragana": [
-    "じゅん",
-    "じゅんっ"
-  ],
+  "literal": "jun jun",
   "katakana": [
     "ジュン",
     "ジュンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "drip drip",
-      "drop drop",
-      "flow flow",
-      "gush gush",
-      "trickle trickle",
-      "seep seep",
-      "ooze ooze",
-      "weep weep"
-    ],
-    "refer": "",
-    "meaning": "an indication of a dripping or oozing fluid",
-    "type": "",
-    "example": [{
-      "file": "jun_jun-1a",
-      "contributor": "",
-      "display": "ジュン♡  ジュン♡",
-      "source": "gyaru_academy"
-    }]
-  }],
-  "literal": "jun jun"
+  "hiragana": [
+    "じゅん",
+    "じゅんっ"
+  ],
+  "definition": [
+    {
+      "refer": "jiwa:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "gyaru_academy",
+          "file": "jun_jun-1a",
+          "display": "ジュン♡  ジュン♡",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

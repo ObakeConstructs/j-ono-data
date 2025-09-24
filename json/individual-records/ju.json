@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "じゅうぅ",
-    "じゅー",
-    "じゅぅ",
-    "じゅぅぅ",
-    "じゅぅぅぅ",
-    "じゅう",
-    "じゅうう",
-    "じゅううう"
-  ],
+  "literal": "ju",
   "katakana": [
     "ジュウゥ",
     "ジュー",
@@ -19,30 +10,49 @@
     "ジュウウ",
     "ジュウウウ"
   ],
-  "definition": [{
-    "equivalent": [
-      "burn",
-      "fizz",
-      "hiss",
-      "sizzle"
-    ],
-    "refer": "",
-    "meaning": "a sound of sizzling, as from cooking",
-    "type": "",
-    "example": [
-      {
-        "file": "ju-1a",
-        "contributor": "",
-        "display": "ジュウウ...",
-        "source": "strongest_thread_master"
-      },
-      {
-        "file": "ju-1b",
-        "contributor": "",
-        "display": "じゅう",
-        "source": "way_of_the_house_husband"
-      }
-    ]
-  }],
-  "literal": "ju"
+  "hiragana": [
+    "じゅうぅ",
+    "じゅー",
+    "じゅぅ",
+    "じゅぅぅ",
+    "じゅぅぅぅ",
+    "じゅう",
+    "じゅうう",
+    "じゅううう"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "hissing or sizzling, as from cooking",
+      "equivalent": [
+        "burn",
+        "fizz",
+        "hiss",
+        "juicy",
+        "sizzle",
+        "steam"
+      ],
+      "example": [
+        {
+          "source": "strongest_thread_master",
+          "file": "ju-1a",
+          "display": "ジュウウ...",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_the_house_husband",
+          "file": "ju-1b",
+          "display": "じゅう",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "jiyu-1a",
+          "display": "ゅぅぅ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,18 +1,22 @@
 {
-  "hiragana": [
-    "じゃら",
-    "じゃらら",
-    "じゃらっ",
-    "じゃららっ"
-  ],
+  "literal": "jara",
   "katakana": [
     "ジャラ",
     "ジャララ",
     "ジャラッ",
     "ジャララッ"
   ],
+  "hiragana": [
+    "じゃら",
+    "じゃらら",
+    "じゃらっ",
+    "じゃららっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "sharp, light clinking or jingling, usually metallic",
       "equivalent": [
         "ching",
         "clink",
@@ -21,42 +25,36 @@
         "tink",
         "tinkle"
       ],
-      "refer": "",
-      "meaning": "a sharp light sound of rattling metal or glass",
-      "type": "",
       "example": [
         {
+          "source": "world_full_of_monsters",
           "file": "jara-1a",
-          "contributor": "",
           "display": "ジャラ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "jara-1b",
-          "contributor": "",
           "display": "ジャララ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [
-        "bam",
-        "boom",
-        "da-dum",
-        "ta-da",
-        "tadah"
-      ],
-      "refer": "",
-      "meaning": "to call attention to something in an overly-dramatic fashion",
+      "refer": "ban:2",
       "type": "",
-      "example": [{
-        "file": "jara-2a",
-        "contributor": "",
-        "display": "じゃらっ",
-        "source": "shogun_gold_in_america"
-      }]
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "shogun_gold_in_america",
+          "file": "jara-2a",
+          "display": "じゃらっ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "jara"
+  ]
 }

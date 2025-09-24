@@ -1,39 +1,41 @@
 {
-  "hiragana": [
-    "じわ",
-    "じわっ"
-  ],
+  "literal": "jiwa",
   "katakana": [
     "ジワ",
     "ジワッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "sad",
-      "sniff",
-      "sniffle",
-      "sorrow",
-      "tears",
-      "weep",
-      "whimper"
-    ],
-    "refer": "",
-    "meaning": "an indication of leaking bodily fluid, as being on the verge of tears",
-    "type": "",
-    "example": [
-      {
-        "file": "jiwa-1a",
-        "contributor": "",
-        "display": "じわっ",
-        "source": "isekai_territory_reform"
-      },
-      {
-        "file": "jiwa-1b",
-        "contributor": "",
-        "display": "じわ...",
-        "source": "double_play"
-      }
-    ]
-  }],
-  "literal": "jiwa"
+  "hiragana": [
+    "じわ",
+    "じわっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a gradual seeping or oozing of a liquid",
+      "equivalent": [
+        "drip",
+        "exude",
+        "flow",
+        "ooze",
+        "seep",
+        "tears",
+        "weep"
+      ],
+      "example": [
+        {
+          "source": "isekai_territory_reform",
+          "file": "jiwa-1a",
+          "display": "じわっ",
+          "contributor": ""
+        },
+        {
+          "source": "double_play",
+          "file": "jiwa-1b",
+          "display": "じわ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

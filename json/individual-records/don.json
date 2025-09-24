@@ -1,15 +1,5 @@
 {
-  "hiragana": [
-    "どん",
-    "どんっ",
-    "どぉん",
-    "どぉぉん",
-    "どおん",
-    "どおおん",
-    "どどん",
-    "どどーん",
-    "どーん"
-  ],
+  "literal": "don",
   "katakana": [
     "ドン",
     "ドンッ",
@@ -21,8 +11,22 @@
     "ドドーン",
     "ドーン"
   ],
+  "hiragana": [
+    "どん",
+    "どんっ",
+    "どぉん",
+    "どぉぉん",
+    "どおん",
+    "どおおん",
+    "どどん",
+    "どどーん",
+    "どーん"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "an impact or strike",
       "equivalent": [
         "bam",
         "bang",
@@ -44,86 +48,84 @@
         "wrack",
         "wreck"
       ],
-      "refer": "",
-      "meaning": "an impact or strike",
-      "type": "o",
       "example": [
         {
+          "source": "world_full_of_monsters",
           "file": "don-1a",
-          "contributor": "",
           "display": "ドンッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "hanako_24th_ward",
           "file": "don-1b",
-          "contributor": "",
           "display": "どん",
-          "source": "hanako_24th_ward"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_aristocrat",
           "file": "don-1c",
-          "contributor": "",
           "display": "ドォォン",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
         },
         {
+          "source": "strongest_magician_was_human",
           "file": "don-1d",
-          "contributor": "",
           "display": "ドン",
-          "source": "strongest_magician_was_human"
+          "contributor": ""
         },
         {
+          "source": "strongest_magician_was_human",
           "file": "don-1e",
-          "contributor": "",
           "display": "ドンッ",
-          "source": "strongest_magician_was_human"
+          "contributor": ""
         },
         {
+          "source": "uncle_at_heart",
           "file": "don-1f",
-          "contributor": "",
           "display": "どんっ",
-          "source": "uncle_at_heart"
+          "contributor": ""
         },
         {
+          "source": "kuma_kuma_kuma_bear",
           "file": "don-1g",
-          "contributor": "",
           "display": "ドオン",
-          "source": "kuma_kuma_kuma_bear"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [""],
-      "refer": "bon:1",
-      "meaning": "",
+      "refer": "den:1",
       "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "don-2a",
-          "contributor": "",
           "display": "ドン",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "don-2b",
-          "contributor": "",
           "display": "どん",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "strongest_magician_was_human",
           "file": "don-2c",
-          "contributor": "",
           "display": "ドドーン",
-          "source": "strongest_magician_was_human"
+          "contributor": ""
         },
         {
+          "source": "spy_x_family",
           "file": "don-2d",
-          "contributor": "",
           "display": "ドーン",
-          "source": "spy_x_family"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "don"
+  ]
 }

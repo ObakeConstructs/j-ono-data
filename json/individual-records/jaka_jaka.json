@@ -1,22 +1,28 @@
 {
-  "hiragana": ["じゃかじゃか"],
-  "katakana": ["ジャカジャカ"],
-  "definition": [{
-    "equivalent": [
-      "rattle rattle",
-      "clatter clatter",
-      "chatter chatter",
-      "jingle jingle"
-    ],
-    "refer": "",
-    "meaning": "a series of rattling or clattering sounds",
-    "type": "",
-    "example": [{
-      "file": "jaka_jaka-1a",
-      "contributor": "",
-      "display": "ジャカ  ジャカ",
-      "source": "cheat_pharmacist"
-    }]
-  }],
-  "literal": "jaka jaka"
+  "literal": "jaka jaka",
+  "katakana": [
+    "ジャカジャカ"
+  ],
+  "hiragana": [
+    "じゃかじゃか"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "rapid rattling or clattering",
+      "equivalent": [
+        "clatter",
+        "rattle"
+      ],
+      "example": [
+        {
+          "source": "cheat_pharmacist",
+          "file": "jaka_jaka-1a",
+          "display": "ジャカ  ジャカ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
