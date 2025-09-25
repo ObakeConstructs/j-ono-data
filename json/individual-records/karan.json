@@ -1,32 +1,29 @@
 {
-  "hiragana": [
-    "からん",
-    "からんっ"
-  ],
+  "literal": "karan",
   "katakana": [
     "カラン",
     "カランッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clang",
-      "clank",
-      "clump",
-      "clunk",
-      "hit",
-      "knock",
-      "plink",
-      "wham"
-    ],
-    "refer": "",
-    "meaning": "a sound of a small, hard strike",
-    "type": "",
-    "example": [{
-      "file": "karan-1a",
-      "contributor": "",
-      "display": "カラン",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "karan"
+  "hiragana": [
+    "からん",
+    "からんっ"
+  ],
+  "definition": [
+    {
+      "refer": "kara:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "karan-1a",
+          "display": "カラン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

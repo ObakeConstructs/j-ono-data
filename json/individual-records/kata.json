@@ -1,35 +1,39 @@
 {
-  "hiragana": [
-    "かた",
-    "かたっ"
-  ],
+  "literal": "kata",
   "katakana": [
     "カタ",
     "カタッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clatter",
-      "creak",
-      "rattle"
-    ],
-    "refer": "",
-    "meaning": "to stand or sit, and/or the noise of a chair or stool moving while standing or sitting",
-    "type": "",
-    "example": [
-      {
-        "file": "kata-1a",
-        "contributor": "",
-        "display": "カタッ",
-        "source": "hello_work"
-      },
-      {
-        "file": "kata-1b",
-        "contributor": "",
-        "display": "カタ",
-        "source": "different_world_smartphone"
-      }
-    ]
-  }],
-  "literal": "kata"
+  "hiragana": [
+    "かた",
+    "かたっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a light clatter or creak, often from chairs or small objects",
+      "equivalent": [
+        "clack",
+        "clatter",
+        "creak",
+        "rattle",
+        "scrape"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "kata-1a",
+          "display": "カタッ",
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "kata-1b",
+          "display": "カタ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

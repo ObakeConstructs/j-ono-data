@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "か",
-    "かっ",
-    "かー",
-    "かーっ",
-    "かあ",
-    "かああ",
-    "かぁ",
-    "かぁぁ"
-  ],
+  "literal": "ka",
   "katakana": [
     "カ",
     "カッ",
@@ -19,97 +10,110 @@
     "カァ",
     "カァァ"
   ],
+  "hiragana": [
+    "か",
+    "かっ",
+    "かー",
+    "かーっ",
+    "かあ",
+    "かああ",
+    "かぁ",
+    "かぁぁ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "a sudden flush or blush, indicating a flare of emotion",
       "equivalent": [
         "blush",
         "flush",
         "flustered",
         "redden"
       ],
-      "refer": "",
-      "meaning": "an expression of blushing, as from excitement or embarrassment",
-      "type": "",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "ka-1a",
-          "contributor": "",
           "display": "かー",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "ka-1b",
-          "contributor": "",
           "display": "かぁぁ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "isekai_territory_reform",
           "file": "ka-1c",
-          "contributor": "",
           "display": "カーッ",
-          "source": "isekai_territory_reform"
+          "contributor": ""
         },
         {
+          "source": "world_full_of_monsters",
           "file": "ka-1d",
-          "contributor": "",
           "display": "カッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "a sudden burst of brightness or gleam",
       "equivalent": [
         "bright",
         "brighten",
+        "glare",
+        "gleam",
+        "glint",
         "glow",
         "light",
         "light up",
         "shine"
       ],
-      "refer": "",
-      "meaning": "to brighten or shine suddenly",
-      "type": "",
       "example": [
         {
+          "source": "hello_work",
           "file": "ka-2a",
-          "contributor": "",
           "display": "カッ!",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "killed_by_gods_mistake",
           "file": "ka-2b",
-          "contributor": "",
           "display": "カッ",
-          "source": "killed_by_gods_mistake"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "sharp, light impact or snapping sound",
       "equivalent": [
         "clack",
+        "clang",
         "clank",
         "click",
         "clink",
         "tap"
       ],
-      "refer": "",
-      "meaning": "a distinct and sharp sound associated with a light impact",
-      "type": "",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "ka-3a",
-          "contributor": "",
           "display": "カッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "human_ranch",
           "file": "ka-3b",
-          "contributor": "",
           "display": "カッ",
-          "source": "human_ranch"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "ka"
+  ]
 }

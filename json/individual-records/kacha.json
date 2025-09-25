@@ -1,44 +1,46 @@
 {
-  "hiragana": [
-    "かちゃ",
-    "かちゃっ"
-  ],
+  "literal": "kacha",
   "katakana": [
     "カチャ",
     "カチャッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clack",
-      "clatter",
-      "click",
-      "clink",
-      "ker-chak",
-      "rattle"
-    ],
-    "refer": "",
-    "meaning": "a short, sharp clicking or clinking sound",
-    "type": "",
-    "example": [
-      {
-        "file": "kacha-1a",
-        "contributor": "",
-        "display": "カチャ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "kacha-1b",
-        "contributor": "",
-        "display": "カチャ",
-        "source": "dog_became_strongest"
-      },
-      {
-        "file": "kacha-1c",
-        "contributor": "",
-        "display": "カチャッ",
-        "source": "killed_by_gods_mistake"
-      }
-    ]
-  }],
-  "literal": "kacha"
+  "hiragana": [
+    "かちゃ",
+    "かちゃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "short, sharp clicking or clinking",
+      "equivalent": [
+        "clack",
+        "clatter",
+        "click",
+        "clink",
+        "ker-chak",
+        "rattle"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "kacha-1a",
+          "display": "カチャ",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "kacha-1b",
+          "display": "カチャ",
+          "contributor": ""
+        },
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "kacha-1c",
+          "display": "カチャッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

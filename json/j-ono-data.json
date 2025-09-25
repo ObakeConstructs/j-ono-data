@@ -6248,6 +6248,12 @@
             "contributor": "",
             "display": "がばっ",
             "source": "simple_sword_saint"
+          },
+          {
+            "file": "kaba-1a",
+            "contributor": "",
+            "display": "がばっ",
+            "source": "isekai_territory_reform"
           }
         ]
       },
@@ -11621,8 +11627,8 @@
           "redden"
         ],
         "refer": "",
-        "meaning": "an expression of blushing, as from excitement or embarrassment",
-        "type": "",
+        "meaning": "a sudden flush or blush, indicating a flare of emotion",
+        "type": "s",
         "example": [
           {
             "file": "ka-1a",
@@ -11654,14 +11660,17 @@
         "equivalent": [
           "bright",
           "brighten",
+          "glare",
+          "gleam",
+          "glint",
           "glow",
           "light",
           "light up",
           "shine"
         ],
         "refer": "",
-        "meaning": "to brighten or shine suddenly",
-        "type": "",
+        "meaning": "a sudden burst of brightness or gleam",
+        "type": "s",
         "example": [
           {
             "file": "ka-2a",
@@ -11680,14 +11689,15 @@
       {
         "equivalent": [
           "clack",
+          "clang",
           "clank",
           "click",
           "clink",
           "tap"
         ],
         "refer": "",
-        "meaning": "a distinct and sharp sound associated with a light impact",
-        "type": "",
+        "meaning": "sharp, light impact or snapping sound",
+        "type": "o",
         "example": [
           {
             "file": "ka-3a",
@@ -11708,35 +11718,6 @@
   },
   {
     "hiragana": [
-      "かば",
-      "かばっ"
-    ],
-    "katakana": [
-      "カバ",
-      "カバッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "get up",
-        "rise",
-        "sit up",
-        "up",
-        "arise"
-      ],
-      "refer": "",
-      "meaning": "to get up or sit up, as from a bed",
-      "type": "",
-      "example": [{
-        "file": "kaba-1a",
-        "contributor": "",
-        "display": "かばっ",
-        "source": "isekai_territory_reform"
-      }]
-    }],
-    "literal": "kaba"
-  },
-  {
-    "hiragana": [
       "かちゃ",
       "かちゃっ"
     ],
@@ -11754,8 +11735,8 @@
         "rattle"
       ],
       "refer": "",
-      "meaning": "a short, sharp clicking or clinking sound",
-      "type": "",
+      "meaning": "short, sharp clicking or clinking",
+      "type": "o",
       "example": [
         {
           "file": "kacha-1a",
@@ -11783,16 +11764,9 @@
     "hiragana": ["かちゃん"],
     "katakana": ["カチャン"],
     "definition": [{
-      "equivalent": [
-        "clack",
-        "clatter",
-        "click",
-        "clink",
-        "ker-chak",
-        "rattle"
-      ],
-      "refer": "",
-      "meaning": "short, sharp clicks or clinks",
+      "equivalent": [""],
+      "refer": "kacha:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kachan-1a",
@@ -11807,16 +11781,9 @@
     "hiragana": ["かちゃかちゃ"],
     "katakana": ["カチャカチャ"],
     "definition": [{
-      "equivalent": [
-        "clack clack",
-        "clatter",
-        "click click",
-        "clink clink",
-        "ker-chak",
-        "rattle"
-      ],
-      "refer": "",
-      "meaning": "a series of short, sharp clicks or clinks",
+      "equivalent": [""],
+      "refer": "kacha:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -11852,13 +11819,17 @@
     ],
     "definition": [{
       "equivalent": [
+        "clack",
         "click",
+        "clink",
+        "ker-chak",
         "pop",
-        "snap"
+        "snap",
+        "tap"
       ],
       "refer": "",
-      "meaning": "a small clicking noise",
-      "type": "",
+      "meaning": "small, sharp clicking or snapping",
+      "type": "o",
       "example": [
         {
           "file": "kachi-1a",
@@ -11880,13 +11851,9 @@
     "hiragana": ["かちかち"],
     "katakana": ["カチカチ"],
     "definition": [{
-      "equivalent": [
-        "clack clack",
-        "click click",
-        "tap tap"
-      ],
-      "refer": "",
-      "meaning": "a series of short, sharp clicks or clinks",
+      "equivalent": [""],
+      "refer": "kachi:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kachi_kachi-1a",
@@ -11913,8 +11880,8 @@
         "write"
       ],
       "refer": "",
-      "meaning": "the sound of writing something, as on paper or chalkboard",
-      "type": "",
+      "meaning": "the scratching sound of writing or scribbling, as with a pen or pencil",
+      "type": "o",
       "example": [
         {
           "file": "kaki_kaki-1a",
@@ -11937,7 +11904,10 @@
     "katakana": ["カン"],
     "definition": [{
       "equivalent": [
+        "bang",
         "clack",
+        "clang",
+        "clank",
         "click",
         "clink",
         "snap",
@@ -11945,8 +11915,8 @@
         "tick"
       ],
       "refer": "",
-      "meaning": "a sound of tapping or striking",
-      "type": "",
+      "meaning": "a sharp, resonant impact or clang",
+      "type": "o",
       "example": [
         {
           "file": "kan-1a",
@@ -11969,16 +11939,16 @@
     "katakana": ["カンカン"],
     "definition": [{
       "equivalent": [
-        "clang clang",
-        "clank clank",
-        "ring ring",
-        "ding ding",
-        "gong gong",
-        "tang tang"
+        "clang",
+        "clank",
+        "ding",
+        "gong",
+        "ring",
+        "tang"
       ],
       "refer": "",
-      "meaning": "a series of loud metallic ringing noises, as from a bell",
-      "type": "",
+      "meaning": "sharp metallic impacts or clanging, as from a bell",
+      "type": "o",
       "example": [{
         "file": "kan_kan-1a",
         "contributor": "",
@@ -11996,11 +11966,13 @@
         "chack",
         "click",
         "ka-chik",
-        "ker-chack"
+        "ker-chack",
+        "pop",
+        "snap"
       ],
       "refer": "",
-      "meaning": "the sound of something opening",
-      "type": "",
+      "meaning": "the light popping of something opening",
+      "type": "o",
       "example": [{
         "file": "kapa-1a",
         "contributor": "",
@@ -12015,15 +11987,15 @@
     "katakana": ["カポ"],
     "definition": [{
       "equivalent": [
+        "click",
         "plop",
-        "snap",
-        "puts on",
         "pop",
-        "click"
+        "puts on",
+        "snap"
       ],
       "refer": "",
-      "meaning": "a soft, hollow sound of covering something or fitting something over an opening",
-      "type": "",
+      "meaning": "a soft, hollow sound of something closing or fitting into place",
+      "type": "o",
       "example": [{
         "file": "kapo-1a",
         "contributor": "",
@@ -12050,12 +12022,11 @@
         "clunk",
         "hit",
         "knock",
-        "plink",
-        "wham"
+        "plink"
       ],
       "refer": "",
-      "meaning": "sound of a small, metallic clank",
-      "type": "",
+      "meaning": "metallic or hollow clanking or dinging",
+      "type": "o",
       "example": [{
         "file": "kara-1a",
         "contributor": "",
@@ -12075,18 +12046,9 @@
       "カランッ"
     ],
     "definition": [{
-      "equivalent": [
-        "clang",
-        "clank",
-        "clump",
-        "clunk",
-        "hit",
-        "knock",
-        "plink",
-        "wham"
-      ],
-      "refer": "",
-      "meaning": "a sound of a small, hard strike",
+      "equivalent": [""],
+      "refer": "kara:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "karan-1a",
@@ -12102,12 +12064,13 @@
     "katakana": ["カランカラン"],
     "definition": [{
       "equivalent": [
-        "clang clang",
-        "clank clank",
-        "ding ding"
+        "clang-clang",
+        "clank-clank",
+        "ding-ding",
+        "jingle"
       ],
-      "refer": "",
-      "meaning": "a series of a small, hard metallic strike, as from a bell",
+      "refer": "kara:1",
+      "meaning": ", as of a small bell",
       "type": "",
       "example": [{
         "file": "karan_karan-1a",
@@ -12123,16 +12086,16 @@
     "katakana": ["カリカリ"],
     "definition": [{
       "equivalent": [
-        "scratch scratch",
-        "scribble scribble",
-        "scritch scritch",
         "crackle crackle",
         "crunch crunch",
-        "rustle rustle"
+        "rustle rustle",
+        "scratch scratch",
+        "scribble scribble",
+        "scritch scritch"
       ],
       "refer": "",
-      "meaning": "a scratching, crackling, or crunching sound",
-      "type": "",
+      "meaning": "small, crisp, scraping or scratching sounds",
+      "type": "o",
       "example": [
         {
           "file": "kari_kari-1a",
@@ -12166,14 +12129,9 @@
       "カサッ"
     ],
     "definition": [{
-      "equivalent": [
-        "flap",
-        "murmur",
-        "rustle",
-        "swish"
-      ],
-      "refer": "",
-      "meaning": "a gentle, quiet sound of movement, as that of fabric, paper, or plants",
+      "equivalent": [""],
+      "refer": "gasa:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -12219,8 +12177,8 @@
         "tick"
       ],
       "refer": "",
-      "meaning": "the quick sound of a camera or phone taking a photo",
-      "type": "",
+      "meaning": "a small, sharp mechanical click or snap, as from a camera, latch, or button",
+      "type": "o",
       "example": [
         {
           "file": "kasha-1a",
@@ -12249,13 +12207,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "pop",
+        "crack",
         "fizz",
-        "crack"
+        "hiss",
+        "pop"
       ],
       "refer": "",
       "meaning": "the pop and hiss sound of a soda can opening",
-      "type": "",
+      "type": "o",
       "example": [{
         "file": "kashu-1a",
         "contributor": "",
@@ -12276,13 +12235,15 @@
     ],
     "definition": [{
       "equivalent": [
+        "clack",
         "clatter",
         "creak",
-        "rattle"
+        "rattle",
+        "scrape"
       ],
       "refer": "",
-      "meaning": "to stand or sit, and/or the noise of a chair or stool moving while standing or sitting",
-      "type": "",
+      "meaning": "a light clatter or creak, often from chairs or small objects",
+      "type": "o",
       "example": [
         {
           "file": "kata-1a",
@@ -12305,12 +12266,14 @@
     "katakana": ["カタタ"],
     "definition": [{
       "equivalent": [
-        "click click click",
-        "tap tap tap"
+        "click click",
+        "clickity click",
+        "tap tap",
+        "ticka tick"
       ],
       "refer": "",
-      "meaning": "rapid typing on a modern keyboard",
-      "type": "",
+      "meaning": "rapid tapping, clicking, or typing",
+      "type": "o",
       "example": [{
         "file": "katata-1a",
         "contributor": "",
@@ -12325,15 +12288,9 @@
     "katakana": ["カタカタ"],
     "definition": [
       {
-        "equivalent": [
-          "click click",
-          "clickety click",
-          "tacka tack",
-          "tap tap",
-          "ticka tick"
-        ],
-        "refer": "",
-        "meaning": "the rythmic sound of typing on a modern keyboard",
+        "equivalent": [""],
+        "refer": "katata:1",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "kata_kata-1a",
@@ -12343,16 +12300,9 @@
         }]
       },
       {
-        "equivalent": [
-          "quiver quiver",
-          "shake shake",
-          "shiver shiver",
-          "shudder shudder",
-          "tremble tremble",
-          "twitch twitch"
-        ],
-        "refer": "",
-        "meaning": "an indication of trembling or shaking",
+        "equivalent": [""],
+        "refer": "furo furo:1",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "kata_kata-2a",
@@ -12363,29 +12313,6 @@
       }
     ],
     "literal": "kata kata"
-  },
-  {
-    "hiragana": ["かたかた"],
-    "katakana": ["カタカタ"],
-    "definition": [{
-      "equivalent": [
-        "click click",
-        "tap tap",
-        "clickety click",
-        "ticka tick",
-        "tacka tack"
-      ],
-      "refer": "",
-      "meaning": "the rythmic sound of typing on a modern keyboard",
-      "type": "",
-      "example": [{
-        "file": "kata_kata-1a",
-        "contributor": "",
-        "display": "カタ  カタ  カタ",
-        "source": "uncle_at_heart"
-      }]
-    }],
-    "literal": "kata katata"
   },
   {
     "hiragana": [
@@ -12410,8 +12337,8 @@
           "trudge"
         ],
         "refer": "",
-        "meaning": "the sound of a footstep, often heavy",
-        "type": "",
+        "meaning": "a heavy or firm footstep, often on a hard surface",
+        "type": "o",
         "example": [{
           "file": "katsun-1a",
           "contributor": "",
@@ -12422,6 +12349,7 @@
       {
         "equivalent": [
           "clack",
+          "clang",
           "clatter",
           "click",
           "clink",
@@ -12429,12 +12357,11 @@
           "ker-chak",
           "rattle",
           "tick",
-          "clang",
           "whang"
         ],
         "refer": "",
-        "meaning": "the sound of clattering or clanging",
-        "type": "",
+        "meaning": "short, sharp clattering or clanging, usually from small, hard objects",
+        "type": "o",
         "example": [
           {
             "file": "katsun-2a",
@@ -12465,15 +12392,9 @@
       "カツカツ"
     ],
     "definition": [{
-      "equivalent": [
-        "clack clack",
-        "clang clang",
-        "click click",
-        "clink clink",
-        "tap tap"
-      ],
-      "refer": "",
-      "meaning": "short, sharp sounds of light impacts or strikes",
+      "equivalent": [""],
+      "refer": "ka:3",
+      "meaning": "s",
       "type": "",
       "example": [
         {

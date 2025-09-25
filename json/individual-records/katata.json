@@ -1,20 +1,30 @@
 {
-  "hiragana": ["かたた"],
-  "katakana": ["カタタ"],
-  "definition": [{
-    "equivalent": [
-      "click click click",
-      "tap tap tap"
-    ],
-    "refer": "",
-    "meaning": "rapid typing on a modern keyboard",
-    "type": "",
-    "example": [{
-      "file": "katata-1a",
-      "contributor": "",
-      "display": "カタタ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "katata"
+  "literal": "katata",
+  "katakana": [
+    "カタタ"
+  ],
+  "hiragana": [
+    "かたた"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "rapid tapping, clicking, or typing",
+      "equivalent": [
+        "click click",
+        "clickity click",
+        "tap tap",
+        "ticka tick"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "katata-1a",
+          "display": "カタタ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

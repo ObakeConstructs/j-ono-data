@@ -1,32 +1,41 @@
 {
-  "hiragana": ["かん"],
-  "katakana": ["カン"],
-  "definition": [{
-    "equivalent": [
-      "clack",
-      "click",
-      "clink",
-      "snap",
-      "tap",
-      "tick"
-    ],
-    "refer": "",
-    "meaning": "a sound of tapping or striking",
-    "type": "",
-    "example": [
-      {
-        "file": "kan-1a",
-        "contributor": "",
-        "display": "カン",
-        "source": "a_rank_slow_life"
-      },
-      {
-        "file": "kan-1b",
-        "contributor": "",
-        "display": "カン",
-        "source": "way_of_the_house_husband"
-      }
-    ]
-  }],
-  "literal": "kan"
+  "literal": "kan",
+  "katakana": [
+    "カン"
+  ],
+  "hiragana": [
+    "かん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a sharp, resonant impact or clang",
+      "equivalent": [
+        "bang",
+        "clack",
+        "clang",
+        "clank",
+        "click",
+        "clink",
+        "snap",
+        "tap",
+        "tick"
+      ],
+      "example": [
+        {
+          "source": "a_rank_slow_life",
+          "file": "kan-1a",
+          "display": "カン",
+          "contributor": ""
+        },
+        {
+          "source": "way_of_the_house_husband",
+          "file": "kan-1b",
+          "display": "カン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

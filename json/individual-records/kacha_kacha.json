@@ -1,38 +1,39 @@
 {
-  "hiragana": ["かちゃかちゃ"],
-  "katakana": ["カチャカチャ"],
-  "definition": [{
-    "equivalent": [
-      "clack clack",
-      "clatter",
-      "click click",
-      "clink clink",
-      "ker-chak",
-      "rattle"
-    ],
-    "refer": "",
-    "meaning": "a series of short, sharp clicks or clinks",
-    "type": "",
-    "example": [
-      {
-        "file": "kacha_kacha-1a",
-        "contributor": "",
-        "display": "カチャ  カチャ",
-        "source": "reincarnated_aristocrat"
-      },
-      {
-        "file": "kacha_kacha-1b",
-        "contributor": "",
-        "display": "カチャ  カチャ",
-        "source": "neet_kunoichi"
-      },
-      {
-        "file": "kacha_kacha-1c",
-        "contributor": "",
-        "display": "カチャ  カチャ",
-        "source": "gyaru_academy"
-      }
-    ]
-  }],
-  "literal": "kacha kacha"
+  "literal": "kacha kacha",
+  "katakana": [
+    "カチャカチャ"
+  ],
+  "hiragana": [
+    "かちゃかちゃ"
+  ],
+  "definition": [
+    {
+      "refer": "kacha:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "kacha_kacha-1a",
+          "display": "カチャ  カチャ",
+          "contributor": ""
+        },
+        {
+          "source": "neet_kunoichi",
+          "file": "kacha_kacha-1b",
+          "display": "カチャ  カチャ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "kacha_kacha-1c",
+          "display": "カチャ  カチャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

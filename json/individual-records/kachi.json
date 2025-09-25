@@ -1,35 +1,41 @@
 {
-  "hiragana": [
-    "かち",
-    "かちっ"
-  ],
+  "literal": "kachi",
   "katakana": [
     "カチ",
     "カチッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "click",
-      "pop",
-      "snap"
-    ],
-    "refer": "",
-    "meaning": "a small clicking noise",
-    "type": "",
-    "example": [
-      {
-        "file": "kachi-1a",
-        "contributor": "",
-        "display": "カチ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "kachi-1b",
-        "contributor": "",
-        "display": "カチッ",
-        "source": "d_genesis"
-      }
-    ]
-  }],
-  "literal": "kachi"
+  "hiragana": [
+    "かち",
+    "かちっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "small, sharp clicking or snapping",
+      "equivalent": [
+        "clack",
+        "click",
+        "clink",
+        "ker-chak",
+        "pop",
+        "snap",
+        "tap"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "kachi-1a",
+          "display": "カチ",
+          "contributor": ""
+        },
+        {
+          "source": "d_genesis",
+          "file": "kachi-1b",
+          "display": "カチッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

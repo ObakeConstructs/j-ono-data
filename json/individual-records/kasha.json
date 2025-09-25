@@ -1,40 +1,42 @@
 {
-  "hiragana": [
-    "かしゃ",
-    "かしゃっ"
-  ],
+  "literal": "kasha",
   "katakana": [
     "カシャ",
     "カシャッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "beep",
-      "clack",
-      "click",
-      "flash",
-      "ka-chack",
-      "ka-chik",
-      "tap",
-      "tick"
-    ],
-    "refer": "",
-    "meaning": "the quick sound of a camera or phone taking a photo",
-    "type": "",
-    "example": [
-      {
-        "file": "kasha-1a",
-        "contributor": "",
-        "display": "カシャ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "kasha-1b",
-        "contributor": "",
-        "display": "カシャッ",
-        "source": "hikaro_no_go"
-      }
-    ]
-  }],
-  "literal": "kasha"
+  "hiragana": [
+    "かしゃ",
+    "かしゃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a small, sharp mechanical click or snap, as from a camera, latch, or button",
+      "equivalent": [
+        "beep",
+        "clack",
+        "click",
+        "flash",
+        "ka-chack",
+        "ka-chik",
+        "tap",
+        "tick"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "kasha-1a",
+          "display": "カシャ",
+          "contributor": ""
+        },
+        {
+          "source": "hikaro_no_go",
+          "file": "kasha-1b",
+          "display": "カシャッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

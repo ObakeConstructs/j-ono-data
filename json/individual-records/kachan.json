@@ -1,24 +1,27 @@
 {
-  "hiragana": ["かちゃん"],
-  "katakana": ["カチャン"],
-  "definition": [{
-    "equivalent": [
-      "clack",
-      "clatter",
-      "click",
-      "clink",
-      "ker-chak",
-      "rattle"
-    ],
-    "refer": "",
-    "meaning": "short, sharp clicks or clinks",
-    "type": "",
-    "example": [{
-      "file": "kachan-1a",
-      "contributor": "",
-      "display": "カチャン",
-      "source": "otherworld_material_collector"
-    }]
-  }],
-  "literal": "kachan"
+  "literal": "kachan",
+  "katakana": [
+    "カチャン"
+  ],
+  "hiragana": [
+    "かちゃん"
+  ],
+  "definition": [
+    {
+      "refer": "kacha:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "kachan-1a",
+          "display": "カチャン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

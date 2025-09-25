@@ -1,21 +1,30 @@
 {
-  "hiragana": ["からんからん"],
-  "katakana": ["カランカラン"],
-  "definition": [{
-    "equivalent": [
-      "clang clang",
-      "clank clank",
-      "ding ding"
-    ],
-    "refer": "",
-    "meaning": "a series of a small, hard metallic strike, as from a bell",
-    "type": "",
-    "example": [{
-      "file": "karan_karan-1a",
-      "contributor": "",
-      "display": "カラン  カラン",
-      "source": "isekai_pickup"
-    }]
-  }],
-  "literal": "karan karan"
+  "literal": "karan karan",
+  "katakana": [
+    "カランカラン"
+  ],
+  "hiragana": [
+    "からんからん"
+  ],
+  "definition": [
+    {
+      "refer": "kara:1",
+      "type": "",
+      "meaning": ", as of a small bell",
+      "equivalent": [
+        "clang-clang",
+        "clank-clank",
+        "ding-ding",
+        "jingle"
+      ],
+      "example": [
+        {
+          "source": "isekai_pickup",
+          "file": "karan_karan-1a",
+          "display": "カラン  カラン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
