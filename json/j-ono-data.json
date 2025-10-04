@@ -1099,7 +1099,7 @@
     "literal": "be"
   },
   {
-    "hiragana": ["ベりベり"],
+    "hiragana": ["べりべり"],
     "katakana": ["ベリベリ"],
     "definition": [{
       "equivalent": [
@@ -1304,7 +1304,7 @@
         "twitch"
       ],
       "refer": "",
-      "meaning": "an abrupt flinch, twitch, or shudder as a reation",
+      "meaning": "an abrupt flinch, twitch, or shudder as a reaction",
       "type": "m",
       "example": [
         {
@@ -1800,8 +1800,8 @@
       "ぼふっ"
     ],
     "katakana": [
-      "ボフッ",
-      "ボフ"
+      "ボフ",
+      "ボフッ"
     ],
     "definition": [{
       "equivalent": [
@@ -2187,16 +2187,16 @@
   },
   {
     "hiragana": [
-      "ぼょん",
-      "ぼょんっ",
       "ぼよん",
-      "ぼよんっ"
+      "ぼよんっ",
+      "ぼょん",
+      "ぼょんっ"
     ],
     "katakana": [
-      "ボョン",
-      "ボョンッ",
       "ボヨン",
-      "ボヨンッ"
+      "ボヨンッ",
+      "ボョン",
+      "ボョンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -2832,7 +2832,7 @@
         "mutter"
       ],
       "refer": "",
-      "meaning": "mumbling, grumbling, or low-level compaining",
+      "meaning": "mumbling, grumbling, or low-level complaining",
       "type": "v",
       "example": [{
         "file": "butsu_butsu-1a",
@@ -3447,18 +3447,14 @@
   },
   {
     "hiragana": [
-      "ち",
       "ちち",
       "ちちち",
-      "ちっ",
       "ちちっ",
       "ちちちっ"
     ],
     "katakana": [
-      "チ",
       "チチ",
       "チチチ",
-      "チッ",
       "チチッ",
       "チチチッ"
     ],
@@ -4104,7 +4100,7 @@
         "gallop gallop"
       ],
       "refer": "",
-      "meaning": "rythmic sounds of horses galloping",
+      "meaning": "rhythmic sounds of horses galloping",
       "type": "o",
       "example": [{
         "file": "dodoga_dodoga-1a",
@@ -5217,7 +5213,7 @@
       "えへへ"
     ],
     "katakana": [
-      "エへ",
+      "エヘ",
       "エへへ"
     ],
     "definition": [{
@@ -6425,7 +6421,7 @@
         "laughter"
       ],
       "refer": "",
-      "meaning": "boistrous or loud laughter",
+      "meaning": "boisterous or loud laughter",
       "type": "v",
       "example": [{
         "file": "gaha-1a",
@@ -9138,12 +9134,12 @@
       },
       {
         "equivalent": [
+          "grind",
           "roll",
-          "rumble",
-          "grind"
+          "rumble"
         ],
         "refer": "",
-        "meaning": "a rumbling or grinding soung of something turning or spinning",
+        "meaning": "a rumbling or grinding sound of something turning or spinning",
         "type": "o",
         "example": [{
           "file": "guru-2a",

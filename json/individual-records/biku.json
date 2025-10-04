@@ -1,48 +1,50 @@
 {
-  "hiragana": [
-    "びく",
-    "びくっ",
-    "びくぅ",
-    "びくぅっ"
-  ],
+  "literal": "biku",
   "katakana": [
     "ビク",
     "ビクッ",
     "ビクゥ",
     "ビクゥッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "flinch",
-      "jerk",
-      "jolt",
-      "shudder",
-      "startle",
-      "twitch"
-    ],
-    "refer": "",
-    "meaning": "an abrupt flinch, twitch, or shudder as a reation",
-    "type": "m",
-    "example": [
-      {
-        "file": "biku-1a",
-        "contributor": "",
-        "display": "びくっ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "biku-1c",
-        "contributor": "",
-        "display": "ビクッ",
-        "source": "komi_cant_communicate"
-      },
-      {
-        "file": "biku-1d",
-        "contributor": "",
-        "display": "ビクゥッ!!",
-        "source": "abandoned_reincarnation_sage"
-      }
-    ]
-  }],
-  "literal": "biku"
+  "hiragana": [
+    "びく",
+    "びくっ",
+    "びくぅ",
+    "びくぅっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "an abrupt flinch, twitch, or shudder as a reaction",
+      "equivalent": [
+        "flinch",
+        "jerk",
+        "jolt",
+        "shudder",
+        "startle",
+        "twitch"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "biku-1a",
+          "display": "びくっ",
+          "contributor": ""
+        },
+        {
+          "source": "komi_cant_communicate",
+          "file": "biku-1c",
+          "display": "ビクッ",
+          "contributor": ""
+        },
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "biku-1d",
+          "display": "ビクゥッ!!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

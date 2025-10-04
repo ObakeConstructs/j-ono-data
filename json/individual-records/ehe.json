@@ -1,29 +1,33 @@
 {
+  "literal": "ehe",
+  "katakana": [
+    "エヘ",
+    "エへへ"
+  ],
   "hiragana": [
     "えへ",
     "えへへ"
   ],
-  "katakana": [
-    "エへ",
-    "エへへ"
-  ],
-  "definition": [{
-    "equivalent": [
-      "chuckle",
-      "grin",
-      "heh",
-      "heh heh",
-      "titter"
-    ],
-    "refer": "",
-    "meaning": "strained, forced, or embarrassed laughter",
-    "type": "v",
-    "example": [{
-      "file": "ehe-1a",
-      "contributor": "",
-      "display": "えへへ",
-      "source": "isekai_territory_reform"
-    }]
-  }],
-  "literal": "ehe"
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "strained, forced, or embarrassed laughter",
+      "equivalent": [
+        "chuckle",
+        "grin",
+        "heh",
+        "heh heh",
+        "titter"
+      ],
+      "example": [
+        {
+          "source": "isekai_territory_reform",
+          "file": "ehe-1a",
+          "display": "えへへ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
