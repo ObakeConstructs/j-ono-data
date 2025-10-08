@@ -14337,14 +14337,15 @@
     "katakana": ["マキマキ"],
     "definition": [{
       "equivalent": [
-        "wrap wrap",
-        "wind wind",
-        "twist twist",
-        "roll roll"
+        "roll",
+        "twine",
+        "twist",
+        "wind",
+        "wrap"
       ],
       "refer": "",
-      "meaning": "an indication of wrapping or winding something around something else",
-      "type": "",
+      "meaning": "wrapping or winding something around something else",
+      "type": "m",
       "example": [{
         "file": "maki_maki-1a",
         "contributor": "",
@@ -14365,25 +14366,23 @@
     ],
     "definition": [{
       "equivalent": [
-        "burst",
-        "crack",
         "creak",
+        "grate",
+        "grind",
+        "groan",
         "screech",
-        "shatter",
         "shriek",
-        "snap",
-        "split",
         "squeak",
         "squeal"
       ],
       "refer": "",
-      "meaning": "the sound of something creaking, cracking, or splintering",
-      "type": "",
+      "meaning": "creaking or groaning under stress",
+      "type": "o",
       "example": [
         {
           "file": "mishi-1a",
           "contributor": "",
-          "display": "ミシ  ミシッ",
+          "display": "ミシッ",
           "source": "hanako_24th_ward"
         },
         {
@@ -14408,20 +14407,9 @@
       "ミシッミシッ"
     ],
     "definition": [{
-      "equivalent": [
-        "burst",
-        "crack",
-        "creak",
-        "screech",
-        "shatter",
-        "shriek",
-        "snap",
-        "split",
-        "squeak",
-        "squeal"
-      ],
-      "refer": "",
-      "meaning": "a series of creaking, cracking, or splintering sounds",
+      "equivalent": [""],
+      "refer": "mishi:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "mishi-1a",
@@ -14447,14 +14435,16 @@
     ],
     "definition": [{
       "equivalent": [
+        "annoyed",
+        "damn it",
+        "frustrated",
+        "geez",
         "groan",
-        "yell",
-        "complain",
-        "lament"
+        "irritated"
       ],
       "refer": "",
-      "meaning": "the sound of a groan or yell in frustration or annoyance",
-      "type": "",
+      "meaning": "an annoyed exclamation, expressing frustration or irritation",
+      "type": "e",
       "example": [{
         "file": "mo-1a",
         "contributor": "",
@@ -14469,17 +14459,17 @@
     "katakana": ["モフ"],
     "definition": [{
       "equivalent": [
-        "caress",
         "cuddle",
         "fluff",
-        "pat",
+        "fluffy",
         "pet",
-        "rub",
-        "stroke"
+        "snuggle",
+        "soft",
+        "warm"
       ],
       "refer": "",
-      "meaning": "the act of petting something with soft, fluffy fur or hair ",
-      "type": "",
+      "meaning": "the feeling of something soft, fluffy, and warm",
+      "type": "s",
       "example": [{
         "file": "mofu-1a",
         "contributor": "",
@@ -14494,14 +14484,14 @@
     "katakana": ["モガモガ"],
     "definition": [{
       "equivalent": [
-        "fumble flumble",
-        "struggle struggle",
-        "rustle rustle",
-        "wriggle wriggle"
+        "restrained",
+        "rustle",
+        "struggle",
+        "wriggle"
       ],
       "refer": "",
-      "meaning": "a fumbling or struggling sound, typically muffled",
-      "type": "",
+      "meaning": "struggling to move while restrained",
+      "type": "s",
       "example": [{
         "file": "moga_moga-1a",
         "contributor": "",
@@ -14516,13 +14506,15 @@
     "katakana": ["モグモグ"],
     "definition": [{
       "equivalent": [
-        "munch munch",
-        "nom nom",
-        "snarf snarf"
+        "chew",
+        "eat",
+        "munch",
+        "nom",
+        "snarf"
       ],
       "refer": "",
-      "meaning": "the sound of eating and chewing",
-      "type": "",
+      "meaning": "munching or chewing in a small, contented, or cute manner",
+      "type": "s",
       "example": [
         {
           "file": "mogu_mogu-1a",
@@ -14553,12 +14545,15 @@
       "equivalent": [
         "bashful",
         "embarrassed",
+        "fidget",
         "hesitation",
-        "shy"
+        "nervous",
+        "shy",
+        "timid"
       ],
       "refer": "",
-      "meaning": "to express shyness or hesitation",
-      "type": "",
+      "meaning": "showing shyness or embarrassment",
+      "type": "e",
       "example": [{
         "file": "moji-1a",
         "contributor": "",
@@ -14572,14 +14567,9 @@
     "hiragana": ["もじもじ"],
     "katakana": ["モジモジ"],
     "definition": [{
-      "equivalent": [
-        "bashful",
-        "embarrassed",
-        "hesitation",
-        "shy"
-      ],
-      "refer": "",
-      "meaning": "an expression of shyness or hesitation",
+      "equivalent": [""],
+      "refer": "moji:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -14602,13 +14592,9 @@
     "hiragana": ["もきゅもきゅ"],
     "katakana": ["モキュモキュ"],
     "definition": [{
-      "equivalent": [
-        "munch munch",
-        "nom nom",
-        "snarf snarf"
-      ],
-      "refer": "",
-      "meaning": "the sound of eating and chewing",
+      "equivalent": [""],
+      "refer": "mogu mogu:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "mokyu_mokyu-1a",
@@ -14624,16 +14610,18 @@
     "katakana": ["モタモタ"],
     "definition": [{
       "equivalent": [
-        "slow slow",
-        "wait wait",
-        "careful careful",
-        "slowly slowly",
-        "linger linger",
-        "dilly-dally"
+        "careful",
+        "dawdle",
+        "dilly-dally",
+        "fumble",
+        "linger",
+        "slow",
+        "slowly",
+        "sluggish"
       ],
       "refer": "",
-      "meaning": "an indication of moving slowly",
-      "type": "",
+      "meaning": "behaving or acting slowly or inefficiently",
+      "type": "s",
       "example": [{
         "file": "mota_mota-1a",
         "contributor": "",
@@ -14654,6 +14642,7 @@
     ],
     "definition": [{
       "equivalent": [
+        "billow",
         "cloud",
         "fog",
         "haze",
@@ -14662,12 +14651,11 @@
         "smog",
         "smoke",
         "steam",
-        "vapor",
-        "billow"
+        "vapor"
       ],
       "refer": "",
-      "meaning": "a billowing cloud, as from smoke or a fog",
-      "type": "",
+      "meaning": "a billowing cloud of smoke, fog, or warm steam",
+      "type": "o",
       "example": [{
         "file": "mowa-1a",
         "contributor": "",
@@ -14681,19 +14669,9 @@
     "hiragana": ["もわもわ"],
     "katakana": ["モワモワ"],
     "definition": [{
-      "equivalent": [
-        "cloud",
-        "fog",
-        "haze",
-        "miasma",
-        "mist",
-        "smog",
-        "smoke",
-        "steam",
-        "vapor"
-      ],
-      "refer": "",
-      "meaning": "a billowing cloud, as from smoke or a fog",
+      "equivalent": [""],
+      "refer": "mowa:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "mowa_mowa-1a",
@@ -14709,14 +14687,15 @@
     "katakana": ["モゾモゾ"],
     "definition": [{
       "equivalent": [
-        "squirm squirm",
-        "writhe writhe",
-        "wriggle wriggle",
-        "thrash thrash"
+        "fidget",
+        "squirm",
+        "thrash",
+        "wriggle",
+        "writhe"
       ],
       "refer": "",
-      "meaning": "the indication or sound of clumsy squirming or struggling",
-      "type": "",
+      "meaning": "small, akward or clumsy squirming or wriggling, often from embarrassment",
+      "type": "s",
       "example": [{
         "file": "mozo_mozo-1a",
         "contributor": "",
@@ -14731,13 +14710,14 @@
     "katakana": ["モッモッ"],
     "definition": [{
       "equivalent": [
-        "munch munch",
-        "nom nom",
-        "snarf snarf"
+        "chew",
+        "munch",
+        "nom",
+        "snarf"
       ],
       "refer": "",
-      "meaning": "the sound of eating and chewing, often in a humorous context",
-      "type": "",
+      "meaning": "munching or chewing, often exaggerated, cute, and/or humorous",
+      "type": "s",
       "example": [{
         "file": "mo_mo-1a",
         "contributor": "",

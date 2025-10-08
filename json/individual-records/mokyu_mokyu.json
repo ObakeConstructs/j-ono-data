@@ -1,21 +1,27 @@
 {
-  "hiragana": ["もきゅもきゅ"],
-  "katakana": ["モキュモキュ"],
-  "definition": [{
-    "equivalent": [
-      "munch munch",
-      "nom nom",
-      "snarf snarf"
-    ],
-    "refer": "",
-    "meaning": "the sound of eating and chewing",
-    "type": "",
-    "example": [{
-      "file": "mokyu_mokyu-1a",
-      "contributor": "",
-      "display": "もきゅ  もきゅ",
-      "source": "otherworld_material_collector"
-    }]
-  }],
-  "literal": "mokyu mokyu"
+  "literal": "mokyu mokyu",
+  "katakana": [
+    "モキュモキュ"
+  ],
+  "hiragana": [
+    "もきゅもきゅ"
+  ],
+  "definition": [
+    {
+      "refer": "mogu mogu:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "otherworld_material_collector",
+          "file": "mokyu_mokyu-1a",
+          "display": "もきゅ  もきゅ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

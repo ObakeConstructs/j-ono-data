@@ -1,32 +1,38 @@
 {
-  "hiragana": [
-    "も",
-    "もっ",
-    "もー",
-    "もーっ"
-  ],
+  "literal": "mo",
   "katakana": [
     "モ",
     "モッ",
     "モー",
     "モーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "groan",
-      "yell",
-      "complain",
-      "lament"
-    ],
-    "refer": "",
-    "meaning": "the sound of a groan or yell in frustration or annoyance",
-    "type": "",
-    "example": [{
-      "file": "mo-1a",
-      "contributor": "",
-      "display": "もーっ",
-      "source": "beastly_boys_and_girls"
-    }]
-  }],
-  "literal": "mo"
+  "hiragana": [
+    "も",
+    "もっ",
+    "もー",
+    "もーっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "an annoyed exclamation, expressing frustration or irritation",
+      "equivalent": [
+        "annoyed",
+        "damn it",
+        "frustrated",
+        "geez",
+        "groan",
+        "irritated"
+      ],
+      "example": [
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "mo-1a",
+          "display": "もーっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

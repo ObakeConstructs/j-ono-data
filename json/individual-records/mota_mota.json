@@ -1,24 +1,34 @@
 {
-  "hiragana": ["もたもた"],
-  "katakana": ["モタモタ"],
-  "definition": [{
-    "equivalent": [
-      "slow slow",
-      "wait wait",
-      "careful careful",
-      "slowly slowly",
-      "linger linger",
-      "dilly-dally"
-    ],
-    "refer": "",
-    "meaning": "an indication of moving slowly",
-    "type": "",
-    "example": [{
-      "file": "mota_mota-1a",
-      "contributor": "",
-      "display": "もた...  もた...",
-      "source": "embarrassing_and_sweet"
-    }]
-  }],
-  "literal": "mota mota"
+  "literal": "mota mota",
+  "katakana": [
+    "モタモタ"
+  ],
+  "hiragana": [
+    "もたもた"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "behaving or acting slowly or inefficiently",
+      "equivalent": [
+        "careful",
+        "dawdle",
+        "dilly-dally",
+        "fumble",
+        "linger",
+        "slow",
+        "slowly",
+        "sluggish"
+      ],
+      "example": [
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "mota_mota-1a",
+          "display": "もた...  もた...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

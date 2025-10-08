@@ -1,27 +1,27 @@
 {
-  "hiragana": ["もわもわ"],
-  "katakana": ["モワモワ"],
-  "definition": [{
-    "equivalent": [
-      "cloud",
-      "fog",
-      "haze",
-      "miasma",
-      "mist",
-      "smog",
-      "smoke",
-      "steam",
-      "vapor"
-    ],
-    "refer": "",
-    "meaning": "a billowing cloud, as from smoke or a fog",
-    "type": "",
-    "example": [{
-      "file": "mowa_mowa-1a",
-      "contributor": "",
-      "display": "モワ  モワ",
-      "source": "hello_work"
-    }]
-  }],
-  "literal": "mowa mowa"
+  "literal": "mowa mowa",
+  "katakana": [
+    "モワモワ"
+  ],
+  "hiragana": [
+    "もわもわ"
+  ],
+  "definition": [
+    {
+      "refer": "mowa:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "mowa_mowa-1a",
+          "display": "モワ  モワ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

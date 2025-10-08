@@ -1,25 +1,33 @@
 {
-  "hiragana": ["もふ"],
-  "katakana": ["モフ"],
-  "definition": [{
-    "equivalent": [
-      "caress",
-      "cuddle",
-      "fluff",
-      "pat",
-      "pet",
-      "rub",
-      "stroke"
-    ],
-    "refer": "",
-    "meaning": "the act of petting something with soft, fluffy fur or hair ",
-    "type": "",
-    "example": [{
-      "file": "mofu-1a",
-      "contributor": "",
-      "display": "もふ...",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "mofu"
+  "literal": "mofu",
+  "katakana": [
+    "モフ"
+  ],
+  "hiragana": [
+    "もふ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "the feeling of something soft, fluffy, and warm",
+      "equivalent": [
+        "cuddle",
+        "fluff",
+        "fluffy",
+        "pet",
+        "snuggle",
+        "soft",
+        "warm"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "mofu-1a",
+          "display": "もふ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

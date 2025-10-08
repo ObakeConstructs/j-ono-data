@@ -1,36 +1,31 @@
 {
-  "hiragana": [
-    "みしみし",
-    "みしみしっ",
-    "みしっみしっ"
-  ],
+  "literal": "mishi mishi",
   "katakana": [
     "ミシミシ",
     "ミシミシッ",
     "ミシッミシッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "burst",
-      "crack",
-      "creak",
-      "screech",
-      "shatter",
-      "shriek",
-      "snap",
-      "split",
-      "squeak",
-      "squeal"
-    ],
-    "refer": "",
-    "meaning": "a series of creaking, cracking, or splintering sounds",
-    "type": "",
-    "example": [{
-      "file": "mishi-1a",
-      "contributor": "",
-      "display": "ミシ  ミシ...",
-      "source": "hanako_24th_ward"
-    }]
-  }],
-  "literal": "mishi mishi"
+  "hiragana": [
+    "みしみし",
+    "みしみしっ",
+    "みしっみしっ"
+  ],
+  "definition": [
+    {
+      "refer": "mishi:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "hanako_24th_ward",
+          "file": "mishi-1a",
+          "display": "ミシ  ミシ...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
