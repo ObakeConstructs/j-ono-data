@@ -1,28 +1,33 @@
 {
-  "hiragana": [
-    "むた",
-    "むたっ"
-  ],
+  "literal": "muta",
   "katakana": [
     "ムタ",
     "ムタッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "poke",
-      "prod",
-      "jab",
-      "nudge"
-    ],
-    "refer": "",
-    "meaning": "to poke or jab with a finger",
-    "type": "",
-    "example": [{
-      "file": "muta-1a",
-      "contributor": "",
-      "display": "むたっ",
-      "source": "isekai_territory_reform"
-    }]
-  }],
-  "literal": "muta"
+  "hiragana": [
+    "むた",
+    "むたっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "gentle or soft poking, often playful",
+      "equivalent": [
+        "dab",
+        "nudge",
+        "poke",
+        "prod",
+        "tap"
+      ],
+      "example": [
+        {
+          "source": "isekai_territory_reform",
+          "file": "muta-1a",
+          "display": "むたっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

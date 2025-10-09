@@ -1,38 +1,40 @@
 {
-  "hiragana": [
-    "むむ",
-    "むむー",
-    "むむむ"
-  ],
+  "literal": "mumu",
   "katakana": [
     "ムム",
     "ムムー",
     "ムムム"
   ],
-  "definition": [{
-    "equivalent": [
-      "hmm",
-      "uh",
-      "um",
-      "what?"
-    ],
-    "refer": "",
-    "meaning": "an expression of thinking, considering, or realization",
-    "type": "",
-    "example": [
-      {
-        "file": "mumu-1a",
-        "contributor": "",
-        "display": "むむむ...",
-        "source": "reincarnated_aristocrat"
-      },
-      {
-        "file": "mumu-1b",
-        "contributor": "",
-        "display": "ムム...",
-        "source": "reincarnated_aristocrat"
-      }
-    ]
-  }],
-  "literal": "mumu"
+  "hiragana": [
+    "むむ",
+    "むむー",
+    "むむむ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "a grunt of realization, thoughfulness, or suspicion",
+      "equivalent": [
+        "hmm",
+        "uh",
+        "um",
+        "what?"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "mumu-1a",
+          "display": "むむむ...",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "mumu-1b",
+          "display": "ムム...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

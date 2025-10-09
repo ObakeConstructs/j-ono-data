@@ -1,25 +1,34 @@
 {
-  "hiragana": ["むずむず"],
-  "katakana": ["ムズムズ"],
-  "definition": [{
-    "equivalent": [
-      "impatient",
-      "restless",
-      "anxious",
-      "uneasy",
-      "tense",
-      "unnerved",
-      "nervous"
-    ],
-    "refer": "",
-    "meaning": "an expression of impatience, restlessness, or anxiety",
-    "type": "",
-    "example": [{
-      "file": "muzu_muzu-1a",
-      "contributor": "",
-      "display": "ムズ  ムズ",
-      "source": "eternal_fool_asley"
-    }]
-  }],
-  "literal": "muzu muzu"
+  "literal": "muzu muzu",
+  "katakana": [
+    "ムズムズ"
+  ],
+  "hiragana": [
+    "むずむず"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "impatience, or anxious restlessness",
+      "equivalent": [
+        "anxious",
+        "fidgety",
+        "impatient",
+        "nervous",
+        "restless",
+        "tense",
+        "uneasy",
+        "unnerved"
+      ],
+      "example": [
+        {
+          "source": "eternal_fool_asley",
+          "file": "muzu_muzu-1a",
+          "display": "ムズ  ムズ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

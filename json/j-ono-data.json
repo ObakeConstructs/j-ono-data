@@ -116,7 +116,6 @@
       "equivalent": [
         "ahm",
         "bite",
-        "close",
         "eat",
         "munch",
         "nom",
@@ -14748,19 +14747,25 @@
       "equivalent": [
         "aggravated",
         "annoyed",
+        "defiant",
+        "grumpy",
         "hmph",
         "irked",
         "irritated",
         "narked",
         "peeved",
         "pissed",
+        "pout",
         "riled",
+        "snit",
+        "stubborn",
+        "sulk",
         "unamused",
         "vexed"
       ],
       "refer": "",
-      "meaning": "the sound or act of puffing out one's cheeks, typicaly as an expression of annoyance",
-      "type": "",
+      "meaning": "an expression of irritation, sulking, or mild defiance, often expressed with puffed cheeks or a pout",
+      "type": "e",
       "example": [
         {
           "file": "mu-1a",
@@ -14801,8 +14806,8 @@
         "wrap"
       ],
       "refer": "",
-      "meaning": "the sound or action of a tight, affectionate hug",
-      "type": "",
+      "meaning": "a tight, affectionate hug or squeeze",
+      "type": "s",
       "example": [{
         "file": "mugyu-1a",
         "contributor": "",
@@ -14823,17 +14828,18 @@
     ],
     "definition": [{
       "equivalent": [
-        "arise",
         "fwip",
         "get up",
         "rise up",
         "sit up",
+        "spring up",
         "stand",
-        "stand up"
+        "stand up",
+        "wake up"
       ],
       "refer": "",
-      "meaning": "to sit up or stand up",
-      "type": "",
+      "meaning": "to suddenly wake up or get up, usually from lying down",
+      "type": "s",
       "example": [
         {
           "file": "muku-1a",
@@ -14876,8 +14882,8 @@
         "what?"
       ],
       "refer": "",
-      "meaning": "an expression of thinking, considering, or realization",
-      "type": "",
+      "meaning": "a grunt of realization, thoughfulness, or suspicion",
+      "type": "v",
       "example": [
         {
           "file": "mumu-1a",
@@ -14906,32 +14912,44 @@
       "ムンッ",
       "ムーン"
     ],
-    "definition": [{
-      "equivalent": [
-        "effort",
-        "exert",
-        "hngh",
-        "strain",
-        "urgh"
-      ],
-      "refer": "",
-      "meaning": "an expression of forceful exertion",
-      "type": "",
-      "example": [
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "effort",
+          "exert",
+          "hngh",
+          "strain",
+          "urgh"
+        ],
+        "refer": "",
+        "meaning": "a grunt of forceful exertion",
+        "type": "v",
+        "example": [{
           "file": "mun-1a",
           "contributor": "",
           "display": "ムンッ",
           "source": "abandoned_reincarnation_sage"
-        },
-        {
+        }]
+      },
+      {
+        "equivalent": [
+          "intimidate",
+          "menace",
+          "pressure",
+          "threat",
+          "threaten"
+        ],
+        "refer": "",
+        "meaning": "a tense or intimidating atmosphere",
+        "type": "s",
+        "example": [{
           "file": "mun-1b",
           "contributor": "",
-          "display": "むーン",
+          "display": "むーん",
           "source": "35_year_olds_choice"
-        }
-      ]
-    }],
+        }]
+      }
+    ],
     "literal": "mun"
   },
   {
@@ -14956,8 +14974,8 @@
         "touch"
       ],
       "refer": "",
-      "meaning": "touching, fondling, or squeezing someone else",
-      "type": "",
+      "meaning": "gentle pressing or squeezing of something soft",
+      "type": "s",
       "example": [{
         "file": "muni-1a",
         "contributor": "",
@@ -14971,19 +14989,9 @@
     "hiragana": ["むにゃ"],
     "katakana": ["ムニャ"],
     "definition": [{
-      "equivalent": [
-        "caress",
-        "feel",
-        "fondle",
-        "knead",
-        "pat",
-        "pet",
-        "squeeze",
-        "stroke",
-        "touch"
-      ],
-      "refer": "",
-      "meaning": "to touch, fondle, or squeeze someone else",
+      "equivalent": [""],
+      "refer": "muni:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "munya-1a",
@@ -15001,17 +15009,15 @@
       "equivalent": [
         "dose",
         "dozy",
-        "dream",
         "drowsy",
-        "nap",
-        "rest",
-        "sleep",
+        "groggy",
+        "half-asleep",
         "sleepy",
-        "slumber"
+        "tired"
       ],
       "refer": "",
-      "meaning": "expressing sleep or sleepiness",
-      "type": "",
+      "meaning": "half-asleep or groggy, often with mumbled speech",
+      "type": "s",
       "example": [
         {
           "file": "munya_munya-1a",
@@ -15034,8 +15040,8 @@
     "katakana": ["ムニュン"],
     "definition": [{
       "equivalent": [
-        "flaccid",
         "flesh",
+        "pliable",
         "soft",
         "squish",
         "squishy",
@@ -15043,8 +15049,8 @@
         "supple"
       ],
       "refer": "",
-      "meaning": "soft and pliable, often in reference to female breasts",
-      "type": "",
+      "meaning": "a soft and pliable texture, typically of flesh or fabric",
+      "type": "s",
       "example": [{
         "file": "munyun-1a",
         "contributor": "",
@@ -15059,17 +15065,18 @@
     "katakana": ["ムシャムシャ"],
     "definition": [{
       "equivalent": [
+        "chew",
+        "chomp",
+        "devour",
+        "eat",
+        "munch",
         "nom nom",
-        "munch munch",
-        "bite bite",
-        "chomp chomp",
-        "snarf snarf",
-        "eat eat",
-        "chew chew"
+        "nosh",
+        "snarf"
       ],
       "refer": "",
-      "meaning": "a series of biting or chewing sounds",
-      "type": "",
+      "meaning": "chewing or eating heartily, often noisily",
+      "type": "o",
       "example": [{
         "file": "musha_musha-1a",
         "contributor": "",
@@ -15090,14 +15097,15 @@
     ],
     "definition": [{
       "equivalent": [
+        "dab",
+        "nudge",
         "poke",
         "prod",
-        "jab",
-        "nudge"
+        "tap"
       ],
       "refer": "",
-      "meaning": "to poke or jab with a finger",
-      "type": "",
+      "meaning": "gentle or soft poking, often playful",
+      "type": "s",
       "example": [{
         "file": "muta-1a",
         "contributor": "",
@@ -15111,14 +15119,9 @@
     "hiragana": ["むたむた"],
     "katakana": ["ムタムタ"],
     "definition": [{
-      "equivalent": [
-        "poke poke",
-        "prod prod",
-        "jab jab",
-        "nudge nudge"
-      ],
-      "refer": "",
-      "meaning": "a series of pokes or jabs with a finger",
+      "equivalent": [""],
+      "refer": "muta:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "muta_muta-1a",
@@ -15134,17 +15137,18 @@
     "katakana": ["ムズムズ"],
     "definition": [{
       "equivalent": [
-        "impatient",
-        "restless",
         "anxious",
-        "uneasy",
+        "fidgety",
+        "impatient",
+        "nervous",
+        "restless",
         "tense",
-        "unnerved",
-        "nervous"
+        "uneasy",
+        "unnerved"
       ],
       "refer": "",
-      "meaning": "an expression of impatience, restlessness, or anxiety",
-      "type": "",
+      "meaning": "impatience, or anxious restlessness",
+      "type": "s",
       "example": [{
         "file": "muzu_muzu-1a",
         "contributor": "",

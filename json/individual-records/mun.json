@@ -1,39 +1,55 @@
 {
-  "hiragana": [
-    "むん",
-    "むんっ",
-    "むーん"
-  ],
+  "literal": "mun",
   "katakana": [
     "ムン",
     "ムンッ",
     "ムーン"
   ],
-  "definition": [{
-    "equivalent": [
-      "effort",
-      "exert",
-      "hngh",
-      "strain",
-      "urgh"
-    ],
-    "refer": "",
-    "meaning": "an expression of forceful exertion",
-    "type": "",
-    "example": [
-      {
-        "file": "mun-1a",
-        "contributor": "",
-        "display": "ムンッ",
-        "source": "abandoned_reincarnation_sage"
-      },
-      {
-        "file": "mun-1b",
-        "contributor": "",
-        "display": "むーン",
-        "source": "35_year_olds_choice"
-      }
-    ]
-  }],
-  "literal": "mun"
+  "hiragana": [
+    "むん",
+    "むんっ",
+    "むーん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "a grunt of forceful exertion",
+      "equivalent": [
+        "effort",
+        "exert",
+        "hngh",
+        "strain",
+        "urgh"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "mun-1a",
+          "display": "ムンッ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "a tense or intimidating atmosphere",
+      "equivalent": [
+        "intimidate",
+        "menace",
+        "pressure",
+        "threat",
+        "threaten"
+      ],
+      "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "mun-1b",
+          "display": "むーん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

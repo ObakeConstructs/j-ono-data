@@ -1,27 +1,27 @@
 {
-  "hiragana": ["むにゃ"],
-  "katakana": ["ムニャ"],
-  "definition": [{
-    "equivalent": [
-      "caress",
-      "feel",
-      "fondle",
-      "knead",
-      "pat",
-      "pet",
-      "squeeze",
-      "stroke",
-      "touch"
-    ],
-    "refer": "",
-    "meaning": "to touch, fondle, or squeeze someone else",
-    "type": "",
-    "example": [{
-      "file": "munya-1a",
-      "contributor": "",
-      "display": "ムニャ",
-      "source": "abandoned_reincarnation_sage"
-    }]
-  }],
-  "literal": "munya"
+  "literal": "munya",
+  "katakana": [
+    "ムニャ"
+  ],
+  "hiragana": [
+    "むにゃ"
+  ],
+  "definition": [
+    {
+      "refer": "muni:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "munya-1a",
+          "display": "ムニャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
