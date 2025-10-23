@@ -1,43 +1,50 @@
 {
-  "hiragana": ["なでなで"],
-  "katakana": ["ナデナデ"],
-  "definition": [{
-    "equivalent": [
-      "caress caress",
-      "pamper",
-      "pat pat",
-      "pet pet",
-      "stroke stroke"
-    ],
-    "refer": "",
-    "meaning": "a series of strokes in a tender or affectionate manner, usually on the top of the head",
-    "type": "",
-    "example": [
-      {
-        "file": "nade_nade-1a",
-        "contributor": "",
-        "display": "ナデ  ナデ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "nade_nade-1b",
-        "contributor": "",
-        "display": "なで  なで",
-        "source": "s_rank_behemoth"
-      },
-      {
-        "file": "nade_nade-1c",
-        "contributor": "",
-        "display": "なで  なで",
-        "source": "isekai_territory_reform"
-      },
-      {
-        "file": "nade_nade-1d",
-        "contributor": "",
-        "display": "ナデ  ナデ",
-        "source": "cheat_pharmacist"
-      }
-    ]
-  }],
-  "literal": "nade nade"
+  "literal": "nade nade",
+  "katakana": [
+    "ナデナデ"
+  ],
+  "hiragana": [
+    "なでなで"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "an expression of comfort, praise, or fondness by stroking or patting someone, usually on the top of the head",
+      "equivalent": [
+        "caress",
+        "comfort",
+        "pamper",
+        "pat",
+        "pet",
+        "stroke"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "nade_nade-1a",
+          "display": "ナデ  ナデ",
+          "contributor": ""
+        },
+        {
+          "source": "s_rank_behemoth",
+          "file": "nade_nade-1b",
+          "display": "なで  なで",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_territory_reform",
+          "file": "nade_nade-1c",
+          "display": "なで  なで",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "nade_nade-1d",
+          "display": "ナデ  ナデ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

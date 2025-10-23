@@ -14955,10 +14955,12 @@
   {
     "hiragana": [
       "むに",
+      "むにっ",
       "むにー"
     ],
     "katakana": [
       "ムニ",
+      "ムニッ",
       "ムニー"
     ],
     "definition": [{
@@ -14976,14 +14978,39 @@
       "refer": "",
       "meaning": "gentle pressing or squeezing of something soft",
       "type": "s",
+      "example": [
+        {
+          "file": "muni-1a",
+          "contributor": "",
+          "display": "むにー",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "muta-1a",
+          "contributor": "",
+          "display": "むにっ",
+          "source": "isekai_territory_reform"
+        }
+      ]
+    }],
+    "literal": "muni"
+  },
+  {
+    "hiragana": ["むにむに"],
+    "katakana": ["ムニムニ"],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "muni:1",
+      "meaning": "",
+      "type": "",
       "example": [{
-        "file": "muni-1a",
+        "file": "muta_muta-1a",
         "contributor": "",
-        "display": "むにー",
+        "display": "むた  むた  むた  むた  むた",
         "source": "isekai_territory_reform"
       }]
     }],
-    "literal": "muni"
+    "literal": "muni muni"
   },
   {
     "hiragana": ["むにゃ"],
@@ -15087,52 +15114,6 @@
     "literal": "musha musha"
   },
   {
-    "hiragana": [
-      "むた",
-      "むたっ"
-    ],
-    "katakana": [
-      "ムタ",
-      "ムタッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "dab",
-        "nudge",
-        "poke",
-        "prod",
-        "tap"
-      ],
-      "refer": "",
-      "meaning": "gentle or soft poking, often playful",
-      "type": "s",
-      "example": [{
-        "file": "muta-1a",
-        "contributor": "",
-        "display": "むたっ",
-        "source": "isekai_territory_reform"
-      }]
-    }],
-    "literal": "muta"
-  },
-  {
-    "hiragana": ["むたむた"],
-    "katakana": ["ムタムタ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "muta:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "muta_muta-1a",
-        "contributor": "",
-        "display": "むた  むた  むた  むた  むた",
-        "source": "isekai_territory_reform"
-      }]
-    }],
-    "literal": "muta muta"
-  },
-  {
     "hiragana": ["むずむず"],
     "katakana": ["ムズムズ"],
     "definition": [{
@@ -15163,15 +15144,16 @@
     "katakana": ["ナデナデ"],
     "definition": [{
       "equivalent": [
-        "caress caress",
+        "caress",
+        "comfort",
         "pamper",
-        "pat pat",
-        "pet pet",
-        "stroke stroke"
+        "pat",
+        "pet",
+        "stroke"
       ],
       "refer": "",
-      "meaning": "a series of strokes in a tender or affectionate manner, usually on the top of the head",
-      "type": "",
+      "meaning": "an expression of comfort, praise, or fondness by stroking or patting someone, usually on the top of the head",
+      "type": "s",
       "example": [
         {
           "file": "nade_nade-1a",
@@ -15207,11 +15189,13 @@
     "definition": [{
       "equivalent": [
         "kiss",
-        "smooch"
+        "mwah",
+        "smooch",
+        "umma"
       ],
       "refer": "",
-      "meaning": "kissing as a sign of affection",
-      "type": "",
+      "meaning": "shy or bashful kissing",
+      "type": "o",
       "example": [{
         "file": "nchu-1a",
         "contributor": "",
@@ -15230,16 +15214,11 @@
         "chuckle",
         "grin",
         "ha",
-        "hum hum",
-        "hmm hmm",
-        "laugh",
-        "smile",
-        "smirk",
-        "snicker"
+        "laugh"
       ],
       "refer": "",
-      "meaning": "a lighthearted and cheerful hum or soft laugh",
-      "type": "",
+      "meaning": "a soft, muffled laugh",
+      "type": "v",
       "example": [{
         "file": "nfufu-1a",
         "contributor": "",
@@ -15254,15 +15233,16 @@
     "katakana": ["ングング"],
     "definition": [{
       "equivalent": [
-        "gulp gulp",
-        "swallow swallow",
-        "drink drink",
-        "quaff quaff",
-        "swig swig"
+        "drink",
+        "glug",
+        "gulp",
+        "quaff",
+        "swallow",
+        "swig"
       ],
       "refer": "",
-      "meaning": "the sound of someone enthusiastically drinking",
-      "type": "",
+      "meaning": "gulping while drinking",
+      "type": "o",
       "example": [{
         "file": "ngu_ngu-1a",
         "contributor": "",
@@ -15283,14 +15263,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "smile",
         "grin",
-        "smirk",
-        "heh"
+        "heh",
+        "smile",
+        "smirk"
       ],
       "refer": "",
-      "meaning": "a smile, often genuine",
-      "type": "",
+      "meaning": "a sharp, quick, toothy grin",
+      "type": "s",
       "example": [{
         "file": "ni-1a",
         "contributor": "",
@@ -15317,12 +15297,11 @@
       "equivalent": [
         "beam",
         "grin",
-        "smile",
-        "smirk"
+        "smile"
       ],
       "refer": "",
-      "meaning": "a smile or grin",
-      "type": "",
+      "meaning": "a bright, friendly smile",
+      "type": "s",
       "example": [
         {
           "file": "niko-1a",
@@ -15368,14 +15347,9 @@
       "ニッコニッコ"
     ],
     "definition": [{
-      "equivalent": [
-        "beam",
-        "grin",
-        "smile",
-        "smirk"
-      ],
-      "refer": "",
-      "meaning": "expressing a smile or grin",
+      "equivalent": [""],
+      "refer": "niko:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -15405,14 +15379,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "beam",
         "grin",
         "smile",
-        "smirk"
+        "smirk",
+        "smug"
       ],
       "refer": "",
-      "meaning": "a smile or grin",
-      "type": "",
+      "meaning": "a smug, self-satisfied smile",
+      "type": "s",
       "example": [{
         "file": "nima-1a",
         "contributor": "",
@@ -15434,15 +15408,15 @@
     "definition": [{
       "equivalent": [
         "grin",
+        "leer",
         "smile",
         "smirk",
         "sneer",
-        "snicker",
-        "leer"
+        "snicker"
       ],
       "refer": "",
-      "meaning": "an unpleasant or evil smile",
-      "type": "",
+      "meaning": "an evil, sly, or teasing smile",
+      "type": "s",
       "example": [{
         "file": "niya-1a",
         "contributor": "",
@@ -15462,16 +15436,9 @@
       "ニヤニヤッ"
     ],
     "definition": [{
-      "equivalent": [
-        "grin",
-        "smile",
-        "smirk",
-        "sneer",
-        "snicker",
-        "leer"
-      ],
-      "refer": "",
-      "meaning": "an unpleasant or evil smile",
+      "equivalent": [""],
+      "refer": "niya:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "niya_niya-1a",
@@ -15493,15 +15460,13 @@
     ],
     "definition": [{
       "equivalent": [
-        "chew",
-        "eat",
-        "munch",
-        "nom",
-        "nosh"
+        "mmm",
+        "so good",
+        "yum"
       ],
       "refer": "",
-      "meaning": "the act or sound of eating and chewing",
-      "type": "",
+      "meaning": "vocalization while savoring food, expressing pleasure or satisfaction",
+      "type": "v",
       "example": [{
         "file": "nma-1a",
         "contributor": "",
@@ -15522,14 +15487,13 @@
     ],
     "definition": [{
       "equivalent": [
-        "mount",
         "climb on",
-        "climb up",
-        "ride"
+        "hop on",
+        "mount"
       ],
       "refer": "",
-      "meaning": "to climb onto something and sit down",
-      "type": "",
+      "meaning": "a quick or light climb or hop onto something",
+      "type": "m",
       "example": [{
         "file": "nori-1a",
         "contributor": "",
@@ -15544,15 +15508,24 @@
     "katakana": ["ノソノソ"],
     "definition": [{
       "equivalent": [
-        "slow slow",
-        "heavy heavy",
-        "slug slug",
-        "dawdle dawdle",
-        "lazy lazy"
+        "crawl",
+        "creep",
+        "dawdle",
+        "heavy",
+        "lazy",
+        "lumber",
+        "plod",
+        "ponderous",
+        "saunter",
+        "shamble",
+        "shuffle",
+        "slow",
+        "slug",
+        "trudge"
       ],
       "refer": "",
-      "meaning": "to move slowly or ponderously",
-      "type": "",
+      "meaning": "slow or ponderous movement",
+      "type": "s",
       "example": [{
         "file": "noso_noso-1a",
         "contributor": "",
@@ -15564,7 +15537,7 @@
   },
   {
     "hiragana": [
-      "ぬっ",
+      "ぬ",
       "ぬっ"
     ],
     "katakana": [
@@ -15573,15 +15546,18 @@
     ],
     "definition": [{
       "equivalent": [
-        "menace",
-        "threat",
         "danger",
-        "threaten",
-        "peril"
+        "imposing",
+        "loomin",
+        "menace",
+        "ominous",
+        "peril",
+        "threat",
+        "threaten"
       ],
       "refer": "",
-      "meaning": "an indication of something large and menacing appearing",
-      "type": "",
+      "meaning": "sudden appearance of something large, imposing, or menacing",
+      "type": "s",
       "example": [{
         "file": "nu-1a",
         "contributor": "",
@@ -15593,20 +15569,20 @@
   },
   {
     "hiragana": ["ぬらぬら"],
-    "katakana": ["ヌラヌラ"],
+    "katakana": ["ヌラ"],
     "definition": [{
       "equivalent": [
-        "anger anger",
-        "mad mad",
-        "danger danger",
-        "fury fury",
-        "ire ire",
-        "roil roil",
-        "peeved  peeved"
+        "glare",
+        "gleam",
+        "glint",
+        "glow",
+        "menace",
+        "shine",
+        "tension"
       ],
       "refer": "",
-      "meaning": "an expression of anger or irritation",
-      "type": "",
+      "meaning": "gleaming or glowing eyes, expressing menace or tension",
+      "type": "s",
       "example": [{
         "file": "nura_nura-1a",
         "contributor": "",
@@ -15614,7 +15590,7 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "nura nura"
+    "literal": "nura"
   },
   {
     "hiragana": [
@@ -15636,8 +15612,8 @@
         "smudge"
       ],
       "refer": "",
-      "meaning": "the indication or sound of applying a sticky substance to a surface",
-      "type": "",
+      "meaning": "something sticky or oily being spread or smeared",
+      "type": "s",
       "example": [{
         "file": "nuri-1a",
         "contributor": "",
@@ -15658,15 +15634,15 @@
     ],
     "definition": [{
       "equivalent": [
-        "slippery",
+        "greasy",
         "shlup",
-        "slimey",
         "slick",
-        "greasy"
+        "slimey",
+        "slippery"
       ],
       "refer": "",
-      "meaning": "an indication of something wet or slippery ",
-      "type": "",
+      "meaning": "a smooth or slippery sensation",
+      "type": "s",
       "example": [{
         "file": "nurun-1a",
         "contributor": "",
@@ -15694,13 +15670,13 @@
     "definition": [{
       "equivalent": [
         "meow",
-        "nya",
+        "miaow",
         "mrow",
-        "miaow"
+        "nya"
       ],
       "refer": "",
-      "meaning": "a sound of a cat's meow, or mimicking a cat's meow, typically to express friendly, playful teasing",
-      "type": "",
+      "meaning": "a cat's meow or mimicking a cat's meow",
+      "type": "v",
       "example": [
         {
           "file": "nya-1a",
@@ -15728,12 +15704,9 @@
       "ニャーン"
     ],
     "definition": [{
-      "equivalent": [
-        "meow",
-        "mrow"
-      ],
-      "refer": "",
-      "meaning": "the cry of a cat",
+      "equivalent": [""],
+      "refer": "nya:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "nyan-1a",
@@ -15748,12 +15721,9 @@
     "hiragana": ["にゃにゃ"],
     "katakana": ["ニャニャ"],
     "definition": [{
-      "equivalent": [
-        "meow meow",
-        "nya nya"
-      ],
-      "refer": "",
-      "meaning": "mimicking a cat to express friendly, playful teasing",
+      "equivalent": [""],
+      "refer": "nya:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -15783,13 +15753,23 @@
     ],
     "definition": [{
       "equivalent": [
+        "cunning",
+        "deceptive",
+        "devious",
         "grin",
+        "guile",
+        "impish",
+        "mischievous",
+        "playful",
+        "roguish",
+        "slick",
+        "sly",
         "smile",
-        "smirk"
+        "wicked"
       ],
       "refer": "",
-      "meaning": "a mischievous or unpleasant smile",
-      "type": "",
+      "meaning": "a sly, mischievous, or cunning grin",
+      "type": "s",
       "example": [
         {
           "file": "nyi-1a",
@@ -15812,21 +15792,19 @@
     "katakana": ["ニュ"],
     "definition": [{
       "equivalent": [
+        "emerging",
         "greasy",
+        "protruding",
         "slick",
         "slither",
         "smooth",
         "squeeze",
-        "squirm",
         "squish",
-        "squoosh",
-        "twitch",
-        "wriggle",
-        "writhe"
+        "squoosh"
       ],
       "refer": "",
-      "meaning": "an indication or sound of something  squirming, squishy, or slick",
-      "type": "",
+      "meaning": "something  squishy or slick, often emerging or protruding",
+      "type": "s",
       "example": [{
         "file": "nyu-1a",
         "contributor": "",
@@ -15856,12 +15834,18 @@
     "definition": [
       {
         "equivalent": [
-          "hoh",
-          "oh"
+          "admiration",
+          "amazed",
+          "delighted",
+          "excited",
+          "oh",
+          "suprised",
+          "thrilled",
+          "woah"
         ],
         "refer": "",
-        "meaning": "a brief exclamation expressing surprise or appreciation",
-        "type": "",
+        "meaning": "a reaction of surprise or excitement",
+        "type": "e",
         "example": [
           {
             "file": "o-1a",
@@ -15887,12 +15871,11 @@
         "equivalent": [
           "bellow",
           "howl",
-          "roar",
-          "screech"
+          "roar"
         ],
         "refer": "",
         "meaning": "a menacing roar or howl",
-        "type": "",
+        "type": "v",
         "example": [{
           "file": "o-2a",
           "contributor": "",
@@ -15904,48 +15887,24 @@
     "literal": "o"
   },
   {
-    "hiragana": ["おっぱ"],
-    "katakana": ["オッパ"],
-    "definition": [{
-      "equivalent": [
-        "amazed",
-        "gasp",
-        "realize",
-        "shock",
-        "startled",
-        "surprise",
-        "uh oh",
-        "understand",
-        "wha"
-      ],
-      "refer": "",
-      "meaning": "an expression of surprise, realization, or understanding",
-      "type": "",
-      "example": [{
-        "file": "oppa-1a",
-        "contributor": "",
-        "display": "おっぱ...",
-        "source": "buy_the_land"
-      }]
-    }],
-    "literal": "oppa"
-  },
-  {
     "hiragana": ["おろおろ"],
     "katakana": ["オロオロ"],
     "definition": [{
       "equivalent": [
-        "dread",
-        "fear",
-        "fright",
-        "horror",
+        "afraid",
+        "agitation",
+        "anxious",
+        "confused",
+        "fidgeting",
+        "flustered",
+        "helpless",
         "panic",
-        "scare",
-        "terror"
+        "panicked",
+        "scared"
       ],
       "refer": "",
-      "meaning": "an expression of surprise, fear, or panic",
-      "type": "",
+      "meaning": "panicked, flustered, or confused, usually expressing anxiety or fear",
+      "type": "e",
       "example": [
         {
           "file": "oro_oro-1a",

@@ -1,33 +1,42 @@
 {
-  "hiragana": ["おろおろ"],
-  "katakana": ["オロオロ"],
-  "definition": [{
-    "equivalent": [
-      "dread",
-      "fear",
-      "fright",
-      "horror",
-      "panic",
-      "scare",
-      "terror"
-    ],
-    "refer": "",
-    "meaning": "an expression of surprise, fear, or panic",
-    "type": "",
-    "example": [
-      {
-        "file": "oro_oro-1a",
-        "contributor": "",
-        "display": "オロ  オロ  オロ  オロ",
-        "source": "abandoned_reincarnation_sage"
-      },
-      {
-        "file": "oro_oro-1b",
-        "contributor": "",
-        "display": "オロ  オロ",
-        "source": "eternal_fool_asley"
-      }
-    ]
-  }],
-  "literal": "oro oro"
+  "literal": "oro oro",
+  "katakana": [
+    "オロオロ"
+  ],
+  "hiragana": [
+    "おろおろ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "panicked, flustered, or confused, usually expressing anxiety or fear",
+      "equivalent": [
+        "afraid",
+        "agitation",
+        "anxious",
+        "confused",
+        "fidgeting",
+        "flustered",
+        "helpless",
+        "panic",
+        "panicked",
+        "scared"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "oro_oro-1a",
+          "display": "オロ  オロ  オロ  オロ",
+          "contributor": ""
+        },
+        {
+          "source": "eternal_fool_asley",
+          "file": "oro_oro-1b",
+          "display": "オロ  オロ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

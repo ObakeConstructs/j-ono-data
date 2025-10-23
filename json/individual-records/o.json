@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "お",
-    "おっ",
-    "おお",
-    "おおっ",
-    "おおお",
-    "おおおっ"
-  ],
+  "literal": "o",
   "katakana": [
     "オ",
     "オッ",
@@ -15,53 +8,67 @@
     "オオオ",
     "オオオッ"
   ],
+  "hiragana": [
+    "お",
+    "おっ",
+    "おお",
+    "おおっ",
+    "おおお",
+    "おおおっ"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "hoh",
-        "oh"
-      ],
       "refer": "",
-      "meaning": "a brief exclamation expressing surprise or appreciation",
-      "type": "",
+      "type": "e",
+      "meaning": "a reaction of surprise or excitement",
+      "equivalent": [
+        "admiration",
+        "amazed",
+        "delighted",
+        "excited",
+        "oh",
+        "suprised",
+        "thrilled",
+        "woah"
+      ],
       "example": [
         {
+          "source": "otherworld_material_collector",
           "file": "o-1a",
-          "contributor": "",
           "display": "お",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "o-1b",
-          "contributor": "",
           "display": "おおおっ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "o-1c",
-          "contributor": "",
           "display": "おおっ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "v",
+      "meaning": "a menacing roar or howl",
       "equivalent": [
         "bellow",
         "howl",
-        "roar",
-        "screech"
+        "roar"
       ],
-      "refer": "",
-      "meaning": "a menacing roar or howl",
-      "type": "",
-      "example": [{
-        "file": "o-2a",
-        "contributor": "",
-        "display": "オオッ  オオォ",
-        "source": "isekai_sniper"
-      }]
+      "example": [
+        {
+          "source": "isekai_sniper",
+          "file": "o-2a",
+          "display": "オオッ  オオォ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "o"
+  ]
 }

@@ -1,29 +1,33 @@
 {
-  "hiragana": [
-    "ぬるん",
-    "ぬるんっ"
-  ],
+  "literal": "nurun",
   "katakana": [
     "ヌルン",
     "ヌルンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "slippery",
-      "shlup",
-      "slimey",
-      "slick",
-      "greasy"
-    ],
-    "refer": "",
-    "meaning": "an indication of something wet or slippery ",
-    "type": "",
-    "example": [{
-      "file": "nurun-1a",
-      "contributor": "",
-      "display": "ぬるんっ",
-      "source": "isekai_av_filming"
-    }]
-  }],
-  "literal": "nurun"
+  "hiragana": [
+    "ぬるん",
+    "ぬるんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "a smooth or slippery sensation",
+      "equivalent": [
+        "greasy",
+        "shlup",
+        "slick",
+        "slimey",
+        "slippery"
+      ],
+      "example": [
+        {
+          "source": "isekai_av_filming",
+          "file": "nurun-1a",
+          "display": "ぬるんっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

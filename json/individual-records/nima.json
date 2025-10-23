@@ -1,28 +1,32 @@
 {
-  "hiragana": [
-    "にま",
-    "にまま"
-  ],
+  "literal": "nima",
   "katakana": [
     "ニマ",
     "ニママ"
   ],
-  "definition": [{
-    "equivalent": [
-      "beam",
-      "grin",
-      "smile",
-      "smirk"
-    ],
-    "refer": "",
-    "meaning": "a smile or grin",
-    "type": "",
-    "example": [{
-      "file": "nima-1a",
-      "contributor": "",
-      "display": "ニママ",
-      "source": "rise_of_the_outlaw_tamer"
-    }]
-  }],
-  "literal": "nima"
+  "hiragana": [
+    "にま",
+    "にまま"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "a smug, self-satisfied smile",
+      "equivalent": [
+        "grin",
+        "smile",
+        "smirk",
+        "smug"
+      ],
+      "example": [
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "nima-1a",
+          "display": "ニママ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
