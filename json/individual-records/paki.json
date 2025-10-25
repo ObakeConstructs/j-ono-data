@@ -1,37 +1,39 @@
 {
-  "hiragana": [
-    "ぱき",
-    "ぱきっ"
-  ],
+  "literal": "paki",
   "katakana": [
     "パキ",
     "パキッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "crack",
-      "crackle",
-      "pop",
-      "shatter",
-      "snap"
-    ],
-    "refer": "",
-    "meaning": "the sharp sound of something cracking or popping",
-    "type": "",
-    "example": [
-      {
-        "file": "paki-1a",
-        "contributor": "",
-        "display": "パキッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "paki-1b",
-        "contributor": "",
-        "display": "パキッ",
-        "source": "hanako_24th_ward"
-      }
-    ]
-  }],
-  "literal": "paki"
+  "hiragana": [
+    "ぱき",
+    "ぱきっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "sharp cracking or popping sound",
+      "equivalent": [
+        "crack",
+        "crackle",
+        "pop",
+        "shatter",
+        "snap"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "paki-1a",
+          "display": "パキッ",
+          "contributor": ""
+        },
+        {
+          "source": "hanako_24th_ward",
+          "file": "paki-1b",
+          "display": "パキッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

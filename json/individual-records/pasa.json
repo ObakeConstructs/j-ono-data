@@ -1,46 +1,51 @@
 {
-  "hiragana": [
-    "ぱさ",
-    "ぱさぁ",
-    "ぱさっ",
-    "ぱさぁっ"
-  ],
+  "literal": "pasa",
   "katakana": [
     "パサ",
     "パサァ",
     "パサッ",
     "パサァッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "crinkle",
-      "flap",
-      "rustle",
-      "swish"
-    ],
-    "refer": "",
-    "meaning": "the soft sound of moving paper or cloth",
-    "type": "",
-    "example": [
-      {
-        "file": "pasa-1a",
-        "contributor": "",
-        "display": "ぱさ",
-        "source": "fushi_no_kami"
-      },
-      {
-        "file": "pasa-1b",
-        "contributor": "",
-        "display": "パサァ",
-        "source": "gyaru_academy"
-      },
-      {
-        "file": "pasa-1c",
-        "contributor": "",
-        "display": "ぱさっ",
-        "source": "yojo_life"
-      }
-    ]
-  }],
-  "literal": "pasa"
+  "hiragana": [
+    "ぱさ",
+    "ぱさぁ",
+    "ぱさっ",
+    "ぱさぁっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "light movement of soft material",
+      "equivalent": [
+        "droop",
+        "flap",
+        "flip",
+        "flutter",
+        "rustle",
+        "sway",
+        "swish"
+      ],
+      "example": [
+        {
+          "source": "fushi_no_kami",
+          "file": "pasa-1a",
+          "display": "ぱさ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "pasa-1b",
+          "display": "パサァ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "pasa-1c",
+          "display": "ぱさっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

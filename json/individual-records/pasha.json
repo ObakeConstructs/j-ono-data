@@ -1,8 +1,16 @@
 {
-  "hiragana": ["ぱしゃ"],
-  "katakana": ["パシャ"],
+  "literal": "pasha",
+  "katakana": [
+    "パシャ"
+  ],
+  "hiragana": [
+    "ぱしゃ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "a quick splashing sound",
       "equivalent": [
         "slop",
         "slosh",
@@ -10,55 +18,51 @@
         "splash",
         "swash"
       ],
-      "refer": "",
-      "meaning": "the sound of a small splash",
-      "type": "",
       "example": [
         {
+          "source": "hello_work",
           "file": "pasha-1a",
-          "contributor": "",
           "display": "パシャ",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "strongest_failure_frame",
           "file": "pasha-1b",
-          "contributor": "",
           "display": "パシャ",
-          "source": "strongest_failure_frame"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "the quick sound of a camera shutter or flash",
       "equivalent": [
         "click",
         "flash",
         "photo",
         "snap"
       ],
-      "refer": "",
-      "meaning": "the sound of a camera shutter or the light of a camera flash",
-      "type": "",
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "pasha-2a",
-          "contributor": "",
           "display": "パシャ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "double_play",
           "file": "pasha-2b",
-          "contributor": "",
           "display": "パシャー",
-          "source": "double_play"
+          "contributor": ""
         },
         {
+          "source": "saga_lagging_hero",
           "file": "pasha-2c",
-          "contributor": "",
           "display": "パシャッ",
-          "source": "saga_lagging_hero"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "pasha"
+  ]
 }

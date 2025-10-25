@@ -15946,14 +15946,16 @@
         "equivalent": [
           "bright",
           "brighten",
+          "flash",
           "glow",
           "light",
           "light up",
-          "shine"
+          "shine",
+          "sparkle"
         ],
         "refer": "",
-        "meaning": "to brighten or shine suddenly",
-        "type": "",
+        "meaning": "suddenly shining or glowing",
+        "type": "s",
         "example": [
           {
             "file": "pa-1a",
@@ -15988,8 +15990,8 @@
           "shine"
         ],
         "refer": "",
-        "meaning": "to become glad, happy, or excited",
-        "type": "",
+        "meaning": "suddenly expressing happiness or excitement",
+        "type": "s",
         "example": [{
           "file": "pa-2a",
           "contributor": "",
@@ -16015,13 +16017,15 @@
           "clack",
           "click",
           "clink",
+          "ka-chik",
+          "pop",
           "snap",
           "tap",
           "tick"
         ],
         "refer": "",
-        "meaning": "the sound of a short sharp click",
-        "type": "",
+        "meaning": "quick popping, clicking or snapping",
+        "type": "o",
         "example": [
           {
             "file": "pachi-1a",
@@ -16057,8 +16061,8 @@
           "squint"
         ],
         "refer": "",
-        "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
-        "type": "",
+        "meaning": "opening one or both eyes, typically expressing surprise or wakefulness",
+        "type": "m",
         "example": [
           {
             "file": "pachi-2a",
@@ -16093,17 +16097,9 @@
       "パチンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "clack",
-        "click",
-        "clink",
-        "ker-chik",
-        "snap",
-        "tap",
-        "tick"
-      ],
-      "refer": "",
-      "meaning": "the generic sound of a click or snap",
+      "equivalent": [""],
+      "refer": "pachi:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -16128,13 +16124,13 @@
     "definition": [
       {
         "equivalent": [
-          "crackle crackle",
-          "pop pop",
-          "snap snap"
+          "crackle",
+          "pop",
+          "snap"
         ],
         "refer": "",
-        "meaning": "the continuous sound of crackling, as from a fire",
-        "type": "",
+        "meaning": "continuous popping or crackling, as from a fire",
+        "type": "o",
         "example": [
           {
             "file": "pachi_pachi-1a",
@@ -16153,11 +16149,11 @@
       {
         "equivalent": [
           "applause",
-          "clap clap"
+          "clapping"
         ],
         "refer": "",
-        "meaning": "the sound of applause or clapping",
-        "type": "",
+        "meaning": "applause",
+        "type": "o",
         "example": [
           {
             "file": "pachi_pachi-2a",
@@ -16191,50 +16187,37 @@
       "パカ",
       "パカッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "hoorah",
-          "ta-da",
-          "wow"
-        ],
-        "refer": "",
-        "meaning": "a musical jingle indicating a successful moment in a video game, typically used to reveal something important, often exaggerated",
-        "type": "",
-        "example": [{
+    "definition": [{
+      "equivalent": [
+        "open",
+        "pop",
+        "reveal",
+        "uncover"
+      ],
+      "refer": "",
+      "meaning": "sudden opening of a closed container",
+      "type": "m",
+      "example": [
+        {
+          "file": "paka-2b",
+          "contributor": "",
+          "display": "パカッ",
+          "source": "cheat_pharmacist"
+        },
+        {
+          "file": "paka-2a",
+          "contributor": "",
+          "display": "パカッ",
+          "source": "otherworld_material_collector"
+        },
+        {
           "file": "paka-1a",
           "contributor": "",
           "display": "ぱか",
           "source": "kuma_kuma_kuma_bear"
-        }]
-      },
-      {
-        "equivalent": [
-          "lift",
-          "open",
-          "pop",
-          "reveal",
-          "uncover"
-        ],
-        "refer": "",
-        "meaning": "popping open a closed container",
-        "type": "",
-        "example": [
-          {
-            "file": "paka-2a",
-            "contributor": "",
-            "display": "パカッ",
-            "source": "otherworld_material_collector"
-          },
-          {
-            "file": "paka-2b",
-            "contributor": "",
-            "display": "パカッ",
-            "source": "cheat_pharmacist"
-          }
-        ]
-      }
-    ],
+        }
+      ]
+    }],
     "literal": "paka"
   },
   {
@@ -16248,14 +16231,15 @@
     ],
     "definition": [{
       "equivalent": [
-        "trot",
-        "run",
         "charge",
-        "gallop"
+        "clip-clop",
+        "clop-clop",
+        "gallop",
+        "trot"
       ],
       "refer": "",
-      "meaning": "the sound of a horse running or charging",
-      "type": "",
+      "meaning": "the clopping of a horse hooves, often at a trot or gallop",
+      "type": "o",
       "example": [{
         "file": "pakara-1a",
         "contributor": "",
@@ -16283,8 +16267,8 @@
         "snap"
       ],
       "refer": "",
-      "meaning": "the sharp sound of something cracking or popping",
-      "type": "",
+      "meaning": "sharp cracking or popping sound",
+      "type": "o",
       "example": [
         {
           "file": "paki-1a",
@@ -16323,8 +16307,8 @@
         "savor"
       ],
       "refer": "",
-      "meaning": "to close one's mouth, typically around a mouthful of food",
-      "type": "",
+      "meaning": "closing one's mouth or biting",
+      "type": "m",
       "example": [
         {
           "file": "paku-1a",
@@ -16352,29 +16336,16 @@
       "パクッパクッ"
     ],
     "definition": [{
-      "equivalent": [
-        " open close",
-        "pop pop",
-        "flap flap",
-        "snap snap"
-      ],
-      "refer": "",
-      "meaning": "an indication of eyes, hands, or mouths snapping open and closed quickly",
+      "equivalent": [""],
+      "refer": "paku:1",
+      "meaning": ", repeatedly",
       "type": "",
-      "example": [
-        {
-          "file": "paku_paku-1a",
-          "contributor": "",
-          "display": "ぱくぱく",
-          "source": "kuma_kuma_kuma_bear"
-        },
-        {
-          "file": "paku_paku-1b",
-          "contributor": "",
-          "display": "ぱく  ぱく",
-          "source": "dog_became_strongest"
-        }
-      ]
+      "example": [{
+        "file": "paku_paku-1a",
+        "contributor": "",
+        "display": "ぱくぱく",
+        "source": "kuma_kuma_kuma_bear"
+      }]
     }],
     "literal": "paku paku"
   },
@@ -16391,78 +16362,50 @@
       "パァン",
       "パァンッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "bam",
-          "bang",
-          "clap",
-          "crash",
-          "impact",
-          "pow",
-          "slam",
-          "slap",
-          "smack",
-          "strike"
-        ],
-        "refer": "",
-        "meaning": "a sudden resounding strike, often loud",
-        "type": "",
-        "example": [
-          {
-            "file": "pan-1a",
-            "contributor": "",
-            "display": "パン",
-            "source": "simple_sword_saint"
-          },
-          {
-            "file": "pan-1b",
-            "contributor": "",
-            "display": "パァンッ",
-            "source": "world_full_of_monsters"
-          },
-          {
-            "file": "pan-1d",
-            "contributor": "",
-            "display": "パン",
-            "source": "reincarnated_farm_girl"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "biff",
-          "bonk",
-          "clap",
-          "clip",
-          "pat",
-          "rap",
-          "scuff",
-          "slap",
-          "stroke",
-          "swat",
-          "swipe",
-          "thump"
-        ],
-        "refer": "",
-        "meaning": "the sound or a light or soft strike",
-        "type": "",
-        "example": [
-          {
-            "file": "pan-2a",
-            "contributor": "",
-            "display": "ぱんっ",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "pan-2b",
-            "contributor": "",
-            "display": "パンッ",
-            "source": "ai_and_izawa"
-          }
-        ]
-      }
-    ],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "bang",
+        "clap",
+        "crash",
+        "impact",
+        "pow",
+        "slam",
+        "slap",
+        "smack",
+        "strike",
+        "thump"
+      ],
+      "refer": "",
+      "meaning": "the sound of a quick or sudden strike, usually with a powerful impact",
+      "type": "o",
+      "example": [
+        {
+          "file": "pan-1a",
+          "contributor": "",
+          "display": "パン",
+          "source": "simple_sword_saint"
+        },
+        {
+          "file": "pan-1b",
+          "contributor": "",
+          "display": "パァンッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "pan-1d",
+          "contributor": "",
+          "display": "パン",
+          "source": "reincarnated_farm_girl"
+        },
+        {
+          "file": "pan-2a",
+          "contributor": "",
+          "display": "ぱんっ",
+          "source": "different_world_smartphone"
+        }
+      ]
+    }],
     "literal": "pan"
   },
   {
@@ -16476,22 +16419,22 @@
     ],
     "definition": [{
       "equivalent": [
-        "biff biff",
-        "bonk bonk",
-        "clap clap",
-        "clip clip",
-        "pat pat",
-        "rap rap",
-        "scuff scuff",
-        "slap slap",
-        "stroke stroke",
-        "swat swat",
-        "swipe swipe",
-        "thump thump"
+        "biff",
+        "bonk",
+        "clap",
+        "clip",
+        "pat",
+        "rap",
+        "scuff",
+        "slap",
+        "stroke",
+        "swat",
+        "swipe",
+        "thump"
       ],
       "refer": "",
-      "meaning": "a series of small or light impacts",
-      "type": "",
+      "meaning": "the sound of small or light impacts",
+      "type": "o",
       "example": [
         {
           "file": "pan_pan-1a",
@@ -16535,8 +16478,8 @@
         "turn"
       ],
       "refer": "",
-      "meaning": "sound of turning or riffling through paper pages",
-      "type": "",
+      "meaning": "turning or riffling through pages",
+      "type": "m",
       "example": [
         {
           "file": "para-1a",
@@ -16572,17 +16515,17 @@
     "definition": [
       {
         "equivalent": [
-          "flit flit",
+          "flit",
           "flutter",
           "pit-a-pat",
           "pitter-patter",
-          "sst sst",
-          "tap tap",
-          "tock tock"
+          "sst",
+          "tap",
+          "tock"
         ],
         "refer": "",
-        "meaning": "the repeated or continuous sound of small things falling",
-        "type": "",
+        "meaning": "small things fluttering or falling",
+        "type": "m",
         "example": [
           {
             "file": "para_para-1a",
@@ -16599,15 +16542,9 @@
         ]
       },
       {
-        "equivalent": [
-          "flip flip",
-          "riffle riffle",
-          "skim skim",
-          "thumb thum",
-          "turn turn"
-        ],
-        "refer": "",
-        "meaning": "sound of turning or riffling through paper pages",
+        "equivalent": [""],
+        "refer": "para:1",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "para_para-2a",
@@ -16634,14 +16571,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "crinkle",
+        "droop",
         "flap",
+        "flip",
+        "flutter",
         "rustle",
+        "sway",
         "swish"
       ],
       "refer": "",
-      "meaning": "the soft sound of moving paper or cloth",
-      "type": "",
+      "meaning": "light movement of soft material",
+      "type": "m",
       "example": [
         {
           "file": "pasa-1a",
@@ -16678,8 +16618,8 @@
           "swash"
         ],
         "refer": "",
-        "meaning": "the sound of a small splash",
-        "type": "",
+        "meaning": "a quick splashing sound",
+        "type": "o",
         "example": [
           {
             "file": "pasha-1a",
@@ -16703,8 +16643,8 @@
           "snap"
         ],
         "refer": "",
-        "meaning": "the sound of a camera shutter or the light of a camera flash",
-        "type": "",
+        "meaning": "the quick sound of a camera shutter or flash",
+        "type": "o",
         "example": [
           {
             "file": "pasha-2a",
@@ -16750,8 +16690,8 @@
         "snag"
       ],
       "refer": "",
-      "meaning": "the act of grabbing and catching something",
-      "type": "",
+      "meaning": "the quick sound of grabbing and catching something",
+      "type": "o",
       "example": [
         {
           "file": "pashi-1a",
@@ -16776,33 +16716,53 @@
     "literal": "pashi"
   },
   {
-    "hiragana": ["ぱしぱし"],
-    "katakana": ["パシパシ"],
-    "definition": [{
-      "equivalent": [
-        "biff biff",
-        "bonk bonk",
-        "clap clap",
-        "clip clip",
-        "pat pat",
-        "rap rap",
-        "scuff scuff",
-        "slap slap",
-        "stroke stroke",
-        "swat swat",
-        "swipe swipe",
-        "thump thump"
-      ],
-      "refer": "",
-      "meaning": "a slapping or smacking sound",
-      "type": "",
-      "example": [{
-        "file": "pashi_pashi-1a",
-        "contributor": "",
-        "display": "パシパシ",
-        "source": "berserk"
-      }]
-    }],
+    "hiragana": [
+      "ぱしぱし",
+      "ぱしっぱしっ"
+    ],
+    "katakana": [
+      "パシパシ",
+      "パシッパシッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "biff",
+          "bonk",
+          "clap",
+          "clip",
+          "pat",
+          "rap",
+          "scuff",
+          "slap",
+          "stroke",
+          "swat",
+          "swipe",
+          "thump"
+        ],
+        "refer": "",
+        "meaning": "quick slapping or smacking",
+        "type": "o",
+        "example": [{
+          "file": "pashi_pashi-1a",
+          "contributor": "",
+          "display": "パシパシ",
+          "source": "berserk"
+        }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "pashi:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "pashi_pashi-2a",
+          "contributor": "",
+          "display": "ぱしっ  ぱしっ",
+          "source": "dog_became_strongest"
+        }]
+      }
+    ],
     "literal": "pashi pashi"
   },
   {
@@ -16818,15 +16778,18 @@
       "equivalent": [
         "collapse",
         "fall",
+        "fall over",
         "flop",
         "flump",
+        "plop",
         "plunk",
+        "tip over",
         "topple",
         "tumble"
       ],
       "refer": "",
-      "meaning": "an indication of falling from an upright position",
-      "type": "",
+      "meaning": "falling, tipping over, or collapsing softly",
+      "type": "m",
       "example": [{
         "file": "pata-1a",
         "contributor": "",
@@ -16849,18 +16812,19 @@
       {
         "equivalent": [
           "bam",
+          "bop",
           "click",
           "close",
           "ker-chak",
           "latch",
+          "shut",
           "slam",
           "tchk",
-          "bop",
           "thump"
         ],
         "refer": "",
-        "meaning": "the sound of something closing or latching",
-        "type": "",
+        "meaning": "closing or latching",
+        "type": "m",
         "example": [
           {
             "file": "patan-1a",
@@ -16883,16 +16847,9 @@
         ]
       },
       {
-        "equivalent": [
-          "buckle",
-          "collapse",
-          "fall",
-          "stumble",
-          "topple",
-          "tumble"
-        ],
-        "refer": "",
-        "meaning": "to fall down from an upright position",
+        "equivalent": [""],
+        "refer": "pata:1",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "patan-2a",
@@ -16911,15 +16868,14 @@
       "equivalent": [
         "dribble",
         "drip",
-        "plop",
-        "ripple",
-        "spatter",
-        "splash",
-        "trickle"
+        "pat",
+        "patter",
+        "pitter",
+        "spatter"
       ],
       "refer": "",
-      "meaning": "a dripping or spattering sound",
-      "type": "",
+      "meaning": "a light, rapid pattering sound",
+      "type": "o",
       "example": [{
         "file": "patata-1a",
         "contributor": "",
@@ -16934,15 +16890,17 @@
     "katakana": ["パタパタ"],
     "definition": [{
       "equivalent": [
-        "flap flap",
-        "flick flick",
-        "flit flit",
-        "swish swish",
-        "wave wave"
+        "flap",
+        "flick",
+        "flit",
+        "patter",
+        "pitter-patter",
+        "spatter",
+        "swish"
       ],
       "refer": "",
-      "meaning": "a series of flapping sounds, as from bird wings or a flag in the wind",
-      "type": "",
+      "meaning": "rythmic flapping or pattering",
+      "type": "m",
       "example": [
         {
           "file": "pata_pata-1a",
@@ -16964,13 +16922,9 @@
     "hiragana": ["ぱっぱっ"],
     "katakana": ["パッパッ"],
     "definition": [{
-      "equivalent": [
-        "brush brush",
-        "paff paff",
-        "pat pat"
-      ],
-      "refer": "",
-      "meaning": "to repeatedly pat or brush something off, as for removing dirt or dust",
+      "equivalent": [""],
+      "refer": "pan pan:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "pa_pa-1a",

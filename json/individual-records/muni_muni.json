@@ -1,14 +1,14 @@
 {
-  "literal": "pa pa",
+  "literal": "muni muni",
   "katakana": [
-    "パッパッ"
+    "ムニムニ"
   ],
   "hiragana": [
-    "ぱっぱっ"
+    "むにむに"
   ],
   "definition": [
     {
-      "refer": "pan pan:1",
+      "refer": "muni:1",
       "type": "",
       "meaning": "",
       "equivalent": [
@@ -16,9 +16,9 @@
       ],
       "example": [
         {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "pa_pa-1a",
-          "display": "パッ  パッ",
+          "source": "isekai_territory_reform",
+          "file": "muta_muta-1a",
+          "display": "むた  むた  むた  むた  むた",
           "contributor": ""
         }
       ]

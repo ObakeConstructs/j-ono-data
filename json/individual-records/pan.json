@@ -1,18 +1,22 @@
 {
-  "hiragana": [
-    "ぱん",
-    "ぱんっ",
-    "ぱぁん",
-    "ぱぁんっ"
-  ],
+  "literal": "pan",
   "katakana": [
     "パン",
     "パンッ",
     "パァン",
     "パァンッ"
   ],
+  "hiragana": [
+    "ぱん",
+    "ぱんっ",
+    "ぱぁん",
+    "ぱぁんっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "the sound of a quick or sudden strike, usually with a powerful impact",
       "equivalent": [
         "bam",
         "bang",
@@ -23,65 +27,35 @@
         "slam",
         "slap",
         "smack",
-        "strike"
-      ],
-      "refer": "",
-      "meaning": "a sudden resounding strike, often loud",
-      "type": "",
-      "example": [
-        {
-          "file": "pan-1a",
-          "contributor": "",
-          "display": "パン",
-          "source": "simple_sword_saint"
-        },
-        {
-          "file": "pan-1b",
-          "contributor": "",
-          "display": "パァンッ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "pan-1d",
-          "contributor": "",
-          "display": "パン",
-          "source": "reincarnated_farm_girl"
-        }
-      ]
-    },
-    {
-      "equivalent": [
-        "biff",
-        "bonk",
-        "clap",
-        "clip",
-        "pat",
-        "rap",
-        "scuff",
-        "slap",
-        "stroke",
-        "swat",
-        "swipe",
+        "strike",
         "thump"
       ],
-      "refer": "",
-      "meaning": "the sound or a light or soft strike",
-      "type": "",
       "example": [
         {
-          "file": "pan-2a",
-          "contributor": "",
-          "display": "ぱんっ",
-          "source": "different_world_smartphone"
+          "source": "simple_sword_saint",
+          "file": "pan-1a",
+          "display": "パン",
+          "contributor": ""
         },
         {
-          "file": "pan-2b",
-          "contributor": "",
-          "display": "パンッ",
-          "source": "ai_and_izawa"
+          "source": "world_full_of_monsters",
+          "file": "pan-1b",
+          "display": "パァンッ",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "pan-1d",
+          "display": "パン",
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "pan-2a",
+          "display": "ぱんっ",
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "pan"
+  ]
 }

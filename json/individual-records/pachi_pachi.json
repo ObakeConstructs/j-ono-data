@@ -1,60 +1,64 @@
 {
-  "hiragana": ["ぱちぱち"],
-  "katakana": ["パチパチ"],
+  "literal": "pachi pachi",
+  "katakana": [
+    "パチパチ"
+  ],
+  "hiragana": [
+    "ぱちぱち"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "crackle crackle",
-        "pop pop",
-        "snap snap"
-      ],
       "refer": "",
-      "meaning": "the continuous sound of crackling, as from a fire",
-      "type": "",
+      "type": "o",
+      "meaning": "continuous popping or crackling, as from a fire",
+      "equivalent": [
+        "crackle",
+        "pop",
+        "snap"
+      ],
       "example": [
         {
+          "source": "hello_work",
           "file": "pachi_pachi-1a",
-          "contributor": "",
           "display": "パチ  パチ",
-          "source": "hello_work"
+          "contributor": ""
         },
         {
+          "source": "isekai_pickup",
           "file": "pachi_pachi-1b",
-          "contributor": "",
           "display": "パチ  パチ",
-          "source": "isekai_pickup"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "applause",
       "equivalent": [
         "applause",
-        "clap clap"
+        "clapping"
       ],
-      "refer": "",
-      "meaning": "the sound of applause or clapping",
-      "type": "",
       "example": [
         {
+          "source": "reincarnated_aristocrat",
           "file": "pachi_pachi-2a",
-          "contributor": "",
           "display": "パチ  パチ",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "pachi_pachi-2b",
-          "contributor": "",
           "display": "パチ  パチ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "cheat_pharmacist",
           "file": "pachi_pachi-2c",
-          "contributor": "",
           "display": "パチ  パチ  パチ",
-          "source": "cheat_pharmacist"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "pachi pachi"
+  ]
 }

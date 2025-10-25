@@ -1,28 +1,33 @@
 {
-  "hiragana": [
-    "ぱから",
-    "ぱからっ"
-  ],
+  "literal": "pakara",
   "katakana": [
     "パカラ",
     "パカラッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "trot",
-      "run",
-      "charge",
-      "gallop"
-    ],
-    "refer": "",
-    "meaning": "the sound of a horse running or charging",
-    "type": "",
-    "example": [{
-      "file": "pakara-1a",
-      "contributor": "",
-      "display": "パカラッ",
-      "source": "shogun_gold_in_america"
-    }]
-  }],
-  "literal": "pakara"
+  "hiragana": [
+    "ぱから",
+    "ぱからっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "the clopping of a horse hooves, often at a trot or gallop",
+      "equivalent": [
+        "charge",
+        "clip-clop",
+        "clop-clop",
+        "gallop",
+        "trot"
+      ],
+      "example": [
+        {
+          "source": "shogun_gold_in_america",
+          "file": "pakara-1a",
+          "display": "パカラッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

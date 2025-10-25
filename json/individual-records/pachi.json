@@ -1,83 +1,85 @@
 {
-  "hiragana": [
-    "ぱち",
-    "ぱちっ"
-  ],
+  "literal": "pachi",
   "katakana": [
     "パチ",
     "パチッ"
   ],
+  "hiragana": [
+    "ぱち",
+    "ぱちっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "quick popping, clicking or snapping",
       "equivalent": [
         "clack",
         "click",
         "clink",
+        "ka-chik",
+        "pop",
         "snap",
         "tap",
         "tick"
       ],
-      "refer": "",
-      "meaning": "the sound of a short sharp click",
-      "type": "",
       "example": [
         {
+          "source": "hikaro_no_go",
           "file": "pachi-1a",
-          "contributor": "",
           "display": "ぱちっ",
-          "source": "hikaro_no_go"
+          "contributor": ""
         },
         {
+          "source": "hikaro_no_go",
           "file": "pachi-1b",
-          "contributor": "",
           "display": "パチッ",
-          "source": "hikaro_no_go"
+          "contributor": ""
         },
         {
+          "source": "strongest_thread_master",
           "file": "pachi-1c",
-          "contributor": "",
           "display": "パチッ",
-          "source": "strongest_thread_master"
+          "contributor": ""
         },
         {
+          "source": "uncle_at_heart",
           "file": "pachi-1d",
-          "contributor": "",
           "display": "パチ",
-          "source": "uncle_at_heart"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "opening one or both eyes, typically expressing surprise or wakefulness",
       "equivalent": [
         "blink",
         "open",
         "snap",
         "squint"
       ],
-      "refer": "",
-      "meaning": "the opening one or both eyes, typically expressing wakefulness after being asleep",
-      "type": "",
       "example": [
         {
+          "source": "weakest_occupation_blacksmith",
           "file": "pachi-2a",
-          "contributor": "",
           "display": "パチ",
-          "source": "weakest_occupation_blacksmith"
+          "contributor": ""
         },
         {
+          "source": "abandoned_reincarnation_sage",
           "file": "pachi-2b",
-          "contributor": "",
           "display": "ぱちっ",
-          "source": "abandoned_reincarnation_sage"
+          "contributor": ""
         },
         {
+          "source": "uncle_at_heart",
           "file": "pachi-2c",
-          "contributor": "",
           "display": "ぱち",
-          "source": "uncle_at_heart"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "pachi"
+  ]
 }

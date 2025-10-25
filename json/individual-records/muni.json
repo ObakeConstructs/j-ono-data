@@ -2,10 +2,12 @@
   "literal": "muni",
   "katakana": [
     "ムニ",
+    "ムニッ",
     "ムニー"
   ],
   "hiragana": [
     "むに",
+    "むにっ",
     "むにー"
   ],
   "definition": [
@@ -29,6 +31,12 @@
           "source": "isekai_territory_reform",
           "file": "muni-1a",
           "display": "むにー",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_territory_reform",
+          "file": "muta-1a",
+          "display": "むにっ",
           "contributor": ""
         }
       ]

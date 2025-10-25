@@ -1,39 +1,35 @@
 {
-  "hiragana": [
-    "ぱちん",
-    "ぱちんっ"
-  ],
+  "literal": "pachin",
   "katakana": [
     "パチン",
     "パチンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "clack",
-      "click",
-      "clink",
-      "ker-chik",
-      "snap",
-      "tap",
-      "tick"
-    ],
-    "refer": "",
-    "meaning": "the generic sound of a click or snap",
-    "type": "",
-    "example": [
-      {
-        "file": "pachin-1a",
-        "contributor": "",
-        "display": "ぱちん",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "pachin-1b",
-        "contributor": "",
-        "display": "パチン",
-        "source": "otherworld_material_collector"
-      }
-    ]
-  }],
-  "literal": "pachin"
+  "hiragana": [
+    "ぱちん",
+    "ぱちんっ"
+  ],
+  "definition": [
+    {
+      "refer": "pachi:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "pachin-1a",
+          "display": "ぱちん",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "pachin-1b",
+          "display": "パチン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

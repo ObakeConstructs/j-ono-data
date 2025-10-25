@@ -1,13 +1,5 @@
 {
-  "hiragana": [
-    "ぱ",
-    "ぱっ",
-    "ぱあ",
-    "ぱあっ",
-    "ぱぁ",
-    "ぱぁっ",
-    "ぱああ"
-  ],
+  "literal": "pa",
   "katakana": [
     "パ",
     "パッ",
@@ -17,41 +9,55 @@
     "パァッ",
     "パアア"
   ],
+  "hiragana": [
+    "ぱ",
+    "ぱっ",
+    "ぱあ",
+    "ぱあっ",
+    "ぱぁ",
+    "ぱぁっ",
+    "ぱああ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "suddenly shining or glowing",
       "equivalent": [
         "bright",
         "brighten",
+        "flash",
         "glow",
         "light",
         "light up",
-        "shine"
+        "shine",
+        "sparkle"
       ],
-      "refer": "",
-      "meaning": "to brighten or shine suddenly",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "pa-1a",
-          "contributor": "",
           "display": "パアア",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "d_genesis",
           "file": "pa-1b",
-          "contributor": "",
           "display": "パァッ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "buy_the_land",
           "file": "pa-1c",
-          "contributor": "",
           "display": "パァァ  ァァ",
-          "source": "buy_the_land"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "suddenly expressing happiness or excitement",
       "equivalent": [
         "brighten",
         "cheer up",
@@ -63,16 +69,14 @@
         "perk up",
         "shine"
       ],
-      "refer": "",
-      "meaning": "to become glad, happy, or excited",
-      "type": "",
-      "example": [{
-        "file": "pa-2a",
-        "contributor": "",
-        "display": "パアア",
-        "source": "reincarnated_farm_girl"
-      }]
+      "example": [
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "pa-2a",
+          "display": "パアア",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "pa"
+  ]
 }
