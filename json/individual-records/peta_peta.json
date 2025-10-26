@@ -1,41 +1,51 @@
 {
-  "hiragana": ["ぺたぺた"],
-  "katakana": ["ペタペタ"],
+  "literal": "peta peta",
+  "katakana": [
+    "ペタペタ"
+  ],
+  "hiragana": [
+    "ぺたぺた"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "bap bap",
-        "pat pat",
-        "poke poke",
-        "press press"
-      ],
       "refer": "",
-      "meaning": "to press repeatedly",
-      "type": "",
-      "example": [{
-        "file": "peta_peta-1a",
-        "contributor": "",
-        "display": "ぺた  ぺた",
-        "source": "reincarnated_aristocrat"
-      }]
+      "type": "m",
+      "meaning": "repeatedly press or pat",
+      "equivalent": [
+        "bap",
+        "pat",
+        "poke",
+        "press",
+        "squeeze"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "peta_peta-1a",
+          "display": "ぺた  ぺた",
+          "contributor": ""
+        }
+      ]
     },
     {
-      "equivalent": [
-        "scamper",
-        "step step",
-        "tap tap",
-        "pitter-pat"
-      ],
       "refer": "",
-      "meaning": "the indication or sound of walking softly",
-      "type": "",
-      "example": [{
-        "file": "peta_peta-2a",
-        "contributor": "",
-        "display": "ペタペタ",
-        "source": "rock_n_roll_ladies"
-      }]
+      "type": "m",
+      "meaning": "bare or soft feet lightly contacting the floor",
+      "equivalent": [
+        "pit-a-pat",
+        "pitter-patter",
+        "scamper",
+        "step",
+        "tap"
+      ],
+      "example": [
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "peta_peta-2a",
+          "display": "ペタペタ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "peta peta"
+  ]
 }

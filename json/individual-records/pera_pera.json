@@ -1,51 +1,62 @@
 {
-  "hiragana": ["ぺらぺら"],
-  "katakana": ["ペラペラ"],
+  "literal": "pera pera",
+  "katakana": [
+    "ペラペラ"
+  ],
+  "hiragana": [
+    "ぺらぺら"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "e",
+      "meaning": "speaking in a fluent and polished manner",
       "equivalent": [
         "articulate",
         "eloquent",
-        "glib glib",
-        "talk talk",
-        "verbose"
+        "expressive",
+        "fluent",
+        "garrulous",
+        "glib",
+        "loquacious",
+        "talk",
+        "verbose",
+        "well-spoken"
       ],
-      "refer": "",
-      "meaning": "to speak in a fluent and polished manner",
-      "type": "",
       "example": [
         {
+          "source": "weakest_occupation_blacksmith",
           "file": "pera_pera-1a",
-          "contributor": "",
           "display": "ペラ  ペラ  ペラ",
-          "source": "weakest_occupation_blacksmith"
+          "contributor": ""
         },
         {
+          "source": "yojo_life",
           "file": "pera_pera-1b",
-          "contributor": "",
           "display": "ペラ  ペラ  ペラ",
-          "source": "yojo_life"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "pata pata:1",
+      "type": "s",
+      "meaning": "thin or soft material flapping",
       "equivalent": [
-        "flap flap",
-        "flick flick",
-        "flit flit",
-        "swish swish",
-        "wave wave"
+        "flap",
+        "flick",
+        "flit",
+        "swish",
+        "wave"
       ],
-      "refer": "",
-      "meaning": "a series of flapping noises",
-      "type": "",
-      "example": [{
-        "file": "pera_pera-2a",
-        "contributor": "",
-        "display": "ペラ  ペラ  ペラ",
-        "source": "berserk"
-      }]
+      "example": [
+        {
+          "source": "berserk",
+          "file": "pera_pera-2a",
+          "display": "ペラ  ペラ  ペラ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "pera pera"
+  ]
 }

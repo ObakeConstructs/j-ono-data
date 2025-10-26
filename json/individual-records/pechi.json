@@ -1,28 +1,37 @@
 {
-  "hiragana": [
-    "ぺち",
-    "ぺちっ"
-  ],
+  "literal": "pechi",
   "katakana": [
     "ぺチ",
     "ぺチッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "slap",
-      "smack",
-      "thwack",
-      "whack"
-    ],
-    "refer": "",
-    "meaning": "the sound of a slap",
-    "type": "",
-    "example": [{
-      "file": "pechi-1a",
-      "contributor": "",
-      "display": "ぺちっ",
-      "source": "eternal_fool_asley"
-    }]
-  }],
-  "literal": "pechi"
+  "hiragana": [
+    "ぺち",
+    "ぺちっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a light slap or tap sound, usually wet or fleshy",
+      "equivalent": [
+        "pat",
+        "slap",
+        "smack",
+        "spank",
+        "swat",
+        "tap",
+        "thwack",
+        "whack",
+        "whap"
+      ],
+      "example": [
+        {
+          "source": "eternal_fool_asley",
+          "file": "pechi-1a",
+          "display": "ぺちっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -16957,8 +16957,8 @@
         "sploosh"
       ],
       "refer": "",
-      "meaning": "the sound spitting or ejecting something from the mouth",
-      "type": "",
+      "meaning": "quick spitting sound, often expressing disgust",
+      "type": "v",
       "example": [{
         "file": "pe-1a",
         "contributor": "",
@@ -16979,14 +16979,19 @@
     ],
     "definition": [{
       "equivalent": [
+        "pat",
         "slap",
         "smack",
+        "spank",
+        "swat",
+        "tap",
         "thwack",
-        "whack"
+        "whack",
+        "whap"
       ],
       "refer": "",
-      "meaning": "the sound of a slap",
-      "type": "",
+      "meaning": "a light slap or tap sound, usually wet or fleshy",
+      "type": "o",
       "example": [{
         "file": "pechi-1a",
         "contributor": "",
@@ -17007,12 +17012,15 @@
     ],
     "definition": [{
       "equivalent": [
+        "bob",
         "bow",
-        "curtsy"
+        "bowing",
+        "curtsy",
+        "obeisance"
       ],
       "refer": "",
-      "meaning": "bowing the head or body in respect or politeness",
-      "type": "",
+      "meaning": "a quick, polite bowing motion",
+      "type": "m",
       "example": [
         {
           "file": "peko-1a",
@@ -17049,17 +17057,18 @@
       "equivalent": [
         "abase",
         "bootlick",
-        "bow bow",
-        "fawn fawn",
-        "grovel grovel",
-        "humble humble",
-        "kneel kneel",
+        "bow",
+        "fawn",
+        "grovel",
+        "humble",
+        "kneel",
+        "obeisance",
         "suck up",
-        "truckle truckle"
+        "truckle"
       ],
-      "refer": "",
-      "meaning": "to bow, grovel or otherwise ingratiate  oneself with a superior",
-      "type": "",
+      "refer": "peko:1",
+      "meaning": "continuous bowing or groveling",
+      "type": "m",
       "example": [
         {
           "file": "peko_peko-1a",
@@ -17087,18 +17096,9 @@
       "ペラッ"
     ],
     "definition": [{
-      "equivalent": [
-        "flip",
-        "riffle",
-        "thumb",
-        "skim",
-        "turn",
-        "flap",
-        "rustle",
-        "crinkle"
-      ],
-      "refer": "",
-      "meaning": "sound of turning pages or moving paper",
+      "equivalent": [""],
+      "refer": "para:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -17125,13 +17125,18 @@
         "equivalent": [
           "articulate",
           "eloquent",
-          "glib glib",
-          "talk talk",
-          "verbose"
+          "expressive",
+          "fluent",
+          "garrulous",
+          "glib",
+          "loquacious",
+          "talk",
+          "verbose",
+          "well-spoken"
         ],
         "refer": "",
-        "meaning": "to speak in a fluent and polished manner",
-        "type": "",
+        "meaning": "speaking in a fluent and polished manner",
+        "type": "e",
         "example": [
           {
             "file": "pera_pera-1a",
@@ -17149,15 +17154,15 @@
       },
       {
         "equivalent": [
-          "flap flap",
-          "flick flick",
-          "flit flit",
-          "swish swish",
-          "wave wave"
+          "flap",
+          "flick",
+          "flit",
+          "swish",
+          "wave"
         ],
-        "refer": "",
-        "meaning": "a series of flapping noises",
-        "type": "",
+        "refer": "pata pata:1",
+        "meaning": "thin or soft material flapping",
+        "type": "s",
         "example": [{
           "file": "pera_pera-2a",
           "contributor": "",
@@ -17185,15 +17190,9 @@
         "taste"
       ],
       "refer": "",
-      "meaning": "the sound of a tongue licking something",
-      "type": "",
+      "meaning": "light, quick licking, often cute or playful",
+      "type": "m",
       "example": [
-        {
-          "file": "pero-1a",
-          "contributor": "",
-          "display": "ぺろ",
-          "source": "world_full_of_monsters"
-        },
         {
           "file": "pero-1b",
           "contributor": "",
@@ -17205,6 +17204,12 @@
           "contributor": "",
           "display": "ぺろ",
           "source": "beastly_boys_and_girls"
+        },
+        {
+          "file": "pero-1a",
+          "contributor": "",
+          "display": "ぺろ",
+          "source": "world_full_of_monsters"
         }
       ]
     }],
@@ -17215,13 +17220,9 @@
     "katakana": ["ペロン"],
     "definition": [
       {
-        "equivalent": [
-          "lap",
-          "lick",
-          "slurp"
-        ],
-        "refer": "",
-        "meaning": "the sound of a tongue licking something",
+        "equivalent": [""],
+        "refer": "pero:1",
+        "meaning": "",
         "type": "",
         "example": [
           {
@@ -17240,15 +17241,15 @@
       },
       {
         "equivalent": [
-          "hang",
-          "sway",
           "dangle",
+          "drape",
+          "hang",
           "suspend",
-          "drape"
+          "sway"
         ],
         "refer": "",
-        "meaning": "an indication of lightly hanging or dangling",
-        "type": "",
+        "meaning": "lightly hanging or dangling",
+        "type": "m",
         "example": [{
           "file": "peron-2a",
           "contributor": "",
@@ -17263,13 +17264,9 @@
     "hiragana": ["ぺろぺろ"],
     "katakana": ["ペロペロ"],
     "definition": [{
-      "equivalent": [
-        "lap lap",
-        "lick lick",
-        "slurp slurp"
-      ],
-      "refer": "",
-      "meaning": "the sound of a tongue licking something",
+      "equivalent": [""],
+      "refer": "pero:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -17302,11 +17299,12 @@
         "bonk",
         "slap",
         "smack",
+        "swat",
         "whap"
       ],
       "refer": "",
-      "meaning": "a harmless but loud impact, as with a slap",
-      "type": "",
+      "meaning": "sharp but harmless slapping or smacking",
+      "type": "o",
       "example": [{
         "file": "peshi-1a",
         "contributor": "",
@@ -17320,14 +17318,9 @@
     "hiragana": ["ぺしぺし"],
     "katakana": ["ペシペシ"],
     "definition": [{
-      "equivalent": [
-        "bonk bonk",
-        "slap slap",
-        "smack smack",
-        "whap whap"
-      ],
-      "refer": "",
-      "meaning": "a series of harmless impacts, as from slapping",
+      "equivalent": [""],
+      "refer": "peshi:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -17365,12 +17358,13 @@
         "plop",
         "plunk",
         "sink",
+        "sit",
         "slump",
         "wilt"
       ],
       "refer": "",
-      "meaning": "to sit or drop clumsily or lazily",
-      "type": "",
+      "meaning": "to sit, drop or collapse, often weakly or clumsily",
+      "type": "m",
       "example": [{
         "file": "petan-1a",
         "contributor": "",
@@ -17386,14 +17380,15 @@
     "definition": [
       {
         "equivalent": [
-          "bap bap",
-          "pat pat",
-          "poke poke",
-          "press press"
+          "bap",
+          "pat",
+          "poke",
+          "press",
+          "squeeze"
         ],
         "refer": "",
-        "meaning": "to press repeatedly",
-        "type": "",
+        "meaning": "repeatedly press or pat",
+        "type": "m",
         "example": [{
           "file": "peta_peta-1a",
           "contributor": "",
@@ -17403,14 +17398,15 @@
       },
       {
         "equivalent": [
+          "pit-a-pat",
+          "pitter-patter",
           "scamper",
-          "step step",
-          "tap tap",
-          "pitter-pat"
+          "step",
+          "tap"
         ],
         "refer": "",
-        "meaning": "the indication or sound of walking softly",
-        "type": "",
+        "meaning": "bare or soft feet lightly contacting the floor",
+        "type": "m",
         "example": [{
           "file": "peta_peta-2a",
           "contributor": "",

@@ -1,46 +1,51 @@
 {
-  "hiragana": [
-    "ぺこ",
-    "ぺこっ"
-  ],
+  "literal": "peko",
   "katakana": [
     "ペコ",
     "ペコッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bow",
-      "curtsy"
-    ],
-    "refer": "",
-    "meaning": "bowing the head or body in respect or politeness",
-    "type": "",
-    "example": [
-      {
-        "file": "peko-1a",
-        "contributor": "",
-        "display": "ぺこ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "peko-1b",
-        "contributor": "",
-        "display": "ぺこっ",
-        "source": "dog_became_strongest"
-      },
-      {
-        "file": "peko-1c",
-        "contributor": "",
-        "display": "ペコ",
-        "source": "rock_n_roll_ladies"
-      },
-      {
-        "file": "peko-1d",
-        "contributor": "",
-        "display": "ペコッ",
-        "source": "yojo_life"
-      }
-    ]
-  }],
-  "literal": "peko"
+  "hiragana": [
+    "ぺこ",
+    "ぺこっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a quick, polite bowing motion",
+      "equivalent": [
+        "bob",
+        "bow",
+        "bowing",
+        "curtsy",
+        "obeisance"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "peko-1a",
+          "display": "ぺこ",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "peko-1b",
+          "display": "ぺこっ",
+          "contributor": ""
+        },
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "peko-1c",
+          "display": "ペコ",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "peko-1d",
+          "display": "ペコッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
