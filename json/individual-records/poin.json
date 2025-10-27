@@ -1,31 +1,37 @@
 {
-  "hiragana": [
-    "ぽぃん",
-    "ぽぃんっ"
-  ],
+  "literal": "poin",
   "katakana": [
     "ポィン",
     "ポィンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "boing",
-      "bounce",
-      "bump",
-      "hop",
-      "jump",
-      "rebound",
-      "ricochet"
-    ],
-    "refer": "",
-    "meaning": "an indication or sound of popping or bouncing",
-    "type": "",
-    "example": [{
-      "file": "poin-1a",
-      "contributor": "",
-      "display": "ぽぃん.",
-      "source": "buy_the_land"
-    }]
-  }],
-  "literal": "poin"
+  "hiragana": [
+    "ぽぃん",
+    "ぽぃんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a soft, bouncy, or springy motion",
+      "equivalent": [
+        "bob",
+        "boing",
+        "bounce",
+        "bump",
+        "floop",
+        "hop",
+        "pop",
+        "rebound",
+        "supple"
+      ],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "poin-1a",
+          "display": "ぽぃん.",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

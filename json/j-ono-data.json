@@ -17865,7 +17865,7 @@
         "source": "neet_kunoichi"
       }]
     }],
-    "literal": "pikon pikon"
+    "literal": "piko piko"
   },
   {
     "hiragana": [
@@ -18337,7 +18337,7 @@
           "zip"
         ],
         "refer": "",
-        "meaning": "a rapid, precise snapping to position",
+        "meaning": "a rapid and precise snapping to position",
         "type": "m",
         "example": [
           {
@@ -18486,8 +18486,8 @@
           "light"
         ],
         "refer": "",
-        "meaning": "an indication that something is emitting light",
-        "type": "",
+        "meaning": "a faint or warm glow",
+        "type": "s",
         "example": [{
           "file": "po-1a",
           "contributor": "",
@@ -18506,8 +18506,8 @@
           "stare"
         ],
         "refer": "",
-        "meaning": "riveted in wonder or surprise, typical in love-at-first-sight scenarios",
-        "type": "",
+        "meaning": "momentarily dazed by strong emotion",
+        "type": "e",
         "example": [{
           "file": "po-2a",
           "contributor": "",
@@ -18520,11 +18520,14 @@
           "drip",
           "drop",
           "plink",
-          "plunk"
+          "plop",
+          "plunk",
+          "splash",
+          "ripple"
         ],
         "refer": "",
-        "meaning": "the sound of a drop landing",
-        "type": "",
+        "meaning": "the sound of a small, soft drop or splash",
+        "type": "o",
         "example": [{
           "file": "po-3a",
           "contributor": "",
@@ -18539,17 +18542,9 @@
     "hiragana": ["ぽちゃん"],
     "katakana": ["ポチャン"],
     "definition": [{
-      "equivalent": [
-        "dribble",
-        "drip",
-        "plop",
-        "ripple",
-        "splash",
-        "swirl",
-        "trickle"
-      ],
-      "refer": "",
-      "meaning": "a dripping sound or small splashing sound",
+      "equivalent": [""],
+      "refer": "po:3",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "pochan-1a",
@@ -18583,8 +18578,8 @@
         "unload"
       ],
       "refer": "",
-      "meaning": "to toss something, often as trash or unwanted",
-      "type": "",
+      "meaning": "a light, casual toss, often dismissive or indifferent",
+      "type": "m",
       "example": [
         {
           "file": "poi-1a",
@@ -18625,17 +18620,19 @@
     ],
     "definition": [{
       "equivalent": [
+        "bob",
         "boing",
         "bounce",
         "bump",
+        "floop",
         "hop",
-        "jump",
+        "pop",
         "rebound",
-        "ricochet"
+        "supple"
       ],
       "refer": "",
-      "meaning": "an indication or sound of popping or bouncing",
-      "type": "",
+      "meaning": "a soft, bouncy, or springy motion",
+      "type": "m",
       "example": [{
         "file": "poin-1a",
         "contributor": "",
@@ -18649,20 +18646,14 @@
     "hiragana": ["ぽぃんぽぃん"],
     "katakana": ["ポィンポィン"],
     "definition": [{
-      "equivalent": [
-        "boing",
-        "bounce",
-        "bump",
-        "hop",
-        "bob"
-      ],
-      "refer": "",
-      "meaning": "the indication or sound of bounces",
+      "equivalent": [""],
+      "refer": "poin:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "poin_poin-1a",
         "contributor": "",
-        "display": "ポィン  ポィーン",
+        "display": "ポィン    ポィーン",
         "source": "gyaru_academy"
       }]
     }],
@@ -18723,18 +18714,19 @@
     ],
     "definition": [{
       "equivalent": [
-        "shocked",
-        "surprised",
-        "wonder",
-        "astonished",
+        " dumfounded",
         "amazed",
+        "astonished",
         "flabbergasted",
+        "shocked",
+        "speechless",
         "stunned",
-        " dumfounded"
+        "surprised",
+        "wonder"
       ],
       "refer": "",
-      "meaning": "expressing shock, surprise, or wonder",
-      "type": "",
+      "meaning": "stunned with surprise or astonishment, usually with an open mouth",
+      "type": "e",
       "example": [{
         "file": "pokan-1a",
         "contributor": "",
@@ -18749,14 +18741,17 @@
     "katakana": ["ポコポコ"],
     "definition": [{
       "equivalent": [
-        "boil boil",
-        "blub blub",
-        "bop bop",
-        "bubble bubble"
+        "blub-blub",
+        "boil",
+        "boop-boop",
+        "bubble",
+        "pop-pop",
+        "roil",
+        "simmer"
       ],
       "refer": "",
-      "meaning": "the sound of bubbles popping, or the motion of bubbles rising",
-      "type": "",
+      "meaning": "small popping or bubbling sounds",
+      "type": "o",
       "example": [{
         "file": "poko_poko-1a",
         "contributor": "",
@@ -18778,12 +18773,19 @@
     "definition": [
       {
         "equivalent": [
+          "appear",
+          "disappear",
+          "fade",
+          "materialize",
           "poof",
-          "puff"
+          "pop",
+          "puff",
+          "transform",
+          "vanish"
         ],
         "refer": "",
-        "meaning": "the sound of something magically appearing or disappearing, often with little clouds of smoke",
-        "type": "",
+        "meaning": "magically appearing, disappearing, or transforming",
+        "type": "m",
         "example": [
           {
             "file": "pon-1a",
@@ -18811,8 +18813,8 @@
           "thump"
         ],
         "refer": "",
-        "meaning": "the sound of a soft strike or blow not intended to harm",
-        "type": "",
+        "meaning": "a soft, harmless strike or blow",
+        "type": "o",
         "example": [
           {
             "file": "pon-2a",
@@ -18849,8 +18851,8 @@
           "toss"
         ],
         "refer": "",
-        "meaning": "to give something to someone else",
-        "type": "",
+        "meaning": "casually pass or give something to someone else",
+        "type": "m",
         "example": [{
           "file": "pon-3a",
           "contributor": "",
@@ -18872,13 +18874,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "pat pat",
-        "pet pet",
-        "stroke stroke"
+        "caress",
+        "pat",
+        "pet",
+        "stroke"
       ],
       "refer": "",
-      "meaning": "a series of pats or strokes in a gentle manner",
-      "type": "",
+      "meaning": "kind or sooothing pats or strokes",
+      "type": "m",
       "example": [
         {
           "file": "pon_pon-1a",
@@ -18923,7 +18926,7 @@
       ],
       "refer": "",
       "meaning": "the long, loud sound of a train whistle or air horn",
-      "type": "",
+      "type": "o",
       "example": [{
         "file": "poo-1a",
         "contributor": "",
@@ -18938,14 +18941,14 @@
     "katakana": ["ポリポリ"],
     "definition": [{
       "equivalent": [
-        "scratch scratch",
-        "scritch scritch",
-        "scrape scrape",
-        "scuff scuff"
+        "scrape",
+        "scratch",
+        "scritch",
+        "scuff"
       ],
       "refer": "",
-      "meaning": "a series of scratching or scraping noises",
-      "type": "",
+      "meaning": "scratching or scraping sounds",
+      "type": "o",
       "example": [{
         "file": "pori_pori-1a",
         "contributor": "",
@@ -18958,55 +18961,65 @@
   {
     "hiragana": ["ぽろ"],
     "katakana": ["ポロ"],
-    "definition": [{
-      "equivalent": [
-        "drop",
-        "fall",
-        "plop",
-        "plunk",
-        "slip",
-        "topple",
-        "drip"
-      ],
-      "refer": "",
-      "meaning": "an indication of something dropping or falling",
-      "type": "",
-      "example": [
-        {
-          "file": "poro-1a",
-          "contributor": "",
-          "display": "ポロ",
-          "source": "komi_cant_communicate"
-        },
-        {
-          "file": "poro-1b",
-          "contributor": "",
-          "display": "ポロ...",
-          "source": "uncle_at_heart"
-        },
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "drop",
+          "fall",
+          "plop",
+          "plunk",
+          "slip",
+          "topple"
+        ],
+        "refer": "",
+        "meaning": "something dropping or falling, typically small or light",
+        "type": "m",
+        "example": [
+          {
+            "file": "poro-1a",
+            "contributor": "",
+            "display": "ポロ",
+            "source": "komi_cant_communicate"
+          },
+          {
+            "file": "poro-1b",
+            "contributor": "",
+            "display": "ポロ...",
+            "source": "uncle_at_heart"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "bawl",
+          "blub",
+          "cry",
+          "dribble",
+          "drip",
+          "drop",
+          "tears",
+          "weep"
+        ],
+        "refer": "",
+        "meaning": "shedding tears from strong emotions",
+        "type": "e",
+        "example": [{
           "file": "poro-1c",
           "contributor": "",
           "display": "ポロ",
           "source": "requiem_for_prophet"
-        }
-      ]
-    }],
+        }]
+      }
+    ],
     "literal": "poro"
   },
   {
     "hiragana": ["ぽろぽろ"],
     "katakana": ["ポロポロ"],
     "definition": [{
-      "equivalent": [
-        "blub",
-        "cry",
-        "sob",
-        "tears",
-        "weep"
-      ],
-      "refer": "",
-      "meaning": "shedding tears as an expression of pain or distress",
+      "equivalent": [""],
+      "refer": "poro:2",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -19041,13 +19054,9 @@
       "ポトッ"
     ],
     "definition": [{
-      "equivalent": [
-        "drop",
-        "lower",
-        "release"
-      ],
-      "refer": "",
-      "meaning": "to cause or allow something to fall",
+      "equivalent": [""],
+      "refer": "poro:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "poto-1a",
@@ -19064,13 +19073,14 @@
     "definition": [{
       "equivalent": [
         "alone",
+        "apart",
         "isolated",
         "lonely",
         "secluded"
       ],
       "refer": "",
-      "meaning": "an expression of isolation or loneliness",
-      "type": "",
+      "meaning": "isolated, alone or apart from others",
+      "type": "s",
       "example": [{
         "file": "potsun-1a",
         "contributor": "",
@@ -19098,8 +19108,8 @@
         "shine"
       ],
       "refer": "",
-      "meaning": "a bright glowing appearance, often from some sort of magical effect",
-      "type": "",
+      "meaning": "a soft, faint or ethereal glow",
+      "type": "s",
       "example": [
         {
           "file": "pou-1a",
@@ -19127,15 +19137,9 @@
       "ポゥポゥ"
     ],
     "definition": [{
-      "equivalent": [
-        "gleam",
-        "glow",
-        "light",
-        "radiance",
-        "shine"
-      ],
-      "refer": "",
-      "meaning": "a bright glowing appearance, frequently from some sort of magical effect",
+      "equivalent": [""],
+      "refer": "pou:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "pou_pou-1a",
@@ -19147,17 +19151,24 @@
     "literal": "pou pou"
   },
   {
-    "hiragana": ["ぽゆゆん"],
-    "katakana": ["ポユユン"],
+    "hiragana": [
+      "ぽゆん",
+      "ぽゆゆん"
+    ],
+    "katakana": [
+      "ポユン",
+      "ポユユン"
+    ],
     "definition": [{
       "equivalent": [
         "boing",
+        "bounce",
         "jiggle",
         "wobble"
       ],
       "refer": "",
-      "meaning": "a series of small irregular movements",
-      "type": "",
+      "meaning": "small irregular bounces or jiggles",
+      "type": "m",
       "example": [{
         "file": "poyuyun-1a",
         "contributor": "",
@@ -19165,7 +19176,7 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "poyuyun"
+    "literal": "poyun"
   },
   {
     "hiragana": [

@@ -1,54 +1,56 @@
 {
-  "hiragana": [
-    "ぽい",
-    "ぽいっ",
-    "ぽぃ",
-    "ぽぃっ"
-  ],
+  "literal": "poi",
   "katakana": [
     "ポイ",
     "ポイッ",
     "ポィ",
     "ポィッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "chuck",
-      "discard",
-      "junk",
-      "throw away",
-      "toss",
-      "unload"
-    ],
-    "refer": "",
-    "meaning": "to toss something, often as trash or unwanted",
-    "type": "",
-    "example": [
-      {
-        "file": "poi-1a",
-        "contributor": "",
-        "display": "ぽい",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "poi-1b",
-        "contributor": "",
-        "display": "ポィ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "poi-1c",
-        "contributor": "",
-        "display": "ポィッ",
-        "source": "spy_x_family"
-      },
-      {
-        "file": "poi-1d",
-        "contributor": "",
-        "display": "ポィ",
-        "source": "gyaru_academy"
-      }
-    ]
-  }],
-  "literal": "poi"
+  "hiragana": [
+    "ぽい",
+    "ぽいっ",
+    "ぽぃ",
+    "ぽぃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a light, casual toss, often dismissive or indifferent",
+      "equivalent": [
+        "chuck",
+        "discard",
+        "junk",
+        "throw away",
+        "toss",
+        "unload"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "poi-1a",
+          "display": "ぽい",
+          "contributor": ""
+        },
+        {
+          "source": "different_world_smartphone",
+          "file": "poi-1b",
+          "display": "ポィ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "poi-1c",
+          "display": "ポィッ",
+          "contributor": ""
+        },
+        {
+          "source": "gyaru_academy",
+          "file": "poi-1d",
+          "display": "ポィ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

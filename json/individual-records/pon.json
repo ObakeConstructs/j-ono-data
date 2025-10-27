@@ -1,37 +1,48 @@
 {
-  "hiragana": [
-    "ぽん",
-    "ぽんっ"
-  ],
+  "literal": "pon",
   "katakana": [
     "ポン",
     "ポンッ"
   ],
+  "hiragana": [
+    "ぽん",
+    "ぽんっ"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "poof",
-        "puff"
-      ],
       "refer": "",
-      "meaning": "the sound of something magically appearing or disappearing, often with little clouds of smoke",
-      "type": "",
+      "type": "m",
+      "meaning": "magically appearing, disappearing, or transforming",
+      "equivalent": [
+        "appear",
+        "disappear",
+        "fade",
+        "materialize",
+        "poof",
+        "pop",
+        "puff",
+        "transform",
+        "vanish"
+      ],
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "pon-1a",
-          "contributor": "",
           "display": "ポンッ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "strongest_thread_master",
           "file": "pon-1b",
-          "contributor": "",
           "display": "ポン",
-          "source": "strongest_thread_master"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "a soft, harmless strike or blow",
       "equivalent": [
         "bap",
         "bop",
@@ -42,37 +53,37 @@
         "tap",
         "thump"
       ],
-      "refer": "",
-      "meaning": "the sound of a soft strike or blow not intended to harm",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "pon-2a",
-          "contributor": "",
           "display": "ぽん",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_aristocrat",
           "file": "pon-2b",
-          "contributor": "",
           "display": "ぽんっ",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "pon-2c",
-          "contributor": "",
           "display": "ポンッ",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         },
         {
+          "source": "otherworld_material_collector",
           "file": "pon-2d",
-          "contributor": "",
           "display": "ポン",
-          "source": "otherworld_material_collector"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "casually pass or give something to someone else",
       "equivalent": [
         "give",
         "hand",
@@ -80,16 +91,14 @@
         "pass",
         "toss"
       ],
-      "refer": "",
-      "meaning": "to give something to someone else",
-      "type": "",
-      "example": [{
-        "file": "pon-3a",
-        "contributor": "",
-        "display": "ポンッ",
-        "source": "reincarnated_aristocrat"
-      }]
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "pon-3a",
+          "display": "ポンッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "pon"
+  ]
 }

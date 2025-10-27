@@ -1,25 +1,27 @@
 {
-  "hiragana": ["ぽちゃん"],
-  "katakana": ["ポチャン"],
-  "definition": [{
-    "equivalent": [
-      "dribble",
-      "drip",
-      "plop",
-      "ripple",
-      "splash",
-      "swirl",
-      "trickle"
-    ],
-    "refer": "",
-    "meaning": "a dripping sound or small splashing sound",
-    "type": "",
-    "example": [{
-      "file": "pochan-1a",
-      "contributor": "",
-      "display": "ポチャン.",
-      "source": "buy_the_land"
-    }]
-  }],
-  "literal": "pochan"
+  "literal": "pochan",
+  "katakana": [
+    "ポチャン"
+  ],
+  "hiragana": [
+    "ぽちゃん"
+  ],
+  "definition": [
+    {
+      "refer": "po:3",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "pochan-1a",
+          "display": "ポチャン.",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

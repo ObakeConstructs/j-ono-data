@@ -1,22 +1,31 @@
 {
-  "hiragana": ["ぽつん"],
-  "katakana": ["ポツン"],
-  "definition": [{
-    "equivalent": [
-      "alone",
-      "isolated",
-      "lonely",
-      "secluded"
-    ],
-    "refer": "",
-    "meaning": "an expression of isolation or loneliness",
-    "type": "",
-    "example": [{
-      "file": "potsun-1a",
-      "contributor": "",
-      "display": "ポツン...",
-      "source": "uncle_at_heart"
-    }]
-  }],
-  "literal": "potsun"
+  "literal": "potsun",
+  "katakana": [
+    "ポツン"
+  ],
+  "hiragana": [
+    "ぽつん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "isolated, alone or apart from others",
+      "equivalent": [
+        "alone",
+        "apart",
+        "isolated",
+        "lonely",
+        "secluded"
+      ],
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "potsun-1a",
+          "display": "ポツン...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

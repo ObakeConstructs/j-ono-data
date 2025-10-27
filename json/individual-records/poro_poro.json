@@ -1,37 +1,39 @@
 {
-  "hiragana": ["ぽろぽろ"],
-  "katakana": ["ポロポロ"],
-  "definition": [{
-    "equivalent": [
-      "blub",
-      "cry",
-      "sob",
-      "tears",
-      "weep"
-    ],
-    "refer": "",
-    "meaning": "shedding tears as an expression of pain or distress",
-    "type": "",
-    "example": [
-      {
-        "file": "poro_poro-1a",
-        "contributor": "",
-        "display": "ポロ  ポロ",
-        "source": "reincarnated_farm_girl"
-      },
-      {
-        "file": "poro_poro-1b",
-        "contributor": "",
-        "display": "ポロ  ポロ",
-        "source": "spy_x_family"
-      },
-      {
-        "file": "poro_poro-1c",
-        "contributor": "",
-        "display": "ポロ  ポロ",
-        "source": "isekai_sniper"
-      }
-    ]
-  }],
-  "literal": "poro poro"
+  "literal": "poro poro",
+  "katakana": [
+    "ポロポロ"
+  ],
+  "hiragana": [
+    "ぽろぽろ"
+  ],
+  "definition": [
+    {
+      "refer": "poro:2",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "reincarnated_farm_girl",
+          "file": "poro_poro-1a",
+          "display": "ポロ  ポロ",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "poro_poro-1b",
+          "display": "ポロ  ポロ",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_sniper",
+          "file": "poro_poro-1c",
+          "display": "ポロ  ポロ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

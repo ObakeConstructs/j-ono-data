@@ -1,0 +1,32 @@
+{
+  "literal": "poyun",
+  "katakana": [
+    "ポユン",
+    "ポユユン"
+  ],
+  "hiragana": [
+    "ぽゆん",
+    "ぽゆゆん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "small irregular bounces or jiggles",
+      "equivalent": [
+        "boing",
+        "bounce",
+        "jiggle",
+        "wobble"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "poyuyun-1a",
+          "display": "ぽゆゆん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
+}

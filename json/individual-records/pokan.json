@@ -1,32 +1,37 @@
 {
-  "hiragana": [
-    "ぽかん",
-    "ぽかんっ"
-  ],
+  "literal": "pokan",
   "katakana": [
     "ポカン",
     "ポカンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "shocked",
-      "surprised",
-      "wonder",
-      "astonished",
-      "amazed",
-      "flabbergasted",
-      "stunned",
-      " dumfounded"
-    ],
-    "refer": "",
-    "meaning": "expressing shock, surprise, or wonder",
-    "type": "",
-    "example": [{
-      "file": "pokan-1a",
-      "contributor": "",
-      "display": "ポカン",
-      "source": "saga_lagging_hero"
-    }]
-  }],
-  "literal": "pokan"
+  "hiragana": [
+    "ぽかん",
+    "ぽかんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "stunned with surprise or astonishment, usually with an open mouth",
+      "equivalent": [
+        " dumfounded",
+        "amazed",
+        "astonished",
+        "flabbergasted",
+        "shocked",
+        "speechless",
+        "stunned",
+        "surprised",
+        "wonder"
+      ],
+      "example": [
+        {
+          "source": "saga_lagging_hero",
+          "file": "pokan-1a",
+          "display": "ポカン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

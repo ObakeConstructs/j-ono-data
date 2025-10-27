@@ -1,35 +1,41 @@
 {
-  "hiragana": [
-    "ぽ",
-    "ぽっ",
-    "ぽー",
-    "ぽーっ"
-  ],
+  "literal": "po",
   "katakana": [
     "ポ",
     "ポッ",
     "ポー",
     "ポーッ"
   ],
+  "hiragana": [
+    "ぽ",
+    "ぽっ",
+    "ぽー",
+    "ぽーっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "s",
+      "meaning": "a faint or warm glow",
       "equivalent": [
         "bright",
         "flame",
         "glow",
         "light"
       ],
-      "refer": "",
-      "meaning": "an indication that something is emitting light",
-      "type": "",
-      "example": [{
-        "file": "po-1a",
-        "contributor": "",
-        "display": "ポ...",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "po-1a",
+          "display": "ポ...",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "e",
+      "meaning": "momentarily dazed by strong emotion",
       "equivalent": [
         "fixate",
         "focused",
@@ -39,33 +45,36 @@
         "riveted",
         "stare"
       ],
-      "refer": "",
-      "meaning": "riveted in wonder or surprise, typical in love-at-first-sight scenarios",
-      "type": "",
-      "example": [{
-        "file": "po-2a",
-        "contributor": "",
-        "display": "ぽー...",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "po-2a",
+          "display": "ぽー...",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "the sound of a small, soft drop or splash",
       "equivalent": [
         "drip",
         "drop",
         "plink",
-        "plunk"
+        "plop",
+        "plunk",
+        "splash",
+        "ripple"
       ],
-      "refer": "",
-      "meaning": "the sound of a drop landing",
-      "type": "",
-      "example": [{
-        "file": "po-3a",
-        "contributor": "",
-        "display": "ポッ",
-        "source": "ai_and_izawa"
-      }]
+      "example": [
+        {
+          "source": "ai_and_izawa",
+          "file": "po-3a",
+          "display": "ポッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "po"
+  ]
 }
