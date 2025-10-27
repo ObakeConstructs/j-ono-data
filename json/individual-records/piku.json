@@ -1,14 +1,18 @@
 {
-  "hiragana": [
-    "ぴく",
-    "ぴくっ"
-  ],
+  "literal": "piku",
   "katakana": [
     "ピク",
     "ピクッ"
   ],
+  "hiragana": [
+    "ぴく",
+    "ぴくっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "a quick flinch or twitch, often from surprise or fear",
       "equivalent": [
         "cringe",
         "flinch",
@@ -17,62 +21,68 @@
         "twitch",
         "wince"
       ],
-      "refer": "",
-      "meaning": "to tense up from surprise or fear",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "piku-1a",
-          "contributor": "",
           "display": "ぴくっ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "world_full_of_monsters",
           "file": "piku-1b",
-          "contributor": "",
           "display": "ピクッ",
-          "source": "world_full_of_monsters"
+          "contributor": ""
         },
         {
+          "source": "fushi_no_kami",
           "file": "piku-1c",
-          "contributor": "",
           "display": "ピク",
-          "source": "fushi_no_kami"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "a restrained, deliberate motion",
       "equivalent": [
         "fiddle",
         "fidget",
+        "flick",
         "move",
+        "nod",
+        "tap",
+        "tick",
         "twitch"
       ],
-      "refer": "",
-      "meaning": "a small, deliberate movement",
-      "type": "",
-      "example": [{
-        "file": "piku-2a",
-        "contributor": "",
-        "display": "ピク",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "piku-2a",
+          "display": "ピク",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "a tired blink or squint",
       "equivalent": [
         "blink",
+        "flick",
+        "flutter",
         "squint"
       ],
-      "refer": "",
-      "meaning": "to rapidly open and close one's eyes, as from slumber",
-      "type": "",
-      "example": [{
-        "file": "piku-3a",
-        "contributor": "",
-        "display": "ぴく",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "piku-3a",
+          "display": "ぴく",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "piku"
+  ]
 }

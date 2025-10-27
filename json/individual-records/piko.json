@@ -1,29 +1,33 @@
 {
-  "hiragana": [
-    "ぴこ",
-    "ぴこっ"
-  ],
+  "literal": "piko",
   "katakana": [
     "ピコ",
     "ピコッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "flinch",
-      "quiver",
-      "shake",
-      "twitch",
-      "wince"
-    ],
-    "refer": "",
-    "meaning": "a small jerk or twitch",
-    "type": "",
-    "example": [{
-      "file": "piko-1a",
-      "contributor": "",
-      "display": "ピコッ",
-      "source": "uncle_at_heart"
-    }]
-  }],
-  "literal": "piko"
+  "hiragana": [
+    "ぴこ",
+    "ぴこっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a small jerk or twitch",
+      "equivalent": [
+        "flinch",
+        "quiver",
+        "shake",
+        "twitch",
+        "wince"
+      ],
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "piko-1a",
+          "display": "ピコッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

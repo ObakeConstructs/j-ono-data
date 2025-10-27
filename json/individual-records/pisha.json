@@ -1,39 +1,36 @@
 {
-  "hiragana": [
-    "ぴしゃ",
-    "ぴしゃっ"
-  ],
+  "literal": "pisha",
   "katakana": [
     "ピシャ",
     "ピシャッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "aghast",
-      "appalled",
-      "astounded",
-      "flabbergasted",
-      "shocked",
-      "stunned",
-      "surprised"
-    ],
-    "refer": "",
-    "meaning": "an expression of shock or disbelief",
-    "type": "",
-    "example": [
-      {
-        "file": "pisha-1a",
-        "contributor": "",
-        "display": "ピシャッ",
-        "source": "uncle_at_heart"
-      },
-      {
-        "file": "pisha-1b",
-        "contributor": "",
-        "display": "ピシッ",
-        "source": "yojo_life"
-      }
-    ]
-  }],
-  "literal": "pisha"
+  "hiragana": [
+    "ぴしゃ",
+    "ぴしゃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "sharp emotional shock or disbelief",
+      "equivalent": [
+        "aghast",
+        "appalled",
+        "astounded",
+        "disbelief",
+        "flabbergasted",
+        "shocked",
+        "stunned",
+        "surprised"
+      ],
+      "example": [
+        {
+          "source": "uncle_at_heart",
+          "file": "pisha-1a",
+          "display": "ピシャッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,36 +1,41 @@
 {
-  "hiragana": [
-    "ぴら",
-    "ぴらっ"
-  ],
+  "literal": "pira",
   "katakana": [
     "ピラ",
     "ピラッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "expose",
-      "open",
-      "reveal",
-      "uncover"
-    ],
-    "refer": "",
-    "meaning": "an indication or sound of revealing something",
-    "type": "",
-    "example": [
-      {
-        "file": "pira-1a",
-        "contributor": "",
-        "display": "ピラ...",
-        "source": "gyaru_academy"
-      },
-      {
-        "file": "pira-1b",
-        "contributor": "",
-        "display": "ぴらっ",
-        "source": "sex_with_me_sells"
-      }
-    ]
-  }],
-  "literal": "pira"
+  "hiragana": [
+    "ぴら",
+    "ぴらっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "movement of something light or thin, usually to reveal or show something",
+      "equivalent": [
+        "expose",
+        "flip",
+        "lift",
+        "reveal",
+        "show",
+        "uncover",
+        "unveil"
+      ],
+      "example": [
+        {
+          "source": "gyaru_academy",
+          "file": "pira-1a",
+          "display": "ピラ...",
+          "contributor": ""
+        },
+        {
+          "source": "sex_with_me_sells",
+          "file": "pira-1b",
+          "display": "ぴらっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

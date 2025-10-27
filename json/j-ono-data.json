@@ -17066,7 +17066,7 @@
         "suck up",
         "truckle"
       ],
-      "refer": "peko:1",
+      "refer": "",
       "meaning": "continuous bowing or groveling",
       "type": "m",
       "example": [
@@ -17160,7 +17160,7 @@
           "swish",
           "wave"
         ],
-        "refer": "pata pata:1",
+        "refer": "",
         "meaning": "thin or soft material flapping",
         "type": "s",
         "example": [{
@@ -17387,7 +17387,7 @@
           "squeeze"
         ],
         "refer": "",
-        "meaning": "repeatedly press or pat",
+        "meaning": "repeatedly pressing or pattting",
         "type": "m",
         "example": [{
           "file": "peta_peta-1a",
@@ -17437,8 +17437,8 @@
           "ping"
         ],
         "refer": "",
-        "meaning": "a short electronic beep or similar high-pitched noise",
-        "type": "",
+        "meaning": "a short, sharp beeping sound",
+        "type": "o",
         "example": [
           {
             "file": "pi-1a",
@@ -17471,8 +17471,8 @@
           "swipe"
         ],
         "refer": "",
-        "meaning": "an indication or sound of a small, efficient manipulation by hand, often associated with paper",
-        "type": "",
+        "meaning": "a quick, efficient hand motion or action",
+        "type": "m",
         "example": [
           {
             "file": "pi-2a",
@@ -17511,8 +17511,8 @@
         "trickle"
       ],
       "refer": "",
-      "meaning": "a dripping sound or a small splashing sound",
-      "type": "",
+      "meaning": "a light, clear dripping sound",
+      "type": "o",
       "example": [{
         "file": "pichan-1a",
         "contributor": "",
@@ -17533,8 +17533,8 @@
         "suckle"
       ],
       "refer": "",
-      "meaning": "a wet licking or sucking sound",
-      "type": "",
+      "meaning": "wet licking or sucking sounds",
+      "type": "o",
       "example": [{
         "file": "picha_picha-1a",
         "contributor": "",
@@ -17549,17 +17549,17 @@
     "katakana": ["ピチピチ"],
     "definition": [{
       "equivalent": [
-        "flap flap",
+        "bounce",
+        "energetic",
+        "flap",
+        "flop",
         "fresh",
         "lively",
-        "energetic",
-        "bounce bounce",
-        "flop flop",
         "vibrant"
       ],
       "refer": "",
-      "meaning": "an expression of something lively and energetic, often associated with freshly caught fish",
-      "type": "",
+      "meaning": "lively, energetic flapping or wriggling",
+      "type": "m",
       "example": [{
         "file": "pichi_pichi-1a",
         "contributor": "",
@@ -17570,16 +17570,18 @@
     "literal": "pichi pichi"
   },
   {
-    "hiragana": ["ぴちょん"],
-    "katakana": ["ピチョン"],
+    "hiragana": [
+      "ぴちょん",
+      "ぴちょーん"
+    ],
+    "katakana": [
+      "ピチョン",
+      "ピチョーン"
+    ],
     "definition": [{
-      "equivalent": [
-        "drip",
-        "drop",
-        "plink"
-      ],
-      "refer": "",
-      "meaning": "the sound of a single drip of fluid",
+      "equivalent": [""],
+      "refer": "pichan:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "pichon-1a",
@@ -17617,8 +17619,8 @@
         "sparkle"
       ],
       "refer": "",
-      "meaning": "a sudden or bright flash of light or a dazzling glimmer",
-      "type": "",
+      "meaning": "a sudden or bright flash of light",
+      "type": "m",
       "example": [
         {
           "file": "pika-1b",
@@ -17654,8 +17656,8 @@
           "snap"
         ],
         "refer": "",
-        "meaning": "a cracking or popping sound",
-        "type": "",
+        "meaning": "cracking or popping sound",
+        "type": "o",
         "example": [{
           "file": "piki-1a",
           "contributor": "",
@@ -17677,8 +17679,8 @@
           "snap"
         ],
         "refer": "",
-        "meaning": "an expression of sudden anger or annoyance",
-        "type": "",
+        "meaning": "sudden anger or annoyance",
+        "type": "e",
         "example": [
           {
             "file": "piki-2a",
@@ -17709,15 +17711,15 @@
     "definition": [{
       "equivalent": [
         "bing",
-        "ping",
         "dazzle",
         "gleeful",
-        "smug",
-        "pleased"
+        "ping",
+        "pleased",
+        "smug"
       ],
       "refer": "",
-      "meaning": "a quick change of expression to happiness or smugness",
-      "type": "",
+      "meaning": "a sudden change of expression, often to smugness or glee",
+      "type": "e",
       "example": [{
         "file": "pikin-1a",
         "contributor": "",
@@ -17739,13 +17741,9 @@
       "ピキッピキッ"
     ],
     "definition": [{
-      "equivalent": [
-        "crackle crackle",
-        "pop pop",
-        "snap snap"
-      ],
-      "refer": "",
-      "meaning": "the continuous sound of cracking or popping, as from something about to break",
+      "equivalent": [""],
+      "refer": "piki:1",
+      "meaning": "a",
       "type": "",
       "example": [{
         "file": "piki_piki-1a",
@@ -17775,7 +17773,7 @@
       ],
       "refer": "",
       "meaning": "a small jerk or twitch",
-      "type": "",
+      "type": "m",
       "example": [{
         "file": "piko-1a",
         "contributor": "",
@@ -17806,8 +17804,8 @@
           "ring"
         ],
         "refer": "",
-        "meaning": "the noise of an electronic chime, typical of games or computers",
-        "type": "",
+        "meaning": "electronic chime or beep sound",
+        "type": "o",
         "example": [{
           "file": "pikon-1a",
           "contributor": "",
@@ -17817,17 +17815,17 @@
       },
       {
         "equivalent": [
+          "embarrass",
+          "react",
+          "realize",
+          "squirm",
           "startle",
           "surprise",
-          "react",
-          "twitch",
-          "squirm",
-          "embarrass",
-          "realize"
+          "twitch"
         ],
         "refer": "",
-        "meaning": "an endearing, cute or slightly embarrassing reaction, typically momentary",
-        "type": "",
+        "meaning": "an endearing, cute or slightly embarrassing reaction",
+        "type": "e",
         "example": [
           {
             "file": "pikon-2a",
@@ -17851,14 +17849,14 @@
     "katakana": ["ピコピコ"],
     "definition": [{
       "equivalent": [
-        "beep beep",
-        "ping ping",
-        "bing bing",
         "ba-ding ba-ding",
-        "ding ding"
+        "beep beep",
+        "bing bing",
+        "ding ding",
+        "ping ping"
       ],
-      "refer": "",
-      "meaning": "the repetitive beeps of generic video games",
+      "refer": "pikon:1",
+      "meaning": "s",
       "type": "",
       "example": [{
         "file": "pikon_pikon-1a",
@@ -17889,8 +17887,8 @@
           "wince"
         ],
         "refer": "",
-        "meaning": "to tense up from surprise or fear",
-        "type": "",
+        "meaning": "a quick flinch or twitch, often from surprise or fear",
+        "type": "m",
         "example": [
           {
             "file": "piku-1a",
@@ -17916,12 +17914,16 @@
         "equivalent": [
           "fiddle",
           "fidget",
+          "flick",
           "move",
+          "nod",
+          "tap",
+          "tick",
           "twitch"
         ],
         "refer": "",
-        "meaning": "a small, deliberate movement",
-        "type": "",
+        "meaning": "a restrained, deliberate motion",
+        "type": "m",
         "example": [{
           "file": "piku-2a",
           "contributor": "",
@@ -17932,11 +17934,13 @@
       {
         "equivalent": [
           "blink",
+          "flick",
+          "flutter",
           "squint"
         ],
         "refer": "",
-        "meaning": "to rapidly open and close one's eyes, as from slumber",
-        "type": "",
+        "meaning": "a tired blink or squint",
+        "type": "m",
         "example": [{
           "file": "piku-3a",
           "contributor": "",
@@ -17952,16 +17956,16 @@
     "katakana": ["ピクピク"],
     "definition": [{
       "equivalent": [
-        "flinch flinch",
-        "jerk jerk",
-        "quiver quiver",
-        "shake shake",
-        "twitch twitch",
-        "wince wince"
+        "flinch",
+        "jerk",
+        "quiver",
+        "shake",
+        "twitch",
+        "wince"
       ],
       "refer": "",
-      "meaning": "a series of jerky movements or twitches",
-      "type": "",
+      "meaning": "jerky movements or twitches",
+      "type": "m",
       "example": [{
         "file": "piku_piku-1a",
         "contributor": "",
@@ -17994,8 +17998,8 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "to suddenly approach someone or appear next to someone",
-        "type": "",
+        "meaning": "suddenly approach or appear next to someone",
+        "type": "m",
         "example": [{
           "file": "pin-1a",
           "contributor": "",
@@ -18014,7 +18018,7 @@
         ],
         "refer": "",
         "meaning": "the sound of a vibrating string, rope, or cable",
-        "type": "",
+        "type": "o",
         "example": [{
           "file": "pin-2a",
           "contributor": "",
@@ -18034,7 +18038,7 @@
         ],
         "refer": "",
         "meaning": "an expression of sudden inspiration, revelation, or recognition",
-        "type": "",
+        "type": "e",
         "example": [
           {
             "file": "pin-3a",
@@ -18052,13 +18056,13 @@
       },
       {
         "equivalent": [
-          "ping",
+          "bing",
           "ding",
-          "bing"
+          "ping"
         ],
         "refer": "",
         "meaning": "a sharp pinging sound",
-        "type": "",
+        "type": "o",
         "example": [{
           "file": "pin-4a",
           "contributor": "",
@@ -18082,7 +18086,7 @@
       "equivalent": ["ding-dong"],
       "refer": "",
       "meaning": "a sound of a doorbell",
-      "type": "",
+      "type": "o",
       "example": [
         {
           "file": "pinpon-1a",
@@ -18115,18 +18119,18 @@
     ],
     "definition": [{
       "equivalent": [
-        "cheep cheep",
-        "chirp chirp",
-        "peep peep",
-        "pip pip",
-        "tweet tweet",
-        "beep beep",
-        "ping ping",
-        "ding ding"
+        "beep",
+        "cheep",
+        "chirp",
+        "ding",
+        "peep",
+        "ping",
+        "pip",
+        "tweet"
       ],
       "refer": "",
-      "meaning": "a series of high pitched chirps or tones",
-      "type": "",
+      "meaning": "quick, high-pitched chirps or tones",
+      "type": "o",
       "example": [
         {
           "file": "pipi-1a",
@@ -18156,13 +18160,16 @@
     "definition": [{
       "equivalent": [
         "expose",
-        "open",
+        "flip",
+        "lift",
         "reveal",
-        "uncover"
+        "show",
+        "uncover",
+        "unveil"
       ],
       "refer": "",
-      "meaning": "an indication or sound of revealing something",
-      "type": "",
+      "meaning": "movement of something light or thin, usually to reveal or show something",
+      "type": "m",
       "example": [
         {
           "file": "pira-1a",
@@ -18186,11 +18193,16 @@
     "definition": [{
       "equivalent": [
         "ba-da-ding",
-        "ding-a-ling"
+        "beep",
+        "beep-beep",
+        "chime",
+        "ding",
+        "ding-a-ling",
+        "ringtone"
       ],
       "refer": "",
-      "meaning": "a cell phone ring tone",
-      "type": "",
+      "meaning": "a light electronc tone or chime, as from a cell phone",
+      "type": "o",
       "example": [{
         "file": "pirorin-1a",
         "contributor": "",
@@ -18210,13 +18222,9 @@
       "ピルルル"
     ],
     "definition": [{
-      "equivalent": [
-        "ring ring",
-        "beep beep",
-        "ding-a-ling"
-      ],
-      "refer": "",
-      "meaning": "the sound of a telephone or cell phone ringing",
+      "equivalent": [""],
+      "refer": "pirorin:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "piruru-1a",
@@ -18241,28 +18249,21 @@
         "aghast",
         "appalled",
         "astounded",
+        "disbelief",
         "flabbergasted",
         "shocked",
         "stunned",
         "surprised"
       ],
       "refer": "",
-      "meaning": "an expression of shock or disbelief",
-      "type": "",
-      "example": [
-        {
-          "file": "pisha-1a",
-          "contributor": "",
-          "display": "ピシャッ",
-          "source": "uncle_at_heart"
-        },
-        {
-          "file": "pisha-1b",
-          "contributor": "",
-          "display": "ピシッ",
-          "source": "yojo_life"
-        }
-      ]
+      "meaning": "sharp emotional shock or disbelief",
+      "type": "e",
+      "example": [{
+        "file": "pisha-1a",
+        "contributor": "",
+        "display": "ピシャッ",
+        "source": "uncle_at_heart"
+      }]
     }],
     "literal": "pisha"
   },
@@ -18276,17 +18277,9 @@
       "ピシャーン"
     ],
     "definition": [{
-      "equivalent": [
-        "aghast",
-        "appalled",
-        "astounded",
-        "flabbergasted",
-        "shocked",
-        "stunned",
-        "surprised"
-      ],
-      "refer": "",
-      "meaning": "a dramatic expression of shock or disbelief",
+      "equivalent": [""],
+      "refer": "pisha:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "pishan-1a",
@@ -18317,8 +18310,8 @@
           "split"
         ],
         "refer": "",
-        "meaning": "the sound of something suddenly breaking",
-        "type": "",
+        "meaning": "a sharp, dry breaking or cracking sound",
+        "type": "o",
         "example": [
           {
             "file": "pishi-1a",
@@ -18336,16 +18329,16 @@
       },
       {
         "equivalent": [
+          "exactly",
           "flick",
           "pop",
-          "snap",
-          "zip",
           "precise",
-          "exactly"
+          "snap",
+          "zip"
         ],
         "refer": "",
-        "meaning": "an expression of precision, usually with a rapid snapping to position",
-        "type": "",
+        "meaning": "a rapid, precise snapping to position",
+        "type": "m",
         "example": [
           {
             "file": "pishi-2a",
@@ -18366,6 +18359,26 @@
             "source": "hone_dragon"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "dumbfounded",
+          "floored",
+          "frozen",
+          "overwhelmed",
+          "rocked",
+          "shocked",
+          "stunned"
+        ],
+        "refer": "",
+        "meaning": "momentary mental paralysis",
+        "type": "e",
+        "example": [{
+          "file": "pisha-1b",
+          "contributor": "",
+          "display": "ピシッ",
+          "source": "yojo_life"
+        }]
       }
     ],
     "literal": "pishi"
@@ -18389,15 +18402,9 @@
         "stop"
       ],
       "refer": "",
-      "meaning": "to bring something to an immediate end or standstill",
-      "type": "",
+      "meaning": "bring something to an immediate or sudden stop",
+      "type": "m",
       "example": [
-        {
-          "file": "pita-1a",
-          "contributor": "",
-          "display": "ピタッ",
-          "source": "world_full_of_monsters"
-        },
         {
           "file": "pita-1c",
           "contributor": "",
@@ -18427,12 +18434,13 @@
       "equivalent": [
         "brush",
         "caress",
+        "contact",
         "feel",
         "touch"
       ],
       "refer": "",
-      "meaning": "a gentle or careful touch or contact",
-      "type": "",
+      "meaning": "a soft, gentle touch or contact",
+      "type": "m",
       "example": [
         {
           "file": "pito-1a",

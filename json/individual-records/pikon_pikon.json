@@ -1,23 +1,31 @@
 {
-  "hiragana": ["ぴこぴこ"],
-  "katakana": ["ピコピコ"],
-  "definition": [{
-    "equivalent": [
-      "beep beep",
-      "ping ping",
-      "bing bing",
-      "ba-ding ba-ding",
-      "ding ding"
-    ],
-    "refer": "",
-    "meaning": "the repetitive beeps of generic video games",
-    "type": "",
-    "example": [{
-      "file": "pikon_pikon-1a",
-      "contributor": "",
-      "display": "ピコ  ピコ  ピコ",
-      "source": "neet_kunoichi"
-    }]
-  }],
-  "literal": "pikon pikon"
+  "literal": "pikon pikon",
+  "katakana": [
+    "ピコピコ"
+  ],
+  "hiragana": [
+    "ぴこぴこ"
+  ],
+  "definition": [
+    {
+      "refer": "pikon:1",
+      "type": "",
+      "meaning": "s",
+      "equivalent": [
+        "ba-ding ba-ding",
+        "beep beep",
+        "bing bing",
+        "ding ding",
+        "ping ping"
+      ],
+      "example": [
+        {
+          "source": "neet_kunoichi",
+          "file": "pikon_pikon-1a",
+          "display": "ピコ  ピコ  ピコ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

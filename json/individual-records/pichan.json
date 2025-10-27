@@ -1,25 +1,33 @@
 {
-  "hiragana": ["ぴちゃん"],
-  "katakana": ["ピチャン"],
-  "definition": [{
-    "equivalent": [
-      "dribble",
-      "drip",
-      "plop",
-      "ripple",
-      "splash",
-      "swirl",
-      "trickle"
-    ],
-    "refer": "",
-    "meaning": "a dripping sound or a small splashing sound",
-    "type": "",
-    "example": [{
-      "file": "pichan-1a",
-      "contributor": "",
-      "display": "ピチャン...",
-      "source": "hello_work"
-    }]
-  }],
-  "literal": "pichan"
+  "literal": "pichan",
+  "katakana": [
+    "ピチャン"
+  ],
+  "hiragana": [
+    "ぴちゃん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a light, clear dripping sound",
+      "equivalent": [
+        "dribble",
+        "drip",
+        "plop",
+        "ripple",
+        "splash",
+        "swirl",
+        "trickle"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "pichan-1a",
+          "display": "ピチャン...",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

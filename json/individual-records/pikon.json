@@ -1,14 +1,18 @@
 {
-  "hiragana": [
-    "ぴこん",
-    "ぴこーん"
-  ],
+  "literal": "pikon",
   "katakana": [
     "ピコン",
     "ピコーン"
   ],
+  "hiragana": [
+    "ぴこん",
+    "ぴこーん"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "electronic chime or beep sound",
       "equivalent": [
         "ba-ding",
         "bing",
@@ -18,44 +22,42 @@
         "ping",
         "ring"
       ],
-      "refer": "",
-      "meaning": "the noise of an electronic chime, typical of games or computers",
-      "type": "",
-      "example": [{
-        "file": "pikon-1a",
-        "contributor": "",
-        "display": "ピコン",
-        "source": "different_world_smartphone"
-      }]
-    },
-    {
-      "equivalent": [
-        "startle",
-        "surprise",
-        "react",
-        "twitch",
-        "squirm",
-        "embarrass",
-        "realize"
-      ],
-      "refer": "",
-      "meaning": "an endearing, cute or slightly embarrassing reaction, typically momentary",
-      "type": "",
       "example": [
         {
+          "source": "different_world_smartphone",
+          "file": "pikon-1a",
+          "display": "ピコン",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "an endearing, cute or slightly embarrassing reaction",
+      "equivalent": [
+        "embarrass",
+        "react",
+        "realize",
+        "squirm",
+        "startle",
+        "surprise",
+        "twitch"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_as_a_dragon_egg",
           "file": "pikon-2a",
-          "contributor": "",
           "display": "ピコーン",
-          "source": "reincarnated_as_a_dragon_egg"
+          "contributor": ""
         },
         {
+          "source": "cheat_pharmacist",
           "file": "pikon-2b",
-          "contributor": "",
           "display": "ぴこん",
-          "source": "cheat_pharmacist"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "pikon"
+  ]
 }

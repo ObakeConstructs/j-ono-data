@@ -1,21 +1,29 @@
 {
-  "hiragana": ["ぴちょん"],
-  "katakana": ["ピチョン"],
-  "definition": [{
-    "equivalent": [
-      "drip",
-      "drop",
-      "plink"
-    ],
-    "refer": "",
-    "meaning": "the sound of a single drip of fluid",
-    "type": "",
-    "example": [{
-      "file": "pichon-1a",
-      "contributor": "",
-      "display": "ぴちょーん",
-      "source": "s_rank_behemoth"
-    }]
-  }],
-  "literal": "pichon"
+  "literal": "pichon",
+  "katakana": [
+    "ピチョン",
+    "ピチョーン"
+  ],
+  "hiragana": [
+    "ぴちょん",
+    "ぴちょーん"
+  ],
+  "definition": [
+    {
+      "refer": "pichan:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "s_rank_behemoth",
+          "file": "pichon-1a",
+          "display": "ぴちょーん",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

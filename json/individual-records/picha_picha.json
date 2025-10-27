@@ -1,22 +1,30 @@
 {
-  "hiragana": ["ぴちゃぴちゃ"],
-  "katakana": ["ピチャピチャ"],
-  "definition": [{
-    "equivalent": [
-      "kiss",
-      "slurp",
-      "suck",
-      "suckle"
-    ],
-    "refer": "",
-    "meaning": "a wet licking or sucking sound",
-    "type": "",
-    "example": [{
-      "file": "picha_picha-1a",
-      "contributor": "",
-      "display": "ピチャ  ピチャ",
-      "source": "rise_of_the_outlaw_tamer"
-    }]
-  }],
-  "literal": "picha picha"
+  "literal": "picha picha",
+  "katakana": [
+    "ピチャピチャ"
+  ],
+  "hiragana": [
+    "ぴちゃぴちゃ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "wet licking or sucking sounds",
+      "equivalent": [
+        "kiss",
+        "slurp",
+        "suck",
+        "suckle"
+      ],
+      "example": [
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "picha_picha-1a",
+          "display": "ピチャ  ピチャ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
