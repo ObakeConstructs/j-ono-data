@@ -1,27 +1,34 @@
 {
-  "hiragana": [
-    "ぷしゅぷしゅ",
-    "ぷしゅっぷしゅっ"
-  ],
+  "literal": "pushu pushu",
   "katakana": [
     "プシュプシュ",
     "プシュップシュッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "pap pap",
-      "psh psh",
-      "pew pew"
-    ],
-    "refer": "",
-    "meaning": "the sound of a silenced pistol being fired",
-    "type": "",
-    "example": [{
-      "file": "pushu_pushu-1a",
-      "contributor": "",
-      "display": "プシュッ  プシュッ",
-      "source": "spy_x_family"
-    }]
-  }],
-  "literal": "pushu pushu"
+  "hiragana": [
+    "ぷしゅぷしゅ",
+    "ぷしゅっぷしゅっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "short, soft hissing sounds",
+      "equivalent": [
+        "bap",
+        "fwit",
+        "hiss",
+        "pew",
+        "psh",
+        "whiz"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "pushu_pushu-1a",
+          "display": "プシュッ  プシュッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

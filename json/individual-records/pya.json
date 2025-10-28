@@ -1,30 +1,39 @@
 {
-  "hiragana": [
-    "ぴゃ",
-    "ぴゃっ",
-    "ぴゃーっ"
-  ],
+  "literal": "pya",
   "katakana": [
     "ピャ",
     "ピャッ",
     "ピャーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "hah",
-      "piha",
-      "pop",
-      "pyaa"
-    ],
-    "refer": "",
-    "meaning": "the sound of a sudden release of pressure, or a burst of energy",
-    "type": "",
-    "example": [{
-      "file": "pya-1a",
-      "contributor": "",
-      "display": "ピャーッ",
-      "source": "reincarnated_as_a_dragon_egg"
-    }]
-  }],
-  "literal": "pya"
+  "hiragana": [
+    "ぴゃ",
+    "ぴゃっ",
+    "ぴゃーっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a quick, sharp or startled motion",
+      "equivalent": [
+        "dart",
+        "flick",
+        "jump",
+        "reaction",
+        "snap",
+        "spring",
+        "step",
+        "swipe",
+        "whip"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_as_a_dragon_egg",
+          "file": "pya-1a",
+          "display": "ピャーッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

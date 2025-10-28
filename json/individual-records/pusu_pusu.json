@@ -1,21 +1,32 @@
 {
-  "hiragana": ["ぷすぷす"],
-  "katakana": ["プスプス"],
-  "definition": [{
-    "equivalent": [
-      "smoke",
-      "smolder",
-      "sputter"
-    ],
-    "refer": "",
-    "meaning": "something that was on fire reduced to smoke",
-    "type": "",
-    "example": [{
-      "file": "pusu_pusu-1a",
-      "contributor": "",
-      "display": "プス  プス",
-      "source": "hello_work"
-    }]
-  }],
-  "literal": "pusu pusu"
+  "literal": "pusu pusu",
+  "katakana": [
+    "プスプス"
+  ],
+  "hiragana": [
+    "ぷすぷす"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "weak smoldering with puffs of smoke",
+      "equivalent": [
+        "char",
+        "fume",
+        "puff",
+        "simmer",
+        "smoke",
+        "smolder"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "pusu_pusu-1a",
+          "display": "プス  プス",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

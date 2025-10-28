@@ -1,46 +1,62 @@
 {
-  "hiragana": [
-    "ぷは",
-    "ぷはっ",
-    "ぷはー",
-    "ぷはーっ"
-  ],
+  "literal": "puha",
   "katakana": [
     "プハ",
     "プハッ",
     "プハー",
     "プハーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "ahh",
-      "fwah",
-      "phew",
-      "whah"
-    ],
-    "refer": "",
-    "meaning": "a vocalized sound expressing relief or satisfaction",
-    "type": "",
-    "example": [
-      {
-        "file": "puha-1a",
-        "contributor": "",
-        "display": "ぷはっ",
-        "source": "dog_became_strongest"
-      },
-      {
-        "file": "puha-1b",
-        "contributor": "",
-        "display": "ぷはっ",
-        "source": "reincarnated_as_a_dragon_egg"
-      },
-      {
-        "file": "puha-1c",
-        "contributor": "",
-        "display": "ぷはーっ",
-        "source": "shogun_gold_in_america"
-      }
-    ]
-  }],
-  "literal": "puha"
+  "hiragana": [
+    "ぷは",
+    "ぷはっ",
+    "ぷはー",
+    "ぷはーっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a relaxing or relieved exhalation",
+      "equivalent": [
+        "blow",
+        "breath",
+        "exhale",
+        "huff",
+        "phew"
+      ],
+      "example": [
+        {
+          "source": "shogun_gold_in_america",
+          "file": "puha-1c",
+          "display": "ぷはーっ",
+          "contributor": ""
+        }
+      ]
+    },
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "vocal exclamation after eating or drinking",
+      "equivalent": [
+        "ahh",
+        "fwah",
+        "phew",
+        "whah"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "puha-1a",
+          "display": "ぷはっ",
+          "contributor": ""
+        },
+        {
+          "source": "reincarnated_as_a_dragon_egg",
+          "file": "puha-1b",
+          "display": "ぷはっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

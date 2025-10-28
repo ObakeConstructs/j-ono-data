@@ -19209,8 +19209,8 @@
           "toot"
         ],
         "refer": "",
-        "meaning": "the sound of someone expelling air or gas from a bodily orifice, as in suppressed laughter or flatulence",
-        "type": "",
+        "meaning": "a quick burst from the mouth, nose, or other source, often unintentional",
+        "type": "o",
         "example": [
           {
             "file": "pu-1a",
@@ -19234,35 +19234,44 @@
       },
       {
         "equivalent": [
+          "click",
           "crack",
           "crackle",
-          "pop",
-          "snap",
-          "poke",
-          "prod",
-          "jab",
-          "pierce",
-          "pluck",
           "pick",
-          "pull"
+          "pluck",
+          "pop",
+          "pull",
+          "snap"
         ],
         "refer": "",
-        "meaning": "an indication or sound of a small pluck or poke",
-        "type": "",
-        "example": [
-          {
-            "file": "pu-2a",
-            "contributor": "",
-            "display": "プッ",
-            "source": "dog_became_strongest"
-          },
-          {
-            "file": "pu-2b",
-            "contributor": "",
-            "display": "プッ...",
-            "source": "isekai_sniper"
-          }
-        ]
+        "meaning": "small snap or popping sound",
+        "type": "o",
+        "example": [{
+          "file": "pu-2a",
+          "contributor": "",
+          "display": "プッ",
+          "source": "dog_became_strongest"
+        }]
+      },
+      {
+        "equivalent": [
+          "jab",
+          "pierce",
+          "poke",
+          "prick",
+          "prod",
+          "puncture",
+          "stick"
+        ],
+        "refer": "",
+        "meaning": "a quick poke or jab",
+        "type": "m",
+        "example": [{
+          "file": "pu-2b",
+          "contributor": "",
+          "display": "プッ...",
+          "source": "isekai_sniper"
+        }]
       }
     ],
     "literal": "pu"
@@ -19277,16 +19286,9 @@
       "プチッ"
     ],
     "definition": [{
-      "equivalent": [
-        "click",
-        "crack",
-        "pop",
-        "snap",
-        "unbutton",
-        "unclasp"
-      ],
-      "refer": "",
-      "meaning": "a gentle snapping or popping sound",
+      "equivalent": [""],
+      "refer": "pu:2",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -19309,13 +19311,9 @@
     "hiragana": ["ぷちぷち"],
     "katakana": ["プチプチ"],
     "definition": [{
-      "equivalent": [
-        "snap snap",
-        "pop pop",
-        "crack crack"
-      ],
-      "refer": "",
-      "meaning": "a series of snapping or popping sounds",
+      "equivalent": [""],
+      "refer": "pu:2",
+      "meaning": "s",
       "type": "",
       "example": [{
         "file": "puchi_puchi-1a",
@@ -19339,37 +19337,51 @@
       "プハー",
       "プハーッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "ahh",
-        "fwah",
-        "phew",
-        "whah"
-      ],
-      "refer": "",
-      "meaning": "a vocalized sound expressing relief or satisfaction",
-      "type": "",
-      "example": [
-        {
-          "file": "puha-1a",
-          "contributor": "",
-          "display": "ぷはっ",
-          "source": "dog_became_strongest"
-        },
-        {
-          "file": "puha-1b",
-          "contributor": "",
-          "display": "ぷはっ",
-          "source": "reincarnated_as_a_dragon_egg"
-        },
-        {
+    "definition": [
+      {
+        "equivalent": [
+          "blow",
+          "breath",
+          "exhale",
+          "huff",
+          "phew"
+        ],
+        "refer": "",
+        "meaning": "a relaxing or relieved exhalation",
+        "type": "o",
+        "example": [{
           "file": "puha-1c",
           "contributor": "",
           "display": "ぷはーっ",
           "source": "shogun_gold_in_america"
-        }
-      ]
-    }],
+        }]
+      },
+      {
+        "equivalent": [
+          "ahh",
+          "fwah",
+          "phew",
+          "whah"
+        ],
+        "refer": "",
+        "meaning": "vocal exclamation after eating or drinking",
+        "type": "v",
+        "example": [
+          {
+            "file": "puha-1a",
+            "contributor": "",
+            "display": "ぷはっ",
+            "source": "dog_became_strongest"
+          },
+          {
+            "file": "puha-1b",
+            "contributor": "",
+            "display": "ぷはっ",
+            "source": "reincarnated_as_a_dragon_egg"
+          }
+        ]
+      }
+    ],
     "literal": "puha"
   },
   {
@@ -19383,17 +19395,21 @@
     ],
     "definition": [{
       "equivalent": [
+        "annoyed",
         "brush-off",
         "disdain",
+        "huff",
+        "refuse",
         "reject",
         "scorn",
         "snub",
         "spurn",
+        "sulk",
         "turn"
       ],
       "refer": "",
-      "meaning": "to deliberately ignore or treat rudely ",
-      "type": "",
+      "meaning": "turn away sharply in annoyance, pride, or refusal",
+      "type": "m",
       "example": [{
         "file": "pui-1a",
         "contributor": "",
@@ -19421,8 +19437,8 @@
         "sullen"
       ],
       "refer": "",
-      "meaning": "an indication of puffy cheeks, humorously expressing a sulk or a pout",
-      "type": "",
+      "meaning": "a sulk or pout with puffy cheeks, usually cute or humorous",
+      "type": "e",
       "example": [
         {
           "file": "puku-1a",
@@ -19451,20 +19467,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "irritated",
-        "annoyed",
-        "petulant",
-        "pissed",
         "angry",
-        "peeved",
-        "irked",
-        "mad",
+        "annoyed",
         "indignant",
-        "resentful"
+        "irked",
+        "irritated",
+        "peeved",
+        "petulant"
       ],
       "refer": "",
-      "meaning": "an expression of irritation or annoyance, usually associated with young girls",
-      "type": "",
+      "meaning": "a small emotional outburst, expressing mild anger or irritation",
+      "type": "e",
       "example": [{
         "file": "pun-1a",
         "contributor": "",
@@ -19487,14 +19500,23 @@
     ],
     "definition": [{
       "equivalent": [
+        "caress",
+        "feel",
         "flesh",
-        "puffy",
+        "fondle",
+        "hold",
+        "press",
+        "puff",
+        "rub",
         "soft",
-        "squishy"
+        "squeeze",
+        "squish",
+        "stroke",
+        "touch"
       ],
       "refer": "",
-      "meaning": "an exaggerated indication of soft flesh",
-      "type": "",
+      "meaning": "touching or pressing something plump and springy",
+      "type": "s",
       "example": [
         {
           "file": "puni-1a",
@@ -19528,14 +19550,9 @@
       "プニュッ"
     ],
     "definition": [{
-      "equivalent": [
-        "flesh",
-        "puffy",
-        "soft",
-        "squishy"
-      ],
-      "refer": "",
-      "meaning": "an exaggerated indication of soft flesh",
+      "equivalent": [""],
+      "refer": "puni:1",
+      "meaning": ", often cute or humorous",
       "type": "",
       "example": [{
         "file": "punyu-1a",
@@ -19550,14 +19567,9 @@
     "hiragana": ["ぷにゅぅん"],
     "katakana": ["プニュゥン"],
     "definition": [{
-      "equivalent": [
-        "soft",
-        "puffy",
-        "squishy",
-        "flesh"
-      ],
-      "refer": "",
-      "meaning": "an exaggerated indication of soft flesh",
+      "equivalent": [""],
+      "refer": "puni:1",
+      "meaning": ", often lingering and exaggerated",
       "type": "",
       "example": [{
         "file": "punyun-1a",
@@ -19589,13 +19601,12 @@
           "buzz",
           "hum",
           "quiver",
-          "shiver",
-          "shudder",
-          "tremble"
+          "tremble",
+          "vibrate"
         ],
         "refer": "",
-        "meaning": "an indication of shaking or buzzing",
-        "type": "",
+        "meaning": "the sound of a rapid, fine vibration or buzz",
+        "type": "o",
         "example": [
           {
             "file": "puru-1a",
@@ -19617,12 +19628,15 @@
           "jiggle",
           "quiver",
           "shake",
+          "shiver",
+          "shudder",
           "sway",
+          "tremble",
           "wobble"
         ],
         "refer": "",
-        "meaning": "the indication of a wobble or shake",
-        "type": "",
+        "meaning": "soft wobbling or shaking",
+        "type": "m",
         "example": [{
           "file": "puru-2a",
           "contributor": "",
@@ -19643,16 +19657,9 @@
       "プルンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "boing",
-        "jiggle",
-        "quiver",
-        "shake",
-        "sway",
-        "wobble"
-      ],
-      "refer": "",
-      "meaning": "the indication of a wobble or shake",
+      "equivalent": [""],
+      "refer": "puru:2",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -19693,17 +19700,9 @@
       "プルンプルンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "boing boing",
-        "jiggle jiggle",
-        "quiver quiver",
-        "shake shake",
-        "sway sway",
-        "wobble wobble",
-        "bounce bounce"
-      ],
-      "refer": "",
-      "meaning": "an indication of a couple quick bounces or wobbles",
+      "equivalent": [""],
+      "refer": "puru:2",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "purun_purun-1a",
@@ -19717,49 +19716,52 @@
   {
     "hiragana": ["ぷるぷる"],
     "katakana": ["プルプル"],
-    "definition": [{
-      "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "refer": "",
-      "meaning": "an indication of shaking or quivering",
-      "type": "",
-      "example": [
-        {
-          "file": "puru_puru-1a",
-          "contributor": "",
-          "display": "ぷる  ぷる",
-          "source": "s_rank_behemoth"
-        },
-        {
-          "file": "puru_puru-1b",
-          "contributor": "",
-          "display": "プル  プル",
-          "source": "neet_kunoichi"
-        },
-        {
-          "file": "puru_puru-1c",
-          "contributor": "",
-          "display": "プル  プル",
-          "source": "spy_x_family"
-        },
-        {
+    "definition": [
+      {
+        "equivalent": [""],
+        "refer": "puru:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
           "file": "puru_puru-1d",
           "contributor": "",
           "display": "プル  プル",
           "source": "yojo_life"
-        },
-        {
-          "file": "puru_puru-1e",
-          "contributor": "",
-          "display": "プル  プル  プル",
-          "source": "yojo_life"
-        }
-      ]
-    }],
+        }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "puru:2",
+        "meaning": "",
+        "type": "",
+        "example": [
+          {
+            "file": "puru_puru-1a",
+            "contributor": "",
+            "display": "ぷる  ぷる",
+            "source": "s_rank_behemoth"
+          },
+          {
+            "file": "puru_puru-1b",
+            "contributor": "",
+            "display": "プル  プル",
+            "source": "neet_kunoichi"
+          },
+          {
+            "file": "puru_puru-1c",
+            "contributor": "",
+            "display": "プル  プル",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "puru_puru-1e",
+            "contributor": "",
+            "display": "プル  プル  プル",
+            "source": "yojo_life"
+          }
+        ]
+      }
+    ],
     "literal": "puru puru"
   },
   {
@@ -19773,15 +19775,24 @@
     ],
     "definition": [{
       "equivalent": [
+        "abashed",
+        "bemused",
+        "confused",
+        "deflate",
+        "dismay",
+        "embarrassed",
         "fizz",
+        "flustered",
         "hiss",
+        "humiliated",
+        "overwhelmed",
         "psss",
         "pssshhh",
         "ssss"
       ],
       "refer": "",
-      "meaning": "an indication or sound of leaking air or gas, sometimes used to express embarrassment or confusion",
-      "type": "",
+      "meaning": "a metaphoric mental deflation, used to express embarrassment, confusion, or being overwhelmed",
+      "type": "e",
       "example": [
         {
           "file": "pushu-1a",
@@ -19810,13 +19821,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "pap pap",
-        "psh psh",
-        "pew pew"
+        "bap",
+        "fwit",
+        "hiss",
+        "pew",
+        "psh",
+        "whiz"
       ],
       "refer": "",
-      "meaning": "the sound of a silenced pistol being fired",
-      "type": "",
+      "meaning": "short, soft hissing sounds",
+      "type": "o",
       "example": [{
         "file": "pushu_pushu-1a",
         "contributor": "",
@@ -19830,13 +19844,9 @@
     "hiragana": ["ぷす"],
     "katakana": ["プス"],
     "definition": [{
-      "equivalent": [
-        "poke",
-        "pop",
-        "psk"
-      ],
-      "refer": "",
-      "meaning": "small puncture",
+      "equivalent": [""],
+      "refer": "pu:3",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "pusu-1a",
@@ -19852,13 +19862,16 @@
     "katakana": ["プスプス"],
     "definition": [{
       "equivalent": [
+        "char",
+        "fume",
+        "puff",
+        "simmer",
         "smoke",
-        "smolder",
-        "sputter"
+        "smolder"
       ],
       "refer": "",
-      "meaning": "something that was on fire reduced to smoke",
-      "type": "",
+      "meaning": "weak smoldering with puffs of smoke",
+      "type": "o",
       "example": [{
         "file": "pusu_pusu-1a",
         "contributor": "",
@@ -19881,14 +19894,19 @@
     ],
     "definition": [{
       "equivalent": [
-        "hah",
-        "piha",
-        "pop",
-        "pyaa"
+        "dart",
+        "flick",
+        "jump",
+        "reaction",
+        "snap",
+        "spring",
+        "step",
+        "swipe",
+        "whip"
       ],
       "refer": "",
-      "meaning": "the sound of a sudden release of pressure, or a burst of energy",
-      "type": "",
+      "meaning": "a quick, sharp or startled motion",
+      "type": "m",
       "example": [{
         "file": "pya-1a",
         "contributor": "",
@@ -19909,18 +19927,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "flounce",
-        "prance",
-        "strut",
-        "sashay",
-        "swagger",
         "appear",
+        "boing",
         "bounce",
-        "boing"
+        "pop",
+        "prance",
+        "strut"
       ],
       "refer": "",
-      "meaning": "moving or appearing quickly, often in a cute or bouncy manner",
-      "type": "",
+      "meaning": "a quick movement or sudden appearance, often cute or bouncy",
+      "type": "m",
       "example": [{
         "file": "pyoko-1a",
         "contributor": "",
@@ -19940,14 +19956,9 @@
       "ピヨコピヨコ"
     ],
     "definition": [{
-      "equivalent": [
-        "bound bound",
-        "bounce bounce",
-        "hop hop",
-        "skip skip"
-      ],
-      "refer": "",
-      "meaning": "to run around in a cute and bouncy manner",
+      "equivalent": [""],
+      "refer": "pyoko:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "pyoko_pyoko-1a",
@@ -19972,8 +19983,8 @@
         "vault"
       ],
       "refer": "",
-      "meaning": "the act of leaping into the air",
-      "type": "",
+      "meaning": "jumping or leaping, often humorous or cute",
+      "type": "m",
       "example": [
         {
           "file": "pyon-1a",
@@ -20023,8 +20034,8 @@
           "squirt"
         ],
         "refer": "",
-        "meaning": "a stream of fluid discharged from narrow opening",
-        "type": "",
+        "meaning": "liquid spraying or squirting",
+        "type": "o",
         "example": [{
           "file": "pyu-1a",
           "contributor": "",
@@ -20044,8 +20055,8 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "a sudden burst of speed, as from someone fleeing",
-        "type": "",
+        "meaning": "a darting or sudden dash",
+        "type": "m",
         "example": [{
           "file": "pyu-2a",
           "contributor": "",
@@ -20061,15 +20072,16 @@
     "katakana": ["ピュイン"],
     "definition": [{
       "equivalent": [
-        "softly",
-        "gently",
-        "delicate",
-        "lightly",
-        "tenderly"
+        "careful",
+        "fwip",
+        "precise",
+        "smooth",
+        "snap",
+        "swift"
       ],
       "refer": "",
-      "meaning": "a soft or gentle sound",
-      "type": "",
+      "meaning": "a swift and precise motion",
+      "type": "m",
       "example": [{
         "file": "pyuin-1a",
         "contributor": "",
@@ -20084,6 +20096,8 @@
     "katakana": ["ピュン"],
     "definition": [{
       "equivalent": [
+        "dart",
+        "flit",
         "fwip",
         "fwit",
         "pyu",
@@ -20092,8 +20106,8 @@
         "zip"
       ],
       "refer": "",
-      "meaning": "an indication of something moving at high speed through the air",
-      "type": "",
+      "meaning": "a light, swift, and straight-line motion",
+      "type": "m",
       "example": [{
         "file": "pyun-1a",
         "contributor": "",

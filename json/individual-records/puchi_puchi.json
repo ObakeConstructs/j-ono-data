@@ -1,21 +1,27 @@
 {
-  "hiragana": ["ぷちぷち"],
-  "katakana": ["プチプチ"],
-  "definition": [{
-    "equivalent": [
-      "snap snap",
-      "pop pop",
-      "crack crack"
-    ],
-    "refer": "",
-    "meaning": "a series of snapping or popping sounds",
-    "type": "",
-    "example": [{
-      "file": "puchi_puchi-1a",
-      "contributor": "",
-      "display": "ぷち  ぷち  ぷち",
-      "source": "fushi_no_kami"
-    }]
-  }],
-  "literal": "puchi puchi"
+  "literal": "puchi puchi",
+  "katakana": [
+    "プチプチ"
+  ],
+  "hiragana": [
+    "ぷちぷち"
+  ],
+  "definition": [
+    {
+      "refer": "pu:2",
+      "type": "",
+      "meaning": "s",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "fushi_no_kami",
+          "file": "puchi_puchi-1a",
+          "display": "ぷち  ぷち  ぷち",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

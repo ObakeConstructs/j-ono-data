@@ -1,31 +1,29 @@
 {
-  "hiragana": [
-    "ぷるんぷるん",
-    "ぷるんぷるんっ"
-  ],
+  "literal": "purun purun",
   "katakana": [
     "プルンプルン",
     "プルンプルンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "boing boing",
-      "jiggle jiggle",
-      "quiver quiver",
-      "shake shake",
-      "sway sway",
-      "wobble wobble",
-      "bounce bounce"
-    ],
-    "refer": "",
-    "meaning": "an indication of a couple quick bounces or wobbles",
-    "type": "",
-    "example": [{
-      "file": "purun_purun-1a",
-      "contributor": "",
-      "display": "プルン  プルンッ",
-      "source": "gyaru_academy"
-    }]
-  }],
-  "literal": "purun purun"
+  "hiragana": [
+    "ぷるんぷるん",
+    "ぷるんぷるんっ"
+  ],
+  "definition": [
+    {
+      "refer": "puru:2",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "gyaru_academy",
+          "file": "purun_purun-1a",
+          "display": "プルン  プルンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
