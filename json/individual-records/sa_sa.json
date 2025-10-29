@@ -1,54 +1,49 @@
 {
-  "hiragana": [
-    "ささ",
-    "ささっ",
-    "さっさっ",
-    "さささっ"
-  ],
+  "literal": "sa sa",
   "katakana": [
     "ササ",
     "ササッ",
     "サッサッ",
     "サササッ"
   ],
+  "hiragana": [
+    "ささ",
+    "ささっ",
+    "さっさっ",
+    "さささっ"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "back up",
-        "hide",
-        "pull back",
-        "relent",
-        "retreat",
-        "scoot"
-      ],
-      "refer": "",
-      "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
+      "refer": "sa:3",
       "type": "",
-      "example": [{
-        "file": "sa_sa-1a",
-        "contributor": "",
-        "display": "ササササッ",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "sa_sa-1a",
+          "display": "ササササッ",
+          "contributor": ""
+        }
+      ]
     },
     {
-      "equivalent": [
-        "brush brush",
-        "scritch scritch",
-        "sweep sweep",
-        "swish swish",
-        "swoosh swoosh"
-      ],
-      "refer": "",
-      "meaning": "a repeated soft brushing sound",
+      "refer": "sa:1",
       "type": "",
-      "example": [{
-        "file": "sa_sa-2a",
-        "contributor": "",
-        "display": "サッ  サッ",
-        "source": "weakest_occupation_blacksmith"
-      }]
+      "meaning": "s",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "weakest_occupation_blacksmith",
+          "file": "sa_sa-2a",
+          "display": "サッ  サッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "sa sa"
+  ]
 }

@@ -18085,7 +18085,7 @@
     "definition": [{
       "equivalent": ["ding-dong"],
       "refer": "",
-      "meaning": "a sound of a doorbell",
+      "meaning": "the sound of a doorbell",
       "type": "o",
       "example": [
         {
@@ -19635,7 +19635,7 @@
           "wobble"
         ],
         "refer": "",
-        "meaning": "soft wobbling or shaking",
+        "meaning": "a wobbling or shaking motion",
         "type": "m",
         "example": [{
           "file": "puru-2a",
@@ -20122,14 +20122,14 @@
     "katakana": ["レロ"],
     "definition": [{
       "equivalent": [
-        "lick",
         "lap",
         "lash",
-        "flick"
+        "lick",
+        "slurp"
       ],
       "refer": "",
-      "meaning": "an indication or sound of tongue licking",
-      "type": "",
+      "meaning": "wet and drawn-out licking sound",
+      "type": "o",
       "example": [{
         "file": "rero-1a",
         "contributor": "",
@@ -20143,13 +20143,9 @@
     "hiragana": ["れろれろ"],
     "katakana": ["レロレロ"],
     "definition": [{
-      "equivalent": [
-        "flick flick",
-        "lap lap",
-        "lick lick"
-      ],
-      "refer": "",
-      "meaning": "the indication or sound of a series of tongue lickings",
+      "equivalent": [""],
+      "refer": "rero:1",
+      "meaning": "s",
       "type": "",
       "example": [{
         "file": "rero_rero-1a",
@@ -20171,14 +20167,18 @@
     ],
     "definition": [{
       "equivalent": [
-        "ding-dong ding-dong",
-        "gong gong",
-        "ring ring",
-        "toll toll"
+        "bong",
+        "clang",
+        "dong",
+        "gong",
+        "knell",
+        "peal",
+        "ring",
+        "toll"
       ],
       "refer": "",
-      "meaning": "a series of loud bell or gong noises",
-      "type": "",
+      "meaning": "loud resonant bell or gong sounds",
+      "type": "o",
       "example": [{
         "file": "ringon_ringon-1a",
         "contributor": "",
@@ -20221,11 +20221,13 @@
           "hss",
           "rain",
           "shaa",
-          "sss"
+          "sss",
+          "swish",
+          "swoosh"
         ],
         "refer": "",
-        "meaning": "the soft sounds of rain or a shower",
-        "type": "",
+        "meaning": "soft swooshing or rushing sound",
+        "type": "o",
         "example": [
           {
             "file": "sa-1a",
@@ -20249,16 +20251,16 @@
       },
       {
         "equivalent": [
+          "anxiety",
           "chill",
           "dismay",
-          "gloom",
           "pale",
           "unnerve",
           "worry"
         ],
         "refer": "",
-        "meaning": "an expression of worry or stress",
-        "type": "",
+        "meaning": "sudden worry or anxiety",
+        "type": "e",
         "example": [{
           "file": "sa-2a",
           "contributor": "",
@@ -20268,21 +20270,19 @@
       },
       {
         "equivalent": [
-          "avoid",
-          "back up",
+          "dart",
           "dodge",
           "duck",
-          "hide",
           "jink",
-          "pull back",
-          "relent",
-          "retreat",
+          "quick",
           "scoot",
-          "sidestep"
+          "sidestep",
+          "step",
+          "zip"
         ],
         "refer": "",
-        "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
-        "type": "",
+        "meaning": "quick, light movement",
+        "type": "m",
         "example": [
           {
             "file": "sa-3a",
@@ -20306,36 +20306,15 @@
       },
       {
         "equivalent": [
-          "gush",
-          "jet",
-          "slosh",
-          "spew",
-          "splash",
-          "sploosh",
-          "spout",
-          "swash"
-        ],
-        "refer": "",
-        "meaning": "a loud noise of water splashing",
-        "type": "",
-        "example": [{
-          "file": "sa-4a",
-          "contributor": "",
-          "display": "サアッ",
-          "source": "hanako_24th_ward"
-        }]
-      },
-      {
-        "equivalent": [
-          "plod",
-          "shuffle",
+          "footfall",
           "step",
           "tap",
-          "walk"
+          "tiptoe",
+          "tread"
         ],
         "refer": "",
-        "meaning": "the indication or sound of a soft step",
-        "type": "",
+        "meaning": "a soft or quiet step",
+        "type": "m",
         "example": [
           {
             "file": "sa-5a",
@@ -20359,14 +20338,15 @@
     "katakana": ["サク"],
     "definition": [{
       "equivalent": [
+        "crisp",
         "crunch",
-        "crush",
-        "step",
-        "walk"
+        "grind",
+        "scrape",
+        "scrunch"
       ],
       "refer": "",
-      "meaning": "sound of someone walking, as on grass or gravel",
-      "type": "",
+      "meaning": "a crisp or lightly crunchy sound",
+      "type": "o",
       "example": [{
         "file": "saku-1a",
         "contributor": "",
@@ -20390,11 +20370,12 @@
         "cleave",
         "cut",
         "slash",
-        "slice"
+        "slice",
+        "slit"
       ],
       "refer": "",
-      "meaning": "a fast cutting or slicing sound",
-      "type": "",
+      "meaning": "a swift, clean slicing motion",
+      "type": "m",
       "example": [{
         "file": "san-1a",
         "contributor": "",
@@ -20419,13 +20400,16 @@
     ],
     "definition": [{
       "equivalent": [
+        "billow",
+        "silky",
+        "smooth",
         "swish",
         "swoosh",
         "whoosh"
       ],
       "refer": "",
-      "meaning": "the soft movement of hair, as in a gentle breeze",
-      "type": "",
+      "meaning": "light, smooth, or silky hair, usually swishing or moving smoothly",
+      "type": "s",
       "example": [
         {
           "file": "sara-1a",
@@ -20460,16 +20444,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "touch",
-        "feel",
         "brush",
         "caress",
+        "feel",
+        "fondle",
         "pet",
-        "fondle"
+        "touch"
       ],
       "refer": "",
-      "meaning": "an indication or sound of light touching or movement",
-      "type": "",
+      "meaning": "a light, gentle touch or momentary contact",
+      "type": "m",
       "example": [{
         "file": "sawa-1a",
         "contributor": "",
@@ -20494,16 +20478,9 @@
     ],
     "definition": [
       {
-        "equivalent": [
-          "back up",
-          "hide",
-          "pull back",
-          "relent",
-          "retreat",
-          "scoot"
-        ],
-        "refer": "",
-        "meaning": "to dodge or move away from something dangerous, difficult, or disagreeable",
+        "equivalent": [""],
+        "refer": "sa:3",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "sa_sa-1a",
@@ -20513,15 +20490,9 @@
         }]
       },
       {
-        "equivalent": [
-          "brush brush",
-          "scritch scritch",
-          "sweep sweep",
-          "swish swish",
-          "swoosh swoosh"
-        ],
-        "refer": "",
-        "meaning": "a repeated soft brushing sound",
+        "equivalent": [""],
+        "refer": "sa:1",
+        "meaning": "s",
         "type": "",
         "example": [{
           "file": "sa_sa-2a",

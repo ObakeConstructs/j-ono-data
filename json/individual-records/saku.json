@@ -1,22 +1,31 @@
 {
-  "hiragana": ["さく"],
-  "katakana": ["サク"],
-  "definition": [{
-    "equivalent": [
-      "crunch",
-      "crush",
-      "step",
-      "walk"
-    ],
-    "refer": "",
-    "meaning": "sound of someone walking, as on grass or gravel",
-    "type": "",
-    "example": [{
-      "file": "saku-1a",
-      "contributor": "",
-      "display": "サク",
-      "source": "a_rank_slow_life"
-    }]
-  }],
-  "literal": "saku"
+  "literal": "saku",
+  "katakana": [
+    "サク"
+  ],
+  "hiragana": [
+    "さく"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a crisp or lightly crunchy sound",
+      "equivalent": [
+        "crisp",
+        "crunch",
+        "grind",
+        "scrape",
+        "scrunch"
+      ],
+      "example": [
+        {
+          "source": "a_rank_slow_life",
+          "file": "saku-1a",
+          "display": "サク",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
