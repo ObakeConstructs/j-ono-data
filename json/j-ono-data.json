@@ -10630,7 +10630,7 @@
         "example": [{
           "file": "hyu-2a",
           "contributor": "",
-          "display": "...ヒュ...",
+          "display": "...ヒュ\u2026",
           "source": "rock_n_roll_ladies"
         }]
       }
