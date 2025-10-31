@@ -1,26 +1,31 @@
 {
-  "hiragana": ["しくしく"],
-  "katakana": ["シクシク"],
-  "definition": [{
-    "equivalent": [
-      "bawl",
-      "cry",
-      "moan",
-      "sob",
-      "wail",
-      "weep",
-      "whimper",
-      "whine"
-    ],
-    "refer": "",
-    "meaning": "a series of whimpering or sobbing sound",
-    "type": "",
-    "example": [{
-      "file": "shiku_shiku-1a",
-      "contributor": "",
-      "display": "シク シク シク\u2026",
-      "source": "buy_the_land"
-    }]
-  }],
-  "literal": "shiku shiku"
+  "literal": "shiku shiku",
+  "katakana": [
+    "シクシク"
+  ],
+  "hiragana": [
+    "しくしく"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "quiet whimpering or sobbing, expressing sad emotions",
+      "equivalent": [
+        "cry",
+        "sob",
+        "weep",
+        "whimper",
+        "whine"
+      ],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "shiku_shiku-1a",
+          "display": "シク シク シク…",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

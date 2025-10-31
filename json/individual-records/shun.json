@@ -1,16 +1,20 @@
 {
-  "hiragana": [
-    "しゅん",
-    "しゅんっ",
-    "しゅーんっ"
-  ],
+  "literal": "shun",
   "katakana": [
     "シュン",
     "シュンッ",
     "シューンッ"
   ],
+  "hiragana": [
+    "しゅん",
+    "しゅんっ",
+    "しゅーんっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "e",
+      "meaning": "a sad slump or drooping",
       "equivalent": [
         "crestfallen",
         "dejected",
@@ -23,56 +27,48 @@
         "sorrow",
         "unhappy"
       ],
-      "refer": "",
-      "meaning": "an expression of sadness or gloom",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "shun-1a",
-          "contributor": "",
-          "display": "しゅん\u2026",
-          "source": "d_genesis"
+          "display": "しゅん…",
+          "contributor": ""
         },
         {
+          "source": "peter_grill",
           "file": "shun-1b",
-          "contributor": "",
-          "display": "シューン\u2026",
-          "source": "peter_grill"
+          "display": "シューン…",
+          "contributor": ""
         },
         {
+          "source": "hero_or_demon_king",
           "file": "shun-1c",
-          "contributor": "",
           "display": "シュン",
-          "source": "hero_or_demon_king"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [
-        "fwip",
-        "whiz",
-        "whoosh",
-        "zip",
-        "zoom"
-      ],
-      "refer": "",
-      "meaning": "to move quickly with only the sound of flowing air, often vanishing",
+      "refer": "shu:1",
       "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
       "example": [
         {
+          "source": "different_world_smartphone",
           "file": "shun-2a",
-          "contributor": "",
           "display": "シュン",
-          "source": "different_world_smartphone"
+          "contributor": ""
         },
         {
+          "source": "reincarnated_aristocrat",
           "file": "shun-2b",
-          "contributor": "",
           "display": "シュンッ",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "shun"
+  ]
 }

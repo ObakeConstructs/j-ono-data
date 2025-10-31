@@ -1,40 +1,48 @@
 {
-  "hiragana": [
-    "しゅる",
-    "しゅるっ"
-  ],
+  "literal": "shuru",
   "katakana": [
     "シュル",
     "シュルッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "coil",
-      "curl",
-      "snake",
-      "spiral",
-      "swirl",
-      "twist",
-      "wind",
-      "wrap"
-    ],
-    "refer": "",
-    "meaning": "an indication of a snake-like movement",
-    "type": "",
-    "example": [
-      {
-        "file": "shuru-1a",
-        "contributor": "",
-        "display": "しゅるっ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "shuru-1b",
-        "contributor": "",
-        "display": "しゅる",
-        "source": "hone_dragon"
-      }
-    ]
-  }],
-  "literal": "shuru"
+  "hiragana": [
+    "しゅる",
+    "しゅるっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a smoothly sliding or coiling/uncong motion, typically of something long",
+      "equivalent": [
+        "coil",
+        "curl",
+        "slide",
+        "slip",
+        "snake",
+        "spiral",
+        "swirl",
+        "tie",
+        "twist",
+        "uncoil",
+        "untie",
+        "unwind",
+        "wind",
+        "wrap"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "shuru-1a",
+          "display": "しゅるっ",
+          "contributor": ""
+        },
+        {
+          "source": "hone_dragon",
+          "file": "shuru-1b",
+          "display": "しゅる",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

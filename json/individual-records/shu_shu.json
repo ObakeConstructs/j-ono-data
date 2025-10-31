@@ -1,32 +1,33 @@
 {
-  "hiragana": [
-    "しゅしゅ",
-    "しゅしゅっ",
-    "しゅしゅしゅ",
-    "しゅしゅしゅっ"
-  ],
+  "literal": "shu shu",
   "katakana": [
     "シュシュ",
     "シュシュッ",
     "シュシュシュ",
     "シュシュシュッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "fsshh",
-      "hiss",
-      "sshh",
-      "sss"
-    ],
-    "refer": "",
-    "meaning": "an indication or sound of leaking air or gas, sometimes used to express embarrassment or confusion",
-    "type": "",
-    "example": [{
-      "file": "shu_shu-1a",
-      "contributor": "",
-      "display": "しゅしゅしゅ",
-      "source": "yojo_life"
-    }]
-  }],
-  "literal": "shu shu"
+  "hiragana": [
+    "しゅしゅ",
+    "しゅしゅっ",
+    "しゅしゅしゅ",
+    "しゅしゅしゅっ"
+  ],
+  "definition": [
+    {
+      "refer": "shu:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "yojo_life",
+          "file": "shu_shu-1a",
+          "display": "しゅ しゅ しゅ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

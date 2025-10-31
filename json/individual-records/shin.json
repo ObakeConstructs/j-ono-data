@@ -1,50 +1,56 @@
 {
-  "hiragana": [
-    "しん",
-    "しーん",
-    "しんっ"
-  ],
+  "literal": "shin",
   "katakana": [
     "シン",
     "シーン",
     "シンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "hush",
-      "quiet",
-      "silence",
-      "still"
-    ],
-    "refer": "",
-    "meaning": "an indication of the absence of sound",
-    "type": "",
-    "example": [
-      {
-        "file": "shin-1a",
-        "contributor": "",
-        "display": "しん\u2026",
-        "source": "spy_x_family"
-      },
-      {
-        "file": "shin-1b",
-        "contributor": "",
-        "display": "しん\u2026",
-        "source": "fushi_no_kami"
-      },
-      {
-        "file": "shin-1c",
-        "contributor": "",
-        "display": "シーン",
-        "source": "isekai_pickup"
-      },
-      {
-        "file": "shin-1d",
-        "contributor": "",
-        "display": "しーん\u2026",
-        "source": "buy_the_land"
-      }
-    ]
-  }],
-  "literal": "shin"
+  "hiragana": [
+    "しん",
+    "しーん",
+    "しんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "a feeling of deep stillness or silence",
+      "equivalent": [
+        "calm",
+        "hush",
+        "muted",
+        "quiet",
+        "serene",
+        "silent",
+        "still",
+        "tranquil"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "shin-1a",
+          "display": "しん…",
+          "contributor": ""
+        },
+        {
+          "source": "fushi_no_kami",
+          "file": "shin-1b",
+          "display": "しん…",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_pickup",
+          "file": "shin-1c",
+          "display": "シーン",
+          "contributor": ""
+        },
+        {
+          "source": "buy_the_land",
+          "file": "shin-1d",
+          "display": "しーん…",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

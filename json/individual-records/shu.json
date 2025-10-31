@@ -25,8 +25,8 @@
         "zoom"
       ],
       "refer": "",
-      "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
-      "type": "",
+      "meaning": "a sudden disappearance or extremely fast motion",
+      "type": "m",
       "example": [
         {
           "file": "shu-1a",
@@ -39,6 +39,12 @@
           "contributor": "",
           "display": "シュッ",
           "source": "shogun_gold_in_america"
+        },
+        {
+          "file": "shu-1c",
+          "contributor": "",
+          "display": "シュッ",
+          "source": "world_full_of_monsters"
         }
       ]
     },
@@ -46,12 +52,15 @@
       "equivalent": [
         "fsshh",
         "hiss",
+        "poof",
+        "puff",
         "sshh",
-        "sss"
+        "sss",
+        "whaft"
       ],
       "refer": "",
-      "meaning": "an indication or sound of leaking air or gas",
-      "type": "",
+      "meaning": "soft puffing of air or fumes",
+      "type": "o",
       "example": [
         {
           "file": "shu-2a",
@@ -66,26 +75,6 @@
           "source": "isekai_av_filming"
         }
       ]
-    },
-    {
-      "equivalent": [
-        "block",
-        "check",
-        "halt",
-        "hinder",
-        "impede",
-        "obstruct",
-        "stop"
-      ],
-      "refer": "",
-      "meaning": "a blocking maneuver in combat",
-      "type": "",
-      "example": [{
-        "file": "shu-3a",
-        "contributor": "",
-        "display": "シュッ",
-        "source": "world_full_of_monsters"
-      }]
     }
   ],
   "literal": "shu"

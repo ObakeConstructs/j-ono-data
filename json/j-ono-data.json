@@ -20510,8 +20510,8 @@
           "slit"
         ],
         "refer": "",
-        "meaning": "the sound of cutting into something, as with a sharp knife",
-        "type": "",
+        "meaning": "light, quick cut or slice",
+        "type": "m",
         "example": [{
           "file": "sha-1a",
           "contributor": "",
@@ -20527,12 +20527,12 @@
           "whizz"
         ],
         "refer": "",
-        "meaning": "a hissing or spraying sound",
-        "type": "",
+        "meaning": "soft hissing or spraying sound",
+        "type": "o",
         "example": [{
           "file": "sha-2a",
           "contributor": "",
-          "display": "シヤー",
+          "display": "シャー",
           "source": "double_play"
         }]
       }
@@ -20553,11 +20553,12 @@
         "clack",
         "clatter",
         "clink",
+        "jingle",
         "rattle"
       ],
       "refer": "",
-      "meaning": "a light rattling sound",
-      "type": "",
+      "meaning": "soft or light rattling",
+      "type": "o",
       "example": [{
         "file": "sharan-1a",
         "contributor": "",
@@ -20572,18 +20573,15 @@
     "katakana": ["シクシク"],
     "definition": [{
       "equivalent": [
-        "bawl",
         "cry",
-        "moan",
         "sob",
-        "wail",
         "weep",
         "whimper",
         "whine"
       ],
       "refer": "",
-      "meaning": "a series of whimpering or sobbing sound",
-      "type": "",
+      "meaning": "quiet whimpering or sobbing, expressing sad emotions",
+      "type": "e",
       "example": [{
         "file": "shiku_shiku-1a",
         "contributor": "",
@@ -20606,14 +20604,18 @@
     ],
     "definition": [{
       "equivalent": [
+        "calm",
         "hush",
+        "muted",
         "quiet",
-        "silence",
-        "still"
+        "serene",
+        "silent",
+        "still",
+        "tranquil"
       ],
       "refer": "",
-      "meaning": "an indication of the absence of sound",
-      "type": "",
+      "meaning": "a feeling of deep stillness or silence",
+      "type": "e",
       "example": [
         {
           "file": "shin-1a",
@@ -20647,10 +20649,15 @@
     "hiragana": ["しっしっ"],
     "katakana": ["シッシッ"],
     "definition": [{
-      "equivalent": ["shoo"],
+      "equivalent": [
+        "go away",
+        "scram",
+        "shoo",
+        "shoo away"
+      ],
       "refer": "",
-      "meaning": "an expression meant to send or scare away someone or something",
-      "type": "",
+      "meaning": "a shooing gesture",
+      "type": "m",
       "example": [{
         "file": "shi_shi-1a",
         "contributor": "",
@@ -20671,15 +20678,22 @@
     ],
     "definition": [{
       "equivalent": [
-        "piss",
+        "dribble",
+        "flow",
         "pee",
+        "piddle",
+        "piss",
         "pissing",
-        "urine",
-        "piddle"
+        "pour",
+        "run",
+        "spread",
+        "stream",
+        "trickle",
+        "urine"
       ],
       "refer": "",
-      "meaning": "an indication of involuntary urination",
-      "type": "",
+      "meaning": "spreading or moving liquid, often used to express involuntary urination",
+      "type": "m",
       "example": [{
         "file": "showa-1a",
         "contributor": "",
@@ -20716,8 +20730,8 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "to move very quickly with only the sound of flowing air, often vanishing",
-        "type": "",
+        "meaning": "a sudden disappearance or extremely fast motion",
+        "type": "m",
         "example": [
           {
             "file": "shu-1a",
@@ -20730,6 +20744,12 @@
             "contributor": "",
             "display": "シュッ",
             "source": "shogun_gold_in_america"
+          },
+          {
+            "file": "shu-1c",
+            "contributor": "",
+            "display": "シュッ",
+            "source": "world_full_of_monsters"
           }
         ]
       },
@@ -20737,12 +20757,15 @@
         "equivalent": [
           "fsshh",
           "hiss",
+          "poof",
+          "puff",
           "sshh",
-          "sss"
+          "sss",
+          "whaft"
         ],
         "refer": "",
-        "meaning": "an indication or sound of leaking air or gas",
-        "type": "",
+        "meaning": "soft puffing of air or fumes",
+        "type": "o",
         "example": [
           {
             "file": "shu-2a",
@@ -20757,26 +20780,6 @@
             "source": "isekai_av_filming"
           }
         ]
-      },
-      {
-        "equivalent": [
-          "block",
-          "check",
-          "halt",
-          "hinder",
-          "impede",
-          "obstruct",
-          "stop"
-        ],
-        "refer": "",
-        "meaning": "a blocking maneuver in combat",
-        "type": "",
-        "example": [{
-          "file": "shu-3a",
-          "contributor": "",
-          "display": "シュッ",
-          "source": "world_full_of_monsters"
-        }]
       }
     ],
     "literal": "shu"
@@ -20793,14 +20796,14 @@
     "definition": [{
       "equivalent": [
         "swish",
+        "swoosh",
         "whoosh",
         "zip",
-        "zoom",
-        "swoosh"
+        "zoom"
       ],
       "refer": "",
-      "meaning": "a swift, precise or cutting motion",
-      "type": "",
+      "meaning": "swift and precise movement",
+      "type": "m",
       "example": [{
         "file": "shubba-1a",
         "contributor": "",
@@ -20836,8 +20839,8 @@
           "unhappy"
         ],
         "refer": "",
-        "meaning": "an expression of sadness or gloom",
-        "type": "",
+        "meaning": "a sad slump or drooping",
+        "type": "e",
         "example": [
           {
             "file": "shun-1a",
@@ -20860,15 +20863,9 @@
         ]
       },
       {
-        "equivalent": [
-          "fwip",
-          "whiz",
-          "whoosh",
-          "zip",
-          "zoom"
-        ],
-        "refer": "",
-        "meaning": "to move quickly with only the sound of flowing air, often vanishing",
+        "equivalent": [""],
+        "refer": "shu:1",
+        "meaning": "",
         "type": "",
         "example": [
           {
@@ -20901,16 +20898,22 @@
       "equivalent": [
         "coil",
         "curl",
+        "slide",
+        "slip",
         "snake",
         "spiral",
         "swirl",
+        "tie",
         "twist",
+        "uncoil",
+        "untie",
+        "unwind",
         "wind",
         "wrap"
       ],
       "refer": "",
-      "meaning": "an indication of a snake-like movement",
-      "type": "",
+      "meaning": "a smoothly sliding or coiling/uncong motion, typically of something long",
+      "type": "m",
       "example": [
         {
           "file": "shuru-1a",
@@ -20942,19 +20945,14 @@
       "シュシュシュッ"
     ],
     "definition": [{
-      "equivalent": [
-        "fsshh",
-        "hiss",
-        "sshh",
-        "sss"
-      ],
-      "refer": "",
-      "meaning": "an indication or sound of leaking air or gas, sometimes used to express embarrassment or confusion",
+      "equivalent": [""],
+      "refer": "shu:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "shu_shu-1a",
         "contributor": "",
-        "display": "しゅしゅしゅ",
+        "display": "しゅ しゅ しゅ",
         "source": "yojo_life"
       }]
     }],

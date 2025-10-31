@@ -1,17 +1,30 @@
 {
-  "hiragana": ["しっしっ"],
-  "katakana": ["シッシッ"],
-  "definition": [{
-    "equivalent": ["shoo"],
-    "refer": "",
-    "meaning": "an expression meant to send or scare away someone or something",
-    "type": "",
-    "example": [{
-      "file": "shi_shi-1a",
-      "contributor": "",
-      "display": "しっ しっ",
-      "source": "fushi_no_kami"
-    }]
-  }],
-  "literal": "shi shi"
+  "literal": "shi shi",
+  "katakana": [
+    "シッシッ"
+  ],
+  "hiragana": [
+    "しっしっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a shooing gesture",
+      "equivalent": [
+        "go away",
+        "scram",
+        "shoo",
+        "shoo away"
+      ],
+      "example": [
+        {
+          "source": "fushi_no_kami",
+          "file": "shi_shi-1a",
+          "display": "しっ しっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

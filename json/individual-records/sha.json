@@ -1,50 +1,54 @@
 {
-  "hiragana": [
-    "しゃ",
-    "しゃっ",
-    "しや",
-    "しやっ"
-  ],
+  "literal": "sha",
   "katakana": [
     "シャ",
     "シャッ",
     "シヤ",
     "シヤッ"
   ],
+  "hiragana": [
+    "しゃ",
+    "しゃっ",
+    "しや",
+    "しやっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "light, quick cut or slice",
       "equivalent": [
         "cut",
         "slice",
         "slit"
       ],
-      "refer": "",
-      "meaning": "the sound of cutting into something, as with a sharp knife",
-      "type": "",
-      "example": [{
-        "file": "sha-1a",
-        "contributor": "",
-        "display": "シヤッ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "example": [
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "sha-1a",
+          "display": "シヤッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "soft hissing or spraying sound",
       "equivalent": [
         "hiss",
         "shaa",
         "sss",
         "whizz"
       ],
-      "refer": "",
-      "meaning": "a hissing or spraying sound",
-      "type": "",
-      "example": [{
-        "file": "sha-2a",
-        "contributor": "",
-        "display": "シヤー",
-        "source": "double_play"
-      }]
+      "example": [
+        {
+          "source": "double_play",
+          "file": "sha-2a",
+          "display": "シャー",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "sha"
+  ]
 }
