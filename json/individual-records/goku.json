@@ -1,42 +1,40 @@
 {
-  "literal": "goku",
-  "katakana": [
-    "ゴク",
-    "ゴクッ"
-  ],
   "hiragana": [
     "ごく",
     "ごくっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "gulping or swallowing",
-      "equivalent": [
-        "gulp",
-        "swallow"
-      ],
-      "example": [
-        {
-          "source": "strongest_failure_frame",
-          "file": "goku-1a",
-          "display": "ゴクッ...",
-          "contributor": ""
-        },
-        {
-          "source": "a_rank_slow_life",
-          "file": "goku-1b",
-          "display": "ゴク",
-          "contributor": ""
-        },
-        {
-          "source": "dog_became_strongest",
-          "file": "goku-1c",
-          "display": "ごく",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ゴク",
+    "ゴクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gulp",
+      "swallow"
+    ],
+    "refer": "",
+    "meaning": "gulping or swallowing",
+    "type": "v",
+    "example": [
+      {
+        "file": "goku-1a",
+        "contributor": "",
+        "display": "ゴクッ\u2026",
+        "source": "strongest_failure_frame"
+      },
+      {
+        "file": "goku-1b",
+        "contributor": "",
+        "display": "ゴク",
+        "source": "a_rank_slow_life"
+      },
+      {
+        "file": "goku-1c",
+        "contributor": "",
+        "display": "ごく",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "literal": "goku"
 }

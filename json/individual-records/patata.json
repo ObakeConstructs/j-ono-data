@@ -1,32 +1,24 @@
 {
-  "literal": "patata",
-  "katakana": [
-    "パタタ"
-  ],
-  "hiragana": [
-    "ぱたた"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "a light, rapid pattering sound",
-      "equivalent": [
-        "dribble",
-        "drip",
-        "pat",
-        "patter",
-        "pitter",
-        "spatter"
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "patata-1a",
-          "display": "パタタ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぱたた"],
+  "katakana": ["パタタ"],
+  "definition": [{
+    "equivalent": [
+      "dribble",
+      "drip",
+      "pat",
+      "patter",
+      "pitter",
+      "spatter"
+    ],
+    "refer": "",
+    "meaning": "a light, rapid pattering sound",
+    "type": "o",
+    "example": [{
+      "file": "patata-1a",
+      "contributor": "",
+      "display": "パタタ\u2026",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "patata"
 }

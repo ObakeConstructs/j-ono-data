@@ -9,8 +9,8 @@
   ],
   "definition": [{
     "equivalent": [
-      "simmer simmer",
-      "boil boil"
+      "simmer",
+      "boil"
     ],
     "refer": "",
     "meaning": "an indication or sound of simmering or boiling",
@@ -18,7 +18,7 @@
     "example": [{
       "file": "koto_koto-1a",
       "contributor": "",
-      "display": "コト  コト  コト",
+      "display": "コト コト コト",
       "source": "way_of_the_house_husband"
     }]
   }],

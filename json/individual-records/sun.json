@@ -21,15 +21,15 @@
     "type": "",
     "example": [
       {
-        "file": "sun-1b",
+        "file": "sun-1a",
         "contributor": "",
         "display": "すんっ",
         "source": "spy_x_family"
       },
       {
-        "file": "sun-1c",
+        "file": "sun-1b",
         "contributor": "",
-        "display": "スン...",
+        "display": "スン\u2026",
         "source": "yojo_life"
       }
     ]

@@ -3,12 +3,12 @@
   "katakana": ["コクコク"],
   "definition": [{
     "equivalent": [
-      "agree agree",
-      "nod nod",
-      "okay okay",
-      "yeah yeah",
-      "yep yep",
-      "yes yes"
+      "agree",
+      "nod",
+      "okay",
+      "yeah",
+      "yep",
+      "yes"
     ],
     "refer": "",
     "meaning": "repeatedly nodding the head, as expressing agreement or assent",
@@ -16,7 +16,7 @@
     "example": [{
       "file": "koku_koku-1a",
       "contributor": "",
-      "display": "コク  コク",
+      "display": "コク コク",
       "source": "abandoned_reincarnation_sage"
     }]
   }],

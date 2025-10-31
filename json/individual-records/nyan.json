@@ -1,29 +1,23 @@
 {
-  "literal": "nyan",
-  "katakana": [
-    "ニャン",
-    "ニャーン"
-  ],
   "hiragana": [
     "にゃん",
     "にゃーん"
   ],
-  "definition": [
-    {
-      "refer": "nya:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "nyan-1a",
-          "display": "にゃーん!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ニャン",
+    "ニャーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "nya:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "nyan-1a",
+      "contributor": "",
+      "display": "にゃーん!",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "nyan"
 }

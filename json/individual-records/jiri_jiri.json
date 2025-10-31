@@ -1,27 +1,17 @@
 {
-  "literal": "jiri jiri",
-  "katakana": [
-    "ジリジリ"
-  ],
-  "hiragana": [
-    "じりじり"
-  ],
-  "definition": [
-    {
-      "refer": "jiri:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "jiri_jiri-1a",
-          "display": "ジリ  ジリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["じりじり"],
+  "katakana": ["ジリジリ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "jiri:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jiri_jiri-1a",
+      "contributor": "",
+      "display": "ジリ ジリ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "jiri jiri"
 }

@@ -1,39 +1,31 @@
 {
-  "literal": "kacha kacha",
-  "katakana": [
-    "カチャカチャ"
-  ],
-  "hiragana": [
-    "かちゃかちゃ"
-  ],
-  "definition": [
-    {
-      "refer": "kacha:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "kacha_kacha-1a",
-          "display": "カチャ  カチャ",
-          "contributor": ""
-        },
-        {
-          "source": "neet_kunoichi",
-          "file": "kacha_kacha-1b",
-          "display": "カチャ  カチャ",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "kacha_kacha-1c",
-          "display": "カチャ  カチャ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["かちゃかちゃ"],
+  "katakana": ["カチャカチャ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "kacha:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "kacha_kacha-1a",
+        "contributor": "",
+        "display": "カチャ カチャ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "kacha_kacha-1b",
+        "contributor": "",
+        "display": "カチャ カチャ",
+        "source": "neet_kunoichi"
+      },
+      {
+        "file": "kacha_kacha-1c",
+        "contributor": "",
+        "display": "カチャ カチャ",
+        "source": "gyaru_academy"
+      }
+    ]
+  }],
+  "literal": "kacha kacha"
 }

@@ -1,22 +1,18 @@
 {
-  "literal": "jara",
-  "katakana": [
-    "ジャラ",
-    "ジャララ",
-    "ジャラッ",
-    "ジャララッ"
-  ],
   "hiragana": [
     "じゃら",
     "じゃらら",
     "じゃらっ",
     "じゃららっ"
   ],
+  "katakana": [
+    "ジャラ",
+    "ジャララ",
+    "ジャラッ",
+    "ジャララッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "sharp, light clinking or jingling, usually metallic",
       "equivalent": [
         "ching",
         "clink",
@@ -25,36 +21,36 @@
         "tink",
         "tinkle"
       ],
+      "refer": "",
+      "meaning": "sharp, light clinking or jingling, usually metallic",
+      "type": "o",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "jara-1a",
+          "contributor": "",
           "display": "ジャラ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "jara-1b",
+          "contributor": "",
           "display": "ジャララ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     },
     {
+      "equivalent": [""],
       "refer": "ban:2",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "shogun_gold_in_america",
-          "file": "jara-2a",
-          "display": "じゃらっ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "jara-2a",
+        "contributor": "",
+        "display": "じゃらっ",
+        "source": "shogun_gold_in_america"
+      }]
     }
-  ]
+  ],
+  "literal": "jara"
 }

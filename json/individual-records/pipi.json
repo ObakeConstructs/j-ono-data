@@ -1,46 +1,44 @@
 {
-  "literal": "pipi",
-  "katakana": [
-    "ピピ",
-    "ピピピ",
-    "ピッピッ",
-    "ピッピッピッ"
-  ],
   "hiragana": [
     "ぴぴ",
     "ぴぴぴ",
     "ぴっぴっ",
     "ぴっぴっぴっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "quick, high-pitched chirps or tones",
-      "equivalent": [
-        "beep",
-        "cheep",
-        "chirp",
-        "ding",
-        "peep",
-        "ping",
-        "pip",
-        "tweet"
-      ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "pipi-1a",
-          "display": "ぴぴぴ",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "pipi-1b",
-          "display": "ピッ  ピッ  ピッ  ピッ  ピッ  ピッ  ピッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピピ",
+    "ピピピ",
+    "ピッピッ",
+    "ピッピッピッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beep",
+      "cheep",
+      "chirp",
+      "ding",
+      "peep",
+      "ping",
+      "pip",
+      "tweet"
+    ],
+    "refer": "",
+    "meaning": "quick, high-pitched chirps or tones",
+    "type": "o",
+    "example": [
+      {
+        "file": "pipi-1a",
+        "contributor": "",
+        "display": "ぴぴぴ",
+        "source": "my_s-ranked_daughter"
+      },
+      {
+        "file": "pipi-1b",
+        "contributor": "",
+        "display": "ピッ ピッ ピッ ピッ ピッ ピッ ピッ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "literal": "pipi"
 }

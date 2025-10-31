@@ -1,27 +1,17 @@
 {
-  "literal": "rero rero",
-  "katakana": [
-    "レロレロ"
-  ],
-  "hiragana": [
-    "れろれろ"
-  ],
-  "definition": [
-    {
-      "refer": "rero:1",
-      "type": "",
-      "meaning": "s",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "rero_rero-1a",
-          "display": "レロ  レロ  レロ  レロ  レロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["れろれろ"],
+  "katakana": ["レロレロ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "rero:1",
+    "meaning": "s",
+    "type": "",
+    "example": [{
+      "file": "rero_rero-1a",
+      "contributor": "",
+      "display": "レロ レロ レロ レロ レロ",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "rero rero"
 }

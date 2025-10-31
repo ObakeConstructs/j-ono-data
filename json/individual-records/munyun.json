@@ -1,33 +1,25 @@
 {
-  "literal": "munyun",
-  "katakana": [
-    "ムニュン"
-  ],
-  "hiragana": [
-    "むにゅん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "a soft and pliable texture, typically of flesh or fabric",
-      "equivalent": [
-        "flesh",
-        "pliable",
-        "soft",
-        "squish",
-        "squishy",
-        "squoosh",
-        "supple"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "munyun-1a",
-          "display": "むにゅん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["むにゅん"],
+  "katakana": ["ムニュン"],
+  "definition": [{
+    "equivalent": [
+      "flesh",
+      "pliable",
+      "soft",
+      "squish",
+      "squishy",
+      "squoosh",
+      "supple"
+    ],
+    "refer": "",
+    "meaning": "a soft and pliable texture, typically of flesh or fabric",
+    "type": "s",
+    "example": [{
+      "file": "munyun-1a",
+      "contributor": "",
+      "display": "むにゅん",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "munyun"
 }

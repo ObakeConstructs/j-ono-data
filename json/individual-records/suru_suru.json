@@ -3,9 +3,9 @@
   "katakana": ["スルスル"],
   "definition": [{
     "equivalent": [
-      "nimble nimble",
-      "smooth  smooth",
-      "swift swift"
+      "nimble",
+      "smooth",
+      "swift"
     ],
     "refer": "",
     "meaning": "an smooth or nimble action or movement",
@@ -13,7 +13,7 @@
     "example": [{
       "file": "suru_suru-1a",
       "contributor": "",
-      "display": "する  する...",
+      "display": "する する\u2026",
       "source": "s_rank_behemoth"
     }]
   }],

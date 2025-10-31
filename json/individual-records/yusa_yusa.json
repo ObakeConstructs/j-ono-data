@@ -3,9 +3,9 @@
   "katakana": ["ユサユサ"],
   "definition": [{
     "equivalent": [
-      "shake shake",
-      "move move",
-      "push push"
+      "shake",
+      "move",
+      "push"
     ],
     "refer": "",
     "meaning": "an indication of moving something to and fro",
@@ -13,7 +13,7 @@
     "example": [{
       "file": "yusa_yusa-1a",
       "contributor": "",
-      "display": "ゆさ  ゆさ",
+      "display": "ゆさ ゆさ",
       "source": "35_year_olds_choice"
     }]
   }],

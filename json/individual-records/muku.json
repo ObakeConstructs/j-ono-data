@@ -1,48 +1,46 @@
 {
-  "literal": "muku",
-  "katakana": [
-    "ムク",
-    "ムクッ"
-  ],
   "hiragana": [
     "むく",
     "むくっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "to suddenly wake up or get up, usually from lying down",
-      "equivalent": [
-        "fwip",
-        "get up",
-        "rise up",
-        "sit up",
-        "spring up",
-        "stand",
-        "stand up",
-        "wake up"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "muku-1a",
-          "display": "ムクッ",
-          "contributor": ""
-        },
-        {
-          "source": "uncle_at_heart",
-          "file": "muku-1b",
-          "display": "むく...",
-          "contributor": ""
-        },
-        {
-          "source": "uncle_at_heart",
-          "file": "muku-1c",
-          "display": "むくっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ムク",
+    "ムクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fwip",
+      "get up",
+      "rise up",
+      "sit up",
+      "spring up",
+      "stand",
+      "stand up",
+      "wake up"
+    ],
+    "refer": "",
+    "meaning": "to suddenly wake up or get up, usually from lying down",
+    "type": "s",
+    "example": [
+      {
+        "file": "muku-1a",
+        "contributor": "",
+        "display": "ムクッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "muku-1b",
+        "contributor": "",
+        "display": "むく\u2026",
+        "source": "uncle_at_heart"
+      },
+      {
+        "file": "muku-1c",
+        "contributor": "",
+        "display": "むくっ",
+        "source": "uncle_at_heart"
+      }
+    ]
+  }],
+  "literal": "muku"
 }

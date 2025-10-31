@@ -1,41 +1,39 @@
 {
-  "literal": "jiwa",
-  "katakana": [
-    "ジワ",
-    "ジワッ"
-  ],
   "hiragana": [
     "じわ",
     "じわっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "a gradual seeping or oozing of a liquid",
-      "equivalent": [
-        "drip",
-        "exude",
-        "flow",
-        "ooze",
-        "seep",
-        "tears",
-        "weep"
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "jiwa-1a",
-          "display": "じわっ",
-          "contributor": ""
-        },
-        {
-          "source": "double_play",
-          "file": "jiwa-1b",
-          "display": "じわ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジワ",
+    "ジワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drip",
+      "exude",
+      "flow",
+      "ooze",
+      "seep",
+      "tears",
+      "weep"
+    ],
+    "refer": "",
+    "meaning": "gradual seeping or oozing of a liquid",
+    "type": "m",
+    "example": [
+      {
+        "file": "jiwa-1a",
+        "contributor": "",
+        "display": "じわっ",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "jiwa-1b",
+        "contributor": "",
+        "display": "じわ\u2026",
+        "source": "double_play"
+      }
+    ]
+  }],
+  "literal": "jiwa"
 }

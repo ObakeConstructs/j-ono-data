@@ -1,18 +1,14 @@
 {
-  "literal": "gurun",
-  "katakana": [
-    "グルン",
-    "グルンッ"
-  ],
   "hiragana": [
     "ぐるん",
     "ぐるんっ"
   ],
+  "katakana": [
+    "グルン",
+    "グルンッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "turning, rolling, or flipping movement",
       "equivalent": [
         "flip",
         "pivot",
@@ -23,31 +19,25 @@
         "turn",
         "twist"
       ],
+      "refer": "",
+      "meaning": "turning, rolling, or flipping movement",
+      "type": "m",
       "example": [
         {
-          "source": "bungo",
           "file": "gurun-1a",
+          "contributor": "",
           "display": "ぐるん",
-          "contributor": ""
+          "source": "bungo"
         },
         {
-          "source": "saga_lagging_hero",
-          "file": "gurun-1c",
+          "file": "gurun-1b",
+          "contributor": "",
           "display": "ぐるん",
-          "contributor": ""
-        },
-        {
-          "source": "saga_lagging_hero",
-          "file": "gurun-1c",
-          "display": "ぐるん",
-          "contributor": ""
+          "source": "saga_lagging_hero"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a fast, sudden or jerky movement",
       "equivalent": [
         "flick",
         "flit",
@@ -55,14 +45,16 @@
         "whip",
         "zip"
       ],
-      "example": [
-        {
-          "source": "strongest_failure_frame",
-          "file": "gurun-1b",
-          "display": "ぐ<sub><sup>る</sup></sub>んっ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a fast, sudden or jerky movement",
+      "type": "m",
+      "example": [{
+        "file": "gurun-2a",
+        "contributor": "",
+        "display": "ぐ<sub><sup>る<\/sup><\/sub>んっ",
+        "source": "strongest_failure_frame"
+      }]
     }
-  ]
+  ],
+  "literal": "gurun"
 }

@@ -1,35 +1,31 @@
 {
-  "literal": "giri giri",
-  "katakana": [
-    "ギリギリ",
-    "ギリギリリ"
-  ],
   "hiragana": [
     "ぎりぎり",
     "ぎりぎりり"
   ],
-  "definition": [
-    {
-      "refer": "giri:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "berserk",
-          "file": "giri_giri-1a",
-          "display": "ギリ  ギリ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "giri_giri-1b",
-          "display": "ギリ  ギリリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギリギリ",
+    "ギリギリリ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "giri:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "giri_giri-1a",
+        "contributor": "",
+        "display": "ギリ ギリ",
+        "source": "berserk"
+      },
+      {
+        "file": "giri_giri-1b",
+        "contributor": "",
+        "display": "ギリ ギリリ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "giri giri"
 }

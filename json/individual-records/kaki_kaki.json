@@ -1,41 +1,35 @@
 {
-  "literal": "kaki kaki",
-  "katakana": [
-    "カキカキ"
-  ],
-  "hiragana": [
-    "かきかき"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the scratching sound of writing or scribbling, as with a pen or pencil",
-      "equivalent": [
-        "click",
-        "draw",
-        "print",
-        "scrape",
-        "scratch",
-        "scribble",
-        "stroke",
-        "tap",
-        "write"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "kaki_kaki-1a",
-          "display": "カキ  カキ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "kaki_kaki-1b",
-          "display": "カキ  カキ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["かきかき"],
+  "katakana": ["カキカキ"],
+  "definition": [{
+    "equivalent": [
+      "click",
+      "draw",
+      "print",
+      "scrape",
+      "scratch",
+      "scribble",
+      "stroke",
+      "tap",
+      "write"
+    ],
+    "refer": "",
+    "meaning": "the scratching sound of writing or scribbling, as with a pen or pencil",
+    "type": "o",
+    "example": [
+      {
+        "file": "kaki_kaki-1a",
+        "contributor": "",
+        "display": "カキ カキ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "kaki_kaki-1b",
+        "contributor": "",
+        "display": "カキ カキ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "kaki kaki"
 }

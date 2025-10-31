@@ -1,17 +1,4 @@
 {
-  "literal": "sa",
-  "katakana": [
-    "サ",
-    "サッ",
-    "サー",
-    "サーッ",
-    "サァ",
-    "サァァ",
-    "サァァァ",
-    "サア",
-    "サアア",
-    "サアッ"
-  ],
   "hiragana": [
     "さ",
     "さっ",
@@ -24,11 +11,20 @@
     "さああ",
     "さあっ"
   ],
+  "katakana": [
+    "サ",
+    "サッ",
+    "サー",
+    "サーッ",
+    "サァ",
+    "サァァ",
+    "サァァァ",
+    "サア",
+    "サアア",
+    "サアッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "soft swooshing or rushing sound",
       "equivalent": [
         "drizzle",
         "drops",
@@ -39,31 +35,31 @@
         "swish",
         "swoosh"
       ],
+      "refer": "",
+      "meaning": "soft swooshing or rushing sound",
+      "type": "o",
       "example": [
         {
-          "source": "d_genesis",
           "file": "sa-1a",
-          "display": "サァァァ...",
-          "contributor": ""
+          "contributor": "",
+          "display": "サァァァ\u2026",
+          "source": "d_genesis"
         },
         {
-          "source": "beastly_boys_and_girls",
           "file": "sa-1b",
-          "display": "さああ....",
-          "contributor": ""
+          "contributor": "",
+          "display": "さああ\u2026.",
+          "source": "beastly_boys_and_girls"
         },
         {
-          "source": "ai_and_izawa",
           "file": "sa-1c",
+          "contributor": "",
           "display": "サァァァ",
-          "contributor": ""
+          "source": "ai_and_izawa"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "sudden worry or anxiety",
       "equivalent": [
         "anxiety",
         "chill",
@@ -72,19 +68,17 @@
         "unnerve",
         "worry"
       ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "sa-2a",
-          "display": "サァー...",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "sudden worry or anxiety",
+      "type": "e",
+      "example": [{
+        "file": "sa-2a",
+        "contributor": "",
+        "display": "サァー\u2026",
+        "source": "hello_work"
+      }]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "quick, light movement",
       "equivalent": [
         "dart",
         "dodge",
@@ -96,31 +90,31 @@
         "step",
         "zip"
       ],
+      "refer": "",
+      "meaning": "quick, light movement",
+      "type": "m",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "sa-3a",
+          "contributor": "",
           "display": "サッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "sa-3b",
+          "contributor": "",
           "display": "サッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "uncle_at_heart",
           "file": "sa-3c",
+          "contributor": "",
           "display": "さっ",
-          "contributor": ""
+          "source": "uncle_at_heart"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a soft or quiet step",
       "equivalent": [
         "footfall",
         "step",
@@ -128,20 +122,24 @@
         "tiptoe",
         "tread"
       ],
+      "refer": "",
+      "meaning": "a soft or quiet step",
+      "type": "m",
       "example": [
         {
-          "source": "uncle_at_heart",
-          "file": "sa-5a",
-          "display": "さあ...",
-          "contributor": ""
+          "file": "sa-4a",
+          "contributor": "",
+          "display": "さあ\u2026",
+          "source": "uncle_at_heart"
         },
         {
-          "source": "isekai_sniper",
-          "file": "sa-5b",
+          "file": "sa-4b",
+          "contributor": "",
           "display": "サッ",
-          "contributor": ""
+          "source": "isekai_sniper"
         }
       ]
     }
-  ]
+  ],
+  "literal": "sa"
 }

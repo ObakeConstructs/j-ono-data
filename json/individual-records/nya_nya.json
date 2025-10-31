@@ -1,33 +1,25 @@
 {
-  "literal": "nya nya",
-  "katakana": [
-    "ニャニャ"
-  ],
-  "hiragana": [
-    "にゃにゃ"
-  ],
-  "definition": [
-    {
-      "refer": "nya:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "nya_nya-1a",
-          "display": "ニャ  ニャ",
-          "contributor": ""
-        },
-        {
-          "source": "yojo_life",
-          "file": "nya_nya-1b",
-          "display": "にゃ  にゃ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["にゃにゃ"],
+  "katakana": ["ニャニャ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "nya:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "nya_nya-1a",
+        "contributor": "",
+        "display": "ニャ ニャ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "nya_nya-1b",
+        "contributor": "",
+        "display": "にゃ にゃ",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "literal": "nya nya"
 }

@@ -1,48 +1,46 @@
 {
-  "literal": "pashi",
-  "katakana": [
-    "パシ",
-    "パシッ"
-  ],
   "hiragana": [
     "ぱし",
     "ぱしっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the quick sound of grabbing and catching something",
-      "equivalent": [
-        "catch",
-        "get",
-        "grab",
-        "grasp",
-        "grip",
-        "hold",
-        "nab",
-        "snag"
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "pashi-1a",
-          "display": "ぱしっ",
-          "contributor": ""
-        },
-        {
-          "source": "hanako_24th_ward",
-          "file": "pashi-1b",
-          "display": "パシッ",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "pashi-1c",
-          "display": "パシッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "パシ",
+    "パシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "catch",
+      "get",
+      "grab",
+      "grasp",
+      "grip",
+      "hold",
+      "nab",
+      "snag"
+    ],
+    "refer": "",
+    "meaning": "the quick sound of grabbing and catching something",
+    "type": "o",
+    "example": [
+      {
+        "file": "pashi-1a",
+        "contributor": "",
+        "display": "ぱしっ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "pashi-1b",
+        "contributor": "",
+        "display": "パシッ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "pashi-1c",
+        "contributor": "",
+        "display": "パシッ",
+        "source": "gyaru_academy"
+      }
+    ]
+  }],
+  "literal": "pashi"
 }

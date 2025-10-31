@@ -1,29 +1,23 @@
 {
-  "literal": "pishan",
-  "katakana": [
-    "ピシャン",
-    "ピシャーン"
-  ],
   "hiragana": [
     "ぴしゃん",
     "ぴしゃーん"
   ],
-  "definition": [
-    {
-      "refer": "pisha:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "simple_sword_saint",
-          "file": "pishan-1a",
-          "display": "ピシャーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピシャン",
+    "ピシャーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pisha:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "pishan-1a",
+      "contributor": "",
+      "display": "ピシャーン",
+      "source": "simple_sword_saint"
+    }]
+  }],
+  "literal": "pishan"
 }

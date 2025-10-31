@@ -1,34 +1,30 @@
 {
-  "literal": "sawa",
-  "katakana": [
-    "サワ",
-    "サワッ"
-  ],
   "hiragana": [
     "さわ",
     "さわっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "a light, gentle touch or momentary contact",
-      "equivalent": [
-        "brush",
-        "caress",
-        "feel",
-        "fondle",
-        "pet",
-        "touch"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "sawa-1a",
-          "display": "さわっ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "サワ",
+    "サワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "brush",
+      "caress",
+      "feel",
+      "fondle",
+      "pet",
+      "touch"
+    ],
+    "refer": "",
+    "meaning": "a light, gentle touch or momentary contact",
+    "type": "m",
+    "example": [{
+      "file": "sawa-1a",
+      "contributor": "",
+      "display": "さわっ\u2026",
+      "source": "double_play"
+    }]
+  }],
+  "literal": "sawa"
 }

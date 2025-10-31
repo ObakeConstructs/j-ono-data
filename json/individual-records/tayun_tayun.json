@@ -3,13 +3,13 @@
   "katakana": ["タュンタュン"],
   "definition": [{
     "equivalent": [
-      "bounce bounce",
-      "jiggle jiggle",
-      "boing boing",
-      "quiver quiver",
-      "shake shake",
-      "sway sway",
-      "wobble wobble"
+      "bounce",
+      "jiggle",
+      "boing",
+      "quiver",
+      "shake",
+      "sway",
+      "wobble"
     ],
     "refer": "",
     "meaning": "an indication of bouncing or jiggling",
@@ -17,7 +17,7 @@
     "example": [{
       "file": "tayun_tayun-1a",
       "contributor": "",
-      "display": "たゅん  たゅん",
+      "display": "たゅん たゅん",
       "source": "isekai_sniper"
     }]
   }],

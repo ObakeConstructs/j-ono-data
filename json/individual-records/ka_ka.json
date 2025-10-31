@@ -1,37 +1,33 @@
 {
-  "literal": "ka ka",
-  "katakana": [
-    "カカ",
-    "カッカッ",
-    "カツカツ"
-  ],
   "hiragana": [
     "かか",
     "かっかっ",
     "かつかつ"
   ],
-  "definition": [
-    {
-      "refer": "ka:3",
-      "type": "",
-      "meaning": "s",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "shogun_gold_in_america",
-          "file": "ka_ka-1a",
-          "display": "カツ  カツ",
-          "contributor": ""
-        },
-        {
-          "source": "way_of_the_house_husband",
-          "file": "ka_ka-1b",
-          "display": "カッ  カッ  カッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "カカ",
+    "カッカッ",
+    "カツカツ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ka:3",
+    "meaning": "s",
+    "type": "",
+    "example": [
+      {
+        "file": "ka_ka-1a",
+        "contributor": "",
+        "display": "カツ カツ",
+        "source": "shogun_gold_in_america"
+      },
+      {
+        "file": "ka_ka-1b",
+        "contributor": "",
+        "display": "カッ カッ カッ",
+        "source": "way_of_the_house_husband"
+      }
+    ]
+  }],
+  "literal": "ka ka"
 }

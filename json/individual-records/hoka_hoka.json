@@ -1,36 +1,30 @@
 {
-  "literal": "hoka hoka",
-  "katakana": [
-    "ホカホカ"
-  ],
-  "hiragana": [
-    "ほかほか"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "fresh and warm, as of freshly cooked food",
-      "equivalent": [
-        "fresh",
-        "steamy",
-        "toasty",
-        "warm"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "hoka_hoka-1a",
-          "display": "ホカ  ホカ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "hoka_hoka-1b",
-          "display": "ホカ  ホカ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ほかほか"],
+  "katakana": ["ホカホカ"],
+  "definition": [{
+    "equivalent": [
+      "fresh",
+      "steamy",
+      "toasty",
+      "warm"
+    ],
+    "refer": "",
+    "meaning": "fresh and warm, as of freshly cooked food",
+    "type": "s",
+    "example": [
+      {
+        "file": "hoka_hoka-1a",
+        "contributor": "",
+        "display": "ホカ ホカ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "hoka_hoka-1b",
+        "contributor": "",
+        "display": "ホカ ホカ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "hoka hoka"
 }

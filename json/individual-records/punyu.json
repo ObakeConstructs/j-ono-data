@@ -1,29 +1,23 @@
 {
-  "literal": "punyu",
-  "katakana": [
-    "プニュ",
-    "プニュッ"
-  ],
   "hiragana": [
     "ぷにゅ",
     "ぷにゅっ"
   ],
-  "definition": [
-    {
-      "refer": "puni:1",
-      "type": "",
-      "meaning": ", often cute or humorous",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "punyu-1a",
-          "display": "ぷにゅ...っ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プニュ",
+    "プニュッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "puni:1",
+    "meaning": ", often cute or humorous",
+    "type": "",
+    "example": [{
+      "file": "punyu-1a",
+      "contributor": "",
+      "display": "ぷにゅ\u2026っ",
+      "source": "beastly_boys_and_girls"
+    }]
+  }],
+  "literal": "punyu"
 }

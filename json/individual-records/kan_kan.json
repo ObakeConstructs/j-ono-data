@@ -1,32 +1,24 @@
 {
-  "literal": "kan kan",
-  "katakana": [
-    "カンカン"
-  ],
-  "hiragana": [
-    "かんかん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "sharp metallic impacts or clanging, as from a bell",
-      "equivalent": [
-        "clang",
-        "clank",
-        "ding",
-        "gong",
-        "ring",
-        "tang"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "kan_kan-1a",
-          "display": "カン  カン  カン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["かんかん"],
+  "katakana": ["カンカン"],
+  "definition": [{
+    "equivalent": [
+      "clang",
+      "clank",
+      "ding",
+      "gong",
+      "ring",
+      "tang"
+    ],
+    "refer": "",
+    "meaning": "sharp metallic impacts or clanging, as from a bell",
+    "type": "o",
+    "example": [{
+      "file": "kan_kan-1a",
+      "contributor": "",
+      "display": "カン カン カン",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "kan kan"
 }

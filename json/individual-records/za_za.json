@@ -18,10 +18,10 @@
   "definition": [
     {
       "equivalent": [
-        "crunch crunch",
+        "crunch",
         "crush",
-        "step step",
-        "stomp stomp",
+        "step",
+        "stomp",
         "stroll",
         "walk"
       ],
@@ -32,30 +32,30 @@
         {
           "file": "za_za-1a",
           "contributor": "",
-          "display": "ザッ  ザッ",
+          "display": "ザッ ザッ",
           "source": "d_genesis"
         },
         {
           "file": "za_za-1b",
           "contributor": "",
-          "display": "ザッ...  ザッ...",
+          "display": "ザッ\u2026 ザッ\u2026",
           "source": "abandoned_reincarnation_sage"
         },
         {
           "file": "za_za-1c",
           "contributor": "",
-          "display": "ザ  ザ",
+          "display": "ザ ザ",
           "source": "modern_dungeon_capture"
         }
       ]
     },
     {
       "equivalent": [
-        "fwoosh fwoosh",
+        "fwoosh",
         "gush",
         "pour",
-        "pssh pssh",
-        "shaa shaa",
+        "pssh",
+        "shaa",
         "splash",
         "sploosh",
         "spray",
@@ -82,7 +82,7 @@
         {
           "file": "za_za-2c",
           "contributor": "",
-          "display": "ザザァ...",
+          "display": "ザザァ\u2026",
           "source": "sex_with_me_sells"
         }
       ]

@@ -23,7 +23,7 @@
     "example": [{
       "file": "ze-1a",
       "contributor": "",
-      "display": "ぜ...",
+      "display": "ぜ\u2026",
       "source": "world_full_of_monsters"
     }]
   }],

@@ -1,35 +1,31 @@
 {
-  "literal": "puchi",
-  "katakana": [
-    "プチ",
-    "プチッ"
-  ],
   "hiragana": [
     "ぷち",
     "ぷちっ"
   ],
-  "definition": [
-    {
-      "refer": "pu:2",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "puchi-1a",
-          "display": "プチッ",
-          "contributor": ""
-        },
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "puchi-1b",
-          "display": "プチ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プチ",
+    "プチッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pu:2",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "puchi-1a",
+        "contributor": "",
+        "display": "プチッ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "puchi-1b",
+        "contributor": "",
+        "display": "プチ",
+        "source": "embarrassing_and_sweet"
+      }
+    ]
+  }],
+  "literal": "puchi"
 }

@@ -1,33 +1,27 @@
 {
-  "literal": "juwa",
-  "katakana": [
-    "ジュワ",
-    "ジュワワ",
-    "ジュワァ",
-    "ジュワワァ"
-  ],
   "hiragana": [
     "じゅわ",
     "じゅわわ",
     "じゅわぁ",
     "じゅわわぁ"
   ],
-  "definition": [
-    {
-      "refer": "ju:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "dungeon_dining_room",
-          "file": "juwa-1a",
-          "display": "ジュワワァー",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジュワ",
+    "ジュワワ",
+    "ジュワァ",
+    "ジュワワァ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ju:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "juwa-1a",
+      "contributor": "",
+      "display": "ジュワワァー",
+      "source": "dungeon_dining_room"
+    }]
+  }],
+  "literal": "juwa"
 }

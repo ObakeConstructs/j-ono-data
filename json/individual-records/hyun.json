@@ -1,41 +1,37 @@
 {
-  "literal": "hyun",
-  "katakana": [
-    "ヒュン",
-    "ヒュンッ"
-  ],
   "hiragana": [
     "ひゅん",
     "ひゅんっ"
   ],
-  "definition": [
-    {
-      "refer": "hyu:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "hyun-1a",
-          "display": "ヒュンッ",
-          "contributor": ""
-        },
-        {
-          "source": "hanako_24th_ward",
-          "file": "hyun-1b",
-          "display": "ヒュン",
-          "contributor": ""
-        },
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "hyun-1c",
-          "display": "ヒュン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヒュン",
+    "ヒュンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "hyu:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "hyun-1a",
+        "contributor": "",
+        "display": "ヒュンッ",
+        "source": "hello_work"
+      },
+      {
+        "file": "hyun-1b",
+        "contributor": "",
+        "display": "ヒュン",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "hyun-1c",
+        "contributor": "",
+        "display": "ヒュン",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "literal": "hyun"
 }

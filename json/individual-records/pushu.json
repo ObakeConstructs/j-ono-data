@@ -1,48 +1,46 @@
 {
-  "literal": "pushu",
-  "katakana": [
-    "プシュー",
-    "プシューッ"
-  ],
   "hiragana": [
     "ぷしゅー",
     "ぷしゅーっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "a metaphoric mental deflation, used to express embarrassment, confusion, or being overwhelmed",
-      "equivalent": [
-        "abashed",
-        "bemused",
-        "confused",
-        "deflate",
-        "dismay",
-        "embarrassed",
-        "fizz",
-        "flustered",
-        "hiss",
-        "humiliated",
-        "overwhelmed",
-        "psss",
-        "pssshhh",
-        "ssss"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "pushu-1a",
-          "display": "プシューッ",
-          "contributor": ""
-        },
-        {
-          "source": "yojo_life",
-          "file": "pushu-1b",
-          "display": "プシュ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プシュー",
+    "プシューッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "abashed",
+      "bemused",
+      "confused",
+      "deflate",
+      "dismay",
+      "embarrassed",
+      "fizz",
+      "flustered",
+      "hiss",
+      "humiliated",
+      "overwhelmed",
+      "psss",
+      "pssshhh",
+      "ssss"
+    ],
+    "refer": "",
+    "meaning": "a metaphoric mental deflation, used to express embarrassment, confusion, or being overwhelmed",
+    "type": "e",
+    "example": [
+      {
+        "file": "pushu-1a",
+        "contributor": "",
+        "display": "プシューッ",
+        "source": "hello_work"
+      },
+      {
+        "file": "pushu-1b",
+        "contributor": "",
+        "display": "プシュ",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "literal": "pushu"
 }

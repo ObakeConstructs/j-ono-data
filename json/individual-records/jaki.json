@@ -1,51 +1,47 @@
 {
-  "literal": "jaki",
-  "katakana": [
-    "ジャキ",
-    "ジャキッ"
-  ],
   "hiragana": [
     "じゃき",
     "じゃきっ"
   ],
+  "katakana": [
+    "ジャキ",
+    "ジャキッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "the sharp metallic sound of a weapon drawn or readied",
       "equivalent": [
         "ching",
         "jing",
         "shaa",
         "shing"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "jaki-1a",
-          "display": "ジャキ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "the sharp metallic sound of a weapon drawn or readied",
+      "type": "o",
+      "example": [{
+        "file": "jaki-1a",
+        "contributor": "",
+        "display": "ジャキ",
+        "source": "different_world_smartphone"
+      }]
     },
     {
-      "refer": "",
-      "type": "c",
-      "meaning": "the sudden flash of a sharp or dangerous edge",
       "equivalent": [
         "danger",
         "edge",
         "glint",
         "sharp"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "jaki-1b",
-          "display": "じゃきっ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "the sudden flash of a sharp or dangerous edge",
+      "type": "c",
+      "example": [{
+        "file": "jaki-2a",
+        "contributor": "",
+        "display": "じゃきっ",
+        "source": "world_full_of_monsters"
+      }]
     }
-  ]
+  ],
+  "literal": "jaki"
 }

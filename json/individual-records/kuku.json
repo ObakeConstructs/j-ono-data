@@ -7,25 +7,43 @@
     "クク",
     "ククッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "snicker",
-      "giggle",
-      "chuckle",
-      "titter",
-      "chortle",
-      "laugh",
-      "cackle"
-    ],
-    "refer": "",
-    "meaning": "the sound of a snicker or giggle",
-    "type": "",
-    "example": [{
-      "file": "kuku-1a",
-      "contributor": "",
-      "display": "くくっ",
-      "source": "drawing"
-    }]
-  }],
+  "definition": [
+    {
+      "equivalent": [
+        "snicker",
+        "giggle",
+        "chuckle",
+        "titter",
+        "chortle",
+        "laugh",
+        "cackle"
+      ],
+      "refer": "",
+      "meaning": "the sound of a snicker or giggle",
+      "type": "",
+      "example": [{
+        "file": "kuku-1a",
+        "contributor": "",
+        "display": "くくっ",
+        "source": "drawing"
+      }]
+    },
+    {
+      "equivalent": [
+        "creak",
+        "rustle",
+        "grind"
+      ],
+      "refer": "",
+      "meaning": "a creaking sound of tightening rope or leather",
+      "type": "",
+      "example": [{
+        "file": "kuku-2a",
+        "contributor": "",
+        "display": "クク..",
+        "source": "isekai_sniper"
+      }]
+    }
+  ],
   "literal": "kuku"
 }

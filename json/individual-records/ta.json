@@ -48,7 +48,7 @@
         {
           "file": "ta-2a",
           "contributor": "",
-          "display": "たっ...",
+          "display": "たっ\u2026",
           "source": "abandoned_reincarnation_sage"
         },
         {
@@ -60,7 +60,7 @@
         {
           "file": "ta-2c",
           "contributor": "",
-          "display": "タッ...!",
+          "display": "タッ\u2026!",
           "source": "eternal_fool_asley"
         }
       ]
@@ -73,7 +73,7 @@
         "tap"
       ],
       "refer": "",
-      "meaning": "a soft sound of a controlled ninja-like landing",
+      "meaning": "the soft sound of a controlled ninja-like landing",
       "type": "",
       "example": [{
         "file": "ta-3a",

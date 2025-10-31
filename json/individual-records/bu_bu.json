@@ -13,8 +13,8 @@
   ],
   "definition": [{
     "equivalent": [
-      "boop boop",
-      "buzz buzz"
+      "boop",
+      "buzz"
     ],
     "refer": "",
     "meaning": "a low-pitched beeping or buzzing",
@@ -22,7 +22,7 @@
     "example": [{
       "file": "bu_bu-1a",
       "contributor": "",
-      "display": "ブー  ブー",
+      "display": "ブー ブー",
       "source": "neet_kunoichi"
     }]
   }],

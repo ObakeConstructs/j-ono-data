@@ -5,13 +5,13 @@
     "equivalent": [
       "careen",
       "clumsy",
-      "lurch lurch",
-      "shuffle shuffle",
-      "stagger stagger",
-      "sway sway",
-      "totter totter",
+      "lurch",
+      "shuffle",
+      "stagger",
+      "sway",
+      "totter",
       "unsteady",
-      "waddle waddle"
+      "waddle"
     ],
     "refer": "",
     "meaning": "an indication of unsteadiness or clumsiness",
@@ -20,13 +20,13 @@
       {
         "file": "yota_yota-1a",
         "contributor": "",
-        "display": "よた  よた",
+        "display": "よた よた",
         "source": "uncle_at_heart"
       },
       {
         "file": "yota_yota-1b",
         "contributor": "",
-        "display": "ヨタ  ヨタ",
+        "display": "ヨタ ヨタ",
         "source": "rock_n_roll_ladies"
       }
     ]

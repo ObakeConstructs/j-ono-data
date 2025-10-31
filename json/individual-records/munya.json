@@ -1,27 +1,17 @@
 {
-  "literal": "munya",
-  "katakana": [
-    "ムニャ"
-  ],
-  "hiragana": [
-    "むにゃ"
-  ],
-  "definition": [
-    {
-      "refer": "muni:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "munya-1a",
-          "display": "ムニャ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["むにゃ"],
+  "katakana": ["ムニャ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "muni:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "munya-1a",
+      "contributor": "",
+      "display": "ムニャ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "munya"
 }

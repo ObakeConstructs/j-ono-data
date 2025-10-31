@@ -24,7 +24,7 @@
       "example": [{
         "file": "tsu-1a",
         "contributor": "",
-        "display": "ツ...!!",
+        "display": "ツ\u2026!!",
         "source": "world_full_of_monsters"
       }]
     },

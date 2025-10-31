@@ -13,20 +13,20 @@
   ],
   "definition": [{
     "equivalent": [
-      "bam bam",
-      "bang bang",
-      "boom boom",
-      "click click",
+      "bam",
+      "bang",
+      "boom",
+      "click",
       "clickity click",
-      "crack crack",
-      "knock knock",
-      "pop pop",
-      "step step",
-      "stomp stomp",
-      "tap tap",
-      "thump pthump",
+      "crack",
+      "knock",
+      "pop",
+      "step",
+      "stomp",
+      "tap",
+      "thump",
       "ticka tick",
-      "wham wham"
+      "wham"
     ],
     "refer": "",
     "meaning": "short and sharp impacts, typically rhythmic",
@@ -41,13 +41,13 @@
       {
         "file": "da_da-1b",
         "contributor": "",
-        "display": "ダ  ダ  ダ  ダ  ダ  ダ",
+        "display": "ダ ダ ダ ダ ダ ダ",
         "source": "saga_lagging_hero"
       },
       {
         "file": "da_da-1c",
         "contributor": "",
-        "display": "ダッ  ダッ  ダッ",
+        "display": "ダッ ダッ ダッ",
         "source": "kaijuu_sdf"
       }
     ]

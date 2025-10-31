@@ -9,10 +9,10 @@
   ],
   "definition": [{
     "equivalent": [
-      "grind grind",
-      "rasp rasp",
-      "scrape scrape",
-      "clash clash"
+      "grind",
+      "rasp",
+      "scrape",
+      "clash"
     ],
     "refer": "",
     "meaning": "a loud scrape or grinding noise",
@@ -20,7 +20,7 @@
     "example": [{
       "file": "zari_zari-1a",
       "contributor": "",
-      "display": "ザリ  ザリ  ザリ",
+      "display": "ザリ ザリ ザリ",
       "source": "saga_lagging_hero"
     }]
   }],

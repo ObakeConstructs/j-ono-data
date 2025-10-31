@@ -1,29 +1,23 @@
 {
-  "literal": "jun jun",
-  "katakana": [
-    "ジュン",
-    "ジュンッ"
-  ],
   "hiragana": [
     "じゅん",
     "じゅんっ"
   ],
-  "definition": [
-    {
-      "refer": "jiwa:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "jun_jun-1a",
-          "display": "ジュン♡  ジュン♡",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジュン",
+    "ジュンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "jiwa:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jun_jun-1a",
+      "contributor": "",
+      "display": "ジュン♡ ジュン♡",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "jun jun"
 }

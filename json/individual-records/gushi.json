@@ -1,33 +1,29 @@
 {
-  "literal": "gushi",
-  "katakana": [
-    "グシ",
-    "グシッ"
-  ],
   "hiragana": [
     "ぐし",
     "ぐしっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the sound of roughly pressing or rubbing something soft",
-      "equivalent": [
-        "press",
-        "push",
-        "rub",
-        "scrub",
-        "wipe"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "gushi-1a",
-          "display": "ぐしっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グシ",
+    "グシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "press",
+      "push",
+      "rub",
+      "scrub",
+      "wipe"
+    ],
+    "refer": "",
+    "meaning": "the sound of roughly pressing or rubbing something soft",
+    "type": "o",
+    "example": [{
+      "file": "gushi-1a",
+      "contributor": "",
+      "display": "ぐしっ",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "gushi"
 }

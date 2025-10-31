@@ -1,64 +1,60 @@
 {
-  "literal": "pachi pachi",
-  "katakana": [
-    "パチパチ"
-  ],
-  "hiragana": [
-    "ぱちぱち"
-  ],
+  "hiragana": ["ぱちぱち"],
+  "katakana": ["パチパチ"],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "continuous popping or crackling, as from a fire",
       "equivalent": [
         "crackle",
         "pop",
         "snap"
       ],
+      "refer": "",
+      "meaning": "continuous popping or crackling, as from a fire",
+      "type": "o",
       "example": [
         {
-          "source": "hello_work",
           "file": "pachi_pachi-1a",
-          "display": "パチ  パチ",
-          "contributor": ""
+          "contributor": "",
+          "display": "パチ パチ",
+          "source": "hello_work"
         },
         {
-          "source": "isekai_pickup",
           "file": "pachi_pachi-1b",
-          "display": "パチ  パチ",
-          "contributor": ""
+          "contributor": "",
+          "display": "パチ パチ",
+          "source": "isekai_pickup"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "applause",
       "equivalent": [
         "applause",
         "clapping"
       ],
+      "refer": "",
+      "meaning": "applause",
+      "type": "o",
       "example": [
         {
-          "source": "reincarnated_aristocrat",
           "file": "pachi_pachi-2a",
-          "display": "パチ  パチ",
-          "contributor": ""
+          "contributor": "",
+          "display": "パチ パチ",
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "pachi_pachi-2b",
-          "display": "パチ  パチ",
-          "contributor": ""
+          "contributor": "",
+          "display": "パチ パチ",
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "cheat_pharmacist",
           "file": "pachi_pachi-2c",
-          "display": "パチ  パチ  パチ",
-          "contributor": ""
+          "contributor": "",
+          "display": "パチ パチ パチ",
+          "source": "cheat_pharmacist"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pachi pachi"
 }

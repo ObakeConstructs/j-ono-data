@@ -3,10 +3,10 @@
   "katakana": ["タタンタタン"],
   "definition": [{
     "equivalent": [
-      "cla-clack cla-clack",
-      "clatter clatter",
-      "rattle rattle",
-      "ta-ta ta-ta"
+      "cla-clack",
+      "clatter",
+      "rattle",
+      "ta-ta"
     ],
     "refer": "",
     "meaning": "the sound of a train moving rapidly on its tracks",
@@ -14,7 +14,7 @@
     "example": [{
       "file": "tatan_tatan-1a",
       "contributor": "",
-      "display": "タタン  タタン",
+      "display": "タタン タタン",
       "source": "spy_x_family"
     }]
   }],

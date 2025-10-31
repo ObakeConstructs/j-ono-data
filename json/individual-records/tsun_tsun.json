@@ -3,16 +3,16 @@
   "katakana": ["ツンツン"],
   "definition": [{
     "equivalent": [
-      "nip nip",
-      "nudge nudge",
-      "pinch pinch",
-      "pluck pluck",
-      "poke poke",
-      "pull pull",
-      "push push",
-      "tap tap",
-      "tug tug",
-      "prod prod"
+      "nip",
+      "nudge",
+      "pinch",
+      "pluck",
+      "poke",
+      "pull",
+      "push",
+      "tap",
+      "tug",
+      "prod"
     ],
     "refer": "",
     "meaning": "a series of quick or gentle pinching, poking or prodding",
@@ -21,7 +21,7 @@
       {
         "file": "tsun_tsun-1a",
         "contributor": "",
-        "display": "つん  つん",
+        "display": "つん つん",
         "source": "d_genesis"
       },
       {
@@ -33,13 +33,13 @@
       {
         "file": "tsun_tsun-1c",
         "contributor": "",
-        "display": "つん  つん",
+        "display": "つん つん",
         "source": "hone_dragon"
       },
       {
         "file": "tsun_tsun-1d",
         "contributor": "",
-        "display": "ツン  ツン",
+        "display": "ツン ツン",
         "source": "cheat_pharmacist"
       }
     ]

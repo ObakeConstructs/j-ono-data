@@ -1,47 +1,43 @@
 {
-  "literal": "purun",
-  "katakana": [
-    "プルン",
-    "プルンッ"
-  ],
   "hiragana": [
     "ぷるん",
     "ぷるんっ"
   ],
-  "definition": [
-    {
-      "refer": "puru:2",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "purun-1a",
-          "display": "ぷるん",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "purun-1b",
-          "display": "プルン",
-          "contributor": ""
-        },
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "purun-1c",
-          "display": "ぷるん",
-          "contributor": ""
-        },
-        {
-          "source": "35_year_olds_choice",
-          "file": "purun-1d",
-          "display": "ぷるんっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プルン",
+    "プルンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "puru:2",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "purun-1a",
+        "contributor": "",
+        "display": "ぷるん",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "purun-1b",
+        "contributor": "",
+        "display": "プルン",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "purun-1c",
+        "contributor": "",
+        "display": "ぷるん",
+        "source": "rise_of_the_outlaw_tamer"
+      },
+      {
+        "file": "purun-1d",
+        "contributor": "",
+        "display": "ぷるんっ",
+        "source": "35_year_olds_choice"
+      }
+    ]
+  }],
+  "literal": "purun"
 }

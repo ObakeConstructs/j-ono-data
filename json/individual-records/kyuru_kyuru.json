@@ -3,12 +3,12 @@
   "katakana": ["キュルキュル"],
   "definition": [{
     "equivalent": [
-      "hum hum",
-      "buzz buzz",
-      "motor motor",
-      "move move",
-      "zoom zoom",
-      "whir whir"
+      "hum",
+      "buzz",
+      "motor",
+      "move",
+      "zoom",
+      "whir"
     ],
     "refer": "",
     "meaning": "the indication or sound of tiny motors moving",
@@ -16,7 +16,7 @@
     "example": [{
       "file": "kyuru_kyuru-1a",
       "contributor": "",
-      "display": "キュル  キュル",
+      "display": "キュル キュル",
       "source": "ai_and_izawa"
     }]
   }],

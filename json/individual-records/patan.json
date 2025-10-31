@@ -1,18 +1,14 @@
 {
-  "literal": "patan",
-  "katakana": [
-    "パタン",
-    "パタンッ"
-  ],
   "hiragana": [
     "ぱたん",
     "ぱたんっ"
   ],
+  "katakana": [
+    "パタン",
+    "パタンッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "closing or latching",
       "equivalent": [
         "bam",
         "bop",
@@ -25,42 +21,42 @@
         "tchk",
         "thump"
       ],
+      "refer": "",
+      "meaning": "closing or latching",
+      "type": "m",
       "example": [
         {
-          "source": "d_genesis",
           "file": "patan-1a",
+          "contributor": "",
           "display": "パタン",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "peter_grill",
           "file": "patan-1b",
+          "contributor": "",
           "display": "パタン",
-          "contributor": ""
+          "source": "peter_grill"
         },
         {
-          "source": "ai_and_izawa",
           "file": "patan-1c",
+          "contributor": "",
           "display": "パタン",
-          "contributor": ""
+          "source": "ai_and_izawa"
         }
       ]
     },
     {
+      "equivalent": [""],
       "refer": "pata:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "patan-2a",
-          "display": "ぱたん",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "patan-2a",
+        "contributor": "",
+        "display": "ぱたん",
+        "source": "different_world_smartphone"
+      }]
     }
-  ]
+  ],
+  "literal": "patan"
 }

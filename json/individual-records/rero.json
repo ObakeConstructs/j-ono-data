@@ -3,18 +3,18 @@
   "katakana": ["レロ"],
   "definition": [{
     "equivalent": [
-      "lick",
       "lap",
       "lash",
-      "flick"
+      "lick",
+      "slurp"
     ],
     "refer": "",
-    "meaning": "an indication or sound of tongue licking",
-    "type": "",
+    "meaning": "wet and drawn-out licking sound",
+    "type": "o",
     "example": [{
       "file": "rero-1a",
       "contributor": "",
-      "display": "レロ...",
+      "display": "レロ\u2026",
       "source": "double_play"
     }]
   }],

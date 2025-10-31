@@ -1,31 +1,25 @@
 {
-  "literal": "mishi mishi",
-  "katakana": [
-    "ミシミシ",
-    "ミシミシッ",
-    "ミシッミシッ"
-  ],
   "hiragana": [
     "みしみし",
     "みしみしっ",
     "みしっみしっ"
   ],
-  "definition": [
-    {
-      "refer": "mishi:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "mishi-1a",
-          "display": "ミシ  ミシ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ミシミシ",
+    "ミシミシッ",
+    "ミシッミシッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "mishi:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "mishi_mishi-1a",
+      "contributor": "",
+      "display": "ミシ ミシ\u2026",
+      "source": "hanako_24th_ward"
+    }]
+  }],
+  "literal": "mishi mishi"
 }

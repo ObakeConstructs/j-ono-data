@@ -1,28 +1,20 @@
 {
-  "literal": "jaka jaka",
-  "katakana": [
-    "ジャカジャカ"
-  ],
-  "hiragana": [
-    "じゃかじゃか"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "rapid rattling or clattering",
-      "equivalent": [
-        "clatter",
-        "rattle"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "jaka_jaka-1a",
-          "display": "ジャカ  ジャカ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["じゃかじゃか"],
+  "katakana": ["ジャカジャカ"],
+  "definition": [{
+    "equivalent": [
+      "clatter",
+      "rattle"
+    ],
+    "refer": "",
+    "meaning": "rapid rattling or clattering",
+    "type": "o",
+    "example": [{
+      "file": "jaka_jaka-1a",
+      "contributor": "",
+      "display": "ジャカ ジャカ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "jaka jaka"
 }

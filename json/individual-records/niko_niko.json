@@ -1,35 +1,31 @@
 {
-  "literal": "niko niko",
-  "katakana": [
-    "ニコニコ",
-    "ニッコニッコ"
-  ],
   "hiragana": [
     "にこにこ",
     "にっこにっこ"
   ],
-  "definition": [
-    {
-      "refer": "niko:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "komi_cant_communicate",
-          "file": "niko_niko-1a",
-          "display": "ニコ  ニコ",
-          "contributor": ""
-        },
-        {
-          "source": "yojo_life",
-          "file": "niko_niko-1b",
-          "display": "ニッコ  ニッコ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ニコニコ",
+    "ニッコニッコ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "niko:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "niko_niko-1a",
+        "contributor": "",
+        "display": "ニコ ニコ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "niko_niko-1b",
+        "contributor": "",
+        "display": "ニッコ ニッコ",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "literal": "niko niko"
 }

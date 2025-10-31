@@ -22,19 +22,19 @@
   "definition": [
     {
       "equivalent": [
-        "bam bam",
+        "bam",
         "clobber",
         "crunch",
-        "hit hit",
+        "hit",
         "impact",
-        "knock knock",
-        "pound pound",
-        "punch punch",
-        "slam slam",
-        "strike strike",
-        "thud thud",
-        "thunk thunk",
-        "wham wham"
+        "knock",
+        "pound",
+        "punch",
+        "slam",
+        "strike",
+        "thud",
+        "thunk",
+        "wham"
       ],
       "refer": "",
       "meaning": "sounds of painful, but non-fatal strikes",
@@ -42,17 +42,17 @@
       "example": [{
         "file": "do_do-1a",
         "contributor": "",
-        "display": "ドォ  ドォ",
+        "display": "ドォ ドォ",
         "source": "different_world_smartphone"
       }]
     },
     {
       "equivalent": [
-        "bang bang",
-        "blam blam",
-        "blast blast",
-        "boom boom",
-        "whump whump"
+        "bang",
+        "blam",
+        "blast",
+        "boom",
+        "whump"
       ],
       "refer": "",
       "meaning": "sounds of small explosions",
@@ -66,15 +66,15 @@
     },
     {
       "equivalent": [
-        "bom bom",
-        "race race",
-        "run run",
-        "sprint sprint",
-        "step step",
-        "stomp stomp",
-        "tap tap",
-        "thump thump",
-        "tromp tromp"
+        "bom",
+        "race",
+        "run",
+        "sprint",
+        "step",
+        "stomp",
+        "tap",
+        "thump",
+        "tromp"
       ],
       "refer": "",
       "meaning": "sounds of heavy or fast steps, as in stomping or running",
@@ -83,7 +83,7 @@
         {
           "file": "do_do-3a",
           "contributor": "",
-          "display": "ドドドド...",
+          "display": "ドドドド\u2026",
           "source": "kuma_kuma_kuma_bear"
         },
         {

@@ -9,13 +9,13 @@
   ],
   "definition": [{
     "equivalent": [
-      "bound bound",
-      "dash dash",
+      "bound",
+      "dash",
       "gallop",
-      "lope lope",
-      "run run",
-      "sprint sprint",
-      "trot trot"
+      "lope",
+      "run",
+      "sprint",
+      "trot"
     ],
     "refer": "",
     "meaning": "a fast-running gait, as that of a quadruped",
@@ -23,7 +23,7 @@
     "example": [{
       "file": "tata_tata-1a",
       "contributor": "",
-      "display": "タタッ  タタッ",
+      "display": "タタッ タタッ",
       "source": "dog_became_strongest"
     }]
   }],

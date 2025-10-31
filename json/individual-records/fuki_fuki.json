@@ -3,10 +3,10 @@
   "katakana": ["フキフキ"],
   "definition": [{
     "equivalent": [
-      "brush brush",
-      "rub rub",
-      "scrub scrub",
-      "wipe wipe"
+      "brush",
+      "rub",
+      "scrub",
+      "wipe"
     ],
     "refer": "",
     "meaning": "lightly brushing or wiping",
@@ -14,7 +14,7 @@
     "example": [{
       "file": "fuki_fuki-1a",
       "contributor": "",
-      "display": "ふき  ふき",
+      "display": "ふき ふき",
       "source": "beastly_boys_and_girls"
     }]
   }],

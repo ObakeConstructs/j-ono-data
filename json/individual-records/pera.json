@@ -1,35 +1,31 @@
 {
-  "literal": "pera",
-  "katakana": [
-    "ペラ",
-    "ペラッ"
-  ],
   "hiragana": [
     "ぺら",
     "ぺらっ"
   ],
-  "definition": [
-    {
-      "refer": "para:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "pera-1a",
-          "display": "ペラ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "pera-1b",
-          "display": "ペラッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ペラ",
+    "ペラッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "para:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "pera-1a",
+        "contributor": "",
+        "display": "ペラ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "pera-1b",
+        "contributor": "",
+        "display": "ペラッ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "pera"
 }

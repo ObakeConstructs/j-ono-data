@@ -1,30 +1,22 @@
 {
-  "literal": "nchu",
-  "katakana": [
-    "ンチュ"
-  ],
-  "hiragana": [
-    "んちゅ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "shy or bashful kissing",
-      "equivalent": [
-        "kiss",
-        "mwah",
-        "smooch",
-        "umma"
-      ],
-      "example": [
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "nchu-1a",
-          "display": "んちゅ..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["んちゅ"],
+  "katakana": ["ンチュ"],
+  "definition": [{
+    "equivalent": [
+      "kiss",
+      "mwah",
+      "smooch",
+      "umma"
+    ],
+    "refer": "",
+    "meaning": "shy or bashful kissing",
+    "type": "o",
+    "example": [{
+      "file": "nchu-1a",
+      "contributor": "",
+      "display": "んちゅ..",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "literal": "nchu"
 }

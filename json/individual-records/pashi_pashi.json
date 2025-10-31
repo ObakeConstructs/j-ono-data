@@ -1,18 +1,14 @@
 {
-  "literal": "pashi pashi",
-  "katakana": [
-    "パシパシ",
-    "パシッパシッ"
-  ],
   "hiragana": [
     "ぱしぱし",
     "ぱしっぱしっ"
   ],
+  "katakana": [
+    "パシパシ",
+    "パシッパシッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "quick slapping or smacking",
       "equivalent": [
         "biff",
         "bonk",
@@ -27,30 +23,28 @@
         "swipe",
         "thump"
       ],
-      "example": [
-        {
-          "source": "berserk",
-          "file": "pashi_pashi-1a",
-          "display": "パシパシ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "quick slapping or smacking",
+      "type": "o",
+      "example": [{
+        "file": "pashi_pashi-1a",
+        "contributor": "",
+        "display": "パシパシ",
+        "source": "berserk"
+      }]
     },
     {
+      "equivalent": [""],
       "refer": "pashi:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "pashi_pashi-2a",
-          "display": "ぱしっ  ぱしっ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "pashi_pashi-2a",
+        "contributor": "",
+        "display": "ぱしっ ぱしっ",
+        "source": "dog_became_strongest"
+      }]
     }
-  ]
+  ],
+  "literal": "pashi pashi"
 }

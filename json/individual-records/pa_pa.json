@@ -1,27 +1,17 @@
 {
-  "literal": "pa pa",
-  "katakana": [
-    "パッパッ"
-  ],
-  "hiragana": [
-    "ぱっぱっ"
-  ],
-  "definition": [
-    {
-      "refer": "pan pan:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "pa_pa-1a",
-          "display": "パッ  パッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぱっぱっ"],
+  "katakana": ["パッパッ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pan pan:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "pa_pa-1a",
+      "contributor": "",
+      "display": "パッ パッ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "pa pa"
 }

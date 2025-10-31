@@ -1,27 +1,17 @@
 {
-  "literal": "pusu",
-  "katakana": [
-    "プス"
-  ],
-  "hiragana": [
-    "ぷす"
-  ],
-  "definition": [
-    {
-      "refer": "pu:3",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "pusu-1a",
-          "display": "ぷす",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぷす"],
+  "katakana": ["プス"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pu:3",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "pusu-1a",
+      "contributor": "",
+      "display": "ぷす",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "pusu"
 }

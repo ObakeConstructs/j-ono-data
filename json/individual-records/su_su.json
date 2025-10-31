@@ -25,7 +25,7 @@
       "example": [{
         "file": "su_su-1a",
         "contributor": "",
-        "display": "すぅ  すぅ...",
+        "display": "すぅ すぅ\u2026",
         "source": "world_full_of_monsters"
       }]
     },
@@ -46,16 +46,16 @@
     },
     {
       "equivalent": [
-        "caress caress",
-        "flick flick",
-        "gesture gesture",
-        "grab grab",
-        "pat pat",
-        "pet pet",
-        "reach reach",
-        "slide slide",
-        "stroke stroke",
-        "take take"
+        "caress",
+        "flick",
+        "gesture",
+        "grab",
+        "pat",
+        "pet",
+        "reach",
+        "slide",
+        "stroke",
+        "take"
       ],
       "refer": "",
       "meaning": "simple or quick movements of the hand",

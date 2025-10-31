@@ -9,12 +9,12 @@
   ],
   "definition": [{
     "equivalent": [
-      "babel babel",
-      "blah blah",
-      "bustle bustle",
+      "babel",
+      "blah",
+      "bustle",
       "cacophony",
-      "chatter chatter",
-      "clamor clamor",
+      "chatter",
+      "clamor",
       "hubbub"
     ],
     "refer": "",
@@ -24,13 +24,13 @@
       {
         "file": "wai_wai-1a",
         "contributor": "",
-        "display": "わい  わい",
+        "display": "わい わい",
         "source": "abandoned_reincarnation_sage"
       },
       {
         "file": "wai_wai-1b",
         "contributor": "",
-        "display": "わい  わい  わい",
+        "display": "わい わい わい",
         "source": "yojo_life"
       }
     ]

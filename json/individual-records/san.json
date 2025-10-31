@@ -1,33 +1,29 @@
 {
-  "literal": "san",
-  "katakana": [
-    "サン",
-    "サンッ"
-  ],
   "hiragana": [
     "さん",
     "さんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "a swift, clean slicing motion",
-      "equivalent": [
-        "cleave",
-        "cut",
-        "slash",
-        "slice",
-        "slit"
-      ],
-      "example": [
-        {
-          "source": "killed_by_gods_mistake",
-          "file": "san-1a",
-          "display": "サンッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "サン",
+    "サンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "slash",
+      "slice",
+      "slit"
+    ],
+    "refer": "",
+    "meaning": "a swift, clean slicing motion",
+    "type": "m",
+    "example": [{
+      "file": "san-1a",
+      "contributor": "",
+      "display": "サンッ",
+      "source": "killed_by_gods_mistake"
+    }]
+  }],
+  "literal": "san"
 }

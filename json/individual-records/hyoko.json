@@ -1,40 +1,38 @@
 {
-  "literal": "hyoko",
-  "katakana": [
-    "ヒョコ",
-    "ヒョコッ"
-  ],
   "hiragana": [
     "ひょこ",
     "ひょこっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "taking a quick, subtle, or secretive peek",
-      "equivalent": [
-        "glance",
-        "glimpse",
-        "look",
-        "peek",
-        "peep",
-        "peep"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "hyoko-1a",
-          "display": "ひょこ",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_pickup",
-          "file": "hyoko-1b",
-          "display": "ヒョコッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヒョコ",
+    "ヒョコッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "glance",
+      "glimpse",
+      "look",
+      "peek",
+      "peep",
+      "peep"
+    ],
+    "refer": "",
+    "meaning": "taking a quick, subtle, or secretive peek",
+    "type": "m",
+    "example": [
+      {
+        "file": "hyoko-1a",
+        "contributor": "",
+        "display": "ひょこ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "hyoko-1b",
+        "contributor": "",
+        "display": "ヒョコッ",
+        "source": "isekai_pickup"
+      }
+    ]
+  }],
+  "literal": "hyoko"
 }

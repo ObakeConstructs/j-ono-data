@@ -1,38 +1,28 @@
 {
-  "literal": "peron",
-  "katakana": [
-    "ペロン"
-  ],
-  "hiragana": [
-    "ぺろん"
-  ],
+  "hiragana": ["ぺろん"],
+  "katakana": ["ペロン"],
   "definition": [
     {
+      "equivalent": [""],
       "refer": "pero:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
+      "type": "",
       "example": [
         {
-          "source": "s_rank_behemoth",
           "file": "peron-1a",
+          "contributor": "",
           "display": "ぺろん",
-          "contributor": ""
+          "source": "s_rank_behemoth"
         },
         {
-          "source": "dog_became_strongest",
           "file": "peron-1b",
+          "contributor": "",
           "display": "ぺろん",
-          "contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "lightly hanging or dangling",
       "equivalent": [
         "dangle",
         "drape",
@@ -40,14 +30,16 @@
         "suspend",
         "sway"
       ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "peron-2a",
-          "display": "ペロン",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "lightly hanging or dangling",
+      "type": "m",
+      "example": [{
+        "file": "peron-2a",
+        "contributor": "",
+        "display": "ペロン",
+        "source": "gyaru_academy"
+      }]
     }
-  ]
+  ],
+  "literal": "peron"
 }

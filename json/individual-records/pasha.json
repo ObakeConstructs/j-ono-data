@@ -1,16 +1,8 @@
 {
-  "literal": "pasha",
-  "katakana": [
-    "パシャ"
-  ],
-  "hiragana": [
-    "ぱしゃ"
-  ],
+  "hiragana": ["ぱしゃ"],
+  "katakana": ["パシャ"],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a quick splashing sound",
       "equivalent": [
         "slop",
         "slosh",
@@ -18,51 +10,55 @@
         "splash",
         "swash"
       ],
+      "refer": "",
+      "meaning": "a quick splashing sound",
+      "type": "o",
       "example": [
         {
-          "source": "hello_work",
           "file": "pasha-1a",
+          "contributor": "",
           "display": "パシャ",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "strongest_failure_frame",
           "file": "pasha-1b",
+          "contributor": "",
           "display": "パシャ",
-          "contributor": ""
+          "source": "strongest_failure_frame"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "the quick sound of a camera shutter or flash",
       "equivalent": [
         "click",
         "flash",
         "photo",
         "snap"
       ],
+      "refer": "",
+      "meaning": "the quick sound of a camera shutter or flash",
+      "type": "o",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "pasha-2a",
+          "contributor": "",
           "display": "パシャ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "double_play",
           "file": "pasha-2b",
+          "contributor": "",
           "display": "パシャー",
-          "contributor": ""
+          "source": "double_play"
         },
         {
-          "source": "saga_lagging_hero",
           "file": "pasha-2c",
+          "contributor": "",
           "display": "パシャッ",
-          "contributor": ""
+          "source": "saga_lagging_hero"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pasha"
 }

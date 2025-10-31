@@ -1,53 +1,47 @@
 {
-  "literal": "gi gi",
-  "katakana": [
-    "ギギ",
-    "ギギギ",
-    "ギギギギ"
-  ],
   "hiragana": [
     "ぎぎ",
     "ぎぎぎ",
     "ぎぎぎぎ"
   ],
+  "katakana": [
+    "ギギ",
+    "ギギギ",
+    "ギギギギ"
+  ],
   "definition": [
     {
+      "equivalent": [""],
       "refer": "gi:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "gigi-1a",
-          "display": "ギギギギギ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "gi_gi-1a",
+        "contributor": "",
+        "display": "ギギギギギ",
+        "source": "different_world_smartphone"
+      }]
     },
     {
+      "equivalent": [""],
       "refer": "gi:2",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
+      "type": "",
       "example": [
         {
-          "source": "s_rank_behemoth",
-          "file": "gigi-2a",
-          "display": "ギ...  ギギ...",
-          "contributor": ""
+          "file": "gi_gi-2a",
+          "contributor": "",
+          "display": "ギ\u2026 ギギ\u2026",
+          "source": "s_rank_behemoth"
         },
         {
-          "source": "otherworld_material_collector",
-          "file": "gigi-2b",
-          "display": "ギギギギ...",
-          "contributor": ""
+          "file": "gi_gi-2b",
+          "contributor": "",
+          "display": "ギギギギ\u2026",
+          "source": "otherworld_material_collector"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gi gi"
 }

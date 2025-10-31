@@ -1,35 +1,31 @@
 {
-  "literal": "pun",
-  "katakana": [
-    "プン",
-    "プンッ"
-  ],
   "hiragana": [
     "ぷん",
     "ぷんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "a small emotional outburst, expressing mild anger or irritation",
-      "equivalent": [
-        "angry",
-        "annoyed",
-        "indignant",
-        "irked",
-        "irritated",
-        "peeved",
-        "petulant"
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "pun-1a",
-          "display": "ぷんっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プン",
+    "プンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "angry",
+      "annoyed",
+      "indignant",
+      "irked",
+      "irritated",
+      "peeved",
+      "petulant"
+    ],
+    "refer": "",
+    "meaning": "a small emotional outburst, expressing mild anger or irritation",
+    "type": "e",
+    "example": [{
+      "file": "pun-1a",
+      "contributor": "",
+      "display": "ぷんっ",
+      "source": "isekai_territory_reform"
+    }]
+  }],
+  "literal": "pun"
 }

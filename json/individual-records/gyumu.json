@@ -1,29 +1,23 @@
 {
-  "literal": "gyumu",
-  "katakana": [
-    "ギュム",
-    "ギュムッ"
-  ],
   "hiragana": [
     "ぎゅむ",
     "ぎゅむっ"
   ],
-  "definition": [
-    {
-      "refer": "gyu:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gyumu-1a",
-          "display": "ぎゅむっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギュム",
+    "ギュムッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gyu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gyumu-1a",
+      "contributor": "",
+      "display": "ぎゅむっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "gyumu"
 }

@@ -3,11 +3,11 @@
   "katakana": ["コスコス"],
   "definition": [{
     "equivalent": [
-      "rub rub",
-      "scrub scrub",
-      "scour scour",
-      "press press",
-      "buff buff"
+      "rub",
+      "scrub",
+      "scour",
+      "press",
+      "buff"
     ],
     "refer": "",
     "meaning": "the indication or sound of rubbing or scrubbing with effort",
@@ -16,13 +16,13 @@
       {
         "file": "kosu_kosu-1a",
         "contributor": "",
-        "display": "コス  コス  コス  コス",
+        "display": "コス コス コス コス",
         "source": "double_play"
       },
       {
         "file": "kosu_kosu-1b",
         "contributor": "",
-        "display": "コス  コス",
+        "display": "コス コス",
         "source": "double_play"
       }
     ]

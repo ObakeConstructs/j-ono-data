@@ -9,30 +9,30 @@
   ],
   "definition": [{
     "equivalent": [
-      "glorp glorp",
-      "mwap mwap",
-      "shlop shlop",
-      "shmack shmack",
-      "smack smack",
-      "squelch squelch",
-      "kiss kiss",
-      "slup slup",
-      "slurp slurp"
+      "glorp",
+      "mwap",
+      "shlop",
+      "shmack",
+      "smack",
+      "squelch",
+      "kiss",
+      "slup",
+      "slurp"
     ],
     "refer": "",
     "meaning": "a series of wet smacking sounds, like chewing gum or kissing",
     "type": "",
     "example": [
       {
-        "file": "kuchu_kuchu-1b",
+        "file": "kuchu_kuchu-1a",
         "contributor": "",
-        "display": "くちゅ  くちゅっ",
+        "display": "くちゅ くちゅっ",
         "source": "35_year_olds_choice"
       },
       {
-        "file": "kuchu_kuchu-1a",
+        "file": "kuchu_kuchu-1b",
         "contributor": "",
-        "display": "クチュ  クチュ",
+        "display": "クチュ クチュ",
         "source": "rise_of_the_outlaw_tamer"
       }
     ]

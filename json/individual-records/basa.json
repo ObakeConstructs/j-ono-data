@@ -1,76 +1,72 @@
 {
-  "literal": "basa",
-  "katakana": [
-    "バサ",
-    "バサッ",
-    "バサァ",
-    "バサア"
-  ],
   "hiragana": [
     "ばさ",
     "ばさっ",
     "ばさぁ",
     "ばさあ"
   ],
+  "katakana": [
+    "バサ",
+    "バサッ",
+    "バサァ",
+    "バサア"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a rustling or flapping sound",
       "equivalent": [
         "crinkle",
         "flap",
         "rustle",
         "swish"
       ],
+      "refer": "",
+      "meaning": "a rustling or flapping sound",
+      "type": "o",
       "example": [
         {
-          "source": "hello_work",
           "file": "basa-1a",
+          "contributor": "",
           "display": "バサ",
-          "contributor": ""
+          "source": "hello_work"
         },
         {
-          "source": "weakest_occupation_blacksmith",
           "file": "basa-1b",
+          "contributor": "",
           "display": "バサ",
-          "contributor": ""
+          "source": "weakest_occupation_blacksmith"
         },
         {
-          "source": "modern_dungeon_capture",
           "file": "basa-1c",
+          "contributor": "",
           "display": "ばさッ",
-          "contributor": ""
+          "source": "modern_dungeon_capture"
         },
         {
-          "source": "neet_kunoichi",
           "file": "basa-1d",
+          "contributor": "",
           "display": "バサッ",
-          "contributor": ""
+          "source": "neet_kunoichi"
         },
         {
-          "source": "hero_or_demon_king",
           "file": "basa-1e",
+          "contributor": "",
           "display": "バサ",
-          "contributor": ""
+          "source": "hero_or_demon_king"
         }
       ]
     },
     {
+      "equivalent": [""],
       "refer": "ban:2",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "basa-2a",
-          "display": "バサァ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "basa-2a",
+        "contributor": "",
+        "display": "バサァ",
+        "source": "different_world_smartphone"
+      }]
     }
-  ]
+  ],
+  "literal": "basa"
 }

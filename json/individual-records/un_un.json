@@ -11,8 +11,8 @@
     {
       "equivalent": [
         "mm hmm",
-        "nod nod",
-        "yep yep"
+        "nod",
+        "yep"
       ],
       "refer": "",
       "meaning": "nodding the head repeatedly to express friendly agreement",
@@ -21,23 +21,23 @@
         {
           "file": "un_un-1a",
           "contributor": "",
-          "display": "うん  うん",
+          "display": "うん うん",
           "source": "d_genesis"
         },
         {
           "file": "un_un-1b",
           "contributor": "",
-          "display": "うん  うん",
+          "display": "うん うん",
           "source": "a_rank_slow_life"
         }
       ]
     },
     {
       "equivalent": [
-        "groan groan",
-        "moan moan",
-        "uhhh uhhh",
-        "ummm ummm"
+        "groan",
+        "moan",
+        "uhhh",
+        "ummm"
       ],
       "refer": "",
       "meaning": "a series of low sounds expressing pain or grief",
@@ -45,7 +45,7 @@
       "example": [{
         "file": "un_un-2a",
         "contributor": "",
-        "display": "ウーン  ウーン",
+        "display": "ウーン ウーン",
         "source": "komi_cant_communicate"
       }]
     }

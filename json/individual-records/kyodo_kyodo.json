@@ -3,10 +3,10 @@
   "katakana": ["キョドキョド"],
   "definition": [{
     "equivalent": [
-      "twitch twitch",
-      "fidget fidget",
-      "flit flit",
-      "pace pace"
+      "twitch",
+      "fidget",
+      "flit",
+      "pace"
     ],
     "refer": "",
     "meaning": "a series of jerky or restless movements",
@@ -14,7 +14,7 @@
     "example": [{
       "file": "kyodo_kyodo-1a",
       "contributor": "",
-      "display": "キョド  キョド",
+      "display": "キョド キョド",
       "source": "reincarnated_as_a_dragon_egg"
     }]
   }],

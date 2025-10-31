@@ -1,33 +1,25 @@
 {
-  "literal": "gachi",
-  "katakana": [
-    "ガチガチ"
-  ],
-  "hiragana": [
-    "がちがち"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "rigid stiffness or hardness",
-      "equivalent": [
-        "blank",
-        "expressionless",
-        "frozen",
-        "rigid",
-        "stiff",
-        "still",
-        "wooden"
-      ],
-      "example": [
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "gachi-1a",
-          "display": "ガチ  ガチ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["がちがち"],
+  "katakana": ["ガチガチ"],
+  "definition": [{
+    "equivalent": [
+      "blank",
+      "expressionless",
+      "frozen",
+      "rigid",
+      "stiff",
+      "still",
+      "wooden"
+    ],
+    "refer": "",
+    "meaning": "rigid stiffness or hardness",
+    "type": "s",
+    "example": [{
+      "file": "gachi-1a",
+      "contributor": "",
+      "display": "ガチ ガチ",
+      "source": "embarrassing_and_sweet"
+    }]
+  }],
+  "literal": "gachi"
 }

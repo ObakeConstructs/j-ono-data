@@ -3,9 +3,9 @@
   "katakana": ["スンスン"],
   "definition": [{
     "equivalent": [
-      "sniff sniff",
-      "snuff snuff",
-      "snuffle snuffle"
+      "sniff",
+      "snuff",
+      "snuffle"
     ],
     "refer": "",
     "meaning": "an sound of sniffing or snuffing",
@@ -14,25 +14,25 @@
       {
         "file": "sun_sun-1a",
         "contributor": "",
-        "display": "スン  スン",
+        "display": "スン スン",
         "source": "kuma_kuma_kuma_bear"
       },
       {
         "file": "sun_sun-1b",
         "contributor": "",
-        "display": "スン  スン",
+        "display": "スン スン",
         "source": "dog_became_strongest"
       },
       {
         "file": "sun_sun-1c",
         "contributor": "",
-        "display": "スン  スン",
+        "display": "スン スン",
         "source": "cheat_pharmacist"
       },
       {
         "file": "sun_sun-1d",
         "contributor": "",
-        "display": "すん  すん",
+        "display": "すん すん",
         "source": "beastly_boys_and_girls"
       }
     ]

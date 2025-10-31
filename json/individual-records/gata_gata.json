@@ -1,42 +1,34 @@
 {
-  "literal": "gata gata",
-  "katakana": [
-    "ガタガタ"
-  ],
-  "hiragana": [
-    "がたがた"
-  ],
+  "hiragana": ["がたがた"],
+  "katakana": ["ガタガタ"],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "sharp rattling or clattering",
       "equivalent": [
-        "clang clang",
+        "clang",
         "clatter",
-        "clunk clunk",
-        "creak creak",
+        "clunk",
+        "creak",
         "rattle"
       ],
+      "refer": "",
+      "meaning": "sharp rattling or clattering",
+      "type": "o",
       "example": [
         {
-          "source": "komi_cant_communicate",
           "file": "gata_gata-1a",
-          "display": "ガタ  ガタ",
-          "contributor": ""
+          "contributor": "",
+          "display": "ガタ ガタ",
+          "source": "komi_cant_communicate"
         },
         {
-          "source": "human_ranch",
           "file": "gata_gata-1b",
-          "display": "ガタ  ガタ",
-          "contributor": ""
+          "contributor": "",
+          "display": "ガタ ガタ",
+          "source": "human_ranch"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "s",
-      "meaning": "shaking or trembling, as from fear or cold",
       "equivalent": [
         "quiver",
         "shiver",
@@ -44,26 +36,30 @@
         "tremble",
         "wobble"
       ],
+      "refer": "",
+      "meaning": "shaking or trembling, as from fear or cold",
+      "type": "s",
       "example": [
         {
-          "source": "drawing",
           "file": "gata_gata-2a",
-          "display": "ガタ  ガタ  ガタ",
-          "contributor": ""
+          "contributor": "",
+          "display": "ガタ ガタ ガタ",
+          "source": "drawing"
         },
         {
-          "source": "isekai_sniper",
           "file": "gata_gata-2b",
-          "display": "ガタ  ガタ",
-          "contributor": ""
+          "contributor": "",
+          "display": "ガタ ガタ",
+          "source": "isekai_sniper"
         },
         {
-          "source": "ai_and_izawa",
           "file": "gata_gata-2c",
-          "display": "ガタ  ガタ  ガタ  ガタ",
-          "contributor": ""
+          "contributor": "",
+          "display": "ガタ ガタ ガタ ガタ",
+          "source": "ai_and_izawa"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gata gata"
 }

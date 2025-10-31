@@ -1,40 +1,32 @@
 {
-  "literal": "noso noso",
-  "katakana": [
-    "ノソノソ"
-  ],
-  "hiragana": [
-    "のそのそ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "slow or ponderous movement",
-      "equivalent": [
-        "crawl",
-        "creep",
-        "dawdle",
-        "heavy",
-        "lazy",
-        "lumber",
-        "plod",
-        "ponderous",
-        "saunter",
-        "shamble",
-        "shuffle",
-        "slow",
-        "slug",
-        "trudge"
-      ],
-      "example": [
-        {
-          "source": "hone_dragon",
-          "file": "noso_noso-1a",
-          "display": "のそ  のそ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["のそのそ"],
+  "katakana": ["ノソノソ"],
+  "definition": [{
+    "equivalent": [
+      "crawl",
+      "creep",
+      "dawdle",
+      "heavy",
+      "lazy",
+      "lumber",
+      "plod",
+      "ponderous",
+      "saunter",
+      "shamble",
+      "shuffle",
+      "slow",
+      "slug",
+      "trudge"
+    ],
+    "refer": "",
+    "meaning": "slow or ponderous movement",
+    "type": "s",
+    "example": [{
+      "file": "noso_noso-1a",
+      "contributor": "",
+      "display": "のそ のそ",
+      "source": "hone_dragon"
+    }]
+  }],
+  "literal": "noso noso"
 }

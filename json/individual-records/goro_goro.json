@@ -1,52 +1,48 @@
 {
-  "literal": "goro goro",
-  "katakana": [
-    "ゴロゴロ",
-    "ゴーロゴーロ"
-  ],
   "hiragana": [
     "ごろごろ",
     "ごーろごーろ"
   ],
+  "katakana": [
+    "ゴロゴロ",
+    "ゴーロゴーロ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "v",
-      "meaning": "the low vibration of a purring cat",
       "equivalent": [
         "purr",
         "thrum"
       ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "goro_goro-1a",
-          "display": "ゴーロ  ゴーロ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "the low vibration of a purring cat",
+      "type": "v",
+      "example": [{
+        "file": "goro_goro-1a",
+        "contributor": "",
+        "display": "ゴーロ ゴーロ",
+        "source": "s_rank_behemoth"
+      }]
     },
     {
+      "equivalent": [""],
       "refer": "goro:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
+      "type": "",
       "example": [
         {
-          "source": "neet_kunoichi",
           "file": "goro_goro-2a",
-          "display": "ゴロ  ゴロ",
-          "contributor": ""
+          "contributor": "",
+          "display": "ゴロ ゴロ",
+          "source": "neet_kunoichi"
         },
         {
-          "source": "hone_dragon",
           "file": "goro_goro-2b",
+          "contributor": "",
           "display": "ゴロゴロゴロロ",
-          "contributor": ""
+          "source": "hone_dragon"
         }
       ]
     }
-  ]
+  ],
+  "literal": "goro goro"
 }

@@ -3,11 +3,11 @@
   "katakana": ["クナクナ"],
   "definition": [{
     "equivalent": [
-      "quiver quiver",
-      "shiver shiver",
-      "shudder shudder",
-      "throb throb",
-      "tremble tremble"
+      "quiver",
+      "shiver",
+      "shudder",
+      "throb",
+      "tremble"
     ],
     "refer": "",
     "meaning": "a series of shaking or trembling  movements",
@@ -16,13 +16,13 @@
       {
         "file": "kuna_kuna-1a",
         "contributor": "",
-        "display": "クナ  クナ",
+        "display": "クナ クナ",
         "source": "otherworld_material_collector"
       },
       {
         "file": "kuna_kuna-1b",
         "contributor": "",
-        "display": "クナ  クナ..",
+        "display": "クナ クナ..",
         "source": "buy_the_land"
       }
     ]

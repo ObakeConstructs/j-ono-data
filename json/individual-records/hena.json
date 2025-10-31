@@ -1,35 +1,27 @@
 {
-  "literal": "hena",
-  "katakana": [
-    "へナ"
-  ],
-  "hiragana": [
-    "へな"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "limp, weak or collapsing, as from exhaustion",
-      "equivalent": [
-        "collapse",
-        "drained",
-        "knackered",
-        "limp",
-        "pooped",
-        "spent",
-        "tired",
-        "weak",
-        "weary"
-      ],
-      "example": [
-        {
-          "source": "sex_with_me_sells",
-          "file": "hena-1a",
-          "display": "へな...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["へな"],
+  "katakana": ["ヘナ"],
+  "definition": [{
+    "equivalent": [
+      "collapse",
+      "drained",
+      "knackered",
+      "limp",
+      "pooped",
+      "spent",
+      "tired",
+      "weak",
+      "weary"
+    ],
+    "refer": "",
+    "meaning": "limp, weak or collapsing, as from exhaustion",
+    "type": "s",
+    "example": [{
+      "file": "hena-1a",
+      "contributor": "",
+      "display": "へな\u2026",
+      "source": "sex_with_me_sells"
+    }]
+  }],
+  "literal": "hena"
 }

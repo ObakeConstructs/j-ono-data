@@ -1,18 +1,14 @@
 {
-  "literal": "hyoi",
-  "katakana": [
-    "ヒョイ",
-    "ヒョイッ"
-  ],
   "hiragana": [
     "ひょい",
     "ひょいっ"
   ],
+  "katakana": [
+    "ヒョイ",
+    "ヒョイッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a quick, agile, or effortless action",
       "equivalent": [
         "agile",
         "easy",
@@ -23,25 +19,25 @@
         "smooth",
         "spry"
       ],
+      "refer": "",
+      "meaning": "a quick, agile, or effortless action",
+      "type": "m",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "hyoi-1a",
+          "contributor": "",
           "display": "ひょい",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "isekai_sniper",
           "file": "hyoi-1b",
+          "contributor": "",
           "display": "ヒョイ",
-          "contributor": ""
+          "source": "isekai_sniper"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "c",
-      "meaning": "a sudden appearance or arrival",
       "equivalent": [
         "appear",
         "arrive",
@@ -50,14 +46,16 @@
         "pop up",
         "show up"
       ],
-      "example": [
-        {
-          "source": "yojo_life",
-          "file": "hyoi-2a",
-          "display": "ひょいっ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a sudden appearance or arrival",
+      "type": "c",
+      "example": [{
+        "file": "hyoi-2a",
+        "contributor": "",
+        "display": "ひょいっ",
+        "source": "yojo_life"
+      }]
     }
-  ]
+  ],
+  "literal": "hyoi"
 }

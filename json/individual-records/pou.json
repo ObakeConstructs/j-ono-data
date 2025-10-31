@@ -1,39 +1,37 @@
 {
-  "literal": "pou",
-  "katakana": [
-    "ポウ",
-    "ポゥ"
-  ],
   "hiragana": [
     "ぽう",
     "ぽぅ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "a soft, faint or ethereal glow",
-      "equivalent": [
-        "gleam",
-        "glow",
-        "light",
-        "radiance",
-        "shine"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "pou-1a",
-          "display": "ポゥ..",
-          "contributor": ""
-        },
-        {
-          "source": "strongest_thread_master",
-          "file": "pou-1b",
-          "display": "ポゥ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ポウ",
+    "ポゥ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gleam",
+      "glow",
+      "light",
+      "radiance",
+      "shine"
+    ],
+    "refer": "",
+    "meaning": "a soft, faint or ethereal glow",
+    "type": "s",
+    "example": [
+      {
+        "file": "pou-1a",
+        "contributor": "",
+        "display": "ポゥ..",
+        "source": "d_genesis"
+      },
+      {
+        "file": "pou-1b",
+        "contributor": "",
+        "display": "ポゥ\u2026",
+        "source": "strongest_thread_master"
+      }
+    ]
+  }],
+  "literal": "pou"
 }

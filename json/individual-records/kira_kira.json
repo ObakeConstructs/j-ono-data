@@ -3,9 +3,9 @@
   "katakana": ["キラキラ"],
   "definition": [{
     "equivalent": [
-      "glitter glitter",
-      "sparkle sparkle",
-      "twinkle twinkle"
+      "glitter",
+      "sparkle",
+      "twinkle"
     ],
     "refer": "",
     "meaning": "to give off or reflect bright moving points of light",
@@ -14,13 +14,13 @@
       {
         "file": "kira_kira-1a",
         "contributor": "",
-        "display": "キラ  キラ",
+        "display": "キラ キラ",
         "source": "world_full_of_monsters"
       },
       {
         "file": "kira_kira-1b",
         "contributor": "",
-        "display": "キラ  キラ",
+        "display": "キラ キラ",
         "source": "s_rank_behemoth"
       }
     ]

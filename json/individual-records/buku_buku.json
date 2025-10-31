@@ -3,9 +3,9 @@
   "katakana": ["ブクブク"],
   "definition": [{
     "equivalent": [
-      "boil boil",
-      "bop bop",
-      "bubble bubble"
+      "boil",
+      "bop",
+      "bubble"
     ],
     "refer": "",
     "meaning": "continuous boiling or bubbling liquid",
@@ -14,13 +14,13 @@
       {
         "file": "buku_buku-1a",
         "contributor": "",
-        "display": "ブク  ブク",
+        "display": "ブク ブク",
         "source": "bungo"
       },
       {
         "file": "buku_buku-1b",
         "contributor": "",
-        "display": "ブク  ブク  ブク..",
+        "display": "ブク ブク ブク..",
         "source": "buy_the_land"
       }
     ]

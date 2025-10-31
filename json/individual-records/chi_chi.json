@@ -13,12 +13,12 @@
   ],
   "definition": [{
     "equivalent": [
-      "cheep cheep",
-      "chirp chirp",
-      "peep peep",
-      "pip pip",
+      "cheep",
+      "chirp",
+      "peep",
+      "pip",
       "trill",
-      "tweet tweet",
+      "tweet",
       "warble"
     ],
     "refer": "",
@@ -27,7 +27,7 @@
     "example": [{
       "file": "chi_chi-1a",
       "contributor": "",
-      "display": "チチチッ  チチッ",
+      "display": "チチチッ チチッ",
       "source": "isekai_sniper"
     }]
   }],

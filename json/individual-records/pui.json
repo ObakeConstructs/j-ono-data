@@ -1,39 +1,35 @@
 {
-  "literal": "pui",
-  "katakana": [
-    "プイ",
-    "プイッ"
-  ],
   "hiragana": [
     "ぷい",
     "ぷいっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "turn away sharply in annoyance, pride, or refusal",
-      "equivalent": [
-        "annoyed",
-        "brush-off",
-        "disdain",
-        "huff",
-        "refuse",
-        "reject",
-        "scorn",
-        "snub",
-        "spurn",
-        "sulk",
-        "turn"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "pui-1a",
-          "display": "ぷいっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プイ",
+    "プイッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "annoyed",
+      "brush-off",
+      "disdain",
+      "huff",
+      "refuse",
+      "reject",
+      "scorn",
+      "snub",
+      "spurn",
+      "sulk",
+      "turn"
+    ],
+    "refer": "",
+    "meaning": "turn away sharply in annoyance, pride, or refusal",
+    "type": "m",
+    "example": [{
+      "file": "pui-1a",
+      "contributor": "",
+      "display": "ぷいっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "pui"
 }

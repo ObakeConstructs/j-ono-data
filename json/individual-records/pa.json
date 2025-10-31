@@ -1,14 +1,4 @@
 {
-  "literal": "pa",
-  "katakana": [
-    "パ",
-    "パッ",
-    "パア",
-    "パアッ",
-    "パァ",
-    "パァッ",
-    "パアア"
-  ],
   "hiragana": [
     "ぱ",
     "ぱっ",
@@ -18,11 +8,17 @@
     "ぱぁっ",
     "ぱああ"
   ],
+  "katakana": [
+    "パ",
+    "パッ",
+    "パア",
+    "パアッ",
+    "パァ",
+    "パァッ",
+    "パアア"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "s",
-      "meaning": "suddenly shining or glowing",
       "equivalent": [
         "bright",
         "brighten",
@@ -33,31 +29,31 @@
         "shine",
         "sparkle"
       ],
+      "refer": "",
+      "meaning": "suddenly shining or glowing",
+      "type": "s",
       "example": [
         {
-          "source": "d_genesis",
           "file": "pa-1a",
+          "contributor": "",
           "display": "パアア",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "d_genesis",
           "file": "pa-1b",
+          "contributor": "",
           "display": "パァッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "buy_the_land",
           "file": "pa-1c",
-          "display": "パァァ  ァァ",
-          "contributor": ""
+          "contributor": "",
+          "display": "パァァ ァァ",
+          "source": "buy_the_land"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "s",
-      "meaning": "suddenly expressing happiness or excitement",
       "equivalent": [
         "brighten",
         "cheer up",
@@ -69,14 +65,16 @@
         "perk up",
         "shine"
       ],
-      "example": [
-        {
-          "source": "reincarnated_farm_girl",
-          "file": "pa-2a",
-          "display": "パアア",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "suddenly expressing happiness or excitement",
+      "type": "s",
+      "example": [{
+        "file": "pa-2a",
+        "contributor": "",
+        "display": "パアア",
+        "source": "reincarnated_farm_girl"
+      }]
     }
-  ]
+  ],
+  "literal": "pa"
 }

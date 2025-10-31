@@ -9,11 +9,11 @@
   ],
   "definition": [{
     "equivalent": [
-      "cough cough",
-      "gasp gasp",
-      "huff huff",
-      "pant pant",
-      "wheeze wheeze"
+      "cough",
+      "gasp",
+      "huff",
+      "pant",
+      "wheeze"
     ],
     "refer": "",
     "meaning": "the sound of someone coughing or struggling to breath",
@@ -22,7 +22,7 @@
       {
         "file": "keho_keho-1a",
         "contributor": "",
-        "display": "ケホッ  ケホ...",
+        "display": "ケホッ ケホ\u2026",
         "source": "neet_kunoichi"
       },
       {

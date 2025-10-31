@@ -1,30 +1,22 @@
 {
-  "literal": "pori pori",
-  "katakana": [
-    "ポリポリ"
-  ],
-  "hiragana": [
-    "ぽりぽり"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "scratching or scraping sounds",
-      "equivalent": [
-        "scrape",
-        "scratch",
-        "scritch",
-        "scuff"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "pori_pori-1a",
-          "display": "ポリ  ポリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぽりぽり"],
+  "katakana": ["ポリポリ"],
+  "definition": [{
+    "equivalent": [
+      "scrape",
+      "scratch",
+      "scritch",
+      "scuff"
+    ],
+    "refer": "",
+    "meaning": "scratching or scraping sounds",
+    "type": "o",
+    "example": [{
+      "file": "pori_pori-1a",
+      "contributor": "",
+      "display": "ポリ ポリ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "pori pori"
 }

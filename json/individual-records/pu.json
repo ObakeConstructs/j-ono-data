@@ -1,13 +1,4 @@
 {
-  "literal": "pu",
-  "katakana": [
-    "プ",
-    "プッ",
-    "プウ",
-    "プウウ",
-    "プウウー",
-    "プゥ"
-  ],
   "hiragana": [
     "ぷ",
     "ぷっ",
@@ -16,11 +7,16 @@
     "ぷううー",
     "ぷぅ"
   ],
+  "katakana": [
+    "プ",
+    "プッ",
+    "プウ",
+    "プウウ",
+    "プウウー",
+    "プゥ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a quick burst from the mouth, nose, or other source, often unintentional",
       "equivalent": [
         "fart",
         "ha",
@@ -32,31 +28,31 @@
         "snort",
         "toot"
       ],
+      "refer": "",
+      "meaning": "a quick burst from the mouth, nose, or other source, often unintentional",
+      "type": "o",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "pu-1a",
+          "contributor": "",
           "display": "ぷーっ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "pu-1b",
-          "display": "プゥゥー...",
-          "contributor": ""
+          "contributor": "",
+          "display": "プゥゥー\u2026",
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "peter_grill",
           "file": "pu-1c",
+          "contributor": "",
           "display": "プッ",
-          "contributor": ""
+          "source": "peter_grill"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "small snap or popping sound",
       "equivalent": [
         "click",
         "crack",
@@ -67,19 +63,17 @@
         "pull",
         "snap"
       ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "pu-2a",
-          "display": "プッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "small snap or popping sound",
+      "type": "o",
+      "example": [{
+        "file": "pu-2a",
+        "contributor": "",
+        "display": "プッ",
+        "source": "dog_became_strongest"
+      }]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a quick poke or jab",
       "equivalent": [
         "jab",
         "pierce",
@@ -89,14 +83,16 @@
         "puncture",
         "stick"
       ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "pu-2b",
-          "display": "プッ...",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a quick poke or jab",
+      "type": "m",
+      "example": [{
+        "file": "pu-3a",
+        "contributor": "",
+        "display": "プッ\u2026",
+        "source": "isekai_sniper"
+      }]
     }
-  ]
+  ],
+  "literal": "pu"
 }

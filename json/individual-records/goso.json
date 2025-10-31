@@ -1,18 +1,14 @@
 {
-  "literal": "goso",
-  "katakana": [
-    "ゴソ",
-    "ゴソッ"
-  ],
   "hiragana": [
     "ごそ",
     "ごそっ"
   ],
+  "katakana": [
+    "ゴソ",
+    "ゴソッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "rustling sounds of rummaging or searching",
       "equivalent": [
         "get",
         "locate",
@@ -20,33 +16,33 @@
         "rummage",
         "rustle"
       ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "goso-1a",
-          "display": "ごそ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "rustling sounds of rummaging or searching",
+      "type": "o",
+      "example": [{
+        "file": "goso-1a",
+        "contributor": "",
+        "display": "ごそ",
+        "source": "dog_became_strongest"
+      }]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "rustling sounds of a rough, clumsy, or awkward motion",
       "equivalent": [
         "pull",
         "rustle",
         "shift",
         "tug"
       ],
-      "example": [
-        {
-          "source": "embarrassing_and_sweet",
-          "file": "goso-1b",
-          "display": "ごそ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "rustling sounds of a rough, clumsy, or awkward motion",
+      "type": "o",
+      "example": [{
+        "file": "goso-2a",
+        "contributor": "",
+        "display": "ごそ",
+        "source": "embarrassing_and_sweet"
+      }]
     }
-  ]
+  ],
+  "literal": "goso"
 }

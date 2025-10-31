@@ -3,14 +3,14 @@
   "katakana": ["シクシク"],
   "definition": [{
     "equivalent": [
-      "bawl bawl",
-      "cry cry",
-      "moan moan",
-      "sob sob",
-      "wail wail",
-      "weep weep",
-      "whimper whimper",
-      "whine whine"
+      "bawl",
+      "cry",
+      "moan",
+      "sob",
+      "wail",
+      "weep",
+      "whimper",
+      "whine"
     ],
     "refer": "",
     "meaning": "a series of whimpering or sobbing sound",
@@ -18,7 +18,7 @@
     "example": [{
       "file": "shiku_shiku-1a",
       "contributor": "",
-      "display": "シク  シク  シク...",
+      "display": "シク シク シク\u2026",
       "source": "buy_the_land"
     }]
   }],

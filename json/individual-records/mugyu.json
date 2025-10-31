@@ -1,32 +1,28 @@
 {
-  "literal": "mugyu",
-  "katakana": [
-    "ムギュ",
-    "ムギュッ"
-  ],
   "hiragana": [
     "むぎゅ",
     "むぎゅっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "a tight, affectionate hug or squeeze",
-      "equivalent": [
-        "embrace",
-        "hug",
-        "squeeze",
-        "wrap"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "mugyu-1a",
-          "display": "むぎゅっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ムギュ",
+    "ムギュッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "embrace",
+      "hug",
+      "squeeze",
+      "wrap"
+    ],
+    "refer": "",
+    "meaning": "a tight, affectionate hug or squeeze",
+    "type": "s",
+    "example": [{
+      "file": "mugyu-1a",
+      "contributor": "",
+      "display": "むぎゅっ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "mugyu"
 }

@@ -1,32 +1,28 @@
 {
-  "literal": "gaji",
-  "katakana": [
-    "ガジ",
-    "ガジッ"
-  ],
   "hiragana": [
     "がじ",
     "がじっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "biting into something",
-      "equivalent": [
-        "bite",
-        "crunch",
-        "chomp",
-        "snap"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "gaji-1a",
-          "display": "がじっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガジ",
+    "ガジッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bite",
+      "crunch",
+      "chomp",
+      "snap"
+    ],
+    "refer": "",
+    "meaning": "biting into something",
+    "type": "m",
+    "example": [{
+      "file": "gaji-1a",
+      "contributor": "",
+      "display": "がじっ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "gaji"
 }

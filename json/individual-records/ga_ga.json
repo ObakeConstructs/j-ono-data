@@ -1,55 +1,49 @@
 {
-  "literal": "ga ga",
-  "katakana": [
-    "ガガ",
-    "ガッガッ",
-    "ガツガツ"
-  ],
   "hiragana": [
     "がが",
     "がっがっ",
     "がつがつ"
   ],
+  "katakana": [
+    "ガガ",
+    "ガッガッ",
+    "ガツガツ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "eating noisily or voraciously, often forceful or exaggerated ",
       "equivalent": [
-        "catch catch",
-        "clutch clutch",
-        "glom glom",
-        "grab grab",
-        "grasp grasp",
-        "nab nab",
-        "seize seize",
-        "snag snag",
-        "snatch snatch"
+        "catch",
+        "clutch",
+        "glom",
+        "grab",
+        "grasp",
+        "nab",
+        "seize",
+        "snag",
+        "snatch"
       ],
-      "example": [
-        {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "ga_ga-1a",
-          "display": "ガッ  ガッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "eating noisily or voraciously, often forceful or exaggerated ",
+      "type": "o",
+      "example": [{
+        "file": "ga_ga-1a",
+        "contributor": "",
+        "display": "ガッ ガッ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
     },
     {
+      "equivalent": [""],
       "refer": "ga:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "reincarnated_sage_daughters",
-          "file": "ga_ga-2a",
-          "display": "ガツガツ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "ga_ga-2a",
+        "contributor": "",
+        "display": "ガツガツ",
+        "source": "reincarnated_sage_daughters"
+      }]
     }
-  ]
+  ],
+  "literal": "ga ga"
 }

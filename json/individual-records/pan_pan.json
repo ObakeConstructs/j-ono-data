@@ -1,52 +1,50 @@
 {
-  "literal": "pan pan",
-  "katakana": [
-    "パンパン",
-    "パンッパンッ"
-  ],
   "hiragana": [
     "ぱんぱん",
     "ぱんっぱんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the sound of small or light impacts",
-      "equivalent": [
-        "biff",
-        "bonk",
-        "clap",
-        "clip",
-        "pat",
-        "rap",
-        "scuff",
-        "slap",
-        "stroke",
-        "swat",
-        "swipe",
-        "thump"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "pan_pan-1a",
-          "display": "パン  パン",
-          "contributor": ""
-        },
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "pan_pan-1b",
-          "display": "ぱん  ぱん",
-          "contributor": ""
-        },
-        {
-          "source": "ai_and_izawa",
-          "file": "pan_pan-1c",
-          "display": "ぱんっ  ぱんっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "パンパン",
+    "パンッパンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "biff",
+      "bonk",
+      "clap",
+      "clip",
+      "pat",
+      "rap",
+      "scuff",
+      "slap",
+      "stroke",
+      "swat",
+      "swipe",
+      "thump"
+    ],
+    "refer": "",
+    "meaning": "the sound of small or light impacts",
+    "type": "o",
+    "example": [
+      {
+        "file": "pan_pan-1a",
+        "contributor": "",
+        "display": "パン パン",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "pan_pan-1b",
+        "contributor": "",
+        "display": "ぱん ぱん",
+        "source": "beastly_boys_and_girls"
+      },
+      {
+        "file": "pan_pan-1c",
+        "contributor": "",
+        "display": "ぱんっ ぱんっ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "literal": "pan pan"
 }

@@ -20,7 +20,7 @@
     "example": [{
       "file": "kopopo-1a",
       "contributor": "",
-      "display": "コポポ...",
+      "display": "コポポ\u2026",
       "source": "d_genesis"
     }]
   }],

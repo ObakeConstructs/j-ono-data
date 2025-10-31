@@ -1,13 +1,4 @@
 {
-  "literal": "o",
-  "katakana": [
-    "オ",
-    "オッ",
-    "オオ",
-    "オオッ",
-    "オオオ",
-    "オオオッ"
-  ],
   "hiragana": [
     "お",
     "おっ",
@@ -16,11 +7,16 @@
     "おおお",
     "おおおっ"
   ],
+  "katakana": [
+    "オ",
+    "オッ",
+    "オオ",
+    "オオッ",
+    "オオオ",
+    "オオオッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "a reaction of surprise or excitement",
       "equivalent": [
         "admiration",
         "amazed",
@@ -31,44 +27,46 @@
         "thrilled",
         "woah"
       ],
+      "refer": "",
+      "meaning": "a reaction of surprise or excitement",
+      "type": "e",
       "example": [
         {
-          "source": "otherworld_material_collector",
           "file": "o-1a",
+          "contributor": "",
           "display": "お",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "o-1b",
+          "contributor": "",
           "display": "おおおっ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "o-1c",
+          "contributor": "",
           "display": "おおっ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "v",
-      "meaning": "a menacing roar or howl",
       "equivalent": [
         "bellow",
         "howl",
         "roar"
       ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "o-2a",
-          "display": "オオッ  オオォ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a menacing roar or howl",
+      "type": "v",
+      "example": [{
+        "file": "o-2a",
+        "contributor": "",
+        "display": "オオッ オオォ",
+        "source": "isekai_sniper"
+      }]
     }
-  ]
+  ],
+  "literal": "o"
 }

@@ -3,13 +3,13 @@
   "katakana": ["ケタケタ"],
   "definition": [{
     "equivalent": [
-      "chortle chortle",
-      "chuckle chuckle",
-      "giggle giggle",
-      "hee hee",
-      "laugh laugh",
-      "snicker snicker",
-      "titter titter"
+      "chortle",
+      "chuckle",
+      "giggle",
+      "hee",
+      "laugh",
+      "snicker",
+      "titter"
     ],
     "refer": "",
     "meaning": "a light laugh or giggle",
@@ -17,7 +17,7 @@
     "example": [{
       "file": "keta_keta-1a",
       "contributor": "",
-      "display": "ケタ  ケタ",
+      "display": "ケタ ケタ",
       "source": "weakest_occupation_blacksmith"
     }]
   }],

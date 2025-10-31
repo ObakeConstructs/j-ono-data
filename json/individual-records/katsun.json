@@ -1,20 +1,16 @@
 {
-  "literal": "katsun",
-  "katakana": [
-    "カツン",
-    "カツンッ",
-    "カツーン"
-  ],
   "hiragana": [
     "かつん",
     "かつんっ",
     "かつーん"
   ],
+  "katakana": [
+    "カツン",
+    "カツンッ",
+    "カツーン"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a heavy or firm footstep, often on a hard surface",
       "equivalent": [
         "pound",
         "scuff",
@@ -24,19 +20,17 @@
         "tromp",
         "trudge"
       ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "katsun-1a",
-          "display": "カツン",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a heavy or firm footstep, often on a hard surface",
+      "type": "o",
+      "example": [{
+        "file": "katsun-1a",
+        "contributor": "",
+        "display": "カツン",
+        "source": "dog_became_strongest"
+      }]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "short, sharp clattering or clanging, usually from small, hard objects",
       "equivalent": [
         "clack",
         "clang",
@@ -49,20 +43,24 @@
         "tick",
         "whang"
       ],
+      "refer": "",
+      "meaning": "short, sharp clattering or clanging, usually from small, hard objects",
+      "type": "o",
       "example": [
         {
-          "source": "gyaru_academy",
           "file": "katsun-2a",
+          "contributor": "",
           "display": "カツンッ",
-          "contributor": ""
+          "source": "gyaru_academy"
         },
         {
-          "source": "shogun_gold_in_america",
           "file": "katsun-2b",
+          "contributor": "",
           "display": "カツーン",
-          "contributor": ""
+          "source": "shogun_gold_in_america"
         }
       ]
     }
-  ]
+  ],
+  "literal": "katsun"
 }

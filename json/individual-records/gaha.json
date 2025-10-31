@@ -1,36 +1,32 @@
 {
-  "literal": "gaha",
-  "katakana": [
-    "ガハ",
-    "ガハッ",
-    "ガハハ",
-    "ガハハハ"
-  ],
   "hiragana": [
     "がは",
     "がはっ",
     "がはは",
     "がははは"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "boisterous or loud laughter",
-      "equivalent": [
-        "ga ha",
-        "ha ha",
-        "laugh",
-        "laughter"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "gaha-1a",
-          "display": "がははは",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガハ",
+    "ガハッ",
+    "ガハハ",
+    "ガハハハ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ga ha",
+      "ha",
+      "laugh",
+      "laughter"
+    ],
+    "refer": "",
+    "meaning": "boisterous or loud laughter",
+    "type": "v",
+    "example": [{
+      "file": "gaha-1a",
+      "contributor": "",
+      "display": "がははは",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "gaha"
 }

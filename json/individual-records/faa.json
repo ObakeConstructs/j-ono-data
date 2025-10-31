@@ -21,7 +21,7 @@
     "example": [{
       "file": "faa-1a",
       "contributor": "",
-      "display": "ふああ...",
+      "display": "ふああ\u2026",
       "source": "world_full_of_monsters"
     }]
   }],

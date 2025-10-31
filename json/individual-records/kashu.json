@@ -1,32 +1,28 @@
 {
-  "literal": "kashu",
-  "katakana": [
-    "カシュ",
-    "カシュッ"
-  ],
   "hiragana": [
     "かしゅ",
     "かしゅっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the pop and hiss sound of a soda can opening",
-      "equivalent": [
-        "crack",
-        "fizz",
-        "hiss",
-        "pop"
-      ],
-      "example": [
-        {
-          "source": "35_year_olds_choice",
-          "file": "kashu-1a",
-          "display": "カシュッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "カシュ",
+    "カシュッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "crack",
+      "fizz",
+      "hiss",
+      "pop"
+    ],
+    "refer": "",
+    "meaning": "the pop and hiss sound of a soda can opening",
+    "type": "o",
+    "example": [{
+      "file": "kashu-1a",
+      "contributor": "",
+      "display": "カシュッ",
+      "source": "35_year_olds_choice"
+    }]
+  }],
+  "literal": "kashu"
 }

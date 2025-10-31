@@ -1,42 +1,40 @@
 {
-  "literal": "paku",
-  "katakana": [
-    "パク",
-    "パクッ"
-  ],
   "hiragana": [
     "ぱく",
     "ぱくっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "closing one's mouth or biting",
-      "equivalent": [
-        "ahm",
-        "bite",
-        "close",
-        "eat",
-        "munch",
-        "nom",
-        "nosh",
-        "savor"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "paku-1a",
-          "display": "パクッ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "paku-1b",
-          "display": "ぱくっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "パク",
+    "パクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ahm",
+      "bite",
+      "close",
+      "eat",
+      "munch",
+      "nom",
+      "nosh",
+      "savor"
+    ],
+    "refer": "",
+    "meaning": "closing one's mouth or biting",
+    "type": "m",
+    "example": [
+      {
+        "file": "paku-1a",
+        "contributor": "",
+        "display": "パクッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "paku-1b",
+        "contributor": "",
+        "display": "ぱくっ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "paku"
 }

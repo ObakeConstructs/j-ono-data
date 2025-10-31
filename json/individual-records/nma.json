@@ -1,31 +1,27 @@
 {
-  "literal": "nma",
-  "katakana": [
-    "ンマ",
-    "ンマッ"
-  ],
   "hiragana": [
     "んま",
     "んまっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "vocalization while savoring food, expressing pleasure or satisfaction",
-      "equivalent": [
-        "mmm",
-        "so good",
-        "yum"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "nma-1a",
-          "display": "んまっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ンマ",
+    "ンマッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "mmm",
+      "so good",
+      "yum"
+    ],
+    "refer": "",
+    "meaning": "vocalization while savoring food, expressing pleasure or satisfaction",
+    "type": "v",
+    "example": [{
+      "file": "nma-1a",
+      "contributor": "",
+      "display": "んまっ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "nma"
 }

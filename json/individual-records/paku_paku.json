@@ -1,29 +1,23 @@
 {
-  "literal": "paku paku",
-  "katakana": [
-    "パクパク",
-    "パクッパクッ"
-  ],
   "hiragana": [
     "ぱくぱく",
     "ぱくっぱくっ"
   ],
-  "definition": [
-    {
-      "refer": "paku:1",
-      "type": "",
-      "meaning": ", repeatedly",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "paku_paku-1a",
-          "display": "ぱくぱく",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "パクパク",
+    "パクッパクッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "paku:1",
+    "meaning": ", repeatedly",
+    "type": "",
+    "example": [{
+      "file": "paku_paku-1a",
+      "contributor": "",
+      "display": "ぱくぱく",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "paku paku"
 }

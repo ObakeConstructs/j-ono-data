@@ -1,48 +1,46 @@
 {
-  "literal": "gakon",
-  "katakana": [
-    "ガコン",
-    "ガコンッ"
-  ],
   "hiragana": [
     "がこん",
     "がこんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "a hollow clunking or banging sound",
-      "equivalent": [
-        "bank",
-        "clunk",
-        "ga-thunk",
-        "ka-thunk",
-        "knock",
-        "thunk",
-        "thwack",
-        "tonk"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_aristocrat",
-          "file": "gakon-1a",
-          "display": "ガコンッ",
-          "contributor": ""
-        },
-        {
-          "source": "hanako_24th_ward",
-          "file": "gakon-1b",
-          "display": "ガコン",
-          "contributor": ""
-        },
-        {
-          "source": "dog_became_strongest",
-          "file": "gakon-1c",
-          "display": "ガコン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ガコン",
+    "ガコンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bank",
+      "clunk",
+      "ga-thunk",
+      "ka-thunk",
+      "knock",
+      "thunk",
+      "thwack",
+      "tonk"
+    ],
+    "refer": "",
+    "meaning": "a hollow clunking or banging sound",
+    "type": "o",
+    "example": [
+      {
+        "file": "gakon-1a",
+        "contributor": "",
+        "display": "ガコンッ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "gakon-1b",
+        "contributor": "",
+        "display": "ガコン",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "gakon-1c",
+        "contributor": "",
+        "display": "ガコン",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "literal": "gakon"
 }

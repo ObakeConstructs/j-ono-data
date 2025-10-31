@@ -9,14 +9,14 @@
   ],
   "definition": [{
     "equivalent": [
-      "gush gush",
-      "jet jet",
-      "slosh slosh",
-      "spew spew",
-      "splash splash",
-      "sploosh sploosh",
-      "spout spout",
-      "swash swash"
+      "gush",
+      "jet",
+      "slosh",
+      "spew",
+      "splash",
+      "sploosh",
+      "spout",
+      "swash"
     ],
     "refer": "",
     "meaning": "medium to large splashing sounds",
@@ -24,7 +24,7 @@
     "example": [{
       "file": "zaba_zaba-1a",
       "contributor": "",
-      "display": "ザバ  ザバ  ザバ  ザバ  ザバ  ザバ",
+      "display": "ザバ ザバ ザバ ザバ ザバ ザバ",
       "source": "kaijuu_sdf"
     }]
   }],

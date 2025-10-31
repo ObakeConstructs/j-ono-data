@@ -1,39 +1,35 @@
 {
-  "literal": "awa",
-  "katakana": [
-    "アワ",
-    "アワワ"
-  ],
   "hiragana": [
     "あわ",
     "あわわ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "stammering or exclamation showing panic, confusion, or fluster",
-      "equivalent": [
-        "agitation",
-        "anxiety",
-        "confused",
-        "dismay",
-        "fluster",
-        "jitter",
-        "nervous",
-        "panic",
-        "uh",
-        "um",
-        "worry"
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "awa-1a",
-          "display": "あわわ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "アワ",
+    "アワワ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "agitation",
+      "anxiety",
+      "confused",
+      "dismay",
+      "fluster",
+      "jitter",
+      "nervous",
+      "panic",
+      "uh",
+      "um",
+      "worry"
+    ],
+    "refer": "",
+    "meaning": "stammering or exclamation showing panic, confusion, or fluster",
+    "type": "v",
+    "example": [{
+      "file": "awa-1a",
+      "contributor": "",
+      "display": "あわわ",
+      "source": "isekai_territory_reform"
+    }]
+  }],
+  "literal": "awa"
 }

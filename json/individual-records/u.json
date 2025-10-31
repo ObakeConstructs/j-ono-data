@@ -23,7 +23,7 @@
       "example": [{
         "file": "u-1a",
         "contributor": "",
-        "display": "うっ...",
+        "display": "うっ\u2026",
         "source": "double_play"
       }]
     },

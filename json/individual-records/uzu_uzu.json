@@ -3,14 +3,14 @@
   "katakana": ["ウズウズ"],
   "definition": [{
     "equivalent": [
-      "excited excited",
-      "eager eager",
+      "excited",
+      "eager",
       "enthusiastic",
-      "thrill thrill",
-      " delighted",
+      "thrill",
+      "delighted",
       "inspired",
-      "happy happy",
-      "joy joy"
+      "happy",
+      "joy"
     ],
     "refer": "",
     "meaning": "an expression of excitement or anticipation",
@@ -18,7 +18,7 @@
     "example": [{
       "file": "uzu_uzu-1a",
       "contributor": "",
-      "display": "うず  うず",
+      "display": "うず うず",
       "source": "fushi_no_kami"
     }]
   }],

@@ -3,17 +3,17 @@
   "katakana": ["ズンズン"],
   "definition": [{
     "equivalent": [
-      "step step",
-      "tap tap",
-      "thump thump",
-      "jog jog",
-      "trot trot",
-      "sprint sprint",
-      "dash dash",
-      "scurry scurry",
-      "scoot scoot",
-      "rush rush",
-      "chase chase"
+      "step",
+      "tap",
+      "thump",
+      "jog",
+      "trot",
+      "sprint",
+      "dash",
+      "scurry",
+      "scoot",
+      "rush",
+      "chase"
     ],
     "refer": "",
     "meaning": "to walk or run quickly",
@@ -22,13 +22,13 @@
       {
         "file": "zun_zun-1a",
         "contributor": "",
-        "display": "ずん  ずん",
+        "display": "ずん ずん",
         "source": "different_world_smartphone"
       },
       {
         "file": "zun_zun-1b",
         "contributor": "",
-        "display": "ズン  ズン...",
+        "display": "ズン ズン\u2026",
         "source": "strongest_thread_master"
       }
     ]

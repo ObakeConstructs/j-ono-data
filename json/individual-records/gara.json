@@ -1,18 +1,14 @@
 {
-  "literal": "gara",
-  "katakana": [
-    "ガラ",
-    "ガラッ"
-  ],
   "hiragana": [
     "がら",
     "がらっ"
   ],
+  "katakana": [
+    "ガラ",
+    "ガラッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "sliding or rattling, as of something opening or closing, like a window or sliding door",
       "equivalent": [
         "bang",
         "clatter",
@@ -26,31 +22,31 @@
         "swoosh",
         "thump"
       ],
+      "refer": "",
+      "meaning": "sliding or rattling, as of something opening or closing, like a window or sliding door",
+      "type": "o",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "gara-1a",
+          "contributor": "",
           "display": "ガラッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "bungo",
           "file": "gara-1b",
+          "contributor": "",
           "display": "ガラッ",
-          "contributor": ""
+          "source": "bungo"
         },
         {
-          "source": "simple_sword_saint",
           "file": "gara-1c",
+          "contributor": "",
           "display": "ガラッ",
-          "contributor": ""
+          "source": "simple_sword_saint"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "hard rattling or crunching of something breaking down, tumbling, or crumbling",
       "equivalent": [
         "clatter",
         "clutter",
@@ -58,14 +54,16 @@
         "rattle",
         "tumult"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "gara-2a",
-          "display": "ガラッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "hard rattling or crunching of something breaking down, tumbling, or crumbling",
+      "type": "o",
+      "example": [{
+        "file": "gara-2a",
+        "contributor": "",
+        "display": "ガラッ",
+        "source": "world_full_of_monsters"
+      }]
     }
-  ]
+  ],
+  "literal": "gara"
 }

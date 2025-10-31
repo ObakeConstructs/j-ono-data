@@ -1,34 +1,26 @@
 {
-  "literal": "guni",
-  "katakana": [
-    "グニ"
-  ],
-  "hiragana": [
-    "ぐに"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "something squishy, pliable, or yielding",
-      "equivalent": [
-        "flexible",
-        "mushy",
-        "pliable",
-        "pliant",
-        "soft",
-        "squish",
-        "squishy",
-        "squoosh"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "guni-1a",
-          "display": "ぐに...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぐに"],
+  "katakana": ["グニ"],
+  "definition": [{
+    "equivalent": [
+      "flexible",
+      "mushy",
+      "pliable",
+      "pliant",
+      "soft",
+      "squish",
+      "squishy",
+      "squoosh"
+    ],
+    "refer": "",
+    "meaning": "something squishy, pliable, or yielding",
+    "type": "s",
+    "example": [{
+      "file": "guni-1a",
+      "contributor": "",
+      "display": "ぐに\u2026",
+      "source": "double_play"
+    }]
+  }],
+  "literal": "guni"
 }

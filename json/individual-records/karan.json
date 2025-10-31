@@ -1,29 +1,23 @@
 {
-  "literal": "karan",
-  "katakana": [
-    "カラン",
-    "カランッ"
-  ],
   "hiragana": [
     "からん",
     "からんっ"
   ],
-  "definition": [
-    {
-      "refer": "kara:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "karan-1a",
-          "display": "カラン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "カラン",
+    "カランッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "kara:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "karan-1a",
+      "contributor": "",
+      "display": "カラン",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "karan"
 }

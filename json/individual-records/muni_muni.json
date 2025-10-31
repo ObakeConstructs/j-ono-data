@@ -1,27 +1,17 @@
 {
-  "literal": "muni muni",
-  "katakana": [
-    "ムニムニ"
-  ],
-  "hiragana": [
-    "むにむに"
-  ],
-  "definition": [
-    {
-      "refer": "muni:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "muta_muta-1a",
-          "display": "むた  むた  むた  むた  むた",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["むにむに"],
+  "katakana": ["ムニムニ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "muni:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "muni_muni-1a",
+      "contributor": "",
+      "display": "むた むた むた むた むた",
+      "source": "isekai_territory_reform"
+    }]
+  }],
+  "literal": "muni muni"
 }

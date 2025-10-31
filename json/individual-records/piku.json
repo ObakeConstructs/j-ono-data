@@ -1,18 +1,14 @@
 {
-  "literal": "piku",
-  "katakana": [
-    "ピク",
-    "ピクッ"
-  ],
   "hiragana": [
     "ぴく",
     "ぴくっ"
   ],
+  "katakana": [
+    "ピク",
+    "ピクッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a quick flinch or twitch, often from surprise or fear",
       "equivalent": [
         "cringe",
         "flinch",
@@ -21,31 +17,31 @@
         "twitch",
         "wince"
       ],
+      "refer": "",
+      "meaning": "a quick flinch or twitch, often from surprise or fear",
+      "type": "m",
       "example": [
         {
-          "source": "d_genesis",
           "file": "piku-1a",
+          "contributor": "",
           "display": "ぴくっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "piku-1b",
+          "contributor": "",
           "display": "ピクッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "fushi_no_kami",
           "file": "piku-1c",
+          "contributor": "",
           "display": "ピク",
-          "contributor": ""
+          "source": "fushi_no_kami"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a restrained, deliberate motion",
       "equivalent": [
         "fiddle",
         "fidget",
@@ -56,33 +52,33 @@
         "tick",
         "twitch"
       ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "piku-2a",
-          "display": "ピク",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a restrained, deliberate motion",
+      "type": "m",
+      "example": [{
+        "file": "piku-2a",
+        "contributor": "",
+        "display": "ピク",
+        "source": "d_genesis"
+      }]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a tired blink or squint",
       "equivalent": [
         "blink",
         "flick",
         "flutter",
         "squint"
       ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "piku-3a",
-          "display": "ぴく",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a tired blink or squint",
+      "type": "m",
+      "example": [{
+        "file": "piku-3a",
+        "contributor": "",
+        "display": "ぴく",
+        "source": "s_rank_behemoth"
+      }]
     }
-  ]
+  ],
+  "literal": "piku"
 }

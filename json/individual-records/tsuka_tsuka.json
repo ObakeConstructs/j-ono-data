@@ -3,10 +3,10 @@
   "katakana": ["ツカ"],
   "definition": [{
     "equivalent": [
-      "march march",
-      "step step",
-      "stomp stomp",
-      "tread tread"
+      "march",
+      "step",
+      "stomp",
+      "tread"
     ],
     "refer": "",
     "meaning": "the sound of brisk and purposeful walking",
@@ -14,7 +14,7 @@
     "example": [{
       "file": "tsuka_tsuka-1a",
       "contributor": "",
-      "display": "つか  つか  つか  つか  つか",
+      "display": "つか つか つか つか つか",
       "source": "requiem_for_prophet"
     }]
   }],

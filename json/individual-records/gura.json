@@ -1,41 +1,39 @@
 {
-  "literal": "gura",
-  "katakana": [
-    "グラ",
-    "グラッ"
-  ],
   "hiragana": [
     "ぐら",
     "ぐらっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the feeling of tipping, wobbling, or losing balance",
-      "equivalent": [
-        "shift",
-        "spill",
-        "stagger",
-        "teeter",
-        "tip",
-        "wobble",
-        "wobble"
-      ],
-      "example": [
-        {
-          "source": "isekai_pickup",
-          "file": "gura-1a",
-          "display": "グラッ..",
-          "contributor": ""
-        },
-        {
-          "source": "eternal_fool_asley",
-          "file": "gura-1b",
-          "display": "ぐらっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グラ",
+    "グラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "shift",
+      "spill",
+      "stagger",
+      "teeter",
+      "tip",
+      "wobble",
+      "wobble"
+    ],
+    "refer": "",
+    "meaning": "the feeling of tipping, wobbling, or losing balance",
+    "type": "o",
+    "example": [
+      {
+        "file": "gura-1a",
+        "contributor": "",
+        "display": "グラッ..",
+        "source": "isekai_pickup"
+      },
+      {
+        "file": "gura-1b",
+        "contributor": "",
+        "display": "ぐらっ",
+        "source": "eternal_fool_asley"
+      }
+    ]
+  }],
+  "literal": "gura"
 }

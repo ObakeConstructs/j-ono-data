@@ -3,11 +3,11 @@
   "katakana": ["ブルンブルン"],
   "definition": [{
     "equivalent": [
-      "bounce bounce",
-      "jerk jerk",
-      "jiggle jigle",
-      "quiver quiver",
-      "shake shake"
+      "bounce",
+      "jerk",
+      "jiggle",
+      "quiver",
+      "shake"
     ],
     "refer": "",
     "meaning": "bouncing or shaking, often energetic or exaggerated",
@@ -16,13 +16,13 @@
       {
         "file": "burun_burun-1a",
         "contributor": "",
-        "display": "ぶるん  ぶるん",
+        "display": "ぶるん ぶるん",
         "source": "s_rank_behemoth"
       },
       {
         "file": "burun_burun-1b",
         "contributor": "",
-        "display": "ぶるん♡  ぶるん♡",
+        "display": "ぶるん♡ ぶるん♡",
         "source": "35_year_olds_choice"
       }
     ]

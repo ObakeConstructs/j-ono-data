@@ -13,12 +13,12 @@
   ],
   "definition": [{
     "equivalent": [
-      "step step",
-      "tap tap",
-      "walk walk",
-      "tread tread",
-      "pad pad",
-      "plod plod"
+      "step",
+      "tap",
+      "walk",
+      "tread",
+      "pad",
+      "plod"
     ],
     "refer": "",
     "meaning": "a series of soft or quick steps",
@@ -26,7 +26,7 @@
     "example": [{
       "file": "to_to-1a",
       "contributor": "",
-      "display": "とっ  とっ",
+      "display": "とっ とっ",
       "source": "fushi_no_kami"
     }]
   }],

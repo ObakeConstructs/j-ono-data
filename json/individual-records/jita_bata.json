@@ -1,41 +1,33 @@
 {
-  "literal": "jita bata",
-  "katakana": [
-    "ジタバタ"
-  ],
-  "hiragana": [
-    "じたばた"
-  ],
+  "hiragana": ["じたばた"],
+  "katakana": ["ジタバタ"],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "strugging in vain against physical restraints",
       "equivalent": [
         "flail",
         "resist",
         "struggle",
         "wriggle"
       ],
+      "refer": "",
+      "meaning": "strugging in vain against physical restraints",
+      "type": "m",
       "example": [
         {
-          "source": "hone_dragon",
           "file": "jita_bata-1a",
+          "contributor": "",
           "display": "じたばた",
-          "contributor": ""
+          "source": "hone_dragon"
         },
         {
-          "source": "isekai_av_filming",
           "file": "jita_bata-1b",
-          "display": "じた  ばた",
-          "contributor": ""
+          "contributor": "",
+          "display": "じた ばた",
+          "source": "isekai_av_filming"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "fussing or flailing in a fit of temper, usually ineffectively",
       "equivalent": [
         "flail",
         "fuss",
@@ -45,14 +37,16 @@
         "temper tantrum",
         "tizzy"
       ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "jita_bata-2a",
-          "display": "ジタ  バタ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "fussing or flailing in a fit of temper, usually ineffectively",
+      "type": "m",
+      "example": [{
+        "file": "jita_bata-2a",
+        "contributor": "",
+        "display": "ジタ バタ",
+        "source": "buy_the_land"
+      }]
     }
-  ]
+  ],
+  "literal": "jita bata"
 }

@@ -1,12 +1,4 @@
 {
-  "literal": "ji",
-  "katakana": [
-    "ジ",
-    "ジッ",
-    "ジー",
-    "ジーッ",
-    "ジィッ"
-  ],
   "hiragana": [
     "じ",
     "じっ",
@@ -14,11 +6,15 @@
     "じーっ",
     "じぃっ"
   ],
+  "katakana": [
+    "ジ",
+    "ジッ",
+    "ジー",
+    "ジーッ",
+    "ジィッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "c",
-      "meaning": "a long, fixed stare",
       "equivalent": [
         "gape",
         "gawk",
@@ -28,37 +24,37 @@
         "stare",
         "study"
       ],
+      "refer": "",
+      "meaning": "a long, fixed stare",
+      "type": "c",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ji-1a",
+          "contributor": "",
           "display": "じっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "d_genesis",
           "file": "ji-1b",
-          "display": "じぃっ...",
-          "contributor": ""
+          "contributor": "",
+          "display": "じぃっ\u2026",
+          "source": "d_genesis"
         },
         {
-          "source": "komi_cant_communicate",
           "file": "ji-1c",
+          "contributor": "",
           "display": "じー",
-          "contributor": ""
+          "source": "komi_cant_communicate"
         },
         {
-          "source": "otherworld_material_collector",
           "file": "ji-1d",
+          "contributor": "",
           "display": "じー",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a droning or buzzing sound",
       "equivalent": [
         "burr",
         "buzz",
@@ -69,14 +65,16 @@
         "purr",
         "zip"
       ],
-      "example": [
-        {
-          "source": "neet_kunoichi",
-          "file": "ji-2a",
-          "display": "ジー",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a droning or buzzing sound",
+      "type": "o",
+      "example": [{
+        "file": "ji-2a",
+        "contributor": "",
+        "display": "ジー",
+        "source": "neet_kunoichi"
+      }]
     }
-  ]
+  ],
+  "literal": "ji"
 }

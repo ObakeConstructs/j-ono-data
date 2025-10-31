@@ -1,16 +1,8 @@
 {
-  "literal": "poro",
-  "katakana": [
-    "ポロ"
-  ],
-  "hiragana": [
-    "ぽろ"
-  ],
+  "hiragana": ["ぽろ"],
+  "katakana": ["ポロ"],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "something dropping or falling, typically small or light",
       "equivalent": [
         "drop",
         "fall",
@@ -19,25 +11,25 @@
         "slip",
         "topple"
       ],
+      "refer": "",
+      "meaning": "something dropping or falling, typically small or light",
+      "type": "m",
       "example": [
         {
-          "source": "komi_cant_communicate",
           "file": "poro-1a",
+          "contributor": "",
           "display": "ポロ",
-          "contributor": ""
+          "source": "komi_cant_communicate"
         },
         {
-          "source": "uncle_at_heart",
           "file": "poro-1b",
-          "display": "ポロ...",
-          "contributor": ""
+          "contributor": "",
+          "display": "ポロ\u2026",
+          "source": "uncle_at_heart"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "shedding tears from strong emotions",
       "equivalent": [
         "bawl",
         "blub",
@@ -48,14 +40,16 @@
         "tears",
         "weep"
       ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "poro-1c",
-          "display": "ポロ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "shedding tears from strong emotions",
+      "type": "e",
+      "example": [{
+        "file": "poro-2a",
+        "contributor": "",
+        "display": "ポロ",
+        "source": "requiem_for_prophet"
+      }]
     }
-  ]
+  ],
+  "literal": "poro"
 }

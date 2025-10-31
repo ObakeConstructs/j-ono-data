@@ -1,22 +1,18 @@
 {
-  "literal": "pyu",
-  "katakana": [
-    "ピュ",
-    "ピュッ",
-    "ピュー",
-    "ピューッ"
-  ],
   "hiragana": [
     "ぴゅ",
     "ぴゅっ",
     "ぴゅー",
     "ぴゅーっ"
   ],
+  "katakana": [
+    "ピュ",
+    "ピュッ",
+    "ピュー",
+    "ピューッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "liquid spraying or squirting",
       "equivalent": [
         "burst",
         "gush",
@@ -27,19 +23,17 @@
         "spurt",
         "squirt"
       ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "pyu-1a",
-          "display": "ピューッ!!",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "liquid spraying or squirting",
+      "type": "o",
+      "example": [{
+        "file": "pyu-1a",
+        "contributor": "",
+        "display": "ピューッ!!",
+        "source": "hello_work"
+      }]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a darting or sudden dash",
       "equivalent": [
         "dash",
         "flee",
@@ -50,14 +44,16 @@
         "zip",
         "zoom"
       ],
-      "example": [
-        {
-          "source": "a_rank_slow_life",
-          "file": "pyu-2a",
-          "display": "ピューッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a darting or sudden dash",
+      "type": "m",
+      "example": [{
+        "file": "pyu-2a",
+        "contributor": "",
+        "display": "ピューッ",
+        "source": "a_rank_slow_life"
+      }]
     }
-  ]
+  ],
+  "literal": "pyu"
 }

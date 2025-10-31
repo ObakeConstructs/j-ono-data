@@ -1,30 +1,22 @@
 {
-  "literal": "mo mo",
-  "katakana": [
-    "モッモッ"
-  ],
-  "hiragana": [
-    "もっもっ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "munching or chewing, often exaggerated, cute, and/or humorous",
-      "equivalent": [
-        "chew",
-        "munch",
-        "nom",
-        "snarf"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "mo_mo-1a",
-          "display": "もっ  もっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["もっもっ"],
+  "katakana": ["モッモッ"],
+  "definition": [{
+    "equivalent": [
+      "chew",
+      "munch",
+      "nom",
+      "snarf"
+    ],
+    "refer": "",
+    "meaning": "munching or chewing, often exaggerated, cute, and/or humorous",
+    "type": "s",
+    "example": [{
+      "file": "mo_mo-1a",
+      "contributor": "",
+      "display": "もっ もっ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "mo mo"
 }

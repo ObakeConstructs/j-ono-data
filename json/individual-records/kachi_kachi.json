@@ -1,27 +1,17 @@
 {
-  "literal": "kachi kachi",
-  "katakana": [
-    "カチカチ"
-  ],
-  "hiragana": [
-    "かちかち"
-  ],
-  "definition": [
-    {
-      "refer": "kachi:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "isekai_av_filming",
-          "file": "kachi_kachi-1a",
-          "display": "カチ  カチ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["かちかち"],
+  "katakana": ["カチカチ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "kachi:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kachi_kachi-1a",
+      "contributor": "",
+      "display": "カチ カチ",
+      "source": "isekai_av_filming"
+    }]
+  }],
+  "literal": "kachi kachi"
 }

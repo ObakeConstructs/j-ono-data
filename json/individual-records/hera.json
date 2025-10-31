@@ -1,34 +1,30 @@
 {
-  "literal": "hera",
+  "hiragana": [
+    "へら",
+    "へらっ"
+  ],
   "katakana": [
     "ヘラ",
     "ヘラッ"
   ],
-  "hiragana": [
-    "ヘら",
-    "ヘらっ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "Grinning foolishly, sheepishly, or inappropriately.",
-      "equivalent": [
-        "awkward",
-        "grin",
-        "heh",
-        "smile",
-        "uncomfortable ",
-        "uneasy"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "hera-1a",
-          "display": "ヘラッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "definition": [{
+    "equivalent": [
+      "awkward",
+      "grin",
+      "heh",
+      "smile",
+      "uncomfortable",
+      "uneasy"
+    ],
+    "refer": "",
+    "meaning": "grinning foolishly or awkwardly",
+    "type": "s",
+    "example": [{
+      "file": "hera-1a",
+      "contributor": "",
+      "display": "ヘラッ",
+      "source": "double_play"
+    }]
+  }],
+  "literal": "hera"
 }

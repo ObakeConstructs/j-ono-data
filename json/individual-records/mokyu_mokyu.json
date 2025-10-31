@@ -1,27 +1,17 @@
 {
-  "literal": "mokyu mokyu",
-  "katakana": [
-    "モキュモキュ"
-  ],
-  "hiragana": [
-    "もきゅもきゅ"
-  ],
-  "definition": [
-    {
-      "refer": "mogu mogu:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "mokyu_mokyu-1a",
-          "display": "もきゅ  もきゅ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["もきゅもきゅ"],
+  "katakana": ["モキュモキュ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "mogu mogu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "mokyu_mokyu-1a",
+      "contributor": "",
+      "display": "もきゅ もきゅ",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "mokyu mokyu"
 }

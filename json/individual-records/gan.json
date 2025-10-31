@@ -1,22 +1,18 @@
 {
-  "literal": "gan",
-  "katakana": [
-    "ガン",
-    "ガンッ",
-    "ガォン",
-    "ガォンッ"
-  ],
   "hiragana": [
     "がん",
     "がんっ",
     "がぉん",
     "がぉんっ"
   ],
+  "katakana": [
+    "ガン",
+    "ガンッ",
+    "ガォン",
+    "ガォンッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a medium or heavy impact or strike, usually hard, metallic, or violent",
       "equivalent": [
         "bam",
         "bang",
@@ -36,31 +32,31 @@
         "whack",
         "wham"
       ],
+      "refer": "",
+      "meaning": "a medium or heavy impact or strike, usually hard, metallic, or violent",
+      "type": "o",
       "example": [
         {
-          "source": "d_genesis",
           "file": "gan-1a",
+          "contributor": "",
           "display": "ガン",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "different_world_smartphone",
           "file": "gan-1b",
+          "contributor": "",
           "display": "ガォン!!",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "gan-1c",
+          "contributor": "",
           "display": "ガンッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "a sudden shock of realization or surprise",
       "equivalent": [
         "amazed",
         "astonished",
@@ -71,14 +67,16 @@
         "surprise",
         "wha!?"
       ],
-      "example": [
-        {
-          "source": "yojo_life",
-          "file": "gan-2a",
-          "display": "ガンッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a sudden shock of realization or surprise",
+      "type": "e",
+      "example": [{
+        "file": "gan-2a",
+        "contributor": "",
+        "display": "ガンッ",
+        "source": "yojo_life"
+      }]
     }
-  ]
+  ],
+  "literal": "gan"
 }

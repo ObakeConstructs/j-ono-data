@@ -1,29 +1,23 @@
 {
-  "literal": "pou pou",
-  "katakana": [
-    "ポウポウ",
-    "ポゥポゥ"
-  ],
   "hiragana": [
     "ぽうぽう",
     "ぽぅぽぅ"
   ],
-  "definition": [
-    {
-      "refer": "pou:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "reincarnated_sage_daughters",
-          "file": "pou_pou-1a",
-          "display": "ポゥ  ポゥ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ポウポウ",
+    "ポゥポゥ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pou:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "pou_pou-1a",
+      "contributor": "",
+      "display": "ポゥ ポゥ",
+      "source": "reincarnated_sage_daughters"
+    }]
+  }],
+  "literal": "pou pou"
 }

@@ -1,33 +1,27 @@
 {
-  "literal": "jin",
-  "katakana": [
-    "ジン",
-    "ジンッ",
-    "ジーン",
-    "ジーンッ"
-  ],
   "hiragana": [
     "じん",
     "じんっ",
     "じーん",
     "じーんっ"
   ],
-  "definition": [
-    {
-      "refer": "ji:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "reincarnated_farm_girl",
-          "file": "jin-1a",
-          "display": "じーん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジン",
+    "ジンッ",
+    "ジーン",
+    "ジーンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ji:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jin-1a",
+      "contributor": "",
+      "display": "じーん",
+      "source": "reincarnated_farm_girl"
+    }]
+  }],
+  "literal": "jin"
 }

@@ -3,10 +3,10 @@
   "katakana": ["バクバク"],
   "definition": [{
     "equivalent": [
-      "chomp chomp",
-      "munch munch",
-      "nom nom",
-      "snarf snarf"
+      "chomp",
+      "munch",
+      "nom",
+      "snarf"
     ],
     "refer": "",
     "meaning": "eating wildly, expressing enthusiasm or hunger",
@@ -14,7 +14,7 @@
     "example": [{
       "file": "baku_baku-1a",
       "contributor": "",
-      "display": "バク  バク",
+      "display": "バク バク",
       "source": "rise_of_the_outlaw_tamer"
     }]
   }],

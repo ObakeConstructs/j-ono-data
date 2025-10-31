@@ -3,12 +3,12 @@
   "katakana": ["ゾクゾク"],
   "definition": [{
     "equivalent": [
-      "quiver quiver",
-      "shake shake",
-      "shiver shiver",
-      "shudder shudder",
-      "tremble tremble",
-      "twitch twitch"
+      "quiver",
+      "shake",
+      "shiver",
+      "shudder",
+      "tremble",
+      "twitch"
     ],
     "refer": "",
     "meaning": "an indication of trembling or shaking",
@@ -16,7 +16,7 @@
     "example": [{
       "file": "zoku_zoku-1a",
       "contributor": "",
-      "display": "ぞく  ぞく",
+      "display": "ぞく ぞく",
       "source": "beastly_boys_and_girls"
     }]
   }],

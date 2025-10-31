@@ -1,40 +1,38 @@
 {
-  "literal": "pita",
-  "katakana": [
-    "ピタ",
-    "ピタッ"
-  ],
   "hiragana": [
     "ぴた",
     "ぴたっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "bring something to an immediate or sudden stop",
-      "equivalent": [
-        "break off",
-        "cease",
-        "check",
-        "freeze",
-        "halt",
-        "stop"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_sage_daughters",
-          "file": "pita-1c",
-          "display": "ピタ...",
-          "contributor": ""
-        },
-        {
-          "source": "spy_x_family",
-          "file": "pita-1d",
-          "display": "ぴたっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピタ",
+    "ピタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "break off",
+      "cease",
+      "check",
+      "freeze",
+      "halt",
+      "stop"
+    ],
+    "refer": "",
+    "meaning": "bring something to an immediate or sudden stop",
+    "type": "m",
+    "example": [
+      {
+        "file": "pita-1a",
+        "contributor": "",
+        "display": "ピタ\u2026",
+        "source": "reincarnated_sage_daughters"
+      },
+      {
+        "file": "pita-1b",
+        "contributor": "",
+        "display": "ぴたっ",
+        "source": "spy_x_family"
+      }
+    ]
+  }],
+  "literal": "pita"
 }

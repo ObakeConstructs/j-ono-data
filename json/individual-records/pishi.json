@@ -1,18 +1,14 @@
 {
-  "literal": "pishi",
-  "katakana": [
-    "ピシ",
-    "ピシッ"
-  ],
   "hiragana": [
     "ぴし",
     "ぴしっ"
   ],
+  "katakana": [
+    "ピシ",
+    "ピシッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a sharp, dry breaking or cracking sound",
       "equivalent": [
         "burst",
         "crack",
@@ -21,25 +17,25 @@
         "snap",
         "split"
       ],
+      "refer": "",
+      "meaning": "a sharp, dry breaking or cracking sound",
+      "type": "o",
       "example": [
         {
-          "source": "world_full_of_monsters",
           "file": "pishi-1a",
+          "contributor": "",
           "display": "ピシッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "pishi-1b",
+          "contributor": "",
           "display": "ピシッ",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a rapid and precise snapping to position",
       "equivalent": [
         "exactly",
         "flick",
@@ -48,31 +44,31 @@
         "snap",
         "zip"
       ],
+      "refer": "",
+      "meaning": "a rapid and precise snapping to position",
+      "type": "m",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "pishi-2a",
+          "contributor": "",
           "display": "ぴしっ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "fushi_no_kami",
           "file": "pishi-2b",
+          "contributor": "",
           "display": "ぴしっ",
-          "contributor": ""
+          "source": "fushi_no_kami"
         },
         {
-          "source": "hone_dragon",
           "file": "pishi-2c",
+          "contributor": "",
           "display": "ピシッ",
-          "contributor": ""
+          "source": "hone_dragon"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "momentary mental paralysis",
       "equivalent": [
         "dumbfounded",
         "floored",
@@ -82,14 +78,16 @@
         "shocked",
         "stunned"
       ],
-      "example": [
-        {
-          "source": "yojo_life",
-          "file": "pisha-1b",
-          "display": "ピシッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "momentary mental paralysis",
+      "type": "e",
+      "example": [{
+        "file": "pishi-3a",
+        "contributor": "",
+        "display": "ピシッ",
+        "source": "yojo_life"
+      }]
     }
-  ]
+  ],
+  "literal": "pishi"
 }

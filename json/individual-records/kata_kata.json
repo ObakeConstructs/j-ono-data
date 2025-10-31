@@ -1,43 +1,31 @@
 {
-  "literal": "kata kata",
-  "katakana": [
-    "カタカタ"
-  ],
-  "hiragana": [
-    "かたかた"
-  ],
+  "hiragana": ["かたかた"],
+  "katakana": ["カタカタ"],
   "definition": [
     {
+      "equivalent": [""],
       "refer": "katata:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "uncle_at_heart",
-          "file": "kata_kata-1a",
-          "display": "カタ  カタ  カタ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "kata_kata-1a",
+        "contributor": "",
+        "display": "カタ カタ カタ",
+        "source": "uncle_at_heart"
+      }]
     },
     {
+      "equivalent": [""],
       "refer": "furo furo:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "way_of_isekai_cooking",
-          "file": "kata_kata-2a",
-          "display": "カタ  カタ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "kata_kata-2a",
+        "contributor": "",
+        "display": "カタ カタ",
+        "source": "way_of_isekai_cooking"
+      }]
     }
-  ]
+  ],
+  "literal": "kata kata"
 }

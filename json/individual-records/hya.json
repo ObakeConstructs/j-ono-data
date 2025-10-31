@@ -1,32 +1,28 @@
 {
-  "literal": "hya",
-  "katakana": [
-    "ヒャ",
-    "ヒャッ"
-  ],
   "hiragana": [
     "ひゃ",
     "ひゃっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "a quick exclamation of surprise or amazement, often involuntary",
-      "equivalent": [
-        "ahh",
-        "hya",
-        "hyaa",
-        "what"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "hya-1a",
-          "display": "ヒャー!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヒャ",
+    "ヒャッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ahh",
+      "hya",
+      "hyaa",
+      "what"
+    ],
+    "refer": "",
+    "meaning": "a quick exclamation of surprise or amazement, often involuntary",
+    "type": "v",
+    "example": [{
+      "file": "hya-1a",
+      "contributor": "",
+      "display": "ヒャー!",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "hya"
 }

@@ -13,10 +13,10 @@
   ],
   "definition": [{
     "equivalent": [
-      "gasp gasp",
-      "huff huff",
-      "pant pant",
-      "wheeze wheeze"
+      "gasp",
+      "huff",
+      "pant",
+      "wheeze"
     ],
     "refer": "",
     "meaning": "a series of deep or fast breaths",
@@ -25,13 +25,13 @@
       {
         "file": "ze_ze-1a",
         "contributor": "",
-        "display": "ぜー  ぜー",
+        "display": "ぜー ぜー",
         "source": "kuma_kuma_kuma_bear"
       },
       {
         "file": "ze_ze-1b",
         "contributor": "",
-        "display": "ゼェ  ゼェ",
+        "display": "ゼェ ゼェ",
         "source": "simple_sword_saint"
       },
       {

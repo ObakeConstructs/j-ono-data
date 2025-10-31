@@ -1,55 +1,53 @@
 {
-  "literal": "puni",
-  "katakana": [
-    "プニ",
-    "プニッ",
-    "プニィ"
-  ],
   "hiragana": [
     "ぷに",
     "ぷにっ",
     "ぷにぃ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "touching or pressing something plump and springy",
-      "equivalent": [
-        "caress",
-        "feel",
-        "flesh",
-        "fondle",
-        "hold",
-        "press",
-        "puff",
-        "rub",
-        "soft",
-        "squeeze",
-        "squish",
-        "stroke",
-        "touch"
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "puni-1a",
-          "display": "プニッ",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "puni-1b",
-          "display": "プニィ",
-          "contributor": ""
-        },
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "puni-1c",
-          "display": "ぷに!!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プニ",
+    "プニッ",
+    "プニィ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "caress",
+      "feel",
+      "flesh",
+      "fondle",
+      "hold",
+      "press",
+      "puff",
+      "rub",
+      "soft",
+      "squeeze",
+      "squish",
+      "stroke",
+      "touch"
+    ],
+    "refer": "",
+    "meaning": "touching or pressing something plump and springy",
+    "type": "s",
+    "example": [
+      {
+        "file": "puni-1a",
+        "contributor": "",
+        "display": "プニッ",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "puni-1b",
+        "contributor": "",
+        "display": "プニィ",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "puni-1c",
+        "contributor": "",
+        "display": "ぷに!!",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "literal": "puni"
 }

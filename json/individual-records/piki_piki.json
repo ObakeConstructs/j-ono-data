@@ -1,31 +1,25 @@
 {
-  "literal": "piki piki",
-  "katakana": [
-    "ピキピキ",
-    "ピキピキッ",
-    "ピキッピキッ"
-  ],
   "hiragana": [
     "ぴきぴき",
     "ぴきぴきっ",
     "ぴきっぴきっ"
   ],
-  "definition": [
-    {
-      "refer": "piki:1",
-      "type": "",
-      "meaning": "a",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "piki_piki-1a",
-          "display": "ピキ  ピキ  ピキ  ピキッ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピキピキ",
+    "ピキピキッ",
+    "ピキッピキッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "piki:1",
+    "meaning": "s",
+    "type": "",
+    "example": [{
+      "file": "piki_piki-1a",
+      "contributor": "",
+      "display": "ピキ ピキ ピキ ピキッ\u2026",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "piki piki"
 }

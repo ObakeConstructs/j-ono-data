@@ -1,33 +1,25 @@
 {
-  "literal": "pirorin",
-  "katakana": [
-    "ピロリン"
-  ],
-  "hiragana": [
-    "ぴろりん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "a light electronc tone or chime, as from a cell phone",
-      "equivalent": [
-        "ba-da-ding",
-        "beep",
-        "beep-beep",
-        "chime",
-        "ding",
-        "ding-a-ling",
-        "ringtone"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "pirorin-1a",
-          "display": "ピロリン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぴろりん"],
+  "katakana": ["ピロリン"],
+  "definition": [{
+    "equivalent": [
+      "ba-da-ding",
+      "beep",
+      "beep-beep",
+      "chime",
+      "ding",
+      "ding-a-ling",
+      "ringtone"
+    ],
+    "refer": "",
+    "meaning": "a light electronc tone or chime, as from a cell phone",
+    "type": "o",
+    "example": [{
+      "file": "pirorin-1a",
+      "contributor": "",
+      "display": "ピロリン",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "pirorin"
 }

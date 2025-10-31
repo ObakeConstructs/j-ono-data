@@ -4,12 +4,12 @@
   "definition": [{
     "equivalent": [
       "mill about",
-      "pace pace",
-      "roam roam",
-      "stroll stroll",
-      "traipse traipse",
+      "pace",
+      "roam",
+      "stroll",
+      "traipse",
       "wander around",
-      "wander wander"
+      "wander"
     ],
     "refer": "",
     "meaning": "an indication of move about aimlessly or pacing",
@@ -18,13 +18,13 @@
       {
         "file": "uro_uro-1a",
         "contributor": "",
-        "display": "ウロ  ウロ",
+        "display": "ウロ ウロ",
         "source": "reincarnated_as_a_dragon_egg"
       },
       {
         "file": "uro_uro-1b",
         "contributor": "",
-        "display": "うろ  うろ",
+        "display": "うろ うろ",
         "source": "shogun_gold_in_america"
       }
     ]

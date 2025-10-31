@@ -1,32 +1,24 @@
 {
-  "literal": "kapa",
-  "katakana": [
-    "カパ"
-  ],
-  "hiragana": [
-    "かぱ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the light popping of something opening",
-      "equivalent": [
-        "chack",
-        "click",
-        "ka-chik",
-        "ker-chack",
-        "pop",
-        "snap"
-      ],
-      "example": [
-        {
-          "source": "strongest_thread_master",
-          "file": "kapa-1a",
-          "display": "カパ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["かぱ"],
+  "katakana": ["カパ"],
+  "definition": [{
+    "equivalent": [
+      "chack",
+      "click",
+      "ka-chik",
+      "ker-chack",
+      "pop",
+      "snap"
+    ],
+    "refer": "",
+    "meaning": "the light popping of something opening",
+    "type": "o",
+    "example": [{
+      "file": "kapa-1a",
+      "contributor": "",
+      "display": "カパ",
+      "source": "strongest_thread_master"
+    }]
+  }],
+  "literal": "kapa"
 }

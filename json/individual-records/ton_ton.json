@@ -10,14 +10,14 @@
   "definition": [
     {
       "equivalent": [
-        "bonk bonk",
-        "bop bop",
-        "bump bump",
-        "knock knock",
-        "thud thud",
-        "thump thump",
-        "tmp tmp",
-        "tok tok"
+        "bonk",
+        "bop",
+        "bump",
+        "knock",
+        "thud",
+        "thump",
+        "tmp",
+        "tok"
       ],
       "refer": "",
       "meaning": "a series of light, rhythmic strikes",
@@ -25,18 +25,18 @@
       "example": [{
         "file": "ton_ton-1a",
         "contributor": "",
-        "display": "トン  トン",
+        "display": "トン トン",
         "source": "hello_work"
       }]
     },
     {
       "equivalent": [
-        "step step",
-        "tap tap",
-        "march march",
-        "stomp stomp",
-        "tread tread",
-        "walk walk"
+        "step",
+        "tap",
+        "march",
+        "stomp",
+        "tread",
+        "walk"
       ],
       "refer": "",
       "meaning": "the repeated sound of walking or stepping",
@@ -45,13 +45,13 @@
         {
           "file": "ton_ton-2a",
           "contributor": "",
-          "display": "トン  トン  トン",
+          "display": "トン トン トン",
           "source": "s_rank_behemoth"
         },
         {
           "file": "ton_ton-2b",
           "contributor": "",
-          "display": "トン  トン",
+          "display": "トン トン",
           "source": "rock_n_roll_ladies"
         }
       ]

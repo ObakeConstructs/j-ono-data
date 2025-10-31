@@ -1,34 +1,26 @@
 {
-  "literal": "musha musha",
-  "katakana": [
-    "ムシャムシャ"
-  ],
-  "hiragana": [
-    "むしゃむしゃ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "chewing or eating heartily, often noisily",
-      "equivalent": [
-        "chew",
-        "chomp",
-        "devour",
-        "eat",
-        "munch",
-        "nom nom",
-        "nosh",
-        "snarf"
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "musha_musha-1a",
-          "display": "ムシャ  ムシャ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["むしゃむしゃ"],
+  "katakana": ["ムシャムシャ"],
+  "definition": [{
+    "equivalent": [
+      "chew",
+      "chomp",
+      "devour",
+      "eat",
+      "munch",
+      "nom",
+      "nosh",
+      "snarf"
+    ],
+    "refer": "",
+    "meaning": "chewing or eating heartily, often noisily",
+    "type": "o",
+    "example": [{
+      "file": "musha_musha-1a",
+      "contributor": "",
+      "display": "ムシャ ムシャ",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "musha musha"
 }

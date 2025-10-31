@@ -1,31 +1,23 @@
 {
-  "literal": "maki maki",
-  "katakana": [
-    "マキマキ"
-  ],
-  "hiragana": [
-    "まきまき"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "wrapping or winding something around something else",
-      "equivalent": [
-        "roll",
-        "twine",
-        "twist",
-        "wind",
-        "wrap"
-      ],
-      "example": [
-        {
-          "source": "shogun_gold_in_america",
-          "file": "maki_maki-1a",
-          "display": "まき  まき",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["まきまき"],
+  "katakana": ["マキマキ"],
+  "definition": [{
+    "equivalent": [
+      "roll",
+      "twine",
+      "twist",
+      "wind",
+      "wrap"
+    ],
+    "refer": "",
+    "meaning": "wrapping or winding something around something else",
+    "type": "m",
+    "example": [{
+      "file": "maki_maki-1a",
+      "contributor": "",
+      "display": "まき まき",
+      "source": "shogun_gold_in_america"
+    }]
+  }],
+  "literal": "maki maki"
 }

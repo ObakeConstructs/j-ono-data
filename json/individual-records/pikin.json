@@ -1,34 +1,30 @@
 {
-  "literal": "pikin",
-  "katakana": [
-    "ピキン",
-    "ピキーン"
-  ],
   "hiragana": [
     "ぴきん",
     "ぴきーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "a sudden change of expression, often to smugness or glee",
-      "equivalent": [
-        "bing",
-        "dazzle",
-        "gleeful",
-        "ping",
-        "pleased",
-        "smug"
-      ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "pikin-1a",
-          "display": "ピキーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピキン",
+    "ピキーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bing",
+      "dazzle",
+      "gleeful",
+      "ping",
+      "pleased",
+      "smug"
+    ],
+    "refer": "",
+    "meaning": "a sudden change of expression, often to smugness or glee",
+    "type": "e",
+    "example": [{
+      "file": "pikin-1a",
+      "contributor": "",
+      "display": "ピキーン",
+      "source": "blazing_fire_brigade"
+    }]
+  }],
+  "literal": "pikin"
 }

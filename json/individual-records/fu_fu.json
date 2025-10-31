@@ -1,12 +1,4 @@
 {
-  "literal": "fu fu",
-  "katakana": [
-    "フフ",
-    "フフッ",
-    "フフフ",
-    "フーフー",
-    "フーッフーッ"
-  ],
   "hiragana": [
     "ふふ",
     "ふふっ",
@@ -14,64 +6,72 @@
     "ふーふー",
     "ふーっふーっ"
   ],
+  "katakana": [
+    "フフ",
+    "フフッ",
+    "フフフ",
+    "フーフー",
+    "フーッフーッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "v",
-      "meaning": "light laughter",
       "equivalent": [
         "chortle",
         "chuckle",
-        "ha ha",
-        "heh heh",
+        "ha",
+        "heh",
         "laugh"
       ],
+      "refer": "",
+      "meaning": "light laughter",
+      "type": "v",
       "example": [
         {
-          "source": "d_genesis",
           "file": "fu_fu-1a",
-          "display": "フフフ...",
-          "contributor": ""
+          "contributor": "",
+          "display": "フフフ\u2026",
+          "source": "d_genesis"
         },
         {
-          "source": "d_genesis",
           "file": "fu_fu-1b",
+          "contributor": "",
           "display": "ふふっ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "dog_became_strongest",
           "file": "fu_fu-1c",
+          "contributor": "",
           "display": "ふふ",
-          "contributor": ""
+          "source": "dog_became_strongest"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "v",
-      "meaning": "breathing in a controlled, deliberate manner",
       "equivalent": [
-        "blow blow",
-        "breath breath",
+        "blow",
+        "breath",
         "exhale",
-        "huff huff",
+        "huff",
         "inhale"
       ],
+      "refer": "",
+      "meaning": "breathing in a controlled, deliberate manner",
+      "type": "v",
       "example": [
         {
-          "source": "otherworld_material_collector",
           "file": "fu_fu-2a",
-          "display": "フー  フー",
-          "contributor": ""
+          "contributor": "",
+          "display": "フー フー",
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "double_play",
           "file": "fu_fu-2b",
-          "display": "フーッ  フーッ",
-          "contributor": ""
+          "contributor": "",
+          "display": "フーッ フーッ",
+          "source": "double_play"
         }
       ]
     }
-  ]
+  ],
+  "literal": "fu fu"
 }

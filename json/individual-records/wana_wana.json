@@ -3,10 +3,10 @@
   "katakana": ["ワナワナ"],
   "definition": [{
     "equivalent": [
-      "quiver quiver",
-      "shiver shiver",
-      "shudder shudder",
-      "tremble tremble"
+      "quiver",
+      "shiver",
+      "shudder",
+      "tremble"
     ],
     "refer": "",
     "meaning": "an indication of trembling, typically from fear",
@@ -14,7 +14,7 @@
     "example": [{
       "file": "wana_wana-1a",
       "contributor": "",
-      "display": "わな  わな..",
+      "display": "わな わな..",
       "source": "isekai_pickup"
     }]
   }],

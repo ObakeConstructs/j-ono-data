@@ -1,29 +1,23 @@
 {
-  "literal": "poto",
-  "katakana": [
-    "ポト",
-    "ポトッ"
-  ],
   "hiragana": [
     "ぽと",
     "ぽとっ"
   ],
-  "definition": [
-    {
-      "refer": "poro:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "poto-1a",
-          "display": "ポトッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ポト",
+    "ポトッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "poro:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "poto-1a",
+      "contributor": "",
+      "display": "ポトッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "poto"
 }

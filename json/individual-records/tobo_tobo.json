@@ -3,13 +3,13 @@
   "katakana": ["トボトボ"],
   "definition": [{
     "equivalent": [
-      "clump clump",
+      "clump",
       "lumber",
-      "plod plod",
-      "shuffle shuffle",
-      "slog slog",
-      "tromp tromp",
-      "trudge trudge"
+      "plod",
+      "shuffle",
+      "slog",
+      "tromp",
+      "trudge"
     ],
     "refer": "",
     "meaning": "to walk heavily or slowly, often an expression of emotional disturbance or tiredness",
@@ -18,7 +18,7 @@
       {
         "file": "tobo_tobo-1a",
         "contributor": "",
-        "display": "トボ  トボ...",
+        "display": "トボ トボ\u2026",
         "source": "world_full_of_monsters"
       },
       {

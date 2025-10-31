@@ -1,34 +1,26 @@
 {
-  "literal": "pyun",
-  "katakana": [
-    "ピュン"
-  ],
-  "hiragana": [
-    "ぴゅん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "a light, swift, and straight-line motion",
-      "equivalent": [
-        "dart",
-        "flit",
-        "fwip",
-        "fwit",
-        "pyu",
-        "whish",
-        "whiz",
-        "zip"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "pyun-1a",
-          "display": "ピュン!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぴゅん"],
+  "katakana": ["ピュン"],
+  "definition": [{
+    "equivalent": [
+      "dart",
+      "flit",
+      "fwip",
+      "fwit",
+      "pyu",
+      "whish",
+      "whiz",
+      "zip"
+    ],
+    "refer": "",
+    "meaning": "a light, swift, and straight-line motion",
+    "type": "m",
+    "example": [{
+      "file": "pyun-1a",
+      "contributor": "",
+      "display": "ピュン!",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "pyun"
 }

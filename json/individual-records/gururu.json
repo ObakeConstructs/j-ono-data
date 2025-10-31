@@ -1,68 +1,66 @@
 {
-  "literal": "gururu",
-  "katakana": [
-    "グルル",
-    "グルルル"
-  ],
   "hiragana": [
     "ぐるる",
     "ぐるるる"
   ],
+  "katakana": [
+    "グルル",
+    "グルルル"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "v",
-      "meaning": "a low growl",
       "equivalent": [
         "growl",
         "grumble",
         "rumble",
         "snarl"
       ],
+      "refer": "",
+      "meaning": "a low growl",
+      "type": "v",
       "example": [
         {
-          "source": "otherworld_material_collector",
-          "file": "guru-1a",
+          "file": "gururu-1a",
+          "contributor": "",
           "display": "ぐるるるるる",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "otherworld_material_collector",
-          "file": "guru-1b",
+          "file": "gururu-1b",
+          "contributor": "",
           "display": "ぐるるるる",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         },
         {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "guru-1c",
-          "display": "グルルル...",
-          "contributor": ""
+          "file": "gururu-1c",
+          "contributor": "",
+          "display": "グルルル\u2026",
+          "source": "kuma_kuma_kuma_bear"
         },
         {
-          "source": "rise_of_the_outlaw_tamer",
-          "file": "guru-1d",
+          "file": "gururu-1d",
+          "contributor": "",
           "display": "グルル..",
-          "contributor": ""
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a rumbling or grinding sound of something turning or spinning",
       "equivalent": [
         "grind",
         "roll",
         "rumble"
       ],
-      "example": [
-        {
-          "source": "kaijuu_sdf",
-          "file": "guru-2a",
-          "display": "グルルル",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a rumbling or grinding sound of something turning or spinning",
+      "type": "o",
+      "example": [{
+        "file": "gururu-2a",
+        "contributor": "",
+        "display": "グルルル",
+        "source": "kaijuu_sdf"
+      }]
     }
-  ]
+  ],
+  "literal": "gururu"
 }

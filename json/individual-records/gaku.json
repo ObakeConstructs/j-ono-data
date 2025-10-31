@@ -1,14 +1,4 @@
 {
-  "literal": "gaku",
-  "katakana": [
-    "ガク",
-    "ガクー",
-    "ガクッ",
-    "ガクゥ",
-    "ガクゥゥ",
-    "ガクゥッ",
-    "ガクゥゥッ"
-  ],
   "hiragana": [
     "がく",
     "がくー",
@@ -18,11 +8,17 @@
     "がくぅっ",
     "がくぅぅっ"
   ],
+  "katakana": [
+    "ガク",
+    "ガクー",
+    "ガクッ",
+    "ガクゥ",
+    "ガクゥゥ",
+    "ガクゥッ",
+    "ガクゥゥッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a physical collapse, as with fainting or knees buckling",
       "equivalent": [
         "fall",
         "fold",
@@ -33,31 +29,31 @@
         "slump",
         "succumb"
       ],
+      "refer": "",
+      "meaning": "a physical collapse, as with fainting or knees buckling",
+      "type": "o",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "gaku-1a",
+          "contributor": "",
           "display": "がく",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "world_full_of_monsters",
           "file": "gaku-1b",
+          "contributor": "",
           "display": "ガクッ",
-          "contributor": ""
+          "source": "world_full_of_monsters"
         },
         {
-          "source": "yojo_life",
           "file": "gaku-1c",
+          "contributor": "",
           "display": "ガクゥゥッ",
-          "contributor": ""
+          "source": "yojo_life"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "s",
-      "meaning": "a sudden loss of energy or spirit",
       "equivalent": [
         "collapse",
         "droop",
@@ -66,20 +62,24 @@
         "slump",
         "wilt"
       ],
+      "refer": "",
+      "meaning": "a sudden loss of energy or spirit",
+      "type": "s",
       "example": [
         {
-          "source": "peter_grill",
           "file": "gaku-2a",
-          "display": "ガクー...",
-          "contributor": ""
+          "contributor": "",
+          "display": "ガクー\u2026",
+          "source": "peter_grill"
         },
         {
-          "source": "sex_with_me_sells",
           "file": "gaku-2b",
+          "contributor": "",
           "display": "がくっ",
-          "contributor": ""
+          "source": "sex_with_me_sells"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gaku"
 }

@@ -1,31 +1,23 @@
 {
-  "literal": "kapo",
-  "katakana": [
-    "カポ"
-  ],
-  "hiragana": [
-    "かぽ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "a soft, hollow sound of something closing or fitting into place",
-      "equivalent": [
-        "click",
-        "plop",
-        "pop",
-        "puts on",
-        "snap"
-      ],
-      "example": [
-        {
-          "source": "way_of_the_house_husband",
-          "file": "kapo-1a",
-          "display": "カポ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["かぽ"],
+  "katakana": ["カポ"],
+  "definition": [{
+    "equivalent": [
+      "click",
+      "plop",
+      "pop",
+      "puts on",
+      "snap"
+    ],
+    "refer": "",
+    "meaning": "a soft, hollow sound of something closing or fitting into place",
+    "type": "o",
+    "example": [{
+      "file": "kapo-1a",
+      "contributor": "",
+      "display": "カポ",
+      "source": "way_of_the_house_husband"
+    }]
+  }],
+  "literal": "kapo"
 }

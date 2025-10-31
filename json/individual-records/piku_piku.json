@@ -1,32 +1,24 @@
 {
-  "literal": "piku piku",
-  "katakana": [
-    "ピクピク"
-  ],
-  "hiragana": [
-    "ぴくぴく"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "jerky movements or twitches",
-      "equivalent": [
-        "flinch",
-        "jerk",
-        "quiver",
-        "shake",
-        "twitch",
-        "wince"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "piku_piku-1a",
-          "display": "ピク  ピク",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぴくぴく"],
+  "katakana": ["ピクピク"],
+  "definition": [{
+    "equivalent": [
+      "flinch",
+      "jerk",
+      "quiver",
+      "shake",
+      "twitch",
+      "wince"
+    ],
+    "refer": "",
+    "meaning": "jerky movements or twitches",
+    "type": "m",
+    "example": [{
+      "file": "piku_piku-1a",
+      "contributor": "",
+      "display": "ピク ピク",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "piku piku"
 }

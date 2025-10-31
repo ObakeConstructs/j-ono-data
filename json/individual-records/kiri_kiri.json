@@ -3,13 +3,13 @@
   "katakana": ["キリキリ"],
   "definition": [{
     "equivalent": [
-      "creak creak",
-      "pull pull",
-      "strain strain",
-      "stress stress",
-      "stretch stretch",
-      "tense tense",
-      "tight tight"
+      "creak",
+      "pull",
+      "strain",
+      "stress",
+      "stretch",
+      "tense",
+      "tight"
     ],
     "refer": "",
     "meaning": "a sound of something pulled tight or straining under tension",
@@ -18,13 +18,13 @@
       {
         "file": "kiri_kiri-1a",
         "contributor": "",
-        "display": "キリ  キリ",
+        "display": "キリ キリ",
         "source": "marginal_taylor"
       },
       {
         "file": "kiri_kiri-1b",
         "contributor": "",
-        "display": "キリ  キリ...",
+        "display": "キリ キリ\u2026",
         "source": "my_s-ranked_daughter"
       }
     ]

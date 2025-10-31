@@ -1,13 +1,4 @@
 {
-  "literal": "poo",
-  "katakana": [
-    "ポォ",
-    "ポォォ",
-    "ポォォォ",
-    "ポオ",
-    "ポオオ",
-    "ポオオオ"
-  ],
   "hiragana": [
     "ぽぉ",
     "ぽぉぉ",
@@ -16,26 +7,31 @@
     "ぽおお",
     "ぽおおお"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the long, loud sound of a train whistle or air horn",
-      "equivalent": [
-        "blare",
-        "blast",
-        "hoot",
-        "toot",
-        "whistle"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "poo-1a",
-          "display": "ポォォォ..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ポォ",
+    "ポォォ",
+    "ポォォォ",
+    "ポオ",
+    "ポオオ",
+    "ポオオオ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blare",
+      "blast",
+      "hoot",
+      "toot",
+      "whistle"
+    ],
+    "refer": "",
+    "meaning": "the long, loud sound of a train whistle or air horn",
+    "type": "o",
+    "example": [{
+      "file": "poo-1a",
+      "contributor": "",
+      "display": "ポォォォ..",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "poo"
 }

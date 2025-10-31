@@ -1,48 +1,42 @@
 {
-  "literal": "goshi goshi",
-  "katakana": [
-    "ゴシゴシ"
-  ],
-  "hiragana": [
-    "ごしごし"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "rubbing or scrubbing, often vigorously",
-      "equivalent": [
-        "buff",
-        "rub",
-        "scrub",
-        "swipe"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "goshi_goshi-1a",
-          "display": "ごし  ごし",
-          "contributor": ""
-        },
-        {
-          "source": "a_rank_slow_life",
-          "file": "goshi_goshi-1b",
-          "display": "ゴシ  ゴシ",
-          "contributor": ""
-        },
-        {
-          "source": "human_ranch",
-          "file": "goshi_goshi-1c",
-          "display": "ゴシゴシ",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "goshi_goshi-1d",
-          "display": "ごし  ごし",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ごしごし"],
+  "katakana": ["ゴシゴシ"],
+  "definition": [{
+    "equivalent": [
+      "buff",
+      "rub",
+      "scrub",
+      "swipe"
+    ],
+    "refer": "",
+    "meaning": "rubbing or scrubbing, often vigorously",
+    "type": "o",
+    "example": [
+      {
+        "file": "goshi_goshi-1a",
+        "contributor": "",
+        "display": "ごし ごし",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "goshi_goshi-1b",
+        "contributor": "",
+        "display": "ゴシ ゴシ",
+        "source": "a_rank_slow_life"
+      },
+      {
+        "file": "goshi_goshi-1c",
+        "contributor": "",
+        "display": "ゴシゴシ",
+        "source": "human_ranch"
+      },
+      {
+        "file": "goshi_goshi-1d",
+        "contributor": "",
+        "display": "ごし ごし",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "goshi goshi"
 }

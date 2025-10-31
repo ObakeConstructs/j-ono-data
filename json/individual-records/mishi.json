@@ -1,42 +1,40 @@
 {
-  "literal": "mishi",
-  "katakana": [
-    "ミシ",
-    "ミシッ"
-  ],
   "hiragana": [
     "みし",
     "みしっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "creaking or groaning under stress",
-      "equivalent": [
-        "creak",
-        "grate",
-        "grind",
-        "groan",
-        "screech",
-        "shriek",
-        "squeak",
-        "squeal"
-      ],
-      "example": [
-        {
-          "source": "hanako_24th_ward",
-          "file": "mishi-1a",
-          "display": "ミシッ",
-          "contributor": ""
-        },
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "mishi-1b",
-          "display": "みしっ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ミシ",
+    "ミシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "creak",
+      "grate",
+      "grind",
+      "groan",
+      "screech",
+      "shriek",
+      "squeak",
+      "squeal"
+    ],
+    "refer": "",
+    "meaning": "creaking or groaning under stress",
+    "type": "o",
+    "example": [
+      {
+        "file": "mishi-1a",
+        "contributor": "",
+        "display": "ミシッ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "mishi-1b",
+        "contributor": "",
+        "display": "みしっ\u2026",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "literal": "mishi"
 }

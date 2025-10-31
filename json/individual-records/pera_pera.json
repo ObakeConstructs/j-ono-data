@@ -1,16 +1,8 @@
 {
-  "literal": "pera pera",
-  "katakana": [
-    "ペラペラ"
-  ],
-  "hiragana": [
-    "ぺらぺら"
-  ],
+  "hiragana": ["ぺらぺら"],
+  "katakana": ["ペラペラ"],
   "definition": [
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "speaking in a fluent and polished manner",
       "equivalent": [
         "articulate",
         "eloquent",
@@ -23,25 +15,25 @@
         "verbose",
         "well-spoken"
       ],
+      "refer": "",
+      "meaning": "speaking in a fluent and polished manner",
+      "type": "e",
       "example": [
         {
-          "source": "weakest_occupation_blacksmith",
           "file": "pera_pera-1a",
-          "display": "ペラ  ペラ  ペラ",
-          "contributor": ""
+          "contributor": "",
+          "display": "ペラ ペラ ペラ",
+          "source": "weakest_occupation_blacksmith"
         },
         {
-          "source": "yojo_life",
           "file": "pera_pera-1b",
-          "display": "ペラ  ペラ  ペラ",
-          "contributor": ""
+          "contributor": "",
+          "display": "ペラ ペラ ペラ",
+          "source": "yojo_life"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "s",
-      "meaning": "thin or soft material flapping",
       "equivalent": [
         "flap",
         "flick",
@@ -49,14 +41,16 @@
         "swish",
         "wave"
       ],
-      "example": [
-        {
-          "source": "berserk",
-          "file": "pera_pera-2a",
-          "display": "ペラ  ペラ  ペラ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "thin or soft material flapping",
+      "type": "s",
+      "example": [{
+        "file": "pera_pera-2a",
+        "contributor": "",
+        "display": "ペラ ペラ ペラ",
+        "source": "berserk"
+      }]
     }
-  ]
+  ],
+  "literal": "pera pera"
 }

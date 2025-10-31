@@ -1,46 +1,44 @@
 {
-  "literal": "giku",
-  "katakana": [
-    "ギク",
-    "ギクッ"
-  ],
   "hiragana": [
     "ぎく",
     "ぎくっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "a brief flinch or reaction to dismay, guilt or surprise",
-      "equivalent": [
-        "erk",
-        "flinch",
-        "guilt",
-        "gulp",
-        "shock",
-        "urk"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "giku-1a",
-          "display": "ギクッ",
-          "contributor": ""
-        },
-        {
-          "source": "d_genesis",
-          "file": "giku-1b",
-          "display": "ぎくっ",
-          "contributor": ""
-        },
-        {
-          "source": "reincarnated_as_a_dragon_egg",
-          "file": "giku-1c",
-          "display": "ギクッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ギク",
+    "ギクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "erk",
+      "flinch",
+      "guilt",
+      "gulp",
+      "shock",
+      "urk"
+    ],
+    "refer": "",
+    "meaning": "a brief flinch or reaction to dismay, guilt or surprise",
+    "type": "e",
+    "example": [
+      {
+        "file": "giku-1a",
+        "contributor": "",
+        "display": "ギクッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "giku-1b",
+        "contributor": "",
+        "display": "ぎくっ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "giku-1c",
+        "contributor": "",
+        "display": "ギクッ",
+        "source": "reincarnated_as_a_dragon_egg"
+      }
+    ]
+  }],
+  "literal": "giku"
 }

@@ -20,8 +20,8 @@
       "run",
       "scamper",
       "sprint",
-      "step step",
-      "tap tap"
+      "step",
+      "tap"
     ],
     "refer": "",
     "meaning": "to run lightly",
@@ -40,15 +40,15 @@
         "source": "d_genesis"
       },
       {
-        "file": "tata-1d",
+        "file": "tata-1c",
         "contributor": "",
-        "display": "タタ...",
+        "display": "タタ\u2026",
         "source": "otherworld_material_collector"
       },
       {
-        "file": "tata-1e",
+        "file": "tata-1d",
         "contributor": "",
-        "display": "たっ  たっ  たっ",
+        "display": "たっ たっ たっ",
         "source": "fushi_no_kami"
       }
     ]

@@ -3,11 +3,11 @@
   "katakana": ["スタスタ"],
   "definition": [{
     "equivalent": [
-      "march march",
-      "step step",
-      "stomp stomp",
-      "tread tread",
-      "walk walk"
+      "march",
+      "step",
+      "stomp",
+      "tread",
+      "walk"
     ],
     "refer": "",
     "meaning": "the sound of brisk and purposeful walking",
@@ -16,13 +16,13 @@
       {
         "file": "suta_suta-1a",
         "contributor": "",
-        "display": "スタ  スタ",
+        "display": "スタ スタ",
         "source": "komi_cant_communicate"
       },
       {
         "file": "suta_suta-1b",
         "contributor": "",
-        "display": "スタ  スタ",
+        "display": "スタ スタ",
         "source": "cheat_pharmacist"
       }
     ]

@@ -1,35 +1,31 @@
 {
-  "literal": "gusu",
-  "katakana": [
-    "グス",
-    "グスッ"
-  ],
   "hiragana": [
     "ぐす",
     "ぐすっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "the soft sniffling or sobbing sound of crying",
-      "equivalent": [
-        "blub",
-        "cry",
-        "sniff",
-        "sniffle",
-        "sob",
-        "tears",
-        "weep"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "gusu-1a",
-          "display": "ぐすっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グス",
+    "グスッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blub",
+      "cry",
+      "sniff",
+      "sniffle",
+      "sob",
+      "tears",
+      "weep"
+    ],
+    "refer": "",
+    "meaning": "the soft sniffling or sobbing sound of crying",
+    "type": "v",
+    "example": [{
+      "file": "gusu-1a",
+      "contributor": "",
+      "display": "ぐすっ",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "literal": "gusu"
 }

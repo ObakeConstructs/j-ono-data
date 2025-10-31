@@ -10,15 +10,15 @@
       "example": [{
         "file": "furu_furu-1a",
         "contributor": "",
-        "display": "フル  フル",
+        "display": "フル フル",
         "source": "weakest_occupation_blacksmith"
       }]
     },
     {
       "equivalent": [
-        "no no",
-        "nope nope",
-        "shake shake"
+        "no",
+        "nope",
+        "shake"
       ],
       "refer": "",
       "meaning": "shaking one's head side to side, as a way of expressing disagreement",
@@ -26,7 +26,7 @@
       "example": [{
         "file": "furu_furu-2a",
         "contributor": "",
-        "display": "ふる  ふる  ふる",
+        "display": "ふる ふる ふる",
         "source": "ai_and_izawa"
       }]
     }

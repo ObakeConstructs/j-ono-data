@@ -1,18 +1,14 @@
 {
-  "literal": "pikon",
-  "katakana": [
-    "ピコン",
-    "ピコーン"
-  ],
   "hiragana": [
     "ぴこん",
     "ぴこーん"
   ],
+  "katakana": [
+    "ピコン",
+    "ピコーン"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "electronic chime or beep sound",
       "equivalent": [
         "ba-ding",
         "bing",
@@ -22,19 +18,17 @@
         "ping",
         "ring"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "pikon-1a",
-          "display": "ピコン",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "electronic chime or beep sound",
+      "type": "o",
+      "example": [{
+        "file": "pikon-1a",
+        "contributor": "",
+        "display": "ピコン",
+        "source": "different_world_smartphone"
+      }]
     },
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "an endearing, cute or slightly embarrassing reaction",
       "equivalent": [
         "embarrass",
         "react",
@@ -44,20 +38,24 @@
         "surprise",
         "twitch"
       ],
+      "refer": "",
+      "meaning": "an endearing, cute or slightly embarrassing reaction",
+      "type": "e",
       "example": [
         {
-          "source": "reincarnated_as_a_dragon_egg",
           "file": "pikon-2a",
+          "contributor": "",
           "display": "ピコーン",
-          "contributor": ""
+          "source": "reincarnated_as_a_dragon_egg"
         },
         {
-          "source": "cheat_pharmacist",
           "file": "pikon-2b",
+          "contributor": "",
           "display": "ぴこん",
-          "contributor": ""
+          "source": "cheat_pharmacist"
         }
       ]
     }
-  ]
+  ],
+  "literal": "pikon"
 }

@@ -1,15 +1,4 @@
 {
-  "literal": "gi",
-  "katakana": [
-    "ギ",
-    "ギィ",
-    "ギィィ",
-    "ギィィィ",
-    "ギッ",
-    "ギィッ",
-    "ギィィッ",
-    "ギィィィッ"
-  ],
   "hiragana": [
     "ぎ",
     "ぎぃ",
@@ -20,11 +9,18 @@
     "ぎぃぃっ",
     "ぎぃぃぃっ"
   ],
+  "katakana": [
+    "ギ",
+    "ギィ",
+    "ギィィ",
+    "ギィィィ",
+    "ギッ",
+    "ギィッ",
+    "ギィィッ",
+    "ギィィィッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "s",
-      "meaning": "tense determination or resolve",
       "equivalent": [
         "clench",
         "determined",
@@ -34,25 +30,25 @@
         "strain",
         "tense"
       ],
+      "refer": "",
+      "meaning": "tense determination or resolve",
+      "type": "s",
       "example": [
         {
-          "source": "d_genesis",
           "file": "gi-1a",
+          "contributor": "",
           "display": "ギッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "peter_grill",
           "file": "gi-1b",
+          "contributor": "",
           "display": "ギッ",
-          "contributor": ""
+          "source": "peter_grill"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a sharp, high-pitched squeak or squeal",
       "equivalent": [
         "creak",
         "cry",
@@ -62,26 +58,30 @@
         "squeal",
         "squee"
       ],
+      "refer": "",
+      "meaning": "a sharp, high-pitched squeak or squeal",
+      "type": "o",
       "example": [
         {
-          "source": "reincarnated_aristocrat",
           "file": "gi-2a",
+          "contributor": "",
           "display": "ギィィィィッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "gi-2b",
+          "contributor": "",
           "display": "ギィ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         },
         {
-          "source": "otherworld_material_collector",
-          "file": "gi-2d",
+          "file": "gi-2c",
+          "contributor": "",
           "display": "ギィィ",
-          "contributor": ""
+          "source": "otherworld_material_collector"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gi"
 }

@@ -1,38 +1,34 @@
 {
-  "literal": "pata",
-  "katakana": [
-    "パタ",
-    "パタッ"
-  ],
   "hiragana": [
     "ぱた",
     "ぱたっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "falling, tipping over, or collapsing softly",
-      "equivalent": [
-        "collapse",
-        "fall",
-        "fall over",
-        "flop",
-        "flump",
-        "plop",
-        "plunk",
-        "tip over",
-        "topple",
-        "tumble"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "pata-1a",
-          "display": "パタ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "パタ",
+    "パタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "collapse",
+      "fall",
+      "fall over",
+      "flop",
+      "flump",
+      "plop",
+      "plunk",
+      "tip over",
+      "topple",
+      "tumble"
+    ],
+    "refer": "",
+    "meaning": "falling, tipping over, or collapsing softly",
+    "type": "m",
+    "example": [{
+      "file": "pata-1a",
+      "contributor": "",
+      "display": "パタ\u2026",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "pata"
 }

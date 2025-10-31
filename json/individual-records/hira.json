@@ -1,37 +1,31 @@
 {
-  "literal": "hira",
-  "katakana": [
-    "ヒラ"
-  ],
-  "hiragana": [
-    "ひら"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "soft, airy flapping or fluttering",
-      "equivalent": [
-        "flap",
-        "flick",
-        "flit",
-        "flutter",
-        "swish"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "hira-1a",
-          "display": "ヒラ",
-          "contributor": ""
-        },
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "hira-1b",
-          "display": "ひら.....",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ひら"],
+  "katakana": ["ヒラ"],
+  "definition": [{
+    "equivalent": [
+      "flap",
+      "flick",
+      "flit",
+      "flutter",
+      "swish"
+    ],
+    "refer": "",
+    "meaning": "soft, airy flapping or fluttering",
+    "type": "o",
+    "example": [
+      {
+        "file": "hira-1a",
+        "contributor": "",
+        "display": "ヒラ",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "hira-1b",
+        "contributor": "",
+        "display": "ひら\u2026..",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "literal": "hira"
 }

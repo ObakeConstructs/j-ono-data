@@ -1,31 +1,23 @@
 {
-  "literal": "nfufu",
-  "katakana": [
-    "ンフフ"
-  ],
-  "hiragana": [
-    "んふふ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "a soft, muffled laugh",
-      "equivalent": [
-        "chortle",
-        "chuckle",
-        "grin",
-        "ha",
-        "laugh"
-      ],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "nfufu-1a",
-          "display": "んふふ♪",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["んふふ"],
+  "katakana": ["ンフフ"],
+  "definition": [{
+    "equivalent": [
+      "chortle",
+      "chuckle",
+      "grin",
+      "ha",
+      "laugh"
+    ],
+    "refer": "",
+    "meaning": "a soft, muffled laugh",
+    "type": "v",
+    "example": [{
+      "file": "nfufu-1a",
+      "contributor": "",
+      "display": "んふふ♪",
+      "source": "my_s-ranked_daughter"
+    }]
+  }],
+  "literal": "nfufu"
 }

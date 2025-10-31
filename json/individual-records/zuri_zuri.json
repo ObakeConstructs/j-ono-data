@@ -4,10 +4,10 @@
   "definition": [
     {
       "equivalent": [
-        "drag drag",
-        "move move",
-        "pull pull",
-        "slide slide"
+        "drag",
+        "move",
+        "pull",
+        "slide"
       ],
       "refer": "",
       "meaning": "to series of sliding or dragging noises",
@@ -16,25 +16,25 @@
         {
           "file": "zuri_zuri-1a",
           "contributor": "",
-          "display": "ズリズリ...",
+          "display": "ズリズリ\u2026",
           "source": "abandoned_reincarnation_sage"
         },
         {
           "file": "zuri_zuri-1b",
           "contributor": "",
-          "display": "ズリ  ズリ",
+          "display": "ズリ ズリ",
           "source": "hone_dragon"
         }
       ]
     },
     {
       "equivalent": [
-        "lumber lumber",
-        "lurch lurch",
-        "stagger stagger",
-        "stumble stumble",
-        "sway sway",
-        "waddle waddle"
+        "lumber",
+        "lurch",
+        "stagger",
+        "stumble",
+        "sway",
+        "waddle"
       ],
       "refer": "",
       "meaning": "to stand or walk in an unsteady manner",
@@ -42,7 +42,7 @@
       "example": [{
         "file": "zuri_zuri-2a",
         "contributor": "",
-        "display": "ズリ  ズリ",
+        "display": "ズリ ズリ",
         "source": "simple_sword_saint"
       }]
     }

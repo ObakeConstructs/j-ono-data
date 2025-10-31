@@ -9,13 +9,13 @@
   ],
   "definition": [{
     "equivalent": [
-      "flick flick",
-      "flip flip",
-      "shake shake",
-      "swipe swipe",
-      "swish swish",
-      "wag wag",
-      "wave wave"
+      "flick",
+      "flip",
+      "shake",
+      "swipe",
+      "swish",
+      "wag",
+      "wave"
     ],
     "refer": "",
     "meaning": "indications of waving or shaking to and fro",
@@ -24,19 +24,19 @@
       {
         "file": "bun_bun-1a",
         "contributor": "",
-        "display": "ぶん  ぶんっ",
+        "display": "ぶん ぶんっ",
         "source": "world_full_of_monsters"
       },
       {
         "file": "bun_bun-1b",
         "contributor": "",
-        "display": "ブン  ブンッ",
+        "display": "ブン ブンッ",
         "source": "world_full_of_monsters"
       },
       {
         "file": "bun_bun-1c",
         "contributor": "",
-        "display": "ブン  ブン  ブン",
+        "display": "ブン ブン ブン",
         "source": "ai_and_izawa"
       }
     ]

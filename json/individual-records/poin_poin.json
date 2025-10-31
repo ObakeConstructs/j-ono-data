@@ -1,27 +1,17 @@
 {
-  "literal": "poin poin",
-  "katakana": [
-    "ポィンポィン"
-  ],
-  "hiragana": [
-    "ぽぃんぽぃん"
-  ],
-  "definition": [
-    {
-      "refer": "poin:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "poin_poin-1a",
-          "display": "ポィン    ポィーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぽぃんぽぃん"],
+  "katakana": ["ポィンポィン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "poin:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "poin_poin-1a",
+      "contributor": "",
+      "display": "ポィン ポィーン",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "poin poin"
 }

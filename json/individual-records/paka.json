@@ -1,44 +1,42 @@
 {
-  "literal": "paka",
-  "katakana": [
-    "パカ",
-    "パカッ"
-  ],
   "hiragana": [
     "ぱか",
     "ぱかっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "sudden opening of a closed container",
-      "equivalent": [
-        "open",
-        "pop",
-        "reveal",
-        "uncover"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "paka-2b",
-          "display": "パカッ",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "paka-2a",
-          "display": "パカッ",
-          "contributor": ""
-        },
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "paka-1a",
-          "display": "ぱか",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "パカ",
+    "パカッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "open",
+      "pop",
+      "reveal",
+      "uncover"
+    ],
+    "refer": "",
+    "meaning": "sudden opening of a closed container",
+    "type": "m",
+    "example": [
+      {
+        "file": "paka-1a",
+        "contributor": "",
+        "display": "パカッ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "paka-1b",
+        "contributor": "",
+        "display": "パカッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "paka-1c",
+        "contributor": "",
+        "display": "ぱか",
+        "source": "kuma_kuma_kuma_bear"
+      }
+    ]
+  }],
+  "literal": "paka"
 }

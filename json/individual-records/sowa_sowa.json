@@ -9,15 +9,15 @@
   ],
   "definition": [{
     "equivalent": [
-      "fidget fidget",
-      "flutter flutter",
-      "jerk jerk",
-      "shake shake",
-      "shiver shiver",
-      "squirm squirm",
-      "twitch twitch",
-      "wiggle wiggle",
-      "wriggle wriggle"
+      "fidget",
+      "flutter",
+      "jerk",
+      "shake",
+      "shiver",
+      "squirm",
+      "twitch",
+      "wiggle",
+      "wriggle"
     ],
     "refer": "",
     "meaning": "an indication of jerky or restless movements",
@@ -25,7 +25,7 @@
     "example": [{
       "file": "sowa_sowa-1a",
       "contributor": "",
-      "display": "そわ  そわ",
+      "display": "そわ そわ",
       "source": "embarrassing_and_sweet"
     }]
   }],

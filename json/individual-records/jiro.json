@@ -1,27 +1,17 @@
 {
-  "literal": "jiro",
-  "katakana": [
-    "ジロ"
-  ],
-  "hiragana": [
-    "じろ"
-  ],
-  "definition": [
-    {
-      "refer": "ji:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "jiro-1a",
-          "display": "じろ...",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["じろ"],
+  "katakana": ["ジロ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ji:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jiro-1a",
+      "contributor": "",
+      "display": "じろ\u2026",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "jiro"
 }

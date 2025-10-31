@@ -1,18 +1,14 @@
 {
-  "literal": "gaba",
-  "katakana": [
-    "ガバ",
-    "ガバッ"
-  ],
   "hiragana": [
     "がば",
     "がばっ"
   ],
+  "katakana": [
+    "ガバ",
+    "ガバッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "suddenly and energetically sitting up or standing up",
       "equivalent": [
         "arise",
         "fwip",
@@ -22,43 +18,43 @@
         "stand",
         "suddenly"
       ],
+      "refer": "",
+      "meaning": "suddenly and energetically sitting up or standing up",
+      "type": "m",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "gaba-1a",
+          "contributor": "",
           "display": "ガバッ",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "strongest_magician_was_human",
           "file": "gaba-1b",
+          "contributor": "",
           "display": "ガバッ",
-          "contributor": ""
+          "source": "strongest_magician_was_human"
         },
         {
-          "source": "neet_kunoichi",
           "file": "gaba-1c",
+          "contributor": "",
           "display": "ガバッ",
-          "contributor": ""
+          "source": "neet_kunoichi"
         },
         {
-          "source": "simple_sword_saint",
           "file": "gaba-1d",
+          "contributor": "",
           "display": "がばっ",
-          "contributor": ""
+          "source": "simple_sword_saint"
         },
         {
-          "source": "isekai_territory_reform",
-          "file": "kaba-1a",
+          "file": "gaba-1e",
+          "contributor": "",
           "display": "がばっ",
-          "contributor": ""
+          "source": "isekai_territory_reform"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "suddenly and energetically grabbing or hugging someone",
       "equivalent": [
         "clasp",
         "cradle",
@@ -68,20 +64,24 @@
         "hold",
         "hug"
       ],
+      "refer": "",
+      "meaning": "suddenly and energetically grabbing or hugging someone",
+      "type": "m",
       "example": [
         {
-          "source": "d_genesis",
           "file": "gaba-2a",
+          "contributor": "",
           "display": "がば",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "isekai_territory_reform",
           "file": "gaba-2b",
+          "contributor": "",
           "display": "がばっ",
-          "contributor": ""
+          "source": "isekai_territory_reform"
         }
       ]
     }
-  ]
+  ],
+  "literal": "gaba"
 }

@@ -1,27 +1,17 @@
 {
-  "literal": "hyun hyun",
-  "katakana": [
-    "ヒュンヒュン"
-  ],
-  "hiragana": [
-    "ひゅんひゅん"
-  ],
-  "definition": [
-    {
-      "refer": "hyu:1",
-      "type": "",
-      "meaning": ", repeated or continuous",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "hyun_hyun-1a",
-          "display": "ヒュン  ヒュン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ひゅんひゅん"],
+  "katakana": ["ヒュンヒュン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "hyu:1",
+    "meaning": ", repeated or continuous",
+    "type": "",
+    "example": [{
+      "file": "hyun_hyun-1a",
+      "contributor": "",
+      "display": "ヒュン ヒュン",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "hyun hyun"
 }

@@ -1,29 +1,23 @@
 {
-  "literal": "jaran",
-  "katakana": [
-    "ジャラン",
-    "ジャラーン"
-  ],
   "hiragana": [
     "じゃらん",
     "じゃらーん"
   ],
-  "definition": [
-    {
-      "refer": "jara:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "jaran-1a",
-          "display": "ジャラーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジャラン",
+    "ジャラーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "jara:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jaran-1a",
+      "contributor": "",
+      "display": "ジャラーン",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "jaran"
 }

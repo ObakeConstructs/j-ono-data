@@ -1,35 +1,27 @@
 {
-  "literal": "nyu",
-  "katakana": [
-    "ニュ"
-  ],
-  "hiragana": [
-    "にゅ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "something  squishy or slick, often emerging or protruding",
-      "equivalent": [
-        "emerging",
-        "greasy",
-        "protruding",
-        "slick",
-        "slither",
-        "smooth",
-        "squeeze",
-        "squish",
-        "squoosh"
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "nyu-1a",
-          "display": "ニュ..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["にゅ"],
+  "katakana": ["ニュ"],
+  "definition": [{
+    "equivalent": [
+      "emerging",
+      "greasy",
+      "protruding",
+      "slick",
+      "slither",
+      "smooth",
+      "squeeze",
+      "squish",
+      "squoosh"
+    ],
+    "refer": "",
+    "meaning": "something  squishy or slick, often emerging or protruding",
+    "type": "s",
+    "example": [{
+      "file": "nyu-1a",
+      "contributor": "",
+      "display": "ニュ..",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "nyu"
 }

@@ -1,29 +1,23 @@
 {
-  "literal": "pyoko pyoko",
-  "katakana": [
-    "ピョコピョコ",
-    "ピヨコピヨコ"
-  ],
   "hiragana": [
     "ぴょこぴょこ",
     "ぴよこぴよこ"
   ],
-  "definition": [
-    {
-      "refer": "pyoko:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "pyoko_pyoko-1a",
-          "display": "ぴょこ  ぴょこ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ピョコピョコ",
+    "ピヨコピヨコ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pyoko:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "pyoko_pyoko-1a",
+      "contributor": "",
+      "display": "ぴょこ ぴょこ",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "pyoko pyoko"
 }

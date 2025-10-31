@@ -1,34 +1,26 @@
 {
-  "literal": "hiri hiri",
-  "katakana": [
-    "ヒリヒリ"
-  ],
-  "hiragana": [
-    "ひりひり"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "an expression of  a tingling, stinging or mild burning sensation",
-      "equivalent": [
-        "ache",
-        "burn",
-        "pang",
-        "sting",
-        "tender",
-        "throb",
-        "tingle",
-        "twinge"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "hiri_hiri-1a",
-          "display": "ヒリヒリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ひりひり"],
+  "katakana": ["ヒリヒリ"],
+  "definition": [{
+    "equivalent": [
+      "ache",
+      "burn",
+      "pang",
+      "sting",
+      "tender",
+      "throb",
+      "tingle",
+      "twinge"
+    ],
+    "refer": "",
+    "meaning": "an expression of  a tingling, stinging or mild burning sensation",
+    "type": "s",
+    "example": [{
+      "file": "hiri_hiri-1a",
+      "contributor": "",
+      "display": "ヒリヒリ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "hiri hiri"
 }

@@ -1,29 +1,23 @@
 {
-  "literal": "jakin",
-  "katakana": [
-    "ジャキン",
-    "ジャキンッ"
-  ],
   "hiragana": [
     "じゃきん",
     "じゃきんっ"
   ],
-  "definition": [
-    {
-      "refer": "jaki:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "shogun_gold_in_america",
-          "file": "jakin-1a",
-          "display": "ジャキンッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ジャキン",
+    "ジャキンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "jaki:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jakin-1a",
+      "contributor": "",
+      "display": "ジャキンッ",
+      "source": "shogun_gold_in_america"
+    }]
+  }],
+  "literal": "jakin"
 }

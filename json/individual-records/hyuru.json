@@ -1,48 +1,46 @@
 {
-  "literal": "hyuru",
-  "katakana": [
-    "ヒュル",
-    "ヒュルル",
-    "ヒュルルル"
-  ],
   "hiragana": [
     "ひゅる",
     "ひゅるる",
     "ひゅるるる"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "moving, spinning or whirling quickly, often smoothly",
-      "equivalent": [
-        "roll",
-        "shoom",
-        "spin",
-        "swoosh",
-        "twirl",
-        "whirl",
-        "whish",
-        "whiz",
-        "whom",
-        "whoosh",
-        "zip",
-        "zoom"
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "hyuru-1a",
-          "display": "ヒュルルル",
-          "contributor": ""
-        },
-        {
-          "source": "requiem_for_prophet",
-          "file": "hyuru-1b",
-          "display": "ヒュルルルル",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヒュル",
+    "ヒュルル",
+    "ヒュルルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "roll",
+      "shoom",
+      "spin",
+      "swoosh",
+      "twirl",
+      "whirl",
+      "whish",
+      "whiz",
+      "whom",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "refer": "",
+    "meaning": "moving, spinning or whirling quickly, often smoothly",
+    "type": "m",
+    "example": [
+      {
+        "file": "hyuru-1a",
+        "contributor": "",
+        "display": "ヒュルルル",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "hyuru-1b",
+        "contributor": "",
+        "display": "ヒュルルルル",
+        "source": "requiem_for_prophet"
+      }
+    ]
+  }],
+  "literal": "hyuru"
 }

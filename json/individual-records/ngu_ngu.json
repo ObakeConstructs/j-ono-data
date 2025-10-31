@@ -1,32 +1,24 @@
 {
-  "literal": "ngu ngu",
-  "katakana": [
-    "ングング"
-  ],
-  "hiragana": [
-    "んぐんぐ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "gulping while drinking",
-      "equivalent": [
-        "drink",
-        "glug",
-        "gulp",
-        "quaff",
-        "swallow",
-        "swig"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_as_a_dragon_egg",
-          "file": "ngu_ngu-1a",
-          "display": "んぐ  んぐ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["んぐんぐ"],
+  "katakana": ["ングング"],
+  "definition": [{
+    "equivalent": [
+      "drink",
+      "glug",
+      "gulp",
+      "quaff",
+      "swallow",
+      "swig"
+    ],
+    "refer": "",
+    "meaning": "gulping while drinking",
+    "type": "o",
+    "example": [{
+      "file": "ngu_ngu-1a",
+      "contributor": "",
+      "display": "んぐ んぐ",
+      "source": "reincarnated_as_a_dragon_egg"
+    }]
+  }],
+  "literal": "ngu ngu"
 }

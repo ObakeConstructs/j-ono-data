@@ -9,13 +9,13 @@
   ],
   "definition": [{
     "equivalent": [
-      "bound bound",
-      "dash dash",
+      "bound",
+      "dash",
       "gallop",
-      "lope lope",
-      "run run",
-      "sprint sprint",
-      "trot trot"
+      "lope",
+      "run",
+      "sprint",
+      "trot"
     ],
     "refer": "",
     "meaning": "to run lightly",
@@ -23,7 +23,7 @@
     "example": [{
       "file": "te_te-1a",
       "contributor": "",
-      "display": "テッ  テッ",
+      "display": "テッ テッ",
       "source": "weakest_occupation_blacksmith"
     }]
   }],

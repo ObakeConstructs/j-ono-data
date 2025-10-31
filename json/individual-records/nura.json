@@ -1,33 +1,25 @@
 {
-  "literal": "nura",
-  "katakana": [
-    "ヌラ"
-  ],
-  "hiragana": [
-    "ぬらぬら"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "gleaming or glowing eyes, expressing menace or tension",
-      "equivalent": [
-        "glare",
-        "gleam",
-        "glint",
-        "glow",
-        "menace",
-        "shine",
-        "tension"
-      ],
-      "example": [
-        {
-          "source": "sex_with_me_sells",
-          "file": "nura_nura-1a",
-          "display": "ヌラ  ヌラ  ヌラ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぬらぬら"],
+  "katakana": ["ヌラ"],
+  "definition": [{
+    "equivalent": [
+      "glare",
+      "gleam",
+      "glint",
+      "glow",
+      "menace",
+      "shine",
+      "tension"
+    ],
+    "refer": "",
+    "meaning": "gleaming or glowing eyes, expressing menace or tension",
+    "type": "s",
+    "example": [{
+      "file": "nura-1a",
+      "contributor": "",
+      "display": "ヌラ ヌラ ヌラ",
+      "source": "sex_with_me_sells"
+    }]
+  }],
+  "literal": "nura"
 }

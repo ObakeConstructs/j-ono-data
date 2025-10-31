@@ -1,27 +1,17 @@
 {
-  "literal": "pochan",
-  "katakana": [
-    "ポチャン"
-  ],
-  "hiragana": [
-    "ぽちゃん"
-  ],
-  "definition": [
-    {
-      "refer": "po:3",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "pochan-1a",
-          "display": "ポチャン.",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ぽちゃん"],
+  "katakana": ["ポチャン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "po:3",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "pochan-1a",
+      "contributor": "",
+      "display": "ポチャン.",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "pochan"
 }

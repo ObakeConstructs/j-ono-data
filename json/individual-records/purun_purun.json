@@ -1,29 +1,23 @@
 {
-  "literal": "purun purun",
-  "katakana": [
-    "プルンプルン",
-    "プルンプルンッ"
-  ],
   "hiragana": [
     "ぷるんぷるん",
     "ぷるんぷるんっ"
   ],
-  "definition": [
-    {
-      "refer": "puru:2",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "gyaru_academy",
-          "file": "purun_purun-1a",
-          "display": "プルン  プルンッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "プルンプルン",
+    "プルンプルンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "puru:2",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "purun_purun-1a",
+      "contributor": "",
+      "display": "プルン プルンッ",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "literal": "purun purun"
 }

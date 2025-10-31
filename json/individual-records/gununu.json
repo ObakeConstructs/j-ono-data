@@ -1,38 +1,34 @@
 {
-  "literal": "gununu",
-  "katakana": [
-    "グヌヌ",
-    "グヌヌヌ"
-  ],
   "hiragana": [
     "ぐぬぬ",
     "ぐぬぬぬ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "suppressed frustration or irritation",
-      "equivalent": [
-        "boil",
-        "chafe",
-        "fume",
-        "gnnn",
-        "grrr",
-        "rage",
-        "rankle",
-        "seethe",
-        "smolder",
-        "steam"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "gununu-1a",
-          "display": "ぐぬぬぬ...!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "グヌヌ",
+    "グヌヌヌ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "boil",
+      "chafe",
+      "fume",
+      "gnnn",
+      "grrr",
+      "rage",
+      "rankle",
+      "seethe",
+      "smolder",
+      "steam"
+    ],
+    "refer": "",
+    "meaning": "suppressed frustration or irritation",
+    "type": "e",
+    "example": [{
+      "file": "gununu-1a",
+      "contributor": "",
+      "display": "ぐぬぬぬ\u2026!",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "gununu"
 }

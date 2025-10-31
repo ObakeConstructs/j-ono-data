@@ -1,27 +1,17 @@
 {
-  "literal": "hira hira",
-  "katakana": [
-    "ヒラヒラ"
-  ],
-  "hiragana": [
-    "ひらひら"
-  ],
-  "definition": [
-    {
-      "refer": "hira:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "lord_of_the_hundred_demons",
-          "file": "hira_hira-1a",
-          "display": "ひら  ひら",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ひらひら"],
+  "katakana": ["ヒラヒラ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "hira:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "hira_hira-1a",
+      "contributor": "",
+      "display": "ひら ひら",
+      "source": "lord_of_the_hundred_demons"
+    }]
+  }],
+  "literal": "hira hira"
 }

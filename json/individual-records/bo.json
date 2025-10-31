@@ -77,7 +77,7 @@
       "example": [{
         "file": "bo-2a",
         "contributor": "",
-        "display": "ぼー...",
+        "display": "ぼー\u2026",
         "source": "s_rank_behemoth"
       }]
     }

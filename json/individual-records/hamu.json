@@ -1,32 +1,24 @@
 {
-  "literal": "hamu",
-  "katakana": [
-    "ハム"
-  ],
-  "hiragana": [
-    "はむ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "small, gentle biting or nibbling",
-      "equivalent": [
-        "bite",
-        "chew",
-        "gnaw",
-        "grind",
-        "nibble",
-        "snack"
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "hamu-1a",
-          "display": "はむ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["はむ"],
+  "katakana": ["ハム"],
+  "definition": [{
+    "equivalent": [
+      "bite",
+      "chew",
+      "gnaw",
+      "grind",
+      "nibble",
+      "snack"
+    ],
+    "refer": "",
+    "meaning": "small, gentle biting or nibbling",
+    "type": "v",
+    "example": [{
+      "file": "hamu-1a",
+      "contributor": "",
+      "display": "はむ",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "hamu"
 }

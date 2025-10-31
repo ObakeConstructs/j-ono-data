@@ -36,7 +36,7 @@
         "sss"
       ],
       "refer": "",
-      "meaning": "a soft sound of raining or a shower",
+      "meaning": "the soft sound of rain or a shower",
       "type": "",
       "example": [
         {
@@ -54,7 +54,7 @@
         {
           "file": "za-1c",
           "contributor": "",
-          "display": "ザァァァァ.....",
+          "display": "ザァァァァ\u2026..",
           "source": "beastly_boys_and_girls"
         }
       ]
@@ -70,17 +70,17 @@
         "walk"
       ],
       "refer": "",
-      "meaning": "a sound of someone taking a step or stomping",
+      "meaning": "the sound of someone taking a step or stomping",
       "type": "",
       "example": [
         {
-          "file": "za-2b",
+          "file": "za-2a",
           "contributor": "",
           "display": "ザッ",
           "source": "peter_grill"
         },
         {
-          "file": "za-2c",
+          "file": "za-2b",
           "contributor": "",
           "display": "ざっ",
           "source": "strongest_thread_master"
