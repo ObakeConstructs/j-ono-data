@@ -1,18 +1,22 @@
 {
-  "hiragana": [
-    "そ",
-    "そっ",
-    "そー",
-    "そーっ"
-  ],
+  "literal": "so",
   "katakana": [
     "ソ",
     "ソッ",
     "ソー",
     "ソーッ"
   ],
+  "hiragana": [
+    "そ",
+    "そっ",
+    "そー",
+    "そーっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "move in a quiet or secretive manner",
       "equivalent": [
         "creep",
         "hide",
@@ -24,47 +28,40 @@
         "sneak",
         "tip toe"
       ],
-      "refer": "",
-      "meaning": "to move in a secretive or quiet manner",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "so-1a",
-          "contributor": "",
-          "display": "そ\u2026",
-          "source": "d_genesis"
+          "display": "そ…",
+          "contributor": ""
         },
         {
+          "source": "different_world_smartphone",
           "file": "so-1b",
-          "contributor": "",
           "display": "そっ",
-          "source": "different_world_smartphone"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "gentle reaching or placement of hands",
       "equivalent": [
-        "deliver",
-        "gesture",
-        "give",
-        "hand over",
-        "hold",
-        "pass",
-        "raise",
+        "brush",
+        "contact",
+        "place",
         "reach",
-        "slide",
         "touch"
       ],
-      "refer": "",
-      "meaning": "to reach out to someone, so as to touch or present them with something",
-      "type": "",
-      "example": [{
-        "file": "so-2a",
-        "contributor": "",
-        "display": "そっ",
-        "source": "komi_cant_communicate"
-      }]
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "so-2a",
+          "display": "そっ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "so"
+  ]
 }

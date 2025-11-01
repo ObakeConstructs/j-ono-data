@@ -1,33 +1,38 @@
 {
-  "hiragana": [
-    "そわそわ",
-    "そゎそゎ"
-  ],
+  "literal": "sowa sowa",
   "katakana": [
     "ソワソワ",
     "ソヮソヮ"
   ],
-  "definition": [{
-    "equivalent": [
-      "fidget",
-      "flutter",
-      "jerk",
-      "shake",
-      "shiver",
-      "squirm",
-      "twitch",
-      "wiggle",
-      "wriggle"
-    ],
-    "refer": "",
-    "meaning": "an indication of jerky or restless movements",
-    "type": "",
-    "example": [{
-      "file": "sowa_sowa-1a",
-      "contributor": "",
-      "display": "そわ そわ",
-      "source": "embarrassing_and_sweet"
-    }]
-  }],
-  "literal": "sowa sowa"
+  "hiragana": [
+    "そわそわ",
+    "そゎそゎ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "restless or fidgety due to nervousness or anticipation",
+      "equivalent": [
+        "antsy",
+        "anxious",
+        "fidget",
+        "flustered",
+        "flutter",
+        "jittery",
+        "nervous",
+        "restless",
+        "squirm",
+        "tense"
+      ],
+      "example": [
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "sowa_sowa-1a",
+          "display": "そわ そわ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

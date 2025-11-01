@@ -1,38 +1,42 @@
 {
-  "hiragana": [
-    "すこん",
-    "すこんっ"
-  ],
+  "literal": "sukon",
   "katakana": [
     "スコン",
     "スコンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bat",
-      "biff",
-      "bonk",
-      "bop",
-      "clip",
-      "plonk",
-      "plunk",
-      "scuff",
-      "smack",
-      "sock",
-      "swat",
-      "tap",
-      "thump",
-      "whack"
-    ],
-    "refer": "",
-    "meaning": "the indication or sound of a light, harmless strike",
-    "type": "",
-    "example": [{
-      "file": "sukon-1a",
-      "contributor": "",
-      "display": "スコン",
-      "source": "sex_with_me_sells"
-    }]
-  }],
-  "literal": "sukon"
+  "hiragana": [
+    "すこん",
+    "すこんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a light, harmless strike, often humorous",
+      "equivalent": [
+        "bat",
+        "biff",
+        "bonk",
+        "bop",
+        "clip",
+        "plonk",
+        "plunk",
+        "scuff",
+        "smack",
+        "sock",
+        "swat",
+        "tap",
+        "thump",
+        "whack"
+      ],
+      "example": [
+        {
+          "source": "sex_with_me_sells",
+          "file": "sukon-1a",
+          "display": "スコン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

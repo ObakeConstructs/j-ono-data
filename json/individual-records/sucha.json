@@ -1,28 +1,38 @@
 {
-  "hiragana": [
-    "すちゃ",
-    "すちゃっ"
-  ],
+  "literal": "sucha",
   "katakana": [
     "スチャ",
     "スチャッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "slow",
-      "steady",
-      "unfaltering",
-      "careful"
-    ],
-    "refer": "",
-    "meaning": "an indication of slow and steady movement",
-    "type": "",
-    "example": [{
-      "file": "sucha-1a",
-      "contributor": "",
-      "display": "スチャッ",
-      "source": "isekai_sniper"
-    }]
-  }],
-  "literal": "sucha"
+  "hiragana": [
+    "すちゃ",
+    "すちゃっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "quick, cool, or precise movement",
+      "equivalent": [
+        "competent",
+        "confident",
+        "cool",
+        "decisive",
+        "precise",
+        "quick",
+        "ready",
+        "showy",
+        "snap",
+        "stylish"
+      ],
+      "example": [
+        {
+          "source": "isekai_sniper",
+          "file": "sucha-1a",
+          "display": "スチャッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

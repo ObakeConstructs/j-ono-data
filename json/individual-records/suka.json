@@ -1,42 +1,46 @@
 {
-  "hiragana": [
-    "すか",
-    "すかっ"
-  ],
+  "literal": "suka",
   "katakana": [
     "スカ",
     "スカッ"
   ],
+  "hiragana": [
+    "すか",
+    "すかっ"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "strike",
-        "swish",
-        "swoosh",
-        "whoosh",
-        "zip",
-        "zoom"
-      ],
       "refer": "",
-      "meaning": "the sound of something moving fast, typically indicating a missed hit, as from a sword or baseball bat",
-      "type": "",
+      "type": "m",
+      "meaning": "a miss or failed hit",
+      "equivalent": [
+        "empty strike",
+        "failed",
+        "missed",
+        "whiff",
+        "whoosh"
+      ],
       "example": [
         {
+          "source": "eternal_fool_asley",
           "file": "suka-1a",
-          "contributor": "",
           "display": "スカッ!",
-          "source": "eternal_fool_asley"
+          "contributor": ""
         },
         {
+          "source": "killed_by_gods_mistake",
           "file": "suka-1b",
-          "contributor": "",
           "display": "スカッ",
-          "source": "killed_by_gods_mistake"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "a soft, airy sleeping breath",
       "equivalent": [
+        "breath",
         "dose",
         "nap",
         "rest",
@@ -44,16 +48,14 @@
         "slumber",
         "zzz"
       ],
-      "refer": "",
-      "meaning": "the indication or sound of sleep",
-      "type": "",
-      "example": [{
-        "file": "suka-2a",
-        "contributor": "",
-        "display": "すかー",
-        "source": "beastly_boys_and_girls"
-      }]
+      "example": [
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "suka-2a",
+          "display": "すかー",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "suka"
+  ]
 }

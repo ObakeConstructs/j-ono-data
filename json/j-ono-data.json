@@ -106,11 +106,15 @@
   {
     "hiragana": [
       "あむ",
-      "あむっ"
+      "あむっ",
+      "あむぅ",
+      "あむぅぅ"
     ],
     "katakana": [
       "アム",
-      "アムッ"
+      "アムッ",
+      "アムゥ",
+      "アムゥゥ"
     ],
     "definition": [{
       "equivalent": [
@@ -135,7 +139,7 @@
         {
           "file": "amu-1b",
           "contributor": "",
-          "display": "あむっ♡",
+          "display": "あむぅ♡",
           "source": "gyaru_academy"
         }
       ]
@@ -20980,8 +20984,8 @@
           "tip toe"
         ],
         "refer": "",
-        "meaning": "to move in a secretive or quiet manner",
-        "type": "",
+        "meaning": "move in a quiet or secretive manner",
+        "type": "m",
         "example": [
           {
             "file": "so-1a",
@@ -20999,20 +21003,15 @@
       },
       {
         "equivalent": [
-          "deliver",
-          "gesture",
-          "give",
-          "hand over",
-          "hold",
-          "pass",
-          "raise",
+          "brush",
+          "contact",
+          "place",
           "reach",
-          "slide",
           "touch"
         ],
         "refer": "",
-        "meaning": "to reach out to someone, so as to touch or present them with something",
-        "type": "",
+        "meaning": "gentle reaching or placement of hands",
+        "type": "m",
         "example": [{
           "file": "so-2a",
           "contributor": "",
@@ -21034,19 +21033,20 @@
     ],
     "definition": [{
       "equivalent": [
+        "antsy",
+        "anxious",
         "fidget",
+        "flustered",
         "flutter",
-        "jerk",
-        "shake",
-        "shiver",
+        "jittery",
+        "nervous",
+        "restless",
         "squirm",
-        "twitch",
-        "wiggle",
-        "wriggle"
+        "tense"
       ],
       "refer": "",
-      "meaning": "an indication of jerky or restless movements",
-      "type": "",
+      "meaning": "restless or fidgety due to nervousness or anticipation",
+      "type": "e",
       "example": [{
         "file": "sowa_sowa-1a",
         "contributor": "",
@@ -21091,8 +21091,8 @@
           "pass by"
         ],
         "refer": "",
-        "meaning": "an indication of moving past someone, typically ignoring them",
-        "type": "",
+        "meaning": "lightly slip past or ignore someone",
+        "type": "m",
         "example": [
           {
             "file": "su-1a",
@@ -21116,30 +21116,24 @@
       },
       {
         "equivalent": [
-          "deliver",
+          "careful",
+          "extend",
           "gesture",
-          "get",
-          "give",
-          "grab",
-          "hand over",
-          "hold",
-          "pass",
-          "raise",
+          "move",
           "reach",
           "slide",
-          "stop",
-          "take",
-          "yield"
+          "smooth",
+          "smoothly"
         ],
         "refer": "",
-        "meaning": "an indication of a slow, careful, or smooth motion",
-        "type": "",
+        "meaning": "moving lightly, carefully, or smoothly",
+        "type": "m",
         "example": [
           {
             "file": "su-2a",
             "contributor": "",
-            "display": "ス\u2026",
-            "source": "d_genesis"
+            "display": "スッ",
+            "source": "different_world_smartphone"
           },
           {
             "file": "su-2b",
@@ -21156,24 +21150,6 @@
           {
             "file": "su-2d",
             "contributor": "",
-            "display": "スッ",
-            "source": "otherworld_material_collector"
-          },
-          {
-            "file": "su-2e",
-            "contributor": "",
-            "display": "す",
-            "source": "fushi_no_kami"
-          },
-          {
-            "file": "su-2f",
-            "contributor": "",
-            "display": "スッ",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "su-2g",
-            "contributor": "",
             "display": "ス",
             "source": "way_of_the_house_husband"
           }
@@ -21181,17 +21157,13 @@
       },
       {
         "equivalent": [
-          "blow out",
           "breath in",
-          "breath out",
           "draw in",
-          "exhale",
-          "huff",
           "inhale"
         ],
         "refer": "",
-        "meaning": "a sound of a deep breath, typically inhaled",
-        "type": "",
+        "meaning": "an intake of breath, usually soft or light",
+        "type": "o",
         "example": [
           {
             "file": "su-3a",
@@ -21223,15 +21195,18 @@
         "equivalent": [
           "bear",
           "carry",
+          "get",
           "heave",
           "heft",
           "hoist",
+          "hold",
           "lift",
-          "raise"
+          "raise",
+          "take"
         ],
         "refer": "",
-        "meaning": "an indication of lifting or carrying",
-        "type": "",
+        "meaning": "smoothly or easily lifting, carrying, or holding",
+        "type": "m",
         "example": [
           {
             "file": "su-4a",
@@ -21244,6 +21219,24 @@
             "contributor": "",
             "display": "す\u2026",
             "source": "uncle_at_heart"
+          },
+          {
+            "file": "su-4c",
+            "contributor": "",
+            "display": "ス\u2026",
+            "source": "d_genesis"
+          },
+          {
+            "file": "su-4d",
+            "contributor": "",
+            "display": "スッ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "su-4e",
+            "contributor": "",
+            "display": "す",
+            "source": "fushi_no_kami"
           }
         ]
       }
@@ -21261,14 +21254,20 @@
     ],
     "definition": [{
       "equivalent": [
-        "slow",
-        "steady",
-        "unfaltering",
-        "careful"
+        "competent",
+        "confident",
+        "cool",
+        "decisive",
+        "precise",
+        "quick",
+        "ready",
+        "showy",
+        "snap",
+        "stylish"
       ],
       "refer": "",
-      "meaning": "an indication of slow and steady movement",
-      "type": "",
+      "meaning": "quick, cool, or precise movement",
+      "type": "m",
       "example": [{
         "file": "sucha-1a",
         "contributor": "",
@@ -21290,16 +21289,15 @@
     "definition": [
       {
         "equivalent": [
-          "strike",
-          "swish",
-          "swoosh",
-          "whoosh",
-          "zip",
-          "zoom"
+          "empty strike",
+          "failed",
+          "missed",
+          "whiff",
+          "whoosh"
         ],
         "refer": "",
-        "meaning": "the sound of something moving fast, typically indicating a missed hit, as from a sword or baseball bat",
-        "type": "",
+        "meaning": "a miss or failed hit",
+        "type": "m",
         "example": [
           {
             "file": "suka-1a",
@@ -21317,6 +21315,7 @@
       },
       {
         "equivalent": [
+          "breath",
           "dose",
           "nap",
           "rest",
@@ -21325,8 +21324,8 @@
           "zzz"
         ],
         "refer": "",
-        "meaning": "the indication or sound of sleep",
-        "type": "",
+        "meaning": "a soft, airy sleeping breath",
+        "type": "o",
         "example": [{
           "file": "suka-2a",
           "contributor": "",
@@ -21364,8 +21363,8 @@
         "whack"
       ],
       "refer": "",
-      "meaning": "the indication or sound of a light, harmless strike",
-      "type": "",
+      "meaning": "a light, harmless strike, often humorous",
+      "type": "o",
       "example": [{
         "file": "sukon-1a",
         "contributor": "",
