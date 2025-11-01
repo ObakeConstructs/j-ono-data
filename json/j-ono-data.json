@@ -21385,13 +21385,15 @@
     ],
     "definition": [{
       "equivalent": [
+        "get up",
         "rise up",
         "stand",
-        "stand up"
+        "stand up",
+        "upright"
       ],
       "refer": "",
-      "meaning": "stand up and get to one's feet",
-      "type": "",
+      "meaning": "quickly stand up in one smooth motion",
+      "type": "m",
       "example": [
         {
           "file": "suku-1a",
@@ -21420,16 +21422,20 @@
     ],
     "definition": [{
       "equivalent": [
+        "blank",
         "calm",
+        "cold",
         "composed",
         "cool",
-        "serene",
-        "smooth",
-        "tranquil"
+        "distant",
+        "expressionless",
+        "ignore",
+        "silent",
+        "smooth"
       ],
       "refer": "",
-      "meaning": "to express a calm and unruffled demeanor",
-      "type": "",
+      "meaning": "a blank or unresponsive demeanor",
+      "type": "e",
       "example": [
         {
           "file": "sun-1a",
@@ -21452,13 +21458,16 @@
     "katakana": ["スンスン"],
     "definition": [{
       "equivalent": [
+        "scent",
+        "smell",
         "sniff",
         "snuff",
-        "snuffle"
+        "snuffle",
+        "whiff"
       ],
       "refer": "",
-      "meaning": "an sound of sniffing or snuffing",
-      "type": "",
+      "meaning": "short, quick snuffing or sniffing sounds",
+      "type": "o",
       "example": [
         {
           "file": "sun_sun-1a",
@@ -21509,8 +21518,8 @@
         "slice"
       ],
       "refer": "",
-      "meaning": "a fast cut, as with a sword or knife",
-      "type": "",
+      "meaning": "clean, fast cut",
+      "type": "m",
       "example": [
         {
           "file": "supa-1a",
@@ -21532,14 +21541,9 @@
     "hiragana": ["すぱん"],
     "katakana": ["スパン"],
     "definition": [{
-      "equivalent": [
-        "cleave",
-        "cut",
-        "slash",
-        "slice"
-      ],
-      "refer": "",
-      "meaning": "a fast cut, as with a sword or knife",
+      "equivalent": [""],
+      "refer": "supa:1",
+      "meaning": "s",
       "type": "",
       "example": [{
         "file": "supan-1a",
@@ -21561,14 +21565,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "beath",
+        "breath",
         "huff",
         "whiff",
         "zzz"
       ],
       "refer": "",
-      "meaning": "soft breathing while sleeping or quietly snoring",
-      "type": "",
+      "meaning": "soft, gentle breathing while alseep",
+      "type": "v",
       "example": [
         {
           "file": "supi-1a",
@@ -21596,14 +21600,9 @@
       "スピー"
     ],
     "definition": [{
-      "equivalent": [
-        "beath",
-        "huff",
-        "whiff",
-        "zzz"
-      ],
-      "refer": "",
-      "meaning": "soft breathing while sleeping or quietly snoring",
+      "equivalent": [""],
+      "refer": "supi:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "supi_supi-1a",
@@ -21625,16 +21624,19 @@
     ],
     "definition": [{
       "equivalent": [
-        "touch",
         "caress",
-        "stroke",
+        "feel",
         "fondle",
+        "glide",
         "pet",
-        "feel"
+        "rub",
+        "slide",
+        "stroke",
+        "touch"
       ],
       "refer": "",
-      "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
-      "type": "",
+      "meaning": "soft rubbing or sliding contact",
+      "type": "m",
       "example": [{
         "file": "suri-1a",
         "contributor": "",
@@ -21653,57 +21655,35 @@
       "スル",
       "スルッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "touch",
-          "caress",
-          "stroke",
-          "fondle",
-          "pet",
-          "feel"
-        ],
-        "refer": "",
-        "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
-        "type": "",
-        "example": [{
+    "definition": [{
+      "equivalent": [""],
+      "refer": "suri:1",
+      "meaning": "",
+      "type": "",
+      "example": [
+        {
           "file": "suru-1a",
           "contributor": "",
           "display": "スル",
           "source": "embarrassing_and_sweet"
-        }]
-      },
-      {
-        "equivalent": [
-          "flap",
-          "murmur",
-          "rustle",
-          "swish"
-        ],
-        "refer": "",
-        "meaning": "the soft sound of rustling fabric, typically slow",
-        "type": "",
-        "example": [{
-          "file": "suru-2a",
+        },
+        {
+          "file": "suru-1b",
           "contributor": "",
           "display": "するっ",
           "source": "embarrassing_and_sweet"
-        }]
-      }
-    ],
+        }
+      ]
+    }],
     "literal": "suru"
   },
   {
     "hiragana": ["するする"],
     "katakana": ["スルスル"],
     "definition": [{
-      "equivalent": [
-        "nimble",
-        "smooth",
-        "swift"
-      ],
-      "refer": "",
-      "meaning": "an smooth or nimble action or movement",
+      "equivalent": [""],
+      "refer": "suri:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "suru_suru-1a",
@@ -21726,6 +21706,7 @@
     "definition": [{
       "equivalent": [
         "alight",
+        "drop down",
         "land",
         "landing",
         "settle",
@@ -21734,8 +21715,8 @@
         "whump"
       ],
       "refer": "",
-      "meaning": "to land after jumping or falling",
-      "type": "",
+      "meaning": "a clean, precise landing after a jump",
+      "type": "m",
       "example": [
         {
           "file": "suta-1a",
@@ -21764,17 +21745,19 @@
     ],
     "definition": [{
       "equivalent": [
-        "alight",
-        "land",
-        "landing",
-        "settle",
-        "touch down",
+        "collapse",
+        "crash",
+        "drop",
+        "fall",
+        "oomph",
+        "plop",
+        "thud",
         "thump",
-        "whump"
+        "tumble"
       ],
       "refer": "",
-      "meaning": "to land after jumping or falling",
-      "type": "",
+      "meaning": "a sudden or hard drop or fall, often humorous",
+      "type": "o",
       "example": [{
         "file": "sutan-1a",
         "contributor": "",
@@ -21796,8 +21779,8 @@
         "walk"
       ],
       "refer": "",
-      "meaning": "the sound of brisk and purposeful walking",
-      "type": "",
+      "meaning": "brisk, steady walking",
+      "type": "m",
       "example": [
         {
           "file": "suta_suta-1a",
@@ -21825,16 +21808,9 @@
       "ステーン"
     ],
     "definition": [{
-      "equivalent": [
-        "fall",
-        "slip",
-        "stumble",
-        "topple",
-        "trip",
-        "tumble"
-      ],
-      "refer": "",
-      "meaning": "to fall from a standing position, often suddenly and involuntarily",
+      "equivalent": [""],
+      "refer": "sutan:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "suten-1a",
@@ -21856,20 +21832,18 @@
     ],
     "definition": [{
       "equivalent": [
-        "brush",
-        "cling",
-        "contact",
-        "fondle",
-        "graze",
+        "freeze",
+        "halt",
+        "hesitate",
         "hold",
-        "nudge",
-        "pat",
-        "tap",
-        "touch"
+        "interrupt",
+        "realize",
+        "stop",
+        "tap"
       ],
       "refer": "",
-      "meaning": "to lightly hold or contact someone",
-      "type": "",
+      "meaning": "a light, sudden stop of movement",
+      "type": "m",
       "example": [{
         "file": "suto-1a",
         "contributor": "",
@@ -21893,8 +21867,8 @@
           "squat"
         ],
         "refer": "",
-        "meaning": "to sit or squat down",
-        "type": "",
+        "meaning": "to sit, kneel, or crouch down",
+        "type": "m",
         "example": [
           {
             "file": "suton-1a",
@@ -21916,11 +21890,12 @@
           "place",
           "plonk",
           "plop",
-          "set"
+          "put down",
+          "set down"
         ],
         "refer": "",
-        "meaning": "to set something down",
-        "type": "",
+        "meaning": "to set or put something down",
+        "type": "m",
         "example": [{
           "file": "suton-2a",
           "contributor": "",
@@ -21942,14 +21917,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "inhale exhale",
         "breath",
         "breathe",
-        "deep breath"
+        "deep breath",
+        "inhale exhale"
       ],
       "refer": "",
-      "meaning": "the sound of breathing, both inhale and exhale",
-      "type": "",
+      "meaning": "deep measured breathing",
+      "type": "v",
       "example": [{
         "file": "su_ha-1a",
         "contributor": "",
@@ -21974,14 +21949,9 @@
     ],
     "definition": [
       {
-        "equivalent": [
-          "beath",
-          "huff",
-          "whiff",
-          "zzz"
-        ],
-        "refer": "",
-        "meaning": "soft breathing while sleeping or quietly snoring",
+        "equivalent": [""],
+        "refer": "supi:1",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "su_su-1a",
@@ -21992,12 +21962,16 @@
       },
       {
         "equivalent": [
+          "hushed",
+          "mumble",
+          "mutter",
+          "quietly",
           "softly",
           "whisper"
         ],
         "refer": "",
-        "meaning": "to speak quietly, so as not be overheard",
-        "type": "",
+        "meaning": "whispering or speaking quietly",
+        "type": "v",
         "example": [{
           "file": "su_su-2a",
           "contributor": "",
@@ -22006,20 +21980,9 @@
         }]
       },
       {
-        "equivalent": [
-          "caress",
-          "flick",
-          "gesture",
-          "grab",
-          "pat",
-          "pet",
-          "reach",
-          "slide",
-          "stroke",
-          "take"
-        ],
-        "refer": "",
-        "meaning": "simple or quick movements of the hand",
+        "equivalent": [""],
+        "refer": "su:2",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "su_su-3a",

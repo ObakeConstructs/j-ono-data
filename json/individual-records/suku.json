@@ -1,35 +1,39 @@
 {
-  "hiragana": [
-    "すく",
-    "すくっ"
-  ],
+  "literal": "suku",
   "katakana": [
     "スク",
     "スクッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "rise up",
-      "stand",
-      "stand up"
-    ],
-    "refer": "",
-    "meaning": "stand up and get to one's feet",
-    "type": "",
-    "example": [
-      {
-        "file": "suku-1a",
-        "contributor": "",
-        "display": "すくっ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "suku-1b",
-        "contributor": "",
-        "display": "スクッ",
-        "source": "dog_became_strongest"
-      }
-    ]
-  }],
-  "literal": "suku"
+  "hiragana": [
+    "すく",
+    "すくっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "quickly stand up in one smooth motion",
+      "equivalent": [
+        "get up",
+        "rise up",
+        "stand",
+        "stand up",
+        "upright"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "suku-1a",
+          "display": "すくっ",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "suku-1b",
+          "display": "スクッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

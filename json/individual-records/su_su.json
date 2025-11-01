@@ -1,72 +1,70 @@
 {
-  "hiragana": [
-    "すす",
-    "すすす",
-    "すうすう",
-    "すぅすぅ"
-  ],
+  "literal": "su su",
   "katakana": [
     "スス",
     "ススス",
     "スウスウ",
     "スゥスゥ"
   ],
+  "hiragana": [
+    "すす",
+    "すすす",
+    "すうすう",
+    "すぅすぅ"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "beath",
-        "huff",
-        "whiff",
-        "zzz"
-      ],
-      "refer": "",
-      "meaning": "soft breathing while sleeping or quietly snoring",
+      "refer": "supi:1",
       "type": "",
-      "example": [{
-        "file": "su_su-1a",
-        "contributor": "",
-        "display": "すぅ すぅ\u2026",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "su_su-1a",
+          "display": "すぅ すぅ…",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "v",
+      "meaning": "whispering or speaking quietly",
       "equivalent": [
+        "hushed",
+        "mumble",
+        "mutter",
+        "quietly",
         "softly",
         "whisper"
       ],
-      "refer": "",
-      "meaning": "to speak quietly, so as not be overheard",
-      "type": "",
-      "example": [{
-        "file": "su_su-2a",
-        "contributor": "",
-        "display": "ススス",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "su_su-2a",
+          "display": "ススス",
+          "contributor": ""
+        }
+      ]
     },
     {
-      "equivalent": [
-        "caress",
-        "flick",
-        "gesture",
-        "grab",
-        "pat",
-        "pet",
-        "reach",
-        "slide",
-        "stroke",
-        "take"
-      ],
-      "refer": "",
-      "meaning": "simple or quick movements of the hand",
+      "refer": "su:2",
       "type": "",
-      "example": [{
-        "file": "su_su-3a",
-        "contributor": "",
-        "display": "スス",
-        "source": "yojo_life"
-      }]
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "yojo_life",
+          "file": "su_su-3a",
+          "display": "スス",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "su su"
+  ]
 }

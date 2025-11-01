@@ -7,43 +7,25 @@
     "スル",
     "スルッ"
   ],
-  "definition": [
-    {
-      "equivalent": [
-        "touch",
-        "caress",
-        "stroke",
-        "fondle",
-        "pet",
-        "feel"
-      ],
-      "refer": "",
-      "meaning": "the indication or sound of touching or caressing , often in a tender or gentle manner",
-      "type": "",
-      "example": [{
+  "definition": [{
+    "equivalent": [""],
+    "refer": "suri:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
         "file": "suru-1a",
         "contributor": "",
         "display": "スル",
         "source": "embarrassing_and_sweet"
-      }]
-    },
-    {
-      "equivalent": [
-        "flap",
-        "murmur",
-        "rustle",
-        "swish"
-      ],
-      "refer": "",
-      "meaning": "the soft sound of rustling fabric, typically slow",
-      "type": "",
-      "example": [{
-        "file": "suru-2a",
+      },
+      {
+        "file": "suru-1b",
         "contributor": "",
         "display": "するっ",
         "source": "embarrassing_and_sweet"
-      }]
-    }
-  ],
+      }
+    ]
+  }],
   "literal": "suru"
 }

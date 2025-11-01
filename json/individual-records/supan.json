@@ -1,22 +1,27 @@
 {
-  "hiragana": ["すぱん"],
-  "katakana": ["スパン"],
-  "definition": [{
-    "equivalent": [
-      "cleave",
-      "cut",
-      "slash",
-      "slice"
-    ],
-    "refer": "",
-    "meaning": "a fast cut, as with a sword or knife",
-    "type": "",
-    "example": [{
-      "file": "supan-1a",
-      "contributor": "",
-      "display": "スパン",
-      "source": "strongest_thread_master"
-    }]
-  }],
-  "literal": "supan"
+  "literal": "supan",
+  "katakana": [
+    "スパン"
+  ],
+  "hiragana": [
+    "すぱん"
+  ],
+  "definition": [
+    {
+      "refer": "supa:1",
+      "type": "",
+      "meaning": "s",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "strongest_thread_master",
+          "file": "supan-1a",
+          "display": "スパン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

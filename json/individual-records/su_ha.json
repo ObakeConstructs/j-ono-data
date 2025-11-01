@@ -1,28 +1,32 @@
 {
-  "hiragana": [
-    "すは",
-    "すーはー"
-  ],
+  "literal": "su ha",
   "katakana": [
     "スハ",
     "スーハー"
   ],
-  "definition": [{
-    "equivalent": [
-      "inhale exhale",
-      "breath",
-      "breathe",
-      "deep breath"
-    ],
-    "refer": "",
-    "meaning": "the sound of breathing, both inhale and exhale",
-    "type": "",
-    "example": [{
-      "file": "su_ha-1a",
-      "contributor": "",
-      "display": "スー ハー スー ハー",
-      "source": "isekai_pickup"
-    }]
-  }],
-  "literal": "su ha"
+  "hiragana": [
+    "すは",
+    "すーはー"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "deep measured breathing",
+      "equivalent": [
+        "breath",
+        "breathe",
+        "deep breath",
+        "inhale exhale"
+      ],
+      "example": [
+        {
+          "source": "isekai_pickup",
+          "file": "su_ha-1a",
+          "display": "スー ハー スー ハー",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

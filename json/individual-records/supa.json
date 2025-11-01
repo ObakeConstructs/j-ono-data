@@ -1,40 +1,42 @@
 {
-  "hiragana": [
-    "すぱ",
-    "すぱっ",
-    "すぱー",
-    "すぱーっ"
-  ],
+  "literal": "supa",
   "katakana": [
     "スパ",
     "スパッ",
     "スパー",
     "スパーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "cleave",
-      "cut",
-      "slash",
-      "slice"
-    ],
-    "refer": "",
-    "meaning": "a fast cut, as with a sword or knife",
-    "type": "",
-    "example": [
-      {
-        "file": "supa-1a",
-        "contributor": "",
-        "display": "スパッ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "supa-1b",
-        "contributor": "",
-        "display": "スパッ",
-        "source": "strongest_magician_was_human"
-      }
-    ]
-  }],
-  "literal": "supa"
+  "hiragana": [
+    "すぱ",
+    "すぱっ",
+    "すぱー",
+    "すぱーっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "clean, fast cut",
+      "equivalent": [
+        "cleave",
+        "cut",
+        "slash",
+        "slice"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "supa-1a",
+          "display": "スパッ",
+          "contributor": ""
+        },
+        {
+          "source": "strongest_magician_was_human",
+          "file": "supa-1b",
+          "display": "スパッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
