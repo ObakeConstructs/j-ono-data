@@ -20520,15 +20520,10 @@
         }]
       },
       {
-        "equivalent": [
-          "hiss",
-          "shaa",
-          "sss",
-          "whizz"
-        ],
-        "refer": "",
-        "meaning": "soft hissing or spraying sound",
-        "type": "o",
+        "equivalent": [""],
+        "refer": "sa:1",
+        "meaning": "",
+        "type": "",
         "example": [{
           "file": "sha-2a",
           "contributor": "",
@@ -20912,7 +20907,7 @@
         "wrap"
       ],
       "refer": "",
-      "meaning": "a smoothly sliding or coiling/uncong motion, typically of something long",
+      "meaning": "a smoothly sliding or coiling/uncoiling motion, typically of something long",
       "type": "m",
       "example": [
         {
@@ -20946,7 +20941,7 @@
     ],
     "definition": [{
       "equivalent": [""],
-      "refer": "shu:1",
+      "refer": "shu:2",
       "meaning": "",
       "type": "",
       "example": [{
