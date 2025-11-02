@@ -60,12 +60,12 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   * a "meaning" string
   * an array of English "equivalent" strings
   * an array of "example" objects
-  * a "refer" string  &nbsp;&nbsp;<sub><sup>\*\*NEW\*\*</sup></sub>
+  * a "refer" string
     * "refer" strings reference other definitions (for normalizing duplicate definitions)
     * the convention of a "refer" strings is `<literal>:<def num>` ("def num" is the index of the referred definition array)
     * "meaning" values from the referred definition are displayed prior to local meanings in the J-Ono search tool (as a simple concatenation)
     * "equivalent" values from the referred definition are listed prior to local equivalents in the J-Ono search tool
-  * a "type" string &nbsp;&nbsp;<sub><sup>\*\*NEW\*\*</sup></sub>
+  * a "type" string
     * "type" strings codify the definition classification
     * there are six possible classification types:
       * "o" = onomatopoeic (擬音語)
