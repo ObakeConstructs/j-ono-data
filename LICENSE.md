@@ -1,4 +1,6 @@
-### NOTE: This license only applies to the JSON portion of this collection.
+> NOTE:  
+> This license only applies to the JSON portion of this collection.  
+> See Image-LICENSE.md for licenses specific to the example images.
 
 # MIT License
 
