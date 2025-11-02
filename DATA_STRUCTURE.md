@@ -74,7 +74,6 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
       * "m" = motion/movement (擬容語)
       * "e" = emotion/feeling (擬情語)
       * "c" = meta/visual cue (記号的オノマトペ)
-    * the "type" string is currently NOT displayed in the search tool, but will be once all definitions have updated with a "type" string
 * Each "example" object contains...
   * a "source" string with a source id (see SOURCE RECORDS)
   * a "file" string with the filename of the image file (see IMAGE FILES)
