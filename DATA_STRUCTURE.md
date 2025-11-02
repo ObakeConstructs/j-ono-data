@@ -13,12 +13,12 @@ All source records are stored in a single JSON array in the `j-ono-source.json` 
 
 ## SOURCE RECORDS
 * Each Source Record contains...
-  * a "publisher_name" string (shown in J-Ono Search as publisher's copyright for associated images)
-  * a "site" string (not used, just a convenience) 
-  * an array of "source" objects.
-* Each "source" object contains
-  * a unique "id" name string
-  * a "manga" title string (shown in J-Ono Search as manga title for associated images)
+  * a "`publisher_name`" string (shown in J-Ono Search Tool as publisher's copyright owner for associated images)
+  * a "`site`" URL string (not currently used or displayed in the J-Ono Search Tool)
+  * an array of "`source`" objects.
+* Each "`source`" object contains
+  * a unique "`id`" name string, referenced by Definition records
+  * a "`manga`" title string (shown in J-Ono Search Tool as manga title for associated images)
 
 Example Soure Record:
 
@@ -52,33 +52,33 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 
 ## DEFINITION RECORDS
 * Each Definition Record contains...
-  * a "literal" translation string
-  * an array of "katakana" strings
-  * an array of "hiragana" strings
-  * an array of "definition" objects
-* Each "definition" object contains...
-  * a "meaning" string
-  * an array of English "equivalent" strings
-  * an array of "example" objects
-  * a "refer" string
-    * "refer" strings reference other definitions (for normalizing duplicate definitions)
-    * the convention of a "refer" strings is `<literal>:<def num>` ("def num" is the index of the referred definition array)
-    * "meaning" values from the referred definition are displayed prior to local meanings in the J-Ono search tool (as a simple concatenation)
-    * "equivalent" values from the referred definition are listed prior to local equivalents in the J-Ono search tool
-  * a "type" string
-    * "type" strings codify the definition classification
-    * there are six possible classification types:
-      * "o" = onomatopoeic (擬音語)
-      * "v" = voiced/vocal (擬声語)
-      * "s" = state/condition (擬態語)
-      * "m" = motion/movement (擬容語)
-      * "e" = emotion/feeling (擬情語)
-      * "c" = meta/visual cue (記号的オノマトペ)
+  * a "`literal`" translation string
+  * an array of "`katakana`" strings
+  * an array of "`hiragana`" strings
+  * an array of "`definition`" objects
+* Each "`definition`" object contains...
+  * a "`meaning`" string
+  * an array of English "`equivalent`" strings
+  * an array of "`example`" objects
+  * a "`refer`" string
+    * the "`refer`" strings provides an optional reference to other definitions (for normalizing duplicate definitions)
+    * if not blank, the convention of a "`refer`" string is `<literal>:<def num>` ("def num" is the index of the referred definition array)
+    * the "`meaning`" values from the referred definition are displayed prior to local meanings in the J-Ono search tool as a simple concatenation (see example below)
+    * the "`equivalent`" values from the referred definition are listed prior to local equivalents in the J-Ono search tool (see example below)
+  * a "`type`" string
+    * "`type`" strings codify the Japanese classification of the definition
+    * there are six possible classification values:
+      * "`o`" = onomatopoeic (擬音語)
+      * "`v`" = voiced/vocal (擬声語)
+      * "`s`" = state/condition (擬態語)
+      * "`m`" = motion/movement (擬容語)
+      * "`e`" = emotion/feeling (擬情語)
+      * "`c`" = meta/visual cue (記号的オノマトペ)
 * Each "example" object contains...
-  * a "source" string with a source id (see SOURCE RECORDS)
-  * a "file" string with the filename of the image file (see IMAGE FILES)
-  * a "display" string with the matching kana
-  * a "contributor" string with the name of the individual that contributed the example (defaults to "Nightbug")
+  * a "`source`" string with a source id (see SOURCE RECORDS)
+  * a "`file`" string with the filename of the image file (see IMAGE FILES)
+  * a "`display`" string with the specific kana used in the example
+  * a "`contributor`" string with the name of the individual that contributed the example (defaults to "Nightbug")
 
 ### Example of a Definition Records:
 
@@ -130,7 +130,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 }
 ```
 
-Note that in the J-Ono search tool, the resulting meaning of the `ginuro` definition record would be displayed as `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be displayed as `fixate, glare, glower, regard, stare, scowl`.
+Note that in the J-Ono search tool, the resulting meaning of the "ginuro" definition record would be displayed as `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be displayed as `fixate, glare, glower, regard, stare, scowl`.
 
 ## IMAGE FILES
 * Each Image File is in a folder corresponding to its source name
