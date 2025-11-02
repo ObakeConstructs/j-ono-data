@@ -131,12 +131,11 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 }
 ```
 
-Note that in the J-Ono search tool, the resulting meaning of this definition record would be displayed as `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be displayed as `fixate, glare, glower, regard, stare, scowl`.
+Note that in the J-Ono search tool, the resulting meaning of the `ginuro` definition record would be displayed as `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be displayed as `fixate, glare, glower, regard, stare, scowl`.
 
 ## IMAGE FILES
 * Each Image File is in a folder corresponding to its source name
 * All images are 400 pixels by 400 pixels
-* All image formats are exclusively JPEG (`*.jpg`), for the time being
 * Naming convention: `[literal]-[unique id]`
   * Underscores are used in lieu of spaces in the literal string.
   * The `[unique id]` is merely for the convenience of human-readability - it's two or three characters long and has a number part and a letter part - the number differentiates the images by definition and the letter differentiates them by example.  So an image file with an id of `2c` would be for the third example("c") of the second definition ("2").
