@@ -78,7 +78,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
   * a "`source`" string with a source id (see SOURCE RECORDS)
   * a "`file`" string with the filename of the image file (see IMAGE FILES)
   * a "`display`" string with the specific kana used in the example
-  * a "`contributor`" string with the name of the individual that contributed the example (defaults to "Nightbug")
+  * a "`contributor`" string with the name of the individual that contributed the example (if blank, defaults to "Nightbug")
 
 ### Example of a Definition Records:
 
