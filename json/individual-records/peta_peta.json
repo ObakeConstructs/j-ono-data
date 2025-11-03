@@ -1,8 +1,16 @@
 {
-  "hiragana": ["ぺたぺた"],
-  "katakana": ["ペタペタ"],
+  "literal": "peta peta",
+  "katakana": [
+    "ペタペタ"
+  ],
+  "hiragana": [
+    "ぺたぺた"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "repeatedly pressing or patting",
       "equivalent": [
         "bap",
         "pat",
@@ -10,17 +18,19 @@
         "press",
         "squeeze"
       ],
-      "refer": "",
-      "meaning": "repeatedly pressing or pattting",
-      "type": "m",
-      "example": [{
-        "file": "peta_peta-1a",
-        "contributor": "",
-        "display": "ぺた ぺた",
-        "source": "reincarnated_aristocrat"
-      }]
+      "example": [
+        {
+          "source": "reincarnated_aristocrat",
+          "file": "peta_peta-1a",
+          "display": "ぺた ぺた",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "bare or soft feet lightly contacting the floor",
       "equivalent": [
         "pit-a-pat",
         "pitter-patter",
@@ -28,16 +38,14 @@
         "step",
         "tap"
       ],
-      "refer": "",
-      "meaning": "bare or soft feet lightly contacting the floor",
-      "type": "m",
-      "example": [{
-        "file": "peta_peta-2a",
-        "contributor": "",
-        "display": "ペタペタ",
-        "source": "rock_n_roll_ladies"
-      }]
+      "example": [
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "peta_peta-2a",
+          "display": "ペタペタ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "peta peta"
+  ]
 }

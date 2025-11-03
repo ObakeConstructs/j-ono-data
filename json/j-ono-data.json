@@ -1756,7 +1756,7 @@
           "listless",
           "relaxed",
           "sluggish",
-          "spacey",
+          "spacy",
           "vacant"
         ],
         "refer": "",
@@ -3934,8 +3934,7 @@
         "bam",
         "boom",
         "da-dum",
-        "ta-da",
-        "tadah"
+        "ta-dah"
       ],
       "refer": "",
       "meaning": "showing or revealing something in a somewhat dramatic fashion",
@@ -7263,12 +7262,12 @@
     "katakana": ["ガタンゴトン"],
     "definition": [{
       "equivalent": [
-        "clackety clack",
-        "clickety clack",
-        "gachunk"
+        "clackity-clack",
+        "clickity-clack",
+        "ga-chunk"
       ],
       "refer": "",
-      "meaning": "the rythmic sound of a train moving on a track",
+      "meaning": "the rhythmic sound of a train moving on a track",
       "type": "o",
       "example": [{
         "file": "gatan_gaton-1a",
@@ -8600,7 +8599,7 @@
         "tap"
       ],
       "refer": "go:1",
-      "meaning": ", repeated or rythmic ",
+      "meaning": ", repeated or rhythmic ",
       "type": "",
       "example": [{
         "file": "go_go-1a",
@@ -8808,7 +8807,7 @@
         "equivalent": [
           "sleep",
           "snore",
-          "zzzz"
+          "zzz"
         ],
         "refer": "",
         "meaning": "sleeping or unconscious",
@@ -9505,7 +9504,7 @@
         "surprised"
       ],
       "refer": "",
-      "meaning": "a sudden reation of shock or surprise",
+      "meaning": "a sudden reaction of shock or surprise",
       "type": "e",
       "example": [
         {
@@ -9775,7 +9774,7 @@
       {
         "equivalent": [
           "exhale",
-          "hahh",
+          "haa",
           "sigh"
         ],
         "refer": "",
@@ -10106,7 +10105,7 @@
       "equivalent": [
         "drunk",
         "hiccup",
-        "hik"
+        "hick"
       ],
       "refer": "",
       "meaning": "a hiccup, often used to indicate drunkenness",
@@ -10183,7 +10182,7 @@
         "twinge"
       ],
       "refer": "",
-      "meaning": "an expression of  a tingling, stinging or mild burning sensation",
+      "meaning": "an expression of a tingling, stinging or mild burning sensation",
       "type": "s",
       "example": [{
         "file": "hiri_hiri-1a",
@@ -11294,7 +11293,7 @@
           "wriggle"
         ],
         "refer": "",
-        "meaning": "strugging in vain against physical restraints",
+        "meaning": "struggling in vain against physical restraints",
         "type": "m",
         "example": [
           {
@@ -13529,7 +13528,7 @@
         "equivalent": [
           "beckon",
           "flag",
-          "gestur",
+          "gesture",
           "indicate",
           "motion",
           "signal",
@@ -14682,7 +14681,7 @@
         "writhe"
       ],
       "refer": "",
-      "meaning": "small, akward or clumsy squirming or wriggling, often from embarrassment",
+      "meaning": "small, awkward or clumsy squirming or wriggling, often from embarrassment",
       "type": "s",
       "example": [{
         "file": "mozo_mozo-1a",
@@ -14871,7 +14870,7 @@
         "what?"
       ],
       "refer": "",
-      "meaning": "a grunt of realization, thoughfulness, or suspicion",
+      "meaning": "a grunt of realization, thoughtfulness, or suspicion",
       "type": "v",
       "example": [
         {
@@ -15537,7 +15536,7 @@
       "equivalent": [
         "danger",
         "imposing",
-        "loomin",
+        "looming",
         "menace",
         "ominous",
         "peril",
@@ -15626,7 +15625,7 @@
         "greasy",
         "shlup",
         "slick",
-        "slimey",
+        "slimy",
         "slippery"
       ],
       "refer": "",
@@ -15792,7 +15791,7 @@
         "squoosh"
       ],
       "refer": "",
-      "meaning": "something  squishy or slick, often emerging or protruding",
+      "meaning": "something squishy or slick, often emerging or protruding",
       "type": "s",
       "example": [{
         "file": "nyu-1a",
@@ -15828,7 +15827,7 @@
           "delighted",
           "excited",
           "oh",
-          "suprised",
+          "surprised",
           "thrilled",
           "woah"
         ],
@@ -16888,7 +16887,7 @@
         "swish"
       ],
       "refer": "",
-      "meaning": "rythmic flapping or pattering",
+      "meaning": "rhythmic flapping or pattering",
       "type": "m",
       "example": [
         {
@@ -17376,7 +17375,7 @@
           "squeeze"
         ],
         "refer": "",
-        "meaning": "repeatedly pressing or pattting",
+        "meaning": "repeatedly pressing or patting",
         "type": "m",
         "example": [{
           "file": "peta_peta-1a",
@@ -18190,7 +18189,7 @@
         "ringtone"
       ],
       "refer": "",
-      "meaning": "a light electronc tone or chime, as from a cell phone",
+      "meaning": "a light electronic tone or chime, as from a cell phone",
       "type": "o",
       "example": [{
         "file": "pirorin-1a",
@@ -18869,7 +18868,7 @@
         "stroke"
       ],
       "refer": "",
-      "meaning": "kind or sooothing pats or strokes",
+      "meaning": "kind or soothing pats or strokes",
       "type": "m",
       "example": [
         {
@@ -21571,7 +21570,7 @@
         "zzz"
       ],
       "refer": "",
-      "meaning": "soft, gentle breathing while alseep",
+      "meaning": "soft, gentle breathing while asleep",
       "type": "v",
       "example": [
         {
@@ -22276,7 +22275,7 @@
         "trot"
       ],
       "refer": "",
-      "meaning": "light rythm of a four-legged run or gallop",
+      "meaning": "light rhythm of a four-legged run or gallop",
       "type": "o",
       "example": [{
         "file": "tata_tata-1a",
@@ -23159,8 +23158,9 @@
     ],
     "definition": [{
       "equivalent": [
+        "buzz",
         "whirr",
-        "humm"
+        "hum"
       ],
       "refer": "",
       "meaning": "the sound of raising or lowering an automatic window",
@@ -23576,8 +23576,8 @@
       "equivalent": [
         "choke",
         "gag",
-        "mphh",
-        "wmphh"
+        "mph",
+        "huuk"
       ],
       "refer": "",
       "meaning": "an expression of revulsion as if trying not to retch",

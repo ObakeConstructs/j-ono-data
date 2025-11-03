@@ -1,32 +1,36 @@
 {
-  "hiragana": [
-    "ぬ",
-    "ぬっ"
-  ],
+  "literal": "nu",
   "katakana": [
     "ヌ",
     "ヌッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "danger",
-      "imposing",
-      "loomin",
-      "menace",
-      "ominous",
-      "peril",
-      "threat",
-      "threaten"
-    ],
-    "refer": "",
-    "meaning": "sudden appearance of something large, imposing, or menacing",
-    "type": "s",
-    "example": [{
-      "file": "nu-1a",
-      "contributor": "",
-      "display": "ぬっ",
-      "source": "kaijuu_sdf"
-    }]
-  }],
-  "literal": "nu"
+  "hiragana": [
+    "ぬ",
+    "ぬっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "sudden appearance of something large, imposing, or menacing",
+      "equivalent": [
+        "danger",
+        "imposing",
+        "looming",
+        "menace",
+        "ominous",
+        "peril",
+        "threat",
+        "threaten"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "nu-1a",
+          "display": "ぬっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

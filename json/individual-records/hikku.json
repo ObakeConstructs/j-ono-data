@@ -1,21 +1,29 @@
 {
-  "hiragana": ["ひっく"],
-  "katakana": ["ヒック"],
-  "definition": [{
-    "equivalent": [
-      "drunk",
-      "hiccup",
-      "hik"
-    ],
-    "refer": "",
-    "meaning": "a hiccup, often used to indicate drunkenness",
-    "type": "v",
-    "example": [{
-      "file": "hikku-1a",
-      "contributor": "",
-      "display": "ひっく",
-      "source": "spy_x_family"
-    }]
-  }],
-  "literal": "hikku"
+  "literal": "hikku",
+  "katakana": [
+    "ヒック"
+  ],
+  "hiragana": [
+    "ひっく"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "a hiccup, often used to indicate drunkenness",
+      "equivalent": [
+        "drunk",
+        "hiccup",
+        "hick"
+      ],
+      "example": [
+        {
+          "source": "spy_x_family",
+          "file": "hikku-1a",
+          "display": "ひっく",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

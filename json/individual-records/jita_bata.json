@@ -1,33 +1,41 @@
 {
-  "hiragana": ["じたばた"],
-  "katakana": ["ジタバタ"],
+  "literal": "jita bata",
+  "katakana": [
+    "ジタバタ"
+  ],
+  "hiragana": [
+    "じたばた"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "struggling in vain against physical restraints",
       "equivalent": [
         "flail",
         "resist",
         "struggle",
         "wriggle"
       ],
-      "refer": "",
-      "meaning": "strugging in vain against physical restraints",
-      "type": "m",
       "example": [
         {
+          "source": "hone_dragon",
           "file": "jita_bata-1a",
-          "contributor": "",
           "display": "じたばた",
-          "source": "hone_dragon"
+          "contributor": ""
         },
         {
+          "source": "isekai_av_filming",
           "file": "jita_bata-1b",
-          "contributor": "",
           "display": "じた ばた",
-          "source": "isekai_av_filming"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "fussing or flailing in a fit of temper, usually ineffectively",
       "equivalent": [
         "flail",
         "fuss",
@@ -37,16 +45,14 @@
         "temper tantrum",
         "tizzy"
       ],
-      "refer": "",
-      "meaning": "fussing or flailing in a fit of temper, usually ineffectively",
-      "type": "m",
-      "example": [{
-        "file": "jita_bata-2a",
-        "contributor": "",
-        "display": "ジタ バタ",
-        "source": "buy_the_land"
-      }]
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "jita_bata-2a",
+          "display": "ジタ バタ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "jita bata"
+  ]
 }

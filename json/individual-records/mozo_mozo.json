@@ -1,23 +1,31 @@
 {
-  "hiragana": ["もぞもぞ"],
-  "katakana": ["モゾモゾ"],
-  "definition": [{
-    "equivalent": [
-      "fidget",
-      "squirm",
-      "thrash",
-      "wriggle",
-      "writhe"
-    ],
-    "refer": "",
-    "meaning": "small, akward or clumsy squirming or wriggling, often from embarrassment",
-    "type": "s",
-    "example": [{
-      "file": "mozo_mozo-1a",
-      "contributor": "",
-      "display": "もぞ もぞ もぞ",
-      "source": "beastly_boys_and_girls"
-    }]
-  }],
-  "literal": "mozo mozo"
+  "literal": "mozo mozo",
+  "katakana": [
+    "モゾモゾ"
+  ],
+  "hiragana": [
+    "もぞもぞ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "small, awkward or clumsy squirming or wriggling, often from embarrassment",
+      "equivalent": [
+        "fidget",
+        "squirm",
+        "thrash",
+        "wriggle",
+        "writhe"
+      ],
+      "example": [
+        {
+          "source": "beastly_boys_and_girls",
+          "file": "mozo_mozo-1a",
+          "display": "もぞ もぞ もぞ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
