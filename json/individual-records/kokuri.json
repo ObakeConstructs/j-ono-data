@@ -1,24 +1,27 @@
 {
-  "hiragana": ["こくり"],
-  "katakana": ["コクリ"],
-  "definition": [{
-    "equivalent": [
-      "agree",
-      "nod",
-      "okay",
-      "yeah",
-      "yep",
-      "yes"
-    ],
-    "refer": "",
-    "meaning": "a quick nod of the head, typically to express agreement",
-    "type": "",
-    "example": [{
-      "file": "kokuri-1a",
-      "contributor": "",
-      "display": "コクリ",
-      "source": "dungeon_dining_room"
-    }]
-  }],
-  "literal": "kokuri"
+  "literal": "kokuri",
+  "katakana": [
+    "コクリ"
+  ],
+  "hiragana": [
+    "こくり"
+  ],
+  "definition": [
+    {
+      "refer": "koku:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "dungeon_dining_room",
+          "file": "kokuri-1a",
+          "display": "コクリ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,44 +1,46 @@
 {
-  "hiragana": [
-    "こく",
-    "こくっ"
-  ],
+  "literal": "koku",
   "katakana": [
     "コク",
     "コクッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "agree",
-      "nod",
-      "okay",
-      "yeah",
-      "yep",
-      "yes"
-    ],
-    "refer": "",
-    "meaning": "a quick nod of the head, typically to express agreement",
-    "type": "",
-    "example": [
-      {
-        "file": "koku-1a",
-        "contributor": "",
-        "display": "コク",
-        "source": "d_genesis"
-      },
-      {
-        "file": "koku-1b",
-        "contributor": "",
-        "display": "こくっ",
-        "source": "spy_x_family"
-      },
-      {
-        "file": "koku-1c",
-        "contributor": "",
-        "display": "コクッ",
-        "source": "sex_with_me_sells"
-      }
-    ]
-  }],
-  "literal": "koku"
+  "hiragana": [
+    "こく",
+    "こくっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a quick nod, often of agreement",
+      "equivalent": [
+        "agree",
+        "nod",
+        "okay",
+        "yeah",
+        "yep",
+        "yes"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "koku-1a",
+          "display": "コク",
+          "contributor": ""
+        },
+        {
+          "source": "spy_x_family",
+          "file": "koku-1b",
+          "display": "こくっ",
+          "contributor": ""
+        },
+        {
+          "source": "sex_with_me_sells",
+          "file": "koku-1c",
+          "display": "コクッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,48 +1,51 @@
 {
-  "hiragana": [
-    "こと",
-    "ことっ"
-  ],
+  "literal": "koto",
   "katakana": [
     "コト",
     "コトッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "click",
-      "clunk",
-      "tap",
-      "touch"
-    ],
-    "refer": "",
-    "meaning": "to put down or touch gently",
-    "type": "",
-    "example": [
-      {
-        "file": "koto-1a",
-        "contributor": "",
-        "display": "コトッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "koto-1b",
-        "contributor": "",
-        "display": "コト\u2026",
-        "source": "d_genesis"
-      },
-      {
-        "file": "koto-1c",
-        "contributor": "",
-        "display": "コト",
-        "source": "marginal_taylor"
-      },
-      {
-        "file": "koto-1d",
-        "contributor": "",
-        "display": "コト..",
-        "source": "neet_kunoichi"
-      }
-    ]
-  }],
-  "literal": "koto"
+  "hiragana": [
+    "こと",
+    "ことっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a calm click or tap, often delicate or hollow",
+      "equivalent": [
+        "click",
+        "clink",
+        "clunk",
+        "tap",
+        "touch"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "koto-1a",
+          "display": "コトッ",
+          "contributor": ""
+        },
+        {
+          "source": "d_genesis",
+          "file": "koto-1b",
+          "display": "コト…",
+          "contributor": ""
+        },
+        {
+          "source": "marginal_taylor",
+          "file": "koto-1c",
+          "display": "コト",
+          "contributor": ""
+        },
+        {
+          "source": "neet_kunoichi",
+          "file": "koto-1d",
+          "display": "コト..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

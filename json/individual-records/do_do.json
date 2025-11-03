@@ -21,73 +21,52 @@
   ],
   "definition": [
     {
-      "equivalent": [
-        "bam",
-        "clobber",
-        "crunch",
-        "hit",
-        "impact",
-        "knock",
-        "pound",
-        "punch",
-        "slam",
-        "strike",
-        "thud",
-        "thunk",
-        "wham"
-      ],
-      "refer": "",
-      "meaning": "sounds of painful, but non-fatal strikes",
-      "type": "",
-      "example": [{
-        "file": "do_do-1a",
-        "contributor": "",
-        "display": "ドォ ドォ",
-        "source": "different_world_smartphone"
-      }]
-    },
-    {
-      "equivalent": [
-        "bang",
-        "blam",
-        "blast",
-        "boom",
-        "whump"
-      ],
-      "refer": "",
-      "meaning": "sounds of small explosions",
-      "type": "",
-      "example": [{
-        "file": "do_do-2a",
-        "contributor": "",
-        "display": "ドドドドドド",
-        "source": "reincarnated_aristocrat"
-      }]
-    },
-    {
-      "equivalent": [
-        "bom",
-        "race",
-        "run",
-        "sprint",
-        "step",
-        "stomp",
-        "tap",
-        "thump",
-        "tromp"
-      ],
-      "refer": "",
-      "meaning": "sounds of heavy or fast steps, as in stomping or running",
+      "equivalent": [""],
+      "refer": "do:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
-          "file": "do_do-3a",
+          "file": "do_do-1a",
+          "contributor": "",
+          "display": "ドォ ドォ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "do_do-1b",
+          "contributor": "",
+          "display": "ドドドドドド",
+          "source": "reincarnated_aristocrat"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "blaze",
+        "bolt",
+        "careen",
+        "dash",
+        "gallop",
+        "hurtle",
+        "pelt",
+        "race",
+        "run",
+        "rush",
+        "speed",
+        "sprint"
+      ],
+      "refer": "",
+      "meaning": "thunderous running or movement",
+      "type": "m",
+      "example": [
+        {
+          "file": "do_do-2a",
           "contributor": "",
           "display": "ドドドド\u2026",
           "source": "kuma_kuma_kuma_bear"
         },
         {
-          "file": "do_do-3b",
+          "file": "do_do-2b",
           "contributor": "",
           "display": "ドドドッ",
           "source": "simple_sword_saint"
@@ -99,14 +78,15 @@
         "danger",
         "menace",
         "peril",
+        "pressure",
         "risk",
         "threat"
       ],
       "refer": "",
-      "meaning": "an indication of intense threat or menace",
-      "type": "",
+      "meaning": "menacing presence or emotional pressure",
+      "type": "e",
       "example": [{
-        "file": "do_do-4a",
+        "file": "do_do-3a",
         "contributor": "Artrix",
         "display": "ドドドドド",
         "source": "pokemon_xy_break"
@@ -116,14 +96,17 @@
       "equivalent": [
         "accelerate",
         "race",
+        "rev",
+        "roar",
+        "rumble",
         "speed",
         "vroom"
       ],
       "refer": "",
-      "meaning": "the sound of a loud or high-performance engine",
-      "type": "",
+      "meaning": "a deep engine rumble or roar",
+      "type": "o",
       "example": [{
-        "file": "do_do-5a",
+        "file": "do_do-4a",
         "contributor": "",
         "display": "ドドドド",
         "source": "ai_and_izawa"

@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "こ",
-    "こっ",
-    "こぉ",
-    "こお",
-    "こぉぉ",
-    "こおお",
-    "こぉおお",
-    "こおぉぉ"
-  ],
+  "literal": "ko",
   "katakana": [
     "コ",
     "コッ",
@@ -19,56 +10,79 @@
     "コォォォ",
     "コオオオ"
   ],
+  "hiragana": [
+    "こ",
+    "こっ",
+    "こぉ",
+    "こお",
+    "こぉぉ",
+    "こおお",
+    "こぉおお",
+    "こおぉぉ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "light footstep or heep tap",
       "equivalent": [
+        "footstep",
         "plod",
         "shuffle",
         "step",
+        "stomp",
         "tap",
         "walk"
       ],
-      "refer": "",
-      "meaning": "the sound of walking",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "ko-1a",
-          "contributor": "",
           "display": "コッ",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "strongest_magician_was_human",
           "file": "ko-1b",
-          "contributor": "",
           "display": "コッ",
-          "source": "strongest_magician_was_human"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "low, heavy rumble",
       "equivalent": [
-        "fwoosh",
+        "growl",
+        "rolling",
         "rumble"
       ],
-      "refer": "",
-      "meaning": "expressing or emanating vast power or killing intent",
-      "type": "",
-      "example": [{
-        "file": "ko-2a",
-        "contributor": "",
-        "display": "コォ\u2026.",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "ko-2a",
+          "display": "コォ….",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "crisp, quiet or muted impact",
       "equivalent": [
+        "bang",
         "bat",
         "biff",
         "bonk",
         "bop",
+        "bump",
         "clip",
-        "gong",
+        "crack",
+        "hit",
+        "impact",
+        "knock",
         "scuff",
         "smack",
         "sock",
@@ -77,16 +91,14 @@
         "thump",
         "whack"
       ],
-      "refer": "",
-      "meaning": "to strike something in a minor or harmless manner",
-      "type": "",
-      "example": [{
-        "file": "ko-3a",
-        "contributor": "",
-        "display": "コッ",
-        "source": "blazing_fire_brigade"
-      }]
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "ko-3a",
+          "display": "コッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ko"
+  ]
 }

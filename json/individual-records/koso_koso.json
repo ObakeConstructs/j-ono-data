@@ -1,20 +1,36 @@
 {
-  "hiragana": ["こそこそ"],
-  "katakana": ["コソコソ"],
-  "definition": [{
-    "equivalent": [
-      "quietly",
-      "whisper"
-    ],
-    "refer": "",
-    "meaning": "to speak softly so as to not be overheard",
-    "type": "",
-    "example": [{
-      "file": "koso_koso-1a",
-      "contributor": "",
-      "display": "こそ こそ",
-      "source": "dog_became_strongest"
-    }]
-  }],
-  "literal": "koso koso"
+  "literal": "koso koso",
+  "katakana": [
+    "コソコソ"
+  ],
+  "hiragana": [
+    "こそこそ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "behaving or whispering in way that prevents notice",
+      "equivalent": [
+        "cover",
+        "mask",
+        "murmur",
+        "obscure",
+        "quietly",
+        "screen",
+        "secret",
+        "sneak",
+        "sotto voce",
+        "whisper"
+      ],
+      "example": [
+        {
+          "source": "dog_became_strongest",
+          "file": "koso_koso-1a",
+          "display": "こそ こそ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

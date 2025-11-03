@@ -1,29 +1,33 @@
 {
-  "hiragana": ["きらきら"],
-  "katakana": ["キラキラ"],
-  "definition": [{
-    "equivalent": [
-      "glitter",
-      "sparkle",
-      "twinkle"
-    ],
-    "refer": "",
-    "meaning": "to give off or reflect bright moving points of light",
-    "type": "",
-    "example": [
-      {
-        "file": "kira_kira-1a",
-        "contributor": "",
-        "display": "キラ キラ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "kira_kira-1b",
-        "contributor": "",
-        "display": "キラ キラ",
-        "source": "s_rank_behemoth"
-      }
-    ]
-  }],
-  "literal": "kira kira"
+  "literal": "kira kira",
+  "katakana": [
+    "キラキラ"
+  ],
+  "hiragana": [
+    "きらきら"
+  ],
+  "definition": [
+    {
+      "refer": "kira:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "kira_kira-1a",
+          "display": "キラ キラ",
+          "contributor": ""
+        },
+        {
+          "source": "s_rank_behemoth",
+          "file": "kira_kira-1b",
+          "display": "キラ キラ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

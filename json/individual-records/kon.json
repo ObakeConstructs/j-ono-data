@@ -1,30 +1,29 @@
 {
-  "hiragana": [
-    "こん",
-    "こんっ"
-  ],
+  "literal": "kon",
   "katakana": [
     "コン",
     "コンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bang",
-      "bump",
-      "crack",
-      "hit",
-      "impact",
-      "knock"
-    ],
-    "refer": "",
-    "meaning": "a soft banging noise, but harder than a tap",
-    "type": "",
-    "example": [{
-      "file": "kon-1a",
-      "contributor": "",
-      "display": "コン",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "kon"
+  "hiragana": [
+    "こん",
+    "こんっ"
+  ],
+  "definition": [
+    {
+      "refer": "ko:3",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "kon-1a",
+          "display": "コン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

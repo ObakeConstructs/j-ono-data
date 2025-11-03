@@ -1,28 +1,32 @@
 {
-  "hiragana": [
-    "きも",
-    "きもっ"
-  ],
+  "literal": "kimo",
   "katakana": [
     "キモ",
     "キモッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "what!?",
-      "disbelief",
-      "denial",
-      "rejection"
-    ],
-    "refer": "",
-    "meaning": "an expression of incredulity or disbelief",
-    "type": "",
-    "example": [{
-      "file": "kimo-1a",
-      "contributor": "",
-      "display": "キモッ",
-      "source": "sex_with_me_sells"
-    }]
-  }],
-  "literal": "kimo"
+  "hiragana": [
+    "きも",
+    "きもっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "exclamation of disgust or being creeped out",
+      "equivalent": [
+        "creepy!",
+        "ew!",
+        "gross!",
+        "yuck!"
+      ],
+      "example": [
+        {
+          "source": "sex_with_me_sells",
+          "file": "kimo-1a",
+          "display": "キモッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

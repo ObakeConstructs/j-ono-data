@@ -1,40 +1,41 @@
 {
-  "hiragana": [
-    "こんこん",
-    "こんこんっ"
-  ],
+  "literal": "kon kon",
   "katakana": [
     "コンコン",
     "コンコンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "knock",
-      "tap"
-    ],
-    "refer": "",
-    "meaning": "the sound of someone knocking on a door",
-    "type": "",
-    "example": [
-      {
-        "file": "kon_kon-1a",
-        "contributor": "",
-        "display": "コン コン",
-        "source": "d_genesis"
-      },
-      {
-        "file": "kon_kon-1b",
-        "contributor": "",
-        "display": "コン コンッ!",
-        "source": "s_rank_behemoth"
-      },
-      {
-        "file": "kon_kon-1c",
-        "contributor": "",
-        "display": "コン コン",
-        "source": "35_year_olds_choice"
-      }
-    ]
-  }],
-  "literal": "kon kon"
+  "hiragana": [
+    "こんこん",
+    "こんこんっ"
+  ],
+  "definition": [
+    {
+      "refer": "ko:3",
+      "type": "",
+      "meaning": "s, often of knocking on a door",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "kon_kon-1a",
+          "display": "コン コン",
+          "contributor": ""
+        },
+        {
+          "source": "s_rank_behemoth",
+          "file": "kon_kon-1b",
+          "display": "コン コンッ!",
+          "contributor": ""
+        },
+        {
+          "source": "35_year_olds_choice",
+          "file": "kon_kon-1c",
+          "display": "コン コン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

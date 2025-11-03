@@ -1,24 +1,27 @@
 {
-  "hiragana": ["ころん"],
-  "katakana": ["コロン"],
-  "definition": [{
-    "equivalent": [
-      "drop",
-      "fall",
-      "plop",
-      "plunk",
-      "slip",
-      "topple"
-    ],
-    "refer": "",
-    "meaning": "the sound of something landing after falling",
-    "type": "",
-    "example": [{
-      "file": "koron-1a",
-      "contributor": "",
-      "display": "コロン",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "koron"
+  "literal": "koron",
+  "katakana": [
+    "コロン"
+  ],
+  "hiragana": [
+    "ころん"
+  ],
+  "definition": [
+    {
+      "refer": "koro:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "koron-1a",
+          "display": "コロン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

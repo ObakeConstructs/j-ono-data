@@ -1,37 +1,35 @@
 {
-  "hiragana": [
-    "けほけほ",
-    "けほっけほっ"
-  ],
+  "literal": "keho keho",
   "katakana": [
     "ケホケホ",
     "ケホッケホッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "cough",
-      "gasp",
-      "huff",
-      "pant",
-      "wheeze"
-    ],
-    "refer": "",
-    "meaning": "the sound of someone coughing or struggling to breath",
-    "type": "",
-    "example": [
-      {
-        "file": "keho_keho-1a",
-        "contributor": "",
-        "display": "ケホッ ケホ\u2026",
-        "source": "neet_kunoichi"
-      },
-      {
-        "file": "keho_keho-1b",
-        "contributor": "",
-        "display": "ケホケホ",
-        "source": "isekai_av_filming"
-      }
-    ]
-  }],
-  "literal": "keho keho"
+  "hiragana": [
+    "けほけほ",
+    "けほっけほっ"
+  ],
+  "definition": [
+    {
+      "refer": "keho:1",
+      "type": "",
+      "meaning": "ing",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "neet_kunoichi",
+          "file": "keho_keho-1a",
+          "display": "ケホッ ケホ…",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_av_filming",
+          "file": "keho_keho-1b",
+          "display": "ケホケホ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,31 +1,31 @@
 {
-  "hiragana": [
-    "きん",
-    "きぃん",
-    "きぃーん"
-  ],
+  "literal": "kin",
   "katakana": [
     "キン",
     "キィン",
     "キィーン"
   ],
-  "definition": [{
-    "equivalent": [
-      "creak",
-      "screech",
-      "shriek",
-      "squeak",
-      "squeal"
-    ],
-    "refer": "",
-    "meaning": "a fairly loud squeaking noise, like an old door or chair",
-    "type": "",
-    "example": [{
-      "file": "kin-1a",
-      "contributor": "",
-      "display": "キィン",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "kin"
+  "hiragana": [
+    "きん",
+    "きぃん",
+    "きぃーん"
+  ],
+  "definition": [
+    {
+      "refer": "ki:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "kin-1a",
+          "display": "キィン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

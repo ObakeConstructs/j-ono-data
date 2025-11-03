@@ -2041,11 +2041,11 @@
     ],
     "definition": [{
       "equivalent": [
-        "sotto voce",
         "mumble",
         "murmur",
         "mutter",
         "quietly",
+        "sotto voce",
         "whisper"
       ],
       "refer": "",
@@ -3972,18 +3972,17 @@
           "blast",
           "blow",
           "boom",
-          "crack",
           "crash",
+          "crunch",
+          "hit",
           "impact",
-          "pop",
+          "pound",
           "smash",
           "strike",
-          "wham",
-          "whomp",
-          "whump"
+          "wham"
         ],
         "refer": "",
-        "meaning": "a loud impact or explosion",
+        "meaning": "heavy impact or explosive force sound",
         "type": "o",
         "example": [
           {
@@ -5039,73 +5038,52 @@
     ],
     "definition": [
       {
-        "equivalent": [
-          "bam",
-          "clobber",
-          "crunch",
-          "hit",
-          "impact",
-          "knock",
-          "pound",
-          "punch",
-          "slam",
-          "strike",
-          "thud",
-          "thunk",
-          "wham"
-        ],
-        "refer": "",
-        "meaning": "sounds of painful, but non-fatal strikes",
-        "type": "",
-        "example": [{
-          "file": "do_do-1a",
-          "contributor": "",
-          "display": "ドォ ドォ",
-          "source": "different_world_smartphone"
-        }]
-      },
-      {
-        "equivalent": [
-          "bang",
-          "blam",
-          "blast",
-          "boom",
-          "whump"
-        ],
-        "refer": "",
-        "meaning": "sounds of small explosions",
-        "type": "",
-        "example": [{
-          "file": "do_do-2a",
-          "contributor": "",
-          "display": "ドドドドドド",
-          "source": "reincarnated_aristocrat"
-        }]
-      },
-      {
-        "equivalent": [
-          "bom",
-          "race",
-          "run",
-          "sprint",
-          "step",
-          "stomp",
-          "tap",
-          "thump",
-          "tromp"
-        ],
-        "refer": "",
-        "meaning": "sounds of heavy or fast steps, as in stomping or running",
+        "equivalent": [""],
+        "refer": "do:1",
+        "meaning": "",
         "type": "",
         "example": [
           {
-            "file": "do_do-3a",
+            "file": "do_do-1a",
+            "contributor": "",
+            "display": "ドォ ドォ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "do_do-1b",
+            "contributor": "",
+            "display": "ドドドドドド",
+            "source": "reincarnated_aristocrat"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "blaze",
+          "bolt",
+          "careen",
+          "dash",
+          "gallop",
+          "hurtle",
+          "pelt",
+          "race",
+          "run",
+          "rush",
+          "speed",
+          "sprint"
+        ],
+        "refer": "",
+        "meaning": "thunderous running or movement",
+        "type": "m",
+        "example": [
+          {
+            "file": "do_do-2a",
             "contributor": "",
             "display": "ドドドド\u2026",
             "source": "kuma_kuma_kuma_bear"
           },
           {
-            "file": "do_do-3b",
+            "file": "do_do-2b",
             "contributor": "",
             "display": "ドドドッ",
             "source": "simple_sword_saint"
@@ -5117,14 +5095,15 @@
           "danger",
           "menace",
           "peril",
+          "pressure",
           "risk",
           "threat"
         ],
         "refer": "",
-        "meaning": "an indication of intense threat or menace",
-        "type": "",
+        "meaning": "menacing presence or emotional pressure",
+        "type": "e",
         "example": [{
-          "file": "do_do-4a",
+          "file": "do_do-3a",
           "contributor": "Artrix",
           "display": "ドドドドド",
           "source": "pokemon_xy_break"
@@ -5134,14 +5113,17 @@
         "equivalent": [
           "accelerate",
           "race",
+          "rev",
+          "roar",
+          "rumble",
           "speed",
           "vroom"
         ],
         "refer": "",
-        "meaning": "the sound of a loud or high-performance engine",
-        "type": "",
+        "meaning": "a deep engine rumble or roar",
+        "type": "o",
         "example": [{
-          "file": "do_do-5a",
+          "file": "do_do-4a",
           "contributor": "",
           "display": "ドドドド",
           "source": "ai_and_izawa"
@@ -12418,11 +12400,14 @@
       "equivalent": [
         "heh",
         "hmph",
+        "scoff",
+        "snort",
+        "tch",
         "tsk"
       ],
       "refer": "",
-      "meaning": "a short laugh, usually in annoyance or when looking down at someone",
-      "type": "",
+      "meaning": "short, disdainful snort or scoff",
+      "type": "e",
       "example": [{
         "file": "ke-1a",
         "contributor": "",
@@ -12443,15 +12428,14 @@
     ],
     "definition": [{
       "equivalent": [
+        "ahem",
         "cough",
-        "gasp",
-        "huff",
-        "pant",
-        "wheeze"
+        "hak",
+        "khak"
       ],
       "refer": "",
-      "meaning": "the sound of a coughing or a struggle to breath",
-      "type": "",
+      "meaning": "small, weak, or dry cough",
+      "type": "v",
       "example": [{
         "file": "keho-1a",
         "contributor": "",
@@ -12471,15 +12455,9 @@
       "ケホッケホッ"
     ],
     "definition": [{
-      "equivalent": [
-        "cough",
-        "gasp",
-        "huff",
-        "pant",
-        "wheeze"
-      ],
-      "refer": "",
-      "meaning": "the sound of someone coughing or struggling to breath",
+      "equivalent": [""],
+      "refer": "keho:1",
+      "meaning": "ing",
       "type": "",
       "example": [
         {
@@ -12506,14 +12484,14 @@
         "chortle",
         "chuckle",
         "giggle",
-        "hee",
+        "hee-hee",
         "laugh",
         "snicker",
         "titter"
       ],
       "refer": "",
-      "meaning": "a light laugh or giggle",
-      "type": "",
+      "meaning": "snickering or child-like giggling",
+      "type": "v",
       "example": [{
         "file": "keta_keta-1a",
         "contributor": "",
@@ -12548,8 +12526,8 @@
           "squeal"
         ],
         "refer": "",
-        "meaning": "a fairly loud squeaking or screeching noise",
-        "type": "",
+        "meaning": "sharp metallic squeaking or screeching",
+        "type": "o",
         "example": [
           {
             "file": "ki-1a",
@@ -12573,13 +12551,15 @@
       },
       {
         "equivalent": [
+          "gaze",
           "glare",
           "glower",
+          "pierce",
           "stare"
         ],
         "refer": "",
-        "meaning": "to look at someone or something with anger or disapproval",
-        "type": "",
+        "meaning": "piercing gaze or intense stare",
+        "type": "e",
         "example": [{
           "file": "ki-2a",
           "contributor": "",
@@ -12601,14 +12581,14 @@
     ],
     "definition": [{
       "equivalent": [
-        "what!?",
-        "disbelief",
-        "denial",
-        "rejection"
+        "creepy!",
+        "ew!",
+        "gross!",
+        "yuck!"
       ],
       "refer": "",
-      "meaning": "an expression of incredulity or disbelief",
-      "type": "",
+      "meaning": "exclamation of disgust or being creeped out",
+      "type": "e",
       "example": [{
         "file": "kimo-1a",
         "contributor": "",
@@ -12630,15 +12610,9 @@
       "キィーン"
     ],
     "definition": [{
-      "equivalent": [
-        "creak",
-        "screech",
-        "shriek",
-        "squeak",
-        "squeal"
-      ],
-      "refer": "",
-      "meaning": "a fairly loud squeaking noise, like an old door or chair",
+      "equivalent": [""],
+      "refer": "ki:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kin-1a",
@@ -12653,9 +12627,9 @@
     "hiragana": ["きーんこーんかーんこーん"],
     "katakana": ["キーンコーンカーンコーン"],
     "definition": [{
-      "equivalent": ["ding dong dang dong"],
-      "refer": "",
-      "meaning": "the sound of a Japanese school bell",
+      "equivalent": [""],
+      "refer": "chin kon kan kon:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kin_kon_kan_kon-1a",
@@ -12688,8 +12662,8 @@
         "twinkle"
       ],
       "refer": "",
-      "meaning": "a small reflection or twinkle of light",
-      "type": "",
+      "meaning": "quick sparkle or glint",
+      "type": "s",
       "example": [
         {
           "file": "kira-1a",
@@ -12717,15 +12691,9 @@
       "キラーン"
     ],
     "definition": [{
-      "equivalent": [
-        "ching",
-        "glint",
-        "jing",
-        "shaa",
-        "shing"
-      ],
-      "refer": "",
-      "meaning": "a metallic sound expressing a suddenly exposed sharp instrument, as in a blade, scissors, or claws",
+      "equivalent": [""],
+      "refer": "kira:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kiran-1a",
@@ -12740,13 +12708,9 @@
     "hiragana": ["きらきら"],
     "katakana": ["キラキラ"],
     "definition": [{
-      "equivalent": [
-        "glitter",
-        "sparkle",
-        "twinkle"
-      ],
-      "refer": "",
-      "meaning": "to give off or reflect bright moving points of light",
+      "equivalent": [""],
+      "refer": "kira:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -12779,8 +12743,8 @@
         "tight"
       ],
       "refer": "",
-      "meaning": "a sound of something pulled tight or straining under tension",
-      "type": "",
+      "meaning": "sharp mechanical strain or tension",
+      "type": "s",
       "example": [
         {
           "file": "kiri_kiri-1a",
@@ -12851,15 +12815,17 @@
     "definition": [
       {
         "equivalent": [
+          "footstep",
           "plod",
           "shuffle",
           "step",
+          "stomp",
           "tap",
           "walk"
         ],
         "refer": "",
-        "meaning": "the sound of walking",
-        "type": "",
+        "meaning": "light footstep or heep tap",
+        "type": "m",
         "example": [
           {
             "file": "ko-1a",
@@ -12877,12 +12843,13 @@
       },
       {
         "equivalent": [
-          "fwoosh",
+          "growl",
+          "rolling",
           "rumble"
         ],
         "refer": "",
-        "meaning": "expressing or emanating vast power or killing intent",
-        "type": "",
+        "meaning": "low, heavy rumble",
+        "type": "o",
         "example": [{
           "file": "ko-2a",
           "contributor": "",
@@ -12892,12 +12859,17 @@
       },
       {
         "equivalent": [
+          "bang",
           "bat",
           "biff",
           "bonk",
           "bop",
+          "bump",
           "clip",
-          "gong",
+          "crack",
+          "hit",
+          "impact",
+          "knock",
           "scuff",
           "smack",
           "sock",
@@ -12907,8 +12879,8 @@
           "whack"
         ],
         "refer": "",
-        "meaning": "to strike something in a minor or harmless manner",
-        "type": "",
+        "meaning": "crisp, quiet or muted impact",
+        "type": "o",
         "example": [{
           "file": "ko-3a",
           "contributor": "",
@@ -12925,13 +12897,11 @@
     "definition": [{
       "equivalent": [
         "ahem",
-        "cough",
-        "hack",
-        "rasp"
+        "cough"
       ],
       "refer": "",
-      "meaning": "to cough or to make a noise like a cough",
-      "type": "",
+      "meaning": "a polite or intentional throat clearing",
+      "type": "v",
       "example": [
         {
           "file": "kohon-1a",
@@ -12959,8 +12929,8 @@
         "snap"
       ],
       "refer": "",
-      "meaning": "a sharp sound of joint or bone cracking",
-      "type": "",
+      "meaning": "quick popping or cracking a joint",
+      "type": "o",
       "example": [{
         "file": "koki-1a",
         "contributor": "",
@@ -12989,8 +12959,8 @@
         "yes"
       ],
       "refer": "",
-      "meaning": "a quick nod of the head, typically to express agreement",
-      "type": "",
+      "meaning": "a quick nod, often of agreement",
+      "type": "m",
       "example": [
         {
           "file": "koku-1a",
@@ -13018,16 +12988,9 @@
     "hiragana": ["こくり"],
     "katakana": ["コクリ"],
     "definition": [{
-      "equivalent": [
-        "agree",
-        "nod",
-        "okay",
-        "yeah",
-        "yep",
-        "yes"
-      ],
-      "refer": "",
-      "meaning": "a quick nod of the head, typically to express agreement",
+      "equivalent": [""],
+      "refer": "koku:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kokuri-1a",
@@ -13044,15 +13007,13 @@
     "definition": [{
       "equivalent": [
         "agree",
-        "nod",
+        "nod-nod",
         "okay",
-        "yeah",
-        "yep",
-        "yes"
+        "yes-yes"
       ],
       "refer": "",
-      "meaning": "repeatedly nodding the head, as expressing agreement or assent",
-      "type": "",
+      "meaning": "repeated nodding, often of eager agreement",
+      "type": "m",
       "example": [{
         "file": "koku_koku-1a",
         "contributor": "",
@@ -13072,16 +13033,9 @@
       "コンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "bang",
-        "bump",
-        "crack",
-        "hit",
-        "impact",
-        "knock"
-      ],
-      "refer": "",
-      "meaning": "a soft banging noise, but harder than a tap",
+      "equivalent": [""],
+      "refer": "ko:3",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kon-1a",
@@ -13102,12 +13056,9 @@
       "コンコンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "knock",
-        "tap"
-      ],
-      "refer": "",
-      "meaning": "the sound of someone knocking on a door",
+      "equivalent": [""],
+      "refer": "ko:3",
+      "meaning": "s, often of knocking on a door",
       "type": "",
       "example": [
         {
@@ -13142,14 +13093,9 @@
       "コポポポ"
     ],
     "definition": [{
-      "equivalent": [
-        "glug",
-        "pour",
-        "slosh",
-        "trickle"
-      ],
-      "refer": "",
-      "meaning": "sound of pouring liquid",
+      "equivalent": [""],
+      "refer": "toku toku:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kopopo-1a",
@@ -13167,14 +13113,15 @@
       "equivalent": [
         "drop",
         "fall",
-        "plop",
-        "plunk",
+        "roll",
         "slip",
-        "topple"
+        "tip",
+        "topple",
+        "tumble"
       ],
       "refer": "",
-      "meaning": "the sound of something landing after falling",
-      "type": "",
+      "meaning": "rolling, tumbling, or dropping",
+      "type": "m",
       "example": [{
         "file": "koro-1a",
         "contributor": "",
@@ -13188,16 +13135,9 @@
     "hiragana": ["ころん"],
     "katakana": ["コロン"],
     "definition": [{
-      "equivalent": [
-        "drop",
-        "fall",
-        "plop",
-        "plunk",
-        "slip",
-        "topple"
-      ],
-      "refer": "",
-      "meaning": "the sound of something landing after falling",
+      "equivalent": [""],
+      "refer": "koro:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "koron-1a",
@@ -13213,12 +13153,20 @@
     "katakana": ["コソコソ"],
     "definition": [{
       "equivalent": [
+        "cover",
+        "mask",
+        "murmur",
+        "obscure",
         "quietly",
+        "screen",
+        "secret",
+        "sneak",
+        "sotto voce",
         "whisper"
       ],
       "refer": "",
-      "meaning": "to speak softly so as to not be overheard",
-      "type": "",
+      "meaning": "behaving or whispering in way that prevents notice",
+      "type": "m",
       "example": [{
         "file": "koso_koso-1a",
         "contributor": "",
@@ -13233,15 +13181,15 @@
     "katakana": ["コスコス"],
     "definition": [{
       "equivalent": [
-        "rub",
-        "scrub",
-        "scour",
+        "buff",
         "press",
-        "buff"
+        "rub",
+        "scour",
+        "scrub"
       ],
       "refer": "",
-      "meaning": "the indication or sound of rubbing or scrubbing with effort",
-      "type": "",
+      "meaning": "intentional rubbing or scrubbing",
+      "type": "m",
       "example": [
         {
           "file": "kosu_kosu-1a",
@@ -13271,13 +13219,14 @@
     "definition": [{
       "equivalent": [
         "click",
+        "clink",
         "clunk",
         "tap",
         "touch"
       ],
       "refer": "",
-      "meaning": "to put down or touch gently",
-      "type": "",
+      "meaning": "a calm click or tap, often delicate or hollow",
+      "type": "o",
       "example": [
         {
           "file": "koto-1a",
@@ -13318,12 +13267,13 @@
     ],
     "definition": [{
       "equivalent": [
-        "simmer",
-        "boil"
+        "boil",
+        "bubbling",
+        "simmer"
       ],
       "refer": "",
-      "meaning": "an indication or sound of simmering or boiling",
-      "type": "",
+      "meaning": "gentle simmering or boiling sounds",
+      "type": "o",
       "example": [{
         "file": "koto_koto-1a",
         "contributor": "",
