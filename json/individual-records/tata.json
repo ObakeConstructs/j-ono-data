@@ -1,11 +1,5 @@
 {
-  "hiragana": [
-    "たた",
-    "たたっ",
-    "たたた",
-    "たったっ",
-    "たったったっ"
-  ],
+  "literal": "tata",
   "katakana": [
     "タタ",
     "タタッ",
@@ -13,45 +7,53 @@
     "タッタッ",
     "タッタッタッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "dash",
-      "quickly",
-      "run",
-      "scamper",
-      "sprint",
-      "step",
-      "tap"
-    ],
-    "refer": "",
-    "meaning": "to run lightly",
-    "type": "",
-    "example": [
-      {
-        "file": "tata-1a",
-        "contributor": "",
-        "display": "タタッ",
-        "source": "d_genesis"
-      },
-      {
-        "file": "tata-1b",
-        "contributor": "",
-        "display": "たたたー",
-        "source": "d_genesis"
-      },
-      {
-        "file": "tata-1c",
-        "contributor": "",
-        "display": "タタ\u2026",
-        "source": "otherworld_material_collector"
-      },
-      {
-        "file": "tata-1d",
-        "contributor": "",
-        "display": "たっ たっ たっ",
-        "source": "fushi_no_kami"
-      }
-    ]
-  }],
-  "literal": "tata"
+  "hiragana": [
+    "たた",
+    "たたっ",
+    "たたた",
+    "たったっ",
+    "たったったっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "light running, often with small, fast steps",
+      "equivalent": [
+        "dash",
+        "quickly",
+        "run",
+        "scamper",
+        "sprint",
+        "step",
+        "tap"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "tata-1a",
+          "display": "タタッ",
+          "contributor": ""
+        },
+        {
+          "source": "d_genesis",
+          "file": "tata-1b",
+          "display": "たたたー",
+          "contributor": ""
+        },
+        {
+          "source": "otherworld_material_collector",
+          "file": "tata-1c",
+          "display": "タタ…",
+          "contributor": ""
+        },
+        {
+          "source": "fushi_no_kami",
+          "file": "tata-1d",
+          "display": "たっ たっ たっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

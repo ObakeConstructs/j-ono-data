@@ -1,26 +1,35 @@
 {
-  "hiragana": ["てくてく"],
-  "katakana": ["テクテク"],
-  "definition": [{
-    "equivalent": [
-      "march",
-      "pad",
-      "step",
-      "stomp",
-      "stride",
-      "tread",
-      "tromp",
-      "walk"
-    ],
-    "refer": "",
-    "meaning": "to walk at a relatively moderate pace",
-    "type": "",
-    "example": [{
-      "file": "teku_teku-1a",
-      "contributor": "",
-      "display": "てく てく",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "teku teku"
+  "literal": "teku teku",
+  "katakana": [
+    "テクテク"
+  ],
+  "hiragana": [
+    "てくてく"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "walking at a light pace, often cheerfully",
+      "equivalent": [
+        "amble",
+        "pad",
+        "saunter",
+        "steady",
+        "step",
+        "stride",
+        "stroll",
+        "traipse",
+        "walk"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "teku_teku-1a",
+          "display": "てく てく",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

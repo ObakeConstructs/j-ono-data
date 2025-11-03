@@ -1,31 +1,34 @@
 {
-  "hiragana": [
-    "てへ",
-    "てへっ"
-  ],
+  "literal": "tehe",
   "katakana": [
     "テヘ",
     "テヘッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "chuckle",
-      "giggle",
-      "laugh",
-      "snicker",
-      "snigger",
-      "tee hee",
-      "titter"
-    ],
-    "refer": "",
-    "meaning": "a light and playful laugh or giggle",
-    "type": "",
-    "example": [{
-      "file": "tehe-1a",
-      "contributor": "",
-      "display": "てへっ",
-      "source": "killed_by_gods_mistake"
-    }]
-  }],
-  "literal": "tehe"
+  "hiragana": [
+    "てへ",
+    "てへっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "bashful or playful reaction to a small mistake",
+      "equivalent": [
+        "giggle",
+        "hehe",
+        "my bad",
+        "oops",
+        "whoops",
+        "whoopsie"
+      ],
+      "example": [
+        {
+          "source": "killed_by_gods_mistake",
+          "file": "tehe-1a",
+          "display": "てへっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

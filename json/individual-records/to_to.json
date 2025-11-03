@@ -11,24 +11,31 @@
     "トットッ",
     "トットットッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "step",
-      "tap",
-      "walk",
-      "tread",
-      "pad",
-      "plod"
-    ],
-    "refer": "",
-    "meaning": "a series of soft or quick steps",
-    "type": "",
-    "example": [{
-      "file": "to_to-1a",
-      "contributor": "",
-      "display": "とっ とっ",
-      "source": "fushi_no_kami"
-    }]
-  }],
+  "definition": [
+    {
+      "equivalent": [""],
+      "refer": "to:2",
+      "meaning": "s",
+      "type": "",
+      "example": [{
+        "file": "to_to-1a",
+        "contributor": "",
+        "display": "トトト",
+        "source": "d_genesis"
+      }]
+    },
+    {
+      "equivalent": [""],
+      "refer": "tata:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "to_to-2a",
+        "contributor": "",
+        "display": "とっ とっ",
+        "source": "fushi_no_kami"
+      }]
+    }
+  ],
   "literal": "to to"
 }

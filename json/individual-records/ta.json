@@ -1,18 +1,22 @@
 {
-  "hiragana": [
-    "た",
-    "たっ",
-    "たー",
-    "たーっ"
-  ],
+  "literal": "ta",
   "katakana": [
     "タ",
     "タッ",
     "ター",
     "ターッ"
   ],
+  "hiragana": [
+    "た",
+    "たっ",
+    "たー",
+    "たーっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "a quick or sudden jump",
       "equivalent": [
         "bolt",
         "bound",
@@ -20,17 +24,19 @@
         "leap",
         "vault"
       ],
-      "refer": "",
-      "meaning": "to quickly or suddenly jump",
-      "type": "",
-      "example": [{
-        "file": "ta-1a",
-        "contributor": "",
-        "display": "タッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "ta-1a",
+          "display": "タッ",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "quick sprinting or dashing",
       "equivalent": [
         "bolt",
         "charge",
@@ -41,47 +47,40 @@
         "rush",
         "sprint"
       ],
-      "refer": "",
-      "meaning": "to run or start running",
-      "type": "",
       "example": [
         {
+          "source": "abandoned_reincarnation_sage",
           "file": "ta-2a",
-          "contributor": "",
-          "display": "たっ\u2026",
-          "source": "abandoned_reincarnation_sage"
+          "display": "たっ…",
+          "contributor": ""
         },
         {
+          "source": "strongest_thread_master",
           "file": "ta-2b",
-          "contributor": "",
           "display": "タッ",
-          "source": "strongest_thread_master"
+          "contributor": ""
         },
         {
+          "source": "eternal_fool_asley",
           "file": "ta-2c",
-          "contributor": "",
-          "display": "タッ\u2026!",
-          "source": "eternal_fool_asley"
+          "display": "タッ…!",
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [
-        "flick",
-        "land",
-        "pat",
-        "tap"
-      ],
-      "refer": "",
-      "meaning": "the soft sound of a controlled ninja-like landing",
+      "refer": "to:1",
       "type": "",
-      "example": [{
-        "file": "ta-3a",
-        "contributor": "",
-        "display": "タッ",
-        "source": "my_s-ranked_daughter"
-      }]
+      "meaning": ", often dramatic",
+      "equivalent": [""],
+      "example": [
+        {
+          "source": "my_s-ranked_daughter",
+          "file": "ta-3a",
+          "display": "タッ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "ta"
+  ]
 }

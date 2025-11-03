@@ -1,28 +1,32 @@
 {
-  "hiragana": [
-    "とさ",
-    "とさっ"
-  ],
+  "literal": "tosa",
   "katakana": [
     "トサ",
     "トサッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "floof",
-      "fwump",
-      "ploof",
-      "poof"
-    ],
-    "refer": "",
-    "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
-    "type": "",
-    "example": [{
-      "file": "tosa-1a",
-      "contributor": "",
-      "display": "トサッ",
-      "source": "kuma_kuma_kuma_bear"
-    }]
-  }],
-  "literal": "tosa"
+  "hiragana": [
+    "とさ",
+    "とさっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a soft fall or landing",
+      "equivalent": [
+        "floof",
+        "fwump",
+        "ploof",
+        "poof"
+      ],
+      "example": [
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "tosa-1a",
+          "display": "トサッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

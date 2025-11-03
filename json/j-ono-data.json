@@ -22017,8 +22017,8 @@
           "vault"
         ],
         "refer": "",
-        "meaning": "to quickly or suddenly jump",
-        "type": "",
+        "meaning": "a quick or sudden jump",
+        "type": "m",
         "example": [{
           "file": "ta-1a",
           "contributor": "",
@@ -22038,8 +22038,8 @@
           "sprint"
         ],
         "refer": "",
-        "meaning": "to run or start running",
-        "type": "",
+        "meaning": "quick sprinting or dashing",
+        "type": "m",
         "example": [
           {
             "file": "ta-2a",
@@ -22062,14 +22062,9 @@
         ]
       },
       {
-        "equivalent": [
-          "flick",
-          "land",
-          "pat",
-          "tap"
-        ],
-        "refer": "",
-        "meaning": "the soft sound of a controlled ninja-like landing",
+        "equivalent": [""],
+        "refer": "to:1",
+        "meaning": ", often dramatic",
         "type": "",
         "example": [{
           "file": "ta-3a",
@@ -22092,15 +22087,15 @@
     ],
     "definition": [{
       "equivalent": [
-        "bump",
-        "knock",
+        "hit",
+        "smack",
+        "strike",
         "tap",
-        "thud",
-        "thunk"
+        "whack"
       ],
       "refer": "",
-      "meaning": "the sound of a light impact",
-      "type": "",
+      "meaning": "a quick, crisp, or light impact",
+      "type": "o",
       "example": [
         {
           "file": "tan-1a",
@@ -22143,8 +22138,8 @@
         "wobble"
       ],
       "refer": "",
-      "meaning": "the indication of a wobble or shake",
-      "type": "",
+      "meaning": "a heavy or fleshy wobble or jiggle",
+      "type": "m",
       "example": [{
         "file": "tapun-1a",
         "contributor": "",
@@ -22177,8 +22172,8 @@
         "snatch"
       ],
       "refer": "",
-      "meaning": "the sound or action of grabbing or clutching something with force, particularly with both hands",
-      "type": "",
+      "meaning": "a quick, firm grasp, often urgently or assertively",
+      "type": "m",
       "example": [{
         "file": "tashi-1a",
         "contributor": "",
@@ -22214,8 +22209,8 @@
         "tap"
       ],
       "refer": "",
-      "meaning": "to run lightly",
-      "type": "",
+      "meaning": "light running, often with small, fast steps",
+      "type": "o",
       "example": [
         {
           "file": "tata-1a",
@@ -22250,14 +22245,14 @@
     "katakana": ["タタンタタン"],
     "definition": [{
       "equivalent": [
-        "cla-clack",
+        "clack-clack",
         "clatter",
         "rattle",
         "ta-ta"
       ],
       "refer": "",
-      "meaning": "the sound of a train moving rapidly on its tracks",
-      "type": "",
+      "meaning": "rhythmic sound of a train moving along its tracks",
+      "type": "o",
       "example": [{
         "file": "tatan_tatan-1a",
         "contributor": "",
@@ -22268,14 +22263,8 @@
     "literal": "tatan tatan"
   },
   {
-    "hiragana": [
-      "たたたた",
-      "たたったたっ"
-    ],
-    "katakana": [
-      "タタタタ",
-      "タタッタタッ"
-    ],
+    "hiragana": ["たたったたっ"],
+    "katakana": ["タタッタタッ"],
     "definition": [{
       "equivalent": [
         "bound",
@@ -22287,8 +22276,8 @@
         "trot"
       ],
       "refer": "",
-      "meaning": "a fast-running gait, as that of a quadruped",
-      "type": "",
+      "meaning": "light rythm of a four-legged run or gallop",
+      "type": "o",
       "example": [{
         "file": "tata_tata-1a",
         "contributor": "",
@@ -22310,15 +22299,15 @@
     "definition": [{
       "equivalent": [
         "boing",
-        "jiggle",
+        "bounce",
         "quiver",
         "shake",
         "sway",
         "wobble"
       ],
       "refer": "",
-      "meaning": "the indication of a wobble or shake",
-      "type": "",
+      "meaning": "soft, fleshy wobbling or bouncing",
+      "type": "m",
       "example": [{
         "file": "tayun-1a",
         "contributor": "",
@@ -22332,17 +22321,9 @@
     "hiragana": ["たゅんたゅん"],
     "katakana": ["タュンタュン"],
     "definition": [{
-      "equivalent": [
-        "bounce",
-        "jiggle",
-        "boing",
-        "quiver",
-        "shake",
-        "sway",
-        "wobble"
-      ],
-      "refer": "",
-      "meaning": "an indication of bouncing or jiggling",
+      "equivalent": [""],
+      "refer": "tayun:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "tayun_tayun-1a",
@@ -22364,17 +22345,16 @@
     ],
     "definition": [{
       "equivalent": [
-        "chuckle",
         "giggle",
-        "laugh",
-        "snicker",
-        "snigger",
-        "tee hee",
-        "titter"
+        "hehe",
+        "my bad",
+        "oops",
+        "whoops",
+        "whoopsie"
       ],
       "refer": "",
-      "meaning": "a light and playful laugh or giggle",
-      "type": "",
+      "meaning": "bashful or playful reaction to a small mistake",
+      "type": "e",
       "example": [{
         "file": "tehe-1a",
         "contributor": "",
@@ -22395,20 +22375,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "bedazzle",
         "flash",
         "glare",
         "gleam",
         "glisten",
         "sheen",
         "shimmer",
-        "shine",
-        "sparkle",
-        "twinkle"
+        "shine"
       ],
       "refer": "",
-      "meaning": "to shine or sparkle brightly, often used humorously for a shiny bald head",
-      "type": "",
+      "meaning": "a strong, glossy shine or gleam from a smooth surface",
+      "type": "s",
       "example": [{
         "file": "teka-1a",
         "contributor": "",
@@ -22423,18 +22400,19 @@
     "katakana": ["テクテク"],
     "definition": [{
       "equivalent": [
-        "march",
+        "amble",
         "pad",
+        "saunter",
+        "steady",
         "step",
-        "stomp",
         "stride",
-        "tread",
-        "tromp",
+        "stroll",
+        "traipse",
         "walk"
       ],
       "refer": "",
-      "meaning": "to walk at a relatively moderate pace",
-      "type": "",
+      "meaning": "walking at a light pace, often cheerfully",
+      "type": "m",
       "example": [{
         "file": "teku_teku-1a",
         "contributor": "",
@@ -22454,17 +22432,9 @@
       "テッテッ"
     ],
     "definition": [{
-      "equivalent": [
-        "bound",
-        "dash",
-        "gallop",
-        "lope",
-        "run",
-        "sprint",
-        "trot"
-      ],
-      "refer": "",
-      "meaning": "to run lightly",
+      "equivalent": [""],
+      "refer": "tata:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "te_te-1a",
@@ -22487,14 +22457,15 @@
     "definition": [
       {
         "equivalent": [
+          "alight",
           "flick",
           "land",
           "pat",
           "tap"
         ],
         "refer": "",
-        "meaning": "the soft sound of a controlled ninja-like landing",
-        "type": "",
+        "meaning": "light, controlled landing",
+        "type": "m",
         "example": [
           {
             "file": "to-1a",
@@ -22515,13 +22486,14 @@
           "clack",
           "click",
           "clink",
+          "flick",
           "snap",
           "tap",
           "tick"
         ],
         "refer": "",
-        "meaning": "a soft click or tap sound",
-        "type": "",
+        "meaning": "soft click or tap sound",
+        "type": "o",
         "example": [{
           "file": "to-2a",
           "contributor": "",
@@ -22537,17 +22509,18 @@
     "katakana": ["トボトボ"],
     "definition": [{
       "equivalent": [
-        "clump",
+        "hangdog",
         "lumber",
         "plod",
         "shuffle",
         "slog",
+        "slump",
         "tromp",
         "trudge"
       ],
       "refer": "",
-      "meaning": "to walk heavily or slowly, often an expression of emotional disturbance or tiredness",
-      "type": "",
+      "meaning": "a slow, dejected walk",
+      "type": "m",
       "example": [
         {
           "file": "tobo_tobo-1a",
@@ -22576,12 +22549,16 @@
     "katakana": ["トクトク"],
     "definition": [{
       "equivalent": [
+        "flow",
         "glug",
-        "gurgle"
+        "gurgle",
+        "pour",
+        "slosh",
+        "trickle"
       ],
       "refer": "",
-      "meaning": "the sound of pouring liquid, as from a bottle",
-      "type": "",
+      "meaning": "gurgling sounds of liquid pouring from a container",
+      "type": "o",
       "example": [
         {
           "file": "toku_toku-1a",
@@ -22620,8 +22597,8 @@
           "thunk"
         ],
         "refer": "",
-        "meaning": "the sound of a small or light impact",
-        "type": "",
+        "meaning": "small or light impact sound",
+        "type": "o",
         "example": [
           {
             "file": "ton-1a",
@@ -22639,17 +22616,16 @@
       },
       {
         "equivalent": [
-          "boing",
-          "bounce",
           "bound",
-          "hop",
           "jump",
           "leap",
+          "push-off",
+          "spring",
           "vault"
         ],
         "refer": "",
-        "meaning": "the act of leaping into the air",
-        "type": "",
+        "meaning": "quietly jumping or leaping",
+        "type": "m",
         "example": [{
           "file": "ton-2a",
           "contributor": "",
@@ -22671,18 +22647,9 @@
     ],
     "definition": [
       {
-        "equivalent": [
-          "bonk",
-          "bop",
-          "bump",
-          "knock",
-          "thud",
-          "thump",
-          "tmp",
-          "tok"
-        ],
-        "refer": "",
-        "meaning": "a series of light, rhythmic strikes",
+        "equivalent": [""],
+        "refer": "ton:1",
+        "meaning": "s",
         "type": "",
         "example": [{
           "file": "ton_ton-1a",
@@ -22693,16 +22660,16 @@
       },
       {
         "equivalent": [
-          "step",
-          "tap",
           "march",
+          "step",
           "stomp",
+          "tap",
           "tread",
           "walk"
         ],
         "refer": "",
-        "meaning": "the repeated sound of walking or stepping",
-        "type": "",
+        "meaning": "light footsteps, often lively or determined",
+        "type": "o",
         "example": [
           {
             "file": "ton_ton-2a",
@@ -22731,14 +22698,9 @@
       "トポポポ"
     ],
     "definition": [{
-      "equivalent": [
-        "glug",
-        "pour",
-        "slosh",
-        "trickle"
-      ],
-      "refer": "",
-      "meaning": "sound of pouring liquid",
+      "equivalent": [""],
+      "refer": "toku toku:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -22767,8 +22729,8 @@
         "slosh",
         "trickle"
       ],
-      "refer": "",
-      "meaning": "the sound of pouring liquid",
+      "refer": "toku toku:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "topu_topu-1a",
@@ -22806,8 +22768,8 @@
         "trickle"
       ],
       "refer": "",
-      "meaning": "the indication or sound of melting, flowing, or dripping slowly",
-      "type": "",
+      "meaning": "a melting, seeping, or oozing texture",
+      "type": "s",
       "example": [
         {
           "file": "toro-1a",
@@ -22848,8 +22810,8 @@
         "poof"
       ],
       "refer": "",
-      "meaning": "the sound of falling or landing on something soft, like pillows or blankets",
-      "type": "",
+      "meaning": "a soft fall or landing",
+      "type": "o",
       "example": [{
         "file": "tosa-1a",
         "contributor": "",
@@ -22858,34 +22820,6 @@
       }]
     }],
     "literal": "tosa"
-  },
-  {
-    "hiragana": [
-      "とと",
-      "ととと"
-    ],
-    "katakana": [
-      "トト",
-      "トトト"
-    ],
-    "definition": [{
-      "equivalent": [
-        "flick",
-        "pat",
-        "tap",
-        "tick"
-      ],
-      "refer": "",
-      "meaning": "a series of soft quick taps, as on a cell phone",
-      "type": "",
-      "example": [{
-        "file": "toto-1a",
-        "contributor": "",
-        "display": "トトト",
-        "source": "d_genesis"
-      }]
-    }],
-    "literal": "toto"
   },
   {
     "hiragana": [
@@ -22900,25 +22834,32 @@
       "トットッ",
       "トットットッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "step",
-        "tap",
-        "walk",
-        "tread",
-        "pad",
-        "plod"
-      ],
-      "refer": "",
-      "meaning": "a series of soft or quick steps",
-      "type": "",
-      "example": [{
-        "file": "to_to-1a",
-        "contributor": "",
-        "display": "とっ とっ",
-        "source": "fushi_no_kami"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [""],
+        "refer": "to:2",
+        "meaning": "s",
+        "type": "",
+        "example": [{
+          "file": "to_to-1a",
+          "contributor": "",
+          "display": "トトト",
+          "source": "d_genesis"
+        }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "tata:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "to_to-2a",
+          "contributor": "",
+          "display": "とっ とっ",
+          "source": "fushi_no_kami"
+        }]
+      }
+    ],
     "literal": "to to"
   },
   {

@@ -1,31 +1,29 @@
 {
-  "hiragana": [
-    "てて",
-    "てってっ"
-  ],
+  "literal": "te te",
   "katakana": [
     "テテ",
     "テッテッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bound",
-      "dash",
-      "gallop",
-      "lope",
-      "run",
-      "sprint",
-      "trot"
-    ],
-    "refer": "",
-    "meaning": "to run lightly",
-    "type": "",
-    "example": [{
-      "file": "te_te-1a",
-      "contributor": "",
-      "display": "テッ テッ",
-      "source": "weakest_occupation_blacksmith"
-    }]
-  }],
-  "literal": "te te"
+  "hiragana": [
+    "てて",
+    "てってっ"
+  ],
+  "definition": [
+    {
+      "refer": "tata:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "weakest_occupation_blacksmith",
+          "file": "te_te-1a",
+          "display": "テッ テッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

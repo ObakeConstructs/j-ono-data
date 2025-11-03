@@ -1,61 +1,56 @@
 {
-  "hiragana": [
-    "とんとん",
-    "とんとんっ"
-  ],
+  "literal": "ton ton",
   "katakana": [
     "トントン",
     "トントンッ"
   ],
+  "hiragana": [
+    "とんとん",
+    "とんとんっ"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "bonk",
-        "bop",
-        "bump",
-        "knock",
-        "thud",
-        "thump",
-        "tmp",
-        "tok"
-      ],
-      "refer": "",
-      "meaning": "a series of light, rhythmic strikes",
+      "refer": "ton:1",
       "type": "",
-      "example": [{
-        "file": "ton_ton-1a",
-        "contributor": "",
-        "display": "トン トン",
-        "source": "hello_work"
-      }]
+      "meaning": "s",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "ton_ton-1a",
+          "display": "トン トン",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "light footsteps, often lively or determined",
       "equivalent": [
-        "step",
-        "tap",
         "march",
+        "step",
         "stomp",
+        "tap",
         "tread",
         "walk"
       ],
-      "refer": "",
-      "meaning": "the repeated sound of walking or stepping",
-      "type": "",
       "example": [
         {
+          "source": "s_rank_behemoth",
           "file": "ton_ton-2a",
-          "contributor": "",
           "display": "トン トン トン",
-          "source": "s_rank_behemoth"
+          "contributor": ""
         },
         {
+          "source": "rock_n_roll_ladies",
           "file": "ton_ton-2b",
-          "contributor": "",
           "display": "トン トン",
-          "source": "rock_n_roll_ladies"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "ton ton"
+  ]
 }

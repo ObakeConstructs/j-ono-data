@@ -1,39 +1,46 @@
 {
-  "hiragana": ["とぼとぼ"],
-  "katakana": ["トボトボ"],
-  "definition": [{
-    "equivalent": [
-      "clump",
-      "lumber",
-      "plod",
-      "shuffle",
-      "slog",
-      "tromp",
-      "trudge"
-    ],
-    "refer": "",
-    "meaning": "to walk heavily or slowly, often an expression of emotional disturbance or tiredness",
-    "type": "",
-    "example": [
-      {
-        "file": "tobo_tobo-1a",
-        "contributor": "",
-        "display": "トボ トボ\u2026",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "tobo_tobo-1b",
-        "contributor": "",
-        "display": "とぼとぼ",
-        "source": "dog_became_strongest"
-      },
-      {
-        "file": "tobo_tobo-1c",
-        "contributor": "",
-        "display": "トボトボ",
-        "source": "cheat_pharmacist"
-      }
-    ]
-  }],
-  "literal": "tobo tobo"
+  "literal": "tobo tobo",
+  "katakana": [
+    "トボトボ"
+  ],
+  "hiragana": [
+    "とぼとぼ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a slow, dejected walk",
+      "equivalent": [
+        "hangdog",
+        "lumber",
+        "plod",
+        "shuffle",
+        "slog",
+        "slump",
+        "tromp",
+        "trudge"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "tobo_tobo-1a",
+          "display": "トボ トボ…",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "tobo_tobo-1b",
+          "display": "とぼとぼ",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "tobo_tobo-1c",
+          "display": "トボトボ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

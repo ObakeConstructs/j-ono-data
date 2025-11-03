@@ -1,22 +1,30 @@
 {
-  "hiragana": ["とぷとぷ"],
-  "katakana": ["トプトプ"],
-  "definition": [{
-    "equivalent": [
-      "glug",
-      "pour",
-      "slosh",
-      "trickle"
-    ],
-    "refer": "",
-    "meaning": "the sound of pouring liquid",
-    "type": "",
-    "example": [{
-      "file": "topu_topu-1a",
-      "contributor": "",
-      "display": "とぷとぷ..",
-      "source": "isekai_pickup"
-    }]
-  }],
-  "literal": "topu topu"
+  "literal": "topu topu",
+  "katakana": [
+    "トプトプ"
+  ],
+  "hiragana": [
+    "とぷとぷ"
+  ],
+  "definition": [
+    {
+      "refer": "toku toku:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        "glug",
+        "pour",
+        "slosh",
+        "trickle"
+      ],
+      "example": [
+        {
+          "source": "isekai_pickup",
+          "file": "topu_topu-1a",
+          "display": "とぷとぷ..",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

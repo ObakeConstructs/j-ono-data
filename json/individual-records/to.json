@@ -1,57 +1,61 @@
 {
-  "hiragana": [
-    "と",
-    "とっ"
-  ],
+  "literal": "to",
   "katakana": [
     "ト",
     "トッ"
   ],
+  "hiragana": [
+    "と",
+    "とっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "light, controlled landing",
       "equivalent": [
+        "alight",
         "flick",
         "land",
         "pat",
         "tap"
       ],
-      "refer": "",
-      "meaning": "the soft sound of a controlled ninja-like landing",
-      "type": "",
       "example": [
         {
+          "source": "reincarnated_aristocrat",
           "file": "to-1a",
-          "contributor": "",
           "display": "トッ",
-          "source": "reincarnated_aristocrat"
+          "contributor": ""
         },
         {
+          "source": "strongest_thread_master",
           "file": "to-1b",
-          "contributor": "",
           "display": "トッ",
-          "source": "strongest_thread_master"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "soft click or tap sound",
       "equivalent": [
         "clack",
         "click",
         "clink",
+        "flick",
         "snap",
         "tap",
         "tick"
       ],
-      "refer": "",
-      "meaning": "a soft click or tap sound",
-      "type": "",
-      "example": [{
-        "file": "to-2a",
-        "contributor": "",
-        "display": "とっ",
-        "source": "drawing"
-      }]
+      "example": [
+        {
+          "source": "drawing",
+          "file": "to-2a",
+          "display": "とっ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "to"
+  ]
 }

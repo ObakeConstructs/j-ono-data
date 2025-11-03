@@ -1,30 +1,34 @@
 {
-  "hiragana": [
-    "たぷん",
-    "たぷんっ"
-  ],
+  "literal": "tapun",
   "katakana": [
     "タプン",
     "タプンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "boing",
-      "jiggle",
-      "quiver",
-      "shake",
-      "sway",
-      "wobble"
-    ],
-    "refer": "",
-    "meaning": "the indication of a wobble or shake",
-    "type": "",
-    "example": [{
-      "file": "tapun-1a",
-      "contributor": "",
-      "display": "タプン♡",
-      "source": "rise_of_the_outlaw_tamer"
-    }]
-  }],
-  "literal": "tapun"
+  "hiragana": [
+    "たぷん",
+    "たぷんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a heavy or fleshy wobble or jiggle",
+      "equivalent": [
+        "boing",
+        "jiggle",
+        "quiver",
+        "shake",
+        "sway",
+        "wobble"
+      ],
+      "example": [
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "tapun-1a",
+          "display": "タプン♡",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

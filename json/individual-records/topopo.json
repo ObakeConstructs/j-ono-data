@@ -1,36 +1,35 @@
 {
-  "hiragana": [
-    "とぽぽ",
-    "とぽぽぽ"
-  ],
+  "literal": "topopo",
   "katakana": [
     "トポポ",
     "トポポポ"
   ],
-  "definition": [{
-    "equivalent": [
-      "glug",
-      "pour",
-      "slosh",
-      "trickle"
-    ],
-    "refer": "",
-    "meaning": "sound of pouring liquid",
-    "type": "",
-    "example": [
-      {
-        "file": "topopo-1a",
-        "contributor": "",
-        "display": "トポポ..",
-        "source": "d_genesis"
-      },
-      {
-        "file": "topopo-1b",
-        "contributor": "",
-        "display": "トポポポ",
-        "source": "dog_became_strongest"
-      }
-    ]
-  }],
-  "literal": "topopo"
+  "hiragana": [
+    "とぽぽ",
+    "とぽぽぽ"
+  ],
+  "definition": [
+    {
+      "refer": "toku toku:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "topopo-1a",
+          "display": "トポポ..",
+          "contributor": ""
+        },
+        {
+          "source": "dog_became_strongest",
+          "file": "topopo-1b",
+          "display": "トポポポ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
