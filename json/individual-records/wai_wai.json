@@ -1,39 +1,41 @@
 {
-  "hiragana": [
-    "わいわい",
-    "わぃわぃ"
-  ],
+  "literal": "wai wai",
   "katakana": [
     "ワイワイ",
     "ワィワィ"
   ],
-  "definition": [{
-    "equivalent": [
-      "babel",
-      "blah",
-      "bustle",
-      "cacophony",
-      "chatter",
-      "clamor",
-      "hubbub"
-    ],
-    "refer": "",
-    "meaning": "the sound of multiple people talking simultaneously",
-    "type": "",
-    "example": [
-      {
-        "file": "wai_wai-1a",
-        "contributor": "",
-        "display": "わい わい",
-        "source": "abandoned_reincarnation_sage"
-      },
-      {
-        "file": "wai_wai-1b",
-        "contributor": "",
-        "display": "わい わい わい",
-        "source": "yojo_life"
-      }
-    ]
-  }],
-  "literal": "wai wai"
+  "hiragana": [
+    "わいわい",
+    "わぃわぃ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "multiple people talking simultaneously, often lively or rowdy",
+      "equivalent": [
+        "babel",
+        "blah",
+        "bustle",
+        "cacophony",
+        "chatter",
+        "clamor",
+        "hubbub"
+      ],
+      "example": [
+        {
+          "source": "abandoned_reincarnation_sage",
+          "file": "wai_wai-1a",
+          "display": "わい わい",
+          "contributor": ""
+        },
+        {
+          "source": "yojo_life",
+          "file": "wai_wai-1b",
+          "display": "わい わい わい",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

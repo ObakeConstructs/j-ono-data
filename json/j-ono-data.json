@@ -23470,12 +23470,12 @@
       "equivalent": [
         "choke",
         "gag",
-        "mph",
-        "huuk"
+        "huuk",
+        "mph"
       ],
       "refer": "",
-      "meaning": "an expression of revulsion as if trying not to retch",
-      "type": "",
+      "meaning": "gagging from nausea or disgust",
+      "type": "v",
       "example": [{
         "file": "vu-1a",
         "contributor": "",
@@ -23497,12 +23497,14 @@
     "definition": [{
       "equivalent": [
         "fwoom",
+        "hum",
         "voom",
-        "whoom"
+        "whoom",
+        "whoosh"
       ],
       "refer": "",
-      "meaning": "the sound of some sort of magic taking effect or causing something to appear",
-      "type": "",
+      "meaning": "short rush of energy or power",
+      "type": "o",
       "example": [
         {
           "file": "vun-1a",
@@ -23553,47 +23555,64 @@
       "ワァァァ",
       "ワーッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bellow",
-        "howl",
-        "raaa",
-        "roar",
-        "shout",
-        "waa",
-        "yaaa",
-        "yay"
-      ],
-      "refer": "",
-      "meaning": "a roar or shout, as in fear or in celebration",
-      "type": "",
-      "example": [
-        {
-          "file": "wa-1a",
-          "contributor": "",
-          "display": "わっ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "wa-1b",
-          "contributor": "",
-          "display": "ワァァァ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "wa-1c",
-          "contributor": "",
-          "display": "ワァァァ",
-          "source": "komi_cant_communicate"
-        },
-        {
-          "file": "wa-1d",
-          "contributor": "",
-          "display": "わーっ",
-          "source": "abandoned_reincarnation_sage"
-        }
-      ]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "bellow",
+          "howl",
+          "raaa",
+          "roar",
+          "shout",
+          "waa"
+        ],
+        "refer": "",
+        "meaning": "shout in surprise, shock, or fear",
+        "type": "v",
+        "example": [
+          {
+            "file": "wa-1a",
+            "contributor": "",
+            "display": "わっ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "wa-1b",
+            "contributor": "",
+            "display": "ワァァァ",
+            "source": "world_full_of_monsters"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "applaud",
+          "cheer",
+          "festive",
+          "gleeful",
+          "praise",
+          "shout",
+          "yaaa",
+          "yay"
+        ],
+        "refer": "",
+        "meaning": "cheering or gleeful shouting",
+        "type": "v",
+        "example": [
+          {
+            "file": "wa-2a",
+            "contributor": "",
+            "display": "ワァァァ",
+            "source": "komi_cant_communicate"
+          },
+          {
+            "file": "wa-2b",
+            "contributor": "",
+            "display": "わーっ",
+            "source": "abandoned_reincarnation_sage"
+          }
+        ]
+      }
+    ],
     "literal": "wa"
   },
   {
@@ -23601,15 +23620,16 @@
     "katakana": ["ワフ"],
     "definition": [{
       "equivalent": [
-        "woof",
-        "ruff",
-        "bark",
         "arf",
+        "bark",
+        "ruff",
+        "woof",
+        "wuff",
         "yap"
       ],
       "refer": "",
-      "meaning": "a soft or half-hearted bark",
-      "type": "",
+      "meaning": "soft, gentle bark, often from cute or friendly dog",
+      "type": "v",
       "example": [{
         "file": "wafu-1a",
         "contributor": "",
@@ -23639,8 +23659,8 @@
         "hubbub"
       ],
       "refer": "",
-      "meaning": "the sound of multiple people talking simultaneously",
-      "type": "",
+      "meaning": "multiple people talking simultaneously, often lively or rowdy",
+      "type": "v",
       "example": [
         {
           "file": "wai_wai-1a",
@@ -23672,8 +23692,8 @@
         "pleased"
       ],
       "refer": "",
-      "meaning": "an expression of enthusiasm or eager anticipation",
-      "type": "",
+      "meaning": "bubbly enthusiasm or eager anticipation",
+      "type": "e",
       "example": [
         {
           "file": "waku_waku-1a",
