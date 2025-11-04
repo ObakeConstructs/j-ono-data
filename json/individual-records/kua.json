@@ -1,27 +1,31 @@
 {
-  "hiragana": [
-    "くあ",
-    "くあー"
-  ],
+  "literal": "kua",
   "katakana": [
     "クア",
     "クアー"
   ],
-  "definition": [{
-    "equivalent": [
-      "huff",
-      "whaa",
-      "yawn"
-    ],
-    "refer": "",
-    "meaning": "a deep breath expressing tiredness or boredom",
-    "type": "",
-    "example": [{
-      "file": "kua-1a",
-      "contributor": "",
-      "display": "くあ",
-      "source": "d_genesis"
-    }]
-  }],
-  "literal": "kua"
+  "hiragana": [
+    "くあ",
+    "くあー"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "open-mouth yawn",
+      "equivalent": [
+        "huff",
+        "whaa",
+        "yawn"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "kua-1a",
+          "display": "くあ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

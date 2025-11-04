@@ -1,36 +1,42 @@
 {
-  "hiragana": ["くちゅ"],
-  "katakana": ["クチュ"],
-  "definition": [{
-    "equivalent": [
-      "glorp",
-      "mwap",
-      "shlop",
-      "squish",
-      "shmack",
-      "smack",
-      "squelch",
-      "kiss",
-      "slup",
-      "slurp"
-    ],
-    "refer": "",
-    "meaning": "a wet smacking sound, like chewing gum or kissing",
-    "type": "",
-    "example": [
-      {
-        "file": "kuchu-1a",
-        "contributor": "",
-        "display": "クチュ\u2026",
-        "source": "double_play"
-      },
-      {
-        "file": "kuchu-1b",
-        "contributor": "",
-        "display": "くちゅ",
-        "source": "embarrassing_and_sweet"
-      }
-    ]
-  }],
-  "literal": "kuchu"
+  "literal": "kuchu",
+  "katakana": [
+    "クチュ"
+  ],
+  "hiragana": [
+    "くちゅ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "wet smacking or squelching sound",
+      "equivalent": [
+        "glorp",
+        "kiss",
+        "mwap",
+        "shlop",
+        "shmack",
+        "slup",
+        "slurp",
+        "smack",
+        "squelch",
+        "squish"
+      ],
+      "example": [
+        {
+          "source": "double_play",
+          "file": "kuchu-1a",
+          "display": "クチュ…",
+          "contributor": ""
+        },
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "kuchu-1b",
+          "display": "くちゅ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

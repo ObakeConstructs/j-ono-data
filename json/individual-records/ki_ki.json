@@ -1,29 +1,35 @@
 {
-  "hiragana": [
-    "きき",
-    "ききき"
-  ],
+  "literal": "ki ki",
   "katakana": [
     "キキ",
     "キキキ"
   ],
-  "definition": [{
-    "equivalent": [
-      "tense",
-      "danger",
-      "anxious",
-      "fraught",
-      "uneasy"
-    ],
-    "refer": "",
-    "meaning": "an indication of dramatic tension or danger",
-    "type": "",
-    "example": [{
-      "file": "ki_ki-1a",
-      "contributor": "",
-      "display": "キ キ キ キ",
-      "source": "saga_lagging_hero"
-    }]
-  }],
-  "literal": "ki ki"
+  "hiragana": [
+    "きき",
+    "ききき"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "continuous warning bells or alert tones",
+      "equivalent": [
+        "beep-beep",
+        "chime",
+        "ding-ding",
+        "gong-gong",
+        "knell",
+        "peal",
+        "toll"
+      ],
+      "example": [
+        {
+          "source": "saga_lagging_hero",
+          "file": "ki_ki-1a",
+          "display": "キ キ キ キ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

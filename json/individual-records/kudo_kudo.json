@@ -1,31 +1,37 @@
 {
-  "hiragana": [
-    "くどくど",
-    "くどくどくど"
-  ],
+  "literal": "kudo kudo",
   "katakana": [
     "クドクド",
     "クドクドクド"
   ],
-  "definition": [{
-    "equivalent": [
-      "harangue",
-      "lecture",
-      "on and on",
-      "rant",
-      "reprimand",
-      "scold",
-      "tirade"
-    ],
-    "refer": "",
-    "meaning": "the act of talking or lecturing at great length",
-    "type": "",
-    "example": [{
-      "file": "kudo_kudo-1a",
-      "contributor": "",
-      "display": "くど くど くど",
-      "source": "saga_lagging_hero"
-    }]
-  }],
-  "literal": "kudo kudo"
+  "hiragana": [
+    "くどくど",
+    "くどくどくど"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "s",
+      "meaning": "tediously talking or lecturing at great length",
+      "equivalent": [
+        "complain",
+        "harangue",
+        "lecture",
+        "nag",
+        "on and on",
+        "rant",
+        "reprimand",
+        "scold",
+        "tirade"
+      ],
+      "example": [
+        {
+          "source": "saga_lagging_hero",
+          "file": "kudo_kudo-1a",
+          "display": "くど くど くど",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

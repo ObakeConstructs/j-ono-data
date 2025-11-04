@@ -1,14 +1,5 @@
 {
-  "hiragana": [
-    "きゃ",
-    "きゃっ",
-    "きゃー",
-    "きゃーっ",
-    "きゃぁ",
-    "きゃぁぁ",
-    "きゃあ",
-    "きゃああ"
-  ],
+  "literal": "kya",
   "katakana": [
     "キャ",
     "キャッ",
@@ -19,31 +10,41 @@
     "キャア",
     "キャアア"
   ],
-  "definition": [{
-    "equivalent": [
-      "screech",
-      "shriek",
-      "squeal",
-      "yell",
-      "yelp"
-    ],
-    "refer": "",
-    "meaning": "to cry out loudly and emotionally, often used humorously",
-    "type": "",
-    "example": [
-      {
-        "file": "kya-1a",
-        "contributor": "",
-        "display": "きゃーっ",
-        "source": "different_world_smartphone"
-      },
-      {
-        "file": "kya-1b",
-        "contributor": "",
-        "display": "きゃー!!",
-        "source": "rock_n_roll_ladies"
-      }
-    ]
-  }],
-  "literal": "kya"
+  "hiragana": [
+    "きゃ",
+    "きゃっ",
+    "きゃー",
+    "きゃーっ",
+    "きゃぁ",
+    "きゃぁぁ",
+    "きゃあ",
+    "きゃああ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "v",
+      "meaning": "high-pitched emotional scream, as from fear, surprise, or excitement",
+      "equivalent": [
+        "scream",
+        "screech",
+        "shriek",
+        "squeal"
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "kya-1a",
+          "display": "きゃーっ",
+          "contributor": ""
+        },
+        {
+          "source": "rock_n_roll_ladies",
+          "file": "kya-1b",
+          "display": "きゃー!!",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

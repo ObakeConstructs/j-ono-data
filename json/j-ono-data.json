@@ -12773,15 +12773,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "tense",
-        "danger",
-        "anxious",
-        "fraught",
-        "uneasy"
+        "beep-beep",
+        "chime",
+        "ding-ding",
+        "gong-gong",
+        "knell",
+        "peal",
+        "toll"
       ],
       "refer": "",
-      "meaning": "an indication of dramatic tension or danger",
-      "type": "",
+      "meaning": "continuous warning bells or alert tones",
+      "type": "o",
       "example": [{
         "file": "ki_ki-1a",
         "contributor": "",
@@ -13305,11 +13307,12 @@
         "ah",
         "damn",
         "fah",
-        "gah"
+        "gah",
+        "tch"
       ],
       "refer": "",
-      "meaning": "an expression of pain or pressure, often suppressed",
-      "type": "",
+      "meaning": "suppressed or choked-back vocal reaction to a strong emotion",
+      "type": "v",
       "example": [
         {
           "file": "ku-1a",
@@ -13343,8 +13346,8 @@
         "yawn"
       ],
       "refer": "",
-      "meaning": "a deep breath expressing tiredness or boredom",
-      "type": "",
+      "meaning": "open-mouth yawn",
+      "type": "v",
       "example": [{
         "file": "kua-1a",
         "contributor": "",
@@ -13360,19 +13363,19 @@
     "definition": [{
       "equivalent": [
         "glorp",
+        "kiss",
         "mwap",
         "shlop",
-        "squish",
         "shmack",
+        "slup",
+        "slurp",
         "smack",
         "squelch",
-        "kiss",
-        "slup",
-        "slurp"
+        "squish"
       ],
       "refer": "",
-      "meaning": "a wet smacking sound, like chewing gum or kissing",
-      "type": "",
+      "meaning": "wet smacking or squelching sound",
+      "type": "o",
       "example": [
         {
           "file": "kuchu-1a",
@@ -13400,19 +13403,9 @@
       "クチュクチュッ"
     ],
     "definition": [{
-      "equivalent": [
-        "glorp",
-        "mwap",
-        "shlop",
-        "shmack",
-        "smack",
-        "squelch",
-        "kiss",
-        "slup",
-        "slurp"
-      ],
-      "refer": "",
-      "meaning": "a series of wet smacking sounds, like chewing gum or kissing",
+      "equivalent": [""],
+      "refer": "kuchu:1",
+      "meaning": "s",
       "type": "",
       "example": [
         {
@@ -13442,8 +13435,10 @@
     ],
     "definition": [{
       "equivalent": [
+        "complain",
         "harangue",
         "lecture",
+        "nag",
         "on and on",
         "rant",
         "reprimand",
@@ -13451,8 +13446,8 @@
         "tirade"
       ],
       "refer": "",
-      "meaning": "the act of talking or lecturing at great length",
-      "type": "",
+      "meaning": "tediously talking or lecturing at great length",
+      "type": "s",
       "example": [{
         "file": "kudo_kudo-1a",
         "contributor": "",
@@ -13485,8 +13480,8 @@
           "wave"
         ],
         "refer": "",
-        "meaning": "a small gesture",
-        "type": "",
+        "meaning": "a sharp gesture, often cool or snobbish",
+        "type": "m",
         "example": [{
           "file": "kui-1a",
           "contributor": "",
@@ -13496,14 +13491,14 @@
       },
       {
         "equivalent": [
-          "tug",
+          "jerk",
           "pull",
-          "yank",
-          "jerk"
+          "tug",
+          "yank"
         ],
         "refer": "",
-        "meaning": "an indication of pulling or tugging on something",
-        "type": "",
+        "meaning": "pulling or tugging",
+        "type": "m",
         "example": [{
           "file": "kui-2a",
           "contributor": "",
@@ -13525,16 +13520,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "zzz",
+        "asleep",
         "breath",
+        "drowsy",
+        "khaa",
         "sleep",
         "slumber",
-        "asleep",
-        "drowsy"
+        "zzz"
       ],
       "refer": "",
-      "meaning": "an indication of sleeping or the sound of sleepy breathing",
-      "type": "",
+      "meaning": "snoring or heavy breathing while asleep",
+      "type": "v",
       "example": [{
         "file": "kuka-1a",
         "contributor": "",
@@ -13556,17 +13552,17 @@
     "definition": [
       {
         "equivalent": [
-          "snicker",
-          "giggle",
-          "chuckle",
-          "titter",
+          "cackle",
           "chortle",
+          "chuckle",
+          "giggle",
           "laugh",
-          "cackle"
+          "snicker",
+          "titter"
         ],
         "refer": "",
-        "meaning": "the sound of a snicker or giggle",
-        "type": "",
+        "meaning": "suppressed snicker or laugh",
+        "type": "e",
         "example": [{
           "file": "kuku-1a",
           "contributor": "",
@@ -13577,12 +13573,12 @@
       {
         "equivalent": [
           "creak",
-          "rustle",
-          "grind"
+          "grind",
+          "rustle"
         ],
         "refer": "",
-        "meaning": "a creaking sound of tightening rope or leather",
-        "type": "",
+        "meaning": "creaking sound from tightening rope or leather",
+        "type": "o",
         "example": [{
           "file": "kuku-2a",
           "contributor": "",
@@ -13605,8 +13601,8 @@
         "tremble"
       ],
       "refer": "",
-      "meaning": "a series of shaking or trembling  movements",
-      "type": "",
+      "meaning": "shaking or trembling  movements",
+      "type": "m",
       "example": [
         {
           "file": "kuna_kuna-1a",
@@ -13635,8 +13631,8 @@
         "whiff"
       ],
       "refer": "",
-      "meaning": "a series of sniffing or smelling sounds",
-      "type": "",
+      "meaning": "small sniffing movements",
+      "type": "m",
       "example": [
         {
           "file": "kun_kun-1a",
@@ -13672,11 +13668,13 @@
         "dizzy",
         "faint",
         "swoon",
+        "unsteady",
+        "wobbly",
         "woozy"
       ],
       "refer": "",
-      "meaning": "a temporary loss or near loss of consciousness",
-      "type": "",
+      "meaning": "sudden dizziness or nearly fainting",
+      "type": "e",
       "example": [{
         "file": "kura-1a",
         "contributor": "",
@@ -13697,16 +13695,19 @@
     ],
     "definition": [{
       "equivalent": [
+        "flip",
         "pivot",
+        "reverse",
         "spin",
         "swing",
         "swivel",
         "turn",
+        "turn over",
         "twist"
       ],
       "refer": "",
-      "meaning": "the act of turning something, typically oneself",
-      "type": "",
+      "meaning": "a quick turn or flip",
+      "type": "m",
       "example": [
         {
           "file": "kuru-1a",
@@ -13740,16 +13741,9 @@
     "hiragana": ["くるん"],
     "katakana": ["クルン"],
     "definition": [{
-      "equivalent": [
-        "pivot",
-        "spin",
-        "swing",
-        "swivel",
-        "turn",
-        "twist"
-      ],
-      "refer": "",
-      "meaning": "the act of turning something, typically oneself",
+      "equivalent": [""],
+      "refer": "kuru:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kurun-1a",
@@ -13765,17 +13759,20 @@
     "katakana": ["クルクル"],
     "definition": [{
       "equivalent": [
+        "circle",
+        "curl",
         "pivot",
         "spin",
         "swing",
         "swivel",
         "turn",
+        "twirl",
         "twist",
-        "circle"
+        "twist"
       ],
       "refer": "",
-      "meaning": "to turn or spin in circles",
-      "type": "",
+      "meaning": "light spinning or twirling, often energetic",
+      "type": "m",
       "example": [
         {
           "file": "kuru_kuru-1a",
@@ -13814,8 +13811,8 @@
         "titter"
       ],
       "refer": "",
-      "meaning": "a small light laugh, sometimes associated with arrogant or wry humor",
-      "type": "",
+      "meaning": "soft, restrained chuckle",
+      "type": "e",
       "example": [
         {
           "file": "kusu-1a",
@@ -13845,14 +13842,14 @@
     "definition": [{
       "equivalent": [
         "cry",
-        "sob",
-        "sniffle",
         "sniff",
+        "sniffle",
+        "sob",
         "weep"
       ],
       "refer": "",
-      "meaning": "a soft cry or sniffle",
-      "type": "",
+      "meaning": "soft, restrained sniffle or cry",
+      "type": "e",
       "example": [{
         "file": "kusun-1a",
         "contributor": "",
@@ -13866,15 +13863,9 @@
     "hiragana": ["くすくす"],
     "katakana": ["クスクス"],
     "definition": [{
-      "equivalent": [
-        "chortle",
-        "chuckle",
-        "giggle",
-        "heh",
-        "laughter"
-      ],
-      "refer": "",
-      "meaning": "small light laughter or giggling",
+      "equivalent": [""],
+      "refer": "kusu:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kusu_kusu-1a",
@@ -13884,37 +13875,6 @@
       }]
     }],
     "literal": "kusu kusu"
-  },
-  {
-    "hiragana": [
-      "くゆ",
-      "くゆっ"
-    ],
-    "katakana": [
-      "クユ",
-      "クユッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "anticipation",
-        "excitement",
-        "enthusiasm",
-        "passion",
-        "fervor",
-        "zeal",
-        "fired up"
-      ],
-      "refer": "",
-      "meaning": "an expression of of anticipation or excitement",
-      "type": "",
-      "example": [{
-        "file": "kuyu-1a",
-        "contributor": "",
-        "display": "くゆっ",
-        "source": "my_s-ranked_daughter"
-      }]
-    }],
-    "literal": "kuyu"
   },
   {
     "hiragana": [
@@ -13939,15 +13899,14 @@
     ],
     "definition": [{
       "equivalent": [
+        "scream",
         "screech",
         "shriek",
-        "squeal",
-        "yell",
-        "yelp"
+        "squeal"
       ],
       "refer": "",
-      "meaning": "to cry out loudly and emotionally, often used humorously",
-      "type": "",
+      "meaning": "high-pitched emotional scream, as from fear, surprise, or excitement",
+      "type": "v",
       "example": [
         {
           "file": "kya-1a",
@@ -13975,15 +13934,9 @@
       "キャーン"
     ],
     "definition": [{
-      "equivalent": [
-        "screech",
-        "shriek",
-        "squeal",
-        "yell",
-        "yelp"
-      ],
-      "refer": "",
-      "meaning": "to squeal or cry out loudly, often used humorously",
+      "equivalent": [""],
+      "refer": "kya:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "kyan-1a",
@@ -13999,14 +13952,18 @@
     "katakana": ["キョドキョド"],
     "definition": [{
       "equivalent": [
-        "twitch",
+        "darting",
         "fidget",
         "flit",
-        "pace"
+        "jerky",
+        "pace",
+        "restless",
+        "shifty",
+        "twitch"
       ],
       "refer": "",
-      "meaning": "a series of jerky or restless movements",
-      "type": "",
+      "meaning": "shifty, awkward movements, usually from anxiety or insecurity",
+      "type": "m",
       "example": [{
         "file": "kyodo_kyodo-1a",
         "contributor": "",
@@ -14028,22 +13985,14 @@
         "view"
       ],
       "refer": "",
-      "meaning": "to look around or to search",
-      "type": "",
-      "example": [
-        {
-          "file": "kyoro-1a",
-          "contributor": "",
-          "display": "きょろ",
-          "source": "isekai_territory_reform"
-        },
-        {
-          "file": "kyoro-1b",
-          "contributor": "",
-          "display": "キョロ",
-          "source": "killed_by_gods_mistake"
-        }
-      ]
+      "meaning": "quick glancing around, often curiously",
+      "type": "m",
+      "example": [{
+        "file": "kyoro-1a",
+        "contributor": "",
+        "display": "きょろ",
+        "source": "isekai_territory_reform"
+      }]
     }],
     "literal": "kyoro"
   },
@@ -14051,15 +14000,9 @@
     "hiragana": ["きょろきょろ"],
     "katakana": ["キョロキョロ"],
     "definition": [{
-      "equivalent": [
-        "glance",
-        "glimpse",
-        "look",
-        "search",
-        "view"
-      ],
-      "refer": "",
-      "meaning": "to look around or search hastily",
+      "equivalent": [""],
+      "refer": "kyoro:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -14085,6 +14028,12 @@
           "contributor": "",
           "display": "きょろ きょろ",
           "source": "beastly_boys_and_girls"
+        },
+        {
+          "file": "kyoro_kyoro-1e",
+          "contributor": "",
+          "display": "キョロ キョロ",
+          "source": "killed_by_gods_mistake"
         }
       ]
     }],
@@ -14112,8 +14061,8 @@
           "hold"
         ],
         "refer": "",
-        "meaning": "an indication of squeezing lightly or softly",
-        "type": "",
+        "meaning": "squeezing lightly or gently",
+        "type": "m",
         "example": [
           {
             "file": "kyu-1a",
@@ -14146,8 +14095,8 @@
           "tighten"
         ],
         "refer": "",
-        "meaning": "an indication or sound of tying, fastening or pulling something tight",
-        "type": "",
+        "meaning": "tying, fastening or pulling something tight",
+        "type": "m",
         "example": [
           {
             "file": "kyu-2a",
@@ -14182,8 +14131,8 @@
           "squeal"
         ],
         "refer": "",
-        "meaning": "a shrill squeaking sound",
-        "type": "",
+        "meaning": "shrill squeaking sound",
+        "type": "o",
         "example": [
           {
             "file": "kyu-3a",
@@ -14223,11 +14172,12 @@
       "equivalent": [
         "growl",
         "grumble",
+        "gurgle",
         "rumble"
       ],
       "refer": "",
-      "meaning": "a low, rumbling noise, as with a growling stomach",
-      "type": "",
+      "meaning": "soft gurgling of a hungry stomach",
+      "type": "v",
       "example": [
         {
           "file": "kyuru-1a",
@@ -14250,16 +14200,16 @@
     "katakana": ["キュルキュル"],
     "definition": [{
       "equivalent": [
-        "hum",
+        "burr",
         "buzz",
+        "hum",
         "motor",
-        "move",
-        "zoom",
-        "whir"
+        "whir",
+        "zoom"
       ],
       "refer": "",
-      "meaning": "the indication or sound of tiny motors moving",
-      "type": "",
+      "meaning": "small high-pitched whirring or spinning sounds",
+      "type": "o",
       "example": [{
         "file": "kyuru_kyuru-1a",
         "contributor": "",

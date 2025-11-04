@@ -1,24 +1,27 @@
 {
-  "hiragana": ["くるん"],
-  "katakana": ["クルン"],
-  "definition": [{
-    "equivalent": [
-      "pivot",
-      "spin",
-      "swing",
-      "swivel",
-      "turn",
-      "twist"
-    ],
-    "refer": "",
-    "meaning": "the act of turning something, typically oneself",
-    "type": "",
-    "example": [{
-      "file": "kurun-1a",
-      "contributor": "",
-      "display": "くるン",
-      "source": "hero_or_demon_king"
-    }]
-  }],
-  "literal": "kurun"
+  "literal": "kurun",
+  "katakana": [
+    "クルン"
+  ],
+  "hiragana": [
+    "くるん"
+  ],
+  "definition": [
+    {
+      "refer": "kuru:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "hero_or_demon_king",
+          "file": "kurun-1a",
+          "display": "くるン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

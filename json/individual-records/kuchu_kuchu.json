@@ -1,41 +1,35 @@
 {
-  "hiragana": [
-    "くちゅくちゅ",
-    "くちゅくちゅっ"
-  ],
+  "literal": "kuchu kuchu",
   "katakana": [
     "クチュクチュ",
     "クチュクチュッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "glorp",
-      "mwap",
-      "shlop",
-      "shmack",
-      "smack",
-      "squelch",
-      "kiss",
-      "slup",
-      "slurp"
-    ],
-    "refer": "",
-    "meaning": "a series of wet smacking sounds, like chewing gum or kissing",
-    "type": "",
-    "example": [
-      {
-        "file": "kuchu_kuchu-1a",
-        "contributor": "",
-        "display": "くちゅ くちゅっ",
-        "source": "35_year_olds_choice"
-      },
-      {
-        "file": "kuchu_kuchu-1b",
-        "contributor": "",
-        "display": "クチュ クチュ",
-        "source": "rise_of_the_outlaw_tamer"
-      }
-    ]
-  }],
-  "literal": "kuchu kuchu"
+  "hiragana": [
+    "くちゅくちゅ",
+    "くちゅくちゅっ"
+  ],
+  "definition": [
+    {
+      "refer": "kuchu:1",
+      "type": "",
+      "meaning": "s",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "kuchu_kuchu-1a",
+          "display": "くちゅ くちゅっ",
+          "contributor": ""
+        },
+        {
+          "source": "rise_of_the_outlaw_tamer",
+          "file": "kuchu_kuchu-1b",
+          "display": "クチュ クチュ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

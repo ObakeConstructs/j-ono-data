@@ -1,24 +1,32 @@
 {
-  "hiragana": ["きゅるきゅる"],
-  "katakana": ["キュルキュル"],
-  "definition": [{
-    "equivalent": [
-      "hum",
-      "buzz",
-      "motor",
-      "move",
-      "zoom",
-      "whir"
-    ],
-    "refer": "",
-    "meaning": "the indication or sound of tiny motors moving",
-    "type": "",
-    "example": [{
-      "file": "kyuru_kyuru-1a",
-      "contributor": "",
-      "display": "キュル キュル",
-      "source": "ai_and_izawa"
-    }]
-  }],
-  "literal": "kyuru kyuru"
+  "literal": "kyuru kyuru",
+  "katakana": [
+    "キュルキュル"
+  ],
+  "hiragana": [
+    "きゅるきゅる"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "small high-pitched whirring or spinning sounds",
+      "equivalent": [
+        "burr",
+        "buzz",
+        "hum",
+        "motor",
+        "whir",
+        "zoom"
+      ],
+      "example": [
+        {
+          "source": "ai_and_izawa",
+          "file": "kyuru_kyuru-1a",
+          "display": "キュル キュル",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

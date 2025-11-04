@@ -1,16 +1,20 @@
 {
-  "hiragana": [
-    "くい",
-    "くぃ",
-    "くいっ"
-  ],
+  "literal": "kui",
   "katakana": [
     "クイ",
     "クィ",
     "クイッ"
   ],
+  "hiragana": [
+    "くい",
+    "くぃ",
+    "くいっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "a sharp gesture, often cool or snobbish",
       "equivalent": [
         "beckon",
         "flag",
@@ -20,33 +24,33 @@
         "signal",
         "wave"
       ],
-      "refer": "",
-      "meaning": "a small gesture",
-      "type": "",
-      "example": [{
-        "file": "kui-1a",
-        "contributor": "",
-        "display": "クィ",
-        "source": "way_of_isekai_cooking"
-      }]
+      "example": [
+        {
+          "source": "way_of_isekai_cooking",
+          "file": "kui-1a",
+          "display": "クィ",
+          "contributor": ""
+        }
+      ]
     },
     {
-      "equivalent": [
-        "tug",
-        "pull",
-        "yank",
-        "jerk"
-      ],
       "refer": "",
-      "meaning": "an indication of pulling or tugging on something",
-      "type": "",
-      "example": [{
-        "file": "kui-2a",
-        "contributor": "",
-        "display": "くぃ..",
-        "source": "embarrassing_and_sweet"
-      }]
+      "type": "m",
+      "meaning": "pulling or tugging",
+      "equivalent": [
+        "jerk",
+        "pull",
+        "tug",
+        "yank"
+      ],
+      "example": [
+        {
+          "source": "embarrassing_and_sweet",
+          "file": "kui-2a",
+          "display": "くぃ..",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "kui"
+  ]
 }

@@ -1,22 +1,34 @@
 {
-  "hiragana": ["きょどきょど"],
-  "katakana": ["キョドキョド"],
-  "definition": [{
-    "equivalent": [
-      "twitch",
-      "fidget",
-      "flit",
-      "pace"
-    ],
-    "refer": "",
-    "meaning": "a series of jerky or restless movements",
-    "type": "",
-    "example": [{
-      "file": "kyodo_kyodo-1a",
-      "contributor": "",
-      "display": "キョド キョド",
-      "source": "reincarnated_as_a_dragon_egg"
-    }]
-  }],
-  "literal": "kyodo kyodo"
+  "literal": "kyodo kyodo",
+  "katakana": [
+    "キョドキョド"
+  ],
+  "hiragana": [
+    "きょどきょど"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "shifty, awkward movements, usually from anxiety or insecurity",
+      "equivalent": [
+        "darting",
+        "fidget",
+        "flit",
+        "jerky",
+        "pace",
+        "restless",
+        "shifty",
+        "twitch"
+      ],
+      "example": [
+        {
+          "source": "reincarnated_as_a_dragon_egg",
+          "file": "kyodo_kyodo-1a",
+          "display": "キョド キョド",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
