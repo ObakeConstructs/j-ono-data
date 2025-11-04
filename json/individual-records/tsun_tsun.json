@@ -1,48 +1,54 @@
 {
-  "hiragana": ["つんつん"],
-  "katakana": ["ツンツン"],
-  "definition": [{
-    "equivalent": [
-      "nip",
-      "nudge",
-      "pinch",
-      "pluck",
-      "poke",
-      "pull",
-      "push",
-      "tap",
-      "tug",
-      "prod"
-    ],
-    "refer": "",
-    "meaning": "a series of quick or gentle pinching, poking or prodding",
-    "type": "",
-    "example": [
-      {
-        "file": "tsun_tsun-1a",
-        "contributor": "",
-        "display": "つん つん",
-        "source": "d_genesis"
-      },
-      {
-        "file": "tsun_tsun-1b",
-        "contributor": "",
-        "display": "ツンツン",
-        "source": "simple_sword_saint"
-      },
-      {
-        "file": "tsun_tsun-1c",
-        "contributor": "",
-        "display": "つん つん",
-        "source": "hone_dragon"
-      },
-      {
-        "file": "tsun_tsun-1d",
-        "contributor": "",
-        "display": "ツン ツン",
-        "source": "cheat_pharmacist"
-      }
-    ]
-  }],
-  "literal": "tsun tsun"
+  "literal": "tsun tsun",
+  "katakana": [
+    "ツンツン"
+  ],
+  "hiragana": [
+    "つんつん"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "small pokes, prods, or pinches",
+      "equivalent": [
+        "nip",
+        "nudge",
+        "pinch",
+        "pluck",
+        "poke",
+        "prod",
+        "pull",
+        "push",
+        "tap",
+        "tug"
+      ],
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "tsun_tsun-1a",
+          "display": "つん つん",
+          "contributor": ""
+        },
+        {
+          "source": "simple_sword_saint",
+          "file": "tsun_tsun-1b",
+          "display": "ツンツン",
+          "contributor": ""
+        },
+        {
+          "source": "hone_dragon",
+          "file": "tsun_tsun-1c",
+          "display": "つん つん",
+          "contributor": ""
+        },
+        {
+          "source": "cheat_pharmacist",
+          "file": "tsun_tsun-1d",
+          "display": "ツン ツン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

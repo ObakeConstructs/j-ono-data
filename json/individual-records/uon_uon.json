@@ -1,33 +1,31 @@
 {
-  "hiragana": [
-    "うぉんうぉん",
-    "うぉぉんうぉぉん",
-    "うぉぉぉんうぉぉぉん"
-  ],
+  "literal": "uon uon",
   "katakana": [
     "ウォンウォン",
     "ウォォンウォォン",
     "ウォォォンウォォォン"
   ],
-  "definition": [{
-    "equivalent": [
-      "nee naw",
-      "wee woo",
-      "oogah",
-      "wail",
-      "blare",
-      "siren",
-      "alarm"
-    ],
-    "refer": "",
-    "meaning": "the loud sound of an alarm or siren",
-    "type": "",
-    "example": [{
-      "file": "uon_uon-1a",
-      "contributor": "",
-      "display": "ウォォォン ウォォォン",
-      "source": "blazing_fire_brigade"
-    }]
-  }],
-  "literal": "uon uon"
+  "hiragana": [
+    "うぉんうぉん",
+    "うぉぉんうぉぉん",
+    "うぉぉぉんうぉぉぉん"
+  ],
+  "definition": [
+    {
+      "refer": "uon:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "uon_uon-1a",
+          "display": "ウォォォン ウォォォン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,14 +1,18 @@
 {
-  "hiragana": [
-    "うん",
-    "うーん"
-  ],
+  "literal": "un",
   "katakana": [
     "ウン",
     "ウーン"
   ],
+  "hiragana": [
+    "うん",
+    "うーん"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "nodding agreement",
       "equivalent": [
         "exactly",
         "mm-hmm",
@@ -17,41 +21,43 @@
         "yeah",
         "yes"
       ],
-      "refer": "",
-      "meaning": "nodding to express agreement",
-      "type": "",
-      "example": [{
-        "file": "un-1a",
-        "contributor": "",
-        "display": "うん",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "source": "d_genesis",
+          "file": "un-1a",
+          "display": "うん",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "e",
+      "meaning": "contemplation or hesitation",
       "equivalent": [
         "hmm",
         "uh",
         "um"
       ],
-      "refer": "",
-      "meaning": "an expression or sound of contemplation",
-      "type": "",
       "example": [
         {
+          "source": "d_genesis",
           "file": "un-2a",
-          "contributor": "",
           "display": "うーん",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "fushi_no_kami",
           "file": "un-2b",
-          "contributor": "",
           "display": "うーん",
-          "source": "fushi_no_kami"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "v",
+      "meaning": "strained grunt from effort or pain",
       "equivalent": [
         "clench",
         "gah",
@@ -60,18 +66,17 @@
         "push",
         "strain",
         "struggle",
+        "ungh",
         "urgh"
       ],
-      "refer": "",
-      "meaning": "the sound of a grunt or a groan, expressing strain or effort",
-      "type": "",
-      "example": [{
-        "file": "un-3a",
-        "contributor": "",
-        "display": "う〜んん\u2026",
-        "source": "blazing_fire_brigade"
-      }]
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "un-3a",
+          "display": "うーんん…",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "un"
+  ]
 }

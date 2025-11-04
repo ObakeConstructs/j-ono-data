@@ -1,29 +1,34 @@
 {
-  "hiragana": [
-    "うる",
-    "うるっ"
-  ],
+  "literal": "uru",
   "katakana": [
     "ウル",
     "ウルッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "bead",
-      "drip",
-      "drop",
-      "tear",
-      "teardrop"
-    ],
-    "refer": "",
-    "meaning": "the formation of a teardrop",
-    "type": "",
-    "example": [{
-      "file": "uru-1a",
-      "contributor": "",
-      "display": "うるっ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "uru"
+  "hiragana": [
+    "うる",
+    "うるっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "watery eyes or welling up with tears",
+      "equivalent": [
+        "bead",
+        "drip",
+        "drop",
+        "tear",
+        "teardrop",
+        "well up"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "uru-1a",
+          "display": "うるっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

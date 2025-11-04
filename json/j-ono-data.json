@@ -22779,8 +22779,8 @@
           "wha"
         ],
         "refer": "",
-        "meaning": "a quick inhale or gasp, as from being surprised or frightened",
-        "type": "",
+        "meaning": "quick inhale or sharp gasp, often suppressed",
+        "type": "e",
         "example": [{
           "file": "tsu-1a",
           "contributor": "",
@@ -22790,14 +22790,14 @@
       },
       {
         "equivalent": [
+          "dribble",
           "drip",
-          "trickle",
           "droplet",
-          "dribble"
+          "trickle"
         ],
         "refer": "",
-        "meaning": "the indication of a small flowing liquid",
-        "type": "",
+        "meaning": "small droplet or tiny trickle",
+        "type": "s",
         "example": [{
           "file": "tsu-2a",
           "contributor": "",
@@ -22809,8 +22809,14 @@
     "literal": "tsu"
   },
   {
-    "hiragana": ["つか"],
-    "katakana": ["ツカ"],
+    "hiragana": [
+      "つかつか",
+      "つかつかつか"
+    ],
+    "katakana": [
+      "ツカツカ",
+      "ツカツカツカ"
+    ],
     "definition": [{
       "equivalent": [
         "march",
@@ -22819,8 +22825,8 @@
         "tread"
       ],
       "refer": "",
-      "meaning": "the sound of brisk and purposeful walking",
-      "type": "",
+      "meaning": "brisk and determined stride, often confrontational",
+      "type": "m",
       "example": [{
         "file": "tsuka_tsuka-1a",
         "contributor": "",
@@ -22840,15 +22846,15 @@
         "pinch",
         "pluck",
         "poke",
+        "prod",
         "pull",
         "push",
         "tap",
-        "tug",
-        "prod"
+        "tug"
       ],
       "refer": "",
-      "meaning": "a series of quick or gentle pinching, poking or prodding",
-      "type": "",
+      "meaning": "small pokes, prods, or pinches",
+      "type": "m",
       "example": [
         {
           "file": "tsun_tsun-1a",
@@ -22891,12 +22897,13 @@
       "equivalent": [
         "fall",
         "slick",
+        "slide",
         "slip",
         "slippery"
       ],
       "refer": "",
-      "meaning": "to slip or to have a surface smooth enough to slip on",
-      "type": "",
+      "meaning": "sudden slip on a slick surface",
+      "type": "m",
       "example": [{
         "file": "tsuru-1a",
         "contributor": "",
@@ -22916,14 +22923,9 @@
       "ツルンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "fall",
-        "slick",
-        "slip",
-        "slippery"
-      ],
-      "refer": "",
-      "meaning": "to slip or to have a surface smooth enough to slip on",
+      "equivalent": [""],
+      "refer": "tsuru:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "tsurun-1a",
@@ -22946,11 +22948,12 @@
     "definition": [{
       "equivalent": [
         "buzz",
-        "bzz"
+        "bzz",
+        "tap-tap"
       ],
       "refer": "",
-      "meaning": "a series of electrical buzzing sounds",
-      "type": "",
+      "meaning": "tiny vibrations or buzzing",
+      "type": "o",
       "example": [{
         "file": "tsu_tsu-1a",
         "contributor": "",
@@ -22973,41 +22976,38 @@
       "ウッ",
       "ウーッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "uh",
-          "uhn"
-        ],
-        "refer": "",
-        "meaning": "an audible gutteral breath or grunt, often involuntary",
-        "type": "",
-        "example": [{
+    "definition": [{
+      "equivalent": [
+        "dismay",
+        "embarrassment",
+        "relief",
+        "shock",
+        "surprise",
+        "ugh",
+        "uh",
+        "uhn",
+        "urgh",
+        "waah",
+        "whaa"
+      ],
+      "refer": "",
+      "meaning": "short vocal reaction to sudden emotion",
+      "type": "v",
+      "example": [
+        {
           "file": "u-1a",
-          "contributor": "",
-          "display": "うっ\u2026",
-          "source": "double_play"
-        }]
-      },
-      {
-        "equivalent": [
-          "ugh",
-          "urgh",
-          "dismay",
-          "discouragement",
-          "uhn"
-        ],
-        "refer": "",
-        "meaning": "an expression of dismay or discouragement",
-        "type": "",
-        "example": [{
-          "file": "u-2a",
           "contributor": "",
           "display": "うっ",
           "source": "d_genesis"
-        }]
-      }
-    ],
+        },
+        {
+          "file": "u-1b",
+          "contributor": "",
+          "display": "うっ\u2026",
+          "source": "double_play"
+        }
+      ]
+    }],
     "literal": "u"
   },
   {
@@ -23028,12 +23028,9 @@
       "ウァァァ"
     ],
     "definition": [{
-      "equivalent": [
-        "waah",
-        "whaa"
-      ],
-      "refer": "",
-      "meaning": "an exclamation sound, often extended, expressing a range of emotions, as in relief, embarrassment, or surprise",
+      "equivalent": [""],
+      "refer": "u:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "ua-1a",
@@ -23055,13 +23052,15 @@
     ],
     "definition": [{
       "equivalent": [
+        "burr",
         "buzz",
-        "whirr",
-        "hum"
+        "hum",
+        "motor",
+        "whirr"
       ],
       "refer": "",
-      "meaning": "the sound of raising or lowering an automatic window",
-      "type": "",
+      "meaning": "smooth, sustained mechanical or motorized whirring",
+      "type": "o",
       "example": [{
         "file": "uin-1a",
         "contributor": "",
@@ -23091,8 +23090,8 @@
           "yes"
         ],
         "refer": "",
-        "meaning": "nodding to express agreement",
-        "type": "",
+        "meaning": "nodding agreement",
+        "type": "m",
         "example": [{
           "file": "un-1a",
           "contributor": "",
@@ -23107,8 +23106,8 @@
           "um"
         ],
         "refer": "",
-        "meaning": "an expression or sound of contemplation",
-        "type": "",
+        "meaning": "contemplation or hesitation",
+        "type": "e",
         "example": [
           {
             "file": "un-2a",
@@ -23133,15 +23132,16 @@
           "push",
           "strain",
           "struggle",
+          "ungh",
           "urgh"
         ],
         "refer": "",
-        "meaning": "the sound of a grunt or a groan, expressing strain or effort",
-        "type": "",
+        "meaning": "strained grunt from effort or pain",
+        "type": "v",
         "example": [{
           "file": "un-3a",
           "contributor": "",
-          "display": "う〜んん\u2026",
+          "display": "うーんん\u2026",
           "source": "blazing_fire_brigade"
         }]
       }
@@ -23159,13 +23159,9 @@
     ],
     "definition": [
       {
-        "equivalent": [
-          "mm hmm",
-          "nod",
-          "yep"
-        ],
-        "refer": "",
-        "meaning": "nodding the head repeatedly to express friendly agreement",
+        "equivalent": [""],
+        "refer": "un:1",
+        "meaning": "",
         "type": "",
         "example": [
           {
@@ -23183,14 +23179,9 @@
         ]
       },
       {
-        "equivalent": [
-          "groan",
-          "moan",
-          "uhhh",
-          "ummm"
-        ],
-        "refer": "",
-        "meaning": "a series of low sounds expressing pain or grief",
+        "equivalent": [""],
+        "refer": "un:3",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "un_un-2a",
@@ -23226,8 +23217,8 @@
           "yowl"
         ],
         "refer": "",
-        "meaning": "the bark or howl of a wolf or large dog",
-        "type": "",
+        "meaning": "deep resonant bark or howl, usually from a wolf or large dog",
+        "type": "v",
         "example": [{
           "file": "uon-1a",
           "contributor": "",
@@ -23239,13 +23230,15 @@
         "equivalent": [
           "alarm",
           "blare",
+          "nee naw",
           "oogah",
           "siren",
+          "wee woo",
           "wail"
         ],
         "refer": "",
-        "meaning": "the loud sound of an alarm or siren",
-        "type": "",
+        "meaning": "blaring alarm or siren",
+        "type": "o",
         "example": [{
           "file": "uon-2a",
           "contributor": "",
@@ -23268,17 +23261,9 @@
       "ウォォォンウォォォン"
     ],
     "definition": [{
-      "equivalent": [
-        "nee naw",
-        "wee woo",
-        "oogah",
-        "wail",
-        "blare",
-        "siren",
-        "alarm"
-      ],
-      "refer": "",
-      "meaning": "the loud sound of an alarm or siren",
+      "equivalent": [""],
+      "refer": "uon:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "uon_uon-1a",
@@ -23294,17 +23279,17 @@
     "katakana": ["ウロウロ"],
     "definition": [{
       "equivalent": [
-        "mill about",
+        "anxious",
+        "mill",
+        "nervous",
         "pace",
-        "roam",
-        "stroll",
-        "traipse",
-        "wander around",
+        "ramble",
+        "restless",
         "wander"
       ],
       "refer": "",
-      "meaning": "an indication of move about aimlessly or pacing",
-      "type": "",
+      "meaning": "restless wandering or anxious pacing",
+      "type": "m",
       "example": [
         {
           "file": "uro_uro-1a",
@@ -23337,11 +23322,12 @@
         "drip",
         "drop",
         "tear",
-        "teardrop"
+        "teardrop",
+        "well up"
       ],
       "refer": "",
-      "meaning": "the formation of a teardrop",
-      "type": "",
+      "meaning": "watery eyes or welling up with tears",
+      "type": "e",
       "example": [{
         "file": "uru-1a",
         "contributor": "",
@@ -23383,8 +23369,8 @@
         "wail"
       ],
       "refer": "",
-      "meaning": "to cry loudly indicating pain or distress",
-      "type": "",
+      "meaning": "crying or wailing loudly from pain or distress",
+      "type": "v",
       "example": [
         {
           "file": "uwan-1a",
@@ -23413,14 +23399,18 @@
     ],
     "definition": [{
       "equivalent": [
+        "creepy",
         "danger",
+        "dread",
         "intimidate",
         "menace",
-        "threat"
+        "shiver",
+        "threat",
+        "unsettling"
       ],
       "refer": "",
-      "meaning": "a feeling of threat",
-      "type": "",
+      "meaning": "creeping, unsettling dread",
+      "type": "e",
       "example": [{
         "file": "uzo-1a",
         "contributor": "",
@@ -23435,18 +23425,25 @@
     "katakana": ["ウズウズ"],
     "definition": [{
       "equivalent": [
-        "excited",
-        "eager",
-        "enthusiastic",
-        "thrill",
+        "anticipation",
+        "antsy",
         "delighted",
+        "eager",
+        "enthused",
+        "enthusiastic",
+        "excited",
+        "gung ho",
         "inspired",
-        "happy",
-        "joy"
+        "prospect",
+        "pumped",
+        "raring to go",
+        "restless",
+        "stoked",
+        "thrilled"
       ],
       "refer": "",
-      "meaning": "an expression of excitement or anticipation",
-      "type": "",
+      "meaning": "restless eagerness or impatient anticipation",
+      "type": "e",
       "example": [{
         "file": "uzu_uzu-1a",
         "contributor": "",

@@ -1,18 +1,22 @@
 {
-  "hiragana": [
-    "うぉん",
-    "うぉーん",
-    "うぉぉん",
-    "うぉぉぉん"
-  ],
+  "literal": "uon",
   "katakana": [
     "ウォン",
     "ウォーン",
     "ウォォン",
     "ウォォォン"
   ],
+  "hiragana": [
+    "うぉん",
+    "うぉーん",
+    "うぉぉん",
+    "うぉぉぉん"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "v",
+      "meaning": "deep resonant bark or howl, usually from a wolf or large dog",
       "equivalent": [
         "arf",
         "bark",
@@ -21,34 +25,36 @@
         "woof",
         "yowl"
       ],
-      "refer": "",
-      "meaning": "the bark or howl of a wolf or large dog",
-      "type": "",
-      "example": [{
-        "file": "uon-1a",
-        "contributor": "",
-        "display": "ウォン!!",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "uon-1a",
+          "display": "ウォン!!",
+          "contributor": ""
+        }
+      ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "blaring alarm or siren",
       "equivalent": [
         "alarm",
         "blare",
+        "nee naw",
         "oogah",
         "siren",
+        "wee woo",
         "wail"
       ],
-      "refer": "",
-      "meaning": "the loud sound of an alarm or siren",
-      "type": "",
-      "example": [{
-        "file": "uon-2a",
-        "contributor": "",
-        "display": "ウォォォン",
-        "source": "blazing_fire_brigade"
-      }]
+      "example": [
+        {
+          "source": "blazing_fire_brigade",
+          "file": "uon-2a",
+          "display": "ウォォォン",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "uon"
+  ]
 }

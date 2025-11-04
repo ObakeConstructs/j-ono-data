@@ -1,54 +1,51 @@
 {
-  "hiragana": [
-    "うんうん",
-    "うーんうーん"
-  ],
+  "literal": "un un",
   "katakana": [
     "ウンウン",
     "ウーンウーン"
   ],
+  "hiragana": [
+    "うんうん",
+    "うーんうーん"
+  ],
   "definition": [
     {
-      "equivalent": [
-        "mm hmm",
-        "nod",
-        "yep"
-      ],
-      "refer": "",
-      "meaning": "nodding the head repeatedly to express friendly agreement",
+      "refer": "un:1",
       "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
       "example": [
         {
+          "source": "d_genesis",
           "file": "un_un-1a",
-          "contributor": "",
           "display": "うん うん",
-          "source": "d_genesis"
+          "contributor": ""
         },
         {
+          "source": "a_rank_slow_life",
           "file": "un_un-1b",
-          "contributor": "",
           "display": "うん うん",
-          "source": "a_rank_slow_life"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [
-        "groan",
-        "moan",
-        "uhhh",
-        "ummm"
-      ],
-      "refer": "",
-      "meaning": "a series of low sounds expressing pain or grief",
+      "refer": "un:3",
       "type": "",
-      "example": [{
-        "file": "un_un-2a",
-        "contributor": "",
-        "display": "ウーン ウーン",
-        "source": "komi_cant_communicate"
-      }]
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "komi_cant_communicate",
+          "file": "un_un-2a",
+          "display": "ウーン ウーン",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "un un"
+  ]
 }

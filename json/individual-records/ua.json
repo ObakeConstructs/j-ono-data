@@ -1,12 +1,5 @@
 {
-  "hiragana": [
-    "うあ",
-    "うああ",
-    "うあああ",
-    "うぁ",
-    "うぁぁ",
-    "うぁぁぁ"
-  ],
+  "literal": "ua",
   "katakana": [
     "ウア",
     "ウアア",
@@ -15,20 +8,30 @@
     "ウァァ",
     "ウァァァ"
   ],
-  "definition": [{
-    "equivalent": [
-      "waah",
-      "whaa"
-    ],
-    "refer": "",
-    "meaning": "an exclamation sound, often extended, expressing a range of emotions, as in relief, embarrassment, or surprise",
-    "type": "",
-    "example": [{
-      "file": "ua-1a",
-      "contributor": "",
-      "display": "うぁぁぁ",
-      "source": "different_world_smartphone"
-    }]
-  }],
-  "literal": "ua"
+  "hiragana": [
+    "うあ",
+    "うああ",
+    "うあああ",
+    "うぁ",
+    "うぁぁ",
+    "うぁぁぁ"
+  ],
+  "definition": [
+    {
+      "refer": "u:1",
+      "type": "",
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "different_world_smartphone",
+          "file": "ua-1a",
+          "display": "うぁぁぁ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

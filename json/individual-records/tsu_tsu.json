@@ -1,26 +1,31 @@
 {
-  "hiragana": [
-    "つつ",
-    "っっ"
-  ],
+  "literal": "tsu tsu",
   "katakana": [
     "ツツ",
     "ッッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "buzz",
-      "bzz"
-    ],
-    "refer": "",
-    "meaning": "a series of electrical buzzing sounds",
-    "type": "",
-    "example": [{
-      "file": "tsu_tsu-1a",
-      "contributor": "",
-      "display": "つつ",
-      "source": "35_year_olds_choice"
-    }]
-  }],
-  "literal": "tsu tsu"
+  "hiragana": [
+    "つつ",
+    "っっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "tiny vibrations or buzzing",
+      "equivalent": [
+        "buzz",
+        "bzz",
+        "tap-tap"
+      ],
+      "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "tsu_tsu-1a",
+          "display": "つつ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
