@@ -18,15 +18,12 @@
   "definition": [
     {
       "equivalent": [
-        "crunch",
-        "crush",
-        "step",
-        "stomp",
-        "stroll",
+        "hike",
+        "stalk",
         "walk"
       ],
-      "refer": "",
-      "meaning": "sound of someone stepping or walking",
+      "refer": "za:2",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -55,35 +52,43 @@
         "gush",
         "pour",
         "pssh",
-        "shaa",
         "splash",
         "sploosh",
-        "spray",
+        "spray"
+      ],
+      "refer": "",
+      "meaning": "gushing or streaming water",
+      "type": "o",
+      "example": [{
+        "file": "za_za-2a",
+        "contributor": "",
+        "display": "ザザザザ",
+        "source": "blazing_fire_brigade"
+      }]
+    },
+    {
+      "equivalent": [
+        "sha-shaa",
+        "shaa",
+        "splash",
         "surf",
-        "swash",
         "waves"
       ],
       "refer": "",
-      "meaning": "the sound of moving water or waves",
-      "type": "",
+      "meaning": "rhythmic surf or waves, typically breaking against rocks or shoreline",
+      "type": "o",
       "example": [
         {
-          "file": "za_za-2a",
-          "contributor": "",
-          "display": "ザザ..",
-          "source": "buy_the_land"
-        },
-        {
-          "file": "za_za-2b",
-          "contributor": "",
-          "display": "ザザザザ",
-          "source": "blazing_fire_brigade"
-        },
-        {
-          "file": "za_za-2c",
+          "file": "za_za-3a",
           "contributor": "",
           "display": "ザザァ\u2026",
           "source": "sex_with_me_sells"
+        },
+        {
+          "file": "za_za-3b",
+          "contributor": "",
+          "display": "ザザ..",
+          "source": "buy_the_land"
         }
       ]
     }

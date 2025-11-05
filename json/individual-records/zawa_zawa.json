@@ -1,8 +1,16 @@
 {
-  "hiragana": ["ざわざわ"],
-  "katakana": ["ザワザワ"],
+  "literal": "zawa zawa",
+  "katakana": [
+    "ザワザワ"
+  ],
+  "hiragana": [
+    "ざわざわ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "murmur or chatter of a crowd",
       "equivalent": [
         "ballyhoo",
         "buzz",
@@ -12,51 +20,42 @@
         "hubbub",
         "ruckus"
       ],
-      "refer": "",
-      "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-      "type": "",
       "example": [
         {
+          "source": "dungeon_dining_room",
           "file": "zawa_zawa-1a",
-          "contributor": "",
           "display": "ざわ ざわ ざわ",
-          "source": "dungeon_dining_room"
+          "contributor": ""
         },
         {
+          "source": "abandoned_reincarnation_sage",
           "file": "zawa_zawa-1b",
-          "contributor": "",
           "display": "ザワ ザワ",
-          "source": "abandoned_reincarnation_sage"
+          "contributor": ""
         },
         {
+          "source": "uncle_at_heart",
           "file": "zawa_zawa-1c",
-          "contributor": "",
           "display": "ざわ ざわ",
-          "source": "uncle_at_heart"
+          "contributor": ""
         }
       ]
     },
     {
-      "equivalent": [
-        "dumfounded",
-        "amazed",
-        "astonished",
-        "flabbergasted",
-        "shock",
-        "stun",
-        "surprise",
-        "gasp"
-      ],
-      "refer": "",
-      "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+      "refer": "zawa:1",
       "type": "",
-      "example": [{
-        "file": "zawa_zawa-2a",
-        "contributor": "",
-        "display": "ザワ ザワ",
-        "source": "world_full_of_monsters"
-      }]
+      "meaning": "",
+      "equivalent": [
+        ""
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "zawa_zawa-2a",
+          "display": "ザワ ザワ",
+          "contributor": ""
+        }
+      ]
     }
-  ],
-  "literal": "zawa zawa"
+  ]
 }

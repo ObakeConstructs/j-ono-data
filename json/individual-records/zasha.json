@@ -1,29 +1,35 @@
 {
-  "hiragana": [
-    "ざしゃっ",
-    "ざしゃーっ"
-  ],
+  "literal": "zasha",
   "katakana": [
     "ザシャッ",
     "ザシャーッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "splat",
-      "squash",
-      "flump",
-      "flop",
-      "shaa"
-    ],
-    "refer": "",
-    "meaning": "the sound of an ungraceful landing",
-    "type": "",
-    "example": [{
-      "file": "zasha-1a",
-      "contributor": "",
-      "display": "ザシャッ",
-      "source": "hone_dragon"
-    }]
-  }],
-  "literal": "zasha"
+  "hiragana": [
+    "ざしゃっ",
+    "ざしゃーっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a sliding, scraping, or gritty landing",
+      "equivalent": [
+        "crunch",
+        "fall",
+        "gritty",
+        "land",
+        "rasp",
+        "scrape",
+        "slide"
+      ],
+      "example": [
+        {
+          "source": "hone_dragon",
+          "file": "zasha-1a",
+          "display": "ザシャッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

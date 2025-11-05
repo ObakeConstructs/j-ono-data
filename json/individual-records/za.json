@@ -1,17 +1,5 @@
 {
-  "hiragana": [
-    "ざ",
-    "ざっ",
-    "ざー",
-    "ざーっ",
-    "ざぁ",
-    "ざぁぁ",
-    "ざぁぁぁ",
-    "ざあ",
-    "ざああ",
-    "ざあああ",
-    "ざあっ"
-  ],
+  "literal": "za",
   "katakana": [
     "ザ",
     "ザッ",
@@ -25,98 +13,110 @@
     "ザアアア",
     "ザアッ"
   ],
+  "hiragana": [
+    "ざ",
+    "ざっ",
+    "ざー",
+    "ざーっ",
+    "ざぁ",
+    "ざぁぁ",
+    "ざぁぁぁ",
+    "ざあ",
+    "ざああ",
+    "ざあああ",
+    "ざあっ"
+  ],
   "definition": [
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "rain or shower",
       "equivalent": [
         "drizzle",
         "drops",
         "hss",
         "rain",
         "shaa",
+        "shower",
+        "sprinkle",
         "sss"
       ],
-      "refer": "",
-      "meaning": "the soft sound of rain or a shower",
-      "type": "",
       "example": [
         {
+          "source": "bungo",
           "file": "za-1a",
-          "contributor": "",
           "display": "ザーッ",
-          "source": "bungo"
+          "contributor": ""
         },
         {
+          "source": "hikaro_no_go",
           "file": "za-1b",
-          "contributor": "",
           "display": "ザァァァ",
-          "source": "hikaro_no_go"
+          "contributor": ""
         },
         {
+          "source": "beastly_boys_and_girls",
           "file": "za-1c",
-          "contributor": "",
-          "display": "ザァァァァ\u2026..",
-          "source": "beastly_boys_and_girls"
+          "display": "ザァァァァ…..",
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "o",
+      "meaning": "a sharp or crisp footstep",
       "equivalent": [
         "crunch",
-        "crush",
+        "footstep",
         "step",
-        "stomp",
         "tap",
-        "tread",
-        "walk"
+        "tread"
       ],
-      "refer": "",
-      "meaning": "the sound of someone taking a step or stomping",
-      "type": "",
       "example": [
         {
+          "source": "peter_grill",
           "file": "za-2a",
-          "contributor": "",
           "display": "ザッ",
-          "source": "peter_grill"
+          "contributor": ""
         },
         {
+          "source": "strongest_thread_master",
           "file": "za-2b",
-          "contributor": "",
           "display": "ざっ",
-          "source": "strongest_thread_master"
+          "contributor": ""
         }
       ]
     },
     {
+      "refer": "",
+      "type": "m",
+      "meaning": "fast movement, typically sudden or decisive ",
       "equivalent": [
-        "bolt",
-        "charge",
-        "dash",
-        "hurry",
-        "pelt",
-        "run",
-        "rush",
-        "sprint",
+        "fast",
+        "quick",
+        "rapid",
+        "swift",
+        "swish",
+        "voom",
+        "whoosh",
+        "zip",
         "zoom"
       ],
-      "refer": "",
-      "meaning": "an indication or  sound of someone moving very fast",
-      "type": "",
       "example": [
         {
+          "source": "my_s-ranked_daughter",
           "file": "za-3a",
-          "contributor": "",
           "display": "ザッ",
-          "source": "my_s-ranked_daughter"
+          "contributor": ""
         },
         {
+          "source": "way_of_the_house_husband",
           "file": "za-3b",
-          "contributor": "",
           "display": "ザッ",
-          "source": "way_of_the_house_husband"
+          "contributor": ""
         }
       ]
     }
-  ],
-  "literal": "za"
+  ]
 }

@@ -1,22 +1,30 @@
 {
-  "hiragana": ["ざしゅ"],
-  "katakana": ["ザシュ"],
-  "definition": [{
-    "equivalent": [
-      "cleave",
-      "cut",
-      "slash",
-      "slice"
-    ],
-    "refer": "",
-    "meaning": "a fast, heavy cut, as with a sword or knife",
-    "type": "",
-    "example": [{
-      "file": "zashu-1a",
-      "contributor": "",
-      "display": "ザシュ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
-  "literal": "zashu"
+  "literal": "zashu",
+  "katakana": [
+    "ザシュ"
+  ],
+  "hiragana": [
+    "ざしゅ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "a swift, forceful slash",
+      "equivalent": [
+        "cleave",
+        "cut",
+        "slash",
+        "slice"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "zashu-1a",
+          "display": "ザシュ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

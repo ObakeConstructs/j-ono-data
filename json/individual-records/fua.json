@@ -1,19 +1,13 @@
 {
   "hiragana": [
     "ふあ",
-    "ふぁ",
     "ふああ",
-    "ふぁぁ",
-    "ふあああ",
-    "ふぁぁぁ"
+    "ふあああ"
   ],
   "katakana": [
     "フア",
-    "ファ",
     "フアア",
-    "ファァ",
-    "フアアア",
-    "ファァァ"
+    "フアアア"
   ],
   "definition": [{
     "equivalent": [
@@ -22,7 +16,7 @@
       "yawn"
     ],
     "refer": "",
-    "meaning": "a wide open-mouth yawn, expressing tiredness or boredom",
+    "meaning": "a wide open-mouth yawn",
     "type": "v",
     "example": [
       {
@@ -36,6 +30,12 @@
         "contributor": "",
         "display": "ふあー..",
         "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "fua-1c",
+        "contributor": "",
+        "display": "ふああ\u2026",
+        "source": "world_full_of_monsters"
       }
     ]
   }],

@@ -1,41 +1,45 @@
 {
-  "hiragana": [
-    "ゔん",
-    "ゔんっ"
-  ],
+  "literal": "vun",
   "katakana": [
     "ヴン",
     "ヴンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "fwoom",
-      "voom",
-      "whoom"
-    ],
-    "refer": "",
-    "meaning": "the sound of some sort of magic taking effect or causing something to appear",
-    "type": "",
-    "example": [
-      {
-        "file": "vun-1a",
-        "contributor": "",
-        "display": "ヴン\u2026!",
-        "source": "hello_work"
-      },
-      {
-        "file": "vun-1b",
-        "contributor": "",
-        "display": "ヴン",
-        "source": "kuma_kuma_kuma_bear"
-      },
-      {
-        "file": "vun-1c",
-        "contributor": "",
-        "display": "ヴンッ",
-        "source": "isekai_territory_reform"
-      }
-    ]
-  }],
-  "literal": "vun"
+  "hiragana": [
+    "ゔん",
+    "ゔんっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "short rush of energy or power",
+      "equivalent": [
+        "fwoom",
+        "hum",
+        "voom",
+        "whoom",
+        "whoosh"
+      ],
+      "example": [
+        {
+          "source": "hello_work",
+          "file": "vun-1a",
+          "display": "ヴン…!",
+          "contributor": ""
+        },
+        {
+          "source": "kuma_kuma_kuma_bear",
+          "file": "vun-1b",
+          "display": "ヴン",
+          "contributor": ""
+        },
+        {
+          "source": "isekai_territory_reform",
+          "file": "vun-1c",
+          "display": "ヴンッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

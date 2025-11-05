@@ -451,13 +451,13 @@
           "file": "bachin-1a",
           "contributor": "",
           "display": "バチン",
-          "source": "cheat_pharmacist"
+          "source": "way_of_the_house_husband"
         },
         {
           "file": "bachin-1b",
           "contributor": "",
           "display": "バチン",
-          "source": "way_of_the_house_husband"
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -5249,35 +5249,6 @@
   },
   {
     "hiragana": [
-      "ふぁ",
-      "ふぁぁ",
-      "ふああ"
-    ],
-    "katakana": [
-      "ファ",
-      "ファァ",
-      "フアア"
-    ],
-    "definition": [{
-      "equivalent": [
-        "huff",
-        "whaa",
-        "yawn"
-      ],
-      "refer": "",
-      "meaning": "a deep breath or yawn, expressing tiredness or boredom",
-      "type": "v",
-      "example": [{
-        "file": "faa-1a",
-        "contributor": "",
-        "display": "ふああ\u2026",
-        "source": "world_full_of_monsters"
-      }]
-    }],
-    "literal": "faa"
-  },
-  {
-    "hiragana": [
       "ふぁさ",
       "ふぁさぁ",
       "ふぁさぁぁ"
@@ -5494,19 +5465,13 @@
   {
     "hiragana": [
       "ふあ",
-      "ふぁ",
       "ふああ",
-      "ふぁぁ",
-      "ふあああ",
-      "ふぁぁぁ"
+      "ふあああ"
     ],
     "katakana": [
       "フア",
-      "ファ",
       "フアア",
-      "ファァ",
-      "フアアア",
-      "ファァァ"
+      "フアアア"
     ],
     "definition": [{
       "equivalent": [
@@ -5515,7 +5480,7 @@
         "yawn"
       ],
       "refer": "",
-      "meaning": "a wide open-mouth yawn, expressing tiredness or boredom",
+      "meaning": "a wide open-mouth yawn",
       "type": "v",
       "example": [
         {
@@ -5529,6 +5494,12 @@
           "contributor": "",
           "display": "ふあー..",
           "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "fua-1c",
+          "contributor": "",
+          "display": "ふああ\u2026",
+          "source": "world_full_of_monsters"
         }
       ]
     }],
@@ -23734,8 +23705,8 @@
         "woof"
       ],
       "refer": "",
-      "meaning": "the gruff barking sound of a dog or a wolf",
-      "type": "",
+      "meaning": "short clear bark, usually friendly",
+      "type": "v",
       "example": [
         {
           "file": "wan-1a",
@@ -23759,13 +23730,14 @@
     "definition": [{
       "equivalent": [
         "quiver",
+        "shake",
         "shiver",
         "shudder",
         "tremble"
       ],
       "refer": "",
-      "meaning": "an indication of trembling, typically from fear",
-      "type": "",
+      "meaning": "trembling response to strong emotion, as of fear, anger, or shock",
+      "type": "e",
       "example": [{
         "file": "wana_wana-1a",
         "contributor": "",
@@ -23782,14 +23754,17 @@
       "equivalent": [
         "alarm",
         "concern",
-        "dread",
-        "panic",
-        "qualm",
+        "flustered",
+        "frantic",
+        "frazzled",
+        "panicked",
+        "rushing about",
+        "scrambling",
         "wave"
       ],
       "refer": "",
-      "meaning": "an expression of panic or mistake, often with waving of hands",
-      "type": "",
+      "meaning": "flustered or frantic movement due to panic, confusion, or being overwhelmed",
+      "type": "m",
       "example": [{
         "file": "wata_wata-1a",
         "contributor": "",
@@ -23819,8 +23794,8 @@
         "wobble"
       ],
       "refer": "",
-      "meaning": "unsteady or awkward movement",
-      "type": "",
+      "meaning": "a brief stumble or unsteady movement",
+      "type": "m",
       "example": [
         {
           "file": "yoro-1a",
@@ -23846,16 +23821,18 @@
         "careen",
         "clumsy",
         "lurch",
+        "shaky",
         "shuffle",
         "stagger",
         "sway",
         "totter",
         "unsteady",
-        "waddle"
+        "waddle",
+        "weak"
       ],
       "refer": "",
-      "meaning": "an indication of unsteadiness or clumsiness",
-      "type": "",
+      "meaning": "unsteady movement, typically shaky or weak",
+      "type": "m",
       "example": [
         {
           "file": "yota_yota-1a",
@@ -23894,8 +23871,8 @@
         "wobble"
       ],
       "refer": "",
-      "meaning": "an indication of moving unsteadily",
-      "type": "",
+      "meaning": "brief sway or lurch, as from dizziness or shock",
+      "type": "m",
       "example": [
         {
           "file": "yura-1a",
@@ -23918,13 +23895,16 @@
     "katakana": ["ユサユサ"],
     "definition": [{
       "equivalent": [
-        "shake",
+        "back-and-forth",
         "move",
-        "push"
+        "push",
+        "shake",
+        "side-to-side",
+        "sway"
       ],
       "refer": "",
-      "meaning": "an indication of moving something to and fro",
-      "type": "",
+      "meaning": "rhythmic swaying or shaking, typically intentional or forceful ",
+      "type": "m",
       "example": [{
         "file": "yusa_yusa-1a",
         "contributor": "",
@@ -23969,11 +23949,13 @@
           "hss",
           "rain",
           "shaa",
+          "shower",
+          "sprinkle",
           "sss"
         ],
         "refer": "",
-        "meaning": "the soft sound of rain or a shower",
-        "type": "",
+        "meaning": "rain or shower",
+        "type": "o",
         "example": [
           {
             "file": "za-1a",
@@ -23998,16 +23980,14 @@
       {
         "equivalent": [
           "crunch",
-          "crush",
+          "footstep",
           "step",
-          "stomp",
           "tap",
-          "tread",
-          "walk"
+          "tread"
         ],
         "refer": "",
-        "meaning": "the sound of someone taking a step or stomping",
-        "type": "",
+        "meaning": "a sharp or crisp footstep",
+        "type": "o",
         "example": [
           {
             "file": "za-2a",
@@ -24025,19 +24005,19 @@
       },
       {
         "equivalent": [
-          "bolt",
-          "charge",
-          "dash",
-          "hurry",
-          "pelt",
-          "run",
-          "rush",
-          "sprint",
+          "fast",
+          "quick",
+          "rapid",
+          "swift",
+          "swish",
+          "voom",
+          "whoosh",
+          "zip",
           "zoom"
         ],
         "refer": "",
-        "meaning": "an indication or  sound of someone moving very fast",
-        "type": "",
+        "meaning": "fast movement, typically sudden or decisive ",
+        "type": "m",
         "example": [
           {
             "file": "za-3a",
@@ -24067,6 +24047,7 @@
     ],
     "definition": [{
       "equivalent": [
+        "fwoosh",
         "gush",
         "jet",
         "slosh",
@@ -24077,8 +24058,8 @@
         "swash"
       ],
       "refer": "",
-      "meaning": "a medium to large splashing sound",
-      "type": "",
+      "meaning": "strong splash or burst of water",
+      "type": "o",
       "example": [{
         "file": "zaba-1a",
         "contributor": "",
@@ -24109,8 +24090,8 @@
         "swash"
       ],
       "refer": "",
-      "meaning": "medium to large splashing sounds",
-      "type": "",
+      "meaning": "strong splashing or bursts of water",
+      "type": "o",
       "example": [{
         "file": "zaba_zaba-1a",
         "contributor": "",
@@ -24136,18 +24117,9 @@
       "ザブゥゥ"
     ],
     "definition": [{
-      "equivalent": [
-        "gush",
-        "jet",
-        "slosh",
-        "spew",
-        "splash",
-        "sploosh",
-        "spout",
-        "swash"
-      ],
-      "refer": "",
-      "meaning": "a large splashing sound",
+      "equivalent": [""],
+      "refer": "zaba:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "zabu-1a",
@@ -24168,18 +24140,9 @@
       "ザブーン"
     ],
     "definition": [{
-      "equivalent": [
-        "gush",
-        "jet",
-        "slosh",
-        "spew",
-        "splash",
-        "sploosh",
-        "spout",
-        "swash"
-      ],
-      "refer": "",
-      "meaning": "a large splashing sound",
+      "equivalent": [""],
+      "refer": "zaba:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "zabun-1a",
@@ -24201,15 +24164,17 @@
     ],
     "definition": [{
       "equivalent": [
+        "cut",
         "impale",
         "jab",
         "pierce",
         "skewer",
+        "slice",
         "stab"
       ],
       "refer": "",
-      "meaning": "the sound of something pointed or sharp penetrating something soft or squishy",
-      "type": "",
+      "meaning": "solid stabbing or cutting impact",
+      "type": "o",
       "example": [{
         "file": "zaku-1a",
         "contributor": "",
@@ -24236,8 +24201,8 @@
         "slice"
       ],
       "refer": "",
-      "meaning": "a hard fast cut, as with a sword or knife",
-      "type": "",
+      "meaning": "sharp, decisive slice, typically with a blade",
+      "type": "o",
       "example": [
         {
           "file": "zan-1a",
@@ -24271,14 +24236,9 @@
       "ザッパーン"
     ],
     "definition": [{
-      "equivalent": [
-        "splash",
-        "fwoosh",
-        "swash",
-        "slosh"
-      ],
-      "refer": "",
-      "meaning": "a large splashing sound",
+      "equivalent": [""],
+      "refer": "zaba:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "zappon-1a",
@@ -24300,14 +24260,14 @@
     ],
     "definition": [{
       "equivalent": [
+        "clash",
         "grind",
         "rasp",
-        "scrape",
-        "clash"
+        "scrape"
       ],
       "refer": "",
-      "meaning": "a loud scrape or grinding noise",
-      "type": "",
+      "meaning": "harsh scraping or grinding, often gritty",
+      "type": "o",
       "example": [{
         "file": "zari_zari-1a",
         "contributor": "",
@@ -24332,16 +24292,19 @@
     ],
     "definition": [{
       "equivalent": [
-        "gush",
-        "jet",
-        "splash",
-        "sploosh",
-        "spout",
+        "hiss",
+        "rush",
+        "rustle",
+        "shaa",
+        "surf",
+        "swish",
+        "swoosh",
+        "whish",
         "whoosh"
       ],
       "refer": "",
-      "meaning": "a loud sound of continuously flowing water",
-      "type": "",
+      "meaning": "hissing, rustling, or rushing sound of moving through water or tall plants",
+      "type": "o",
       "example": [{
         "file": "zasa-1a",
         "contributor": "",
@@ -24362,15 +24325,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "splat",
-        "squash",
-        "flump",
-        "flop",
-        "shaa"
+        "crunch",
+        "fall",
+        "gritty",
+        "land",
+        "rasp",
+        "scrape",
+        "slide"
       ],
       "refer": "",
-      "meaning": "the sound of an ungraceful landing",
-      "type": "",
+      "meaning": "a sliding, scraping, or gritty landing",
+      "type": "o",
       "example": [{
         "file": "zasha-1a",
         "contributor": "",
@@ -24391,8 +24356,8 @@
         "slice"
       ],
       "refer": "",
-      "meaning": "a fast, heavy cut, as with a sword or knife",
-      "type": "",
+      "meaning": "a swift, forceful slash",
+      "type": "o",
       "example": [{
         "file": "zashu-1a",
         "contributor": "",
@@ -24417,18 +24382,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "dumfounded",
         "amazed",
-        "astonished",
+        "dread",
         "flabbergasted",
         "shock",
-        "stun",
-        "surprise",
-        "gasp"
+        "stunned",
+        "tense",
+        "uneasy"
       ],
       "refer": "",
-      "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
-      "type": "",
+      "meaning": "a tense, uneasy, or shocked crowd",
+      "type": "e",
       "example": [
         {
           "file": "zawa-1a",
@@ -24461,8 +24425,8 @@
           "ruckus"
         ],
         "refer": "",
-        "meaning": "the inharmonious sound of multiple people whispering or talking simultaneously",
-        "type": "",
+        "meaning": "murmur or chatter of a crowd",
+        "type": "o",
         "example": [
           {
             "file": "zawa_zawa-1a",
@@ -24485,18 +24449,9 @@
         ]
       },
       {
-        "equivalent": [
-          "dumfounded",
-          "amazed",
-          "astonished",
-          "flabbergasted",
-          "shock",
-          "stun",
-          "surprise",
-          "gasp"
-        ],
-        "refer": "",
-        "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
+        "equivalent": [""],
+        "refer": "zawa:1",
+        "meaning": "",
         "type": "",
         "example": [{
           "file": "zawa_zawa-2a",
@@ -24518,14 +24473,9 @@
       "ザザーン"
     ],
     "definition": [{
-      "equivalent": [
-        "sha-shaa",
-        "shaa",
-        "surf",
-        "waves"
-      ],
-      "refer": "",
-      "meaning": "the sound of moving water or waves",
+      "equivalent": [""],
+      "refer": "za:2",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "zazan-1a",
@@ -24556,15 +24506,12 @@
     "definition": [
       {
         "equivalent": [
-          "crunch",
-          "crush",
-          "step",
-          "stomp",
-          "stroll",
+          "hike",
+          "stalk",
           "walk"
         ],
-        "refer": "",
-        "meaning": "sound of someone stepping or walking",
+        "refer": "za:2",
+        "meaning": "",
         "type": "",
         "example": [
           {
@@ -24593,35 +24540,43 @@
           "gush",
           "pour",
           "pssh",
-          "shaa",
           "splash",
           "sploosh",
-          "spray",
+          "spray"
+        ],
+        "refer": "",
+        "meaning": "gushing or streaming water",
+        "type": "o",
+        "example": [{
+          "file": "za_za-2a",
+          "contributor": "",
+          "display": "ザザザザ",
+          "source": "blazing_fire_brigade"
+        }]
+      },
+      {
+        "equivalent": [
+          "sha-shaa",
+          "shaa",
+          "splash",
           "surf",
-          "swash",
           "waves"
         ],
         "refer": "",
-        "meaning": "the sound of moving water or waves",
-        "type": "",
+        "meaning": "rhythmic surf or waves, typically breaking against rocks or shoreline",
+        "type": "o",
         "example": [
           {
-            "file": "za_za-2a",
-            "contributor": "",
-            "display": "ザザ..",
-            "source": "buy_the_land"
-          },
-          {
-            "file": "za_za-2b",
-            "contributor": "",
-            "display": "ザザザザ",
-            "source": "blazing_fire_brigade"
-          },
-          {
-            "file": "za_za-2c",
+            "file": "za_za-3a",
             "contributor": "",
             "display": "ザザァ\u2026",
             "source": "sex_with_me_sells"
+          },
+          {
+            "file": "za_za-3b",
+            "contributor": "",
+            "display": "ザザ..",
+            "source": "buy_the_land"
           }
         ]
       }

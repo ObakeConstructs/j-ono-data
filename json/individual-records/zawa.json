@@ -1,44 +1,45 @@
 {
-  "hiragana": [
-    "ざわ",
-    "ざゎ",
-    "ざわっ",
-    "ざゎっ"
-  ],
+  "literal": "zawa",
   "katakana": [
     "ザワ",
     "ザヮ",
     "ザワッ",
     "ザヮッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "dumfounded",
-      "amazed",
-      "astonished",
-      "flabbergasted",
-      "shock",
-      "stun",
-      "surprise",
-      "gasp"
-    ],
-    "refer": "",
-    "meaning": "the expression or sound of multiple people reacting to shock, surprise, or wonder",
-    "type": "",
-    "example": [
-      {
-        "file": "zawa-1a",
-        "contributor": "",
-        "display": "ざわ",
-        "source": "requiem_for_prophet"
-      },
-      {
-        "file": "zawa-1b",
-        "contributor": "",
-        "display": "ざゎっ",
-        "source": "shogun_gold_in_america"
-      }
-    ]
-  }],
-  "literal": "zawa"
+  "hiragana": [
+    "ざわ",
+    "ざゎ",
+    "ざわっ",
+    "ざゎっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "e",
+      "meaning": "a tense, uneasy, or shocked crowd",
+      "equivalent": [
+        "amazed",
+        "dread",
+        "flabbergasted",
+        "shock",
+        "stunned",
+        "tense",
+        "uneasy"
+      ],
+      "example": [
+        {
+          "source": "requiem_for_prophet",
+          "file": "zawa-1a",
+          "display": "ざわ",
+          "contributor": ""
+        },
+        {
+          "source": "shogun_gold_in_america",
+          "file": "zawa-1b",
+          "display": "ざゎっ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

@@ -1,39 +1,41 @@
 {
-  "hiragana": [
-    "よろ",
-    "よろっ"
-  ],
+  "literal": "yoro",
   "katakana": [
     "ヨロ",
     "ヨロッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "lurch",
-      "reel",
-      "shake",
-      "stagger",
-      "sway",
-      "teeter",
-      "wobble"
-    ],
-    "refer": "",
-    "meaning": "unsteady or awkward movement",
-    "type": "",
-    "example": [
-      {
-        "file": "yoro-1a",
-        "contributor": "",
-        "display": "ヨロッ",
-        "source": "world_full_of_monsters"
-      },
-      {
-        "file": "yoro-1b",
-        "contributor": "",
-        "display": "ヨロッ",
-        "source": "ai_and_izawa"
-      }
-    ]
-  }],
-  "literal": "yoro"
+  "hiragana": [
+    "よろ",
+    "よろっ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "a brief stumble or unsteady movement",
+      "equivalent": [
+        "lurch",
+        "reel",
+        "shake",
+        "stagger",
+        "sway",
+        "teeter",
+        "wobble"
+      ],
+      "example": [
+        {
+          "source": "world_full_of_monsters",
+          "file": "yoro-1a",
+          "display": "ヨロッ",
+          "contributor": ""
+        },
+        {
+          "source": "ai_and_izawa",
+          "file": "yoro-1b",
+          "display": "ヨロッ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

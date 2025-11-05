@@ -1,21 +1,32 @@
 {
-  "hiragana": ["ゆさゆさ"],
-  "katakana": ["ユサユサ"],
-  "definition": [{
-    "equivalent": [
-      "shake",
-      "move",
-      "push"
-    ],
-    "refer": "",
-    "meaning": "an indication of moving something to and fro",
-    "type": "",
-    "example": [{
-      "file": "yusa_yusa-1a",
-      "contributor": "",
-      "display": "ゆさ ゆさ",
-      "source": "35_year_olds_choice"
-    }]
-  }],
-  "literal": "yusa yusa"
+  "literal": "yusa yusa",
+  "katakana": [
+    "ユサユサ"
+  ],
+  "hiragana": [
+    "ゆさゆさ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "m",
+      "meaning": "rhythmic swaying or shaking, typically intentional or forceful ",
+      "equivalent": [
+        "back-and-forth",
+        "move",
+        "push",
+        "shake",
+        "side-to-side",
+        "sway"
+      ],
+      "example": [
+        {
+          "source": "35_year_olds_choice",
+          "file": "yusa_yusa-1a",
+          "display": "ゆさ ゆさ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

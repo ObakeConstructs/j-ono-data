@@ -1,32 +1,36 @@
 {
-  "hiragana": [
-    "ざばざば",
-    "ざばざばぁ"
-  ],
+  "literal": "zaba zaba",
   "katakana": [
     "ザバザバ",
     "ザバザバァ"
   ],
-  "definition": [{
-    "equivalent": [
-      "gush",
-      "jet",
-      "slosh",
-      "spew",
-      "splash",
-      "sploosh",
-      "spout",
-      "swash"
-    ],
-    "refer": "",
-    "meaning": "medium to large splashing sounds",
-    "type": "",
-    "example": [{
-      "file": "zaba_zaba-1a",
-      "contributor": "",
-      "display": "ザバ ザバ ザバ ザバ ザバ ザバ",
-      "source": "kaijuu_sdf"
-    }]
-  }],
-  "literal": "zaba zaba"
+  "hiragana": [
+    "ざばざば",
+    "ざばざばぁ"
+  ],
+  "definition": [
+    {
+      "refer": "",
+      "type": "o",
+      "meaning": "strong splashing or bursts of water",
+      "equivalent": [
+        "gush",
+        "jet",
+        "slosh",
+        "spew",
+        "splash",
+        "sploosh",
+        "spout",
+        "swash"
+      ],
+      "example": [
+        {
+          "source": "kaijuu_sdf",
+          "file": "zaba_zaba-1a",
+          "display": "ザバ ザバ ザバ ザバ ザバ ザバ",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }

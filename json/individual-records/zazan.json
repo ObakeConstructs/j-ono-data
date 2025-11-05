@@ -1,28 +1,27 @@
 {
-  "hiragana": [
-    "ざざん",
-    "ざざーん"
-  ],
+  "literal": "zazan",
   "katakana": [
     "ザザン",
     "ザザーン"
   ],
-  "definition": [{
-    "equivalent": [
-      "sha-shaa",
-      "shaa",
-      "surf",
-      "waves"
-    ],
-    "refer": "",
-    "meaning": "the sound of moving water or waves",
-    "type": "",
-    "example": [{
-      "file": "zazan-1a",
-      "contributor": "",
-      "display": "ザザーン",
-      "source": "buy_the_land"
-    }]
-  }],
-  "literal": "zazan"
+  "hiragana": [
+    "ざざん",
+    "ざざーん"
+  ],
+  "definition": [
+    {
+      "refer": "za:2",
+      "type": "",
+      "meaning": "",
+      "equivalent": [""],
+      "example": [
+        {
+          "source": "buy_the_land",
+          "file": "zazan-1a",
+          "display": "ザザーン",
+          "contributor": ""
+        }
+      ]
+    }
+  ]
 }
