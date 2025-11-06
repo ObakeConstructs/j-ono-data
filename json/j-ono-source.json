@@ -1,81 +1,5 @@
 [
   {
-    "publisher_name": "KODANSHA Ltd.",
-    "site": "https://www.kodansha.co.jp",
-    "sources": [
-      {
-      "id": "abandoned_reincarnation_sage",
-      "manga": "Suterareta Tensei Kenja"
-      },
-      {
-        "id": "marginal_taylor",
-        "manga": "Marginal Taylor"
-      },
-      {
-        "id": "weakest_occupation_blacksmith",
-        "manga": "Fuguushoku \"Kajishi\" dakedo Saikyou desu"
-      },
-      {
-        "id": "blazing_fire_brigade",
-        "manga": "Enen no Shouboutai"
-      }
-    ]
-  },
-  {
-    "publisher_name": "SHUEISHA Inc.",
-    "site": "https://www.shueisha.co.jp",
-    "sources": [
-      {
-        "id": "bungo",
-        "manga": "Bungo"
-      },
-      {
-        "id": "hikaro_no_go",
-        "manga": "Hikaru no Go"
-      },
-      {
-        "id": "spy_x_family",
-        "manga": "Spy x Family"
-      },
-      {
-        "id": "berserk",
-        "manga": "Berserk"
-      }
-    ]
-  },
-  {
-    "publisher_name": "KADOKAWA Corp.",
-    "site": "https://www.kadokawa.co.jp",
-    "sources": [
-      {
-        "id": "d_genesis",
-        "manga": "D Genesis: Dungeon ga Dekite 3-nen"
-      },
-      {
-        "id": "different_world_smartphone",
-        "manga": "Isekai wa Smartphone to Tomo ni"
-      },
-      {
-        "id": "reincarnated_sage_daughters",
-        "manga": "Tensei Kenja wa Musume to Kurasu"
-      }
-    ]
-  },
-  {
-    "publisher_name": "MICRO MAGAZINE, Inc.",
-    "site": "https://micromagazine.co.jp",
-    "sources": [
-      {
-        "id": "dog_became_strongest",
-        "manga": "Isekai Tensei Shitara Aiken ga Saikyou ni Narimashita"
-      },
-      {
-        "id": "rise_of_the_outlaw_tamer",
-        "manga": "Dappou Tamer no Nariagari Boukentan"
-      }
-    ]
-  },
-  {
     "publisher_name": "AKITA PUBLISHING Co., Ltd.",
     "site": "https://www.akitashoten.co.jp",
     "sources": [
@@ -97,6 +21,173 @@
       }
     ]
   },
+
+  {
+    "publisher_name": "AlphaPolis Co., Ltd.",
+    "site": "https://www.alphapolis.co.jp",
+    "sources": [
+      {
+        "id": "otherworld_material_collector",
+        "manga": "Souzai Saishuka no Isekai Ryokouki"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "Coamix Inc.",
+    "site": "https://www.coamix.co.jp",
+    "sources": [
+      {
+        "id": "strongest_thread_master",
+        "manga": "Saikyou no Ito Tsukai wa Fukushuu no Shinigami ni Naru"
+      },
+      {
+        "id": "isekai_territory_reform",
+        "manga": "Isekai Ryochi Kaikaku"
+      },      
+      {
+        "id": "sex_with_me_sells",
+        "manga": "Ore to Sex Sureba Ureru"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "EARTH STAR Entertainment",
+    "site": "https://www.earthstar.co.jp",
+    "sources": [
+      {
+        "id": "eternal_fool_asley",
+        "manga": "Yuukyuu no Gusha Asley no, Kenja no Susume"
+      },
+      {
+        "id": "reincarnated_as_a_dragon_egg",
+        "manga": "Tensei Shitara Dragon no Tamago Datta"
+      },
+      {
+        "id": "my_s-ranked_daughter",
+        "manga": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "Frontier Works Inc.",
+    "site": "https://comic-ragchew.jp/comics/levelup/",
+    "sources": [
+      {
+        "id": "world_full_of_zombies",
+        "manga": "Zombie no Afureta Sekai Ore Dake ga Osowarenai"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "Futabasha Ltd.",
+    "site": "https://www.futabasha.co.jp/comic",
+    "sources": [
+      {
+        "id": "a_rank_slow_life",
+        "manga": "A-Rank Boukensha no Slow Life"
+      },
+      {
+        "id": "strongest_magician_was_human",
+        "manga": "Maou Gun Saikyou no Majutsushi wa Ningen datta"
+      },
+      {
+        "id": "peter_grill",
+        "manga": "Peter Grill to Kenja no Jikan"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "Gentosha Inc.",
+    "site": "http://www.gentosha-comics.net",
+    "sources": [
+      {
+        "id": "killed_by_gods_mistake",
+        "manga": "Kami no Techigai de Shindara Zumi de Isekai ni Hourikomare Mashita"
+      },
+      {
+        "id": "buy_the_land",
+        "manga": "Isekai de Tochi o Katte Noujou o Tsukurou"
+      },
+      {
+        "id": "requiem_for_prophet",
+        "manga": "Yogensha kara no Requiem"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "HAKUSENSHA",
+    "site": "https://www.hakusensha.co.jp/comicslist/",
+    "sources": [
+      {
+        "id": "s_rank_behemoth",
+        "manga": "S-Rank Monster no “Behemoth” Dakedo"
+      },
+      {
+        "id": "rock_n_roll_ladies",
+        "manga": "Rock wa Shukujo no Tashinami de shite"
+      },
+      {
+        "id": "embarrassing_and_sweet",
+        "manga": "Hazukashikutte Amai Koto"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "HIFUMI SHOBO",
+    "site": "https://www.123hon.com/nova/web-comic/",
+    "sources": [
+      {
+        "id": "35_year_olds_choice",
+        "manga": "35-sai No Sentaku: Isekai Tensei O Eranda Baai"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "HOBBY JAPAN",
+    "site": "https://firecross.jp/comic",
+    "sources": [
+      {
+        "id": "way_of_isekai_cooking",
+        "manga": "Isekai Ryouridou"
+      },
+      {
+        "id": "saga_lagging_hero",
+        "manga": "Gal to Dungeon to Shuukai Okure no Tansaku Eiyuutan"
+      },
+      {
+        "id": "isekai_sniper",
+        "manga": "Magan to Dangan o Tsukatte Isekai o Buchinuku!"
+      }      
+    ]
+  },
+
+  {
+    "publisher_name": "KADOKAWA Corp.",
+    "site": "https://www.kadokawa.co.jp",
+    "sources": [
+      {
+        "id": "d_genesis",
+        "manga": "D Genesis: Dungeon ga Dekite 3-nen"
+      },
+      {
+        "id": "different_world_smartphone",
+        "manga": "Isekai wa Smartphone to Tomo ni"
+      },
+      {
+        "id": "reincarnated_sage_daughters",
+        "manga": "Tensei Kenja wa Musume to Kurasu"
+      }
+    ]
+  },
+
   {
     "publisher_name": "KILL TIME COMMUNICATION PUBLISHING Co.",
     "site": "https://www.ktcom.jp",
@@ -111,74 +202,30 @@
       }
     ]
   },
+
   {
-    "publisher_name": "Shogakukan Inc.",
-    "site": "https://www.shogakukan.co.jp/comics",
+    "publisher_name": "KODANSHA Ltd.",
+    "site": "https://www.kodansha.co.jp",
     "sources": [
       {
-        "id": "komi_cant_communicate",
-        "manga": "Komi-san wa Komyushou Desu"
+      "id": "abandoned_reincarnation_sage",
+      "manga": "Suterareta Tensei Kenja"
       },
       {
-        "id": "isekai_pickup",
-        "manga": "Isekai Nanpa"
+        "id": "marginal_taylor",
+        "manga": "Marginal Taylor"
       },
       {
-        "id": "pokemon_xy_break",
-        "manga": "Pokemon Card Game XY BREAK yarou ze〜tsu"
+        "id": "weakest_occupation_blacksmith",
+        "manga": "Fuguushoku \"Kajishi\" dakedo Saikyou desu"
+      },
+      {
+        "id": "blazing_fire_brigade",
+        "manga": "Enen no Shouboutai"
       }
     ]
   },
-  {
-    "publisher_name": "SHUFU TO SEIKATSU SHA CO., LTD.",
-    "site": "https://www.shufu.co.jp",
-    "sources": [
-      {
-        "id": "kuma_kuma_kuma_bear",
-        "manga": "Kuma Kuma Kuma Bear"
-      },
-      {
-        "id": "simple_sword_saint",
-        "manga": "Jimi na Kensei wa Sore Demo Saikyou Desu"
-      },
-      {
-        "id": "uncle_at_heart",
-        "manga": "Watashi no Kokoro wa Oji-san de Aru"
-      }
-    ]
-  },
-  {
-    "publisher_name": "OVERLAP, Inc.",
-    "site": "https://over-lap.co.jp",
-    "sources": [
-      {
-        "id": "modern_dungeon_capture",
-        "manga": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
-      },
-      {
-        "id": "strongest_failure_frame",
-        "manga": "Hazure Waku no [Joutai Ijou Skill] de Saikyou..."
-      },
-      {
-        "id": "hero_or_demon_king",
-        "manga": "Ikitsuku saki wa yūsha ka maō ka moto hai pureiyā ga sei ku i sekai kōryaku-ki"
-      },
-      {
-        "id": "fushi_no_kami",
-        "manga": "Fushi no Kami: Henkyou kara Hajimeru Bunmei Saiseiki"
-      }
-    ]
-  },
-  {
-    "publisher_name": "AlphaPolis Co., Ltd.",
-    "site": "https://www.alphapolis.co.jp",
-    "sources": [
-      {
-        "id": "otherworld_material_collector",
-        "manga": "Souzai Saishuka no Isekai Ryokouki"
-      }
-    ]
-  },
+
   {
     "publisher_name": "MAG Garden Corp.",
     "site": "https://www.mag-garden.co.jp",
@@ -193,6 +240,37 @@
       }
     ]
   },
+
+  {
+    "publisher_name": "MICRO MAGAZINE, Inc.",
+    "site": "https://micromagazine.co.jp",
+    "sources": [
+      {
+        "id": "dog_became_strongest",
+        "manga": "Isekai Tensei Shitara Aiken ga Saikyou ni Narimashita"
+      },
+      {
+        "id": "rise_of_the_outlaw_tamer",
+        "manga": "Dappou Tamer no Nariagari Boukentan"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "NIHONBUNGEISHA",
+    "site": "http://www.nihonbungeisha.co.jp",
+    "sources": [
+      {
+        "id": "double_play",
+        "manga": "Double Play (だぶるぷれい)"
+      },
+      {
+        "id": "gyaru_academy",
+        "manga": "Burakku Gakkou ni Tsutomete Shimatta Sensei"
+      }
+    ]
+  },
+
   {
     "publisher_name": "No9, Inc",
     "site": "https://corp.no9.co.jp/comics",
@@ -215,156 +293,30 @@
       }
     ]
   },
+
   {
-    "publisher_name": "SQUARE ENIX",
-    "site": "https://www.jp.square-enix.com",
+    "publisher_name": "OVERLAP, Inc.",
+    "site": "https://over-lap.co.jp",
     "sources": [
       {
-        "id": "world_full_of_monsters",
-        "manga": "Monster ga Afureru Sekai ni Natta Node"
+        "id": "modern_dungeon_capture",
+        "manga": "Koware Skill de Hajimeru Gendai Dungeon Kouryaku"
+      },
+      {
+        "id": "strongest_failure_frame",
+        "manga": "Hazure Waku no [Joutai Ijou Skill] de Saikyou..."
+      },
+      {
+        "id": "hero_or_demon_king",
+        "manga": "Ikitsuku saki wa yūsha ka maō ka moto hai pureiyā ga sei ku i sekai kōryaku-ki"
+      },
+      {
+        "id": "fushi_no_kami",
+        "manga": "Fushi no Kami: Henkyou kara Hajimeru Bunmei Saiseiki"
       }
     ]
   },
-  {
-    "publisher_name": "HAKUSENSHA",
-    "site": "https://www.hakusensha.co.jp/comicslist/",
-    "sources": [
-      {
-        "id": "s_rank_behemoth",
-        "manga": "S-Rank Monster no “Behemoth” Dakedo"
-      },
-      {
-        "id": "rock_n_roll_ladies",
-        "manga": "Rock wa Shukujo no Tashinami de shite"
-      },
-      {
-        "id": "embarrassing_and_sweet",
-        "manga": "Hazukashikutte Amai Koto"
-      }
-    ]
-  },
-  {
-    "publisher_name": "Futabasha Ltd.",
-    "site": "https://www.futabasha.co.jp/comic",
-    "sources": [
-      {
-        "id": "a_rank_slow_life",
-        "manga": "A-Rank Boukensha no Slow Life"
-      },
-      {
-        "id": "strongest_magician_was_human",
-        "manga": "Maou Gun Saikyou no Majutsushi wa Ningen datta"
-      },
-      {
-        "id": "peter_grill",
-        "manga": "Peter Grill to Kenja no Jikan"
-      }
-    ]
-  },
-  {
-    "publisher_name": "Coamix Inc.",
-    "site": "https://www.coamix.co.jp",
-    "sources": [
-      {
-        "id": "strongest_thread_master",
-        "manga": "Saikyou no Ito Tsukai wa Fukushuu no Shinigami ni Naru"
-      },
-      {
-        "id": "isekai_territory_reform",
-        "manga": "Isekai Ryochi Kaikaku"
-      },      
-      {
-        "id": "sex_with_me_sells",
-        "manga": "Ore to Sex Sureba Ureru"
-      }
-    ]
-  },
-  {
-    "publisher_name": "EARTH STAR Entertainment",
-    "site": "https://www.earthstar.co.jp",
-    "sources": [
-      {
-        "id": "eternal_fool_asley",
-        "manga": "Yuukyuu no Gusha Asley no, Kenja no Susume"
-      },
-      {
-        "id": "reincarnated_as_a_dragon_egg",
-        "manga": "Tensei Shitara Dragon no Tamago Datta"
-      },
-      {
-        "id": "my_s-ranked_daughter",
-        "manga": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta"
-      }
-    ]
-  },
-  {
-    "publisher_name": "TAKESHOBO Co., Ltd.",
-    "site": "https://www.takeshobo.co.jp",
-    "sources": [
-      {
-        "id": "human_ranch",
-        "manga": "Ningen Bokujo"
-      },
-      {
-        "id": "cheat_pharmacist",
-        "manga": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
-      },
-      {
-        "id": "yojo_life",
-        "manga": "Youjo Life!"
-      }
-    ]
-  },
-  {
-    "publisher_name": "Gentosha Inc.",
-    "site": "http://www.gentosha-comics.net",
-    "sources": [
-      {
-        "id": "killed_by_gods_mistake",
-        "manga": "Kami no Techigai de Shindara Zumi de Isekai ni Hourikomare Mashita"
-      },
-      {
-        "id": "buy_the_land",
-        "manga": "Isekai de Tochi o Katte Noujou o Tsukurou"
-      },
-      {
-        "id": "requiem_for_prophet",
-        "manga": "Yogensha kara no Requiem"
-      }
-    ]
-  },
-  {
-    "publisher_name": "NIHONBUNGEISHA",
-    "site": "http://www.nihonbungeisha.co.jp",
-    "sources": [
-      {
-        "id": "double_play",
-        "manga": "Double Play (だぶるぷれい)"
-      },
-      {
-        "id": "gyaru_academy",
-        "manga": "Burakku Gakkou ni Tsutomete Shimatta Sensei"
-      }
-    ]
-  },
-  {
-    "publisher_name": "HOBBY JAPAN",
-    "site": "https://firecross.jp/comic",
-    "sources": [
-      {
-        "id": "way_of_isekai_cooking",
-        "manga": "Isekai Ryouridou"
-      },
-      {
-        "id": "saga_lagging_hero",
-        "manga": "Gal to Dungeon to Shuukai Okure no Tansaku Eiyuutan"
-      },
-      {
-        "id": "isekai_sniper",
-        "manga": "Magan to Dangan o Tsukatte Isekai o Buchinuku!"
-      }      
-    ]
-  },
+
   {
     "publisher_name": "SHINCHOSHA",
     "site": "https://comicbunch-kai.com/",
@@ -384,13 +336,94 @@
       
     ]
   },
+
   {
-    "publisher_name": "HIFUMI SHOBO",
-    "site": "https://www.123hon.com/nova/web-comic/",
+    "publisher_name": "Shogakukan Inc.",
+    "site": "https://www.shogakukan.co.jp/comics",
     "sources": [
       {
-        "id": "35_year_olds_choice",
-        "manga": "35-sai No Sentaku: Isekai Tensei O Eranda Baai"
+        "id": "komi_cant_communicate",
+        "manga": "Komi-san wa Komyushou Desu"
+      },
+      {
+        "id": "isekai_pickup",
+        "manga": "Isekai Nanpa"
+      },
+      {
+        "id": "pokemon_xy_break",
+        "manga": "Pokemon Card Game XY BREAK yarou ze〜tsu"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "SHUEISHA Inc.",
+    "site": "https://www.shueisha.co.jp",
+    "sources": [
+      {
+        "id": "bungo",
+        "manga": "Bungo"
+      },
+      {
+        "id": "hikaro_no_go",
+        "manga": "Hikaru no Go"
+      },
+      {
+        "id": "spy_x_family",
+        "manga": "Spy x Family"
+      },
+      {
+        "id": "berserk",
+        "manga": "Berserk"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "SHUFU TO SEIKATSU SHA CO., LTD.",
+    "site": "https://www.shufu.co.jp",
+    "sources": [
+      {
+        "id": "kuma_kuma_kuma_bear",
+        "manga": "Kuma Kuma Kuma Bear"
+      },
+      {
+        "id": "simple_sword_saint",
+        "manga": "Jimi na Kensei wa Sore Demo Saikyou Desu"
+      },
+      {
+        "id": "uncle_at_heart",
+        "manga": "Watashi no Kokoro wa Oji-san de Aru"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "SQUARE ENIX",
+    "site": "https://www.jp.square-enix.com",
+    "sources": [
+      {
+        "id": "world_full_of_monsters",
+        "manga": "Monster ga Afureru Sekai ni Natta Node"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "TAKESHOBO Co., Ltd.",
+    "site": "https://www.takeshobo.co.jp",
+    "sources": [
+      {
+        "id": "human_ranch",
+        "manga": "Ningen Bokujo"
+      },
+      {
+        "id": "cheat_pharmacist",
+        "manga": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore"
+      },
+      {
+        "id": "yojo_life",
+        "manga": "Youjo Life!"
       }
     ]
   }
