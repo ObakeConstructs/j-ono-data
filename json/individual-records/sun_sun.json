@@ -1,50 +1,44 @@
 {
-  "literal": "sun sun",
-  "katakana": [
-    "スンスン"
-  ],
-  "hiragana": [
-    "すんすん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "short, quick snuffing or sniffing sounds",
-      "equivalent": [
-        "scent",
-        "smell",
-        "sniff",
-        "snuff",
-        "snuffle",
-        "whiff"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "sun_sun-1a",
-          "display": "スン スン",
-          "contributor": ""
-        },
-        {
-          "source": "dog_became_strongest",
-          "file": "sun_sun-1b",
-          "display": "スン スン",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "sun_sun-1c",
-          "display": "スン スン",
-          "contributor": ""
-        },
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "sun_sun-1d",
-          "display": "すん すん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["すんすん"],
+  "katakana": ["スンスン"],
+  "definition": [{
+    "equivalent": [
+      "scent",
+      "smell",
+      "sniff",
+      "snuff",
+      "snuffle",
+      "whiff"
+    ],
+    "refer": "",
+    "meaning": "short, quick snuffing or sniffing sounds",
+    "type": "o",
+    "example": [
+      {
+        "file": "sun_sun-1a",
+        "contributor": "",
+        "display": "スン スン",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "sun_sun-1b",
+        "contributor": "",
+        "display": "スン スン",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "sun_sun-1c",
+        "contributor": "",
+        "display": "スン スン",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "sun_sun-1d",
+        "contributor": "",
+        "display": "すん すん",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "literal": "sun sun"
 }

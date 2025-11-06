@@ -13,15 +13,15 @@
         "bam",
         "crash",
         "shatter",
+        "skid",
         "slam",
+        "slide",
         "smash",
-        "thud",
-        "thump",
-        "whomp"
+        "thud"
       ],
       "refer": "",
-      "meaning": "the sound of a heavy or substantial impact",
-      "type": "",
+      "meaning": "sliding or skidding to a heavy crash",
+      "type": "o",
       "example": [{
         "file": "zusha-1a",
         "contributor": "",
@@ -40,8 +40,8 @@
         "threatening"
       ],
       "refer": "",
-      "meaning": "an imposing or heavy presence",
-      "type": "",
+      "meaning": "intimidating appearance of someone large or heavy",
+      "type": "e",
       "example": [{
         "file": "zusha-2a",
         "contributor": "",

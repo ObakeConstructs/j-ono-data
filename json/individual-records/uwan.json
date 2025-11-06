@@ -1,15 +1,4 @@
 {
-  "literal": "uwan",
-  "katakana": [
-    "ウワン",
-    "ウワーン",
-    "ウワァン",
-    "ウワァァン",
-    "ウワァァァン",
-    "ウワアン",
-    "ウワアアン",
-    "ウワアアアン"
-  ],
   "hiragana": [
     "うわん",
     "うわーん",
@@ -20,34 +9,43 @@
     "うわああん",
     "うわあああん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "crying or wailing loudly from pain or distress",
-      "equivalent": [
-        "bawl",
-        "cry",
-        "keen",
-        "shriek",
-        "squall",
-        "waah",
-        "wail"
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "uwan-1a",
-          "display": "うわぁぁぁん",
-          "contributor": ""
-        },
-        {
-          "source": "drawing",
-          "file": "uwan-1b",
-          "display": "うわーん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ウワン",
+    "ウワーン",
+    "ウワァン",
+    "ウワァァン",
+    "ウワァァァン",
+    "ウワアン",
+    "ウワアアン",
+    "ウワアアアン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bawl",
+      "cry",
+      "keen",
+      "shriek",
+      "squall",
+      "waah",
+      "wail"
+    ],
+    "refer": "",
+    "meaning": "crying or wailing loudly from pain or distress",
+    "type": "v",
+    "example": [
+      {
+        "file": "uwan-1a",
+        "contributor": "",
+        "display": "うわぁぁぁん",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "uwan-1b",
+        "contributor": "",
+        "display": "うわーん",
+        "source": "drawing"
+      }
+    ]
+  }],
+  "literal": "uwan"
 }

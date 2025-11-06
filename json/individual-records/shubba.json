@@ -1,33 +1,29 @@
 {
-  "literal": "shubba",
-  "katakana": [
-    "シュバ",
-    "シュバッ"
-  ],
   "hiragana": [
     "しゅば",
     "しゅばっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "swift and precise movement",
-      "equivalent": [
-        "swish",
-        "swoosh",
-        "whoosh",
-        "zip",
-        "zoom"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "shubba-1a",
-          "display": "シュバッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "シュバ",
+    "シュバッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "swish",
+      "swoosh",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "refer": "",
+    "meaning": "swift and precise movement",
+    "type": "m",
+    "example": [{
+      "file": "shubba-1a",
+      "contributor": "",
+      "display": "シュバッ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "shubba"
 }

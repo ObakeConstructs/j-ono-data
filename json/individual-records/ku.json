@@ -1,13 +1,4 @@
 {
-  "literal": "ku",
-  "katakana": [
-    "ク",
-    "クッ",
-    "クー",
-    "クーッ",
-    "クウ",
-    "クウッ"
-  ],
   "hiragana": [
     "く",
     "くっ",
@@ -16,32 +7,39 @@
     "くう",
     "くうっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "suppressed or choked-back vocal reaction to a strong emotion",
-      "equivalent": [
-        "ah",
-        "damn",
-        "fah",
-        "gah",
-        "tch"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "ku-1a",
-          "display": "くうっ",
-          "contributor": ""
-        },
-        {
-          "source": "spy_x_family",
-          "file": "ku-1b",
-          "display": "くっ…",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ク",
+    "クッ",
+    "クー",
+    "クーッ",
+    "クウ",
+    "クウッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ah",
+      "damn",
+      "fah",
+      "gah",
+      "tch"
+    ],
+    "refer": "",
+    "meaning": "suppressed or choked-back vocal reaction to a strong emotion",
+    "type": "v",
+    "example": [
+      {
+        "file": "ku-1a",
+        "contributor": "",
+        "display": "くうっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "ku-1b",
+        "contributor": "",
+        "display": "くっ\u2026",
+        "source": "spy_x_family"
+      }
+    ]
+  }],
+  "literal": "ku"
 }

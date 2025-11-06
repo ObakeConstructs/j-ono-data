@@ -1,36 +1,32 @@
 {
-  "literal": "vu",
-  "katakana": [
-    "ヴ",
-    "ヴッ",
-    "ヴー",
-    "ヴーッ"
-  ],
   "hiragana": [
     "ゔ",
     "ゔっ",
     "ゔー",
     "ゔーっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "gagging from nausea or disgust",
-      "equivalent": [
-        "choke",
-        "gag",
-        "huuk",
-        "mph"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "vu-1a",
-          "display": "ゔっ…",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ヴ",
+    "ヴッ",
+    "ヴー",
+    "ヴーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "choke",
+      "gag",
+      "huuk",
+      "mph"
+    ],
+    "refer": "",
+    "meaning": "gagging from nausea or disgust",
+    "type": "v",
+    "example": [{
+      "file": "vu-1a",
+      "contributor": "",
+      "display": "ゔっ\u2026",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "vu"
 }

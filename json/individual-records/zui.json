@@ -11,66 +11,55 @@
     "ズィ",
     "ズィッ"
   ],
-  "definition": [
-    {
-      "equivalent": [
-        "close",
-        "tight",
-        "press",
-        "too close",
-        "crowded"
-      ],
-      "refer": "",
-      "meaning": "an indication of getting too close to someone's face, often uncomfortably so",
-      "type": "",
-      "example": [
-        {
-          "file": "zui-1a",
-          "contributor": "",
-          "display": "ずいっ",
-          "source": "reincarnated_farm_girl"
-        },
-        {
-          "file": "zui-1b",
-          "contributor": "",
-          "display": "ずい",
-          "source": "abandoned_reincarnation_sage"
-        },
-        {
-          "file": "zui-1c",
-          "contributor": "",
-          "display": "ズィ",
-          "source": "cheat_pharmacist"
-        }
-      ]
-    },
-    {
-      "equivalent": [
-        "thrust",
-        "shove",
-        "push",
-        "drive",
-        "move",
-        "force"
-      ],
-      "refer": "",
-      "meaning": "an indication of thrusting, shoving, or pushing",
-      "type": "",
-      "example": [
-        {
-          "file": "zui-2a",
-          "contributor": "",
-          "display": "ずいっ",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "zui-2b",
-          "contributor": "",
-          "display": "ズィッ",
-          "source": "way_of_the_house_husband"
-        }
-      ]
-    }
-  ],
+  "definition": [{
+    "equivalent": [
+      "close",
+      "crowded",
+      "drive",
+      "force",
+      "move",
+      "press",
+      "push",
+      "shove",
+      "thrust",
+      "tight",
+      "too close"
+    ],
+    "refer": "",
+    "meaning": "a sudden and assertive forward intrusion",
+    "type": "m",
+    "example": [
+      {
+        "file": "zui-1a",
+        "contributor": "",
+        "display": "ずいっ",
+        "source": "reincarnated_farm_girl"
+      },
+      {
+        "file": "zui-1b",
+        "contributor": "",
+        "display": "ずい",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "zui-1c",
+        "contributor": "",
+        "display": "ズィ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "zui-1d",
+        "contributor": "",
+        "display": "ずいっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "zui-1e",
+        "contributor": "",
+        "display": "ズィッ",
+        "source": "way_of_the_house_husband"
+      }
+    ]
+  }],
   "literal": "zui"
 }

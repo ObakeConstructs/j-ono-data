@@ -9,16 +9,16 @@
   ],
   "definition": [{
     "equivalent": [
+      "blub",
       "slurp",
-      "suck",
       "sniff",
       "sniffle",
       "snivel",
-      "blub"
+      "suck"
     ],
     "refer": "",
-    "meaning": "a wet slurping or sniffing noise",
-    "type": "",
+    "meaning": "long, wet slurp or sniff",
+    "type": "o",
     "example": [{
       "file": "zururu-1a",
       "contributor": "",

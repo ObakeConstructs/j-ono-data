@@ -1,12 +1,4 @@
 {
-  "literal": "zabu",
-  "katakana": [
-    "ザブ",
-    "ザブウ",
-    "ザブウウ",
-    "ザブゥ",
-    "ザブゥゥ"
-  ],
   "hiragana": [
     "ざぶ",
     "ざぶう",
@@ -14,22 +6,24 @@
     "ざぶぅ",
     "ざぶぅぅ"
   ],
-  "definition": [
-    {
-      "refer": "zaba:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "kaijuu_sdf",
-          "file": "zabu-1a",
-          "display": "ザブウウ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザブ",
+    "ザブウ",
+    "ザブウウ",
+    "ザブゥ",
+    "ザブゥゥ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "zaba:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "zabu-1a",
+      "contributor": "",
+      "display": "ザブウウ",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "literal": "zabu"
 }

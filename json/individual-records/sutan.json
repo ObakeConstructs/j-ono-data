@@ -1,37 +1,33 @@
 {
-  "literal": "sutan",
-  "katakana": [
-    "スタン",
-    "スターン"
-  ],
   "hiragana": [
     "すたん",
     "すたーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "a sudden or hard drop or fall, often humorous",
-      "equivalent": [
-        "collapse",
-        "crash",
-        "drop",
-        "fall",
-        "oomph",
-        "plop",
-        "thud",
-        "thump",
-        "tumble"
-      ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "sutan-1a",
-          "display": "スターン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "スタン",
+    "スターン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "collapse",
+      "crash",
+      "drop",
+      "fall",
+      "oomph",
+      "plop",
+      "thud",
+      "thump",
+      "tumble"
+    ],
+    "refer": "",
+    "meaning": "a sudden or hard drop or fall, often humorous",
+    "type": "o",
+    "example": [{
+      "file": "sutan-1a",
+      "contributor": "",
+      "display": "スターン",
+      "source": "spy_x_family"
+    }]
+  }],
+  "literal": "sutan"
 }

@@ -1,45 +1,39 @@
 {
-  "literal": "waku waku",
-  "katakana": [
-    "ワクワク"
-  ],
-  "hiragana": [
-    "わくわく"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "bubbly enthusiasm or eager anticipation",
-      "equivalent": [
-        "delighted",
-        "eager",
-        "excited",
-        "glad",
-        "gleeful",
-        "joy",
-        "pleased"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "waku_waku-1a",
-          "display": "わく わく",
-          "contributor": ""
-        },
-        {
-          "source": "isekai_territory_reform",
-          "file": "waku_waku-1b",
-          "display": "わく わく わく",
-          "contributor": ""
-        },
-        {
-          "source": "saga_lagging_hero",
-          "file": "waku_waku-1c",
-          "display": "わく わく",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["わくわく"],
+  "katakana": ["ワクワク"],
+  "definition": [{
+    "equivalent": [
+      "delighted",
+      "eager",
+      "excited",
+      "glad",
+      "gleeful",
+      "joy",
+      "pleased"
+    ],
+    "refer": "",
+    "meaning": "bubbly enthusiasm or eager anticipation",
+    "type": "e",
+    "example": [
+      {
+        "file": "waku_waku-1a",
+        "contributor": "",
+        "display": "わく わく",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "waku_waku-1b",
+        "contributor": "",
+        "display": "わく わく わく",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "waku_waku-1c",
+        "contributor": "",
+        "display": "わく わく",
+        "source": "saga_lagging_hero"
+      }
+    ]
+  }],
+  "literal": "waku waku"
 }

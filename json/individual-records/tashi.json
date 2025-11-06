@@ -1,38 +1,34 @@
 {
-  "literal": "tashi",
-  "katakana": [
-    "タシ",
-    "タシッ"
-  ],
   "hiragana": [
     "たし",
     "たしっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "a quick, firm grasp, often urgently or assertively",
-      "equivalent": [
-        "catch",
-        "clutch",
-        "glom",
-        "grab",
-        "grasp",
-        "hold",
-        "nab",
-        "seize",
-        "snag",
-        "snatch"
-      ],
-      "example": [
-        {
-          "source": "cheat_pharmacist",
-          "file": "tashi-1a",
-          "display": "タシッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "タシ",
+    "タシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "catch",
+      "clutch",
+      "glom",
+      "grab",
+      "grasp",
+      "hold",
+      "nab",
+      "seize",
+      "snag",
+      "snatch"
+    ],
+    "refer": "",
+    "meaning": "a quick, firm grasp, often urgently or assertively",
+    "type": "m",
+    "example": [{
+      "file": "tashi-1a",
+      "contributor": "",
+      "display": "タシッ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "literal": "tashi"
 }

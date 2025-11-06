@@ -1,18 +1,14 @@
 {
-  "literal": "kuku",
-  "katakana": [
-    "クク",
-    "ククッ"
-  ],
   "hiragana": [
     "くく",
     "くくっ"
   ],
+  "katakana": [
+    "クク",
+    "ククッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "suppressed snicker or laugh",
       "equivalent": [
         "cackle",
         "chortle",
@@ -22,32 +18,32 @@
         "snicker",
         "titter"
       ],
-      "example": [
-        {
-          "source": "drawing",
-          "file": "kuku-1a",
-          "display": "くくっ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "suppressed snicker or laugh",
+      "type": "e",
+      "example": [{
+        "file": "kuku-1a",
+        "contributor": "",
+        "display": "くくっ",
+        "source": "drawing"
+      }]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "creaking sound from tightening rope or leather",
       "equivalent": [
         "creak",
         "grind",
         "rustle"
       ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "kuku-2a",
-          "display": "クク..",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "creaking sound from tightening rope or leather",
+      "type": "o",
+      "example": [{
+        "file": "kuku-2a",
+        "contributor": "",
+        "display": "クク..",
+        "source": "isekai_sniper"
+      }]
     }
-  ]
+  ],
+  "literal": "kuku"
 }

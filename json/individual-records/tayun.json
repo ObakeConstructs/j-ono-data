@@ -1,34 +1,30 @@
 {
-  "literal": "tayun",
-  "katakana": [
-    "タユン",
-    "タユンッ"
-  ],
   "hiragana": [
     "たゆん",
     "たゆんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "soft, fleshy wobbling or bouncing",
-      "equivalent": [
-        "boing",
-        "bounce",
-        "quiver",
-        "shake",
-        "sway",
-        "wobble"
-      ],
-      "example": [
-        {
-          "source": "35_year_olds_choice",
-          "file": "tayun-1a",
-          "display": "たゆん♡",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "タユン",
+    "タユンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "boing",
+      "bounce",
+      "quiver",
+      "shake",
+      "sway",
+      "wobble"
+    ],
+    "refer": "",
+    "meaning": "soft, fleshy wobbling or bouncing",
+    "type": "m",
+    "example": [{
+      "file": "tayun-1a",
+      "contributor": "",
+      "display": "たゆん♡",
+      "source": "35_year_olds_choice"
+    }]
+  }],
+  "literal": "tayun"
 }

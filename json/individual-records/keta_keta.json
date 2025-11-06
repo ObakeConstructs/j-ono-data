@@ -1,33 +1,25 @@
 {
-  "literal": "keta keta",
-  "katakana": [
-    "ケタケタ"
-  ],
-  "hiragana": [
-    "けたけた"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "snickering or child-like giggling",
-      "equivalent": [
-        "chortle",
-        "chuckle",
-        "giggle",
-        "hee-hee",
-        "laugh",
-        "snicker",
-        "titter"
-      ],
-      "example": [
-        {
-          "source": "weakest_occupation_blacksmith",
-          "file": "keta_keta-1a",
-          "display": "ケタ ケタ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["けたけた"],
+  "katakana": ["ケタケタ"],
+  "definition": [{
+    "equivalent": [
+      "chortle",
+      "chuckle",
+      "giggle",
+      "hee-hee",
+      "laugh",
+      "snicker",
+      "titter"
+    ],
+    "refer": "",
+    "meaning": "snickering or child-like giggling",
+    "type": "v",
+    "example": [{
+      "file": "keta_keta-1a",
+      "contributor": "",
+      "display": "ケタ ケタ",
+      "source": "weakest_occupation_blacksmith"
+    }]
+  }],
+  "literal": "keta keta"
 }

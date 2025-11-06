@@ -1,18 +1,14 @@
 {
-  "literal": "ton",
-  "katakana": [
-    "トン",
-    "トンッ"
-  ],
   "hiragana": [
     "とん",
     "とんっ"
   ],
+  "katakana": [
+    "トン",
+    "トンッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "small or light impact sound",
       "equivalent": [
         "bop",
         "bump",
@@ -22,25 +18,25 @@
         "thud",
         "thunk"
       ],
+      "refer": "",
+      "meaning": "small or light impact sound",
+      "type": "o",
       "example": [
         {
-          "source": "bungo",
           "file": "ton-1a",
+          "contributor": "",
           "display": "トン",
-          "contributor": ""
+          "source": "bungo"
         },
         {
-          "source": "strongest_failure_frame",
           "file": "ton-1b",
+          "contributor": "",
           "display": "トンッ",
-          "contributor": ""
+          "source": "strongest_failure_frame"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "quietly jumping or leaping",
       "equivalent": [
         "bound",
         "jump",
@@ -49,14 +45,16 @@
         "spring",
         "vault"
       ],
-      "example": [
-        {
-          "source": "eternal_fool_asley",
-          "file": "ton-2a",
-          "display": "トン!",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "quietly jumping or leaping",
+      "type": "m",
+      "example": [{
+        "file": "ton-2a",
+        "contributor": "",
+        "display": "トン!",
+        "source": "eternal_fool_asley"
+      }]
     }
-  ]
+  ],
+  "literal": "ton"
 }

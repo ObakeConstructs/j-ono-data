@@ -1,29 +1,21 @@
 {
-  "literal": "gatan gaton",
-  "katakana": [
-    "ガタンゴトン"
-  ],
-  "hiragana": [
-    "がたんごとん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "the rhythmic sound of a train moving on a track",
-      "equivalent": [
-        "clackity-clack",
-        "clickity-clack",
-        "ga-chunk"
-      ],
-      "example": [
-        {
-          "source": "uncle_at_heart",
-          "file": "gatan_gaton-1a",
-          "display": "ガタン ゴトン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["がたんごとん"],
+  "katakana": ["ガタンゴトン"],
+  "definition": [{
+    "equivalent": [
+      "clackity-clack",
+      "clickity-clack",
+      "ga-chunk"
+    ],
+    "refer": "",
+    "meaning": "the rhythmic sound of a train moving on a track",
+    "type": "o",
+    "example": [{
+      "file": "gatan_gaton-1a",
+      "contributor": "",
+      "display": "ガタン ゴトン",
+      "source": "uncle_at_heart"
+    }]
+  }],
+  "literal": "gatan gaton"
 }

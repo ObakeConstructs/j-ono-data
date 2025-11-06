@@ -1,29 +1,23 @@
 {
-  "literal": "tsurun",
-  "katakana": [
-    "ツルン",
-    "ツルンッ"
-  ],
   "hiragana": [
     "つるん",
     "つるんっ"
   ],
-  "definition": [
-    {
-      "refer": "tsuru:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "tsurun-1a",
-          "display": "つるんっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ツルン",
+    "ツルンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "tsuru:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "tsurun-1a",
+      "contributor": "",
+      "display": "つるんっ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "tsurun"
 }

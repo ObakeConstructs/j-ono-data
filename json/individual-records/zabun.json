@@ -1,29 +1,23 @@
 {
-  "literal": "zabun",
-  "katakana": [
-    "ザブン",
-    "ザブーン"
-  ],
   "hiragana": [
     "ざぶん",
     "ざぶーん"
   ],
-  "definition": [
-    {
-      "refer": "zaba:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "zabun-1a",
-          "display": "ザブーン.",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザブン",
+    "ザブーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "zaba:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "zabun-1a",
+      "contributor": "",
+      "display": "ザブーン.",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "zabun"
 }

@@ -7,58 +7,48 @@
     "ゾク",
     "ゾクッ"
   ],
-  "definition": [
-    {
-      "equivalent": [
-        "flinch",
-        "jerk",
-        "jolt",
-        "shudder",
-        "startle"
-      ],
-      "refer": "",
-      "meaning": "an expression of surprise or startlement",
-      "type": "",
-      "example": [
-        {
-          "file": "zoku-1a",
-          "contributor": "",
-          "display": "ぞくっ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "zoku-1b",
-          "contributor": "",
-          "display": "ゾクッ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "zoku-1c",
-          "contributor": "",
-          "display": "ぞくっ",
-          "source": "komi_cant_communicate"
-        }
-      ]
-    },
-    {
-      "equivalent": [
-        "quiver",
-        "shake",
-        "shiver",
-        "shudder",
-        "tremble",
-        "twitch"
-      ],
-      "refer": "",
-      "meaning": "an indication of trembling or shaking",
-      "type": "",
-      "example": [{
-        "file": "zoku-2a",
+  "definition": [{
+    "equivalent": [
+      "flinch",
+      "jerk",
+      "jolt",
+      "quiver",
+      "shake",
+      "shiver",
+      "shudder",
+      "startle",
+      "tremble",
+      "twitch"
+    ],
+    "refer": "",
+    "meaning": "involuntary shiver or shudder, as from fear, excitement, or pleasure",
+    "type": "e",
+    "example": [
+      {
+        "file": "zoku-1a",
+        "contributor": "",
+        "display": "ぞくっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "zoku-1b",
+        "contributor": "",
+        "display": "ゾクッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "zoku-1c",
+        "contributor": "",
+        "display": "ぞくっ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "zoku-1d",
         "contributor": "",
         "display": "ぞくっ\u2026",
         "source": "embarrassing_and_sweet"
-      }]
-    }
-  ],
+      }
+    ]
+  }],
   "literal": "zoku"
 }

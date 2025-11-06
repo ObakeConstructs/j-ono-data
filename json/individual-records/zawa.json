@@ -1,45 +1,43 @@
 {
-  "literal": "zawa",
-  "katakana": [
-    "ザワ",
-    "ザヮ",
-    "ザワッ",
-    "ザヮッ"
-  ],
   "hiragana": [
     "ざわ",
     "ざゎ",
     "ざわっ",
     "ざゎっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "a tense, uneasy, or shocked crowd",
-      "equivalent": [
-        "amazed",
-        "dread",
-        "flabbergasted",
-        "shock",
-        "stunned",
-        "tense",
-        "uneasy"
-      ],
-      "example": [
-        {
-          "source": "requiem_for_prophet",
-          "file": "zawa-1a",
-          "display": "ざわ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "zawa-1b",
-          "display": "ざゎっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザワ",
+    "ザヮ",
+    "ザワッ",
+    "ザヮッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "amazed",
+      "dread",
+      "flabbergasted",
+      "shock",
+      "stunned",
+      "tense",
+      "uneasy"
+    ],
+    "refer": "",
+    "meaning": "a tense, uneasy, or shocked crowd",
+    "type": "e",
+    "example": [
+      {
+        "file": "zawa-1a",
+        "contributor": "",
+        "display": "ざわ",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "zawa-1b",
+        "contributor": "",
+        "display": "ざゎっ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "zawa"
 }

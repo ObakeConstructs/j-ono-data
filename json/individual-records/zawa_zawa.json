@@ -1,16 +1,8 @@
 {
-  "literal": "zawa zawa",
-  "katakana": [
-    "ザワザワ"
-  ],
-  "hiragana": [
-    "ざわざわ"
-  ],
+  "hiragana": ["ざわざわ"],
+  "katakana": ["ザワザワ"],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "murmur or chatter of a crowd",
       "equivalent": [
         "ballyhoo",
         "buzz",
@@ -20,42 +12,42 @@
         "hubbub",
         "ruckus"
       ],
+      "refer": "",
+      "meaning": "murmur or chatter of a crowd",
+      "type": "o",
       "example": [
         {
-          "source": "dungeon_dining_room",
           "file": "zawa_zawa-1a",
+          "contributor": "",
           "display": "ざわ ざわ ざわ",
-          "contributor": ""
+          "source": "dungeon_dining_room"
         },
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "zawa_zawa-1b",
+          "contributor": "",
           "display": "ザワ ザワ",
-          "contributor": ""
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "uncle_at_heart",
           "file": "zawa_zawa-1c",
+          "contributor": "",
           "display": "ざわ ざわ",
-          "contributor": ""
+          "source": "uncle_at_heart"
         }
       ]
     },
     {
+      "equivalent": [""],
       "refer": "zawa:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "zawa_zawa-2a",
-          "display": "ザワ ザワ",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "zawa_zawa-2a",
+        "contributor": "",
+        "display": "ザワ ザワ",
+        "source": "world_full_of_monsters"
+      }]
     }
-  ]
+  ],
+  "literal": "zawa zawa"
 }

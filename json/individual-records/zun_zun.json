@@ -3,21 +3,21 @@
   "katakana": ["ズンズン"],
   "definition": [{
     "equivalent": [
-      "step",
-      "tap",
-      "thump",
+      "advance",
+      "determined",
       "jog",
-      "trot",
-      "sprint",
-      "dash",
-      "scurry",
-      "scoot",
+      "march",
+      "move",
+      "relentless",
       "rush",
-      "chase"
+      "step",
+      "stomp",
+      "stride",
+      "thump"
     ],
     "refer": "",
-    "meaning": "to walk or run quickly",
-    "type": "",
+    "meaning": "relentless, determined forward movement",
+    "type": "m",
     "example": [
       {
         "file": "zun_zun-1a",

@@ -1,29 +1,23 @@
 {
-  "literal": "kyan",
-  "katakana": [
-    "キャン",
-    "キャーン"
-  ],
   "hiragana": [
     "きゃん",
     "きゃーん"
   ],
-  "definition": [
-    {
-      "refer": "kya:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "kyan-1a",
-          "display": "きゃん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "キャン",
+    "キャーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "kya:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kyan-1a",
+      "contributor": "",
+      "display": "きゃん",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "kyan"
 }

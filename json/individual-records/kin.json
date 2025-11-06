@@ -1,31 +1,25 @@
 {
-  "literal": "kin",
-  "katakana": [
-    "キン",
-    "キィン",
-    "キィーン"
-  ],
   "hiragana": [
     "きん",
     "きぃん",
     "きぃーん"
   ],
-  "definition": [
-    {
-      "refer": "ki:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "kin-1a",
-          "display": "キィン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "キン",
+    "キィン",
+    "キィーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ki:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kin-1a",
+      "contributor": "",
+      "display": "キィン",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "kin"
 }

@@ -1,29 +1,23 @@
 {
-  "literal": "suten",
-  "katakana": [
-    "ステン",
-    "ステーン"
-  ],
   "hiragana": [
     "すてん",
     "すてーん"
   ],
-  "definition": [
-    {
-      "refer": "sutan:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "suten-1a",
-          "display": "すてーん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ステン",
+    "ステーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "sutan:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "suten-1a",
+      "contributor": "",
+      "display": "すてーん",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "suten"
 }

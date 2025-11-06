@@ -1,54 +1,52 @@
 {
-  "literal": "toro",
-  "katakana": [
-    "トロ",
-    "トロッ"
-  ],
   "hiragana": [
     "とろ",
     "とろっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "a melting, seeping, or oozing texture",
-      "equivalent": [
-        "dissolve",
-        "dribble",
-        "drip",
-        "exude",
-        "flow",
-        "glop",
-        "liquify",
-        "melt",
-        "ooze",
-        "run",
-        "seep",
-        "soften",
-        "thaw",
-        "trickle"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "toro-1a",
-          "display": "トロッ…",
-          "contributor": ""
-        },
-        {
-          "source": "gyaru_academy",
-          "file": "toro-1b",
-          "display": "トロ….",
-          "contributor": ""
-        },
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "toro-1c",
-          "display": "とろ…っ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "トロ",
+    "トロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dissolve",
+      "dribble",
+      "drip",
+      "exude",
+      "flow",
+      "glop",
+      "liquify",
+      "melt",
+      "ooze",
+      "run",
+      "seep",
+      "soften",
+      "thaw",
+      "trickle"
+    ],
+    "refer": "",
+    "meaning": "a melting, seeping, or oozing texture",
+    "type": "s",
+    "example": [
+      {
+        "file": "toro-1a",
+        "contributor": "",
+        "display": "トロッ\u2026",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "toro-1b",
+        "contributor": "",
+        "display": "トロ\u2026.",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "toro-1c",
+        "contributor": "",
+        "display": "とろ\u2026っ",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "literal": "toro"
 }

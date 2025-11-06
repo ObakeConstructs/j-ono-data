@@ -1,36 +1,32 @@
 {
-  "literal": "suto",
-  "katakana": [
-    "スト",
-    "ストッ"
-  ],
   "hiragana": [
     "すと",
     "すとっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "a light, sudden stop of movement",
-      "equivalent": [
-        "freeze",
-        "halt",
-        "hesitate",
-        "hold",
-        "interrupt",
-        "realize",
-        "stop",
-        "tap"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "suto-1a",
-          "display": "すとっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "スト",
+    "ストッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "freeze",
+      "halt",
+      "hesitate",
+      "hold",
+      "interrupt",
+      "realize",
+      "stop",
+      "tap"
+    ],
+    "refer": "",
+    "meaning": "a light, sudden stop of movement",
+    "type": "m",
+    "example": [{
+      "file": "suto-1a",
+      "contributor": "",
+      "display": "すとっ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "suto"
 }

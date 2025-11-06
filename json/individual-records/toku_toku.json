@@ -1,38 +1,32 @@
 {
-  "literal": "toku toku",
-  "katakana": [
-    "トクトク"
-  ],
-  "hiragana": [
-    "とくとく"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "gurgling sounds of liquid pouring from a container",
-      "equivalent": [
-        "flow",
-        "glug",
-        "gurgle",
-        "pour",
-        "slosh",
-        "trickle"
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "toku_toku-1a",
-          "display": "トク トク",
-          "contributor": ""
-        },
-        {
-          "source": "otherworld_material_collector",
-          "file": "toku_toku-1b",
-          "display": "トク トク",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["とくとく"],
+  "katakana": ["トクトク"],
+  "definition": [{
+    "equivalent": [
+      "flow",
+      "glug",
+      "gurgle",
+      "pour",
+      "slosh",
+      "trickle"
+    ],
+    "refer": "",
+    "meaning": "gurgling sounds of liquid pouring from a container",
+    "type": "o",
+    "example": [
+      {
+        "file": "toku_toku-1a",
+        "contributor": "",
+        "display": "トク トク",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "toku_toku-1b",
+        "contributor": "",
+        "display": "トク トク",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "literal": "toku toku"
 }

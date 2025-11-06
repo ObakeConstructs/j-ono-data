@@ -1,29 +1,21 @@
 {
-  "literal": "koki",
-  "katakana": [
-    "コキ"
-  ],
-  "hiragana": [
-    "こき"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "quick popping or cracking a joint",
-      "equivalent": [
-        "crack",
-        "pop",
-        "snap"
-      ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "koki-1a",
-          "display": "コキ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["こき"],
+  "katakana": ["コキ"],
+  "definition": [{
+    "equivalent": [
+      "crack",
+      "pop",
+      "snap"
+    ],
+    "refer": "",
+    "meaning": "quick popping or cracking a joint",
+    "type": "o",
+    "example": [{
+      "file": "koki-1a",
+      "contributor": "",
+      "display": "コキ",
+      "source": "blazing_fire_brigade"
+    }]
+  }],
+  "literal": "koki"
 }

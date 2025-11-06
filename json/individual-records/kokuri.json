@@ -1,27 +1,17 @@
 {
-  "literal": "kokuri",
-  "katakana": [
-    "コクリ"
-  ],
-  "hiragana": [
-    "こくり"
-  ],
-  "definition": [
-    {
-      "refer": "koku:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "dungeon_dining_room",
-          "file": "kokuri-1a",
-          "display": "コクリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["こくり"],
+  "katakana": ["コクリ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "koku:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kokuri-1a",
+      "contributor": "",
+      "display": "コクリ",
+      "source": "dungeon_dining_room"
+    }]
+  }],
+  "literal": "kokuri"
 }

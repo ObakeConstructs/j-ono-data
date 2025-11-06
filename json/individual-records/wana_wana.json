@@ -1,31 +1,23 @@
 {
-  "literal": "wana wana",
-  "katakana": [
-    "ワナワナ"
-  ],
-  "hiragana": [
-    "わなわな"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "trembling response to strong emotion, as of fear, anger, or shock",
-      "equivalent": [
-        "quiver",
-        "shake",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "example": [
-        {
-          "source": "isekai_pickup",
-          "file": "wana_wana-1a",
-          "display": "わな わな..",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["わなわな"],
+  "katakana": ["ワナワナ"],
+  "definition": [{
+    "equivalent": [
+      "quiver",
+      "shake",
+      "shiver",
+      "shudder",
+      "tremble"
+    ],
+    "refer": "",
+    "meaning": "trembling response to strong emotion, as of fear, anger, or shock",
+    "type": "e",
+    "example": [{
+      "file": "wana_wana-1a",
+      "contributor": "",
+      "display": "わな わな..",
+      "source": "isekai_pickup"
+    }]
+  }],
+  "literal": "wana wana"
 }

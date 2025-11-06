@@ -1,38 +1,34 @@
 {
-  "literal": "kura",
-  "katakana": [
-    "クラ",
-    "クラッ",
-    "クラア",
-    "クラアッ"
-  ],
   "hiragana": [
     "くら",
     "くらっ",
     "くらあ",
     "くらあっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "sudden dizziness or nearly fainting",
-      "equivalent": [
-        "dizzy",
-        "faint",
-        "swoon",
-        "unsteady",
-        "wobbly",
-        "woozy"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "kura-1a",
-          "display": "くらっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "クラ",
+    "クラッ",
+    "クラア",
+    "クラアッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dizzy",
+      "faint",
+      "swoon",
+      "unsteady",
+      "wobbly",
+      "woozy"
+    ],
+    "refer": "",
+    "meaning": "sudden dizziness or nearly fainting",
+    "type": "e",
+    "example": [{
+      "file": "kura-1a",
+      "contributor": "",
+      "display": "くらっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "kura"
 }

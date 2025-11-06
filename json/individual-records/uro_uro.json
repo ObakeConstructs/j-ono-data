@@ -1,39 +1,33 @@
 {
-  "literal": "uro uro",
-  "katakana": [
-    "ウロウロ"
-  ],
-  "hiragana": [
-    "うろうろ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "restless wandering or anxious pacing",
-      "equivalent": [
-        "anxious",
-        "mill",
-        "nervous",
-        "pace",
-        "ramble",
-        "restless",
-        "wander"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_as_a_dragon_egg",
-          "file": "uro_uro-1a",
-          "display": "ウロ ウロ",
-          "contributor": ""
-        },
-        {
-          "source": "shogun_gold_in_america",
-          "file": "uro_uro-1b",
-          "display": "うろ うろ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["うろうろ"],
+  "katakana": ["ウロウロ"],
+  "definition": [{
+    "equivalent": [
+      "anxious",
+      "mill",
+      "nervous",
+      "pace",
+      "ramble",
+      "restless",
+      "wander"
+    ],
+    "refer": "",
+    "meaning": "restless wandering or anxious pacing",
+    "type": "m",
+    "example": [
+      {
+        "file": "uro_uro-1a",
+        "contributor": "",
+        "display": "ウロ ウロ",
+        "source": "reincarnated_as_a_dragon_egg"
+      },
+      {
+        "file": "uro_uro-1b",
+        "contributor": "",
+        "display": "うろ うろ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "literal": "uro uro"
 }

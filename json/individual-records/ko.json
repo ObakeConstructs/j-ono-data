@@ -1,15 +1,4 @@
 {
-  "literal": "ko",
-  "katakana": [
-    "コ",
-    "コッ",
-    "コォ",
-    "コオ",
-    "コォォ",
-    "コオオ",
-    "コォォォ",
-    "コオオオ"
-  ],
   "hiragana": [
     "こ",
     "こっ",
@@ -20,11 +9,18 @@
     "こぉおお",
     "こおぉぉ"
   ],
+  "katakana": [
+    "コ",
+    "コッ",
+    "コォ",
+    "コオ",
+    "コォォ",
+    "コオオ",
+    "コォォォ",
+    "コオオオ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "light footstep or heep tap",
       "equivalent": [
         "footstep",
         "plod",
@@ -34,43 +30,41 @@
         "tap",
         "walk"
       ],
+      "refer": "",
+      "meaning": "light footstep or heep tap",
+      "type": "m",
       "example": [
         {
-          "source": "d_genesis",
           "file": "ko-1a",
+          "contributor": "",
           "display": "コッ",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "strongest_magician_was_human",
           "file": "ko-1b",
+          "contributor": "",
           "display": "コッ",
-          "contributor": ""
+          "source": "strongest_magician_was_human"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "low, heavy rumble",
       "equivalent": [
         "growl",
         "rolling",
         "rumble"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "ko-2a",
-          "display": "コォ….",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "low, heavy rumble",
+      "type": "o",
+      "example": [{
+        "file": "ko-2a",
+        "contributor": "",
+        "display": "コォ\u2026.",
+        "source": "different_world_smartphone"
+      }]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "crisp, quiet or muted impact",
       "equivalent": [
         "bang",
         "bat",
@@ -91,14 +85,16 @@
         "thump",
         "whack"
       ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "ko-3a",
-          "display": "コッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "crisp, quiet or muted impact",
+      "type": "o",
+      "example": [{
+        "file": "ko-3a",
+        "contributor": "",
+        "display": "コッ",
+        "source": "blazing_fire_brigade"
+      }]
     }
-  ]
+  ],
+  "literal": "ko"
 }

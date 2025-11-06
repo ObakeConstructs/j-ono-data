@@ -3,20 +3,18 @@
   "katakana": ["ズビシッ"],
   "definition": [{
     "equivalent": [
-      "punch",
-      "strike",
-      "smack",
-      "ka-blam",
       "crack",
-      "hit",
-      "slam",
-      "smite",
       "crunch",
-      "impact"
+      "hit",
+      "impact",
+      "punch",
+      "smack",
+      "smite",
+      "strike"
     ],
     "refer": "",
-    "meaning": "a sharp, piercing or penetrating sound, usually precise",
-    "type": "",
+    "meaning": "a fast, precise downward strike",
+    "type": "o",
     "example": [{
       "file": "zubishi-1a",
       "contributor": "",

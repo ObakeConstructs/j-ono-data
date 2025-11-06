@@ -25,14 +25,15 @@
         "dejected",
         "depressed",
         "doom",
+        "dread",
         "dreary",
         "gloom",
         "glum",
         "mope"
       ],
       "refer": "",
-      "meaning": "an expression of low spirits",
-      "type": "",
+      "meaning": "gloom or depression",
+      "type": "e",
       "example": [
         {
           "file": "zun-1a",
@@ -64,14 +65,15 @@
         "killing intent",
         "livid",
         "mad",
+        "menace",
         "pressure",
         "rage",
         "steamed",
         "tension"
       ],
       "refer": "",
-      "meaning": "an expression of rage, killing-intent, or bloodlust",
-      "type": "",
+      "meaning": "rage, killing-intent, or bloodlust",
+      "type": "e",
       "example": [{
         "file": "zun-2a",
         "contributor": "",
@@ -91,8 +93,8 @@
         "whomp"
       ],
       "refer": "",
-      "meaning": "a hard crashing or thudding sound",
-      "type": "",
+      "meaning": "hard crash or thud",
+      "type": "o",
       "example": [{
         "file": "zun-3a",
         "contributor": "",

@@ -1,38 +1,30 @@
 {
-  "literal": "su su",
-  "katakana": [
-    "スス",
-    "ススス",
-    "スウスウ",
-    "スゥスゥ"
-  ],
   "hiragana": [
     "すす",
     "すすす",
     "すうすう",
     "すぅすぅ"
   ],
+  "katakana": [
+    "スス",
+    "ススス",
+    "スウスウ",
+    "スゥスゥ"
+  ],
   "definition": [
     {
+      "equivalent": [""],
       "refer": "supi:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "su_su-1a",
-          "display": "すぅ すぅ…",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "su_su-1a",
+        "contributor": "",
+        "display": "すぅ すぅ\u2026",
+        "source": "world_full_of_monsters"
+      }]
     },
     {
-      "refer": "",
-      "type": "v",
-      "meaning": "whispering or speaking quietly",
       "equivalent": [
         "hushed",
         "mumble",
@@ -41,30 +33,28 @@
         "softly",
         "whisper"
       ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "su_su-2a",
-          "display": "ススス",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "whispering or speaking quietly",
+      "type": "v",
+      "example": [{
+        "file": "su_su-2a",
+        "contributor": "",
+        "display": "ススス",
+        "source": "different_world_smartphone"
+      }]
     },
     {
+      "equivalent": [""],
       "refer": "su:2",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "yojo_life",
-          "file": "su_su-3a",
-          "display": "スス",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "su_su-3a",
+        "contributor": "",
+        "display": "スス",
+        "source": "yojo_life"
+      }]
     }
-  ]
+  ],
+  "literal": "su su"
 }

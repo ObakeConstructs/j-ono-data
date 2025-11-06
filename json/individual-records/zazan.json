@@ -1,27 +1,23 @@
 {
-  "literal": "zazan",
-  "katakana": [
-    "ザザン",
-    "ザザーン"
-  ],
   "hiragana": [
     "ざざん",
     "ざざーん"
   ],
-  "definition": [
-    {
-      "refer": "za za:3",
-      "type": "",
-      "meaning": "",
-      "equivalent": [""],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "zazan-1a",
-          "display": "ザザーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザザン",
+    "ザザーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "za za:3",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "zazan-1a",
+      "contributor": "",
+      "display": "ザザーン",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "zazan"
 }

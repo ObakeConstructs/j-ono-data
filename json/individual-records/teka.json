@@ -1,35 +1,31 @@
 {
-  "literal": "teka",
-  "katakana": [
-    "テカ",
-    "テカー"
-  ],
   "hiragana": [
     "てか",
     "てかー"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "a strong, glossy shine or gleam from a smooth surface",
-      "equivalent": [
-        "flash",
-        "glare",
-        "gleam",
-        "glisten",
-        "sheen",
-        "shimmer",
-        "shine"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "teka-1a",
-          "display": "テカー!!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "テカ",
+    "テカー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flash",
+      "glare",
+      "gleam",
+      "glisten",
+      "sheen",
+      "shimmer",
+      "shine"
+    ],
+    "refer": "",
+    "meaning": "a strong, glossy shine or gleam from a smooth surface",
+    "type": "s",
+    "example": [{
+      "file": "teka-1a",
+      "contributor": "",
+      "display": "テカー!!",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "teka"
 }

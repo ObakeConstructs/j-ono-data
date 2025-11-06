@@ -1,27 +1,17 @@
 {
-  "literal": "kusu kusu",
-  "katakana": [
-    "クスクス"
-  ],
-  "hiragana": [
-    "くすくす"
-  ],
-  "definition": [
-    {
-      "refer": "kusu:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "otherworld_material_collector",
-          "file": "kusu_kusu-1a",
-          "display": "クス クス",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["くすくす"],
+  "katakana": ["クスクス"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "kusu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kusu_kusu-1a",
+      "contributor": "",
+      "display": "クス クス",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "literal": "kusu kusu"
 }

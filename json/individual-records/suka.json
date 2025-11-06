@@ -1,18 +1,14 @@
 {
-  "literal": "suka",
-  "katakana": [
-    "スカ",
-    "スカッ"
-  ],
   "hiragana": [
     "すか",
     "すかっ"
   ],
+  "katakana": [
+    "スカ",
+    "スカッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a miss or failed hit",
       "equivalent": [
         "empty strike",
         "failed",
@@ -20,25 +16,25 @@
         "whiff",
         "whoosh"
       ],
+      "refer": "",
+      "meaning": "a miss or failed hit",
+      "type": "m",
       "example": [
         {
-          "source": "eternal_fool_asley",
           "file": "suka-1a",
+          "contributor": "",
           "display": "スカッ!",
-          "contributor": ""
+          "source": "eternal_fool_asley"
         },
         {
-          "source": "killed_by_gods_mistake",
           "file": "suka-1b",
+          "contributor": "",
           "display": "スカッ",
-          "contributor": ""
+          "source": "killed_by_gods_mistake"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "a soft, airy sleeping breath",
       "equivalent": [
         "breath",
         "dose",
@@ -48,14 +44,16 @@
         "slumber",
         "zzz"
       ],
-      "example": [
-        {
-          "source": "beastly_boys_and_girls",
-          "file": "suka-2a",
-          "display": "すかー",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a soft, airy sleeping breath",
+      "type": "o",
+      "example": [{
+        "file": "suka-2a",
+        "contributor": "",
+        "display": "すかー",
+        "source": "beastly_boys_and_girls"
+      }]
     }
-  ]
+  ],
+  "literal": "suka"
 }

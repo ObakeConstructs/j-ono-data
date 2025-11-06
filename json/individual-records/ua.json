@@ -1,13 +1,4 @@
 {
-  "literal": "ua",
-  "katakana": [
-    "ウア",
-    "ウアア",
-    "ウアアア",
-    "ウァ",
-    "ウァァ",
-    "ウァァァ"
-  ],
   "hiragana": [
     "うあ",
     "うああ",
@@ -16,22 +7,25 @@
     "うぁぁ",
     "うぁぁぁ"
   ],
-  "definition": [
-    {
-      "refer": "u:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "different_world_smartphone",
-          "file": "ua-1a",
-          "display": "うぁぁぁ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ウア",
+    "ウアア",
+    "ウアアア",
+    "ウァ",
+    "ウァァ",
+    "ウァァァ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "u:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "ua-1a",
+      "contributor": "",
+      "display": "うぁぁぁ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "literal": "ua"
 }

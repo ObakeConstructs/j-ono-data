@@ -1,37 +1,33 @@
 {
-  "literal": "zaba",
-  "katakana": [
-    "ザバ",
-    "ザバァ"
-  ],
   "hiragana": [
     "ざば",
     "ざばぁ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "strong splash or burst of water",
-      "equivalent": [
-        "fwoosh",
-        "gush",
-        "jet",
-        "slosh",
-        "spew",
-        "splash",
-        "sploosh",
-        "spout",
-        "swash"
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "zaba-1a",
-          "display": "ざばぁ.",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザバ",
+    "ザバァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fwoosh",
+      "gush",
+      "jet",
+      "slosh",
+      "spew",
+      "splash",
+      "sploosh",
+      "spout",
+      "swash"
+    ],
+    "refer": "",
+    "meaning": "strong splash or burst of water",
+    "type": "o",
+    "example": [{
+      "file": "zaba-1a",
+      "contributor": "",
+      "display": "ざばぁ.",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "zaba"
 }

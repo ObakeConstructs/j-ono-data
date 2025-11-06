@@ -1,22 +1,18 @@
 {
-  "literal": "ta",
-  "katakana": [
-    "タ",
-    "タッ",
-    "ター",
-    "ターッ"
-  ],
   "hiragana": [
     "た",
     "たっ",
     "たー",
     "たーっ"
   ],
+  "katakana": [
+    "タ",
+    "タッ",
+    "ター",
+    "ターッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "a quick or sudden jump",
       "equivalent": [
         "bolt",
         "bound",
@@ -24,19 +20,17 @@
         "leap",
         "vault"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "ta-1a",
-          "display": "タッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "a quick or sudden jump",
+      "type": "m",
+      "example": [{
+        "file": "ta-1a",
+        "contributor": "",
+        "display": "タッ",
+        "source": "world_full_of_monsters"
+      }]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "quick sprinting or dashing",
       "equivalent": [
         "bolt",
         "charge",
@@ -47,40 +41,42 @@
         "rush",
         "sprint"
       ],
+      "refer": "",
+      "meaning": "quick sprinting or dashing",
+      "type": "m",
       "example": [
         {
-          "source": "abandoned_reincarnation_sage",
           "file": "ta-2a",
-          "display": "たっ…",
-          "contributor": ""
+          "contributor": "",
+          "display": "たっ\u2026",
+          "source": "abandoned_reincarnation_sage"
         },
         {
-          "source": "strongest_thread_master",
           "file": "ta-2b",
+          "contributor": "",
           "display": "タッ",
-          "contributor": ""
+          "source": "strongest_thread_master"
         },
         {
-          "source": "eternal_fool_asley",
           "file": "ta-2c",
-          "display": "タッ…!",
-          "contributor": ""
+          "contributor": "",
+          "display": "タッ\u2026!",
+          "source": "eternal_fool_asley"
         }
       ]
     },
     {
-      "refer": "to:1",
-      "type": "",
-      "meaning": ", often dramatic",
       "equivalent": [""],
-      "example": [
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "ta-3a",
-          "display": "タッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "to:1",
+      "meaning": ", often dramatic",
+      "type": "",
+      "example": [{
+        "file": "ta-3a",
+        "contributor": "",
+        "display": "タッ",
+        "source": "my_s-ranked_daughter"
+      }]
     }
-  ]
+  ],
+  "literal": "ta"
 }

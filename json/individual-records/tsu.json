@@ -1,20 +1,16 @@
 {
-  "literal": "tsu",
-  "katakana": [
-    "ツ",
-    "ツー",
-    "ッ"
-  ],
   "hiragana": [
     "つ",
     "つー",
     "っ"
   ],
+  "katakana": [
+    "ツ",
+    "ツー",
+    "ッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "quick inhale or sharp gasp, often suppressed",
       "equivalent": [
         "gasp",
         "ha",
@@ -22,33 +18,33 @@
         "oh",
         "wha"
       ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "tsu-1a",
-          "display": "ツ…!!",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "quick inhale or sharp gasp, often suppressed",
+      "type": "e",
+      "example": [{
+        "file": "tsu-1a",
+        "contributor": "",
+        "display": "ツ\u2026!!",
+        "source": "world_full_of_monsters"
+      }]
     },
     {
-      "refer": "",
-      "type": "s",
-      "meaning": "small droplet or tiny trickle",
       "equivalent": [
         "dribble",
         "drip",
         "droplet",
         "trickle"
       ],
-      "example": [
-        {
-          "source": "ai_and_izawa",
-          "file": "tsu-2a",
-          "display": "ッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "small droplet or tiny trickle",
+      "type": "s",
+      "example": [{
+        "file": "tsu-2a",
+        "contributor": "",
+        "display": "ッ",
+        "source": "ai_and_izawa"
+      }]
     }
-  ]
+  ],
+  "literal": "tsu"
 }

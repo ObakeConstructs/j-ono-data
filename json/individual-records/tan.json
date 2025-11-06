@@ -1,45 +1,43 @@
 {
-  "literal": "tan",
-  "katakana": [
-    "タン",
-    "タンッ"
-  ],
   "hiragana": [
     "たん",
     "たんっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "a quick, crisp, or light impact",
-      "equivalent": [
-        "hit",
-        "smack",
-        "strike",
-        "tap",
-        "whack"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "tan-1a",
-          "display": "タン!",
-          "contributor": ""
-        },
-        {
-          "source": "weakest_occupation_blacksmith",
-          "file": "tan-1b",
-          "display": "タンッ",
-          "contributor": ""
-        },
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "tan-1c",
-          "display": "たんっ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "タン",
+    "タンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "hit",
+      "smack",
+      "strike",
+      "tap",
+      "whack"
+    ],
+    "refer": "",
+    "meaning": "a quick, crisp, or light impact",
+    "type": "o",
+    "example": [
+      {
+        "file": "tan-1a",
+        "contributor": "",
+        "display": "タン!",
+        "source": "hello_work"
+      },
+      {
+        "file": "tan-1b",
+        "contributor": "",
+        "display": "タンッ",
+        "source": "weakest_occupation_blacksmith"
+      },
+      {
+        "file": "tan-1c",
+        "contributor": "",
+        "display": "たんっ",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "literal": "tan"
 }

@@ -1,31 +1,23 @@
 {
-  "literal": "kyoro",
-  "katakana": [
-    "キョロ"
-  ],
-  "hiragana": [
-    "きょろ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "quick glancing around, often curiously",
-      "equivalent": [
-        "glance",
-        "glimpse",
-        "look",
-        "search",
-        "view"
-      ],
-      "example": [
-        {
-          "source": "isekai_territory_reform",
-          "file": "kyoro-1a",
-          "display": "きょろ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["きょろ"],
+  "katakana": ["キョロ"],
+  "definition": [{
+    "equivalent": [
+      "glance",
+      "glimpse",
+      "look",
+      "search",
+      "view"
+    ],
+    "refer": "",
+    "meaning": "quick glancing around, often curiously",
+    "type": "m",
+    "example": [{
+      "file": "kyoro-1a",
+      "contributor": "",
+      "display": "きょろ",
+      "source": "isekai_territory_reform"
+    }]
+  }],
+  "literal": "kyoro"
 }

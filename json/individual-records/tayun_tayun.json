@@ -1,27 +1,17 @@
 {
-  "literal": "tayun tayun",
-  "katakana": [
-    "タュンタュン"
-  ],
-  "hiragana": [
-    "たゅんたゅん"
-  ],
-  "definition": [
-    {
-      "refer": "tayun:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "tayun_tayun-1a",
-          "display": "たゅん たゅん",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["たゅんたゅん"],
+  "katakana": ["タュンタュン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "tayun:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "tayun_tayun-1a",
+      "contributor": "",
+      "display": "たゅん たゅん",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "tayun tayun"
 }

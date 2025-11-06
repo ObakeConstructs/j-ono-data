@@ -13,14 +13,16 @@
   ],
   "definition": [{
     "equivalent": [
+      "breath",
+      "breathe",
       "gasp",
       "huff",
       "pant",
       "wheeze"
     ],
     "refer": "",
-    "meaning": "a series of deep or fast breaths",
-    "type": "",
+    "meaning": "a series of sharp, fast breaths, as from pain, exertion, or resolve",
+    "type": "v",
     "example": [
       {
         "file": "ze_ze-1a",

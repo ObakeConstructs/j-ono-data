@@ -1,20 +1,16 @@
 {
-  "literal": "shun",
-  "katakana": [
-    "シュン",
-    "シュンッ",
-    "シューンッ"
-  ],
   "hiragana": [
     "しゅん",
     "しゅんっ",
     "しゅーんっ"
   ],
+  "katakana": [
+    "シュン",
+    "シュンッ",
+    "シューンッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "a sad slump or drooping",
       "equivalent": [
         "crestfallen",
         "dejected",
@@ -27,48 +23,50 @@
         "sorrow",
         "unhappy"
       ],
+      "refer": "",
+      "meaning": "a sad slump or drooping",
+      "type": "e",
       "example": [
         {
-          "source": "d_genesis",
           "file": "shun-1a",
-          "display": "しゅん…",
-          "contributor": ""
+          "contributor": "",
+          "display": "しゅん\u2026",
+          "source": "d_genesis"
         },
         {
-          "source": "peter_grill",
           "file": "shun-1b",
-          "display": "シューン…",
-          "contributor": ""
+          "contributor": "",
+          "display": "シューン\u2026",
+          "source": "peter_grill"
         },
         {
-          "source": "hero_or_demon_king",
           "file": "shun-1c",
+          "contributor": "",
           "display": "シュン",
-          "contributor": ""
+          "source": "hero_or_demon_king"
         }
       ]
     },
     {
+      "equivalent": [""],
       "refer": "shu:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
+      "type": "",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "shun-2a",
+          "contributor": "",
           "display": "シュン",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "reincarnated_aristocrat",
           "file": "shun-2b",
+          "contributor": "",
           "display": "シュンッ",
-          "contributor": ""
+          "source": "reincarnated_aristocrat"
         }
       ]
     }
-  ]
+  ],
+  "literal": "shun"
 }

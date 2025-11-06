@@ -1,51 +1,45 @@
 {
-  "literal": "sha",
-  "katakana": [
-    "シャ",
-    "シャッ",
-    "シヤ",
-    "シヤッ"
-  ],
   "hiragana": [
     "しゃ",
     "しゃっ",
     "しや",
     "しやっ"
   ],
+  "katakana": [
+    "シャ",
+    "シャッ",
+    "シヤ",
+    "シヤッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "light, quick cut or slice",
       "equivalent": [
         "cut",
         "slice",
         "slit"
       ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "sha-1a",
-          "display": "シヤッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "light, quick cut or slice",
+      "type": "m",
+      "example": [{
+        "file": "sha-1a",
+        "contributor": "",
+        "display": "シヤッ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
     },
     {
+      "equivalent": [""],
       "refer": "sa:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "sha-2a",
-          "display": "シャー",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "sha-2a",
+        "contributor": "",
+        "display": "シャー",
+        "source": "double_play"
+      }]
     }
-  ]
+  ],
+  "literal": "sha"
 }

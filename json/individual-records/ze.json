@@ -13,13 +13,17 @@
   ],
   "definition": [{
     "equivalent": [
+      "breath",
+      "breathe",
+      "exhale",
       "gasp",
-      "inhale",
+      "huff",
+      "pant",
       "wheeze"
     ],
     "refer": "",
-    "meaning": "the sound of a deep indrawn breath",
-    "type": "",
+    "meaning": "a brief, sharp exhale, as from pain, exertion, or resolve",
+    "type": "v",
     "example": [{
       "file": "ze-1a",
       "contributor": "",

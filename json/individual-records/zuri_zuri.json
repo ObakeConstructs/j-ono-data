@@ -1,51 +1,43 @@
 {
   "hiragana": ["ずりずり"],
   "katakana": ["ズリズリ"],
-  "definition": [
-    {
-      "equivalent": [
-        "drag",
-        "move",
-        "pull",
-        "slide"
-      ],
-      "refer": "",
-      "meaning": "to series of sliding or dragging noises",
-      "type": "",
-      "example": [
-        {
-          "file": "zuri_zuri-1a",
-          "contributor": "",
-          "display": "ズリズリ\u2026",
-          "source": "abandoned_reincarnation_sage"
-        },
-        {
-          "file": "zuri_zuri-1b",
-          "contributor": "",
-          "display": "ズリ ズリ",
-          "source": "hone_dragon"
-        }
-      ]
-    },
-    {
-      "equivalent": [
-        "lumber",
-        "lurch",
-        "stagger",
-        "stumble",
-        "sway",
-        "waddle"
-      ],
-      "refer": "",
-      "meaning": "to stand or walk in an unsteady manner",
-      "type": "",
-      "example": [{
-        "file": "zuri_zuri-2a",
+  "definition": [{
+    "equivalent": [
+      "drag",
+      "lumber",
+      "lurch",
+      "move",
+      "pull",
+      "slide",
+      "slip",
+      "stagger",
+      "stumble",
+      "sway",
+      "waddle"
+    ],
+    "refer": "",
+    "meaning": "dragging or shuffling movement",
+    "type": "m",
+    "example": [
+      {
+        "file": "zuri_zuri-1a",
+        "contributor": "",
+        "display": "ズリズリ\u2026",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "zuri_zuri-1b",
+        "contributor": "",
+        "display": "ズリ ズリ",
+        "source": "hone_dragon"
+      },
+      {
+        "file": "zuri_zuri-1c",
         "contributor": "",
         "display": "ズリ ズリ",
         "source": "simple_sword_saint"
-      }]
-    }
-  ],
+      }
+    ]
+  }],
   "literal": "zuri zuri"
 }

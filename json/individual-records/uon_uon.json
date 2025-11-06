@@ -1,31 +1,25 @@
 {
-  "literal": "uon uon",
-  "katakana": [
-    "ウォンウォン",
-    "ウォォンウォォン",
-    "ウォォォンウォォォン"
-  ],
   "hiragana": [
     "うぉんうぉん",
     "うぉぉんうぉぉん",
     "うぉぉぉんうぉぉぉん"
   ],
-  "definition": [
-    {
-      "refer": "uon:2",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "uon_uon-1a",
-          "display": "ウォォォン ウォォォン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ウォンウォン",
+    "ウォォンウォォン",
+    "ウォォォンウォォォン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "uon:2",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "uon_uon-1a",
+      "contributor": "",
+      "display": "ウォォォン ウォォォン",
+      "source": "blazing_fire_brigade"
+    }]
+  }],
+  "literal": "uon uon"
 }

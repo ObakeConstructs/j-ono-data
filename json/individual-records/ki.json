@@ -1,12 +1,4 @@
 {
-  "literal": "ki",
-  "katakana": [
-    "キ",
-    "キッ",
-    "キーッ",
-    "キィ",
-    "キィーッ"
-  ],
   "hiragana": [
     "き",
     "きっ",
@@ -14,11 +6,15 @@
     "きぃ",
     "きぃーっ"
   ],
+  "katakana": [
+    "キ",
+    "キッ",
+    "キーッ",
+    "キィ",
+    "キィーッ"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "sharp metallic squeaking or screeching",
       "equivalent": [
         "creak",
         "screech",
@@ -26,31 +22,31 @@
         "squeak",
         "squeal"
       ],
+      "refer": "",
+      "meaning": "sharp metallic squeaking or screeching",
+      "type": "o",
       "example": [
         {
-          "source": "different_world_smartphone",
           "file": "ki-1a",
+          "contributor": "",
           "display": "キィ..",
-          "contributor": ""
+          "source": "different_world_smartphone"
         },
         {
-          "source": "spy_x_family",
           "file": "ki-1b",
-          "display": "キィ…",
-          "contributor": ""
+          "contributor": "",
+          "display": "キィ\u2026",
+          "source": "spy_x_family"
         },
         {
-          "source": "spy_x_family",
           "file": "ki-1c",
+          "contributor": "",
           "display": "キッ",
-          "contributor": ""
+          "source": "spy_x_family"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "piercing gaze or intense stare",
       "equivalent": [
         "gaze",
         "glare",
@@ -58,14 +54,16 @@
         "pierce",
         "stare"
       ],
-      "example": [
-        {
-          "source": "reincarnated_farm_girl",
-          "file": "ki-2a",
-          "display": "キッ",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "piercing gaze or intense stare",
+      "type": "e",
+      "example": [{
+        "file": "ki-2a",
+        "contributor": "",
+        "display": "キッ",
+        "source": "reincarnated_farm_girl"
+      }]
     }
-  ]
+  ],
+  "literal": "ki"
 }

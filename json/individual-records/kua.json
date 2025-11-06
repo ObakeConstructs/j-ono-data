@@ -1,31 +1,27 @@
 {
-  "literal": "kua",
-  "katakana": [
-    "クア",
-    "クアー"
-  ],
   "hiragana": [
     "くあ",
     "くあー"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "open-mouth yawn",
-      "equivalent": [
-        "huff",
-        "whaa",
-        "yawn"
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "kua-1a",
-          "display": "くあ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "クア",
+    "クアー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "huff",
+      "whaa",
+      "yawn"
+    ],
+    "refer": "",
+    "meaning": "open-mouth yawn",
+    "type": "v",
+    "example": [{
+      "file": "kua-1a",
+      "contributor": "",
+      "display": "くあ",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "kua"
 }

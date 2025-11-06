@@ -1,16 +1,8 @@
 {
-  "literal": "suton",
-  "katakana": [
-    "ストン"
-  ],
-  "hiragana": [
-    "すとん"
-  ],
+  "hiragana": ["すとん"],
+  "katakana": ["ストン"],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "to sit, kneel, or crouch down",
       "equivalent": [
         "crouch",
         "down",
@@ -19,25 +11,25 @@
         "sit",
         "squat"
       ],
+      "refer": "",
+      "meaning": "to sit, kneel, or crouch down",
+      "type": "m",
       "example": [
         {
-          "source": "dog_became_strongest",
           "file": "suton-1a",
+          "contributor": "",
           "display": "ストン",
-          "contributor": ""
+          "source": "dog_became_strongest"
         },
         {
-          "source": "uncle_at_heart",
           "file": "suton-1b",
+          "contributor": "",
           "display": "すとん",
-          "contributor": ""
+          "source": "uncle_at_heart"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "to set or put something down",
       "equivalent": [
         "drop",
         "place",
@@ -46,14 +38,16 @@
         "put down",
         "set down"
       ],
-      "example": [
-        {
-          "source": "spy_x_family",
-          "file": "suton-2a",
-          "display": "すとん",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "to set or put something down",
+      "type": "m",
+      "example": [{
+        "file": "suton-2a",
+        "contributor": "",
+        "display": "すとん",
+        "source": "spy_x_family"
+      }]
     }
-  ]
+  ],
+  "literal": "suton"
 }

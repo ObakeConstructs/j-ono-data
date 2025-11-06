@@ -1,33 +1,27 @@
 {
-  "literal": "shu shu",
-  "katakana": [
-    "シュシュ",
-    "シュシュッ",
-    "シュシュシュ",
-    "シュシュシュッ"
-  ],
   "hiragana": [
     "しゅしゅ",
     "しゅしゅっ",
     "しゅしゅしゅ",
     "しゅしゅしゅっ"
   ],
-  "definition": [
-    {
-      "refer": "shu:2",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "yojo_life",
-          "file": "shu_shu-1a",
-          "display": "しゅ しゅ しゅ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "シュシュ",
+    "シュシュッ",
+    "シュシュシュ",
+    "シュシュシュッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "shu:2",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "shu_shu-1a",
+      "contributor": "",
+      "display": "しゅ しゅ しゅ",
+      "source": "yojo_life"
+    }]
+  }],
+  "literal": "shu shu"
 }

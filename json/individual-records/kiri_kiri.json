@@ -1,39 +1,33 @@
 {
-  "literal": "kiri kiri",
-  "katakana": [
-    "キリキリ"
-  ],
-  "hiragana": [
-    "きりきり"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "s",
-      "meaning": "sharp mechanical strain or tension",
-      "equivalent": [
-        "creak",
-        "pull",
-        "strain",
-        "stress",
-        "stretch",
-        "tense",
-        "tight"
-      ],
-      "example": [
-        {
-          "source": "marginal_taylor",
-          "file": "kiri_kiri-1a",
-          "display": "キリ キリ",
-          "contributor": ""
-        },
-        {
-          "source": "my_s-ranked_daughter",
-          "file": "kiri_kiri-1b",
-          "display": "キリ キリ…",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["きりきり"],
+  "katakana": ["キリキリ"],
+  "definition": [{
+    "equivalent": [
+      "creak",
+      "pull",
+      "strain",
+      "stress",
+      "stretch",
+      "tense",
+      "tight"
+    ],
+    "refer": "",
+    "meaning": "sharp mechanical strain or tension",
+    "type": "s",
+    "example": [
+      {
+        "file": "kiri_kiri-1a",
+        "contributor": "",
+        "display": "キリ キリ",
+        "source": "marginal_taylor"
+      },
+      {
+        "file": "kiri_kiri-1b",
+        "contributor": "",
+        "display": "キリ キリ\u2026",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "literal": "kiri kiri"
 }

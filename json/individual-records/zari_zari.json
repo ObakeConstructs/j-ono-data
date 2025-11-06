@@ -1,32 +1,28 @@
 {
-  "literal": "zari zari",
-  "katakana": [
-    "ザリザリ",
-    "ザリザリザリ"
-  ],
   "hiragana": [
     "ざりざり",
     "ざりざりざり"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "harsh scraping or grinding, often gritty",
-      "equivalent": [
-        "clash",
-        "grind",
-        "rasp",
-        "scrape"
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "zari_zari-1a",
-          "display": "ザリ ザリ ザリ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザリザリ",
+    "ザリザリザリ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clash",
+      "grind",
+      "rasp",
+      "scrape"
+    ],
+    "refer": "",
+    "meaning": "harsh scraping or grinding, often gritty",
+    "type": "o",
+    "example": [{
+      "file": "zari_zari-1a",
+      "contributor": "",
+      "display": "ザリ ザリ ザリ",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "zari zari"
 }

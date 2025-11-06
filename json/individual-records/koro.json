@@ -1,33 +1,25 @@
 {
-  "literal": "koro",
-  "katakana": [
-    "コロ"
-  ],
-  "hiragana": [
-    "ころ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "rolling, tumbling, or dropping",
-      "equivalent": [
-        "drop",
-        "fall",
-        "roll",
-        "slip",
-        "tip",
-        "topple",
-        "tumble"
-      ],
-      "example": [
-        {
-          "source": "komi_cant_communicate",
-          "file": "koro-1a",
-          "display": "コロ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ころ"],
+  "katakana": ["コロ"],
+  "definition": [{
+    "equivalent": [
+      "drop",
+      "fall",
+      "roll",
+      "slip",
+      "tip",
+      "topple",
+      "tumble"
+    ],
+    "refer": "",
+    "meaning": "rolling, tumbling, or dropping",
+    "type": "m",
+    "example": [{
+      "file": "koro-1a",
+      "contributor": "",
+      "display": "コロ",
+      "source": "komi_cant_communicate"
+    }]
+  }],
+  "literal": "koro"
 }

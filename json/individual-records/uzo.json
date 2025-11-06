@@ -1,36 +1,32 @@
 {
-  "literal": "uzo",
-  "katakana": [
-    "ウゾ",
-    "ウゾゾ"
-  ],
   "hiragana": [
     "うぞ",
     "うぞぞ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "creeping, unsettling dread",
-      "equivalent": [
-        "creepy",
-        "danger",
-        "dread",
-        "intimidate",
-        "menace",
-        "shiver",
-        "threat",
-        "unsettling"
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "uzo-1a",
-          "display": "ウゾゾ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ウゾ",
+    "ウゾゾ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "creepy",
+      "danger",
+      "dread",
+      "intimidate",
+      "menace",
+      "shiver",
+      "threat",
+      "unsettling"
+    ],
+    "refer": "",
+    "meaning": "creeping, unsettling dread",
+    "type": "e",
+    "example": [{
+      "file": "uzo-1a",
+      "contributor": "",
+      "display": "ウゾゾ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "uzo"
 }

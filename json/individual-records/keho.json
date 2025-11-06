@@ -1,32 +1,28 @@
 {
-  "literal": "keho",
-  "katakana": [
-    "ケホ",
-    "ケホッ"
-  ],
   "hiragana": [
     "けほ",
     "けほっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "small, weak, or dry cough",
-      "equivalent": [
-        "ahem",
-        "cough",
-        "hak",
-        "khak"
-      ],
-      "example": [
-        {
-          "source": "isekai_sniper",
-          "file": "keho-1a",
-          "display": "ケホッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ケホ",
+    "ケホッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ahem",
+      "cough",
+      "hak",
+      "khak"
+    ],
+    "refer": "",
+    "meaning": "small, weak, or dry cough",
+    "type": "v",
+    "example": [{
+      "file": "keho-1a",
+      "contributor": "",
+      "display": "ケホッ",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "literal": "keho"
 }

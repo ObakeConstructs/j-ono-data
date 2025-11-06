@@ -1,30 +1,22 @@
 {
-  "literal": "koku koku",
-  "katakana": [
-    "コクコク"
-  ],
-  "hiragana": [
-    "こくこく"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "repeated nodding, often of eager agreement",
-      "equivalent": [
-        "agree",
-        "nod-nod",
-        "okay",
-        "yes-yes"
-      ],
-      "example": [
-        {
-          "source": "abandoned_reincarnation_sage",
-          "file": "koku_koku-1a",
-          "display": "コク コク",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["こくこく"],
+  "katakana": ["コクコク"],
+  "definition": [{
+    "equivalent": [
+      "agree",
+      "nod-nod",
+      "okay",
+      "yes-yes"
+    ],
+    "refer": "",
+    "meaning": "repeated nodding, often of eager agreement",
+    "type": "m",
+    "example": [{
+      "file": "koku_koku-1a",
+      "contributor": "",
+      "display": "コク コク",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "literal": "koku koku"
 }

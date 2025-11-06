@@ -2,16 +2,9 @@
   "hiragana": ["ぞくぞく"],
   "katakana": ["ゾクゾク"],
   "definition": [{
-    "equivalent": [
-      "quiver",
-      "shake",
-      "shiver",
-      "shudder",
-      "tremble",
-      "twitch"
-    ],
-    "refer": "",
-    "meaning": "an indication of trembling or shaking",
+    "equivalent": [""],
+    "refer": "zoku:1",
+    "meaning": "",
     "type": "",
     "example": [{
       "file": "zoku_zoku-1a",

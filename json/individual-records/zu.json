@@ -9,18 +9,18 @@
   ],
   "definition": [{
     "equivalent": [
-      "display",
-      "reveal",
-      "show",
-      "ta-da",
-      "unveil",
       "appear",
       "arrive",
-      "emerge"
+      "display",
+      "emerge",
+      "entrance",
+      "show",
+      "ta-da",
+      "unveil"
     ],
     "refer": "",
-    "meaning": "to suddenly appear, often in a dramatic reveal",
-    "type": "",
+    "meaning": "sudden appearance or arrival",
+    "type": "m",
     "example": [{
       "file": "zu-1a",
       "contributor": "",

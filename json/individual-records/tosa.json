@@ -1,32 +1,28 @@
 {
-  "literal": "tosa",
-  "katakana": [
-    "トサ",
-    "トサッ"
-  ],
   "hiragana": [
     "とさ",
     "とさっ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "a soft fall or landing",
-      "equivalent": [
-        "floof",
-        "fwump",
-        "ploof",
-        "poof"
-      ],
-      "example": [
-        {
-          "source": "kuma_kuma_kuma_bear",
-          "file": "tosa-1a",
-          "display": "トサッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "トサ",
+    "トサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "floof",
+      "fwump",
+      "ploof",
+      "poof"
+    ],
+    "refer": "",
+    "meaning": "a soft fall or landing",
+    "type": "o",
+    "example": [{
+      "file": "tosa-1a",
+      "contributor": "",
+      "display": "トサッ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "literal": "tosa"
 }

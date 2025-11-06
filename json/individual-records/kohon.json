@@ -1,34 +1,28 @@
 {
-  "literal": "kohon",
-  "katakana": [
-    "コホン"
-  ],
-  "hiragana": [
-    "こほん"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "v",
-      "meaning": "a polite or intentional throat clearing",
-      "equivalent": [
-        "ahem",
-        "cough"
-      ],
-      "example": [
-        {
-          "source": "komi_cant_communicate",
-          "file": "kohon-1a",
-          "display": "コホン",
-          "contributor": ""
-        },
-        {
-          "source": "weakest_occupation_blacksmith",
-          "file": "kohon-1b",
-          "display": "コホン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["こほん"],
+  "katakana": ["コホン"],
+  "definition": [{
+    "equivalent": [
+      "ahem",
+      "cough"
+    ],
+    "refer": "",
+    "meaning": "a polite or intentional throat clearing",
+    "type": "v",
+    "example": [
+      {
+        "file": "kohon-1a",
+        "contributor": "",
+        "display": "コホン",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "kohon-1b",
+        "contributor": "",
+        "display": "コホン",
+        "source": "weakest_occupation_blacksmith"
+      }
+    ]
+  }],
+  "literal": "kohon"
 }

@@ -1,27 +1,17 @@
 {
-  "literal": "koron",
-  "katakana": [
-    "コロン"
-  ],
-  "hiragana": [
-    "ころん"
-  ],
-  "definition": [
-    {
-      "refer": "koro:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "world_full_of_monsters",
-          "file": "koron-1a",
-          "display": "コロン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["ころん"],
+  "katakana": ["コロン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "koro:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "koron-1a",
+      "contributor": "",
+      "display": "コロン",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "literal": "koron"
 }

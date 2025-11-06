@@ -1,41 +1,35 @@
 {
-  "literal": "kuru kuru",
-  "katakana": [
-    "クルクル"
-  ],
-  "hiragana": [
-    "くるくる"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "light spinning or twirling, often energetic",
-      "equivalent": [
-        "circle",
-        "curl",
-        "pivot",
-        "spin",
-        "swing",
-        "swivel",
-        "turn",
-        "twirl",
-        "twist"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_sage_daughters",
-          "file": "kuru_kuru-1a",
-          "display": "くる くる",
-          "contributor": ""
-        },
-        {
-          "source": "cheat_pharmacist",
-          "file": "kuru_kuru-1b",
-          "display": "くる くる",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["くるくる"],
+  "katakana": ["クルクル"],
+  "definition": [{
+    "equivalent": [
+      "circle",
+      "curl",
+      "pivot",
+      "spin",
+      "swing",
+      "swivel",
+      "turn",
+      "twirl",
+      "twist"
+    ],
+    "refer": "",
+    "meaning": "light spinning or twirling, often energetic",
+    "type": "m",
+    "example": [
+      {
+        "file": "kuru_kuru-1a",
+        "contributor": "",
+        "display": "くる くる",
+        "source": "reincarnated_sage_daughters"
+      },
+      {
+        "file": "kuru_kuru-1b",
+        "contributor": "",
+        "display": "くる くる",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "literal": "kuru kuru"
 }

@@ -1,29 +1,23 @@
 {
-  "literal": "kon",
-  "katakana": [
-    "コン",
-    "コンッ"
-  ],
   "hiragana": [
     "こん",
     "こんっ"
   ],
-  "definition": [
-    {
-      "refer": "ko:3",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "kon-1a",
-          "display": "コン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "コン",
+    "コンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ko:3",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kon-1a",
+      "contributor": "",
+      "display": "コン",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "kon"
 }

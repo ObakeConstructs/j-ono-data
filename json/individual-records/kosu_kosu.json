@@ -1,37 +1,31 @@
 {
-  "literal": "kosu kosu",
-  "katakana": [
-    "コスコス"
-  ],
-  "hiragana": [
-    "こすこす"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "intentional rubbing or scrubbing",
-      "equivalent": [
-        "buff",
-        "press",
-        "rub",
-        "scour",
-        "scrub"
-      ],
-      "example": [
-        {
-          "source": "double_play",
-          "file": "kosu_kosu-1a",
-          "display": "コス コス コス コス",
-          "contributor": ""
-        },
-        {
-          "source": "double_play",
-          "file": "kosu_kosu-1b",
-          "display": "コス コス",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["こすこす"],
+  "katakana": ["コスコス"],
+  "definition": [{
+    "equivalent": [
+      "buff",
+      "press",
+      "rub",
+      "scour",
+      "scrub"
+    ],
+    "refer": "",
+    "meaning": "intentional rubbing or scrubbing",
+    "type": "m",
+    "example": [
+      {
+        "file": "kosu_kosu-1a",
+        "contributor": "",
+        "display": "コス コス コス コス",
+        "source": "double_play"
+      },
+      {
+        "file": "kosu_kosu-1b",
+        "contributor": "",
+        "display": "コス コス",
+        "source": "double_play"
+      }
+    ]
+  }],
+  "literal": "kosu kosu"
 }

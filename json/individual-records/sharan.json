@@ -1,33 +1,29 @@
 {
-  "literal": "sharan",
-  "katakana": [
-    "シャラン",
-    "シャラーン"
-  ],
   "hiragana": [
     "しゃらん",
     "しゃらーん"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "soft or light rattling",
-      "equivalent": [
-        "clack",
-        "clatter",
-        "clink",
-        "jingle",
-        "rattle"
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "sharan-1a",
-          "display": "シャラーン…",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "シャラン",
+    "シャラーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clack",
+      "clatter",
+      "clink",
+      "jingle",
+      "rattle"
+    ],
+    "refer": "",
+    "meaning": "soft or light rattling",
+    "type": "o",
+    "example": [{
+      "file": "sharan-1a",
+      "contributor": "",
+      "display": "シャラーン\u2026",
+      "source": "hello_work"
+    }]
+  }],
+  "literal": "sharan"
 }

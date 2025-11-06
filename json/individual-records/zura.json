@@ -1,14 +1,17 @@
 {
-  "hiragana": ["ずら"],
-  "katakana": ["ズラ"],
+  "hiragana": [
+    "ずら",
+    "ずらー"
+  ],
+  "katakana": [
+    "ズラ",
+    "ズラー"
+  ],
   "definition": [{
-    "equivalent": [
-      "lined up",
-      "queued"
-    ],
+    "equivalent": [""],
     "refer": "",
-    "meaning": "a series of things or people lined up one after another",
-    "type": "",
+    "meaning": "lined up in neat succession",
+    "type": "s",
     "example": [{
       "file": "zura-1a",
       "contributor": "",

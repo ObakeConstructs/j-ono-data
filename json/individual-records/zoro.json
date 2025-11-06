@@ -9,18 +9,19 @@
   ],
   "definition": [{
     "equivalent": [
-      "clan",
-      "crowd",
-      "gang",
-      "horde",
-      "mass",
-      "mob",
-      "pack",
-      "throng"
+      "aligned",
+      "cluster",
+      "congregate",
+      "coordinated",
+      "flow",
+      "synchronized",
+      "throng",
+      "unison",
+      "united"
     ],
     "refer": "",
-    "meaning": "an indication of many people or creatures massed together",
-    "type": "",
+    "meaning": "sudden unified group movement",
+    "type": "m",
     "example": [{
       "file": "zoro-1a",
       "contributor": "",

@@ -1,33 +1,25 @@
 {
-  "literal": "tata tata",
-  "katakana": [
-    "タタッタタッ"
-  ],
-  "hiragana": [
-    "たたったたっ"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "light rhythm of a four-legged run or gallop",
-      "equivalent": [
-        "bound",
-        "dash",
-        "gallop",
-        "lope",
-        "run",
-        "sprint",
-        "trot"
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "tata_tata-1a",
-          "display": "タタッ タタッ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["たたったたっ"],
+  "katakana": ["タタッタタッ"],
+  "definition": [{
+    "equivalent": [
+      "bound",
+      "dash",
+      "gallop",
+      "lope",
+      "run",
+      "sprint",
+      "trot"
+    ],
+    "refer": "",
+    "meaning": "light rhythm of a four-legged run or gallop",
+    "type": "o",
+    "example": [{
+      "file": "tata_tata-1a",
+      "contributor": "",
+      "display": "タタッ タタッ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "tata tata"
 }

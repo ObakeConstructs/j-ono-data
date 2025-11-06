@@ -1,35 +1,27 @@
 {
-  "literal": "wata wata",
-  "katakana": [
-    "ワタワタ"
-  ],
-  "hiragana": [
-    "わたわた"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "flustered or frantic movement due to panic, confusion, or being overwhelmed",
-      "equivalent": [
-        "alarm",
-        "concern",
-        "flustered",
-        "frantic",
-        "frazzled",
-        "panicked",
-        "rushing about",
-        "scrambling",
-        "wave"
-      ],
-      "example": [
-        {
-          "source": "reincarnated_farm_girl",
-          "file": "wata_wata-1a",
-          "display": "わた わた",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["わたわた"],
+  "katakana": ["ワタワタ"],
+  "definition": [{
+    "equivalent": [
+      "alarm",
+      "concern",
+      "flustered",
+      "frantic",
+      "frazzled",
+      "panicked",
+      "rushing about",
+      "scrambling",
+      "wave"
+    ],
+    "refer": "",
+    "meaning": "flustered or frantic movement due to panic, confusion, or being overwhelmed",
+    "type": "m",
+    "example": [{
+      "file": "wata_wata-1a",
+      "contributor": "",
+      "display": "わた わた",
+      "source": "reincarnated_farm_girl"
+    }]
+  }],
+  "literal": "wata wata"
 }

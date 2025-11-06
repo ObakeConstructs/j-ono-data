@@ -1,41 +1,33 @@
 {
-  "literal": "uzu uzu",
-  "katakana": [
-    "ウズウズ"
-  ],
-  "hiragana": [
-    "うずうず"
-  ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "e",
-      "meaning": "restless eagerness or impatient anticipation",
-      "equivalent": [
-        "anticipation",
-        "antsy",
-        "delighted",
-        "eager",
-        "enthused",
-        "enthusiastic",
-        "excited",
-        "gung ho",
-        "inspired",
-        "prospect",
-        "pumped",
-        "raring to go",
-        "restless",
-        "stoked",
-        "thrilled"
-      ],
-      "example": [
-        {
-          "source": "fushi_no_kami",
-          "file": "uzu_uzu-1a",
-          "display": "うず うず",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["うずうず"],
+  "katakana": ["ウズウズ"],
+  "definition": [{
+    "equivalent": [
+      "anticipation",
+      "antsy",
+      "delighted",
+      "eager",
+      "enthused",
+      "enthusiastic",
+      "excited",
+      "gung ho",
+      "inspired",
+      "prospect",
+      "pumped",
+      "raring to go",
+      "restless",
+      "stoked",
+      "thrilled"
+    ],
+    "refer": "",
+    "meaning": "restless eagerness or impatient anticipation",
+    "type": "e",
+    "example": [{
+      "file": "uzu_uzu-1a",
+      "contributor": "",
+      "display": "うず うず",
+      "source": "fushi_no_kami"
+    }]
+  }],
+  "literal": "uzu uzu"
 }

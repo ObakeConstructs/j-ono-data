@@ -1,35 +1,31 @@
 {
-  "literal": "ki ki",
-  "katakana": [
-    "キキ",
-    "キキキ"
-  ],
   "hiragana": [
     "きき",
     "ききき"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "o",
-      "meaning": "continuous warning bells or alert tones",
-      "equivalent": [
-        "beep-beep",
-        "chime",
-        "ding-ding",
-        "gong-gong",
-        "knell",
-        "peal",
-        "toll"
-      ],
-      "example": [
-        {
-          "source": "saga_lagging_hero",
-          "file": "ki_ki-1a",
-          "display": "キ キ キ キ",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "キキ",
+    "キキキ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beep-beep",
+      "chime",
+      "ding-ding",
+      "gong-gong",
+      "knell",
+      "peal",
+      "toll"
+    ],
+    "refer": "",
+    "meaning": "continuous warning bells or alert tones",
+    "type": "o",
+    "example": [{
+      "file": "ki_ki-1a",
+      "contributor": "",
+      "display": "キ キ キ キ",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "literal": "ki ki"
 }

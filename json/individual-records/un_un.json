@@ -1,51 +1,45 @@
 {
-  "literal": "un un",
-  "katakana": [
-    "ウンウン",
-    "ウーンウーン"
-  ],
   "hiragana": [
     "うんうん",
     "うーんうーん"
   ],
+  "katakana": [
+    "ウンウン",
+    "ウーンウーン"
+  ],
   "definition": [
     {
+      "equivalent": [""],
       "refer": "un:1",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
+      "type": "",
       "example": [
         {
-          "source": "d_genesis",
           "file": "un_un-1a",
+          "contributor": "",
           "display": "うん うん",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "a_rank_slow_life",
           "file": "un_un-1b",
+          "contributor": "",
           "display": "うん うん",
-          "contributor": ""
+          "source": "a_rank_slow_life"
         }
       ]
     },
     {
+      "equivalent": [""],
       "refer": "un:3",
-      "type": "",
       "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "komi_cant_communicate",
-          "file": "un_un-2a",
-          "display": "ウーン ウーン",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "un_un-2a",
+        "contributor": "",
+        "display": "ウーン ウーン",
+        "source": "komi_cant_communicate"
+      }]
     }
-  ]
+  ],
+  "literal": "un un"
 }

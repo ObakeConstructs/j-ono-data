@@ -1,34 +1,26 @@
 {
-  "literal": "ton ton",
-  "katakana": [
-    "トントン",
-    "トントンッ"
-  ],
   "hiragana": [
     "とんとん",
     "とんとんっ"
   ],
+  "katakana": [
+    "トントン",
+    "トントンッ"
+  ],
   "definition": [
     {
+      "equivalent": [""],
       "refer": "ton:1",
-      "type": "",
       "meaning": "s",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "hello_work",
-          "file": "ton_ton-1a",
-          "display": "トン トン",
-          "contributor": ""
-        }
-      ]
+      "type": "",
+      "example": [{
+        "file": "ton_ton-1a",
+        "contributor": "",
+        "display": "トン トン",
+        "source": "hello_work"
+      }]
     },
     {
-      "refer": "",
-      "type": "o",
-      "meaning": "light footsteps, often lively or determined",
       "equivalent": [
         "march",
         "step",
@@ -37,20 +29,24 @@
         "tread",
         "walk"
       ],
+      "refer": "",
+      "meaning": "light footsteps, often lively or determined",
+      "type": "o",
       "example": [
         {
-          "source": "s_rank_behemoth",
           "file": "ton_ton-2a",
+          "contributor": "",
           "display": "トン トン トン",
-          "contributor": ""
+          "source": "s_rank_behemoth"
         },
         {
-          "source": "rock_n_roll_ladies",
           "file": "ton_ton-2b",
+          "contributor": "",
           "display": "トン トン",
-          "contributor": ""
+          "source": "rock_n_roll_ladies"
         }
       ]
     }
-  ]
+  ],
+  "literal": "ton ton"
 }

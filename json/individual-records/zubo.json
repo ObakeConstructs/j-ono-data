@@ -9,18 +9,18 @@
   ],
   "definition": [{
     "equivalent": [
-      "enter",
-      "plunge",
-      "insert",
-      "sink",
       "dip",
-      "penetrate",
       "dunk",
-      "pierce"
+      "enter",
+      "insert",
+      "penetrate",
+      "pierce",
+      "plunge",
+      "sink"
     ],
     "refer": "",
-    "meaning": "an indication or sound of entering or plunging into something, sometimes forcefully",
-    "type": "",
+    "meaning": "sudden plunge into soft material",
+    "type": "o",
     "example": [
       {
         "file": "zubo-1a",

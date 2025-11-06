@@ -1,29 +1,23 @@
 {
-  "literal": "supi supi",
-  "katakana": [
-    "スピ",
-    "スピー"
-  ],
   "hiragana": [
     "すぴ",
     "すぴー"
   ],
-  "definition": [
-    {
-      "refer": "supi:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "dog_became_strongest",
-          "file": "supi_supi-1a",
-          "display": "スピー スピー",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "スピ",
+    "スピー"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "supi:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "supi_supi-1a",
+      "contributor": "",
+      "display": "スピー スピー",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "literal": "supi supi"
 }

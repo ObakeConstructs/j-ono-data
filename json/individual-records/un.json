@@ -1,18 +1,14 @@
 {
-  "literal": "un",
-  "katakana": [
-    "ウン",
-    "ウーン"
-  ],
   "hiragana": [
     "うん",
     "うーん"
   ],
+  "katakana": [
+    "ウン",
+    "ウーン"
+  ],
   "definition": [
     {
-      "refer": "",
-      "type": "m",
-      "meaning": "nodding agreement",
       "equivalent": [
         "exactly",
         "mm-hmm",
@@ -21,43 +17,41 @@
         "yeah",
         "yes"
       ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "un-1a",
-          "display": "うん",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "nodding agreement",
+      "type": "m",
+      "example": [{
+        "file": "un-1a",
+        "contributor": "",
+        "display": "うん",
+        "source": "d_genesis"
+      }]
     },
     {
-      "refer": "",
-      "type": "e",
-      "meaning": "contemplation or hesitation",
       "equivalent": [
         "hmm",
         "uh",
         "um"
       ],
+      "refer": "",
+      "meaning": "contemplation or hesitation",
+      "type": "e",
       "example": [
         {
-          "source": "d_genesis",
           "file": "un-2a",
+          "contributor": "",
           "display": "うーん",
-          "contributor": ""
+          "source": "d_genesis"
         },
         {
-          "source": "fushi_no_kami",
           "file": "un-2b",
+          "contributor": "",
           "display": "うーん",
-          "contributor": ""
+          "source": "fushi_no_kami"
         }
       ]
     },
     {
-      "refer": "",
-      "type": "v",
-      "meaning": "strained grunt from effort or pain",
       "equivalent": [
         "clench",
         "gah",
@@ -69,14 +63,16 @@
         "ungh",
         "urgh"
       ],
-      "example": [
-        {
-          "source": "blazing_fire_brigade",
-          "file": "un-3a",
-          "display": "うーんん…",
-          "contributor": ""
-        }
-      ]
+      "refer": "",
+      "meaning": "strained grunt from effort or pain",
+      "type": "v",
+      "example": [{
+        "file": "un-3a",
+        "contributor": "",
+        "display": "うーんん\u2026",
+        "source": "blazing_fire_brigade"
+      }]
     }
-  ]
+  ],
+  "literal": "un"
 }

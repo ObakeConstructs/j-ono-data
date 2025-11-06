@@ -13,13 +13,15 @@
     "equivalent": [
       "crash",
       "fall",
+      "skid",
       "slide",
       "slip",
+      "tumble",
       "tump"
     ],
     "refer": "",
-    "meaning": "to fall as a result of slipping",
-    "type": "",
+    "meaning": "a crash followed by sliding, skidding, or tumbling",
+    "type": "o",
     "example": [{
       "file": "zuda-1a",
       "contributor": "",

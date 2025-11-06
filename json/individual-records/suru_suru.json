@@ -1,27 +1,17 @@
 {
-  "literal": "suru suru",
-  "katakana": [
-    "スルスル"
-  ],
-  "hiragana": [
-    "するする"
-  ],
-  "definition": [
-    {
-      "refer": "suri:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "suru_suru-1a",
-          "display": "する する…",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["するする"],
+  "katakana": ["スルスル"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "suri:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "suru_suru-1a",
+      "contributor": "",
+      "display": "する する\u2026",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "suru suru"
 }

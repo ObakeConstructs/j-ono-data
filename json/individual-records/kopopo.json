@@ -1,29 +1,23 @@
 {
-  "literal": "kopopo",
-  "katakana": [
-    "コポポ",
-    "コポポポ"
-  ],
   "hiragana": [
     "こぽぽ",
     "こぽぽぽ"
   ],
-  "definition": [
-    {
-      "refer": "toku toku:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "d_genesis",
-          "file": "kopopo-1a",
-          "display": "コポポ…",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "コポポ",
+    "コポポポ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "toku toku:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kopopo-1a",
+      "contributor": "",
+      "display": "コポポ\u2026",
+      "source": "d_genesis"
+    }]
+  }],
+  "literal": "kopopo"
 }

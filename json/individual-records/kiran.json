@@ -1,29 +1,23 @@
 {
-  "literal": "kiran",
-  "katakana": [
-    "キラン",
-    "キラーン"
-  ],
   "hiragana": [
     "きらん",
     "きらーん"
   ],
-  "definition": [
-    {
-      "refer": "kira:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "s_rank_behemoth",
-          "file": "kiran-1a",
-          "display": "キラーン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "キラン",
+    "キラーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "kira:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kiran-1a",
+      "contributor": "",
+      "display": "キラーン",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "literal": "kiran"
 }

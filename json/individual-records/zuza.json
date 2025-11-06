@@ -26,8 +26,8 @@
         "whomp"
       ],
       "refer": "",
-      "meaning": "a hard impact from falling or thrown person",
-      "type": "",
+      "meaning": "a hard impact from falling",
+      "type": "o",
       "example": [
         {
           "file": "zuza-1a",
@@ -51,8 +51,8 @@
         "squeel"
       ],
       "refer": "",
-      "meaning": "the sound sliding or skidding",
-      "type": "",
+      "meaning": "sliding or skidding",
+      "type": "o",
       "example": [{
         "file": "zuza-2a",
         "contributor": "",

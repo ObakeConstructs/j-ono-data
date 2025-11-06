@@ -24511,7 +24511,7 @@
           "walk"
         ],
         "refer": "za:2",
-        "meaning": "",
+        "meaning": "s",
         "type": "",
         "example": [
           {
@@ -24598,13 +24598,17 @@
     ],
     "definition": [{
       "equivalent": [
+        "breath",
+        "breathe",
+        "exhale",
         "gasp",
-        "inhale",
+        "huff",
+        "pant",
         "wheeze"
       ],
       "refer": "",
-      "meaning": "the sound of a deep indrawn breath",
-      "type": "",
+      "meaning": "a brief, sharp exhale, as from pain, exertion, or resolve",
+      "type": "v",
       "example": [{
         "file": "ze-1a",
         "contributor": "",
@@ -24629,14 +24633,16 @@
     ],
     "definition": [{
       "equivalent": [
+        "breath",
+        "breathe",
         "gasp",
         "huff",
         "pant",
         "wheeze"
       ],
       "refer": "",
-      "meaning": "a series of deep or fast breaths",
-      "type": "",
+      "meaning": "a series of sharp, fast breaths, as from pain, exertion, or resolve",
+      "type": "v",
       "example": [
         {
           "file": "ze_ze-1a",
@@ -24669,75 +24675,58 @@
       "ゾク",
       "ゾクッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "flinch",
-          "jerk",
-          "jolt",
-          "shudder",
-          "startle"
-        ],
-        "refer": "",
-        "meaning": "an expression of surprise or startlement",
-        "type": "",
-        "example": [
-          {
-            "file": "zoku-1a",
-            "contributor": "",
-            "display": "ぞくっ",
-            "source": "world_full_of_monsters"
-          },
-          {
-            "file": "zoku-1b",
-            "contributor": "",
-            "display": "ゾクッ",
-            "source": "world_full_of_monsters"
-          },
-          {
-            "file": "zoku-1c",
-            "contributor": "",
-            "display": "ぞくっ",
-            "source": "komi_cant_communicate"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "quiver",
-          "shake",
-          "shiver",
-          "shudder",
-          "tremble",
-          "twitch"
-        ],
-        "refer": "",
-        "meaning": "an indication of trembling or shaking",
-        "type": "",
-        "example": [{
-          "file": "zoku-2a",
+    "definition": [{
+      "equivalent": [
+        "flinch",
+        "jerk",
+        "jolt",
+        "quiver",
+        "shake",
+        "shiver",
+        "shudder",
+        "startle",
+        "tremble",
+        "twitch"
+      ],
+      "refer": "",
+      "meaning": "involuntary shiver or shudder, as from fear, excitement, or pleasure",
+      "type": "e",
+      "example": [
+        {
+          "file": "zoku-1a",
+          "contributor": "",
+          "display": "ぞくっ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "zoku-1b",
+          "contributor": "",
+          "display": "ゾクッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "zoku-1c",
+          "contributor": "",
+          "display": "ぞくっ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "zoku-1d",
           "contributor": "",
           "display": "ぞくっ\u2026",
           "source": "embarrassing_and_sweet"
-        }]
-      }
-    ],
+        }
+      ]
+    }],
     "literal": "zoku"
   },
   {
     "hiragana": ["ぞくぞく"],
     "katakana": ["ゾクゾク"],
     "definition": [{
-      "equivalent": [
-        "quiver",
-        "shake",
-        "shiver",
-        "shudder",
-        "tremble",
-        "twitch"
-      ],
-      "refer": "",
-      "meaning": "an indication of trembling or shaking",
+      "equivalent": [""],
+      "refer": "zoku:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "zoku_zoku-1a",
@@ -24759,18 +24748,19 @@
     ],
     "definition": [{
       "equivalent": [
-        "clan",
-        "crowd",
-        "gang",
-        "horde",
-        "mass",
-        "mob",
-        "pack",
-        "throng"
+        "aligned",
+        "cluster",
+        "congregate",
+        "coordinated",
+        "flow",
+        "synchronized",
+        "throng",
+        "unison",
+        "united"
       ],
       "refer": "",
-      "meaning": "an indication of many people or creatures massed together",
-      "type": "",
+      "meaning": "sudden unified group movement",
+      "type": "m",
       "example": [{
         "file": "zoro-1a",
         "contributor": "",
@@ -24784,18 +24774,9 @@
     "hiragana": ["ぞろぞろ"],
     "katakana": ["ゾロゾロ"],
     "definition": [{
-      "equivalent": [
-        "clan",
-        "crowd",
-        "gang",
-        "horde",
-        "mass",
-        "mob",
-        "pack",
-        "throng"
-      ],
-      "refer": "",
-      "meaning": "a large number of persons or creatures massed together",
+      "equivalent": [""],
+      "refer": "zoro:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "zoro_zoro-1a",
@@ -24831,8 +24812,8 @@
         "tremble"
       ],
       "refer": "",
-      "meaning": "an indication of fear or disgust",
-      "type": "",
+      "meaning": "creepy, skin-crawling feeling",
+      "type": "e",
       "example": [
         {
           "file": "zowa-1a",
@@ -24861,18 +24842,18 @@
     ],
     "definition": [{
       "equivalent": [
-        "display",
-        "reveal",
-        "show",
-        "ta-da",
-        "unveil",
         "appear",
         "arrive",
-        "emerge"
+        "display",
+        "emerge",
+        "entrance",
+        "show",
+        "ta-da",
+        "unveil"
       ],
       "refer": "",
-      "meaning": "to suddenly appear, often in a dramatic reveal",
-      "type": "",
+      "meaning": "sudden appearance or arrival",
+      "type": "m",
       "example": [{
         "file": "zu-1a",
         "contributor": "",
@@ -24893,7 +24874,9 @@
     ],
     "definition": [{
       "equivalent": [
+        "rush",
         "shoom",
+        "sudden",
         "swoosh",
         "whish",
         "whiz",
@@ -24903,8 +24886,8 @@
         "zoom"
       ],
       "refer": "",
-      "meaning": "something suddenly and quickly moving through the air",
-      "type": "",
+      "meaning": "sudden, forceful rush into view, often dramatic or imposing",
+      "type": "m",
       "example": [{
         "file": "zua-1a",
         "contributor": "",
@@ -24931,8 +24914,8 @@
         "slice"
       ],
       "refer": "",
-      "meaning": "a cut, as with a sword or knife",
-      "type": "",
+      "meaning": "decisive slice in one stroke, often dramatic",
+      "type": "o",
       "example": [{
         "file": "zuba-1a",
         "contributor": "",
@@ -24953,8 +24936,8 @@
         "wha-bam"
       ],
       "refer": "",
-      "meaning": "to reveal something mundane in an overly dramatic fashion, often used humorously",
-      "type": "",
+      "meaning": "explosively dramatic reveal, often humorous as the reveal is unexpectedly mundane or silly",
+      "type": "o",
       "example": [{
         "file": "zubaban-1a",
         "contributor": "Artrix",
@@ -24969,20 +24952,18 @@
     "katakana": ["ズビシッ"],
     "definition": [{
       "equivalent": [
-        "punch",
-        "strike",
-        "smack",
-        "ka-blam",
         "crack",
-        "hit",
-        "slam",
-        "smite",
         "crunch",
-        "impact"
+        "hit",
+        "impact",
+        "punch",
+        "smack",
+        "smite",
+        "strike"
       ],
       "refer": "",
-      "meaning": "a sharp, piercing or penetrating sound, usually precise",
-      "type": "",
+      "meaning": "a fast, precise downward strike",
+      "type": "o",
       "example": [{
         "file": "zubishi-1a",
         "contributor": "",
@@ -25003,18 +24984,18 @@
     ],
     "definition": [{
       "equivalent": [
-        "enter",
-        "plunge",
-        "insert",
-        "sink",
         "dip",
-        "penetrate",
         "dunk",
-        "pierce"
+        "enter",
+        "insert",
+        "penetrate",
+        "pierce",
+        "plunge",
+        "sink"
       ],
       "refer": "",
-      "meaning": "an indication or sound of entering or plunging into something, sometimes forcefully",
-      "type": "",
+      "meaning": "sudden plunge into soft material",
+      "type": "o",
       "example": [
         {
           "file": "zubo-1a",
@@ -25047,13 +25028,15 @@
       "equivalent": [
         "crash",
         "fall",
+        "skid",
         "slide",
         "slip",
+        "tumble",
         "tump"
       ],
       "refer": "",
-      "meaning": "to fall as a result of slipping",
-      "type": "",
+      "meaning": "a crash followed by sliding, skidding, or tumbling",
+      "type": "o",
       "example": [{
         "file": "zuda-1a",
         "contributor": "",
@@ -25088,8 +25071,8 @@
         "wham"
       ],
       "refer": "",
-      "meaning": "the sound of a heavy impact or strike",
-      "type": "",
+      "meaning": "a heavy impact or strike",
+      "type": "o",
       "example": [{
         "file": "zudo-1a",
         "contributor": "Artrix",
@@ -25124,8 +25107,8 @@
         "wham"
       ],
       "refer": "",
-      "meaning": "the sound of a strong piercing blow",
-      "type": "",
+      "meaning": "a strong, heavy blow",
+      "type": "o",
       "example": [
         {
           "file": "zugya-1a",
@@ -25156,67 +25139,56 @@
       "ズィ",
       "ズィッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "close",
-          "tight",
-          "press",
-          "too close",
-          "crowded"
-        ],
-        "refer": "",
-        "meaning": "an indication of getting too close to someone's face, often uncomfortably so",
-        "type": "",
-        "example": [
-          {
-            "file": "zui-1a",
-            "contributor": "",
-            "display": "ずいっ",
-            "source": "reincarnated_farm_girl"
-          },
-          {
-            "file": "zui-1b",
-            "contributor": "",
-            "display": "ずい",
-            "source": "abandoned_reincarnation_sage"
-          },
-          {
-            "file": "zui-1c",
-            "contributor": "",
-            "display": "ズィ",
-            "source": "cheat_pharmacist"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "thrust",
-          "shove",
-          "push",
-          "drive",
-          "move",
-          "force"
-        ],
-        "refer": "",
-        "meaning": "an indication of thrusting, shoving, or pushing",
-        "type": "",
-        "example": [
-          {
-            "file": "zui-2a",
-            "contributor": "",
-            "display": "ずいっ",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "zui-2b",
-            "contributor": "",
-            "display": "ズィッ",
-            "source": "way_of_the_house_husband"
-          }
-        ]
-      }
-    ],
+    "definition": [{
+      "equivalent": [
+        "close",
+        "crowded",
+        "drive",
+        "force",
+        "move",
+        "press",
+        "push",
+        "shove",
+        "thrust",
+        "tight",
+        "too close"
+      ],
+      "refer": "",
+      "meaning": "a sudden and assertive forward intrusion",
+      "type": "m",
+      "example": [
+        {
+          "file": "zui-1a",
+          "contributor": "",
+          "display": "ずいっ",
+          "source": "reincarnated_farm_girl"
+        },
+        {
+          "file": "zui-1b",
+          "contributor": "",
+          "display": "ずい",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "zui-1c",
+          "contributor": "",
+          "display": "ズィ",
+          "source": "cheat_pharmacist"
+        },
+        {
+          "file": "zui-1d",
+          "contributor": "",
+          "display": "ずいっ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "zui-1e",
+          "contributor": "",
+          "display": "ズィッ",
+          "source": "way_of_the_house_husband"
+        }
+      ]
+    }],
     "literal": "zui"
   },
   {
@@ -25231,14 +25203,16 @@
     "definition": [{
       "equivalent": [
         "ache",
+        "anguish",
         "hurt",
+        "misery",
         "pain",
-        "throb",
-        "sting"
+        "sting",
+        "throb"
       ],
       "refer": "",
-      "meaning": "an expression of sharp pain",
-      "type": "",
+      "meaning": "sharp, sudden pain, either physical or emotional",
+      "type": "e",
       "example": [{
         "file": "zuki-1a",
         "contributor": "",
@@ -25258,15 +25232,9 @@
       "ズキンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "throb",
-        "sting",
-        "ache",
-        "anguish",
-        "misery"
-      ],
-      "refer": "",
-      "meaning": "an expression of emotional or physical pain",
+      "equivalent": [""],
+      "refer": "zuki:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "zukin-1a",
@@ -25295,8 +25263,8 @@
         "longing"
       ],
       "refer": "",
-      "meaning": "the sound of a strong heartthrob, often used to indicate exaggerated cuteness or desirability",
-      "type": "",
+      "meaning": "strong heartthrob, indicating exaggerated cuteness or desirability",
+      "type": "e",
       "example": [
         {
           "file": "zukyun-1a",
@@ -25341,14 +25309,15 @@
           "dejected",
           "depressed",
           "doom",
+          "dread",
           "dreary",
           "gloom",
           "glum",
           "mope"
         ],
         "refer": "",
-        "meaning": "an expression of low spirits",
-        "type": "",
+        "meaning": "gloom or depression",
+        "type": "e",
         "example": [
           {
             "file": "zun-1a",
@@ -25380,14 +25349,15 @@
           "killing intent",
           "livid",
           "mad",
+          "menace",
           "pressure",
           "rage",
           "steamed",
           "tension"
         ],
         "refer": "",
-        "meaning": "an expression of rage, killing-intent, or bloodlust",
-        "type": "",
+        "meaning": "rage, killing-intent, or bloodlust",
+        "type": "e",
         "example": [{
           "file": "zun-2a",
           "contributor": "",
@@ -25407,8 +25377,8 @@
           "whomp"
         ],
         "refer": "",
-        "meaning": "a hard crashing or thudding sound",
-        "type": "",
+        "meaning": "hard crash or thud",
+        "type": "o",
         "example": [{
           "file": "zun-3a",
           "contributor": "",
@@ -25424,21 +25394,21 @@
     "katakana": ["ズンズン"],
     "definition": [{
       "equivalent": [
-        "step",
-        "tap",
-        "thump",
+        "advance",
+        "determined",
         "jog",
-        "trot",
-        "sprint",
-        "dash",
-        "scurry",
-        "scoot",
+        "march",
+        "move",
+        "relentless",
         "rush",
-        "chase"
+        "step",
+        "stomp",
+        "stride",
+        "thump"
       ],
       "refer": "",
-      "meaning": "to walk or run quickly",
-      "type": "",
+      "meaning": "relentless, determined forward movement",
+      "type": "m",
       "example": [
         {
           "file": "zun_zun-1a",
@@ -25471,18 +25441,17 @@
     ],
     "definition": [{
       "equivalent": [
-        "menace",
-        "threat",
-        "intimidate",
-        "bully",
-        "pressure",
-        "intense",
         "fierce",
-        "growl"
+        "intense",
+        "intimidate",
+        "menace",
+        "pressure",
+        "surge",
+        "threat"
       ],
       "refer": "",
-      "meaning": "a menacing or intense vocalization",
-      "type": "",
+      "meaning": "a surge of intimidating presence or aura",
+      "type": "e",
       "example": [{
         "file": "zuo-1a",
         "contributor": "",
@@ -25505,12 +25474,13 @@
       "equivalent": [
         "cleave",
         "cut",
+        "sharp",
         "slash",
         "slice"
       ],
       "refer": "",
-      "meaning": "the sound of a sharp and impactful cut",
-      "type": "",
+      "meaning": "a sharp, impressive cut, typically completely through something",
+      "type": "o",
       "example": [{
         "file": "zupa-1a",
         "contributor": "",
@@ -25521,16 +25491,19 @@
     "literal": "zupa"
   },
   {
-    "hiragana": ["ずら"],
-    "katakana": ["ズラ"],
+    "hiragana": [
+      "ずら",
+      "ずらー"
+    ],
+    "katakana": [
+      "ズラ",
+      "ズラー"
+    ],
     "definition": [{
-      "equivalent": [
-        "lined up",
-        "queued"
-      ],
+      "equivalent": [""],
       "refer": "",
-      "meaning": "a series of things or people lined up one after another",
-      "type": "",
+      "meaning": "lined up in neat succession",
+      "type": "s",
       "example": [{
         "file": "zura-1a",
         "contributor": "",
@@ -25543,52 +25516,44 @@
   {
     "hiragana": ["ずりずり"],
     "katakana": ["ズリズリ"],
-    "definition": [
-      {
-        "equivalent": [
-          "drag",
-          "move",
-          "pull",
-          "slide"
-        ],
-        "refer": "",
-        "meaning": "to series of sliding or dragging noises",
-        "type": "",
-        "example": [
-          {
-            "file": "zuri_zuri-1a",
-            "contributor": "",
-            "display": "ズリズリ\u2026",
-            "source": "abandoned_reincarnation_sage"
-          },
-          {
-            "file": "zuri_zuri-1b",
-            "contributor": "",
-            "display": "ズリ ズリ",
-            "source": "hone_dragon"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "lumber",
-          "lurch",
-          "stagger",
-          "stumble",
-          "sway",
-          "waddle"
-        ],
-        "refer": "",
-        "meaning": "to stand or walk in an unsteady manner",
-        "type": "",
-        "example": [{
-          "file": "zuri_zuri-2a",
+    "definition": [{
+      "equivalent": [
+        "drag",
+        "lumber",
+        "lurch",
+        "move",
+        "pull",
+        "slide",
+        "slip",
+        "stagger",
+        "stumble",
+        "sway",
+        "waddle"
+      ],
+      "refer": "",
+      "meaning": "dragging or shuffling movement",
+      "type": "m",
+      "example": [
+        {
+          "file": "zuri_zuri-1a",
+          "contributor": "",
+          "display": "ズリズリ\u2026",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "zuri_zuri-1b",
+          "contributor": "",
+          "display": "ズリ ズリ",
+          "source": "hone_dragon"
+        },
+        {
+          "file": "zuri_zuri-1c",
           "contributor": "",
           "display": "ズリ ズリ",
           "source": "simple_sword_saint"
-        }]
-      }
-    ],
+        }
+      ]
+    }],
     "literal": "zuri zuri"
   },
   {
@@ -25601,15 +25566,9 @@
       "ズルッ"
     ],
     "definition": [{
-      "equivalent": [
-        "drag",
-        "move",
-        "pull",
-        "slide",
-        "slip"
-      ],
-      "refer": "",
-      "meaning": "the sound of something sliding or being dragged",
+      "equivalent": [""],
+      "refer": "zuri zuri:1",
+      "meaning": "",
       "type": "",
       "example": [
         {
@@ -25639,16 +25598,16 @@
     ],
     "definition": [{
       "equivalent": [
+        "blub",
         "slurp",
-        "suck",
         "sniff",
         "sniffle",
         "snivel",
-        "blub"
+        "suck"
       ],
       "refer": "",
-      "meaning": "a wet slurping or sniffing noise",
-      "type": "",
+      "meaning": "long, wet slurp or sniff",
+      "type": "o",
       "example": [{
         "file": "zururu-1a",
         "contributor": "",
@@ -25668,15 +25627,9 @@
       "ズルズルッ"
     ],
     "definition": [{
-      "equivalent": [
-        "drag",
-        "move",
-        "pull",
-        "slide",
-        "slip"
-      ],
-      "refer": "",
-      "meaning": "the indication or sound of something sliding or being dragged",
+      "equivalent": [""],
+      "refer": "zuri zuri:1",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "zuru_zuru-1a",
@@ -25702,15 +25655,15 @@
           "bam",
           "crash",
           "shatter",
+          "skid",
           "slam",
+          "slide",
           "smash",
-          "thud",
-          "thump",
-          "whomp"
+          "thud"
         ],
         "refer": "",
-        "meaning": "the sound of a heavy or substantial impact",
-        "type": "",
+        "meaning": "sliding or skidding to a heavy crash",
+        "type": "o",
         "example": [{
           "file": "zusha-1a",
           "contributor": "",
@@ -25729,8 +25682,8 @@
           "threatening"
         ],
         "refer": "",
-        "meaning": "an imposing or heavy presence",
-        "type": "",
+        "meaning": "intimidating appearance of someone large or heavy",
+        "type": "e",
         "example": [{
           "file": "zusha-2a",
           "contributor": "",
@@ -25769,8 +25722,8 @@
           "whomp"
         ],
         "refer": "",
-        "meaning": "a hard impact from falling or thrown person",
-        "type": "",
+        "meaning": "a hard impact from falling",
+        "type": "o",
         "example": [
           {
             "file": "zuza-1a",
@@ -25794,8 +25747,8 @@
           "squeel"
         ],
         "refer": "",
-        "meaning": "the sound sliding or skidding",
-        "type": "",
+        "meaning": "sliding or skidding",
+        "type": "o",
         "example": [{
           "file": "zuza-2a",
           "contributor": "",

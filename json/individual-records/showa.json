@@ -1,40 +1,36 @@
 {
-  "literal": "showa",
-  "katakana": [
-    "ショワ",
-    "ショワワ"
-  ],
   "hiragana": [
     "しょわ",
     "しょわわ"
   ],
-  "definition": [
-    {
-      "refer": "",
-      "type": "m",
-      "meaning": "spreading or moving liquid, often used to express involuntary urination",
-      "equivalent": [
-        "dribble",
-        "flow",
-        "pee",
-        "piddle",
-        "piss",
-        "pissing",
-        "pour",
-        "run",
-        "spread",
-        "stream",
-        "trickle",
-        "urine"
-      ],
-      "example": [
-        {
-          "source": "uncle_at_heart",
-          "file": "showa-1a",
-          "display": "しょわ…",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ショワ",
+    "ショワワ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dribble",
+      "flow",
+      "pee",
+      "piddle",
+      "piss",
+      "pissing",
+      "pour",
+      "run",
+      "spread",
+      "stream",
+      "trickle",
+      "urine"
+    ],
+    "refer": "",
+    "meaning": "spreading or moving liquid, often used to express involuntary urination",
+    "type": "m",
+    "example": [{
+      "file": "showa-1a",
+      "contributor": "",
+      "display": "しょわ\u2026",
+      "source": "uncle_at_heart"
+    }]
+  }],
+  "literal": "showa"
 }

@@ -1,29 +1,23 @@
 {
-  "literal": "zappon",
-  "katakana": [
-    "ザッパン",
-    "ザッパーン"
-  ],
   "hiragana": [
     "ざっぱん",
     "ざっぱーん"
   ],
-  "definition": [
-    {
-      "refer": "zaba:1",
-      "type": "",
-      "meaning": "",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "buy_the_land",
-          "file": "zappon-1a",
-          "display": "ザッパーン!",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "katakana": [
+    "ザッパン",
+    "ザッパーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "zaba:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "zappon-1a",
+      "contributor": "",
+      "display": "ザッパーン!",
+      "source": "buy_the_land"
+    }]
+  }],
+  "literal": "zappon"
 }

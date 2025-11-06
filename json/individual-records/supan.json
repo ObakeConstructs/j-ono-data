@@ -1,27 +1,17 @@
 {
-  "literal": "supan",
-  "katakana": [
-    "スパン"
-  ],
-  "hiragana": [
-    "すぱん"
-  ],
-  "definition": [
-    {
-      "refer": "supa:1",
-      "type": "",
-      "meaning": "s",
-      "equivalent": [
-        ""
-      ],
-      "example": [
-        {
-          "source": "strongest_thread_master",
-          "file": "supan-1a",
-          "display": "スパン",
-          "contributor": ""
-        }
-      ]
-    }
-  ]
+  "hiragana": ["すぱん"],
+  "katakana": ["スパン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "supa:1",
+    "meaning": "s",
+    "type": "",
+    "example": [{
+      "file": "supan-1a",
+      "contributor": "",
+      "display": "スパン",
+      "source": "strongest_thread_master"
+    }]
+  }],
+  "literal": "supan"
 }
