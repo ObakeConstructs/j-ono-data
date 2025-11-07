@@ -19,14 +19,22 @@
       "crunch"
     ],
     "refer": "",
-    "meaning": "sharp, short, crashing or breaking",
+    "meaning": "sharp, short, crashing or breaking sound",
     "type": "o",
-    "example": [{
-      "file": "gasha-1a",
-      "contributor": "",
-      "display": "ガシャッ",
-      "source": "modern_dungeon_capture"
-    }]
+    "example": [
+      {
+        "file": "gasha-1a",
+        "contributor": "",
+        "display": "ガシャッ",
+        "source": "modern_dungeon_capture"
+      },
+      {
+        "file": "gasha-1b",
+        "contributor": "",
+        "display": "ガシャ",
+        "source": "world_full_of_zombies"
+      }
+    ]
   }],
   "literal": "gasha"
 }

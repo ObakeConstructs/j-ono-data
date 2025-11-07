@@ -23,14 +23,11 @@
     {
       "equivalent": [
         "pit-a-pat",
-        "pitter-patter",
-        "scamper",
-        "step",
-        "tap"
+        "pitter-patter"
       ],
-      "refer": "",
-      "meaning": "bare or soft feet lightly contacting the floor",
-      "type": "m",
+      "refer": "peta:1",
+      "meaning": "",
+      "type": "",
       "example": [{
         "file": "peta_peta-2a",
         "contributor": "",

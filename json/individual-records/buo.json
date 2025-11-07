@@ -52,7 +52,7 @@
         "vroom"
       ],
       "refer": "",
-      "meaning": "the low rumble of an automobile engine",
+      "meaning": "the low rumble of an engine",
       "type": "o",
       "example": [
         {
@@ -66,6 +66,12 @@
           "contributor": "",
           "display": "ブォォォ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "buo-2c",
+          "contributor": "",
+          "display": "ブォォォォ",
+          "source": "world_full_of_zombies"
         }
       ]
     }

@@ -2,15 +2,10 @@
   "hiragana": ["くんくん"],
   "katakana": ["クンクン"],
   "definition": [{
-    "equivalent": [
-      "smell",
-      "sniff",
-      "snuff",
-      "whiff"
-    ],
-    "refer": "",
-    "meaning": "small sniffing movements",
-    "type": "m",
+    "equivalent": [""],
+    "refer": "kun:1",
+    "meaning": "s",
+    "type": "",
     "example": [
       {
         "file": "kun_kun-1a",

@@ -2,16 +2,10 @@
   "hiragana": ["もぞもぞ"],
   "katakana": ["モゾモゾ"],
   "definition": [{
-    "equivalent": [
-      "fidget",
-      "squirm",
-      "thrash",
-      "wriggle",
-      "writhe"
-    ],
-    "refer": "",
-    "meaning": "small, awkward or clumsy squirming or wriggling, often from embarrassment",
-    "type": "s",
+    "equivalent": [""],
+    "refer": "mozo:1",
+    "meaning": "",
+    "type": "",
     "example": [{
       "file": "mozo_mozo-1a",
       "contributor": "",

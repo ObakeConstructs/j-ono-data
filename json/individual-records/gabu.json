@@ -1,11 +1,13 @@
 {
   "hiragana": [
     "がぶ",
-    "がぶっ"
+    "がぶっ",
+    "がぶーっ"
   ],
   "katakana": [
     "ガブ",
-    "ガブッ"
+    "ガブッ",
+    "ガブーッ"
   ],
   "definition": [{
     "equivalent": [
@@ -16,12 +18,20 @@
     "refer": "",
     "meaning": "a big or forceful bite, usually sudden or exaggerated",
     "type": "o",
-    "example": [{
-      "file": "gabu-1a",
-      "contributor": "",
-      "display": "ガブッ",
-      "source": "world_full_of_monsters"
-    }]
+    "example": [
+      {
+        "file": "gabu-1a",
+        "contributor": "",
+        "display": "ガブッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gabu-1b",
+        "contributor": "",
+        "display": "ガブーッ",
+        "source": "world_full_of_zombies"
+      }
+    ]
   }],
   "literal": "gabu"
 }

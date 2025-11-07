@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "もぞ",
+    "もぞっ"
+  ],
+  "katakana": [
+    "モゾ",
+    "モゾッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fidget",
+      "squirm",
+      "thrash",
+      "wriggle",
+      "writhe"
+    ],
+    "refer": "",
+    "meaning": "small, awkward or clumsy squirming or wriggling, often from embarrassment",
+    "type": "s",
+    "example": [{
+      "file": "mozo-1a",
+      "contributor": "",
+      "display": "もぞ\u2026",
+      "source": "world_full_of_zombies"
+    }]
+  }],
+  "literal": "mozo"
+}

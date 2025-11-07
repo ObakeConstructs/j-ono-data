@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "くん",
+    "くんっ"
+  ],
+  "katakana": [
+    "クン",
+    "クンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "smell",
+      "sniff",
+      "snuff",
+      "whiff"
+    ],
+    "refer": "",
+    "meaning": "small sniffing movement",
+    "type": "m",
+    "example": [{
+      "file": "kun-1a",
+      "contributor": "",
+      "display": "クン\u2026",
+      "source": "world_full_of_zombies"
+    }]
+  }],
+  "literal": "kun"
+}
