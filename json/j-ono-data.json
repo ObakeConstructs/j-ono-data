@@ -2622,7 +2622,7 @@
           "vroom"
         ],
         "refer": "",
-        "meaning": "the low rumble of an automobile engine",
+        "meaning": "the low rumble of an engine",
         "type": "o",
         "example": [
           {
@@ -2636,6 +2636,12 @@
             "contributor": "",
             "display": "ブォォォ",
             "source": "spy_x_family"
+          },
+          {
+            "file": "buo-2c",
+            "contributor": "",
+            "display": "ブォォォォ",
+            "source": "world_full_of_zombies"
           }
         ]
       }
@@ -3287,12 +3293,20 @@
       "refer": "",
       "meaning": "a dental click or tsk, typically indicating annoyance ",
       "type": "v",
-      "example": [{
-        "file": "chi-1a",
-        "contributor": "",
-        "display": "ちっ",
-        "source": "way_of_isekai_cooking"
-      }]
+      "example": [
+        {
+          "file": "chi-1a",
+          "contributor": "",
+          "display": "ちっ",
+          "source": "way_of_isekai_cooking"
+        },
+        {
+          "file": "chi-1b",
+          "contributor": "",
+          "display": "チッ..",
+          "source": "world_full_of_zombies"
+        }
+      ]
     }],
     "literal": "chi"
   },
@@ -6242,11 +6256,13 @@
   {
     "hiragana": [
       "がぶ",
-      "がぶっ"
+      "がぶっ",
+      "がぶーっ"
     ],
     "katakana": [
       "ガブ",
-      "ガブッ"
+      "ガブッ",
+      "ガブーッ"
     ],
     "definition": [{
       "equivalent": [
@@ -6257,12 +6273,20 @@
       "refer": "",
       "meaning": "a big or forceful bite, usually sudden or exaggerated",
       "type": "o",
-      "example": [{
-        "file": "gabu-1a",
-        "contributor": "",
-        "display": "ガブッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "gabu-1a",
+          "contributor": "",
+          "display": "ガブッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gabu-1b",
+          "contributor": "",
+          "display": "ガブーッ",
+          "source": "world_full_of_zombies"
+        }
+      ]
     }],
     "literal": "gabu"
   },
@@ -6329,6 +6353,23 @@
       ]
     }],
     "literal": "gacha"
+  },
+  {
+    "hiragana": ["がちゃがちゃ"],
+    "katakana": ["ガチャガチャ"],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "gacha:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "gacha_gacha-1a",
+        "contributor": "",
+        "display": "ガチャ ガチャ",
+        "source": "world_full_of_zombies"
+      }]
+    }],
+    "literal": "gacha gacha"
   },
   {
     "hiragana": ["がちがち"],
@@ -7018,14 +7059,22 @@
         "crunch"
       ],
       "refer": "",
-      "meaning": "sharp, short, crashing or breaking",
+      "meaning": "sharp, short, crashing or breaking sound",
       "type": "o",
-      "example": [{
-        "file": "gasha-1a",
-        "contributor": "",
-        "display": "ガシャッ",
-        "source": "modern_dungeon_capture"
-      }]
+      "example": [
+        {
+          "file": "gasha-1a",
+          "contributor": "",
+          "display": "ガシャッ",
+          "source": "modern_dungeon_capture"
+        },
+        {
+          "file": "gasha-1b",
+          "contributor": "",
+          "display": "ガシャ",
+          "source": "world_full_of_zombies"
+        }
+      ]
     }],
     "literal": "gasha"
   },
@@ -12057,6 +12106,12 @@
           "contributor": "",
           "display": "カリカリ",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "kari_kari-1d",
+          "contributor": "",
+          "display": "カリ カリ カリ",
+          "source": "world_full_of_zombies"
         }
       ]
     }],
@@ -13559,6 +13614,34 @@
     "literal": "kuku"
   },
   {
+    "hiragana": [
+      "くん",
+      "くんっ"
+    ],
+    "katakana": [
+      "クン",
+      "クンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "smell",
+        "sniff",
+        "snuff",
+        "whiff"
+      ],
+      "refer": "",
+      "meaning": "small sniffing movement",
+      "type": "m",
+      "example": [{
+        "file": "kun-1a",
+        "contributor": "",
+        "display": "クン\u2026",
+        "source": "world_full_of_zombies"
+      }]
+    }],
+    "literal": "kun"
+  },
+  {
     "hiragana": ["くなくな"],
     "katakana": ["クナクナ"],
     "definition": [{
@@ -13593,15 +13676,10 @@
     "hiragana": ["くんくん"],
     "katakana": ["クンクン"],
     "definition": [{
-      "equivalent": [
-        "smell",
-        "sniff",
-        "snuff",
-        "whiff"
-      ],
-      "refer": "",
-      "meaning": "small sniffing movements",
-      "type": "m",
+      "equivalent": [""],
+      "refer": "kun:1",
+      "meaning": "s",
+      "type": "",
       "example": [
         {
           "file": "kun_kun-1a",
@@ -14538,8 +14616,14 @@
     "literal": "mowa mowa"
   },
   {
-    "hiragana": ["もぞもぞ"],
-    "katakana": ["モゾモゾ"],
+    "hiragana": [
+      "もぞ",
+      "もぞっ"
+    ],
+    "katakana": [
+      "モゾ",
+      "モゾッ"
+    ],
     "definition": [{
       "equivalent": [
         "fidget",
@@ -14551,6 +14635,23 @@
       "refer": "",
       "meaning": "small, awkward or clumsy squirming or wriggling, often from embarrassment",
       "type": "s",
+      "example": [{
+        "file": "mozo-1a",
+        "contributor": "",
+        "display": "もぞ\u2026",
+        "source": "world_full_of_zombies"
+      }]
+    }],
+    "literal": "mozo"
+  },
+  {
+    "hiragana": ["もぞもぞ"],
+    "katakana": ["モゾモゾ"],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "mozo:1",
+      "meaning": "",
+      "type": "",
       "example": [{
         "file": "mozo_mozo-1a",
         "contributor": "",
@@ -17197,6 +17298,35 @@
   },
   {
     "hiragana": [
+      "ぺた",
+      "ぺたっ"
+    ],
+    "katakana": [
+      "ペタ",
+      "ペタッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "pat",
+        "patter",
+        "scamper",
+        "step",
+        "tap"
+      ],
+      "refer": "",
+      "meaning": "soft feet lightly contacting the floor",
+      "type": "m",
+      "example": [{
+        "file": "peta-1a",
+        "contributor": "",
+        "display": "ぺた\u2026",
+        "source": "world_full_of_zombies"
+      }]
+    }],
+    "literal": "peta"
+  },
+  {
+    "hiragana": [
       "ぺたん",
       "ぺたんっ"
     ],
@@ -17255,14 +17385,11 @@
       {
         "equivalent": [
           "pit-a-pat",
-          "pitter-patter",
-          "scamper",
-          "step",
-          "tap"
+          "pitter-patter"
         ],
-        "refer": "",
-        "meaning": "bare or soft feet lightly contacting the floor",
-        "type": "m",
+        "refer": "peta:1",
+        "meaning": "",
+        "type": "",
         "example": [{
           "file": "peta_peta-2a",
           "contributor": "",
