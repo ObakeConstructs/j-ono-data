@@ -57,12 +57,20 @@
       "refer": "",
       "meaning": "hard rattling or crunching of something breaking down, tumbling, or crumbling",
       "type": "o",
-      "example": [{
-        "file": "gara-2a",
-        "contributor": "",
-        "display": "ガラッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "gara-2a",
+          "contributor": "",
+          "display": "ガラッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gara-2b",
+          "contributor": "",
+          "display": "ガラ\u2026",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
     }
   ],
   "literal": "gara"

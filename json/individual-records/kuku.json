@@ -21,12 +21,20 @@
       "refer": "",
       "meaning": "suppressed snicker or laugh",
       "type": "e",
-      "example": [{
-        "file": "kuku-1a",
-        "contributor": "",
-        "display": "くくっ",
-        "source": "drawing"
-      }]
+      "example": [
+        {
+          "file": "kuku-1a",
+          "contributor": "",
+          "display": "くくっ",
+          "source": "drawing"
+        },
+        {
+          "file": "kuku-1b",
+          "contributor": "",
+          "display": "クク",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
     },
     {
       "equivalent": [

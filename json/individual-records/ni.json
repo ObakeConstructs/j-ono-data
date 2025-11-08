@@ -17,12 +17,20 @@
     "refer": "",
     "meaning": "a sharp, quick, toothy grin",
     "type": "s",
-    "example": [{
-      "file": "ni-1a",
-      "contributor": "",
-      "display": "ニッ",
-      "source": "fushi_no_kami"
-    }]
+    "example": [
+      {
+        "file": "ni-1a",
+        "contributor": "",
+        "display": "ニッ",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "ni-1b",
+        "contributor": "",
+        "display": "ニッ",
+        "source": "minimum_wage_demon_king"
+      }
+    ]
   }],
   "literal": "ni"
 }

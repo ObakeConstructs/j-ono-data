@@ -12,12 +12,20 @@
     "refer": "ko:3",
     "meaning": "",
     "type": "",
-    "example": [{
-      "file": "kon-1a",
-      "contributor": "",
-      "display": "コン",
-      "source": "d_genesis"
-    }]
+    "example": [
+      {
+        "file": "kon-1a",
+        "contributor": "",
+        "display": "コン",
+        "source": "d_genesis"
+      },
+      {
+        "file": "kon-1b",
+        "contributor": "",
+        "display": "コン",
+        "source": "minimum_wage_demon_king"
+      }
+    ]
   }],
   "literal": "kon"
 }

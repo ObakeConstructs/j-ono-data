@@ -74,6 +74,31 @@
         "display": "パアア",
         "source": "reincarnated_farm_girl"
       }]
+    },
+    {
+      "equivalent": [
+        "biff",
+        "bonk",
+        "clap",
+        "clip",
+        "pat",
+        "rap",
+        "scuff",
+        "slap",
+        "stroke",
+        "swat",
+        "swipe",
+        "thump"
+      ],
+      "refer": "",
+      "meaning": "small or light impact",
+      "type": "o",
+      "example": [{
+        "file": "pa-3a",
+        "contributor": "",
+        "display": "パッ",
+        "source": "minimum_wage_demon_king"
+      }]
     }
   ],
   "literal": "pa"

@@ -51,12 +51,20 @@
       "refer": "",
       "meaning": "an abrupt, jerky, or uncontrolled movement",
       "type": "m",
-      "example": [{
-        "file": "bun-2a",
-        "contributor": "",
-        "display": "ブンッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "bun-2a",
+          "contributor": "",
+          "display": "ブンッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "bun-2b",
+          "contributor": "",
+          "display": "ブン",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
     }
   ],
   "literal": "bun"

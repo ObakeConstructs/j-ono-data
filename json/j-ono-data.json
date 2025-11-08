@@ -1238,12 +1238,20 @@
         "refer": "",
         "meaning": "a quick gesture",
         "type": "m",
-        "example": [{
-          "file": "bi-2a",
-          "contributor": "",
-          "display": "ビッ",
-          "source": "killed_by_gods_mistake"
-        }]
+        "example": [
+          {
+            "file": "bi-2a",
+            "contributor": "",
+            "display": "ビッ",
+            "source": "killed_by_gods_mistake"
+          },
+          {
+            "file": "bi-2b",
+            "contributor": "",
+            "display": "ビッ",
+            "source": "minimum_wage_demon_king"
+          }
+        ]
       }
     ],
     "literal": "bi"
@@ -1975,12 +1983,20 @@
       "refer": "",
       "meaning": "worn out or exhausted",
       "type": "s",
-      "example": [{
-        "file": "boro-1a",
-        "contributor": "",
-        "display": "ボロッ\u2026",
-        "source": "sex_with_me_sells"
-      }]
+      "example": [
+        {
+          "file": "boro-1a",
+          "contributor": "",
+          "display": "ボロッ\u2026",
+          "source": "sex_with_me_sells"
+        },
+        {
+          "file": "boro-1b",
+          "contributor": "",
+          "display": "ボロ",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
     }],
     "literal": "boro"
   },
@@ -2529,12 +2545,20 @@
         "refer": "",
         "meaning": "an abrupt, jerky, or uncontrolled movement",
         "type": "m",
-        "example": [{
-          "file": "bun-2a",
-          "contributor": "",
-          "display": "ブンッ",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "bun-2a",
+            "contributor": "",
+            "display": "ブンッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "bun-2b",
+            "contributor": "",
+            "display": "ブン",
+            "source": "minimum_wage_demon_king"
+          }
+        ]
       }
     ],
     "literal": "bun"
@@ -5053,6 +5077,38 @@
   },
   {
     "hiragana": [
+      "どずん",
+      "どずぅん"
+    ],
+    "katakana": [
+      "ドズン",
+      "ドズゥン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "bang",
+        "crash",
+        "slam",
+        "thud",
+        "thump",
+        "wham",
+        "whomp"
+      ],
+      "refer": "",
+      "meaning": "heavy, resonant thud",
+      "type": "o",
+      "example": [{
+        "file": "dozun-1a",
+        "contributor": "",
+        "display": "ドズゥン",
+        "source": "minimum_wage_demon_king"
+      }]
+    }],
+    "literal": "dozun"
+  },
+  {
+    "hiragana": [
       "どど",
       "どぉどぉ",
       "どおどお",
@@ -6864,12 +6920,20 @@
         "refer": "",
         "meaning": "hard rattling or crunching of something breaking down, tumbling, or crumbling",
         "type": "o",
-        "example": [{
-          "file": "gara-2a",
-          "contributor": "",
-          "display": "ガラッ",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "gara-2a",
+            "contributor": "",
+            "display": "ガラッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "gara-2b",
+            "contributor": "",
+            "display": "ガラ\u2026",
+            "source": "minimum_wage_demon_king"
+          }
+        ]
       }
     ],
     "literal": "gara"
@@ -7826,6 +7890,12 @@
           "contributor": "",
           "display": "ギロッ",
           "source": "ai_and_izawa"
+        },
+        {
+          "file": "giro-1c",
+          "contributor": "",
+          "display": "ギロッ",
+          "source": "minimum_wage_demon_king"
         }
       ]
     }],
@@ -9596,6 +9666,12 @@
             "contributor": "",
             "display": "ぎゅっ",
             "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "gyu-1c",
+            "contributor": "",
+            "display": "ギュ",
+            "source": "minimum_wage_demon_king"
           }
         ]
       },
@@ -12046,6 +12122,7 @@
       "equivalent": [
         "clang",
         "clank",
+        "clink",
         "clump",
         "clunk",
         "hit",
@@ -12053,14 +12130,22 @@
         "plink"
       ],
       "refer": "",
-      "meaning": "metallic or hollow clanking or dinging",
+      "meaning": "metallic clanking or hollow clunking",
       "type": "o",
-      "example": [{
-        "file": "kara-1a",
-        "contributor": "",
-        "display": "カラッ",
-        "source": "dungeon_dining_room"
-      }]
+      "example": [
+        {
+          "file": "kara-1a",
+          "contributor": "",
+          "display": "カラッ",
+          "source": "dungeon_dining_room"
+        },
+        {
+          "file": "kara-1b",
+          "contributor": "",
+          "display": "カラッ",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
     }],
     "literal": "kara"
   },
@@ -12098,7 +12183,7 @@
         "jingle"
       ],
       "refer": "kara:1",
-      "meaning": ", as of a small bell",
+      "meaning": "",
       "type": "",
       "example": [{
         "file": "karan_karan-1a",
@@ -13105,12 +13190,20 @@
       "refer": "ko:3",
       "meaning": "",
       "type": "",
-      "example": [{
-        "file": "kon-1a",
-        "contributor": "",
-        "display": "コン",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "kon-1a",
+          "contributor": "",
+          "display": "コン",
+          "source": "d_genesis"
+        },
+        {
+          "file": "kon-1b",
+          "contributor": "",
+          "display": "コン",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
     }],
     "literal": "kon"
   },
@@ -13423,28 +13516,58 @@
   {
     "hiragana": [
       "くあ",
-      "くあー"
+      "くああ",
+      "くあああ",
+      "くぁ",
+      "くぁぁ",
+      "くぁぁぁ"
     ],
     "katakana": [
       "クア",
-      "クアー"
+      "クアア",
+      "クアアア",
+      "クァ",
+      "クァァ",
+      "クァァァ"
     ],
-    "definition": [{
-      "equivalent": [
-        "huff",
-        "whaa",
-        "yawn"
-      ],
-      "refer": "",
-      "meaning": "open-mouth yawn",
-      "type": "v",
-      "example": [{
-        "file": "kua-1a",
-        "contributor": "",
-        "display": "くあ",
-        "source": "d_genesis"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "huff",
+          "whaa",
+          "yawn"
+        ],
+        "refer": "",
+        "meaning": "open-mouth yawn",
+        "type": "v",
+        "example": [{
+          "file": "kua-1a",
+          "contributor": "",
+          "display": "くあ",
+          "source": "d_genesis"
+        }]
+      },
+      {
+        "equivalent": [
+          "cheer",
+          "clamor",
+          "din",
+          "outcry",
+          "roar",
+          "tumult",
+          "uproar"
+        ],
+        "refer": "",
+        "meaning": "loud, guttural roaring or cheering",
+        "type": "v",
+        "example": [{
+          "file": "kua-2a",
+          "contributor": "",
+          "display": "クァァァァ!!",
+          "source": "minimum_wage_demon_king"
+        }]
+      }
+    ],
     "literal": "kua"
   },
   {
@@ -13653,12 +13776,20 @@
         "refer": "",
         "meaning": "suppressed snicker or laugh",
         "type": "e",
-        "example": [{
-          "file": "kuku-1a",
-          "contributor": "",
-          "display": "くくっ",
-          "source": "drawing"
-        }]
+        "example": [
+          {
+            "file": "kuku-1a",
+            "contributor": "",
+            "display": "くくっ",
+            "source": "drawing"
+          },
+          {
+            "file": "kuku-1b",
+            "contributor": "",
+            "display": "クク",
+            "source": "minimum_wage_demon_king"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -14353,6 +14484,31 @@
       }]
     }],
     "literal": "maki maki"
+  },
+  {
+    "hiragana": ["めきゃ"],
+    "katakana": ["メキャ"],
+    "definition": [{
+      "equivalent": [
+        "crack",
+        "crash",
+        "pop",
+        "shatter",
+        "smash",
+        "snap",
+        "splinter"
+      ],
+      "refer": "",
+      "meaning": "sharp cracking or splintering sound",
+      "type": "o",
+      "example": [{
+        "file": "mekya-1a",
+        "contributor": "",
+        "display": "メキャ",
+        "source": "minimum_wage_demon_king"
+      }]
+    }],
+    "literal": "mekya"
   },
   {
     "hiragana": [
@@ -15354,12 +15510,20 @@
       "refer": "",
       "meaning": "a sharp, quick, toothy grin",
       "type": "s",
-      "example": [{
-        "file": "ni-1a",
-        "contributor": "",
-        "display": "ニッ",
-        "source": "fushi_no_kami"
-      }]
+      "example": [
+        {
+          "file": "ni-1a",
+          "contributor": "",
+          "display": "ニッ",
+          "source": "fushi_no_kami"
+        },
+        {
+          "file": "ni-1b",
+          "contributor": "",
+          "display": "ニッ",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
     }],
     "literal": "ni"
   },
@@ -16081,6 +16245,31 @@
           "display": "パアア",
           "source": "reincarnated_farm_girl"
         }]
+      },
+      {
+        "equivalent": [
+          "biff",
+          "bonk",
+          "clap",
+          "clip",
+          "pat",
+          "rap",
+          "scuff",
+          "slap",
+          "stroke",
+          "swat",
+          "swipe",
+          "thump"
+        ],
+        "refer": "",
+        "meaning": "small or light impact",
+        "type": "o",
+        "example": [{
+          "file": "pa-3a",
+          "contributor": "",
+          "display": "パッ",
+          "source": "minimum_wage_demon_king"
+        }]
       }
     ],
     "literal": "pa"
@@ -16501,23 +16690,10 @@
       "パンッパンッ"
     ],
     "definition": [{
-      "equivalent": [
-        "biff",
-        "bonk",
-        "clap",
-        "clip",
-        "pat",
-        "rap",
-        "scuff",
-        "slap",
-        "stroke",
-        "swat",
-        "swipe",
-        "thump"
-      ],
-      "refer": "",
-      "meaning": "the sound of small or light impacts",
-      "type": "o",
+      "equivalent": [""],
+      "refer": "pa:3",
+      "meaning": "",
+      "type": "",
       "example": [
         {
           "file": "pan_pan-1a",
@@ -17006,8 +17182,8 @@
     "katakana": ["パッパッ"],
     "definition": [{
       "equivalent": [""],
-      "refer": "pan pan:1",
-      "meaning": "",
+      "refer": "pa:3",
+      "meaning": "s",
       "type": "",
       "example": [{
         "file": "pa_pa-1a",
@@ -19237,6 +19413,12 @@
           "contributor": "",
           "display": "ポゥ\u2026",
           "source": "strongest_thread_master"
+        },
+        {
+          "file": "pou-1c",
+          "contributor": "",
+          "display": "ポゥ",
+          "source": "minimum_wage_demon_king"
         }
       ]
     }],

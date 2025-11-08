@@ -11,6 +11,7 @@
     "equivalent": [
       "clang",
       "clank",
+      "clink",
       "clump",
       "clunk",
       "hit",
@@ -18,14 +19,22 @@
       "plink"
     ],
     "refer": "",
-    "meaning": "metallic or hollow clanking or dinging",
+    "meaning": "metallic clanking or hollow clunking",
     "type": "o",
-    "example": [{
-      "file": "kara-1a",
-      "contributor": "",
-      "display": "カラッ",
-      "source": "dungeon_dining_room"
-    }]
+    "example": [
+      {
+        "file": "kara-1a",
+        "contributor": "",
+        "display": "カラッ",
+        "source": "dungeon_dining_room"
+      },
+      {
+        "file": "kara-1b",
+        "contributor": "",
+        "display": "カラッ",
+        "source": "minimum_wage_demon_king"
+      }
+    ]
   }],
   "literal": "kara"
 }

@@ -56,12 +56,20 @@
       "refer": "",
       "meaning": "a quick gesture",
       "type": "m",
-      "example": [{
-        "file": "bi-2a",
-        "contributor": "",
-        "display": "ビッ",
-        "source": "killed_by_gods_mistake"
-      }]
+      "example": [
+        {
+          "file": "bi-2a",
+          "contributor": "",
+          "display": "ビッ",
+          "source": "killed_by_gods_mistake"
+        },
+        {
+          "file": "bi-2b",
+          "contributor": "",
+          "display": "ビッ",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
     }
   ],
   "literal": "bi"
