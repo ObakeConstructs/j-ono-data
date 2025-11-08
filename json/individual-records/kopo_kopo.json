@@ -1,0 +1,24 @@
+{
+  "hiragana": ["こぽこぽ"],
+  "katakana": ["コポコポ"],
+  "definition": [{
+    "equivalent": [
+      "blub-blub",
+      "boop-boop",
+      "bubble",
+      "bubbles",
+      "gurgle-gurgle",
+      "pop-pop"
+    ],
+    "refer": "",
+    "meaning": "soft bubbling or gurgling sound",
+    "type": "o",
+    "example": [{
+      "file": "kopo_kopo-1a",
+      "contributor": "",
+      "display": "コポ\u2026 コポ\u2026",
+      "source": "paradise_shift"
+    }]
+  }],
+  "literal": "kopo kopo"
+}

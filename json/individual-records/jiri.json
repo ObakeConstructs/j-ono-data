@@ -37,14 +37,22 @@
         "tense"
       ],
       "refer": "",
-      "meaning": "slow, cautious, or tense movement, often step by step",
+      "meaning": "slow, cautious, or tense movement",
       "type": "m",
-      "example": [{
-        "file": "jiri-2a",
-        "contributor": "",
-        "display": "じりっ",
-        "source": "ai_and_izawa"
-      }]
+      "example": [
+        {
+          "file": "jiri-2a",
+          "contributor": "",
+          "display": "じりっ",
+          "source": "ai_and_izawa"
+        },
+        {
+          "file": "jiri-2b",
+          "contributor": "",
+          "display": "じりっ\u2026",
+          "source": "paradise_shift"
+        }
+      ]
     }
   ],
   "literal": "jiri"

@@ -1430,28 +1430,49 @@
   {
     "hiragana": [
       "びり",
-      "びりり"
+      "びりり",
+      "びりっ"
     ],
     "katakana": [
       "ビリ",
-      "ビリリ"
+      "ビリリ",
+      "ビリッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "rend",
-        "rip",
-        "tear"
-      ],
-      "refer": "",
-      "meaning": "sharp tearing or ripping sound, often of paper",
-      "type": "o",
-      "example": [{
-        "file": "biri-1a",
-        "contributor": "Artrix",
-        "display": "ビリリ",
-        "source": "pokemon_xy_break"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "rend",
+          "rip",
+          "tear"
+        ],
+        "refer": "",
+        "meaning": "sharp tearing or ripping sound, often of paper",
+        "type": "o",
+        "example": [{
+          "file": "biri-1a",
+          "contributor": "Artrix",
+          "display": "ビリリ",
+          "source": "pokemon_xy_break"
+        }]
+      },
+      {
+        "equivalent": [
+          "quiver",
+          "shiver",
+          "shudder",
+          "tremble"
+        ],
+        "refer": "",
+        "meaning": "trembling or shaking",
+        "type": "m",
+        "example": [{
+          "file": "biri-2a",
+          "contributor": "",
+          "display": "ビリッ\u2026!!",
+          "source": "paradise_shift"
+        }]
+      }
+    ],
     "literal": "biri"
   },
   {
@@ -1464,15 +1485,10 @@
       "ビリビリッ"
     ],
     "definition": [{
-      "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "refer": "",
-      "meaning": "trembling or shaking",
-      "type": "m",
+      "equivalent": [""],
+      "refer": "biri:2",
+      "meaning": "",
+      "type": "",
       "example": [{
         "file": "biri_biri-1a",
         "contributor": "",
@@ -4757,6 +4773,12 @@
           "contributor": "",
           "display": "ドロオ",
           "source": "hello_work"
+        },
+        {
+          "file": "doro-1c",
+          "contributor": "",
+          "display": "ドロォ\u2026",
+          "source": "paradise_shift"
         }
       ]
     }],
@@ -7171,6 +7193,12 @@
           "contributor": "",
           "display": "がしっ",
           "source": "hone_dragon"
+        },
+        {
+          "file": "gashi-1d",
+          "contributor": "",
+          "display": "ガシッ",
+          "source": "paradise_shift"
         }
       ]
     }],
@@ -11235,14 +11263,22 @@
           "tense"
         ],
         "refer": "",
-        "meaning": "slow, cautious, or tense movement, often step by step",
+        "meaning": "slow, cautious, or tense movement",
         "type": "m",
-        "example": [{
-          "file": "jiri-2a",
-          "contributor": "",
-          "display": "じりっ",
-          "source": "ai_and_izawa"
-        }]
+        "example": [
+          {
+            "file": "jiri-2a",
+            "contributor": "",
+            "display": "じりっ",
+            "source": "ai_and_izawa"
+          },
+          {
+            "file": "jiri-2b",
+            "contributor": "",
+            "display": "じりっ\u2026",
+            "source": "paradise_shift"
+          }
+        ]
       }
     ],
     "literal": "jiri"
@@ -12189,6 +12225,12 @@
           "contributor": "",
           "display": "カシャッ",
           "source": "hikaro_no_go"
+        },
+        {
+          "file": "kasha-1c",
+          "contributor": "",
+          "display": "カシャッ!",
+          "source": "paradise_shift"
         }
       ]
     }],
@@ -13131,6 +13173,30 @@
       }]
     }],
     "literal": "kopopo"
+  },
+  {
+    "hiragana": ["こぽこぽ"],
+    "katakana": ["コポコポ"],
+    "definition": [{
+      "equivalent": [
+        "blub-blub",
+        "boop-boop",
+        "bubble",
+        "bubbles",
+        "gurgle-gurgle",
+        "pop-pop"
+      ],
+      "refer": "",
+      "meaning": "soft bubbling or gurgling sound",
+      "type": "o",
+      "example": [{
+        "file": "kopo_kopo-1a",
+        "contributor": "",
+        "display": "コポ\u2026 コポ\u2026",
+        "source": "paradise_shift"
+      }]
+    }],
+    "literal": "kopo kopo"
   },
   {
     "hiragana": ["ころ"],
@@ -14290,6 +14356,36 @@
   },
   {
     "hiragana": [
+      "みんみん",
+      "みーんみーん"
+    ],
+    "katakana": [
+      "ミンミン",
+      "ミーンミーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "buzz",
+        "chii-chii",
+        "chip",
+        "chirp",
+        "cicadas",
+        "shaa-shaa"
+      ],
+      "refer": "",
+      "meaning": "summertime sounds of cicadas",
+      "type": "o",
+      "example": [{
+        "file": "min_min-1a",
+        "contributor": "",
+        "display": "ミーン ミン ミン ミーン",
+        "source": "paradise_shift"
+      }]
+    }],
+    "literal": "min min"
+  },
+  {
+    "hiragana": [
       "みし",
       "みしっ"
     ],
@@ -15176,12 +15272,20 @@
       "refer": "",
       "meaning": "a soft, muffled laugh",
       "type": "v",
-      "example": [{
-        "file": "nfufu-1a",
-        "contributor": "",
-        "display": "んふふ♪",
-        "source": "my_s-ranked_daughter"
-      }]
+      "example": [
+        {
+          "file": "nfufu-1a",
+          "contributor": "",
+          "display": "んふふ♪",
+          "source": "my_s-ranked_daughter"
+        },
+        {
+          "file": "nfufu-1b",
+          "contributor": "",
+          "display": "んふふ~",
+          "source": "paradise_shift"
+        }
+      ]
     }],
     "literal": "nfufu"
   },
@@ -15208,6 +15312,28 @@
       }]
     }],
     "literal": "ngu ngu"
+  },
+  {
+    "hiragana": ["んひょほ"],
+    "katakana": ["ンヒョホ"],
+    "definition": [{
+      "equivalent": [
+        "eheheh",
+        "giddy-laugh",
+        "guh-so-cute",
+        "hee-hee-hyo"
+      ],
+      "refer": "",
+      "meaning": "a mix of laughter and an emotional squeal",
+      "type": "v",
+      "example": [{
+        "file": "nhyoho-1a",
+        "contributor": "",
+        "display": "ンヒョホ",
+        "source": "paradise_shift"
+      }]
+    }],
+    "literal": "nhyoho"
   },
   {
     "hiragana": [
@@ -18399,6 +18525,12 @@
           "contributor": "",
           "display": "ぴたっ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "pita-1c",
+          "contributor": "",
+          "display": "ピタッ",
+          "source": "paradise_shift"
         }
       ]
     }],
@@ -19132,6 +19264,39 @@
       }]
     }],
     "literal": "pou pou"
+  },
+  {
+    "hiragana": [
+      "ぽわん",
+      "ぽゎあん"
+    ],
+    "katakana": [
+      "ポワン",
+      "ポヮアン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "dazed",
+        "ditsy",
+        "dizzy",
+        "dreamy",
+        "flighty",
+        "fuzzy",
+        "giddy",
+        "inane",
+        "pleasant"
+      ],
+      "refer": "",
+      "meaning": "softly dreamy, dazed, of fuzzy state",
+      "type": "s",
+      "example": [{
+        "file": "powan-1a",
+        "contributor": "",
+        "display": "ぽゎあん\u2026",
+        "source": "paradise_shift"
+      }]
+    }],
+    "literal": "powan"
   },
   {
     "hiragana": [
@@ -20415,6 +20580,37 @@
       ]
     }],
     "literal": "sara"
+  },
+  {
+    "hiragana": [
+      "さらり",
+      "さらりっ"
+    ],
+    "katakana": [
+      "サラリ",
+      "サラリッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "aloof",
+        "calm",
+        "casual",
+        "cold",
+        "detached",
+        "offhand",
+        "placid"
+      ],
+      "refer": "",
+      "meaning": "calm, casual, or offhand tone",
+      "type": "s",
+      "example": [{
+        "file": "sarari-1a",
+        "contributor": "",
+        "display": "さらり..",
+        "source": "paradise_shift"
+      }]
+    }],
+    "literal": "sarari"
   },
   {
     "hiragana": [
@@ -21721,8 +21917,8 @@
         {
           "file": "suta-1b",
           "contributor": "",
-          "display": "スタッ",
-          "source": "dungeon_dining_room"
+          "display": "スタ\u2026.ッ",
+          "source": "paradise_shift"
         }
       ]
     }],
@@ -24032,12 +24228,20 @@
       "refer": "",
       "meaning": "rhythmic swaying or shaking, typically intentional or forceful ",
       "type": "m",
-      "example": [{
-        "file": "yusa_yusa-1a",
-        "contributor": "",
-        "display": "ゆさ ゆさ",
-        "source": "35_year_olds_choice"
-      }]
+      "example": [
+        {
+          "file": "yusa_yusa-1a",
+          "contributor": "",
+          "display": "ゆさ ゆさ",
+          "source": "35_year_olds_choice"
+        },
+        {
+          "file": "yusa_yusa-1b",
+          "contributor": "",
+          "display": "ユサ\u2026 ユサ\u2026",
+          "source": "paradise_shift"
+        }
+      ]
     }],
     "literal": "yusa yusa"
   },
@@ -25665,7 +25869,7 @@
         "waddle"
       ],
       "refer": "",
-      "meaning": "dragging or shuffling movement",
+      "meaning": "sliding, dragging or shuffling movement",
       "type": "m",
       "example": [
         {
@@ -25730,25 +25934,39 @@
       "ズルル",
       "ズルルル"
     ],
-    "definition": [{
-      "equivalent": [
-        "blub",
-        "slurp",
-        "sniff",
-        "sniffle",
-        "snivel",
-        "suck"
-      ],
-      "refer": "",
-      "meaning": "long, wet slurp or sniff",
-      "type": "o",
-      "example": [{
-        "file": "zururu-1a",
-        "contributor": "",
-        "display": "ズルル",
-        "source": "requiem_for_prophet"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "blub",
+          "slurp",
+          "sniff",
+          "sniffle",
+          "snivel",
+          "suck"
+        ],
+        "refer": "",
+        "meaning": "long, wet slurp or sniff",
+        "type": "o",
+        "example": [{
+          "file": "zururu-1a",
+          "contributor": "",
+          "display": "ズルル",
+          "source": "requiem_for_prophet"
+        }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "zuri zuri:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "zururu-2a",
+          "contributor": "",
+          "display": "ズルル..",
+          "source": "paradise_shift"
+        }]
+      }
+    ],
     "literal": "zururu"
   },
   {

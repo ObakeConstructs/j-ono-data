@@ -12,12 +12,20 @@
     "refer": "",
     "meaning": "a soft, muffled laugh",
     "type": "v",
-    "example": [{
-      "file": "nfufu-1a",
-      "contributor": "",
-      "display": "んふふ♪",
-      "source": "my_s-ranked_daughter"
-    }]
+    "example": [
+      {
+        "file": "nfufu-1a",
+        "contributor": "",
+        "display": "んふふ♪",
+        "source": "my_s-ranked_daughter"
+      },
+      {
+        "file": "nfufu-1b",
+        "contributor": "",
+        "display": "んふふ~",
+        "source": "paradise_shift"
+      }
+    ]
   }],
   "literal": "nfufu"
 }

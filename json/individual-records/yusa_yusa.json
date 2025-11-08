@@ -13,12 +13,20 @@
     "refer": "",
     "meaning": "rhythmic swaying or shaking, typically intentional or forceful ",
     "type": "m",
-    "example": [{
-      "file": "yusa_yusa-1a",
-      "contributor": "",
-      "display": "ゆさ ゆさ",
-      "source": "35_year_olds_choice"
-    }]
+    "example": [
+      {
+        "file": "yusa_yusa-1a",
+        "contributor": "",
+        "display": "ゆさ ゆさ",
+        "source": "35_year_olds_choice"
+      },
+      {
+        "file": "yusa_yusa-1b",
+        "contributor": "",
+        "display": "ユサ\u2026 ユサ\u2026",
+        "source": "paradise_shift"
+      }
+    ]
   }],
   "literal": "yusa yusa"
 }

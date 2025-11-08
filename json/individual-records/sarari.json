@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "さらり",
+    "さらりっ"
+  ],
+  "katakana": [
+    "サラリ",
+    "サラリッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aloof",
+      "calm",
+      "casual",
+      "cold",
+      "detached",
+      "offhand",
+      "placid"
+    ],
+    "refer": "",
+    "meaning": "calm, casual, or offhand tone",
+    "type": "s",
+    "example": [{
+      "file": "sarari-1a",
+      "contributor": "",
+      "display": "さらり..",
+      "source": "paradise_shift"
+    }]
+  }],
+  "literal": "sarari"
+}
