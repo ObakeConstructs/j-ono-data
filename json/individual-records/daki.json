@@ -17,14 +17,22 @@
       "hug"
     ],
     "refer": "",
-    "meaning": "a sudden, decisive hug/embrace, typically not gentle",
+    "meaning": "sudden, decisive hug/embrace",
     "type": "m",
-    "example": [{
-      "file": "daki-1a",
-      "contributor": "",
-      "display": "ダキッ",
-      "source": "world_full_of_monsters"
-    }]
+    "example": [
+      {
+        "file": "daki-1a",
+        "contributor": "",
+        "display": "ダキッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "daki-1b",
+        "contributor": "",
+        "display": "だきっ!!",
+        "source": "only_sweet_when_alone"
+      }
+    ]
   }],
   "literal": "daki"
 }

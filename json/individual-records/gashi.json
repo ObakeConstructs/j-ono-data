@@ -18,7 +18,7 @@
       "snag"
     ],
     "refer": "",
-    "meaning": "grabbing or holding tightly to something, often suddenly or aggressively",
+    "meaning": "grabbing or holding tightly, often suddenly or aggressively",
     "type": "o",
     "example": [
       {
@@ -44,6 +44,12 @@
         "contributor": "",
         "display": "ガシッ",
         "source": "paradise_shift"
+      },
+      {
+        "file": "gashi-1e",
+        "contributor": "",
+        "display": "ガシッ",
+        "source": "only_sweet_when_alone"
       }
     ]
   }],

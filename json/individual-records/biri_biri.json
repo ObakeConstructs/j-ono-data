@@ -1,23 +1,39 @@
 {
   "hiragana": [
     "びりびり",
-    "びりびりっ"
+    "びりびりっ",
+    "びりっびりっ"
   ],
   "katakana": [
     "ビリビリ",
-    "ビリビリッ"
+    "ビリビリッ",
+    "ビリッビリッ"
   ],
-  "definition": [{
-    "equivalent": [""],
-    "refer": "biri:2",
-    "meaning": "",
-    "type": "",
-    "example": [{
-      "file": "biri_biri-1a",
-      "contributor": "",
-      "display": "ビリ ビリ",
-      "source": "world_full_of_monsters"
-    }]
-  }],
+  "definition": [
+    {
+      "equivalent": [""],
+      "refer": "biri:2",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "biri_biri-1a",
+        "contributor": "",
+        "display": "ビリ ビリ",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [""],
+      "refer": "biri:1",
+      "meaning": "s",
+      "type": "",
+      "example": [{
+        "file": "biri_biri-2a",
+        "contributor": "",
+        "display": "ビリッ ビリッ ビリッ",
+        "source": "only_sweet_when_alone"
+      }]
+    }
+  ],
   "literal": "biri biri"
 }

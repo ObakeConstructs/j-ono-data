@@ -1,0 +1,29 @@
+{
+  "hiragana": ["とろん"],
+  "katakana": ["トロン"],
+  "definition": [{
+    "equivalent": [
+      "desire",
+      "dreamy",
+      "drowsy",
+      "hazy",
+      "intoxicated",
+      "longing",
+      "lovestruck",
+      "melting",
+      "passion",
+      "soft",
+      "tipsy"
+    ],
+    "refer": "",
+    "meaning": "a soft, hazy, or drowsy state",
+    "type": "s",
+    "example": [{
+      "file": "toron-1a",
+      "contributor": "",
+      "display": "とろん\u2026",
+      "source": "only_sweet_when_alone"
+    }]
+  }],
+  "literal": "toron"
+}

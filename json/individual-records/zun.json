@@ -101,6 +101,25 @@
         "display": "ズンッ",
         "source": "killed_by_gods_mistake"
       }]
+    },
+    {
+      "equivalent": [
+        "aura",
+        "intimidation",
+        "presence",
+        "pressure",
+        "stress",
+        "tension"
+      ],
+      "refer": "",
+      "meaning": "dramatic, atmospheric pressure",
+      "type": "s",
+      "example": [{
+        "file": "zun-4a",
+        "contributor": "",
+        "display": "ズー ーン",
+        "source": "only_sweet_when_alone"
+      }]
     }
   ],
   "literal": "zun"

@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ぽふ",
+    "ぽふっ"
+  ],
+  "katakana": [
+    "ポフ",
+    "ポフッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fluff",
+      "foof",
+      "fwump",
+      "poof",
+      "puff",
+      "whump"
+    ],
+    "refer": "",
+    "meaning": "falling or pressing into something soft",
+    "type": "o",
+    "example": [{
+      "file": "pofu-1a",
+      "contributor": "",
+      "display": "ぽふっッ",
+      "source": "only_sweet_when_alone"
+    }]
+  }],
+  "literal": "pofu"
+}

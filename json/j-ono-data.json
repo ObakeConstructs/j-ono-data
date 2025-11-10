@@ -699,23 +699,42 @@
   {
     "hiragana": ["ばらばら"],
     "katakana": ["バラバラ"],
-    "definition": [{
-      "equivalent": [
-        "break",
-        "crumble",
-        "fall apart",
-        "scatter"
-      ],
-      "refer": "",
-      "meaning": "things breaking apart, scattering, and/or falling to pieces",
-      "type": "o",
-      "example": [{
-        "file": "bara_bara-1a",
-        "contributor": "",
-        "display": "バラ バラ",
-        "source": "isekai_territory_reform"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "break",
+          "crumble",
+          "fall apart",
+          "scatter"
+        ],
+        "refer": "",
+        "meaning": "things breaking apart, scattering, and/or falling to pieces",
+        "type": "o",
+        "example": [{
+          "file": "bara_bara-1a",
+          "contributor": "",
+          "display": "バラ バラ",
+          "source": "isekai_territory_reform"
+        }]
+      },
+      {
+        "equivalent": [
+          "fwoom-fwoom",
+          "thup-thup",
+          "whum-whum",
+          "whup-whup"
+        ],
+        "refer": "",
+        "meaning": "rhythmic, chopping sound of helicopter or propeller blades",
+        "type": "o",
+        "example": [{
+          "file": "bara_bara-2a",
+          "contributor": "",
+          "display": "バラ バラ バラ バラ バラ",
+          "source": "only_sweet_when_alone"
+        }]
+      }
+    ],
     "literal": "bara bara"
   },
   {
@@ -963,7 +982,7 @@
         "whomp"
       ],
       "refer": "",
-      "meaning": "a sudden or loud impact",
+      "meaning": "sudden or loud impact",
       "type": "o",
       "example": [
         {
@@ -981,6 +1000,37 @@
       ]
     }],
     "literal": "bashi"
+  },
+  {
+    "hiragana": ["ばしばし"],
+    "katakana": ["バシバシ"],
+    "definition": [{
+      "equivalent": [
+        "bam",
+        "bang",
+        "crash",
+        "slam",
+        "slap",
+        "smack",
+        "thud",
+        "thump",
+        "thunk",
+        "whack",
+        "wham",
+        "whap",
+        "whomp"
+      ],
+      "refer": "bashi:1",
+      "meaning": "s",
+      "type": "o",
+      "example": [{
+        "file": "bashi_bashi-1a",
+        "contributor": "",
+        "display": "バシ バシ バシ",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "bashi bashi"
   },
   {
     "hiragana": [
@@ -1454,14 +1504,22 @@
           "tear"
         ],
         "refer": "",
-        "meaning": "sharp tearing or ripping sound, often of paper",
+        "meaning": "sharp tearing or ripping sound",
         "type": "o",
-        "example": [{
-          "file": "biri-1a",
-          "contributor": "Artrix",
-          "display": "ビリリ",
-          "source": "pokemon_xy_break"
-        }]
+        "example": [
+          {
+            "file": "biri-1a",
+            "contributor": "Artrix",
+            "display": "ビリリ",
+            "source": "pokemon_xy_break"
+          },
+          {
+            "file": "biri-1b",
+            "contributor": "",
+            "display": "ビリッ!!",
+            "source": "only_sweet_when_alone"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -1486,24 +1544,40 @@
   {
     "hiragana": [
       "びりびり",
-      "びりびりっ"
+      "びりびりっ",
+      "びりっびりっ"
     ],
     "katakana": [
       "ビリビリ",
-      "ビリビリッ"
+      "ビリビリッ",
+      "ビリッビリッ"
     ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "biri:2",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "biri_biri-1a",
-        "contributor": "",
-        "display": "ビリ ビリ",
-        "source": "world_full_of_monsters"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [""],
+        "refer": "biri:2",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "biri_biri-1a",
+          "contributor": "",
+          "display": "ビリ ビリ",
+          "source": "world_full_of_monsters"
+        }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "biri:1",
+        "meaning": "s",
+        "type": "",
+        "example": [{
+          "file": "biri_biri-2a",
+          "contributor": "",
+          "display": "ビリッ ビリッ ビリッ",
+          "source": "only_sweet_when_alone"
+        }]
+      }
+    ],
     "literal": "biri biri"
   },
   {
@@ -3791,14 +3865,22 @@
         "hug"
       ],
       "refer": "",
-      "meaning": "a sudden, decisive hug/embrace, typically not gentle",
+      "meaning": "sudden, decisive hug/embrace",
       "type": "m",
-      "example": [{
-        "file": "daki-1a",
-        "contributor": "",
-        "display": "ダキッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "daki-1a",
+          "contributor": "",
+          "display": "ダキッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "daki-1b",
+          "contributor": "",
+          "display": "だきっ!!",
+          "source": "only_sweet_when_alone"
+        }
+      ]
     }],
     "literal": "daki"
   },
@@ -5804,6 +5886,12 @@
           "contributor": "",
           "display": "フラァァァ\u2026",
           "source": "gyaru_academy"
+        },
+        {
+          "file": "fura-1d",
+          "contributor": "",
+          "display": "ふら\u2026",
+          "source": "only_sweet_when_alone"
         }
       ]
     }],
@@ -7237,7 +7325,7 @@
         "snag"
       ],
       "refer": "",
-      "meaning": "grabbing or holding tightly to something, often suddenly or aggressively",
+      "meaning": "grabbing or holding tightly, often suddenly or aggressively",
       "type": "o",
       "example": [
         {
@@ -7263,6 +7351,12 @@
           "contributor": "",
           "display": "ガシッ",
           "source": "paradise_shift"
+        },
+        {
+          "file": "gashi-1e",
+          "contributor": "",
+          "display": "ガシッ",
+          "source": "only_sweet_when_alone"
         }
       ]
     }],
@@ -8097,37 +8191,6 @@
   },
   {
     "hiragana": [
-      "ごごご",
-      "ごごごご",
-      "ごごごごご"
-    ],
-    "katakana": [
-      "ゴゴゴ",
-      "ゴゴゴゴ",
-      "ゴゴゴゴゴ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "grind",
-        "groan",
-        "rasp",
-        "rumble",
-        "scrape"
-      ],
-      "refer": "",
-      "meaning": "a harsh rumbling or grinding",
-      "type": "o",
-      "example": [{
-        "file": "gogogo-1a",
-        "contributor": "",
-        "display": "ゴゴゴゴゴ",
-        "source": "modern_dungeon_capture"
-      }]
-    }],
-    "literal": "gogogo"
-  },
-  {
-    "hiragana": [
       "ごほ",
       "ごほっ"
     ],
@@ -8687,27 +8750,70 @@
   {
     "hiragana": [
       "ごご",
-      "ごっごっ"
+      "ごっごっ",
+      "ごごご"
     ],
     "katakana": [
       "ゴゴ",
-      "ゴッゴッ"
+      "ゴッゴッ",
+      "ゴゴゴ"
     ],
-    "definition": [{
-      "equivalent": [
-        "knock",
-        "tap"
-      ],
-      "refer": "go:1",
-      "meaning": ", repeated or rhythmic ",
-      "type": "",
-      "example": [{
-        "file": "go_go-1a",
-        "contributor": "",
-        "display": "ゴッ ゴッ",
-        "source": "human_ranch"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "knock",
+          "tap"
+        ],
+        "refer": "go:1",
+        "meaning": ", repeated or rhythmic ",
+        "type": "",
+        "example": [{
+          "file": "go_go-1a",
+          "contributor": "",
+          "display": "ゴッ ゴッ",
+          "source": "human_ranch"
+        }]
+      },
+      {
+        "equivalent": [
+          "grind",
+          "groan",
+          "rasp",
+          "rumble",
+          "scrape"
+        ],
+        "refer": "",
+        "meaning": "harsh rumbling or grinding",
+        "type": "o",
+        "example": [{
+          "file": "go_go-2a",
+          "contributor": "",
+          "display": "ゴ ゴ ゴ ゴ ゴ",
+          "source": "modern_dungeon_capture"
+        }]
+      },
+      {
+        "equivalent": [
+          "anger",
+          "heat",
+          "killing intent",
+          "menace",
+          "peril",
+          "pressure",
+          "rage",
+          "threat"
+        ],
+        "refer": "",
+        "meaning": "intense focus, anger, or menace",
+        "type": "s",
+        "example": [{
+          "file": "go_go-3a",
+          "contributor": "",
+          "display": "ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ",
+          "source": "only_sweet_when_alone"
+        }]
+      }
+    ],
     "literal": "go go"
   },
   {
@@ -9498,6 +9604,12 @@
           "contributor": "",
           "display": "グッ グッ",
           "source": "shogun_gold_in_america"
+        },
+        {
+          "file": "gu_gu-1d",
+          "contributor": "",
+          "display": "グググ\u2026 ググ\u2026",
+          "source": "only_sweet_when_alone"
         }
       ]
     }],
@@ -10223,6 +10335,36 @@
       }]
     }],
     "literal": "hikku"
+  },
+  {
+    "hiragana": [
+      "ひんひん",
+      "ひんひんひん"
+    ],
+    "katakana": [
+      "ヒンヒン",
+      "ヒンヒンヒン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blab",
+        "blabber",
+        "gossip",
+        "rumor",
+        "tattle",
+        "whisper"
+      ],
+      "refer": "",
+      "meaning": "whispering or gossiping quietly, often furtively",
+      "type": "v",
+      "example": [{
+        "file": "hin_hin-1a",
+        "contributor": "",
+        "display": "ヒン ヒン ヒン",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "hin hin"
   },
   {
     "hiragana": ["ひら"],
@@ -12711,12 +12853,20 @@
         "refer": "",
         "meaning": "piercing gaze or intense stare",
         "type": "e",
-        "example": [{
-          "file": "ki-2a",
-          "contributor": "",
-          "display": "キッ",
-          "source": "reincarnated_farm_girl"
-        }]
+        "example": [
+          {
+            "file": "ki-2a",
+            "contributor": "",
+            "display": "キッ",
+            "source": "reincarnated_farm_girl"
+          },
+          {
+            "file": "ki-2b",
+            "contributor": "",
+            "display": "キッ",
+            "source": "only_sweet_when_alone"
+          }
+        ]
       }
     ],
     "literal": "ki"
@@ -13138,6 +13288,28 @@
     "literal": "koku"
   },
   {
+    "hiragana": ["こくんこくん"],
+    "katakana": ["コクンコクン"],
+    "definition": [{
+      "equivalent": [
+        "agree",
+        "nod-nod",
+        "okay",
+        "yes-yes"
+      ],
+      "refer": "",
+      "meaning": "repeated nodding, often of eager agreement",
+      "type": "m",
+      "example": [{
+        "file": "kokun_kokun-1a",
+        "contributor": "",
+        "display": "コクン コクン",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "kokun kokun"
+  },
+  {
     "hiragana": ["こくり"],
     "katakana": ["コクリ"],
     "definition": [{
@@ -13467,6 +13639,41 @@
       }]
     }],
     "literal": "koto koto"
+  },
+  {
+    "hiragana": [
+      "ここ",
+      "こここ",
+      "こっこっ",
+      "こっこっこっ"
+    ],
+    "katakana": [
+      "ココ",
+      "コココ",
+      "コッコッ",
+      "コッコッコッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "footstep",
+        "plod",
+        "shuffle",
+        "step",
+        "stomp",
+        "tap",
+        "walk"
+      ],
+      "refer": "",
+      "meaning": "light footsteps or heep taps",
+      "type": "m",
+      "example": [{
+        "file": "ko_ko-1a",
+        "contributor": "",
+        "display": "コッ",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "ko ko"
   },
   {
     "hiragana": [
@@ -13927,6 +14134,39 @@
       }]
     }],
     "literal": "kura"
+  },
+  {
+    "hiragana": [
+      "くりっ",
+      "くりっ"
+    ],
+    "katakana": [
+      "クリ",
+      "クリッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "coil",
+        "curl",
+        "spin",
+        "swirl",
+        "tug",
+        "twirl",
+        "twist",
+        "whirl",
+        "wind"
+      ],
+      "refer": "",
+      "meaning": "twisting, curling, or spinning movement or manipulation",
+      "type": "m",
+      "example": [{
+        "file": "kuri-1a",
+        "contributor": "",
+        "display": "くりっ",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "kuri"
   },
   {
     "hiragana": [
@@ -14402,6 +14642,35 @@
   },
   {
     "hiragana": [
+      "きゅん",
+      "きゅーん"
+    ],
+    "katakana": [
+      "キュン",
+      "キューン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "adore",
+        "affection",
+        "fluttery",
+        "lovestruck",
+        "worship"
+      ],
+      "refer": "",
+      "meaning": "lovestruck or deeply moved sensation",
+      "type": "e",
+      "example": [{
+        "file": "kyun-1a",
+        "contributor": "",
+        "display": "キューン♡",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "kyun"
+  },
+  {
+    "hiragana": [
       "きゅる",
       "きゅるる",
       "きゅるるる"
@@ -14739,12 +15008,20 @@
       "refer": "",
       "meaning": "showing shyness or embarrassment",
       "type": "e",
-      "example": [{
-        "file": "moji-1a",
-        "contributor": "",
-        "display": "もじ\u2026",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "moji-1a",
+          "contributor": "",
+          "display": "もじ\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "moji-1b",
+          "contributor": "",
+          "display": "もじ",
+          "source": "only_sweet_when_alone"
+        }
+      ]
     }],
     "literal": "moji"
   },
@@ -14768,6 +15045,12 @@
           "contributor": "",
           "display": "もじ もじ",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "moji_moji-1c",
+          "contributor": "",
+          "display": "もじ もじ",
+          "source": "only_sweet_when_alone"
         }
       ]
     }],
@@ -16391,8 +16674,14 @@
     "literal": "pachin"
   },
   {
-    "hiragana": ["ぱちぱち"],
-    "katakana": ["パチパチ"],
+    "hiragana": [
+      "ぱちぱち",
+      "ぱちっぱちっ"
+    ],
+    "katakana": [
+      "パチパチ",
+      "パチッパチッ"
+    ],
     "definition": [
       {
         "equivalent": [
@@ -16401,7 +16690,7 @@
           "snap"
         ],
         "refer": "",
-        "meaning": "continuous popping or crackling, as from a fire",
+        "meaning": "continuous popping or crackling sounds",
         "type": "o",
         "example": [
           {
@@ -16446,6 +16735,27 @@
             "source": "cheat_pharmacist"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "alluring",
+          "attractive",
+          "charming",
+          "coy",
+          "cute",
+          "flirting",
+          "kittenish",
+          "sparkly"
+        ],
+        "refer": "",
+        "meaning": "cute, charming, or flirtatious",
+        "type": "s",
+        "example": [{
+          "file": "pachi_pachi-3a",
+          "contributor": "",
+          "display": "ぱちっ ぱちっ",
+          "source": "only_sweet_when_alone"
+        }]
       }
     ],
     "literal": "pachi pachi"
@@ -16937,41 +17247,55 @@
       "パシ",
       "パシッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "catch",
-        "get",
-        "grab",
-        "grasp",
-        "grip",
-        "hold",
-        "nab",
-        "snag"
-      ],
-      "refer": "",
-      "meaning": "the quick sound of grabbing and catching something",
-      "type": "o",
-      "example": [
-        {
-          "file": "pashi-1a",
-          "contributor": "",
-          "display": "ぱしっ",
-          "source": "hanako_24th_ward"
-        },
-        {
-          "file": "pashi-1b",
+    "definition": [
+      {
+        "equivalent": [
+          "catch",
+          "get",
+          "grab",
+          "grasp",
+          "grip",
+          "hold",
+          "nab",
+          "snag"
+        ],
+        "refer": "",
+        "meaning": "quickly grabbing and catching",
+        "type": "o",
+        "example": [
+          {
+            "file": "pashi-1a",
+            "contributor": "",
+            "display": "ぱしっ",
+            "source": "hanako_24th_ward"
+          },
+          {
+            "file": "pashi-1b",
+            "contributor": "",
+            "display": "パシッ",
+            "source": "hanako_24th_ward"
+          },
+          {
+            "file": "pashi-1c",
+            "contributor": "",
+            "display": "パシッ",
+            "source": "gyaru_academy"
+          }
+        ]
+      },
+      {
+        "equivalent": [""],
+        "refer": "pechi:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "pashi-2a",
           "contributor": "",
           "display": "パシッ",
-          "source": "hanako_24th_ward"
-        },
-        {
-          "file": "pashi-1c",
-          "contributor": "",
-          "display": "パシッ",
-          "source": "gyaru_academy"
-        }
-      ]
-    }],
+          "source": "only_sweet_when_alone"
+        }]
+      }
+    ],
     "literal": "pashi"
   },
   {
@@ -18848,6 +19172,36 @@
   },
   {
     "hiragana": [
+      "ぽふ",
+      "ぽふっ"
+    ],
+    "katakana": [
+      "ポフ",
+      "ポフッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "fluff",
+        "foof",
+        "fwump",
+        "poof",
+        "puff",
+        "whump"
+      ],
+      "refer": "",
+      "meaning": "falling or pressing into something soft",
+      "type": "o",
+      "example": [{
+        "file": "pofu-1a",
+        "contributor": "",
+        "display": "ぽふっッ",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "pofu"
+  },
+  {
+    "hiragana": [
       "ぽい",
       "ぽいっ",
       "ぽぃ",
@@ -19359,8 +19713,14 @@
     "literal": "poto"
   },
   {
-    "hiragana": ["ぽつん"],
-    "katakana": ["ポツン"],
+    "hiragana": [
+      "ぽつん",
+      "ぽつーん"
+    ],
+    "katakana": [
+      "ポツン",
+      "ポツーン"
+    ],
     "definition": [{
       "equivalent": [
         "alone",
@@ -19372,12 +19732,20 @@
       "refer": "",
       "meaning": "isolated, alone or apart from others",
       "type": "s",
-      "example": [{
-        "file": "potsun-1a",
-        "contributor": "",
-        "display": "ポツン\u2026",
-        "source": "uncle_at_heart"
-      }]
+      "example": [
+        {
+          "file": "potsun-1a",
+          "contributor": "",
+          "display": "ポツン\u2026",
+          "source": "uncle_at_heart"
+        },
+        {
+          "file": "potsun-1b",
+          "contributor": "",
+          "display": "ぽつーん\u2026",
+          "source": "only_sweet_when_alone"
+        }
+      ]
     }],
     "literal": "potsun"
   },
@@ -21991,7 +22359,7 @@
       "すりっ"
     ],
     "katakana": [
-      "スリッ",
+      "スリ",
       "スリッ"
     ],
     "definition": [{
@@ -22017,6 +22385,29 @@
       }]
     }],
     "literal": "suri"
+  },
+  {
+    "hiragana": [
+      "すりすり",
+      "すりっすりっ"
+    ],
+    "katakana": [
+      "スリスリ",
+      "スリッスリッ"
+    ],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "suri:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "suri_suri-1a",
+        "contributor": "",
+        "display": "スリ スリ",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "suri suri"
   },
   {
     "hiragana": [
@@ -23166,6 +23557,35 @@
     "literal": "toro"
   },
   {
+    "hiragana": ["とろん"],
+    "katakana": ["トロン"],
+    "definition": [{
+      "equivalent": [
+        "desire",
+        "dreamy",
+        "drowsy",
+        "hazy",
+        "intoxicated",
+        "longing",
+        "lovestruck",
+        "melting",
+        "passion",
+        "soft",
+        "tipsy"
+      ],
+      "refer": "",
+      "meaning": "a soft, hazy, or drowsy state",
+      "type": "s",
+      "example": [{
+        "file": "toron-1a",
+        "contributor": "",
+        "display": "とろん\u2026",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "toron"
+  },
+  {
     "hiragana": [
       "とさ",
       "とさっ"
@@ -24251,6 +24671,41 @@
       }]
     }],
     "literal": "wana wana"
+  },
+  {
+    "hiragana": [
+      "わしゃわしゃ",
+      "わしゃわしゃわしゃ",
+      "わしやわしや",
+      "わしやわしやわしや"
+    ],
+    "katakana": [
+      "ワシャワシャ",
+      "ワシャワシャワシャ",
+      "ワシヤワシヤ",
+      "ワシヤワシヤワシヤ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "grind",
+        "muss",
+        "rub",
+        "rumple",
+        "scrape",
+        "scrub",
+        "tousle"
+      ],
+      "refer": "",
+      "meaning": "rubbing or tousling hair, expressing fluster or affectionate agitation  ",
+      "type": "m",
+      "example": [{
+        "file": "washa_washa-1a",
+        "contributor": "",
+        "display": "わしやわしやわしや",
+        "source": "only_sweet_when_alone"
+      }]
+    }],
+    "literal": "washa washa"
   },
   {
     "hiragana": ["わたわた"],
@@ -25897,6 +26352,25 @@
           "contributor": "",
           "display": "ズンッ",
           "source": "killed_by_gods_mistake"
+        }]
+      },
+      {
+        "equivalent": [
+          "aura",
+          "intimidation",
+          "presence",
+          "pressure",
+          "stress",
+          "tension"
+        ],
+        "refer": "",
+        "meaning": "dramatic, atmospheric pressure",
+        "type": "s",
+        "example": [{
+          "file": "zun-4a",
+          "contributor": "",
+          "display": "ズー ーン",
+          "source": "only_sweet_when_alone"
         }]
       }
     ],

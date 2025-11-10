@@ -7,40 +7,54 @@
     "パシ",
     "パシッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "catch",
-      "get",
-      "grab",
-      "grasp",
-      "grip",
-      "hold",
-      "nab",
-      "snag"
-    ],
-    "refer": "",
-    "meaning": "the quick sound of grabbing and catching something",
-    "type": "o",
-    "example": [
-      {
-        "file": "pashi-1a",
-        "contributor": "",
-        "display": "ぱしっ",
-        "source": "hanako_24th_ward"
-      },
-      {
-        "file": "pashi-1b",
+  "definition": [
+    {
+      "equivalent": [
+        "catch",
+        "get",
+        "grab",
+        "grasp",
+        "grip",
+        "hold",
+        "nab",
+        "snag"
+      ],
+      "refer": "",
+      "meaning": "quickly grabbing and catching",
+      "type": "o",
+      "example": [
+        {
+          "file": "pashi-1a",
+          "contributor": "",
+          "display": "ぱしっ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "pashi-1b",
+          "contributor": "",
+          "display": "パシッ",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "pashi-1c",
+          "contributor": "",
+          "display": "パシッ",
+          "source": "gyaru_academy"
+        }
+      ]
+    },
+    {
+      "equivalent": [""],
+      "refer": "pechi:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "pashi-2a",
         "contributor": "",
         "display": "パシッ",
-        "source": "hanako_24th_ward"
-      },
-      {
-        "file": "pashi-1c",
-        "contributor": "",
-        "display": "パシッ",
-        "source": "gyaru_academy"
-      }
-    ]
-  }],
+        "source": "only_sweet_when_alone"
+      }]
+    }
+  ],
   "literal": "pashi"
 }

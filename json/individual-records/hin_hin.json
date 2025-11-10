@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ひんひん",
+    "ひんひんひん"
+  ],
+  "katakana": [
+    "ヒンヒン",
+    "ヒンヒンヒン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blab",
+      "blabber",
+      "gossip",
+      "rumor",
+      "tattle",
+      "whisper"
+    ],
+    "refer": "",
+    "meaning": "whispering or gossiping quietly, often furtively",
+    "type": "v",
+    "example": [{
+      "file": "hin_hin-1a",
+      "contributor": "",
+      "display": "ヒン ヒン ヒン",
+      "source": "only_sweet_when_alone"
+    }]
+  }],
+  "literal": "hin hin"
+}

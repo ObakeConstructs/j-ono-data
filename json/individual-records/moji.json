@@ -14,12 +14,20 @@
     "refer": "",
     "meaning": "showing shyness or embarrassment",
     "type": "e",
-    "example": [{
-      "file": "moji-1a",
-      "contributor": "",
-      "display": "もじ\u2026",
-      "source": "d_genesis"
-    }]
+    "example": [
+      {
+        "file": "moji-1a",
+        "contributor": "",
+        "display": "もじ\u2026",
+        "source": "d_genesis"
+      },
+      {
+        "file": "moji-1b",
+        "contributor": "",
+        "display": "もじ",
+        "source": "only_sweet_when_alone"
+      }
+    ]
   }],
   "literal": "moji"
 }

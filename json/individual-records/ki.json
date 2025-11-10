@@ -57,12 +57,20 @@
       "refer": "",
       "meaning": "piercing gaze or intense stare",
       "type": "e",
-      "example": [{
-        "file": "ki-2a",
-        "contributor": "",
-        "display": "キッ",
-        "source": "reincarnated_farm_girl"
-      }]
+      "example": [
+        {
+          "file": "ki-2a",
+          "contributor": "",
+          "display": "キッ",
+          "source": "reincarnated_farm_girl"
+        },
+        {
+          "file": "ki-2b",
+          "contributor": "",
+          "display": "キッ",
+          "source": "only_sweet_when_alone"
+        }
+      ]
     }
   ],
   "literal": "ki"

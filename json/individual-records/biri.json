@@ -17,14 +17,22 @@
         "tear"
       ],
       "refer": "",
-      "meaning": "sharp tearing or ripping sound, often of paper",
+      "meaning": "sharp tearing or ripping sound",
       "type": "o",
-      "example": [{
-        "file": "biri-1a",
-        "contributor": "Artrix",
-        "display": "ビリリ",
-        "source": "pokemon_xy_break"
-      }]
+      "example": [
+        {
+          "file": "biri-1a",
+          "contributor": "Artrix",
+          "display": "ビリリ",
+          "source": "pokemon_xy_break"
+        },
+        {
+          "file": "biri-1b",
+          "contributor": "",
+          "display": "ビリッ!!",
+          "source": "only_sweet_when_alone"
+        }
+      ]
     },
     {
       "equivalent": [

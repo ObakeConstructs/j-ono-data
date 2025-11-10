@@ -1,6 +1,12 @@
 {
-  "hiragana": ["ぽつん"],
-  "katakana": ["ポツン"],
+  "hiragana": [
+    "ぽつん",
+    "ぽつーん"
+  ],
+  "katakana": [
+    "ポツン",
+    "ポツーン"
+  ],
   "definition": [{
     "equivalent": [
       "alone",
@@ -12,12 +18,20 @@
     "refer": "",
     "meaning": "isolated, alone or apart from others",
     "type": "s",
-    "example": [{
-      "file": "potsun-1a",
-      "contributor": "",
-      "display": "ポツン\u2026",
-      "source": "uncle_at_heart"
-    }]
+    "example": [
+      {
+        "file": "potsun-1a",
+        "contributor": "",
+        "display": "ポツン\u2026",
+        "source": "uncle_at_heart"
+      },
+      {
+        "file": "potsun-1b",
+        "contributor": "",
+        "display": "ぽつーん\u2026",
+        "source": "only_sweet_when_alone"
+      }
+    ]
   }],
   "literal": "potsun"
 }

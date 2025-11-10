@@ -1,0 +1,22 @@
+{
+  "hiragana": ["こくんこくん"],
+  "katakana": ["コクンコクン"],
+  "definition": [{
+    "equivalent": [
+      "agree",
+      "nod-nod",
+      "okay",
+      "yes-yes"
+    ],
+    "refer": "",
+    "meaning": "repeated nodding, often of eager agreement",
+    "type": "m",
+    "example": [{
+      "file": "kokun_kokun-1a",
+      "contributor": "",
+      "display": "コクン コクン",
+      "source": "only_sweet_when_alone"
+    }]
+  }],
+  "literal": "kokun kokun"
+}

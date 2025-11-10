@@ -1,26 +1,69 @@
 {
   "hiragana": [
     "ごご",
-    "ごっごっ"
+    "ごっごっ",
+    "ごごご"
   ],
   "katakana": [
     "ゴゴ",
-    "ゴッゴッ"
+    "ゴッゴッ",
+    "ゴゴゴ"
   ],
-  "definition": [{
-    "equivalent": [
-      "knock",
-      "tap"
-    ],
-    "refer": "go:1",
-    "meaning": ", repeated or rhythmic ",
-    "type": "",
-    "example": [{
-      "file": "go_go-1a",
-      "contributor": "",
-      "display": "ゴッ ゴッ",
-      "source": "human_ranch"
-    }]
-  }],
+  "definition": [
+    {
+      "equivalent": [
+        "knock",
+        "tap"
+      ],
+      "refer": "go:1",
+      "meaning": ", repeated or rhythmic ",
+      "type": "",
+      "example": [{
+        "file": "go_go-1a",
+        "contributor": "",
+        "display": "ゴッ ゴッ",
+        "source": "human_ranch"
+      }]
+    },
+    {
+      "equivalent": [
+        "grind",
+        "groan",
+        "rasp",
+        "rumble",
+        "scrape"
+      ],
+      "refer": "",
+      "meaning": "harsh rumbling or grinding",
+      "type": "o",
+      "example": [{
+        "file": "go_go-2a",
+        "contributor": "",
+        "display": "ゴ ゴ ゴ ゴ ゴ",
+        "source": "modern_dungeon_capture"
+      }]
+    },
+    {
+      "equivalent": [
+        "anger",
+        "heat",
+        "killing intent",
+        "menace",
+        "peril",
+        "pressure",
+        "rage",
+        "threat"
+      ],
+      "refer": "",
+      "meaning": "intense focus, anger, or menace",
+      "type": "s",
+      "example": [{
+        "file": "go_go-3a",
+        "contributor": "",
+        "display": "ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ",
+        "source": "only_sweet_when_alone"
+      }]
+    }
+  ],
   "literal": "go go"
 }

@@ -1,6 +1,12 @@
 {
-  "hiragana": ["ぱちぱち"],
-  "katakana": ["パチパチ"],
+  "hiragana": [
+    "ぱちぱち",
+    "ぱちっぱちっ"
+  ],
+  "katakana": [
+    "パチパチ",
+    "パチッパチッ"
+  ],
   "definition": [
     {
       "equivalent": [
@@ -9,7 +15,7 @@
         "snap"
       ],
       "refer": "",
-      "meaning": "continuous popping or crackling, as from a fire",
+      "meaning": "continuous popping or crackling sounds",
       "type": "o",
       "example": [
         {
@@ -54,6 +60,27 @@
           "source": "cheat_pharmacist"
         }
       ]
+    },
+    {
+      "equivalent": [
+        "alluring",
+        "attractive",
+        "charming",
+        "coy",
+        "cute",
+        "flirting",
+        "kittenish",
+        "sparkly"
+      ],
+      "refer": "",
+      "meaning": "cute, charming, or flirtatious",
+      "type": "s",
+      "example": [{
+        "file": "pachi_pachi-3a",
+        "contributor": "",
+        "display": "ぱちっ ぱちっ",
+        "source": "only_sweet_when_alone"
+      }]
     }
   ],
   "literal": "pachi pachi"
