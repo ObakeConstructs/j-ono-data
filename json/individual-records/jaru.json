@@ -1,0 +1,25 @@
+{
+  "hiragana": ["じゃる"],
+  "katakana": ["ジャル"],
+  "definition": [{
+    "equivalent": [
+      "bubble",
+      "dribble",
+      "gurgle",
+      "shhp",
+      "shlrp",
+      "sip",
+      "slurp"
+    ],
+    "refer": "",
+    "meaning": "softly gurgling or slurping liquid through a straw",
+    "type": "o",
+    "example": [{
+      "file": "jaru-1a",
+      "contributor": "boson",
+      "display": "じゃる",
+      "source": "singing_the_superstar"
+    }]
+  }],
+  "literal": "jaru"
+}

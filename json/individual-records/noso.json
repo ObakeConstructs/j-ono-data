@@ -1,0 +1,32 @@
+{
+  "hiragana": ["のそっ"],
+  "katakana": ["ノソッ"],
+  "definition": [{
+    "equivalent": [
+      "crawl",
+      "creep",
+      "dawdle",
+      "heavy",
+      "lazy",
+      "lumber",
+      "plod",
+      "ponderous",
+      "saunter",
+      "shamble",
+      "shuffle",
+      "slow",
+      "slug",
+      "trudge"
+    ],
+    "refer": "",
+    "meaning": "slow, deliberate or sluggish movement",
+    "type": "m",
+    "example": [{
+      "file": "noso-1a",
+      "contributor": "artrix",
+      "display": "のそっ",
+      "source": "pokemon_xy_break"
+    }]
+  }],
+  "literal": "noso"
+}

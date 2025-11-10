@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "ぺか",
+    "ぺかっ",
+    "ぺかーっ"
+  ],
+  "katakana": [
+    "ペカ",
+    "ペカッ",
+    "ペカーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bright",
+      "clean",
+      "fresh",
+      "gleam",
+      "polished",
+      "shine",
+      "twinkle"
+    ],
+    "refer": "",
+    "meaning": "shining or gleaming, often indicating cleanliness or freshness",
+    "type": "s",
+    "example": [{
+      "file": "peka-1a",
+      "contributor": "artrix",
+      "display": "ペかーっ",
+      "source": "pokemon_xy_break"
+    }]
+  }],
+  "literal": "peka"
+}

@@ -2175,6 +2175,30 @@
     "literal": "boso"
   },
   {
+    "hiragana": ["ぼそぼそ"],
+    "katakana": ["ボソボソ"],
+    "definition": [{
+      "equivalent": [
+        "mumble",
+        "murmur",
+        "mutter",
+        "quietly",
+        "sotto voce",
+        "whisper"
+      ],
+      "refer": "",
+      "meaning": "mumbling or whispering",
+      "type": "v",
+      "example": [{
+        "file": "boso_boso-1a",
+        "contributor": "boson",
+        "display": "ボソ\u2026 ボソ\u2026",
+        "source": "singing_the_superstar"
+      }]
+    }],
+    "literal": "boso boso"
+  },
+  {
     "hiragana": [
       "ぼた",
       "ぼたっ",
@@ -11313,6 +11337,31 @@
     "literal": "jaran"
   },
   {
+    "hiragana": ["じゃる"],
+    "katakana": ["ジャル"],
+    "definition": [{
+      "equivalent": [
+        "bubble",
+        "dribble",
+        "gurgle",
+        "shhp",
+        "shlrp",
+        "sip",
+        "slurp"
+      ],
+      "refer": "",
+      "meaning": "softly gurgling or slurping liquid through a straw",
+      "type": "o",
+      "example": [{
+        "file": "jaru-1a",
+        "contributor": "boson",
+        "display": "じゃる",
+        "source": "singing_the_superstar"
+      }]
+    }],
+    "literal": "jaru"
+  },
+  {
     "hiragana": ["じゃじゃ"],
     "katakana": ["ジャジャ"],
     "definition": [{
@@ -15811,6 +15860,31 @@
     "literal": "ni"
   },
   {
+    "hiragana": ["じゃるじゃる"],
+    "katakana": ["ニギリニギリ"],
+    "definition": [{
+      "equivalent": [
+        "cling",
+        "gentle",
+        "grasp",
+        "grip",
+        "hold",
+        "hold-onto",
+        "squeeze"
+      ],
+      "refer": "",
+      "meaning": "gently grasped or squeezed by hand, as from affection or nervousness",
+      "type": "s",
+      "example": [{
+        "file": "nigiri_nigiri-1a",
+        "contributor": "boson",
+        "display": "ニギリ ニギリ",
+        "source": "singing_the_superstar"
+      }]
+    }],
+    "literal": "nigiri nigiri"
+  },
+  {
     "hiragana": [
       "にこ",
       "にこっ",
@@ -16032,6 +16106,38 @@
       }]
     }],
     "literal": "nori"
+  },
+  {
+    "hiragana": ["のそっ"],
+    "katakana": ["ノソッ"],
+    "definition": [{
+      "equivalent": [
+        "crawl",
+        "creep",
+        "dawdle",
+        "heavy",
+        "lazy",
+        "lumber",
+        "plod",
+        "ponderous",
+        "saunter",
+        "shamble",
+        "shuffle",
+        "slow",
+        "slug",
+        "trudge"
+      ],
+      "refer": "",
+      "meaning": "slow, deliberate or sluggish movement",
+      "type": "m",
+      "example": [{
+        "file": "noso-1a",
+        "contributor": "artrix",
+        "display": "のそっ",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "literal": "noso"
   },
   {
     "hiragana": ["のそのそ"],
@@ -17583,6 +17689,39 @@
       }]
     }],
     "literal": "pechi"
+  },
+  {
+    "hiragana": [
+      "ぺか",
+      "ぺかっ",
+      "ぺかーっ"
+    ],
+    "katakana": [
+      "ペカ",
+      "ペカッ",
+      "ペカーッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bright",
+        "clean",
+        "fresh",
+        "gleam",
+        "polished",
+        "shine",
+        "twinkle"
+      ],
+      "refer": "",
+      "meaning": "shining or gleaming, often indicating cleanliness or freshness",
+      "type": "s",
+      "example": [{
+        "file": "peka-1a",
+        "contributor": "artrix",
+        "display": "ペかーっ",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "literal": "peka"
   },
   {
     "hiragana": [
