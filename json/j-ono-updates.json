@@ -1,5 +1,9 @@
 [
   {
+    "date": "2025/11/11",
+    "message": "Changed database field (literal string -> romaji array); added new field (id string)"
+  },
+  {
     "date": "2025/11/10",
     "message": "2 new examples from Superstar wo Utatte (boson)"
   },
