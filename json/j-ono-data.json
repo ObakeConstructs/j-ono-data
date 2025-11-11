@@ -4,6 +4,7 @@
       "あ",
       "あっ"
     ],
+    "romaji": ["ah"],
     "katakana": [
       "ア",
       "アッ"
@@ -23,7 +24,7 @@
         "source": "isekai_pickup"
       }]
     }],
-    "literal": "ah"
+    "id": "ah"
   },
   {
     "hiragana": [
@@ -32,6 +33,7 @@
       "あっはっはっ",
       "あっはっはっはっ"
     ],
+    "romaji": ["ahaha"],
     "katakana": [
       "アハハ",
       "アハハハ",
@@ -62,16 +64,23 @@
           "contributor": "",
           "display": "あっはっはっはっ",
           "source": "lord_of_the_hundred_demons"
+        },
+        {
+          "file": "ahaha-1c",
+          "contributor": "",
+          "display": "アハハハハハ",
+          "source": "mushoku_tensei"
         }
       ]
     }],
-    "literal": "ahaha"
+    "id": "ahaha"
   },
   {
     "hiragana": [
       "あはん",
       "あはーん"
     ],
+    "romaji": ["ahan"],
     "katakana": [
       "アハン",
       "アハーン"
@@ -101,7 +110,7 @@
         }
       ]
     }],
-    "literal": "ahan"
+    "id": "ahan"
   },
   {
     "hiragana": [
@@ -110,6 +119,7 @@
       "あむぅ",
       "あむぅぅ"
     ],
+    "romaji": ["amu"],
     "katakana": [
       "アム",
       "アムッ",
@@ -144,13 +154,14 @@
         }
       ]
     }],
-    "literal": "amu"
+    "id": "amu"
   },
   {
     "hiragana": [
       "あん",
       "あーん"
     ],
+    "romaji": ["an"],
     "katakana": [
       "アン",
       "アーン"
@@ -172,13 +183,14 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "an"
+    "id": "an"
   },
   {
     "hiragana": [
       "あわ",
       "あわわ"
     ],
+    "romaji": ["awa"],
     "katakana": [
       "アワ",
       "アワワ"
@@ -207,10 +219,11 @@
         "source": "isekai_territory_reform"
       }]
     }],
-    "literal": "awa"
+    "id": "awa"
   },
   {
     "hiragana": ["あわあわ"],
+    "romaji": ["awa awa"],
     "katakana": ["アワアワ"],
     "definition": [{
       "equivalent": [""],
@@ -224,13 +237,14 @@
         "source": "peter_grill"
       }]
     }],
-    "literal": "awa awa"
+    "id": "awa_awa"
   },
   {
     "hiragana": [
       "ば",
       "ばっ"
     ],
+    "romaji": ["ba"],
     "katakana": [
       "バ",
       "バッ"
@@ -343,13 +357,14 @@
         ]
       }
     ],
-    "literal": "ba"
+    "id": "ba"
   },
   {
     "hiragana": [
       "ばば",
       "ばばっ"
     ],
+    "romaji": ["baba"],
     "katakana": [
       "ババ",
       "ババッ"
@@ -374,13 +389,14 @@
         }
       ]
     }],
-    "literal": "baba"
+    "id": "baba"
   },
   {
     "hiragana": [
       "ばち",
       "ばちっ"
     ],
+    "romaji": ["bachi"],
     "katakana": [
       "バチ",
       "バチッ"
@@ -425,10 +441,11 @@
         }]
       }
     ],
-    "literal": "bachi"
+    "id": "bachi"
   },
   {
     "hiragana": ["ばちん"],
+    "romaji": ["bachin"],
     "katakana": ["バチン"],
     "definition": [{
       "equivalent": [
@@ -461,13 +478,14 @@
         }
       ]
     }],
-    "literal": "bachin"
+    "id": "bachin"
   },
   {
     "hiragana": [
       "ばが",
       "ばがっ"
     ],
+    "romaji": ["baga"],
     "katakana": [
       "バガ",
       "バガッ"
@@ -490,13 +508,14 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "baga"
+    "id": "baga"
   },
   {
     "hiragana": [
       "ばき",
       "ばきっ"
     ],
+    "romaji": ["baki"],
     "katakana": [
       "バキ",
       "バキッ"
@@ -528,13 +547,14 @@
         }
       ]
     }],
-    "literal": "baki"
+    "id": "baki"
   },
   {
     "hiragana": [
       "ばきん",
       "ばきんっ"
     ],
+    "romaji": ["bakin"],
     "katakana": [
       "バキン",
       "バキンッ"
@@ -551,10 +571,11 @@
         "source": "abandoned_reincarnation_sage"
       }]
     }],
-    "literal": "bakin"
+    "id": "bakin"
   },
   {
     "hiragana": ["ばきばき"],
+    "romaji": ["baki baki"],
     "katakana": ["バキバキ"],
     "definition": [{
       "equivalent": [""],
@@ -568,10 +589,11 @@
         "source": "hone_dragon"
       }]
     }],
-    "literal": "baki baki"
+    "id": "baki_baki"
   },
   {
     "hiragana": ["ばくばく"],
+    "romaji": ["baku baku"],
     "katakana": ["バクバク"],
     "definition": [{
       "equivalent": [
@@ -590,7 +612,7 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "baku baku"
+    "id": "baku_baku"
   },
   {
     "hiragana": [
@@ -601,6 +623,7 @@
       "ばぁーん",
       "ばぁんっ"
     ],
+    "romaji": ["ban"],
     "katakana": [
       "バン",
       "バーン",
@@ -694,10 +717,11 @@
         ]
       }
     ],
-    "literal": "ban"
+    "id": "ban"
   },
   {
     "hiragana": ["ばらばら"],
+    "romaji": ["bara bara"],
     "katakana": ["バラバラ"],
     "definition": [
       {
@@ -735,13 +759,14 @@
         }]
       }
     ],
-    "literal": "bara bara"
+    "id": "bara_bara"
   },
   {
     "hiragana": [
       "ばりん",
       "ばりーん"
     ],
+    "romaji": ["barin"],
     "katakana": [
       "バリン",
       "バリーン"
@@ -765,7 +790,7 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "barin"
+    "id": "barin"
   },
   {
     "hiragana": [
@@ -774,6 +799,7 @@
       "ばさぁ",
       "ばさあ"
     ],
+    "romaji": ["basa"],
     "katakana": [
       "バサ",
       "バサッ",
@@ -837,13 +863,14 @@
         }]
       }
     ],
-    "literal": "basa"
+    "id": "basa"
   },
   {
     "hiragana": [
       "ばさばさ",
       "ばさっばさっ"
     ],
+    "romaji": ["basa basa"],
     "katakana": [
       "バサバサ",
       "バサッバサッ"
@@ -874,13 +901,14 @@
         }
       ]
     }],
-    "literal": "basa basa"
+    "id": "basa_basa"
   },
   {
     "hiragana": [
       "ばしゃ",
       "ばしゃっ"
     ],
+    "romaji": ["basha"],
     "katakana": [
       "バシャ",
       "バシャッ"
@@ -914,13 +942,14 @@
         }
       ]
     }],
-    "literal": "basha"
+    "id": "basha"
   },
   {
     "hiragana": [
       "ばしゃん",
       "ばしゃーん"
     ],
+    "romaji": ["bashan"],
     "katakana": [
       "バシャン",
       "バシャーン"
@@ -937,10 +966,11 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "bashan"
+    "id": "bashan"
   },
   {
     "hiragana": ["ばしゃばしゃ"],
+    "romaji": ["basha basha"],
     "katakana": ["バシャバシャ"],
     "definition": [{
       "equivalent": [""],
@@ -954,13 +984,14 @@
         "source": "reincarnated_sage_daughters"
       }]
     }],
-    "literal": "basha basha"
+    "id": "basha_basha"
   },
   {
     "hiragana": [
       "ばし",
       "ばしっ"
     ],
+    "romaji": ["bashi"],
     "katakana": [
       "バシ",
       "バシッ"
@@ -999,10 +1030,11 @@
         }
       ]
     }],
-    "literal": "bashi"
+    "id": "bashi"
   },
   {
     "hiragana": ["ばしばし"],
+    "romaji": ["bashi bashi"],
     "katakana": ["バシバシ"],
     "definition": [{
       "equivalent": [
@@ -1030,13 +1062,14 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "bashi bashi"
+    "id": "bashi_bashi"
   },
   {
     "hiragana": [
       "ばしゅん",
       "ばしゅんっ"
     ],
+    "romaji": ["bashun"],
     "katakana": [
       "バシュン",
       "バシュンッ"
@@ -1068,10 +1101,11 @@
         }
       ]
     }],
-    "literal": "bashun"
+    "id": "bashun"
   },
   {
     "hiragana": ["ばたん"],
+    "romaji": ["batan"],
     "katakana": ["バタン"],
     "definition": [{
       "equivalent": [
@@ -1099,10 +1133,11 @@
         }
       ]
     }],
-    "literal": "batan"
+    "id": "batan"
   },
   {
     "hiragana": ["ばたばた"],
+    "romaji": ["bata bata"],
     "katakana": ["バタバタ"],
     "definition": [{
       "equivalent": [
@@ -1122,13 +1157,14 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "bata bata"
+    "id": "bata_bata"
   },
   {
     "hiragana": [
       "べ",
       "べー"
     ],
+    "romaji": ["be"],
     "katakana": [
       "ベ",
       "ベー"
@@ -1149,10 +1185,11 @@
         "source": "double_play"
       }]
     }],
-    "literal": "be"
+    "id": "be"
   },
   {
     "hiragana": ["べりべり"],
+    "romaji": ["beri beri"],
     "katakana": ["ベリベリ"],
     "definition": [{
       "equivalent": [
@@ -1171,10 +1208,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "beri beri"
+    "id": "beri_beri"
   },
   {
     "hiragana": ["べろん"],
+    "romaji": ["beron"],
     "katakana": ["ベロン"],
     "definition": [{
       "equivalent": [
@@ -1194,7 +1232,7 @@
         "source": "dog_became_strongest"
       }]
     }],
-    "literal": "beron"
+    "id": "beron"
   },
   {
     "hiragana": [
@@ -1203,6 +1241,7 @@
       "べたぁ",
       "べたぁっ"
     ],
+    "romaji": ["beta"],
     "katakana": [
       "ベタ",
       "ベタッ",
@@ -1228,13 +1267,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "beta"
+    "id": "beta"
   },
   {
     "hiragana": [
       "び",
       "びっ"
     ],
+    "romaji": ["bi"],
     "katakana": [
       "ビ",
       "ビッ"
@@ -1304,7 +1344,7 @@
         ]
       }
     ],
-    "literal": "bi"
+    "id": "bi"
   },
   {
     "hiragana": [
@@ -1312,6 +1352,7 @@
       "びちゃっ",
       "びちゃぁ"
     ],
+    "romaji": ["bicha"],
     "katakana": [
       "ビチャ",
       "ビチャッ",
@@ -1340,7 +1381,7 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "bicha"
+    "id": "bicha"
   },
   {
     "hiragana": [
@@ -1349,6 +1390,7 @@
       "びくぅ",
       "びくぅっ"
     ],
+    "romaji": ["biku"],
     "katakana": [
       "ビク",
       "ビクッ",
@@ -1388,7 +1430,7 @@
         }
       ]
     }],
-    "literal": "biku"
+    "id": "biku"
   },
   {
     "hiragana": [
@@ -1397,6 +1439,7 @@
       "びくんっ",
       "びくーんっ"
     ],
+    "romaji": ["bikun"],
     "katakana": [
       "ビクン",
       "ビクーン",
@@ -1441,13 +1484,14 @@
         }
       ]
     }],
-    "literal": "bikun"
+    "id": "bikun"
   },
   {
     "hiragana": [
       "びくびく",
       "びくびくっ"
     ],
+    "romaji": ["biku biku"],
     "katakana": [
       "ビクビク",
       "ビクビクッ"
@@ -1483,7 +1527,7 @@
         }
       ]
     }],
-    "literal": "biku biku"
+    "id": "biku_biku"
   },
   {
     "hiragana": [
@@ -1491,6 +1535,7 @@
       "びりり",
       "びりっ"
     ],
+    "romaji": ["biri"],
     "katakana": [
       "ビリ",
       "ビリリ",
@@ -1539,7 +1584,7 @@
         }]
       }
     ],
-    "literal": "biri"
+    "id": "biri"
   },
   {
     "hiragana": [
@@ -1547,6 +1592,7 @@
       "びりびりっ",
       "びりっびりっ"
     ],
+    "romaji": ["biri biri"],
     "katakana": [
       "ビリビリ",
       "ビリビリッ",
@@ -1578,13 +1624,14 @@
         }]
       }
     ],
-    "literal": "biri biri"
+    "id": "biri_biri"
   },
   {
     "hiragana": [
       "びしゃ",
       "びしゃっ"
     ],
+    "romaji": ["bisha"],
     "katakana": [
       "ビシャ",
       "ビシャッ"
@@ -1607,10 +1654,11 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "bisha"
+    "id": "bisha"
   },
   {
     "hiragana": ["びしびし"],
+    "romaji": ["bisha bisha"],
     "katakana": ["ビシビシ"],
     "definition": [{
       "equivalent": [""],
@@ -1624,7 +1672,7 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "bisha bisha"
+    "id": "bisha_bisha"
   },
   {
     "hiragana": [
@@ -1633,6 +1681,7 @@
       "びしー",
       "びしーっ"
     ],
+    "romaji": ["bishi"],
     "katakana": [
       "ビシ",
       "ビシッ",
@@ -1736,13 +1785,14 @@
         ]
       }
     ],
-    "literal": "bishi"
+    "id": "bishi"
   },
   {
     "hiragana": [
       "びしびし",
       "びしっびしっ"
     ],
+    "romaji": ["bishi bishi"],
     "katakana": [
       "ビシビシ",
       "ビシッビシッ"
@@ -1759,10 +1809,11 @@
         "source": "35_year_olds_choice"
       }]
     }],
-    "literal": "bishi bishi"
+    "id": "bishi_bishi"
   },
   {
     "hiragana": ["びしゅ"],
+    "romaji": ["bishu"],
     "katakana": ["ビシュ"],
     "definition": [{
       "equivalent": [
@@ -1782,7 +1833,7 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "bishu"
+    "id": "bishu"
   },
   {
     "hiragana": [
@@ -1797,6 +1848,7 @@
       "ぼぉぉ",
       "ぼぉぉぉ"
     ],
+    "romaji": ["bo"],
     "katakana": [
       "ボ",
       "ボッ",
@@ -1834,6 +1886,12 @@
             "contributor": "",
             "display": "ボォォォ",
             "source": "spy_x_family"
+          },
+          {
+            "file": "bo-1c",
+            "contributor": "",
+            "display": "ボッ",
+            "source": "mushoku_tensei"
           }
         ]
       },
@@ -1868,10 +1926,11 @@
         }]
       }
     ],
-    "literal": "bo"
+    "id": "bo"
   },
   {
     "hiragana": ["ぼちゃん"],
+    "romaji": ["bochan"],
     "katakana": ["ボチャン"],
     "definition": [{
       "equivalent": [
@@ -1893,13 +1952,14 @@
         "source": "berserk"
       }]
     }],
-    "literal": "bochan"
+    "id": "bochan"
   },
   {
     "hiragana": [
       "ぼふ",
       "ぼふっ"
     ],
+    "romaji": ["bofu"],
     "katakana": [
       "ボフ",
       "ボフッ"
@@ -1922,10 +1982,11 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "bofu"
+    "id": "bofu"
   },
   {
     "hiragana": ["ぼふん"],
+    "romaji": ["bofun"],
     "katakana": ["ボフン"],
     "definition": [{
       "equivalent": [""],
@@ -1947,13 +2008,14 @@
         }
       ]
     }],
-    "literal": "bofun"
+    "id": "bofun"
   },
   {
     "hiragana": [
       "ぼこ",
       "ぼこっ"
     ],
+    "romaji": ["boko"],
     "katakana": [
       "ボコ",
       "ボコッ"
@@ -1979,10 +2041,11 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "boko"
+    "id": "boko"
   },
   {
     "hiragana": ["ぼこん"],
+    "romaji": ["bokon"],
     "katakana": ["ボコン"],
     "definition": [{
       "equivalent": [
@@ -2004,7 +2067,7 @@
         "source": "bungo"
       }]
     }],
-    "literal": "bokon"
+    "id": "bokon"
   },
   {
     "hiragana": [
@@ -2012,6 +2075,7 @@
       "ぼーん",
       "ぼんっ"
     ],
+    "romaji": ["bon"],
     "katakana": [
       "ボン",
       "ボーン",
@@ -2035,13 +2099,14 @@
         "source": "pokemon_xy_break"
       }]
     }],
-    "literal": "bon"
+    "id": "bon"
   },
   {
     "hiragana": [
       "ぼろ",
       "ぼろっ"
     ],
+    "romaji": ["boro"],
     "katakana": [
       "ボロ",
       "ボロッ"
@@ -2072,7 +2137,7 @@
         }
       ]
     }],
-    "literal": "boro"
+    "id": "boro"
   },
   {
     "hiragana": [
@@ -2080,6 +2145,7 @@
       "ぼろろん",
       "ぼろろろん"
     ],
+    "romaji": ["boron"],
     "katakana": [
       "ボロン",
       "ボロロン",
@@ -2103,10 +2169,11 @@
         "source": "requiem_for_prophet"
       }]
     }],
-    "literal": "boron"
+    "id": "boron"
   },
   {
     "hiragana": ["ぼろぼろ"],
+    "romaji": ["boro boro"],
     "katakana": ["ボロボロ"],
     "definition": [{
       "equivalent": [""],
@@ -2134,13 +2201,14 @@
         }
       ]
     }],
-    "literal": "boro boro"
+    "id": "boro_boro"
   },
   {
     "hiragana": [
       "ぼそ",
       "ぼそっ"
     ],
+    "romaji": ["boso"],
     "katakana": [
       "ボソ",
       "ボソッ"
@@ -2172,10 +2240,11 @@
         }
       ]
     }],
-    "literal": "boso"
+    "id": "boso"
   },
   {
     "hiragana": ["ぼそぼそ"],
+    "romaji": ["boso boso"],
     "katakana": ["ボソボソ"],
     "definition": [{
       "equivalent": [
@@ -2196,7 +2265,36 @@
         "source": "singing_the_superstar"
       }]
     }],
-    "literal": "boso boso"
+    "id": "boso_boso"
+  },
+  {
+    "hiragana": [
+      "ぼす",
+      "ぼすっ"
+    ],
+    "romaji": ["bosu"],
+    "katakana": [
+      "ボス",
+      "ボスッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "flump",
+        "thoomph",
+        "thud",
+        "whoomph"
+      ],
+      "refer": "",
+      "meaning": "soft thud or cushioned impact",
+      "type": "o",
+      "example": [{
+        "file": "bosu-1a",
+        "contributor": "",
+        "display": "ボスッ",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "bosu"
   },
   {
     "hiragana": [
@@ -2204,6 +2302,7 @@
       "ぼたっ",
       "ぼたたっ"
     ],
+    "romaji": ["bota"],
     "katakana": [
       "ボタ",
       "ボタッ",
@@ -2227,13 +2326,14 @@
         "source": "beastly_boys_and_girls"
       }]
     }],
-    "literal": "bota"
+    "id": "bota"
   },
   {
     "hiragana": [
       "ぼと",
       "ぼとっ"
     ],
+    "romaji": ["boto"],
     "katakana": [
       "ボト",
       "ボトッ"
@@ -2257,13 +2357,14 @@
         "source": "dog_became_strongest"
       }]
     }],
-    "literal": "boto"
+    "id": "boto"
   },
   {
     "hiragana": [
       "ぼぅん",
       "ぼぅぅん"
     ],
+    "romaji": ["boun"],
     "katakana": [
       "ボゥン",
       "ボゥゥン"
@@ -2285,13 +2386,14 @@
         "source": "shogun_gold_in_america"
       }]
     }],
-    "literal": "boun"
+    "id": "boun"
   },
   {
     "hiragana": [
       "ぼわ",
       "ぼわっ"
     ],
+    "romaji": ["bowa"],
     "katakana": [
       "ボワ",
       "ボワッ"
@@ -2316,7 +2418,7 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "bowa"
+    "id": "bowa"
   },
   {
     "hiragana": [
@@ -2325,6 +2427,7 @@
       "ぼょん",
       "ぼょんっ"
     ],
+    "romaji": ["boyon"],
     "katakana": [
       "ボヨン",
       "ボヨンッ",
@@ -2360,7 +2463,7 @@
         }
       ]
     }],
-    "literal": "boyon"
+    "id": "boyon"
   },
   {
     "hiragana": [
@@ -2375,6 +2478,7 @@
       "ぶうう",
       "ぶううう"
     ],
+    "romaji": ["bu"],
     "katakana": [
       "ブ",
       "ブッ",
@@ -2450,13 +2554,14 @@
         }]
       }
     ],
-    "literal": "bu"
+    "id": "bu"
   },
   {
     "hiragana": [
       "ぶち",
       "ぶちっ"
     ],
+    "romaji": ["buchi"],
     "katakana": [
       "ブチ",
       "ブチッ"
@@ -2497,7 +2602,7 @@
         }]
       }
     ],
-    "literal": "buchi"
+    "id": "buchi"
   },
   {
     "hiragana": [
@@ -2506,6 +2611,7 @@
       "ぶふー",
       "ぶふーっ"
     ],
+    "romaji": ["bufu"],
     "katakana": [
       "ブフ",
       "ブフッ",
@@ -2537,10 +2643,11 @@
         }
       ]
     }],
-    "literal": "bufu"
+    "id": "bufu"
   },
   {
     "hiragana": ["ぶか"],
+    "romaji": ["buka"],
     "katakana": ["ブカ"],
     "definition": [{
       "equivalent": [
@@ -2559,10 +2666,11 @@
         "source": "hero_or_demon_king"
       }]
     }],
-    "literal": "buka"
+    "id": "buka"
   },
   {
     "hiragana": ["ぶくぶく"],
+    "romaji": ["buku buku"],
     "katakana": ["ブクブク"],
     "definition": [{
       "equivalent": [
@@ -2588,13 +2696,14 @@
         }
       ]
     }],
-    "literal": "buku buku"
+    "id": "buku_buku"
   },
   {
     "hiragana": [
       "ぶん",
       "ぶんっ"
     ],
+    "romaji": ["bun"],
     "katakana": [
       "ブン",
       "ブンッ"
@@ -2659,13 +2768,14 @@
         ]
       }
     ],
-    "literal": "bun"
+    "id": "bun"
   },
   {
     "hiragana": [
       "ぶんぶん",
       "ぶんぶんっ"
     ],
+    "romaji": ["bun bun"],
     "katakana": [
       "ブンブン",
       "ブンブンッ"
@@ -2701,10 +2811,16 @@
           "contributor": "",
           "display": "ブン ブン ブン",
           "source": "ai_and_izawa"
+        },
+        {
+          "file": "bun_bun-1d",
+          "contributor": "",
+          "display": "ぶん ぶん",
+          "source": "mushoku_tensei"
         }
       ]
     }],
-    "literal": "bun bun"
+    "id": "bun_bun"
   },
   {
     "hiragana": [
@@ -2715,6 +2831,7 @@
       "ぶぉぉ",
       "ぶぉぉぉ"
     ],
+    "romaji": ["buo"],
     "katakana": [
       "ブオ",
       "ブオオ",
@@ -2784,7 +2901,7 @@
         ]
       }
     ],
-    "literal": "buo"
+    "id": "buo"
   },
   {
     "hiragana": [
@@ -2792,6 +2909,7 @@
       "ぶろろ",
       "ぶろろろ"
     ],
+    "romaji": ["buro"],
     "katakana": [
       "ブロ",
       "ブロロ",
@@ -2823,7 +2941,7 @@
         }
       ]
     }],
-    "literal": "buro"
+    "id": "buro"
   },
   {
     "hiragana": [
@@ -2832,6 +2950,7 @@
       "ぶるる",
       "ぶるるる"
     ],
+    "romaji": ["buru"],
     "katakana": [
       "ブル",
       "ブルッ",
@@ -2869,10 +2988,11 @@
         }
       ]
     }],
-    "literal": "buru"
+    "id": "buru"
   },
   {
     "hiragana": ["ぶるんぶるん"],
+    "romaji": ["burun burun"],
     "katakana": ["ブルンブルン"],
     "definition": [{
       "equivalent": [
@@ -2900,13 +3020,14 @@
         }
       ]
     }],
-    "literal": "burun burun"
+    "id": "burun_burun"
   },
   {
     "hiragana": [
       "ぶるぶる",
       "ぶるぶるっ"
     ],
+    "romaji": ["buru buru"],
     "katakana": [
       "ブルブル",
       "ブルブルッ"
@@ -2936,13 +3057,14 @@
         }
       ]
     }],
-    "literal": "buru buru"
+    "id": "buru_buru"
   },
   {
     "hiragana": [
       "ぶつ",
       "ぶつっ"
     ],
+    "romaji": ["butsu"],
     "katakana": [
       "ブツ",
       "ブツッ"
@@ -2966,10 +3088,11 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "butsu"
+    "id": "butsu"
   },
   {
     "hiragana": ["ぶつぶつ"],
+    "romaji": ["butsu butsu"],
     "katakana": ["ブツブツ"],
     "definition": [{
       "equivalent": [
@@ -2988,13 +3111,14 @@
         "source": "bungo"
       }]
     }],
-    "literal": "butsu butsu"
+    "id": "butsu_butsu"
   },
   {
     "hiragana": [
       "ぶわ",
       "ぶわっ"
     ],
+    "romaji": ["buwa"],
     "katakana": [
       "ブワ",
       "ブワッ"
@@ -3043,7 +3167,7 @@
         }]
       }
     ],
-    "literal": "buwa"
+    "id": "buwa"
   },
   {
     "hiragana": [
@@ -3052,6 +3176,7 @@
       "ぶーぶー",
       "ぶーっぶーっ"
     ],
+    "romaji": ["bu bu"],
     "katakana": [
       "ブブ",
       "ブッブッ",
@@ -3073,7 +3198,7 @@
         "source": "neet_kunoichi"
       }]
     }],
-    "literal": "bu bu"
+    "id": "bu_bu"
   },
   {
     "hiragana": [
@@ -3084,6 +3209,7 @@
       "びゅう",
       "びゅぅ"
     ],
+    "romaji": ["byu"],
     "katakana": [
       "ビュ",
       "ビュッ",
@@ -3140,7 +3266,7 @@
         }]
       }
     ],
-    "literal": "byu"
+    "id": "byu"
   },
   {
     "hiragana": [
@@ -3148,6 +3274,7 @@
       "びゅんっ",
       "びゅーん"
     ],
+    "romaji": ["byun"],
     "katakana": [
       "ビュン",
       "ビュンッ",
@@ -3187,13 +3314,14 @@
         }
       ]
     }],
-    "literal": "byun"
+    "id": "byun"
   },
   {
     "hiragana": [
       "ちゃ",
       "ちゃっ"
     ],
+    "romaji": ["cha"],
     "katakana": [
       "チャ",
       "チャッ"
@@ -3215,13 +3343,14 @@
         "source": "reincarnated_aristocrat"
       }]
     }],
-    "literal": "cha"
+    "id": "cha"
   },
   {
     "hiragana": [
       "ちゃき",
       "ちゃきっ"
     ],
+    "romaji": ["chaki"],
     "katakana": [
       "チャキ",
       "チャキッ"
@@ -3252,13 +3381,14 @@
         }
       ]
     }],
-    "literal": "chaki"
+    "id": "chaki"
   },
   {
     "hiragana": [
       "ちゃきん",
       "ちゃきーん"
     ],
+    "romaji": ["chakin"],
     "katakana": [
       "チャキン",
       "チャキーン"
@@ -3275,10 +3405,11 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "chakin"
+    "id": "chakin"
   },
   {
     "hiragana": ["ちゃぷ"],
+    "romaji": ["chapu"],
     "katakana": ["チャプ"],
     "definition": [{
       "equivalent": [
@@ -3306,10 +3437,11 @@
         }
       ]
     }],
-    "literal": "chapu"
+    "id": "chapu"
   },
   {
     "hiragana": ["ちゃら"],
+    "romaji": ["chara"],
     "katakana": ["チャラ"],
     "definition": [{
       "equivalent": [
@@ -3331,7 +3463,7 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "chara"
+    "id": "chara"
   },
   {
     "hiragana": [
@@ -3339,6 +3471,7 @@
       "ちゃりり",
       "ちゃりりり"
     ],
+    "romaji": ["chari"],
     "katakana": [
       "チャリ",
       "チャリリ",
@@ -3378,13 +3511,14 @@
         }
       ]
     }],
-    "literal": "chari"
+    "id": "chari"
   },
   {
     "hiragana": [
       "ちゃりん",
       "ちゃりーん"
     ],
+    "romaji": ["charin"],
     "katakana": [
       "チャリン",
       "チャリーン"
@@ -3409,13 +3543,14 @@
         }
       ]
     }],
-    "literal": "charin"
+    "id": "charin"
   },
   {
     "hiragana": [
       "ち",
       "ちっ"
     ],
+    "romaji": ["chi"],
     "katakana": [
       "チ",
       "チッ"
@@ -3446,10 +3581,11 @@
         }
       ]
     }],
-    "literal": "chi"
+    "id": "chi"
   },
   {
     "hiragana": ["ちき"],
+    "romaji": ["chiki"],
     "katakana": ["チキ"],
     "definition": [{
       "equivalent": [
@@ -3466,10 +3602,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "chiki"
+    "id": "chiki"
   },
   {
     "hiragana": ["ちきちき"],
+    "romaji": ["chiki chiki"],
     "katakana": ["チキチキ"],
     "definition": [{
       "equivalent": [""],
@@ -3483,13 +3620,14 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "chiki chiki"
+    "id": "chiki_chiki"
   },
   {
     "hiragana": [
       "ちん",
       "ちーん"
     ],
+    "romaji": ["chin"],
     "katakana": [
       "チン",
       "チーン"
@@ -3514,10 +3652,11 @@
         "source": "requiem_for_prophet"
       }]
     }],
-    "literal": "chin"
+    "id": "chin"
   },
   {
     "hiragana": ["ちーんこーんかーんこーん"],
+    "romaji": ["chin kon kan kon"],
     "katakana": ["チーンコーンカーンコーン"],
     "definition": [{
       "equivalent": ["ding dong dang dong"],
@@ -3531,13 +3670,14 @@
         "source": "gyaru_academy"
       }]
     }],
-    "literal": "chin kon kan kon"
+    "id": "chin_kon_kan_kon"
   },
   {
     "hiragana": [
       "ちら",
       "ちらっ"
     ],
+    "romaji": ["chira"],
     "katakana": [
       "チラ",
       "チラッ"
@@ -3574,10 +3714,11 @@
         }
       ]
     }],
-    "literal": "chira"
+    "id": "chira"
   },
   {
     "hiragana": ["ちろちろ"],
+    "romaji": ["chiro chiro"],
     "katakana": ["チロチロ"],
     "definition": [{
       "equivalent": [
@@ -3598,7 +3739,7 @@
         "source": "beastly_boys_and_girls"
       }]
     }],
-    "literal": "chiro chiro"
+    "id": "chiro_chiro"
   },
   {
     "hiragana": [
@@ -3607,6 +3748,7 @@
       "ちちっ",
       "ちちちっ"
     ],
+    "romaji": ["chi chi"],
     "katakana": [
       "チチ",
       "チチチ",
@@ -3633,13 +3775,14 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "chi chi"
+    "id": "chi_chi"
   },
   {
     "hiragana": [
       "ちょぃちょぃ",
       "ちょぃっちょぃっ"
     ],
+    "romaji": ["choi choi"],
     "katakana": [
       "チョィチョィ",
       "チョィッチョィッ"
@@ -3671,7 +3814,7 @@
         }
       ]
     }],
-    "literal": "choi choi"
+    "id": "choi_choi"
   },
   {
     "hiragana": [
@@ -3680,6 +3823,7 @@
       "ちゅー",
       "ちゅーっ"
     ],
+    "romaji": ["chu"],
     "katakana": [
       "チュ",
       "チュッ",
@@ -3719,13 +3863,14 @@
         }
       ]
     }],
-    "literal": "chu"
+    "id": "chu"
   },
   {
     "hiragana": [
       "ちゅんちゅん",
       "ちゅんちゅんっ"
     ],
+    "romaji": ["chun chun"],
     "katakana": [
       "チュンチュン",
       "チュンチュンッ"
@@ -3750,10 +3895,11 @@
         }
       ]
     }],
-    "literal": "chun chun"
+    "id": "chun_chun"
   },
   {
     "hiragana": ["ちゅぷ"],
+    "romaji": ["chupu"],
     "katakana": ["チュプ"],
     "definition": [{
       "equivalent": [
@@ -3774,13 +3920,14 @@
         "source": "gyaru_academy"
       }]
     }],
-    "literal": "chupu"
+    "id": "chupu"
   },
   {
     "hiragana": [
       "ちゅる",
       "ちゅるっ"
     ],
+    "romaji": ["churu"],
     "katakana": [
       "チュル",
       "チュルッ"
@@ -3805,13 +3952,14 @@
         }
       ]
     }],
-    "literal": "churu"
+    "id": "churu"
   },
   {
     "hiragana": [
       "ちゅちゅ",
       "ちゅっちゅっ"
     ],
+    "romaji": ["chu chu"],
     "katakana": [
       "チュチュ",
       "チュッチュッ"
@@ -3828,13 +3976,14 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "chu chu"
+    "id": "chu_chu"
   },
   {
     "hiragana": [
       "だ",
       "だっ"
     ],
+    "romaji": ["da"],
     "katakana": [
       "ダ",
       "ダッ"
@@ -3868,13 +4017,14 @@
         }
       ]
     }],
-    "literal": "da"
+    "id": "da"
   },
   {
     "hiragana": [
       "だき",
       "だきっ"
     ],
+    "romaji": ["daki"],
     "katakana": [
       "ダキ",
       "ダキッ"
@@ -3906,7 +4056,7 @@
         }
       ]
     }],
-    "literal": "daki"
+    "id": "daki"
   },
   {
     "hiragana": [
@@ -3914,6 +4064,7 @@
       "だんっ",
       "だぁん"
     ],
+    "romaji": ["dan"],
     "katakana": [
       "ダン",
       "ダンッ",
@@ -3965,13 +4116,14 @@
         }
       ]
     }],
-    "literal": "dan"
+    "id": "dan"
   },
   {
     "hiragana": [
       "だんだん",
       "だんっだんっ"
     ],
+    "romaji": ["dan dan"],
     "katakana": [
       "ダンダン",
       "ダンッダンッ"
@@ -3996,10 +4148,11 @@
         }
       ]
     }],
-    "literal": "dan dan"
+    "id": "dan_dan"
   },
   {
     "hiragana": ["だらだら"],
+    "romaji": ["dara dara"],
     "katakana": ["ダラダラ"],
     "definition": [{
       "equivalent": [
@@ -4022,7 +4175,7 @@
         "source": "abandoned_reincarnation_sage"
       }]
     }],
-    "literal": "dara dara"
+    "id": "dara_dara"
   },
   {
     "hiragana": [
@@ -4031,6 +4184,7 @@
       "だっだっ",
       "だっだっだっ"
     ],
+    "romaji": ["da da"],
     "katakana": [
       "ダダ",
       "ダダッ",
@@ -4078,13 +4232,14 @@
         }
       ]
     }],
-    "literal": "da da"
+    "id": "da_da"
   },
   {
     "hiragana": [
       "でん",
       "でんっ"
     ],
+    "romaji": ["den"],
     "katakana": [
       "デン",
       "デンッ"
@@ -4106,7 +4261,7 @@
         "source": "way_of_isekai_cooking"
       }]
     }],
-    "literal": "den"
+    "id": "den"
   },
   {
     "hiragana": [
@@ -4116,6 +4271,7 @@
       "どぉっ",
       "どおぉ"
     ],
+    "romaji": ["do"],
     "katakana": [
       "ド",
       "ドッ",
@@ -4191,13 +4347,14 @@
         }]
       }
     ],
-    "literal": "do"
+    "id": "do"
   },
   {
     "hiragana": [
       "どぼん",
       "どぼーん"
     ],
+    "romaji": ["dobon"],
     "katakana": [
       "ドボン",
       "ドボーン"
@@ -4227,10 +4384,11 @@
         }
       ]
     }],
-    "literal": "dobon"
+    "id": "dobon"
   },
   {
     "hiragana": ["どぶん"],
+    "romaji": ["dobun"],
     "katakana": ["ドブン"],
     "definition": [{
       "equivalent": [""],
@@ -4244,13 +4402,14 @@
         "source": "kaijuu_sdf"
       }]
     }],
-    "literal": "dobun"
+    "id": "dobun"
   },
   {
     "hiragana": [
       "どどがどどが",
       "どどがどどがっ"
     ],
+    "romaji": ["dodoga dodoga"],
     "katakana": [
       "ドドガドドガ",
       "ドドガドドガッ"
@@ -4270,7 +4429,7 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "dodoga dodoga"
+    "id": "dodoga_dodoga"
   },
   {
     "hiragana": [
@@ -4281,6 +4440,7 @@
       "どごおっ",
       "どごぉっ"
     ],
+    "romaji": ["dogo"],
     "katakana": [
       "ドゴ",
       "ドゴオ",
@@ -4338,13 +4498,14 @@
         }
       ]
     }],
-    "literal": "dogo"
+    "id": "dogo"
   },
   {
     "hiragana": [
       "どごん",
       "どごんっ"
     ],
+    "romaji": ["dogon"],
     "katakana": [
       "ドゴン",
       "ドゴンッ"
@@ -4361,13 +4522,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "dogon"
+    "id": "dogon"
   },
   {
     "hiragana": [
       "どか",
       "どかっ"
     ],
+    "romaji": ["doka"],
     "katakana": [
       "ドカ",
       "ドカッ"
@@ -4392,7 +4554,7 @@
         }
       ]
     }],
-    "literal": "doka"
+    "id": "doka"
   },
   {
     "hiragana": [
@@ -4403,6 +4565,7 @@
       "どかーん",
       "どかーんっ"
     ],
+    "romaji": ["dokan"],
     "katakana": [
       "ドカン",
       "ドカンッ",
@@ -4437,13 +4600,14 @@
         }
       ]
     }],
-    "literal": "dokan"
+    "id": "dokan"
   },
   {
     "hiragana": [
       "どき",
       "どきっ"
     ],
+    "romaji": ["doki"],
     "katakana": [
       "ドキ",
       "ドキッ"
@@ -4514,10 +4678,11 @@
         }]
       }
     ],
-    "literal": "doki"
+    "id": "doki"
   },
   {
     "hiragana": ["どきん"],
+    "romaji": ["dokin"],
     "katakana": ["ドキン"],
     "definition": [{
       "equivalent": [""],
@@ -4531,13 +4696,14 @@
         "source": "requiem_for_prophet"
       }]
     }],
-    "literal": "dokin"
+    "id": "dokin"
   },
   {
     "hiragana": [
       "どきどき",
       "どっきどっき"
     ],
+    "romaji": ["doki doki"],
     "katakana": [
       "ドキドキ",
       "ドッキドッキ"
@@ -4568,10 +4734,11 @@
         }
       ]
     }],
-    "literal": "doki doki"
+    "id": "doki_doki"
   },
   {
     "hiragana": ["どく"],
+    "romaji": ["doku"],
     "katakana": ["ドク"],
     "definition": [{
       "equivalent": [
@@ -4590,10 +4757,11 @@
         "source": "embarrassing_and_sweet"
       }]
     }],
-    "literal": "doku"
+    "id": "doku"
   },
   {
     "hiragana": ["どくん"],
+    "romaji": ["dokun"],
     "katakana": ["ドクン"],
     "definition": [{
       "equivalent": [""],
@@ -4621,10 +4789,11 @@
         }
       ]
     }],
-    "literal": "dokun"
+    "id": "dokun"
   },
   {
     "hiragana": ["どくんどくん"],
+    "romaji": ["dokun dokun"],
     "katakana": ["ドクンドクン"],
     "definition": [{
       "equivalent": [""],
@@ -4646,7 +4815,7 @@
         }
       ]
     }],
-    "literal": "dokun dokun"
+    "id": "dokun_dokun"
   },
   {
     "hiragana": [
@@ -4654,6 +4823,7 @@
       "どきゅうん",
       "どきゅううん"
     ],
+    "romaji": ["dokyun"],
     "katakana": [
       "ドキュン",
       "ドキュウン",
@@ -4674,7 +4844,7 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "dokyun"
+    "id": "dokyun"
   },
   {
     "hiragana": [
@@ -4688,6 +4858,7 @@
       "どどーん",
       "どーん"
     ],
+    "romaji": ["don"],
     "katakana": [
       "ドン",
       "ドンッ",
@@ -4803,10 +4974,11 @@
         ]
       }
     ],
-    "literal": "don"
+    "id": "don"
   },
   {
     "hiragana": ["どんどん"],
+    "romaji": ["don don"],
     "katakana": ["ドンドン"],
     "definition": [{
       "equivalent": [""],
@@ -4828,13 +5000,14 @@
         }
       ]
     }],
-    "literal": "don don"
+    "id": "don_don"
   },
   {
     "hiragana": [
       "どぽぽ",
       "どぽぽぽ"
     ],
+    "romaji": ["dopopo"],
     "katakana": [
       "ドポポ",
       "ドポポポ"
@@ -4856,7 +5029,7 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "dopopo"
+    "id": "dopopo"
   },
   {
     "hiragana": [
@@ -4865,6 +5038,7 @@
       "どろお",
       "どろぉ"
     ],
+    "romaji": ["doro"],
     "katakana": [
       "ドロ",
       "ドロッ",
@@ -4912,7 +5086,7 @@
         }
       ]
     }],
-    "literal": "doro"
+    "id": "doro"
   },
   {
     "hiragana": [
@@ -4920,6 +5094,7 @@
       "どさっ",
       "どささっ"
     ],
+    "romaji": ["dosa"],
     "katakana": [
       "ドサ",
       "ドサッ",
@@ -4993,7 +5168,7 @@
         ]
       }
     ],
-    "literal": "dosa"
+    "id": "dosa"
   },
   {
     "hiragana": [
@@ -5001,6 +5176,7 @@
       "どしゃ",
       "どしゃぁ"
     ],
+    "romaji": ["dosha"],
     "katakana": [
       "ドシ",
       "ドシャ",
@@ -5026,7 +5202,7 @@
         }
       ]
     }],
-    "literal": "dosha"
+    "id": "dosha"
   },
   {
     "hiragana": [
@@ -5035,6 +5211,7 @@
       "どっしん",
       "どっしーん"
     ],
+    "romaji": ["doshin"],
     "katakana": [
       "ドシン",
       "ドシーン",
@@ -5053,7 +5230,7 @@
         "source": "way_of_the_house_husband"
       }]
     }],
-    "literal": "doshin"
+    "id": "doshin"
   },
   {
     "hiragana": [
@@ -5061,6 +5238,7 @@
       "どすっ",
       "どすぅ"
     ],
+    "romaji": ["dosu"],
     "katakana": [
       "ドス",
       "ドスッ",
@@ -5127,10 +5305,11 @@
         }]
       }
     ],
-    "literal": "dosu"
+    "id": "dosu"
   },
   {
     "hiragana": ["どすん"],
+    "romaji": ["dosun"],
     "katakana": ["ドスン"],
     "definition": [{
       "equivalent": [""],
@@ -5144,7 +5323,7 @@
         "source": "my_s-ranked_daughter"
       }]
     }],
-    "literal": "dosun"
+    "id": "dosun"
   },
   {
     "hiragana": [
@@ -5152,6 +5331,7 @@
       "どよんっ",
       "どよーん"
     ],
+    "romaji": ["doyon"],
     "katakana": [
       "ドヨン",
       "ドヨンッ",
@@ -5179,13 +5359,14 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "doyon"
+    "id": "doyon"
   },
   {
     "hiragana": [
       "どずん",
       "どずぅん"
     ],
+    "romaji": ["dozun"],
     "katakana": [
       "ドズン",
       "ドズゥン"
@@ -5211,7 +5392,7 @@
         "source": "minimum_wage_demon_king"
       }]
     }],
-    "literal": "dozun"
+    "id": "dozun"
   },
   {
     "hiragana": [
@@ -5224,6 +5405,7 @@
       "どどどっ",
       "どどどどど"
     ],
+    "romaji": ["do do"],
     "katakana": [
       "ドド",
       "ドォドォ",
@@ -5328,7 +5510,7 @@
         }]
       }
     ],
-    "literal": "do do"
+    "id": "do_do"
   },
   {
     "hiragana": [
@@ -5341,6 +5523,7 @@
       "ええっ",
       "ええーっ"
     ],
+    "romaji": ["e"],
     "katakana": [
       "エ",
       "エッ",
@@ -5387,13 +5570,14 @@
         }]
       }
     ],
-    "literal": "e"
+    "id": "e"
   },
   {
     "hiragana": [
       "えへ",
       "えへへ"
     ],
+    "romaji": ["ehe"],
     "katakana": [
       "エヘ",
       "エヘヘ"
@@ -5416,10 +5600,11 @@
         "source": "isekai_territory_reform"
       }]
     }],
-    "literal": "ehe"
+    "id": "ehe"
   },
   {
     "hiragana": ["えいさ"],
+    "romaji": ["eisa"],
     "katakana": ["エイサ"],
     "definition": [{
       "equivalent": [
@@ -5443,7 +5628,7 @@
         "source": "blazing_fire_brigade"
       }]
     }],
-    "literal": "eisa"
+    "id": "eisa"
   },
   {
     "hiragana": [
@@ -5451,6 +5636,7 @@
       "ふぁさぁ",
       "ふぁさぁぁ"
     ],
+    "romaji": ["fasa"],
     "katakana": [
       "ファサ",
       "ファサァ",
@@ -5483,13 +5669,14 @@
         }
       ]
     }],
-    "literal": "fasa"
+    "id": "fasa"
   },
   {
     "hiragana": [
       "ふぃうん",
       "ふぃうーん"
     ],
+    "romaji": ["fiun"],
     "katakana": [
       "フィウン",
       "フィウーン"
@@ -5514,7 +5701,7 @@
         "source": "strongest_magician_was_human"
       }]
     }],
-    "literal": "fiun"
+    "id": "fiun"
   },
   {
     "hiragana": [
@@ -5527,6 +5714,7 @@
       "ふぅ",
       "ふぅっ"
     ],
+    "romaji": ["fu"],
     "katakana": [
       "フ",
       "フッ",
@@ -5658,7 +5846,7 @@
         ]
       }
     ],
-    "literal": "fu"
+    "id": "fu"
   },
   {
     "hiragana": [
@@ -5666,6 +5854,7 @@
       "ふああ",
       "ふあああ"
     ],
+    "romaji": ["fua"],
     "katakana": [
       "フア",
       "フアア",
@@ -5701,10 +5890,11 @@
         }
       ]
     }],
-    "literal": "fua"
+    "id": "fua"
   },
   {
     "hiragana": ["ふきふき"],
+    "romaji": ["fuki fuki"],
     "katakana": ["フキフキ"],
     "definition": [{
       "equivalent": [
@@ -5723,10 +5913,11 @@
         "source": "beastly_boys_and_girls"
       }]
     }],
-    "literal": "fuki fuki"
+    "id": "fuki_fuki"
   },
   {
     "hiragana": ["ふむ"],
+    "romaji": ["fumu"],
     "katakana": ["フム"],
     "definition": [{
       "equivalent": [
@@ -5744,10 +5935,11 @@
         "source": "fushi_no_kami"
       }]
     }],
-    "literal": "fumu"
+    "id": "fumu"
   },
   {
     "hiragana": ["ふむふむ"],
+    "romaji": ["fumu fumu"],
     "katakana": ["フムフム"],
     "definition": [{
       "equivalent": [""],
@@ -5761,13 +5953,14 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "fumu fumu"
+    "id": "fumu_fumu"
   },
   {
     "hiragana": [
       "ふん",
       "ふんっ"
     ],
+    "romaji": ["fun"],
     "katakana": [
       "フン",
       "フンッ"
@@ -5807,10 +6000,11 @@
         }
       ]
     }],
-    "literal": "fun"
+    "id": "fun"
   },
   {
     "hiragana": ["ふに"],
+    "romaji": ["funi"],
     "katakana": ["フニ"],
     "definition": [{
       "equivalent": [
@@ -5847,10 +6041,11 @@
         }
       ]
     }],
-    "literal": "funi"
+    "id": "funi"
   },
   {
     "hiragana": ["ふんふん"],
+    "romaji": ["fun fun"],
     "katakana": ["フンフン"],
     "definition": [{
       "equivalent": [
@@ -5869,7 +6064,7 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "fun fun"
+    "id": "fun_fun"
   },
   {
     "hiragana": [
@@ -5877,6 +6072,7 @@
       "ふらっ",
       "ふらぁ"
     ],
+    "romaji": ["fura"],
     "katakana": [
       "フラ",
       "フラッ",
@@ -5919,10 +6115,11 @@
         }
       ]
     }],
-    "literal": "fura"
+    "id": "fura"
   },
   {
     "hiragana": ["ふらふら"],
+    "romaji": ["fura fura"],
     "katakana": ["フラフラ"],
     "definition": [{
       "equivalent": [
@@ -5952,13 +6149,14 @@
         }
       ]
     }],
-    "literal": "fura fura"
+    "id": "fura_fura"
   },
   {
     "hiragana": [
       "ふり",
       "ふりっ"
     ],
+    "romaji": ["furi"],
     "katakana": [
       "フリ",
       "フリッ"
@@ -5982,13 +6180,14 @@
         "source": "komi_cant_communicate"
       }]
     }],
-    "literal": "furi"
+    "id": "furi"
   },
   {
     "hiragana": [
       "ふりふり",
       "ふりふりっ"
     ],
+    "romaji": ["furi furi"],
     "katakana": [
       "フリフリ",
       "フリフリッ"
@@ -6019,10 +6218,11 @@
         }
       ]
     }],
-    "literal": "furi furi"
+    "id": "furi_furi"
   },
   {
     "hiragana": ["ふろふろ"],
+    "romaji": ["furo furo"],
     "katakana": ["フロフロ"],
     "definition": [{
       "equivalent": [
@@ -6042,10 +6242,11 @@
         "source": "reincarnated_aristocrat"
       }]
     }],
-    "literal": "furo furo"
+    "id": "furo_furo"
   },
   {
     "hiragana": ["ふるふる"],
+    "romaji": ["furu furu"],
     "katakana": ["フルフル"],
     "definition": [
       {
@@ -6077,13 +6278,14 @@
         }]
       }
     ],
-    "literal": "furu furu"
+    "id": "furu_furu"
   },
   {
     "hiragana": [
       "ふわ",
       "ふわっ"
     ],
+    "romaji": ["fuwa"],
     "katakana": [
       "フワ",
       "フワッ"
@@ -6126,7 +6328,7 @@
         }
       ]
     }],
-    "literal": "fuwa"
+    "id": "fuwa"
   },
   {
     "hiragana": [
@@ -6136,6 +6338,7 @@
       "ふーふー",
       "ふーっふーっ"
     ],
+    "romaji": ["fu fu"],
     "katakana": [
       "フフ",
       "フフッ",
@@ -6203,7 +6406,7 @@
         ]
       }
     ],
-    "literal": "fu fu"
+    "id": "fu_fu"
   },
   {
     "hiragana": [
@@ -6216,6 +6419,7 @@
       "があ",
       "がああ"
     ],
+    "romaji": ["ga"],
     "katakana": [
       "ガ",
       "ガッ",
@@ -6354,13 +6558,14 @@
         }]
       }
     ],
-    "literal": "ga"
+    "id": "ga"
   },
   {
     "hiragana": [
       "がば",
       "がばっ"
     ],
+    "romaji": ["gaba"],
     "katakana": [
       "ガバ",
       "ガバッ"
@@ -6441,7 +6646,7 @@
         ]
       }
     ],
-    "literal": "gaba"
+    "id": "gaba"
   },
   {
     "hiragana": [
@@ -6449,6 +6654,7 @@
       "がぶっ",
       "がぶーっ"
     ],
+    "romaji": ["gabu"],
     "katakana": [
       "ガブ",
       "ガブッ",
@@ -6478,13 +6684,14 @@
         }
       ]
     }],
-    "literal": "gabu"
+    "id": "gabu"
   },
   {
     "hiragana": [
       "がちゃ",
       "がちゃっ"
     ],
+    "romaji": ["gacha"],
     "katakana": [
       "ガチャ",
       "ガチャッ"
@@ -6542,10 +6749,11 @@
         }
       ]
     }],
-    "literal": "gacha"
+    "id": "gacha"
   },
   {
     "hiragana": ["がちゃがちゃ"],
+    "romaji": ["gacha gacha"],
     "katakana": ["ガチャガチャ"],
     "definition": [{
       "equivalent": [""],
@@ -6559,10 +6767,11 @@
         "source": "world_full_of_zombies"
       }]
     }],
-    "literal": "gacha gacha"
+    "id": "gacha_gacha"
   },
   {
     "hiragana": ["がちがち"],
+    "romaji": ["gachi"],
     "katakana": ["ガチガチ"],
     "definition": [{
       "equivalent": [
@@ -6584,7 +6793,7 @@
         "source": "embarrassing_and_sweet"
       }]
     }],
-    "literal": "gachi"
+    "id": "gachi"
   },
   {
     "hiragana": [
@@ -6593,6 +6802,7 @@
       "がはは",
       "がははは"
     ],
+    "romaji": ["gaha"],
     "katakana": [
       "ガハ",
       "ガハッ",
@@ -6616,13 +6826,14 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "gaha"
+    "id": "gaha"
   },
   {
     "hiragana": [
       "がじ",
       "がじっ"
     ],
+    "romaji": ["gaji"],
     "katakana": [
       "ガジ",
       "ガジッ"
@@ -6644,7 +6855,7 @@
         "source": "abandoned_reincarnation_sage"
       }]
     }],
-    "literal": "gaji"
+    "id": "gaji"
   },
   {
     "hiragana": [
@@ -6652,6 +6863,7 @@
       "がきっ",
       "がきぃっ"
     ],
+    "romaji": ["gaki"],
     "katakana": [
       "ガキ",
       "ガキッ",
@@ -6679,13 +6891,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "gaki"
+    "id": "gaki"
   },
   {
     "hiragana": [
       "がきん",
       "がきんっ"
     ],
+    "romaji": ["gakin"],
     "katakana": [
       "ガキン",
       "ガキンッ"
@@ -6710,13 +6923,14 @@
         }
       ]
     }],
-    "literal": "gakin"
+    "id": "gakin"
   },
   {
     "hiragana": [
       "がこん",
       "がこんっ"
     ],
+    "romaji": ["gakon"],
     "katakana": [
       "ガコン",
       "ガコンッ"
@@ -6756,7 +6970,7 @@
         }
       ]
     }],
-    "literal": "gakon"
+    "id": "gakon"
   },
   {
     "hiragana": [
@@ -6768,6 +6982,7 @@
       "がくぅっ",
       "がくぅぅっ"
     ],
+    "romaji": ["gaku"],
     "katakana": [
       "ガク",
       "ガクー",
@@ -6841,10 +7056,11 @@
         ]
       }
     ],
-    "literal": "gaku"
+    "id": "gaku"
   },
   {
     "hiragana": ["がきぃん"],
+    "romaji": ["gakyin"],
     "katakana": ["ガキィン"],
     "definition": [{
       "equivalent": [
@@ -6864,7 +7080,7 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "gakyin"
+    "id": "gakyin"
   },
   {
     "hiragana": [
@@ -6873,6 +7089,7 @@
       "がぉん",
       "がぉんっ"
     ],
+    "romaji": ["gan"],
     "katakana": [
       "ガン",
       "ガンッ",
@@ -6946,10 +7163,11 @@
         }]
       }
     ],
-    "literal": "gan"
+    "id": "gan"
   },
   {
     "hiragana": ["がんがん"],
+    "romaji": ["gan gan"],
     "katakana": ["ガンガン"],
     "definition": [{
       "equivalent": [""],
@@ -6971,13 +7189,14 @@
         }
       ]
     }],
-    "literal": "gan gan"
+    "id": "gan_gan"
   },
   {
     "hiragana": [
       "がら",
       "がらっ"
     ],
+    "romaji": ["gara"],
     "katakana": [
       "ガラ",
       "ガラッ"
@@ -7048,10 +7267,11 @@
         ]
       }
     ],
-    "literal": "gara"
+    "id": "gara"
   },
   {
     "hiragana": ["がらがら"],
+    "romaji": ["gara gara"],
     "katakana": ["ガラガラ"],
     "definition": [
       {
@@ -7098,7 +7318,7 @@
         }]
       }
     ],
-    "literal": "gara gara"
+    "id": "gara_gara"
   },
   {
     "hiragana": [
@@ -7106,6 +7326,7 @@
       "がるる",
       "がるるる"
     ],
+    "romaji": ["garu"],
     "katakana": [
       "ガル",
       "ガルル",
@@ -7142,7 +7363,7 @@
         }
       ]
     }],
-    "literal": "garu"
+    "id": "garu"
   },
   {
     "hiragana": [
@@ -7151,6 +7372,7 @@
       "がささ",
       "がささっ"
     ],
+    "romaji": ["gasa"],
     "katakana": [
       "ガサ",
       "ガサッ",
@@ -7203,13 +7425,14 @@
         }
       ]
     }],
-    "literal": "gasa"
+    "id": "gasa"
   },
   {
     "hiragana": [
       "がさがさ",
       "がさがさっ"
     ],
+    "romaji": ["gasa gasa"],
     "katakana": [
       "ガサガサ",
       "ガサガサッ"
@@ -7234,13 +7457,14 @@
         }
       ]
     }],
-    "literal": "gasa gasa"
+    "id": "gasa_gasa"
   },
   {
     "hiragana": [
       "がしゃ",
       "がしゃっ"
     ],
+    "romaji": ["gasha"],
     "katakana": [
       "ガシャ",
       "ガシャッ"
@@ -7274,7 +7498,7 @@
         }
       ]
     }],
-    "literal": "gasha"
+    "id": "gasha"
   },
   {
     "hiragana": [
@@ -7283,6 +7507,7 @@
       "がしゃぁん",
       "がしゃぁぁん"
     ],
+    "romaji": ["gashan"],
     "katakana": [
       "ガシャン",
       "ガシャーン",
@@ -7327,13 +7552,14 @@
         }
       ]
     }],
-    "literal": "gashan"
+    "id": "gashan"
   },
   {
     "hiragana": [
       "がし",
       "がしっ"
     ],
+    "romaji": ["gashi"],
     "katakana": [
       "ガシ",
       "ガシッ"
@@ -7384,7 +7610,7 @@
         }
       ]
     }],
-    "literal": "gashi"
+    "id": "gashi"
   },
   {
     "hiragana": [
@@ -7392,6 +7618,7 @@
       "がたっ",
       "がたゃ"
     ],
+    "romaji": ["gata"],
     "katakana": [
       "ガタ",
       "ガタッ",
@@ -7435,13 +7662,14 @@
         }
       ]
     }],
-    "literal": "gata"
+    "id": "gata"
   },
   {
     "hiragana": [
       "がたん",
       "がたーん"
     ],
+    "romaji": ["gatan"],
     "katakana": [
       "ガタン",
       "ガターン"
@@ -7467,10 +7695,11 @@
         "source": "isekai_av_filming"
       }]
     }],
-    "literal": "gatan"
+    "id": "gatan"
   },
   {
     "hiragana": ["がたんごとん"],
+    "romaji": ["gatan gaton"],
     "katakana": ["ガタンゴトン"],
     "definition": [{
       "equivalent": [
@@ -7488,10 +7717,11 @@
         "source": "uncle_at_heart"
       }]
     }],
-    "literal": "gatan gaton"
+    "id": "gatan_gaton"
   },
   {
     "hiragana": ["がたがた"],
+    "romaji": ["gata gata"],
     "katakana": ["ガタガタ"],
     "definition": [
       {
@@ -7515,7 +7745,7 @@
           {
             "file": "gata_gata-1b",
             "contributor": "",
-            "display": "ガタ ガタ",
+            "display": "ガタ ガタ ガタ ガタ ガタ",
             "source": "human_ranch"
           }
         ]
@@ -7553,13 +7783,14 @@
         ]
       }
     ],
-    "literal": "gata gata"
+    "id": "gata_gata"
   },
   {
     "hiragana": [
       "がやがや",
       "がゃがゃ"
     ],
+    "romaji": ["gaya gaya"],
     "katakana": [
       "ガヤガヤ",
       "ガャガャ"
@@ -7598,7 +7829,7 @@
         }
       ]
     }],
-    "literal": "gaya gaya"
+    "id": "gaya_gaya"
   },
   {
     "hiragana": [
@@ -7606,6 +7837,7 @@
       "がっがっ",
       "がつがつ"
     ],
+    "romaji": ["ga ga"],
     "katakana": [
       "ガガ",
       "ガッガッ",
@@ -7647,13 +7879,14 @@
         }]
       }
     ],
-    "literal": "ga ga"
+    "id": "ga_ga"
   },
   {
     "hiragana": [
       "げ",
       "げっ"
     ],
+    "romaji": ["ge"],
     "katakana": [
       "ゲ",
       "ゲッ"
@@ -7675,7 +7908,7 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "ge"
+    "id": "ge"
   },
   {
     "hiragana": [
@@ -7688,6 +7921,7 @@
       "ぎぃぃっ",
       "ぎぃぃぃっ"
     ],
+    "romaji": ["gi"],
     "katakana": [
       "ギ",
       "ギィ",
@@ -7762,13 +7996,14 @@
         ]
       }
     ],
-    "literal": "gi"
+    "id": "gi"
   },
   {
     "hiragana": [
       "ぎく",
       "ぎくっ"
     ],
+    "romaji": ["giku"],
     "katakana": [
       "ギク",
       "ギクッ"
@@ -7806,13 +8041,14 @@
         }
       ]
     }],
-    "literal": "giku"
+    "id": "giku"
   },
   {
     "hiragana": [
       "ぎん",
       "ぎんっ"
     ],
+    "romaji": ["gin"],
     "katakana": [
       "ギン",
       "ギンッ"
@@ -7844,13 +8080,14 @@
         }
       ]
     }],
-    "literal": "gin"
+    "id": "gin"
   },
   {
     "hiragana": [
       "ぎぬろ",
       "ぎぬろぉ"
     ],
+    "romaji": ["ginuro"],
     "katakana": [
       "ギヌロ",
       "ギヌロォ"
@@ -7867,13 +8104,14 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "ginuro"
+    "id": "ginuro"
   },
   {
     "hiragana": [
       "ぎんぎん",
       "ぎんぎんっ"
     ],
+    "romaji": ["gin gin"],
     "katakana": [
       "ギンギン",
       "ギンギンッ"
@@ -7890,13 +8128,14 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "gin gin"
+    "id": "gin_gin"
   },
   {
     "hiragana": [
       "ぎら",
       "ぎらっ"
     ],
+    "romaji": ["gira"],
     "katakana": [
       "ギラ",
       "ギラッ"
@@ -7913,13 +8152,14 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "gira"
+    "id": "gira"
   },
   {
     "hiragana": [
       "ぎり",
       "ぎりっ"
     ],
+    "romaji": ["giri"],
     "katakana": [
       "ギリ",
       "ギリッ"
@@ -7949,13 +8189,14 @@
         }
       ]
     }],
-    "literal": "giri"
+    "id": "giri"
   },
   {
     "hiragana": [
       "ぎりぎり",
       "ぎりぎりり"
     ],
+    "romaji": ["giri giri"],
     "katakana": [
       "ギリギリ",
       "ギリギリリ"
@@ -7980,13 +8221,14 @@
         }
       ]
     }],
-    "literal": "giri giri"
+    "id": "giri_giri"
   },
   {
     "hiragana": [
       "ぎろ",
       "ぎろっ"
     ],
+    "romaji": ["giro"],
     "katakana": [
       "ギロ",
       "ギロッ"
@@ -8017,10 +8259,11 @@
         }
       ]
     }],
-    "literal": "giro"
+    "id": "giro"
   },
   {
     "hiragana": ["ぎろり"],
+    "romaji": ["girori"],
     "katakana": ["ギロリ"],
     "definition": [{
       "equivalent": [""],
@@ -8034,7 +8277,7 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "girori"
+    "id": "girori"
   },
   {
     "hiragana": [
@@ -8042,6 +8285,7 @@
       "ぎぎぎ",
       "ぎぎぎぎ"
     ],
+    "romaji": ["gi gi"],
     "katakana": [
       "ギギ",
       "ギギギ",
@@ -8081,7 +8325,7 @@
         ]
       }
     ],
-    "literal": "gi gi"
+    "id": "gi_gi"
   },
   {
     "hiragana": [
@@ -8096,6 +8340,7 @@
       "ごお",
       "ごおっ"
     ],
+    "romaji": ["go"],
     "katakana": [
       "ゴ",
       "ゴッ",
@@ -8211,13 +8456,14 @@
         ]
       }
     ],
-    "literal": "go"
+    "id": "go"
   },
   {
     "hiragana": [
       "ごほ",
       "ごほっ"
     ],
+    "romaji": ["goho"],
     "katakana": [
       "ゴホ",
       "ゴホッ"
@@ -8237,13 +8483,14 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "goho"
+    "id": "goho"
   },
   {
     "hiragana": [
       "ごほごほ",
       "ごほごほっ"
     ],
+    "romaji": ["goho goho"],
     "katakana": [
       "ゴホゴホ",
       "ゴホゴホッ"
@@ -8260,13 +8507,14 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "goho goho"
+    "id": "goho_goho"
   },
   {
     "hiragana": [
       "ごく",
       "ごくっ"
     ],
+    "romaji": ["goku"],
     "katakana": [
       "ゴク",
       "ゴクッ"
@@ -8300,10 +8548,11 @@
         }
       ]
     }],
-    "literal": "goku"
+    "id": "goku"
   },
   {
     "hiragana": ["ごくん"],
+    "romaji": ["gokun"],
     "katakana": ["ゴクン"],
     "definition": [{
       "equivalent": [""],
@@ -8331,10 +8580,11 @@
         }
       ]
     }],
-    "literal": "gokun"
+    "id": "gokun"
   },
   {
     "hiragana": ["ごくごく"],
+    "romaji": ["goku goku"],
     "katakana": ["ゴクゴク"],
     "definition": [{
       "equivalent": [""],
@@ -8368,10 +8618,11 @@
         }
       ]
     }],
-    "literal": "goku goku"
+    "id": "goku_goku"
   },
   {
     "hiragana": ["ごきゅごきゅ"],
+    "romaji": ["gokyu gokyu"],
     "katakana": ["ゴキュゴキュ"],
     "definition": [{
       "equivalent": ["chug"],
@@ -8385,13 +8636,14 @@
         "source": "hanako_24th_ward"
       }]
     }],
-    "literal": "gokyu gokyu"
+    "id": "gokyu_gokyu"
   },
   {
     "hiragana": [
       "ごん",
       "ごんっ"
     ],
+    "romaji": ["gon"],
     "katakana": [
       "ゴン",
       "ゴンッ"
@@ -8434,10 +8686,11 @@
         }
       ]
     }],
-    "literal": "gon"
+    "id": "gon"
   },
   {
     "hiragana": ["ごぽり"],
+    "romaji": ["gopori"],
     "katakana": ["ゴポリ"],
     "definition": [{
       "equivalent": [
@@ -8458,13 +8711,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "gopori"
+    "id": "gopori"
   },
   {
     "hiragana": [
       "ごろ",
       "ごろっ"
     ],
+    "romaji": ["goro"],
     "katakana": [
       "ゴロ",
       "ゴロッ"
@@ -8498,10 +8752,11 @@
         }
       ]
     }],
-    "literal": "goro"
+    "id": "goro"
   },
   {
     "hiragana": ["ごろん"],
+    "romaji": ["goron"],
     "katakana": ["ゴロン"],
     "definition": [{
       "equivalent": [""],
@@ -8529,13 +8784,14 @@
         }
       ]
     }],
-    "literal": "goron"
+    "id": "goron"
   },
   {
     "hiragana": [
       "ごろごろ",
       "ごーろごーろ"
     ],
+    "romaji": ["goro goro"],
     "katakana": [
       "ゴロゴロ",
       "ゴーロゴーロ"
@@ -8577,10 +8833,11 @@
         ]
       }
     ],
-    "literal": "goro goro"
+    "id": "goro_goro"
   },
   {
     "hiragana": ["ごしごし"],
+    "romaji": ["goshi goshi"],
     "katakana": ["ゴシゴシ"],
     "definition": [{
       "equivalent": [
@@ -8619,13 +8876,14 @@
         }
       ]
     }],
-    "literal": "goshi goshi"
+    "id": "goshi_goshi"
   },
   {
     "hiragana": [
       "ごそ",
       "ごそっ"
     ],
+    "romaji": ["goso"],
     "katakana": [
       "ゴソ",
       "ゴソッ"
@@ -8667,13 +8925,14 @@
         }]
       }
     ],
-    "literal": "goso"
+    "id": "goso"
   },
   {
     "hiragana": [
       "ごと",
       "ごとっ"
     ],
+    "romaji": ["goto"],
     "katakana": [
       "ゴト",
       "ゴトッ"
@@ -8712,7 +8971,7 @@
         }
       ]
     }],
-    "literal": "goto"
+    "id": "goto"
   },
   {
     "hiragana": [
@@ -8721,6 +8980,7 @@
       "ごうう",
       "ごううっ"
     ],
+    "romaji": ["gou"],
     "katakana": [
       "ゴウ",
       "ゴウッ",
@@ -8749,10 +9009,11 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "gou"
+    "id": "gou"
   },
   {
     "hiragana": ["ごうんごうん"],
+    "romaji": ["goun goun"],
     "katakana": ["ゴウンゴウン"],
     "definition": [{
       "equivalent": [
@@ -8769,7 +9030,7 @@
         "source": "isekai_av_filming"
       }]
     }],
-    "literal": "goun goun"
+    "id": "goun_goun"
   },
   {
     "hiragana": [
@@ -8777,6 +9038,7 @@
       "ごっごっ",
       "ごごご"
     ],
+    "romaji": ["go go"],
     "katakana": [
       "ゴゴ",
       "ゴッゴッ",
@@ -8838,7 +9100,7 @@
         }]
       }
     ],
-    "literal": "go go"
+    "id": "go_go"
   },
   {
     "hiragana": [
@@ -8855,6 +9117,7 @@
       "ぐぅぅ",
       "ぐぅぅぅ"
     ],
+    "romaji": ["gu"],
     "katakana": [
       "グ",
       "グッ",
@@ -9050,10 +9313,11 @@
         }]
       }
     ],
-    "literal": "gu"
+    "id": "gu"
   },
   {
     "hiragana": ["ぐびぐび"],
+    "romaji": ["gubi gubi"],
     "katakana": ["グビグビ"],
     "definition": [{
       "equivalent": [""],
@@ -9067,7 +9331,7 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "gubi gubi"
+    "id": "gubi_gubi"
   },
   {
     "hiragana": [
@@ -9076,6 +9340,7 @@
       "ぐぃ",
       "ぐぃっ"
     ],
+    "romaji": ["gui"],
     "katakana": [
       "グイ",
       "グイッ",
@@ -9133,10 +9398,11 @@
         }
       ]
     }],
-    "literal": "gui"
+    "id": "gui"
   },
   {
     "hiragana": ["ぐいぐい"],
+    "romaji": ["gui gui"],
     "katakana": ["グイグイ"],
     "definition": [{
       "equivalent": [""],
@@ -9150,10 +9416,11 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "gui gui"
+    "id": "gui_gui"
   },
   {
     "hiragana": ["ぐに"],
+    "romaji": ["guni"],
     "katakana": ["グニ"],
     "definition": [{
       "equivalent": [
@@ -9176,13 +9443,14 @@
         "source": "double_play"
       }]
     }],
-    "literal": "guni"
+    "id": "guni"
   },
   {
     "hiragana": [
       "ぐぬぬ",
       "ぐぬぬぬ"
     ],
+    "romaji": ["gununu"],
     "katakana": [
       "グヌヌ",
       "グヌヌヌ"
@@ -9210,13 +9478,14 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "gununu"
+    "id": "gununu"
   },
   {
     "hiragana": [
       "ぐら",
       "ぐらっ"
     ],
+    "romaji": ["gura"],
     "katakana": [
       "グラ",
       "グラッ"
@@ -9248,13 +9517,14 @@
         }
       ]
     }],
-    "literal": "gura"
+    "id": "gura"
   },
   {
     "hiragana": [
       "ぐるん",
       "ぐるんっ"
     ],
+    "romaji": ["gurun"],
     "katakana": [
       "グルン",
       "グルンッ"
@@ -9308,13 +9578,14 @@
         }]
       }
     ],
-    "literal": "gurun"
+    "id": "gurun"
   },
   {
     "hiragana": [
       "ぐるる",
       "ぐるるる"
     ],
+    "romaji": ["gururu"],
     "katakana": [
       "グルル",
       "グルルル"
@@ -9374,13 +9645,14 @@
         }]
       }
     ],
-    "literal": "gururu"
+    "id": "gururu"
   },
   {
     "hiragana": [
       "ぐさ",
       "ぐさっ"
     ],
+    "romaji": ["gusa"],
     "katakana": [
       "グサ",
       "グサッ"
@@ -9411,13 +9683,14 @@
         }
       ]
     }],
-    "literal": "gusa"
+    "id": "gusa"
   },
   {
     "hiragana": [
       "ぐし",
       "ぐしっ"
     ],
+    "romaji": ["gushi"],
     "katakana": [
       "グシ",
       "グシッ"
@@ -9440,13 +9713,14 @@
         "source": "requiem_for_prophet"
       }]
     }],
-    "literal": "gushi"
+    "id": "gushi"
   },
   {
     "hiragana": [
       "ぐしぐし",
       "ぐしぐしっ"
     ],
+    "romaji": ["gushi gushi"],
     "katakana": [
       "グシグシ",
       "グシグシッ"
@@ -9463,13 +9737,14 @@
         "source": "shogun_gold_in_america"
       }]
     }],
-    "literal": "gushi gushi"
+    "id": "gushi_gushi"
   },
   {
     "hiragana": [
       "ぐす",
       "ぐすっ"
     ],
+    "romaji": ["gusu"],
     "katakana": [
       "グス",
       "グスッ"
@@ -9494,10 +9769,11 @@
         "source": "requiem_for_prophet"
       }]
     }],
-    "literal": "gusu"
+    "id": "gusu"
   },
   {
     "hiragana": ["ぐすん"],
+    "romaji": ["gusun"],
     "katakana": ["グスン"],
     "definition": [{
       "equivalent": [""],
@@ -9511,10 +9787,11 @@
         "source": "requiem_for_prophet"
       }]
     }],
-    "literal": "gusun"
+    "id": "gusun"
   },
   {
     "hiragana": ["ぐすんぐすん"],
+    "romaji": ["gusun gusun"],
     "katakana": ["グスングスン"],
     "definition": [{
       "equivalent": [""],
@@ -9528,13 +9805,14 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "gusun gusun"
+    "id": "gusun_gusun"
   },
   {
     "hiragana": [
       "ぐすぐす",
       "ぐすっぐすっ"
     ],
+    "romaji": ["gusu gusu"],
     "katakana": [
       "グスグス",
       "グスッグスッ"
@@ -9559,13 +9837,14 @@
         }
       ]
     }],
-    "literal": "gusu gusu"
+    "id": "gusu_gusu"
   },
   {
     "hiragana": [
       "ぐわ",
       "ぐわっ"
     ],
+    "romaji": ["guwa"],
     "katakana": [
       "グワ",
       "グワッ"
@@ -9590,7 +9869,7 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "guwa"
+    "id": "guwa"
   },
   {
     "hiragana": [
@@ -9599,6 +9878,7 @@
       "ぐぐっ",
       "ぐぐぐ"
     ],
+    "romaji": ["gu gu"],
     "katakana": [
       "ググ",
       "グッグッ",
@@ -9637,7 +9917,7 @@
         }
       ]
     }],
-    "literal": "gu gu"
+    "id": "gu_gu"
   },
   {
     "hiragana": [
@@ -9649,6 +9929,7 @@
       "ぎゃああ",
       "ぎゃあああ"
     ],
+    "romaji": ["gya"],
     "katakana": [
       "ギャ",
       "ギャッ",
@@ -9677,7 +9958,7 @@
         "source": "kaijuu_sdf"
       }]
     }],
-    "literal": "gya"
+    "id": "gya"
   },
   {
     "hiragana": [
@@ -9686,6 +9967,7 @@
       "ぎゃぁぎゃぁ",
       "ぎゃーぎゃー"
     ],
+    "romaji": ["gya gya"],
     "katakana": [
       "ギャギャ",
       "ギャッギャッ",
@@ -9717,13 +9999,14 @@
         }
       ]
     }],
-    "literal": "gya gya"
+    "id": "gya_gya"
   },
   {
     "hiragana": [
       "ぎょ",
       "ぎょっ"
     ],
+    "romaji": ["gyo"],
     "katakana": [
       "ギョ",
       "ギョッ"
@@ -9756,7 +10039,7 @@
         }
       ]
     }],
-    "literal": "gyo"
+    "id": "gyo"
   },
   {
     "hiragana": [
@@ -9769,6 +10052,7 @@
       "ぎゅぅぅ",
       "ぎゅぅぅぅ"
     ],
+    "romaji": ["gyu"],
     "katakana": [
       "ギュ",
       "ギュッ",
@@ -9861,10 +10145,11 @@
         }]
       }
     ],
-    "literal": "gyu"
+    "id": "gyu"
   },
   {
     "hiragana": ["ぎゅば"],
+    "romaji": ["gyuba"],
     "katakana": ["ギュバ"],
     "definition": [{
       "equivalent": [
@@ -9884,13 +10169,14 @@
         "source": "pokemon_xy_break"
       }]
     }],
-    "literal": "gyuba"
+    "id": "gyuba"
   },
   {
     "hiragana": [
       "ぎゅむ",
       "ぎゅむっ"
     ],
+    "romaji": ["gyumu"],
     "katakana": [
       "ギュム",
       "ギュムッ"
@@ -9907,13 +10193,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "gyumu"
+    "id": "gyumu"
   },
   {
     "hiragana": [
       "ぎゅん",
       "ぎゅんっ"
     ],
+    "romaji": ["gyun"],
     "katakana": [
       "ギュン",
       "ギュンッ"
@@ -9937,7 +10224,7 @@
         "source": "reincarnated_sage_daughters"
       }]
     }],
-    "literal": "gyun"
+    "id": "gyun"
   },
   {
     "hiragana": [
@@ -9945,6 +10232,7 @@
       "ぎゅるる",
       "ぎゅるるる"
     ],
+    "romaji": ["gyuru"],
     "katakana": [
       "ギュル",
       "ギュルル",
@@ -9962,7 +10250,7 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "gyuru"
+    "id": "gyuru"
   },
   {
     "hiragana": [
@@ -9975,6 +10263,7 @@
       "はぁ",
       "はぁっ"
     ],
+    "romaji": ["ha"],
     "katakana": [
       "ハ",
       "ハッ",
@@ -9995,7 +10284,7 @@
           "pant"
         ],
         "refer": "",
-        "meaning": "a sharp inhale or gasp from exertion, fear, or excitement",
+        "meaning": "sharp inhale or gasp from exertion, fear, or excitement",
         "type": "v",
         "example": [
           {
@@ -10019,7 +10308,7 @@
           "sigh"
         ],
         "refer": "",
-        "meaning": "a quick sigh of relief or release of tension",
+        "meaning": "sigh of weariness or relief",
         "type": "v",
         "example": [
           {
@@ -10039,6 +10328,12 @@
             "contributor": "",
             "display": "はーっ",
             "source": "saga_lagging_hero"
+          },
+          {
+            "file": "ha-2d",
+            "contributor": "",
+            "display": "はあ",
+            "source": "mushoku_tensei"
           }
         ]
       },
@@ -10049,7 +10344,7 @@
           "realize"
         ],
         "refer": "",
-        "meaning": "a sudden realization or understanding",
+        "meaning": "sudden realization or understanding",
         "type": "e",
         "example": [
           {
@@ -10073,10 +10368,11 @@
         ]
       }
     ],
-    "literal": "ha"
+    "id": "ha"
   },
   {
     "hiragana": ["はふはふ"],
+    "romaji": ["hafu hafu"],
     "katakana": ["ハフハフ"],
     "definition": [{
       "equivalent": [
@@ -10094,10 +10390,11 @@
         "source": "dungeon_dining_room"
       }]
     }],
-    "literal": "hafu hafu"
+    "id": "hafu_hafu"
   },
   {
     "hiragana": ["はむ"],
+    "romaji": ["hamu"],
     "katakana": ["ハム"],
     "definition": [{
       "equivalent": [
@@ -10118,10 +10415,11 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "hamu"
+    "id": "hamu"
   },
   {
     "hiragana": ["はむはむ"],
+    "romaji": ["hamu hamu"],
     "katakana": ["ハムハム"],
     "definition": [{
       "equivalent": [""],
@@ -10135,7 +10433,7 @@
         "source": "uncle_at_heart"
       }]
     }],
-    "literal": "hamu hamu"
+    "id": "hamu_hamu"
   },
   {
     "hiragana": [
@@ -10146,6 +10444,7 @@
       "はぁっはぁっ",
       "はあっはあっ"
     ],
+    "romaji": ["ha ha"],
     "katakana": [
       "ハハ",
       "ハッハッ",
@@ -10223,10 +10522,11 @@
         ]
       }
     ],
-    "literal": "ha ha"
+    "id": "ha_ha"
   },
   {
     "hiragana": ["へな"],
+    "romaji": ["hena"],
     "katakana": ["ヘナ"],
     "definition": [{
       "equivalent": [
@@ -10250,13 +10550,14 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "hena"
+    "id": "hena"
   },
   {
     "hiragana": [
       "へら",
       "へらっ"
     ],
+    "romaji": ["hera"],
     "katakana": [
       "ヘラ",
       "ヘラッ"
@@ -10280,7 +10581,7 @@
         "source": "double_play"
       }]
     }],
-    "literal": "hera"
+    "id": "hera"
   },
   {
     "hiragana": [
@@ -10293,6 +10594,7 @@
       "びぃぃっ",
       "びぃぃぃっ"
     ],
+    "romaji": ["hi"],
     "katakana": [
       "ヒ",
       "ヒッ",
@@ -10337,10 +10639,11 @@
         }
       ]
     }],
-    "literal": "hi"
+    "id": "hi"
   },
   {
     "hiragana": ["ひっく"],
+    "romaji": ["hikku"],
     "katakana": ["ヒック"],
     "definition": [{
       "equivalent": [
@@ -10358,13 +10661,14 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "hikku"
+    "id": "hikku"
   },
   {
     "hiragana": [
       "ひんひん",
       "ひんひんひん"
     ],
+    "romaji": ["hin hin"],
     "katakana": [
       "ヒンヒン",
       "ヒンヒンヒン"
@@ -10388,10 +10692,11 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "hin hin"
+    "id": "hin_hin"
   },
   {
     "hiragana": ["ひら"],
+    "romaji": ["hira"],
     "katakana": ["ヒラ"],
     "definition": [{
       "equivalent": [
@@ -10419,10 +10724,11 @@
         }
       ]
     }],
-    "literal": "hira"
+    "id": "hira"
   },
   {
     "hiragana": ["ひらひら"],
+    "romaji": ["hira hira"],
     "katakana": ["ヒラヒラ"],
     "definition": [{
       "equivalent": [""],
@@ -10436,10 +10742,11 @@
         "source": "lord_of_the_hundred_demons"
       }]
     }],
-    "literal": "hira hira"
+    "id": "hira_hira"
   },
   {
     "hiragana": ["ひりひり"],
+    "romaji": ["hiri hiri"],
     "katakana": ["ヒリヒリ"],
     "definition": [{
       "equivalent": [
@@ -10462,13 +10769,14 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "hiri hiri"
+    "id": "hiri_hiri"
   },
   {
     "hiragana": [
       "ひし",
       "ひしっ"
     ],
+    "romaji": ["hishi"],
     "katakana": [
       "ヒシ",
       "ヒシッ"
@@ -10501,10 +10809,11 @@
         }
       ]
     }],
-    "literal": "hishi"
+    "id": "hishi"
   },
   {
     "hiragana": ["ひそひそ"],
+    "romaji": ["hiso hiso"],
     "katakana": ["ヒソヒソ"],
     "definition": [{
       "equivalent": [
@@ -10536,13 +10845,14 @@
         }
       ]
     }],
-    "literal": "hiso hiso"
+    "id": "hiso_hiso"
   },
   {
     "hiragana": [
       "ひひ",
       "ひひひ"
     ],
+    "romaji": ["hi hi"],
     "katakana": [
       "ヒヒ",
       "ヒヒヒ"
@@ -10567,7 +10877,7 @@
         "source": "35_year_olds_choice"
       }]
     }],
-    "literal": "hi hi"
+    "id": "hi_hi"
   },
   {
     "hiragana": [
@@ -10578,6 +10888,7 @@
       "ほぉ",
       "ほお"
     ],
+    "romaji": ["ho"],
     "katakana": [
       "ホ",
       "ホッ",
@@ -10636,10 +10947,11 @@
         }]
       }
     ],
-    "literal": "ho"
+    "id": "ho"
   },
   {
     "hiragana": ["ほかほか"],
+    "romaji": ["hoka hoka"],
     "katakana": ["ホカホカ"],
     "definition": [{
       "equivalent": [
@@ -10666,7 +10978,7 @@
         }
       ]
     }],
-    "literal": "hoka hoka"
+    "id": "hoka_hoka"
   },
   {
     "hiragana": [
@@ -10676,6 +10988,7 @@
       "ほほほっ",
       "ほっほっ"
     ],
+    "romaji": ["ho ho"],
     "katakana": [
       "ホホ",
       "ホホホ",
@@ -10701,13 +11014,14 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "ho ho"
+    "id": "ho_ho"
   },
   {
     "hiragana": [
       "ひゃ",
       "ひゃっ"
     ],
+    "romaji": ["hya"],
     "katakana": [
       "ヒャ",
       "ヒャッ"
@@ -10729,13 +11043,14 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "hya"
+    "id": "hya"
   },
   {
     "hiragana": [
       "ひょい",
       "ひょいっ"
     ],
+    "romaji": ["hyoi"],
     "katakana": [
       "ヒョイ",
       "ヒョイッ"
@@ -10790,13 +11105,14 @@
         }]
       }
     ],
-    "literal": "hyoi"
+    "id": "hyoi"
   },
   {
     "hiragana": [
       "ひょこ",
       "ひょこっ"
     ],
+    "romaji": ["hyoko"],
     "katakana": [
       "ヒョコ",
       "ヒョコッ"
@@ -10827,7 +11143,7 @@
         }
       ]
     }],
-    "literal": "hyoko"
+    "id": "hyoko"
   },
   {
     "hiragana": [
@@ -10836,6 +11152,7 @@
       "ひゅー",
       "ひゅーっ"
     ],
+    "romaji": ["hyu"],
     "katakana": [
       "ヒュ",
       "ヒュッ",
@@ -10902,13 +11219,14 @@
         }]
       }
     ],
-    "literal": "hyu"
+    "id": "hyu"
   },
   {
     "hiragana": [
       "ひゅん",
       "ひゅんっ"
     ],
+    "romaji": ["hyun"],
     "katakana": [
       "ヒュン",
       "ヒュンッ"
@@ -10939,10 +11257,11 @@
         }
       ]
     }],
-    "literal": "hyun"
+    "id": "hyun"
   },
   {
     "hiragana": ["ひゅんひゅん"],
+    "romaji": ["hyun hyun"],
     "katakana": ["ヒュンヒュン"],
     "definition": [{
       "equivalent": [""],
@@ -10956,7 +11275,7 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "hyun hyun"
+    "id": "hyun_hyun"
   },
   {
     "hiragana": [
@@ -10965,6 +11284,7 @@
       "ひゅおお",
       "ひゅおおお"
     ],
+    "romaji": ["hyuoo"],
     "katakana": [
       "ヒュォォ",
       "ヒュォォォ",
@@ -10990,7 +11310,7 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "hyuoo"
+    "id": "hyuoo"
   },
   {
     "hiragana": [
@@ -10998,6 +11318,7 @@
       "ひゅるる",
       "ひゅるるる"
     ],
+    "romaji": ["hyuru"],
     "katakana": [
       "ヒュル",
       "ヒュルル",
@@ -11036,13 +11357,14 @@
         }
       ]
     }],
-    "literal": "hyuru"
+    "id": "hyuru"
   },
   {
     "hiragana": [
       "いら",
       "いらっ"
     ],
+    "romaji": ["ira"],
     "katakana": [
       "イラ",
       "イラッ"
@@ -11071,13 +11393,14 @@
         "source": "hero_or_demon_king"
       }]
     }],
-    "literal": "ira"
+    "id": "ira"
   },
   {
     "hiragana": [
       "いたい",
       "いたーい"
     ],
+    "romaji": ["itai"],
     "katakana": [
       "イタイ",
       "イターイ"
@@ -11098,10 +11421,11 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "itai"
+    "id": "itai"
   },
   {
     "hiragana": ["じゃぶじゃぶ"],
+    "romaji": ["jabu jabu"],
     "katakana": ["ジャブジャブ"],
     "definition": [{
       "equivalent": [
@@ -11128,10 +11452,11 @@
         }
       ]
     }],
-    "literal": "jabu jabu"
+    "id": "jabu_jabu"
   },
   {
     "hiragana": ["じゃかじゃか"],
+    "romaji": ["jaka jaka"],
     "katakana": ["ジャカジャカ"],
     "definition": [{
       "equivalent": [
@@ -11148,13 +11473,14 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "jaka jaka"
+    "id": "jaka_jaka"
   },
   {
     "hiragana": [
       "じゃき",
       "じゃきっ"
     ],
+    "romaji": ["jaki"],
     "katakana": [
       "ジャキ",
       "ジャキッ"
@@ -11195,13 +11521,14 @@
         }]
       }
     ],
-    "literal": "jaki"
+    "id": "jaki"
   },
   {
     "hiragana": [
       "じゃきん",
       "じゃきんっ"
     ],
+    "romaji": ["jakin"],
     "katakana": [
       "ジャキン",
       "ジャキンッ"
@@ -11218,13 +11545,14 @@
         "source": "shogun_gold_in_america"
       }]
     }],
-    "literal": "jakin"
+    "id": "jakin"
   },
   {
     "hiragana": [
       "じゃん",
       "じゃーん"
     ],
+    "romaji": ["jan"],
     "katakana": [
       "ジャン",
       "ジャーン"
@@ -11255,7 +11583,7 @@
         }
       ]
     }],
-    "literal": "jan"
+    "id": "jan"
   },
   {
     "hiragana": [
@@ -11264,6 +11592,7 @@
       "じゃらっ",
       "じゃららっ"
     ],
+    "romaji": ["jara"],
     "katakana": [
       "ジャラ",
       "ジャララ",
@@ -11311,13 +11640,14 @@
         }]
       }
     ],
-    "literal": "jara"
+    "id": "jara"
   },
   {
     "hiragana": [
       "じゃらん",
       "じゃらーん"
     ],
+    "romaji": ["jaran"],
     "katakana": [
       "ジャラン",
       "ジャラーン"
@@ -11334,10 +11664,11 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "jaran"
+    "id": "jaran"
   },
   {
     "hiragana": ["じゃる"],
+    "romaji": ["jaru"],
     "katakana": ["ジャル"],
     "definition": [{
       "equivalent": [
@@ -11359,10 +11690,11 @@
         "source": "singing_the_superstar"
       }]
     }],
-    "literal": "jaru"
+    "id": "jaru"
   },
   {
     "hiragana": ["じゃじゃ"],
+    "romaji": ["ja ja"],
     "katakana": ["ジャジャ"],
     "definition": [{
       "equivalent": [
@@ -11382,7 +11714,7 @@
         "source": "rock_n_roll_ladies"
       }]
     }],
-    "literal": "ja ja"
+    "id": "ja_ja"
   },
   {
     "hiragana": [
@@ -11392,6 +11724,7 @@
       "じーっ",
       "じぃっ"
     ],
+    "romaji": ["ji"],
     "katakana": [
       "ジ",
       "ジッ",
@@ -11462,7 +11795,7 @@
         }]
       }
     ],
-    "literal": "ji"
+    "id": "ji"
   },
   {
     "hiragana": [
@@ -11471,6 +11804,7 @@
       "じーん",
       "じーんっ"
     ],
+    "romaji": ["jin"],
     "katakana": [
       "ジン",
       "ジンッ",
@@ -11489,7 +11823,7 @@
         "source": "reincarnated_farm_girl"
       }]
     }],
-    "literal": "jin"
+    "id": "jin"
   },
   {
     "hiragana": [
@@ -11498,6 +11832,7 @@
       "じりりり",
       "じりっ"
     ],
+    "romaji": ["jiri"],
     "katakana": [
       "ジリ",
       "ジリリ",
@@ -11548,10 +11883,11 @@
         ]
       }
     ],
-    "literal": "jiri"
+    "id": "jiri"
   },
   {
     "hiragana": ["じりじり"],
+    "romaji": ["jiri jiri"],
     "katakana": ["ジリジリ"],
     "definition": [{
       "equivalent": [""],
@@ -11565,10 +11901,11 @@
         "source": "kuma_kuma_kuma_bear"
       }]
     }],
-    "literal": "jiri jiri"
+    "id": "jiri_jiri"
   },
   {
     "hiragana": ["じろ"],
+    "romaji": ["jiro"],
     "katakana": ["ジロ"],
     "definition": [{
       "equivalent": [""],
@@ -11582,10 +11919,11 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "jiro"
+    "id": "jiro"
   },
   {
     "hiragana": ["じたばた"],
+    "romaji": ["jita bata"],
     "katakana": ["ジタバタ"],
     "definition": [
       {
@@ -11634,13 +11972,14 @@
         }]
       }
     ],
-    "literal": "jita bata"
+    "id": "jita_bata"
   },
   {
     "hiragana": [
       "じわ",
       "じわっ"
     ],
+    "romaji": ["jiwa"],
     "katakana": [
       "ジワ",
       "ジワッ"
@@ -11673,7 +12012,7 @@
         }
       ]
     }],
-    "literal": "jiwa"
+    "id": "jiwa"
   },
   {
     "hiragana": [
@@ -11686,6 +12025,7 @@
       "じゅうう",
       "じゅううう"
     ],
+    "romaji": ["ju"],
     "katakana": [
       "ジュウゥ",
       "ジュー",
@@ -11729,13 +12069,14 @@
         }
       ]
     }],
-    "literal": "ju"
+    "id": "ju"
   },
   {
     "hiragana": [
       "じゅん",
       "じゅんっ"
     ],
+    "romaji": ["jun jun"],
     "katakana": [
       "ジュン",
       "ジュンッ"
@@ -11752,10 +12093,11 @@
         "source": "gyaru_academy"
       }]
     }],
-    "literal": "jun jun"
+    "id": "jun_jun"
   },
   {
     "hiragana": ["じゅぽじゅぽ"],
+    "romaji": ["jupo jupo"],
     "katakana": ["ジュポジュポ"],
     "definition": [{
       "equivalent": [
@@ -11773,10 +12115,11 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "jupo jupo"
+    "id": "jupo_jupo"
   },
   {
     "hiragana": ["じゅぷじゅぷ"],
+    "romaji": ["jupu jupu"],
     "katakana": ["ジュプジュプ"],
     "definition": [{
       "equivalent": [""],
@@ -11790,13 +12133,14 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "jupu jupu"
+    "id": "jupu_jupu"
   },
   {
     "hiragana": [
       "じゅる",
       "じゅるっ"
     ],
+    "romaji": ["juru"],
     "katakana": [
       "ジュル",
       "ジュルッ"
@@ -11826,7 +12170,7 @@
         }
       ]
     }],
-    "literal": "juru"
+    "id": "juru"
   },
   {
     "hiragana": [
@@ -11835,6 +12179,7 @@
       "じゅわぁ",
       "じゅわわぁ"
     ],
+    "romaji": ["juwa"],
     "katakana": [
       "ジュワ",
       "ジュワワ",
@@ -11853,13 +12198,14 @@
         "source": "dungeon_dining_room"
       }]
     }],
-    "literal": "juwa"
+    "id": "juwa"
   },
   {
     "hiragana": [
       "ぢゅる",
       "ぢゅるっ"
     ],
+    "romaji": ["jyuru"],
     "katakana": [
       "ヂュル",
       "ヂュルッ"
@@ -11890,7 +12236,7 @@
         }
       ]
     }],
-    "literal": "jyuru"
+    "id": "jyuru"
   },
   {
     "hiragana": [
@@ -11903,6 +12249,7 @@
       "かぁ",
       "かぁぁ"
     ],
+    "romaji": ["ka"],
     "katakana": [
       "カ",
       "カッ",
@@ -12009,13 +12356,14 @@
         ]
       }
     ],
-    "literal": "ka"
+    "id": "ka"
   },
   {
     "hiragana": [
       "かちゃ",
       "かちゃっ"
     ],
+    "romaji": ["kacha"],
     "katakana": [
       "カチャ",
       "カチャッ"
@@ -12053,10 +12401,11 @@
         }
       ]
     }],
-    "literal": "kacha"
+    "id": "kacha"
   },
   {
     "hiragana": ["かちゃん"],
+    "romaji": ["kachan"],
     "katakana": ["カチャン"],
     "definition": [{
       "equivalent": [""],
@@ -12070,10 +12419,11 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "kachan"
+    "id": "kachan"
   },
   {
     "hiragana": ["かちゃかちゃ"],
+    "romaji": ["kacha kacha"],
     "katakana": ["カチャカチャ"],
     "definition": [{
       "equivalent": [""],
@@ -12101,13 +12451,14 @@
         }
       ]
     }],
-    "literal": "kacha kacha"
+    "id": "kacha_kacha"
   },
   {
     "hiragana": [
       "かち",
       "かちっ"
     ],
+    "romaji": ["kachi"],
     "katakana": [
       "カチ",
       "カチッ"
@@ -12140,10 +12491,11 @@
         }
       ]
     }],
-    "literal": "kachi"
+    "id": "kachi"
   },
   {
     "hiragana": ["かちかち"],
+    "romaji": ["kachi kachi"],
     "katakana": ["カチカチ"],
     "definition": [{
       "equivalent": [""],
@@ -12157,10 +12509,11 @@
         "source": "isekai_av_filming"
       }]
     }],
-    "literal": "kachi kachi"
+    "id": "kachi_kachi"
   },
   {
     "hiragana": ["かきかき"],
+    "romaji": ["kaki kaki"],
     "katakana": ["カキカキ"],
     "definition": [{
       "equivalent": [
@@ -12192,10 +12545,11 @@
         }
       ]
     }],
-    "literal": "kaki kaki"
+    "id": "kaki_kaki"
   },
   {
     "hiragana": ["かん"],
+    "romaji": ["kan"],
     "katakana": ["カン"],
     "definition": [{
       "equivalent": [
@@ -12227,10 +12581,11 @@
         }
       ]
     }],
-    "literal": "kan"
+    "id": "kan"
   },
   {
     "hiragana": ["かんかん"],
+    "romaji": ["kan kan"],
     "katakana": ["カンカン"],
     "definition": [{
       "equivalent": [
@@ -12251,10 +12606,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "kan kan"
+    "id": "kan_kan"
   },
   {
     "hiragana": ["かぱ"],
+    "romaji": ["kapa"],
     "katakana": ["カパ"],
     "definition": [{
       "equivalent": [
@@ -12275,10 +12631,11 @@
         "source": "strongest_thread_master"
       }]
     }],
-    "literal": "kapa"
+    "id": "kapa"
   },
   {
     "hiragana": ["かぽ"],
+    "romaji": ["kapo"],
     "katakana": ["カポ"],
     "definition": [{
       "equivalent": [
@@ -12298,13 +12655,14 @@
         "source": "way_of_the_house_husband"
       }]
     }],
-    "literal": "kapo"
+    "id": "kapo"
   },
   {
     "hiragana": [
       "から",
       "からっ"
     ],
+    "romaji": ["kara"],
     "katakana": [
       "カラ",
       "カラッ"
@@ -12338,13 +12696,14 @@
         }
       ]
     }],
-    "literal": "kara"
+    "id": "kara"
   },
   {
     "hiragana": [
       "からん",
       "からんっ"
     ],
+    "romaji": ["karan"],
     "katakana": [
       "カラン",
       "カランッ"
@@ -12361,10 +12720,11 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "karan"
+    "id": "karan"
   },
   {
     "hiragana": ["からんからん"],
+    "romaji": ["karan karan"],
     "katakana": ["カランカラン"],
     "definition": [{
       "equivalent": [
@@ -12383,10 +12743,11 @@
         "source": "isekai_pickup"
       }]
     }],
-    "literal": "karan karan"
+    "id": "karan_karan"
   },
   {
     "hiragana": ["かりかり"],
+    "romaji": ["kari kari"],
     "katakana": ["カリカリ"],
     "definition": [{
       "equivalent": [
@@ -12427,13 +12788,14 @@
         }
       ]
     }],
-    "literal": "kari kari"
+    "id": "kari_kari"
   },
   {
     "hiragana": [
       "かさ",
       "かさっ"
     ],
+    "romaji": ["kasa"],
     "katakana": [
       "カサ",
       "カサッ"
@@ -12464,13 +12826,14 @@
         }
       ]
     }],
-    "literal": "kasa"
+    "id": "kasa"
   },
   {
     "hiragana": [
       "かしゃ",
       "かしゃっ"
     ],
+    "romaji": ["kasha"],
     "katakana": [
       "カシャ",
       "カシャッ"
@@ -12510,13 +12873,14 @@
         }
       ]
     }],
-    "literal": "kasha"
+    "id": "kasha"
   },
   {
     "hiragana": [
       "かしゅ",
       "かしゅっ"
     ],
+    "romaji": ["kashu"],
     "katakana": [
       "カシュ",
       "カシュッ"
@@ -12538,13 +12902,14 @@
         "source": "35_year_olds_choice"
       }]
     }],
-    "literal": "kashu"
+    "id": "kashu"
   },
   {
     "hiragana": [
       "かた",
       "かたっ"
     ],
+    "romaji": ["kata"],
     "katakana": [
       "カタ",
       "カタッ"
@@ -12575,10 +12940,11 @@
         }
       ]
     }],
-    "literal": "kata"
+    "id": "kata"
   },
   {
     "hiragana": ["かたた"],
+    "romaji": ["katata"],
     "katakana": ["カタタ"],
     "definition": [{
       "equivalent": [
@@ -12597,10 +12963,11 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "katata"
+    "id": "katata"
   },
   {
     "hiragana": ["かたかた"],
+    "romaji": ["kata kata"],
     "katakana": ["カタカタ"],
     "definition": [
       {
@@ -12628,7 +12995,7 @@
         }]
       }
     ],
-    "literal": "kata kata"
+    "id": "kata_kata"
   },
   {
     "hiragana": [
@@ -12636,6 +13003,7 @@
       "かつんっ",
       "かつーん"
     ],
+    "romaji": ["katsun"],
     "katakana": [
       "カツン",
       "カツンッ",
@@ -12694,7 +13062,7 @@
         ]
       }
     ],
-    "literal": "katsun"
+    "id": "katsun"
   },
   {
     "hiragana": [
@@ -12702,6 +13070,7 @@
       "かっかっ",
       "かつかつ"
     ],
+    "romaji": ["ka ka"],
     "katakana": [
       "カカ",
       "カッカッ",
@@ -12727,13 +13096,14 @@
         }
       ]
     }],
-    "literal": "ka ka"
+    "id": "ka_ka"
   },
   {
     "hiragana": [
       "け",
       "けっ"
     ],
+    "romaji": ["ke"],
     "katakana": [
       "ケ",
       "ケッ"
@@ -12757,13 +13127,14 @@
         "source": "fushi_no_kami"
       }]
     }],
-    "literal": "ke"
+    "id": "ke"
   },
   {
     "hiragana": [
       "けほ",
       "けほっ"
     ],
+    "romaji": ["keho"],
     "katakana": [
       "ケホ",
       "ケホッ"
@@ -12785,13 +13156,14 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "keho"
+    "id": "keho"
   },
   {
     "hiragana": [
       "けほけほ",
       "けほっけほっ"
     ],
+    "romaji": ["keho keho"],
     "katakana": [
       "ケホケホ",
       "ケホッケホッ"
@@ -12816,10 +13188,11 @@
         }
       ]
     }],
-    "literal": "keho keho"
+    "id": "keho_keho"
   },
   {
     "hiragana": ["けたけた"],
+    "romaji": ["keta keta"],
     "katakana": ["ケタケタ"],
     "definition": [{
       "equivalent": [
@@ -12841,7 +13214,7 @@
         "source": "weakest_occupation_blacksmith"
       }]
     }],
-    "literal": "keta keta"
+    "id": "keta_keta"
   },
   {
     "hiragana": [
@@ -12851,6 +13224,7 @@
       "きぃ",
       "きぃーっ"
     ],
+    "romaji": ["ki"],
     "katakana": [
       "キ",
       "キッ",
@@ -12918,13 +13292,14 @@
         ]
       }
     ],
-    "literal": "ki"
+    "id": "ki"
   },
   {
     "hiragana": [
       "きも",
       "きもっ"
     ],
+    "romaji": ["kimo"],
     "katakana": [
       "キモ",
       "キモッ"
@@ -12946,7 +13321,7 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "kimo"
+    "id": "kimo"
   },
   {
     "hiragana": [
@@ -12954,6 +13329,7 @@
       "きぃん",
       "きぃーん"
     ],
+    "romaji": ["kin"],
     "katakana": [
       "キン",
       "キィン",
@@ -12971,10 +13347,11 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "kin"
+    "id": "kin"
   },
   {
     "hiragana": ["きーんこーんかーんこーん"],
+    "romaji": ["kin kon kan kon"],
     "katakana": ["キーンコーンカーンコーン"],
     "definition": [{
       "equivalent": [""],
@@ -12988,13 +13365,14 @@
         "source": "hanako_24th_ward"
       }]
     }],
-    "literal": "kin kon kan kon"
+    "id": "kin_kon_kan_kon"
   },
   {
     "hiragana": [
       "きら",
       "きらっ"
     ],
+    "romaji": ["kira"],
     "katakana": [
       "キラ",
       "キラッ"
@@ -13029,13 +13407,14 @@
         }
       ]
     }],
-    "literal": "kira"
+    "id": "kira"
   },
   {
     "hiragana": [
       "きらん",
       "きらーん"
     ],
+    "romaji": ["kiran"],
     "katakana": [
       "キラン",
       "キラーン"
@@ -13052,10 +13431,11 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "kiran"
+    "id": "kiran"
   },
   {
     "hiragana": ["きらきら"],
+    "romaji": ["kira kira"],
     "katakana": ["キラキラ"],
     "definition": [{
       "equivalent": [""],
@@ -13077,10 +13457,11 @@
         }
       ]
     }],
-    "literal": "kira kira"
+    "id": "kira_kira"
   },
   {
     "hiragana": ["きりきり"],
+    "romaji": ["kiri kiri"],
     "katakana": ["キリキリ"],
     "definition": [{
       "equivalent": [
@@ -13110,13 +13491,14 @@
         }
       ]
     }],
-    "literal": "kiri kiri"
+    "id": "kiri_kiri"
   },
   {
     "hiragana": [
       "きき",
       "ききき"
     ],
+    "romaji": ["ki ki"],
     "katakana": [
       "キキ",
       "キキキ"
@@ -13141,7 +13523,7 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "ki ki"
+    "id": "ki_ki"
   },
   {
     "hiragana": [
@@ -13154,6 +13536,7 @@
       "こぉおお",
       "こおぉぉ"
     ],
+    "romaji": ["ko"],
     "katakana": [
       "コ",
       "コッ",
@@ -13241,10 +13624,11 @@
         }]
       }
     ],
-    "literal": "ko"
+    "id": "ko"
   },
   {
     "hiragana": ["こほん"],
+    "romaji": ["kohon"],
     "katakana": ["コホン"],
     "definition": [{
       "equivalent": [
@@ -13269,10 +13653,11 @@
         }
       ]
     }],
-    "literal": "kohon"
+    "id": "kohon"
   },
   {
     "hiragana": ["こき"],
+    "romaji": ["koki"],
     "katakana": ["コキ"],
     "definition": [{
       "equivalent": [
@@ -13290,13 +13675,14 @@
         "source": "blazing_fire_brigade"
       }]
     }],
-    "literal": "koki"
+    "id": "koki"
   },
   {
     "hiragana": [
       "こく",
       "こくっ"
     ],
+    "romaji": ["koku"],
     "katakana": [
       "コク",
       "コクッ"
@@ -13334,10 +13720,11 @@
         }
       ]
     }],
-    "literal": "koku"
+    "id": "koku"
   },
   {
     "hiragana": ["こくんこくん"],
+    "romaji": ["kokun kokun"],
     "katakana": ["コクンコクン"],
     "definition": [{
       "equivalent": [
@@ -13356,10 +13743,11 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "kokun kokun"
+    "id": "kokun_kokun"
   },
   {
     "hiragana": ["こくり"],
+    "romaji": ["kokuri"],
     "katakana": ["コクリ"],
     "definition": [{
       "equivalent": [""],
@@ -13373,10 +13761,11 @@
         "source": "dungeon_dining_room"
       }]
     }],
-    "literal": "kokuri"
+    "id": "kokuri"
   },
   {
     "hiragana": ["こくこく"],
+    "romaji": ["koku koku"],
     "katakana": ["コクコク"],
     "definition": [{
       "equivalent": [
@@ -13395,13 +13784,14 @@
         "source": "abandoned_reincarnation_sage"
       }]
     }],
-    "literal": "koku koku"
+    "id": "koku_koku"
   },
   {
     "hiragana": [
       "こん",
       "こんっ"
     ],
+    "romaji": ["kon"],
     "katakana": [
       "コン",
       "コンッ"
@@ -13426,13 +13816,14 @@
         }
       ]
     }],
-    "literal": "kon"
+    "id": "kon"
   },
   {
     "hiragana": [
       "こんこん",
       "こんこんっ"
     ],
+    "romaji": ["kon kon"],
     "katakana": [
       "コンコン",
       "コンコンッ"
@@ -13463,13 +13854,14 @@
         }
       ]
     }],
-    "literal": "kon kon"
+    "id": "kon_kon"
   },
   {
     "hiragana": [
       "こぽぽ",
       "こぽぽぽ"
     ],
+    "romaji": ["kopopo"],
     "katakana": [
       "コポポ",
       "コポポポ"
@@ -13486,10 +13878,11 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "kopopo"
+    "id": "kopopo"
   },
   {
     "hiragana": ["こぽこぽ"],
+    "romaji": ["kopo kopo"],
     "katakana": ["コポコポ"],
     "definition": [{
       "equivalent": [
@@ -13510,10 +13903,11 @@
         "source": "paradise_shift"
       }]
     }],
-    "literal": "kopo kopo"
+    "id": "kopo_kopo"
   },
   {
     "hiragana": ["ころ"],
+    "romaji": ["koro"],
     "katakana": ["コロ"],
     "definition": [{
       "equivalent": [
@@ -13535,10 +13929,11 @@
         "source": "komi_cant_communicate"
       }]
     }],
-    "literal": "koro"
+    "id": "koro"
   },
   {
     "hiragana": ["ころん"],
+    "romaji": ["koron"],
     "katakana": ["コロン"],
     "definition": [{
       "equivalent": [""],
@@ -13552,10 +13947,11 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "koron"
+    "id": "koron"
   },
   {
     "hiragana": ["こそこそ"],
+    "romaji": ["koso koso"],
     "katakana": ["コソコソ"],
     "definition": [{
       "equivalent": [
@@ -13580,10 +13976,11 @@
         "source": "dog_became_strongest"
       }]
     }],
-    "literal": "koso koso"
+    "id": "koso_koso"
   },
   {
     "hiragana": ["こすこす"],
+    "romaji": ["kosu kosu"],
     "katakana": ["コスコス"],
     "definition": [{
       "equivalent": [
@@ -13611,13 +14008,14 @@
         }
       ]
     }],
-    "literal": "kosu kosu"
+    "id": "kosu_kosu"
   },
   {
     "hiragana": [
       "こと",
       "ことっ"
     ],
+    "romaji": ["koto"],
     "katakana": [
       "コト",
       "コトッ"
@@ -13660,13 +14058,14 @@
         }
       ]
     }],
-    "literal": "koto"
+    "id": "koto"
   },
   {
     "hiragana": [
       "ことこと",
       "ことことこと"
     ],
+    "romaji": ["koto koto"],
     "katakana": [
       "コトコト",
       "コトコトコト"
@@ -13687,7 +14086,7 @@
         "source": "way_of_the_house_husband"
       }]
     }],
-    "literal": "koto koto"
+    "id": "koto_koto"
   },
   {
     "hiragana": [
@@ -13696,6 +14095,7 @@
       "こっこっ",
       "こっこっこっ"
     ],
+    "romaji": ["ko ko"],
     "katakana": [
       "ココ",
       "コココ",
@@ -13722,7 +14122,7 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "ko ko"
+    "id": "ko_ko"
   },
   {
     "hiragana": [
@@ -13733,6 +14133,7 @@
       "くう",
       "くうっ"
     ],
+    "romaji": ["ku"],
     "katakana": [
       "ク",
       "クッ",
@@ -13767,7 +14168,7 @@
         }
       ]
     }],
-    "literal": "ku"
+    "id": "ku"
   },
   {
     "hiragana": [
@@ -13778,6 +14179,7 @@
       "くぁぁ",
       "くぁぁぁ"
     ],
+    "romaji": ["kua"],
     "katakana": [
       "クア",
       "クアア",
@@ -13824,10 +14226,11 @@
         }]
       }
     ],
-    "literal": "kua"
+    "id": "kua"
   },
   {
     "hiragana": ["くちゅ"],
+    "romaji": ["kuchu"],
     "katakana": ["クチュ"],
     "definition": [{
       "equivalent": [
@@ -13860,13 +14263,14 @@
         }
       ]
     }],
-    "literal": "kuchu"
+    "id": "kuchu"
   },
   {
     "hiragana": [
       "くちゅくちゅ",
       "くちゅくちゅっ"
     ],
+    "romaji": ["kuchu kuchu"],
     "katakana": [
       "クチュクチュ",
       "クチュクチュッ"
@@ -13891,13 +14295,14 @@
         }
       ]
     }],
-    "literal": "kuchu kuchu"
+    "id": "kuchu_kuchu"
   },
   {
     "hiragana": [
       "くどくど",
       "くどくどくど"
     ],
+    "romaji": ["kudo kudo"],
     "katakana": [
       "クドクド",
       "クドクドクド"
@@ -13924,7 +14329,7 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "kudo kudo"
+    "id": "kudo_kudo"
   },
   {
     "hiragana": [
@@ -13932,6 +14337,7 @@
       "くぃ",
       "くいっ"
     ],
+    "romaji": ["kui"],
     "katakana": [
       "クイ",
       "クィ",
@@ -13976,13 +14382,14 @@
         }]
       }
     ],
-    "literal": "kui"
+    "id": "kui"
   },
   {
     "hiragana": [
       "くか",
       "くかー"
     ],
+    "romaji": ["kuka"],
     "katakana": [
       "クカ",
       "クカー"
@@ -14007,13 +14414,14 @@
         "source": "35_year_olds_choice"
       }]
     }],
-    "literal": "kuka"
+    "id": "kuka"
   },
   {
     "hiragana": [
       "くく",
       "くくっ"
     ],
+    "romaji": ["kuku"],
     "katakana": [
       "クク",
       "ククッ"
@@ -14064,13 +14472,14 @@
         }]
       }
     ],
-    "literal": "kuku"
+    "id": "kuku"
   },
   {
     "hiragana": [
       "くん",
       "くんっ"
     ],
+    "romaji": ["kun"],
     "katakana": [
       "クン",
       "クンッ"
@@ -14092,10 +14501,11 @@
         "source": "world_full_of_zombies"
       }]
     }],
-    "literal": "kun"
+    "id": "kun"
   },
   {
     "hiragana": ["くなくな"],
+    "romaji": ["kuna kuna"],
     "katakana": ["クナクナ"],
     "definition": [{
       "equivalent": [
@@ -14123,10 +14533,11 @@
         }
       ]
     }],
-    "literal": "kuna kuna"
+    "id": "kuna_kuna"
   },
   {
     "hiragana": ["くんくん"],
+    "romaji": ["kun kun"],
     "katakana": ["クンクン"],
     "definition": [{
       "equivalent": [""],
@@ -14148,7 +14559,7 @@
         }
       ]
     }],
-    "literal": "kun kun"
+    "id": "kun_kun"
   },
   {
     "hiragana": [
@@ -14157,6 +14568,7 @@
       "くらあ",
       "くらあっ"
     ],
+    "romaji": ["kura"],
     "katakana": [
       "クラ",
       "クラッ",
@@ -14182,13 +14594,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "kura"
+    "id": "kura"
   },
   {
     "hiragana": [
       "くりっ",
       "くりっ"
     ],
+    "romaji": ["kuri"],
     "katakana": [
       "クリ",
       "クリッ"
@@ -14215,13 +14628,14 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "kuri"
+    "id": "kuri"
   },
   {
     "hiragana": [
       "くる",
       "くるっ"
     ],
+    "romaji": ["kuru"],
     "katakana": [
       "クル",
       "クルッ"
@@ -14268,10 +14682,11 @@
         }
       ]
     }],
-    "literal": "kuru"
+    "id": "kuru"
   },
   {
     "hiragana": ["くるん"],
+    "romaji": ["kurun"],
     "katakana": ["クルン"],
     "definition": [{
       "equivalent": [""],
@@ -14285,10 +14700,11 @@
         "source": "hero_or_demon_king"
       }]
     }],
-    "literal": "kurun"
+    "id": "kurun"
   },
   {
     "hiragana": ["くるくる"],
+    "romaji": ["kuru kuru"],
     "katakana": ["クルクル"],
     "definition": [{
       "equivalent": [
@@ -14320,13 +14736,14 @@
         }
       ]
     }],
-    "literal": "kuru kuru"
+    "id": "kuru_kuru"
   },
   {
     "hiragana": [
       "くす",
       "くすっ"
     ],
+    "romaji": ["kusu"],
     "katakana": [
       "クス",
       "クスッ"
@@ -14366,10 +14783,11 @@
         }
       ]
     }],
-    "literal": "kusu"
+    "id": "kusu"
   },
   {
     "hiragana": ["くすん"],
+    "romaji": ["kusun"],
     "katakana": ["クスン"],
     "definition": [{
       "equivalent": [
@@ -14389,10 +14807,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "kusun"
+    "id": "kusun"
   },
   {
     "hiragana": ["くすくす"],
+    "romaji": ["kusu kusu"],
     "katakana": ["クスクス"],
     "definition": [{
       "equivalent": [""],
@@ -14406,7 +14825,7 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "kusu kusu"
+    "id": "kusu_kusu"
   },
   {
     "hiragana": [
@@ -14419,6 +14838,7 @@
       "きゃあ",
       "きゃああ"
     ],
+    "romaji": ["kya"],
     "katakana": [
       "キャ",
       "キャッ",
@@ -14454,13 +14874,14 @@
         }
       ]
     }],
-    "literal": "kya"
+    "id": "kya"
   },
   {
     "hiragana": [
       "きゃん",
       "きゃーん"
     ],
+    "romaji": ["kyan"],
     "katakana": [
       "キャン",
       "キャーン"
@@ -14477,10 +14898,11 @@
         "source": "dog_became_strongest"
       }]
     }],
-    "literal": "kyan"
+    "id": "kyan"
   },
   {
     "hiragana": ["きょどきょど"],
+    "romaji": ["kyodo kyodo"],
     "katakana": ["キョドキョド"],
     "definition": [{
       "equivalent": [
@@ -14503,10 +14925,11 @@
         "source": "reincarnated_as_a_dragon_egg"
       }]
     }],
-    "literal": "kyodo kyodo"
+    "id": "kyodo_kyodo"
   },
   {
     "hiragana": ["きょろ"],
+    "romaji": ["kyoro"],
     "katakana": ["キョロ"],
     "definition": [{
       "equivalent": [
@@ -14526,10 +14949,11 @@
         "source": "isekai_territory_reform"
       }]
     }],
-    "literal": "kyoro"
+    "id": "kyoro"
   },
   {
     "hiragana": ["きょろきょろ"],
+    "romaji": ["kyoro kyoro"],
     "katakana": ["キョロキョロ"],
     "definition": [{
       "equivalent": [""],
@@ -14569,7 +14993,7 @@
         }
       ]
     }],
-    "literal": "kyoro kyoro"
+    "id": "kyoro_kyoro"
   },
   {
     "hiragana": [
@@ -14578,6 +15002,7 @@
       "きゅう",
       "きゅーっ"
     ],
+    "romaji": ["kyu"],
     "katakana": [
       "キュ",
       "キュッ",
@@ -14687,13 +15112,14 @@
         ]
       }
     ],
-    "literal": "kyu"
+    "id": "kyu"
   },
   {
     "hiragana": [
       "きゅん",
       "きゅーん"
     ],
+    "romaji": ["kyun"],
     "katakana": [
       "キュン",
       "キューン"
@@ -14716,7 +15142,7 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "kyun"
+    "id": "kyun"
   },
   {
     "hiragana": [
@@ -14724,6 +15150,7 @@
       "きゅるる",
       "きゅるるる"
     ],
+    "romaji": ["kyuru"],
     "katakana": [
       "キュル",
       "キュルル",
@@ -14754,10 +15181,11 @@
         }
       ]
     }],
-    "literal": "kyuru"
+    "id": "kyuru"
   },
   {
     "hiragana": ["きゅるきゅる"],
+    "romaji": ["kyuru kyuru"],
     "katakana": ["キュルキュル"],
     "definition": [{
       "equivalent": [
@@ -14778,10 +15206,11 @@
         "source": "ai_and_izawa"
       }]
     }],
-    "literal": "kyuru kyuru"
+    "id": "kyuru_kyuru"
   },
   {
     "hiragana": ["まきまき"],
+    "romaji": ["maki maki"],
     "katakana": ["マキマキ"],
     "definition": [{
       "equivalent": [
@@ -14801,10 +15230,11 @@
         "source": "shogun_gold_in_america"
       }]
     }],
-    "literal": "maki maki"
+    "id": "maki_maki"
   },
   {
     "hiragana": ["めきゃ"],
+    "romaji": ["mekya"],
     "katakana": ["メキャ"],
     "definition": [{
       "equivalent": [
@@ -14826,13 +15256,14 @@
         "source": "minimum_wage_demon_king"
       }]
     }],
-    "literal": "mekya"
+    "id": "mekya"
   },
   {
     "hiragana": [
       "みんみん",
       "みーんみーん"
     ],
+    "romaji": ["min min"],
     "katakana": [
       "ミンミン",
       "ミーンミーン"
@@ -14856,13 +15287,14 @@
         "source": "paradise_shift"
       }]
     }],
-    "literal": "min min"
+    "id": "min_min"
   },
   {
     "hiragana": [
       "みし",
       "みしっ"
     ],
+    "romaji": ["mishi"],
     "katakana": [
       "ミシ",
       "ミシッ"
@@ -14896,7 +15328,7 @@
         }
       ]
     }],
-    "literal": "mishi"
+    "id": "mishi"
   },
   {
     "hiragana": [
@@ -14904,6 +15336,7 @@
       "みしみしっ",
       "みしっみしっ"
     ],
+    "romaji": ["mishi mishi"],
     "katakana": [
       "ミシミシ",
       "ミシミシッ",
@@ -14921,7 +15354,7 @@
         "source": "hanako_24th_ward"
       }]
     }],
-    "literal": "mishi mishi"
+    "id": "mishi_mishi"
   },
   {
     "hiragana": [
@@ -14930,6 +15363,7 @@
       "もー",
       "もーっ"
     ],
+    "romaji": ["mo"],
     "katakana": [
       "モ",
       "モッ",
@@ -14955,10 +15389,11 @@
         "source": "beastly_boys_and_girls"
       }]
     }],
-    "literal": "mo"
+    "id": "mo"
   },
   {
     "hiragana": ["もふ"],
+    "romaji": ["mofu"],
     "katakana": ["モフ"],
     "definition": [{
       "equivalent": [
@@ -14980,10 +15415,11 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "mofu"
+    "id": "mofu"
   },
   {
     "hiragana": ["もがもが"],
+    "romaji": ["moga moga"],
     "katakana": ["モガモガ"],
     "definition": [{
       "equivalent": [
@@ -15002,10 +15438,11 @@
         "source": "berserk"
       }]
     }],
-    "literal": "moga moga"
+    "id": "moga_moga"
   },
   {
     "hiragana": ["もぐもぐ"],
+    "romaji": ["mogu mogu"],
     "katakana": ["モグモグ"],
     "definition": [{
       "equivalent": [
@@ -15039,10 +15476,11 @@
         }
       ]
     }],
-    "literal": "mogu mogu"
+    "id": "mogu_mogu"
   },
   {
     "hiragana": ["もじ"],
+    "romaji": ["moji"],
     "katakana": ["モジ"],
     "definition": [{
       "equivalent": [
@@ -15072,10 +15510,11 @@
         }
       ]
     }],
-    "literal": "moji"
+    "id": "moji"
   },
   {
     "hiragana": ["もじもじ"],
+    "romaji": ["moji moji"],
     "katakana": ["モジモジ"],
     "definition": [{
       "equivalent": [""],
@@ -15103,10 +15542,11 @@
         }
       ]
     }],
-    "literal": "moji moji"
+    "id": "moji_moji"
   },
   {
     "hiragana": ["もきゅもきゅ"],
+    "romaji": ["mokyu mokyu"],
     "katakana": ["モキュモキュ"],
     "definition": [{
       "equivalent": [""],
@@ -15120,10 +15560,11 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "mokyu mokyu"
+    "id": "mokyu_mokyu"
   },
   {
     "hiragana": ["もたもた"],
+    "romaji": ["mota mota"],
     "katakana": ["モタモタ"],
     "definition": [{
       "equivalent": [
@@ -15146,13 +15587,14 @@
         "source": "embarrassing_and_sweet"
       }]
     }],
-    "literal": "mota mota"
+    "id": "mota_mota"
   },
   {
     "hiragana": [
       "もわ",
       "もわぁ"
     ],
+    "romaji": ["mowa"],
     "katakana": [
       "モワ",
       "モワァ"
@@ -15180,10 +15622,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "mowa"
+    "id": "mowa"
   },
   {
     "hiragana": ["もわもわ"],
+    "romaji": ["mowa mowa"],
     "katakana": ["モワモワ"],
     "definition": [{
       "equivalent": [""],
@@ -15197,13 +15640,14 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "mowa mowa"
+    "id": "mowa_mowa"
   },
   {
     "hiragana": [
       "もぞ",
       "もぞっ"
     ],
+    "romaji": ["mozo"],
     "katakana": [
       "モゾ",
       "モゾッ"
@@ -15226,10 +15670,11 @@
         "source": "world_full_of_zombies"
       }]
     }],
-    "literal": "mozo"
+    "id": "mozo"
   },
   {
     "hiragana": ["もぞもぞ"],
+    "romaji": ["mozo mozo"],
     "katakana": ["モゾモゾ"],
     "definition": [{
       "equivalent": [""],
@@ -15243,10 +15688,11 @@
         "source": "beastly_boys_and_girls"
       }]
     }],
-    "literal": "mozo mozo"
+    "id": "mozo_mozo"
   },
   {
     "hiragana": ["もっもっ"],
+    "romaji": ["mo mo"],
     "katakana": ["モッモッ"],
     "definition": [{
       "equivalent": [
@@ -15265,7 +15711,7 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "mo mo"
+    "id": "mo_mo"
   },
   {
     "hiragana": [
@@ -15276,6 +15722,7 @@
       "むう",
       "むうっ"
     ],
+    "romaji": ["mu"],
     "katakana": [
       "ム",
       "ムッ",
@@ -15328,13 +15775,14 @@
         }
       ]
     }],
-    "literal": "mu"
+    "id": "mu"
   },
   {
     "hiragana": [
       "むぎゅ",
       "むぎゅっ"
     ],
+    "romaji": ["mugyu"],
     "katakana": [
       "ムギュ",
       "ムギュッ"
@@ -15356,13 +15804,14 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "mugyu"
+    "id": "mugyu"
   },
   {
     "hiragana": [
       "むく",
       "むくっ"
     ],
+    "romaji": ["muku"],
     "katakana": [
       "ムク",
       "ムクッ"
@@ -15402,7 +15851,7 @@
         }
       ]
     }],
-    "literal": "muku"
+    "id": "muku"
   },
   {
     "hiragana": [
@@ -15410,6 +15859,7 @@
       "むむー",
       "むむむ"
     ],
+    "romaji": ["mumu"],
     "katakana": [
       "ムム",
       "ムムー",
@@ -15440,7 +15890,7 @@
         }
       ]
     }],
-    "literal": "mumu"
+    "id": "mumu"
   },
   {
     "hiragana": [
@@ -15448,6 +15898,7 @@
       "むんっ",
       "むーん"
     ],
+    "romaji": ["mun"],
     "katakana": [
       "ムン",
       "ムンッ",
@@ -15491,7 +15942,7 @@
         }]
       }
     ],
-    "literal": "mun"
+    "id": "mun"
   },
   {
     "hiragana": [
@@ -15499,6 +15950,7 @@
       "むにっ",
       "むにー"
     ],
+    "romaji": ["muni"],
     "katakana": [
       "ムニ",
       "ムニッ",
@@ -15534,10 +15986,11 @@
         }
       ]
     }],
-    "literal": "muni"
+    "id": "muni"
   },
   {
     "hiragana": ["むにむに"],
+    "romaji": ["muni muni"],
     "katakana": ["ムニムニ"],
     "definition": [{
       "equivalent": [""],
@@ -15551,10 +16004,11 @@
         "source": "isekai_territory_reform"
       }]
     }],
-    "literal": "muni muni"
+    "id": "muni_muni"
   },
   {
     "hiragana": ["むにゃ"],
+    "romaji": ["munya"],
     "katakana": ["ムニャ"],
     "definition": [{
       "equivalent": [""],
@@ -15568,10 +16022,11 @@
         "source": "abandoned_reincarnation_sage"
       }]
     }],
-    "literal": "munya"
+    "id": "munya"
   },
   {
     "hiragana": ["むにゃむにゃ"],
+    "romaji": ["munya munya"],
     "katakana": ["ムニャムニャ"],
     "definition": [{
       "equivalent": [
@@ -15601,10 +16056,11 @@
         }
       ]
     }],
-    "literal": "munya munya"
+    "id": "munya_munya"
   },
   {
     "hiragana": ["むにゅん"],
+    "romaji": ["munyun"],
     "katakana": ["ムニュン"],
     "definition": [{
       "equivalent": [
@@ -15626,10 +16082,11 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "munyun"
+    "id": "munyun"
   },
   {
     "hiragana": ["むしゃむしゃ"],
+    "romaji": ["musha musha"],
     "katakana": ["ムシャムシャ"],
     "definition": [{
       "equivalent": [
@@ -15652,10 +16109,11 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "musha musha"
+    "id": "musha_musha"
   },
   {
     "hiragana": ["むずむず"],
+    "romaji": ["muzu muzu"],
     "katakana": ["ムズムズ"],
     "definition": [{
       "equivalent": [
@@ -15678,10 +16136,11 @@
         "source": "eternal_fool_asley"
       }]
     }],
-    "literal": "muzu muzu"
+    "id": "muzu_muzu"
   },
   {
     "hiragana": ["なでなで"],
+    "romaji": ["nade nade"],
     "katakana": ["ナデナデ"],
     "definition": [{
       "equivalent": [
@@ -15722,10 +16181,11 @@
         }
       ]
     }],
-    "literal": "nade nade"
+    "id": "nade_nade"
   },
   {
     "hiragana": ["んちゅ"],
+    "romaji": ["nchu"],
     "katakana": ["ンチュ"],
     "definition": [{
       "equivalent": [
@@ -15744,10 +16204,11 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "nchu"
+    "id": "nchu"
   },
   {
     "hiragana": ["んふふ"],
+    "romaji": ["nfufu"],
     "katakana": ["ンフフ"],
     "definition": [{
       "equivalent": [
@@ -15775,10 +16236,11 @@
         }
       ]
     }],
-    "literal": "nfufu"
+    "id": "nfufu"
   },
   {
     "hiragana": ["んぐんぐ"],
+    "romaji": ["ngu ngu"],
     "katakana": ["ングング"],
     "definition": [{
       "equivalent": [
@@ -15799,10 +16261,11 @@
         "source": "reincarnated_as_a_dragon_egg"
       }]
     }],
-    "literal": "ngu ngu"
+    "id": "ngu_ngu"
   },
   {
     "hiragana": ["んひょほ"],
+    "romaji": ["nhyoho"],
     "katakana": ["ンヒョホ"],
     "definition": [{
       "equivalent": [
@@ -15821,13 +16284,14 @@
         "source": "paradise_shift"
       }]
     }],
-    "literal": "nhyoho"
+    "id": "nhyoho"
   },
   {
     "hiragana": [
       "に",
       "にっ"
     ],
+    "romaji": ["ni"],
     "katakana": [
       "ニ",
       "ニッ"
@@ -15857,10 +16321,11 @@
         }
       ]
     }],
-    "literal": "ni"
+    "id": "ni"
   },
   {
     "hiragana": ["じゃるじゃる"],
+    "romaji": ["nigiri nigiri"],
     "katakana": ["ニギリニギリ"],
     "definition": [{
       "equivalent": [
@@ -15882,7 +16347,7 @@
         "source": "singing_the_superstar"
       }]
     }],
-    "literal": "nigiri nigiri"
+    "id": "nigiri_nigiri"
   },
   {
     "hiragana": [
@@ -15891,6 +16356,7 @@
       "にこお",
       "にこぉ"
     ],
+    "romaji": ["niko"],
     "katakana": [
       "ニコ",
       "ニコッ",
@@ -15939,13 +16405,14 @@
         }
       ]
     }],
-    "literal": "niko"
+    "id": "niko"
   },
   {
     "hiragana": [
       "にこにこ",
       "にっこにっこ"
     ],
+    "romaji": ["niko niko"],
     "katakana": [
       "ニコニコ",
       "ニッコニッコ"
@@ -15970,13 +16437,14 @@
         }
       ]
     }],
-    "literal": "niko niko"
+    "id": "niko_niko"
   },
   {
     "hiragana": [
       "にま",
       "にまま"
     ],
+    "romaji": ["nima"],
     "katakana": [
       "ニマ",
       "ニママ"
@@ -15998,13 +16466,14 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "nima"
+    "id": "nima"
   },
   {
     "hiragana": [
       "にや",
       "にやっ"
     ],
+    "romaji": ["niya"],
     "katakana": [
       "ニヤ",
       "ニヤッ"
@@ -16028,13 +16497,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "niya"
+    "id": "niya"
   },
   {
     "hiragana": [
       "にやにや",
       "にやにやっ"
     ],
+    "romaji": ["niya niya"],
     "katakana": [
       "ニヤニヤ",
       "ニヤニヤッ"
@@ -16051,13 +16521,14 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "niya niya"
+    "id": "niya_niya"
   },
   {
     "hiragana": [
       "んま",
       "んまっ"
     ],
+    "romaji": ["nma"],
     "katakana": [
       "ンマ",
       "ンマッ"
@@ -16078,13 +16549,14 @@
         "source": "kuma_kuma_kuma_bear"
       }]
     }],
-    "literal": "nma"
+    "id": "nma"
   },
   {
     "hiragana": [
       "のり",
       "のりっ"
     ],
+    "romaji": ["nori"],
     "katakana": [
       "ノリ",
       "ノリッ"
@@ -16105,10 +16577,11 @@
         "source": "isekai_av_filming"
       }]
     }],
-    "literal": "nori"
+    "id": "nori"
   },
   {
     "hiragana": ["のそっ"],
+    "romaji": ["noso"],
     "katakana": ["ノソッ"],
     "definition": [{
       "equivalent": [
@@ -16137,10 +16610,11 @@
         "source": "pokemon_xy_break"
       }]
     }],
-    "literal": "noso"
+    "id": "noso"
   },
   {
     "hiragana": ["のそのそ"],
+    "romaji": ["noso noso"],
     "katakana": ["ノソノソ"],
     "definition": [{
       "equivalent": [
@@ -16169,13 +16643,14 @@
         "source": "hone_dragon"
       }]
     }],
-    "literal": "noso noso"
+    "id": "noso_noso"
   },
   {
     "hiragana": [
       "ぬ",
       "ぬっ"
     ],
+    "romaji": ["nu"],
     "katakana": [
       "ヌ",
       "ヌッ"
@@ -16201,10 +16676,11 @@
         "source": "kaijuu_sdf"
       }]
     }],
-    "literal": "nu"
+    "id": "nu"
   },
   {
     "hiragana": ["ぬらぬら"],
+    "romaji": ["nura"],
     "katakana": ["ヌラ"],
     "definition": [{
       "equivalent": [
@@ -16226,13 +16702,14 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "nura"
+    "id": "nura"
   },
   {
     "hiragana": [
       "ぬり",
       "ぬりっ"
     ],
+    "romaji": ["nuri"],
     "katakana": [
       "ヌリ",
       "ヌリッ"
@@ -16257,13 +16734,14 @@
         "source": "gyaru_academy"
       }]
     }],
-    "literal": "nuri"
+    "id": "nuri"
   },
   {
     "hiragana": [
       "ぬるん",
       "ぬるんっ"
     ],
+    "romaji": ["nurun"],
     "katakana": [
       "ヌルン",
       "ヌルンッ"
@@ -16286,7 +16764,7 @@
         "source": "isekai_av_filming"
       }]
     }],
-    "literal": "nurun"
+    "id": "nurun"
   },
   {
     "hiragana": [
@@ -16296,6 +16774,7 @@
       "にゃあ",
       "にゃああ"
     ],
+    "romaji": ["nya"],
     "katakana": [
       "ニャ",
       "ニャァ",
@@ -16328,13 +16807,14 @@
         }
       ]
     }],
-    "literal": "nya"
+    "id": "nya"
   },
   {
     "hiragana": [
       "にゃん",
       "にゃーん"
     ],
+    "romaji": ["nyan"],
     "katakana": [
       "ニャン",
       "ニャーン"
@@ -16351,10 +16831,11 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "nyan"
+    "id": "nyan"
   },
   {
     "hiragana": ["にゃにゃ"],
+    "romaji": ["nya nya"],
     "katakana": ["ニャニャ"],
     "definition": [{
       "equivalent": [""],
@@ -16376,13 +16857,14 @@
         }
       ]
     }],
-    "literal": "nya nya"
+    "id": "nya_nya"
   },
   {
     "hiragana": [
       "にぃ",
       "にい"
     ],
+    "romaji": ["nyi"],
     "katakana": [
       "ニィ",
       "ニイ"
@@ -16421,10 +16903,11 @@
         }
       ]
     }],
-    "literal": "nyi"
+    "id": "nyi"
   },
   {
     "hiragana": ["にゅ"],
+    "romaji": ["nyu"],
     "katakana": ["ニュ"],
     "definition": [{
       "equivalent": [
@@ -16448,7 +16931,7 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "nyu"
+    "id": "nyu"
   },
   {
     "hiragana": [
@@ -16459,6 +16942,7 @@
       "おおお",
       "おおおっ"
     ],
+    "romaji": ["o"],
     "katakana": [
       "オ",
       "オッ",
@@ -16520,10 +17004,11 @@
         }]
       }
     ],
-    "literal": "o"
+    "id": "o"
   },
   {
     "hiragana": ["おろおろ"],
+    "romaji": ["oro oro"],
     "katakana": ["オロオロ"],
     "definition": [{
       "equivalent": [
@@ -16556,7 +17041,7 @@
         }
       ]
     }],
-    "literal": "oro oro"
+    "id": "oro_oro"
   },
   {
     "hiragana": [
@@ -16568,6 +17053,7 @@
       "ぱぁっ",
       "ぱああ"
     ],
+    "romaji": ["pa"],
     "katakana": [
       "パ",
       "パッ",
@@ -16661,13 +17147,14 @@
         }]
       }
     ],
-    "literal": "pa"
+    "id": "pa"
   },
   {
     "hiragana": [
       "ぱち",
       "ぱちっ"
     ],
+    "romaji": ["pachi"],
     "katakana": [
       "パチ",
       "パチッ"
@@ -16746,13 +17233,14 @@
         ]
       }
     ],
-    "literal": "pachi"
+    "id": "pachi"
   },
   {
     "hiragana": [
       "ぱちん",
       "ぱちんっ"
     ],
+    "romaji": ["pachin"],
     "katakana": [
       "パチン",
       "パチンッ"
@@ -16777,13 +17265,14 @@
         }
       ]
     }],
-    "literal": "pachin"
+    "id": "pachin"
   },
   {
     "hiragana": [
       "ぱちぱち",
       "ぱちっぱちっ"
     ],
+    "romaji": ["pachi pachi"],
     "katakana": [
       "パチパチ",
       "パチッパチッ"
@@ -16864,13 +17353,14 @@
         }]
       }
     ],
-    "literal": "pachi pachi"
+    "id": "pachi_pachi"
   },
   {
     "hiragana": [
       "ぱか",
       "ぱかっ"
     ],
+    "romaji": ["paka"],
     "katakana": [
       "パカ",
       "パカッ"
@@ -16906,13 +17396,14 @@
         }
       ]
     }],
-    "literal": "paka"
+    "id": "paka"
   },
   {
     "hiragana": [
       "ぱから",
       "ぱからっ"
     ],
+    "romaji": ["pakara"],
     "katakana": [
       "パカラ",
       "パカラッ"
@@ -16935,13 +17426,14 @@
         "source": "shogun_gold_in_america"
       }]
     }],
-    "literal": "pakara"
+    "id": "pakara"
   },
   {
     "hiragana": [
       "ぱき",
       "ぱきっ"
     ],
+    "romaji": ["paki"],
     "katakana": [
       "パキ",
       "パキッ"
@@ -16972,13 +17464,14 @@
         }
       ]
     }],
-    "literal": "paki"
+    "id": "paki"
   },
   {
     "hiragana": [
       "ぱく",
       "ぱくっ"
     ],
+    "romaji": ["paku"],
     "katakana": [
       "パク",
       "パクッ"
@@ -17012,13 +17505,14 @@
         }
       ]
     }],
-    "literal": "paku"
+    "id": "paku"
   },
   {
     "hiragana": [
       "ぱくぱく",
       "ぱくっぱくっ"
     ],
+    "romaji": ["paku paku"],
     "katakana": [
       "パクパク",
       "パクッパクッ"
@@ -17035,7 +17529,7 @@
         "source": "kuma_kuma_kuma_bear"
       }]
     }],
-    "literal": "paku paku"
+    "id": "paku_paku"
   },
   {
     "hiragana": [
@@ -17044,6 +17538,7 @@
       "ぱぁん",
       "ぱぁんっ"
     ],
+    "romaji": ["pan"],
     "katakana": [
       "パン",
       "パンッ",
@@ -17094,13 +17589,14 @@
         }
       ]
     }],
-    "literal": "pan"
+    "id": "pan"
   },
   {
     "hiragana": [
       "ぱんぱん",
       "ぱんっぱんっ"
     ],
+    "romaji": ["pan pan"],
     "katakana": [
       "パンパン",
       "パンッパンッ"
@@ -17131,7 +17627,7 @@
         }
       ]
     }],
-    "literal": "pan pan"
+    "id": "pan_pan"
   },
   {
     "hiragana": [
@@ -17139,6 +17635,7 @@
       "ぱらら",
       "ぱららら"
     ],
+    "romaji": ["para"],
     "katakana": [
       "パラ",
       "パララ",
@@ -17182,10 +17679,11 @@
         }
       ]
     }],
-    "literal": "para"
+    "id": "para"
   },
   {
     "hiragana": ["ぱらぱら"],
+    "romaji": ["para para"],
     "katakana": ["パラパラ"],
     "definition": [
       {
@@ -17229,7 +17727,7 @@
         }]
       }
     ],
-    "literal": "para para"
+    "id": "para_para"
   },
   {
     "hiragana": [
@@ -17238,6 +17736,7 @@
       "ぱさっ",
       "ぱさぁっ"
     ],
+    "romaji": ["pasa"],
     "katakana": [
       "パサ",
       "パサァ",
@@ -17278,10 +17777,11 @@
         }
       ]
     }],
-    "literal": "pasa"
+    "id": "pasa"
   },
   {
     "hiragana": ["ぱしゃ"],
+    "romaji": ["pasha"],
     "katakana": ["パシャ"],
     "definition": [
       {
@@ -17342,13 +17842,14 @@
         ]
       }
     ],
-    "literal": "pasha"
+    "id": "pasha"
   },
   {
     "hiragana": [
       "ぱし",
       "ぱしっ"
     ],
+    "romaji": ["pashi"],
     "katakana": [
       "パシ",
       "パシッ"
@@ -17402,13 +17903,14 @@
         }]
       }
     ],
-    "literal": "pashi"
+    "id": "pashi"
   },
   {
     "hiragana": [
       "ぱしぱし",
       "ぱしっぱしっ"
     ],
+    "romaji": ["pashi pashi"],
     "katakana": [
       "パシパシ",
       "パシッパシッ"
@@ -17452,13 +17954,14 @@
         }]
       }
     ],
-    "literal": "pashi pashi"
+    "id": "pashi_pashi"
   },
   {
     "hiragana": [
       "ぱた",
       "ぱたっ"
     ],
+    "romaji": ["pata"],
     "katakana": [
       "パタ",
       "パタッ"
@@ -17486,13 +17989,14 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "pata"
+    "id": "pata"
   },
   {
     "hiragana": [
       "ぱたん",
       "ぱたんっ"
     ],
+    "romaji": ["patan"],
     "katakana": [
       "パタン",
       "パタンッ"
@@ -17548,10 +18052,11 @@
         }]
       }
     ],
-    "literal": "patan"
+    "id": "patan"
   },
   {
     "hiragana": ["ぱたた"],
+    "romaji": ["patata"],
     "katakana": ["パタタ"],
     "definition": [{
       "equivalent": [
@@ -17572,10 +18077,11 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "patata"
+    "id": "patata"
   },
   {
     "hiragana": ["ぱたぱた"],
+    "romaji": ["pata pata"],
     "katakana": ["パタパタ"],
     "definition": [{
       "equivalent": [
@@ -17605,10 +18111,11 @@
         }
       ]
     }],
-    "literal": "pata pata"
+    "id": "pata_pata"
   },
   {
     "hiragana": ["ぱっぱっ"],
+    "romaji": ["pa pa"],
     "katakana": ["パッパッ"],
     "definition": [{
       "equivalent": [""],
@@ -17622,13 +18129,14 @@
         "source": "kuma_kuma_kuma_bear"
       }]
     }],
-    "literal": "pa pa"
+    "id": "pa_pa"
   },
   {
     "hiragana": [
       "ぺ",
       "ぺっ"
     ],
+    "romaji": ["pe"],
     "katakana": [
       "ペ",
       "ペッ"
@@ -17655,13 +18163,14 @@
         "source": "berserk"
       }]
     }],
-    "literal": "pe"
+    "id": "pe"
   },
   {
     "hiragana": [
       "ぺち",
       "ぺちっ"
     ],
+    "romaji": ["pechi"],
     "katakana": [
       "ペチ",
       "ペチッ"
@@ -17688,7 +18197,7 @@
         "source": "eternal_fool_asley"
       }]
     }],
-    "literal": "pechi"
+    "id": "pechi"
   },
   {
     "hiragana": [
@@ -17696,6 +18205,7 @@
       "ぺかっ",
       "ぺかーっ"
     ],
+    "romaji": ["peka"],
     "katakana": [
       "ペカ",
       "ペカッ",
@@ -17721,13 +18231,14 @@
         "source": "pokemon_xy_break"
       }]
     }],
-    "literal": "peka"
+    "id": "peka"
   },
   {
     "hiragana": [
       "ぺこ",
       "ぺこっ"
     ],
+    "romaji": ["peko"],
     "katakana": [
       "ペコ",
       "ペコッ"
@@ -17770,10 +18281,11 @@
         }
       ]
     }],
-    "literal": "peko"
+    "id": "peko"
   },
   {
     "hiragana": ["ぺこぺこ"],
+    "romaji": ["peko peko"],
     "katakana": ["ペコペコ"],
     "definition": [{
       "equivalent": [
@@ -17806,13 +18318,14 @@
         }
       ]
     }],
-    "literal": "peko peko"
+    "id": "peko_peko"
   },
   {
     "hiragana": [
       "ぺら",
       "ぺらっ"
     ],
+    "romaji": ["pera"],
     "katakana": [
       "ペラ",
       "ペラッ"
@@ -17837,10 +18350,11 @@
         }
       ]
     }],
-    "literal": "pera"
+    "id": "pera"
   },
   {
     "hiragana": ["ぺらぺら"],
+    "romaji": ["pera pera"],
     "katakana": ["ペラペラ"],
     "definition": [
       {
@@ -17893,13 +18407,14 @@
         }]
       }
     ],
-    "literal": "pera pera"
+    "id": "pera_pera"
   },
   {
     "hiragana": [
       "ぺろ",
       "ぺろっ"
     ],
+    "romaji": ["pero"],
     "katakana": [
       "ペロ",
       "ペロッ"
@@ -17935,10 +18450,11 @@
         }
       ]
     }],
-    "literal": "pero"
+    "id": "pero"
   },
   {
     "hiragana": ["ぺろん"],
+    "romaji": ["peron"],
     "katakana": ["ペロン"],
     "definition": [
       {
@@ -17980,10 +18496,11 @@
         }]
       }
     ],
-    "literal": "peron"
+    "id": "peron"
   },
   {
     "hiragana": ["ぺろぺろ"],
+    "romaji": ["pero pero"],
     "katakana": ["ペロペロ"],
     "definition": [{
       "equivalent": [""],
@@ -18005,13 +18522,14 @@
         }
       ]
     }],
-    "literal": "pero pero"
+    "id": "pero_pero"
   },
   {
     "hiragana": [
       "ぺし",
       "ぺしっ"
     ],
+    "romaji": ["peshi"],
     "katakana": [
       "ペシ",
       "ペシッ"
@@ -18034,10 +18552,11 @@
         "source": "hikaro_no_go"
       }]
     }],
-    "literal": "peshi"
+    "id": "peshi"
   },
   {
     "hiragana": ["ぺしぺし"],
+    "romaji": ["peshi peshi"],
     "katakana": ["ペシペシ"],
     "definition": [{
       "equivalent": [""],
@@ -18059,13 +18578,14 @@
         }
       ]
     }],
-    "literal": "peshi peshi"
+    "id": "peshi_peshi"
   },
   {
     "hiragana": [
       "ぺた",
       "ぺたっ"
     ],
+    "romaji": ["peta"],
     "katakana": [
       "ペタ",
       "ペタッ"
@@ -18088,13 +18608,14 @@
         "source": "world_full_of_zombies"
       }]
     }],
-    "literal": "peta"
+    "id": "peta"
   },
   {
     "hiragana": [
       "ぺたん",
       "ぺたんっ"
     ],
+    "romaji": ["petan"],
     "katakana": [
       "ペタン",
       "ペタンッ"
@@ -18123,10 +18644,11 @@
         "source": "strongest_failure_frame"
       }]
     }],
-    "literal": "petan"
+    "id": "petan"
   },
   {
     "hiragana": ["ぺたぺた"],
+    "romaji": ["peta peta"],
     "katakana": ["ペタペタ"],
     "definition": [
       {
@@ -18163,13 +18685,14 @@
         }]
       }
     ],
-    "literal": "peta peta"
+    "id": "peta_peta"
   },
   {
     "hiragana": [
       "ぴ",
       "ぴっ"
     ],
+    "romaji": ["pi"],
     "katakana": [
       "ピ",
       "ピッ"
@@ -18243,10 +18766,11 @@
         ]
       }
     ],
-    "literal": "pi"
+    "id": "pi"
   },
   {
     "hiragana": ["ぴちゃん"],
+    "romaji": ["pichan"],
     "katakana": ["ピチャン"],
     "definition": [{
       "equivalent": [
@@ -18268,10 +18792,11 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "pichan"
+    "id": "pichan"
   },
   {
     "hiragana": ["ぴちゃぴちゃ"],
+    "romaji": ["picha picha"],
     "katakana": ["ピチャピチャ"],
     "definition": [{
       "equivalent": [
@@ -18290,10 +18815,11 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "picha picha"
+    "id": "picha_picha"
   },
   {
     "hiragana": ["ぴちぴち"],
+    "romaji": ["pichi pichi"],
     "katakana": ["ピチピチ"],
     "definition": [{
       "equivalent": [
@@ -18315,13 +18841,14 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "pichi pichi"
+    "id": "pichi_pichi"
   },
   {
     "hiragana": [
       "ぴちょん",
       "ぴちょーん"
     ],
+    "romaji": ["pichon"],
     "katakana": [
       "ピチョン",
       "ピチョーン"
@@ -18338,7 +18865,7 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "pichon"
+    "id": "pichon"
   },
   {
     "hiragana": [
@@ -18347,6 +18874,7 @@
       "ぴかー",
       "ぴかーっ"
     ],
+    "romaji": ["pika"],
     "katakana": [
       "ピカ",
       "ピカッ",
@@ -18384,13 +18912,14 @@
         }
       ]
     }],
-    "literal": "pika"
+    "id": "pika"
   },
   {
     "hiragana": [
       "ぴき",
       "ぴきっ"
     ],
+    "romaji": ["piki"],
     "katakana": [
       "ピキ",
       "ピキッ"
@@ -18445,13 +18974,14 @@
         ]
       }
     ],
-    "literal": "piki"
+    "id": "piki"
   },
   {
     "hiragana": [
       "ぴきん",
       "ぴきーん"
     ],
+    "romaji": ["pikin"],
     "katakana": [
       "ピキン",
       "ピキーン"
@@ -18475,7 +19005,7 @@
         "source": "blazing_fire_brigade"
       }]
     }],
-    "literal": "pikin"
+    "id": "pikin"
   },
   {
     "hiragana": [
@@ -18483,6 +19013,7 @@
       "ぴきぴきっ",
       "ぴきっぴきっ"
     ],
+    "romaji": ["piki piki"],
     "katakana": [
       "ピキピキ",
       "ピキピキッ",
@@ -18500,13 +19031,14 @@
         "source": "abandoned_reincarnation_sage"
       }]
     }],
-    "literal": "piki piki"
+    "id": "piki_piki"
   },
   {
     "hiragana": [
       "ぴこ",
       "ぴこっ"
     ],
+    "romaji": ["piko"],
     "katakana": [
       "ピコ",
       "ピコッ"
@@ -18529,13 +19061,14 @@
         "source": "uncle_at_heart"
       }]
     }],
-    "literal": "piko"
+    "id": "piko"
   },
   {
     "hiragana": [
       "ぴこん",
       "ぴこーん"
     ],
+    "romaji": ["pikon"],
     "katakana": [
       "ピコン",
       "ピコーン"
@@ -18590,10 +19123,11 @@
         ]
       }
     ],
-    "literal": "pikon"
+    "id": "pikon"
   },
   {
     "hiragana": ["ぴこぴこ"],
+    "romaji": ["piko piko"],
     "katakana": ["ピコピコ"],
     "definition": [{
       "equivalent": [
@@ -18613,13 +19147,14 @@
         "source": "neet_kunoichi"
       }]
     }],
-    "literal": "piko piko"
+    "id": "piko_piko"
   },
   {
     "hiragana": [
       "ぴく",
       "ぴくっ"
     ],
+    "romaji": ["piku"],
     "katakana": [
       "ピク",
       "ピクッ"
@@ -18697,10 +19232,11 @@
         }]
       }
     ],
-    "literal": "piku"
+    "id": "piku"
   },
   {
     "hiragana": ["ぴくぴく"],
+    "romaji": ["piku piku"],
     "katakana": ["ピクピク"],
     "definition": [{
       "equivalent": [
@@ -18721,7 +19257,7 @@
         "source": "kuma_kuma_kuma_bear"
       }]
     }],
-    "literal": "piku piku"
+    "id": "piku_piku"
   },
   {
     "hiragana": [
@@ -18730,6 +19266,7 @@
       "ぴいん",
       "ぴいいん"
     ],
+    "romaji": ["pin"],
     "katakana": [
       "ピン",
       "ピーン",
@@ -18819,13 +19356,14 @@
         }]
       }
     ],
-    "literal": "pin"
+    "id": "pin"
   },
   {
     "hiragana": [
       "ぴんぽん",
       "ぴんぽーん"
     ],
+    "romaji": ["pin pon"],
     "katakana": [
       "ピンポン",
       "ピンポーン"
@@ -18850,7 +19388,7 @@
         }
       ]
     }],
-    "literal": "pin pon"
+    "id": "pin_pon"
   },
   {
     "hiragana": [
@@ -18859,6 +19397,7 @@
       "ぴっぴっ",
       "ぴっぴっぴっ"
     ],
+    "romaji": ["pipi"],
     "katakana": [
       "ピピ",
       "ピピピ",
@@ -18894,13 +19433,14 @@
         }
       ]
     }],
-    "literal": "pipi"
+    "id": "pipi"
   },
   {
     "hiragana": [
       "ぴら",
       "ぴらっ"
     ],
+    "romaji": ["pira"],
     "katakana": [
       "ピラ",
       "ピラッ"
@@ -18933,10 +19473,11 @@
         }
       ]
     }],
-    "literal": "pira"
+    "id": "pira"
   },
   {
     "hiragana": ["ぴろりん"],
+    "romaji": ["pirorin"],
     "katakana": ["ピロリン"],
     "definition": [{
       "equivalent": [
@@ -18958,13 +19499,14 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "pirorin"
+    "id": "pirorin"
   },
   {
     "hiragana": [
       "ぴるる",
       "ぴるるる"
     ],
+    "romaji": ["piruru"],
     "katakana": [
       "ピルル",
       "ピルルル"
@@ -18981,13 +19523,14 @@
         "source": "way_of_isekai_cooking"
       }]
     }],
-    "literal": "piruru"
+    "id": "piruru"
   },
   {
     "hiragana": [
       "ぴしゃ",
       "ぴしゃっ"
     ],
+    "romaji": ["pisha"],
     "katakana": [
       "ピシャ",
       "ピシャッ"
@@ -19013,13 +19556,14 @@
         "source": "uncle_at_heart"
       }]
     }],
-    "literal": "pisha"
+    "id": "pisha"
   },
   {
     "hiragana": [
       "ぴしゃん",
       "ぴしゃーん"
     ],
+    "romaji": ["pishan"],
     "katakana": [
       "ピシャン",
       "ピシャーン"
@@ -19036,13 +19580,14 @@
         "source": "simple_sword_saint"
       }]
     }],
-    "literal": "pishan"
+    "id": "pishan"
   },
   {
     "hiragana": [
       "ぴし",
       "ぴしっ"
     ],
+    "romaji": ["pishi"],
     "katakana": [
       "ピシ",
       "ピシッ"
@@ -19129,13 +19674,14 @@
         }]
       }
     ],
-    "literal": "pishi"
+    "id": "pishi"
   },
   {
     "hiragana": [
       "ぴた",
       "ぴたっ"
     ],
+    "romaji": ["pita"],
     "katakana": [
       "ピタ",
       "ピタッ"
@@ -19173,13 +19719,14 @@
         }
       ]
     }],
-    "literal": "pita"
+    "id": "pita"
   },
   {
     "hiragana": [
       "ぴと",
       "ぴとっ"
     ],
+    "romaji": ["pito"],
     "katakana": [
       "ピト",
       "ピトッ"
@@ -19216,7 +19763,7 @@
         }
       ]
     }],
-    "literal": "pito"
+    "id": "pito"
   },
   {
     "hiragana": [
@@ -19225,6 +19772,7 @@
       "ぽー",
       "ぽーっ"
     ],
+    "romaji": ["po"],
     "katakana": [
       "ポ",
       "ポッ",
@@ -19290,10 +19838,11 @@
         }]
       }
     ],
-    "literal": "po"
+    "id": "po"
   },
   {
     "hiragana": ["ぽちゃん"],
+    "romaji": ["pochan"],
     "katakana": ["ポチャン"],
     "definition": [{
       "equivalent": [""],
@@ -19307,13 +19856,14 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "pochan"
+    "id": "pochan"
   },
   {
     "hiragana": [
       "ぽふ",
       "ぽふっ"
     ],
+    "romaji": ["pofu"],
     "katakana": [
       "ポフ",
       "ポフッ"
@@ -19337,7 +19887,7 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "pofu"
+    "id": "pofu"
   },
   {
     "hiragana": [
@@ -19346,6 +19896,7 @@
       "ぽぃ",
       "ぽぃっ"
     ],
+    "romaji": ["poi"],
     "katakana": [
       "ポイ",
       "ポイッ",
@@ -19391,13 +19942,14 @@
         }
       ]
     }],
-    "literal": "poi"
+    "id": "poi"
   },
   {
     "hiragana": [
       "ぽぃん",
       "ぽぃんっ"
     ],
+    "romaji": ["poin"],
     "katakana": [
       "ポィン",
       "ポィンッ"
@@ -19424,10 +19976,11 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "poin"
+    "id": "poin"
   },
   {
     "hiragana": ["ぽぃんぽぃん"],
+    "romaji": ["poin poin"],
     "katakana": ["ポィンポィン"],
     "definition": [{
       "equivalent": [""],
@@ -19441,13 +19994,14 @@
         "source": "gyaru_academy"
       }]
     }],
-    "literal": "poin poin"
+    "id": "poin_poin"
   },
   {
     "hiragana": [
       "ぽか",
       "ぽかっ"
     ],
+    "romaji": ["poka"],
     "katakana": [
       "ポカ",
       "ポカッ"
@@ -19485,13 +20039,14 @@
         "source": "pokemon_xy_break"
       }]
     }],
-    "literal": "poka"
+    "id": "poka"
   },
   {
     "hiragana": [
       "ぽかん",
       "ぽかんっ"
     ],
+    "romaji": ["pokan"],
     "katakana": [
       "ポカン",
       "ポカンッ"
@@ -19518,10 +20073,11 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "pokan"
+    "id": "pokan"
   },
   {
     "hiragana": ["ぽこぽこ"],
+    "romaji": ["poko poko"],
     "katakana": ["ポコポコ"],
     "definition": [{
       "equivalent": [
@@ -19543,13 +20099,14 @@
         "source": "otherworld_material_collector"
       }]
     }],
-    "literal": "poko poko"
+    "id": "poko_poko"
   },
   {
     "hiragana": [
       "ぽん",
       "ぽんっ"
     ],
+    "romaji": ["pon"],
     "katakana": [
       "ポン",
       "ポンッ"
@@ -19645,13 +20202,14 @@
         }]
       }
     ],
-    "literal": "pon"
+    "id": "pon"
   },
   {
     "hiragana": [
       "ぽんぽん",
       "ぽんぽんっ"
     ],
+    "romaji": ["pon pon"],
     "katakana": [
       "ポンポン",
       "ポンポンッ"
@@ -19681,7 +20239,7 @@
         }
       ]
     }],
-    "literal": "pon pon"
+    "id": "pon_pon"
   },
   {
     "hiragana": [
@@ -19692,6 +20250,7 @@
       "ぽおお",
       "ぽおおお"
     ],
+    "romaji": ["poo"],
     "katakana": [
       "ポォ",
       "ポォォ",
@@ -19718,10 +20277,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "poo"
+    "id": "poo"
   },
   {
     "hiragana": ["ぽりぽり"],
+    "romaji": ["pori pori"],
     "katakana": ["ポリポリ"],
     "definition": [{
       "equivalent": [
@@ -19740,10 +20300,11 @@
         "source": "dog_became_strongest"
       }]
     }],
-    "literal": "pori pori"
+    "id": "pori_pori"
   },
   {
     "hiragana": ["ぽろ"],
+    "romaji": ["poro"],
     "katakana": ["ポロ"],
     "definition": [
       {
@@ -19795,10 +20356,11 @@
         }]
       }
     ],
-    "literal": "poro"
+    "id": "poro"
   },
   {
     "hiragana": ["ぽろぽろ"],
+    "romaji": ["poro poro"],
     "katakana": ["ポロポロ"],
     "definition": [{
       "equivalent": [""],
@@ -19826,13 +20388,14 @@
         }
       ]
     }],
-    "literal": "poro poro"
+    "id": "poro_poro"
   },
   {
     "hiragana": [
       "ぽと",
       "ぽとっ"
     ],
+    "romaji": ["poto"],
     "katakana": [
       "ポト",
       "ポトッ"
@@ -19849,13 +20412,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "poto"
+    "id": "poto"
   },
   {
     "hiragana": [
       "ぽつん",
       "ぽつーん"
     ],
+    "romaji": ["potsun"],
     "katakana": [
       "ポツン",
       "ポツーン"
@@ -19886,13 +20450,14 @@
         }
       ]
     }],
-    "literal": "potsun"
+    "id": "potsun"
   },
   {
     "hiragana": [
       "ぽう",
       "ぽぅ"
     ],
+    "romaji": ["pou"],
     "katakana": [
       "ポウ",
       "ポゥ"
@@ -19929,13 +20494,14 @@
         }
       ]
     }],
-    "literal": "pou"
+    "id": "pou"
   },
   {
     "hiragana": [
       "ぽうぽう",
       "ぽぅぽぅ"
     ],
+    "romaji": ["pou pou"],
     "katakana": [
       "ポウポウ",
       "ポゥポゥ"
@@ -19952,13 +20518,14 @@
         "source": "reincarnated_sage_daughters"
       }]
     }],
-    "literal": "pou pou"
+    "id": "pou_pou"
   },
   {
     "hiragana": [
       "ぽわん",
       "ぽゎあん"
     ],
+    "romaji": ["powan"],
     "katakana": [
       "ポワン",
       "ポヮアン"
@@ -19985,13 +20552,14 @@
         "source": "paradise_shift"
       }]
     }],
-    "literal": "powan"
+    "id": "powan"
   },
   {
     "hiragana": [
       "ぽゆん",
       "ぽゆゆん"
     ],
+    "romaji": ["poyun"],
     "katakana": [
       "ポユン",
       "ポユユン"
@@ -20013,7 +20581,7 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "poyun"
+    "id": "poyun"
   },
   {
     "hiragana": [
@@ -20024,6 +20592,7 @@
       "ぷううー",
       "ぷぅ"
     ],
+    "romaji": ["pu"],
     "katakana": [
       "プ",
       "プッ",
@@ -20111,13 +20680,14 @@
         }]
       }
     ],
-    "literal": "pu"
+    "id": "pu"
   },
   {
     "hiragana": [
       "ぷち",
       "ぷちっ"
     ],
+    "romaji": ["puchi"],
     "katakana": [
       "プチ",
       "プチッ"
@@ -20142,10 +20712,11 @@
         }
       ]
     }],
-    "literal": "puchi"
+    "id": "puchi"
   },
   {
     "hiragana": ["ぷちぷち"],
+    "romaji": ["puchi puchi"],
     "katakana": ["プチプチ"],
     "definition": [{
       "equivalent": [""],
@@ -20159,7 +20730,7 @@
         "source": "fushi_no_kami"
       }]
     }],
-    "literal": "puchi puchi"
+    "id": "puchi_puchi"
   },
   {
     "hiragana": [
@@ -20168,6 +20739,7 @@
       "ぷはー",
       "ぷはーっ"
     ],
+    "romaji": ["puha"],
     "katakana": [
       "プハ",
       "プハッ",
@@ -20219,13 +20791,14 @@
         ]
       }
     ],
-    "literal": "puha"
+    "id": "puha"
   },
   {
     "hiragana": [
       "ぷい",
       "ぷいっ"
     ],
+    "romaji": ["pui"],
     "katakana": [
       "プイ",
       "プイッ"
@@ -20254,13 +20827,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "pui"
+    "id": "pui"
   },
   {
     "hiragana": [
       "ぷく",
       "ぷくー"
     ],
+    "romaji": ["puku"],
     "katakana": [
       "プク",
       "プクー"
@@ -20291,13 +20865,14 @@
         }
       ]
     }],
-    "literal": "puku"
+    "id": "puku"
   },
   {
     "hiragana": [
       "ぷん",
       "ぷんっ"
     ],
+    "romaji": ["pun"],
     "katakana": [
       "プン",
       "プンッ"
@@ -20322,7 +20897,7 @@
         "source": "isekai_territory_reform"
       }]
     }],
-    "literal": "pun"
+    "id": "pun"
   },
   {
     "hiragana": [
@@ -20330,6 +20905,7 @@
       "ぷにっ",
       "ぷにぃ"
     ],
+    "romaji": ["puni"],
     "katakana": [
       "プニ",
       "プニッ",
@@ -20375,13 +20951,14 @@
         }
       ]
     }],
-    "literal": "puni"
+    "id": "puni"
   },
   {
     "hiragana": [
       "ぷにゅ",
       "ぷにゅっ"
     ],
+    "romaji": ["punyu"],
     "katakana": [
       "プニュ",
       "プニュッ"
@@ -20398,10 +20975,11 @@
         "source": "beastly_boys_and_girls"
       }]
     }],
-    "literal": "punyu"
+    "id": "punyu"
   },
   {
     "hiragana": ["ぷにゅぅん"],
+    "romaji": ["punyun"],
     "katakana": ["プニュゥン"],
     "definition": [{
       "equivalent": [""],
@@ -20415,7 +20993,7 @@
         "source": "gyaru_academy"
       }]
     }],
-    "literal": "punyun"
+    "id": "punyun"
   },
   {
     "hiragana": [
@@ -20425,6 +21003,7 @@
       "ぷるっ",
       "ぷるるっ"
     ],
+    "romaji": ["puru"],
     "katakana": [
       "プル",
       "プルル",
@@ -20482,13 +21061,14 @@
         }]
       }
     ],
-    "literal": "puru"
+    "id": "puru"
   },
   {
     "hiragana": [
       "ぷるん",
       "ぷるんっ"
     ],
+    "romaji": ["purun"],
     "katakana": [
       "プルン",
       "プルンッ"
@@ -20525,13 +21105,14 @@
         }
       ]
     }],
-    "literal": "purun"
+    "id": "purun"
   },
   {
     "hiragana": [
       "ぷるんぷるん",
       "ぷるんぷるんっ"
     ],
+    "romaji": ["purun purun"],
     "katakana": [
       "プルンプルン",
       "プルンプルンッ"
@@ -20548,10 +21129,11 @@
         "source": "gyaru_academy"
       }]
     }],
-    "literal": "purun purun"
+    "id": "purun_purun"
   },
   {
     "hiragana": ["ぷるぷる"],
+    "romaji": ["puru puru"],
     "katakana": ["プルプル"],
     "definition": [
       {
@@ -20599,13 +21181,14 @@
         ]
       }
     ],
-    "literal": "puru puru"
+    "id": "puru_puru"
   },
   {
     "hiragana": [
       "ぷしゅー",
       "ぷしゅーっ"
     ],
+    "romaji": ["pushu"],
     "katakana": [
       "プシュー",
       "プシューッ"
@@ -20645,13 +21228,14 @@
         }
       ]
     }],
-    "literal": "pushu"
+    "id": "pushu"
   },
   {
     "hiragana": [
       "ぷしゅぷしゅ",
       "ぷしゅっぷしゅっ"
     ],
+    "romaji": ["pushu pushu"],
     "katakana": [
       "プシュプシュ",
       "プシュップシュッ"
@@ -20675,10 +21259,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "pushu pushu"
+    "id": "pushu_pushu"
   },
   {
     "hiragana": ["ぷす"],
+    "romaji": ["pusu"],
     "katakana": ["プス"],
     "definition": [{
       "equivalent": [""],
@@ -20692,10 +21277,11 @@
         "source": "d_genesis"
       }]
     }],
-    "literal": "pusu"
+    "id": "pusu"
   },
   {
     "hiragana": ["ぷすぷす"],
+    "romaji": ["pusu pusu"],
     "katakana": ["プスプス"],
     "definition": [{
       "equivalent": [
@@ -20716,7 +21302,7 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "pusu pusu"
+    "id": "pusu_pusu"
   },
   {
     "hiragana": [
@@ -20724,6 +21310,7 @@
       "ぴゃっ",
       "ぴゃーっ"
     ],
+    "romaji": ["pya"],
     "katakana": [
       "ピャ",
       "ピャッ",
@@ -20751,13 +21338,14 @@
         "source": "reincarnated_as_a_dragon_egg"
       }]
     }],
-    "literal": "pya"
+    "id": "pya"
   },
   {
     "hiragana": [
       "ぴょこ",
       "ぴょこっ"
     ],
+    "romaji": ["pyoko"],
     "katakana": [
       "ピョコ",
       "ピョコッ"
@@ -20781,13 +21369,14 @@
         "source": "yojo_life"
       }]
     }],
-    "literal": "pyoko"
+    "id": "pyoko"
   },
   {
     "hiragana": [
       "ぴょこぴょこ",
       "ぴよこぴよこ"
     ],
+    "romaji": ["pyoko pyoko"],
     "katakana": [
       "ピョコピョコ",
       "ピヨコピヨコ"
@@ -20804,10 +21393,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "pyoko pyoko"
+    "id": "pyoko_pyoko"
   },
   {
     "hiragana": ["ぴょん"],
+    "romaji": ["pyon"],
     "katakana": ["ピョン"],
     "definition": [{
       "equivalent": [
@@ -20843,7 +21433,7 @@
         }
       ]
     }],
-    "literal": "pyon"
+    "id": "pyon"
   },
   {
     "hiragana": [
@@ -20852,6 +21442,7 @@
       "ぴゅー",
       "ぴゅーっ"
     ],
+    "romaji": ["pyu"],
     "katakana": [
       "ピュ",
       "ピュッ",
@@ -20902,10 +21493,11 @@
         }]
       }
     ],
-    "literal": "pyu"
+    "id": "pyu"
   },
   {
     "hiragana": ["ぴゅいん"],
+    "romaji": ["pyuin"],
     "katakana": ["ピュイン"],
     "definition": [{
       "equivalent": [
@@ -20926,10 +21518,11 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "pyuin"
+    "id": "pyuin"
   },
   {
     "hiragana": ["ぴゅん"],
+    "romaji": ["pyun"],
     "katakana": ["ピュン"],
     "definition": [{
       "equivalent": [
@@ -20952,10 +21545,11 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "pyun"
+    "id": "pyun"
   },
   {
     "hiragana": ["れろ"],
+    "romaji": ["rero"],
     "katakana": ["レロ"],
     "definition": [{
       "equivalent": [
@@ -20974,10 +21568,11 @@
         "source": "double_play"
       }]
     }],
-    "literal": "rero"
+    "id": "rero"
   },
   {
     "hiragana": ["れろれろ"],
+    "romaji": ["rero rero"],
     "katakana": ["レロレロ"],
     "definition": [{
       "equivalent": [""],
@@ -20991,13 +21586,14 @@
         "source": "gyaru_academy"
       }]
     }],
-    "literal": "rero rero"
+    "id": "rero_rero"
   },
   {
     "hiragana": [
       "りんごんりんごん",
       "りんごーんりんごーん"
     ],
+    "romaji": ["ringon ringon"],
     "katakana": [
       "リンゴンリンゴン",
       "リンゴーンリンゴーン"
@@ -21023,7 +21619,7 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "ringon ringon"
+    "id": "ringon_ringon"
   },
   {
     "hiragana": [
@@ -21038,6 +21634,7 @@
       "さああ",
       "さあっ"
     ],
+    "romaji": ["sa"],
     "katakana": [
       "サ",
       "サッ",
@@ -21168,10 +21765,11 @@
         ]
       }
     ],
-    "literal": "sa"
+    "id": "sa"
   },
   {
     "hiragana": ["さく"],
+    "romaji": ["saku"],
     "katakana": ["サク"],
     "definition": [{
       "equivalent": [
@@ -21191,13 +21789,14 @@
         "source": "a_rank_slow_life"
       }]
     }],
-    "literal": "saku"
+    "id": "saku"
   },
   {
     "hiragana": [
       "さん",
       "さんっ"
     ],
+    "romaji": ["san"],
     "katakana": [
       "サン",
       "サンッ"
@@ -21220,7 +21819,7 @@
         "source": "killed_by_gods_mistake"
       }]
     }],
-    "literal": "san"
+    "id": "san"
   },
   {
     "hiragana": [
@@ -21229,6 +21828,7 @@
       "さらぁ",
       "さらぁぁ"
     ],
+    "romaji": ["sara"],
     "katakana": [
       "サラ",
       "サラッ",
@@ -21268,13 +21868,14 @@
         }
       ]
     }],
-    "literal": "sara"
+    "id": "sara"
   },
   {
     "hiragana": [
       "さらり",
       "さらりっ"
     ],
+    "romaji": ["sarari"],
     "katakana": [
       "サラリ",
       "サラリッ"
@@ -21299,13 +21900,14 @@
         "source": "paradise_shift"
       }]
     }],
-    "literal": "sarari"
+    "id": "sarari"
   },
   {
     "hiragana": [
       "さわ",
       "さわっ"
     ],
+    "romaji": ["sawa"],
     "katakana": [
       "サワ",
       "サワッ"
@@ -21329,7 +21931,7 @@
         "source": "double_play"
       }]
     }],
-    "literal": "sawa"
+    "id": "sawa"
   },
   {
     "hiragana": [
@@ -21338,6 +21940,7 @@
       "さっさっ",
       "さささっ"
     ],
+    "romaji": ["sa sa"],
     "katakana": [
       "ササ",
       "ササッ",
@@ -21370,7 +21973,7 @@
         }]
       }
     ],
-    "literal": "sa sa"
+    "id": "sa_sa"
   },
   {
     "hiragana": [
@@ -21379,6 +21982,7 @@
       "しや",
       "しやっ"
     ],
+    "romaji": ["sha"],
     "katakana": [
       "シャ",
       "シャッ",
@@ -21415,13 +22019,14 @@
         }]
       }
     ],
-    "literal": "sha"
+    "id": "sha"
   },
   {
     "hiragana": [
       "しゃらん",
       "しゃらーん"
     ],
+    "romaji": ["sharan"],
     "katakana": [
       "シャラン",
       "シャラーン"
@@ -21444,10 +22049,11 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "sharan"
+    "id": "sharan"
   },
   {
     "hiragana": ["しくしく"],
+    "romaji": ["shiku shiku"],
     "katakana": ["シクシク"],
     "definition": [{
       "equivalent": [
@@ -21467,7 +22073,7 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "shiku shiku"
+    "id": "shiku_shiku"
   },
   {
     "hiragana": [
@@ -21475,6 +22081,7 @@
       "しーん",
       "しんっ"
     ],
+    "romaji": ["shin"],
     "katakana": [
       "シン",
       "シーン",
@@ -21521,10 +22128,11 @@
         }
       ]
     }],
-    "literal": "shin"
+    "id": "shin"
   },
   {
     "hiragana": ["しっしっ"],
+    "romaji": ["shi shi"],
     "katakana": ["シッシッ"],
     "definition": [{
       "equivalent": [
@@ -21543,13 +22151,14 @@
         "source": "fushi_no_kami"
       }]
     }],
-    "literal": "shi shi"
+    "id": "shi_shi"
   },
   {
     "hiragana": [
       "しょわ",
       "しょわわ"
     ],
+    "romaji": ["showa"],
     "katakana": [
       "ショワ",
       "ショワワ"
@@ -21579,7 +22188,7 @@
         "source": "uncle_at_heart"
       }]
     }],
-    "literal": "showa"
+    "id": "showa"
   },
   {
     "hiragana": [
@@ -21590,6 +22199,7 @@
       "しゅぃぃ",
       "しゅいい"
     ],
+    "romaji": ["shu"],
     "katakana": [
       "シュ",
       "シュッ",
@@ -21660,13 +22270,14 @@
         ]
       }
     ],
-    "literal": "shu"
+    "id": "shu"
   },
   {
     "hiragana": [
       "しゅば",
       "しゅばっ"
     ],
+    "romaji": ["shubba"],
     "katakana": [
       "シュバ",
       "シュバッ"
@@ -21689,7 +22300,7 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "shubba"
+    "id": "shubba"
   },
   {
     "hiragana": [
@@ -21697,6 +22308,7 @@
       "しゅんっ",
       "しゅーんっ"
     ],
+    "romaji": ["shun"],
     "katakana": [
       "シュン",
       "シュンッ",
@@ -21761,13 +22373,14 @@
         ]
       }
     ],
-    "literal": "shun"
+    "id": "shun"
   },
   {
     "hiragana": [
       "しゅる",
       "しゅるっ"
     ],
+    "romaji": ["shuru"],
     "katakana": [
       "シュル",
       "シュルッ"
@@ -21807,7 +22420,7 @@
         }
       ]
     }],
-    "literal": "shuru"
+    "id": "shuru"
   },
   {
     "hiragana": [
@@ -21816,6 +22429,7 @@
       "しゅしゅしゅ",
       "しゅしゅしゅっ"
     ],
+    "romaji": ["shu shu"],
     "katakana": [
       "シュシュ",
       "シュシュッ",
@@ -21834,7 +22448,7 @@
         "source": "yojo_life"
       }]
     }],
-    "literal": "shu shu"
+    "id": "shu_shu"
   },
   {
     "hiragana": [
@@ -21843,6 +22457,7 @@
       "そー",
       "そーっ"
     ],
+    "romaji": ["so"],
     "katakana": [
       "ソ",
       "ソッ",
@@ -21899,13 +22514,14 @@
         }]
       }
     ],
-    "literal": "so"
+    "id": "so"
   },
   {
     "hiragana": [
       "そわそわ",
       "そゎそゎ"
     ],
+    "romaji": ["sowa sowa"],
     "katakana": [
       "ソワソワ",
       "ソヮソヮ"
@@ -21933,7 +22549,7 @@
         "source": "embarrassing_and_sweet"
       }]
     }],
-    "literal": "sowa sowa"
+    "id": "sowa_sowa"
   },
   {
     "hiragana": [
@@ -21949,6 +22565,7 @@
       "すうう",
       "すううう"
     ],
+    "romaji": ["su"],
     "katakana": [
       "ス",
       "スッ",
@@ -22120,13 +22737,14 @@
         ]
       }
     ],
-    "literal": "su"
+    "id": "su"
   },
   {
     "hiragana": [
       "すちゃ",
       "すちゃっ"
     ],
+    "romaji": ["sucha"],
     "katakana": [
       "スチャ",
       "スチャッ"
@@ -22154,13 +22772,14 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "sucha"
+    "id": "sucha"
   },
   {
     "hiragana": [
       "すか",
       "すかっ"
     ],
+    "romaji": ["suka"],
     "katakana": [
       "スカ",
       "スカッ"
@@ -22213,13 +22832,14 @@
         }]
       }
     ],
-    "literal": "suka"
+    "id": "suka"
   },
   {
     "hiragana": [
       "すこん",
       "すこんっ"
     ],
+    "romaji": ["sukon"],
     "katakana": [
       "スコン",
       "スコンッ"
@@ -22251,13 +22871,14 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "sukon"
+    "id": "sukon"
   },
   {
     "hiragana": [
       "すく",
       "すくっ"
     ],
+    "romaji": ["suku"],
     "katakana": [
       "スク",
       "スクッ"
@@ -22288,13 +22909,14 @@
         }
       ]
     }],
-    "literal": "suku"
+    "id": "suku"
   },
   {
     "hiragana": [
       "すん",
       "すんっ"
     ],
+    "romaji": ["sun"],
     "katakana": [
       "スン",
       "スンッ"
@@ -22330,10 +22952,11 @@
         }
       ]
     }],
-    "literal": "sun"
+    "id": "sun"
   },
   {
     "hiragana": ["すんすん"],
+    "romaji": ["sun sun"],
     "katakana": ["スンスン"],
     "definition": [{
       "equivalent": [
@@ -22374,7 +22997,7 @@
         }
       ]
     }],
-    "literal": "sun sun"
+    "id": "sun_sun"
   },
   {
     "hiragana": [
@@ -22383,6 +23006,7 @@
       "すぱー",
       "すぱーっ"
     ],
+    "romaji": ["supa"],
     "katakana": [
       "スパ",
       "スパッ",
@@ -22414,10 +23038,11 @@
         }
       ]
     }],
-    "literal": "supa"
+    "id": "supa"
   },
   {
     "hiragana": ["すぱん"],
+    "romaji": ["supan"],
     "katakana": ["スパン"],
     "definition": [{
       "equivalent": [""],
@@ -22431,13 +23056,14 @@
         "source": "strongest_thread_master"
       }]
     }],
-    "literal": "supan"
+    "id": "supan"
   },
   {
     "hiragana": [
       "すぴ",
       "すぴー"
     ],
+    "romaji": ["supi"],
     "katakana": [
       "スピ",
       "スピー"
@@ -22467,13 +23093,14 @@
         }
       ]
     }],
-    "literal": "supi"
+    "id": "supi"
   },
   {
     "hiragana": [
       "すぴ",
       "すぴー"
     ],
+    "romaji": ["supi supi"],
     "katakana": [
       "スピ",
       "スピー"
@@ -22490,13 +23117,14 @@
         "source": "dog_became_strongest"
       }]
     }],
-    "literal": "supi supi"
+    "id": "supi_supi"
   },
   {
     "hiragana": [
       "すり",
       "すりっ"
     ],
+    "romaji": ["suri"],
     "katakana": [
       "スリ",
       "スリッ"
@@ -22523,13 +23151,14 @@
         "source": "embarrassing_and_sweet"
       }]
     }],
-    "literal": "suri"
+    "id": "suri"
   },
   {
     "hiragana": [
       "すりすり",
       "すりっすりっ"
     ],
+    "romaji": ["suri suri"],
     "katakana": [
       "スリスリ",
       "スリッスリッ"
@@ -22546,13 +23175,14 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "suri suri"
+    "id": "suri_suri"
   },
   {
     "hiragana": [
       "する",
       "するっ"
     ],
+    "romaji": ["suru"],
     "katakana": [
       "スル",
       "スルッ"
@@ -22577,10 +23207,11 @@
         }
       ]
     }],
-    "literal": "suru"
+    "id": "suru"
   },
   {
     "hiragana": ["するする"],
+    "romaji": ["suru suru"],
     "katakana": ["スルスル"],
     "definition": [{
       "equivalent": [""],
@@ -22594,13 +23225,14 @@
         "source": "s_rank_behemoth"
       }]
     }],
-    "literal": "suru suru"
+    "id": "suru_suru"
   },
   {
     "hiragana": [
       "すた",
       "すたっ"
     ],
+    "romaji": ["suta"],
     "katakana": [
       "スタ",
       "スタッ"
@@ -22634,13 +23266,14 @@
         }
       ]
     }],
-    "literal": "suta"
+    "id": "suta"
   },
   {
     "hiragana": [
       "すたん",
       "すたーん"
     ],
+    "romaji": ["sutan"],
     "katakana": [
       "スタン",
       "スターン"
@@ -22667,10 +23300,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "sutan"
+    "id": "sutan"
   },
   {
     "hiragana": ["すたすた"],
+    "romaji": ["suta suta"],
     "katakana": ["スタスタ"],
     "definition": [{
       "equivalent": [
@@ -22698,13 +23332,14 @@
         }
       ]
     }],
-    "literal": "suta suta"
+    "id": "suta_suta"
   },
   {
     "hiragana": [
       "すてん",
       "すてーん"
     ],
+    "romaji": ["suten"],
     "katakana": [
       "ステン",
       "ステーン"
@@ -22721,13 +23356,14 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "suten"
+    "id": "suten"
   },
   {
     "hiragana": [
       "すと",
       "すとっ"
     ],
+    "romaji": ["suto"],
     "katakana": [
       "スト",
       "ストッ"
@@ -22753,10 +23389,11 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "suto"
+    "id": "suto"
   },
   {
     "hiragana": ["すとん"],
+    "romaji": ["suton"],
     "katakana": ["ストン"],
     "definition": [
       {
@@ -22806,13 +23443,14 @@
         }]
       }
     ],
-    "literal": "suton"
+    "id": "suton"
   },
   {
     "hiragana": [
       "すは",
       "すーはー"
     ],
+    "romaji": ["su ha"],
     "katakana": [
       "スハ",
       "スーハー"
@@ -22834,7 +23472,7 @@
         "source": "isekai_pickup"
       }]
     }],
-    "literal": "su ha"
+    "id": "su_ha"
   },
   {
     "hiragana": [
@@ -22843,6 +23481,7 @@
       "すうすう",
       "すぅすぅ"
     ],
+    "romaji": ["su su"],
     "katakana": [
       "スス",
       "ススス",
@@ -22894,7 +23533,7 @@
         }]
       }
     ],
-    "literal": "su su"
+    "id": "su_su"
   },
   {
     "hiragana": [
@@ -22903,6 +23542,7 @@
       "たー",
       "たーっ"
     ],
+    "romaji": ["ta"],
     "katakana": [
       "タ",
       "タッ",
@@ -22976,13 +23616,14 @@
         }]
       }
     ],
-    "literal": "ta"
+    "id": "ta"
   },
   {
     "hiragana": [
       "たん",
       "たんっ"
     ],
+    "romaji": ["tan"],
     "katakana": [
       "タン",
       "タンッ"
@@ -23019,13 +23660,14 @@
         }
       ]
     }],
-    "literal": "tan"
+    "id": "tan"
   },
   {
     "hiragana": [
       "たぷん",
       "たぷんっ"
     ],
+    "romaji": ["tapun"],
     "katakana": [
       "タプン",
       "タプンッ"
@@ -23049,13 +23691,14 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "tapun"
+    "id": "tapun"
   },
   {
     "hiragana": [
       "たし",
       "たしっ"
     ],
+    "romaji": ["tashi"],
     "katakana": [
       "タシ",
       "タシッ"
@@ -23083,7 +23726,7 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "tashi"
+    "id": "tashi"
   },
   {
     "hiragana": [
@@ -23093,6 +23736,7 @@
       "たったっ",
       "たったったっ"
     ],
+    "romaji": ["tata"],
     "katakana": [
       "タタ",
       "タタッ",
@@ -23140,10 +23784,11 @@
         }
       ]
     }],
-    "literal": "tata"
+    "id": "tata"
   },
   {
     "hiragana": ["たたんたたん"],
+    "romaji": ["tatan tatan"],
     "katakana": ["タタンタタン"],
     "definition": [{
       "equivalent": [
@@ -23162,10 +23807,11 @@
         "source": "spy_x_family"
       }]
     }],
-    "literal": "tatan tatan"
+    "id": "tatan_tatan"
   },
   {
     "hiragana": ["たたったたっ"],
+    "romaji": ["tata tata"],
     "katakana": ["タタッタタッ"],
     "definition": [{
       "equivalent": [
@@ -23187,13 +23833,14 @@
         "source": "dog_became_strongest"
       }]
     }],
-    "literal": "tata tata"
+    "id": "tata_tata"
   },
   {
     "hiragana": [
       "たゆん",
       "たゆんっ"
     ],
+    "romaji": ["tayun"],
     "katakana": [
       "タユン",
       "タユンッ"
@@ -23217,10 +23864,11 @@
         "source": "35_year_olds_choice"
       }]
     }],
-    "literal": "tayun"
+    "id": "tayun"
   },
   {
     "hiragana": ["たゅんたゅん"],
+    "romaji": ["tayun tayun"],
     "katakana": ["タュンタュン"],
     "definition": [{
       "equivalent": [""],
@@ -23234,13 +23882,14 @@
         "source": "isekai_sniper"
       }]
     }],
-    "literal": "tayun tayun"
+    "id": "tayun_tayun"
   },
   {
     "hiragana": [
       "てへ",
       "てへっ"
     ],
+    "romaji": ["tehe"],
     "katakana": [
       "テヘ",
       "テヘッ"
@@ -23264,13 +23913,14 @@
         "source": "killed_by_gods_mistake"
       }]
     }],
-    "literal": "tehe"
+    "id": "tehe"
   },
   {
     "hiragana": [
       "てか",
       "てかー"
     ],
+    "romaji": ["teka"],
     "katakana": [
       "テカ",
       "テカー"
@@ -23295,10 +23945,11 @@
         "source": "abandoned_reincarnation_sage"
       }]
     }],
-    "literal": "teka"
+    "id": "teka"
   },
   {
     "hiragana": ["てくてく"],
+    "romaji": ["teku teku"],
     "katakana": ["テクテク"],
     "definition": [{
       "equivalent": [
@@ -23322,13 +23973,14 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "teku teku"
+    "id": "teku_teku"
   },
   {
     "hiragana": [
       "てて",
       "てってっ"
     ],
+    "romaji": ["te te"],
     "katakana": [
       "テテ",
       "テッテッ"
@@ -23345,13 +23997,14 @@
         "source": "weakest_occupation_blacksmith"
       }]
     }],
-    "literal": "te te"
+    "id": "te_te"
   },
   {
     "hiragana": [
       "と",
       "とっ"
     ],
+    "romaji": ["to"],
     "katakana": [
       "ト",
       "トッ"
@@ -23404,10 +24057,11 @@
         }]
       }
     ],
-    "literal": "to"
+    "id": "to"
   },
   {
     "hiragana": ["とぼとぼ"],
+    "romaji": ["tobo tobo"],
     "katakana": ["トボトボ"],
     "definition": [{
       "equivalent": [
@@ -23444,10 +24098,11 @@
         }
       ]
     }],
-    "literal": "tobo tobo"
+    "id": "tobo_tobo"
   },
   {
     "hiragana": ["とくとく"],
+    "romaji": ["toku toku"],
     "katakana": ["トクトク"],
     "definition": [{
       "equivalent": [
@@ -23476,13 +24131,14 @@
         }
       ]
     }],
-    "literal": "toku toku"
+    "id": "toku_toku"
   },
   {
     "hiragana": [
       "とん",
       "とんっ"
     ],
+    "romaji": ["ton"],
     "katakana": [
       "トン",
       "トンッ"
@@ -23536,13 +24192,14 @@
         }]
       }
     ],
-    "literal": "ton"
+    "id": "ton"
   },
   {
     "hiragana": [
       "とんとん",
       "とんとんっ"
     ],
+    "romaji": ["ton ton"],
     "katakana": [
       "トントン",
       "トントンッ"
@@ -23588,13 +24245,14 @@
         ]
       }
     ],
-    "literal": "ton ton"
+    "id": "ton_ton"
   },
   {
     "hiragana": [
       "とぽぽ",
       "とぽぽぽ"
     ],
+    "romaji": ["topopo"],
     "katakana": [
       "トポポ",
       "トポポポ"
@@ -23619,10 +24277,11 @@
         }
       ]
     }],
-    "literal": "topopo"
+    "id": "topopo"
   },
   {
     "hiragana": ["とぷとぷ"],
+    "romaji": ["topu topu"],
     "katakana": ["トプトプ"],
     "definition": [{
       "equivalent": [
@@ -23641,13 +24300,14 @@
         "source": "isekai_pickup"
       }]
     }],
-    "literal": "topu topu"
+    "id": "topu_topu"
   },
   {
     "hiragana": [
       "とろ",
       "とろっ"
     ],
+    "romaji": ["toro"],
     "katakana": [
       "トロ",
       "トロッ"
@@ -23693,10 +24353,11 @@
         }
       ]
     }],
-    "literal": "toro"
+    "id": "toro"
   },
   {
     "hiragana": ["とろん"],
+    "romaji": ["toron"],
     "katakana": ["トロン"],
     "definition": [{
       "equivalent": [
@@ -23722,13 +24383,14 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "toron"
+    "id": "toron"
   },
   {
     "hiragana": [
       "とさ",
       "とさっ"
     ],
+    "romaji": ["tosa"],
     "katakana": [
       "トサ",
       "トサッ"
@@ -23750,7 +24412,7 @@
         "source": "kuma_kuma_kuma_bear"
       }]
     }],
-    "literal": "tosa"
+    "id": "tosa"
   },
   {
     "hiragana": [
@@ -23759,6 +24421,7 @@
       "とっとっ",
       "とっとっとっ"
     ],
+    "romaji": ["to to"],
     "katakana": [
       "トト",
       "トトト",
@@ -23791,7 +24454,7 @@
         }]
       }
     ],
-    "literal": "to to"
+    "id": "to_to"
   },
   {
     "hiragana": [
@@ -23799,6 +24462,7 @@
       "つー",
       "っ"
     ],
+    "romaji": ["tsu"],
     "katakana": [
       "ツ",
       "ツー",
@@ -23841,13 +24505,14 @@
         }]
       }
     ],
-    "literal": "tsu"
+    "id": "tsu"
   },
   {
     "hiragana": [
       "つかつか",
       "つかつかつか"
     ],
+    "romaji": ["tsuka tsuka"],
     "katakana": [
       "ツカツカ",
       "ツカツカツカ"
@@ -23869,10 +24534,11 @@
         "source": "requiem_for_prophet"
       }]
     }],
-    "literal": "tsuka tsuka"
+    "id": "tsuka_tsuka"
   },
   {
     "hiragana": ["つんつん"],
+    "romaji": ["tsun tsun"],
     "katakana": ["ツンツン"],
     "definition": [{
       "equivalent": [
@@ -23917,13 +24583,14 @@
         }
       ]
     }],
-    "literal": "tsun tsun"
+    "id": "tsun_tsun"
   },
   {
     "hiragana": [
       "つる",
       "つるっ"
     ],
+    "romaji": ["tsuru"],
     "katakana": [
       "ツル",
       "ツルッ"
@@ -23946,13 +24613,14 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "tsuru"
+    "id": "tsuru"
   },
   {
     "hiragana": [
       "つるん",
       "つるんっ"
     ],
+    "romaji": ["tsurun"],
     "katakana": [
       "ツルン",
       "ツルンッ"
@@ -23969,13 +24637,14 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "tsurun"
+    "id": "tsurun"
   },
   {
     "hiragana": [
       "つつ",
       "っっ"
     ],
+    "romaji": ["tsu tsu"],
     "katakana": [
       "ツツ",
       "ッッ"
@@ -23996,7 +24665,7 @@
         "source": "35_year_olds_choice"
       }]
     }],
-    "literal": "tsu tsu"
+    "id": "tsu_tsu"
   },
   {
     "hiragana": [
@@ -24005,6 +24674,7 @@
       "うっ",
       "うーっ"
     ],
+    "romaji": ["u"],
     "katakana": [
       "ウ",
       "ウー",
@@ -24043,7 +24713,7 @@
         }
       ]
     }],
-    "literal": "u"
+    "id": "u"
   },
   {
     "hiragana": [
@@ -24054,6 +24724,7 @@
       "うぁぁ",
       "うぁぁぁ"
     ],
+    "romaji": ["ua"],
     "katakana": [
       "ウア",
       "ウアア",
@@ -24074,13 +24745,14 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "ua"
+    "id": "ua"
   },
   {
     "hiragana": [
       "うぃん",
       "うぃーん"
     ],
+    "romaji": ["uin"],
     "katakana": [
       "ウィン",
       "ウィーン"
@@ -24103,13 +24775,14 @@
         "source": "ai_and_izawa"
       }]
     }],
-    "literal": "uin"
+    "id": "uin"
   },
   {
     "hiragana": [
       "うん",
       "うーん"
     ],
+    "romaji": ["un"],
     "katakana": [
       "ウン",
       "ウーン"
@@ -24181,13 +24854,14 @@
         }]
       }
     ],
-    "literal": "un"
+    "id": "un"
   },
   {
     "hiragana": [
       "うんうん",
       "うーんうーん"
     ],
+    "romaji": ["un un"],
     "katakana": [
       "ウンウン",
       "ウーンウーン"
@@ -24226,7 +24900,7 @@
         }]
       }
     ],
-    "literal": "un un"
+    "id": "un_un"
   },
   {
     "hiragana": [
@@ -24235,6 +24909,7 @@
       "うぉぉん",
       "うぉぉぉん"
     ],
+    "romaji": ["uon"],
     "katakana": [
       "ウォン",
       "ウォーン",
@@ -24282,7 +24957,7 @@
         }]
       }
     ],
-    "literal": "uon"
+    "id": "uon"
   },
   {
     "hiragana": [
@@ -24290,6 +24965,7 @@
       "うぉぉんうぉぉん",
       "うぉぉぉんうぉぉぉん"
     ],
+    "romaji": ["uon uon"],
     "katakana": [
       "ウォンウォン",
       "ウォォンウォォン",
@@ -24307,10 +24983,11 @@
         "source": "blazing_fire_brigade"
       }]
     }],
-    "literal": "uon uon"
+    "id": "uon_uon"
   },
   {
     "hiragana": ["うろうろ"],
+    "romaji": ["uro uro"],
     "katakana": ["ウロウロ"],
     "definition": [{
       "equivalent": [
@@ -24340,13 +25017,14 @@
         }
       ]
     }],
-    "literal": "uro uro"
+    "id": "uro_uro"
   },
   {
     "hiragana": [
       "うる",
       "うるっ"
     ],
+    "romaji": ["uru"],
     "katakana": [
       "ウル",
       "ウルッ"
@@ -24370,7 +25048,7 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "uru"
+    "id": "uru"
   },
   {
     "hiragana": [
@@ -24383,6 +25061,7 @@
       "うわああん",
       "うわあああん"
     ],
+    "romaji": ["uwan"],
     "katakana": [
       "ウワン",
       "ウワーン",
@@ -24421,13 +25100,14 @@
         }
       ]
     }],
-    "literal": "uwan"
+    "id": "uwan"
   },
   {
     "hiragana": [
       "うぞ",
       "うぞぞ"
     ],
+    "romaji": ["uzo"],
     "katakana": [
       "ウゾ",
       "ウゾゾ"
@@ -24453,10 +25133,11 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "uzo"
+    "id": "uzo"
   },
   {
     "hiragana": ["うずうず"],
+    "romaji": ["uzu uzu"],
     "katakana": ["ウズウズ"],
     "definition": [{
       "equivalent": [
@@ -24486,7 +25167,7 @@
         "source": "fushi_no_kami"
       }]
     }],
-    "literal": "uzu uzu"
+    "id": "uzu_uzu"
   },
   {
     "hiragana": [
@@ -24495,6 +25176,7 @@
       "ゔー",
       "ゔーっ"
     ],
+    "romaji": ["vu"],
     "katakana": [
       "ヴ",
       "ヴッ",
@@ -24518,13 +25200,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "vu"
+    "id": "vu"
   },
   {
     "hiragana": [
       "ゔん",
       "ゔんっ"
     ],
+    "romaji": ["vun"],
     "katakana": [
       "ヴン",
       "ヴンッ"
@@ -24561,7 +25244,7 @@
         }
       ]
     }],
-    "literal": "vun"
+    "id": "vun"
   },
   {
     "hiragana": [
@@ -24577,6 +25260,7 @@
       "わぁぁぁ",
       "わーっ"
     ],
+    "romaji": ["wa"],
     "katakana": [
       "ワ",
       "ワッ",
@@ -24648,10 +25332,11 @@
         ]
       }
     ],
-    "literal": "wa"
+    "id": "wa"
   },
   {
     "hiragana": ["わふ"],
+    "romaji": ["wafu"],
     "katakana": ["ワフ"],
     "definition": [{
       "equivalent": [
@@ -24672,13 +25357,14 @@
         "source": "dog_became_strongest"
       }]
     }],
-    "literal": "wafu"
+    "id": "wafu"
   },
   {
     "hiragana": [
       "わいわい",
       "わぃわぃ"
     ],
+    "romaji": ["wai wai"],
     "katakana": [
       "ワイワイ",
       "ワィワィ"
@@ -24711,10 +25397,11 @@
         }
       ]
     }],
-    "literal": "wai wai"
+    "id": "wai_wai"
   },
   {
     "hiragana": ["わくわく"],
+    "romaji": ["waku waku"],
     "katakana": ["ワクワク"],
     "definition": [{
       "equivalent": [
@@ -24750,13 +25437,14 @@
         }
       ]
     }],
-    "literal": "waku waku"
+    "id": "waku_waku"
   },
   {
     "hiragana": [
       "わん",
       "わんっ"
     ],
+    "romaji": ["wan"],
     "katakana": [
       "ワン",
       "ワンッ"
@@ -24786,10 +25474,11 @@
         }
       ]
     }],
-    "literal": "wan"
+    "id": "wan"
   },
   {
     "hiragana": ["わなわな"],
+    "romaji": ["wana wana"],
     "katakana": ["ワナワナ"],
     "definition": [{
       "equivalent": [
@@ -24809,7 +25498,7 @@
         "source": "isekai_pickup"
       }]
     }],
-    "literal": "wana wana"
+    "id": "wana_wana"
   },
   {
     "hiragana": [
@@ -24818,6 +25507,7 @@
       "わしやわしや",
       "わしやわしやわしや"
     ],
+    "romaji": ["washa washa"],
     "katakana": [
       "ワシャワシャ",
       "ワシャワシャワシャ",
@@ -24844,10 +25534,11 @@
         "source": "only_sweet_when_alone"
       }]
     }],
-    "literal": "washa washa"
+    "id": "washa_washa"
   },
   {
     "hiragana": ["わたわた"],
+    "romaji": ["wata wata"],
     "katakana": ["ワタワタ"],
     "definition": [{
       "equivalent": [
@@ -24871,13 +25562,14 @@
         "source": "reincarnated_farm_girl"
       }]
     }],
-    "literal": "wata wata"
+    "id": "wata_wata"
   },
   {
     "hiragana": [
       "よろ",
       "よろっ"
     ],
+    "romaji": ["yoro"],
     "katakana": [
       "ヨロ",
       "ヨロッ"
@@ -24910,10 +25602,11 @@
         }
       ]
     }],
-    "literal": "yoro"
+    "id": "yoro"
   },
   {
     "hiragana": ["よたよた"],
+    "romaji": ["yota yota"],
     "katakana": ["ヨタヨタ"],
     "definition": [{
       "equivalent": [
@@ -24947,13 +25640,14 @@
         }
       ]
     }],
-    "literal": "yota yota"
+    "id": "yota_yota"
   },
   {
     "hiragana": [
       "ゆら",
       "ゆらっ"
     ],
+    "romaji": ["yura"],
     "katakana": [
       "ユラ",
       "ユラッ"
@@ -24987,10 +25681,11 @@
         }
       ]
     }],
-    "literal": "yura"
+    "id": "yura"
   },
   {
     "hiragana": ["ゆさゆさ"],
+    "romaji": ["yusa yusa"],
     "katakana": ["ユサユサ"],
     "definition": [{
       "equivalent": [
@@ -25019,7 +25714,7 @@
         }
       ]
     }],
-    "literal": "yusa yusa"
+    "id": "yusa_yusa"
   },
   {
     "hiragana": [
@@ -25035,6 +25730,7 @@
       "ざあああ",
       "ざあっ"
     ],
+    "romaji": ["za"],
     "katakana": [
       "ザ",
       "ザッ",
@@ -25141,13 +25837,14 @@
         ]
       }
     ],
-    "literal": "za"
+    "id": "za"
   },
   {
     "hiragana": [
       "ざば",
       "ざばぁ"
     ],
+    "romaji": ["zaba"],
     "katakana": [
       "ザバ",
       "ザバァ"
@@ -25174,13 +25871,14 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "zaba"
+    "id": "zaba"
   },
   {
     "hiragana": [
       "ざばざば",
       "ざばざばぁ"
     ],
+    "romaji": ["zaba zaba"],
     "katakana": [
       "ザバザバ",
       "ザバザバァ"
@@ -25206,7 +25904,7 @@
         "source": "kaijuu_sdf"
       }]
     }],
-    "literal": "zaba zaba"
+    "id": "zaba_zaba"
   },
   {
     "hiragana": [
@@ -25216,6 +25914,7 @@
       "ざぶぅ",
       "ざぶぅぅ"
     ],
+    "romaji": ["zabu"],
     "katakana": [
       "ザブ",
       "ザブウ",
@@ -25235,13 +25934,14 @@
         "source": "kaijuu_sdf"
       }]
     }],
-    "literal": "zabu"
+    "id": "zabu"
   },
   {
     "hiragana": [
       "ざぶん",
       "ざぶーん"
     ],
+    "romaji": ["zabun"],
     "katakana": [
       "ザブン",
       "ザブーン"
@@ -25258,13 +25958,14 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "zabun"
+    "id": "zabun"
   },
   {
     "hiragana": [
       "ざく",
       "ざくっ"
     ],
+    "romaji": ["zaku"],
     "katakana": [
       "ザク",
       "ザクッ"
@@ -25289,13 +25990,14 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "zaku"
+    "id": "zaku"
   },
   {
     "hiragana": [
       "ざん",
       "ざんっ"
     ],
+    "romaji": ["zan"],
     "katakana": [
       "ザン",
       "ザンッ"
@@ -25331,13 +26033,14 @@
         }
       ]
     }],
-    "literal": "zan"
+    "id": "zan"
   },
   {
     "hiragana": [
       "ざっぱん",
       "ざっぱーん"
     ],
+    "romaji": ["zappon"],
     "katakana": [
       "ザッパン",
       "ザッパーン"
@@ -25354,13 +26057,14 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "zappon"
+    "id": "zappon"
   },
   {
     "hiragana": [
       "ざりざり",
       "ざりざりざり"
     ],
+    "romaji": ["zari zari"],
     "katakana": [
       "ザリザリ",
       "ザリザリザリ"
@@ -25382,7 +26086,7 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "zari zari"
+    "id": "zari_zari"
   },
   {
     "hiragana": [
@@ -25391,6 +26095,7 @@
       "ざさああ",
       "ざさあああ"
     ],
+    "romaji": ["zasa"],
     "katakana": [
       "ザサ",
       "ザサア",
@@ -25419,13 +26124,14 @@
         "source": "kaijuu_sdf"
       }]
     }],
-    "literal": "zasa"
+    "id": "zasa"
   },
   {
     "hiragana": [
       "ざしゃっ",
       "ざしゃーっ"
     ],
+    "romaji": ["zasha"],
     "katakana": [
       "ザシャッ",
       "ザシャーッ"
@@ -25450,10 +26156,11 @@
         "source": "hone_dragon"
       }]
     }],
-    "literal": "zasha"
+    "id": "zasha"
   },
   {
     "hiragana": ["ざしゅ"],
+    "romaji": ["zashu"],
     "katakana": ["ザシュ"],
     "definition": [{
       "equivalent": [
@@ -25472,7 +26179,7 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "zashu"
+    "id": "zashu"
   },
   {
     "hiragana": [
@@ -25481,6 +26188,7 @@
       "ざわっ",
       "ざゎっ"
     ],
+    "romaji": ["zawa"],
     "katakana": [
       "ザワ",
       "ザヮ",
@@ -25515,10 +26223,11 @@
         }
       ]
     }],
-    "literal": "zawa"
+    "id": "zawa"
   },
   {
     "hiragana": ["ざわざわ"],
+    "romaji": ["zawa zawa"],
     "katakana": ["ザワザワ"],
     "definition": [
       {
@@ -25568,13 +26277,14 @@
         }]
       }
     ],
-    "literal": "zawa zawa"
+    "id": "zawa_zawa"
   },
   {
     "hiragana": [
       "ざざん",
       "ざざーん"
     ],
+    "romaji": ["zazan"],
     "katakana": [
       "ザザン",
       "ザザーン"
@@ -25591,7 +26301,7 @@
         "source": "buy_the_land"
       }]
     }],
-    "literal": "zazan"
+    "id": "zazan"
   },
   {
     "hiragana": [
@@ -25602,6 +26312,7 @@
       "ざざあ",
       "ざざああ"
     ],
+    "romaji": ["za za"],
     "katakana": [
       "ザザ",
       "ザッザッ",
@@ -25688,7 +26399,7 @@
         ]
       }
     ],
-    "literal": "za za"
+    "id": "za_za"
   },
   {
     "hiragana": [
@@ -25697,6 +26408,7 @@
       "ぜえ",
       "ぜぇ"
     ],
+    "romaji": ["ze"],
     "katakana": [
       "ゼ",
       "ゼッ",
@@ -25723,7 +26435,7 @@
         "source": "world_full_of_monsters"
       }]
     }],
-    "literal": "ze"
+    "id": "ze"
   },
   {
     "hiragana": [
@@ -25732,6 +26444,7 @@
       "ぜぇ",
       "ぜーぜー"
     ],
+    "romaji": ["ze ze"],
     "katakana": [
       "ゼゼ",
       "ゼエゼエ",
@@ -25771,13 +26484,14 @@
         }
       ]
     }],
-    "literal": "ze ze"
+    "id": "ze_ze"
   },
   {
     "hiragana": [
       "ぞく",
       "ぞくっ"
     ],
+    "romaji": ["zoku"],
     "katakana": [
       "ゾク",
       "ゾクッ"
@@ -25825,10 +26539,11 @@
         }
       ]
     }],
-    "literal": "zoku"
+    "id": "zoku"
   },
   {
     "hiragana": ["ぞくぞく"],
+    "romaji": ["zoku zoku"],
     "katakana": ["ゾクゾク"],
     "definition": [{
       "equivalent": [""],
@@ -25842,13 +26557,14 @@
         "source": "beastly_boys_and_girls"
       }]
     }],
-    "literal": "zoku zoku"
+    "id": "zoku_zoku"
   },
   {
     "hiragana": [
       "ぞろ",
       "ぞろっ"
     ],
+    "romaji": ["zoro"],
     "katakana": [
       "ゾロ",
       "ゾロッ"
@@ -25875,10 +26591,11 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "zoro"
+    "id": "zoro"
   },
   {
     "hiragana": ["ぞろぞろ"],
+    "romaji": ["zoro zoro"],
     "katakana": ["ゾロゾロ"],
     "definition": [{
       "equivalent": [""],
@@ -25892,13 +26609,14 @@
         "source": "kuma_kuma_kuma_bear"
       }]
     }],
-    "literal": "zoro zoro"
+    "id": "zoro_zoro"
   },
   {
     "hiragana": [
       "ぞわ",
       "ぞわっ"
     ],
+    "romaji": ["zowa"],
     "katakana": [
       "ゾワ",
       "ゾワッ"
@@ -25936,13 +26654,14 @@
         }
       ]
     }],
-    "literal": "zowa"
+    "id": "zowa"
   },
   {
     "hiragana": [
       "ず",
       "ずっ"
     ],
+    "romaji": ["zu"],
     "katakana": [
       "ズ",
       "ズッ"
@@ -25968,13 +26687,14 @@
         "source": "rise_of_the_outlaw_tamer"
       }]
     }],
-    "literal": "zu"
+    "id": "zu"
   },
   {
     "hiragana": [
       "ずあ",
       "ずあっ"
     ],
+    "romaji": ["zua"],
     "katakana": [
       "ズア",
       "ズアッ"
@@ -26002,13 +26722,14 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "zua"
+    "id": "zua"
   },
   {
     "hiragana": [
       "ずば",
       "ずばっ"
     ],
+    "romaji": ["zuba"],
     "katakana": [
       "ズバ",
       "ズバッ"
@@ -26030,10 +26751,11 @@
         "source": "hello_work"
       }]
     }],
-    "literal": "zuba"
+    "id": "zuba"
   },
   {
     "hiragana": ["ずばばん"],
+    "romaji": ["zubaban"],
     "katakana": ["ズババン"],
     "definition": [{
       "equivalent": [
@@ -26052,10 +26774,11 @@
         "source": "pokemon_xy_break"
       }]
     }],
-    "literal": "zubaban"
+    "id": "zubaban"
   },
   {
     "hiragana": ["ずびしっ"],
+    "romaji": ["zubishi"],
     "katakana": ["ズビシッ"],
     "definition": [{
       "equivalent": [
@@ -26078,13 +26801,14 @@
         "source": "cheat_pharmacist"
       }]
     }],
-    "literal": "zubishi"
+    "id": "zubishi"
   },
   {
     "hiragana": [
       "ずぼ",
       "ずぼっ"
     ],
+    "romaji": ["zubo"],
     "katakana": [
       "ズボ",
       "ズボッ"
@@ -26118,7 +26842,7 @@
         }
       ]
     }],
-    "literal": "zubo"
+    "id": "zubo"
   },
   {
     "hiragana": [
@@ -26126,6 +26850,7 @@
       "ずだだ",
       "ずだだだ"
     ],
+    "romaji": ["zuda"],
     "katakana": [
       "ズダ",
       "ズダダ",
@@ -26151,10 +26876,11 @@
         "source": "different_world_smartphone"
       }]
     }],
-    "literal": "zuda"
+    "id": "zuda"
   },
   {
     "hiragana": ["ずど"],
+    "romaji": ["zudo"],
     "katakana": ["ズド"],
     "definition": [{
       "equivalent": [
@@ -26187,10 +26913,11 @@
         "source": "pokemon_xy_break"
       }]
     }],
-    "literal": "zudo"
+    "id": "zudo"
   },
   {
     "hiragana": ["ずぎゃ"],
+    "romaji": ["zugya"],
     "katakana": ["ズギャ"],
     "definition": [{
       "equivalent": [
@@ -26231,7 +26958,7 @@
         }
       ]
     }],
-    "literal": "zugya"
+    "id": "zugya"
   },
   {
     "hiragana": [
@@ -26240,6 +26967,7 @@
       "ずぃ",
       "ずぃっ"
     ],
+    "romaji": ["zui"],
     "katakana": [
       "ズイ",
       "ズイッ",
@@ -26296,13 +27024,14 @@
         }
       ]
     }],
-    "literal": "zui"
+    "id": "zui"
   },
   {
     "hiragana": [
       "ずき",
       "ずきっ"
     ],
+    "romaji": ["zuki"],
     "katakana": [
       "ズキ",
       "ズキッ"
@@ -26327,13 +27056,14 @@
         "source": "isekai_territory_reform"
       }]
     }],
-    "literal": "zuki"
+    "id": "zuki"
   },
   {
     "hiragana": [
       "ずきん",
       "ずきんっ"
     ],
+    "romaji": ["zukin"],
     "katakana": [
       "ズキン",
       "ズキンッ"
@@ -26350,7 +27080,7 @@
         "source": "sex_with_me_sells"
       }]
     }],
-    "literal": "zukin"
+    "id": "zukin"
   },
   {
     "hiragana": [
@@ -26358,6 +27088,7 @@
       "ずっきゅん",
       "ずきゅーん"
     ],
+    "romaji": ["zukyun"],
     "katakana": [
       "ズキュン",
       "ズッキュン",
@@ -26387,7 +27118,7 @@
         }
       ]
     }],
-    "literal": "zukyun"
+    "id": "zukyun"
   },
   {
     "hiragana": [
@@ -26400,6 +27131,7 @@
       "ずぅぅん",
       "ずんっ"
     ],
+    "romaji": ["zun"],
     "katakana": [
       "ズン",
       "ズーン",
@@ -26513,10 +27245,11 @@
         }]
       }
     ],
-    "literal": "zun"
+    "id": "zun"
   },
   {
     "hiragana": ["ずんずん"],
+    "romaji": ["zun zun"],
     "katakana": ["ズンズン"],
     "definition": [{
       "equivalent": [
@@ -26550,7 +27283,7 @@
         }
       ]
     }],
-    "literal": "zun zun"
+    "id": "zun_zun"
   },
   {
     "hiragana": [
@@ -26559,6 +27292,7 @@
       "ずぉ",
       "ずぉぉ"
     ],
+    "romaji": ["zuo"],
     "katakana": [
       "ズオ",
       "ズオオ",
@@ -26585,13 +27319,14 @@
         "source": "killed_by_gods_mistake"
       }]
     }],
-    "literal": "zuo"
+    "id": "zuo"
   },
   {
     "hiragana": [
       "ずぱ",
       "ずぱっ"
     ],
+    "romaji": ["zupa"],
     "katakana": [
       "ズパ",
       "ズパッ"
@@ -26614,13 +27349,14 @@
         "source": "killed_by_gods_mistake"
       }]
     }],
-    "literal": "zupa"
+    "id": "zupa"
   },
   {
     "hiragana": [
       "ずら",
       "ずらー"
     ],
+    "romaji": ["zura"],
     "katakana": [
       "ズラ",
       "ズラー"
@@ -26644,10 +27380,11 @@
         "source": "reincarnated_aristocrat"
       }]
     }],
-    "literal": "zura"
+    "id": "zura"
   },
   {
     "hiragana": ["ずりずり"],
+    "romaji": ["zuri zuri"],
     "katakana": ["ズリズリ"],
     "definition": [{
       "equivalent": [
@@ -26687,13 +27424,14 @@
         }
       ]
     }],
-    "literal": "zuri zuri"
+    "id": "zuri_zuri"
   },
   {
     "hiragana": [
       "ずる",
       "ずるっ"
     ],
+    "romaji": ["zuru"],
     "katakana": [
       "ズル",
       "ズルッ"
@@ -26718,13 +27456,14 @@
         }
       ]
     }],
-    "literal": "zuru"
+    "id": "zuru"
   },
   {
     "hiragana": [
       "ずるる",
       "ずるるる"
     ],
+    "romaji": ["zururu"],
     "katakana": [
       "ズルル",
       "ズルルル"
@@ -26762,13 +27501,14 @@
         }]
       }
     ],
-    "literal": "zururu"
+    "id": "zururu"
   },
   {
     "hiragana": [
       "ずるずる",
       "ずるずるっ"
     ],
+    "romaji": ["zuru zuru"],
     "katakana": [
       "ズルズル",
       "ズルズルッ"
@@ -26785,13 +27525,14 @@
         "source": "saga_lagging_hero"
       }]
     }],
-    "literal": "zuru zuru"
+    "id": "zuru_zuru"
   },
   {
     "hiragana": [
       "ずしゃ",
       "ずしゃっ"
     ],
+    "romaji": ["zusha"],
     "katakana": [
       "ズシャ",
       "ズシャッ"
@@ -26839,7 +27580,7 @@
         }]
       }
     ],
-    "literal": "zusha"
+    "id": "zusha"
   },
   {
     "hiragana": [
@@ -26849,6 +27590,7 @@
       "ずざざ",
       "ずざざざ"
     ],
+    "romaji": ["zuza"],
     "katakana": [
       "ズザ",
       "ズザァ",
@@ -26904,6 +27646,6 @@
         }]
       }
     ],
-    "literal": "zuza"
+    "id": "zuza"
   }
 ]
