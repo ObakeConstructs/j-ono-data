@@ -52,7 +52,8 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 
 ## DEFINITION RECORDS
 * Each Definition Record contains...
-  * a "`literal`" translation string
+  * a unique "`id`" string
+  * an array of "`romaji`" strings
   * an array of "`katakana`" strings
   * an array of "`hiragana`" strings
   * an array of "`definition`" objects
@@ -84,50 +85,48 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 
 ```json
 {
-  "literal": "gin",
-  "katakana": [ "ギン", "ギンッ" ],
-  "hiragana": [ "ぎん", "ぎんっ" ],
-  "definition": [{
-      "refer": "",
-      "type": "e",
-      "meaning": "an indication of glaring or staring",
-      "equivalent": [ "fixate", "glare", "glower", "regard", "stare" ],
-      "example": [{
-          "source": "world_full_of_monsters",
-          "file": "gin-1a",
-          "display": "ギン",
-          "contributor": ""
-        },
-        {
-          "source": "dungeon_dining_room",
-          "file": "gin-1b",
-          "display": "ギンッ",
-          "contributor": ""
-        }]
+    "id": "gusu",
+    "romaji": ["gusu"],
+    "katakana": ["グス", "グスッ"],
+    "hiragana": ["ぐす", "ぐすっ"],
+    "definition": [{
+            "equivalent": ["blub", "cry", "sniff", "sniffle", "sob", "tears", "weep"],
+            "refer": "",
+            "meaning": "the soft sniffling or sobbing sound of crying",
+            "type": "v",
+            "example": [{
+                    "file": "gusu-1a",
+                    "contributor": "",
+                    "display": "ぐすっ",
+                    "source": "requiem_for_prophet"
+            }]
     }]
 }
+
 ```
 
 ### Example of a Definition Records with a Reference:
 
 ```json
 {
-  "literal": "ginuro",
-  "katakana": [ "ギヌロ", "ギヌロォ" ],
-  "hiragana": [ "ぎぬろ", "ぎぬろぉ" ],
-  "definition": [{
-      "refer": "gin:1",
-      "type": "",
-      "meaning": ", typically drawn out and menacing",
-      "equivalent": [ "scowl" ],
-      "example": [{
-          "source": "hello_work",
-          "file": "ginuro-1a",
-          "display": "ギヌロォ..!",
-          "contributor": ""
-        }]
+    "id": "gusun_gusun",
+    "romaji": ["gusun gusun"],
+    "katakana": ["グスングスン"],
+    "hiragana": ["ぐすんぐすん"],
+    "definition": [{
+            "equivalent": [""],
+            "refer": "gusu:1",
+            "meaning": "",
+            "type": "",
+            "example": [{
+                    "file": "gusun_gusun-1a",
+                    "contributor": "",
+                    "display": "ぐすん ぐすん",
+                    "source": "different_world_smartphone"
+            }]
     }]
 }
+
 ```
 
 Note that in the J-Ono search tool, the resulting meaning of the "ginuro" definition record would be displayed as `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be displayed as `fixate, glare, glower, regard, stare, scowl`.
