@@ -92,7 +92,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
     "definition": [{
             "equivalent": ["blub", "cry", "sniff", "sniffle", "sob", "tears", "weep"],
             "refer": "",
-            "meaning": "the soft sniffling or sobbing sound of crying",
+            "meaning": "soft sniffling or sobbing sound",
             "type": "v",
             "example": [{
                     "file": "gusu-1a",
@@ -116,7 +116,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
     "definition": [{
             "equivalent": [""],
             "refer": "gusu:1",
-            "meaning": "",
+            "meaning": "s",
             "type": "",
             "example": [{
                     "file": "gusun_gusun-1a",
@@ -129,11 +129,9 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 
 ```
 
-Note that in the J-Ono search tool, the resulting meaning of the "ginuro" definition record would be displayed as `an indication of glaring or staring, typically drawn out and menacing` and the resulting equivalents would be displayed as `fixate, glare, glower, regard, stare, scowl`.
-
 ## IMAGE FILES
 * Each Image File is in a folder corresponding to its source name
-* All images are 400 pixels by 400 pixels
+* All images are 400x400px with a 50px white-space margin along both the top and bottom of each image
 * Naming convention: `[literal]-[unique id]`
-  * Underscores are used in lieu of spaces in the literal string.
-  * The `[unique id]` is merely for the convenience of human-readability - it's two or three characters long and has a number part and a letter part - the number differentiates the images by definition and the letter differentiates them by example.  So an image file with an id of `2c` would be for the third example("c") of the second definition ("2").
+  * Underscores are used in lieu of spaces in the id string
+  * The `[unique id]` part of the image file naming convention is merely for the convenience of human-readability - it's typically two characters and has a number part and a letter part - the number differentiates the images by definition and the letter differentiates them by example.  So an image file with an id of `2c` would be for the third example("c") of the second definition ("2")
