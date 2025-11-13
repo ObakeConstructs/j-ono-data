@@ -188,12 +188,17 @@
   {
     "hiragana": [
       "あわ",
-      "あわわ"
+      "あわわ",
+      "あわあわ"
     ],
-    "romaji": ["awa"],
+    "romaji": [
+      "awa",
+      "awa awa"
+    ],
     "katakana": [
       "アワ",
-      "アワワ"
+      "アワワ",
+      "アワアワ"
     ],
     "definition": [{
       "equivalent": [
@@ -212,32 +217,22 @@
       "refer": "",
       "meaning": "stammering or exclamation showing panic, confusion, or fluster",
       "type": "v",
-      "example": [{
-        "file": "awa-1a",
-        "contributor": "",
-        "display": "あわわ",
-        "source": "isekai_territory_reform"
-      }]
+      "example": [
+        {
+          "file": "awa_awa_awa-1a",
+          "contributor": "",
+          "display": "あわわ",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "awa_awa_awa-1b",
+          "contributor": "",
+          "display": "アワ アワ アワ",
+          "source": "peter_grill"
+        }
+      ]
     }],
     "id": "awa"
-  },
-  {
-    "hiragana": ["あわあわ"],
-    "romaji": ["awa awa"],
-    "katakana": ["アワアワ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "awa:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "awa_awa-1a",
-        "contributor": "",
-        "display": "アワ アワ アワ",
-        "source": "peter_grill"
-      }]
-    }],
-    "id": "awa_awa"
   },
   {
     "hiragana": [
@@ -513,12 +508,22 @@
   {
     "hiragana": [
       "ばき",
-      "ばきっ"
+      "ばきっ",
+      "ばきん",
+      "ばきんっ",
+      "ばきばき"
     ],
-    "romaji": ["baki"],
+    "romaji": [
+      "baki",
+      "bakin",
+      "baki baki"
+    ],
     "katakana": [
       "バキ",
-      "バキッ"
+      "バキッ",
+      "バキン",
+      "バキンッ",
+      "バキバキ"
     ],
     "definition": [{
       "equivalent": [
@@ -534,62 +539,32 @@
       "type": "o",
       "example": [
         {
-          "file": "baki-1a",
+          "file": "baki_bakin_baki_baki-1a",
           "contributor": "",
           "display": "バキッ",
           "source": "hanako_24th_ward"
         },
         {
-          "file": "baki-1b",
+          "file": "baki_bakin_baki_baki-1b",
           "contributor": "",
           "display": "バキッ",
           "source": "requiem_for_prophet"
+        },
+        {
+          "file": "baki_bakin_baki_baki-1c",
+          "contributor": "",
+          "display": "バキンッ",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "baki_bakin_baki_baki-1d",
+          "contributor": "",
+          "display": "バキバキバキ",
+          "source": "hone_dragon"
         }
       ]
     }],
-    "id": "baki"
-  },
-  {
-    "hiragana": [
-      "ばきん",
-      "ばきんっ"
-    ],
-    "romaji": ["bakin"],
-    "katakana": [
-      "バキン",
-      "バキンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "baki:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "bakin-1a",
-        "contributor": "",
-        "display": "バキンッ",
-        "source": "abandoned_reincarnation_sage"
-      }]
-    }],
-    "id": "bakin"
-  },
-  {
-    "hiragana": ["ばきばき"],
-    "romaji": ["baki baki"],
-    "katakana": ["バキバキ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "baki:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "baki_baki-1a",
-        "contributor": "",
-        "display": "バキバキバキ",
-        "source": "hone_dragon"
-      }]
-    }],
-    "id": "baki_baki"
+    "id": "baki_bakin"
   },
   {
     "hiragana": ["ばくばく"],
@@ -906,12 +881,22 @@
   {
     "hiragana": [
       "ばしゃ",
-      "ばしゃっ"
+      "ばしゃっ",
+      "ばしゃん",
+      "ばしゃーん",
+      "ばしゃばしゃ"
     ],
-    "romaji": ["basha"],
+    "romaji": [
+      "basha",
+      "bashan",
+      "basha basha"
+    ],
     "katakana": [
       "バシャ",
-      "バシャッ"
+      "バシャッ",
+      "バシャン",
+      "バシャーン",
+      "バシャバシャ"
     ],
     "definition": [{
       "equivalent": [
@@ -929,72 +914,47 @@
       "type": "o",
       "example": [
         {
-          "file": "basha-1a",
+          "file": "basha_bashan_basha_basha-1a",
           "contributor": "",
           "display": "バシャ",
           "source": "reincarnated_sage_daughters"
         },
         {
-          "file": "basha-1b",
+          "file": "basha_bashan_basha_basha-1b",
           "contributor": "",
           "display": "バシャッ",
           "source": "requiem_for_prophet"
+        },
+        {
+          "file": "basha_bashan_basha_basha-1c",
+          "contributor": "",
+          "display": "バシャーン..",
+          "source": "buy_the_land"
+        },
+        {
+          "file": "basha_bashan_basha_basha-1d",
+          "contributor": "",
+          "display": "バシャ バシャ",
+          "source": "reincarnated_sage_daughters"
         }
       ]
     }],
-    "id": "basha"
-  },
-  {
-    "hiragana": [
-      "ばしゃん",
-      "ばしゃーん"
-    ],
-    "romaji": ["bashan"],
-    "katakana": [
-      "バシャン",
-      "バシャーン"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "basha:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "bashan-1a",
-        "contributor": "",
-        "display": "バシャーン..",
-        "source": "buy_the_land"
-      }]
-    }],
-    "id": "bashan"
-  },
-  {
-    "hiragana": ["ばしゃばしゃ"],
-    "romaji": ["basha basha"],
-    "katakana": ["バシャバシャ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "basha:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "basha_basha-1a",
-        "contributor": "",
-        "display": "バシャ バシャ",
-        "source": "reincarnated_sage_daughters"
-      }]
-    }],
-    "id": "basha_basha"
+    "id": "basha_bashan"
   },
   {
     "hiragana": [
       "ばし",
-      "ばしっ"
+      "ばしっ",
+      "ばしばし"
     ],
-    "romaji": ["bashi"],
+    "romaji": [
+      "bashi",
+      "bashi bashi"
+    ],
     "katakana": [
       "バシ",
-      "バシッ"
+      "バシッ",
+      "バシバシ"
     ],
     "definition": [{
       "equivalent": [
@@ -1013,56 +973,30 @@
         "whomp"
       ],
       "refer": "",
-      "meaning": "sudden or loud impact",
+      "meaning": "sudden or loud impacts",
       "type": "o",
       "example": [
         {
-          "file": "bashi-1a",
+          "file": "bashi_bashi_bashi-1a",
           "contributor": "",
           "display": "バシッ",
           "source": "hanako_24th_ward"
         },
         {
-          "file": "bashi-1b",
+          "file": "bashi_bashi_bashi-1b",
           "contributor": "",
           "display": "バシ!!",
           "source": "berserk"
+        },
+        {
+          "file": "bashi_bashi_bashi-1c",
+          "contributor": "",
+          "display": "バシ バシ バシ",
+          "source": "only_sweet_when_alone"
         }
       ]
     }],
     "id": "bashi"
-  },
-  {
-    "hiragana": ["ばしばし"],
-    "romaji": ["bashi bashi"],
-    "katakana": ["バシバシ"],
-    "definition": [{
-      "equivalent": [
-        "bam",
-        "bang",
-        "crash",
-        "slam",
-        "slap",
-        "smack",
-        "thud",
-        "thump",
-        "thunk",
-        "whack",
-        "wham",
-        "whap",
-        "whomp"
-      ],
-      "refer": "bashi:1",
-      "meaning": "s",
-      "type": "o",
-      "example": [{
-        "file": "bashi_bashi-1a",
-        "contributor": "",
-        "display": "バシ バシ バシ",
-        "source": "only_sweet_when_alone"
-      }]
-    }],
-    "id": "bashi_bashi"
   },
   {
     "hiragana": [
@@ -1388,14 +1322,25 @@
       "びく",
       "びくっ",
       "びくぅ",
-      "びくぅっ"
+      "びくぅっ",
+      "びくん",
+      "びくーん",
+      "びくんっ",
+      "びくーんっ"
     ],
-    "romaji": ["biku"],
+    "romaji": [
+      "biku",
+      "bikun"
+    ],
     "katakana": [
       "ビク",
       "ビクッ",
       "ビクゥ",
-      "ビクゥッ"
+      "ビクゥッ",
+      "ビクン",
+      "ビクーン",
+      "ビクンッ",
+      "ビクーンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -1411,80 +1356,56 @@
       "type": "m",
       "example": [
         {
-          "file": "biku-1a",
+          "file": "biku_bikun-1a",
           "contributor": "",
           "display": "びくっ",
           "source": "d_genesis"
         },
         {
-          "file": "biku-1b",
+          "file": "biku_bikun-1b",
           "contributor": "",
           "display": "ビクッ",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "biku-1c",
+          "file": "biku_bikun-1c",
           "contributor": "",
           "display": "ビクゥッ!!",
           "source": "abandoned_reincarnation_sage"
-        }
-      ]
-    }],
-    "id": "biku"
-  },
-  {
-    "hiragana": [
-      "びくん",
-      "びくーん",
-      "びくんっ",
-      "びくーんっ"
-    ],
-    "romaji": ["bikun"],
-    "katakana": [
-      "ビクン",
-      "ビクーン",
-      "ビクンッ",
-      "ビクーンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "biku:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "bikun-1a",
+          "file": "biku_bikun-1d",
           "contributor": "",
           "display": "ビクン",
           "source": "d_genesis"
         },
         {
-          "file": "bikun-1b",
+          "file": "biku_bikun-1e",
           "contributor": "",
           "display": "ビクン",
           "source": "rise_of_the_outlaw_tamer"
         },
         {
-          "file": "bikun-1c",
+          "file": "biku_bikun-1f",
           "contributor": "",
           "display": "ビクーン",
           "source": "hello_work"
         },
         {
-          "file": "bikun-1d",
+          "file": "biku_bikun-1g",
           "contributor": "",
           "display": "ビクン",
           "source": "gyaru_academy"
         },
         {
-          "file": "bikun-1e",
+          "file": "biku_bikun-1h",
           "contributor": "",
           "display": "びくんっ",
           "source": "embarrassing_and_sweet"
         }
       ]
     }],
-    "id": "bikun"
+    "id": "biku_bikun"
   },
   {
     "hiragana": [
@@ -1629,12 +1550,17 @@
   {
     "hiragana": [
       "びしゃ",
-      "びしゃっ"
+      "びしゃっ",
+      "びしびし"
     ],
-    "romaji": ["bisha"],
+    "romaji": [
+      "bisha",
+      "bisha bisha"
+    ],
     "katakana": [
       "ビシャ",
-      "ビシャッ"
+      "ビシャッ",
+      "ビシビシ"
     ],
     "definition": [{
       "equivalent": [
@@ -1647,32 +1573,22 @@
       "refer": "",
       "meaning": "liquid splashing or spraying",
       "type": "o",
-      "example": [{
-        "file": "bisha-1a",
-        "contributor": "",
-        "display": "ビシャ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "bisha_bisha_bisha-1a",
+          "contributor": "",
+          "display": "ビシャ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "bisha_bisha_bisha-1b",
+          "contributor": "",
+          "display": "ビシ ビシ ビシ",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "id": "bisha"
-  },
-  {
-    "hiragana": ["びしびし"],
-    "romaji": ["bisha bisha"],
-    "katakana": ["ビシビシ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "bisha:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "bisha_bisha-1a",
-        "contributor": "",
-        "display": "ビシ ビシ ビシ",
-        "source": "cheat_pharmacist"
-      }]
-    }],
-    "id": "bisha_bisha"
   },
   {
     "hiragana": [
@@ -1957,12 +1873,17 @@
   {
     "hiragana": [
       "ぼふ",
-      "ぼふっ"
+      "ぼふっ",
+      "ぼふん"
     ],
-    "romaji": ["bofu"],
+    "romaji": [
+      "bofu",
+      "bofun"
+    ],
     "katakana": [
       "ボフ",
-      "ボフッ"
+      "ボフッ",
+      "ボフン"
     ],
     "definition": [{
       "equivalent": [
@@ -1975,40 +1896,28 @@
       "refer": "",
       "meaning": "a soft, muffled, or gentle puffing/thudding sound",
       "type": "o",
-      "example": [{
-        "file": "bofu-1a",
-        "contributor": "",
-        "display": "ボフッ",
-        "source": "hello_work"
-      }]
-    }],
-    "id": "bofu"
-  },
-  {
-    "hiragana": ["ぼふん"],
-    "romaji": ["bofun"],
-    "katakana": ["ボフン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "bofu:1",
-      "meaning": "",
-      "type": "",
       "example": [
         {
-          "file": "bofun-1a",
+          "file": "bofu_bofun-1a",
+          "contributor": "",
+          "display": "ボフッ",
+          "source": "hello_work"
+        },
+        {
+          "file": "bofu_bofun-1b",
           "contributor": "",
           "display": "ボフン",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "bofun-1b",
+          "file": "bofu_bofun-1c",
           "contributor": "",
           "display": "ボフン",
           "source": "hone_dragon"
         }
       ]
     }],
-    "id": "bofun"
+    "id": "bofu_bofun"
   },
   {
     "hiragana": [
@@ -3469,13 +3378,20 @@
     "hiragana": [
       "ちゃり",
       "ちゃりり",
-      "ちゃりりり"
+      "ちゃりりり",
+      "ちゃりん",
+      "ちゃりーん"
     ],
-    "romaji": ["chari"],
+    "romaji": [
+      "chari",
+      "charin"
+    ],
     "katakana": [
       "チャリ",
       "チャリリ",
-      "チャリリリ"
+      "チャリリリ",
+      "チャリン",
+      "チャリーン"
     ],
     "definition": [{
       "equivalent": [
@@ -3492,58 +3408,38 @@
       "type": "o",
       "example": [
         {
-          "file": "chari-1a",
+          "file": "chari_charin-1a",
           "contributor": "",
           "display": "チャリリリ",
           "source": "hello_work"
         },
         {
-          "file": "chari-1b",
+          "file": "chari_charin-1b",
           "contributor": "",
           "display": "チャリ",
           "source": "weakest_occupation_blacksmith"
         },
         {
-          "file": "chari-1c",
+          "file": "chari_charin-1c",
           "contributor": "",
           "display": "チャリ..",
           "source": "uncle_at_heart"
-        }
-      ]
-    }],
-    "id": "chari"
-  },
-  {
-    "hiragana": [
-      "ちゃりん",
-      "ちゃりーん"
-    ],
-    "romaji": ["charin"],
-    "katakana": [
-      "チャリン",
-      "チャリーン"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "chari:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "charin-1a",
+          "file": "chari_charin-1d",
           "contributor": "",
           "display": "チャリン",
           "source": "different_world_smartphone"
         },
         {
-          "file": "charin-1b",
+          "file": "chari_charin-1e",
           "contributor": "",
           "display": "チャリン..",
           "source": "isekai_pickup"
         }
       ]
     }],
-    "id": "charin"
+    "id": "chari_charin"
   },
   {
     "hiragana": [
@@ -3584,9 +3480,18 @@
     "id": "chi"
   },
   {
-    "hiragana": ["ちき"],
-    "romaji": ["chiki"],
-    "katakana": ["チキ"],
+    "hiragana": [
+      "ちき",
+      "ちきちき"
+    ],
+    "romaji": [
+      "chiki",
+      "chiki chiki"
+    ],
+    "katakana": [
+      "チキ",
+      "チキチキ"
+    ],
     "definition": [{
       "equivalent": [
         "chik",
@@ -3595,32 +3500,22 @@
       "refer": "",
       "meaning": "sharp and short clicking",
       "type": "o",
-      "example": [{
-        "file": "chiki-1a",
-        "contributor": "",
-        "display": "チキ\u2026",
-        "source": "spy_x_family"
-      }]
+      "example": [
+        {
+          "file": "chiki_chiki_chiki-1a",
+          "contributor": "",
+          "display": "チキ\u2026",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "chiki_chiki_chiki-1b",
+          "contributor": "",
+          "display": "チキ チキ",
+          "source": "d_genesis"
+        }
+      ]
     }],
     "id": "chiki"
-  },
-  {
-    "hiragana": ["ちきちき"],
-    "romaji": ["chiki chiki"],
-    "katakana": ["チキチキ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "chiki:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "chiki_chiki-1a",
-        "contributor": "",
-        "display": "チキ チキ",
-        "source": "d_genesis"
-      }]
-    }],
-    "id": "chiki_chiki"
   },
   {
     "hiragana": [
@@ -3821,14 +3716,21 @@
       "ちゅ",
       "ちゅっ",
       "ちゅー",
-      "ちゅーっ"
+      "ちゅーっ",
+      "ちゅちゅ",
+      "ちゅっちゅっ"
     ],
-    "romaji": ["chu"],
+    "romaji": [
+      "chu",
+      "chu chu"
+    ],
     "katakana": [
       "チュ",
       "チュッ",
       "チュー",
-      "チューッ"
+      "チューッ",
+      "チュチュ",
+      "チュッチュッ"
     ],
     "definition": [{
       "equivalent": [
@@ -3844,22 +3746,28 @@
       "type": "o",
       "example": [
         {
-          "file": "chu-1a",
+          "file": "chu_chu_chu-1a",
           "contributor": "",
           "display": "ちゅーっ",
           "source": "kuma_kuma_kuma_bear"
         },
         {
-          "file": "chu-1b",
+          "file": "chu_chu_chu-1b",
           "contributor": "",
           "display": "ちゅっ",
           "source": "drawing"
         },
         {
-          "file": "chu-1c",
+          "file": "chu_chu_chu-1c",
           "contributor": "",
           "display": "ちゅっ",
           "source": "killed_by_gods_mistake"
+        },
+        {
+          "file": "chu_chu_chu-1d",
+          "contributor": "",
+          "display": "チュッ チュッ",
+          "source": "rise_of_the_outlaw_tamer"
         }
       ]
     }],
@@ -3956,30 +3864,6 @@
   },
   {
     "hiragana": [
-      "ちゅちゅ",
-      "ちゅっちゅっ"
-    ],
-    "romaji": ["chu chu"],
-    "katakana": [
-      "チュチュ",
-      "チュッチュッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "chu:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "chu_chu-1a",
-        "contributor": "",
-        "display": "チュッ チュッ",
-        "source": "rise_of_the_outlaw_tamer"
-      }]
-    }],
-    "id": "chu_chu"
-  },
-  {
-    "hiragana": [
       "だ",
       "だっ"
     ],
@@ -4062,13 +3946,20 @@
     "hiragana": [
       "だん",
       "だんっ",
-      "だぁん"
+      "だぁん",
+      "だんだん",
+      "だんっだんっ"
     ],
-    "romaji": ["dan"],
+    "romaji": [
+      "dan",
+      "dan dan"
+    ],
     "katakana": [
       "ダン",
       "ダンッ",
-      "ダァン"
+      "ダァン",
+      "ダンダン",
+      "ダンッダンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -4091,64 +3982,44 @@
       "type": "o",
       "example": [
         {
-          "file": "dan-1a",
+          "file": "dan_dan_dan-1a",
           "contributor": "",
           "display": "ダンッ",
           "source": "isekai_pickup"
         },
         {
-          "file": "dan-1b",
+          "file": "dan_dan_dan-1b",
           "contributor": "",
           "display": "だんっ!!",
           "source": "eternal_fool_asley"
         },
         {
-          "file": "dan-1c",
+          "file": "dan_dan_dan-1c",
           "contributor": "",
           "display": "だんっ",
           "source": "saga_lagging_hero"
         },
         {
-          "file": "dan-1d",
+          "file": "dan_dan_dan-1d",
           "contributor": "",
           "display": "ダァン",
           "source": "shogun_gold_in_america"
-        }
-      ]
-    }],
-    "id": "dan"
-  },
-  {
-    "hiragana": [
-      "だんだん",
-      "だんっだんっ"
-    ],
-    "romaji": ["dan dan"],
-    "katakana": [
-      "ダンダン",
-      "ダンッダンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "dan:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "dan_dan-1a",
+          "file": "dan_dan_dan-1e",
           "contributor": "",
           "display": "ダンッ ダンッ",
           "source": "lord_of_the_hundred_demons"
         },
         {
-          "file": "dan_dan-1b",
+          "file": "dan_dan_dan-1f",
           "contributor": "",
           "display": "ダン ダン ダン ダン",
           "source": "shogun_gold_in_america"
         }
       ]
     }],
-    "id": "dan_dan"
+    "id": "dan"
   },
   {
     "hiragana": ["だらだら"],
@@ -4438,16 +4309,23 @@
       "どごぉ",
       "どごっ",
       "どごおっ",
-      "どごぉっ"
+      "どごぉっ",
+      "どごん",
+      "どごんっ"
     ],
-    "romaji": ["dogo"],
+    "romaji": [
+      "dogo",
+      "dogon"
+    ],
     "katakana": [
       "ドゴ",
       "ドゴオ",
       "ドゴォ",
       "ドゴッ",
       "ドゴオッ",
-      "ドゴォッ"
+      "ドゴォッ",
+      "ドゴン",
+      "ドゴンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -4479,50 +4357,32 @@
       "type": "o",
       "example": [
         {
-          "file": "dogo-1a",
+          "file": "dogo_dogon-1a",
           "contributor": "",
           "display": "ドゴッ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "dogo-1b",
+          "file": "dogo_dogon-1b",
           "contributor": "",
           "display": "ドゴッ",
           "source": "killed_by_gods_mistake"
         },
         {
-          "file": "dogo-1c",
+          "file": "dogo_dogon-1c",
           "contributor": "",
           "display": "ドゴオッ",
           "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "dogo_dogon-1d",
+          "contributor": "",
+          "display": "ドゴン",
+          "source": "world_full_of_monsters"
         }
       ]
     }],
-    "id": "dogo"
-  },
-  {
-    "hiragana": [
-      "どごん",
-      "どごんっ"
-    ],
-    "romaji": ["dogon"],
-    "katakana": [
-      "ドゴン",
-      "ドゴンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "dogo:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "dogon-1a",
-        "contributor": "",
-        "display": "ドゴン",
-        "source": "world_full_of_monsters"
-      }]
-    }],
-    "id": "dogon"
+    "id": "dogo_dogon"
   },
   {
     "hiragana": [
@@ -4737,9 +4597,21 @@
     "id": "doki_doki"
   },
   {
-    "hiragana": ["どく"],
-    "romaji": ["doku"],
-    "katakana": ["ドク"],
+    "hiragana": [
+      "どく",
+      "どくん",
+      "どくんどくん"
+    ],
+    "romaji": [
+      "doku",
+      "dokun",
+      "dokun dokun"
+    ],
+    "katakana": [
+      "ドク",
+      "ドクン",
+      "ドクンドクン"
+    ],
     "definition": [{
       "equivalent": [
         "ba-dump",
@@ -4750,72 +4622,46 @@
       "refer": "",
       "meaning": "heartbeat or throbbing",
       "type": "s",
-      "example": [{
-        "file": "doku-1a",
-        "contributor": "",
-        "display": "ドク",
-        "source": "embarrassing_and_sweet"
-      }]
-    }],
-    "id": "doku"
-  },
-  {
-    "hiragana": ["どくん"],
-    "romaji": ["dokun"],
-    "katakana": ["ドクン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "doku:1",
-      "meaning": "",
-      "type": "",
       "example": [
         {
-          "file": "dokun-1a",
+          "file": "doku_dokun_dokun_dokun-1a",
+          "contributor": "",
+          "display": "ドク",
+          "source": "embarrassing_and_sweet"
+        },
+        {
+          "file": "doku_dokun_dokun_dokun-1b",
           "contributor": "",
           "display": "ドクン",
           "source": "isekai_sniper"
         },
         {
-          "file": "dokun-1b",
+          "file": "doku_dokun_dokun_dokun-1c",
           "contributor": "",
           "display": "ドクン",
           "source": "ai_and_izawa"
         },
         {
-          "file": "dokun-1c",
+          "file": "doku_dokun_dokun_dokun-1d",
           "contributor": "",
           "display": "ドクン",
           "source": "embarrassing_and_sweet"
-        }
-      ]
-    }],
-    "id": "dokun"
-  },
-  {
-    "hiragana": ["どくんどくん"],
-    "romaji": ["dokun dokun"],
-    "katakana": ["ドクンドクン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "doku:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "dokun_dokun-1a",
+          "file": "doku_dokun_dokun_dokun-1e",
           "contributor": "",
           "display": "ドクン ドクン",
           "source": "ai_and_izawa"
         },
         {
-          "file": "dokun_dokun-1b",
+          "file": "doku_dokun_dokun_dokun-1f",
           "contributor": "",
           "display": "ドクン ドクン",
           "source": "double_play"
         }
       ]
     }],
-    "id": "dokun_dokun"
+    "id": "doku_dokun"
   },
   {
     "hiragana": [
@@ -5916,9 +5762,18 @@
     "id": "fuki_fuki"
   },
   {
-    "hiragana": ["ふむ"],
-    "romaji": ["fumu"],
-    "katakana": ["フム"],
+    "hiragana": [
+      "ふむ",
+      "ふむふむ"
+    ],
+    "romaji": [
+      "fumu",
+      "fumu fumu"
+    ],
+    "katakana": [
+      "フム",
+      "フムフム"
+    ],
     "definition": [{
       "equivalent": [
         "hmm",
@@ -5928,32 +5783,22 @@
       "refer": "",
       "meaning": "an expression of thoughtful contemplation",
       "type": "v",
-      "example": [{
-        "file": "fumu-1a",
-        "contributor": "",
-        "display": "ふむ",
-        "source": "fushi_no_kami"
-      }]
+      "example": [
+        {
+          "file": "fumu_fumu_fumu-1a",
+          "contributor": "",
+          "display": "ふむ",
+          "source": "fushi_no_kami"
+        },
+        {
+          "file": "fumu_fumu_fumu-1b",
+          "contributor": "",
+          "display": "ふむ ふむ",
+          "source": "cheat_pharmacist"
+        }
+      ]
     }],
     "id": "fumu"
-  },
-  {
-    "hiragana": ["ふむふむ"],
-    "romaji": ["fumu fumu"],
-    "katakana": ["フムフム"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "fumu:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "fumu_fumu-1a",
-        "contributor": "",
-        "display": "ふむ ふむ",
-        "source": "cheat_pharmacist"
-      }]
-    }],
-    "id": "fumu_fumu"
   },
   {
     "hiragana": [
@@ -6689,12 +6534,17 @@
   {
     "hiragana": [
       "がちゃ",
-      "がちゃっ"
+      "がちゃっ",
+      "がちゃがちゃ"
     ],
-    "romaji": ["gacha"],
+    "romaji": [
+      "gacha",
+      "gacha gacha"
+    ],
     "katakana": [
       "ガチャ",
-      "ガチャッ"
+      "ガチャッ",
+      "ガチャガチャ"
     ],
     "definition": [{
       "equivalent": [
@@ -6712,62 +6562,50 @@
       "type": "o",
       "example": [
         {
-          "file": "gacha-1a",
+          "file": "gacha_gacha_gacha-1a",
           "contributor": "",
           "display": "ガチャ",
           "source": "d_genesis"
         },
         {
-          "file": "gacha-1b",
+          "file": "gacha_gacha_gacha-1b",
           "contributor": "",
           "display": "ガチャ",
           "source": "spy_x_family"
         },
         {
-          "file": "gacha-1c",
+          "file": "gacha_gacha_gacha-1c",
           "contributor": "",
           "display": "ガチャ",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "gacha-1d",
+          "file": "gacha_gacha_gacha-1d",
           "contributor": "",
           "display": "ガチャ",
           "source": "berserk"
         },
         {
-          "file": "gacha-1e",
+          "file": "gacha_gacha_gacha-1e",
           "contributor": "",
           "display": "ガチャッ",
           "source": "yojo_life"
         },
         {
-          "file": "gacha-1f",
+          "file": "gacha_gacha_gacha-1f",
           "contributor": "",
           "display": "ガチャ",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "gacha_gacha_gacha-1g",
+          "contributor": "",
+          "display": "ガチャ ガチャ",
+          "source": "world_full_of_zombies"
         }
       ]
     }],
     "id": "gacha"
-  },
-  {
-    "hiragana": ["がちゃがちゃ"],
-    "romaji": ["gacha gacha"],
-    "katakana": ["ガチャガチャ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gacha:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "gacha_gacha-1a",
-        "contributor": "",
-        "display": "ガチャ ガチャ",
-        "source": "world_full_of_zombies"
-      }]
-    }],
-    "id": "gacha_gacha"
   },
   {
     "hiragana": ["がちがち"],
@@ -6861,13 +6699,20 @@
     "hiragana": [
       "がき",
       "がきっ",
-      "がきぃっ"
+      "がきぃっ",
+      "がきん",
+      "がきんっ"
     ],
-    "romaji": ["gaki"],
+    "romaji": [
+      "gaki",
+      "gakin"
+    ],
     "katakana": [
       "ガキ",
       "ガキッ",
-      "ガキィッ"
+      "ガキィッ",
+      "ガキン",
+      "ガキンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -6884,46 +6729,28 @@
       "refer": "",
       "meaning": "a sharp clashing, snapping, or colliding sound",
       "type": "o",
-      "example": [{
-        "file": "gaki-1a",
-        "contributor": "",
-        "display": "ガキッ",
-        "source": "world_full_of_monsters"
-      }]
-    }],
-    "id": "gaki"
-  },
-  {
-    "hiragana": [
-      "がきん",
-      "がきんっ"
-    ],
-    "romaji": ["gakin"],
-    "katakana": [
-      "ガキン",
-      "ガキンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gaki:1",
-      "meaning": "",
-      "type": "",
       "example": [
         {
-          "file": "gakin-1a",
+          "file": "gaki_gakin-1a",
+          "contributor": "",
+          "display": "ガキッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gaki_gakin-1b",
           "contributor": "",
           "display": "ガキンッ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "gakin-1b",
+          "file": "gaki_gakin-1c",
           "contributor": "",
           "display": "ガキンッ",
           "source": "neet_kunoichi"
         }
       ]
     }],
-    "id": "gakin"
+    "id": "gaki_gakin"
   },
   {
     "hiragana": [
@@ -7370,14 +7197,21 @@
       "がさ",
       "がさっ",
       "がささ",
-      "がささっ"
+      "がささっ",
+      "がさがさ",
+      "がさがさっ"
     ],
-    "romaji": ["gasa"],
+    "romaji": [
+      "gasa",
+      "gasa gasa"
+    ],
     "katakana": [
       "ガサ",
       "ガサッ",
       "ガササ",
-      "ガササッ"
+      "ガササッ",
+      "ガサガサ",
+      "ガサガサッ"
     ],
     "definition": [{
       "equivalent": [
@@ -7394,70 +7228,50 @@
       "type": "o",
       "example": [
         {
-          "file": "gasa-1a",
+          "file": "gasa_gasa_gasa-1a",
           "contributor": "",
           "display": "ガサ",
           "source": "d_genesis"
         },
         {
-          "file": "gasa-1b",
+          "file": "gasa_gasa_gasa-1b",
           "contributor": "",
           "display": "ガサ",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "gasa-1c",
+          "file": "gasa_gasa_gasa-1c",
           "contributor": "",
           "display": "ガサッ",
           "source": "a_rank_slow_life"
         },
         {
-          "file": "gasa-1d",
+          "file": "gasa_gasa_gasa-1d",
           "contributor": "",
           "display": "がさ!",
           "source": "beastly_boys_and_girls"
         },
         {
-          "file": "gasa-1e",
+          "file": "gasa_gasa_gasa-1e",
           "contributor": "Artrix",
           "display": "ガササッ",
           "source": "pokemon_xy_break"
-        }
-      ]
-    }],
-    "id": "gasa"
-  },
-  {
-    "hiragana": [
-      "がさがさ",
-      "がさがさっ"
-    ],
-    "romaji": ["gasa gasa"],
-    "katakana": [
-      "ガサガサ",
-      "ガサガサッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gasa:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "gasa_gasa-1a",
+          "file": "gasa_gasa_gasa-1f",
           "contributor": "",
           "display": "ガサ ガサ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "gasa_gasa-1b",
+          "file": "gasa_gasa_gasa-1g",
           "contributor": "",
           "display": "ガサ ガサッ",
           "source": "reincarnated_aristocrat"
         }
       ]
     }],
-    "id": "gasa_gasa"
+    "id": "gasa"
   },
   {
     "hiragana": [
@@ -8046,12 +7860,19 @@
   {
     "hiragana": [
       "ぎん",
-      "ぎんっ"
+      "ぎんっ",
+      "ぎんぎん",
+      "ぎんぎんっ"
     ],
-    "romaji": ["gin"],
+    "romaji": [
+      "gin",
+      "gin gin"
+    ],
     "katakana": [
       "ギン",
-      "ギンッ"
+      "ギンッ",
+      "ギンギン",
+      "ギンギンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -8067,16 +7888,22 @@
       "type": "e",
       "example": [
         {
-          "file": "gin-1a",
+          "file": "gin_gin_gin-1a",
           "contributor": "",
           "display": "ギン",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "gin-1b",
+          "file": "gin_gin_gin-1b",
           "contributor": "",
           "display": "ギンッ",
           "source": "dungeon_dining_room"
+        },
+        {
+          "file": "gin_gin_gin-1c",
+          "contributor": "",
+          "display": "ギン ギン",
+          "source": "sex_with_me_sells"
         }
       ]
     }],
@@ -8108,30 +7935,6 @@
   },
   {
     "hiragana": [
-      "ぎんぎん",
-      "ぎんぎんっ"
-    ],
-    "romaji": ["gin gin"],
-    "katakana": [
-      "ギンギン",
-      "ギンギンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gin:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "gin_gin-1a",
-        "contributor": "",
-        "display": "ギン ギン",
-        "source": "sex_with_me_sells"
-      }]
-    }],
-    "id": "gin_gin"
-  },
-  {
-    "hiragana": [
       "ぎら",
       "ぎらっ"
     ],
@@ -8157,12 +7960,19 @@
   {
     "hiragana": [
       "ぎり",
-      "ぎりっ"
+      "ぎりっ",
+      "ぎりぎり",
+      "ぎりぎりり"
     ],
-    "romaji": ["giri"],
+    "romaji": [
+      "giri",
+      "giri giri"
+    ],
     "katakana": [
       "ギリ",
-      "ギリッ"
+      "ギリッ",
+      "ギリギリ",
+      "ギリギリリ"
     ],
     "definition": [{
       "equivalent": [
@@ -8176,52 +7986,32 @@
       "type": "e",
       "example": [
         {
-          "file": "giri-1a",
+          "file": "giri_giri_giri-1a",
           "contributor": "",
           "display": "ギリッ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "giri-1b",
+          "file": "giri_giri_giri-1b",
           "contributor": "",
           "display": "ギリッ",
           "source": "sex_with_me_sells"
-        }
-      ]
-    }],
-    "id": "giri"
-  },
-  {
-    "hiragana": [
-      "ぎりぎり",
-      "ぎりぎりり"
-    ],
-    "romaji": ["giri giri"],
-    "katakana": [
-      "ギリギリ",
-      "ギリギリリ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "giri:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "giri_giri-1a",
+          "file": "giri_giri_giri-1c",
           "contributor": "",
           "display": "ギリ ギリ",
           "source": "berserk"
         },
         {
-          "file": "giri_giri-1b",
+          "file": "giri_giri_giri-1d",
           "contributor": "",
           "display": "ギリ ギリリ",
           "source": "shogun_gold_in_america"
         }
       ]
     }],
-    "id": "giri_giri"
+    "id": "giri"
   },
   {
     "hiragana": [
@@ -8461,12 +8251,19 @@
   {
     "hiragana": [
       "ごほ",
-      "ごほっ"
+      "ごほっ",
+      "ごほごほ",
+      "ごほごほっ"
     ],
-    "romaji": ["goho"],
+    "romaji": [
+      "goho",
+      "goho goho"
+    ],
     "katakana": [
       "ゴホ",
-      "ゴホッ"
+      "ゴホッ",
+      "ゴホゴホ",
+      "ゴホゴホッ"
     ],
     "definition": [{
       "equivalent": [
@@ -8474,50 +8271,42 @@
         "hack"
       ],
       "refer": "",
-      "meaning": "a sharp or sudden cough",
+      "meaning": "a sharp or sudden cough, recurring or repeated",
       "type": "o",
-      "example": [{
-        "file": "goho-1a",
-        "contributor": "",
-        "display": "ゴホッ",
-        "source": "isekai_sniper"
-      }]
+      "example": [
+        {
+          "file": "goho_goho_goho-1a",
+          "contributor": "",
+          "display": "ゴホッ",
+          "source": "isekai_sniper"
+        },
+        {
+          "file": "goho_goho_goho-1b",
+          "contributor": "",
+          "display": "ゴホ ゴホッ",
+          "source": "isekai_sniper"
+        }
+      ]
     }],
     "id": "goho"
   },
   {
     "hiragana": [
-      "ごほごほ",
-      "ごほごほっ"
-    ],
-    "romaji": ["goho goho"],
-    "katakana": [
-      "ゴホゴホ",
-      "ゴホゴホッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "goho:1",
-      "meaning": ", recurring or repeated",
-      "type": "",
-      "example": [{
-        "file": "goho_goho-1a",
-        "contributor": "",
-        "display": "ゴホ ゴホッ",
-        "source": "isekai_sniper"
-      }]
-    }],
-    "id": "goho_goho"
-  },
-  {
-    "hiragana": [
       "ごく",
-      "ごくっ"
+      "ごくっ",
+      "ごくん",
+      "ごくごく"
     ],
-    "romaji": ["goku"],
+    "romaji": [
+      "goku",
+      "gokun",
+      "goku goku"
+    ],
     "katakana": [
       "ゴク",
-      "ゴクッ"
+      "ゴクッ",
+      "ゴクン",
+      "ゴクゴク"
     ],
     "definition": [{
       "equivalent": [
@@ -8529,96 +8318,68 @@
       "type": "v",
       "example": [
         {
-          "file": "goku-1a",
+          "file": "goku_gokun_goku_goku-1a",
           "contributor": "",
           "display": "ゴクッ\u2026",
           "source": "strongest_failure_frame"
         },
         {
-          "file": "goku-1b",
+          "file": "goku_gokun_goku_goku-1b",
           "contributor": "",
           "display": "ゴク",
           "source": "a_rank_slow_life"
         },
         {
-          "file": "goku-1c",
+          "file": "goku_gokun_goku_goku-1c",
           "contributor": "",
           "display": "ごく",
           "source": "dog_became_strongest"
-        }
-      ]
-    }],
-    "id": "goku"
-  },
-  {
-    "hiragana": ["ごくん"],
-    "romaji": ["gokun"],
-    "katakana": ["ゴクン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "goku:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "gokun-1a",
+          "file": "goku_gokun_goku_goku-1d",
           "contributor": "",
           "display": "ゴクン",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "gokun-1b",
+          "file": "goku_gokun_goku_goku-1e",
           "contributor": "",
           "display": "ゴクン.",
           "source": "berserk"
         },
         {
-          "file": "gokun-1c",
+          "file": "goku_gokun_goku_goku-1f",
           "contributor": "",
           "display": "ゴクン",
           "source": "rise_of_the_outlaw_tamer"
-        }
-      ]
-    }],
-    "id": "gokun"
-  },
-  {
-    "hiragana": ["ごくごく"],
-    "romaji": ["goku goku"],
-    "katakana": ["ゴクゴク"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "goku:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "goku_goku-1a",
+          "file": "goku_gokun_goku_goku-1g",
           "contributor": "",
           "display": "ごく ごく",
           "source": "different_world_smartphone"
         },
         {
-          "file": "goku_goku-1b",
+          "file": "goku_gokun_goku_goku-1h",
           "contributor": "",
           "display": "ゴクゴク",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "goku_goku-1c",
+          "file": "goku_gokun_goku_goku-1i",
           "contributor": "",
           "display": "ゴク ゴク",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "goku_goku-1d",
+          "file": "goku_gokun_goku_goku-1j",
           "contributor": "",
           "display": "ごく ごく",
           "source": "cheat_pharmacist"
         }
       ]
     }],
-    "id": "goku_goku"
+    "id": "goku_gokun"
   },
   {
     "hiragana": ["ごきゅごきゅ"],
@@ -8716,12 +8477,17 @@
   {
     "hiragana": [
       "ごろ",
-      "ごろっ"
+      "ごろっ",
+      "ごろん"
     ],
-    "romaji": ["goro"],
+    "romaji": [
+      "goro",
+      "goron"
+    ],
     "katakana": [
       "ゴロ",
-      "ゴロッ"
+      "ゴロッ",
+      "ゴロン"
     ],
     "definition": [{
       "equivalent": [
@@ -8739,52 +8505,38 @@
       "type": "o",
       "example": [
         {
-          "file": "goro-1a",
+          "file": "goro_goron-1a",
           "contributor": "",
           "display": "ゴロ\u2026",
           "source": "d_genesis"
         },
         {
-          "file": "goro-1b",
+          "file": "goro_goron-1b",
           "contributor": "",
           "display": "ゴロッ",
           "source": "way_of_isekai_cooking"
-        }
-      ]
-    }],
-    "id": "goro"
-  },
-  {
-    "hiragana": ["ごろん"],
-    "romaji": ["goron"],
-    "katakana": ["ゴロン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "goro:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "goron-1a",
+          "file": "goro_goron-1c",
           "contributor": "",
           "display": "ごろん",
           "source": "different_world_smartphone"
         },
         {
-          "file": "goron-1b",
+          "file": "goro_goron-1d",
           "contributor": "",
           "display": "ゴロン",
           "source": "neet_kunoichi"
         },
         {
-          "file": "goron-1c",
+          "file": "goro_goron-1e",
           "contributor": "",
           "display": "ゴロン",
           "source": "spy_x_family"
         }
       ]
     }],
-    "id": "goron"
+    "id": "goro_goron"
   },
   {
     "hiragana": [
@@ -9338,14 +9090,19 @@
       "ぐい",
       "ぐいっ",
       "ぐぃ",
-      "ぐぃっ"
+      "ぐぃっ",
+      "ぐいぐい"
     ],
-    "romaji": ["gui"],
+    "romaji": [
+      "gui",
+      "gui gui"
+    ],
     "katakana": [
       "グイ",
       "グイッ",
       "グィ",
-      "グィッ"
+      "グィッ",
+      "グイグイ"
     ],
     "definition": [{
       "equivalent": [
@@ -9367,56 +9124,44 @@
       "type": "m",
       "example": [
         {
-          "file": "gui-1a",
+          "file": "gui_gui_gui-1a",
           "contributor": "",
           "display": "ぐいっ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "gui-1b",
+          "file": "gui_gui_gui-1b",
           "contributor": "",
           "display": "ぐぃっ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "gui-1c",
+          "file": "gui_gui_gui-1c",
           "contributor": "",
           "display": "グイ",
           "source": "marginal_taylor"
         },
         {
-          "file": "gui-1d",
+          "file": "gui_gui_gui-1d",
           "contributor": "",
           "display": "グイッ",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "gui-1e",
+          "file": "gui_gui_gui-1e",
           "contributor": "",
           "display": "ぐぃっ",
           "source": "ai_and_izawa"
+        },
+        {
+          "file": "gui_gui_gui-1f",
+          "contributor": "",
+          "display": "ぐい ぐい",
+          "source": "saga_lagging_hero"
         }
       ]
     }],
     "id": "gui"
-  },
-  {
-    "hiragana": ["ぐいぐい"],
-    "romaji": ["gui gui"],
-    "katakana": ["グイグイ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gui:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "gui_gui-1a",
-        "contributor": "",
-        "display": "ぐい ぐい",
-        "source": "saga_lagging_hero"
-      }]
-    }],
-    "id": "gui_gui"
   },
   {
     "hiragana": ["ぐに"],
@@ -9688,12 +9433,19 @@
   {
     "hiragana": [
       "ぐし",
-      "ぐしっ"
+      "ぐしっ",
+      "ぐしぐし",
+      "ぐしぐしっ"
     ],
-    "romaji": ["gushi"],
+    "romaji": [
+      "gushi",
+      "gushi gushi"
+    ],
     "katakana": [
       "グシ",
-      "グシッ"
+      "グシッ",
+      "グシグシ",
+      "グシグシッ"
     ],
     "definition": [{
       "equivalent": [
@@ -9706,48 +9458,45 @@
       "refer": "",
       "meaning": "the sound of roughly pressing or rubbing something soft",
       "type": "o",
-      "example": [{
-        "file": "gushi-1a",
-        "contributor": "",
-        "display": "ぐしっ",
-        "source": "requiem_for_prophet"
-      }]
+      "example": [
+        {
+          "file": "gushi_gushi_gushi-1a",
+          "contributor": "",
+          "display": "ぐしっ",
+          "source": "requiem_for_prophet"
+        },
+        {
+          "file": "gushi_gushi_gushi-1b",
+          "contributor": "",
+          "display": "グシ グシ",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "id": "gushi"
   },
   {
     "hiragana": [
-      "ぐしぐし",
-      "ぐしぐしっ"
-    ],
-    "romaji": ["gushi gushi"],
-    "katakana": [
-      "グシグシ",
-      "グシグシッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gushi:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "gushi_gushi-1a",
-        "contributor": "",
-        "display": "グシ グシ",
-        "source": "shogun_gold_in_america"
-      }]
-    }],
-    "id": "gushi_gushi"
-  },
-  {
-    "hiragana": [
       "ぐす",
-      "ぐすっ"
+      "ぐすっ",
+      "ぐすん",
+      "ぐすんぐすん",
+      "ぐすぐす",
+      "ぐすっぐすっ"
     ],
-    "romaji": ["gusu"],
+    "romaji": [
+      "gusu",
+      "gusun",
+      "gusun gusun",
+      "gusu gusu"
+    ],
     "katakana": [
       "グス",
-      "グスッ"
+      "グスッ",
+      "グスン",
+      "グスングスン",
+      "グスグス",
+      "グスッグスッ"
     ],
     "definition": [{
       "equivalent": [
@@ -9762,82 +9511,40 @@
       "refer": "",
       "meaning": "the soft sniffling or sobbing sound of crying",
       "type": "v",
-      "example": [{
-        "file": "gusu-1a",
-        "contributor": "",
-        "display": "ぐすっ",
-        "source": "requiem_for_prophet"
-      }]
-    }],
-    "id": "gusu"
-  },
-  {
-    "hiragana": ["ぐすん"],
-    "romaji": ["gusun"],
-    "katakana": ["グスン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gusu:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "gusun-1a",
-        "contributor": "",
-        "display": "ぐすん",
-        "source": "requiem_for_prophet"
-      }]
-    }],
-    "id": "gusun"
-  },
-  {
-    "hiragana": ["ぐすんぐすん"],
-    "romaji": ["gusun gusun"],
-    "katakana": ["グスングスン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gusu:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "gusun_gusun-1a",
-        "contributor": "",
-        "display": "ぐすん ぐすん",
-        "source": "different_world_smartphone"
-      }]
-    }],
-    "id": "gusun_gusun"
-  },
-  {
-    "hiragana": [
-      "ぐすぐす",
-      "ぐすっぐすっ"
-    ],
-    "romaji": ["gusu gusu"],
-    "katakana": [
-      "グスグス",
-      "グスッグスッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gusu:1",
-      "meaning": "",
-      "type": "",
       "example": [
         {
-          "file": "gusu_gusu-1a",
+          "file": "gusu_gusun_gusun_gusun_gusu_gusu-1a",
+          "contributor": "",
+          "display": "ぐすっ",
+          "source": "requiem_for_prophet"
+        },
+        {
+          "file": "gusu_gusun_gusun_gusun_gusu_gusu-1b",
+          "contributor": "",
+          "display": "ぐすん",
+          "source": "requiem_for_prophet"
+        },
+        {
+          "file": "gusu_gusun_gusun_gusun_gusu_gusu-1c",
+          "contributor": "",
+          "display": "ぐすん ぐすん",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "gusu_gusun_gusun_gusun_gusu_gusu-1d",
           "contributor": "",
           "display": "ぐすっ ぐすっ",
           "source": "reincarnated_aristocrat"
         },
         {
-          "file": "gusu_gusu-1b",
+          "file": "gusu_gusun_gusun_gusun_gusu_gusu-1e",
           "contributor": "",
           "display": "ぐすっ ぐすっ",
           "source": "requiem_for_prophet"
         }
       ]
     }],
-    "id": "gusu_gusu"
+    "id": "gusu_gusun"
   },
   {
     "hiragana": [
@@ -10393,9 +10100,18 @@
     "id": "hafu_hafu"
   },
   {
-    "hiragana": ["はむ"],
-    "romaji": ["hamu"],
-    "katakana": ["ハム"],
+    "hiragana": [
+      "はむ",
+      "はむはむ"
+    ],
+    "romaji": [
+      "hamu",
+      "hamu hamu"
+    ],
+    "katakana": [
+      "ハム",
+      "ハムハム"
+    ],
     "definition": [{
       "equivalent": [
         "bite",
@@ -10408,32 +10124,22 @@
       "refer": "",
       "meaning": "small, gentle biting or nibbling",
       "type": "v",
-      "example": [{
-        "file": "hamu-1a",
-        "contributor": "",
-        "display": "はむ",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "file": "hamu_hamu_hamu-1a",
+          "contributor": "",
+          "display": "はむ",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "hamu_hamu_hamu-1b",
+          "contributor": "",
+          "display": "はむ はむ",
+          "source": "uncle_at_heart"
+        }
+      ]
     }],
     "id": "hamu"
-  },
-  {
-    "hiragana": ["はむはむ"],
-    "romaji": ["hamu hamu"],
-    "katakana": ["ハムハム"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "hamu:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "hamu_hamu-1a",
-        "contributor": "",
-        "display": "はむ はむ",
-        "source": "uncle_at_heart"
-      }]
-    }],
-    "id": "hamu_hamu"
   },
   {
     "hiragana": [
@@ -10695,9 +10401,18 @@
     "id": "hin_hin"
   },
   {
-    "hiragana": ["ひら"],
-    "romaji": ["hira"],
-    "katakana": ["ヒラ"],
+    "hiragana": [
+      "ひら",
+      "ひらひら"
+    ],
+    "romaji": [
+      "hira",
+      "hira hira"
+    ],
+    "katakana": [
+      "ヒラ",
+      "ヒラヒラ"
+    ],
     "definition": [{
       "equivalent": [
         "flap",
@@ -10711,38 +10426,26 @@
       "type": "o",
       "example": [
         {
-          "file": "hira-1a",
+          "file": "hira_hira_hira-1a",
           "contributor": "",
           "display": "ヒラ",
           "source": "dog_became_strongest"
         },
         {
-          "file": "hira-1b",
+          "file": "hira_hira_hira-1b",
           "contributor": "",
           "display": "ひら\u2026..",
           "source": "beastly_boys_and_girls"
+        },
+        {
+          "file": "hira_hira_hira-1c",
+          "contributor": "",
+          "display": "ひら ひら",
+          "source": "lord_of_the_hundred_demons"
         }
       ]
     }],
     "id": "hira"
-  },
-  {
-    "hiragana": ["ひらひら"],
-    "romaji": ["hira hira"],
-    "katakana": ["ヒラヒラ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "hira:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "hira_hira-1a",
-        "contributor": "",
-        "display": "ひら ひら",
-        "source": "lord_of_the_hundred_demons"
-      }]
-    }],
-    "id": "hira_hira"
   },
   {
     "hiragana": ["ひりひり"],
@@ -12361,12 +12064,20 @@
   {
     "hiragana": [
       "かちゃ",
-      "かちゃっ"
+      "かちゃっ",
+      "かちゃん",
+      "かちゃかちゃ"
     ],
-    "romaji": ["kacha"],
+    "romaji": [
+      "kacha",
+      "kachan",
+      "kacha kacha"
+    ],
     "katakana": [
       "カチャ",
-      "カチャッ"
+      "カチャッ",
+      "カチャン",
+      "カチャカチャ"
     ],
     "definition": [{
       "equivalent": [
@@ -12382,86 +12093,65 @@
       "type": "o",
       "example": [
         {
-          "file": "kacha-1a",
+          "file": "kacha_kachan_kacha_kacha-1a",
           "contributor": "",
           "display": "カチャ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "kacha-1b",
+          "file": "kacha_kachan_kacha_kacha-1b",
           "contributor": "",
           "display": "カチャ",
           "source": "dog_became_strongest"
         },
         {
-          "file": "kacha-1c",
+          "file": "kacha_kachan_kacha_kacha-1c",
           "contributor": "",
           "display": "カチャッ",
           "source": "killed_by_gods_mistake"
-        }
-      ]
-    }],
-    "id": "kacha"
-  },
-  {
-    "hiragana": ["かちゃん"],
-    "romaji": ["kachan"],
-    "katakana": ["カチャン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kacha:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "kachan-1a",
-        "contributor": "",
-        "display": "カチャン",
-        "source": "otherworld_material_collector"
-      }]
-    }],
-    "id": "kachan"
-  },
-  {
-    "hiragana": ["かちゃかちゃ"],
-    "romaji": ["kacha kacha"],
-    "katakana": ["カチャカチャ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kacha:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "kacha_kacha-1a",
+          "file": "kacha_kachan_kacha_kacha-1d",
+          "contributor": "",
+          "display": "カチャン",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "kacha_kachan_kacha_kacha-1e",
           "contributor": "",
           "display": "カチャ カチャ",
           "source": "reincarnated_aristocrat"
         },
         {
-          "file": "kacha_kacha-1b",
+          "file": "kacha_kachan_kacha_kacha-1f",
           "contributor": "",
           "display": "カチャ カチャ",
           "source": "neet_kunoichi"
         },
         {
-          "file": "kacha_kacha-1c",
+          "file": "kacha_kachan_kacha_kacha-1g",
           "contributor": "",
           "display": "カチャ カチャ",
           "source": "gyaru_academy"
         }
       ]
     }],
-    "id": "kacha_kacha"
+    "id": "kacha_kachan"
   },
   {
     "hiragana": [
       "かち",
-      "かちっ"
+      "かちっ",
+      "かちかち"
     ],
-    "romaji": ["kachi"],
+    "romaji": [
+      "kachi",
+      "kachi kachi"
+    ],
     "katakana": [
       "カチ",
-      "カチッ"
+      "カチッ",
+      "カチカチ"
     ],
     "definition": [{
       "equivalent": [
@@ -12478,38 +12168,26 @@
       "type": "o",
       "example": [
         {
-          "file": "kachi-1a",
+          "file": "kachi_kachi_kachi-1a",
           "contributor": "",
           "display": "カチ",
           "source": "d_genesis"
         },
         {
-          "file": "kachi-1b",
+          "file": "kachi_kachi_kachi-1b",
           "contributor": "",
           "display": "カチッ",
           "source": "d_genesis"
+        },
+        {
+          "file": "kachi_kachi_kachi-1c",
+          "contributor": "",
+          "display": "カチ カチ",
+          "source": "isekai_av_filming"
         }
       ]
     }],
     "id": "kachi"
-  },
-  {
-    "hiragana": ["かちかち"],
-    "romaji": ["kachi kachi"],
-    "katakana": ["カチカチ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kachi:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "kachi_kachi-1a",
-        "contributor": "",
-        "display": "カチ カチ",
-        "source": "isekai_av_filming"
-      }]
-    }],
-    "id": "kachi_kachi"
   },
   {
     "hiragana": ["かきかき"],
@@ -12660,12 +12338,22 @@
   {
     "hiragana": [
       "から",
-      "からっ"
+      "からっ",
+      "からん",
+      "からんっ",
+      "からんからん"
     ],
-    "romaji": ["kara"],
+    "romaji": [
+      "kara",
+      "karan",
+      "karan karan"
+    ],
     "katakana": [
       "カラ",
-      "カラッ"
+      "カラッ",
+      "カラン",
+      "カランッ",
+      "カランカラン"
     ],
     "definition": [{
       "equivalent": [
@@ -12676,74 +12364,43 @@
         "clunk",
         "hit",
         "knock",
-        "plink"
+        "plink",
+        "clang-clang",
+        "clank-clank",
+        "ding-ding",
+        "jingle"
       ],
       "refer": "",
       "meaning": "metallic clanking or hollow clunking",
       "type": "o",
       "example": [
         {
-          "file": "kara-1a",
+          "file": "kara_karan_karan_karan-1a",
           "contributor": "",
           "display": "カラッ",
           "source": "dungeon_dining_room"
         },
         {
-          "file": "kara-1b",
+          "file": "kara_karan_karan_karan-1b",
           "contributor": "",
           "display": "カラッ",
           "source": "minimum_wage_demon_king"
+        },
+        {
+          "file": "kara_karan_karan_karan-1c",
+          "contributor": "",
+          "display": "カラン",
+          "source": "d_genesis"
+        },
+        {
+          "file": "kara_karan_karan_karan-1d",
+          "contributor": "",
+          "display": "カラン カラン",
+          "source": "isekai_pickup"
         }
       ]
     }],
-    "id": "kara"
-  },
-  {
-    "hiragana": [
-      "からん",
-      "からんっ"
-    ],
-    "romaji": ["karan"],
-    "katakana": [
-      "カラン",
-      "カランッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kara:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "karan-1a",
-        "contributor": "",
-        "display": "カラン",
-        "source": "d_genesis"
-      }]
-    }],
-    "id": "karan"
-  },
-  {
-    "hiragana": ["からんからん"],
-    "romaji": ["karan karan"],
-    "katakana": ["カランカラン"],
-    "definition": [{
-      "equivalent": [
-        "clang-clang",
-        "clank-clank",
-        "ding-ding",
-        "jingle"
-      ],
-      "refer": "kara:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "karan_karan-1a",
-        "contributor": "",
-        "display": "カラン カラン",
-        "source": "isekai_pickup"
-      }]
-    }],
-    "id": "karan_karan"
+    "id": "kara_karan"
   },
   {
     "hiragana": ["かりかり"],
@@ -13132,12 +12789,19 @@
   {
     "hiragana": [
       "けほ",
-      "けほっ"
+      "けほっ",
+      "けほけほ",
+      "けほっけほっ"
     ],
-    "romaji": ["keho"],
+    "romaji": [
+      "keho",
+      "keho keho"
+    ],
     "katakana": [
       "ケホ",
-      "ケホッ"
+      "ケホッ",
+      "ケホケホ",
+      "ケホッケホッ"
     ],
     "definition": [{
       "equivalent": [
@@ -13147,48 +12811,30 @@
         "khak"
       ],
       "refer": "",
-      "meaning": "small, weak, or dry cough",
+      "meaning": "small, weak, or dry coughing",
       "type": "v",
-      "example": [{
-        "file": "keho-1a",
-        "contributor": "",
-        "display": "ケホッ",
-        "source": "isekai_sniper"
-      }]
-    }],
-    "id": "keho"
-  },
-  {
-    "hiragana": [
-      "けほけほ",
-      "けほっけほっ"
-    ],
-    "romaji": ["keho keho"],
-    "katakana": [
-      "ケホケホ",
-      "ケホッケホッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "keho:1",
-      "meaning": "ing",
-      "type": "",
       "example": [
         {
-          "file": "keho_keho-1a",
+          "file": "keho_keho_keho-1a",
+          "contributor": "",
+          "display": "ケホッ",
+          "source": "isekai_sniper"
+        },
+        {
+          "file": "keho_keho_keho-1b",
           "contributor": "",
           "display": "ケホッ ケホ\u2026",
           "source": "neet_kunoichi"
         },
         {
-          "file": "keho_keho-1b",
+          "file": "keho_keho_keho-1c",
           "contributor": "",
           "display": "ケホケホ",
           "source": "isekai_av_filming"
         }
       ]
     }],
-    "id": "keho_keho"
+    "id": "keho"
   },
   {
     "hiragana": ["けたけた"],
@@ -13370,12 +13016,22 @@
   {
     "hiragana": [
       "きら",
-      "きらっ"
+      "きらっ",
+      "きらん",
+      "きらーん",
+      "きらきら"
     ],
-    "romaji": ["kira"],
+    "romaji": [
+      "kira",
+      "kiran",
+      "kira kira"
+    ],
     "katakana": [
       "キラ",
-      "キラッ"
+      "キラッ",
+      "キラン",
+      "キラーン",
+      "キラキラ"
     ],
     "definition": [{
       "equivalent": [
@@ -13394,70 +13050,38 @@
       "type": "s",
       "example": [
         {
-          "file": "kira-1a",
+          "file": "kira_kiran_kira_kira-1a",
           "contributor": "",
           "display": "キラッ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "kira-1b",
+          "file": "kira_kiran_kira_kira-1b",
           "contributor": "",
           "display": "きらっ",
           "source": "isekai_territory_reform"
-        }
-      ]
-    }],
-    "id": "kira"
-  },
-  {
-    "hiragana": [
-      "きらん",
-      "きらーん"
-    ],
-    "romaji": ["kiran"],
-    "katakana": [
-      "キラン",
-      "キラーン"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kira:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "kiran-1a",
-        "contributor": "",
-        "display": "キラーン",
-        "source": "s_rank_behemoth"
-      }]
-    }],
-    "id": "kiran"
-  },
-  {
-    "hiragana": ["きらきら"],
-    "romaji": ["kira kira"],
-    "katakana": ["キラキラ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kira:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "kira_kira-1a",
+          "file": "kira_kiran_kira_kira-1c",
+          "contributor": "",
+          "display": "キラーン",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "kira_kiran_kira_kira-1d",
           "contributor": "",
           "display": "キラ キラ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "kira_kira-1b",
+          "file": "kira_kiran_kira_kira-1e",
           "contributor": "",
           "display": "キラ キラ",
           "source": "s_rank_behemoth"
         }
       ]
     }],
-    "id": "kira_kira"
+    "id": "kira_kiran"
   },
   {
     "hiragana": ["きりきり"],
@@ -13906,9 +13530,18 @@
     "id": "kopo_kopo"
   },
   {
-    "hiragana": ["ころ"],
-    "romaji": ["koro"],
-    "katakana": ["コロ"],
+    "hiragana": [
+      "ころ",
+      "ころん"
+    ],
+    "romaji": [
+      "koro",
+      "koron"
+    ],
+    "katakana": [
+      "コロ",
+      "コロン"
+    ],
     "definition": [{
       "equivalent": [
         "drop",
@@ -13922,32 +13555,22 @@
       "refer": "",
       "meaning": "rolling, tumbling, or dropping",
       "type": "m",
-      "example": [{
-        "file": "koro-1a",
-        "contributor": "",
-        "display": "コロ",
-        "source": "komi_cant_communicate"
-      }]
+      "example": [
+        {
+          "file": "koro_koron-1a",
+          "contributor": "",
+          "display": "コロ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "koro_koron-1b",
+          "contributor": "",
+          "display": "コロン",
+          "source": "world_full_of_monsters"
+        }
+      ]
     }],
-    "id": "koro"
-  },
-  {
-    "hiragana": ["ころん"],
-    "romaji": ["koron"],
-    "katakana": ["コロン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "koro:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "koron-1a",
-        "contributor": "",
-        "display": "コロン",
-        "source": "world_full_of_monsters"
-      }]
-    }],
-    "id": "koron"
+    "id": "koro_koron"
   },
   {
     "hiragana": ["こそこそ"],
@@ -14229,9 +13852,20 @@
     "id": "kua"
   },
   {
-    "hiragana": ["くちゅ"],
-    "romaji": ["kuchu"],
-    "katakana": ["クチュ"],
+    "hiragana": [
+      "くちゅ",
+      "くちゅくちゅ",
+      "くちゅくちゅっ"
+    ],
+    "romaji": [
+      "kuchu",
+      "kuchu kuchu"
+    ],
+    "katakana": [
+      "クチュ",
+      "クチュクチュ",
+      "クチュクチュッ"
+    ],
     "definition": [{
       "equivalent": [
         "glorp",
@@ -14246,56 +13880,36 @@
         "squish"
       ],
       "refer": "",
-      "meaning": "wet smacking or squelching sound",
+      "meaning": "wet smacking or squelching sounds",
       "type": "o",
       "example": [
         {
-          "file": "kuchu-1a",
+          "file": "kuchu_kuchu_kuchu-1a",
           "contributor": "",
           "display": "クチュ\u2026",
           "source": "double_play"
         },
         {
-          "file": "kuchu-1b",
+          "file": "kuchu_kuchu_kuchu-1b",
           "contributor": "",
           "display": "くちゅ",
           "source": "embarrassing_and_sweet"
-        }
-      ]
-    }],
-    "id": "kuchu"
-  },
-  {
-    "hiragana": [
-      "くちゅくちゅ",
-      "くちゅくちゅっ"
-    ],
-    "romaji": ["kuchu kuchu"],
-    "katakana": [
-      "クチュクチュ",
-      "クチュクチュッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kuchu:1",
-      "meaning": "s",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "kuchu_kuchu-1a",
+          "file": "kuchu_kuchu_kuchu-1c",
           "contributor": "",
           "display": "くちゅ くちゅっ",
           "source": "35_year_olds_choice"
         },
         {
-          "file": "kuchu_kuchu-1b",
+          "file": "kuchu_kuchu_kuchu-1d",
           "contributor": "",
           "display": "クチュ クチュ",
           "source": "rise_of_the_outlaw_tamer"
         }
       ]
     }],
-    "id": "kuchu_kuchu"
+    "id": "kuchu"
   },
   {
     "hiragana": [
@@ -14477,12 +14091,17 @@
   {
     "hiragana": [
       "くん",
-      "くんっ"
+      "くんっ",
+      "くんくん"
     ],
-    "romaji": ["kun"],
+    "romaji": [
+      "kun",
+      "kun kun"
+    ],
     "katakana": [
       "クン",
-      "クンッ"
+      "クンッ",
+      "クンクン"
     ],
     "definition": [{
       "equivalent": [
@@ -14492,14 +14111,28 @@
         "whiff"
       ],
       "refer": "",
-      "meaning": "small sniffing movement",
+      "meaning": "small sniffing movements",
       "type": "m",
-      "example": [{
-        "file": "kun-1a",
-        "contributor": "",
-        "display": "クン\u2026",
-        "source": "world_full_of_zombies"
-      }]
+      "example": [
+        {
+          "file": "kun_kun_kun-1a",
+          "contributor": "",
+          "display": "クン\u2026",
+          "source": "world_full_of_zombies"
+        },
+        {
+          "file": "kun_kun_kun-1b",
+          "contributor": "",
+          "display": "くんくん",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "kun_kun_kun-1c",
+          "contributor": "",
+          "display": "くん くん",
+          "source": "shogun_gold_in_america"
+        }
+      ]
     }],
     "id": "kun"
   },
@@ -14534,32 +14167,6 @@
       ]
     }],
     "id": "kuna_kuna"
-  },
-  {
-    "hiragana": ["くんくん"],
-    "romaji": ["kun kun"],
-    "katakana": ["クンクン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kun:1",
-      "meaning": "s",
-      "type": "",
-      "example": [
-        {
-          "file": "kun_kun-1a",
-          "contributor": "",
-          "display": "くんくん",
-          "source": "dog_became_strongest"
-        },
-        {
-          "file": "kun_kun-1b",
-          "contributor": "",
-          "display": "くん くん",
-          "source": "shogun_gold_in_america"
-        }
-      ]
-    }],
-    "id": "kun_kun"
   },
   {
     "hiragana": [
@@ -14633,12 +14240,17 @@
   {
     "hiragana": [
       "くる",
-      "くるっ"
+      "くるっ",
+      "くるん"
     ],
-    "romaji": ["kuru"],
+    "romaji": [
+      "kuru",
+      "kurun"
+    ],
     "katakana": [
       "クル",
-      "クルッ"
+      "クルッ",
+      "クルン"
     ],
     "definition": [{
       "equivalent": [
@@ -14657,50 +14269,38 @@
       "type": "m",
       "example": [
         {
-          "file": "kuru-1a",
+          "file": "kuru_kurun-1a",
           "contributor": "",
           "display": "くるっ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "kuru-1b",
+          "file": "kuru_kurun-1b",
           "contributor": "",
           "display": "クル",
           "source": "marginal_taylor"
         },
         {
-          "file": "kuru-1c",
+          "file": "kuru_kurun-1c",
           "contributor": "",
           "display": "くる",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "kuru-1d",
+          "file": "kuru_kurun-1d",
           "contributor": "",
           "display": "くるっ",
           "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "kuru_kurun-1e",
+          "contributor": "",
+          "display": "くるン",
+          "source": "hero_or_demon_king"
         }
       ]
     }],
-    "id": "kuru"
-  },
-  {
-    "hiragana": ["くるん"],
-    "romaji": ["kurun"],
-    "katakana": ["クルン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kuru:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "kurun-1a",
-        "contributor": "",
-        "display": "くるン",
-        "source": "hero_or_demon_king"
-      }]
-    }],
-    "id": "kurun"
+    "id": "kuru_kurun"
   },
   {
     "hiragana": ["くるくる"],
@@ -14741,12 +14341,17 @@
   {
     "hiragana": [
       "くす",
-      "くすっ"
+      "くすっ",
+      "くすくす"
     ],
-    "romaji": ["kusu"],
+    "romaji": [
+      "kusu",
+      "kusu kusu"
+    ],
     "katakana": [
       "クス",
-      "クスッ"
+      "クスッ",
+      "クスクス"
     ],
     "definition": [{
       "equivalent": [
@@ -14764,22 +14369,28 @@
       "type": "e",
       "example": [
         {
-          "file": "kusu-1a",
+          "file": "kusu_kusu_kusu-1a",
           "contributor": "",
           "display": "くす",
           "source": "d_genesis"
         },
         {
-          "file": "kusu-1b",
+          "file": "kusu_kusu_kusu-1b",
           "contributor": "",
           "display": "クス",
           "source": "d_genesis"
         },
         {
-          "file": "kusu-1c",
+          "file": "kusu_kusu_kusu-1c",
           "contributor": "",
           "display": "くすっ",
           "source": "world_full_of_monsters"
+        },
+        {
+          "file": "kusu_kusu_kusu-1d",
+          "contributor": "",
+          "display": "クス クス",
+          "source": "otherworld_material_collector"
         }
       ]
     }],
@@ -14810,24 +14421,6 @@
     "id": "kusun"
   },
   {
-    "hiragana": ["くすくす"],
-    "romaji": ["kusu kusu"],
-    "katakana": ["クスクス"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kusu:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "kusu_kusu-1a",
-        "contributor": "",
-        "display": "クス クス",
-        "source": "otherworld_material_collector"
-      }]
-    }],
-    "id": "kusu_kusu"
-  },
-  {
     "hiragana": [
       "きゃ",
       "きゃっ",
@@ -14836,9 +14429,14 @@
       "きゃぁ",
       "きゃぁぁ",
       "きゃあ",
-      "きゃああ"
+      "きゃああ",
+      "きゃん",
+      "きゃーん"
     ],
-    "romaji": ["kya"],
+    "romaji": [
+      "kya",
+      "kyan"
+    ],
     "katakana": [
       "キャ",
       "キャッ",
@@ -14847,7 +14445,9 @@
       "キャァ",
       "キャァァ",
       "キャア",
-      "キャアア"
+      "キャアア",
+      "キャン",
+      "キャーン"
     ],
     "definition": [{
       "equivalent": [
@@ -14861,44 +14461,26 @@
       "type": "v",
       "example": [
         {
-          "file": "kya-1a",
+          "file": "kya_kyan-1a",
           "contributor": "",
           "display": "きゃーっ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "kya-1b",
+          "file": "kya_kyan-1b",
           "contributor": "",
           "display": "きゃー!!",
           "source": "rock_n_roll_ladies"
+        },
+        {
+          "file": "kya_kyan-1c",
+          "contributor": "",
+          "display": "きゃん",
+          "source": "dog_became_strongest"
         }
       ]
     }],
-    "id": "kya"
-  },
-  {
-    "hiragana": [
-      "きゃん",
-      "きゃーん"
-    ],
-    "romaji": ["kyan"],
-    "katakana": [
-      "キャン",
-      "キャーン"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kya:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "kyan-1a",
-        "contributor": "",
-        "display": "きゃん",
-        "source": "dog_became_strongest"
-      }]
-    }],
-    "id": "kyan"
+    "id": "kya_kyan"
   },
   {
     "hiragana": ["きょどきょど"],
@@ -14928,9 +14510,18 @@
     "id": "kyodo_kyodo"
   },
   {
-    "hiragana": ["きょろ"],
-    "romaji": ["kyoro"],
-    "katakana": ["キョロ"],
+    "hiragana": [
+      "きょろ",
+      "きょろきょろ"
+    ],
+    "romaji": [
+      "kyoro",
+      "kyoro kyoro"
+    ],
+    "katakana": [
+      "キョロ",
+      "キョロキョロ"
+    ],
     "definition": [{
       "equivalent": [
         "glance",
@@ -14942,58 +14533,46 @@
       "refer": "",
       "meaning": "quick glancing around, often curiously",
       "type": "m",
-      "example": [{
-        "file": "kyoro-1a",
-        "contributor": "",
-        "display": "きょろ",
-        "source": "isekai_territory_reform"
-      }]
-    }],
-    "id": "kyoro"
-  },
-  {
-    "hiragana": ["きょろきょろ"],
-    "romaji": ["kyoro kyoro"],
-    "katakana": ["キョロキョロ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "kyoro:1",
-      "meaning": "",
-      "type": "",
       "example": [
         {
-          "file": "kyoro_kyoro-1a",
+          "file": "kyoro_kyoro_kyoro-1a",
+          "contributor": "",
+          "display": "きょろ",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "kyoro_kyoro_kyoro-1b",
           "contributor": "",
           "display": "キョロ キョロ",
           "source": "weakest_occupation_blacksmith"
         },
         {
-          "file": "kyoro_kyoro-1b",
+          "file": "kyoro_kyoro_kyoro-1c",
           "contributor": "",
           "display": "キョロ キョロ",
           "source": "abandoned_reincarnation_sage"
         },
         {
-          "file": "kyoro_kyoro-1c",
+          "file": "kyoro_kyoro_kyoro-1d",
           "contributor": "",
           "display": "キョロ キョロ",
           "source": "spy_x_family"
         },
         {
-          "file": "kyoro_kyoro-1d",
+          "file": "kyoro_kyoro_kyoro-1e",
           "contributor": "",
           "display": "きょろ きょろ",
           "source": "beastly_boys_and_girls"
         },
         {
-          "file": "kyoro_kyoro-1e",
+          "file": "kyoro_kyoro_kyoro-1f",
           "contributor": "",
           "display": "キョロ キョロ",
           "source": "killed_by_gods_mistake"
         }
       ]
     }],
-    "id": "kyoro_kyoro"
+    "id": "kyoro"
   },
   {
     "hiragana": [
@@ -15292,12 +14871,21 @@
   {
     "hiragana": [
       "みし",
-      "みしっ"
+      "みしっ",
+      "みしみし",
+      "みしみしっ",
+      "みしっみしっ"
     ],
-    "romaji": ["mishi"],
+    "romaji": [
+      "mishi",
+      "mishi mishi"
+    ],
     "katakana": [
       "ミシ",
-      "ミシッ"
+      "ミシッ",
+      "ミシミシ",
+      "ミシミシッ",
+      "ミシッミシッ"
     ],
     "definition": [{
       "equivalent": [
@@ -15315,46 +14903,26 @@
       "type": "o",
       "example": [
         {
-          "file": "mishi-1a",
+          "file": "mishi_mishi_mishi-1a",
           "contributor": "",
           "display": "ミシッ",
           "source": "hanako_24th_ward"
         },
         {
-          "file": "mishi-1b",
+          "file": "mishi_mishi_mishi-1b",
           "contributor": "",
           "display": "みしっ\u2026",
           "source": "my_s-ranked_daughter"
+        },
+        {
+          "file": "mishi_mishi_mishi-1c",
+          "contributor": "",
+          "display": "ミシ ミシ\u2026",
+          "source": "hanako_24th_ward"
         }
       ]
     }],
     "id": "mishi"
-  },
-  {
-    "hiragana": [
-      "みしみし",
-      "みしみしっ",
-      "みしっみしっ"
-    ],
-    "romaji": ["mishi mishi"],
-    "katakana": [
-      "ミシミシ",
-      "ミシミシッ",
-      "ミシッミシッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "mishi:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "mishi_mishi-1a",
-        "contributor": "",
-        "display": "ミシ ミシ\u2026",
-        "source": "hanako_24th_ward"
-      }]
-    }],
-    "id": "mishi_mishi"
   },
   {
     "hiragana": [
@@ -15479,9 +15047,18 @@
     "id": "mogu_mogu"
   },
   {
-    "hiragana": ["もじ"],
-    "romaji": ["moji"],
-    "katakana": ["モジ"],
+    "hiragana": [
+      "もじ",
+      "もじもじ"
+    ],
+    "romaji": [
+      "moji",
+      "moji moji"
+    ],
+    "katakana": [
+      "モジ",
+      "モジモジ"
+    ],
     "definition": [{
       "equivalent": [
         "bashful",
@@ -15497,52 +15074,38 @@
       "type": "e",
       "example": [
         {
-          "file": "moji-1a",
+          "file": "moji_moji_moji-1a",
           "contributor": "",
           "display": "もじ\u2026",
           "source": "d_genesis"
         },
         {
-          "file": "moji-1b",
+          "file": "moji_moji_moji-1b",
           "contributor": "",
           "display": "もじ",
           "source": "only_sweet_when_alone"
-        }
-      ]
-    }],
-    "id": "moji"
-  },
-  {
-    "hiragana": ["もじもじ"],
-    "romaji": ["moji moji"],
-    "katakana": ["モジモジ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "moji:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "moji_moji-1a",
+          "file": "moji_moji_moji-1c",
           "contributor": "",
           "display": "もじ もじ",
           "source": "neet_kunoichi"
         },
         {
-          "file": "moji_moji-1b",
+          "file": "moji_moji_moji-1d",
           "contributor": "",
           "display": "もじ もじ",
           "source": "cheat_pharmacist"
         },
         {
-          "file": "moji_moji-1c",
+          "file": "moji_moji_moji-1e",
           "contributor": "",
           "display": "もじ もじ",
           "source": "only_sweet_when_alone"
         }
       ]
     }],
-    "id": "moji_moji"
+    "id": "moji"
   },
   {
     "hiragana": ["もきゅもきゅ"],
@@ -15592,12 +15155,17 @@
   {
     "hiragana": [
       "もわ",
-      "もわぁ"
+      "もわぁ",
+      "もわもわ"
     ],
-    "romaji": ["mowa"],
+    "romaji": [
+      "mowa",
+      "mowa mowa"
+    ],
     "katakana": [
       "モワ",
-      "モワァ"
+      "モワァ",
+      "モワモワ"
     ],
     "definition": [{
       "equivalent": [
@@ -15615,42 +15183,37 @@
       "refer": "",
       "meaning": "a billowing cloud of smoke, fog, or warm steam",
       "type": "o",
-      "example": [{
-        "file": "mowa-1a",
-        "contributor": "",
-        "display": "モワァ",
-        "source": "spy_x_family"
-      }]
+      "example": [
+        {
+          "file": "mowa_mowa_mowa-1a",
+          "contributor": "",
+          "display": "モワァ",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "mowa_mowa_mowa-1b",
+          "contributor": "",
+          "display": "モワ モワ",
+          "source": "hello_work"
+        }
+      ]
     }],
     "id": "mowa"
   },
   {
-    "hiragana": ["もわもわ"],
-    "romaji": ["mowa mowa"],
-    "katakana": ["モワモワ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "mowa:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "mowa_mowa-1a",
-        "contributor": "",
-        "display": "モワ モワ",
-        "source": "hello_work"
-      }]
-    }],
-    "id": "mowa_mowa"
-  },
-  {
     "hiragana": [
       "もぞ",
-      "もぞっ"
+      "もぞっ",
+      "もぞもぞ"
     ],
-    "romaji": ["mozo"],
+    "romaji": [
+      "mozo",
+      "mozo mozo"
+    ],
     "katakana": [
       "モゾ",
-      "モゾッ"
+      "モゾッ",
+      "モゾモゾ"
     ],
     "definition": [{
       "equivalent": [
@@ -15663,32 +15226,22 @@
       "refer": "",
       "meaning": "small, awkward or clumsy squirming or wriggling, often from embarrassment",
       "type": "s",
-      "example": [{
-        "file": "mozo-1a",
-        "contributor": "",
-        "display": "もぞ\u2026",
-        "source": "world_full_of_zombies"
-      }]
+      "example": [
+        {
+          "file": "mozo_mozo_mozo-1a",
+          "contributor": "",
+          "display": "もぞ\u2026",
+          "source": "world_full_of_zombies"
+        },
+        {
+          "file": "mozo_mozo_mozo-1b",
+          "contributor": "",
+          "display": "もぞ もぞ もぞ",
+          "source": "beastly_boys_and_girls"
+        }
+      ]
     }],
     "id": "mozo"
-  },
-  {
-    "hiragana": ["もぞもぞ"],
-    "romaji": ["mozo mozo"],
-    "katakana": ["モゾモゾ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "mozo:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "mozo_mozo-1a",
-        "contributor": "",
-        "display": "もぞ もぞ もぞ",
-        "source": "beastly_boys_and_girls"
-      }]
-    }],
-    "id": "mozo_mozo"
   },
   {
     "hiragana": ["もっもっ"],
@@ -15948,13 +15501,18 @@
     "hiragana": [
       "むに",
       "むにっ",
-      "むにー"
+      "むにー",
+      "むにむに"
     ],
-    "romaji": ["muni"],
+    "romaji": [
+      "muni",
+      "muni muni"
+    ],
     "katakana": [
       "ムニ",
       "ムニッ",
-      "ムニー"
+      "ムニー",
+      "ムニムニ"
     ],
     "definition": [{
       "equivalent": [
@@ -15973,38 +15531,26 @@
       "type": "s",
       "example": [
         {
-          "file": "muni-1a",
+          "file": "muni_muni_muni-1a",
           "contributor": "",
           "display": "むにー",
           "source": "isekai_territory_reform"
         },
         {
-          "file": "muni-1b",
+          "file": "muni_muni_muni-1b",
           "contributor": "",
           "display": "むにっ",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "muni_muni_muni-1c",
+          "contributor": "",
+          "display": "むた むた むた むた むた",
           "source": "isekai_territory_reform"
         }
       ]
     }],
     "id": "muni"
-  },
-  {
-    "hiragana": ["むにむに"],
-    "romaji": ["muni muni"],
-    "katakana": ["ムニムニ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "muni:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "muni_muni-1a",
-        "contributor": "",
-        "display": "むた むた むた むた むた",
-        "source": "isekai_territory_reform"
-      }]
-    }],
-    "id": "muni_muni"
   },
   {
     "hiragana": ["むにゃ"],
@@ -16354,14 +15900,21 @@
       "にこ",
       "にこっ",
       "にこお",
-      "にこぉ"
+      "にこぉ",
+      "にこにこ",
+      "にっこにっこ"
     ],
-    "romaji": ["niko"],
+    "romaji": [
+      "niko",
+      "niko niko"
+    ],
     "katakana": [
       "ニコ",
       "ニコッ",
       "ニコオ",
-      "ニコォ"
+      "ニコォ",
+      "ニコニコ",
+      "ニッコニッコ"
     ],
     "definition": [{
       "equivalent": [
@@ -16374,70 +15927,50 @@
       "type": "s",
       "example": [
         {
-          "file": "niko-1a",
+          "file": "niko_niko_niko-1a",
           "contributor": "",
           "display": "ニコッ",
           "source": "d_genesis"
         },
         {
-          "file": "niko-1b",
+          "file": "niko_niko_niko-1b",
           "contributor": "",
           "display": "にこっ",
           "source": "reincarnated_aristocrat"
         },
         {
-          "file": "niko-1c",
+          "file": "niko_niko_niko-1c",
           "contributor": "",
           "display": "ニコォ",
           "source": "weakest_occupation_blacksmith"
         },
         {
-          "file": "niko-1d",
+          "file": "niko_niko_niko-1d",
           "contributor": "",
           "display": "ニコ",
           "source": "fushi_no_kami"
         },
         {
-          "file": "niko-1e",
+          "file": "niko_niko_niko-1e",
           "contributor": "",
           "display": "にこ",
           "source": "uncle_at_heart"
-        }
-      ]
-    }],
-    "id": "niko"
-  },
-  {
-    "hiragana": [
-      "にこにこ",
-      "にっこにっこ"
-    ],
-    "romaji": ["niko niko"],
-    "katakana": [
-      "ニコニコ",
-      "ニッコニッコ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "niko:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "niko_niko-1a",
+          "file": "niko_niko_niko-1f",
           "contributor": "",
           "display": "ニコ ニコ",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "niko_niko-1b",
+          "file": "niko_niko_niko-1g",
           "contributor": "",
           "display": "ニッコ ニッコ",
           "source": "yojo_life"
         }
       ]
     }],
-    "id": "niko_niko"
+    "id": "niko"
   },
   {
     "hiragana": [
@@ -16471,12 +16004,19 @@
   {
     "hiragana": [
       "にや",
-      "にやっ"
+      "にやっ",
+      "にやにや",
+      "にやにやっ"
     ],
-    "romaji": ["niya"],
+    "romaji": [
+      "niya",
+      "niya niya"
+    ],
     "katakana": [
       "ニヤ",
-      "ニヤッ"
+      "ニヤッ",
+      "ニヤニヤ",
+      "ニヤニヤッ"
     ],
     "definition": [{
       "equivalent": [
@@ -16490,38 +16030,22 @@
       "refer": "",
       "meaning": "an evil, sly, or teasing smile",
       "type": "s",
-      "example": [{
-        "file": "niya-1a",
-        "contributor": "",
-        "display": "ニヤッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "niya_niya_niya-1a",
+          "contributor": "",
+          "display": "ニヤッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "niya_niya_niya-1b",
+          "contributor": "",
+          "display": "にや にや",
+          "source": "sex_with_me_sells"
+        }
+      ]
     }],
     "id": "niya"
-  },
-  {
-    "hiragana": [
-      "にやにや",
-      "にやにやっ"
-    ],
-    "romaji": ["niya niya"],
-    "katakana": [
-      "ニヤニヤ",
-      "ニヤニヤッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "niya:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "niya_niya-1a",
-        "contributor": "",
-        "display": "にや にや",
-        "source": "sex_with_me_sells"
-      }]
-    }],
-    "id": "niya_niya"
   },
   {
     "hiragana": [
@@ -16772,15 +16296,25 @@
       "にゃぁ",
       "にゃぁぁ",
       "にゃあ",
-      "にゃああ"
+      "にゃああ",
+      "にゃん",
+      "にゃーん",
+      "にゃにゃ"
     ],
-    "romaji": ["nya"],
+    "romaji": [
+      "nya",
+      "nyan",
+      "nya nya"
+    ],
     "katakana": [
       "ニャ",
       "ニャァ",
       "ニャァァ",
       "ニャア",
-      "ニャアア"
+      "ニャアア",
+      "ニャン",
+      "ニャーン",
+      "ニャニャ"
     ],
     "definition": [{
       "equivalent": [
@@ -16794,70 +16328,38 @@
       "type": "v",
       "example": [
         {
-          "file": "nya-1a",
+          "file": "nya_nyan_nya_nya-1a",
           "contributor": "",
           "display": "ニャ\u2026",
           "source": "isekai_pickup"
         },
         {
-          "file": "nya-1b",
+          "file": "nya_nyan_nya_nya-1b",
           "contributor": "",
           "display": "ニャァァ",
           "source": "way_of_the_house_husband"
-        }
-      ]
-    }],
-    "id": "nya"
-  },
-  {
-    "hiragana": [
-      "にゃん",
-      "にゃーん"
-    ],
-    "romaji": ["nyan"],
-    "katakana": [
-      "ニャン",
-      "ニャーン"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "nya:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "nyan-1a",
-        "contributor": "",
-        "display": "にゃーん!",
-        "source": "s_rank_behemoth"
-      }]
-    }],
-    "id": "nyan"
-  },
-  {
-    "hiragana": ["にゃにゃ"],
-    "romaji": ["nya nya"],
-    "katakana": ["ニャニャ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "nya:1",
-      "meaning": "",
-      "type": "",
-      "example": [
+        },
         {
-          "file": "nya_nya-1a",
+          "file": "nya_nyan_nya_nya-1c",
+          "contributor": "",
+          "display": "にゃーん!",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "nya_nyan_nya_nya-1d",
           "contributor": "",
           "display": "ニャ ニャ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "nya_nya-1b",
+          "file": "nya_nyan_nya_nya-1e",
           "contributor": "",
           "display": "にゃ にゃ",
           "source": "yojo_life"
         }
       ]
     }],
-    "id": "nya_nya"
+    "id": "nya_nyan"
   },
   {
     "hiragana": [
@@ -17469,12 +16971,19 @@
   {
     "hiragana": [
       "ぱく",
-      "ぱくっ"
+      "ぱくっ",
+      "ぱくぱく",
+      "ぱくっぱくっ"
     ],
-    "romaji": ["paku"],
+    "romaji": [
+      "paku",
+      "paku paku"
+    ],
     "katakana": [
       "パク",
-      "パクッ"
+      "パクッ",
+      "パクパク",
+      "パクッパクッ"
     ],
     "definition": [{
       "equivalent": [
@@ -17488,48 +16997,30 @@
         "savor"
       ],
       "refer": "",
-      "meaning": "closing one's mouth or biting",
+      "meaning": "closing one's mouth or biting, repeatedly",
       "type": "m",
       "example": [
         {
-          "file": "paku-1a",
+          "file": "paku_paku_paku-1a",
           "contributor": "",
           "display": "パクッ",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "paku-1b",
+          "file": "paku_paku_paku-1b",
           "contributor": "",
           "display": "ぱくっ",
           "source": "shogun_gold_in_america"
+        },
+        {
+          "file": "paku_paku_paku-1c",
+          "contributor": "",
+          "display": "ぱくぱく",
+          "source": "kuma_kuma_kuma_bear"
         }
       ]
     }],
     "id": "paku"
-  },
-  {
-    "hiragana": [
-      "ぱくぱく",
-      "ぱくっぱくっ"
-    ],
-    "romaji": ["paku paku"],
-    "katakana": [
-      "パクパク",
-      "パクッパクッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "paku:1",
-      "meaning": ", repeatedly",
-      "type": "",
-      "example": [{
-        "file": "paku_paku-1a",
-        "contributor": "",
-        "display": "ぱくぱく",
-        "source": "kuma_kuma_kuma_bear"
-      }]
-    }],
-    "id": "paku_paku"
   },
   {
     "hiragana": [
@@ -18412,12 +17903,17 @@
   {
     "hiragana": [
       "ぺろ",
-      "ぺろっ"
+      "ぺろっ",
+      "ぺろぺろ"
     ],
-    "romaji": ["pero"],
+    "romaji": [
+      "pero",
+      "pero pero"
+    ],
     "katakana": [
       "ペロ",
-      "ペロッ"
+      "ペロッ",
+      "ペロペロ"
     ],
     "definition": [{
       "equivalent": [
@@ -18431,22 +17927,34 @@
       "type": "m",
       "example": [
         {
-          "file": "pero-1a",
+          "file": "pero_pero_pero-1a",
           "contributor": "",
           "display": "ペロッ",
           "source": "isekai_av_filming"
         },
         {
-          "file": "pero-1b",
+          "file": "pero_pero_pero-1b",
           "contributor": "",
           "display": "ぺろ",
           "source": "beastly_boys_and_girls"
         },
         {
-          "file": "pero-1c",
+          "file": "pero_pero_pero-1c",
           "contributor": "",
           "display": "ぺろ",
           "source": "world_full_of_monsters"
+        },
+        {
+          "file": "pero_pero_pero-1d",
+          "contributor": "",
+          "display": "ぺろ ぺろ",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "pero_pero_pero-1e",
+          "contributor": "",
+          "display": "ペロ ペロ",
+          "source": "cheat_pharmacist"
         }
       ]
     }],
@@ -18499,40 +18007,19 @@
     "id": "peron"
   },
   {
-    "hiragana": ["ぺろぺろ"],
-    "romaji": ["pero pero"],
-    "katakana": ["ペロペロ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "pero:1",
-      "meaning": "",
-      "type": "",
-      "example": [
-        {
-          "file": "pero_pero-1a",
-          "contributor": "",
-          "display": "ぺろ ぺろ",
-          "source": "s_rank_behemoth"
-        },
-        {
-          "file": "pero_pero-1b",
-          "contributor": "",
-          "display": "ペロ ペロ",
-          "source": "cheat_pharmacist"
-        }
-      ]
-    }],
-    "id": "pero_pero"
-  },
-  {
     "hiragana": [
       "ぺし",
-      "ぺしっ"
+      "ぺしっ",
+      "ぺしぺし"
     ],
-    "romaji": ["peshi"],
+    "romaji": [
+      "peshi",
+      "peshi peshi"
+    ],
     "katakana": [
       "ペシ",
-      "ペシッ"
+      "ペシッ",
+      "ペシペシ"
     ],
     "definition": [{
       "equivalent": [
@@ -18545,40 +18032,28 @@
       "refer": "",
       "meaning": "sharp but harmless slapping or smacking",
       "type": "o",
-      "example": [{
-        "file": "peshi-1a",
-        "contributor": "",
-        "display": "ペシッ",
-        "source": "hikaro_no_go"
-      }]
-    }],
-    "id": "peshi"
-  },
-  {
-    "hiragana": ["ぺしぺし"],
-    "romaji": ["peshi peshi"],
-    "katakana": ["ペシペシ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "peshi:1",
-      "meaning": "",
-      "type": "",
       "example": [
         {
-          "file": "peshi_peshi-1a",
+          "file": "peshi_peshi_peshi-1a",
+          "contributor": "",
+          "display": "ペシッ",
+          "source": "hikaro_no_go"
+        },
+        {
+          "file": "peshi_peshi_peshi-1b",
           "contributor": "",
           "display": "ぺし ぺし",
           "source": "spy_x_family"
         },
         {
-          "file": "peshi_peshi-1b",
+          "file": "peshi_peshi_peshi-1c",
           "contributor": "",
           "display": "ぺし ぺし",
           "source": "cheat_pharmacist"
         }
       ]
     }],
-    "id": "peshi_peshi"
+    "id": "peshi"
   },
   {
     "hiragana": [
@@ -19528,12 +19003,19 @@
   {
     "hiragana": [
       "ぴしゃ",
-      "ぴしゃっ"
+      "ぴしゃっ",
+      "ぴしゃん",
+      "ぴしゃーん"
     ],
-    "romaji": ["pisha"],
+    "romaji": [
+      "pisha",
+      "pishan"
+    ],
     "katakana": [
       "ピシャ",
-      "ピシャッ"
+      "ピシャッ",
+      "ピシャン",
+      "ピシャーン"
     ],
     "definition": [{
       "equivalent": [
@@ -19549,38 +19031,22 @@
       "refer": "",
       "meaning": "sharp emotional shock or disbelief",
       "type": "e",
-      "example": [{
-        "file": "pisha-1a",
-        "contributor": "",
-        "display": "ピシャッ",
-        "source": "uncle_at_heart"
-      }]
+      "example": [
+        {
+          "file": "pisha_pishan-1a",
+          "contributor": "",
+          "display": "ピシャッ",
+          "source": "uncle_at_heart"
+        },
+        {
+          "file": "pisha_pishan-1b",
+          "contributor": "",
+          "display": "ピシャーン",
+          "source": "simple_sword_saint"
+        }
+      ]
     }],
-    "id": "pisha"
-  },
-  {
-    "hiragana": [
-      "ぴしゃん",
-      "ぴしゃーん"
-    ],
-    "romaji": ["pishan"],
-    "katakana": [
-      "ピシャン",
-      "ピシャーン"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "pisha:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "pishan-1a",
-        "contributor": "",
-        "display": "ピシャーン",
-        "source": "simple_sword_saint"
-      }]
-    }],
-    "id": "pishan"
+    "id": "pisha_pishan"
   },
   {
     "hiragana": [
@@ -19947,12 +19413,17 @@
   {
     "hiragana": [
       "ぽぃん",
-      "ぽぃんっ"
+      "ぽぃんっ",
+      "ぽぃんぽぃん"
     ],
-    "romaji": ["poin"],
+    "romaji": [
+      "poin",
+      "poin poin"
+    ],
     "katakana": [
       "ポィン",
-      "ポィンッ"
+      "ポィンッ",
+      "ポィンポィン"
     ],
     "definition": [{
       "equivalent": [
@@ -19969,32 +19440,22 @@
       "refer": "",
       "meaning": "a soft, bouncy, or springy motion",
       "type": "m",
-      "example": [{
-        "file": "poin-1a",
-        "contributor": "",
-        "display": "ぽぃん.",
-        "source": "buy_the_land"
-      }]
+      "example": [
+        {
+          "file": "poin_poin_poin-1a",
+          "contributor": "",
+          "display": "ぽぃん.",
+          "source": "buy_the_land"
+        },
+        {
+          "file": "poin_poin_poin-1b",
+          "contributor": "",
+          "display": "ポィン ポィーン",
+          "source": "gyaru_academy"
+        }
+      ]
     }],
     "id": "poin"
-  },
-  {
-    "hiragana": ["ぽぃんぽぃん"],
-    "romaji": ["poin poin"],
-    "katakana": ["ポィンポィン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "poin:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "poin_poin-1a",
-        "contributor": "",
-        "display": "ポィン ポィーン",
-        "source": "gyaru_academy"
-      }]
-    }],
-    "id": "poin_poin"
   },
   {
     "hiragana": [
@@ -20455,12 +19916,19 @@
   {
     "hiragana": [
       "ぽう",
-      "ぽぅ"
+      "ぽぅ",
+      "ぽうぽう",
+      "ぽぅぽぅ"
     ],
-    "romaji": ["pou"],
+    "romaji": [
+      "pou",
+      "pou pou"
+    ],
     "katakana": [
       "ポウ",
-      "ポゥ"
+      "ポゥ",
+      "ポウポウ",
+      "ポゥポゥ"
     ],
     "definition": [{
       "equivalent": [
@@ -20475,50 +19943,32 @@
       "type": "s",
       "example": [
         {
-          "file": "pou-1a",
+          "file": "pou_pou_pou-1a",
           "contributor": "",
           "display": "ポゥ..",
           "source": "d_genesis"
         },
         {
-          "file": "pou-1b",
+          "file": "pou_pou_pou-1b",
           "contributor": "",
           "display": "ポゥ\u2026",
           "source": "strongest_thread_master"
         },
         {
-          "file": "pou-1c",
+          "file": "pou_pou_pou-1c",
           "contributor": "",
           "display": "ポゥ",
           "source": "minimum_wage_demon_king"
+        },
+        {
+          "file": "pou_pou_pou-1d",
+          "contributor": "",
+          "display": "ポゥ ポゥ",
+          "source": "reincarnated_sage_daughters"
         }
       ]
     }],
     "id": "pou"
-  },
-  {
-    "hiragana": [
-      "ぽうぽう",
-      "ぽぅぽぅ"
-    ],
-    "romaji": ["pou pou"],
-    "katakana": [
-      "ポウポウ",
-      "ポゥポゥ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "pou:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "pou_pou-1a",
-        "contributor": "",
-        "display": "ポゥ ポゥ",
-        "source": "reincarnated_sage_daughters"
-      }]
-    }],
-    "id": "pou_pou"
   },
   {
     "hiragana": [
@@ -21343,12 +20793,19 @@
   {
     "hiragana": [
       "ぴょこ",
-      "ぴょこっ"
+      "ぴょこっ",
+      "ぴょこぴょこ",
+      "ぴよこぴよこ"
     ],
-    "romaji": ["pyoko"],
+    "romaji": [
+      "pyoko",
+      "pyoko pyoko"
+    ],
     "katakana": [
       "ピョコ",
-      "ピョコッ"
+      "ピョコッ",
+      "ピョコピョコ",
+      "ピヨコピヨコ"
     ],
     "definition": [{
       "equivalent": [
@@ -21362,38 +20819,22 @@
       "refer": "",
       "meaning": "a quick movement or sudden appearance, often cute or bouncy",
       "type": "m",
-      "example": [{
-        "file": "pyoko-1a",
-        "contributor": "",
-        "display": "ピョコッ",
-        "source": "yojo_life"
-      }]
+      "example": [
+        {
+          "file": "pyoko_pyoko_pyoko-1a",
+          "contributor": "",
+          "display": "ピョコッ",
+          "source": "yojo_life"
+        },
+        {
+          "file": "pyoko_pyoko_pyoko-1b",
+          "contributor": "",
+          "display": "ぴょこ ぴょこ",
+          "source": "spy_x_family"
+        }
+      ]
     }],
     "id": "pyoko"
-  },
-  {
-    "hiragana": [
-      "ぴょこぴょこ",
-      "ぴよこぴよこ"
-    ],
-    "romaji": ["pyoko pyoko"],
-    "katakana": [
-      "ピョコピョコ",
-      "ピヨコピヨコ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "pyoko:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "pyoko_pyoko-1a",
-        "contributor": "",
-        "display": "ぴょこ ぴょこ",
-        "source": "spy_x_family"
-      }]
-    }],
-    "id": "pyoko_pyoko"
   },
   {
     "hiragana": ["ぴょん"],
@@ -21548,9 +20989,18 @@
     "id": "pyun"
   },
   {
-    "hiragana": ["れろ"],
-    "romaji": ["rero"],
-    "katakana": ["レロ"],
+    "hiragana": [
+      "れろ",
+      "れろれろ"
+    ],
+    "romaji": [
+      "rero",
+      "rero rero"
+    ],
+    "katakana": [
+      "レロ",
+      "レロレロ"
+    ],
     "definition": [{
       "equivalent": [
         "lap",
@@ -21559,34 +21009,24 @@
         "slurp"
       ],
       "refer": "",
-      "meaning": "wet and drawn-out licking sound",
+      "meaning": "wet and drawn-out licking sounds",
       "type": "o",
-      "example": [{
-        "file": "rero-1a",
-        "contributor": "",
-        "display": "レロ\u2026",
-        "source": "double_play"
-      }]
+      "example": [
+        {
+          "file": "rero_rero_rero-1a",
+          "contributor": "",
+          "display": "レロ\u2026",
+          "source": "double_play"
+        },
+        {
+          "file": "rero_rero_rero-1b",
+          "contributor": "",
+          "display": "レロ レロ レロ レロ レロ",
+          "source": "gyaru_academy"
+        }
+      ]
     }],
     "id": "rero"
-  },
-  {
-    "hiragana": ["れろれろ"],
-    "romaji": ["rero rero"],
-    "katakana": ["レロレロ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "rero:1",
-      "meaning": "s",
-      "type": "",
-      "example": [{
-        "file": "rero_rero-1a",
-        "contributor": "",
-        "display": "レロ レロ レロ レロ レロ",
-        "source": "gyaru_academy"
-      }]
-    }],
-    "id": "rero_rero"
   },
   {
     "hiragana": [
@@ -23004,14 +22444,19 @@
       "すぱ",
       "すぱっ",
       "すぱー",
-      "すぱーっ"
+      "すぱーっ",
+      "すぱん"
     ],
-    "romaji": ["supa"],
+    "romaji": [
+      "supa",
+      "supan"
+    ],
     "katakana": [
       "スパ",
       "スパッ",
       "スパー",
-      "スパーッ"
+      "スパーッ",
+      "スパン"
     ],
     "definition": [{
       "equivalent": [
@@ -23021,50 +22466,45 @@
         "slice"
       ],
       "refer": "",
-      "meaning": "clean, fast cut",
+      "meaning": "clean, fast cuts",
       "type": "m",
       "example": [
         {
-          "file": "supa-1a",
+          "file": "supa_supan-1a",
           "contributor": "",
           "display": "スパッ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "supa-1b",
+          "file": "supa_supan-1b",
           "contributor": "",
           "display": "スパッ",
           "source": "strongest_magician_was_human"
+        },
+        {
+          "file": "supa_supan-1c",
+          "contributor": "",
+          "display": "スパン",
+          "source": "strongest_thread_master"
         }
       ]
     }],
-    "id": "supa"
-  },
-  {
-    "hiragana": ["すぱん"],
-    "romaji": ["supan"],
-    "katakana": ["スパン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "supa:1",
-      "meaning": "s",
-      "type": "",
-      "example": [{
-        "file": "supan-1a",
-        "contributor": "",
-        "display": "スパン",
-        "source": "strongest_thread_master"
-      }]
-    }],
-    "id": "supan"
+    "id": "supa_supan"
   },
   {
     "hiragana": [
       "すぴ",
+      "すぴー",
+      "すぴ",
       "すぴー"
     ],
-    "romaji": ["supi"],
+    "romaji": [
+      "supi",
+      "supi supi"
+    ],
     "katakana": [
+      "スピ",
+      "スピー",
       "スピ",
       "スピー"
     ],
@@ -23080,16 +22520,22 @@
       "type": "v",
       "example": [
         {
-          "file": "supi-1a",
+          "file": "supi_supi_supi-1a",
           "contributor": "",
           "display": "すぴー",
           "source": "abandoned_reincarnation_sage"
         },
         {
-          "file": "supi-1b",
+          "file": "supi_supi_supi-1b",
           "contributor": "",
           "display": "すぴー",
           "source": "spy_x_family"
+        },
+        {
+          "file": "supi_supi_supi-1c",
+          "contributor": "",
+          "display": "スピー スピー",
+          "source": "dog_became_strongest"
         }
       ]
     }],
@@ -23097,37 +22543,20 @@
   },
   {
     "hiragana": [
-      "すぴ",
-      "すぴー"
-    ],
-    "romaji": ["supi supi"],
-    "katakana": [
-      "スピ",
-      "スピー"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "supi:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "supi_supi-1a",
-        "contributor": "",
-        "display": "スピー スピー",
-        "source": "dog_became_strongest"
-      }]
-    }],
-    "id": "supi_supi"
-  },
-  {
-    "hiragana": [
       "すり",
-      "すりっ"
+      "すりっ",
+      "すりすり",
+      "すりっすりっ"
     ],
-    "romaji": ["suri"],
+    "romaji": [
+      "suri",
+      "suri suri"
+    ],
     "katakana": [
       "スリ",
-      "スリッ"
+      "スリッ",
+      "スリスリ",
+      "スリッスリッ"
     ],
     "definition": [{
       "equivalent": [
@@ -23144,38 +22573,22 @@
       "refer": "",
       "meaning": "soft rubbing or sliding contact",
       "type": "m",
-      "example": [{
-        "file": "suri-1a",
-        "contributor": "",
-        "display": "すりっ",
-        "source": "embarrassing_and_sweet"
-      }]
+      "example": [
+        {
+          "file": "suri_suri_suri-1a",
+          "contributor": "",
+          "display": "すりっ",
+          "source": "embarrassing_and_sweet"
+        },
+        {
+          "file": "suri_suri_suri-1b",
+          "contributor": "",
+          "display": "スリ スリ",
+          "source": "only_sweet_when_alone"
+        }
+      ]
     }],
     "id": "suri"
-  },
-  {
-    "hiragana": [
-      "すりすり",
-      "すりっすりっ"
-    ],
-    "romaji": ["suri suri"],
-    "katakana": [
-      "スリスリ",
-      "スリッスリッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "suri:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "suri_suri-1a",
-        "contributor": "",
-        "display": "スリ スリ",
-        "source": "only_sweet_when_alone"
-      }]
-    }],
-    "id": "suri_suri"
   },
   {
     "hiragana": [
@@ -23838,12 +23251,17 @@
   {
     "hiragana": [
       "たゆん",
-      "たゆんっ"
+      "たゆんっ",
+      "たゅんたゅん"
     ],
-    "romaji": ["tayun"],
+    "romaji": [
+      "tayun",
+      "tayun tayun"
+    ],
     "katakana": [
       "タユン",
-      "タユンッ"
+      "タユンッ",
+      "タュンタュン"
     ],
     "definition": [{
       "equivalent": [
@@ -23857,32 +23275,22 @@
       "refer": "",
       "meaning": "soft, fleshy wobbling or bouncing",
       "type": "m",
-      "example": [{
-        "file": "tayun-1a",
-        "contributor": "",
-        "display": "たゆん♡",
-        "source": "35_year_olds_choice"
-      }]
+      "example": [
+        {
+          "file": "tayun_tayun_tayun-1a",
+          "contributor": "",
+          "display": "たゆん♡",
+          "source": "35_year_olds_choice"
+        },
+        {
+          "file": "tayun_tayun_tayun-1b",
+          "contributor": "",
+          "display": "たゅん たゅん",
+          "source": "isekai_sniper"
+        }
+      ]
     }],
     "id": "tayun"
-  },
-  {
-    "hiragana": ["たゅんたゅん"],
-    "romaji": ["tayun tayun"],
-    "katakana": ["タュンタュン"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "tayun:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "tayun_tayun-1a",
-        "contributor": "",
-        "display": "たゅん たゅん",
-        "source": "isekai_sniper"
-      }]
-    }],
-    "id": "tayun_tayun"
   },
   {
     "hiragana": [
@@ -24588,12 +23996,19 @@
   {
     "hiragana": [
       "つる",
-      "つるっ"
+      "つるっ",
+      "つるん",
+      "つるんっ"
     ],
-    "romaji": ["tsuru"],
+    "romaji": [
+      "tsuru",
+      "tsurun"
+    ],
     "katakana": [
       "ツル",
-      "ツルッ"
+      "ツルッ",
+      "ツルン",
+      "ツルンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -24606,38 +24021,22 @@
       "refer": "",
       "meaning": "sudden slip on a slick surface",
       "type": "m",
-      "example": [{
-        "file": "tsuru-1a",
-        "contributor": "",
-        "display": "つるっ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "tsuru_tsurun-1a",
+          "contributor": "",
+          "display": "つるっ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "tsuru_tsurun-1b",
+          "contributor": "",
+          "display": "つるんっ",
+          "source": "different_world_smartphone"
+        }
+      ]
     }],
-    "id": "tsuru"
-  },
-  {
-    "hiragana": [
-      "つるん",
-      "つるんっ"
-    ],
-    "romaji": ["tsurun"],
-    "katakana": [
-      "ツルン",
-      "ツルンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "tsuru:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "tsurun-1a",
-        "contributor": "",
-        "display": "つるんっ",
-        "source": "different_world_smartphone"
-      }]
-    }],
-    "id": "tsurun"
+    "id": "tsuru_tsurun"
   },
   {
     "hiragana": [
@@ -26489,12 +25888,17 @@
   {
     "hiragana": [
       "ぞく",
-      "ぞくっ"
+      "ぞくっ",
+      "ぞくぞく"
     ],
-    "romaji": ["zoku"],
+    "romaji": [
+      "zoku",
+      "zoku zoku"
+    ],
     "katakana": [
       "ゾク",
-      "ゾクッ"
+      "ゾクッ",
+      "ゾクゾク"
     ],
     "definition": [{
       "equivalent": [
@@ -26514,60 +25918,53 @@
       "type": "e",
       "example": [
         {
-          "file": "zoku-1a",
+          "file": "zoku_zoku_zoku-1a",
           "contributor": "",
           "display": "ぞくっ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "zoku-1b",
+          "file": "zoku_zoku_zoku-1b",
           "contributor": "",
           "display": "ゾクッ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "zoku-1c",
+          "file": "zoku_zoku_zoku-1c",
           "contributor": "",
           "display": "ぞくっ",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "zoku-1d",
+          "file": "zoku_zoku_zoku-1d",
           "contributor": "",
           "display": "ぞくっ\u2026",
           "source": "embarrassing_and_sweet"
+        },
+        {
+          "file": "zoku_zoku_zoku-1e",
+          "contributor": "",
+          "display": "ぞく ぞく",
+          "source": "beastly_boys_and_girls"
         }
       ]
     }],
     "id": "zoku"
   },
   {
-    "hiragana": ["ぞくぞく"],
-    "romaji": ["zoku zoku"],
-    "katakana": ["ゾクゾク"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "zoku:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "zoku_zoku-1a",
-        "contributor": "",
-        "display": "ぞく ぞく",
-        "source": "beastly_boys_and_girls"
-      }]
-    }],
-    "id": "zoku_zoku"
-  },
-  {
     "hiragana": [
       "ぞろ",
-      "ぞろっ"
+      "ぞろっ",
+      "ぞろぞろ"
     ],
-    "romaji": ["zoro"],
+    "romaji": [
+      "zoro",
+      "zoro zoro"
+    ],
     "katakana": [
       "ゾロ",
-      "ゾロッ"
+      "ゾロッ",
+      "ゾロゾロ"
     ],
     "definition": [{
       "equivalent": [
@@ -26584,32 +25981,22 @@
       "refer": "",
       "meaning": "sudden unified group movement",
       "type": "m",
-      "example": [{
-        "file": "zoro-1a",
-        "contributor": "",
-        "display": "ぞろっ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "zoro_zoro_zoro-1a",
+          "contributor": "",
+          "display": "ぞろっ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "zoro_zoro_zoro-1b",
+          "contributor": "",
+          "display": "ぞろ ぞろ",
+          "source": "kuma_kuma_kuma_bear"
+        }
+      ]
     }],
     "id": "zoro"
-  },
-  {
-    "hiragana": ["ぞろぞろ"],
-    "romaji": ["zoro zoro"],
-    "katakana": ["ゾロゾロ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "zoro:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "zoro_zoro-1a",
-        "contributor": "",
-        "display": "ぞろ ぞろ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
-    }],
-    "id": "zoro_zoro"
   },
   {
     "hiragana": [
@@ -27029,12 +26416,19 @@
   {
     "hiragana": [
       "ずき",
-      "ずきっ"
+      "ずきっ",
+      "ずきん",
+      "ずきんっ"
     ],
-    "romaji": ["zuki"],
+    "romaji": [
+      "zuki",
+      "zukin"
+    ],
     "katakana": [
       "ズキ",
-      "ズキッ"
+      "ズキッ",
+      "ズキン",
+      "ズキンッ"
     ],
     "definition": [{
       "equivalent": [
@@ -27049,38 +26443,22 @@
       "refer": "",
       "meaning": "sharp, sudden pain, either physical or emotional",
       "type": "e",
-      "example": [{
-        "file": "zuki-1a",
-        "contributor": "",
-        "display": "ズキッ",
-        "source": "isekai_territory_reform"
-      }]
+      "example": [
+        {
+          "file": "zuki_zukin-1a",
+          "contributor": "",
+          "display": "ズキッ",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "zuki_zukin-1b",
+          "contributor": "",
+          "display": "ズキン",
+          "source": "sex_with_me_sells"
+        }
+      ]
     }],
-    "id": "zuki"
-  },
-  {
-    "hiragana": [
-      "ずきん",
-      "ずきんっ"
-    ],
-    "romaji": ["zukin"],
-    "katakana": [
-      "ズキン",
-      "ズキンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "zuki:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "zukin-1a",
-        "contributor": "",
-        "display": "ズキン",
-        "source": "sex_with_me_sells"
-      }]
-    }],
-    "id": "zukin"
+    "id": "zuki_zukin"
   },
   {
     "hiragana": [
