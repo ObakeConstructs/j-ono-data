@@ -1,5 +1,6 @@
 {
   "hiragana": ["ずど"],
+  "romaji": ["zudo"],
   "katakana": ["ズド"],
   "definition": [{
     "equivalent": [
@@ -32,5 +33,5 @@
       "source": "pokemon_xy_break"
     }]
   }],
-  "literal": "zudo"
+  "id": "zudo"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぺしぺし"],
+  "romaji": ["peshi peshi"],
   "katakana": ["ペシペシ"],
   "definition": [{
     "equivalent": [""],
@@ -21,5 +22,5 @@
       }
     ]
   }],
-  "literal": "peshi peshi"
+  "id": "peshi_peshi"
 }

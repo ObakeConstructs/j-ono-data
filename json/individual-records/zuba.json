@@ -3,6 +3,7 @@
     "ずば",
     "ずばっ"
   ],
+  "romaji": ["zuba"],
   "katakana": [
     "ズバ",
     "ズバッ"
@@ -24,5 +25,5 @@
       "source": "hello_work"
     }]
   }],
-  "literal": "zuba"
+  "id": "zuba"
 }

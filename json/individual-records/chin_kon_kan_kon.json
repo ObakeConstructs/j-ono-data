@@ -1,5 +1,6 @@
 {
   "hiragana": ["ちーんこーんかーんこーん"],
+  "romaji": ["chin kon kan kon"],
   "katakana": ["チーンコーンカーンコーン"],
   "definition": [{
     "equivalent": ["ding dong dang dong"],
@@ -13,5 +14,5 @@
       "source": "gyaru_academy"
     }]
   }],
-  "literal": "chin kon kan kon"
+  "id": "chin_kon_kan_kon"
 }

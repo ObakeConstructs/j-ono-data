@@ -1,5 +1,6 @@
 {
   "hiragana": ["わくわく"],
+  "romaji": ["waku waku"],
   "katakana": ["ワクワク"],
   "definition": [{
     "equivalent": [
@@ -35,5 +36,5 @@
       }
     ]
   }],
-  "literal": "waku waku"
+  "id": "waku_waku"
 }

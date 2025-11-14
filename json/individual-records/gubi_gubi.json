@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぐびぐび"],
+  "romaji": ["gubi gubi"],
   "katakana": ["グビグビ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "different_world_smartphone"
     }]
   }],
-  "literal": "gubi gubi"
+  "id": "gubi_gubi"
 }

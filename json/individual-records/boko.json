@@ -3,6 +3,7 @@
     "ぼこ",
     "ぼこっ"
   ],
+  "romaji": ["boko"],
   "katakana": [
     "ボコ",
     "ボコッ"
@@ -28,5 +29,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "boko"
+  "id": "boko"
 }

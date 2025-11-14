@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぎゅば"],
+  "romaji": ["gyuba"],
   "katakana": ["ギュバ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "pokemon_xy_break"
     }]
   }],
-  "literal": "gyuba"
+  "id": "gyuba"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["なでなで"],
+  "romaji": ["nade nade"],
   "katakana": ["ナデナデ"],
   "definition": [{
     "equivalent": [
@@ -40,5 +41,5 @@
       }
     ]
   }],
-  "literal": "nade nade"
+  "id": "nade_nade"
 }

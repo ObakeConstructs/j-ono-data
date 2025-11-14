@@ -1,5 +1,6 @@
 {
   "hiragana": ["だらだら"],
+  "romaji": ["dara dara"],
   "katakana": ["ダラダラ"],
   "definition": [{
     "equivalent": [
@@ -22,5 +23,5 @@
       "source": "abandoned_reincarnation_sage"
     }]
   }],
-  "literal": "dara dara"
+  "id": "dara_dara"
 }

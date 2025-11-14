@@ -1,5 +1,6 @@
 {
   "hiragana": ["じたばた"],
+  "romaji": ["jita bata"],
   "katakana": ["ジタバタ"],
   "definition": [
     {
@@ -48,5 +49,5 @@
       }]
     }
   ],
-  "literal": "jita bata"
+  "id": "jita_bata"
 }

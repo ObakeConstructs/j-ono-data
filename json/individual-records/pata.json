@@ -3,6 +3,7 @@
     "ぱた",
     "ぱたっ"
   ],
+  "romaji": ["pata"],
   "katakana": [
     "パタ",
     "パタッ"
@@ -30,5 +31,5 @@
       "source": "otherworld_material_collector"
     }]
   }],
-  "literal": "pata"
+  "id": "pata"
 }

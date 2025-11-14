@@ -1,5 +1,6 @@
 {
   "hiragana": ["ゆさゆさ"],
+  "romaji": ["yusa yusa"],
   "katakana": ["ユサユサ"],
   "definition": [{
     "equivalent": [
@@ -28,5 +29,5 @@
       }
     ]
   }],
-  "literal": "yusa yusa"
+  "id": "yusa_yusa"
 }

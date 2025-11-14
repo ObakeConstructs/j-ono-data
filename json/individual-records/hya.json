@@ -3,6 +3,7 @@
     "ひゃ",
     "ひゃっ"
   ],
+  "romaji": ["hya"],
   "katakana": [
     "ヒャ",
     "ヒャッ"
@@ -24,5 +25,5 @@
       "source": "otherworld_material_collector"
     }]
   }],
-  "literal": "hya"
+  "id": "hya"
 }

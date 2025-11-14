@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぶか"],
+  "romaji": ["buka"],
   "katakana": ["ブカ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "hero_or_demon_king"
     }]
   }],
-  "literal": "buka"
+  "id": "buka"
 }

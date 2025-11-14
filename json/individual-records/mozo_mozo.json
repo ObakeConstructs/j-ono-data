@@ -1,5 +1,6 @@
 {
   "hiragana": ["もぞもぞ"],
+  "romaji": ["mozo mozo"],
   "katakana": ["モゾモゾ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "beastly_boys_and_girls"
     }]
   }],
-  "literal": "mozo mozo"
+  "id": "mozo_mozo"
 }

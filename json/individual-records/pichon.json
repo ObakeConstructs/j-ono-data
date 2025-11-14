@@ -3,6 +3,7 @@
     "ぴちょん",
     "ぴちょーん"
   ],
+  "romaji": ["pichon"],
   "katakana": [
     "ピチョン",
     "ピチョーン"
@@ -19,5 +20,5 @@
       "source": "s_rank_behemoth"
     }]
   }],
-  "literal": "pichon"
+  "id": "pichon"
 }

@@ -3,6 +3,7 @@
     "どずん",
     "どずぅん"
   ],
+  "romaji": ["dozun"],
   "katakana": [
     "ドズン",
     "ドズゥン"
@@ -28,5 +29,5 @@
       "source": "minimum_wage_demon_king"
     }]
   }],
-  "literal": "dozun"
+  "id": "dozun"
 }

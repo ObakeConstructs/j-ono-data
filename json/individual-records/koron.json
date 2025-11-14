@@ -1,5 +1,6 @@
 {
   "hiragana": ["ころん"],
+  "romaji": ["koron"],
   "katakana": ["コロン"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "koron"
+  "id": "koron"
 }

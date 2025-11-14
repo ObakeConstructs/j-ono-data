@@ -1,5 +1,6 @@
 {
   "hiragana": ["ふんふん"],
+  "romaji": ["fun fun"],
   "katakana": ["フンフン"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "s_rank_behemoth"
     }]
   }],
-  "literal": "fun fun"
+  "id": "fun_fun"
 }

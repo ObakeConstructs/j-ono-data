@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぱらぱら"],
+  "romaji": ["para para"],
   "katakana": ["パラパラ"],
   "definition": [
     {
@@ -43,5 +44,5 @@
       }]
     }
   ],
-  "literal": "para para"
+  "id": "para_para"
 }

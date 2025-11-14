@@ -1,9 +1,10 @@
 {
   "hiragana": ["きーんこーんかーんこーん"],
+  "romaji": ["kin kon kan kon"],
   "katakana": ["キーンコーンカーンコーン"],
   "definition": [{
     "equivalent": [""],
-    "refer": "chin kon kan kon:1",
+    "refer": "chin_kon_kan_kon:1",
     "meaning": "",
     "type": "",
     "example": [{
@@ -13,5 +14,5 @@
       "source": "hanako_24th_ward"
     }]
   }],
-  "literal": "kin kon kan kon"
+  "id": "kin_kon_kan_kon"
 }

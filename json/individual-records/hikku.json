@@ -1,5 +1,6 @@
 {
   "hiragana": ["ひっく"],
+  "romaji": ["hikku"],
   "katakana": ["ヒック"],
   "definition": [{
     "equivalent": [
@@ -17,5 +18,5 @@
       "source": "spy_x_family"
     }]
   }],
-  "literal": "hikku"
+  "id": "hikku"
 }

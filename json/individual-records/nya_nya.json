@@ -1,5 +1,6 @@
 {
   "hiragana": ["にゃにゃ"],
+  "romaji": ["nya nya"],
   "katakana": ["ニャニャ"],
   "definition": [{
     "equivalent": [""],
@@ -21,5 +22,5 @@
       }
     ]
   }],
-  "literal": "nya nya"
+  "id": "nya_nya"
 }

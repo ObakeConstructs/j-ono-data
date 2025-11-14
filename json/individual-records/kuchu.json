@@ -1,5 +1,6 @@
 {
   "hiragana": ["くちゅ"],
+  "romaji": ["kuchu"],
   "katakana": ["クチュ"],
   "definition": [{
     "equivalent": [
@@ -32,5 +33,5 @@
       }
     ]
   }],
-  "literal": "kuchu"
+  "id": "kuchu"
 }

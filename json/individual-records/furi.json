@@ -3,6 +3,7 @@
     "ふり",
     "ふりっ"
   ],
+  "romaji": ["furi"],
   "katakana": [
     "フリ",
     "フリッ"
@@ -26,5 +27,5 @@
       "source": "komi_cant_communicate"
     }]
   }],
-  "literal": "furi"
+  "id": "furi"
 }

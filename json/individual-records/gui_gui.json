@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぐいぐい"],
+  "romaji": ["gui gui"],
   "katakana": ["グイグイ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "saga_lagging_hero"
     }]
   }],
-  "literal": "gui gui"
+  "id": "gui_gui"
 }

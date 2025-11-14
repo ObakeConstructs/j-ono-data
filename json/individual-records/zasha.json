@@ -3,6 +3,7 @@
     "ざしゃっ",
     "ざしゃーっ"
   ],
+  "romaji": ["zasha"],
   "katakana": [
     "ザシャッ",
     "ザシャーッ"
@@ -27,5 +28,5 @@
       "source": "hone_dragon"
     }]
   }],
-  "literal": "zasha"
+  "id": "zasha"
 }

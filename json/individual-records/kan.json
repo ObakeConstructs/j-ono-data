@@ -1,5 +1,6 @@
 {
   "hiragana": ["かん"],
+  "romaji": ["kan"],
   "katakana": ["カン"],
   "definition": [{
     "equivalent": [
@@ -31,5 +32,5 @@
       }
     ]
   }],
-  "literal": "kan"
+  "id": "kan"
 }

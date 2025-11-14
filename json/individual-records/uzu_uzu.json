@@ -1,5 +1,6 @@
 {
   "hiragana": ["うずうず"],
+  "romaji": ["uzu uzu"],
   "katakana": ["ウズウズ"],
   "definition": [{
     "equivalent": [
@@ -29,5 +30,5 @@
       "source": "fushi_no_kami"
     }]
   }],
-  "literal": "uzu uzu"
+  "id": "uzu_uzu"
 }

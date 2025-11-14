@@ -3,6 +3,7 @@
     "どどがどどが",
     "どどがどどがっ"
   ],
+  "romaji": ["dodoga dodoga"],
   "katakana": [
     "ドドガドドガ",
     "ドドガドドガッ"
@@ -22,5 +23,5 @@
       "source": "isekai_sniper"
     }]
   }],
-  "literal": "dodoga dodoga"
+  "id": "dodoga_dodoga"
 }

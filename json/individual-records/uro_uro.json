@@ -1,5 +1,6 @@
 {
   "hiragana": ["うろうろ"],
+  "romaji": ["uro uro"],
   "katakana": ["ウロウロ"],
   "definition": [{
     "equivalent": [
@@ -29,5 +30,5 @@
       }
     ]
   }],
-  "literal": "uro uro"
+  "id": "uro_uro"
 }

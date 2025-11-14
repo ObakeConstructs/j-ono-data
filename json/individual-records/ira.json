@@ -3,6 +3,7 @@
     "いら",
     "いらっ"
   ],
+  "romaji": ["ira"],
   "katakana": [
     "イラ",
     "イラッ"
@@ -31,5 +32,5 @@
       "source": "hero_or_demon_king"
     }]
   }],
-  "literal": "ira"
+  "id": "ira"
 }

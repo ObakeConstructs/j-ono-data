@@ -3,6 +3,7 @@
     "ぽか",
     "ぽかっ"
   ],
+  "romaji": ["poka"],
   "katakana": [
     "ポカ",
     "ポカッ"
@@ -40,5 +41,5 @@
       "source": "pokemon_xy_break"
     }]
   }],
-  "literal": "poka"
+  "id": "poka"
 }

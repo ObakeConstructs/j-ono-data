@@ -1,5 +1,6 @@
 {
   "hiragana": ["しっしっ"],
+  "romaji": ["shi shi"],
   "katakana": ["シッシッ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "fushi_no_kami"
     }]
   }],
-  "literal": "shi shi"
+  "id": "shi_shi"
 }

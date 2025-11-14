@@ -3,6 +3,7 @@
     "ぽわん",
     "ぽゎあん"
   ],
+  "romaji": ["powan"],
   "katakana": [
     "ポワン",
     "ポヮアン"
@@ -29,5 +30,5 @@
       "source": "paradise_shift"
     }]
   }],
-  "literal": "powan"
+  "id": "powan"
 }

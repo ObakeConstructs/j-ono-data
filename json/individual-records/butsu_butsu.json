@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぶつぶつ"],
+  "romaji": ["butsu butsu"],
   "katakana": ["ブツブツ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "bungo"
     }]
   }],
-  "literal": "butsu butsu"
+  "id": "butsu_butsu"
 }

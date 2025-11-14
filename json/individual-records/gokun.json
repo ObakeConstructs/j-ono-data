@@ -1,5 +1,6 @@
 {
   "hiragana": ["ごくん"],
+  "romaji": ["gokun"],
   "katakana": ["ゴクン"],
   "definition": [{
     "equivalent": [""],
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "gokun"
+  "id": "gokun"
 }

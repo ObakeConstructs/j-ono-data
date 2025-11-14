@@ -4,6 +4,7 @@
     "ぼろろん",
     "ぼろろろん"
   ],
+  "romaji": ["boron"],
   "katakana": [
     "ボロン",
     "ボロロン",
@@ -27,5 +28,5 @@
       "source": "requiem_for_prophet"
     }]
   }],
-  "literal": "boron"
+  "id": "boron"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["じゃじゃ"],
+  "romaji": ["ja ja"],
   "katakana": ["ジャジャ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "rock_n_roll_ladies"
     }]
   }],
-  "literal": "ja ja"
+  "id": "ja_ja"
 }

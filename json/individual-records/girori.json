@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぎろり"],
+  "romaji": ["girori"],
   "katakana": ["ギロリ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "saga_lagging_hero"
     }]
   }],
-  "literal": "girori"
+  "id": "girori"
 }

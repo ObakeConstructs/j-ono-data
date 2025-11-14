@@ -3,6 +3,7 @@
     "ぐわ",
     "ぐわっ"
   ],
+  "romaji": ["guwa"],
   "katakana": [
     "グワ",
     "グワッ"
@@ -27,5 +28,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "guwa"
+  "id": "guwa"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["たたんたたん"],
+  "romaji": ["tatan tatan"],
   "katakana": ["タタンタタン"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "spy_x_family"
     }]
   }],
-  "literal": "tatan tatan"
+  "id": "tatan_tatan"
 }

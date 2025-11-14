@@ -5,6 +5,7 @@
     "ごうう",
     "ごううっ"
   ],
+  "romaji": ["gou"],
   "katakana": [
     "ゴウ",
     "ゴウッ",
@@ -33,5 +34,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "gou"
+  "id": "gou"
 }

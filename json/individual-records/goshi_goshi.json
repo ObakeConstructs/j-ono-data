@@ -1,5 +1,6 @@
 {
   "hiragana": ["ごしごし"],
+  "romaji": ["goshi goshi"],
   "katakana": ["ゴシゴシ"],
   "definition": [{
     "equivalent": [
@@ -38,5 +39,5 @@
       }
     ]
   }],
-  "literal": "goshi goshi"
+  "id": "goshi_goshi"
 }

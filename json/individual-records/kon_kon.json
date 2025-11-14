@@ -3,6 +3,7 @@
     "こんこん",
     "こんこんっ"
   ],
+  "romaji": ["kon kon"],
   "katakana": [
     "コンコン",
     "コンコンッ"
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "kon kon"
+  "id": "kon_kon"
 }

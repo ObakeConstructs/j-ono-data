@@ -1,5 +1,6 @@
 {
   "hiragana": ["ざわざわ"],
+  "romaji": ["zawa zawa"],
   "katakana": ["ザワザワ"],
   "definition": [
     {
@@ -49,5 +50,5 @@
       }]
     }
   ],
-  "literal": "zawa zawa"
+  "id": "zawa_zawa"
 }

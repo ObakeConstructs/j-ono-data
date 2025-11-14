@@ -1,5 +1,6 @@
 {
   "hiragana": ["はふはふ"],
+  "romaji": ["hafu hafu"],
   "katakana": ["ハフハフ"],
   "definition": [{
     "equivalent": [
@@ -17,5 +18,5 @@
       "source": "dungeon_dining_room"
     }]
   }],
-  "literal": "hafu hafu"
+  "id": "hafu_hafu"
 }

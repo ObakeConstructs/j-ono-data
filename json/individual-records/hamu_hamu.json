@@ -1,5 +1,6 @@
 {
   "hiragana": ["はむはむ"],
+  "romaji": ["hamu hamu"],
   "katakana": ["ハムハム"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "uncle_at_heart"
     }]
   }],
-  "literal": "hamu hamu"
+  "id": "hamu_hamu"
 }

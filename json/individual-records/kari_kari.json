@@ -1,5 +1,6 @@
 {
   "hiragana": ["かりかり"],
+  "romaji": ["kari kari"],
   "katakana": ["カリカリ"],
   "definition": [{
     "equivalent": [
@@ -40,5 +41,5 @@
       }
     ]
   }],
-  "literal": "kari kari"
+  "id": "kari_kari"
 }

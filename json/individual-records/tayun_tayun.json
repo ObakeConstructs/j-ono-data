@@ -1,5 +1,6 @@
 {
   "hiragana": ["たゅんたゅん"],
+  "romaji": ["tayun tayun"],
   "katakana": ["タュンタュン"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "isekai_sniper"
     }]
   }],
-  "literal": "tayun tayun"
+  "id": "tayun_tayun"
 }

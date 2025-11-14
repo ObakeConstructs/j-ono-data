@@ -1,5 +1,6 @@
 {
   "hiragana": ["ふむ"],
+  "romaji": ["fumu"],
   "katakana": ["フム"],
   "definition": [{
     "equivalent": [
@@ -17,5 +18,5 @@
       "source": "fushi_no_kami"
     }]
   }],
-  "literal": "fumu"
+  "id": "fumu"
 }

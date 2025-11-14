@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぽちゃん"],
+  "romaji": ["pochan"],
   "katakana": ["ポチャン"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "pochan"
+  "id": "pochan"
 }

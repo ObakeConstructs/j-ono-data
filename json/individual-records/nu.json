@@ -3,6 +3,7 @@
     "ぬ",
     "ぬっ"
   ],
+  "romaji": ["nu"],
   "katakana": [
     "ヌ",
     "ヌッ"
@@ -28,5 +29,5 @@
       "source": "kaijuu_sdf"
     }]
   }],
-  "literal": "nu"
+  "id": "nu"
 }

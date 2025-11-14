@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぶくぶく"],
+  "romaji": ["buku buku"],
   "katakana": ["ブクブク"],
   "definition": [{
     "equivalent": [
@@ -25,5 +26,5 @@
       }
     ]
   }],
-  "literal": "buku buku"
+  "id": "buku_buku"
 }

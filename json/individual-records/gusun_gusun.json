@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぐすんぐすん"],
+  "romaji": ["gusun gusun"],
   "katakana": ["グスングスン"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "different_world_smartphone"
     }]
   }],
-  "literal": "gusun gusun"
+  "id": "gusun_gusun"
 }

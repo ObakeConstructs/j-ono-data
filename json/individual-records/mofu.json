@@ -1,5 +1,6 @@
 {
   "hiragana": ["もふ"],
+  "romaji": ["mofu"],
   "katakana": ["モフ"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "mofu"
+  "id": "mofu"
 }

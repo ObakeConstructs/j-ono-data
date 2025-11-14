@@ -1,5 +1,6 @@
 {
   "hiragana": ["ばちん"],
+  "romaji": ["bachin"],
   "katakana": ["バチン"],
   "definition": [{
     "equivalent": [
@@ -32,5 +33,5 @@
       }
     ]
   }],
-  "literal": "bachin"
+  "id": "bachin"
 }

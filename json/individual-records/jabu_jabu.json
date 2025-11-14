@@ -1,5 +1,6 @@
 {
   "hiragana": ["じゃぶじゃぶ"],
+  "romaji": ["jabu jabu"],
   "katakana": ["ジャブジャブ"],
   "definition": [{
     "equivalent": [
@@ -26,5 +27,5 @@
       }
     ]
   }],
-  "literal": "jabu jabu"
+  "id": "jabu_jabu"
 }

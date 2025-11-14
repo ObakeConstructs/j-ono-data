@@ -1,5 +1,6 @@
 {
   "hiragana": ["ばくばく"],
+  "romaji": ["baku baku"],
   "katakana": ["バクバク"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "rise_of_the_outlaw_tamer"
     }]
   }],
-  "literal": "baku baku"
+  "id": "baku_baku"
 }

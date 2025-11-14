@@ -1,5 +1,6 @@
 {
   "hiragana": ["ふきふき"],
+  "romaji": ["fuki fuki"],
   "katakana": ["フキフキ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "beastly_boys_and_girls"
     }]
   }],
-  "literal": "fuki fuki"
+  "id": "fuki_fuki"
 }

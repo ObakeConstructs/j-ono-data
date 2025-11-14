@@ -3,6 +3,7 @@
     "ぼと",
     "ぼとっ"
   ],
+  "romaji": ["boto"],
   "katakana": [
     "ボト",
     "ボトッ"
@@ -26,5 +27,5 @@
       "source": "dog_became_strongest"
     }]
   }],
-  "literal": "boto"
+  "id": "boto"
 }

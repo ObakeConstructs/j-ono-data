@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぺたぺた"],
+  "romaji": ["peta peta"],
   "katakana": ["ペタペタ"],
   "definition": [
     {
@@ -36,5 +37,5 @@
       }]
     }
   ],
-  "literal": "peta peta"
+  "id": "peta_peta"
 }

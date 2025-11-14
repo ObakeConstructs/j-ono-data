@@ -1,5 +1,6 @@
 {
   "hiragana": ["めきゃ"],
+  "romaji": ["mekya"],
   "katakana": ["メキャ"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "minimum_wage_demon_king"
     }]
   }],
-  "literal": "mekya"
+  "id": "mekya"
 }

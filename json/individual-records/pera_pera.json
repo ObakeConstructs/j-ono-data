@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぺらぺら"],
+  "romaji": ["pera pera"],
   "katakana": ["ペラペラ"],
   "definition": [
     {
@@ -52,5 +53,5 @@
       }]
     }
   ],
-  "literal": "pera pera"
+  "id": "pera_pera"
 }

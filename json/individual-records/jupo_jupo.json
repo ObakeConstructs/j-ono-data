@@ -1,5 +1,6 @@
 {
   "hiragana": ["じゅぽじゅぽ"],
+  "romaji": ["jupo jupo"],
   "katakana": ["ジュポジュポ"],
   "definition": [{
     "equivalent": [
@@ -17,5 +18,5 @@
       "source": "rise_of_the_outlaw_tamer"
     }]
   }],
-  "literal": "jupo jupo"
+  "id": "jupo_jupo"
 }

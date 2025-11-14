@@ -1,5 +1,6 @@
 {
   "hiragana": ["むずむず"],
+  "romaji": ["muzu muzu"],
   "katakana": ["ムズムズ"],
   "definition": [{
     "equivalent": [
@@ -22,5 +23,5 @@
       "source": "eternal_fool_asley"
     }]
   }],
-  "literal": "muzu muzu"
+  "id": "muzu_muzu"
 }

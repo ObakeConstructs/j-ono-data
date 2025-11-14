@@ -3,6 +3,7 @@
     "うる",
     "うるっ"
   ],
+  "romaji": ["uru"],
   "katakana": [
     "ウル",
     "ウルッ"
@@ -26,5 +27,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "uru"
+  "id": "uru"
 }

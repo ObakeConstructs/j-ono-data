@@ -3,6 +3,7 @@
     "ざく",
     "ざくっ"
   ],
+  "romaji": ["zaku"],
   "katakana": [
     "ザク",
     "ザクッ"
@@ -27,5 +28,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "zaku"
+  "id": "zaku"
 }

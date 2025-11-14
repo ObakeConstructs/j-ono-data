@@ -1,5 +1,6 @@
 {
   "hiragana": ["んひょほ"],
+  "romaji": ["nhyoho"],
   "katakana": ["ンヒョホ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "paradise_shift"
     }]
   }],
-  "literal": "nhyoho"
+  "id": "nhyoho"
 }

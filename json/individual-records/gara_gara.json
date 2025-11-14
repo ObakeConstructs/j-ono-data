@@ -1,5 +1,6 @@
 {
   "hiragana": ["がらがら"],
+  "romaji": ["gara gara"],
   "katakana": ["ガラガラ"],
   "definition": [
     {
@@ -46,5 +47,5 @@
       }]
     }
   ],
-  "literal": "gara gara"
+  "id": "gara_gara"
 }

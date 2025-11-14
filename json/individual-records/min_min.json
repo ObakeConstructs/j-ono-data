@@ -3,6 +3,7 @@
     "みんみん",
     "みーんみーん"
   ],
+  "romaji": ["min min"],
   "katakana": [
     "ミンミン",
     "ミーンミーン"
@@ -26,5 +27,5 @@
       "source": "paradise_shift"
     }]
   }],
-  "literal": "min min"
+  "id": "min_min"
 }

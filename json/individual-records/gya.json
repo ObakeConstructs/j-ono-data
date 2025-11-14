@@ -8,6 +8,7 @@
     "ぎゃああ",
     "ぎゃあああ"
   ],
+  "romaji": ["gya"],
   "katakana": [
     "ギャ",
     "ギャッ",
@@ -36,5 +37,5 @@
       "source": "kaijuu_sdf"
     }]
   }],
-  "literal": "gya"
+  "id": "gya"
 }

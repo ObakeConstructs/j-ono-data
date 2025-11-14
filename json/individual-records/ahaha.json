@@ -5,6 +5,7 @@
     "あっはっはっ",
     "あっはっはっはっ"
   ],
+  "romaji": ["ahaha"],
   "katakana": [
     "アハハ",
     "アハハハ",
@@ -35,8 +36,14 @@
         "contributor": "",
         "display": "あっはっはっはっ",
         "source": "lord_of_the_hundred_demons"
+      },
+      {
+        "file": "ahaha-1c",
+        "contributor": "",
+        "display": "アハハハハハ",
+        "source": "mushoku_tensei"
       }
     ]
   }],
-  "literal": "ahaha"
+  "id": "ahaha"
 }

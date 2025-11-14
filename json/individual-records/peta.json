@@ -3,6 +3,7 @@
     "ぺた",
     "ぺたっ"
   ],
+  "romaji": ["peta"],
   "katakana": [
     "ペタ",
     "ペタッ"
@@ -25,5 +26,5 @@
       "source": "world_full_of_zombies"
     }]
   }],
-  "literal": "peta"
+  "id": "peta"
 }

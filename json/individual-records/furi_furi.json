@@ -3,13 +3,14 @@
     "ふりふり",
     "ふりふりっ"
   ],
+  "romaji": ["furi furi"],
   "katakana": [
     "フリフリ",
     "フリフリッ"
   ],
   "definition": [{
     "equivalent": [""],
-    "refer": "bun bun:1",
+    "refer": "bun_bun:1",
     "meaning": "",
     "type": "",
     "example": [
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "furi furi"
+  "id": "furi_furi"
 }

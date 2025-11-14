@@ -1,5 +1,6 @@
 {
   "hiragana": ["んちゅ"],
+  "romaji": ["nchu"],
   "katakana": ["ンチュ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "rise_of_the_outlaw_tamer"
     }]
   }],
-  "literal": "nchu"
+  "id": "nchu"
 }

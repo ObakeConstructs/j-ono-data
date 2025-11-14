@@ -4,6 +4,7 @@
     "びちゃっ",
     "びちゃぁ"
   ],
+  "romaji": ["bicha"],
   "katakana": [
     "ビチャ",
     "ビチャッ",
@@ -32,5 +33,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "bicha"
+  "id": "bicha"
 }

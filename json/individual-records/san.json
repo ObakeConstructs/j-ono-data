@@ -3,6 +3,7 @@
     "さん",
     "さんっ"
   ],
+  "romaji": ["san"],
   "katakana": [
     "サン",
     "サンッ"
@@ -25,5 +26,5 @@
       "source": "killed_by_gods_mistake"
     }]
   }],
-  "literal": "san"
+  "id": "san"
 }

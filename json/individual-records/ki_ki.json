@@ -3,6 +3,7 @@
     "きき",
     "ききき"
   ],
+  "romaji": ["ki ki"],
   "katakana": [
     "キキ",
     "キキキ"
@@ -27,5 +28,5 @@
       "source": "saga_lagging_hero"
     }]
   }],
-  "literal": "ki ki"
+  "id": "ki_ki"
 }

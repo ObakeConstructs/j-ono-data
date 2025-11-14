@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぴちゃぴちゃ"],
+  "romaji": ["picha picha"],
   "katakana": ["ピチャピチャ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "rise_of_the_outlaw_tamer"
     }]
   }],
-  "literal": "picha picha"
+  "id": "picha_picha"
 }

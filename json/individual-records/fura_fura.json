@@ -1,5 +1,6 @@
 {
   "hiragana": ["ふらふら"],
+  "romaji": ["fura fura"],
   "katakana": ["フラフラ"],
   "definition": [{
     "equivalent": [
@@ -29,5 +30,5 @@
       }
     ]
   }],
-  "literal": "fura fura"
+  "id": "fura_fura"
 }

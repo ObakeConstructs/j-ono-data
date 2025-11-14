@@ -5,6 +5,7 @@
     "ゔー",
     "ゔーっ"
   ],
+  "romaji": ["vu"],
   "katakana": [
     "ヴ",
     "ヴッ",
@@ -28,5 +29,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "vu"
+  "id": "vu"
 }

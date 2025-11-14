@@ -1,5 +1,6 @@
 {
   "hiragana": ["くんくん"],
+  "romaji": ["kun kun"],
   "katakana": ["クンクン"],
   "definition": [{
     "equivalent": [""],
@@ -21,5 +22,5 @@
       }
     ]
   }],
-  "literal": "kun kun"
+  "id": "kun_kun"
 }

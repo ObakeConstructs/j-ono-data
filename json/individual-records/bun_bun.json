@@ -3,6 +3,7 @@
     "ぶんぶん",
     "ぶんぶんっ"
   ],
+  "romaji": ["bun bun"],
   "katakana": [
     "ブンブン",
     "ブンブンッ"
@@ -38,8 +39,14 @@
         "contributor": "",
         "display": "ブン ブン ブン",
         "source": "ai_and_izawa"
+      },
+      {
+        "file": "bun_bun-1d",
+        "contributor": "",
+        "display": "ぶん ぶん",
+        "source": "mushoku_tensei"
       }
     ]
   }],
-  "literal": "bun bun"
+  "id": "bun_bun"
 }

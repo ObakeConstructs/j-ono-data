@@ -1,5 +1,6 @@
 {
   "hiragana": ["のそっ"],
+  "romaji": ["noso"],
   "katakana": ["ノソッ"],
   "definition": [{
     "equivalent": [
@@ -28,5 +29,5 @@
       "source": "pokemon_xy_break"
     }]
   }],
-  "literal": "noso"
+  "id": "noso"
 }

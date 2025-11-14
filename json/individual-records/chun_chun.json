@@ -3,13 +3,14 @@
     "ちゅんちゅん",
     "ちゅんちゅんっ"
   ],
+  "romaji": ["chun chun"],
   "katakana": [
     "チュンチュン",
     "チュンチュンッ"
   ],
   "definition": [{
     "equivalent": [""],
-    "refer": "chi chi:1",
+    "refer": "chi_chi:1",
     "meaning": ", often used to indicate dawn or early morning",
     "type": "",
     "example": [
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "chun chun"
+  "id": "chun_chun"
 }

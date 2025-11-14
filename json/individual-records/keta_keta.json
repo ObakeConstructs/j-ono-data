@@ -1,5 +1,6 @@
 {
   "hiragana": ["けたけた"],
+  "romaji": ["keta keta"],
   "katakana": ["ケタケタ"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "weakest_occupation_blacksmith"
     }]
   }],
-  "literal": "keta keta"
+  "id": "keta_keta"
 }

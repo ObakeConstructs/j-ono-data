@@ -1,5 +1,6 @@
 {
   "hiragana": ["もぐもぐ"],
+  "romaji": ["mogu mogu"],
   "katakana": ["モグモグ"],
   "definition": [{
     "equivalent": [
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "mogu mogu"
+  "id": "mogu_mogu"
 }

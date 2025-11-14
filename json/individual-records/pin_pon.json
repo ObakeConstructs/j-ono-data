@@ -3,6 +3,7 @@
     "ぴんぽん",
     "ぴんぽーん"
   ],
+  "romaji": ["pin pon"],
   "katakana": [
     "ピンポン",
     "ピンポーン"
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "pin pon"
+  "id": "pin_pon"
 }

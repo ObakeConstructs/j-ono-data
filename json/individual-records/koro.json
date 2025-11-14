@@ -1,5 +1,6 @@
 {
   "hiragana": ["ころ"],
+  "romaji": ["koro"],
   "katakana": ["コロ"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "komi_cant_communicate"
     }]
   }],
-  "literal": "koro"
+  "id": "koro"
 }

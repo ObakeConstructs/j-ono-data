@@ -1,5 +1,6 @@
 {
   "hiragana": ["かちかち"],
+  "romaji": ["kachi kachi"],
   "katakana": ["カチカチ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "isekai_av_filming"
     }]
   }],
-  "literal": "kachi kachi"
+  "id": "kachi_kachi"
 }

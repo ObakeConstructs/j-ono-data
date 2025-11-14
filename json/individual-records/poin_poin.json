@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぽぃんぽぃん"],
+  "romaji": ["poin poin"],
   "katakana": ["ポィンポィン"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "gyaru_academy"
     }]
   }],
-  "literal": "poin poin"
+  "id": "poin_poin"
 }

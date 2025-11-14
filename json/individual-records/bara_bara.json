@@ -1,5 +1,6 @@
 {
   "hiragana": ["ばらばら"],
+  "romaji": ["bara bara"],
   "katakana": ["バラバラ"],
   "definition": [
     {
@@ -37,5 +38,5 @@
       }]
     }
   ],
-  "literal": "bara bara"
+  "id": "bara_bara"
 }

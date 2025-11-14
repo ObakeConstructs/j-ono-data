@@ -1,5 +1,6 @@
 {
   "hiragana": ["ひらひら"],
+  "romaji": ["hira hira"],
   "katakana": ["ヒラヒラ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "lord_of_the_hundred_demons"
     }]
   }],
-  "literal": "hira hira"
+  "id": "hira_hira"
 }

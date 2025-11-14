@@ -3,6 +3,7 @@
     "ざりざり",
     "ざりざりざり"
   ],
+  "romaji": ["zari zari"],
   "katakana": [
     "ザリザリ",
     "ザリザリザリ"
@@ -24,5 +25,5 @@
       "source": "saga_lagging_hero"
     }]
   }],
-  "literal": "zari zari"
+  "id": "zari_zari"
 }

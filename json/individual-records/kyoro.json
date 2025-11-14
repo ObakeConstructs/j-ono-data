@@ -1,5 +1,6 @@
 {
   "hiragana": ["きょろ"],
+  "romaji": ["kyoro"],
   "katakana": ["キョロ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "isekai_territory_reform"
     }]
   }],
-  "literal": "kyoro"
+  "id": "kyoro"
 }

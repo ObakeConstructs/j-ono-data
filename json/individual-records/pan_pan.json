@@ -3,6 +3,7 @@
     "ぱんぱん",
     "ぱんっぱんっ"
   ],
+  "romaji": ["pan pan"],
   "katakana": [
     "パンパン",
     "パンッパンッ"
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "pan pan"
+  "id": "pan_pan"
 }

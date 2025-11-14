@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぺろん"],
+  "romaji": ["peron"],
   "katakana": ["ペロン"],
   "definition": [
     {
@@ -41,5 +42,5 @@
       }]
     }
   ],
-  "literal": "peron"
+  "id": "peron"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["むにゃ"],
+  "romaji": ["munya"],
   "katakana": ["ムニャ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "abandoned_reincarnation_sage"
     }]
   }],
-  "literal": "munya"
+  "id": "munya"
 }

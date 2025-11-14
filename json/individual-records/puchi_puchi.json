@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぷちぷち"],
+  "romaji": ["puchi puchi"],
   "katakana": ["プチプチ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "fushi_no_kami"
     }]
   }],
-  "literal": "puchi puchi"
+  "id": "puchi_puchi"
 }

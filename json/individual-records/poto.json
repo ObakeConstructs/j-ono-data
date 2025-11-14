@@ -3,6 +3,7 @@
     "ぽと",
     "ぽとっ"
   ],
+  "romaji": ["poto"],
   "katakana": [
     "ポト",
     "ポトッ"
@@ -19,5 +20,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "poto"
+  "id": "poto"
 }

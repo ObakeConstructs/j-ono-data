@@ -6,6 +6,7 @@
     "ざぶぅ",
     "ざぶぅぅ"
   ],
+  "romaji": ["zabu"],
   "katakana": [
     "ザブ",
     "ザブウ",
@@ -25,5 +26,5 @@
       "source": "kaijuu_sdf"
     }]
   }],
-  "literal": "zabu"
+  "id": "zabu"
 }

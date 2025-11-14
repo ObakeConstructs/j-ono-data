@@ -3,6 +3,7 @@
     "ぴしゃん",
     "ぴしゃーん"
   ],
+  "romaji": ["pishan"],
   "katakana": [
     "ピシャン",
     "ピシャーン"
@@ -19,5 +20,5 @@
       "source": "simple_sword_saint"
     }]
   }],
-  "literal": "pishan"
+  "id": "pishan"
 }

@@ -3,6 +3,7 @@
     "ぞろ",
     "ぞろっ"
   ],
+  "romaji": ["zoro"],
   "katakana": [
     "ゾロ",
     "ゾロッ"
@@ -29,5 +30,5 @@
       "source": "different_world_smartphone"
     }]
   }],
-  "literal": "zoro"
+  "id": "zoro"
 }

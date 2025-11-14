@@ -3,6 +3,7 @@
     "くちゅくちゅ",
     "くちゅくちゅっ"
   ],
+  "romaji": ["kuchu kuchu"],
   "katakana": [
     "クチュクチュ",
     "クチュクチュッ"
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "kuchu kuchu"
+  "id": "kuchu_kuchu"
 }

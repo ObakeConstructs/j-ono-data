@@ -1,5 +1,6 @@
 {
   "hiragana": ["ずぎゃ"],
+  "romaji": ["zugya"],
   "katakana": ["ズギャ"],
   "definition": [{
     "equivalent": [
@@ -40,5 +41,5 @@
       }
     ]
   }],
-  "literal": "zugya"
+  "id": "zugya"
 }

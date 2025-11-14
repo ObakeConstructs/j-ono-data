@@ -3,6 +3,7 @@
     "あん",
     "あーん"
   ],
+  "romaji": ["an"],
   "katakana": [
     "アン",
     "アーン"
@@ -24,5 +25,5 @@
       "source": "otherworld_material_collector"
     }]
   }],
-  "literal": "an"
+  "id": "an"
 }

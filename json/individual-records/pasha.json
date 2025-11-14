@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぱしゃ"],
+  "romaji": ["pasha"],
   "katakana": ["パシャ"],
   "definition": [
     {
@@ -60,5 +61,5 @@
       ]
     }
   ],
-  "literal": "pasha"
+  "id": "pasha"
 }

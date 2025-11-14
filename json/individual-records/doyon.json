@@ -4,6 +4,7 @@
     "どよんっ",
     "どよーん"
   ],
+  "romaji": ["doyon"],
   "katakana": [
     "ドヨン",
     "ドヨンッ",
@@ -31,5 +32,5 @@
       "source": "saga_lagging_hero"
     }]
   }],
-  "literal": "doyon"
+  "id": "doyon"
 }

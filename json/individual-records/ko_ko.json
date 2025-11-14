@@ -5,6 +5,7 @@
     "こっこっ",
     "こっこっこっ"
   ],
+  "romaji": ["ko ko"],
   "katakana": [
     "ココ",
     "コココ",
@@ -31,5 +32,5 @@
       "source": "only_sweet_when_alone"
     }]
   }],
-  "literal": "ko ko"
+  "id": "ko_ko"
 }

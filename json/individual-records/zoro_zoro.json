@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぞろぞろ"],
+  "romaji": ["zoro zoro"],
   "katakana": ["ゾロゾロ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "kuma_kuma_kuma_bear"
     }]
   }],
-  "literal": "zoro zoro"
+  "id": "zoro_zoro"
 }

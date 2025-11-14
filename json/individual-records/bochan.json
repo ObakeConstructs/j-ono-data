@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぼちゃん"],
+  "romaji": ["bochan"],
   "katakana": ["ボチャン"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "berserk"
     }]
   }],
-  "literal": "bochan"
+  "id": "bochan"
 }

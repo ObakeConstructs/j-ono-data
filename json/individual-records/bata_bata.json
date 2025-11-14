@@ -1,5 +1,6 @@
 {
   "hiragana": ["ばたばた"],
+  "romaji": ["bata bata"],
   "katakana": ["バタバタ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "d_genesis"
     }]
   }],
-  "literal": "bata bata"
+  "id": "bata_bata"
 }

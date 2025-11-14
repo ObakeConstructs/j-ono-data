@@ -1,5 +1,6 @@
 {
   "hiragana": ["ちゃら"],
+  "romaji": ["chara"],
   "katakana": ["チャラ"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "s_rank_behemoth"
     }]
   }],
-  "literal": "chara"
+  "id": "chara"
 }

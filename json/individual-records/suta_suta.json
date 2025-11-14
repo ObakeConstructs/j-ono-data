@@ -1,5 +1,6 @@
 {
   "hiragana": ["すたすた"],
+  "romaji": ["suta suta"],
   "katakana": ["スタスタ"],
   "definition": [{
     "equivalent": [
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "suta suta"
+  "id": "suta_suta"
 }

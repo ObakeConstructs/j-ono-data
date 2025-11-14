@@ -1,10 +1,11 @@
 {
   "hiragana": ["ふるふる"],
+  "romaji": ["furu furu"],
   "katakana": ["フルフル"],
   "definition": [
     {
       "equivalent": [""],
-      "refer": "furo furo:1",
+      "refer": "furo_furo:1",
       "meaning": "",
       "type": "",
       "example": [{
@@ -31,5 +32,5 @@
       }]
     }
   ],
-  "literal": "furu furu"
+  "id": "furu_furu"
 }

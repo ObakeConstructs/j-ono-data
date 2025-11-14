@@ -3,6 +3,7 @@
     "たし",
     "たしっ"
   ],
+  "romaji": ["tashi"],
   "katakana": [
     "タシ",
     "タシッ"
@@ -30,5 +31,5 @@
       "source": "cheat_pharmacist"
     }]
   }],
-  "literal": "tashi"
+  "id": "tashi"
 }

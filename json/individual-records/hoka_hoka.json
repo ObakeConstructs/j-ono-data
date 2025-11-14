@@ -1,5 +1,6 @@
 {
   "hiragana": ["ほかほか"],
+  "romaji": ["hoka hoka"],
   "katakana": ["ホカホカ"],
   "definition": [{
     "equivalent": [
@@ -26,5 +27,5 @@
       }
     ]
   }],
-  "literal": "hoka hoka"
+  "id": "hoka_hoka"
 }

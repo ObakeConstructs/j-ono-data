@@ -1,5 +1,6 @@
 {
   "hiragana": ["すとん"],
+  "romaji": ["suton"],
   "katakana": ["ストン"],
   "definition": [
     {
@@ -49,5 +50,5 @@
       }]
     }
   ],
-  "literal": "suton"
+  "id": "suton"
 }

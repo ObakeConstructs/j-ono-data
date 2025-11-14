@@ -3,6 +3,7 @@
     "にこにこ",
     "にっこにっこ"
   ],
+  "romaji": ["niko niko"],
   "katakana": [
     "ニコニコ",
     "ニッコニッコ"
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "niko niko"
+  "id": "niko_niko"
 }

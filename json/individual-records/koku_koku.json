@@ -1,5 +1,6 @@
 {
   "hiragana": ["こくこく"],
+  "romaji": ["koku koku"],
   "katakana": ["コクコク"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "abandoned_reincarnation_sage"
     }]
   }],
-  "literal": "koku koku"
+  "id": "koku_koku"
 }

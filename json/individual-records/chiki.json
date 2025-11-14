@@ -1,5 +1,6 @@
 {
   "hiragana": ["ちき"],
+  "romaji": ["chiki"],
   "katakana": ["チキ"],
   "definition": [{
     "equivalent": [
@@ -16,5 +17,5 @@
       "source": "spy_x_family"
     }]
   }],
-  "literal": "chiki"
+  "id": "chiki"
 }

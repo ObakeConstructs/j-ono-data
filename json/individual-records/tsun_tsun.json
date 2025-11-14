@@ -1,5 +1,6 @@
 {
   "hiragana": ["つんつん"],
+  "romaji": ["tsun tsun"],
   "katakana": ["ツンツン"],
   "definition": [{
     "equivalent": [
@@ -44,5 +45,5 @@
       }
     ]
   }],
-  "literal": "tsun tsun"
+  "id": "tsun_tsun"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["すんすん"],
+  "romaji": ["sun sun"],
   "katakana": ["スンスン"],
   "definition": [{
     "equivalent": [
@@ -40,5 +41,5 @@
       }
     ]
   }],
-  "literal": "sun sun"
+  "id": "sun_sun"
 }

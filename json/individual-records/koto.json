@@ -3,6 +3,7 @@
     "こと",
     "ことっ"
   ],
+  "romaji": ["koto"],
   "katakana": [
     "コト",
     "コトッ"
@@ -45,5 +46,5 @@
       }
     ]
   }],
-  "literal": "koto"
+  "id": "koto"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぴょん"],
+  "romaji": ["pyon"],
   "katakana": ["ピョン"],
   "definition": [{
     "equivalent": [
@@ -35,5 +36,5 @@
       }
     ]
   }],
-  "literal": "pyon"
+  "id": "pyon"
 }

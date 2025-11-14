@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぷにゅぅん"],
+  "romaji": ["punyun"],
   "katakana": ["プニュゥン"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "gyaru_academy"
     }]
   }],
-  "literal": "punyun"
+  "id": "punyun"
 }

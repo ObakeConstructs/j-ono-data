@@ -1,5 +1,6 @@
 {
   "hiragana": ["こくんこくん"],
+  "romaji": ["kokun kokun"],
   "katakana": ["コクンコクン"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "only_sweet_when_alone"
     }]
   }],
-  "literal": "kokun kokun"
+  "id": "kokun_kokun"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["わふ"],
+  "romaji": ["wafu"],
   "katakana": ["ワフ"],
   "definition": [{
     "equivalent": [
@@ -20,5 +21,5 @@
       "source": "dog_became_strongest"
     }]
   }],
-  "literal": "wafu"
+  "id": "wafu"
 }

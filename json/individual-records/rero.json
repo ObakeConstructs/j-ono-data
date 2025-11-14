@@ -1,5 +1,6 @@
 {
   "hiragana": ["れろ"],
+  "romaji": ["rero"],
   "katakana": ["レロ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "double_play"
     }]
   }],
-  "literal": "rero"
+  "id": "rero"
 }

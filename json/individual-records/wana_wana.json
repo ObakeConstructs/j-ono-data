@@ -1,5 +1,6 @@
 {
   "hiragana": ["わなわな"],
+  "romaji": ["wana wana"],
   "katakana": ["ワナワナ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "isekai_pickup"
     }]
   }],
-  "literal": "wana wana"
+  "id": "wana_wana"
 }

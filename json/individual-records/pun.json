@@ -3,6 +3,7 @@
     "ぷん",
     "ぷんっ"
   ],
+  "romaji": ["pun"],
   "katakana": [
     "プン",
     "プンッ"
@@ -27,5 +28,5 @@
       "source": "isekai_territory_reform"
     }]
   }],
-  "literal": "pun"
+  "id": "pun"
 }

@@ -3,6 +3,7 @@
     "げ",
     "げっ"
   ],
+  "romaji": ["ge"],
   "katakana": [
     "ゲ",
     "ゲッ"
@@ -24,5 +25,5 @@
       "source": "d_genesis"
     }]
   }],
-  "literal": "ge"
+  "id": "ge"
 }

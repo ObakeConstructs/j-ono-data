@@ -1,5 +1,6 @@
 {
   "hiragana": ["からんからん"],
+  "romaji": ["karan karan"],
   "katakana": ["カランカラン"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "isekai_pickup"
     }]
   }],
-  "literal": "karan karan"
+  "id": "karan_karan"
 }

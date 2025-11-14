@@ -1,5 +1,6 @@
 {
   "hiragana": ["ずびしっ"],
+  "romaji": ["zubishi"],
   "katakana": ["ズビシッ"],
   "definition": [{
     "equivalent": [
@@ -22,5 +23,5 @@
       "source": "cheat_pharmacist"
     }]
   }],
-  "literal": "zubishi"
+  "id": "zubishi"
 }

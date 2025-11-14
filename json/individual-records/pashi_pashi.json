@@ -3,6 +3,7 @@
     "ぱしぱし",
     "ぱしっぱしっ"
   ],
+  "romaji": ["pashi pashi"],
   "katakana": [
     "パシパシ",
     "パシッパシッ"
@@ -46,5 +47,5 @@
       }]
     }
   ],
-  "literal": "pashi pashi"
+  "id": "pashi_pashi"
 }

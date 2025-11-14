@@ -1,5 +1,6 @@
 {
   "hiragana": ["ちゅぷ"],
+  "romaji": ["chupu"],
   "katakana": ["チュプ"],
   "definition": [{
     "equivalent": [
@@ -20,5 +21,5 @@
       "source": "gyaru_academy"
     }]
   }],
-  "literal": "chupu"
+  "id": "chupu"
 }

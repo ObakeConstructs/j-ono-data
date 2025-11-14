@@ -1,5 +1,6 @@
 {
   "hiragana": ["むしゃむしゃ"],
+  "romaji": ["musha musha"],
   "katakana": ["ムシャムシャ"],
   "definition": [{
     "equivalent": [
@@ -22,5 +23,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "musha musha"
+  "id": "musha_musha"
 }

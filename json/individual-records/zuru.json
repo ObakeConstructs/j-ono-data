@@ -3,13 +3,14 @@
     "ずる",
     "ずるっ"
   ],
+  "romaji": ["zuru"],
   "katakana": [
     "ズル",
     "ズルッ"
   ],
   "definition": [{
     "equivalent": [""],
-    "refer": "zuri zuri:1",
+    "refer": "zuri_zuri:1",
     "meaning": "",
     "type": "",
     "example": [
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "zuru"
+  "id": "zuru"
 }

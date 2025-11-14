@@ -3,6 +3,7 @@
     "すは",
     "すーはー"
   ],
+  "romaji": ["su ha"],
   "katakana": [
     "スハ",
     "スーハー"
@@ -24,5 +25,5 @@
       "source": "isekai_pickup"
     }]
   }],
-  "literal": "su ha"
+  "id": "su_ha"
 }

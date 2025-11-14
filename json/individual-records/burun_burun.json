@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぶるんぶるん"],
+  "romaji": ["burun burun"],
   "katakana": ["ブルンブルン"],
   "definition": [{
     "equivalent": [
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "burun burun"
+  "id": "burun_burun"
 }

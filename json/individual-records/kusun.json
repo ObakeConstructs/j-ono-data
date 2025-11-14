@@ -1,5 +1,6 @@
 {
   "hiragana": ["くすん"],
+  "romaji": ["kusun"],
   "katakana": ["クスン"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "spy_x_family"
     }]
   }],
-  "literal": "kusun"
+  "id": "kusun"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["もっもっ"],
+  "romaji": ["mo mo"],
   "katakana": ["モッモッ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "different_world_smartphone"
     }]
   }],
-  "literal": "mo mo"
+  "id": "mo_mo"
 }

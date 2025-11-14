@@ -1,5 +1,6 @@
 {
   "hiragana": ["たたったたっ"],
+  "romaji": ["tata tata"],
   "katakana": ["タタッタタッ"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "dog_became_strongest"
     }]
   }],
-  "literal": "tata tata"
+  "id": "tata_tata"
 }

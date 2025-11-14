@@ -1,5 +1,6 @@
 {
   "hiragana": ["ずんずん"],
+  "romaji": ["zun zun"],
   "katakana": ["ズンズン"],
   "definition": [{
     "equivalent": [
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "zun zun"
+  "id": "zun_zun"
 }

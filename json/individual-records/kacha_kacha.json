@@ -1,5 +1,6 @@
 {
   "hiragana": ["かちゃかちゃ"],
+  "romaji": ["kacha kacha"],
   "katakana": ["カチャカチャ"],
   "definition": [{
     "equivalent": [""],
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "kacha kacha"
+  "id": "kacha_kacha"
 }

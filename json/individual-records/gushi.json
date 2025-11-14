@@ -3,6 +3,7 @@
     "ぐし",
     "ぐしっ"
   ],
+  "romaji": ["gushi"],
   "katakana": [
     "グシ",
     "グシッ"
@@ -25,5 +26,5 @@
       "source": "requiem_for_prophet"
     }]
   }],
-  "literal": "gushi"
+  "id": "gushi"
 }

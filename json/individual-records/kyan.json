@@ -3,6 +3,7 @@
     "きゃん",
     "きゃーん"
   ],
+  "romaji": ["kyan"],
   "katakana": [
     "キャン",
     "キャーン"
@@ -19,5 +20,5 @@
       "source": "dog_became_strongest"
     }]
   }],
-  "literal": "kyan"
+  "id": "kyan"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["ばきばき"],
+  "romaji": ["baki baki"],
   "katakana": ["バキバキ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "hone_dragon"
     }]
   }],
-  "literal": "baki baki"
+  "id": "baki_baki"
 }

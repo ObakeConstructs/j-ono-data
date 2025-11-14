@@ -1,5 +1,6 @@
 {
   "hiragana": ["べりべり"],
+  "romaji": ["beri beri"],
   "katakana": ["ベリベリ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "spy_x_family"
     }]
   }],
-  "literal": "beri beri"
+  "id": "beri_beri"
 }

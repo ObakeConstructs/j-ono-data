@@ -3,6 +3,7 @@
     "つかつか",
     "つかつかつか"
   ],
+  "romaji": ["tsuka tsuka"],
   "katakana": [
     "ツカツカ",
     "ツカツカツカ"
@@ -24,5 +25,5 @@
       "source": "requiem_for_prophet"
     }]
   }],
-  "literal": "tsuka tsuka"
+  "id": "tsuka_tsuka"
 }

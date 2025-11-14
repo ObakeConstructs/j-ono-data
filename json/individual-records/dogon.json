@@ -3,6 +3,7 @@
     "どごん",
     "どごんっ"
   ],
+  "romaji": ["dogon"],
   "katakana": [
     "ドゴン",
     "ドゴンッ"
@@ -19,5 +20,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "dogon"
+  "id": "dogon"
 }

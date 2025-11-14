@@ -3,6 +3,7 @@
     "ぽかん",
     "ぽかんっ"
   ],
+  "romaji": ["pokan"],
   "katakana": [
     "ポカン",
     "ポカンッ"
@@ -29,5 +30,5 @@
       "source": "saga_lagging_hero"
     }]
   }],
-  "literal": "pokan"
+  "id": "pokan"
 }

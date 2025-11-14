@@ -1,5 +1,6 @@
 {
   "hiragana": ["こそこそ"],
+  "romaji": ["koso koso"],
   "katakana": ["コソコソ"],
   "definition": [{
     "equivalent": [
@@ -24,5 +25,5 @@
       "source": "dog_became_strongest"
     }]
   }],
-  "literal": "koso koso"
+  "id": "koso_koso"
 }

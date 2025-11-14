@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぽりぽり"],
+  "romaji": ["pori pori"],
   "katakana": ["ポリポリ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "dog_became_strongest"
     }]
   }],
-  "literal": "pori pori"
+  "id": "pori_pori"
 }

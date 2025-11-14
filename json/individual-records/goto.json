@@ -3,6 +3,7 @@
     "ごと",
     "ごとっ"
   ],
+  "romaji": ["goto"],
   "katakana": [
     "ゴト",
     "ゴトッ"
@@ -41,5 +42,5 @@
       }
     ]
   }],
-  "literal": "goto"
+  "id": "goto"
 }

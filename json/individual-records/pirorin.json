@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぴろりん"],
+  "romaji": ["pirorin"],
   "katakana": ["ピロリン"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "d_genesis"
     }]
   }],
-  "literal": "pirorin"
+  "id": "pirorin"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["とくとく"],
+  "romaji": ["toku toku"],
   "katakana": ["トクトク"],
   "definition": [{
     "equivalent": [
@@ -28,5 +29,5 @@
       }
     ]
   }],
-  "literal": "toku toku"
+  "id": "toku_toku"
 }

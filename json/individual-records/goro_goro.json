@@ -3,6 +3,7 @@
     "ごろごろ",
     "ごーろごーろ"
   ],
+  "romaji": ["goro goro"],
   "katakana": [
     "ゴロゴロ",
     "ゴーロゴーロ"
@@ -44,5 +45,5 @@
       ]
     }
   ],
-  "literal": "goro goro"
+  "id": "goro_goro"
 }

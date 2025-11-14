@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぴちゃん"],
+  "romaji": ["pichan"],
   "katakana": ["ピチャン"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "hello_work"
     }]
   }],
-  "literal": "pichan"
+  "id": "pichan"
 }

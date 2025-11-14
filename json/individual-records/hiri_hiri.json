@@ -1,5 +1,6 @@
 {
   "hiragana": ["ひりひり"],
+  "romaji": ["hiri hiri"],
   "katakana": ["ヒリヒリ"],
   "definition": [{
     "equivalent": [
@@ -22,5 +23,5 @@
       "source": "cheat_pharmacist"
     }]
   }],
-  "literal": "hiri hiri"
+  "id": "hiri_hiri"
 }

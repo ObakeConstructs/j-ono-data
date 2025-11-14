@@ -1,5 +1,6 @@
 {
   "hiragana": ["まきまき"],
+  "romaji": ["maki maki"],
   "katakana": ["マキマキ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "shogun_gold_in_america"
     }]
   }],
-  "literal": "maki maki"
+  "id": "maki_maki"
 }

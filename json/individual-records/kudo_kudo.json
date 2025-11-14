@@ -3,6 +3,7 @@
     "くどくど",
     "くどくどくど"
   ],
+  "romaji": ["kudo kudo"],
   "katakana": [
     "クドクド",
     "クドクドクド"
@@ -29,5 +30,5 @@
       "source": "saga_lagging_hero"
     }]
   }],
-  "literal": "kudo kudo"
+  "id": "kudo_kudo"
 }

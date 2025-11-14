@@ -1,5 +1,6 @@
 {
   "hiragana": ["ずばばん"],
+  "romaji": ["zubaban"],
   "katakana": ["ズババン"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "pokemon_xy_break"
     }]
   }],
-  "literal": "zubaban"
+  "id": "zubaban"
 }

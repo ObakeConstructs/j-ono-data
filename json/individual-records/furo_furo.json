@@ -1,5 +1,6 @@
 {
   "hiragana": ["ふろふろ"],
+  "romaji": ["furo furo"],
   "katakana": ["フロフロ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "reincarnated_aristocrat"
     }]
   }],
-  "literal": "furo furo"
+  "id": "furo_furo"
 }

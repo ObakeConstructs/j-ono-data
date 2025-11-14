@@ -1,5 +1,6 @@
 {
   "hiragana": ["とろん"],
+  "romaji": ["toron"],
   "katakana": ["トロン"],
   "definition": [{
     "equivalent": [
@@ -25,5 +26,5 @@
       "source": "only_sweet_when_alone"
     }]
   }],
-  "literal": "toron"
+  "id": "toron"
 }

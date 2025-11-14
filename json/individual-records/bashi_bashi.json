@@ -1,5 +1,6 @@
 {
   "hiragana": ["ばしばし"],
+  "romaji": ["bashi bashi"],
   "katakana": ["バシバシ"],
   "definition": [{
     "equivalent": [
@@ -27,5 +28,5 @@
       "source": "only_sweet_when_alone"
     }]
   }],
-  "literal": "bashi bashi"
+  "id": "bashi_bashi"
 }

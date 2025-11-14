@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぞくぞく"],
+  "romaji": ["zoku zoku"],
   "katakana": ["ゾクゾク"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "beastly_boys_and_girls"
     }]
   }],
-  "literal": "zoku zoku"
+  "id": "zoku_zoku"
 }

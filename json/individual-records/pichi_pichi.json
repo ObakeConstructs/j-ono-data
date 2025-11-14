@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぴちぴち"],
+  "romaji": ["pichi pichi"],
   "katakana": ["ピチピチ"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "pichi pichi"
+  "id": "pichi_pichi"
 }

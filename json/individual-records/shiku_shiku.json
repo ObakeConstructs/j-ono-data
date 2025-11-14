@@ -1,5 +1,6 @@
 {
   "hiragana": ["しくしく"],
+  "romaji": ["shiku shiku"],
   "katakana": ["シクシク"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "shiku shiku"
+  "id": "shiku_shiku"
 }

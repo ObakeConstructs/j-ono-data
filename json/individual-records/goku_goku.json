@@ -1,5 +1,6 @@
 {
   "hiragana": ["ごくごく"],
+  "romaji": ["goku goku"],
   "katakana": ["ゴクゴク"],
   "definition": [{
     "equivalent": [""],
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "goku goku"
+  "id": "goku_goku"
 }

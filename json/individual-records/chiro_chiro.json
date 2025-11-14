@@ -1,5 +1,6 @@
 {
   "hiragana": ["ちろちろ"],
+  "romaji": ["chiro chiro"],
   "katakana": ["チロチロ"],
   "definition": [{
     "equivalent": [
@@ -20,5 +21,5 @@
       "source": "beastly_boys_and_girls"
     }]
   }],
-  "literal": "chiro chiro"
+  "id": "chiro_chiro"
 }

@@ -3,6 +3,7 @@
     "ぎゅむ",
     "ぎゅむっ"
   ],
+  "romaji": ["gyumu"],
   "katakana": [
     "ギュム",
     "ギュムッ"
@@ -19,5 +20,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "gyumu"
+  "id": "gyumu"
 }

@@ -3,13 +3,14 @@
     "こぽぽ",
     "こぽぽぽ"
   ],
+  "romaji": ["kopopo"],
   "katakana": [
     "コポポ",
     "コポポポ"
   ],
   "definition": [{
     "equivalent": [""],
-    "refer": "toku toku:1",
+    "refer": "toku_toku:1",
     "meaning": "",
     "type": "",
     "example": [{
@@ -19,5 +20,5 @@
       "source": "d_genesis"
     }]
   }],
-  "literal": "kopopo"
+  "id": "kopopo"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["のそのそ"],
+  "romaji": ["noso noso"],
   "katakana": ["ノソノソ"],
   "definition": [{
     "equivalent": [
@@ -28,5 +29,5 @@
       "source": "hone_dragon"
     }]
   }],
-  "literal": "noso noso"
+  "id": "noso_noso"
 }

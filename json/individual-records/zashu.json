@@ -1,5 +1,6 @@
 {
   "hiragana": ["ざしゅ"],
+  "romaji": ["zashu"],
   "katakana": ["ザシュ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "zashu"
+  "id": "zashu"
 }

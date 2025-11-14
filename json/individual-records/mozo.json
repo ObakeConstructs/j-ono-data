@@ -3,6 +3,7 @@
     "もぞ",
     "もぞっ"
   ],
+  "romaji": ["mozo"],
   "katakana": [
     "モゾ",
     "モゾッ"
@@ -25,5 +26,5 @@
       "source": "world_full_of_zombies"
     }]
   }],
-  "literal": "mozo"
+  "id": "mozo"
 }

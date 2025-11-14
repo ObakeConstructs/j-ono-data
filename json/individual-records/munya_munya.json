@@ -1,5 +1,6 @@
 {
   "hiragana": ["むにゃむにゃ"],
+  "romaji": ["munya munya"],
   "katakana": ["ムニャムニャ"],
   "definition": [{
     "equivalent": [
@@ -29,5 +30,5 @@
       }
     ]
   }],
-  "literal": "munya munya"
+  "id": "munya_munya"
 }

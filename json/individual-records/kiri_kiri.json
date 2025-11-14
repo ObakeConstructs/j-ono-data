@@ -1,5 +1,6 @@
 {
   "hiragana": ["きりきり"],
+  "romaji": ["kiri kiri"],
   "katakana": ["キリキリ"],
   "definition": [{
     "equivalent": [
@@ -29,5 +30,5 @@
       }
     ]
   }],
-  "literal": "kiri kiri"
+  "id": "kiri_kiri"
 }

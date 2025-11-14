@@ -1,5 +1,6 @@
 {
   "hiragana": ["びしゅ"],
+  "romaji": ["bishu"],
   "katakana": ["ビシュ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "hello_work"
     }]
   }],
-  "literal": "bishu"
+  "id": "bishu"
 }

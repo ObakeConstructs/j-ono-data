@@ -4,6 +4,7 @@
     "ぺかっ",
     "ぺかーっ"
   ],
+  "romaji": ["peka"],
   "katakana": [
     "ペカ",
     "ペカッ",
@@ -29,5 +30,5 @@
       "source": "pokemon_xy_break"
     }]
   }],
-  "literal": "peka"
+  "id": "peka"
 }

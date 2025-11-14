@@ -3,13 +3,14 @@
     "ずるずる",
     "ずるずるっ"
   ],
+  "romaji": ["zuru zuru"],
   "katakana": [
     "ズルズル",
     "ズルズルッ"
   ],
   "definition": [{
     "equivalent": [""],
-    "refer": "zuri zuri:1",
+    "refer": "zuri_zuri:1",
     "meaning": "",
     "type": "",
     "example": [{
@@ -19,5 +20,5 @@
       "source": "saga_lagging_hero"
     }]
   }],
-  "literal": "zuru zuru"
+  "id": "zuru_zuru"
 }

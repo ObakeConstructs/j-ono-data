@@ -1,5 +1,6 @@
 {
   "hiragana": ["ちゃぷ"],
+  "romaji": ["chapu"],
   "katakana": ["チャプ"],
   "definition": [{
     "equivalent": [
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "chapu"
+  "id": "chapu"
 }

@@ -4,6 +4,7 @@
     "ぼーん",
     "ぼんっ"
   ],
+  "romaji": ["bon"],
   "katakana": [
     "ボン",
     "ボーン",
@@ -27,5 +28,5 @@
       "source": "pokemon_xy_break"
     }]
   }],
-  "literal": "bon"
+  "id": "bon"
 }

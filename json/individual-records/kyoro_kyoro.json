@@ -1,5 +1,6 @@
 {
   "hiragana": ["きょろきょろ"],
+  "romaji": ["kyoro kyoro"],
   "katakana": ["キョロキョロ"],
   "definition": [{
     "equivalent": [""],
@@ -39,5 +40,5 @@
       }
     ]
   }],
-  "literal": "kyoro kyoro"
+  "id": "kyoro_kyoro"
 }

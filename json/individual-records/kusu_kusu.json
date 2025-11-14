@@ -1,5 +1,6 @@
 {
   "hiragana": ["くすくす"],
+  "romaji": ["kusu kusu"],
   "katakana": ["クスクス"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "otherworld_material_collector"
     }]
   }],
-  "literal": "kusu kusu"
+  "id": "kusu_kusu"
 }

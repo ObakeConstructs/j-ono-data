@@ -1,5 +1,6 @@
 {
   "hiragana": ["ごろん"],
+  "romaji": ["goron"],
   "katakana": ["ゴロン"],
   "definition": [{
     "equivalent": [""],
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "goron"
+  "id": "goron"
 }

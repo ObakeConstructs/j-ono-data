@@ -3,6 +3,7 @@
     "ぼわ",
     "ぼわっ"
   ],
+  "romaji": ["bowa"],
   "katakana": [
     "ボワ",
     "ボワッ"
@@ -27,5 +28,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "bowa"
+  "id": "bowa"
 }

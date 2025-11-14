@@ -1,5 +1,6 @@
 {
   "hiragana": ["ごぽり"],
+  "romaji": ["gopori"],
   "katakana": ["ゴポリ"],
   "definition": [{
     "equivalent": [
@@ -20,5 +21,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "gopori"
+  "id": "gopori"
 }

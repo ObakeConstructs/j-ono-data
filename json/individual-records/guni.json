@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぐに"],
+  "romaji": ["guni"],
   "katakana": ["グニ"],
   "definition": [{
     "equivalent": [
@@ -22,5 +23,5 @@
       "source": "double_play"
     }]
   }],
-  "literal": "guni"
+  "id": "guni"
 }

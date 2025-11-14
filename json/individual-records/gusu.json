@@ -3,6 +3,7 @@
     "ぐす",
     "ぐすっ"
   ],
+  "romaji": ["gusu"],
   "katakana": [
     "グス",
     "グスッ"
@@ -27,5 +28,5 @@
       "source": "requiem_for_prophet"
     }]
   }],
-  "literal": "gusu"
+  "id": "gusu"
 }

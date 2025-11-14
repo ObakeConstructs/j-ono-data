@@ -11,6 +11,7 @@
     "ぼぉぉ",
     "ぼぉぉぉ"
   ],
+  "romaji": ["bo"],
   "katakana": [
     "ボ",
     "ボッ",
@@ -48,6 +49,12 @@
           "contributor": "",
           "display": "ボォォォ",
           "source": "spy_x_family"
+        },
+        {
+          "file": "bo-1c",
+          "contributor": "",
+          "display": "ボッ",
+          "source": "mushoku_tensei"
         }
       ]
     },
@@ -82,5 +89,5 @@
       }]
     }
   ],
-  "literal": "bo"
+  "id": "bo"
 }

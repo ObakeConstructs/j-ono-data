@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぷるぷる"],
+  "romaji": ["puru puru"],
   "katakana": ["プルプル"],
   "definition": [
     {
@@ -47,5 +48,5 @@
       ]
     }
   ],
-  "literal": "puru puru"
+  "id": "puru_puru"
 }

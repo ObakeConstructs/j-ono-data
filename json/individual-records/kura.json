@@ -5,6 +5,7 @@
     "くらあ",
     "くらあっ"
   ],
+  "romaji": ["kura"],
   "katakana": [
     "クラ",
     "クラッ",
@@ -30,5 +31,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "kura"
+  "id": "kura"
 }

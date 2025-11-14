@@ -3,6 +3,7 @@
     "ざぶん",
     "ざぶーん"
   ],
+  "romaji": ["zabun"],
   "katakana": [
     "ザブン",
     "ザブーン"
@@ -19,5 +20,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "zabun"
+  "id": "zabun"
 }

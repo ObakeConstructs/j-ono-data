@@ -5,6 +5,7 @@
     "べたぁ",
     "べたぁっ"
   ],
+  "romaji": ["beta"],
   "katakana": [
     "ベタ",
     "ベタッ",
@@ -30,5 +31,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "beta"
+  "id": "beta"
 }

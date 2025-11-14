@@ -1,5 +1,6 @@
 {
   "hiragana": ["こほん"],
+  "romaji": ["kohon"],
   "katakana": ["コホン"],
   "definition": [{
     "equivalent": [
@@ -24,5 +25,5 @@
       }
     ]
   }],
-  "literal": "kohon"
+  "id": "kohon"
 }

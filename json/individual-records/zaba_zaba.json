@@ -3,6 +3,7 @@
     "ざばざば",
     "ざばざばぁ"
   ],
+  "romaji": ["zaba zaba"],
   "katakana": [
     "ザバザバ",
     "ザバザバァ"
@@ -28,5 +29,5 @@
       "source": "kaijuu_sdf"
     }]
   }],
-  "literal": "zaba zaba"
+  "id": "zaba_zaba"
 }

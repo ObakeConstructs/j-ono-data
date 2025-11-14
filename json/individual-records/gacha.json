@@ -3,6 +3,7 @@
     "がちゃ",
     "がちゃっ"
   ],
+  "romaji": ["gacha"],
   "katakana": [
     "ガチャ",
     "ガチャッ"
@@ -60,5 +61,5 @@
       }
     ]
   }],
-  "literal": "gacha"
+  "id": "gacha"
 }

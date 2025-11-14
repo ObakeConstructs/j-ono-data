@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぴこぴこ"],
+  "romaji": ["piko piko"],
   "katakana": ["ピコピコ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "neet_kunoichi"
     }]
   }],
-  "literal": "piko piko"
+  "id": "piko_piko"
 }

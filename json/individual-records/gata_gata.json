@@ -1,5 +1,6 @@
 {
   "hiragana": ["がたがた"],
+  "romaji": ["gata gata"],
   "katakana": ["ガタガタ"],
   "definition": [
     {
@@ -23,7 +24,7 @@
         {
           "file": "gata_gata-1b",
           "contributor": "",
-          "display": "ガタ ガタ",
+          "display": "ガタ ガタ ガタ ガタ ガタ",
           "source": "human_ranch"
         }
       ]
@@ -61,5 +62,5 @@
       ]
     }
   ],
-  "literal": "gata gata"
+  "id": "gata_gata"
 }

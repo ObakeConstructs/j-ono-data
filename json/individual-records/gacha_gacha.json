@@ -1,5 +1,6 @@
 {
   "hiragana": ["がちゃがちゃ"],
+  "romaji": ["gacha gacha"],
   "katakana": ["ガチャガチャ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "world_full_of_zombies"
     }]
   }],
-  "literal": "gacha gacha"
+  "id": "gacha_gacha"
 }

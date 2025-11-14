@@ -3,6 +3,7 @@
     "ずるる",
     "ずるるる"
   ],
+  "romaji": ["zururu"],
   "katakana": [
     "ズルル",
     "ズルルル"
@@ -29,7 +30,7 @@
     },
     {
       "equivalent": [""],
-      "refer": "zuri zuri:1",
+      "refer": "zuri_zuri:1",
       "meaning": "",
       "type": "",
       "example": [{
@@ -40,5 +41,5 @@
       }]
     }
   ],
-  "literal": "zururu"
+  "id": "zururu"
 }

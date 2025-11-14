@@ -1,5 +1,6 @@
 {
   "hiragana": ["にゅ"],
+  "romaji": ["nyu"],
   "katakana": ["ニュ"],
   "definition": [{
     "equivalent": [
@@ -23,5 +24,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "nyu"
+  "id": "nyu"
 }

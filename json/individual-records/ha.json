@@ -9,6 +9,7 @@
     "はぁ",
     "はぁっ"
   ],
+  "romaji": ["ha"],
   "katakana": [
     "ハ",
     "ハッ",
@@ -29,7 +30,7 @@
         "pant"
       ],
       "refer": "",
-      "meaning": "a sharp inhale or gasp from exertion, fear, or excitement",
+      "meaning": "sharp inhale or gasp from exertion, fear, or excitement",
       "type": "v",
       "example": [
         {
@@ -53,7 +54,7 @@
         "sigh"
       ],
       "refer": "",
-      "meaning": "a quick sigh of relief or release of tension",
+      "meaning": "sigh of weariness or relief",
       "type": "v",
       "example": [
         {
@@ -73,6 +74,12 @@
           "contributor": "",
           "display": "はーっ",
           "source": "saga_lagging_hero"
+        },
+        {
+          "file": "ha-2d",
+          "contributor": "",
+          "display": "はあ",
+          "source": "mushoku_tensei"
         }
       ]
     },
@@ -83,7 +90,7 @@
         "realize"
       ],
       "refer": "",
-      "meaning": "a sudden realization or understanding",
+      "meaning": "sudden realization or understanding",
       "type": "e",
       "example": [
         {
@@ -107,5 +114,5 @@
       ]
     }
   ],
-  "literal": "ha"
+  "id": "ha"
 }

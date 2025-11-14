@@ -3,6 +3,7 @@
     "ぴょこぴょこ",
     "ぴよこぴよこ"
   ],
+  "romaji": ["pyoko pyoko"],
   "katakana": [
     "ピョコピョコ",
     "ピヨコピヨコ"
@@ -19,5 +20,5 @@
       "source": "spy_x_family"
     }]
   }],
-  "literal": "pyoko pyoko"
+  "id": "pyoko_pyoko"
 }

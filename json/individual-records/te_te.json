@@ -3,6 +3,7 @@
     "てて",
     "てってっ"
   ],
+  "romaji": ["te te"],
   "katakana": [
     "テテ",
     "テッテッ"
@@ -19,5 +20,5 @@
       "source": "weakest_occupation_blacksmith"
     }]
   }],
-  "literal": "te te"
+  "id": "te_te"
 }

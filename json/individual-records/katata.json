@@ -1,5 +1,6 @@
 {
   "hiragana": ["かたた"],
+  "romaji": ["katata"],
   "katakana": ["カタタ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "d_genesis"
     }]
   }],
-  "literal": "katata"
+  "id": "katata"
 }

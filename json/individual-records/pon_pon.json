@@ -3,6 +3,7 @@
     "ぽんぽん",
     "ぽんぽんっ"
   ],
+  "romaji": ["pon pon"],
   "katakana": [
     "ポンポン",
     "ポンポンッ"
@@ -32,5 +33,5 @@
       }
     ]
   }],
-  "literal": "pon pon"
+  "id": "pon_pon"
 }

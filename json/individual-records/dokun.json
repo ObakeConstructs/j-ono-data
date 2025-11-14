@@ -1,5 +1,6 @@
 {
   "hiragana": ["どくん"],
+  "romaji": ["dokun"],
   "katakana": ["ドクン"],
   "definition": [{
     "equivalent": [""],
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "dokun"
+  "id": "dokun"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["もがもが"],
+  "romaji": ["moga moga"],
   "katakana": ["モガモガ"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "berserk"
     }]
   }],
-  "literal": "moga moga"
+  "id": "moga_moga"
 }

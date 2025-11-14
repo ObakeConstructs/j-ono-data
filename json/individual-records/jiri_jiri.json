@@ -1,5 +1,6 @@
 {
   "hiragana": ["じりじり"],
+  "romaji": ["jiri jiri"],
   "katakana": ["ジリジリ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "kuma_kuma_kuma_bear"
     }]
   }],
-  "literal": "jiri jiri"
+  "id": "jiri_jiri"
 }

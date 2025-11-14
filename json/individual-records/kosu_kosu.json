@@ -1,5 +1,6 @@
 {
   "hiragana": ["こすこす"],
+  "romaji": ["kosu kosu"],
   "katakana": ["コスコス"],
   "definition": [{
     "equivalent": [
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "kosu kosu"
+  "id": "kosu_kosu"
 }

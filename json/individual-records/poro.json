@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぽろ"],
+  "romaji": ["poro"],
   "katakana": ["ポロ"],
   "definition": [
     {
@@ -51,5 +52,5 @@
       }]
     }
   ],
-  "literal": "poro"
+  "id": "poro"
 }

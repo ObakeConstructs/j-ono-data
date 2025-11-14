@@ -1,5 +1,6 @@
 {
   "hiragana": ["ずりずり"],
+  "romaji": ["zuri zuri"],
   "katakana": ["ズリズリ"],
   "definition": [{
     "equivalent": [
@@ -39,5 +40,5 @@
       }
     ]
   }],
-  "literal": "zuri zuri"
+  "id": "zuri_zuri"
 }

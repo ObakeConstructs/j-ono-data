@@ -3,6 +3,7 @@
     "とんとん",
     "とんとんっ"
   ],
+  "romaji": ["ton ton"],
   "katakana": [
     "トントン",
     "トントンッ"
@@ -48,5 +49,5 @@
       ]
     }
   ],
-  "literal": "ton ton"
+  "id": "ton_ton"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["とぷとぷ"],
+  "romaji": ["topu topu"],
   "katakana": ["トプトプ"],
   "definition": [{
     "equivalent": [
@@ -8,7 +9,7 @@
       "slosh",
       "trickle"
     ],
-    "refer": "toku toku:1",
+    "refer": "toku_toku:1",
     "meaning": "",
     "type": "",
     "example": [{
@@ -18,5 +19,5 @@
       "source": "isekai_pickup"
     }]
   }],
-  "literal": "topu topu"
+  "id": "topu_topu"
 }

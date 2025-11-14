@@ -1,5 +1,6 @@
 {
   "hiragana": ["とぼとぼ"],
+  "romaji": ["tobo tobo"],
   "katakana": ["トボトボ"],
   "definition": [{
     "equivalent": [
@@ -36,5 +37,5 @@
       }
     ]
   }],
-  "literal": "tobo tobo"
+  "id": "tobo_tobo"
 }

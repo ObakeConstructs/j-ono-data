@@ -3,6 +3,7 @@
     "ぽぃん",
     "ぽぃんっ"
   ],
+  "romaji": ["poin"],
   "katakana": [
     "ポィン",
     "ポィンッ"
@@ -29,5 +30,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "poin"
+  "id": "poin"
 }

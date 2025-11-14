@@ -3,6 +3,7 @@
     "ぺたん",
     "ぺたんっ"
   ],
+  "romaji": ["petan"],
   "katakana": [
     "ペタン",
     "ペタンッ"
@@ -31,5 +32,5 @@
       "source": "strongest_failure_frame"
     }]
   }],
-  "literal": "petan"
+  "id": "petan"
 }

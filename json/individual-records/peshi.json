@@ -3,6 +3,7 @@
     "ぺし",
     "ぺしっ"
   ],
+  "romaji": ["peshi"],
   "katakana": [
     "ペシ",
     "ペシッ"
@@ -25,5 +26,5 @@
       "source": "hikaro_no_go"
     }]
   }],
-  "literal": "peshi"
+  "id": "peshi"
 }

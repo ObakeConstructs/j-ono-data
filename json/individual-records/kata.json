@@ -3,6 +3,7 @@
     "かた",
     "かたっ"
   ],
+  "romaji": ["kata"],
   "katakana": [
     "カタ",
     "カタッ"
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "kata"
+  "id": "kata"
 }

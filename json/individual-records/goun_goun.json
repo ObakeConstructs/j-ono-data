@@ -1,5 +1,6 @@
 {
   "hiragana": ["ごうんごうん"],
+  "romaji": ["goun goun"],
   "katakana": ["ゴウンゴウン"],
   "definition": [{
     "equivalent": [
@@ -16,5 +17,5 @@
       "source": "isekai_av_filming"
     }]
   }],
-  "literal": "goun goun"
+  "id": "goun_goun"
 }

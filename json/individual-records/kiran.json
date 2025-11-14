@@ -3,6 +3,7 @@
     "きらん",
     "きらーん"
   ],
+  "romaji": ["kiran"],
   "katakana": [
     "キラン",
     "キラーン"
@@ -19,5 +20,5 @@
       "source": "s_rank_behemoth"
     }]
   }],
-  "literal": "kiran"
+  "id": "kiran"
 }

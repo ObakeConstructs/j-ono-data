@@ -3,6 +3,7 @@
     "ことこと",
     "ことことこと"
   ],
+  "romaji": ["koto koto"],
   "katakana": [
     "コトコト",
     "コトコトコト"
@@ -23,5 +24,5 @@
       "source": "way_of_the_house_husband"
     }]
   }],
-  "literal": "koto koto"
+  "id": "koto_koto"
 }

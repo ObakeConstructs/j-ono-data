@@ -3,6 +3,7 @@
     "ぱちぱち",
     "ぱちっぱちっ"
   ],
+  "romaji": ["pachi pachi"],
   "katakana": [
     "パチパチ",
     "パチッパチッ"
@@ -83,5 +84,5 @@
       }]
     }
   ],
-  "literal": "pachi pachi"
+  "id": "pachi_pachi"
 }

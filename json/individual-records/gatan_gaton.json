@@ -1,5 +1,6 @@
 {
   "hiragana": ["がたんごとん"],
+  "romaji": ["gatan gaton"],
   "katakana": ["ガタンゴトン"],
   "definition": [{
     "equivalent": [
@@ -17,5 +18,5 @@
       "source": "uncle_at_heart"
     }]
   }],
-  "literal": "gatan gaton"
+  "id": "gatan_gaton"
 }

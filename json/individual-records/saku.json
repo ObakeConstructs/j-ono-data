@@ -1,5 +1,6 @@
 {
   "hiragana": ["さく"],
+  "romaji": ["saku"],
   "katakana": ["サク"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "a_rank_slow_life"
     }]
   }],
-  "literal": "saku"
+  "id": "saku"
 }

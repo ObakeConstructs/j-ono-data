@@ -1,5 +1,6 @@
 {
   "hiragana": ["きらきら"],
+  "romaji": ["kira kira"],
   "katakana": ["キラキラ"],
   "definition": [{
     "equivalent": [""],
@@ -21,5 +22,5 @@
       }
     ]
   }],
-  "literal": "kira kira"
+  "id": "kira_kira"
 }

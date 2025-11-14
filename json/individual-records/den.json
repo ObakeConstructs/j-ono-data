@@ -3,6 +3,7 @@
     "でん",
     "でんっ"
   ],
+  "romaji": ["den"],
   "katakana": [
     "デン",
     "デンッ"
@@ -24,5 +25,5 @@
       "source": "way_of_isekai_cooking"
     }]
   }],
-  "literal": "den"
+  "id": "den"
 }

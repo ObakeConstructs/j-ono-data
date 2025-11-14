@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぼろぼろ"],
+  "romaji": ["boro boro"],
   "katakana": ["ボロボロ"],
   "definition": [{
     "equivalent": [""],
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "boro boro"
+  "id": "boro_boro"
 }

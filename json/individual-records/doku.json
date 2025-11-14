@@ -1,5 +1,6 @@
 {
   "hiragana": ["どく"],
+  "romaji": ["doku"],
   "katakana": ["ドク"],
   "definition": [{
     "equivalent": [
@@ -18,5 +19,5 @@
       "source": "embarrassing_and_sweet"
     }]
   }],
-  "literal": "doku"
+  "id": "doku"
 }

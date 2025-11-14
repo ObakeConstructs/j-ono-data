@@ -1,5 +1,6 @@
 {
   "hiragana": ["おろおろ"],
+  "romaji": ["oro oro"],
   "katakana": ["オロオロ"],
   "definition": [{
     "equivalent": [
@@ -32,5 +33,5 @@
       }
     ]
   }],
-  "literal": "oro oro"
+  "id": "oro_oro"
 }

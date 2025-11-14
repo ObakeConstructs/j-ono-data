@@ -3,6 +3,7 @@
     "ぴょこ",
     "ぴょこっ"
   ],
+  "romaji": ["pyoko"],
   "katakana": [
     "ピョコ",
     "ピョコッ"
@@ -26,5 +27,5 @@
       "source": "yojo_life"
     }]
   }],
-  "literal": "pyoko"
+  "id": "pyoko"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["わたわた"],
+  "romaji": ["wata wata"],
   "katakana": ["ワタワタ"],
   "definition": [{
     "equivalent": [
@@ -23,5 +24,5 @@
       "source": "reincarnated_farm_girl"
     }]
   }],
-  "literal": "wata wata"
+  "id": "wata_wata"
 }

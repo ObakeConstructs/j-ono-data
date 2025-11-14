@@ -1,5 +1,6 @@
 {
   "hiragana": ["きょどきょど"],
+  "romaji": ["kyodo kyodo"],
   "katakana": ["キョドキョド"],
   "definition": [{
     "equivalent": [
@@ -22,5 +23,5 @@
       "source": "reincarnated_as_a_dragon_egg"
     }]
   }],
-  "literal": "kyodo kyodo"
+  "id": "kyodo_kyodo"
 }

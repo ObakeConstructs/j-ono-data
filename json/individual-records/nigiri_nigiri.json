@@ -1,5 +1,6 @@
 {
   "hiragana": ["じゃるじゃる"],
+  "romaji": ["nigiri nigiri"],
   "katakana": ["ニギリニギリ"],
   "definition": [{
     "equivalent": [
@@ -21,5 +22,5 @@
       "source": "singing_the_superstar"
     }]
   }],
-  "literal": "nigiri nigiri"
+  "id": "nigiri_nigiri"
 }

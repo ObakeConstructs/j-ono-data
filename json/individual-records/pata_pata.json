@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぱたぱた"],
+  "romaji": ["pata pata"],
   "katakana": ["パタパタ"],
   "definition": [{
     "equivalent": [
@@ -29,5 +30,5 @@
       }
     ]
   }],
-  "literal": "pata pata"
+  "id": "pata_pata"
 }

@@ -3,6 +3,7 @@
     "へら",
     "へらっ"
   ],
+  "romaji": ["hera"],
   "katakana": [
     "ヘラ",
     "ヘラッ"
@@ -26,5 +27,5 @@
       "source": "double_play"
     }]
   }],
-  "literal": "hera"
+  "id": "hera"
 }

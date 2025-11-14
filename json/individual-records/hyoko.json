@@ -3,6 +3,7 @@
     "ひょこ",
     "ひょこっ"
   ],
+  "romaji": ["hyoko"],
   "katakana": [
     "ヒョコ",
     "ヒョコッ"
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "hyoko"
+  "id": "hyoko"
 }

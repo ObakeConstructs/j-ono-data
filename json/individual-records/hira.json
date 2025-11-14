@@ -1,5 +1,6 @@
 {
   "hiragana": ["ひら"],
+  "romaji": ["hira"],
   "katakana": ["ヒラ"],
   "definition": [{
     "equivalent": [
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "hira"
+  "id": "hira"
 }

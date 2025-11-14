@@ -1,5 +1,6 @@
 {
   "hiragana": ["かぽ"],
+  "romaji": ["kapo"],
   "katakana": ["カポ"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "way_of_the_house_husband"
     }]
   }],
-  "literal": "kapo"
+  "id": "kapo"
 }

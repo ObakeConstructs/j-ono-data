@@ -1,5 +1,6 @@
 {
   "hiragana": ["くるくる"],
+  "romaji": ["kuru kuru"],
   "katakana": ["クルクル"],
   "definition": [{
     "equivalent": [
@@ -31,5 +32,5 @@
       }
     ]
   }],
-  "literal": "kuru kuru"
+  "id": "kuru_kuru"
 }

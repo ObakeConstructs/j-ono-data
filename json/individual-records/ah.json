@@ -3,6 +3,7 @@
     "あ",
     "あっ"
   ],
+  "romaji": ["ah"],
   "katakana": [
     "ア",
     "アッ"
@@ -22,5 +23,5 @@
       "source": "isekai_pickup"
     }]
   }],
-  "literal": "ah"
+  "id": "ah"
 }

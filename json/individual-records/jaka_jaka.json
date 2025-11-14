@@ -1,5 +1,6 @@
 {
   "hiragana": ["じゃかじゃか"],
+  "romaji": ["jaka jaka"],
   "katakana": ["ジャカジャカ"],
   "definition": [{
     "equivalent": [
@@ -16,5 +17,5 @@
       "source": "cheat_pharmacist"
     }]
   }],
-  "literal": "jaka jaka"
+  "id": "jaka_jaka"
 }

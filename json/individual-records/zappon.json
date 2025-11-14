@@ -3,6 +3,7 @@
     "ざっぱん",
     "ざっぱーん"
   ],
+  "romaji": ["zappon"],
   "katakana": [
     "ザッパン",
     "ザッパーン"
@@ -19,5 +20,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "zappon"
+  "id": "zappon"
 }

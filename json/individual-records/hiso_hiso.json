@@ -1,5 +1,6 @@
 {
   "hiragana": ["ひそひそ"],
+  "romaji": ["hiso hiso"],
   "katakana": ["ヒソヒソ"],
   "definition": [{
     "equivalent": [
@@ -31,5 +32,5 @@
       }
     ]
   }],
-  "literal": "hiso hiso"
+  "id": "hiso_hiso"
 }

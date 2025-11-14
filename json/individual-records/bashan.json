@@ -3,6 +3,7 @@
     "ばしゃん",
     "ばしゃーん"
   ],
+  "romaji": ["bashan"],
   "katakana": [
     "バシャン",
     "バシャーン"
@@ -19,5 +20,5 @@
       "source": "buy_the_land"
     }]
   }],
-  "literal": "bashan"
+  "id": "bashan"
 }

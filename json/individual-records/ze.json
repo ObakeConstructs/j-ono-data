@@ -5,6 +5,7 @@
     "ぜえ",
     "ぜぇ"
   ],
+  "romaji": ["ze"],
   "katakana": [
     "ゼ",
     "ゼッ",
@@ -31,5 +32,5 @@
       "source": "world_full_of_monsters"
     }]
   }],
-  "literal": "ze"
+  "id": "ze"
 }

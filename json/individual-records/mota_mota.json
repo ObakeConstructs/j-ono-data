@@ -1,5 +1,6 @@
 {
   "hiragana": ["もたもた"],
+  "romaji": ["mota mota"],
   "katakana": ["モタモタ"],
   "definition": [{
     "equivalent": [
@@ -22,5 +23,5 @@
       "source": "embarrassing_and_sweet"
     }]
   }],
-  "literal": "mota mota"
+  "id": "mota_mota"
 }

@@ -3,6 +3,7 @@
     "にゃん",
     "にゃーん"
   ],
+  "romaji": ["nyan"],
   "katakana": [
     "ニャン",
     "ニャーン"
@@ -19,5 +20,5 @@
       "source": "s_rank_behemoth"
     }]
   }],
-  "literal": "nyan"
+  "id": "nyan"
 }

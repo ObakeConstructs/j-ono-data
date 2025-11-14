@@ -3,6 +3,7 @@
     "だんだん",
     "だんっだんっ"
   ],
+  "romaji": ["dan dan"],
   "katakana": [
     "ダンダン",
     "ダンッダンッ"
@@ -27,5 +28,5 @@
       }
     ]
   }],
-  "literal": "dan dan"
+  "id": "dan_dan"
 }

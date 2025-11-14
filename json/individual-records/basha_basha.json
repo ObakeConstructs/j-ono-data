@@ -1,5 +1,6 @@
 {
   "hiragana": ["ばしゃばしゃ"],
+  "romaji": ["basha basha"],
   "katakana": ["バシャバシャ"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "reincarnated_sage_daughters"
     }]
   }],
-  "literal": "basha basha"
+  "id": "basha_basha"
 }

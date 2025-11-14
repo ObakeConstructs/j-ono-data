@@ -3,6 +3,7 @@
     "どきどき",
     "どっきどっき"
   ],
+  "romaji": ["doki doki"],
   "katakana": [
     "ドキドキ",
     "ドッキドッキ"
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "doki doki"
+  "id": "doki_doki"
 }

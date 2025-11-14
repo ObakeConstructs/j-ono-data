@@ -1,5 +1,6 @@
 {
   "hiragana": ["ひゅんひゅん"],
+  "romaji": ["hyun hyun"],
   "katakana": ["ヒュンヒュン"],
   "definition": [{
     "equivalent": [""],
@@ -13,5 +14,5 @@
       "source": "d_genesis"
     }]
   }],
-  "literal": "hyun hyun"
+  "id": "hyun_hyun"
 }

@@ -1,5 +1,6 @@
 {
   "hiragana": ["がきぃん"],
+  "romaji": ["gakyin"],
   "katakana": ["ガキィン"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "different_world_smartphone"
     }]
   }],
-  "literal": "gakyin"
+  "id": "gakyin"
 }

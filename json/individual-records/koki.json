@@ -1,5 +1,6 @@
 {
   "hiragana": ["こき"],
+  "romaji": ["koki"],
   "katakana": ["コキ"],
   "definition": [{
     "equivalent": [
@@ -17,5 +18,5 @@
       "source": "blazing_fire_brigade"
     }]
   }],
-  "literal": "koki"
+  "id": "koki"
 }

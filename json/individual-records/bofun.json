@@ -1,5 +1,6 @@
 {
   "hiragana": ["ぼふん"],
+  "romaji": ["bofun"],
   "katakana": ["ボフン"],
   "definition": [{
     "equivalent": [""],
@@ -21,5 +22,5 @@
       }
     ]
   }],
-  "literal": "bofun"
+  "id": "bofun"
 }

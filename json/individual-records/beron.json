@@ -1,5 +1,6 @@
 {
   "hiragana": ["べろん"],
+  "romaji": ["beron"],
   "katakana": ["ベロン"],
   "definition": [{
     "equivalent": [
@@ -19,5 +20,5 @@
       "source": "dog_became_strongest"
     }]
   }],
-  "literal": "beron"
+  "id": "beron"
 }

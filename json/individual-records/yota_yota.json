@@ -1,5 +1,6 @@
 {
   "hiragana": ["よたよた"],
+  "romaji": ["yota yota"],
   "katakana": ["ヨタヨタ"],
   "definition": [{
     "equivalent": [
@@ -33,5 +34,5 @@
       }
     ]
   }],
-  "literal": "yota yota"
+  "id": "yota_yota"
 }
