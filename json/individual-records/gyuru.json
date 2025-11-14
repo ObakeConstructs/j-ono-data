@@ -4,6 +4,7 @@
     "ぎゅるる",
     "ぎゅるるる"
   ],
+  "romaji": ["gyuru"],
   "katakana": [
     "ギュル",
     "ギュルル",
@@ -11,7 +12,7 @@
   ],
   "definition": [{
     "equivalent": [""],
-    "refer": "gyu:3",
+    "refer": "ga:3",
     "meaning": "",
     "type": "",
     "example": [{
@@ -21,5 +22,5 @@
       "source": "otherworld_material_collector"
     }]
   }],
-  "literal": "gyuru"
+  "id": "gyuru"
 }
