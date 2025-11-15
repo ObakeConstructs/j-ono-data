@@ -1,7 +1,16 @@
 {
-  "hiragana": ["じたばた"],
-  "romaji": ["jita bata"],
-  "katakana": ["ジタバタ"],
+  "hiragana": [
+    "じたばた",
+    "ばたじた"
+  ],
+  "romaji": [
+    "jita bata",
+    "bata jita"
+  ],
+  "katakana": [
+    "バタジタ",
+    "ジタバタ"
+  ],
   "definition": [
     {
       "equivalent": [
@@ -15,15 +24,15 @@
       "type": "m",
       "example": [
         {
-          "file": "jita_bata-1a",
+          "file": "jita_bata_bata_jita-1a",
           "contributor": "",
           "display": "じたばた",
           "source": "hone_dragon"
         },
         {
-          "file": "jita_bata-1b",
+          "file": "jita_bata_bata_jita-1b",
           "contributor": "",
-          "display": "じた ばた",
+          "display": "ばた じた",
           "source": "isekai_av_filming"
         }
       ]
@@ -43,15 +52,15 @@
       "type": "m",
       "example": [
         {
-          "file": "jita_bata-2a",
+          "file": "jita_bata_bata_jita-2a",
           "contributor": "",
           "display": "ジタ バタ",
           "source": "buy_the_land"
         },
         {
-          "file": "jita_bata-2b",
+          "file": "jita_bata_bata_jita-2b",
           "contributor": "",
-          "display": "ばたじた",
+          "display": "ばた じた",
           "source": "mushoku_tensei"
         }
       ]

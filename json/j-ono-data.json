@@ -9187,7 +9187,7 @@
           {
             "file": "go_go-1b",
             "contributor": "",
-            "display": "ゴッ ゴッ",
+            "display": "ゴッ ゴッ ゴッ",
             "source": "mushoku_tensei"
           }
         ]
@@ -10484,7 +10484,7 @@
           {
             "file": "ha-2d",
             "contributor": "",
-            "display": "はあ",
+            "display": "はあー",
             "source": "mushoku_tensei"
           }
         ]
@@ -11378,15 +11378,14 @@
       },
       {
         "equivalent": [
-          "adorable",
           "aww",
-          "cute",
-          "pretty",
-          "stunning",
+          "ooh",
+          "wah",
+          "wow",
           "woah"
         ],
         "refer": "",
-        "meaning": "a soft vocalization as a reaction to something cute or endearing, often involuntary",
+        "meaning": "a soft vocalization as a surprised reaction, often involuntary",
         "type": "v",
         "example": [
           {
@@ -12107,9 +12106,18 @@
     "id": "jiro"
   },
   {
-    "hiragana": ["じたばた"],
-    "romaji": ["jita bata"],
-    "katakana": ["ジタバタ"],
+    "hiragana": [
+      "じたばた",
+      "ばたじた"
+    ],
+    "romaji": [
+      "jita bata",
+      "bata jita"
+    ],
+    "katakana": [
+      "バタジタ",
+      "ジタバタ"
+    ],
     "definition": [
       {
         "equivalent": [
@@ -12123,15 +12131,15 @@
         "type": "m",
         "example": [
           {
-            "file": "jita_bata-1a",
+            "file": "jita_bata_bata_jita-1a",
             "contributor": "",
             "display": "じたばた",
             "source": "hone_dragon"
           },
           {
-            "file": "jita_bata-1b",
+            "file": "jita_bata_bata_jita-1b",
             "contributor": "",
-            "display": "じた ばた",
+            "display": "ばた じた",
             "source": "isekai_av_filming"
           }
         ]
@@ -12151,15 +12159,15 @@
         "type": "m",
         "example": [
           {
-            "file": "jita_bata-2a",
+            "file": "jita_bata_bata_jita-2a",
             "contributor": "",
             "display": "ジタ バタ",
             "source": "buy_the_land"
           },
           {
-            "file": "jita_bata-2b",
+            "file": "jita_bata_bata_jita-2b",
             "contributor": "",
-            "display": "ばたじた",
+            "display": "ばた じた",
             "source": "mushoku_tensei"
           }
         ]
@@ -25207,7 +25215,7 @@
           {
             "file": "un_un-1b",
             "contributor": "",
-            "display": "うん うん",
+            "display": "うんうん",
             "source": "a_rank_slow_life"
           }
         ]
@@ -28071,7 +28079,7 @@
         "example": [{
           "file": "zu_zu-1a",
           "contributor": "",
-          "display": "ズッ..!",
+          "display": "ずずっ",
           "source": "mushoku_tensei"
         }]
       },
