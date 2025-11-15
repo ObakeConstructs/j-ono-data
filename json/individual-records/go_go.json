@@ -19,12 +19,20 @@
       "refer": "go:1",
       "meaning": ", repeated or rhythmic ",
       "type": "",
-      "example": [{
-        "file": "go_go-1a",
-        "contributor": "",
-        "display": "ゴッ ゴッ",
-        "source": "human_ranch"
-      }]
+      "example": [
+        {
+          "file": "go_go-1a",
+          "contributor": "",
+          "display": "ゴッ ゴッ",
+          "source": "human_ranch"
+        },
+        {
+          "file": "go_go-1b",
+          "contributor": "",
+          "display": "ゴッ ゴッ",
+          "source": "mushoku_tensei"
+        }
+      ]
     },
     {
       "equivalent": [

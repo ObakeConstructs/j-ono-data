@@ -1,7 +1,11 @@
 [
   {
+    "date": "2025/11/15",
+    "message": "32 new examples from Mushoku Tensei (Nightbug)"
+  },
+  {
     "date": "2025/11/11",
-    "message": "Changed database field (literal string -> romaji array); added new field (id string)"
+    "message": "Database changed: Updated field (literal string -> romaji array); added new field (id string)"
   },
   {
     "date": "2025/11/10",

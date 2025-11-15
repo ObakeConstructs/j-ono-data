@@ -8,42 +8,31 @@
     "ゴソ",
     "ゴソッ"
   ],
-  "definition": [
-    {
-      "equivalent": [
-        "get",
-        "locate",
-        "reach",
-        "rummage",
-        "rustle"
-      ],
-      "refer": "",
-      "meaning": "rustling sounds of rummaging or searching",
-      "type": "o",
-      "example": [{
+  "definition": [{
+    "equivalent": [
+      "get",
+      "locate",
+      "reach",
+      "rummage",
+      "rustle"
+    ],
+    "refer": "",
+    "meaning": "rustling or rummaging, often soft or subtle",
+    "type": "o",
+    "example": [
+      {
         "file": "goso-1a",
         "contributor": "",
         "display": "ごそ",
         "source": "dog_became_strongest"
-      }]
-    },
-    {
-      "equivalent": [
-        "pull",
-        "rustle",
-        "shift",
-        "tug"
-      ],
-      "refer": "",
-      "meaning": "rustling sounds of a rough, clumsy, or awkward motion",
-      "type": "o",
-      "example": [{
-        "file": "goso-2a",
+      },
+      {
+        "file": "goso-1b",
         "contributor": "",
         "display": "ごそ",
         "source": "embarrassing_and_sweet"
-      }]
-    }
-  ],
+      }
+    ]
+  }],
   "id": "goso"
 }

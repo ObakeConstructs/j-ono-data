@@ -3895,6 +3895,38 @@
         }
       ]
     }],
+    "id": "chun"
+  },
+  {
+    "hiragana": [
+      "ちゅんちゅん",
+      "ちゅんちゅんっ"
+    ],
+    "romaji": ["chun chun"],
+    "katakana": [
+      "チュンチュン",
+      "チュンチュンッ"
+    ],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "chi_chi:1",
+      "meaning": ", often used to indicate dawn or early morning",
+      "type": "",
+      "example": [
+        {
+          "file": "chun_chun-1a",
+          "contributor": "",
+          "display": "チュン チュンッ",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "chun_chun-1b",
+          "contributor": "",
+          "display": "チュン チュン",
+          "source": "otherworld_material_collector"
+        }
+      ]
+    }],
     "id": "chun_chun"
   },
   {
@@ -5705,6 +5737,43 @@
   },
   {
     "hiragana": [
+      "ふい",
+      "ふいっ",
+      "ふぃ",
+      "ふぃっ"
+    ],
+    "romaji": [
+      "fi",
+      "fui"
+    ],
+    "katakana": [
+      "フイ",
+      "フイッ",
+      "フィ",
+      "フィッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "dismiss",
+        "reject",
+        "spin",
+        "turn",
+        "turn away"
+      ],
+      "refer": "",
+      "meaning": "abruptly ignoring or turning away as a dismissive gesture",
+      "type": "m",
+      "example": [{
+        "file": "fi_fui-1a",
+        "contributor": "",
+        "display": "フイッ",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "fi_fui"
+  },
+  {
+    "hiragana": [
       "ふ",
       "ふっ",
       "ふー",
@@ -5997,6 +6066,18 @@
           "contributor": "",
           "display": "ふんっ!",
           "source": "eternal_fool_asley"
+        },
+        {
+          "file": "fun-1d",
+          "contributor": "",
+          "display": "フン",
+          "source": "mushoku_tensei"
+        },
+        {
+          "file": "fun-1e",
+          "contributor": "",
+          "display": "ふん",
+          "source": "mushoku_tensei"
         }
       ]
     }],
@@ -7613,6 +7694,30 @@
     "id": "gashi"
   },
   {
+    "hiragana": ["がしがし"],
+    "romaji": ["gashi gashi"],
+    "katakana": ["ガシガシ"],
+    "definition": [{
+      "equivalent": [
+        "rub",
+        "scour",
+        "scrape",
+        "scratch",
+        "scrub"
+      ],
+      "refer": "",
+      "meaning": "rubbing or scratching motion, typically vigorous or rough",
+      "type": "m",
+      "example": [{
+        "file": "gashi_gashi-1a",
+        "contributor": "",
+        "display": "がし がし",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "gashi_gashi"
+  },
+  {
     "hiragana": [
       "がた",
       "がたっ",
@@ -8256,6 +8361,12 @@
           "contributor": "",
           "display": "ギロッ",
           "source": "minimum_wage_demon_king"
+        },
+        {
+          "file": "giro-1d",
+          "contributor": "",
+          "display": "ギロ",
+          "source": "mushoku_tensei"
         }
       ]
     }],
@@ -8749,6 +8860,12 @@
           "contributor": "",
           "display": "ゴロッ",
           "source": "way_of_isekai_cooking"
+        },
+        {
+          "file": "goro-1c",
+          "contributor": "",
+          "display": "ゴロ",
+          "source": "mushoku_tensei"
         }
       ]
     }],
@@ -8888,44 +9005,51 @@
       "ゴソ",
       "ゴソッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "get",
-          "locate",
-          "reach",
-          "rummage",
-          "rustle"
-        ],
-        "refer": "",
-        "meaning": "rustling sounds of rummaging or searching",
-        "type": "o",
-        "example": [{
+    "definition": [{
+      "equivalent": [
+        "get",
+        "locate",
+        "reach",
+        "rummage",
+        "rustle"
+      ],
+      "refer": "",
+      "meaning": "rustling or rummaging, often soft or subtle",
+      "type": "o",
+      "example": [
+        {
           "file": "goso-1a",
           "contributor": "",
           "display": "ごそ",
           "source": "dog_became_strongest"
-        }]
-      },
-      {
-        "equivalent": [
-          "pull",
-          "rustle",
-          "shift",
-          "tug"
-        ],
-        "refer": "",
-        "meaning": "rustling sounds of a rough, clumsy, or awkward motion",
-        "type": "o",
-        "example": [{
-          "file": "goso-2a",
+        },
+        {
+          "file": "goso-1b",
           "contributor": "",
           "display": "ごそ",
           "source": "embarrassing_and_sweet"
-        }]
-      }
-    ],
+        }
+      ]
+    }],
     "id": "goso"
+  },
+  {
+    "hiragana": ["ごそごそ"],
+    "romaji": ["goso goso"],
+    "katakana": ["ゴソゴソ"],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "goso:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "goso_goso-1a",
+        "contributor": "",
+        "display": "ごそ ごそ",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "goso_goso"
   },
   {
     "hiragana": [
@@ -9053,12 +9177,20 @@
         "refer": "go:1",
         "meaning": ", repeated or rhythmic ",
         "type": "",
-        "example": [{
-          "file": "go_go-1a",
-          "contributor": "",
-          "display": "ゴッ ゴッ",
-          "source": "human_ranch"
-        }]
+        "example": [
+          {
+            "file": "go_go-1a",
+            "contributor": "",
+            "display": "ゴッ ゴッ",
+            "source": "human_ranch"
+          },
+          {
+            "file": "go_go-1b",
+            "contributor": "",
+            "display": "ゴッ ゴッ",
+            "source": "mushoku_tensei"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -9762,12 +9894,20 @@
       "refer": "",
       "meaning": "the soft sniffling or sobbing sound of crying",
       "type": "v",
-      "example": [{
-        "file": "gusu-1a",
-        "contributor": "",
-        "display": "ぐすっ",
-        "source": "requiem_for_prophet"
-      }]
+      "example": [
+        {
+          "file": "gusu-1a",
+          "contributor": "",
+          "display": "ぐすっ",
+          "source": "requiem_for_prophet"
+        },
+        {
+          "file": "gusu-1b",
+          "contributor": "",
+          "display": "ぐすっ",
+          "source": "mushoku_tensei"
+        }
+      ]
     }],
     "id": "gusu"
   },
@@ -9834,6 +9974,12 @@
           "contributor": "",
           "display": "ぐすっ ぐすっ",
           "source": "requiem_for_prophet"
+        },
+        {
+          "file": "gusu_gusu-1c",
+          "contributor": "",
+          "display": "ぐす ぐす",
+          "source": "mushoku_tensei"
         }
       ]
     }],
@@ -10036,6 +10182,12 @@
           "contributor": "",
           "display": "ぎょっ",
           "source": "uncle_at_heart"
+        },
+        {
+          "file": "gyo-1c",
+          "contributor": "",
+          "display": "ギョッ",
+          "source": "mushoku_tensei"
         }
       ]
     }],
@@ -10981,6 +11133,31 @@
     "id": "hoka_hoka"
   },
   {
+    "hiragana": ["ほろり"],
+    "romaji": ["horori"],
+    "katakana": ["ホロリ"],
+    "definition": [{
+      "equivalent": [
+        "affected",
+        "heart-warming",
+        "kama muta",
+        "moved",
+        "stirred",
+        "touched"
+      ],
+      "refer": "",
+      "meaning": "emotionally moved or touched, often expressed by a single tear",
+      "type": "e",
+      "example": [{
+        "file": "horori-1a",
+        "contributor": "",
+        "display": "ホロリ",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "horori"
+  },
+  {
     "hiragana": [
       "ほほ",
       "ほほほ",
@@ -11211,12 +11388,20 @@
         "refer": "",
         "meaning": "a soft vocalization as a reaction to something cute or endearing, often involuntary",
         "type": "v",
-        "example": [{
-          "file": "hyu-2a",
-          "contributor": "",
-          "display": "\u2026ヒュ\u2026",
-          "source": "rock_n_roll_ladies"
-        }]
+        "example": [
+          {
+            "file": "hyu-2a",
+            "contributor": "",
+            "display": "\u2026ヒュ\u2026",
+            "source": "rock_n_roll_ladies"
+          },
+          {
+            "file": "hyu-2b",
+            "contributor": "",
+            "display": "ひゅ",
+            "source": "mushoku_tensei"
+          }
+        ]
       }
     ],
     "id": "hyu"
@@ -11962,14 +12147,22 @@
           "tizzy"
         ],
         "refer": "",
-        "meaning": "fussing or flailing in a fit of temper, usually ineffectively",
+        "meaning": "fussing or flailing in a fit of temper or frustration, usually ineffectively",
         "type": "m",
-        "example": [{
-          "file": "jita_bata-2a",
-          "contributor": "",
-          "display": "ジタ バタ",
-          "source": "buy_the_land"
-        }]
+        "example": [
+          {
+            "file": "jita_bata-2a",
+            "contributor": "",
+            "display": "ジタ バタ",
+            "source": "buy_the_land"
+          },
+          {
+            "file": "jita_bata-2b",
+            "contributor": "",
+            "display": "ばたじた",
+            "source": "mushoku_tensei"
+          }
+        ]
       }
     ],
     "id": "jita_bata"
@@ -16524,6 +16717,33 @@
     "id": "niya_niya"
   },
   {
+    "hiragana": ["によによ"],
+    "romaji": ["niyo niyo"],
+    "katakana": ["ニヨニヨ"],
+    "definition": [{
+      "equivalent": [
+        "calculating",
+        "cunning",
+        "devious",
+        "scheming",
+        "shrewd",
+        "sly",
+        "smug",
+        "thoughtful"
+      ],
+      "refer": "",
+      "meaning": "smug, thoughtful, or sly",
+      "type": "s",
+      "example": [{
+        "file": "niyo_niyo-1a",
+        "contributor": "",
+        "display": "によ によ",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "niyo_niyo"
+  },
+  {
     "hiragana": [
       "んま",
       "んまっ"
@@ -17982,12 +18202,20 @@
       "refer": "",
       "meaning": "falling, tipping over, or collapsing softly",
       "type": "m",
-      "example": [{
-        "file": "pata-1a",
-        "contributor": "",
-        "display": "パタ\u2026",
-        "source": "otherworld_material_collector"
-      }]
+      "example": [
+        {
+          "file": "pata-1a",
+          "contributor": "",
+          "display": "パタ\u2026",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "pata-1b",
+          "contributor": "",
+          "display": "ぱた",
+          "source": "mushoku_tensei"
+        }
+      ]
     }],
     "id": "pata"
   },
@@ -20820,24 +21048,34 @@
       "refer": "",
       "meaning": "turn away sharply in annoyance, pride, or refusal",
       "type": "m",
-      "example": [{
-        "file": "pui-1a",
-        "contributor": "",
-        "display": "ぷいっ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "pui-1a",
+          "contributor": "",
+          "display": "ぷいっ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "pui-1b",
+          "contributor": "",
+          "display": "ぷいっ",
+          "source": "mushoku_tensei"
+        }
+      ]
     }],
     "id": "pui"
   },
   {
     "hiragana": [
       "ぷく",
-      "ぷくー"
+      "ぷくー",
+      "ぷくっ"
     ],
     "romaji": ["puku"],
     "katakana": [
       "プク",
-      "プクー"
+      "プクー",
+      "プクッ"
     ],
     "definition": [{
       "equivalent": [
@@ -20862,6 +21100,12 @@
           "contributor": "",
           "display": "ぷくー",
           "source": "requiem_for_prophet"
+        },
+        {
+          "file": "puku-1c",
+          "contributor": "",
+          "display": "ぷくっ",
+          "source": "mushoku_tensei"
         }
       ]
     }],
@@ -22512,6 +22756,25 @@
           "display": "そっ",
           "source": "komi_cant_communicate"
         }]
+      },
+      {
+        "equivalent": [
+          "dither",
+          "falter",
+          "hesitate",
+          "pause",
+          "procrastinate",
+          "waver"
+        ],
+        "refer": "",
+        "meaning": "emotional hesitation",
+        "type": "s",
+        "example": [{
+          "file": "so-3a",
+          "contributor": "",
+          "display": "そ\u2026",
+          "source": "mushoku_tensei"
+        }]
       }
     ],
     "id": "so"
@@ -23368,27 +23631,50 @@
       "スト",
       "ストッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "freeze",
-        "halt",
-        "hesitate",
-        "hold",
-        "interrupt",
-        "realize",
-        "stop",
-        "tap"
-      ],
-      "refer": "",
-      "meaning": "a light, sudden stop of movement",
-      "type": "m",
-      "example": [{
-        "file": "suto-1a",
-        "contributor": "",
-        "display": "すとっ",
-        "source": "different_world_smartphone"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "freeze",
+          "halt",
+          "hesitate",
+          "hold",
+          "interrupt",
+          "realize",
+          "stop",
+          "tap"
+        ],
+        "refer": "",
+        "meaning": "a sudden cessation of movement",
+        "type": "m",
+        "example": [{
+          "file": "suto-1a",
+          "contributor": "",
+          "display": "すとっ",
+          "source": "different_world_smartphone"
+        }]
+      },
+      {
+        "equivalent": [
+          "bam",
+          "hit",
+          "impact",
+          "pow",
+          "slam",
+          "slap",
+          "smack",
+          "strike"
+        ],
+        "refer": "",
+        "meaning": "sharp, precise impact",
+        "type": "o",
+        "example": [{
+          "file": "suto-2a",
+          "contributor": "",
+          "display": "スト",
+          "source": "mushoku_tensei"
+        }]
+      }
+    ],
     "id": "suto"
   },
   {
@@ -24749,6 +25035,37 @@
   },
   {
     "hiragana": [
+      "うげ",
+      "うげえ",
+      "うげええ"
+    ],
+    "romaji": ["uge"],
+    "katakana": [
+      "ウゲ",
+      "ウゲエ",
+      "ウゲエエ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "choke",
+        "gag",
+        "heave",
+        "retch"
+      ],
+      "refer": "",
+      "meaning": "gagging or retching",
+      "type": "o",
+      "example": [{
+        "file": "uge-1a",
+        "contributor": "",
+        "display": "うげええ",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "uge"
+  },
+  {
+    "hiragana": [
       "うぃん",
       "うぃーん"
     ],
@@ -24800,12 +25117,20 @@
         "refer": "",
         "meaning": "nodding agreement",
         "type": "m",
-        "example": [{
-          "file": "un-1a",
-          "contributor": "",
-          "display": "うん",
-          "source": "d_genesis"
-        }]
+        "example": [
+          {
+            "file": "un-1a",
+            "contributor": "",
+            "display": "うん",
+            "source": "d_genesis"
+          },
+          {
+            "file": "un-1b",
+            "contributor": "",
+            "display": "うん",
+            "source": "mushoku_tensei"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -25018,6 +25343,42 @@
       ]
     }],
     "id": "uro_uro"
+  },
+  {
+    "hiragana": [
+      "うろ",
+      "うろろ",
+      "うろろろ"
+    ],
+    "romaji": [
+      "uro",
+      "uroro"
+    ],
+    "katakana": [
+      "ウロ",
+      "ウロロ",
+      "ウロロロ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "barf",
+        "hurl",
+        "puke",
+        "spew",
+        "upchuck",
+        "vomit"
+      ],
+      "refer": "",
+      "meaning": "vomiting",
+      "type": "o",
+      "example": [{
+        "file": "uro_uroro-1a",
+        "contributor": "",
+        "display": "ウロロロ",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "uro_uroro"
   },
   {
     "hiragana": [
@@ -27175,6 +27536,12 @@
             "contributor": "",
             "display": "ズゥゥゥン",
             "source": "hero_or_demon_king"
+          },
+          {
+            "file": "zun-1d",
+            "contributor": "",
+            "display": "ズン",
+            "source": "mushoku_tensei"
           }
         ]
       },
@@ -27584,6 +27951,35 @@
   },
   {
     "hiragana": [
+      "ずし",
+      "ずしっ"
+    ],
+    "romaji": ["zushi"],
+    "katakana": [
+      "ズシ",
+      "ズシッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "burden",
+        "dense",
+        "heavy",
+        "weight"
+      ],
+      "refer": "",
+      "meaning": "heavy, dense pressure",
+      "type": "s",
+      "example": [{
+        "file": "zushi-1a",
+        "contributor": "",
+        "display": "ずしっ",
+        "source": "mushoku_tensei"
+      }]
+    }],
+    "id": "zushi"
+  },
+  {
+    "hiragana": [
       "ずざ",
       "ずざぁ",
       "ずざっ",
@@ -27647,5 +28043,56 @@
       }
     ],
     "id": "zuza"
+  },
+  {
+    "hiragana": [
+      "ずず",
+      "ずずず",
+      "ずずっ"
+    ],
+    "romaji": ["zu zu"],
+    "katakana": [
+      "ズズ",
+      "ズズズ",
+      "ズズッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "sniff",
+          "sniffle",
+          "snivel",
+          "snort",
+          "snuffle"
+        ],
+        "refer": "",
+        "meaning": "wet, congested sniff",
+        "type": "o",
+        "example": [{
+          "file": "zu_zu-1a",
+          "contributor": "",
+          "display": "ズッ..!",
+          "source": "mushoku_tensei"
+        }]
+      },
+      {
+        "equivalent": [
+          "drag",
+          "scrape",
+          "sink",
+          "slide"
+        ],
+        "refer": "",
+        "meaning": "slow dragging, sliding, or scraping sounds",
+        "type": "o",
+        "example": [{
+          "file": "zu_zu-2a",
+          "contributor": "",
+          "display": "ズズズー",
+          "source": "mushoku_tensei"
+        }]
+      }
+    ],
+    "id": "zu_zu"
   }
 ]

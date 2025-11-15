@@ -25,12 +25,20 @@
     "refer": "",
     "meaning": "turn away sharply in annoyance, pride, or refusal",
     "type": "m",
-    "example": [{
-      "file": "pui-1a",
-      "contributor": "",
-      "display": "ぷいっ",
-      "source": "world_full_of_monsters"
-    }]
+    "example": [
+      {
+        "file": "pui-1a",
+        "contributor": "",
+        "display": "ぷいっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "pui-1b",
+        "contributor": "",
+        "display": "ぷいっ",
+        "source": "mushoku_tensei"
+      }
+    ]
   }],
   "id": "pui"
 }

@@ -8,26 +8,49 @@
     "スト",
     "ストッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "freeze",
-      "halt",
-      "hesitate",
-      "hold",
-      "interrupt",
-      "realize",
-      "stop",
-      "tap"
-    ],
-    "refer": "",
-    "meaning": "a light, sudden stop of movement",
-    "type": "m",
-    "example": [{
-      "file": "suto-1a",
-      "contributor": "",
-      "display": "すとっ",
-      "source": "different_world_smartphone"
-    }]
-  }],
+  "definition": [
+    {
+      "equivalent": [
+        "freeze",
+        "halt",
+        "hesitate",
+        "hold",
+        "interrupt",
+        "realize",
+        "stop",
+        "tap"
+      ],
+      "refer": "",
+      "meaning": "a sudden cessation of movement",
+      "type": "m",
+      "example": [{
+        "file": "suto-1a",
+        "contributor": "",
+        "display": "すとっ",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [
+        "bam",
+        "hit",
+        "impact",
+        "pow",
+        "slam",
+        "slap",
+        "smack",
+        "strike"
+      ],
+      "refer": "",
+      "meaning": "sharp, precise impact",
+      "type": "o",
+      "example": [{
+        "file": "suto-2a",
+        "contributor": "",
+        "display": "スト",
+        "source": "mushoku_tensei"
+      }]
+    }
+  ],
   "id": "suto"
 }

@@ -1,0 +1,24 @@
+{
+  "hiragana": ["がしがし"],
+  "romaji": ["gashi gashi"],
+  "katakana": ["ガシガシ"],
+  "definition": [{
+    "equivalent": [
+      "rub",
+      "scour",
+      "scrape",
+      "scratch",
+      "scrub"
+    ],
+    "refer": "",
+    "meaning": "rubbing or scratching motion, typically vigorous or rough",
+    "type": "m",
+    "example": [{
+      "file": "gashi_gashi-1a",
+      "contributor": "",
+      "display": "がし がし",
+      "source": "mushoku_tensei"
+    }]
+  }],
+  "id": "gashi_gashi"
+}

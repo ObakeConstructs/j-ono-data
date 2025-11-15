@@ -21,12 +21,20 @@
     "refer": "",
     "meaning": "the soft sniffling or sobbing sound of crying",
     "type": "v",
-    "example": [{
-      "file": "gusu-1a",
-      "contributor": "",
-      "display": "ぐすっ",
-      "source": "requiem_for_prophet"
-    }]
+    "example": [
+      {
+        "file": "gusu-1a",
+        "contributor": "",
+        "display": "ぐすっ",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "gusu-1b",
+        "contributor": "",
+        "display": "ぐすっ",
+        "source": "mushoku_tensei"
+      }
+    ]
   }],
   "id": "gusu"
 }

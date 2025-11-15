@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ずし",
+    "ずしっ"
+  ],
+  "romaji": ["zushi"],
+  "katakana": [
+    "ズシ",
+    "ズシッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "burden",
+      "dense",
+      "heavy",
+      "weight"
+    ],
+    "refer": "",
+    "meaning": "heavy, dense pressure",
+    "type": "s",
+    "example": [{
+      "file": "zushi-1a",
+      "contributor": "",
+      "display": "ずしっ",
+      "source": "mushoku_tensei"
+    }]
+  }],
+  "id": "zushi"
+}

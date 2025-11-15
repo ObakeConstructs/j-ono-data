@@ -39,14 +39,22 @@
         "tizzy"
       ],
       "refer": "",
-      "meaning": "fussing or flailing in a fit of temper, usually ineffectively",
+      "meaning": "fussing or flailing in a fit of temper or frustration, usually ineffectively",
       "type": "m",
-      "example": [{
-        "file": "jita_bata-2a",
-        "contributor": "",
-        "display": "ジタ バタ",
-        "source": "buy_the_land"
-      }]
+      "example": [
+        {
+          "file": "jita_bata-2a",
+          "contributor": "",
+          "display": "ジタ バタ",
+          "source": "buy_the_land"
+        },
+        {
+          "file": "jita_bata-2b",
+          "contributor": "",
+          "display": "ばたじた",
+          "source": "mushoku_tensei"
+        }
+      ]
     }
   ],
   "id": "jita_bata"

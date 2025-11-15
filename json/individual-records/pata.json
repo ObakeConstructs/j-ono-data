@@ -24,12 +24,20 @@
     "refer": "",
     "meaning": "falling, tipping over, or collapsing softly",
     "type": "m",
-    "example": [{
-      "file": "pata-1a",
-      "contributor": "",
-      "display": "パタ\u2026",
-      "source": "otherworld_material_collector"
-    }]
+    "example": [
+      {
+        "file": "pata-1a",
+        "contributor": "",
+        "display": "パタ\u2026",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "pata-1b",
+        "contributor": "",
+        "display": "ぱた",
+        "source": "mushoku_tensei"
+      }
+    ]
   }],
   "id": "pata"
 }

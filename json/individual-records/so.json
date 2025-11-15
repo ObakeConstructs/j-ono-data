@@ -60,6 +60,25 @@
         "display": "そっ",
         "source": "komi_cant_communicate"
       }]
+    },
+    {
+      "equivalent": [
+        "dither",
+        "falter",
+        "hesitate",
+        "pause",
+        "procrastinate",
+        "waver"
+      ],
+      "refer": "",
+      "meaning": "emotional hesitation",
+      "type": "s",
+      "example": [{
+        "file": "so-3a",
+        "contributor": "",
+        "display": "そ\u2026",
+        "source": "mushoku_tensei"
+      }]
     }
   ],
   "id": "so"

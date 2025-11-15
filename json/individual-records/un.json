@@ -21,12 +21,20 @@
       "refer": "",
       "meaning": "nodding agreement",
       "type": "m",
-      "example": [{
-        "file": "un-1a",
-        "contributor": "",
-        "display": "うん",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "un-1a",
+          "contributor": "",
+          "display": "うん",
+          "source": "d_genesis"
+        },
+        {
+          "file": "un-1b",
+          "contributor": "",
+          "display": "うん",
+          "source": "mushoku_tensei"
+        }
+      ]
     },
     {
       "equivalent": [
