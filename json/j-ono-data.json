@@ -6731,6 +6731,37 @@
   },
   {
     "hiragana": [
+      "がべん",
+      "がべーん"
+    ],
+    "romaji": ["gaben"],
+    "katakana": [
+      "ガベン",
+      "ガベーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "how?",
+        "no way",
+        "noooo",
+        "oh no",
+        "what?",
+        "why?"
+      ],
+      "refer": "",
+      "meaning": "comedic shock or horror, typically exaggerated",
+      "type": "e",
+      "example": [{
+        "file": "gaben-1a",
+        "contributor": "Artrix",
+        "display": "がべーん",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "id": "gaben"
+  },
+  {
+    "hiragana": [
       "がぶ",
       "がぶっ",
       "がぶーっ"
@@ -9050,6 +9081,40 @@
       }]
     }],
     "id": "goso_goso"
+  },
+  {
+    "hiragana": [
+      "ごす",
+      "ごすっ"
+    ],
+    "romaji": ["gosu"],
+    "katakana": [
+      "ゴス",
+      "ゴスッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blow",
+        "bonk",
+        "drub",
+        "hit",
+        "knock",
+        "pound",
+        "thunk",
+        "wallop",
+        "whump"
+      ],
+      "refer": "",
+      "meaning": "blunt bodily impact",
+      "type": "o",
+      "example": [{
+        "file": "gosu-1a",
+        "contributor": "boson",
+        "display": "ゴスッ",
+        "source": "ramparts_of_ice"
+      }]
+    }],
+    "id": "gosu"
   },
   {
     "hiragana": [
@@ -12173,7 +12238,7 @@
         ]
       }
     ],
-    "id": "jita_bata"
+    "id": "jita_bata_bata_jita"
   },
   {
     "hiragana": [
@@ -15458,6 +15523,37 @@
       }]
     }],
     "id": "mekya"
+  },
+  {
+    "hiragana": [
+      "みち",
+      "みちっ"
+    ],
+    "romaji": ["michi"],
+    "katakana": [
+      "ミチ",
+      "ミチッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "constrict",
+        "cramp",
+        "snug",
+        "strain",
+        "stretch",
+        "tight"
+      ],
+      "refer": "",
+      "meaning": "tight, snug, or stretched",
+      "type": "s",
+      "example": [{
+        "file": "michi-1a",
+        "contributor": "boson",
+        "display": "ミチッ",
+        "source": "ramparts_of_ice"
+      }]
+    }],
+    "id": "michi"
   },
   {
     "hiragana": [
@@ -21583,12 +21679,20 @@
       "refer": "",
       "meaning": "a quick, sharp or startled motion",
       "type": "m",
-      "example": [{
-        "file": "pya-1a",
-        "contributor": "",
-        "display": "ピャーッ",
-        "source": "reincarnated_as_a_dragon_egg"
-      }]
+      "example": [
+        {
+          "file": "pya-1a",
+          "contributor": "",
+          "display": "ピャーッ",
+          "source": "reincarnated_as_a_dragon_egg"
+        },
+        {
+          "file": "pya-1b",
+          "contributor": "boson",
+          "display": "ピャッ",
+          "source": "ramparts_of_ice"
+        }
+      ]
     }],
     "id": "pya"
   },
