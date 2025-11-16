@@ -10,7 +10,7 @@ body:
   - type: input
     id: literal
     attributes:
-      label: English Literals
+      label: English Equivalents
       description: What are some English words that have the same or similar meanings as the Japanese onomatopoeia?
     validations:
       required: true
