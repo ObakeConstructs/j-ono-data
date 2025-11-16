@@ -1,0 +1,26 @@
+{
+  "hiragana": ["じゃるじゃる"],
+  "romaji": ["nigiri nigiri"],
+  "katakana": ["ニギリニギリ"],
+  "definition": [{
+    "equivalent": [
+      "cling",
+      "gentle",
+      "grasp",
+      "grip",
+      "hold",
+      "hold-onto",
+      "squeeze"
+    ],
+    "refer": "",
+    "meaning": "gently grasped or squeezed by hand, as from affection or nervousness",
+    "type": "s",
+    "example": [{
+      "file": "nigiri_nigiri-1a",
+      "contributor": "boson",
+      "display": "ニギリ ニギリ",
+      "source": "singing_the_superstar"
+    }]
+  }],
+  "id": "nigiri_nigiri"
+}

@@ -1,0 +1,18 @@
+{
+  "hiragana": ["じゅぷじゅぷ"],
+  "romaji": ["jupu jupu"],
+  "katakana": ["ジュプジュプ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "jupo_jupo:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jupu_jupu-1a",
+      "contributor": "",
+      "display": "ジュプ ジュプ ジュプ ",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "id": "jupu_jupu"
+}

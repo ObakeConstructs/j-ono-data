@@ -1,0 +1,32 @@
+{
+  "hiragana": ["ちゃぷ"],
+  "romaji": ["chapu"],
+  "katakana": ["チャプ"],
+  "definition": [{
+    "equivalent": [
+      "lap",
+      "plash",
+      "slosh",
+      "splash",
+      "swash"
+    ],
+    "refer": "",
+    "meaning": "moving or splashing water",
+    "type": "o",
+    "example": [
+      {
+        "file": "chapu-1a",
+        "contributor": "",
+        "display": "チャプ",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "chapu-1b",
+        "contributor": "",
+        "display": "チャプ.",
+        "source": "buy_the_land"
+      }
+    ]
+  }],
+  "id": "chapu"
+}

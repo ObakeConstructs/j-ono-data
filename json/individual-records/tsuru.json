@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "つる",
+    "つるっ",
+    "つるん",
+    "つるんっ"
+  ],
+  "romaji": [
+    "tsuru",
+    "tsurun"
+  ],
+  "katakana": [
+    "ツル",
+    "ツルッ",
+    "ツルン",
+    "ツルンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fall",
+      "slick",
+      "slide",
+      "slip",
+      "slippery"
+    ],
+    "refer": "",
+    "meaning": "sudden slip on a slick surface",
+    "type": "m",
+    "example": [
+      {
+        "file": "tsuru-1a",
+        "contributor": "",
+        "display": "つるっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "tsuru_tsurun-1b",
+        "contributor": "",
+        "display": "つるんっ",
+        "source": "different_world_smartphone"
+      }
+    ]
+  }],
+  "id": "tsuru_tsurun"
+}

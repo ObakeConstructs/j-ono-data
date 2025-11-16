@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ぐわ",
+    "ぐわっ"
+  ],
+  "romaji": ["guwa"],
+  "katakana": [
+    "グワ",
+    "グワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bellow",
+      "howl",
+      "roar",
+      "scream",
+      "screech",
+      "shriek",
+      "yell"
+    ],
+    "refer": "",
+    "meaning": "a sudden, loud shout or cry, expressing a strong emotional outburst",
+    "type": "e",
+    "example": [{
+      "file": "guwa-1a",
+      "contributor": "",
+      "display": "ぐわっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "id": "guwa"
+}

@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "きん",
+    "きぃん",
+    "きぃーん"
+  ],
+  "romaji": ["kin"],
+  "katakana": [
+    "キン",
+    "キィン",
+    "キィーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ki:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "kin-1a",
+      "contributor": "",
+      "display": "キィン",
+      "source": "d_genesis"
+    }]
+  }],
+  "id": "kin"
+}

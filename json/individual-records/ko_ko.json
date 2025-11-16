@@ -1,0 +1,36 @@
+{
+  "hiragana": [
+    "ここ",
+    "こここ",
+    "こっこっ",
+    "こっこっこっ"
+  ],
+  "romaji": ["ko ko"],
+  "katakana": [
+    "ココ",
+    "コココ",
+    "コッコッ",
+    "コッコッコッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "footstep",
+      "plod",
+      "shuffle",
+      "step",
+      "stomp",
+      "tap",
+      "walk"
+    ],
+    "refer": "",
+    "meaning": "light footsteps or heep taps",
+    "type": "m",
+    "example": [{
+      "file": "ko_ko-1a",
+      "contributor": "",
+      "display": "コッ",
+      "source": "only_sweet_when_alone"
+    }]
+  }],
+  "id": "ko_ko"
+}

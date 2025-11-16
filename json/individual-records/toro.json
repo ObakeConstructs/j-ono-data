@@ -1,0 +1,53 @@
+{
+  "hiragana": [
+    "とろ",
+    "とろっ"
+  ],
+  "romaji": ["toro"],
+  "katakana": [
+    "トロ",
+    "トロッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dissolve",
+      "dribble",
+      "drip",
+      "exude",
+      "flow",
+      "glop",
+      "liquify",
+      "melt",
+      "ooze",
+      "run",
+      "seep",
+      "soften",
+      "thaw",
+      "trickle"
+    ],
+    "refer": "",
+    "meaning": "a melting, seeping, or oozing texture",
+    "type": "s",
+    "example": [
+      {
+        "file": "toro-1a",
+        "contributor": "",
+        "display": "トロッ\u2026",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "toro-1b",
+        "contributor": "",
+        "display": "トロ\u2026.",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "toro-1c",
+        "contributor": "",
+        "display": "とろ\u2026っ",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "id": "toro"
+}

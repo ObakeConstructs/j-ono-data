@@ -1,0 +1,48 @@
+{
+  "hiragana": [
+    "びゅん",
+    "びゅんっ",
+    "びゅーん"
+  ],
+  "romaji": ["byun"],
+  "katakana": [
+    "ビュン",
+    "ビュンッ",
+    "ビューン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "shoom",
+      "swoosh",
+      "whish",
+      "whiz",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "refer": "",
+    "meaning": "someone or something moving very fast",
+    "type": "m",
+    "example": [
+      {
+        "file": "byun-1a",
+        "contributor": "",
+        "display": "ビューン",
+        "source": "bungo"
+      },
+      {
+        "file": "byun-1b",
+        "contributor": "",
+        "display": "ビュン!",
+        "source": "rise_of_the_outlaw_tamer"
+      },
+      {
+        "file": "byun-1c",
+        "contributor": "",
+        "display": "びゅーん!!",
+        "source": "requiem_for_prophet"
+      }
+    ]
+  }],
+  "id": "byun"
+}

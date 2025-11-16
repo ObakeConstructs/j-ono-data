@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "ばさばさ",
+    "ばさっばさっ"
+  ],
+  "romaji": ["basa basa"],
+  "katakana": [
+    "バサバサ",
+    "バサッバサッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "basa:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "basa_basa-1a",
+        "contributor": "",
+        "display": "ばさ ばさ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "basa_basa-1b",
+        "contributor": "",
+        "display": "バサッ バサッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "basa_basa-1c",
+        "contributor": "",
+        "display": "バサ バサ バサ",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "id": "basa_basa"
+}

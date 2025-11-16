@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "ず",
+    "ずっ"
+  ],
+  "romaji": ["zu"],
+  "katakana": [
+    "ズ",
+    "ズッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "appear",
+      "arrive",
+      "display",
+      "emerge",
+      "entrance",
+      "show",
+      "ta-da",
+      "unveil"
+    ],
+    "refer": "",
+    "meaning": "sudden appearance or arrival",
+    "type": "m",
+    "example": [{
+      "file": "zu-1a",
+      "contributor": "",
+      "display": "ズッ..!",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "id": "zu"
+}

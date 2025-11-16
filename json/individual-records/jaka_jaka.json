@@ -1,0 +1,21 @@
+{
+  "hiragana": ["じゃかじゃか"],
+  "romaji": ["jaka jaka"],
+  "katakana": ["ジャカジャカ"],
+  "definition": [{
+    "equivalent": [
+      "clatter",
+      "rattle"
+    ],
+    "refer": "",
+    "meaning": "rapid rattling or clattering",
+    "type": "o",
+    "example": [{
+      "file": "jaka_jaka-1a",
+      "contributor": "",
+      "display": "ジャカ ジャカ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "id": "jaka_jaka"
+}

@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "にま",
+    "にまま"
+  ],
+  "romaji": ["nima"],
+  "katakana": [
+    "ニマ",
+    "ニママ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "grin",
+      "smile",
+      "smirk",
+      "smug"
+    ],
+    "refer": "",
+    "meaning": "a smug, self-satisfied smile",
+    "type": "s",
+    "example": [{
+      "file": "nima-1a",
+      "contributor": "",
+      "display": "ニママ",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "id": "nima"
+}

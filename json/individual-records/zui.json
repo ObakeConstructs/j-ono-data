@@ -1,0 +1,66 @@
+{
+  "hiragana": [
+    "ずい",
+    "ずいっ",
+    "ずぃ",
+    "ずぃっ"
+  ],
+  "romaji": ["zui"],
+  "katakana": [
+    "ズイ",
+    "ズイッ",
+    "ズィ",
+    "ズィッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "close",
+      "crowded",
+      "drive",
+      "force",
+      "move",
+      "press",
+      "push",
+      "shove",
+      "thrust",
+      "tight",
+      "too close"
+    ],
+    "refer": "",
+    "meaning": "a sudden and assertive forward intrusion",
+    "type": "m",
+    "example": [
+      {
+        "file": "zui-1a",
+        "contributor": "",
+        "display": "ずいっ",
+        "source": "reincarnated_farm_girl"
+      },
+      {
+        "file": "zui-1b",
+        "contributor": "",
+        "display": "ずい",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "zui-1c",
+        "contributor": "",
+        "display": "ズィ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "zui-1d",
+        "contributor": "",
+        "display": "ずいっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "zui-1e",
+        "contributor": "",
+        "display": "ズィッ",
+        "source": "way_of_the_house_husband"
+      }
+    ]
+  }],
+  "id": "zui"
+}

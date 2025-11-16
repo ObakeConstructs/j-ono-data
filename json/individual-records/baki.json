@@ -1,0 +1,61 @@
+{
+  "hiragana": [
+    "ばき",
+    "ばきっ",
+    "ばきん",
+    "ばきんっ",
+    "ばきばき"
+  ],
+  "romaji": [
+    "baki",
+    "bakin",
+    "baki baki"
+  ],
+  "katakana": [
+    "バキ",
+    "バキッ",
+    "バキン",
+    "バキンッ",
+    "バキバキ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "crack",
+      "crash",
+      "pop",
+      "shatter",
+      "smash",
+      "snap"
+    ],
+    "refer": "",
+    "meaning": "a sharp cracking or breaking sound, often violent",
+    "type": "o",
+    "example": [
+      {
+        "file": "baki-1a",
+        "contributor": "",
+        "display": "バキッ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "baki-1b",
+        "contributor": "",
+        "display": "バキッ",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "baki_bakin-1c",
+        "contributor": "",
+        "display": "バキンッ",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "baki_bakin-1d",
+        "contributor": "",
+        "display": "バキバキバキ",
+        "source": "hone_dragon"
+      }
+    ]
+  }],
+  "id": "baki_bakin"
+}

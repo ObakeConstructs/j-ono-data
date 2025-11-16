@@ -1,0 +1,72 @@
+{
+  "hiragana": [
+    "ぶん",
+    "ぶんっ"
+  ],
+  "romaji": ["bun"],
+  "katakana": [
+    "ブン",
+    "ブンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "swish",
+        "swoosh",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "refer": "",
+      "meaning": "swinging or whipping something quickly and often violently",
+      "type": "m",
+      "example": [
+        {
+          "file": "bun-1a",
+          "contributor": "",
+          "display": "ブンッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "bun-1b",
+          "contributor": "",
+          "display": "ブンッ",
+          "source": "spy_x_family"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "convulse",
+        "flutter",
+        "jerk",
+        "jiggle",
+        "jolt",
+        "quiver",
+        "shake",
+        "shiver",
+        "shudder",
+        "tremble",
+        "wobble"
+      ],
+      "refer": "",
+      "meaning": "an abrupt, jerky, or uncontrolled movement",
+      "type": "m",
+      "example": [
+        {
+          "file": "bun-2a",
+          "contributor": "",
+          "display": "ブンッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "bun-2b",
+          "contributor": "",
+          "display": "ブン",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
+    }
+  ],
+  "id": "bun"
+}

@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "ぼこ",
+    "ぼこっ"
+  ],
+  "romaji": ["boko"],
+  "katakana": [
+    "ボコ",
+    "ボコッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bead",
+      "blister",
+      "blub",
+      "boil",
+      "bubble",
+      "glob",
+      "gob",
+      "pop"
+    ],
+    "refer": "",
+    "meaning": "liquid bubbling or boiling",
+    "type": "o",
+    "example": [{
+      "file": "boko-1a",
+      "contributor": "",
+      "display": "ボコ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "id": "boko"
+}

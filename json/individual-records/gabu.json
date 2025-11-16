@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "がぶ",
+    "がぶっ",
+    "がぶーっ"
+  ],
+  "romaji": ["gabu"],
+  "katakana": [
+    "ガブ",
+    "ガブッ",
+    "ガブーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bite",
+      "chomp",
+      "crunch"
+    ],
+    "refer": "",
+    "meaning": "a big or forceful bite, usually sudden or exaggerated",
+    "type": "o",
+    "example": [
+      {
+        "file": "gabu-1a",
+        "contributor": "",
+        "display": "ガブッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gabu-1b",
+        "contributor": "",
+        "display": "ガブーッ",
+        "source": "world_full_of_zombies"
+      }
+    ]
+  }],
+  "id": "gabu"
+}

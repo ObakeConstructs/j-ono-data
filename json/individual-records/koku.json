@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "こく",
+    "こくっ"
+  ],
+  "romaji": ["koku"],
+  "katakana": [
+    "コク",
+    "コクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "agree",
+      "nod",
+      "okay",
+      "yeah",
+      "yep",
+      "yes"
+    ],
+    "refer": "",
+    "meaning": "a quick nod, often of agreement",
+    "type": "m",
+    "example": [
+      {
+        "file": "koku-1a",
+        "contributor": "",
+        "display": "コク",
+        "source": "d_genesis"
+      },
+      {
+        "file": "koku-1b",
+        "contributor": "",
+        "display": "こくっ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "koku-1c",
+        "contributor": "",
+        "display": "コクッ",
+        "source": "sex_with_me_sells"
+      }
+    ]
+  }],
+  "id": "koku"
+}

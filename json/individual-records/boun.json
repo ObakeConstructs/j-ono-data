@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ぼぅん",
+    "ぼぅぅん"
+  ],
+  "romaji": ["boun"],
+  "katakana": [
+    "ボゥン",
+    "ボゥゥン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "foom",
+      "fwoom",
+      "poof",
+      "whump"
+    ],
+    "refer": "",
+    "meaning": "a soft, muffled, or hollow explosive sound",
+    "type": "o",
+    "example": [{
+      "file": "boun-1a",
+      "contributor": "Artrix",
+      "display": "ボゥン",
+      "source": "shogun_gold_in_america"
+    }]
+  }],
+  "id": "boun"
+}

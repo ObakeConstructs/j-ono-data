@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ぼろん",
+    "ぼろろん",
+    "ぼろろろん"
+  ],
+  "romaji": ["boron"],
+  "katakana": [
+    "ボロン",
+    "ボロロン",
+    "ボロロロン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blub",
+      "cry",
+      "drip",
+      "sob",
+      "weep"
+    ],
+    "refer": "",
+    "meaning": "emotionally fall apart, usually expressed as crying",
+    "type": "e",
+    "example": [{
+      "file": "boron-1a",
+      "contributor": "",
+      "display": "ボロロロン",
+      "source": "requiem_for_prophet"
+    }]
+  }],
+  "id": "boron"
+}

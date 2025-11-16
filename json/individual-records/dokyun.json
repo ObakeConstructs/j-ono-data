@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "どきゅん",
+    "どきゅうん",
+    "どきゅううん"
+  ],
+  "romaji": ["dokyun"],
+  "katakana": [
+    "ドキュン",
+    "ドキュウン",
+    "ドキュウウン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cute",
+      "longing"
+    ],
+    "refer": "doku:1",
+    "meaning": ", indicating exaggerated cuteness or desirability",
+    "type": "",
+    "example": [{
+      "file": "dokyun-1a",
+      "contributor": "",
+      "display": "ドキュウウン",
+      "source": "isekai_sniper"
+    }]
+  }],
+  "id": "dokyun"
+}

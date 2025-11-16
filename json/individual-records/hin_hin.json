@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "ひんひん",
+    "ひんひんひん"
+  ],
+  "romaji": ["hin hin"],
+  "katakana": [
+    "ヒンヒン",
+    "ヒンヒンヒン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blab",
+      "blabber",
+      "gossip",
+      "rumor",
+      "tattle",
+      "whisper"
+    ],
+    "refer": "",
+    "meaning": "whispering or gossiping quietly, often furtively",
+    "type": "v",
+    "example": [{
+      "file": "hin_hin-1a",
+      "contributor": "",
+      "display": "ヒン ヒン ヒン",
+      "source": "only_sweet_when_alone"
+    }]
+  }],
+  "id": "hin_hin"
+}

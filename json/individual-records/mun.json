@@ -1,0 +1,52 @@
+{
+  "hiragana": [
+    "むん",
+    "むんっ",
+    "むーん"
+  ],
+  "romaji": ["mun"],
+  "katakana": [
+    "ムン",
+    "ムンッ",
+    "ムーン"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "effort",
+        "exert",
+        "hngh",
+        "strain",
+        "urgh"
+      ],
+      "refer": "",
+      "meaning": "a grunt of forceful exertion",
+      "type": "v",
+      "example": [{
+        "file": "mun-1a",
+        "contributor": "",
+        "display": "ムンッ",
+        "source": "abandoned_reincarnation_sage"
+      }]
+    },
+    {
+      "equivalent": [
+        "intimidate",
+        "menace",
+        "pressure",
+        "threat",
+        "threaten"
+      ],
+      "refer": "",
+      "meaning": "a tense or intimidating atmosphere",
+      "type": "s",
+      "example": [{
+        "file": "mun-2a",
+        "contributor": "",
+        "display": "むーん",
+        "source": "35_year_olds_choice"
+      }]
+    }
+  ],
+  "id": "mun"
+}

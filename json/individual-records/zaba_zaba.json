@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "ざばざば",
+    "ざばざばぁ"
+  ],
+  "romaji": ["zaba zaba"],
+  "katakana": [
+    "ザバザバ",
+    "ザバザバァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "gush",
+      "jet",
+      "slosh",
+      "spew",
+      "splash",
+      "sploosh",
+      "spout",
+      "swash"
+    ],
+    "refer": "",
+    "meaning": "strong splashing or bursts of water",
+    "type": "o",
+    "example": [{
+      "file": "zaba_zaba-1a",
+      "contributor": "",
+      "display": "ザバ ザバ ザバ ザバ ザバ ザバ",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "id": "zaba_zaba"
+}

@@ -1,0 +1,51 @@
+{
+  "hiragana": [
+    "ずず",
+    "ずずず",
+    "ずずっ"
+  ],
+  "romaji": ["zu zu"],
+  "katakana": [
+    "ズズ",
+    "ズズズ",
+    "ズズッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "sniff",
+        "sniffle",
+        "snivel",
+        "snort",
+        "snuffle"
+      ],
+      "refer": "",
+      "meaning": "wet, congested sniff",
+      "type": "o",
+      "example": [{
+        "file": "zu_zu-1a",
+        "contributor": "",
+        "display": "ずずっ",
+        "source": "mushoku_tensei"
+      }]
+    },
+    {
+      "equivalent": [
+        "drag",
+        "scrape",
+        "sink",
+        "slide"
+      ],
+      "refer": "",
+      "meaning": "slow dragging, sliding, or scraping sounds",
+      "type": "o",
+      "example": [{
+        "file": "zu_zu-2a",
+        "contributor": "",
+        "display": "ズズズー",
+        "source": "mushoku_tensei"
+      }]
+    }
+  ],
+  "id": "zu_zu"
+}

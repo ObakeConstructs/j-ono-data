@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "でん",
+    "でんっ"
+  ],
+  "romaji": ["den"],
+  "katakana": [
+    "デン",
+    "デンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "boom",
+      "da-dum",
+      "ta-dah"
+    ],
+    "refer": "",
+    "meaning": "showing or revealing something in a somewhat dramatic fashion",
+    "type": "c",
+    "example": [{
+      "file": "den-1a",
+      "contributor": "",
+      "display": "でーん",
+      "source": "way_of_isekai_cooking"
+    }]
+  }],
+  "id": "den"
+}

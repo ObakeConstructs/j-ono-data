@@ -1,0 +1,23 @@
+{
+  "hiragana": ["ざしゅ"],
+  "romaji": ["zashu"],
+  "katakana": ["ザシュ"],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "slash",
+      "slice"
+    ],
+    "refer": "",
+    "meaning": "a swift, forceful slash",
+    "type": "o",
+    "example": [{
+      "file": "zashu-1a",
+      "contributor": "",
+      "display": "ザシュ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "id": "zashu"
+}

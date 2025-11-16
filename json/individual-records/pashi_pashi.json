@@ -1,0 +1,51 @@
+{
+  "hiragana": [
+    "ぱしぱし",
+    "ぱしっぱしっ"
+  ],
+  "romaji": ["pashi pashi"],
+  "katakana": [
+    "パシパシ",
+    "パシッパシッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "biff",
+        "bonk",
+        "clap",
+        "clip",
+        "pat",
+        "rap",
+        "scuff",
+        "slap",
+        "stroke",
+        "swat",
+        "swipe",
+        "thump"
+      ],
+      "refer": "",
+      "meaning": "quick slapping or smacking",
+      "type": "o",
+      "example": [{
+        "file": "pashi_pashi-1a",
+        "contributor": "",
+        "display": "パシパシ",
+        "source": "berserk"
+      }]
+    },
+    {
+      "equivalent": [""],
+      "refer": "pashi:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "pashi_pashi-2a",
+        "contributor": "",
+        "display": "ぱしっ ぱしっ",
+        "source": "dog_became_strongest"
+      }]
+    }
+  ],
+  "id": "pashi_pashi"
+}

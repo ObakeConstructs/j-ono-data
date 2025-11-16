@@ -1,0 +1,41 @@
+{
+  "hiragana": [
+    "すた",
+    "すたっ"
+  ],
+  "romaji": ["suta"],
+  "katakana": [
+    "スタ",
+    "スタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "alight",
+      "drop down",
+      "land",
+      "landing",
+      "settle",
+      "thump",
+      "touch down",
+      "whump"
+    ],
+    "refer": "",
+    "meaning": "a clean, precise landing after a jump",
+    "type": "m",
+    "example": [
+      {
+        "file": "suta-1a",
+        "contributor": "",
+        "display": "スタッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "suta-1b",
+        "contributor": "",
+        "display": "スタ\u2026.ッ",
+        "source": "paradise_shift"
+      }
+    ]
+  }],
+  "id": "suta"
+}

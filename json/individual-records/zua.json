@@ -1,0 +1,35 @@
+{
+  "hiragana": [
+    "ずあ",
+    "ずあっ"
+  ],
+  "romaji": ["zua"],
+  "katakana": [
+    "ズア",
+    "ズアッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "rush",
+      "shoom",
+      "sudden",
+      "swoosh",
+      "whish",
+      "whiz",
+      "whom",
+      "whoosh",
+      "zip",
+      "zoom"
+    ],
+    "refer": "",
+    "meaning": "sudden, forceful rush into view, often dramatic or imposing",
+    "type": "m",
+    "example": [{
+      "file": "zua-1a",
+      "contributor": "",
+      "display": "ズアッ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "id": "zua"
+}

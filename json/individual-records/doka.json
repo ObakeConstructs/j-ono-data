@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "どか",
+    "どかっ"
+  ],
+  "romaji": ["doka"],
+  "katakana": [
+    "ドカ",
+    "ドカッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dogo:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "doka-1a",
+        "contributor": "",
+        "display": "ドカ",
+        "source": "hello_work"
+      },
+      {
+        "file": "doka-1b",
+        "contributor": "",
+        "display": "ドカッ",
+        "source": "hanako_24th_ward"
+      }
+    ]
+  }],
+  "id": "doka"
+}

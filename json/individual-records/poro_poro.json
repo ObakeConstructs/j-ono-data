@@ -1,0 +1,32 @@
+{
+  "hiragana": ["ぽろぽろ"],
+  "romaji": ["poro poro"],
+  "katakana": ["ポロポロ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "poro:2",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "poro_poro-1a",
+        "contributor": "",
+        "display": "ポロ ポロ",
+        "source": "reincarnated_farm_girl"
+      },
+      {
+        "file": "poro_poro-1b",
+        "contributor": "",
+        "display": "ポロ ポロ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "poro_poro-1c",
+        "contributor": "",
+        "display": "ポロ ポロ",
+        "source": "isekai_sniper"
+      }
+    ]
+  }],
+  "id": "poro_poro"
+}

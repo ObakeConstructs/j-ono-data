@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "どぽぽ",
+    "どぽぽぽ"
+  ],
+  "romaji": ["dopopo"],
+  "katakana": [
+    "ドポポ",
+    "ドポポポ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "glug",
+      "pour",
+      "slosh",
+      "trickle"
+    ],
+    "refer": "",
+    "meaning": "pouring liquid",
+    "type": "o",
+    "example": [{
+      "file": "dopopo-1a",
+      "contributor": "",
+      "display": "ドポポポ",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "id": "dopopo"
+}

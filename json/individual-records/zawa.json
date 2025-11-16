@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "ざわ",
+    "ざゎ",
+    "ざわっ",
+    "ざゎっ"
+  ],
+  "romaji": ["zawa"],
+  "katakana": [
+    "ザワ",
+    "ザヮ",
+    "ザワッ",
+    "ザヮッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "amazed",
+      "dread",
+      "flabbergasted",
+      "shock",
+      "stunned",
+      "tense",
+      "uneasy"
+    ],
+    "refer": "",
+    "meaning": "a tense, uneasy, or shocked crowd",
+    "type": "e",
+    "example": [
+      {
+        "file": "zawa-1a",
+        "contributor": "",
+        "display": "ざわ",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "zawa-1b",
+        "contributor": "",
+        "display": "ざゎっ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "id": "zawa"
+}

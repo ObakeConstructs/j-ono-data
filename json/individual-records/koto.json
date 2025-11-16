@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    "こと",
+    "ことっ"
+  ],
+  "romaji": ["koto"],
+  "katakana": [
+    "コト",
+    "コトッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "click",
+      "clink",
+      "clunk",
+      "tap",
+      "touch"
+    ],
+    "refer": "",
+    "meaning": "a calm click or tap, often delicate or hollow",
+    "type": "o",
+    "example": [
+      {
+        "file": "koto-1a",
+        "contributor": "",
+        "display": "コトッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "koto-1b",
+        "contributor": "",
+        "display": "コト\u2026",
+        "source": "d_genesis"
+      },
+      {
+        "file": "koto-1c",
+        "contributor": "",
+        "display": "コト",
+        "source": "marginal_taylor"
+      },
+      {
+        "file": "koto-1d",
+        "contributor": "",
+        "display": "コト..",
+        "source": "neet_kunoichi"
+      }
+    ]
+  }],
+  "id": "koto"
+}

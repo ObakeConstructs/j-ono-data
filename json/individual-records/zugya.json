@@ -1,0 +1,45 @@
+{
+  "hiragana": ["ずぎゃ"],
+  "romaji": ["zugya"],
+  "katakana": ["ズギャ"],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "blow",
+      "clobber",
+      "crunch",
+      "drill",
+      "hit",
+      "impact",
+      "impale",
+      "pelt",
+      "pierce",
+      "punch",
+      "skewer",
+      "slam",
+      "smash",
+      "spike",
+      "stab",
+      "strike",
+      "wham"
+    ],
+    "refer": "",
+    "meaning": "a strong, heavy blow",
+    "type": "o",
+    "example": [
+      {
+        "file": "zugya-1a",
+        "contributor": "Artrix",
+        "display": "ズギャ",
+        "source": "pokemon_xy_break"
+      },
+      {
+        "file": "zugya-1b",
+        "contributor": "Artrix",
+        "display": "ズギャ",
+        "source": "pokemon_xy_break"
+      }
+    ]
+  }],
+  "id": "zugya"
+}

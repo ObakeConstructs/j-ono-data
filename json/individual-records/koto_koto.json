@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "ことこと",
+    "ことことこと"
+  ],
+  "romaji": ["koto koto"],
+  "katakana": [
+    "コトコト",
+    "コトコトコト"
+  ],
+  "definition": [{
+    "equivalent": [
+      "boil",
+      "bubbling",
+      "simmer"
+    ],
+    "refer": "",
+    "meaning": "gentle simmering or boiling sounds",
+    "type": "o",
+    "example": [{
+      "file": "koto_koto-1a",
+      "contributor": "",
+      "display": "コト コト コト",
+      "source": "way_of_the_house_husband"
+    }]
+  }],
+  "id": "koto_koto"
+}

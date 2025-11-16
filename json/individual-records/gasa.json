@@ -1,0 +1,81 @@
+{
+  "hiragana": [
+    "がさ",
+    "がさっ",
+    "がささ",
+    "がささっ",
+    "がさがさ",
+    "がさがさっ"
+  ],
+  "romaji": [
+    "gasa",
+    "gasa gasa"
+  ],
+  "katakana": [
+    "ガサ",
+    "ガサッ",
+    "ガササ",
+    "ガササッ",
+    "ガサガサ",
+    "ガサガサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flap",
+      "movement",
+      "murmur",
+      "rustle",
+      "stir",
+      "swish",
+      "whoosh"
+    ],
+    "refer": "",
+    "meaning": "irregular rustling or flapping, often of paper, cloth, or leaves",
+    "type": "o",
+    "example": [
+      {
+        "file": "gasa-1a",
+        "contributor": "",
+        "display": "ガサ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "gasa-1b",
+        "contributor": "",
+        "display": "ガサ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "gasa-1c",
+        "contributor": "",
+        "display": "ガサッ",
+        "source": "a_rank_slow_life"
+      },
+      {
+        "file": "gasa-1d",
+        "contributor": "",
+        "display": "がさ!",
+        "source": "beastly_boys_and_girls"
+      },
+      {
+        "file": "gasa-1e",
+        "contributor": "Artrix",
+        "display": "ガササッ",
+        "source": "pokemon_xy_break"
+      },
+      {
+        "file": "gasa-1f",
+        "contributor": "",
+        "display": "ガサ ガサ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "gasa-1g",
+        "contributor": "",
+        "display": "ガサ ガサッ",
+        "source": "reincarnated_aristocrat"
+      }
+    ]
+  }],
+  "id": "gasa"
+}

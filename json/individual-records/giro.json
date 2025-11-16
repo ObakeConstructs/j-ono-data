@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "ぎろ",
+    "ぎろっ"
+  ],
+  "romaji": ["giro"],
+  "katakana": [
+    "ギロ",
+    "ギロッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gin:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "giro-1a",
+        "contributor": "",
+        "display": "ギロ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "giro-1b",
+        "contributor": "",
+        "display": "ギロッ",
+        "source": "ai_and_izawa"
+      },
+      {
+        "file": "giro-1c",
+        "contributor": "",
+        "display": "ギロッ",
+        "source": "minimum_wage_demon_king"
+      },
+      {
+        "file": "giro-1d",
+        "contributor": "",
+        "display": "ギロ",
+        "source": "mushoku_tensei"
+      }
+    ]
+  }],
+  "id": "giro"
+}

@@ -1,0 +1,34 @@
+{
+  "hiragana": ["うろうろ"],
+  "romaji": ["uro uro"],
+  "katakana": ["ウロウロ"],
+  "definition": [{
+    "equivalent": [
+      "anxious",
+      "mill",
+      "nervous",
+      "pace",
+      "ramble",
+      "restless",
+      "wander"
+    ],
+    "refer": "",
+    "meaning": "restless wandering or anxious pacing",
+    "type": "m",
+    "example": [
+      {
+        "file": "uro_uro-1a",
+        "contributor": "",
+        "display": "ウロ ウロ",
+        "source": "reincarnated_as_a_dragon_egg"
+      },
+      {
+        "file": "uro_uro-1b",
+        "contributor": "",
+        "display": "うろ うろ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "id": "uro_uro"
+}

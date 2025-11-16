@@ -1,0 +1,85 @@
+{
+  "hiragana": [
+    "そ",
+    "そっ",
+    "そー",
+    "そーっ"
+  ],
+  "romaji": ["so"],
+  "katakana": [
+    "ソ",
+    "ソッ",
+    "ソー",
+    "ソーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "creep",
+        "hide",
+        "pad",
+        "quiet",
+        "skulk",
+        "slink",
+        "slip",
+        "sneak",
+        "tip toe"
+      ],
+      "refer": "",
+      "meaning": "move in a quiet or secretive manner",
+      "type": "m",
+      "example": [
+        {
+          "file": "so-1a",
+          "contributor": "",
+          "display": "そ\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "so-1b",
+          "contributor": "",
+          "display": "そっ",
+          "source": "different_world_smartphone"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "brush",
+        "contact",
+        "place",
+        "reach",
+        "touch"
+      ],
+      "refer": "",
+      "meaning": "gentle reaching or placement of hands",
+      "type": "m",
+      "example": [{
+        "file": "so-2a",
+        "contributor": "",
+        "display": "そっ",
+        "source": "komi_cant_communicate"
+      }]
+    },
+    {
+      "equivalent": [
+        "dither",
+        "falter",
+        "hesitate",
+        "pause",
+        "procrastinate",
+        "waver"
+      ],
+      "refer": "",
+      "meaning": "emotional hesitation",
+      "type": "s",
+      "example": [{
+        "file": "so-3a",
+        "contributor": "",
+        "display": "そ\u2026",
+        "source": "mushoku_tensei"
+      }]
+    }
+  ],
+  "id": "so"
+}

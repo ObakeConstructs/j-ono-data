@@ -1,0 +1,54 @@
+{
+  "hiragana": ["ざわざわ"],
+  "romaji": ["zawa zawa"],
+  "katakana": ["ザワザワ"],
+  "definition": [
+    {
+      "equivalent": [
+        "ballyhoo",
+        "buzz",
+        "chatter",
+        "commotion",
+        "din",
+        "hubbub",
+        "ruckus"
+      ],
+      "refer": "",
+      "meaning": "murmur or chatter of a crowd",
+      "type": "o",
+      "example": [
+        {
+          "file": "zawa_zawa-1a",
+          "contributor": "",
+          "display": "ざわ ざわ ざわ",
+          "source": "dungeon_dining_room"
+        },
+        {
+          "file": "zawa_zawa-1b",
+          "contributor": "",
+          "display": "ザワ ザワ",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "zawa_zawa-1c",
+          "contributor": "",
+          "display": "ざわ ざわ",
+          "source": "uncle_at_heart"
+        }
+      ]
+    },
+    {
+      "equivalent": [""],
+      "refer": "zawa:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "zawa_zawa-2a",
+        "contributor": "",
+        "display": "ザワ ザワ",
+        "source": "world_full_of_monsters"
+      }]
+    }
+  ],
+  "id": "zawa_zawa"
+}

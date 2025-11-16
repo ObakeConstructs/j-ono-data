@@ -1,0 +1,82 @@
+{
+  "hiragana": [
+    "しゅ",
+    "しゅっ",
+    "しゅぃ",
+    "しゅい",
+    "しゅぃぃ",
+    "しゅいい"
+  ],
+  "romaji": ["shu"],
+  "katakana": [
+    "シュ",
+    "シュッ",
+    "シュゥ",
+    "シュウ",
+    "シュゥゥ",
+    "シュウウ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "fwip",
+        "whiz",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "refer": "",
+      "meaning": "a sudden disappearance or extremely fast motion",
+      "type": "m",
+      "example": [
+        {
+          "file": "shu-1a",
+          "contributor": "",
+          "display": "シュッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "shu-1b",
+          "contributor": "",
+          "display": "シュッ",
+          "source": "shogun_gold_in_america"
+        },
+        {
+          "file": "shu-1c",
+          "contributor": "",
+          "display": "シュッ",
+          "source": "world_full_of_monsters"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "fsshh",
+        "hiss",
+        "poof",
+        "puff",
+        "sshh",
+        "sss",
+        "whaft"
+      ],
+      "refer": "",
+      "meaning": "soft puffing of air or fumes",
+      "type": "o",
+      "example": [
+        {
+          "file": "shu-2a",
+          "contributor": "",
+          "display": "シュゥゥ\u2026",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "shu-2b",
+          "contributor": "",
+          "display": "シュウウウウウ",
+          "source": "isekai_av_filming"
+        }
+      ]
+    }
+  ],
+  "id": "shu"
+}

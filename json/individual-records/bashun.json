@@ -1,0 +1,39 @@
+{
+  "hiragana": [
+    "ばしゅん",
+    "ばしゅんっ"
+  ],
+  "romaji": ["bashun"],
+  "katakana": [
+    "バシュン",
+    "バシュンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blast",
+      "boom",
+      "clamor",
+      "crash",
+      "rumble",
+      "tumult"
+    ],
+    "refer": "",
+    "meaning": "a tumultuous sound of multiple impacts",
+    "type": "o",
+    "example": [
+      {
+        "file": "bashun-1a",
+        "contributor": "",
+        "display": "バシュンッ",
+        "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "bashun-1b",
+        "contributor": "",
+        "display": "バシュンッ",
+        "source": "killed_by_gods_mistake"
+      }
+    ]
+  }],
+  "id": "bashun"
+}

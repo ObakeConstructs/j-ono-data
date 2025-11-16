@@ -1,0 +1,21 @@
+{
+  "hiragana": ["ごうんごうん"],
+  "romaji": ["goun goun"],
+  "katakana": ["ゴウンゴウン"],
+  "definition": [{
+    "equivalent": [
+      "grumble",
+      "rumble"
+    ],
+    "refer": "",
+    "meaning": "the low rumbling of a motor or machinery",
+    "type": "o",
+    "example": [{
+      "file": "goun_goun-1a",
+      "contributor": "",
+      "display": "ゴウン ゴウン",
+      "source": "isekai_av_filming"
+    }]
+  }],
+  "id": "goun_goun"
+}

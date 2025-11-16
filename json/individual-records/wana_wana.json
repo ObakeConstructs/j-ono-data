@@ -1,0 +1,24 @@
+{
+  "hiragana": ["わなわな"],
+  "romaji": ["wana wana"],
+  "katakana": ["ワナワナ"],
+  "definition": [{
+    "equivalent": [
+      "quiver",
+      "shake",
+      "shiver",
+      "shudder",
+      "tremble"
+    ],
+    "refer": "",
+    "meaning": "trembling response to strong emotion, as of fear, anger, or shock",
+    "type": "e",
+    "example": [{
+      "file": "wana_wana-1a",
+      "contributor": "",
+      "display": "わな わな..",
+      "source": "isekai_pickup"
+    }]
+  }],
+  "id": "wana_wana"
+}

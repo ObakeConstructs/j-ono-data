@@ -1,0 +1,48 @@
+{
+  "hiragana": [
+    "くん",
+    "くんっ",
+    "くんくん"
+  ],
+  "romaji": [
+    "kun",
+    "kun kun"
+  ],
+  "katakana": [
+    "クン",
+    "クンッ",
+    "クンクン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "smell",
+      "sniff",
+      "snuff",
+      "whiff"
+    ],
+    "refer": "",
+    "meaning": "small sniffing movements",
+    "type": "m",
+    "example": [
+      {
+        "file": "kun-1a",
+        "contributor": "",
+        "display": "クン\u2026",
+        "source": "world_full_of_zombies"
+      },
+      {
+        "file": "kun-1b",
+        "contributor": "",
+        "display": "くんくん",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "kun-1c",
+        "contributor": "",
+        "display": "くん くん",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "id": "kun"
+}

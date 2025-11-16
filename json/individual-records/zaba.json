@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "ざば",
+    "ざばぁ"
+  ],
+  "romaji": ["zaba"],
+  "katakana": [
+    "ザバ",
+    "ザバァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fwoosh",
+      "gush",
+      "jet",
+      "slosh",
+      "spew",
+      "splash",
+      "sploosh",
+      "spout",
+      "swash"
+    ],
+    "refer": "",
+    "meaning": "strong splash or burst of water",
+    "type": "o",
+    "example": [{
+      "file": "zaba-1a",
+      "contributor": "",
+      "display": "ざばぁ.",
+      "source": "buy_the_land"
+    }]
+  }],
+  "id": "zaba"
+}

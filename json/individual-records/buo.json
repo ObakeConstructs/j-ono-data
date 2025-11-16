@@ -1,0 +1,81 @@
+{
+  "hiragana": [
+    "ぶお",
+    "ぶおお",
+    "ぶおおお",
+    "ぶぉ",
+    "ぶぉぉ",
+    "ぶぉぉぉ"
+  ],
+  "romaji": ["buo"],
+  "katakana": [
+    "ブオ",
+    "ブオオ",
+    "ブオオオ",
+    "ブォ",
+    "ブォォ",
+    "ブォォォ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "blast",
+        "blow",
+        "breeze",
+        "puff",
+        "rustle",
+        "voom",
+        "whoosh"
+      ],
+      "refer": "",
+      "meaning": "low rushing sound of blowing or moving air",
+      "type": "o",
+      "example": [
+        {
+          "file": "buo-1a",
+          "contributor": "",
+          "display": "ブォォォ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "buo-1b",
+          "contributor": "",
+          "display": "ブォォォォォォォォ",
+          "source": "human_ranch"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "rev",
+        "roar",
+        "rumble",
+        "vroom"
+      ],
+      "refer": "",
+      "meaning": "the low rumble of an engine",
+      "type": "o",
+      "example": [
+        {
+          "file": "buo-2a",
+          "contributor": "",
+          "display": "ブォォォ",
+          "source": "hero_or_demon_king"
+        },
+        {
+          "file": "buo-2b",
+          "contributor": "",
+          "display": "ブォォォ",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "buo-2c",
+          "contributor": "",
+          "display": "ブォォォォ",
+          "source": "world_full_of_zombies"
+        }
+      ]
+    }
+  ],
+  "id": "buo"
+}

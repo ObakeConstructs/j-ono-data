@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "うぉんうぉん",
+    "うぉぉんうぉぉん",
+    "うぉぉぉんうぉぉぉん"
+  ],
+  "romaji": ["uon uon"],
+  "katakana": [
+    "ウォンウォン",
+    "ウォォンウォォン",
+    "ウォォォンウォォォン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "uon:2",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "uon_uon-1a",
+      "contributor": "",
+      "display": "ウォォォン ウォォォン",
+      "source": "blazing_fire_brigade"
+    }]
+  }],
+  "id": "uon_uon"
+}

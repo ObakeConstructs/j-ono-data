@@ -1,0 +1,64 @@
+{
+  "hiragana": [
+    "む",
+    "むっ",
+    "むー",
+    "むーっ",
+    "むう",
+    "むうっ"
+  ],
+  "romaji": ["mu"],
+  "katakana": [
+    "ム",
+    "ムッ",
+    "ムー",
+    "ムーッ",
+    "ムウ",
+    "ムウッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aggravated",
+      "annoyed",
+      "defiant",
+      "grumpy",
+      "hmph",
+      "irked",
+      "irritated",
+      "narked",
+      "peeved",
+      "pissed",
+      "pout",
+      "riled",
+      "snit",
+      "stubborn",
+      "sulk",
+      "unamused",
+      "vexed"
+    ],
+    "refer": "",
+    "meaning": "an expression of irritation, sulking, or mild defiance, often expressed with puffed cheeks or a pout",
+    "type": "e",
+    "example": [
+      {
+        "file": "mu-1a",
+        "contributor": "",
+        "display": "ム\u2026",
+        "source": "d_genesis"
+      },
+      {
+        "file": "mu-1b",
+        "contributor": "",
+        "display": "むう〜",
+        "source": "reincarnated_farm_girl"
+      },
+      {
+        "file": "mu-1c",
+        "contributor": "",
+        "display": "むっ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "id": "mu"
+}

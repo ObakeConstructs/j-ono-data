@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "どし",
+    "どしゃ",
+    "どしゃぁ"
+  ],
+  "romaji": ["dosha"],
+  "katakana": [
+    "ドシ",
+    "ドシャ",
+    "ドシャァ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dosa:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "dosha-1a",
+        "contributor": "",
+        "display": "どしゃ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "dosha-1b",
+        "contributor": "",
+        "display": "ドシャァ\u2026",
+        "source": "my_s-ranked_daughter"
+      }
+    ]
+  }],
+  "id": "dosha"
+}

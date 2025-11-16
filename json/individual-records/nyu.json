@@ -1,0 +1,28 @@
+{
+  "hiragana": ["にゅ"],
+  "romaji": ["nyu"],
+  "katakana": ["ニュ"],
+  "definition": [{
+    "equivalent": [
+      "emerging",
+      "greasy",
+      "protruding",
+      "slick",
+      "slither",
+      "smooth",
+      "squeeze",
+      "squish",
+      "squoosh"
+    ],
+    "refer": "",
+    "meaning": "something squishy or slick, often emerging or protruding",
+    "type": "s",
+    "example": [{
+      "file": "nyu-1a",
+      "contributor": "",
+      "display": "ニュ..",
+      "source": "buy_the_land"
+    }]
+  }],
+  "id": "nyu"
+}

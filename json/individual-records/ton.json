@@ -1,0 +1,61 @@
+{
+  "hiragana": [
+    "とん",
+    "とんっ"
+  ],
+  "romaji": ["ton"],
+  "katakana": [
+    "トン",
+    "トンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bop",
+        "bump",
+        "knock",
+        "step",
+        "tap",
+        "thud",
+        "thunk"
+      ],
+      "refer": "",
+      "meaning": "small or light impact sound",
+      "type": "o",
+      "example": [
+        {
+          "file": "ton-1a",
+          "contributor": "",
+          "display": "トン",
+          "source": "bungo"
+        },
+        {
+          "file": "ton-1b",
+          "contributor": "",
+          "display": "トンッ",
+          "source": "strongest_failure_frame"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bound",
+        "jump",
+        "leap",
+        "push-off",
+        "spring",
+        "vault"
+      ],
+      "refer": "",
+      "meaning": "quietly jumping or leaping",
+      "type": "m",
+      "example": [{
+        "file": "ton-2a",
+        "contributor": "",
+        "display": "トン!",
+        "source": "eternal_fool_asley"
+      }]
+    }
+  ],
+  "id": "ton"
+}

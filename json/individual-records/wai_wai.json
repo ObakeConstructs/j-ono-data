@@ -1,0 +1,40 @@
+{
+  "hiragana": [
+    "わいわい",
+    "わぃわぃ"
+  ],
+  "romaji": ["wai wai"],
+  "katakana": [
+    "ワイワイ",
+    "ワィワィ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "babel",
+      "blah",
+      "bustle",
+      "cacophony",
+      "chatter",
+      "clamor",
+      "hubbub"
+    ],
+    "refer": "",
+    "meaning": "multiple people talking simultaneously, often lively or rowdy",
+    "type": "v",
+    "example": [
+      {
+        "file": "wai_wai-1a",
+        "contributor": "",
+        "display": "わい わい",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "wai_wai-1b",
+        "contributor": "",
+        "display": "わい わい わい",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "id": "wai_wai"
+}

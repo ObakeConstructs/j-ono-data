@@ -1,0 +1,41 @@
+{
+  "hiragana": [
+    "ふぁさ",
+    "ふぁさぁ",
+    "ふぁさぁぁ"
+  ],
+  "romaji": ["fasa"],
+  "katakana": [
+    "ファサ",
+    "ファサァ",
+    "ファサァァ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "airy",
+      "puff",
+      "rustle",
+      "soft",
+      "waft",
+      "whiff"
+    ],
+    "refer": "",
+    "meaning": "a light fluttering or airy movement",
+    "type": "m",
+    "example": [
+      {
+        "file": "fasa-1a",
+        "contributor": "",
+        "display": "ファサァァ",
+        "source": "blazing_fire_brigade"
+      },
+      {
+        "file": "fasa-1b",
+        "contributor": "",
+        "display": "ファサ",
+        "source": "rock_n_roll_ladies"
+      }
+    ]
+  }],
+  "id": "fasa"
+}

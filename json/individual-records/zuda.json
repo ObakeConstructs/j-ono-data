@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "ずだ",
+    "ずだだ",
+    "ずだだだ"
+  ],
+  "romaji": ["zuda"],
+  "katakana": [
+    "ズダ",
+    "ズダダ",
+    "ズダダダ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "crash",
+      "fall",
+      "skid",
+      "slide",
+      "slip",
+      "tumble",
+      "tump"
+    ],
+    "refer": "",
+    "meaning": "a crash followed by sliding, skidding, or tumbling",
+    "type": "o",
+    "example": [{
+      "file": "zuda-1a",
+      "contributor": "",
+      "display": "ズダダダダ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "id": "zuda"
+}

@@ -1,0 +1,18 @@
+{
+  "hiragana": ["じりじり"],
+  "romaji": ["jiri jiri"],
+  "katakana": ["ジリジリ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "jiri:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jiri_jiri-1a",
+      "contributor": "",
+      "display": "ジリ ジリ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "id": "jiri_jiri"
+}

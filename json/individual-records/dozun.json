@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "どずん",
+    "どずぅん"
+  ],
+  "romaji": ["dozun"],
+  "katakana": [
+    "ドズン",
+    "ドズゥン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "bang",
+      "crash",
+      "slam",
+      "thud",
+      "thump",
+      "wham",
+      "whomp"
+    ],
+    "refer": "",
+    "meaning": "heavy, resonant thud",
+    "type": "o",
+    "example": [{
+      "file": "dozun-1a",
+      "contributor": "",
+      "display": "ドズゥン",
+      "source": "minimum_wage_demon_king"
+    }]
+  }],
+  "id": "dozun"
+}

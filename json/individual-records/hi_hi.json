@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ひひ",
+    "ひひひ"
+  ],
+  "romaji": ["hi hi"],
+  "katakana": [
+    "ヒヒ",
+    "ヒヒヒ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "chortle",
+      "chuckle",
+      "giggle",
+      "hee",
+      "laugh",
+      "snicker",
+      "titter"
+    ],
+    "refer": "",
+    "meaning": "a light, mischievous laugh or giggle",
+    "type": "v",
+    "example": [{
+      "file": "hi_hi-1a",
+      "contributor": "",
+      "display": "ヒヒヒ",
+      "source": "35_year_olds_choice"
+    }]
+  }],
+  "id": "hi_hi"
+}

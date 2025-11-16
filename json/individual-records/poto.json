@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ぽと",
+    "ぽとっ"
+  ],
+  "romaji": ["poto"],
+  "katakana": [
+    "ポト",
+    "ポトッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "poro:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "poto-1a",
+      "contributor": "",
+      "display": "ポトッ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "id": "poto"
+}

@@ -1,0 +1,49 @@
+{
+  "hiragana": [
+    "ごそ",
+    "ごそっ",
+    "ごそごそ"
+  ],
+  "romaji": [
+    "goso",
+    "goso goso"
+  ],
+  "katakana": [
+    "ゴソ",
+    "ゴソッ",
+    "ゴソゴソ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "get",
+      "locate",
+      "reach",
+      "rummage",
+      "rustle"
+    ],
+    "refer": "",
+    "meaning": "rustling or rummaging, often soft or subtle",
+    "type": "o",
+    "example": [
+      {
+        "file": "goso-1a",
+        "contributor": "",
+        "display": "ごそ",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "goso-1b",
+        "contributor": "",
+        "display": "ごそ",
+        "source": "embarrassing_and_sweet"
+      },
+      {
+        "file": "goso-1c",
+        "contributor": "",
+        "display": "ごそ ごそ",
+        "source": "mushoku_tensei"
+      }
+    ]
+  }],
+  "id": "goso"
+}

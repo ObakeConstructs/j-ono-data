@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "ぷるん",
+    "ぷるんっ"
+  ],
+  "romaji": ["purun"],
+  "katakana": [
+    "プルン",
+    "プルンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "puru:2",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "purun-1a",
+        "contributor": "",
+        "display": "ぷるん",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "purun-1b",
+        "contributor": "",
+        "display": "プルン",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "purun-1c",
+        "contributor": "",
+        "display": "ぷるん",
+        "source": "rise_of_the_outlaw_tamer"
+      },
+      {
+        "file": "purun-1d",
+        "contributor": "",
+        "display": "ぷるんっ",
+        "source": "35_year_olds_choice"
+      }
+    ]
+  }],
+  "id": "purun"
+}

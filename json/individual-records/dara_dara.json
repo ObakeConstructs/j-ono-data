@@ -1,0 +1,27 @@
+{
+  "hiragana": ["だらだら"],
+  "romaji": ["dara dara"],
+  "katakana": ["ダラダラ"],
+  "definition": [{
+    "equivalent": [
+      "bead",
+      "dribble",
+      "drip",
+      "drop",
+      "fret",
+      "sweat",
+      "trickle",
+      "worry"
+    ],
+    "refer": "",
+    "meaning": "dripping or flowing continuously",
+    "type": "s",
+    "example": [{
+      "file": "dara_dara-1a",
+      "contributor": "",
+      "display": "だら だら",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "id": "dara_dara"
+}

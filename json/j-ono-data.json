@@ -3803,38 +3803,6 @@
         }
       ]
     }],
-    "id": "chun"
-  },
-  {
-    "hiragana": [
-      "ちゅんちゅん",
-      "ちゅんちゅんっ"
-    ],
-    "romaji": ["chun chun"],
-    "katakana": [
-      "チュンチュン",
-      "チュンチュンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "chi_chi:1",
-      "meaning": ", often used to indicate dawn or early morning",
-      "type": "",
-      "example": [
-        {
-          "file": "chun_chun-1a",
-          "contributor": "",
-          "display": "チュン チュンッ",
-          "source": "s_rank_behemoth"
-        },
-        {
-          "file": "chun_chun-1b",
-          "contributor": "",
-          "display": "チュン チュン",
-          "source": "otherworld_material_collector"
-        }
-      ]
-    }],
     "id": "chun_chun"
   },
   {
@@ -15193,7 +15161,7 @@
         {
           "file": "mishi-1a",
           "contributor": "",
-          "display": "ミシッ",
+          "display": "ミシッ ミシ ミシ\u2026",
           "source": "hanako_24th_ward"
         },
         {
@@ -15201,12 +15169,6 @@
           "contributor": "",
           "display": "みしっ\u2026",
           "source": "my_s-ranked_daughter"
-        },
-        {
-          "file": "mishi-1c",
-          "contributor": "",
-          "display": "ミシ ミシ\u2026",
-          "source": "hanako_24th_ward"
         }
       ]
     }],

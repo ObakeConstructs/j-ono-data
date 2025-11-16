@@ -1,0 +1,26 @@
+{
+  "hiragana": ["ちゃら"],
+  "romaji": ["chara"],
+  "katakana": ["チャラ"],
+  "definition": [{
+    "equivalent": [
+      "clack",
+      "clatter",
+      "click",
+      "clink",
+      "jingle",
+      "ker-chak",
+      "rattle"
+    ],
+    "refer": "",
+    "meaning": "rattling or jingling, usually metallic",
+    "type": "o",
+    "example": [{
+      "file": "chara-1a",
+      "contributor": "",
+      "display": "チャラ\u2026",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "id": "chara"
+}

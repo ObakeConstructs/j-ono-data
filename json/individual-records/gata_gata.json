@@ -1,0 +1,66 @@
+{
+  "hiragana": ["がたがた"],
+  "romaji": ["gata gata"],
+  "katakana": ["ガタガタ"],
+  "definition": [
+    {
+      "equivalent": [
+        "clang",
+        "clatter",
+        "clunk",
+        "creak",
+        "rattle"
+      ],
+      "refer": "",
+      "meaning": "sharp rattling or clattering",
+      "type": "o",
+      "example": [
+        {
+          "file": "gata_gata-1a",
+          "contributor": "",
+          "display": "ガタ ガタ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "gata_gata-1b",
+          "contributor": "",
+          "display": "ガタ ガタ ガタ ガタ ガタ",
+          "source": "human_ranch"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "quiver",
+        "shiver",
+        "shudder",
+        "tremble",
+        "wobble"
+      ],
+      "refer": "",
+      "meaning": "shaking or trembling, as from fear or cold",
+      "type": "s",
+      "example": [
+        {
+          "file": "gata_gata-2a",
+          "contributor": "",
+          "display": "ガタ ガタ ガタ",
+          "source": "drawing"
+        },
+        {
+          "file": "gata_gata-2b",
+          "contributor": "",
+          "display": "ガタ ガタ",
+          "source": "isekai_sniper"
+        },
+        {
+          "file": "gata_gata-2c",
+          "contributor": "",
+          "display": "ガタ ガタ ガタ ガタ",
+          "source": "ai_and_izawa"
+        }
+      ]
+    }
+  ],
+  "id": "gata_gata"
+}

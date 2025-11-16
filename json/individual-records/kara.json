@@ -1,0 +1,67 @@
+{
+  "hiragana": [
+    "から",
+    "からっ",
+    "からん",
+    "からんっ",
+    "からんからん"
+  ],
+  "romaji": [
+    "kara",
+    "karan",
+    "karan karan"
+  ],
+  "katakana": [
+    "カラ",
+    "カラッ",
+    "カラン",
+    "カランッ",
+    "カランカラン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clang",
+      "clank",
+      "clink",
+      "clump",
+      "clunk",
+      "hit",
+      "knock",
+      "plink",
+      "clang-clang",
+      "clank-clank",
+      "ding-ding",
+      "jingle"
+    ],
+    "refer": "",
+    "meaning": "metallic clanking or hollow clunking",
+    "type": "o",
+    "example": [
+      {
+        "file": "kara-1a",
+        "contributor": "",
+        "display": "カラッ",
+        "source": "dungeon_dining_room"
+      },
+      {
+        "file": "kara-1b",
+        "contributor": "",
+        "display": "カラッ",
+        "source": "minimum_wage_demon_king"
+      },
+      {
+        "file": "kara_karan-1c",
+        "contributor": "",
+        "display": "カラン",
+        "source": "d_genesis"
+      },
+      {
+        "file": "kara_karan-1d",
+        "contributor": "",
+        "display": "カラン カラン",
+        "source": "isekai_pickup"
+      }
+    ]
+  }],
+  "id": "kara_karan"
+}

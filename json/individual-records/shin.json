@@ -1,0 +1,55 @@
+{
+  "hiragana": [
+    "しん",
+    "しーん",
+    "しんっ"
+  ],
+  "romaji": ["shin"],
+  "katakana": [
+    "シン",
+    "シーン",
+    "シンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "calm",
+      "hush",
+      "muted",
+      "quiet",
+      "serene",
+      "silent",
+      "still",
+      "tranquil"
+    ],
+    "refer": "",
+    "meaning": "a feeling of deep stillness or silence",
+    "type": "e",
+    "example": [
+      {
+        "file": "shin-1a",
+        "contributor": "",
+        "display": "しん\u2026",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "shin-1b",
+        "contributor": "",
+        "display": "しん\u2026",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "shin-1c",
+        "contributor": "",
+        "display": "シーン",
+        "source": "isekai_pickup"
+      },
+      {
+        "file": "shin-1d",
+        "contributor": "",
+        "display": "しーん\u2026",
+        "source": "buy_the_land"
+      }
+    ]
+  }],
+  "id": "shin"
+}

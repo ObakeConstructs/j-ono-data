@@ -1,0 +1,61 @@
+{
+  "hiragana": [
+    "すす",
+    "すすす",
+    "すうすう",
+    "すぅすぅ"
+  ],
+  "romaji": ["su su"],
+  "katakana": [
+    "スス",
+    "ススス",
+    "スウスウ",
+    "スゥスゥ"
+  ],
+  "definition": [
+    {
+      "equivalent": [""],
+      "refer": "supi:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "su_su-1a",
+        "contributor": "",
+        "display": "すぅ すぅ\u2026",
+        "source": "world_full_of_monsters"
+      }]
+    },
+    {
+      "equivalent": [
+        "hushed",
+        "mumble",
+        "mutter",
+        "quietly",
+        "softly",
+        "whisper"
+      ],
+      "refer": "",
+      "meaning": "whispering or speaking quietly",
+      "type": "v",
+      "example": [{
+        "file": "su_su-2a",
+        "contributor": "",
+        "display": "ススス",
+        "source": "different_world_smartphone"
+      }]
+    },
+    {
+      "equivalent": [""],
+      "refer": "su:2",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "su_su-3a",
+        "contributor": "",
+        "display": "スス",
+        "source": "yojo_life"
+      }]
+    }
+  ],
+  "id": "su_su"
+}

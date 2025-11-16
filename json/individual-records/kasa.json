@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "かさ",
+    "かさっ"
+  ],
+  "romaji": ["kasa"],
+  "katakana": [
+    "カサ",
+    "カサッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gasa:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "kasa-1a",
+        "contributor": "",
+        "display": "カサ\u2026",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "kasa-1b",
+        "contributor": "",
+        "display": "カサ\u2026",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "kasa-1c",
+        "contributor": "",
+        "display": "カサッ",
+        "source": "uncle_at_heart"
+      }
+    ]
+  }],
+  "id": "kasa"
+}

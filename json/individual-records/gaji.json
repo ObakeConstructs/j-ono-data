@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "がじ",
+    "がじっ"
+  ],
+  "romaji": ["gaji"],
+  "katakana": [
+    "ガジ",
+    "ガジッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bite",
+      "crunch",
+      "chomp",
+      "snap"
+    ],
+    "refer": "",
+    "meaning": "biting into something",
+    "type": "m",
+    "example": [{
+      "file": "gaji-1a",
+      "contributor": "",
+      "display": "がじっ",
+      "source": "abandoned_reincarnation_sage"
+    }]
+  }],
+  "id": "gaji"
+}

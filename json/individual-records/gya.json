@@ -1,0 +1,41 @@
+{
+  "hiragana": [
+    "ぎゃ",
+    "ぎゃっ",
+    "ぎゃー",
+    "ぎゃぁ",
+    "ぎゃあ",
+    "ぎゃああ",
+    "ぎゃあああ"
+  ],
+  "romaji": ["gya"],
+  "katakana": [
+    "ギャ",
+    "ギャッ",
+    "ギャー",
+    "ギャァ",
+    "ギャア",
+    "ギャアア",
+    "ギャアアア"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clangor",
+      "creak",
+      "jangle",
+      "screech",
+      "shriek",
+      "shrill"
+    ],
+    "refer": "",
+    "meaning": "loud, high-pitched screeching of distressed metal",
+    "type": "o",
+    "example": [{
+      "file": "gya-1a",
+      "contributor": "",
+      "display": "ギャアアアアア",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "id": "gya"
+}

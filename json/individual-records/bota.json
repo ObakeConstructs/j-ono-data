@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ぼた",
+    "ぼたっ",
+    "ぼたたっ"
+  ],
+  "romaji": ["bota"],
+  "katakana": [
+    "ボタ",
+    "ボタッ",
+    "ボタタッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drip",
+      "drop",
+      "flow",
+      "gush",
+      "splat"
+    ],
+    "refer": "",
+    "meaning": "viscous fluids dripping, typically blood",
+    "type": "o",
+    "example": [{
+      "file": "bota-1a",
+      "contributor": "",
+      "display": "ボタタッ",
+      "source": "beastly_boys_and_girls"
+    }]
+  }],
+  "id": "bota"
+}

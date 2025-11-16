@@ -1,0 +1,105 @@
+{
+  "hiragana": [
+    "ばん",
+    "ばーん",
+    "ばんっ",
+    "ばぁん",
+    "ばぁーん",
+    "ばぁんっ"
+  ],
+  "romaji": ["ban"],
+  "katakana": [
+    "バン",
+    "バーン",
+    "バンッ",
+    "バァン",
+    "バァーン",
+    "バァンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "hit",
+        "slam",
+        "slap",
+        "smack",
+        "thump",
+        "thwack",
+        "whack",
+        "wham",
+        "whap"
+      ],
+      "refer": "",
+      "meaning": "a medium impact, usually sudden or short",
+      "type": "o",
+      "example": [
+        {
+          "file": "ban-1a",
+          "contributor": "",
+          "display": "ばん!",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ban-1b",
+          "contributor": "",
+          "display": "バンッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "ban-1c",
+          "contributor": "",
+          "display": "バン",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "ban-1d",
+          "contributor": "",
+          "display": "バァンッ",
+          "source": "peter_grill"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "appear",
+        "arrive",
+        "bam",
+        "boom",
+        "d-dum",
+        "display",
+        "emerge",
+        "expose",
+        "reveal",
+        "ta-da",
+        "unveil",
+        "wow"
+      ],
+      "refer": "",
+      "meaning": "a dramatic or stylized reveal or appearance",
+      "type": "c",
+      "example": [
+        {
+          "file": "ban-2a",
+          "contributor": "",
+          "display": "バァーン",
+          "source": "isekai_av_filming"
+        },
+        {
+          "file": "ban-2b",
+          "contributor": "",
+          "display": "バーン",
+          "source": "killed_by_gods_mistake"
+        },
+        {
+          "file": "ban-2c",
+          "contributor": "",
+          "display": "バンッ",
+          "source": "isekai_sniper"
+        }
+      ]
+    }
+  ],
+  "id": "ban"
+}

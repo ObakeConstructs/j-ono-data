@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "ぺ",
+    "ぺっ"
+  ],
+  "romaji": ["pe"],
+  "katakana": [
+    "ペ",
+    "ペッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blarg",
+      "bleh",
+      "expectorate",
+      "ptoo",
+      "ptooey",
+      "spat",
+      "spit",
+      "spit out",
+      "sploosh"
+    ],
+    "refer": "",
+    "meaning": "quick spitting sound, often expressing disgust",
+    "type": "v",
+    "example": [{
+      "file": "pe-1a",
+      "contributor": "",
+      "display": "ペッ",
+      "source": "berserk"
+    }]
+  }],
+  "id": "pe"
+}

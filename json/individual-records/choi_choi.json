@@ -1,0 +1,39 @@
+{
+  "hiragana": [
+    "ちょぃちょぃ",
+    "ちょぃっちょぃっ"
+  ],
+  "romaji": ["choi choi"],
+  "katakana": [
+    "チョィチョィ",
+    "チョィッチョィッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fidget",
+      "gesture",
+      "motion",
+      "move",
+      "shift",
+      "wave"
+    ],
+    "refer": "",
+    "meaning": "small movements or gestures",
+    "type": "m",
+    "example": [
+      {
+        "file": "choi_choi-1a",
+        "contributor": "",
+        "display": "ちょぃ ちょぃ",
+        "source": "eternal_fool_asley"
+      },
+      {
+        "file": "choi_choi-1b",
+        "contributor": "",
+        "display": "ちょぃ ちょぃ",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "id": "choi_choi"
+}

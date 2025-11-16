@@ -1,0 +1,56 @@
+{
+  "hiragana": [
+    "ぶわ",
+    "ぶわっ"
+  ],
+  "romaji": ["buwa"],
+  "katakana": [
+    "ブワ",
+    "ブワッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bang",
+        "boom",
+        "ka-boom"
+      ],
+      "refer": "",
+      "meaning": "a loud explosion or explosive force",
+      "type": "o",
+      "example": [
+        {
+          "file": "buwa-1a",
+          "contributor": "",
+          "display": "ぶわっ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "buwa-1b",
+          "contributor": "",
+          "display": "ブワッ",
+          "source": "world_full_of_monsters"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "ascend",
+        "launch",
+        "rise",
+        "takeoff",
+        "woosh"
+      ],
+      "refer": "",
+      "meaning": "something large or heavy rising or taking flight",
+      "type": "m",
+      "example": [{
+        "file": "buwa-2a",
+        "contributor": "",
+        "display": "ブワッ",
+        "source": "hello_work"
+      }]
+    }
+  ],
+  "id": "buwa"
+}

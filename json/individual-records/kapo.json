@@ -1,0 +1,24 @@
+{
+  "hiragana": ["かぽ"],
+  "romaji": ["kapo"],
+  "katakana": ["カポ"],
+  "definition": [{
+    "equivalent": [
+      "click",
+      "plop",
+      "pop",
+      "puts on",
+      "snap"
+    ],
+    "refer": "",
+    "meaning": "a soft, hollow sound of something closing or fitting into place",
+    "type": "o",
+    "example": [{
+      "file": "kapo-1a",
+      "contributor": "",
+      "display": "カポ",
+      "source": "way_of_the_house_husband"
+    }]
+  }],
+  "id": "kapo"
+}

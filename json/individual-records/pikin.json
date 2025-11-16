@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "ぴきん",
+    "ぴきーん"
+  ],
+  "romaji": ["pikin"],
+  "katakana": [
+    "ピキン",
+    "ピキーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bing",
+      "dazzle",
+      "gleeful",
+      "ping",
+      "pleased",
+      "smug"
+    ],
+    "refer": "",
+    "meaning": "a sudden change of expression, often to smugness or glee",
+    "type": "e",
+    "example": [{
+      "file": "pikin-1a",
+      "contributor": "",
+      "display": "ピキーン",
+      "source": "blazing_fire_brigade"
+    }]
+  }],
+  "id": "pikin"
+}

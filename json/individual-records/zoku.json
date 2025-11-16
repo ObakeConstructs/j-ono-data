@@ -1,0 +1,66 @@
+{
+  "hiragana": [
+    "ぞく",
+    "ぞくっ",
+    "ぞくぞく"
+  ],
+  "romaji": [
+    "zoku",
+    "zoku zoku"
+  ],
+  "katakana": [
+    "ゾク",
+    "ゾクッ",
+    "ゾクゾク"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flinch",
+      "jerk",
+      "jolt",
+      "quiver",
+      "shake",
+      "shiver",
+      "shudder",
+      "startle",
+      "tremble",
+      "twitch"
+    ],
+    "refer": "",
+    "meaning": "involuntary shiver or shudder, as from fear, excitement, or pleasure",
+    "type": "e",
+    "example": [
+      {
+        "file": "zoku-1a",
+        "contributor": "",
+        "display": "ぞくっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "zoku-1b",
+        "contributor": "",
+        "display": "ゾクッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "zoku-1c",
+        "contributor": "",
+        "display": "ぞくっ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "zoku-1d",
+        "contributor": "",
+        "display": "ぞくっ\u2026",
+        "source": "embarrassing_and_sweet"
+      },
+      {
+        "file": "zoku-1e",
+        "contributor": "",
+        "display": "ぞく ぞく",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "id": "zoku"
+}

@@ -1,0 +1,77 @@
+{
+  "hiragana": [
+    "び",
+    "びっ"
+  ],
+  "romaji": ["bi"],
+  "katakana": [
+    "ビ",
+    "ビッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bang",
+        "bash",
+        "bop",
+        "clap",
+        "clobber",
+        "crack",
+        "hit",
+        "knock",
+        "pound",
+        "punch",
+        "slam",
+        "slug",
+        "smite",
+        "strike",
+        "thump",
+        "thwack",
+        "wallop"
+      ],
+      "refer": "",
+      "meaning": "a quick impact",
+      "type": "o",
+      "example": [
+        {
+          "file": "bi-1a",
+          "contributor": "",
+          "display": "ビッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "bi-1b",
+          "contributor": "",
+          "display": "ビッ",
+          "source": "blazing_fire_brigade"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "flash",
+        "flick",
+        "fwip",
+        "snap"
+      ],
+      "refer": "",
+      "meaning": "a quick gesture",
+      "type": "m",
+      "example": [
+        {
+          "file": "bi-2a",
+          "contributor": "",
+          "display": "ビッ",
+          "source": "killed_by_gods_mistake"
+        },
+        {
+          "file": "bi-2b",
+          "contributor": "",
+          "display": "ビッ",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
+    }
+  ],
+  "id": "bi"
+}

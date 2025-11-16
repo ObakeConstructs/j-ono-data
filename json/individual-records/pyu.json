@@ -1,0 +1,60 @@
+{
+  "hiragana": [
+    "ぴゅ",
+    "ぴゅっ",
+    "ぴゅー",
+    "ぴゅーっ"
+  ],
+  "romaji": ["pyu"],
+  "katakana": [
+    "ピュ",
+    "ピュッ",
+    "ピュー",
+    "ピューッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "burst",
+        "gush",
+        "jet",
+        "splurt",
+        "spout",
+        "spray",
+        "spurt",
+        "squirt"
+      ],
+      "refer": "",
+      "meaning": "liquid spraying or squirting",
+      "type": "o",
+      "example": [{
+        "file": "pyu-1a",
+        "contributor": "",
+        "display": "ピューッ!!",
+        "source": "hello_work"
+      }]
+    },
+    {
+      "equivalent": [
+        "dash",
+        "flee",
+        "run",
+        "swish",
+        "swoosh",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "refer": "",
+      "meaning": "a darting or sudden dash",
+      "type": "m",
+      "example": [{
+        "file": "pyu-2a",
+        "contributor": "",
+        "display": "ピューッ",
+        "source": "a_rank_slow_life"
+      }]
+    }
+  ],
+  "id": "pyu"
+}

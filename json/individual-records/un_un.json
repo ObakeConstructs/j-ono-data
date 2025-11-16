@@ -1,0 +1,46 @@
+{
+  "hiragana": [
+    "うんうん",
+    "うーんうーん"
+  ],
+  "romaji": ["un un"],
+  "katakana": [
+    "ウンウン",
+    "ウーンウーン"
+  ],
+  "definition": [
+    {
+      "equivalent": [""],
+      "refer": "un:1",
+      "meaning": "",
+      "type": "",
+      "example": [
+        {
+          "file": "un_un-1a",
+          "contributor": "",
+          "display": "うん うん",
+          "source": "d_genesis"
+        },
+        {
+          "file": "un_un-1b",
+          "contributor": "",
+          "display": "うんうん",
+          "source": "a_rank_slow_life"
+        }
+      ]
+    },
+    {
+      "equivalent": [""],
+      "refer": "un:3",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "un_un-2a",
+        "contributor": "",
+        "display": "ウーン ウーン",
+        "source": "komi_cant_communicate"
+      }]
+    }
+  ],
+  "id": "un_un"
+}

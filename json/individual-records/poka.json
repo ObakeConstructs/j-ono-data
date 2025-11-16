@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "ぽか",
+    "ぽかっ"
+  ],
+  "romaji": ["poka"],
+  "katakana": [
+    "ポカ",
+    "ポカッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "chop",
+      "clobber",
+      "clout",
+      "crash",
+      "crunch",
+      "hit",
+      "impact",
+      "kick",
+      "knock",
+      "pelt",
+      "pound",
+      "punch",
+      "slam",
+      "slug",
+      "smash",
+      "strike",
+      "thud",
+      "thunk",
+      "wham"
+    ],
+    "refer": "",
+    "meaning": "a light or comedic strike/impact",
+    "type": "o",
+    "example": [{
+      "file": "poka-1a",
+      "contributor": "Artrix",
+      "display": "ポカ<sub><sup>ブ<\/sup><\/sub>!!",
+      "source": "pokemon_xy_break"
+    }]
+  }],
+  "id": "poka"
+}

@@ -1,0 +1,91 @@
+{
+  "hiragana": [
+    "ぶ",
+    "ぶっ",
+    "ぶー",
+    "ぶーっ",
+    "ぶぅ",
+    "ぶぅぅ",
+    "ぶぅぅぅ",
+    "ぶう",
+    "ぶうう",
+    "ぶううう"
+  ],
+  "romaji": ["bu"],
+  "katakana": [
+    "ブ",
+    "ブッ",
+    "ブー",
+    "ブーッ",
+    "ブゥ",
+    "ブゥゥ",
+    "ブゥゥゥ",
+    "ブウ",
+    "ブウウ",
+    "ブウウウ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "blarg",
+        "bleh",
+        "expectorate",
+        "ptoo",
+        "ptooey",
+        "spat",
+        "spit",
+        "spit out",
+        "sploosh"
+      ],
+      "refer": "",
+      "meaning": "spitting or spraying something from the mouth",
+      "type": "o",
+      "example": [
+        {
+          "file": "bu-1a",
+          "contributor": "",
+          "display": "ブーッ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "bu-1b",
+          "contributor": "",
+          "display": "ぶーっ",
+          "source": "hikaro_no_go"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "blurg",
+        "erp"
+      ],
+      "refer": "",
+      "meaning": "an aborted urge to spit or spray something from the mouth",
+      "type": "m",
+      "example": [{
+        "file": "bu-2a",
+        "contributor": "",
+        "display": "ブッ",
+        "source": "double_play"
+      }]
+    },
+    {
+      "equivalent": [
+        "idle",
+        "rumble",
+        "vrrm"
+      ],
+      "refer": "",
+      "meaning": "the low rumble of a car engine at idle",
+      "type": "o",
+      "example": [{
+        "file": "bu-3a",
+        "contributor": "",
+        "display": "ブゥゥゥゥ",
+        "source": "35_year_olds_choice"
+      }]
+    }
+  ],
+  "id": "bu"
+}

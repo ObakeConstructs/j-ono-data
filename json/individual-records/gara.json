@@ -1,0 +1,78 @@
+{
+  "hiragana": [
+    "がら",
+    "がらっ"
+  ],
+  "romaji": ["gara"],
+  "katakana": [
+    "ガラ",
+    "ガラッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bang",
+        "clatter",
+        "close",
+        "open",
+        "rattle",
+        "shut",
+        "slam",
+        "slide",
+        "swish",
+        "swoosh",
+        "thump"
+      ],
+      "refer": "",
+      "meaning": "sliding or rattling, as of something opening or closing, like a window or sliding door",
+      "type": "o",
+      "example": [
+        {
+          "file": "gara-1a",
+          "contributor": "",
+          "display": "ガラッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gara-1b",
+          "contributor": "",
+          "display": "ガラッ",
+          "source": "bungo"
+        },
+        {
+          "file": "gara-1c",
+          "contributor": "",
+          "display": "ガラッ",
+          "source": "simple_sword_saint"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "clatter",
+        "clutter",
+        "crunch",
+        "rattle",
+        "tumult"
+      ],
+      "refer": "",
+      "meaning": "hard rattling or crunching of something breaking down, tumbling, or crumbling",
+      "type": "o",
+      "example": [
+        {
+          "file": "gara-2a",
+          "contributor": "",
+          "display": "ガラッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gara-2b",
+          "contributor": "",
+          "display": "ガラ\u2026",
+          "source": "minimum_wage_demon_king"
+        }
+      ]
+    }
+  ],
+  "id": "gara"
+}

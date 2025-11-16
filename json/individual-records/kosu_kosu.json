@@ -1,0 +1,32 @@
+{
+  "hiragana": ["こすこす"],
+  "romaji": ["kosu kosu"],
+  "katakana": ["コスコス"],
+  "definition": [{
+    "equivalent": [
+      "buff",
+      "press",
+      "rub",
+      "scour",
+      "scrub"
+    ],
+    "refer": "",
+    "meaning": "intentional rubbing or scrubbing",
+    "type": "m",
+    "example": [
+      {
+        "file": "kosu_kosu-1a",
+        "contributor": "",
+        "display": "コス コス コス コス",
+        "source": "double_play"
+      },
+      {
+        "file": "kosu_kosu-1b",
+        "contributor": "",
+        "display": "コス コス",
+        "source": "double_play"
+      }
+    ]
+  }],
+  "id": "kosu_kosu"
+}

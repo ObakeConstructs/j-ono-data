@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    "ごん",
+    "ごんっ"
+  ],
+  "romaji": ["gon"],
+  "katakana": [
+    "ゴン",
+    "ゴンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "go:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "gon-1a",
+        "contributor": "",
+        "display": "ゴンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gon-1b",
+        "contributor": "",
+        "display": "ゴン",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "gon-1c",
+        "contributor": "",
+        "display": "ゴン\u2026",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "gon-1d",
+        "contributor": "",
+        "display": "ゴン",
+        "source": "blazing_fire_brigade"
+      },
+      {
+        "file": "gon-1e",
+        "contributor": "",
+        "display": "ゴン",
+        "source": "saga_lagging_hero"
+      }
+    ]
+  }],
+  "id": "gon"
+}

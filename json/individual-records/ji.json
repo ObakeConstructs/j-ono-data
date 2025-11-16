@@ -1,0 +1,81 @@
+{
+  "hiragana": [
+    "じ",
+    "じっ",
+    "じー",
+    "じーっ",
+    "じぃっ"
+  ],
+  "romaji": ["ji"],
+  "katakana": [
+    "ジ",
+    "ジッ",
+    "ジー",
+    "ジーッ",
+    "ジィッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "gape",
+        "gawk",
+        "peer",
+        "regard",
+        "scrutinize",
+        "stare",
+        "study"
+      ],
+      "refer": "",
+      "meaning": "a long, fixed stare",
+      "type": "c",
+      "example": [
+        {
+          "file": "ji-1a",
+          "contributor": "",
+          "display": "じっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ji-1b",
+          "contributor": "",
+          "display": "じぃっ\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ji-1c",
+          "contributor": "",
+          "display": "じー",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "ji-1d",
+          "contributor": "",
+          "display": "じー",
+          "source": "otherworld_material_collector"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "burr",
+        "buzz",
+        "chirr",
+        "churr",
+        "drone",
+        "hum",
+        "purr",
+        "zip"
+      ],
+      "refer": "",
+      "meaning": "a droning or buzzing sound",
+      "type": "o",
+      "example": [{
+        "file": "ji-2a",
+        "contributor": "",
+        "display": "ジー",
+        "source": "neet_kunoichi"
+      }]
+    }
+  ],
+  "id": "ji"
+}

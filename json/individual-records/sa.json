@@ -1,0 +1,146 @@
+{
+  "hiragana": [
+    "さ",
+    "さっ",
+    "さー",
+    "さーっ",
+    "さぁ",
+    "さぁぁ",
+    "さぁぁぁ",
+    "さあ",
+    "さああ",
+    "さあっ"
+  ],
+  "romaji": ["sa"],
+  "katakana": [
+    "サ",
+    "サッ",
+    "サー",
+    "サーッ",
+    "サァ",
+    "サァァ",
+    "サァァァ",
+    "サア",
+    "サアア",
+    "サアッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "drizzle",
+        "drops",
+        "hss",
+        "rain",
+        "shaa",
+        "sss",
+        "swish",
+        "swoosh"
+      ],
+      "refer": "",
+      "meaning": "soft swooshing or rushing sound",
+      "type": "o",
+      "example": [
+        {
+          "file": "sa-1a",
+          "contributor": "",
+          "display": "サァァァ\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "sa-1b",
+          "contributor": "",
+          "display": "さああ\u2026.",
+          "source": "beastly_boys_and_girls"
+        },
+        {
+          "file": "sa-1c",
+          "contributor": "",
+          "display": "サァァァ",
+          "source": "ai_and_izawa"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "anxiety",
+        "chill",
+        "dismay",
+        "pale",
+        "unnerve",
+        "worry"
+      ],
+      "refer": "",
+      "meaning": "sudden worry or anxiety",
+      "type": "e",
+      "example": [{
+        "file": "sa-2a",
+        "contributor": "",
+        "display": "サァー\u2026",
+        "source": "hello_work"
+      }]
+    },
+    {
+      "equivalent": [
+        "dart",
+        "dodge",
+        "duck",
+        "jink",
+        "quick",
+        "scoot",
+        "sidestep",
+        "step",
+        "zip"
+      ],
+      "refer": "",
+      "meaning": "quick, light movement",
+      "type": "m",
+      "example": [
+        {
+          "file": "sa-3a",
+          "contributor": "",
+          "display": "サッ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "sa-3b",
+          "contributor": "",
+          "display": "サッ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "sa-3c",
+          "contributor": "",
+          "display": "さっ",
+          "source": "uncle_at_heart"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "footfall",
+        "step",
+        "tap",
+        "tiptoe",
+        "tread"
+      ],
+      "refer": "",
+      "meaning": "a soft or quiet step",
+      "type": "m",
+      "example": [
+        {
+          "file": "sa-4a",
+          "contributor": "",
+          "display": "さあ\u2026",
+          "source": "uncle_at_heart"
+        },
+        {
+          "file": "sa-4b",
+          "contributor": "",
+          "display": "サッ",
+          "source": "isekai_sniper"
+        }
+      ]
+    }
+  ],
+  "id": "sa"
+}

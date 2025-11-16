@@ -1,0 +1,83 @@
+{
+  "hiragana": [
+    "がん",
+    "がんっ",
+    "がぉん",
+    "がぉんっ"
+  ],
+  "romaji": ["gan"],
+  "katakana": [
+    "ガン",
+    "ガンッ",
+    "ガォン",
+    "ガォンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "bash",
+        "clout",
+        "hit",
+        "pelt",
+        "pound",
+        "punch",
+        "slam",
+        "smack",
+        "smash",
+        "thud",
+        "thump",
+        "thunk",
+        "wallop",
+        "whack",
+        "wham"
+      ],
+      "refer": "",
+      "meaning": "a medium or heavy impact or strike, usually hard, metallic, or violent",
+      "type": "o",
+      "example": [
+        {
+          "file": "gan-1a",
+          "contributor": "",
+          "display": "ガン",
+          "source": "d_genesis"
+        },
+        {
+          "file": "gan-1b",
+          "contributor": "",
+          "display": "ガォン!!",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "gan-1c",
+          "contributor": "",
+          "display": "ガンッ",
+          "source": "reincarnated_aristocrat"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "amazed",
+        "astonished",
+        "jolt",
+        "revelation",
+        "shock",
+        "stun",
+        "surprise",
+        "wha!?"
+      ],
+      "refer": "",
+      "meaning": "a sudden shock of realization or surprise",
+      "type": "e",
+      "example": [{
+        "file": "gan-2a",
+        "contributor": "",
+        "display": "ガンッ",
+        "source": "yojo_life"
+      }]
+    }
+  ],
+  "id": "gan"
+}

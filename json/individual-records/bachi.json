@@ -1,0 +1,52 @@
+{
+  "hiragana": [
+    "ばち",
+    "ばちっ"
+  ],
+  "romaji": ["bachi"],
+  "katakana": [
+    "バチ",
+    "バチッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "buzz",
+        "bzz",
+        "crack",
+        "crackle",
+        "jolt",
+        "snap",
+        "spark",
+        "zap"
+      ],
+      "refer": "",
+      "meaning": "a sharp snap, crackle, or spark of an electrical discharge",
+      "type": "o",
+      "example": [{
+        "file": "bachi-1a",
+        "contributor": "",
+        "display": "バチ",
+        "source": "blazing_fire_brigade"
+      }]
+    },
+    {
+      "equivalent": [
+        "eye-contact",
+        "flinch",
+        "gaze",
+        "jolt"
+      ],
+      "refer": "",
+      "meaning": "sharp, charged eye contact",
+      "type": "e",
+      "example": [{
+        "file": "bachi-2a",
+        "contributor": "",
+        "display": "ばちっ",
+        "source": "embarrassing_and_sweet"
+      }]
+    }
+  ],
+  "id": "bachi"
+}

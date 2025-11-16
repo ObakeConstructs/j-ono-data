@@ -1,0 +1,24 @@
+{
+  "hiragana": ["じゃじゃ"],
+  "romaji": ["ja ja"],
+  "katakana": ["ジャジャ"],
+  "definition": [{
+    "equivalent": [
+      "buzz",
+      "crackle",
+      "distortion",
+      "fizz",
+      "static"
+    ],
+    "refer": "",
+    "meaning": "electronic distortion or static",
+    "type": "o",
+    "example": [{
+      "file": "ja_ja-1a",
+      "contributor": "",
+      "display": "ジャ ジャ ジャ ジャ ジャ ジャ",
+      "source": "rock_n_roll_ladies"
+    }]
+  }],
+  "id": "ja_ja"
+}

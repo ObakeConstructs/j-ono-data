@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "りんごんりんごん",
+    "りんごーんりんごーん"
+  ],
+  "romaji": ["ringon ringon"],
+  "katakana": [
+    "リンゴンリンゴン",
+    "リンゴーンリンゴーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bong",
+      "clang",
+      "dong",
+      "gong",
+      "knell",
+      "peal",
+      "ring",
+      "toll"
+    ],
+    "refer": "",
+    "meaning": "loud resonant bell or gong sounds",
+    "type": "o",
+    "example": [{
+      "file": "ringon_ringon-1a",
+      "contributor": "",
+      "display": "リンゴーン リンゴーン",
+      "source": "spy_x_family"
+    }]
+  }],
+  "id": "ringon_ringon"
+}

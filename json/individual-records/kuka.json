@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "くか",
+    "くかー"
+  ],
+  "romaji": ["kuka"],
+  "katakana": [
+    "クカ",
+    "クカー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "asleep",
+      "breath",
+      "drowsy",
+      "khaa",
+      "sleep",
+      "slumber",
+      "zzz"
+    ],
+    "refer": "",
+    "meaning": "snoring or heavy breathing while asleep",
+    "type": "v",
+    "example": [{
+      "file": "kuka-1a",
+      "contributor": "",
+      "display": "くかー",
+      "source": "35_year_olds_choice"
+    }]
+  }],
+  "id": "kuka"
+}

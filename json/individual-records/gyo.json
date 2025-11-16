@@ -1,0 +1,46 @@
+{
+  "hiragana": [
+    "ぎょ",
+    "ぎょっ"
+  ],
+  "romaji": ["gyo"],
+  "katakana": [
+    "ギョ",
+    "ギョッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aghast",
+      "appalled",
+      "astounded",
+      "flabbergasted",
+      "shocked",
+      "stunned",
+      "surprised"
+    ],
+    "refer": "",
+    "meaning": "a sudden reaction of shock or surprise",
+    "type": "e",
+    "example": [
+      {
+        "file": "gyo-1a",
+        "contributor": "",
+        "display": "ぎょっ",
+        "source": "isekai_av_filming"
+      },
+      {
+        "file": "gyo-1b",
+        "contributor": "",
+        "display": "ぎょっ",
+        "source": "uncle_at_heart"
+      },
+      {
+        "file": "gyo-1c",
+        "contributor": "",
+        "display": "ギョッ",
+        "source": "mushoku_tensei"
+      }
+    ]
+  }],
+  "id": "gyo"
+}

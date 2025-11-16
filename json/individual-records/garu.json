@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "がる",
+    "がるる",
+    "がるるる"
+  ],
+  "romaji": ["garu"],
+  "katakana": [
+    "ガル",
+    "ガルル",
+    "ガルルル"
+  ],
+  "definition": [{
+    "equivalent": [
+      "growl",
+      "grumble",
+      "rumble",
+      "snarl"
+    ],
+    "refer": "",
+    "meaning": "the sound of a low, guttural growl",
+    "type": "o",
+    "example": [
+      {
+        "file": "garu-1a",
+        "contributor": "",
+        "display": "ガルル",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "garu-1b",
+        "contributor": "",
+        "display": "がるるる",
+        "source": "my_s-ranked_daughter"
+      },
+      {
+        "file": "garu-1c",
+        "contributor": "",
+        "display": "ガルル",
+        "source": "35_year_olds_choice"
+      }
+    ]
+  }],
+  "id": "garu"
+}

@@ -1,0 +1,24 @@
+{
+  "hiragana": ["べろん"],
+  "romaji": ["beron"],
+  "katakana": ["ベロン"],
+  "definition": [{
+    "equivalent": [
+      "lap",
+      "lick",
+      "shlurp",
+      "slosh",
+      "slurp"
+    ],
+    "refer": "",
+    "meaning": "an exaggerated lick or a tongue hanging loosely",
+    "type": "m",
+    "example": [{
+      "file": "beron-1a",
+      "contributor": "",
+      "display": "ベロン",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "id": "beron"
+}

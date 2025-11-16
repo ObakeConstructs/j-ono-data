@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "のり",
+    "のりっ"
+  ],
+  "romaji": ["nori"],
+  "katakana": [
+    "ノリ",
+    "ノリッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "climb on",
+      "hop on",
+      "mount"
+    ],
+    "refer": "",
+    "meaning": "a quick or light climb or hop onto something",
+    "type": "m",
+    "example": [{
+      "file": "nori-1a",
+      "contributor": "",
+      "display": "のりっ",
+      "source": "isekai_av_filming"
+    }]
+  }],
+  "id": "nori"
+}

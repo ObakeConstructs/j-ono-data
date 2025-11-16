@@ -1,0 +1,52 @@
+{
+  "hiragana": [
+    "がた",
+    "がたっ",
+    "がたゃ"
+  ],
+  "romaji": ["gata"],
+  "katakana": [
+    "ガタ",
+    "ガタッ",
+    "ガタャ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clatter",
+      "click",
+      "clunk",
+      "creak",
+      "rattle"
+    ],
+    "refer": "",
+    "meaning": "rattling or clattering, commonly used to indicate standing up from a chair",
+    "type": "o",
+    "example": [
+      {
+        "file": "gata-1a",
+        "contributor": "",
+        "display": "ガタ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "gata-1b",
+        "contributor": "",
+        "display": "ガタ",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "gata-1c",
+        "contributor": "",
+        "display": "ガタッ",
+        "source": "hikaro_no_go"
+      },
+      {
+        "file": "gata-1d",
+        "contributor": "",
+        "display": "ガタッ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "id": "gata"
+}

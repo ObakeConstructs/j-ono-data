@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "ぽわん",
+    "ぽゎあん"
+  ],
+  "romaji": ["powan"],
+  "katakana": [
+    "ポワン",
+    "ポヮアン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dazed",
+      "ditsy",
+      "dizzy",
+      "dreamy",
+      "flighty",
+      "fuzzy",
+      "giddy",
+      "inane",
+      "pleasant"
+    ],
+    "refer": "",
+    "meaning": "softly dreamy, dazed, of fuzzy state",
+    "type": "s",
+    "example": [{
+      "file": "powan-1a",
+      "contributor": "",
+      "display": "ぽゎあん\u2026",
+      "source": "paradise_shift"
+    }]
+  }],
+  "id": "powan"
+}

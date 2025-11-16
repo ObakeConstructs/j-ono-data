@@ -1,0 +1,38 @@
+{
+  "hiragana": ["もぐもぐ"],
+  "romaji": ["mogu mogu"],
+  "katakana": ["モグモグ"],
+  "definition": [{
+    "equivalent": [
+      "chew",
+      "eat",
+      "munch",
+      "nom",
+      "snarf"
+    ],
+    "refer": "",
+    "meaning": "munching or chewing in a small, contented, or cute manner",
+    "type": "s",
+    "example": [
+      {
+        "file": "mogu_mogu-1a",
+        "contributor": "",
+        "display": "モグ モグ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "mogu_mogu-1b",
+        "contributor": "",
+        "display": "もぐ もぐ",
+        "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "mogu_mogu-1c",
+        "contributor": "",
+        "display": "もぐ もぐ もぐ もぐ",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "id": "mogu_mogu"
+}

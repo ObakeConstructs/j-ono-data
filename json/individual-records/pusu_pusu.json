@@ -1,0 +1,25 @@
+{
+  "hiragana": ["ぷすぷす"],
+  "romaji": ["pusu pusu"],
+  "katakana": ["プスプス"],
+  "definition": [{
+    "equivalent": [
+      "char",
+      "fume",
+      "puff",
+      "simmer",
+      "smoke",
+      "smolder"
+    ],
+    "refer": "",
+    "meaning": "weak smoldering with puffs of smoke",
+    "type": "o",
+    "example": [{
+      "file": "pusu_pusu-1a",
+      "contributor": "",
+      "display": "プス プス",
+      "source": "hello_work"
+    }]
+  }],
+  "id": "pusu_pusu"
+}

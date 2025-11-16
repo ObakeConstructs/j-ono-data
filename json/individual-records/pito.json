@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "ぴと",
+    "ぴとっ"
+  ],
+  "romaji": ["pito"],
+  "katakana": [
+    "ピト",
+    "ピトッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "brush",
+      "caress",
+      "contact",
+      "feel",
+      "touch"
+    ],
+    "refer": "",
+    "meaning": "a soft, gentle touch or contact",
+    "type": "m",
+    "example": [
+      {
+        "file": "pito-1a",
+        "contributor": "",
+        "display": "ぴと",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "pito-1b",
+        "contributor": "",
+        "display": "ピトッ",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "pito-1c",
+        "contributor": "",
+        "display": "ピトッ",
+        "source": "gyaru_academy"
+      }
+    ]
+  }],
+  "id": "pito"
+}

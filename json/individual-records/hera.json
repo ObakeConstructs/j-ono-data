@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "へら",
+    "へらっ"
+  ],
+  "romaji": ["hera"],
+  "katakana": [
+    "ヘラ",
+    "ヘラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "awkward",
+      "grin",
+      "heh",
+      "smile",
+      "uncomfortable",
+      "uneasy"
+    ],
+    "refer": "",
+    "meaning": "grinning foolishly or awkwardly",
+    "type": "s",
+    "example": [{
+      "file": "hera-1a",
+      "contributor": "",
+      "display": "ヘラッ",
+      "source": "double_play"
+    }]
+  }],
+  "id": "hera"
+}

@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ざりざり",
+    "ざりざりざり"
+  ],
+  "romaji": ["zari zari"],
+  "katakana": [
+    "ザリザリ",
+    "ザリザリザリ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clash",
+      "grind",
+      "rasp",
+      "scrape"
+    ],
+    "refer": "",
+    "meaning": "harsh scraping or grinding, often gritty",
+    "type": "o",
+    "example": [{
+      "file": "zari_zari-1a",
+      "contributor": "",
+      "display": "ザリ ザリ ザリ",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "id": "zari_zari"
+}

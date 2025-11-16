@@ -1,0 +1,41 @@
+{
+  "hiragana": ["ぺたぺた"],
+  "romaji": ["peta peta"],
+  "katakana": ["ペタペタ"],
+  "definition": [
+    {
+      "equivalent": [
+        "bap",
+        "pat",
+        "poke",
+        "press",
+        "squeeze"
+      ],
+      "refer": "",
+      "meaning": "repeatedly pressing or patting",
+      "type": "m",
+      "example": [{
+        "file": "peta_peta-1a",
+        "contributor": "",
+        "display": "ぺた ぺた",
+        "source": "reincarnated_aristocrat"
+      }]
+    },
+    {
+      "equivalent": [
+        "pit-a-pat",
+        "pitter-patter"
+      ],
+      "refer": "peta:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "peta_peta-2a",
+        "contributor": "",
+        "display": "ペタペタ",
+        "source": "rock_n_roll_ladies"
+      }]
+    }
+  ],
+  "id": "peta_peta"
+}

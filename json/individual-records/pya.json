@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "ぴゃ",
+    "ぴゃっ",
+    "ぴゃーっ"
+  ],
+  "romaji": ["pya"],
+  "katakana": [
+    "ピャ",
+    "ピャッ",
+    "ピャーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dart",
+      "flick",
+      "jump",
+      "reaction",
+      "snap",
+      "spring",
+      "step",
+      "swipe",
+      "whip"
+    ],
+    "refer": "",
+    "meaning": "a quick, sharp or startled motion",
+    "type": "m",
+    "example": [
+      {
+        "file": "pya-1a",
+        "contributor": "",
+        "display": "ピャーッ",
+        "source": "reincarnated_as_a_dragon_egg"
+      },
+      {
+        "file": "pya-1b",
+        "contributor": "boson",
+        "display": "ピャッ",
+        "source": "ramparts_of_ice"
+      }
+    ]
+  }],
+  "id": "pya"
+}

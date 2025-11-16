@@ -1,0 +1,56 @@
+{
+  "hiragana": ["ぽろ"],
+  "romaji": ["poro"],
+  "katakana": ["ポロ"],
+  "definition": [
+    {
+      "equivalent": [
+        "drop",
+        "fall",
+        "plop",
+        "plunk",
+        "slip",
+        "topple"
+      ],
+      "refer": "",
+      "meaning": "something dropping or falling, typically small or light",
+      "type": "m",
+      "example": [
+        {
+          "file": "poro-1a",
+          "contributor": "",
+          "display": "ポロ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "poro-1b",
+          "contributor": "",
+          "display": "ポロ\u2026",
+          "source": "uncle_at_heart"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bawl",
+        "blub",
+        "cry",
+        "dribble",
+        "drip",
+        "drop",
+        "tears",
+        "weep"
+      ],
+      "refer": "",
+      "meaning": "shedding tears from strong emotions",
+      "type": "e",
+      "example": [{
+        "file": "poro-2a",
+        "contributor": "",
+        "display": "ポロ",
+        "source": "requiem_for_prophet"
+      }]
+    }
+  ],
+  "id": "poro"
+}

@@ -1,0 +1,18 @@
+{
+  "hiragana": ["ぷちぷち"],
+  "romaji": ["puchi puchi"],
+  "katakana": ["プチプチ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pu:2",
+    "meaning": "s",
+    "type": "",
+    "example": [{
+      "file": "puchi_puchi-1a",
+      "contributor": "",
+      "display": "ぷち ぷち ぷち",
+      "source": "fushi_no_kami"
+    }]
+  }],
+  "id": "puchi_puchi"
+}

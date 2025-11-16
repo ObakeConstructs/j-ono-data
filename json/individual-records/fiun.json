@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ふぃうん",
+    "ふぃうーん"
+  ],
+  "romaji": ["fiun"],
+  "katakana": [
+    "フィウン",
+    "フィウーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fwoom",
+      "swing",
+      "swoosh",
+      "throw",
+      "whiff",
+      "whoosh",
+      "zip"
+    ],
+    "refer": "",
+    "meaning": "wooshing or whistling sound, as of something moving quickly through the air",
+    "type": "o",
+    "example": [{
+      "file": "fiun-1a",
+      "contributor": "",
+      "display": "フィウーン",
+      "source": "strongest_magician_was_human"
+    }]
+  }],
+  "id": "fiun"
+}

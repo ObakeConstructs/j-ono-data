@@ -1,0 +1,43 @@
+{
+  "hiragana": [
+    "すん",
+    "すんっ"
+  ],
+  "romaji": ["sun"],
+  "katakana": [
+    "スン",
+    "スンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blank",
+      "calm",
+      "cold",
+      "composed",
+      "cool",
+      "distant",
+      "expressionless",
+      "ignore",
+      "silent",
+      "smooth"
+    ],
+    "refer": "",
+    "meaning": "a blank or unresponsive demeanor",
+    "type": "e",
+    "example": [
+      {
+        "file": "sun-1a",
+        "contributor": "",
+        "display": "すんっ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "sun-1b",
+        "contributor": "",
+        "display": "スン\u2026",
+        "source": "yojo_life"
+      }
+    ]
+  }],
+  "id": "sun"
+}

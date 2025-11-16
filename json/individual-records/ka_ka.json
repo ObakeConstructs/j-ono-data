@@ -1,0 +1,34 @@
+{
+  "hiragana": [
+    "かか",
+    "かっかっ",
+    "かつかつ"
+  ],
+  "romaji": ["ka ka"],
+  "katakana": [
+    "カカ",
+    "カッカッ",
+    "カツカツ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ka:3",
+    "meaning": "s",
+    "type": "",
+    "example": [
+      {
+        "file": "ka_ka-1a",
+        "contributor": "",
+        "display": "カツ カツ",
+        "source": "shogun_gold_in_america"
+      },
+      {
+        "file": "ka_ka-1b",
+        "contributor": "",
+        "display": "カッ カッ カッ",
+        "source": "way_of_the_house_husband"
+      }
+    ]
+  }],
+  "id": "ka_ka"
+}

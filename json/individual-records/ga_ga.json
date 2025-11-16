@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    "がが",
+    "がっがっ",
+    "がつがつ"
+  ],
+  "romaji": ["ga ga"],
+  "katakana": [
+    "ガガ",
+    "ガッガッ",
+    "ガツガツ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "catch",
+        "clutch",
+        "glom",
+        "grab",
+        "grasp",
+        "nab",
+        "seize",
+        "snag",
+        "snatch"
+      ],
+      "refer": "",
+      "meaning": "eating noisily or voraciously, often forceful or exaggerated ",
+      "type": "o",
+      "example": [{
+        "file": "ga_ga-1a",
+        "contributor": "",
+        "display": "ガッ ガッ",
+        "source": "rise_of_the_outlaw_tamer"
+      }]
+    },
+    {
+      "equivalent": [""],
+      "refer": "ga:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "ga_ga-2a",
+        "contributor": "",
+        "display": "ガツガツ",
+        "source": "reincarnated_sage_daughters"
+      }]
+    }
+  ],
+  "id": "ga_ga"
+}

@@ -1,0 +1,18 @@
+{
+  "hiragana": ["もきゅもきゅ"],
+  "romaji": ["mokyu mokyu"],
+  "katakana": ["モキュモキュ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "mogu_mogu:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "mokyu_mokyu-1a",
+      "contributor": "",
+      "display": "もきゅ もきゅ",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "id": "mokyu_mokyu"
+}

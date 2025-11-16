@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "すてん",
+    "すてーん"
+  ],
+  "romaji": ["suten"],
+  "katakana": [
+    "ステン",
+    "ステーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "sutan:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "suten-1a",
+      "contributor": "",
+      "display": "すてーん",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "id": "suten"
+}

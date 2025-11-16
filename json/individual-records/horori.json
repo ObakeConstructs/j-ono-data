@@ -1,0 +1,25 @@
+{
+  "hiragana": ["ほろり"],
+  "romaji": ["horori"],
+  "katakana": ["ホロリ"],
+  "definition": [{
+    "equivalent": [
+      "affected",
+      "heart-warming",
+      "kama muta",
+      "moved",
+      "stirred",
+      "touched"
+    ],
+    "refer": "",
+    "meaning": "emotionally moved or touched, often expressed by a single tear",
+    "type": "e",
+    "example": [{
+      "file": "horori-1a",
+      "contributor": "",
+      "display": "ホロリ",
+      "source": "mushoku_tensei"
+    }]
+  }],
+  "id": "horori"
+}

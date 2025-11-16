@@ -1,0 +1,27 @@
+{
+  "hiragana": ["ぴゅん"],
+  "romaji": ["pyun"],
+  "katakana": ["ピュン"],
+  "definition": [{
+    "equivalent": [
+      "dart",
+      "flit",
+      "fwip",
+      "fwit",
+      "pyu",
+      "whish",
+      "whiz",
+      "zip"
+    ],
+    "refer": "",
+    "meaning": "a light, swift, and straight-line motion",
+    "type": "m",
+    "example": [{
+      "file": "pyun-1a",
+      "contributor": "",
+      "display": "ピュン!",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "id": "pyun"
+}

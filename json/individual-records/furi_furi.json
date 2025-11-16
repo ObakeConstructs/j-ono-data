@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "ふりふり",
+    "ふりふりっ"
+  ],
+  "romaji": ["furi furi"],
+  "katakana": [
+    "フリフリ",
+    "フリフリッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "bun_bun:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "furi_furi-1a",
+        "contributor": "",
+        "display": "ふり ふりっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "furi_furi-1b",
+        "contributor": "",
+        "display": "フリ フリ",
+        "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "furi_furi-1c",
+        "contributor": "",
+        "display": "フリ フリ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "id": "furi_furi"
+}

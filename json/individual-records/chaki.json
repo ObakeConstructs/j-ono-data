@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "ちゃき",
+    "ちゃきっ"
+  ],
+  "romaji": ["chaki"],
+  "katakana": [
+    "チャキ",
+    "チャキッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "chack",
+      "click",
+      "ka-chik",
+      "ker-chack",
+      "snap"
+    ],
+    "refer": "",
+    "meaning": "short, sharp, metallic click or snap",
+    "type": "o",
+    "example": [
+      {
+        "file": "chaki-1a",
+        "contributor": "",
+        "display": "チャキッ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "chaki-1b",
+        "contributor": "",
+        "display": "チャキ",
+        "source": "reincarnated_sage_daughters"
+      }
+    ]
+  }],
+  "id": "chaki"
+}

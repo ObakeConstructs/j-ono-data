@@ -1,0 +1,22 @@
+{
+  "hiragana": ["ひっく"],
+  "romaji": ["hikku"],
+  "katakana": ["ヒック"],
+  "definition": [{
+    "equivalent": [
+      "drunk",
+      "hiccup",
+      "hick"
+    ],
+    "refer": "",
+    "meaning": "a hiccup, often used to indicate drunkenness",
+    "type": "v",
+    "example": [{
+      "file": "hikku-1a",
+      "contributor": "",
+      "display": "ひっく",
+      "source": "spy_x_family"
+    }]
+  }],
+  "id": "hikku"
+}

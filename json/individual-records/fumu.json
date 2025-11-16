@@ -1,0 +1,39 @@
+{
+  "hiragana": [
+    "ふむ",
+    "ふむふむ"
+  ],
+  "romaji": [
+    "fumu",
+    "fumu fumu"
+  ],
+  "katakana": [
+    "フム",
+    "フムフム"
+  ],
+  "definition": [{
+    "equivalent": [
+      "hmm",
+      "uh-huh",
+      "umm"
+    ],
+    "refer": "",
+    "meaning": "an expression of thoughtful contemplation",
+    "type": "v",
+    "example": [
+      {
+        "file": "fumu-1a",
+        "contributor": "",
+        "display": "ふむ",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "fumu-1b",
+        "contributor": "",
+        "display": "ふむ ふむ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "id": "fumu"
+}

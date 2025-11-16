@@ -1,0 +1,36 @@
+{
+  "hiragana": ["ひそひそ"],
+  "romaji": ["hiso hiso"],
+  "katakana": ["ヒソヒソ"],
+  "definition": [{
+    "equivalent": [
+      "softly",
+      "sotto voce",
+      "whisper"
+    ],
+    "refer": "",
+    "meaning": "whispering or speaking quietly, often furtively",
+    "type": "v",
+    "example": [
+      {
+        "file": "hiso_hiso-1a",
+        "contributor": "",
+        "display": "ヒソ ヒソ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "hiso_hiso-1b",
+        "contributor": "",
+        "display": "ひそ ひそ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "hiso_hiso-1c",
+        "contributor": "",
+        "display": "ヒソ ヒソ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "id": "hiso_hiso"
+}

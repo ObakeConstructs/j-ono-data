@@ -1,0 +1,73 @@
+{
+  "hiragana": [
+    "ばさ",
+    "ばさっ",
+    "ばさぁ",
+    "ばさあ"
+  ],
+  "romaji": ["basa"],
+  "katakana": [
+    "バサ",
+    "バサッ",
+    "バサァ",
+    "バサア"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "crinkle",
+        "flap",
+        "rustle",
+        "swish"
+      ],
+      "refer": "",
+      "meaning": "a rustling or flapping sound",
+      "type": "o",
+      "example": [
+        {
+          "file": "basa-1a",
+          "contributor": "",
+          "display": "バサ",
+          "source": "hello_work"
+        },
+        {
+          "file": "basa-1b",
+          "contributor": "",
+          "display": "バサ",
+          "source": "weakest_occupation_blacksmith"
+        },
+        {
+          "file": "basa-1c",
+          "contributor": "",
+          "display": "ばさッ",
+          "source": "modern_dungeon_capture"
+        },
+        {
+          "file": "basa-1d",
+          "contributor": "",
+          "display": "バサッ",
+          "source": "neet_kunoichi"
+        },
+        {
+          "file": "basa-1e",
+          "contributor": "",
+          "display": "バサ",
+          "source": "hero_or_demon_king"
+        }
+      ]
+    },
+    {
+      "equivalent": [""],
+      "refer": "ban:2",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "basa-2a",
+        "contributor": "",
+        "display": "バサァ",
+        "source": "different_world_smartphone"
+      }]
+    }
+  ],
+  "id": "basa"
+}

@@ -1,0 +1,24 @@
+{
+  "hiragana": ["ぴこぴこ"],
+  "romaji": ["piko piko"],
+  "katakana": ["ピコピコ"],
+  "definition": [{
+    "equivalent": [
+      "ba-ding",
+      "beep",
+      "bing",
+      "ding",
+      "ping"
+    ],
+    "refer": "pikon:1",
+    "meaning": "s",
+    "type": "",
+    "example": [{
+      "file": "piko_piko-1a",
+      "contributor": "",
+      "display": "ピコ ピコ ピコ",
+      "source": "neet_kunoichi"
+    }]
+  }],
+  "id": "piko_piko"
+}

@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "うげ",
+    "うげえ",
+    "うげええ"
+  ],
+  "romaji": ["uge"],
+  "katakana": [
+    "ウゲ",
+    "ウゲエ",
+    "ウゲエエ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "choke",
+      "gag",
+      "heave",
+      "retch"
+    ],
+    "refer": "",
+    "meaning": "gagging or retching",
+    "type": "o",
+    "example": [{
+      "file": "uge-1a",
+      "contributor": "",
+      "display": "うげええ",
+      "source": "mushoku_tensei"
+    }]
+  }],
+  "id": "uge"
+}

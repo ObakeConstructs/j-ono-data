@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ぬり",
+    "ぬりっ"
+  ],
+  "romaji": ["nuri"],
+  "katakana": [
+    "ヌリ",
+    "ヌリッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "apply",
+      "coat",
+      "daub",
+      "paint",
+      "plaster",
+      "smear",
+      "smudge"
+    ],
+    "refer": "",
+    "meaning": "something sticky or oily being spread or smeared",
+    "type": "s",
+    "example": [{
+      "file": "nuri-1a",
+      "contributor": "",
+      "display": "ヌリッ\u2026..",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "id": "nuri"
+}

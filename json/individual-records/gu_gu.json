@@ -1,0 +1,48 @@
+{
+  "hiragana": [
+    "ぐぐ",
+    "ぐっぐっ",
+    "ぐぐっ",
+    "ぐぐぐ"
+  ],
+  "romaji": ["gu gu"],
+  "katakana": [
+    "ググ",
+    "グッグッ",
+    "ググッ",
+    "グググ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gu:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "gu_gu-1a",
+        "contributor": "",
+        "display": "ぐぐっ..",
+        "source": "isekai_pickup"
+      },
+      {
+        "file": "gu_gu-1b",
+        "contributor": "",
+        "display": "ぐぐぐ",
+        "source": "yojo_life"
+      },
+      {
+        "file": "gu_gu-1c",
+        "contributor": "",
+        "display": "グッ グッ",
+        "source": "shogun_gold_in_america"
+      },
+      {
+        "file": "gu_gu-1d",
+        "contributor": "",
+        "display": "グググ\u2026 ググ\u2026",
+        "source": "only_sweet_when_alone"
+      }
+    ]
+  }],
+  "id": "gu_gu"
+}

@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "しゅしゅ",
+    "しゅしゅっ",
+    "しゅしゅしゅ",
+    "しゅしゅしゅっ"
+  ],
+  "romaji": ["shu shu"],
+  "katakana": [
+    "シュシュ",
+    "シュシュッ",
+    "シュシュシュ",
+    "シュシュシュッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "shu:2",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "shu_shu-1a",
+      "contributor": "",
+      "display": "しゅ しゅ しゅ",
+      "source": "yojo_life"
+    }]
+  }],
+  "id": "shu_shu"
+}

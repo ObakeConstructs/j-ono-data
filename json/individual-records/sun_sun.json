@@ -1,0 +1,45 @@
+{
+  "hiragana": ["すんすん"],
+  "romaji": ["sun sun"],
+  "katakana": ["スンスン"],
+  "definition": [{
+    "equivalent": [
+      "scent",
+      "smell",
+      "sniff",
+      "snuff",
+      "snuffle",
+      "whiff"
+    ],
+    "refer": "",
+    "meaning": "short, quick snuffing or sniffing sounds",
+    "type": "o",
+    "example": [
+      {
+        "file": "sun_sun-1a",
+        "contributor": "",
+        "display": "スン スン",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "sun_sun-1b",
+        "contributor": "",
+        "display": "スン スン",
+        "source": "dog_became_strongest"
+      },
+      {
+        "file": "sun_sun-1c",
+        "contributor": "",
+        "display": "スン スン",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "sun_sun-1d",
+        "contributor": "",
+        "display": "すん すん",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "id": "sun_sun"
+}

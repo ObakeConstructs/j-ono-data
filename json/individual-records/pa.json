@@ -1,0 +1,106 @@
+{
+  "hiragana": [
+    "ぱ",
+    "ぱっ",
+    "ぱあ",
+    "ぱあっ",
+    "ぱぁ",
+    "ぱぁっ",
+    "ぱああ"
+  ],
+  "romaji": ["pa"],
+  "katakana": [
+    "パ",
+    "パッ",
+    "パア",
+    "パアッ",
+    "パァ",
+    "パァッ",
+    "パアア"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bright",
+        "brighten",
+        "flash",
+        "glow",
+        "light",
+        "light up",
+        "shine",
+        "sparkle"
+      ],
+      "refer": "",
+      "meaning": "suddenly shining or glowing",
+      "type": "s",
+      "example": [
+        {
+          "file": "pa-1a",
+          "contributor": "",
+          "display": "パアア",
+          "source": "d_genesis"
+        },
+        {
+          "file": "pa-1b",
+          "contributor": "",
+          "display": "パァッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "pa-1c",
+          "contributor": "",
+          "display": "パァァ ァァ",
+          "source": "buy_the_land"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "brighten",
+        "cheer up",
+        "gladden",
+        "glow",
+        "hearten",
+        "light up",
+        "lighten",
+        "perk up",
+        "shine"
+      ],
+      "refer": "",
+      "meaning": "suddenly expressing happiness or excitement",
+      "type": "s",
+      "example": [{
+        "file": "pa-2a",
+        "contributor": "",
+        "display": "パアア",
+        "source": "reincarnated_farm_girl"
+      }]
+    },
+    {
+      "equivalent": [
+        "biff",
+        "bonk",
+        "clap",
+        "clip",
+        "pat",
+        "rap",
+        "scuff",
+        "slap",
+        "stroke",
+        "swat",
+        "swipe",
+        "thump"
+      ],
+      "refer": "",
+      "meaning": "small or light impact",
+      "type": "o",
+      "example": [{
+        "file": "pa-3a",
+        "contributor": "",
+        "display": "パッ",
+        "source": "minimum_wage_demon_king"
+      }]
+    }
+  ],
+  "id": "pa"
+}

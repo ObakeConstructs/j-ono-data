@@ -1,0 +1,36 @@
+{
+  "hiragana": [
+    "ずお",
+    "ずおお",
+    "ずぉ",
+    "ずぉぉ"
+  ],
+  "romaji": ["zuo"],
+  "katakana": [
+    "ズオ",
+    "ズオオ",
+    "ズォ",
+    "ズォォ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fierce",
+      "intense",
+      "intimidate",
+      "menace",
+      "pressure",
+      "surge",
+      "threat"
+    ],
+    "refer": "",
+    "meaning": "a surge of intimidating presence or aura",
+    "type": "e",
+    "example": [{
+      "file": "zuo-1a",
+      "contributor": "",
+      "display": "ズオオ",
+      "source": "killed_by_gods_mistake"
+    }]
+  }],
+  "id": "zuo"
+}

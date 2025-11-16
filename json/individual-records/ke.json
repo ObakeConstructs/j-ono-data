@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "け",
+    "けっ"
+  ],
+  "romaji": ["ke"],
+  "katakana": [
+    "ケ",
+    "ケッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "heh",
+      "hmph",
+      "scoff",
+      "snort",
+      "tch",
+      "tsk"
+    ],
+    "refer": "",
+    "meaning": "short, disdainful snort or scoff",
+    "type": "e",
+    "example": [{
+      "file": "ke-1a",
+      "contributor": "",
+      "display": "ケッ",
+      "source": "fushi_no_kami"
+    }]
+  }],
+  "id": "ke"
+}

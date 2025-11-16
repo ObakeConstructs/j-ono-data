@@ -1,0 +1,50 @@
+{
+  "hiragana": [
+    "ふわ",
+    "ふわっ"
+  ],
+  "romaji": ["fuwa"],
+  "katakana": [
+    "フワ",
+    "フワッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "drift",
+      "float",
+      "hover",
+      "lift",
+      "sway"
+    ],
+    "refer": "",
+    "meaning": "moving or floating gently, softly, or delicately",
+    "type": "m",
+    "example": [
+      {
+        "file": "fuwa-1a",
+        "contributor": "",
+        "display": "ふわっ",
+        "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "fuwa-1b",
+        "contributor": "",
+        "display": "フワッ",
+        "source": "simple_sword_saint"
+      },
+      {
+        "file": "fuwa-1c",
+        "contributor": "",
+        "display": "フワッ",
+        "source": "lord_of_the_hundred_demons"
+      },
+      {
+        "file": "fuwa-1d",
+        "contributor": "",
+        "display": "ふわっ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "id": "fuwa"
+}

@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ぴんぽん",
+    "ぴんぽーん"
+  ],
+  "romaji": ["pin pon"],
+  "katakana": [
+    "ピンポン",
+    "ピンポーン"
+  ],
+  "definition": [{
+    "equivalent": ["ding-dong"],
+    "refer": "",
+    "meaning": "the sound of a doorbell",
+    "type": "o",
+    "example": [
+      {
+        "file": "pin_pon-1a",
+        "contributor": "",
+        "display": "ピン ポーン",
+        "source": "d_genesis"
+      },
+      {
+        "file": "pin_pon-1b",
+        "contributor": "",
+        "display": "ピン ポーン",
+        "source": "way_of_the_house_husband"
+      }
+    ]
+  }],
+  "id": "pin_pon"
+}

@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ばが",
+    "ばがっ"
+  ],
+  "romaji": ["baga"],
+  "katakana": [
+    "バガ",
+    "バガッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "crash",
+      "crush",
+      "impact",
+      "shatter",
+      "smash"
+    ],
+    "refer": "",
+    "meaning": "a heavy impact or crash",
+    "type": "o",
+    "example": [{
+      "file": "baga-1a",
+      "contributor": "",
+      "display": "バガッ..",
+      "source": "spy_x_family"
+    }]
+  }],
+  "id": "baga"
+}

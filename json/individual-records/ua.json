@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "うあ",
+    "うああ",
+    "うあああ",
+    "うぁ",
+    "うぁぁ",
+    "うぁぁぁ"
+  ],
+  "romaji": ["ua"],
+  "katakana": [
+    "ウア",
+    "ウアア",
+    "ウアアア",
+    "ウァ",
+    "ウァァ",
+    "ウァァァ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "u:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "ua-1a",
+      "contributor": "",
+      "display": "うぁぁぁ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "id": "ua"
+}

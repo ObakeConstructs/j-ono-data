@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ざざん",
+    "ざざーん"
+  ],
+  "romaji": ["zazan"],
+  "katakana": [
+    "ザザン",
+    "ザザーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "za_za:3",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "zazan-1a",
+      "contributor": "",
+      "display": "ザザーン",
+      "source": "buy_the_land"
+    }]
+  }],
+  "id": "zazan"
+}

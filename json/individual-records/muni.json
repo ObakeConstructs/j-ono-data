@@ -1,0 +1,55 @@
+{
+  "hiragana": [
+    "むに",
+    "むにっ",
+    "むにー",
+    "むにむに"
+  ],
+  "romaji": [
+    "muni",
+    "muni muni"
+  ],
+  "katakana": [
+    "ムニ",
+    "ムニッ",
+    "ムニー",
+    "ムニムニ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "caress",
+      "feel",
+      "fondle",
+      "knead",
+      "pat",
+      "pet",
+      "squeeze",
+      "stroke",
+      "touch"
+    ],
+    "refer": "",
+    "meaning": "gentle pressing or squeezing of something soft",
+    "type": "s",
+    "example": [
+      {
+        "file": "muni-1a",
+        "contributor": "",
+        "display": "むにー",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "muni-1b",
+        "contributor": "",
+        "display": "むにっ",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "muni-1c",
+        "contributor": "",
+        "display": "むた むた むた むた むた",
+        "source": "isekai_territory_reform"
+      }
+    ]
+  }],
+  "id": "muni"
+}

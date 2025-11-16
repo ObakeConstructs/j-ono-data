@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "がは",
+    "がはっ",
+    "がはは",
+    "がははは"
+  ],
+  "romaji": ["gaha"],
+  "katakana": [
+    "ガハ",
+    "ガハッ",
+    "ガハハ",
+    "ガハハハ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ga ha",
+      "ha",
+      "laugh",
+      "laughter"
+    ],
+    "refer": "",
+    "meaning": "boisterous or loud laughter",
+    "type": "v",
+    "example": [{
+      "file": "gaha-1a",
+      "contributor": "",
+      "display": "がははは",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "id": "gaha"
+}

@@ -1,0 +1,23 @@
+{
+  "hiragana": ["たたんたたん"],
+  "romaji": ["tatan tatan"],
+  "katakana": ["タタンタタン"],
+  "definition": [{
+    "equivalent": [
+      "clack-clack",
+      "clatter",
+      "rattle",
+      "ta-ta"
+    ],
+    "refer": "",
+    "meaning": "rhythmic sound of a train moving along its tracks",
+    "type": "o",
+    "example": [{
+      "file": "tatan_tatan-1a",
+      "contributor": "",
+      "display": "タタン タタン",
+      "source": "spy_x_family"
+    }]
+  }],
+  "id": "tatan_tatan"
+}

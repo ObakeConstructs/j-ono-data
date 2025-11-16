@@ -1,0 +1,36 @@
+{
+  "hiragana": [
+    "いら",
+    "いらっ"
+  ],
+  "romaji": ["ira"],
+  "katakana": [
+    "イラ",
+    "イラッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "aggravated",
+      "annoyed",
+      "hmph",
+      "irked",
+      "irritated",
+      "narked",
+      "peeved",
+      "pissed",
+      "riled",
+      "unamused",
+      "vexed"
+    ],
+    "refer": "",
+    "meaning": "a brief, sharp feeling of annoyance or irritation",
+    "type": "e",
+    "example": [{
+      "file": "ira-1a",
+      "contributor": "",
+      "display": "イラッ",
+      "source": "hero_or_demon_king"
+    }]
+  }],
+  "id": "ira"
+}

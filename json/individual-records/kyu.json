@@ -1,0 +1,119 @@
+{
+  "hiragana": [
+    "きゅ",
+    "きゅっ",
+    "きゅう",
+    "きゅーっ"
+  ],
+  "romaji": ["kyu"],
+  "katakana": [
+    "キュ",
+    "キュッ",
+    "キュウ",
+    "キューッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "cradle",
+        "gently",
+        "grasp",
+        "hold"
+      ],
+      "refer": "",
+      "meaning": "squeezing lightly or gently",
+      "type": "m",
+      "example": [
+        {
+          "file": "kyu-1a",
+          "contributor": "",
+          "display": "きゅ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "kyu-1b",
+          "contributor": "",
+          "display": "きゅっ",
+          "source": "lord_of_the_hundred_demons"
+        },
+        {
+          "file": "kyu-1c",
+          "contributor": "",
+          "display": "きゅっ",
+          "source": "requiem_for_prophet"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bind",
+        "cinch",
+        "fasten",
+        "lash",
+        "pull",
+        "tie",
+        "tighten"
+      ],
+      "refer": "",
+      "meaning": "tying, fastening or pulling something tight",
+      "type": "m",
+      "example": [
+        {
+          "file": "kyu-2a",
+          "contributor": "",
+          "display": "きゅっ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "kyu-2b",
+          "contributor": "",
+          "display": "キュ",
+          "source": "blazing_fire_brigade"
+        },
+        {
+          "file": "kyu-2c",
+          "contributor": "",
+          "display": "キュッ♡",
+          "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "kyu-2d",
+          "contributor": "",
+          "display": "きゅっ",
+          "source": "sex_with_me_sells"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "screech",
+        "squeak",
+        "squeal"
+      ],
+      "refer": "",
+      "meaning": "shrill squeaking sound",
+      "type": "o",
+      "example": [
+        {
+          "file": "kyu-3a",
+          "contributor": "",
+          "display": "キュッ",
+          "source": "hikaro_no_go"
+        },
+        {
+          "file": "kyu-3b",
+          "contributor": "",
+          "display": "きゅーっ",
+          "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "kyu-3c",
+          "contributor": "",
+          "display": "キュ",
+          "source": "way_of_the_house_husband"
+        }
+      ]
+    }
+  ],
+  "id": "kyu"
+}

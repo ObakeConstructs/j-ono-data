@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "ずるる",
+    "ずるるる"
+  ],
+  "romaji": ["zururu"],
+  "katakana": [
+    "ズルル",
+    "ズルルル"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "blub",
+        "slurp",
+        "sniff",
+        "sniffle",
+        "snivel",
+        "suck"
+      ],
+      "refer": "",
+      "meaning": "long, wet slurp or sniff",
+      "type": "o",
+      "example": [{
+        "file": "zururu-1a",
+        "contributor": "",
+        "display": "ズルル",
+        "source": "requiem_for_prophet"
+      }]
+    },
+    {
+      "equivalent": [""],
+      "refer": "zuri_zuri:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "zururu-2a",
+        "contributor": "",
+        "display": "ズルル..",
+        "source": "paradise_shift"
+      }]
+    }
+  ],
+  "id": "zururu"
+}

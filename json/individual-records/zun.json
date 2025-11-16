@@ -1,0 +1,133 @@
+{
+  "hiragana": [
+    "ずん",
+    "ずーん",
+    "ずうーん",
+    "ずうん",
+    "ずううん",
+    "ずぅん",
+    "ずぅぅん",
+    "ずんっ"
+  ],
+  "romaji": ["zun"],
+  "katakana": [
+    "ズン",
+    "ズーン",
+    "ズウーン",
+    "ズウン",
+    "ズウウン",
+    "ズゥン",
+    "ズゥゥン",
+    "ズンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "dejected",
+        "depressed",
+        "doom",
+        "dread",
+        "dreary",
+        "gloom",
+        "glum",
+        "mope"
+      ],
+      "refer": "",
+      "meaning": "gloom or depression",
+      "type": "e",
+      "example": [
+        {
+          "file": "zun-1a",
+          "contributor": "",
+          "display": "ずぅぅん\u2026",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "zun-1b",
+          "contributor": "",
+          "display": "ずうーん",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "zun-1c",
+          "contributor": "",
+          "display": "ズゥゥゥン",
+          "source": "hero_or_demon_king"
+        },
+        {
+          "file": "zun-1d",
+          "contributor": "",
+          "display": "ズン",
+          "source": "mushoku_tensei"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bloodlust",
+        "furious",
+        "fury",
+        "incensed",
+        "intense",
+        "killing intent",
+        "livid",
+        "mad",
+        "menace",
+        "pressure",
+        "rage",
+        "steamed",
+        "tension"
+      ],
+      "refer": "",
+      "meaning": "rage, killing-intent, or bloodlust",
+      "type": "e",
+      "example": [{
+        "file": "zun-2a",
+        "contributor": "",
+        "display": "ズン",
+        "source": "my_s-ranked_daughter"
+      }]
+    },
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "crash",
+        "slam",
+        "thud",
+        "thump",
+        "wham",
+        "whomp"
+      ],
+      "refer": "",
+      "meaning": "hard crash or thud",
+      "type": "o",
+      "example": [{
+        "file": "zun-3a",
+        "contributor": "",
+        "display": "ズンッ",
+        "source": "killed_by_gods_mistake"
+      }]
+    },
+    {
+      "equivalent": [
+        "aura",
+        "intimidation",
+        "presence",
+        "pressure",
+        "stress",
+        "tension"
+      ],
+      "refer": "",
+      "meaning": "dramatic, atmospheric pressure",
+      "type": "s",
+      "example": [{
+        "file": "zun-4a",
+        "contributor": "",
+        "display": "ズー ーン",
+        "source": "only_sweet_when_alone"
+      }]
+    }
+  ],
+  "id": "zun"
+}

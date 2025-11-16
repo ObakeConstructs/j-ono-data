@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ちゃきん",
+    "ちゃきーん"
+  ],
+  "romaji": ["chakin"],
+  "katakana": [
+    "チャキン",
+    "チャキーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "cha:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "chakin-1a",
+      "contributor": "",
+      "display": "チャキン",
+      "source": "hello_work"
+    }]
+  }],
+  "id": "chakin"
+}

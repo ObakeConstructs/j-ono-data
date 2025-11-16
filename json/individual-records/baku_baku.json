@@ -1,0 +1,23 @@
+{
+  "hiragana": ["ばくばく"],
+  "romaji": ["baku baku"],
+  "katakana": ["バクバク"],
+  "definition": [{
+    "equivalent": [
+      "chomp",
+      "munch",
+      "nom",
+      "snarf"
+    ],
+    "refer": "",
+    "meaning": "eating wildly, expressing enthusiasm or hunger",
+    "type": "m",
+    "example": [{
+      "file": "baku_baku-1a",
+      "contributor": "",
+      "display": "バク バク",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "id": "baku_baku"
+}

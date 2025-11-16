@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ぎら",
+    "ぎらっ"
+  ],
+  "romaji": ["gira"],
+  "katakana": [
+    "ギラ",
+    "ギラッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gin:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gira-1a",
+      "contributor": "",
+      "display": "ギラッ",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "id": "gira"
+}

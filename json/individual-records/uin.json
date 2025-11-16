@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "うぃん",
+    "うぃーん"
+  ],
+  "romaji": ["uin"],
+  "katakana": [
+    "ウィン",
+    "ウィーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "burr",
+      "buzz",
+      "hum",
+      "motor",
+      "whirr"
+    ],
+    "refer": "",
+    "meaning": "smooth, sustained mechanical or motorized whirring",
+    "type": "o",
+    "example": [{
+      "file": "uin-1a",
+      "contributor": "",
+      "display": "ウィーン",
+      "source": "ai_and_izawa"
+    }]
+  }],
+  "id": "uin"
+}

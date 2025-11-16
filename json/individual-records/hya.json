@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ひゃ",
+    "ひゃっ"
+  ],
+  "romaji": ["hya"],
+  "katakana": [
+    "ヒャ",
+    "ヒャッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ahh",
+      "hya",
+      "hyaa",
+      "what"
+    ],
+    "refer": "",
+    "meaning": "a quick exclamation of surprise or amazement, often involuntary",
+    "type": "v",
+    "example": [{
+      "file": "hya-1a",
+      "contributor": "",
+      "display": "ヒャー!",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "id": "hya"
+}

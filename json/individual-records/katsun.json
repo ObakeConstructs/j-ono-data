@@ -1,0 +1,67 @@
+{
+  "hiragana": [
+    "かつん",
+    "かつんっ",
+    "かつーん"
+  ],
+  "romaji": ["katsun"],
+  "katakana": [
+    "カツン",
+    "カツンッ",
+    "カツーン"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "pound",
+        "scuff",
+        "step",
+        "stomp",
+        "tramp",
+        "tromp",
+        "trudge"
+      ],
+      "refer": "",
+      "meaning": "a heavy or firm footstep, often on a hard surface",
+      "type": "o",
+      "example": [{
+        "file": "katsun-1a",
+        "contributor": "",
+        "display": "カツン",
+        "source": "dog_became_strongest"
+      }]
+    },
+    {
+      "equivalent": [
+        "clack",
+        "clang",
+        "clatter",
+        "click",
+        "clink",
+        "ka-chik",
+        "ker-chak",
+        "rattle",
+        "tick",
+        "whang"
+      ],
+      "refer": "",
+      "meaning": "short, sharp clattering or clanging, usually from small, hard objects",
+      "type": "o",
+      "example": [
+        {
+          "file": "katsun-2a",
+          "contributor": "",
+          "display": "カツンッ",
+          "source": "gyaru_academy"
+        },
+        {
+          "file": "katsun-2b",
+          "contributor": "",
+          "display": "カツーン",
+          "source": "shogun_gold_in_america"
+        }
+      ]
+    }
+  ],
+  "id": "katsun"
+}

@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "ずぱ",
+    "ずぱっ"
+  ],
+  "romaji": ["zupa"],
+  "katakana": [
+    "ズパ",
+    "ズパッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "sharp",
+      "slash",
+      "slice"
+    ],
+    "refer": "",
+    "meaning": "a sharp, impressive cut, typically completely through something",
+    "type": "o",
+    "example": [{
+      "file": "zupa-1a",
+      "contributor": "",
+      "display": "ズパッ",
+      "source": "killed_by_gods_mistake"
+    }]
+  }],
+  "id": "zupa"
+}

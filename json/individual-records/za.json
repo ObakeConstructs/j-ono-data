@@ -1,0 +1,123 @@
+{
+  "hiragana": [
+    "ざ",
+    "ざっ",
+    "ざー",
+    "ざーっ",
+    "ざぁ",
+    "ざぁぁ",
+    "ざぁぁぁ",
+    "ざあ",
+    "ざああ",
+    "ざあああ",
+    "ざあっ"
+  ],
+  "romaji": ["za"],
+  "katakana": [
+    "ザ",
+    "ザッ",
+    "ザー",
+    "ザーッ",
+    "ザァ",
+    "ザァァ",
+    "ザァァァ",
+    "ザア",
+    "ザアア",
+    "ザアアア",
+    "ザアッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "drizzle",
+        "drops",
+        "hss",
+        "rain",
+        "shaa",
+        "shower",
+        "sprinkle",
+        "sss"
+      ],
+      "refer": "",
+      "meaning": "rain or shower",
+      "type": "o",
+      "example": [
+        {
+          "file": "za-1a",
+          "contributor": "",
+          "display": "ザーッ",
+          "source": "bungo"
+        },
+        {
+          "file": "za-1b",
+          "contributor": "",
+          "display": "ザァァァ",
+          "source": "hikaro_no_go"
+        },
+        {
+          "file": "za-1c",
+          "contributor": "",
+          "display": "ザァァァァ\u2026..",
+          "source": "beastly_boys_and_girls"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "crunch",
+        "footstep",
+        "step",
+        "tap",
+        "tread"
+      ],
+      "refer": "",
+      "meaning": "a sharp or crisp footstep",
+      "type": "o",
+      "example": [
+        {
+          "file": "za-2a",
+          "contributor": "",
+          "display": "ザッ",
+          "source": "peter_grill"
+        },
+        {
+          "file": "za-2b",
+          "contributor": "",
+          "display": "ざっ",
+          "source": "strongest_thread_master"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "fast",
+        "quick",
+        "rapid",
+        "swift",
+        "swish",
+        "voom",
+        "whoosh",
+        "zip",
+        "zoom"
+      ],
+      "refer": "",
+      "meaning": "fast movement, typically sudden or decisive ",
+      "type": "m",
+      "example": [
+        {
+          "file": "za-3a",
+          "contributor": "",
+          "display": "ザッ",
+          "source": "my_s-ranked_daughter"
+        },
+        {
+          "file": "za-3b",
+          "contributor": "",
+          "display": "ザッ",
+          "source": "way_of_the_house_husband"
+        }
+      ]
+    }
+  ],
+  "id": "za"
+}

@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "つつ",
+    "っっ"
+  ],
+  "romaji": ["tsu tsu"],
+  "katakana": [
+    "ツツ",
+    "ッッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "buzz",
+      "bzz",
+      "tap-tap"
+    ],
+    "refer": "",
+    "meaning": "tiny vibrations or buzzing",
+    "type": "o",
+    "example": [{
+      "file": "tsu_tsu-1a",
+      "contributor": "",
+      "display": "つつ",
+      "source": "35_year_olds_choice"
+    }]
+  }],
+  "id": "tsu_tsu"
+}

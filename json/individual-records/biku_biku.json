@@ -1,0 +1,43 @@
+{
+  "hiragana": [
+    "びくびく",
+    "びくびくっ"
+  ],
+  "romaji": ["biku biku"],
+  "katakana": [
+    "ビクビク",
+    "ビクビクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "convulse",
+      "flinch",
+      "jerk",
+      "jolt",
+      "quiver",
+      "shake",
+      "shiver",
+      "tremble",
+      "twitch",
+      "wince"
+    ],
+    "refer": "",
+    "meaning": "jerky movements or twitching",
+    "type": "m",
+    "example": [
+      {
+        "file": "biku_biku-1a",
+        "contributor": "",
+        "display": "ビクッ ビク ビクッ",
+        "source": "double_play"
+      },
+      {
+        "file": "biku_biku-1b",
+        "contributor": "",
+        "display": "ビク ビク ビクン",
+        "source": "reincarnated_as_a_dragon_egg"
+      }
+    ]
+  }],
+  "id": "biku_biku"
+}

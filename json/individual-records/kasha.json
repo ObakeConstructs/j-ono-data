@@ -1,0 +1,47 @@
+{
+  "hiragana": [
+    "かしゃ",
+    "かしゃっ"
+  ],
+  "romaji": ["kasha"],
+  "katakana": [
+    "カシャ",
+    "カシャッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beep",
+      "clack",
+      "click",
+      "flash",
+      "ka-chack",
+      "ka-chik",
+      "tap",
+      "tick"
+    ],
+    "refer": "",
+    "meaning": "a small, sharp mechanical click or snap, as from a camera, latch, or button",
+    "type": "o",
+    "example": [
+      {
+        "file": "kasha-1a",
+        "contributor": "",
+        "display": "カシャ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "kasha-1b",
+        "contributor": "",
+        "display": "カシャッ",
+        "source": "hikaro_no_go"
+      },
+      {
+        "file": "kasha-1c",
+        "contributor": "",
+        "display": "カシャッ!",
+        "source": "paradise_shift"
+      }
+    ]
+  }],
+  "id": "kasha"
+}

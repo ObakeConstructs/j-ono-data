@@ -1,0 +1,36 @@
+{
+  "hiragana": ["くるくる"],
+  "romaji": ["kuru kuru"],
+  "katakana": ["クルクル"],
+  "definition": [{
+    "equivalent": [
+      "circle",
+      "curl",
+      "pivot",
+      "spin",
+      "swing",
+      "swivel",
+      "turn",
+      "twirl",
+      "twist"
+    ],
+    "refer": "",
+    "meaning": "light spinning or twirling, often energetic",
+    "type": "m",
+    "example": [
+      {
+        "file": "kuru_kuru-1a",
+        "contributor": "",
+        "display": "くる くる",
+        "source": "reincarnated_sage_daughters"
+      },
+      {
+        "file": "kuru_kuru-1b",
+        "contributor": "",
+        "display": "くる くる",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "id": "kuru_kuru"
+}

@@ -1,0 +1,65 @@
+{
+  "hiragana": [
+    "きょろ",
+    "きょろきょろ"
+  ],
+  "romaji": [
+    "kyoro",
+    "kyoro kyoro"
+  ],
+  "katakana": [
+    "キョロ",
+    "キョロキョロ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "glance",
+      "glimpse",
+      "look",
+      "search",
+      "view"
+    ],
+    "refer": "",
+    "meaning": "quick glancing around, often curiously",
+    "type": "m",
+    "example": [
+      {
+        "file": "kyoro-1a",
+        "contributor": "",
+        "display": "きょろ",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "kyoro-1b",
+        "contributor": "",
+        "display": "キョロ キョロ",
+        "source": "weakest_occupation_blacksmith"
+      },
+      {
+        "file": "kyoro-1c",
+        "contributor": "",
+        "display": "キョロ キョロ",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "kyoro-1d",
+        "contributor": "",
+        "display": "キョロ キョロ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "kyoro-1e",
+        "contributor": "",
+        "display": "きょろ きょろ",
+        "source": "beastly_boys_and_girls"
+      },
+      {
+        "file": "kyoro-1f",
+        "contributor": "",
+        "display": "キョロ キョロ",
+        "source": "killed_by_gods_mistake"
+      }
+    ]
+  }],
+  "id": "kyoro"
+}

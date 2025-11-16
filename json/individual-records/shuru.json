@@ -1,0 +1,47 @@
+{
+  "hiragana": [
+    "しゅる",
+    "しゅるっ"
+  ],
+  "romaji": ["shuru"],
+  "katakana": [
+    "シュル",
+    "シュルッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "coil",
+      "curl",
+      "slide",
+      "slip",
+      "snake",
+      "spiral",
+      "swirl",
+      "tie",
+      "twist",
+      "uncoil",
+      "untie",
+      "unwind",
+      "wind",
+      "wrap"
+    ],
+    "refer": "",
+    "meaning": "a smoothly sliding or coiling/uncoiling motion, typically of something long",
+    "type": "m",
+    "example": [
+      {
+        "file": "shuru-1a",
+        "contributor": "",
+        "display": "しゅるっ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "shuru-1b",
+        "contributor": "",
+        "display": "しゅる",
+        "source": "hone_dragon"
+      }
+    ]
+  }],
+  "id": "shuru"
+}

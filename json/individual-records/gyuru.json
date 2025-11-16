@@ -1,0 +1,26 @@
+{
+  "hiragana": [
+    "ぎゅる",
+    "ぎゅるる",
+    "ぎゅるるる"
+  ],
+  "romaji": ["gyuru"],
+  "katakana": [
+    "ギュル",
+    "ギュルル",
+    "ギュルルル"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gyu:3",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gyuru-1a",
+      "contributor": "",
+      "display": "ギュルルル",
+      "source": "otherworld_material_collector"
+    }]
+  }],
+  "id": "gyuru"
+}

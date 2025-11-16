@@ -1,0 +1,43 @@
+{
+  "hiragana": [
+    "ぱか",
+    "ぱかっ"
+  ],
+  "romaji": ["paka"],
+  "katakana": [
+    "パカ",
+    "パカッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "open",
+      "pop",
+      "reveal",
+      "uncover"
+    ],
+    "refer": "",
+    "meaning": "sudden opening of a closed container",
+    "type": "m",
+    "example": [
+      {
+        "file": "paka-1a",
+        "contributor": "",
+        "display": "パカッ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "paka-1b",
+        "contributor": "",
+        "display": "パカッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "paka-1c",
+        "contributor": "",
+        "display": "ぱか",
+        "source": "kuma_kuma_kuma_bear"
+      }
+    ]
+  }],
+  "id": "paka"
+}

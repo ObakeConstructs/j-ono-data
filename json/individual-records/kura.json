@@ -1,0 +1,35 @@
+{
+  "hiragana": [
+    "くら",
+    "くらっ",
+    "くらあ",
+    "くらあっ"
+  ],
+  "romaji": ["kura"],
+  "katakana": [
+    "クラ",
+    "クラッ",
+    "クラア",
+    "クラアッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dizzy",
+      "faint",
+      "swoon",
+      "unsteady",
+      "wobbly",
+      "woozy"
+    ],
+    "refer": "",
+    "meaning": "sudden dizziness or nearly fainting",
+    "type": "e",
+    "example": [{
+      "file": "kura-1a",
+      "contributor": "",
+      "display": "くらっ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "id": "kura"
+}

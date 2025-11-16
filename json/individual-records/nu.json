@@ -1,0 +1,33 @@
+{
+  "hiragana": [
+    "ぬ",
+    "ぬっ"
+  ],
+  "romaji": ["nu"],
+  "katakana": [
+    "ヌ",
+    "ヌッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "danger",
+      "imposing",
+      "looming",
+      "menace",
+      "ominous",
+      "peril",
+      "threat",
+      "threaten"
+    ],
+    "refer": "",
+    "meaning": "sudden appearance of something large, imposing, or menacing",
+    "type": "s",
+    "example": [{
+      "file": "nu-1a",
+      "contributor": "",
+      "display": "ぬっ",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "id": "nu"
+}

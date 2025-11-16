@@ -1,0 +1,26 @@
+{
+  "hiragana": ["がちがち"],
+  "romaji": ["gachi"],
+  "katakana": ["ガチガチ"],
+  "definition": [{
+    "equivalent": [
+      "blank",
+      "expressionless",
+      "frozen",
+      "rigid",
+      "stiff",
+      "still",
+      "wooden"
+    ],
+    "refer": "",
+    "meaning": "rigid stiffness or hardness",
+    "type": "s",
+    "example": [{
+      "file": "gachi-1a",
+      "contributor": "",
+      "display": "ガチ ガチ",
+      "source": "embarrassing_and_sweet"
+    }]
+  }],
+  "id": "gachi"
+}

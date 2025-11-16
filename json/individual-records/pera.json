@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ぺら",
+    "ぺらっ"
+  ],
+  "romaji": ["pera"],
+  "katakana": [
+    "ペラ",
+    "ペラッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "para:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "pera-1a",
+        "contributor": "",
+        "display": "ペラ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "pera-1b",
+        "contributor": "",
+        "display": "ペラッ",
+        "source": "otherworld_material_collector"
+      }
+    ]
+  }],
+  "id": "pera"
+}

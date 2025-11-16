@@ -1,0 +1,188 @@
+{
+  "hiragana": [
+    "す",
+    "すっ",
+    "すー",
+    "すーっ",
+    "すぅ",
+    "すぅっ",
+    "すぅぅ",
+    "すぅぅぅ",
+    "すう",
+    "すうう",
+    "すううう"
+  ],
+  "romaji": ["su"],
+  "katakana": [
+    "ス",
+    "スッ",
+    "スー",
+    "スーッ",
+    "スゥ",
+    "スゥッ",
+    "スゥゥ",
+    "スゥゥゥ",
+    "スウ",
+    "スウウ",
+    "スウウウ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "ignore",
+        "pass",
+        "pass by"
+      ],
+      "refer": "",
+      "meaning": "lightly slip past or ignore someone",
+      "type": "m",
+      "example": [
+        {
+          "file": "su-1a",
+          "contributor": "",
+          "display": "スッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "su-1b",
+          "contributor": "",
+          "display": "すー\u2026",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "su-1c",
+          "contributor": "",
+          "display": "スッ",
+          "source": "strongest_magician_was_human"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "careful",
+        "extend",
+        "gesture",
+        "move",
+        "reach",
+        "slide",
+        "smooth",
+        "smoothly"
+      ],
+      "refer": "",
+      "meaning": "moving lightly, carefully, or smoothly",
+      "type": "m",
+      "example": [
+        {
+          "file": "su-2a",
+          "contributor": "",
+          "display": "スッ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "su-2b",
+          "contributor": "",
+          "display": "ス\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "su-2c",
+          "contributor": "",
+          "display": "ス\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "su-2d",
+          "contributor": "",
+          "display": "ス",
+          "source": "way_of_the_house_husband"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "breath in",
+        "draw in",
+        "inhale"
+      ],
+      "refer": "",
+      "meaning": "an intake of breath, usually soft or light",
+      "type": "o",
+      "example": [
+        {
+          "file": "su-3a",
+          "contributor": "",
+          "display": "スゥゥゥ..",
+          "source": "hello_work"
+        },
+        {
+          "file": "su-3b",
+          "contributor": "",
+          "display": "すぅ\u2026",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "su-3c",
+          "contributor": "",
+          "display": "すぅっ\u2026",
+          "source": "strongest_thread_master"
+        },
+        {
+          "file": "su-3d",
+          "contributor": "",
+          "display": "スゥ..",
+          "source": "blazing_fire_brigade"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bear",
+        "carry",
+        "get",
+        "heave",
+        "heft",
+        "hoist",
+        "hold",
+        "lift",
+        "raise",
+        "take"
+      ],
+      "refer": "",
+      "meaning": "smoothly or easily lifting, carrying, or holding",
+      "type": "m",
+      "example": [
+        {
+          "file": "su-4a",
+          "contributor": "",
+          "display": "スッ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "su-4b",
+          "contributor": "",
+          "display": "す\u2026",
+          "source": "uncle_at_heart"
+        },
+        {
+          "file": "su-4c",
+          "contributor": "",
+          "display": "ス\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "su-4d",
+          "contributor": "",
+          "display": "スッ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "su-4e",
+          "contributor": "",
+          "display": "す",
+          "source": "fushi_no_kami"
+        }
+      ]
+    }
+  ],
+  "id": "su"
+}

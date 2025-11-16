@@ -1,0 +1,38 @@
+{
+  "hiragana": ["よたよた"],
+  "romaji": ["yota yota"],
+  "katakana": ["ヨタヨタ"],
+  "definition": [{
+    "equivalent": [
+      "careen",
+      "clumsy",
+      "lurch",
+      "shaky",
+      "shuffle",
+      "stagger",
+      "sway",
+      "totter",
+      "unsteady",
+      "waddle",
+      "weak"
+    ],
+    "refer": "",
+    "meaning": "unsteady movement, typically shaky or weak",
+    "type": "m",
+    "example": [
+      {
+        "file": "yota_yota-1a",
+        "contributor": "",
+        "display": "よた よた",
+        "source": "uncle_at_heart"
+      },
+      {
+        "file": "yota_yota-1b",
+        "contributor": "",
+        "display": "ヨタ ヨタ",
+        "source": "rock_n_roll_ladies"
+      }
+    ]
+  }],
+  "id": "yota_yota"
+}

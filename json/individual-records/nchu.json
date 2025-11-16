@@ -1,0 +1,23 @@
+{
+  "hiragana": ["んちゅ"],
+  "romaji": ["nchu"],
+  "katakana": ["ンチュ"],
+  "definition": [{
+    "equivalent": [
+      "kiss",
+      "mwah",
+      "smooch",
+      "umma"
+    ],
+    "refer": "",
+    "meaning": "shy or bashful kissing",
+    "type": "o",
+    "example": [{
+      "file": "nchu-1a",
+      "contributor": "",
+      "display": "んちゅ..",
+      "source": "rise_of_the_outlaw_tamer"
+    }]
+  }],
+  "id": "nchu"
+}

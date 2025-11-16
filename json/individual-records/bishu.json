@@ -1,0 +1,24 @@
+{
+  "hiragana": ["びしゅ"],
+  "romaji": ["bishu"],
+  "katakana": ["ビシュ"],
+  "definition": [{
+    "equivalent": [
+      "fwip",
+      "swish",
+      "whirr",
+      "whish",
+      "zipwhiz"
+    ],
+    "refer": "",
+    "meaning": "the sudden sound of loosing an arrow",
+    "type": "o",
+    "example": [{
+      "file": "bishu-1a",
+      "contributor": "",
+      "display": "ビシュ",
+      "source": "hello_work"
+    }]
+  }],
+  "id": "bishu"
+}

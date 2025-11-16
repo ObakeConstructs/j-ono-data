@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "ざさ",
+    "ざさあ",
+    "ざさああ",
+    "ざさあああ"
+  ],
+  "romaji": ["zasa"],
+  "katakana": [
+    "ザサ",
+    "ザサア",
+    "ザサアア",
+    "ザサアアア"
+  ],
+  "definition": [{
+    "equivalent": [
+      "hiss",
+      "rush",
+      "rustle",
+      "shaa",
+      "surf",
+      "swish",
+      "swoosh",
+      "whish",
+      "whoosh"
+    ],
+    "refer": "",
+    "meaning": "hissing, rustling, or rushing sound of moving through water or tall plants",
+    "type": "o",
+    "example": [{
+      "file": "zasa-1a",
+      "contributor": "",
+      "display": "ザサアアア",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "id": "zasa"
+}

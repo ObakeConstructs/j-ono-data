@@ -1,0 +1,46 @@
+{
+  "hiragana": [
+    "にや",
+    "にやっ",
+    "にやにや",
+    "にやにやっ"
+  ],
+  "romaji": [
+    "niya",
+    "niya niya"
+  ],
+  "katakana": [
+    "ニヤ",
+    "ニヤッ",
+    "ニヤニヤ",
+    "ニヤニヤッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "grin",
+      "leer",
+      "smile",
+      "smirk",
+      "sneer",
+      "snicker"
+    ],
+    "refer": "",
+    "meaning": "an evil, sly, or teasing smile",
+    "type": "s",
+    "example": [
+      {
+        "file": "niya-1a",
+        "contributor": "",
+        "display": "ニヤッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "niya-1b",
+        "contributor": "",
+        "display": "にや にや",
+        "source": "sex_with_me_sells"
+      }
+    ]
+  }],
+  "id": "niya"
+}

@@ -1,0 +1,25 @@
+{
+  "hiragana": ["ぼそぼそ"],
+  "romaji": ["boso boso"],
+  "katakana": ["ボソボソ"],
+  "definition": [{
+    "equivalent": [
+      "mumble",
+      "murmur",
+      "mutter",
+      "quietly",
+      "sotto voce",
+      "whisper"
+    ],
+    "refer": "",
+    "meaning": "mumbling or whispering",
+    "type": "v",
+    "example": [{
+      "file": "boso_boso-1a",
+      "contributor": "boson",
+      "display": "ボソ\u2026 ボソ\u2026",
+      "source": "singing_the_superstar"
+    }]
+  }],
+  "id": "boso_boso"
+}

@@ -1,0 +1,58 @@
+{
+  "hiragana": [
+    "ひ",
+    "ひっ",
+    "びぃ",
+    "びぃぃ",
+    "びぃぃぃ",
+    "びぃっ",
+    "びぃぃっ",
+    "びぃぃぃっ"
+  ],
+  "romaji": ["hi"],
+  "katakana": [
+    "ヒ",
+    "ヒッ",
+    "ヒィ",
+    "ヒィィ",
+    "ヒィィィ",
+    "ヒィッ",
+    "ヒィィッ",
+    "ヒィィィッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "eek",
+      "eep",
+      "shriek",
+      "squeal",
+      "yelp",
+      "yike",
+      "yikes"
+    ],
+    "refer": "",
+    "meaning": "a short, involuntary cry or gasp, as when startled, frightened or surprised",
+    "type": "v",
+    "example": [
+      {
+        "file": "hi-1a",
+        "contributor": "",
+        "display": "ヒッ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "hi-1b",
+        "contributor": "",
+        "display": "ヒィィィッ\u2026",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "hi-1c",
+        "contributor": "",
+        "display": "ひー",
+        "source": "hanako_24th_ward"
+      }
+    ]
+  }],
+  "id": "hi"
+}

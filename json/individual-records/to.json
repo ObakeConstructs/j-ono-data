@@ -1,0 +1,60 @@
+{
+  "hiragana": [
+    "と",
+    "とっ"
+  ],
+  "romaji": ["to"],
+  "katakana": [
+    "ト",
+    "トッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "alight",
+        "flick",
+        "land",
+        "pat",
+        "tap"
+      ],
+      "refer": "",
+      "meaning": "light, controlled landing",
+      "type": "m",
+      "example": [
+        {
+          "file": "to-1a",
+          "contributor": "",
+          "display": "トッ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "to-1b",
+          "contributor": "",
+          "display": "トッ",
+          "source": "strongest_thread_master"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "clack",
+        "click",
+        "clink",
+        "flick",
+        "snap",
+        "tap",
+        "tick"
+      ],
+      "refer": "",
+      "meaning": "soft click or tap sound",
+      "type": "o",
+      "example": [{
+        "file": "to-2a",
+        "contributor": "",
+        "display": "とっ",
+        "source": "drawing"
+      }]
+    }
+  ],
+  "id": "to"
+}

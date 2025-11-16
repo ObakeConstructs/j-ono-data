@@ -1,0 +1,36 @@
+{
+  "hiragana": ["ふるふる"],
+  "romaji": ["furu furu"],
+  "katakana": ["フルフル"],
+  "definition": [
+    {
+      "equivalent": [""],
+      "refer": "furo_furo:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "furu_furu-1a",
+        "contributor": "",
+        "display": "フル フル",
+        "source": "weakest_occupation_blacksmith"
+      }]
+    },
+    {
+      "equivalent": [
+        "no",
+        "nope",
+        "shake"
+      ],
+      "refer": "",
+      "meaning": "shaking one's head side to side, as a way of expressing disagreement",
+      "type": "m",
+      "example": [{
+        "file": "furu_furu-2a",
+        "contributor": "",
+        "display": "ふる ふる ふる",
+        "source": "ai_and_izawa"
+      }]
+    }
+  ],
+  "id": "furu_furu"
+}

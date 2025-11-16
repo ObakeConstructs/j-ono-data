@@ -1,0 +1,60 @@
+{
+  "hiragana": [
+    "ぱん",
+    "ぱんっ",
+    "ぱぁん",
+    "ぱぁんっ"
+  ],
+  "romaji": ["pan"],
+  "katakana": [
+    "パン",
+    "パンッ",
+    "パァン",
+    "パァンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "bang",
+      "clap",
+      "crash",
+      "impact",
+      "pow",
+      "slam",
+      "slap",
+      "smack",
+      "strike",
+      "thump"
+    ],
+    "refer": "",
+    "meaning": "the sound of a quick or sudden strike, usually with a powerful impact",
+    "type": "o",
+    "example": [
+      {
+        "file": "pan-1a",
+        "contributor": "",
+        "display": "パン",
+        "source": "simple_sword_saint"
+      },
+      {
+        "file": "pan-1b",
+        "contributor": "",
+        "display": "パァンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "pan-1c",
+        "contributor": "",
+        "display": "パン",
+        "source": "reincarnated_farm_girl"
+      },
+      {
+        "file": "pan-1d",
+        "contributor": "",
+        "display": "ぱんっ",
+        "source": "different_world_smartphone"
+      }
+    ]
+  }],
+  "id": "pan"
+}

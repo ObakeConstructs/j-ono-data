@@ -1,0 +1,86 @@
+{
+  "hiragana": [
+    "がく",
+    "がくー",
+    "がくっ",
+    "がくぅ",
+    "がくぅぅ",
+    "がくぅっ",
+    "がくぅぅっ"
+  ],
+  "romaji": ["gaku"],
+  "katakana": [
+    "ガク",
+    "ガクー",
+    "ガクッ",
+    "ガクゥ",
+    "ガクゥゥ",
+    "ガクゥッ",
+    "ガクゥゥッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "fall",
+        "fold",
+        "give in",
+        "give up",
+        "sag",
+        "sink",
+        "slump",
+        "succumb"
+      ],
+      "refer": "",
+      "meaning": "a physical collapse, as with fainting or knees buckling",
+      "type": "o",
+      "example": [
+        {
+          "file": "gaku-1a",
+          "contributor": "",
+          "display": "がく",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "gaku-1b",
+          "contributor": "",
+          "display": "ガクッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "gaku-1c",
+          "contributor": "",
+          "display": "ガクゥゥッ",
+          "source": "yojo_life"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "collapse",
+        "droop",
+        "flag",
+        "sink",
+        "slump",
+        "wilt"
+      ],
+      "refer": "",
+      "meaning": "a sudden loss of energy or spirit",
+      "type": "s",
+      "example": [
+        {
+          "file": "gaku-2a",
+          "contributor": "",
+          "display": "ガクー\u2026",
+          "source": "peter_grill"
+        },
+        {
+          "file": "gaku-2b",
+          "contributor": "",
+          "display": "がくっ",
+          "source": "sex_with_me_sells"
+        }
+      ]
+    }
+  ],
+  "id": "gaku"
+}

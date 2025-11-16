@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "とさ",
+    "とさっ"
+  ],
+  "romaji": ["tosa"],
+  "katakana": [
+    "トサ",
+    "トサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "floof",
+      "fwump",
+      "ploof",
+      "poof"
+    ],
+    "refer": "",
+    "meaning": "a soft fall or landing",
+    "type": "o",
+    "example": [{
+      "file": "tosa-1a",
+      "contributor": "",
+      "display": "トサッ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "id": "tosa"
+}

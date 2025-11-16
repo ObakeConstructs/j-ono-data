@@ -1,0 +1,48 @@
+{
+  "hiragana": [
+    "う",
+    "うー",
+    "うっ",
+    "うーっ"
+  ],
+  "romaji": ["u"],
+  "katakana": [
+    "ウ",
+    "ウー",
+    "ウッ",
+    "ウーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "dismay",
+      "embarrassment",
+      "relief",
+      "shock",
+      "surprise",
+      "ugh",
+      "uh",
+      "uhn",
+      "urgh",
+      "waah",
+      "whaa"
+    ],
+    "refer": "",
+    "meaning": "short vocal reaction to sudden emotion",
+    "type": "v",
+    "example": [
+      {
+        "file": "u-1a",
+        "contributor": "",
+        "display": "うっ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "u-1b",
+        "contributor": "",
+        "display": "うっ\u2026",
+        "source": "double_play"
+      }
+    ]
+  }],
+  "id": "u"
+}

@@ -1,0 +1,51 @@
+{
+  "hiragana": ["がらがら"],
+  "romaji": ["gara gara"],
+  "katakana": ["ガラガラ"],
+  "definition": [
+    {
+      "equivalent": [
+        "clank",
+        "clatter",
+        "clunk",
+        "rattle"
+      ],
+      "refer": "",
+      "meaning": "a continuous or repeated clatter or rattle",
+      "type": "o",
+      "example": [
+        {
+          "file": "gara_gara-1a",
+          "contributor": "",
+          "display": "ガラ ガラ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "gara_gara-1b",
+          "contributor": "",
+          "display": "ガラガラガラ..",
+          "source": "berserk"
+        },
+        {
+          "file": "gara_gara-1c",
+          "contributor": "",
+          "display": "ガラ ガラ ガ ガラ",
+          "source": "isekai_sniper"
+        }
+      ]
+    },
+    {
+      "equivalent": [""],
+      "refer": "gara:2",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "gara_gara-2a",
+        "contributor": "",
+        "display": "ガラ ガラ ガラ",
+        "source": "hanako_24th_ward"
+      }]
+    }
+  ],
+  "id": "gara_gara"
+}

@@ -1,0 +1,35 @@
+{
+  "hiragana": [
+    "べた",
+    "べたっ",
+    "べたぁ",
+    "べたぁっ"
+  ],
+  "romaji": ["beta"],
+  "katakana": [
+    "ベタ",
+    "ベタッ",
+    "ベタァ",
+    "ベタァッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "clammy",
+      "cling",
+      "gummy",
+      "stick",
+      "sticky",
+      "tacky"
+    ],
+    "refer": "",
+    "meaning": "sticky, gummy or clammy",
+    "type": "s",
+    "example": [{
+      "file": "beta-1a",
+      "contributor": "",
+      "display": "ベタァ",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "id": "beta"
+}

@@ -1,0 +1,27 @@
+{
+  "hiragana": ["むしゃむしゃ"],
+  "romaji": ["musha musha"],
+  "katakana": ["ムシャムシャ"],
+  "definition": [{
+    "equivalent": [
+      "chew",
+      "chomp",
+      "devour",
+      "eat",
+      "munch",
+      "nom",
+      "nosh",
+      "snarf"
+    ],
+    "refer": "",
+    "meaning": "chewing or eating heartily, often noisily",
+    "type": "o",
+    "example": [{
+      "file": "musha_musha-1a",
+      "contributor": "",
+      "display": "ムシャ ムシャ",
+      "source": "buy_the_land"
+    }]
+  }],
+  "id": "musha_musha"
+}

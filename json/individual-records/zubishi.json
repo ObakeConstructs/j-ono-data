@@ -1,0 +1,27 @@
+{
+  "hiragana": ["ずびしっ"],
+  "romaji": ["zubishi"],
+  "katakana": ["ズビシッ"],
+  "definition": [{
+    "equivalent": [
+      "crack",
+      "crunch",
+      "hit",
+      "impact",
+      "punch",
+      "smack",
+      "smite",
+      "strike"
+    ],
+    "refer": "",
+    "meaning": "a fast, precise downward strike",
+    "type": "o",
+    "example": [{
+      "file": "zubishi-1a",
+      "contributor": "",
+      "display": "ズビシッ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "id": "zubishi"
+}

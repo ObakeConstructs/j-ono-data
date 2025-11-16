@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ざしゃっ",
+    "ざしゃーっ"
+  ],
+  "romaji": ["zasha"],
+  "katakana": [
+    "ザシャッ",
+    "ザシャーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "crunch",
+      "fall",
+      "gritty",
+      "land",
+      "rasp",
+      "scrape",
+      "slide"
+    ],
+    "refer": "",
+    "meaning": "a sliding, scraping, or gritty landing",
+    "type": "o",
+    "example": [{
+      "file": "zasha-1a",
+      "contributor": "",
+      "display": "ザシャッ",
+      "source": "hone_dragon"
+    }]
+  }],
+  "id": "zasha"
+}

@@ -1,0 +1,26 @@
+{
+  "hiragana": ["もふ"],
+  "romaji": ["mofu"],
+  "katakana": ["モフ"],
+  "definition": [{
+    "equivalent": [
+      "cuddle",
+      "fluff",
+      "fluffy",
+      "pet",
+      "snuggle",
+      "soft",
+      "warm"
+    ],
+    "refer": "",
+    "meaning": "the feeling of something soft, fluffy, and warm",
+    "type": "s",
+    "example": [{
+      "file": "mofu-1a",
+      "contributor": "",
+      "display": "もふ\u2026",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "id": "mofu"
+}

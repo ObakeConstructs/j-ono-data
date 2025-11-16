@@ -1,0 +1,28 @@
+{
+  "hiragana": ["えいさ"],
+  "romaji": ["eisa"],
+  "katakana": ["エイサ"],
+  "definition": [{
+    "equivalent": [
+      "effort",
+      "exert",
+      "heave",
+      "hngh",
+      "hup",
+      "push",
+      "strain",
+      "urgh",
+      "yeah"
+    ],
+    "refer": "",
+    "meaning": "effort or exertion",
+    "type": "s",
+    "example": [{
+      "file": "eisa-1a",
+      "contributor": "",
+      "display": "エイサ!",
+      "source": "blazing_fire_brigade"
+    }]
+  }],
+  "id": "eisa"
+}

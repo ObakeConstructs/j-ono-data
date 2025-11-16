@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "とぽぽ",
+    "とぽぽぽ"
+  ],
+  "romaji": ["topopo"],
+  "katakana": [
+    "トポポ",
+    "トポポポ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "toku_toku:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "topopo-1a",
+        "contributor": "",
+        "display": "トポポ..",
+        "source": "d_genesis"
+      },
+      {
+        "file": "topopo-1b",
+        "contributor": "",
+        "display": "トポポポ",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "id": "topopo"
+}

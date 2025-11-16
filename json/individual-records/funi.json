@@ -1,0 +1,41 @@
+{
+  "hiragana": ["ふに"],
+  "romaji": ["funi"],
+  "katakana": ["フニ"],
+  "definition": [{
+    "equivalent": [
+      "fluffy",
+      "gently",
+      "mushy",
+      "pliable",
+      "soft",
+      "spongy",
+      "squishy",
+      "tender"
+    ],
+    "refer": "",
+    "meaning": "the feel of a soft, pliable or fluffy texture",
+    "type": "s",
+    "example": [
+      {
+        "file": "funi-1a",
+        "contributor": "",
+        "display": "ふに",
+        "source": "hone_dragon"
+      },
+      {
+        "file": "funi-1b",
+        "contributor": "",
+        "display": "ふに",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "funi-1c",
+        "contributor": "",
+        "display": "ふに..",
+        "source": "embarrassing_and_sweet"
+      }
+    ]
+  }],
+  "id": "funi"
+}

@@ -1,0 +1,40 @@
+{
+  "hiragana": ["ぴょん"],
+  "romaji": ["pyon"],
+  "katakana": ["ピョン"],
+  "definition": [{
+    "equivalent": [
+      "boing",
+      "bounce",
+      "bound",
+      "hop",
+      "jump",
+      "leap",
+      "vault"
+    ],
+    "refer": "",
+    "meaning": "jumping or leaping, often humorous or cute",
+    "type": "m",
+    "example": [
+      {
+        "file": "pyon-1a",
+        "contributor": "",
+        "display": "ピョン",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "pyon-1b",
+        "contributor": "",
+        "display": "ぴょーん",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "pyon-1c",
+        "contributor": "",
+        "display": "ぴょん",
+        "source": "spy_x_family"
+      }
+    ]
+  }],
+  "id": "pyon"
+}

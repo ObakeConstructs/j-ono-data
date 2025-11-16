@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "ぐさ",
+    "ぐさっ"
+  ],
+  "romaji": ["gusa"],
+  "katakana": [
+    "グサ",
+    "グサッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "impale",
+      "jab",
+      "pierce",
+      "skewer",
+      "stab"
+    ],
+    "refer": "",
+    "meaning": "a sudden or forceful piercing, stabbing or skewering",
+    "type": "o",
+    "example": [
+      {
+        "file": "gusa-1a",
+        "contributor": "",
+        "display": "グサッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gusa-1b",
+        "contributor": "",
+        "display": "グサッ",
+        "source": "strongest_magician_was_human"
+      }
+    ]
+  }],
+  "id": "gusa"
+}

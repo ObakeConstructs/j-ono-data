@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ぷち",
+    "ぷちっ"
+  ],
+  "romaji": ["puchi"],
+  "katakana": [
+    "プチ",
+    "プチッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pu:2",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "puchi-1a",
+        "contributor": "",
+        "display": "プチッ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "puchi-1b",
+        "contributor": "",
+        "display": "プチ",
+        "source": "embarrassing_and_sweet"
+      }
+    ]
+  }],
+  "id": "puchi"
+}

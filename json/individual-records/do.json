@@ -1,0 +1,86 @@
+{
+  "hiragana": [
+    "ど",
+    "どっ",
+    "どぉ",
+    "どぉっ",
+    "どおぉ"
+  ],
+  "romaji": ["do"],
+  "katakana": [
+    "ド",
+    "ドッ",
+    "ドォ",
+    "ドォッ",
+    "ドオォ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "bang",
+        "blam",
+        "blast",
+        "blow",
+        "boom",
+        "crash",
+        "crunch",
+        "hit",
+        "impact",
+        "pound",
+        "smash",
+        "strike",
+        "wham"
+      ],
+      "refer": "",
+      "meaning": "heavy impact or explosive force sound",
+      "type": "o",
+      "example": [
+        {
+          "file": "do-1a",
+          "contributor": "",
+          "display": "ドッ!",
+          "source": "hello_work"
+        },
+        {
+          "file": "do-1b",
+          "contributor": "",
+          "display": "ドッ",
+          "source": "strongest_thread_master"
+        },
+        {
+          "file": "do-1c",
+          "contributor": "",
+          "display": "ドッ",
+          "source": "my_s-ranked_daughter"
+        },
+        {
+          "file": "do-1d",
+          "contributor": "",
+          "display": "ドッオォ",
+          "source": "isekai_sniper"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "boff",
+        "doh",
+        "guffaw",
+        "ha",
+        "snort",
+        "whoop"
+      ],
+      "refer": "",
+      "meaning": "a burst of laughter, often rude or mocking",
+      "type": "v",
+      "example": [{
+        "file": "do-2a",
+        "contributor": "",
+        "display": "どっ",
+        "source": "kuma_kuma_kuma_bear"
+      }]
+    }
+  ],
+  "id": "do"
+}

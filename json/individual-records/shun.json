@@ -1,0 +1,73 @@
+{
+  "hiragana": [
+    "しゅん",
+    "しゅんっ",
+    "しゅーんっ"
+  ],
+  "romaji": ["shun"],
+  "katakana": [
+    "シュン",
+    "シュンッ",
+    "シューンッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "crestfallen",
+        "dejected",
+        "depressed",
+        "down",
+        "gloom",
+        "glum",
+        "grief",
+        "sad",
+        "sorrow",
+        "unhappy"
+      ],
+      "refer": "",
+      "meaning": "a sad slump or drooping",
+      "type": "e",
+      "example": [
+        {
+          "file": "shun-1a",
+          "contributor": "",
+          "display": "しゅん\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "shun-1b",
+          "contributor": "",
+          "display": "シューン\u2026",
+          "source": "peter_grill"
+        },
+        {
+          "file": "shun-1c",
+          "contributor": "",
+          "display": "シュン",
+          "source": "hero_or_demon_king"
+        }
+      ]
+    },
+    {
+      "equivalent": [""],
+      "refer": "shu:1",
+      "meaning": "",
+      "type": "",
+      "example": [
+        {
+          "file": "shun-2a",
+          "contributor": "",
+          "display": "シュン",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "shun-2b",
+          "contributor": "",
+          "display": "シュンッ",
+          "source": "reincarnated_aristocrat"
+        }
+      ]
+    }
+  ],
+  "id": "shun"
+}

@@ -1,0 +1,18 @@
+{
+  "hiragana": ["どぶん"],
+  "romaji": ["dobun"],
+  "katakana": ["ドブン"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dobon:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "dobun-1a",
+      "contributor": "",
+      "display": "ドブン",
+      "source": "kaijuu_sdf"
+    }]
+  }],
+  "id": "dobun"
+}

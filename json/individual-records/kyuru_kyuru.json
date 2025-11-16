@@ -1,0 +1,25 @@
+{
+  "hiragana": ["きゅるきゅる"],
+  "romaji": ["kyuru kyuru"],
+  "katakana": ["キュルキュル"],
+  "definition": [{
+    "equivalent": [
+      "burr",
+      "buzz",
+      "hum",
+      "motor",
+      "whir",
+      "zoom"
+    ],
+    "refer": "",
+    "meaning": "small high-pitched whirring or spinning sounds",
+    "type": "o",
+    "example": [{
+      "file": "kyuru_kyuru-1a",
+      "contributor": "",
+      "display": "キュル キュル",
+      "source": "ai_and_izawa"
+    }]
+  }],
+  "id": "kyuru_kyuru"
+}

@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ぴるる",
+    "ぴるるる"
+  ],
+  "romaji": ["piruru"],
+  "katakana": [
+    "ピルル",
+    "ピルルル"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pirorin:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "piruru-1a",
+      "contributor": "",
+      "display": "ピルルルルルル",
+      "source": "way_of_isekai_cooking"
+    }]
+  }],
+  "id": "piruru"
+}

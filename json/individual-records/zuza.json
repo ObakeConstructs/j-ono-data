@@ -1,0 +1,66 @@
+{
+  "hiragana": [
+    "ずざ",
+    "ずざぁ",
+    "ずざっ",
+    "ずざざ",
+    "ずざざざ"
+  ],
+  "romaji": ["zuza"],
+  "katakana": [
+    "ズザ",
+    "ズザァ",
+    "ズザッ",
+    "ズザザ",
+    "ズザザザ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bam",
+        "crash",
+        "shatter",
+        "slam",
+        "smash",
+        "thud",
+        "thump",
+        "whomp"
+      ],
+      "refer": "",
+      "meaning": "a hard impact from falling",
+      "type": "o",
+      "example": [
+        {
+          "file": "zuza-1a",
+          "contributor": "",
+          "display": "ズザザ!",
+          "source": "hanako_24th_ward"
+        },
+        {
+          "file": "zuza-1b",
+          "contributor": "",
+          "display": "ズザッ",
+          "source": "drawing"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "screech",
+        "skid",
+        "slide",
+        "squeel"
+      ],
+      "refer": "",
+      "meaning": "sliding or skidding",
+      "type": "o",
+      "example": [{
+        "file": "zuza-2a",
+        "contributor": "",
+        "display": "ズザァ\u2026!!",
+        "source": "eternal_fool_asley"
+      }]
+    }
+  ],
+  "id": "zuza"
+}

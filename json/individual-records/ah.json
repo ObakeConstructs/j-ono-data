@@ -1,0 +1,27 @@
+{
+  "hiragana": [
+    "あ",
+    "あっ"
+  ],
+  "romaji": ["ah"],
+  "katakana": [
+    "ア",
+    "アッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "ah",
+      "oh"
+    ],
+    "refer": "",
+    "meaning": "surprise, recognition, or realization",
+    "type": "v",
+    "example": [{
+      "file": "ah-1a",
+      "contributor": "",
+      "display": "あっ",
+      "source": "isekai_pickup"
+    }]
+  }],
+  "id": "ah"
+}

@@ -1,0 +1,98 @@
+{
+  "hiragana": [
+    "ざざ",
+    "ざっざっ",
+    "ざざぁ",
+    "ざざぁぁ",
+    "ざざあ",
+    "ざざああ"
+  ],
+  "romaji": ["za za"],
+  "katakana": [
+    "ザザ",
+    "ザッザッ",
+    "ザザァ",
+    "ザザァァ",
+    "ザザア",
+    "ザザアア"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "hike",
+        "stalk",
+        "walk"
+      ],
+      "refer": "za:2",
+      "meaning": "s",
+      "type": "",
+      "example": [
+        {
+          "file": "za_za-1a",
+          "contributor": "",
+          "display": "ザッ ザッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "za_za-1b",
+          "contributor": "",
+          "display": "ザッ\u2026 ザッ\u2026",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "za_za-1c",
+          "contributor": "",
+          "display": "ザ ザ",
+          "source": "modern_dungeon_capture"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "fwoosh",
+        "gush",
+        "pour",
+        "pssh",
+        "splash",
+        "sploosh",
+        "spray"
+      ],
+      "refer": "",
+      "meaning": "gushing or streaming water",
+      "type": "o",
+      "example": [{
+        "file": "za_za-2a",
+        "contributor": "",
+        "display": "ザザザザ",
+        "source": "blazing_fire_brigade"
+      }]
+    },
+    {
+      "equivalent": [
+        "sha-shaa",
+        "shaa",
+        "splash",
+        "surf",
+        "waves"
+      ],
+      "refer": "",
+      "meaning": "rhythmic surf or waves, typically breaking against rocks or shoreline",
+      "type": "o",
+      "example": [
+        {
+          "file": "za_za-3a",
+          "contributor": "",
+          "display": "ザザァ\u2026",
+          "source": "sex_with_me_sells"
+        },
+        {
+          "file": "za_za-3b",
+          "contributor": "",
+          "display": "ザザ..",
+          "source": "buy_the_land"
+        }
+      ]
+    }
+  ],
+  "id": "za_za"
+}

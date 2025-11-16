@@ -1,0 +1,31 @@
+{
+  "hiragana": [
+    "ずら",
+    "ずらー"
+  ],
+  "romaji": ["zura"],
+  "katakana": [
+    "ズラ",
+    "ズラー"
+  ],
+  "definition": [{
+    "equivalent": [
+      "arranged",
+      "column",
+      "lined up",
+      "procession",
+      "queued",
+      "train"
+    ],
+    "refer": "",
+    "meaning": "lined up in neat succession",
+    "type": "s",
+    "example": [{
+      "file": "zura-1a",
+      "contributor": "",
+      "display": "ズラー\u2026",
+      "source": "reincarnated_aristocrat"
+    }]
+  }],
+  "id": "zura"
+}

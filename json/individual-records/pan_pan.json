@@ -1,0 +1,38 @@
+{
+  "hiragana": [
+    "ぱんぱん",
+    "ぱんっぱんっ"
+  ],
+  "romaji": ["pan pan"],
+  "katakana": [
+    "パンパン",
+    "パンッパンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pa:3",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "pan_pan-1a",
+        "contributor": "",
+        "display": "パン パン",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "pan_pan-1b",
+        "contributor": "",
+        "display": "ぱん ぱん",
+        "source": "beastly_boys_and_girls"
+      },
+      {
+        "file": "pan_pan-1c",
+        "contributor": "",
+        "display": "ぱんっ ぱんっ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "id": "pan_pan"
+}

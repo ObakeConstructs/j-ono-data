@@ -1,0 +1,18 @@
+{
+  "hiragana": ["ぷす"],
+  "romaji": ["pusu"],
+  "katakana": ["プス"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pu:3",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "pusu-1a",
+      "contributor": "",
+      "display": "ぷす",
+      "source": "d_genesis"
+    }]
+  }],
+  "id": "pusu"
+}

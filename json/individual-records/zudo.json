@@ -1,0 +1,37 @@
+{
+  "hiragana": ["ずど"],
+  "romaji": ["zudo"],
+  "katakana": ["ズド"],
+  "definition": [{
+    "equivalent": [
+      "bam",
+      "blow",
+      "clobber",
+      "crunch",
+      "drill",
+      "hit",
+      "impact",
+      "impale",
+      "pelt",
+      "pierce",
+      "punch",
+      "skewer",
+      "slam",
+      "smash",
+      "spike",
+      "stab",
+      "strike",
+      "wham"
+    ],
+    "refer": "",
+    "meaning": "a heavy impact or strike",
+    "type": "o",
+    "example": [{
+      "file": "zudo-1a",
+      "contributor": "Artrix",
+      "display": "ズド",
+      "source": "pokemon_xy_break"
+    }]
+  }],
+  "id": "zudo"
+}

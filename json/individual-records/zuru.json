@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ずる",
+    "ずるっ"
+  ],
+  "romaji": ["zuru"],
+  "katakana": [
+    "ズル",
+    "ズルッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "zuri_zuri:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "zuru-1a",
+        "contributor": "",
+        "display": "ズル\u2026",
+        "source": "d_genesis"
+      },
+      {
+        "file": "zuru-1b",
+        "contributor": "",
+        "display": "ズル..",
+        "source": "buy_the_land"
+      }
+    ]
+  }],
+  "id": "zuru"
+}

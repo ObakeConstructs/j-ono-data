@@ -1,0 +1,28 @@
+{
+  "hiragana": ["てくてく"],
+  "romaji": ["teku teku"],
+  "katakana": ["テクテク"],
+  "definition": [{
+    "equivalent": [
+      "amble",
+      "pad",
+      "saunter",
+      "steady",
+      "step",
+      "stride",
+      "stroll",
+      "traipse",
+      "walk"
+    ],
+    "refer": "",
+    "meaning": "walking at a light pace, often cheerfully",
+    "type": "m",
+    "example": [{
+      "file": "teku_teku-1a",
+      "contributor": "",
+      "display": "てく てく",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "id": "teku_teku"
+}

@@ -1,0 +1,65 @@
+{
+  "hiragana": ["ぱしゃ"],
+  "romaji": ["pasha"],
+  "katakana": ["パシャ"],
+  "definition": [
+    {
+      "equivalent": [
+        "slop",
+        "slosh",
+        "spatter",
+        "splash",
+        "swash"
+      ],
+      "refer": "",
+      "meaning": "a quick splashing sound",
+      "type": "o",
+      "example": [
+        {
+          "file": "pasha-1a",
+          "contributor": "",
+          "display": "パシャ",
+          "source": "hello_work"
+        },
+        {
+          "file": "pasha-1b",
+          "contributor": "",
+          "display": "パシャ",
+          "source": "strongest_failure_frame"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "click",
+        "flash",
+        "photo",
+        "snap"
+      ],
+      "refer": "",
+      "meaning": "the quick sound of a camera shutter or flash",
+      "type": "o",
+      "example": [
+        {
+          "file": "pasha-2a",
+          "contributor": "",
+          "display": "パシャ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "pasha-2b",
+          "contributor": "",
+          "display": "パシャー",
+          "source": "double_play"
+        },
+        {
+          "file": "pasha-2c",
+          "contributor": "",
+          "display": "パシャッ",
+          "source": "saga_lagging_hero"
+        }
+      ]
+    }
+  ],
+  "id": "pasha"
+}

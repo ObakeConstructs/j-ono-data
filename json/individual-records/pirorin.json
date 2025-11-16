@@ -1,0 +1,26 @@
+{
+  "hiragana": ["ぴろりん"],
+  "romaji": ["pirorin"],
+  "katakana": ["ピロリン"],
+  "definition": [{
+    "equivalent": [
+      "ba-da-ding",
+      "beep",
+      "beep-beep",
+      "chime",
+      "ding",
+      "ding-a-ling",
+      "ringtone"
+    ],
+    "refer": "",
+    "meaning": "a light electronic tone or chime, as from a cell phone",
+    "type": "o",
+    "example": [{
+      "file": "pirorin-1a",
+      "contributor": "",
+      "display": "ピロリン",
+      "source": "d_genesis"
+    }]
+  }],
+  "id": "pirorin"
+}

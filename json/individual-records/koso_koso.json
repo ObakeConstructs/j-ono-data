@@ -1,0 +1,29 @@
+{
+  "hiragana": ["こそこそ"],
+  "romaji": ["koso koso"],
+  "katakana": ["コソコソ"],
+  "definition": [{
+    "equivalent": [
+      "cover",
+      "mask",
+      "murmur",
+      "obscure",
+      "quietly",
+      "screen",
+      "secret",
+      "sneak",
+      "sotto voce",
+      "whisper"
+    ],
+    "refer": "",
+    "meaning": "behaving or whispering in way that prevents notice",
+    "type": "m",
+    "example": [{
+      "file": "koso_koso-1a",
+      "contributor": "",
+      "display": "こそ こそ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "id": "koso_koso"
+}

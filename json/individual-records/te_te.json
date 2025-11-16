@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "てて",
+    "てってっ"
+  ],
+  "romaji": ["te te"],
+  "katakana": [
+    "テテ",
+    "テッテッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "tata:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "te_te-1a",
+      "contributor": "",
+      "display": "テッ テッ",
+      "source": "weakest_occupation_blacksmith"
+    }]
+  }],
+  "id": "te_te"
+}

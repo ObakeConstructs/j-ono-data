@@ -1,0 +1,47 @@
+{
+  "hiragana": [
+    "むく",
+    "むくっ"
+  ],
+  "romaji": ["muku"],
+  "katakana": [
+    "ムク",
+    "ムクッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fwip",
+      "get up",
+      "rise up",
+      "sit up",
+      "spring up",
+      "stand",
+      "stand up",
+      "wake up"
+    ],
+    "refer": "",
+    "meaning": "to suddenly wake up or get up, usually from lying down",
+    "type": "s",
+    "example": [
+      {
+        "file": "muku-1a",
+        "contributor": "",
+        "display": "ムクッ",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "muku-1b",
+        "contributor": "",
+        "display": "むく\u2026",
+        "source": "uncle_at_heart"
+      },
+      {
+        "file": "muku-1c",
+        "contributor": "",
+        "display": "むくっ",
+        "source": "uncle_at_heart"
+      }
+    ]
+  }],
+  "id": "muku"
+}

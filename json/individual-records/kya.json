@@ -1,0 +1,62 @@
+{
+  "hiragana": [
+    "きゃ",
+    "きゃっ",
+    "きゃー",
+    "きゃーっ",
+    "きゃぁ",
+    "きゃぁぁ",
+    "きゃあ",
+    "きゃああ",
+    "きゃん",
+    "きゃーん"
+  ],
+  "romaji": [
+    "kya",
+    "kyan"
+  ],
+  "katakana": [
+    "キャ",
+    "キャッ",
+    "キャー",
+    "キャーッ",
+    "キャァ",
+    "キャァァ",
+    "キャア",
+    "キャアア",
+    "キャン",
+    "キャーン"
+  ],
+  "definition": [{
+    "equivalent": [
+      "scream",
+      "screech",
+      "shriek",
+      "squeal"
+    ],
+    "refer": "",
+    "meaning": "high-pitched emotional scream, as from fear, surprise, or excitement",
+    "type": "v",
+    "example": [
+      {
+        "file": "kya-1a",
+        "contributor": "",
+        "display": "きゃーっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "kya-1b",
+        "contributor": "",
+        "display": "きゃー!!",
+        "source": "rock_n_roll_ladies"
+      },
+      {
+        "file": "kya_kyan-1c",
+        "contributor": "",
+        "display": "きゃん",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "id": "kya_kyan"
+}

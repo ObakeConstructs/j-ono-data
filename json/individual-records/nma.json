@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "んま",
+    "んまっ"
+  ],
+  "romaji": ["nma"],
+  "katakana": [
+    "ンマ",
+    "ンマッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "mmm",
+      "so good",
+      "yum"
+    ],
+    "refer": "",
+    "meaning": "vocalization while savoring food, expressing pleasure or satisfaction",
+    "type": "v",
+    "example": [{
+      "file": "nma-1a",
+      "contributor": "",
+      "display": "んまっ",
+      "source": "kuma_kuma_kuma_bear"
+    }]
+  }],
+  "id": "nma"
+}

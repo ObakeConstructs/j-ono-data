@@ -1,0 +1,27 @@
+{
+  "hiragana": ["むずむず"],
+  "romaji": ["muzu muzu"],
+  "katakana": ["ムズムズ"],
+  "definition": [{
+    "equivalent": [
+      "anxious",
+      "fidgety",
+      "impatient",
+      "nervous",
+      "restless",
+      "tense",
+      "uneasy",
+      "unnerved"
+    ],
+    "refer": "",
+    "meaning": "impatience, or anxious restlessness",
+    "type": "s",
+    "example": [{
+      "file": "muzu_muzu-1a",
+      "contributor": "",
+      "display": "ムズ ムズ",
+      "source": "eternal_fool_asley"
+    }]
+  }],
+  "id": "muzu_muzu"
+}

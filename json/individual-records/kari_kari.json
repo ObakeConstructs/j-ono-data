@@ -1,0 +1,45 @@
+{
+  "hiragana": ["かりかり"],
+  "romaji": ["kari kari"],
+  "katakana": ["カリカリ"],
+  "definition": [{
+    "equivalent": [
+      "crackle",
+      "crunch",
+      "rustle",
+      "scratch",
+      "scribble",
+      "scritch"
+    ],
+    "refer": "",
+    "meaning": "small, crisp, scraping or scratching sounds",
+    "type": "o",
+    "example": [
+      {
+        "file": "kari_kari-1a",
+        "contributor": "",
+        "display": "カリ カリ",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "kari_kari-1b",
+        "contributor": "",
+        "display": "カリ カリ",
+        "source": "isekai_pickup"
+      },
+      {
+        "file": "kari_kari-1c",
+        "contributor": "",
+        "display": "カリカリ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "kari_kari-1d",
+        "contributor": "",
+        "display": "カリ カリ カリ",
+        "source": "world_full_of_zombies"
+      }
+    ]
+  }],
+  "id": "kari_kari"
+}

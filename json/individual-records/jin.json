@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "じん",
+    "じんっ",
+    "じーん",
+    "じーんっ"
+  ],
+  "romaji": ["jin"],
+  "katakana": [
+    "ジン",
+    "ジンッ",
+    "ジーン",
+    "ジーンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "ji:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jin-1a",
+      "contributor": "",
+      "display": "じーん",
+      "source": "reincarnated_farm_girl"
+    }]
+  }],
+  "id": "jin"
+}

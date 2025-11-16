@@ -1,0 +1,43 @@
+{
+  "hiragana": [
+    "もぞ",
+    "もぞっ",
+    "もぞもぞ"
+  ],
+  "romaji": [
+    "mozo",
+    "mozo mozo"
+  ],
+  "katakana": [
+    "モゾ",
+    "モゾッ",
+    "モゾモゾ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fidget",
+      "squirm",
+      "thrash",
+      "wriggle",
+      "writhe"
+    ],
+    "refer": "",
+    "meaning": "small, awkward or clumsy squirming or wriggling, often from embarrassment",
+    "type": "s",
+    "example": [
+      {
+        "file": "mozo-1a",
+        "contributor": "",
+        "display": "もぞ\u2026",
+        "source": "world_full_of_zombies"
+      },
+      {
+        "file": "mozo-1b",
+        "contributor": "",
+        "display": "もぞ もぞ もぞ",
+        "source": "beastly_boys_and_girls"
+      }
+    ]
+  }],
+  "id": "mozo"
+}

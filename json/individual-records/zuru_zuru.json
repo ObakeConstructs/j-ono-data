@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ずるずる",
+    "ずるずるっ"
+  ],
+  "romaji": ["zuru zuru"],
+  "katakana": [
+    "ズルズル",
+    "ズルズルッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "zuri_zuri:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "zuru_zuru-1a",
+      "contributor": "",
+      "display": "ずるずる",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "id": "zuru_zuru"
+}

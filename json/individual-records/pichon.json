@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ぴちょん",
+    "ぴちょーん"
+  ],
+  "romaji": ["pichon"],
+  "katakana": [
+    "ピチョン",
+    "ピチョーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "pichan:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "pichon-1a",
+      "contributor": "",
+      "display": "ぴちょーん",
+      "source": "s_rank_behemoth"
+    }]
+  }],
+  "id": "pichon"
+}

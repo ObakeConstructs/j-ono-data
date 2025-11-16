@@ -1,0 +1,28 @@
+{
+  "hiragana": [
+    "どしん",
+    "どしーん",
+    "どっしん",
+    "どっしーん"
+  ],
+  "romaji": ["doshin"],
+  "katakana": [
+    "ドシン",
+    "ドシーン",
+    "ドッシン",
+    "ドッシーン"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "dosa:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "doshin-1a",
+      "contributor": "",
+      "display": "どっしーん",
+      "source": "way_of_the_house_husband"
+    }]
+  }],
+  "id": "doshin"
+}

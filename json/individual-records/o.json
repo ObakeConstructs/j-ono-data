@@ -1,0 +1,73 @@
+{
+  "hiragana": [
+    "お",
+    "おっ",
+    "おお",
+    "おおっ",
+    "おおお",
+    "おおおっ"
+  ],
+  "romaji": ["o"],
+  "katakana": [
+    "オ",
+    "オッ",
+    "オオ",
+    "オオッ",
+    "オオオ",
+    "オオオッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "admiration",
+        "amazed",
+        "delighted",
+        "excited",
+        "oh",
+        "surprised",
+        "thrilled",
+        "woah"
+      ],
+      "refer": "",
+      "meaning": "a reaction of surprise or excitement",
+      "type": "e",
+      "example": [
+        {
+          "file": "o-1a",
+          "contributor": "",
+          "display": "お",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "o-1b",
+          "contributor": "",
+          "display": "おおおっ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "o-1c",
+          "contributor": "",
+          "display": "おおっ",
+          "source": "otherworld_material_collector"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "bellow",
+        "howl",
+        "roar"
+      ],
+      "refer": "",
+      "meaning": "a menacing roar or howl",
+      "type": "v",
+      "example": [{
+        "file": "o-2a",
+        "contributor": "",
+        "display": "オオッ オオォ",
+        "source": "isekai_sniper"
+      }]
+    }
+  ],
+  "id": "o"
+}

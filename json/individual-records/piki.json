@@ -1,0 +1,62 @@
+{
+  "hiragana": [
+    "ぴき",
+    "ぴきっ"
+  ],
+  "romaji": ["piki"],
+  "katakana": [
+    "ピキ",
+    "ピキッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "crack",
+        "crackle",
+        "pop",
+        "snap"
+      ],
+      "refer": "",
+      "meaning": "cracking or popping sound",
+      "type": "o",
+      "example": [{
+        "file": "piki-1a",
+        "contributor": "",
+        "display": "ピキッ",
+        "source": "strongest_magician_was_human"
+      }]
+    },
+    {
+      "equivalent": [
+        "angry",
+        "annoyed",
+        "furious",
+        "irate",
+        "livid",
+        "mad",
+        "outraged",
+        "pissed",
+        "riled",
+        "snap"
+      ],
+      "refer": "",
+      "meaning": "sudden anger or annoyance",
+      "type": "e",
+      "example": [
+        {
+          "file": "piki-2a",
+          "contributor": "",
+          "display": "ピキ",
+          "source": "fushi_no_kami"
+        },
+        {
+          "file": "piki-2b",
+          "contributor": "",
+          "display": "ピキ..ッ..",
+          "source": "my_s-ranked_daughter"
+        }
+      ]
+    }
+  ],
+  "id": "piki"
+}

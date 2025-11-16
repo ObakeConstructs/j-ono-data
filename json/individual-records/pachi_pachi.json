@@ -1,0 +1,88 @@
+{
+  "hiragana": [
+    "ぱちぱち",
+    "ぱちっぱちっ"
+  ],
+  "romaji": ["pachi pachi"],
+  "katakana": [
+    "パチパチ",
+    "パチッパチッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "crackle",
+        "pop",
+        "snap"
+      ],
+      "refer": "",
+      "meaning": "continuous popping or crackling sounds",
+      "type": "o",
+      "example": [
+        {
+          "file": "pachi_pachi-1a",
+          "contributor": "",
+          "display": "パチ パチ",
+          "source": "hello_work"
+        },
+        {
+          "file": "pachi_pachi-1b",
+          "contributor": "",
+          "display": "パチ パチ",
+          "source": "isekai_pickup"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "applause",
+        "clapping"
+      ],
+      "refer": "",
+      "meaning": "applause",
+      "type": "o",
+      "example": [
+        {
+          "file": "pachi_pachi-2a",
+          "contributor": "",
+          "display": "パチ パチ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "pachi_pachi-2b",
+          "contributor": "",
+          "display": "パチ パチ",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "pachi_pachi-2c",
+          "contributor": "",
+          "display": "パチ パチ パチ",
+          "source": "cheat_pharmacist"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "alluring",
+        "attractive",
+        "charming",
+        "coy",
+        "cute",
+        "flirting",
+        "kittenish",
+        "sparkly"
+      ],
+      "refer": "",
+      "meaning": "cute, charming, or flirtatious",
+      "type": "s",
+      "example": [{
+        "file": "pachi_pachi-3a",
+        "contributor": "",
+        "display": "ぱちっ ぱちっ",
+        "source": "only_sweet_when_alone"
+      }]
+    }
+  ],
+  "id": "pachi_pachi"
+}

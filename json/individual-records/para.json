@@ -1,0 +1,52 @@
+{
+  "hiragana": [
+    "ぱら",
+    "ぱらら",
+    "ぱららら"
+  ],
+  "romaji": ["para"],
+  "katakana": [
+    "パラ",
+    "パララ",
+    "パラララ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flip",
+      "riffle",
+      "skim",
+      "thumb",
+      "turn"
+    ],
+    "refer": "",
+    "meaning": "turning or riffling through pages",
+    "type": "m",
+    "example": [
+      {
+        "file": "para-1a",
+        "contributor": "",
+        "display": "パラ",
+        "source": "d_genesis"
+      },
+      {
+        "file": "para-1b",
+        "contributor": "",
+        "display": "パラララ..",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "para-1c",
+        "contributor": "",
+        "display": "ぱら",
+        "source": "fushi_no_kami"
+      },
+      {
+        "file": "para-1d",
+        "contributor": "",
+        "display": "パラ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "id": "para"
+}

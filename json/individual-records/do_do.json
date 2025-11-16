@@ -1,0 +1,118 @@
+{
+  "hiragana": [
+    "どど",
+    "どぉどぉ",
+    "どおどお",
+    "どどど",
+    "どどどど",
+    "どどっ",
+    "どどどっ",
+    "どどどどど"
+  ],
+  "romaji": ["do do"],
+  "katakana": [
+    "ドド",
+    "ドォドォ",
+    "ドオドオ",
+    "ドドド",
+    "ドドドド",
+    "ドドッ",
+    "ドドドッ",
+    "ドドドドド"
+  ],
+  "definition": [
+    {
+      "equivalent": [""],
+      "refer": "do:1",
+      "meaning": "",
+      "type": "",
+      "example": [
+        {
+          "file": "do_do-1a",
+          "contributor": "",
+          "display": "ドォ ドォ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "do_do-1b",
+          "contributor": "",
+          "display": "ドドドドドド",
+          "source": "reincarnated_aristocrat"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "blaze",
+        "bolt",
+        "careen",
+        "dash",
+        "gallop",
+        "hurtle",
+        "pelt",
+        "race",
+        "run",
+        "rush",
+        "speed",
+        "sprint"
+      ],
+      "refer": "",
+      "meaning": "thunderous running or movement",
+      "type": "m",
+      "example": [
+        {
+          "file": "do_do-2a",
+          "contributor": "",
+          "display": "ドドドド\u2026",
+          "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "do_do-2b",
+          "contributor": "",
+          "display": "ドドドッ",
+          "source": "simple_sword_saint"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "danger",
+        "menace",
+        "peril",
+        "pressure",
+        "risk",
+        "threat"
+      ],
+      "refer": "",
+      "meaning": "menacing presence or emotional pressure",
+      "type": "e",
+      "example": [{
+        "file": "do_do-3a",
+        "contributor": "Artrix",
+        "display": "ドドドドド",
+        "source": "pokemon_xy_break"
+      }]
+    },
+    {
+      "equivalent": [
+        "accelerate",
+        "race",
+        "rev",
+        "roar",
+        "rumble",
+        "speed",
+        "vroom"
+      ],
+      "refer": "",
+      "meaning": "a deep engine rumble or roar",
+      "type": "o",
+      "example": [{
+        "file": "do_do-4a",
+        "contributor": "",
+        "display": "ドドドド",
+        "source": "ai_and_izawa"
+      }]
+    }
+  ],
+  "id": "do_do"
+}

@@ -1,0 +1,88 @@
+{
+  "hiragana": [
+    "わ",
+    "わっ",
+    "わあ",
+    "わあっ",
+    "わああ",
+    "わあああ",
+    "わぁ",
+    "わぁっ",
+    "わぁぁ",
+    "わぁぁぁ",
+    "わーっ"
+  ],
+  "romaji": ["wa"],
+  "katakana": [
+    "ワ",
+    "ワッ",
+    "ワア",
+    "ワアッ",
+    "ワアア",
+    "ワアアア",
+    "ワァ",
+    "ワァッ",
+    "ワァァ",
+    "ワァァァ",
+    "ワーッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "bellow",
+        "howl",
+        "raaa",
+        "roar",
+        "shout",
+        "waa"
+      ],
+      "refer": "",
+      "meaning": "shout in surprise, shock, or fear",
+      "type": "v",
+      "example": [
+        {
+          "file": "wa-1a",
+          "contributor": "",
+          "display": "わっ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "wa-1b",
+          "contributor": "",
+          "display": "ワァァァ",
+          "source": "world_full_of_monsters"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "applaud",
+        "cheer",
+        "festive",
+        "gleeful",
+        "praise",
+        "shout",
+        "yaaa",
+        "yay"
+      ],
+      "refer": "",
+      "meaning": "cheering or gleeful shouting",
+      "type": "v",
+      "example": [
+        {
+          "file": "wa-2a",
+          "contributor": "",
+          "display": "ワァァァ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "wa-2b",
+          "contributor": "",
+          "display": "わーっ",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
+    }
+  ],
+  "id": "wa"
+}

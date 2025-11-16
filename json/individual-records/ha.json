@@ -1,0 +1,118 @@
+{
+  "hiragana": [
+    "は",
+    "はっ",
+    "はあ",
+    "はあっ",
+    "はー",
+    "はーっ",
+    "はぁ",
+    "はぁっ"
+  ],
+  "romaji": ["ha"],
+  "katakana": [
+    "ハ",
+    "ハッ",
+    "ハア",
+    "ハアッ",
+    "ハー",
+    "ハーッ",
+    "ハァ",
+    "ハァッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "gasp",
+        "ha",
+        "haa",
+        "huff",
+        "pant"
+      ],
+      "refer": "",
+      "meaning": "sharp inhale or gasp from exertion, fear, or excitement",
+      "type": "v",
+      "example": [
+        {
+          "file": "ha-1a",
+          "contributor": "",
+          "display": "はあ..",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "ha-1b",
+          "contributor": "",
+          "display": "ハッ",
+          "source": "double_play"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "exhale",
+        "haa",
+        "sigh"
+      ],
+      "refer": "",
+      "meaning": "sigh of weariness or relief",
+      "type": "v",
+      "example": [
+        {
+          "file": "ha-2a",
+          "contributor": "",
+          "display": "は",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ha-2b",
+          "contributor": "",
+          "display": "はぁ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "ha-2c",
+          "contributor": "",
+          "display": "はーっ",
+          "source": "saga_lagging_hero"
+        },
+        {
+          "file": "ha-2d",
+          "contributor": "",
+          "display": "はあー",
+          "source": "mushoku_tensei"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "aha",
+        "gasp",
+        "realize"
+      ],
+      "refer": "",
+      "meaning": "sudden realization or understanding",
+      "type": "e",
+      "example": [
+        {
+          "file": "ha-3a",
+          "contributor": "",
+          "display": "はっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ha-3b",
+          "contributor": "",
+          "display": "ハッ",
+          "source": "hello_work"
+        },
+        {
+          "file": "ha-3c",
+          "contributor": "",
+          "display": "はあ\u2026",
+          "source": "way_of_isekai_cooking"
+        }
+      ]
+    }
+  ],
+  "id": "ha"
+}

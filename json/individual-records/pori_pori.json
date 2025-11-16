@@ -1,0 +1,23 @@
+{
+  "hiragana": ["ぽりぽり"],
+  "romaji": ["pori pori"],
+  "katakana": ["ポリポリ"],
+  "definition": [{
+    "equivalent": [
+      "scrape",
+      "scratch",
+      "scritch",
+      "scuff"
+    ],
+    "refer": "",
+    "meaning": "scratching or scraping sounds",
+    "type": "o",
+    "example": [{
+      "file": "pori_pori-1a",
+      "contributor": "",
+      "display": "ポリ ポリ",
+      "source": "dog_became_strongest"
+    }]
+  }],
+  "id": "pori_pori"
+}

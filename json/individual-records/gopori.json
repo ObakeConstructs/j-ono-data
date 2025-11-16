@@ -1,0 +1,25 @@
+{
+  "hiragana": ["ごぽり"],
+  "romaji": ["gopori"],
+  "katakana": ["ゴポリ"],
+  "definition": [{
+    "equivalent": [
+      "exude",
+      "flow",
+      "glop",
+      "gurgle",
+      "ooze",
+      "seep"
+    ],
+    "refer": "",
+    "meaning": "oozing, seeping, or flowing, typically thick or viscous",
+    "type": "o",
+    "example": [{
+      "file": "gopori-1a",
+      "contributor": "",
+      "display": "ごぽり",
+      "source": "world_full_of_monsters"
+    }]
+  }],
+  "id": "gopori"
+}

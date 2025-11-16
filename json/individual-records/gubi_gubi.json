@@ -1,0 +1,18 @@
+{
+  "hiragana": ["ぐびぐび"],
+  "romaji": ["gubi gubi"],
+  "katakana": ["グビグビ"],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "goku:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "gubi_gubi-1a",
+      "contributor": "",
+      "display": "ぐび ぐび",
+      "source": "different_world_smartphone"
+    }]
+  }],
+  "id": "gubi_gubi"
+}

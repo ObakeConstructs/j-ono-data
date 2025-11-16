@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "じゃきん",
+    "じゃきんっ"
+  ],
+  "romaji": ["jakin"],
+  "katakana": [
+    "ジャキン",
+    "ジャキンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "jaki:1",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "jakin-1a",
+      "contributor": "",
+      "display": "ジャキンッ",
+      "source": "shogun_gold_in_america"
+    }]
+  }],
+  "id": "jakin"
+}

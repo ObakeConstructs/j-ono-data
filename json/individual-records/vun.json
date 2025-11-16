@@ -1,0 +1,44 @@
+{
+  "hiragana": [
+    "ゔん",
+    "ゔんっ"
+  ],
+  "romaji": ["vun"],
+  "katakana": [
+    "ヴン",
+    "ヴンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "fwoom",
+      "hum",
+      "voom",
+      "whoom",
+      "whoosh"
+    ],
+    "refer": "",
+    "meaning": "short rush of energy or power",
+    "type": "o",
+    "example": [
+      {
+        "file": "vun-1a",
+        "contributor": "",
+        "display": "ヴン\u2026!",
+        "source": "hello_work"
+      },
+      {
+        "file": "vun-1b",
+        "contributor": "",
+        "display": "ヴン",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "vun-1c",
+        "contributor": "",
+        "display": "ヴンッ",
+        "source": "isekai_territory_reform"
+      }
+    ]
+  }],
+  "id": "vun"
+}

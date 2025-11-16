@@ -1,0 +1,57 @@
+{
+  "hiragana": [
+    "じゅうぅ",
+    "じゅー",
+    "じゅぅ",
+    "じゅぅぅ",
+    "じゅぅぅぅ",
+    "じゅう",
+    "じゅうう",
+    "じゅううう"
+  ],
+  "romaji": ["ju"],
+  "katakana": [
+    "ジュウゥ",
+    "ジュー",
+    "ジュゥ",
+    "ジュゥゥ",
+    "ジュゥゥゥ",
+    "ジュウ",
+    "ジュウウ",
+    "ジュウウウ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "burn",
+      "fizz",
+      "hiss",
+      "juicy",
+      "sizzle",
+      "steam"
+    ],
+    "refer": "",
+    "meaning": "hissing or sizzling, as from cooking",
+    "type": "o",
+    "example": [
+      {
+        "file": "ju-1a",
+        "contributor": "",
+        "display": "ジュウウ\u2026",
+        "source": "strongest_thread_master"
+      },
+      {
+        "file": "ju-1b",
+        "contributor": "",
+        "display": "じゅう",
+        "source": "way_of_the_house_husband"
+      },
+      {
+        "file": "ju-1c",
+        "contributor": "",
+        "display": "ゅぅぅ\u2026",
+        "source": "shogun_gold_in_america"
+      }
+    ]
+  }],
+  "id": "ju"
+}

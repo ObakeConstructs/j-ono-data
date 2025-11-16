@@ -1,0 +1,45 @@
+{
+  "hiragana": ["なでなで"],
+  "romaji": ["nade nade"],
+  "katakana": ["ナデナデ"],
+  "definition": [{
+    "equivalent": [
+      "caress",
+      "comfort",
+      "pamper",
+      "pat",
+      "pet",
+      "stroke"
+    ],
+    "refer": "",
+    "meaning": "an expression of comfort, praise, or fondness by stroking or patting someone, usually on the top of the head",
+    "type": "s",
+    "example": [
+      {
+        "file": "nade_nade-1a",
+        "contributor": "",
+        "display": "ナデ ナデ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "nade_nade-1b",
+        "contributor": "",
+        "display": "なで なで",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "nade_nade-1c",
+        "contributor": "",
+        "display": "なで なで",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "nade_nade-1d",
+        "contributor": "",
+        "display": "ナデ ナデ",
+        "source": "cheat_pharmacist"
+      }
+    ]
+  }],
+  "id": "nade_nade"
+}

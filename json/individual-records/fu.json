@@ -1,0 +1,145 @@
+{
+  "hiragana": [
+    "ふ",
+    "ふっ",
+    "ふー",
+    "ふーっ",
+    "ふう",
+    "ふうっ",
+    "ふぅ",
+    "ふぅっ"
+  ],
+  "romaji": ["fu"],
+  "katakana": [
+    "フ",
+    "フッ",
+    "フー",
+    "フーッ",
+    "フウ",
+    "フウッ",
+    "フゥ",
+    "フゥッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "chortle",
+        "chuckle",
+        "grin",
+        "ha",
+        "heh",
+        "laugh",
+        "smile",
+        "smirk",
+        "snicker"
+      ],
+      "refer": "",
+      "meaning": "a quick, short laugh",
+      "type": "v",
+      "example": [
+        {
+          "file": "fu-1a",
+          "contributor": "",
+          "display": "ふっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "fu-1b",
+          "contributor": "",
+          "display": "ふ\u2026",
+          "source": "d_genesis"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "fwip",
+        "fwit",
+        "fwoom",
+        "pop",
+        "shoom",
+        "snap",
+        "whoom"
+      ],
+      "refer": "",
+      "meaning": "a sudden or fast movement",
+      "type": "m",
+      "example": [
+        {
+          "file": "fu-2a",
+          "contributor": "",
+          "display": "フッ",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "fu-2b",
+          "contributor": "",
+          "display": "フーッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "fu-2c",
+          "contributor": "",
+          "display": "フッ",
+          "source": "d_genesis"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "ease",
+        "fwhew",
+        "gasp",
+        "ha",
+        "haa",
+        "pant",
+        "phew",
+        "release",
+        "relief",
+        "whew"
+      ],
+      "refer": "",
+      "meaning": "an exhale or release of breath",
+      "type": "v",
+      "example": [
+        {
+          "file": "fu-3a",
+          "contributor": "",
+          "display": "ふーっ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "fu-3b",
+          "contributor": "",
+          "display": "ふう",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "fu-3c",
+          "contributor": "",
+          "display": "フウ",
+          "source": "peter_grill"
+        },
+        {
+          "file": "fu-3d",
+          "contributor": "",
+          "display": "ふぅ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "fu-3e",
+          "contributor": "",
+          "display": "ふぅっ",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "fu-3f",
+          "contributor": "",
+          "display": "ふぅ",
+          "source": "fushi_no_kami"
+        }
+      ]
+    }
+  ],
+  "id": "fu"
+}

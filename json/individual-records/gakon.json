@@ -1,0 +1,47 @@
+{
+  "hiragana": [
+    "がこん",
+    "がこんっ"
+  ],
+  "romaji": ["gakon"],
+  "katakana": [
+    "ガコン",
+    "ガコンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bank",
+      "clunk",
+      "ga-thunk",
+      "ka-thunk",
+      "knock",
+      "thunk",
+      "thwack",
+      "tonk"
+    ],
+    "refer": "",
+    "meaning": "a hollow clunking or banging sound",
+    "type": "o",
+    "example": [
+      {
+        "file": "gakon-1a",
+        "contributor": "",
+        "display": "ガコンッ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "gakon-1b",
+        "contributor": "",
+        "display": "ガコン",
+        "source": "hanako_24th_ward"
+      },
+      {
+        "file": "gakon-1c",
+        "contributor": "",
+        "display": "ガコン",
+        "source": "dog_became_strongest"
+      }
+    ]
+  }],
+  "id": "gakon"
+}

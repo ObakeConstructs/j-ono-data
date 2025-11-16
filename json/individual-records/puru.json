@@ -1,0 +1,68 @@
+{
+  "hiragana": [
+    "ぷる",
+    "ぷるる",
+    "ぷるるる",
+    "ぷるっ",
+    "ぷるるっ"
+  ],
+  "romaji": ["puru"],
+  "katakana": [
+    "プル",
+    "プルル",
+    "プルルル",
+    "プルッ",
+    "プルルッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "buzz",
+        "hum",
+        "quiver",
+        "tremble",
+        "vibrate"
+      ],
+      "refer": "",
+      "meaning": "the sound of a rapid, fine vibration or buzz",
+      "type": "o",
+      "example": [
+        {
+          "file": "puru-1a",
+          "contributor": "",
+          "display": "プルルル",
+          "source": "drawing"
+        },
+        {
+          "file": "puru-1b",
+          "contributor": "",
+          "display": "プルルル\u2026.",
+          "source": "sex_with_me_sells"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "boing",
+        "jiggle",
+        "quiver",
+        "shake",
+        "shiver",
+        "shudder",
+        "sway",
+        "tremble",
+        "wobble"
+      ],
+      "refer": "",
+      "meaning": "a wobbling or shaking motion",
+      "type": "m",
+      "example": [{
+        "file": "puru-2a",
+        "contributor": "",
+        "display": "ぷるるっ",
+        "source": "beastly_boys_and_girls"
+      }]
+    }
+  ],
+  "id": "puru"
+}

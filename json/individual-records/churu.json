@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "ちゅる",
+    "ちゅるっ"
+  ],
+  "romaji": ["churu"],
+  "katakana": [
+    "チュル",
+    "チュルッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "chupu:1",
+    "meaning": "",
+    "type": "",
+    "example": [
+      {
+        "file": "churu-1a",
+        "contributor": "",
+        "display": "ちゅる",
+        "source": "d_genesis"
+      },
+      {
+        "file": "churu-1b",
+        "contributor": "",
+        "display": "チュル..",
+        "source": "rise_of_the_outlaw_tamer"
+      }
+    ]
+  }],
+  "id": "churu"
+}

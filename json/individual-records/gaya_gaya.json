@@ -1,0 +1,46 @@
+{
+  "hiragana": [
+    "がやがや",
+    "がゃがゃ"
+  ],
+  "romaji": ["gaya gaya"],
+  "katakana": [
+    "ガヤガヤ",
+    "ガャガャ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "babel",
+      "blah",
+      "bustle",
+      "cacophony",
+      "chatter",
+      "clamor",
+      "hubbub"
+    ],
+    "refer": "",
+    "meaning": "inharmonious noises from a crowd of people",
+    "type": "o",
+    "example": [
+      {
+        "file": "gaya_gaya-1a",
+        "contributor": "",
+        "display": "ガヤ ガヤ",
+        "source": "reincarnated_farm_girl"
+      },
+      {
+        "file": "gaya_gaya-1b",
+        "contributor": "",
+        "display": "がや がや",
+        "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "gaya_gaya-1c",
+        "contributor": "",
+        "display": "がや がや がや がや がや がや がや",
+        "source": "sex_with_me_sells"
+      }
+    ]
+  }],
+  "id": "gaya_gaya"
+}

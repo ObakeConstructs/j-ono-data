@@ -1,0 +1,83 @@
+{
+  "hiragana": [
+    "ぐす",
+    "ぐすっ",
+    "ぐすん",
+    "ぐすんぐすん",
+    "ぐすぐす",
+    "ぐすっぐすっ"
+  ],
+  "romaji": [
+    "gusu",
+    "gusun",
+    "gusun gusun",
+    "gusu gusu"
+  ],
+  "katakana": [
+    "グス",
+    "グスッ",
+    "グスン",
+    "グスングスン",
+    "グスグス",
+    "グスッグスッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "blub",
+      "cry",
+      "sniff",
+      "sniffle",
+      "sob",
+      "tears",
+      "weep"
+    ],
+    "refer": "",
+    "meaning": "the soft sniffling or sobbing sound of crying",
+    "type": "v",
+    "example": [
+      {
+        "file": "gusu-1a",
+        "contributor": "",
+        "display": "ぐすっ",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "gusu-1b",
+        "contributor": "",
+        "display": "ぐすっ",
+        "source": "mushoku_tensei"
+      },
+      {
+        "file": "gusu_gusun-1c",
+        "contributor": "",
+        "display": "ぐすん",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "gusu_gusun-1d",
+        "contributor": "",
+        "display": "ぐすん ぐすん",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "gusu_gusun-1e",
+        "contributor": "",
+        "display": "ぐすっ ぐすっ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "gusu_gusun-1f",
+        "contributor": "",
+        "display": "ぐすっ ぐすっ",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "gusu_gusun-1g",
+        "contributor": "",
+        "display": "ぐす ぐす",
+        "source": "mushoku_tensei"
+      }
+    ]
+  }],
+  "id": "gusu_gusun"
+}

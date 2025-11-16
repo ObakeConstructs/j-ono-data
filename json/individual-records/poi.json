@@ -1,0 +1,55 @@
+{
+  "hiragana": [
+    "ぽい",
+    "ぽいっ",
+    "ぽぃ",
+    "ぽぃっ"
+  ],
+  "romaji": ["poi"],
+  "katakana": [
+    "ポイ",
+    "ポイッ",
+    "ポィ",
+    "ポィッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "chuck",
+      "discard",
+      "junk",
+      "throw away",
+      "toss",
+      "unload"
+    ],
+    "refer": "",
+    "meaning": "a light, casual toss, often dismissive or indifferent",
+    "type": "m",
+    "example": [
+      {
+        "file": "poi-1a",
+        "contributor": "",
+        "display": "ぽい",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "poi-1b",
+        "contributor": "",
+        "display": "ポィ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "poi-1c",
+        "contributor": "",
+        "display": "ポィッ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "poi-1d",
+        "contributor": "",
+        "display": "ポィ",
+        "source": "gyaru_academy"
+      }
+    ]
+  }],
+  "id": "poi"
+}

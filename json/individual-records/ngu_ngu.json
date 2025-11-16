@@ -1,0 +1,25 @@
+{
+  "hiragana": ["んぐんぐ"],
+  "romaji": ["ngu ngu"],
+  "katakana": ["ングング"],
+  "definition": [{
+    "equivalent": [
+      "drink",
+      "glug",
+      "gulp",
+      "quaff",
+      "swallow",
+      "swig"
+    ],
+    "refer": "",
+    "meaning": "gulping while drinking",
+    "type": "o",
+    "example": [{
+      "file": "ngu_ngu-1a",
+      "contributor": "",
+      "display": "んぐ んぐ",
+      "source": "reincarnated_as_a_dragon_egg"
+    }]
+  }],
+  "id": "ngu_ngu"
+}

@@ -1,0 +1,29 @@
+{
+  "hiragana": [
+    "ぼす",
+    "ぼすっ"
+  ],
+  "romaji": ["bosu"],
+  "katakana": [
+    "ボス",
+    "ボスッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "flump",
+      "thoomph",
+      "thud",
+      "whoomph"
+    ],
+    "refer": "",
+    "meaning": "soft thud or cushioned impact",
+    "type": "o",
+    "example": [{
+      "file": "bosu-1a",
+      "contributor": "",
+      "display": "ボスッ",
+      "source": "mushoku_tensei"
+    }]
+  }],
+  "id": "bosu"
+}

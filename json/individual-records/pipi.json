@@ -1,0 +1,45 @@
+{
+  "hiragana": [
+    "ぴぴ",
+    "ぴぴぴ",
+    "ぴっぴっ",
+    "ぴっぴっぴっ"
+  ],
+  "romaji": ["pipi"],
+  "katakana": [
+    "ピピ",
+    "ピピピ",
+    "ピッピッ",
+    "ピッピッピッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beep",
+      "cheep",
+      "chirp",
+      "ding",
+      "peep",
+      "ping",
+      "pip",
+      "tweet"
+    ],
+    "refer": "",
+    "meaning": "quick, high-pitched chirps or tones",
+    "type": "o",
+    "example": [
+      {
+        "file": "pipi-1a",
+        "contributor": "",
+        "display": "ぴぴぴ",
+        "source": "my_s-ranked_daughter"
+      },
+      {
+        "file": "pipi-1b",
+        "contributor": "",
+        "display": "ピッ ピッ ピッ ピッ ピッ ピッ ピッ",
+        "source": "ai_and_izawa"
+      }
+    ]
+  }],
+  "id": "pipi"
+}

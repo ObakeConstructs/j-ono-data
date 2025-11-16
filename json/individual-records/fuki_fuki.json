@@ -1,0 +1,23 @@
+{
+  "hiragana": ["ふきふき"],
+  "romaji": ["fuki fuki"],
+  "katakana": ["フキフキ"],
+  "definition": [{
+    "equivalent": [
+      "brush",
+      "rub",
+      "scrub",
+      "wipe"
+    ],
+    "refer": "",
+    "meaning": "lightly brushing or wiping",
+    "type": "m",
+    "example": [{
+      "file": "fuki_fuki-1a",
+      "contributor": "",
+      "display": "ふき ふき",
+      "source": "beastly_boys_and_girls"
+    }]
+  }],
+  "id": "fuki_fuki"
+}

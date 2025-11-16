@@ -1,0 +1,49 @@
+{
+  "hiragana": [
+    "すり",
+    "すりっ",
+    "すりすり",
+    "すりっすりっ"
+  ],
+  "romaji": [
+    "suri",
+    "suri suri"
+  ],
+  "katakana": [
+    "スリ",
+    "スリッ",
+    "スリスリ",
+    "スリッスリッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "caress",
+      "feel",
+      "fondle",
+      "glide",
+      "pet",
+      "rub",
+      "slide",
+      "stroke",
+      "touch"
+    ],
+    "refer": "",
+    "meaning": "soft rubbing or sliding contact",
+    "type": "m",
+    "example": [
+      {
+        "file": "suri-1a",
+        "contributor": "",
+        "display": "すりっ",
+        "source": "embarrassing_and_sweet"
+      },
+      {
+        "file": "suri-1b",
+        "contributor": "",
+        "display": "スリ スリ",
+        "source": "only_sweet_when_alone"
+      }
+    ]
+  }],
+  "id": "suri"
+}

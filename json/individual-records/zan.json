@@ -1,0 +1,43 @@
+{
+  "hiragana": [
+    "ざん",
+    "ざんっ"
+  ],
+  "romaji": ["zan"],
+  "katakana": [
+    "ザン",
+    "ザンッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "cleave",
+      "cut",
+      "slash",
+      "slice"
+    ],
+    "refer": "",
+    "meaning": "sharp, decisive slice, typically with a blade",
+    "type": "o",
+    "example": [
+      {
+        "file": "zan-1a",
+        "contributor": "",
+        "display": "ザン!",
+        "source": "hello_work"
+      },
+      {
+        "file": "zan-1b",
+        "contributor": "",
+        "display": "ザンッ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "zan-1c",
+        "contributor": "",
+        "display": "ザン",
+        "source": "saga_lagging_hero"
+      }
+    ]
+  }],
+  "id": "zan"
+}

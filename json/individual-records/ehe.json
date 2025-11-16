@@ -1,0 +1,30 @@
+{
+  "hiragana": [
+    "えへ",
+    "えへへ"
+  ],
+  "romaji": ["ehe"],
+  "katakana": [
+    "エヘ",
+    "エヘヘ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "chuckle",
+      "grin",
+      "hah",
+      "heh",
+      "titter"
+    ],
+    "refer": "",
+    "meaning": "strained, forced, or embarrassed laughter",
+    "type": "v",
+    "example": [{
+      "file": "ehe-1a",
+      "contributor": "",
+      "display": "えへへ",
+      "source": "isekai_territory_reform"
+    }]
+  }],
+  "id": "ehe"
+}

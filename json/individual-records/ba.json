@@ -1,0 +1,120 @@
+{
+  "hiragana": [
+    "ば",
+    "ばっ"
+  ],
+  "romaji": ["ba"],
+  "katakana": [
+    "バ",
+    "バッ"
+  ],
+  "definition": [
+    {
+      "equivalent": [
+        "about-face",
+        "pivot",
+        "spin",
+        "turn",
+        "whirl"
+      ],
+      "refer": "",
+      "meaning": "turning around suddenly",
+      "type": "m",
+      "example": [
+        {
+          "file": "ba-1a",
+          "contributor": "",
+          "display": "バッ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ba-1b",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "ba-1c",
+          "contributor": "",
+          "display": "バッ",
+          "source": "yojo_life"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "charge",
+        "dash",
+        "fwip",
+        "fwit",
+        "pop",
+        "shoom",
+        "snap",
+        "whoom",
+        "zip"
+      ],
+      "refer": "",
+      "meaning": "a sudden and/or fast movement",
+      "type": "m",
+      "example": [
+        {
+          "file": "ba-2a",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "ba-2b",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "ba-2c",
+          "contributor": "",
+          "display": "バッ",
+          "source": "strongest_magician_was_human"
+        },
+        {
+          "file": "ba-2d",
+          "contributor": "",
+          "display": "バッ",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "ba-2e",
+          "contributor": "",
+          "display": "バッ",
+          "source": "d_genesis"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "display",
+        "reveal",
+        "show",
+        "ta-da",
+        "unveil"
+      ],
+      "refer": "",
+      "meaning": "revealing or showing something suddenly",
+      "type": "m",
+      "example": [
+        {
+          "file": "ba-3a",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "ba-3b",
+          "contributor": "",
+          "display": "ばっ",
+          "source": "way_of_isekai_cooking"
+        }
+      ]
+    }
+  ],
+  "id": "ba"
+}

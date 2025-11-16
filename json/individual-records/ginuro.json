@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ぎぬろ",
+    "ぎぬろぉ"
+  ],
+  "romaji": ["ginuro"],
+  "katakana": [
+    "ギヌロ",
+    "ギヌロォ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "gin:1",
+    "meaning": ", typically drawn out and menacing",
+    "type": "",
+    "example": [{
+      "file": "ginuro-1a",
+      "contributor": "",
+      "display": "ギヌロォ..!",
+      "source": "hello_work"
+    }]
+  }],
+  "id": "ginuro"
+}

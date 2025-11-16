@@ -1,0 +1,32 @@
+{
+  "hiragana": [
+    "きき",
+    "ききき"
+  ],
+  "romaji": ["ki ki"],
+  "katakana": [
+    "キキ",
+    "キキキ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "beep-beep",
+      "chime",
+      "ding-ding",
+      "gong-gong",
+      "knell",
+      "peal",
+      "toll"
+    ],
+    "refer": "",
+    "meaning": "continuous warning bells or alert tones",
+    "type": "o",
+    "example": [{
+      "file": "ki_ki-1a",
+      "contributor": "",
+      "display": "キ キ キ キ",
+      "source": "saga_lagging_hero"
+    }]
+  }],
+  "id": "ki_ki"
+}

@@ -1,0 +1,27 @@
+{
+  "hiragana": ["ひりひり"],
+  "romaji": ["hiri hiri"],
+  "katakana": ["ヒリヒリ"],
+  "definition": [{
+    "equivalent": [
+      "ache",
+      "burn",
+      "pang",
+      "sting",
+      "tender",
+      "throb",
+      "tingle",
+      "twinge"
+    ],
+    "refer": "",
+    "meaning": "an expression of a tingling, stinging or mild burning sensation",
+    "type": "s",
+    "example": [{
+      "file": "hiri_hiri-1a",
+      "contributor": "",
+      "display": "ヒリヒリ",
+      "source": "cheat_pharmacist"
+    }]
+  }],
+  "id": "hiri_hiri"
+}

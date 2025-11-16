@@ -1,0 +1,24 @@
+{
+  "hiragana": [
+    "ぷるんぷるん",
+    "ぷるんぷるんっ"
+  ],
+  "romaji": ["purun purun"],
+  "katakana": [
+    "プルンプルン",
+    "プルンプルンッ"
+  ],
+  "definition": [{
+    "equivalent": [""],
+    "refer": "puru:2",
+    "meaning": "",
+    "type": "",
+    "example": [{
+      "file": "purun_purun-1a",
+      "contributor": "",
+      "display": "プルン プルンッ",
+      "source": "gyaru_academy"
+    }]
+  }],
+  "id": "purun_purun"
+}

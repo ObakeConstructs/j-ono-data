@@ -1,0 +1,47 @@
+{
+  "hiragana": [
+    "ぴか",
+    "ぴかっ",
+    "ぴかー",
+    "ぴかーっ"
+  ],
+  "romaji": ["pika"],
+  "katakana": [
+    "ピカ",
+    "ピカッ",
+    "ピカー",
+    "ピカーッ"
+  ],
+  "definition": [{
+    "equivalent": [
+      "bright",
+      "dazzle",
+      "gleam",
+      "glimmer",
+      "glitter",
+      "glow",
+      "light",
+      "radiance",
+      "shine",
+      "sparkle"
+    ],
+    "refer": "",
+    "meaning": "a sudden or bright flash of light",
+    "type": "m",
+    "example": [
+      {
+        "file": "pika-1a",
+        "contributor": "",
+        "display": "ピカッ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "pika-1b",
+        "contributor": "",
+        "display": "ピカ",
+        "source": "blazing_fire_brigade"
+      }
+    ]
+  }],
+  "id": "pika"
+}
