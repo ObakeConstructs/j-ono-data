@@ -1,7 +1,16 @@
 {
-  "hiragana": ["ちき"],
-  "romaji": ["chiki"],
-  "katakana": ["チキ"],
+  "hiragana": [
+    "ちき",
+    "ちきちき"
+  ],
+  "romaji": [
+    "chiki",
+    "chiki chiki"
+  ],
+  "katakana": [
+    "チキ",
+    "チキチキ"
+  ],
   "definition": [{
     "equivalent": [
       "chik",
@@ -10,12 +19,20 @@
     "refer": "",
     "meaning": "sharp and short clicking",
     "type": "o",
-    "example": [{
-      "file": "chiki-1a",
-      "contributor": "",
-      "display": "チキ\u2026",
-      "source": "spy_x_family"
-    }]
+    "example": [
+      {
+        "file": "chiki-1a",
+        "contributor": "",
+        "display": "チキ\u2026",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "chiki-1b",
+        "contributor": "",
+        "display": "チキ チキ",
+        "source": "d_genesis"
+      }
+    ]
   }],
   "id": "chiki"
 }

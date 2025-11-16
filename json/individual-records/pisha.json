@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ぴしゃ",
-    "ぴしゃっ"
+    "ぴしゃっ",
+    "ぴしゃん",
+    "ぴしゃーん"
   ],
-  "romaji": ["pisha"],
+  "romaji": [
+    "pisha",
+    "pishan"
+  ],
   "katakana": [
     "ピシャ",
-    "ピシャッ"
+    "ピシャッ",
+    "ピシャン",
+    "ピシャーン"
   ],
   "definition": [{
     "equivalent": [
@@ -22,12 +29,20 @@
     "refer": "",
     "meaning": "sharp emotional shock or disbelief",
     "type": "e",
-    "example": [{
-      "file": "pisha-1a",
-      "contributor": "",
-      "display": "ピシャッ",
-      "source": "uncle_at_heart"
-    }]
+    "example": [
+      {
+        "file": "pisha-1a",
+        "contributor": "",
+        "display": "ピシャッ",
+        "source": "uncle_at_heart"
+      },
+      {
+        "file": "pisha_pishan-1b",
+        "contributor": "",
+        "display": "ピシャーン",
+        "source": "simple_sword_saint"
+      }
+    ]
   }],
-  "id": "pisha"
+  "id": "pisha_pishan"
 }

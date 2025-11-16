@@ -1,12 +1,20 @@
 {
   "hiragana": [
     "かちゃ",
-    "かちゃっ"
+    "かちゃっ",
+    "かちゃん",
+    "かちゃかちゃ"
   ],
-  "romaji": ["kacha"],
+  "romaji": [
+    "kacha",
+    "kachan",
+    "kacha kacha"
+  ],
   "katakana": [
     "カチャ",
-    "カチャッ"
+    "カチャッ",
+    "カチャン",
+    "カチャカチャ"
   ],
   "definition": [{
     "equivalent": [
@@ -38,8 +46,32 @@
         "contributor": "",
         "display": "カチャッ",
         "source": "killed_by_gods_mistake"
+      },
+      {
+        "file": "kacha_kachan-1d",
+        "contributor": "",
+        "display": "カチャン",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "kacha_kachan-1e",
+        "contributor": "",
+        "display": "カチャ カチャ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "kacha_kachan-1f",
+        "contributor": "",
+        "display": "カチャ カチャ",
+        "source": "neet_kunoichi"
+      },
+      {
+        "file": "kacha_kachan-1g",
+        "contributor": "",
+        "display": "カチャ カチャ",
+        "source": "gyaru_academy"
       }
     ]
   }],
-  "id": "kacha"
+  "id": "kacha_kachan"
 }

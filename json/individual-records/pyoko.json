@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ぴょこ",
-    "ぴょこっ"
+    "ぴょこっ",
+    "ぴょこぴょこ",
+    "ぴよこぴよこ"
   ],
-  "romaji": ["pyoko"],
+  "romaji": [
+    "pyoko",
+    "pyoko pyoko"
+  ],
   "katakana": [
     "ピョコ",
-    "ピョコッ"
+    "ピョコッ",
+    "ピョコピョコ",
+    "ピヨコピヨコ"
   ],
   "definition": [{
     "equivalent": [
@@ -20,12 +27,20 @@
     "refer": "",
     "meaning": "a quick movement or sudden appearance, often cute or bouncy",
     "type": "m",
-    "example": [{
-      "file": "pyoko-1a",
-      "contributor": "",
-      "display": "ピョコッ",
-      "source": "yojo_life"
-    }]
+    "example": [
+      {
+        "file": "pyoko-1a",
+        "contributor": "",
+        "display": "ピョコッ",
+        "source": "yojo_life"
+      },
+      {
+        "file": "pyoko-1b",
+        "contributor": "",
+        "display": "ぴょこ ぴょこ",
+        "source": "spy_x_family"
+      }
+    ]
   }],
   "id": "pyoko"
 }

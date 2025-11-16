@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ぱく",
-    "ぱくっ"
+    "ぱくっ",
+    "ぱくぱく",
+    "ぱくっぱくっ"
   ],
-  "romaji": ["paku"],
+  "romaji": [
+    "paku",
+    "paku paku"
+  ],
   "katakana": [
     "パク",
-    "パクッ"
+    "パクッ",
+    "パクパク",
+    "パクッパクッ"
   ],
   "definition": [{
     "equivalent": [
@@ -20,7 +27,7 @@
       "savor"
     ],
     "refer": "",
-    "meaning": "closing one's mouth or biting",
+    "meaning": "closing one's mouth or biting, repeatedly",
     "type": "m",
     "example": [
       {
@@ -34,6 +41,12 @@
         "contributor": "",
         "display": "ぱくっ",
         "source": "shogun_gold_in_america"
+      },
+      {
+        "file": "paku-1c",
+        "contributor": "",
+        "display": "ぱくぱく",
+        "source": "kuma_kuma_kuma_bear"
       }
     ]
   }],

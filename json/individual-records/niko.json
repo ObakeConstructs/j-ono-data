@@ -3,14 +3,21 @@
     "にこ",
     "にこっ",
     "にこお",
-    "にこぉ"
+    "にこぉ",
+    "にこにこ",
+    "にっこにっこ"
   ],
-  "romaji": ["niko"],
+  "romaji": [
+    "niko",
+    "niko niko"
+  ],
   "katakana": [
     "ニコ",
     "ニコッ",
     "ニコオ",
-    "ニコォ"
+    "ニコォ",
+    "ニコニコ",
+    "ニッコニッコ"
   ],
   "definition": [{
     "equivalent": [
@@ -51,6 +58,18 @@
         "contributor": "",
         "display": "にこ",
         "source": "uncle_at_heart"
+      },
+      {
+        "file": "niko-1f",
+        "contributor": "",
+        "display": "ニコ ニコ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "niko-1g",
+        "contributor": "",
+        "display": "ニッコ ニッコ",
+        "source": "yojo_life"
       }
     ]
   }],

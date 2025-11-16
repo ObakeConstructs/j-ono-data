@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "ぞく",
-    "ぞくっ"
+    "ぞくっ",
+    "ぞくぞく"
   ],
-  "romaji": ["zoku"],
+  "romaji": [
+    "zoku",
+    "zoku zoku"
+  ],
   "katakana": [
     "ゾク",
-    "ゾクッ"
+    "ゾクッ",
+    "ゾクゾク"
   ],
   "definition": [{
     "equivalent": [
@@ -48,6 +53,12 @@
         "contributor": "",
         "display": "ぞくっ\u2026",
         "source": "embarrassing_and_sweet"
+      },
+      {
+        "file": "zoku-1e",
+        "contributor": "",
+        "display": "ぞく ぞく",
+        "source": "beastly_boys_and_girls"
       }
     ]
   }],

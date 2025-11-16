@@ -1,12 +1,22 @@
 {
   "hiragana": [
     "きら",
-    "きらっ"
+    "きらっ",
+    "きらん",
+    "きらーん",
+    "きらきら"
   ],
-  "romaji": ["kira"],
+  "romaji": [
+    "kira",
+    "kiran",
+    "kira kira"
+  ],
   "katakana": [
     "キラ",
-    "キラッ"
+    "キラッ",
+    "キラン",
+    "キラーン",
+    "キラキラ"
   ],
   "definition": [{
     "equivalent": [
@@ -35,8 +45,26 @@
         "contributor": "",
         "display": "きらっ",
         "source": "isekai_territory_reform"
+      },
+      {
+        "file": "kira_kiran-1c",
+        "contributor": "",
+        "display": "キラーン",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "kira_kiran-1d",
+        "contributor": "",
+        "display": "キラ キラ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "kira_kiran-1e",
+        "contributor": "",
+        "display": "キラ キラ",
+        "source": "s_rank_behemoth"
       }
     ]
   }],
-  "id": "kira"
+  "id": "kira_kiran"
 }

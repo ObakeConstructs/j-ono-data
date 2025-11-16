@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "ぽぃん",
-    "ぽぃんっ"
+    "ぽぃんっ",
+    "ぽぃんぽぃん"
   ],
-  "romaji": ["poin"],
+  "romaji": [
+    "poin",
+    "poin poin"
+  ],
   "katakana": [
     "ポィン",
-    "ポィンッ"
+    "ポィンッ",
+    "ポィンポィン"
   ],
   "definition": [{
     "equivalent": [
@@ -23,12 +28,20 @@
     "refer": "",
     "meaning": "a soft, bouncy, or springy motion",
     "type": "m",
-    "example": [{
-      "file": "poin-1a",
-      "contributor": "",
-      "display": "ぽぃん.",
-      "source": "buy_the_land"
-    }]
+    "example": [
+      {
+        "file": "poin-1a",
+        "contributor": "",
+        "display": "ぽぃん.",
+        "source": "buy_the_land"
+      },
+      {
+        "file": "poin-1b",
+        "contributor": "",
+        "display": "ポィン ポィーン",
+        "source": "gyaru_academy"
+      }
+    ]
   }],
   "id": "poin"
 }

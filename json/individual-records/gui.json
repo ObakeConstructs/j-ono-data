@@ -3,14 +3,19 @@
     "ぐい",
     "ぐいっ",
     "ぐぃ",
-    "ぐぃっ"
+    "ぐぃっ",
+    "ぐいぐい"
   ],
-  "romaji": ["gui"],
+  "romaji": [
+    "gui",
+    "gui gui"
+  ],
   "katakana": [
     "グイ",
     "グイッ",
     "グィ",
-    "グィッ"
+    "グィッ",
+    "グイグイ"
   ],
   "definition": [{
     "equivalent": [
@@ -60,6 +65,12 @@
         "contributor": "",
         "display": "ぐぃっ",
         "source": "ai_and_izawa"
+      },
+      {
+        "file": "gui-1f",
+        "contributor": "",
+        "display": "ぐい ぐい",
+        "source": "saga_lagging_hero"
       }
     ]
   }],

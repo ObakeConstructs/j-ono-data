@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "ぞろ",
-    "ぞろっ"
+    "ぞろっ",
+    "ぞろぞろ"
   ],
-  "romaji": ["zoro"],
+  "romaji": [
+    "zoro",
+    "zoro zoro"
+  ],
   "katakana": [
     "ゾロ",
-    "ゾロッ"
+    "ゾロッ",
+    "ゾロゾロ"
   ],
   "definition": [{
     "equivalent": [
@@ -23,12 +28,20 @@
     "refer": "",
     "meaning": "sudden unified group movement",
     "type": "m",
-    "example": [{
-      "file": "zoro-1a",
-      "contributor": "",
-      "display": "ぞろっ",
-      "source": "different_world_smartphone"
-    }]
+    "example": [
+      {
+        "file": "zoro-1a",
+        "contributor": "",
+        "display": "ぞろっ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "zoro-1b",
+        "contributor": "",
+        "display": "ぞろ ぞろ",
+        "source": "kuma_kuma_kuma_bear"
+      }
+    ]
   }],
   "id": "zoro"
 }

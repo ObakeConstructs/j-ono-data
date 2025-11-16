@@ -4,15 +4,25 @@
     "にゃぁ",
     "にゃぁぁ",
     "にゃあ",
-    "にゃああ"
+    "にゃああ",
+    "にゃん",
+    "にゃーん",
+    "にゃにゃ"
   ],
-  "romaji": ["nya"],
+  "romaji": [
+    "nya",
+    "nyan",
+    "nya nya"
+  ],
   "katakana": [
     "ニャ",
     "ニャァ",
     "ニャァァ",
     "ニャア",
-    "ニャアア"
+    "ニャアア",
+    "ニャン",
+    "ニャーン",
+    "ニャニャ"
   ],
   "definition": [{
     "equivalent": [
@@ -36,8 +46,26 @@
         "contributor": "",
         "display": "ニャァァ",
         "source": "way_of_the_house_husband"
+      },
+      {
+        "file": "nya_nyan-1c",
+        "contributor": "",
+        "display": "にゃーん!",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "nya_nyan-1d",
+        "contributor": "",
+        "display": "ニャ ニャ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "nya_nyan-1e",
+        "contributor": "",
+        "display": "にゃ にゃ",
+        "source": "yojo_life"
       }
     ]
   }],
-  "id": "nya"
+  "id": "nya_nyan"
 }

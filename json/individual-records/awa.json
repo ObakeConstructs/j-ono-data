@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "あわ",
-    "あわわ"
+    "あわわ",
+    "あわあわ"
   ],
-  "romaji": ["awa"],
+  "romaji": [
+    "awa",
+    "awa awa"
+  ],
   "katakana": [
     "アワ",
-    "アワワ"
+    "アワワ",
+    "アワアワ"
   ],
   "definition": [{
     "equivalent": [
@@ -25,12 +30,20 @@
     "refer": "",
     "meaning": "stammering or exclamation showing panic, confusion, or fluster",
     "type": "v",
-    "example": [{
-      "file": "awa-1a",
-      "contributor": "",
-      "display": "あわわ",
-      "source": "isekai_territory_reform"
-    }]
+    "example": [
+      {
+        "file": "awa-1a",
+        "contributor": "",
+        "display": "あわわ",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "awa-1b",
+        "contributor": "",
+        "display": "アワ アワ アワ",
+        "source": "peter_grill"
+      }
+    ]
   }],
   "id": "awa"
 }

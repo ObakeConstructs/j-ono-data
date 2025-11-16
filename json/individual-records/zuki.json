@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ずき",
-    "ずきっ"
+    "ずきっ",
+    "ずきん",
+    "ずきんっ"
   ],
-  "romaji": ["zuki"],
+  "romaji": [
+    "zuki",
+    "zukin"
+  ],
   "katakana": [
     "ズキ",
-    "ズキッ"
+    "ズキッ",
+    "ズキン",
+    "ズキンッ"
   ],
   "definition": [{
     "equivalent": [
@@ -21,12 +28,20 @@
     "refer": "",
     "meaning": "sharp, sudden pain, either physical or emotional",
     "type": "e",
-    "example": [{
-      "file": "zuki-1a",
-      "contributor": "",
-      "display": "ズキッ",
-      "source": "isekai_territory_reform"
-    }]
+    "example": [
+      {
+        "file": "zuki-1a",
+        "contributor": "",
+        "display": "ズキッ",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "zuki_zukin-1b",
+        "contributor": "",
+        "display": "ズキン",
+        "source": "sex_with_me_sells"
+      }
+    ]
   }],
-  "id": "zuki"
+  "id": "zuki_zukin"
 }

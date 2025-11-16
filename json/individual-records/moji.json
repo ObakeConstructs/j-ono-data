@@ -1,7 +1,16 @@
 {
-  "hiragana": ["もじ"],
-  "romaji": ["moji"],
-  "katakana": ["モジ"],
+  "hiragana": [
+    "もじ",
+    "もじもじ"
+  ],
+  "romaji": [
+    "moji",
+    "moji moji"
+  ],
+  "katakana": [
+    "モジ",
+    "モジモジ"
+  ],
   "definition": [{
     "equivalent": [
       "bashful",
@@ -26,6 +35,24 @@
         "file": "moji-1b",
         "contributor": "",
         "display": "もじ",
+        "source": "only_sweet_when_alone"
+      },
+      {
+        "file": "moji-1c",
+        "contributor": "",
+        "display": "もじ もじ",
+        "source": "neet_kunoichi"
+      },
+      {
+        "file": "moji-1d",
+        "contributor": "",
+        "display": "もじ もじ",
+        "source": "cheat_pharmacist"
+      },
+      {
+        "file": "moji-1e",
+        "contributor": "",
+        "display": "もじ もじ",
         "source": "only_sweet_when_alone"
       }
     ]

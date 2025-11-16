@@ -1,12 +1,20 @@
 {
   "hiragana": [
     "ごく",
-    "ごくっ"
+    "ごくっ",
+    "ごくん",
+    "ごくごく"
   ],
-  "romaji": ["goku"],
+  "romaji": [
+    "goku",
+    "gokun",
+    "goku goku"
+  ],
   "katakana": [
     "ゴク",
-    "ゴクッ"
+    "ゴクッ",
+    "ゴクン",
+    "ゴクゴク"
   ],
   "definition": [{
     "equivalent": [
@@ -34,8 +42,50 @@
         "contributor": "",
         "display": "ごく",
         "source": "dog_became_strongest"
+      },
+      {
+        "file": "goku_gokun-1d",
+        "contributor": "",
+        "display": "ゴクン",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "goku_gokun-1e",
+        "contributor": "",
+        "display": "ゴクン.",
+        "source": "berserk"
+      },
+      {
+        "file": "goku_gokun-1f",
+        "contributor": "",
+        "display": "ゴクン",
+        "source": "rise_of_the_outlaw_tamer"
+      },
+      {
+        "file": "goku_gokun-1g",
+        "contributor": "",
+        "display": "ごく ごく",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "goku_gokun-1h",
+        "contributor": "",
+        "display": "ゴクゴク",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "goku_gokun-1i",
+        "contributor": "",
+        "display": "ゴク ゴク",
+        "source": "otherworld_material_collector"
+      },
+      {
+        "file": "goku_gokun-1j",
+        "contributor": "",
+        "display": "ごく ごく",
+        "source": "cheat_pharmacist"
       }
     ]
   }],
-  "id": "goku"
+  "id": "goku_gokun"
 }

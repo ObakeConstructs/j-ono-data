@@ -1,12 +1,22 @@
 {
   "hiragana": [
     "ばしゃ",
-    "ばしゃっ"
+    "ばしゃっ",
+    "ばしゃん",
+    "ばしゃーん",
+    "ばしゃばしゃ"
   ],
-  "romaji": ["basha"],
+  "romaji": [
+    "basha",
+    "bashan",
+    "basha basha"
+  ],
   "katakana": [
     "バシャ",
-    "バシャッ"
+    "バシャッ",
+    "バシャン",
+    "バシャーン",
+    "バシャバシャ"
   ],
   "definition": [{
     "equivalent": [
@@ -34,8 +44,20 @@
         "contributor": "",
         "display": "バシャッ",
         "source": "requiem_for_prophet"
+      },
+      {
+        "file": "basha_bashan-1c",
+        "contributor": "",
+        "display": "バシャーン..",
+        "source": "buy_the_land"
+      },
+      {
+        "file": "basha_bashan-1d",
+        "contributor": "",
+        "display": "バシャ バシャ",
+        "source": "reincarnated_sage_daughters"
       }
     ]
   }],
-  "id": "basha"
+  "id": "basha_bashan"
 }

@@ -1,10 +1,17 @@
 {
   "hiragana": [
     "すぴ",
+    "すぴー",
+    "すぴ",
     "すぴー"
   ],
-  "romaji": ["supi"],
+  "romaji": [
+    "supi",
+    "supi supi"
+  ],
   "katakana": [
+    "スピ",
+    "スピー",
     "スピ",
     "スピー"
   ],
@@ -30,6 +37,12 @@
         "contributor": "",
         "display": "すぴー",
         "source": "spy_x_family"
+      },
+      {
+        "file": "supi-1c",
+        "contributor": "",
+        "display": "スピー スピー",
+        "source": "dog_became_strongest"
       }
     ]
   }],

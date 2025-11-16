@@ -5,16 +5,23 @@
     "どごぉ",
     "どごっ",
     "どごおっ",
-    "どごぉっ"
+    "どごぉっ",
+    "どごん",
+    "どごんっ"
   ],
-  "romaji": ["dogo"],
+  "romaji": [
+    "dogo",
+    "dogon"
+  ],
   "katakana": [
     "ドゴ",
     "ドゴオ",
     "ドゴォ",
     "ドゴッ",
     "ドゴオッ",
-    "ドゴォッ"
+    "ドゴォッ",
+    "ドゴン",
+    "ドゴンッ"
   ],
   "definition": [{
     "equivalent": [
@@ -62,8 +69,14 @@
         "contributor": "",
         "display": "ドゴオッ",
         "source": "rise_of_the_outlaw_tamer"
+      },
+      {
+        "file": "dogo_dogon-1d",
+        "contributor": "",
+        "display": "ドゴン",
+        "source": "world_full_of_monsters"
       }
     ]
   }],
-  "id": "dogo"
+  "id": "dogo_dogon"
 }

@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "ばし",
-    "ばしっ"
+    "ばしっ",
+    "ばしばし"
   ],
-  "romaji": ["bashi"],
+  "romaji": [
+    "bashi",
+    "bashi bashi"
+  ],
   "katakana": [
     "バシ",
-    "バシッ"
+    "バシッ",
+    "バシバシ"
   ],
   "definition": [{
     "equivalent": [
@@ -25,7 +30,7 @@
       "whomp"
     ],
     "refer": "",
-    "meaning": "sudden or loud impact",
+    "meaning": "sudden or loud impacts",
     "type": "o",
     "example": [
       {
@@ -39,6 +44,12 @@
         "contributor": "",
         "display": "バシ!!",
         "source": "berserk"
+      },
+      {
+        "file": "bashi-1c",
+        "contributor": "",
+        "display": "バシ バシ バシ",
+        "source": "only_sweet_when_alone"
       }
     ]
   }],

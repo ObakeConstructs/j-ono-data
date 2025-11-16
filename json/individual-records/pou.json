@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ぽう",
-    "ぽぅ"
+    "ぽぅ",
+    "ぽうぽう",
+    "ぽぅぽぅ"
   ],
-  "romaji": ["pou"],
+  "romaji": [
+    "pou",
+    "pou pou"
+  ],
   "katakana": [
     "ポウ",
-    "ポゥ"
+    "ポゥ",
+    "ポウポウ",
+    "ポゥポゥ"
   ],
   "definition": [{
     "equivalent": [
@@ -37,6 +44,12 @@
         "contributor": "",
         "display": "ポゥ",
         "source": "minimum_wage_demon_king"
+      },
+      {
+        "file": "pou-1d",
+        "contributor": "",
+        "display": "ポゥ ポゥ",
+        "source": "reincarnated_sage_daughters"
       }
     ]
   }],

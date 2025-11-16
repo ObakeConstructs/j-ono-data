@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "ごろ",
-    "ごろっ"
+    "ごろっ",
+    "ごろん"
   ],
-  "romaji": ["goro"],
+  "romaji": [
+    "goro",
+    "goron"
+  ],
   "katakana": [
     "ゴロ",
-    "ゴロッ"
+    "ゴロッ",
+    "ゴロン"
   ],
   "definition": [{
     "equivalent": [
@@ -40,8 +45,26 @@
         "contributor": "",
         "display": "ゴロ",
         "source": "mushoku_tensei"
+      },
+      {
+        "file": "goro_goron-1d",
+        "contributor": "",
+        "display": "ごろん",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "goro_goron-1e",
+        "contributor": "",
+        "display": "ゴロン",
+        "source": "neet_kunoichi"
+      },
+      {
+        "file": "goro_goron-1f",
+        "contributor": "",
+        "display": "ゴロン",
+        "source": "spy_x_family"
       }
     ]
   }],
-  "id": "goro"
+  "id": "goro_goron"
 }

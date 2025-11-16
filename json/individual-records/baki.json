@@ -1,12 +1,22 @@
 {
   "hiragana": [
     "ばき",
-    "ばきっ"
+    "ばきっ",
+    "ばきん",
+    "ばきんっ",
+    "ばきばき"
   ],
-  "romaji": ["baki"],
+  "romaji": [
+    "baki",
+    "bakin",
+    "baki baki"
+  ],
   "katakana": [
     "バキ",
-    "バキッ"
+    "バキッ",
+    "バキン",
+    "バキンッ",
+    "バキバキ"
   ],
   "definition": [{
     "equivalent": [
@@ -32,8 +42,20 @@
         "contributor": "",
         "display": "バキッ",
         "source": "requiem_for_prophet"
+      },
+      {
+        "file": "baki_bakin-1c",
+        "contributor": "",
+        "display": "バキンッ",
+        "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "baki_bakin-1d",
+        "contributor": "",
+        "display": "バキバキバキ",
+        "source": "hone_dragon"
       }
     ]
   }],
-  "id": "baki"
+  "id": "baki_bakin"
 }

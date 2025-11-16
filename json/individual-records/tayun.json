@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "たゆん",
-    "たゆんっ"
+    "たゆんっ",
+    "たゅんたゅん"
   ],
-  "romaji": ["tayun"],
+  "romaji": [
+    "tayun",
+    "tayun tayun"
+  ],
   "katakana": [
     "タユン",
-    "タユンッ"
+    "タユンッ",
+    "タュンタュン"
   ],
   "definition": [{
     "equivalent": [
@@ -20,12 +25,20 @@
     "refer": "",
     "meaning": "soft, fleshy wobbling or bouncing",
     "type": "m",
-    "example": [{
-      "file": "tayun-1a",
-      "contributor": "",
-      "display": "たゆん♡",
-      "source": "35_year_olds_choice"
-    }]
+    "example": [
+      {
+        "file": "tayun-1a",
+        "contributor": "",
+        "display": "たゆん♡",
+        "source": "35_year_olds_choice"
+      },
+      {
+        "file": "tayun-1b",
+        "contributor": "",
+        "display": "たゅん たゅん",
+        "source": "isekai_sniper"
+      }
+    ]
   }],
   "id": "tayun"
 }

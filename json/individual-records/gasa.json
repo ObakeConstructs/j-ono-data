@@ -3,14 +3,21 @@
     "がさ",
     "がさっ",
     "がささ",
-    "がささっ"
+    "がささっ",
+    "がさがさ",
+    "がさがさっ"
   ],
-  "romaji": ["gasa"],
+  "romaji": [
+    "gasa",
+    "gasa gasa"
+  ],
   "katakana": [
     "ガサ",
     "ガサッ",
     "ガササ",
-    "ガササッ"
+    "ガササッ",
+    "ガサガサ",
+    "ガサガサッ"
   ],
   "definition": [{
     "equivalent": [
@@ -55,6 +62,18 @@
         "contributor": "Artrix",
         "display": "ガササッ",
         "source": "pokemon_xy_break"
+      },
+      {
+        "file": "gasa-1f",
+        "contributor": "",
+        "display": "ガサ ガサ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "gasa-1g",
+        "contributor": "",
+        "display": "ガサ ガサッ",
+        "source": "reincarnated_aristocrat"
       }
     ]
   }],

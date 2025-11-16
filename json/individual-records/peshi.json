@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "ぺし",
-    "ぺしっ"
+    "ぺしっ",
+    "ぺしぺし"
   ],
-  "romaji": ["peshi"],
+  "romaji": [
+    "peshi",
+    "peshi peshi"
+  ],
   "katakana": [
     "ペシ",
-    "ペシッ"
+    "ペシッ",
+    "ペシペシ"
   ],
   "definition": [{
     "equivalent": [
@@ -19,12 +24,26 @@
     "refer": "",
     "meaning": "sharp but harmless slapping or smacking",
     "type": "o",
-    "example": [{
-      "file": "peshi-1a",
-      "contributor": "",
-      "display": "ペシッ",
-      "source": "hikaro_no_go"
-    }]
+    "example": [
+      {
+        "file": "peshi-1a",
+        "contributor": "",
+        "display": "ペシッ",
+        "source": "hikaro_no_go"
+      },
+      {
+        "file": "peshi-1b",
+        "contributor": "",
+        "display": "ぺし ぺし",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "peshi-1c",
+        "contributor": "",
+        "display": "ぺし ぺし",
+        "source": "cheat_pharmacist"
+      }
+    ]
   }],
   "id": "peshi"
 }

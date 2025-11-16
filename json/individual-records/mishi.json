@@ -1,12 +1,21 @@
 {
   "hiragana": [
     "みし",
-    "みしっ"
+    "みしっ",
+    "みしみし",
+    "みしみしっ",
+    "みしっみしっ"
   ],
-  "romaji": ["mishi"],
+  "romaji": [
+    "mishi",
+    "mishi mishi"
+  ],
   "katakana": [
     "ミシ",
-    "ミシッ"
+    "ミシッ",
+    "ミシミシ",
+    "ミシミシッ",
+    "ミシッミシッ"
   ],
   "definition": [{
     "equivalent": [
@@ -34,6 +43,12 @@
         "contributor": "",
         "display": "みしっ\u2026",
         "source": "my_s-ranked_daughter"
+      },
+      {
+        "file": "mishi-1c",
+        "contributor": "",
+        "display": "ミシ ミシ\u2026",
+        "source": "hanako_24th_ward"
       }
     ]
   }],

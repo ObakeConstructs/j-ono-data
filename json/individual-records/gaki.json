@@ -2,13 +2,20 @@
   "hiragana": [
     "がき",
     "がきっ",
-    "がきぃっ"
+    "がきぃっ",
+    "がきん",
+    "がきんっ"
   ],
-  "romaji": ["gaki"],
+  "romaji": [
+    "gaki",
+    "gakin"
+  ],
   "katakana": [
     "ガキ",
     "ガキッ",
-    "ガキィッ"
+    "ガキィッ",
+    "ガキン",
+    "ガキンッ"
   ],
   "definition": [{
     "equivalent": [
@@ -25,12 +32,26 @@
     "refer": "",
     "meaning": "a sharp clashing, snapping, or colliding sound",
     "type": "o",
-    "example": [{
-      "file": "gaki-1a",
-      "contributor": "",
-      "display": "ガキッ",
-      "source": "world_full_of_monsters"
-    }]
+    "example": [
+      {
+        "file": "gaki-1a",
+        "contributor": "",
+        "display": "ガキッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gaki_gakin-1b",
+        "contributor": "",
+        "display": "ガキンッ",
+        "source": "world_full_of_monsters"
+      },
+      {
+        "file": "gaki_gakin-1c",
+        "contributor": "",
+        "display": "ガキンッ",
+        "source": "neet_kunoichi"
+      }
+    ]
   }],
-  "id": "gaki"
+  "id": "gaki_gakin"
 }

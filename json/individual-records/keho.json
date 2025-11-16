@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "けほ",
-    "けほっ"
+    "けほっ",
+    "けほけほ",
+    "けほっけほっ"
   ],
-  "romaji": ["keho"],
+  "romaji": [
+    "keho",
+    "keho keho"
+  ],
   "katakana": [
     "ケホ",
-    "ケホッ"
+    "ケホッ",
+    "ケホケホ",
+    "ケホッケホッ"
   ],
   "definition": [{
     "equivalent": [
@@ -16,14 +23,28 @@
       "khak"
     ],
     "refer": "",
-    "meaning": "small, weak, or dry cough",
+    "meaning": "small, weak, or dry coughing",
     "type": "v",
-    "example": [{
-      "file": "keho-1a",
-      "contributor": "",
-      "display": "ケホッ",
-      "source": "isekai_sniper"
-    }]
+    "example": [
+      {
+        "file": "keho-1a",
+        "contributor": "",
+        "display": "ケホッ",
+        "source": "isekai_sniper"
+      },
+      {
+        "file": "keho-1b",
+        "contributor": "",
+        "display": "ケホッ ケホ\u2026",
+        "source": "neet_kunoichi"
+      },
+      {
+        "file": "keho-1c",
+        "contributor": "",
+        "display": "ケホケホ",
+        "source": "isekai_av_filming"
+      }
+    ]
   }],
   "id": "keho"
 }

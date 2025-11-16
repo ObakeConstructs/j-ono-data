@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "びしゃ",
-    "びしゃっ"
+    "びしゃっ",
+    "びしびし"
   ],
-  "romaji": ["bisha"],
+  "romaji": [
+    "bisha",
+    "bisha bisha"
+  ],
   "katakana": [
     "ビシャ",
-    "ビシャッ"
+    "ビシャッ",
+    "ビシビシ"
   ],
   "definition": [{
     "equivalent": [
@@ -19,12 +24,20 @@
     "refer": "",
     "meaning": "liquid splashing or spraying",
     "type": "o",
-    "example": [{
-      "file": "bisha-1a",
-      "contributor": "",
-      "display": "ビシャ",
-      "source": "different_world_smartphone"
-    }]
+    "example": [
+      {
+        "file": "bisha-1a",
+        "contributor": "",
+        "display": "ビシャ",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "bisha-1b",
+        "contributor": "",
+        "display": "ビシ ビシ ビシ",
+        "source": "cheat_pharmacist"
+      }
+    ]
   }],
   "id": "bisha"
 }

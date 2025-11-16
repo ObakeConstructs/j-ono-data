@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ごほ",
-    "ごほっ"
+    "ごほっ",
+    "ごほごほ",
+    "ごほごほっ"
   ],
-  "romaji": ["goho"],
+  "romaji": [
+    "goho",
+    "goho goho"
+  ],
   "katakana": [
     "ゴホ",
-    "ゴホッ"
+    "ゴホッ",
+    "ゴホゴホ",
+    "ゴホゴホッ"
   ],
   "definition": [{
     "equivalent": [
@@ -14,14 +21,22 @@
       "hack"
     ],
     "refer": "",
-    "meaning": "a sharp or sudden cough",
+    "meaning": "a sharp or sudden cough, recurring or repeated",
     "type": "o",
-    "example": [{
-      "file": "goho-1a",
-      "contributor": "",
-      "display": "ゴホッ",
-      "source": "isekai_sniper"
-    }]
+    "example": [
+      {
+        "file": "goho-1a",
+        "contributor": "",
+        "display": "ゴホッ",
+        "source": "isekai_sniper"
+      },
+      {
+        "file": "goho-1b",
+        "contributor": "",
+        "display": "ゴホ ゴホッ",
+        "source": "isekai_sniper"
+      }
+    ]
   }],
   "id": "goho"
 }

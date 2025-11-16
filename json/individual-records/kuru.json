@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "くる",
-    "くるっ"
+    "くるっ",
+    "くるん"
   ],
-  "romaji": ["kuru"],
+  "romaji": [
+    "kuru",
+    "kurun"
+  ],
   "katakana": [
     "クル",
-    "クルッ"
+    "クルッ",
+    "クルン"
   ],
   "definition": [{
     "equivalent": [
@@ -47,8 +52,14 @@
         "contributor": "",
         "display": "くるっ",
         "source": "kuma_kuma_kuma_bear"
+      },
+      {
+        "file": "kuru_kurun-1e",
+        "contributor": "",
+        "display": "くるン",
+        "source": "hero_or_demon_king"
       }
     ]
   }],
-  "id": "kuru"
+  "id": "kuru_kurun"
 }

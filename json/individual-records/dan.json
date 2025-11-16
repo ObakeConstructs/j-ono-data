@@ -2,13 +2,20 @@
   "hiragana": [
     "だん",
     "だんっ",
-    "だぁん"
+    "だぁん",
+    "だんだん",
+    "だんっだんっ"
   ],
-  "romaji": ["dan"],
+  "romaji": [
+    "dan",
+    "dan dan"
+  ],
   "katakana": [
     "ダン",
     "ダンッ",
-    "ダァン"
+    "ダァン",
+    "ダンダン",
+    "ダンッダンッ"
   ],
   "definition": [{
     "equivalent": [
@@ -52,6 +59,18 @@
         "file": "dan-1d",
         "contributor": "",
         "display": "ダァン",
+        "source": "shogun_gold_in_america"
+      },
+      {
+        "file": "dan-1e",
+        "contributor": "",
+        "display": "ダンッ ダンッ",
+        "source": "lord_of_the_hundred_demons"
+      },
+      {
+        "file": "dan-1f",
+        "contributor": "",
+        "display": "ダン ダン ダン ダン",
         "source": "shogun_gold_in_america"
       }
     ]

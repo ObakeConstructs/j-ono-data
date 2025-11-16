@@ -1,7 +1,16 @@
 {
-  "hiragana": ["ころ"],
-  "romaji": ["koro"],
-  "katakana": ["コロ"],
+  "hiragana": [
+    "ころ",
+    "ころん"
+  ],
+  "romaji": [
+    "koro",
+    "koron"
+  ],
+  "katakana": [
+    "コロ",
+    "コロン"
+  ],
   "definition": [{
     "equivalent": [
       "drop",
@@ -15,12 +24,20 @@
     "refer": "",
     "meaning": "rolling, tumbling, or dropping",
     "type": "m",
-    "example": [{
-      "file": "koro-1a",
-      "contributor": "",
-      "display": "コロ",
-      "source": "komi_cant_communicate"
-    }]
+    "example": [
+      {
+        "file": "koro-1a",
+        "contributor": "",
+        "display": "コロ",
+        "source": "komi_cant_communicate"
+      },
+      {
+        "file": "koro_koron-1b",
+        "contributor": "",
+        "display": "コロン",
+        "source": "world_full_of_monsters"
+      }
+    ]
   }],
-  "id": "koro"
+  "id": "koro_koron"
 }

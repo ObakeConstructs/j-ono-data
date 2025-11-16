@@ -3,14 +3,25 @@
     "びく",
     "びくっ",
     "びくぅ",
-    "びくぅっ"
+    "びくぅっ",
+    "びくん",
+    "びくーん",
+    "びくんっ",
+    "びくーんっ"
   ],
-  "romaji": ["biku"],
+  "romaji": [
+    "biku",
+    "bikun"
+  ],
   "katakana": [
     "ビク",
     "ビクッ",
     "ビクゥ",
-    "ビクゥッ"
+    "ビクゥッ",
+    "ビクン",
+    "ビクーン",
+    "ビクンッ",
+    "ビクーンッ"
   ],
   "definition": [{
     "equivalent": [
@@ -42,8 +53,38 @@
         "contributor": "",
         "display": "ビクゥッ!!",
         "source": "abandoned_reincarnation_sage"
+      },
+      {
+        "file": "biku_bikun-1d",
+        "contributor": "",
+        "display": "ビクン",
+        "source": "d_genesis"
+      },
+      {
+        "file": "biku_bikun-1e",
+        "contributor": "",
+        "display": "ビクン",
+        "source": "rise_of_the_outlaw_tamer"
+      },
+      {
+        "file": "biku_bikun-1f",
+        "contributor": "",
+        "display": "ビクーン",
+        "source": "hello_work"
+      },
+      {
+        "file": "biku_bikun-1g",
+        "contributor": "",
+        "display": "ビクン",
+        "source": "gyaru_academy"
+      },
+      {
+        "file": "biku_bikun-1h",
+        "contributor": "",
+        "display": "びくんっ",
+        "source": "embarrassing_and_sweet"
       }
     ]
   }],
-  "id": "biku"
+  "id": "biku_bikun"
 }

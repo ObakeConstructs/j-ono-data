@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "かち",
-    "かちっ"
+    "かちっ",
+    "かちかち"
   ],
-  "romaji": ["kachi"],
+  "romaji": [
+    "kachi",
+    "kachi kachi"
+  ],
   "katakana": [
     "カチ",
-    "カチッ"
+    "カチッ",
+    "カチカチ"
   ],
   "definition": [{
     "equivalent": [
@@ -33,6 +38,12 @@
         "contributor": "",
         "display": "カチッ",
         "source": "d_genesis"
+      },
+      {
+        "file": "kachi-1c",
+        "contributor": "",
+        "display": "カチ カチ",
+        "source": "isekai_av_filming"
       }
     ]
   }],

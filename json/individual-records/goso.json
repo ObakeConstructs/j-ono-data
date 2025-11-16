@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "ごそ",
-    "ごそっ"
+    "ごそっ",
+    "ごそごそ"
   ],
-  "romaji": ["goso"],
+  "romaji": [
+    "goso",
+    "goso goso"
+  ],
   "katakana": [
     "ゴソ",
-    "ゴソッ"
+    "ゴソッ",
+    "ゴソゴソ"
   ],
   "definition": [{
     "equivalent": [
@@ -31,6 +36,12 @@
         "contributor": "",
         "display": "ごそ",
         "source": "embarrassing_and_sweet"
+      },
+      {
+        "file": "goso-1c",
+        "contributor": "",
+        "display": "ごそ ごそ",
+        "source": "mushoku_tensei"
       }
     ]
   }],

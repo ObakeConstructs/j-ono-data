@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "がちゃ",
-    "がちゃっ"
+    "がちゃっ",
+    "がちゃがちゃ"
   ],
-  "romaji": ["gacha"],
+  "romaji": [
+    "gacha",
+    "gacha gacha"
+  ],
   "katakana": [
     "ガチャ",
-    "ガチャッ"
+    "ガチャッ",
+    "ガチャガチャ"
   ],
   "definition": [{
     "equivalent": [
@@ -58,6 +63,12 @@
         "contributor": "",
         "display": "ガチャ",
         "source": "cheat_pharmacist"
+      },
+      {
+        "file": "gacha-1g",
+        "contributor": "",
+        "display": "ガチャ ガチャ",
+        "source": "world_full_of_zombies"
       }
     ]
   }],

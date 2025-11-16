@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "くす",
-    "くすっ"
+    "くすっ",
+    "くすくす"
   ],
-  "romaji": ["kusu"],
+  "romaji": [
+    "kusu",
+    "kusu kusu"
+  ],
   "katakana": [
     "クス",
-    "クスッ"
+    "クスッ",
+    "クスクス"
   ],
   "definition": [{
     "equivalent": [
@@ -40,6 +45,12 @@
         "contributor": "",
         "display": "くすっ",
         "source": "world_full_of_monsters"
+      },
+      {
+        "file": "kusu-1d",
+        "contributor": "",
+        "display": "クス クス",
+        "source": "otherworld_material_collector"
       }
     ]
   }],

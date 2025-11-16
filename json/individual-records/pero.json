@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "ぺろ",
-    "ぺろっ"
+    "ぺろっ",
+    "ぺろぺろ"
   ],
-  "romaji": ["pero"],
+  "romaji": [
+    "pero",
+    "pero pero"
+  ],
   "katakana": [
     "ペロ",
-    "ペロッ"
+    "ペロッ",
+    "ペロペロ"
   ],
   "definition": [{
     "equivalent": [
@@ -36,6 +41,18 @@
         "contributor": "",
         "display": "ぺろ",
         "source": "world_full_of_monsters"
+      },
+      {
+        "file": "pero-1d",
+        "contributor": "",
+        "display": "ぺろ ぺろ",
+        "source": "s_rank_behemoth"
+      },
+      {
+        "file": "pero-1e",
+        "contributor": "",
+        "display": "ペロ ペロ",
+        "source": "cheat_pharmacist"
       }
     ]
   }],

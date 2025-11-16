@@ -3,14 +3,19 @@
     "すぱ",
     "すぱっ",
     "すぱー",
-    "すぱーっ"
+    "すぱーっ",
+    "すぱん"
   ],
-  "romaji": ["supa"],
+  "romaji": [
+    "supa",
+    "supan"
+  ],
   "katakana": [
     "スパ",
     "スパッ",
     "スパー",
-    "スパーッ"
+    "スパーッ",
+    "スパン"
   ],
   "definition": [{
     "equivalent": [
@@ -20,7 +25,7 @@
       "slice"
     ],
     "refer": "",
-    "meaning": "clean, fast cut",
+    "meaning": "clean, fast cuts",
     "type": "m",
     "example": [
       {
@@ -34,8 +39,14 @@
         "contributor": "",
         "display": "スパッ",
         "source": "strongest_magician_was_human"
+      },
+      {
+        "file": "supa_supan-1c",
+        "contributor": "",
+        "display": "スパン",
+        "source": "strongest_thread_master"
       }
     ]
   }],
-  "id": "supa"
+  "id": "supa_supan"
 }

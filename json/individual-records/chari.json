@@ -2,13 +2,20 @@
   "hiragana": [
     "ちゃり",
     "ちゃりり",
-    "ちゃりりり"
+    "ちゃりりり",
+    "ちゃりん",
+    "ちゃりーん"
   ],
-  "romaji": ["chari"],
+  "romaji": [
+    "chari",
+    "charin"
+  ],
   "katakana": [
     "チャリ",
     "チャリリ",
-    "チャリリリ"
+    "チャリリリ",
+    "チャリン",
+    "チャリーン"
   ],
   "definition": [{
     "equivalent": [
@@ -41,8 +48,20 @@
         "contributor": "",
         "display": "チャリ..",
         "source": "uncle_at_heart"
+      },
+      {
+        "file": "chari_charin-1d",
+        "contributor": "",
+        "display": "チャリン",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "chari_charin-1e",
+        "contributor": "",
+        "display": "チャリン..",
+        "source": "isekai_pickup"
       }
     ]
   }],
-  "id": "chari"
+  "id": "chari_charin"
 }

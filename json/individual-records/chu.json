@@ -3,14 +3,21 @@
     "ちゅ",
     "ちゅっ",
     "ちゅー",
-    "ちゅーっ"
+    "ちゅーっ",
+    "ちゅちゅ",
+    "ちゅっちゅっ"
   ],
-  "romaji": ["chu"],
+  "romaji": [
+    "chu",
+    "chu chu"
+  ],
   "katakana": [
     "チュ",
     "チュッ",
     "チュー",
-    "チューッ"
+    "チューッ",
+    "チュチュ",
+    "チュッチュッ"
   ],
   "definition": [{
     "equivalent": [
@@ -42,6 +49,12 @@
         "contributor": "",
         "display": "ちゅっ",
         "source": "killed_by_gods_mistake"
+      },
+      {
+        "file": "chu-1d",
+        "contributor": "",
+        "display": "チュッ チュッ",
+        "source": "rise_of_the_outlaw_tamer"
       }
     ]
   }],

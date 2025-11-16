@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ぎん",
-    "ぎんっ"
+    "ぎんっ",
+    "ぎんぎん",
+    "ぎんぎんっ"
   ],
-  "romaji": ["gin"],
+  "romaji": [
+    "gin",
+    "gin gin"
+  ],
   "katakana": [
     "ギン",
-    "ギンッ"
+    "ギンッ",
+    "ギンギン",
+    "ギンギンッ"
   ],
   "definition": [{
     "equivalent": [
@@ -32,6 +39,12 @@
         "contributor": "",
         "display": "ギンッ",
         "source": "dungeon_dining_room"
+      },
+      {
+        "file": "gin-1c",
+        "contributor": "",
+        "display": "ギン ギン",
+        "source": "sex_with_me_sells"
       }
     ]
   }],

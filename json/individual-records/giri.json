@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ぎり",
-    "ぎりっ"
+    "ぎりっ",
+    "ぎりぎり",
+    "ぎりぎりり"
   ],
-  "romaji": ["giri"],
+  "romaji": [
+    "giri",
+    "giri giri"
+  ],
   "katakana": [
     "ギリ",
-    "ギリッ"
+    "ギリッ",
+    "ギリギリ",
+    "ギリギリリ"
   ],
   "definition": [{
     "equivalent": [
@@ -30,6 +37,18 @@
         "contributor": "",
         "display": "ギリッ",
         "source": "sex_with_me_sells"
+      },
+      {
+        "file": "giri-1c",
+        "contributor": "",
+        "display": "ギリ ギリ",
+        "source": "berserk"
+      },
+      {
+        "file": "giri-1d",
+        "contributor": "",
+        "display": "ギリ ギリリ",
+        "source": "shogun_gold_in_america"
       }
     ]
   }],

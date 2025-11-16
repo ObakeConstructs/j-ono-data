@@ -1,12 +1,17 @@
 {
   "hiragana": [
     "もわ",
-    "もわぁ"
+    "もわぁ",
+    "もわもわ"
   ],
-  "romaji": ["mowa"],
+  "romaji": [
+    "mowa",
+    "mowa mowa"
+  ],
   "katakana": [
     "モワ",
-    "モワァ"
+    "モワァ",
+    "モワモワ"
   ],
   "definition": [{
     "equivalent": [
@@ -24,12 +29,20 @@
     "refer": "",
     "meaning": "a billowing cloud of smoke, fog, or warm steam",
     "type": "o",
-    "example": [{
-      "file": "mowa-1a",
-      "contributor": "",
-      "display": "モワァ",
-      "source": "spy_x_family"
-    }]
+    "example": [
+      {
+        "file": "mowa-1a",
+        "contributor": "",
+        "display": "モワァ",
+        "source": "spy_x_family"
+      },
+      {
+        "file": "mowa-1b",
+        "contributor": "",
+        "display": "モワ モワ",
+        "source": "hello_work"
+      }
+    ]
   }],
   "id": "mowa"
 }

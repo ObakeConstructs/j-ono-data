@@ -2,13 +2,18 @@
   "hiragana": [
     "むに",
     "むにっ",
-    "むにー"
+    "むにー",
+    "むにむに"
   ],
-  "romaji": ["muni"],
+  "romaji": [
+    "muni",
+    "muni muni"
+  ],
   "katakana": [
     "ムニ",
     "ムニッ",
-    "ムニー"
+    "ムニー",
+    "ムニムニ"
   ],
   "definition": [{
     "equivalent": [
@@ -36,6 +41,12 @@
         "file": "muni-1b",
         "contributor": "",
         "display": "むにっ",
+        "source": "isekai_territory_reform"
+      },
+      {
+        "file": "muni-1c",
+        "contributor": "",
+        "display": "むた むた むた むた むた",
         "source": "isekai_territory_reform"
       }
     ]

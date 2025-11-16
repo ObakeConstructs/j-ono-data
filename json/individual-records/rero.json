@@ -1,7 +1,16 @@
 {
-  "hiragana": ["れろ"],
-  "romaji": ["rero"],
-  "katakana": ["レロ"],
+  "hiragana": [
+    "れろ",
+    "れろれろ"
+  ],
+  "romaji": [
+    "rero",
+    "rero rero"
+  ],
+  "katakana": [
+    "レロ",
+    "レロレロ"
+  ],
   "definition": [{
     "equivalent": [
       "lap",
@@ -10,14 +19,22 @@
       "slurp"
     ],
     "refer": "",
-    "meaning": "wet and drawn-out licking sound",
+    "meaning": "wet and drawn-out licking sounds",
     "type": "o",
-    "example": [{
-      "file": "rero-1a",
-      "contributor": "",
-      "display": "レロ\u2026",
-      "source": "double_play"
-    }]
+    "example": [
+      {
+        "file": "rero-1a",
+        "contributor": "",
+        "display": "レロ\u2026",
+        "source": "double_play"
+      },
+      {
+        "file": "rero-1b",
+        "contributor": "",
+        "display": "レロ レロ レロ レロ レロ",
+        "source": "gyaru_academy"
+      }
+    ]
   }],
   "id": "rero"
 }

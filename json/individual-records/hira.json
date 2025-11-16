@@ -1,7 +1,16 @@
 {
-  "hiragana": ["ひら"],
-  "romaji": ["hira"],
-  "katakana": ["ヒラ"],
+  "hiragana": [
+    "ひら",
+    "ひらひら"
+  ],
+  "romaji": [
+    "hira",
+    "hira hira"
+  ],
+  "katakana": [
+    "ヒラ",
+    "ヒラヒラ"
+  ],
   "definition": [{
     "equivalent": [
       "flap",
@@ -25,6 +34,12 @@
         "contributor": "",
         "display": "ひら\u2026..",
         "source": "beastly_boys_and_girls"
+      },
+      {
+        "file": "hira-1c",
+        "contributor": "",
+        "display": "ひら ひら",
+        "source": "lord_of_the_hundred_demons"
       }
     ]
   }],

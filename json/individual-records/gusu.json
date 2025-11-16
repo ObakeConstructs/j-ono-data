@@ -1,12 +1,25 @@
 {
   "hiragana": [
     "ぐす",
-    "ぐすっ"
+    "ぐすっ",
+    "ぐすん",
+    "ぐすんぐすん",
+    "ぐすぐす",
+    "ぐすっぐすっ"
   ],
-  "romaji": ["gusu"],
+  "romaji": [
+    "gusu",
+    "gusun",
+    "gusun gusun",
+    "gusu gusu"
+  ],
   "katakana": [
     "グス",
-    "グスッ"
+    "グスッ",
+    "グスン",
+    "グスングスン",
+    "グスグス",
+    "グスッグスッ"
   ],
   "definition": [{
     "equivalent": [
@@ -33,8 +46,38 @@
         "contributor": "",
         "display": "ぐすっ",
         "source": "mushoku_tensei"
+      },
+      {
+        "file": "gusu_gusun-1c",
+        "contributor": "",
+        "display": "ぐすん",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "gusu_gusun-1d",
+        "contributor": "",
+        "display": "ぐすん ぐすん",
+        "source": "different_world_smartphone"
+      },
+      {
+        "file": "gusu_gusun-1e",
+        "contributor": "",
+        "display": "ぐすっ ぐすっ",
+        "source": "reincarnated_aristocrat"
+      },
+      {
+        "file": "gusu_gusun-1f",
+        "contributor": "",
+        "display": "ぐすっ ぐすっ",
+        "source": "requiem_for_prophet"
+      },
+      {
+        "file": "gusu_gusun-1g",
+        "contributor": "",
+        "display": "ぐす ぐす",
+        "source": "mushoku_tensei"
       }
     ]
   }],
-  "id": "gusu"
+  "id": "gusu_gusun"
 }

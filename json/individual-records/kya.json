@@ -7,9 +7,14 @@
     "きゃぁ",
     "きゃぁぁ",
     "きゃあ",
-    "きゃああ"
+    "きゃああ",
+    "きゃん",
+    "きゃーん"
   ],
-  "romaji": ["kya"],
+  "romaji": [
+    "kya",
+    "kyan"
+  ],
   "katakana": [
     "キャ",
     "キャッ",
@@ -18,7 +23,9 @@
     "キャァ",
     "キャァァ",
     "キャア",
-    "キャアア"
+    "キャアア",
+    "キャン",
+    "キャーン"
   ],
   "definition": [{
     "equivalent": [
@@ -42,8 +49,14 @@
         "contributor": "",
         "display": "きゃー!!",
         "source": "rock_n_roll_ladies"
+      },
+      {
+        "file": "kya_kyan-1c",
+        "contributor": "",
+        "display": "きゃん",
+        "source": "dog_became_strongest"
       }
     ]
   }],
-  "id": "kya"
+  "id": "kya_kyan"
 }
