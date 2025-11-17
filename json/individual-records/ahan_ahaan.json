@@ -3,7 +3,10 @@
     "あはん",
     "あはーん"
   ],
-  "romaji": ["ahan"],
+  "romaji": [
+    "ahan",
+    "ahaan"
+  ],
   "katakana": [
     "アハン",
     "アハーン"
@@ -20,18 +23,18 @@
     "type": "v",
     "example": [
       {
-        "file": "ahan-1a",
+        "file": "ahan_ahaan-1a",
         "contributor": "",
         "display": "あはーん",
         "source": "hello_work"
       },
       {
-        "file": "ahan-1b",
+        "file": "ahan_ahaan-1b",
         "contributor": "",
         "display": "あはーん",
         "source": "isekai_sniper"
       }
     ]
   }],
-  "id": "ahan"
+  "id": "ahan_ahaan"
 }

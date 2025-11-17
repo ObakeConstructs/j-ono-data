@@ -6,7 +6,8 @@
   ],
   "romaji": [
     "awa",
-    "awa awa"
+    "awa awa",
+    "awawa"
   ],
   "katakana": [
     "アワ",
@@ -32,18 +33,18 @@
     "type": "v",
     "example": [
       {
-        "file": "awa-1a",
+        "file": "awa_awawa-1a",
         "contributor": "",
         "display": "あわわ",
         "source": "isekai_territory_reform"
       },
       {
-        "file": "awa-1b",
+        "file": "awa_awawa-1b",
         "contributor": "",
         "display": "アワ アワ アワ",
         "source": "peter_grill"
       }
     ]
   }],
-  "id": "awa"
+  "id": "awa_awawa"
 }

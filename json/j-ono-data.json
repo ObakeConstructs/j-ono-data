@@ -28,6 +28,38 @@
   },
   {
     "hiragana": [
+      "あん",
+      "あーん"
+    ],
+    "romaji": [
+      "aan",
+      "an"
+    ],
+    "katakana": [
+      "アン",
+      "アーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "aah",
+        "ahh",
+        "mah",
+        "wah"
+      ],
+      "refer": "",
+      "meaning": "opening the mouth wide, often exaggerated",
+      "type": "m",
+      "example": [{
+        "file": "aan_an-1a",
+        "contributor": "",
+        "display": "あーん",
+        "source": "otherworld_material_collector"
+      }]
+    }],
+    "id": "aan_an"
+  },
+  {
+    "hiragana": [
       "あはは",
       "あははは",
       "あっはっはっ",
@@ -80,7 +112,10 @@
       "あはん",
       "あはーん"
     ],
-    "romaji": ["ahan"],
+    "romaji": [
+      "ahan",
+      "ahaan"
+    ],
     "katakana": [
       "アハン",
       "アハーン"
@@ -97,20 +132,20 @@
       "type": "v",
       "example": [
         {
-          "file": "ahan-1a",
+          "file": "ahan_ahaan-1a",
           "contributor": "",
           "display": "あはーん",
           "source": "hello_work"
         },
         {
-          "file": "ahan-1b",
+          "file": "ahan_ahaan-1b",
           "contributor": "",
           "display": "あはーん",
           "source": "isekai_sniper"
         }
       ]
     }],
-    "id": "ahan"
+    "id": "ahan_ahaan"
   },
   {
     "hiragana": [
@@ -119,7 +154,10 @@
       "あむぅ",
       "あむぅぅ"
     ],
-    "romaji": ["amu"],
+    "romaji": [
+      "amu",
+      "amuu"
+    ],
     "katakana": [
       "アム",
       "アムッ",
@@ -141,49 +179,20 @@
       "type": "m",
       "example": [
         {
-          "file": "amu-1a",
+          "file": "amu_amuu-1a",
           "contributor": "",
           "display": "あむ",
           "source": "drawing"
         },
         {
-          "file": "amu-1b",
+          "file": "amu_amuu-1b",
           "contributor": "",
           "display": "あむぅ♡",
           "source": "gyaru_academy"
         }
       ]
     }],
-    "id": "amu"
-  },
-  {
-    "hiragana": [
-      "あん",
-      "あーん"
-    ],
-    "romaji": ["an"],
-    "katakana": [
-      "アン",
-      "アーン"
-    ],
-    "definition": [{
-      "equivalent": [
-        "aah",
-        "ahh",
-        "mah",
-        "wah"
-      ],
-      "refer": "",
-      "meaning": "opening the mouth wide, often exaggerated",
-      "type": "m",
-      "example": [{
-        "file": "an-1a",
-        "contributor": "",
-        "display": "あーん",
-        "source": "otherworld_material_collector"
-      }]
-    }],
-    "id": "an"
+    "id": "amu_amuu"
   },
   {
     "hiragana": [
@@ -193,7 +202,8 @@
     ],
     "romaji": [
       "awa",
-      "awa awa"
+      "awa awa",
+      "awawa"
     ],
     "katakana": [
       "アワ",
@@ -219,30 +229,37 @@
       "type": "v",
       "example": [
         {
-          "file": "awa-1a",
+          "file": "awa_awawa-1a",
           "contributor": "",
           "display": "あわわ",
           "source": "isekai_territory_reform"
         },
         {
-          "file": "awa-1b",
+          "file": "awa_awawa-1b",
           "contributor": "",
           "display": "アワ アワ アワ",
           "source": "peter_grill"
         }
       ]
     }],
-    "id": "awa"
+    "id": "awa_awawa"
   },
   {
     "hiragana": [
       "ば",
-      "ばっ"
+      "ばっ",
+      "ばば",
+      "ばばっ"
     ],
-    "romaji": ["ba"],
+    "romaji": [
+      "ba",
+      "ba ba"
+    ],
     "katakana": [
       "バ",
-      "バッ"
+      "バッ",
+      "ババ",
+      "ババッ"
     ],
     "definition": [
       {
@@ -322,6 +339,12 @@
             "contributor": "",
             "display": "バッ",
             "source": "d_genesis"
+          },
+          {
+            "file": "ba-2f",
+            "contributor": "",
+            "display": "ババッ",
+            "source": "peter_grill"
           }
         ]
       },
@@ -348,43 +371,17 @@
             "contributor": "",
             "display": "ばっ",
             "source": "way_of_isekai_cooking"
+          },
+          {
+            "file": "ba-3c",
+            "contributor": "",
+            "display": "ば ばっ",
+            "source": "shogun_gold_in_america"
           }
         ]
       }
     ],
     "id": "ba"
-  },
-  {
-    "hiragana": [
-      "ばば",
-      "ばばっ"
-    ],
-    "romaji": ["baba"],
-    "katakana": [
-      "ババ",
-      "ババッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "ba:2",
-      "meaning": "",
-      "type": "",
-      "example": [
-        {
-          "file": "baba-1a",
-          "contributor": "",
-          "display": "ババッ",
-          "source": "peter_grill"
-        },
-        {
-          "file": "baba-1b",
-          "contributor": "",
-          "display": "ば ばっ",
-          "source": "shogun_gold_in_america"
-        }
-      ]
-    }],
-    "id": "baba"
   },
   {
     "hiragana": [

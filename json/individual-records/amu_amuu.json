@@ -5,7 +5,10 @@
     "あむぅ",
     "あむぅぅ"
   ],
-  "romaji": ["amu"],
+  "romaji": [
+    "amu",
+    "amuu"
+  ],
   "katakana": [
     "アム",
     "アムッ",
@@ -27,18 +30,18 @@
     "type": "m",
     "example": [
       {
-        "file": "amu-1a",
+        "file": "amu_amuu-1a",
         "contributor": "",
         "display": "あむ",
         "source": "drawing"
       },
       {
-        "file": "amu-1b",
+        "file": "amu_amuu-1b",
         "contributor": "",
         "display": "あむぅ♡",
         "source": "gyaru_academy"
       }
     ]
   }],
-  "id": "amu"
+  "id": "amu_amuu"
 }

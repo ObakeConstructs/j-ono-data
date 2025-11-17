@@ -3,7 +3,10 @@
     "あん",
     "あーん"
   ],
-  "romaji": ["an"],
+  "romaji": [
+    "aan",
+    "an"
+  ],
   "katakana": [
     "アン",
     "アーン"
@@ -19,11 +22,11 @@
     "meaning": "opening the mouth wide, often exaggerated",
     "type": "m",
     "example": [{
-      "file": "an-1a",
+      "file": "aan_an-1a",
       "contributor": "",
       "display": "あーん",
       "source": "otherworld_material_collector"
     }]
   }],
-  "id": "an"
+  "id": "aan_an"
 }

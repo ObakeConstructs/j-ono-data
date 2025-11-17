@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ば",
-    "ばっ"
+    "ばっ",
+    "ばば",
+    "ばばっ"
   ],
-  "romaji": ["ba"],
+  "romaji": [
+    "ba",
+    "ba ba"
+  ],
   "katakana": [
     "バ",
-    "バッ"
+    "バッ",
+    "ババ",
+    "ババッ"
   ],
   "definition": [
     {
@@ -86,6 +93,12 @@
           "contributor": "",
           "display": "バッ",
           "source": "d_genesis"
+        },
+        {
+          "file": "ba-2f",
+          "contributor": "",
+          "display": "ババッ",
+          "source": "peter_grill"
         }
       ]
     },
@@ -112,6 +125,12 @@
           "contributor": "",
           "display": "ばっ",
           "source": "way_of_isekai_cooking"
+        },
+        {
+          "file": "ba-3c",
+          "contributor": "",
+          "display": "ば ばっ",
+          "source": "shogun_gold_in_america"
         }
       ]
     }
