@@ -3,7 +3,7 @@
     "あ",
     "あっ"
   ],
-  "romaji": ["ah"],
+  "romaji": ["a"],
   "katakana": [
     "ア",
     "アッ"
@@ -17,11 +17,11 @@
     "meaning": "surprise, recognition, or realization",
     "type": "v",
     "example": [{
-      "file": "ah-1a",
+      "file": "a-1a",
       "contributor": "",
       "display": "あっ",
       "source": "isekai_pickup"
     }]
   }],
-  "id": "ah"
+  "id": "a"
 }

@@ -4,7 +4,7 @@
       "あ",
       "あっ"
     ],
-    "romaji": ["ah"],
+    "romaji": ["a"],
     "katakana": [
       "ア",
       "アッ"
@@ -18,13 +18,13 @@
       "meaning": "surprise, recognition, or realization",
       "type": "v",
       "example": [{
-        "file": "ah-1a",
+        "file": "a-1a",
         "contributor": "",
         "display": "あっ",
         "source": "isekai_pickup"
       }]
     }],
-    "id": "ah"
+    "id": "a"
   },
   {
     "hiragana": [
@@ -539,13 +539,13 @@
       "type": "o",
       "example": [
         {
-          "file": "baki-1a",
+          "file": "baki_bakin-1a",
           "contributor": "",
           "display": "バキッ",
           "source": "hanako_24th_ward"
         },
         {
-          "file": "baki-1b",
+          "file": "baki_bakin-1b",
           "contributor": "",
           "display": "バキッ",
           "source": "requiem_for_prophet"
@@ -914,13 +914,13 @@
       "type": "o",
       "example": [
         {
-          "file": "basha-1a",
+          "file": "basha_bashan-1a",
           "contributor": "",
           "display": "バシャ",
           "source": "reincarnated_sage_daughters"
         },
         {
-          "file": "basha-1b",
+          "file": "basha_bashan-1b",
           "contributor": "",
           "display": "バシャッ",
           "source": "requiem_for_prophet"
@@ -1356,19 +1356,19 @@
       "type": "m",
       "example": [
         {
-          "file": "biku-1a",
+          "file": "biku_bikun-1a",
           "contributor": "",
           "display": "びくっ",
           "source": "d_genesis"
         },
         {
-          "file": "biku-1b",
+          "file": "biku_bikun-1b",
           "contributor": "",
           "display": "ビクッ",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "biku-1c",
+          "file": "biku_bikun-1c",
           "contributor": "",
           "display": "ビクゥッ!!",
           "source": "abandoned_reincarnation_sage"
@@ -1898,7 +1898,7 @@
       "type": "o",
       "example": [
         {
-          "file": "bofu-1a",
+          "file": "bofu_bofun-1a",
           "contributor": "",
           "display": "ボフッ",
           "source": "hello_work"
@@ -3408,19 +3408,19 @@
       "type": "o",
       "example": [
         {
-          "file": "chari-1a",
+          "file": "chari_charin-1a",
           "contributor": "",
           "display": "チャリリリ",
           "source": "hello_work"
         },
         {
-          "file": "chari-1b",
+          "file": "chari_charin-1b",
           "contributor": "",
           "display": "チャリ",
           "source": "weakest_occupation_blacksmith"
         },
         {
-          "file": "chari-1c",
+          "file": "chari_charin-1c",
           "contributor": "",
           "display": "チャリ..",
           "source": "uncle_at_heart"
@@ -4357,19 +4357,19 @@
       "type": "o",
       "example": [
         {
-          "file": "dogo-1a",
+          "file": "dogo_dogon-1a",
           "contributor": "",
           "display": "ドゴッ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "dogo-1b",
+          "file": "dogo_dogon-1b",
           "contributor": "",
           "display": "ドゴッ",
           "source": "killed_by_gods_mistake"
         },
         {
-          "file": "dogo-1c",
+          "file": "dogo_dogon-1c",
           "contributor": "",
           "display": "ドゴオッ",
           "source": "rise_of_the_outlaw_tamer"
@@ -4624,7 +4624,7 @@
       "type": "s",
       "example": [
         {
-          "file": "doku-1a",
+          "file": "doku_dokun-1a",
           "contributor": "",
           "display": "ドク",
           "source": "embarrassing_and_sweet"
@@ -6811,7 +6811,7 @@
       "type": "o",
       "example": [
         {
-          "file": "gaki-1a",
+          "file": "gaki_gakin-1a",
           "contributor": "",
           "display": "ガキッ",
           "source": "world_full_of_monsters"
@@ -8428,19 +8428,19 @@
       "type": "v",
       "example": [
         {
-          "file": "goku-1a",
+          "file": "goku_gokun-1a",
           "contributor": "",
           "display": "ゴクッ\u2026",
           "source": "strongest_failure_frame"
         },
         {
-          "file": "goku-1b",
+          "file": "goku_gokun-1b",
           "contributor": "",
           "display": "ゴク",
           "source": "a_rank_slow_life"
         },
         {
-          "file": "goku-1c",
+          "file": "goku_gokun-1c",
           "contributor": "",
           "display": "ごく",
           "source": "dog_became_strongest"
@@ -8615,19 +8615,19 @@
       "type": "o",
       "example": [
         {
-          "file": "goro-1a",
+          "file": "goro_goron-1a",
           "contributor": "",
           "display": "ゴロ\u2026",
           "source": "d_genesis"
         },
         {
-          "file": "goro-1b",
+          "file": "goro_goron-1b",
           "contributor": "",
           "display": "ゴロッ",
           "source": "way_of_isekai_cooking"
         },
         {
-          "file": "goro-1c",
+          "file": "goro_goron-1c",
           "contributor": "",
           "display": "ゴロ",
           "source": "mushoku_tensei"
@@ -9671,13 +9671,13 @@
       "type": "v",
       "example": [
         {
-          "file": "gusu-1a",
+          "file": "gusu_gusun-1a",
           "contributor": "",
           "display": "ぐすっ",
           "source": "requiem_for_prophet"
         },
         {
-          "file": "gusu-1b",
+          "file": "gusu_gusun-1b",
           "contributor": "",
           "display": "ぐすっ",
           "source": "mushoku_tensei"
@@ -12318,19 +12318,19 @@
       "type": "o",
       "example": [
         {
-          "file": "kacha-1a",
+          "file": "kacha_kachan-1a",
           "contributor": "",
           "display": "カチャ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "kacha-1b",
+          "file": "kacha_kachan-1b",
           "contributor": "",
           "display": "カチャ",
           "source": "dog_became_strongest"
         },
         {
-          "file": "kacha-1c",
+          "file": "kacha_kachan-1c",
           "contributor": "",
           "display": "カチャッ",
           "source": "killed_by_gods_mistake"
@@ -12600,13 +12600,13 @@
       "type": "o",
       "example": [
         {
-          "file": "kara-1a",
+          "file": "kara_karan-1a",
           "contributor": "",
           "display": "カラッ",
           "source": "dungeon_dining_room"
         },
         {
-          "file": "kara-1b",
+          "file": "kara_karan-1b",
           "contributor": "",
           "display": "カラッ",
           "source": "minimum_wage_demon_king"
@@ -13275,13 +13275,13 @@
       "type": "s",
       "example": [
         {
-          "file": "kira-1a",
+          "file": "kira_kiran-1a",
           "contributor": "",
           "display": "キラッ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "kira-1b",
+          "file": "kira_kiran-1b",
           "contributor": "",
           "display": "きらっ",
           "source": "isekai_territory_reform"
@@ -13782,7 +13782,7 @@
       "type": "m",
       "example": [
         {
-          "file": "koro-1a",
+          "file": "koro_koron-1a",
           "contributor": "",
           "display": "コロ",
           "source": "komi_cant_communicate"
@@ -14494,25 +14494,25 @@
       "type": "m",
       "example": [
         {
-          "file": "kuru-1a",
+          "file": "kuru_kurun-1a",
           "contributor": "",
           "display": "くるっ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "kuru-1b",
+          "file": "kuru_kurun-1b",
           "contributor": "",
           "display": "クル",
           "source": "marginal_taylor"
         },
         {
-          "file": "kuru-1c",
+          "file": "kuru_kurun-1c",
           "contributor": "",
           "display": "くる",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "kuru-1d",
+          "file": "kuru_kurun-1d",
           "contributor": "",
           "display": "くるっ",
           "source": "kuma_kuma_kuma_bear"
@@ -14686,13 +14686,13 @@
       "type": "v",
       "example": [
         {
-          "file": "kya-1a",
+          "file": "kya_kyan-1a",
           "contributor": "",
           "display": "きゃーっ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "kya-1b",
+          "file": "kya_kyan-1b",
           "contributor": "",
           "display": "きゃー!!",
           "source": "rock_n_roll_ladies"
@@ -16605,13 +16605,13 @@
       "type": "v",
       "example": [
         {
-          "file": "nya-1a",
+          "file": "nya_nyan-1a",
           "contributor": "",
           "display": "ニャ\u2026",
           "source": "isekai_pickup"
         },
         {
-          "file": "nya-1b",
+          "file": "nya_nyan-1b",
           "contributor": "",
           "display": "ニャァァ",
           "source": "way_of_the_house_husband"
@@ -19318,7 +19318,7 @@
       "type": "e",
       "example": [
         {
-          "file": "pisha-1a",
+          "file": "pisha_pishan-1a",
           "contributor": "",
           "display": "ピシャッ",
           "source": "uncle_at_heart"
@@ -22798,13 +22798,13 @@
       "type": "m",
       "example": [
         {
-          "file": "supa-1a",
+          "file": "supa_supan-1a",
           "contributor": "",
           "display": "スパッ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "supa-1b",
+          "file": "supa_supan-1b",
           "contributor": "",
           "display": "スパッ",
           "source": "strongest_magician_was_human"
@@ -24374,7 +24374,7 @@
       "type": "m",
       "example": [
         {
-          "file": "tsuru-1a",
+          "file": "tsuru_tsurun-1a",
           "contributor": "",
           "display": "つるっ",
           "source": "different_world_smartphone"
@@ -26871,7 +26871,7 @@
       "type": "e",
       "example": [
         {
-          "file": "zuki-1a",
+          "file": "zuki_zukin-1a",
           "contributor": "",
           "display": "ズキッ",
           "source": "isekai_territory_reform"
