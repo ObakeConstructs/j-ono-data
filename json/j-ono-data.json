@@ -1316,6 +1316,49 @@
   },
   {
     "hiragana": [
+      "びくびく",
+      "びくびくっ"
+    ],
+    "romaji": ["biku biku"],
+    "katakana": [
+      "ビクビク",
+      "ビクビクッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "convulse",
+        "flinch",
+        "jerk",
+        "jolt",
+        "quiver",
+        "shake",
+        "shiver",
+        "tremble",
+        "twitch",
+        "wince"
+      ],
+      "refer": "",
+      "meaning": "jerky movements or twitching",
+      "type": "m",
+      "example": [
+        {
+          "file": "biku_biku-1a",
+          "contributor": "",
+          "display": "ビクッ ビク ビクッ",
+          "source": "double_play"
+        },
+        {
+          "file": "biku_biku-1b",
+          "contributor": "",
+          "display": "ビク ビク ビクン",
+          "source": "reincarnated_as_a_dragon_egg"
+        }
+      ]
+    }],
+    "id": "biku_biku"
+  },
+  {
+    "hiragana": [
       "びく",
       "びくっ",
       "びくぅ",
@@ -1403,49 +1446,6 @@
       ]
     }],
     "id": "biku_bikun"
-  },
-  {
-    "hiragana": [
-      "びくびく",
-      "びくびくっ"
-    ],
-    "romaji": ["biku biku"],
-    "katakana": [
-      "ビクビク",
-      "ビクビクッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "convulse",
-        "flinch",
-        "jerk",
-        "jolt",
-        "quiver",
-        "shake",
-        "shiver",
-        "tremble",
-        "twitch",
-        "wince"
-      ],
-      "refer": "",
-      "meaning": "jerky movements or twitching",
-      "type": "m",
-      "example": [
-        {
-          "file": "biku_biku-1a",
-          "contributor": "",
-          "display": "ビクッ ビク ビクッ",
-          "source": "double_play"
-        },
-        {
-          "file": "biku_biku-1b",
-          "contributor": "",
-          "display": "ビク ビク ビクン",
-          "source": "reincarnated_as_a_dragon_egg"
-        }
-      ]
-    }],
-    "id": "biku_biku"
   },
   {
     "hiragana": [
@@ -4393,7 +4393,7 @@
     ],
     "definition": [{
       "equivalent": [""],
-      "refer": "dogo:1",
+      "refer": "dogo_dogon:1",
       "meaning": "",
       "type": "",
       "example": [
@@ -4433,7 +4433,7 @@
     ],
     "definition": [{
       "equivalent": [""],
-      "refer": "dogo:1",
+      "refer": "dogo_dogon:1",
       "meaning": "",
       "type": "",
       "example": [
@@ -4472,7 +4472,7 @@
     "definition": [
       {
         "equivalent": [""],
-        "refer": "doku:1",
+        "refer": "doku_dokun:1",
         "meaning": ", as when in love, nervous, or excited",
         "type": "e",
         "example": [
@@ -4543,7 +4543,7 @@
     "katakana": ["ドキン"],
     "definition": [{
       "equivalent": [""],
-      "refer": "doku:1",
+      "refer": "doku_dokun:1",
       "meaning": "",
       "type": "",
       "example": [{
@@ -4567,7 +4567,7 @@
     ],
     "definition": [{
       "equivalent": [""],
-      "refer": "doku:1",
+      "refer": "doku_dokun:1",
       "meaning": "",
       "type": "",
       "example": [
@@ -4677,7 +4677,7 @@
         "cute",
         "longing"
       ],
-      "refer": "doku:1",
+      "refer": "doku_dokun:1",
       "meaning": ", indicating exaggerated cuteness or desirability",
       "type": "",
       "example": [{
@@ -8478,7 +8478,7 @@
     "katakana": ["ゴキュゴキュ"],
     "definition": [{
       "equivalent": ["chug"],
-      "refer": "goku:1",
+      "refer": "goku_gokun:1",
       "meaning": ", often loud, heavy, or wet",
       "type": "",
       "example": [{
@@ -8567,6 +8567,55 @@
   },
   {
     "hiragana": [
+      "ごろごろ",
+      "ごーろごーろ"
+    ],
+    "romaji": ["goro goro"],
+    "katakana": [
+      "ゴロゴロ",
+      "ゴーロゴーロ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "purr",
+          "thrum"
+        ],
+        "refer": "",
+        "meaning": "the low vibration of a purring cat",
+        "type": "v",
+        "example": [{
+          "file": "goro_goro-1a",
+          "contributor": "",
+          "display": "ゴーロ ゴーロ",
+          "source": "s_rank_behemoth"
+        }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "goro_goron:1",
+        "meaning": "",
+        "type": "",
+        "example": [
+          {
+            "file": "goro_goro-2a",
+            "contributor": "",
+            "display": "ゴロ ゴロ",
+            "source": "neet_kunoichi"
+          },
+          {
+            "file": "goro_goro-2b",
+            "contributor": "",
+            "display": "ゴロゴロゴロロ",
+            "source": "hone_dragon"
+          }
+        ]
+      }
+    ],
+    "id": "goro_goro"
+  },
+  {
+    "hiragana": [
       "ごろ",
       "ごろっ",
       "ごろん"
@@ -8634,55 +8683,6 @@
       ]
     }],
     "id": "goro_goron"
-  },
-  {
-    "hiragana": [
-      "ごろごろ",
-      "ごーろごーろ"
-    ],
-    "romaji": ["goro goro"],
-    "katakana": [
-      "ゴロゴロ",
-      "ゴーロゴーロ"
-    ],
-    "definition": [
-      {
-        "equivalent": [
-          "purr",
-          "thrum"
-        ],
-        "refer": "",
-        "meaning": "the low vibration of a purring cat",
-        "type": "v",
-        "example": [{
-          "file": "goro_goro-1a",
-          "contributor": "",
-          "display": "ゴーロ ゴーロ",
-          "source": "s_rank_behemoth"
-        }]
-      },
-      {
-        "equivalent": [""],
-        "refer": "goro:1",
-        "meaning": "",
-        "type": "",
-        "example": [
-          {
-            "file": "goro_goro-2a",
-            "contributor": "",
-            "display": "ゴロ ゴロ",
-            "source": "neet_kunoichi"
-          },
-          {
-            "file": "goro_goro-2b",
-            "contributor": "",
-            "display": "ゴロゴロゴロロ",
-            "source": "hone_dragon"
-          }
-        ]
-      }
-    ],
-    "id": "goro_goro"
   },
   {
     "hiragana": ["ごしごし"],
@@ -9212,7 +9212,7 @@
     "katakana": ["グビグビ"],
     "definition": [{
       "equivalent": [""],
-      "refer": "goku:1",
+      "refer": "goku_gokun:1",
       "meaning": "",
       "type": "",
       "example": [{
@@ -14431,6 +14431,42 @@
     "id": "kuri"
   },
   {
+    "hiragana": ["くるくる"],
+    "romaji": ["kuru kuru"],
+    "katakana": ["クルクル"],
+    "definition": [{
+      "equivalent": [
+        "circle",
+        "curl",
+        "pivot",
+        "spin",
+        "swing",
+        "swivel",
+        "turn",
+        "twirl",
+        "twist"
+      ],
+      "refer": "",
+      "meaning": "light spinning or twirling, often energetic",
+      "type": "m",
+      "example": [
+        {
+          "file": "kuru_kuru-1a",
+          "contributor": "",
+          "display": "くる くる",
+          "source": "reincarnated_sage_daughters"
+        },
+        {
+          "file": "kuru_kuru-1b",
+          "contributor": "",
+          "display": "くる くる",
+          "source": "cheat_pharmacist"
+        }
+      ]
+    }],
+    "id": "kuru_kuru"
+  },
+  {
     "hiragana": [
       "くる",
       "くるっ",
@@ -14494,42 +14530,6 @@
       ]
     }],
     "id": "kuru_kurun"
-  },
-  {
-    "hiragana": ["くるくる"],
-    "romaji": ["kuru kuru"],
-    "katakana": ["クルクル"],
-    "definition": [{
-      "equivalent": [
-        "circle",
-        "curl",
-        "pivot",
-        "spin",
-        "swing",
-        "swivel",
-        "turn",
-        "twirl",
-        "twist"
-      ],
-      "refer": "",
-      "meaning": "light spinning or twirling, often energetic",
-      "type": "m",
-      "example": [
-        {
-          "file": "kuru_kuru-1a",
-          "contributor": "",
-          "display": "くる くる",
-          "source": "reincarnated_sage_daughters"
-        },
-        {
-          "file": "kuru_kuru-1b",
-          "contributor": "",
-          "display": "くる くる",
-          "source": "cheat_pharmacist"
-        }
-      ]
-    }],
-    "id": "kuru_kuru"
   },
   {
     "hiragana": [
