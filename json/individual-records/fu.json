@@ -7,7 +7,16 @@
     "ふう",
     "ふうっ",
     "ふぅ",
-    "ふぅっ"
+    "ふぅっ",
+    "ふふ",
+    "ふふっ",
+    "ふふふ",
+    "ふーふー",
+    "ふーっふーっ"
+  ],
+  "romaji": [
+    "fu",
+    "fu fu"
   ],
   "katakana": [
     "フ",
@@ -17,7 +26,12 @@
     "フウ",
     "フウッ",
     "フゥ",
-    "フゥッ"
+    "フゥッ",
+    "フフ",
+    "フフッ",
+    "フフフ",
+    "フーフー",
+    "フーッフーッ"
   ],
   "definition": [
     {
@@ -33,7 +47,7 @@
         "snicker"
       ],
       "refer": "",
-      "meaning": "a quick, short laugh",
+      "meaning": "quick, short, or light laughter",
       "type": "v",
       "example": [
         {
@@ -47,6 +61,30 @@
           "contributor": "",
           "display": "ふ\u2026",
           "source": "d_genesis"
+        },
+        {
+          "file": "fu-1c",
+          "contributor": "",
+          "display": "フッ",
+          "source": "acquired_r18_skill"
+        },
+        {
+          "file": "fu-1d",
+          "contributor": "",
+          "display": "フフフ\u2026",
+          "source": "d_genesis"
+        },
+        {
+          "file": "fu-1e",
+          "contributor": "",
+          "display": "ふふっ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "fu-1f",
+          "contributor": "",
+          "display": "ふふ",
+          "source": "dog_became_strongest"
         }
       ]
     },
@@ -73,12 +111,6 @@
         {
           "file": "fu-2b",
           "contributor": "",
-          "display": "フーッ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "fu-2c",
-          "contributor": "",
           "display": "フッ",
           "source": "d_genesis"
         }
@@ -86,11 +118,15 @@
     },
     {
       "equivalent": [
+        "blow",
+        "breath",
         "ease",
+        "exhale",
         "fwhew",
         "gasp",
         "ha",
         "haa",
+        "huff",
         "pant",
         "phew",
         "release",
@@ -98,7 +134,7 @@
         "whew"
       ],
       "refer": "",
-      "meaning": "an exhale or release of breath",
+      "meaning": "sound of exhaling or releasing of breath",
       "type": "v",
       "example": [
         {
@@ -120,25 +156,37 @@
           "source": "peter_grill"
         },
         {
-          "file": "fu-4a",
+          "file": "fu-3d",
           "contributor": "",
-          "display": "ふぅ",
-          "source": "different_world_smartphone"
+          "display": "フーッ フー",
+          "source": "world_full_of_monsters"
         },
         {
-          "file": "fu-4b",
+          "file": "fu-3e",
           "contributor": "",
           "display": "ふぅっ",
           "source": "spy_x_family"
         },
         {
-          "file": "fu-4c",
+          "file": "fu-3f",
           "contributor": "",
           "display": "ふぅ",
           "source": "fushi_no_kami"
+        },
+        {
+          "file": "fu-3g",
+          "contributor": "",
+          "display": "フー フー",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "fu-3h",
+          "contributor": "",
+          "display": "フーッ フーッ",
+          "source": "double_play"
         }
       ]
     }
   ],
-  "literal": "fu"
+  "id": "fu"
 }
