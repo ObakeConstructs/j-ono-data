@@ -47,6 +47,12 @@
           "contributor": "",
           "display": "ザワッ",
           "source": "acquired_r18_skill"
+        },
+        {
+          "file": "zawa-1d",
+          "contributor": "",
+          "display": "ザワ ザワ",
+          "source": "world_full_of_monsters"
         }
       ]
     },
@@ -69,6 +75,40 @@
         "display": "ザワ ザワ ザワ",
         "source": "acquired_r18_skill"
       }]
+    },
+    {
+      "equivalent": [
+        "ballyhoo",
+        "buzz",
+        "chatter",
+        "commotion",
+        "din",
+        "hubbub",
+        "ruckus"
+      ],
+      "refer": "",
+      "meaning": "murmur or chatter of a crowd",
+      "type": "o",
+      "example": [
+        {
+          "file": "zawa-3a",
+          "contributor": "",
+          "display": "ざわ ざわ ざわ",
+          "source": "dungeon_dining_room"
+        },
+        {
+          "file": "zawa-3b",
+          "contributor": "",
+          "display": "ザワ ザワ",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "zawa-3c",
+          "contributor": "",
+          "display": "ざわ ざわ",
+          "source": "uncle_at_heart"
+        }
+      ]
     }
   ],
   "id": "zawa"

@@ -8,14 +8,12 @@
     "じん",
     "じんっ",
     "じーん",
-    "じーんっ",
-    "じろ"
+    "じーんっ"
   ],
   "romaji": [
     "ji",
     "jiin",
-    "jin",
-    "jiro"
+    "jin"
   ],
   "katakana": [
     "ジ",
@@ -26,8 +24,7 @@
     "ジン",
     "ジンッ",
     "ジーン",
-    "ジーンッ",
-    "ジロ"
+    "ジーンッ"
   ],
   "definition": [
     {
@@ -79,12 +76,6 @@
           "contributor": "",
           "display": "じーん",
           "source": "reincarnated_farm_girl"
-        },
-        {
-          "file": "ji_jiin_jin-1g",
-          "contributor": "",
-          "display": "じろ\u2026",
-          "source": "d_genesis"
         }
       ]
     },

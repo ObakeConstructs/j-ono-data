@@ -5593,198 +5593,6 @@
   },
   {
     "hiragana": [
-      "ふ",
-      "ふっ",
-      "ふー",
-      "ふーっ",
-      "ふう",
-      "ふうっ",
-      "ふぅ",
-      "ふぅっ",
-      "ふふ",
-      "ふふっ",
-      "ふふふ",
-      "ふーふー",
-      "ふーっふーっ"
-    ],
-    "romaji": [
-      "fu",
-      "fu fu"
-    ],
-    "katakana": [
-      "フ",
-      "フッ",
-      "フー",
-      "フーッ",
-      "フウ",
-      "フウッ",
-      "フゥ",
-      "フゥッ",
-      "フフ",
-      "フフッ",
-      "フフフ",
-      "フーフー",
-      "フーッフーッ"
-    ],
-    "definition": [
-      {
-        "equivalent": [
-          "chortle",
-          "chuckle",
-          "grin",
-          "ha",
-          "heh",
-          "laugh",
-          "smile",
-          "smirk",
-          "snicker"
-        ],
-        "refer": "",
-        "meaning": "quick, short, or light laughter",
-        "type": "v",
-        "example": [
-          {
-            "file": "fu-1a",
-            "contributor": "",
-            "display": "ふっ",
-            "source": "d_genesis"
-          },
-          {
-            "file": "fu-1b",
-            "contributor": "",
-            "display": "ふ\u2026",
-            "source": "d_genesis"
-          },
-          {
-            "file": "fu-1c",
-            "contributor": "",
-            "display": "フッ",
-            "source": "acquired_r18_skill"
-          },
-          {
-            "file": "fu-1d",
-            "contributor": "",
-            "display": "フフフ\u2026",
-            "source": "d_genesis"
-          },
-          {
-            "file": "fu-1e",
-            "contributor": "",
-            "display": "ふふっ",
-            "source": "d_genesis"
-          },
-          {
-            "file": "fu-1f",
-            "contributor": "",
-            "display": "ふふ",
-            "source": "dog_became_strongest"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "fwip",
-          "fwit",
-          "fwoom",
-          "pop",
-          "shoom",
-          "snap",
-          "whoom"
-        ],
-        "refer": "",
-        "meaning": "a sudden or fast movement",
-        "type": "m",
-        "example": [
-          {
-            "file": "fu-2a",
-            "contributor": "",
-            "display": "フッ",
-            "source": "spy_x_family"
-          },
-          {
-            "file": "fu-2b",
-            "contributor": "",
-            "display": "フッ",
-            "source": "d_genesis"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "blow",
-          "breath",
-          "ease",
-          "exhale",
-          "fwhew",
-          "gasp",
-          "ha",
-          "haa",
-          "huff",
-          "pant",
-          "phew",
-          "release",
-          "relief",
-          "whew"
-        ],
-        "refer": "",
-        "meaning": "sound of exhaling or releasing of breath",
-        "type": "v",
-        "example": [
-          {
-            "file": "fu-3a",
-            "contributor": "",
-            "display": "ふーっ",
-            "source": "world_full_of_monsters"
-          },
-          {
-            "file": "fu-3b",
-            "contributor": "",
-            "display": "ふう",
-            "source": "otherworld_material_collector"
-          },
-          {
-            "file": "fu-3c",
-            "contributor": "",
-            "display": "フウ",
-            "source": "peter_grill"
-          },
-          {
-            "file": "fu-3d",
-            "contributor": "",
-            "display": "フーッ フー",
-            "source": "world_full_of_monsters"
-          },
-          {
-            "file": "fu-3e",
-            "contributor": "",
-            "display": "ふぅっ",
-            "source": "spy_x_family"
-          },
-          {
-            "file": "fu-3f",
-            "contributor": "",
-            "display": "ふぅ",
-            "source": "fushi_no_kami"
-          },
-          {
-            "file": "fu-3g",
-            "contributor": "",
-            "display": "フー フー",
-            "source": "otherworld_material_collector"
-          },
-          {
-            "file": "fu-3h",
-            "contributor": "",
-            "display": "フーッ フーッ",
-            "source": "double_play"
-          }
-        ]
-      }
-    ],
-    "id": "fu"
-  },
-  {
-    "hiragana": [
       "ふあ",
       "ふああ",
       "ふあああ"
@@ -6280,6 +6088,200 @@
       ]
     }],
     "id": "fuwa"
+  },
+  {
+    "hiragana": [
+      "ふ",
+      "ふっ",
+      "ふー",
+      "ふーっ",
+      "ふう",
+      "ふうっ",
+      "ふぅ",
+      "ふぅっ",
+      "ふふ",
+      "ふふっ",
+      "ふふふ",
+      "ふーふー",
+      "ふーっふーっ"
+    ],
+    "romaji": [
+      "fu",
+      "fu fu",
+      "fuu",
+      "fuu fuu"
+    ],
+    "katakana": [
+      "フ",
+      "フッ",
+      "フー",
+      "フーッ",
+      "フウ",
+      "フウッ",
+      "フゥ",
+      "フゥッ",
+      "フフ",
+      "フフッ",
+      "フフフ",
+      "フーフー",
+      "フーッフーッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "chortle",
+          "chuckle",
+          "grin",
+          "ha",
+          "heh",
+          "laugh",
+          "smile",
+          "smirk",
+          "snicker"
+        ],
+        "refer": "",
+        "meaning": "quick, short, or light laughter",
+        "type": "v",
+        "example": [
+          {
+            "file": "fu_fuu-1a",
+            "contributor": "",
+            "display": "ふっ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "fu_fuu-1b",
+            "contributor": "",
+            "display": "ふ\u2026",
+            "source": "d_genesis"
+          },
+          {
+            "file": "fu_fuu-1c",
+            "contributor": "",
+            "display": "フッ",
+            "source": "acquired_r18_skill"
+          },
+          {
+            "file": "fu_fuu-1d",
+            "contributor": "",
+            "display": "フフフ\u2026",
+            "source": "d_genesis"
+          },
+          {
+            "file": "fu_fuu-1e",
+            "contributor": "",
+            "display": "ふふっ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "fu_fuu-1f",
+            "contributor": "",
+            "display": "ふふ",
+            "source": "dog_became_strongest"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "fwip",
+          "fwit",
+          "fwoom",
+          "pop",
+          "shoom",
+          "snap",
+          "whoom"
+        ],
+        "refer": "",
+        "meaning": "a sudden or fast movement",
+        "type": "m",
+        "example": [
+          {
+            "file": "fu_fuu-2a",
+            "contributor": "",
+            "display": "フッ",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "fu_fuu-2b",
+            "contributor": "",
+            "display": "フッ",
+            "source": "d_genesis"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "blow",
+          "breath",
+          "ease",
+          "exhale",
+          "fwhew",
+          "gasp",
+          "ha",
+          "haa",
+          "huff",
+          "pant",
+          "phew",
+          "release",
+          "relief",
+          "whew"
+        ],
+        "refer": "",
+        "meaning": "sound of exhaling or releasing of breath",
+        "type": "v",
+        "example": [
+          {
+            "file": "fu_fuu-3a",
+            "contributor": "",
+            "display": "ふーっ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "fu_fuu-3b",
+            "contributor": "",
+            "display": "ふう",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "fu_fuu-3c",
+            "contributor": "",
+            "display": "フウ",
+            "source": "peter_grill"
+          },
+          {
+            "file": "fu_fuu-3d",
+            "contributor": "",
+            "display": "フーッ フー",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "fu_fuu-3e",
+            "contributor": "",
+            "display": "ふぅっ",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "fu_fuu-3f",
+            "contributor": "",
+            "display": "ふぅ",
+            "source": "fushi_no_kami"
+          },
+          {
+            "file": "fu_fuu-3g",
+            "contributor": "",
+            "display": "フー フー",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "fu_fuu-3h",
+            "contributor": "",
+            "display": "フーッ フーッ",
+            "source": "double_play"
+          }
+        ]
+      }
+    ],
+    "id": "fu_fuu"
   },
   {
     "hiragana": [
@@ -11685,6 +11687,24 @@
     "id": "jiri_jiri"
   },
   {
+    "hiragana": ["じろ"],
+    "romaji": ["jiro"],
+    "katakana": ["ジロ"],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "ji_jiin_jin:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "jiro-1a",
+        "contributor": "",
+        "display": "じろ\u2026",
+        "source": "d_genesis"
+      }]
+    }],
+    "id": "jiro"
+  },
+  {
     "hiragana": [
       "じたばた",
       "ばたじた"
@@ -11804,14 +11824,12 @@
       "じん",
       "じんっ",
       "じーん",
-      "じーんっ",
-      "じろ"
+      "じーんっ"
     ],
     "romaji": [
       "ji",
       "jiin",
-      "jin",
-      "jiro"
+      "jin"
     ],
     "katakana": [
       "ジ",
@@ -11822,8 +11840,7 @@
       "ジン",
       "ジンッ",
       "ジーン",
-      "ジーンッ",
-      "ジロ"
+      "ジーンッ"
     ],
     "definition": [
       {
@@ -11875,12 +11892,6 @@
             "contributor": "",
             "display": "じーん",
             "source": "reincarnated_farm_girl"
-          },
-          {
-            "file": "ji_jiin_jin-1g",
-            "contributor": "",
-            "display": "じろ\u2026",
-            "source": "d_genesis"
           }
         ]
       },
@@ -24488,7 +24499,7 @@
         "woo-hoo"
       ],
       "refer": "",
-      "meaning": "lewd or lusty expression",
+      "meaning": "lewd or lusty thoughts",
       "type": "e",
       "example": [{
         "file": "uhyo-1a",
@@ -26026,6 +26037,12 @@
             "contributor": "",
             "display": "ザワッ",
             "source": "acquired_r18_skill"
+          },
+          {
+            "file": "zawa-1d",
+            "contributor": "",
+            "display": "ザワ ザワ",
+            "source": "world_full_of_monsters"
           }
         ]
       },
@@ -26048,15 +26065,7 @@
           "display": "ザワ ザワ ザワ",
           "source": "acquired_r18_skill"
         }]
-      }
-    ],
-    "id": "zawa"
-  },
-  {
-    "hiragana": ["ざわざわ"],
-    "romaji": ["zawa zawa"],
-    "katakana": ["ザワザワ"],
-    "definition": [
+      },
       {
         "equivalent": [
           "ballyhoo",
@@ -26072,39 +26081,27 @@
         "type": "o",
         "example": [
           {
-            "file": "zawa_zawa-1a",
+            "file": "zawa-3a",
             "contributor": "",
             "display": "ざわ ざわ ざわ",
             "source": "dungeon_dining_room"
           },
           {
-            "file": "zawa_zawa-1b",
+            "file": "zawa-3b",
             "contributor": "",
             "display": "ザワ ザワ",
             "source": "abandoned_reincarnation_sage"
           },
           {
-            "file": "zawa_zawa-1c",
+            "file": "zawa-3c",
             "contributor": "",
             "display": "ざわ ざわ",
             "source": "uncle_at_heart"
           }
         ]
-      },
-      {
-        "equivalent": [""],
-        "refer": "zawa:1",
-        "meaning": "",
-        "type": "",
-        "example": [{
-          "file": "zawa_zawa-2a",
-          "contributor": "",
-          "display": "ザワ ザワ",
-          "source": "world_full_of_monsters"
-        }]
       }
     ],
-    "id": "zawa_zawa"
+    "id": "zawa"
   },
   {
     "hiragana": [
