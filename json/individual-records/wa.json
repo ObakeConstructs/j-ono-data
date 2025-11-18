@@ -10,9 +10,14 @@
     "わぁっ",
     "わぁぁ",
     "わぁぁぁ",
-    "わーっ"
+    "わーっ",
+    "わわ",
+    "わーわー"
   ],
-  "romaji": ["wa"],
+  "romaji": [
+    "wa",
+    "wa wa"
+  ],
   "katakana": [
     "ワ",
     "ワッ",
@@ -24,7 +29,9 @@
     "ワァッ",
     "ワァァ",
     "ワァァァ",
-    "ワーッ"
+    "ワーッ",
+    "ワワ",
+    "ワーワー"
   ],
   "definition": [
     {
@@ -80,6 +87,12 @@
           "contributor": "",
           "display": "わーっ",
           "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "wa-2c",
+          "contributor": "",
+          "display": "ワー ワー",
+          "source": "acquired_r18_skill"
         }
       ]
     }

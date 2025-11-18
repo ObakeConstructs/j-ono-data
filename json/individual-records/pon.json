@@ -1,12 +1,19 @@
 {
   "hiragana": [
     "ぽん",
-    "ぽんっ"
+    "ぽんっ",
+    "ぽんぽん",
+    "ぽんぽんっ"
   ],
-  "romaji": ["pon"],
+  "romaji": [
+    "pon",
+    "pon pon"
+  ],
   "katakana": [
     "ポン",
-    "ポンッ"
+    "ポンッ",
+    "ポンポン",
+    "ポンポンッ"
   ],
   "definition": [
     {
@@ -36,6 +43,12 @@
           "contributor": "",
           "display": "ポン",
           "source": "strongest_thread_master"
+        },
+        {
+          "file": "pon-1c",
+          "contributor": "",
+          "display": "ポン",
+          "source": "acquired_r18_skill"
         }
       ]
     },
@@ -97,6 +110,31 @@
         "display": "ポンッ",
         "source": "reincarnated_aristocrat"
       }]
+    },
+    {
+      "equivalent": [
+        "caress",
+        "pat",
+        "pet",
+        "stroke"
+      ],
+      "refer": "",
+      "meaning": "kind or soothing pats or strokes",
+      "type": "m",
+      "example": [
+        {
+          "file": "pon-4a",
+          "contributor": "",
+          "display": "ぽん ぽん",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "pon-4b",
+          "contributor": "",
+          "display": "ポン ポン",
+          "source": "abandoned_reincarnation_sage"
+        }
+      ]
     }
   ],
   "id": "pon"

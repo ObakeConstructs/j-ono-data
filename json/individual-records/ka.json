@@ -7,9 +7,14 @@
     "かあ",
     "かああ",
     "かぁ",
-    "かぁぁ"
+    "かぁぁ",
+    "かか",
+    "かっかっ"
   ],
-  "romaji": ["ka"],
+  "romaji": [
+    "ka",
+    "ka ka"
+  ],
   "katakana": [
     "カ",
     "カッ",
@@ -18,7 +23,9 @@
     "カア",
     "カアア",
     "カァ",
-    "カァァ"
+    "カァァ",
+    "カカ",
+    "カッカッ"
   ],
   "definition": [
     {
@@ -85,6 +92,12 @@
           "contributor": "",
           "display": "カッ",
           "source": "killed_by_gods_mistake"
+        },
+        {
+          "file": "ka-2c",
+          "contributor": "",
+          "display": "カッ",
+          "source": "acquired_r18_skill"
         }
       ]
     },
@@ -112,6 +125,18 @@
           "contributor": "",
           "display": "カッ",
           "source": "human_ranch"
+        },
+        {
+          "file": "ka-3c",
+          "contributor": "",
+          "display": "カッ カッ",
+          "source": "shogun_gold_in_america"
+        },
+        {
+          "file": "ka-3d",
+          "contributor": "",
+          "display": "カッ カッ カッ",
+          "source": "way_of_the_house_husband"
         }
       ]
     }

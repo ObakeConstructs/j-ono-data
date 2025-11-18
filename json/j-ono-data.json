@@ -12152,9 +12152,14 @@
       "かあ",
       "かああ",
       "かぁ",
-      "かぁぁ"
+      "かぁぁ",
+      "かか",
+      "かっかっ"
     ],
-    "romaji": ["ka"],
+    "romaji": [
+      "ka",
+      "ka ka"
+    ],
     "katakana": [
       "カ",
       "カッ",
@@ -12163,7 +12168,9 @@
       "カア",
       "カアア",
       "カァ",
-      "カァァ"
+      "カァァ",
+      "カカ",
+      "カッカッ"
     ],
     "definition": [
       {
@@ -12230,6 +12237,12 @@
             "contributor": "",
             "display": "カッ",
             "source": "killed_by_gods_mistake"
+          },
+          {
+            "file": "ka-2c",
+            "contributor": "",
+            "display": "カッ",
+            "source": "acquired_r18_skill"
           }
         ]
       },
@@ -12257,6 +12270,18 @@
             "contributor": "",
             "display": "カッ",
             "source": "human_ranch"
+          },
+          {
+            "file": "ka-3c",
+            "contributor": "",
+            "display": "カッ カッ",
+            "source": "shogun_gold_in_america"
+          },
+          {
+            "file": "ka-3d",
+            "contributor": "",
+            "display": "カッ カッ カッ",
+            "source": "way_of_the_house_husband"
           }
         ]
       }
@@ -12922,40 +12947,6 @@
       }
     ],
     "id": "katsun"
-  },
-  {
-    "hiragana": [
-      "かか",
-      "かっかっ",
-      "かつかつ"
-    ],
-    "romaji": ["ka ka"],
-    "katakana": [
-      "カカ",
-      "カッカッ",
-      "カツカツ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "ka:3",
-      "meaning": "s",
-      "type": "",
-      "example": [
-        {
-          "file": "ka_ka-1a",
-          "contributor": "",
-          "display": "カツ カツ",
-          "source": "shogun_gold_in_america"
-        },
-        {
-          "file": "ka_ka-1b",
-          "contributor": "",
-          "display": "カッ カッ カッ",
-          "source": "way_of_the_house_husband"
-        }
-      ]
-    }],
-    "id": "ka_ka"
   },
   {
     "hiragana": [
@@ -16740,6 +16731,12 @@
             "contributor": "",
             "display": "おおっ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "o-1d",
+            "contributor": "",
+            "display": "オ オ オ",
+            "source": "acquired_r18_skill"
           }
         ]
       },
@@ -19850,12 +19847,19 @@
   {
     "hiragana": [
       "ぽん",
-      "ぽんっ"
+      "ぽんっ",
+      "ぽんぽん",
+      "ぽんぽんっ"
     ],
-    "romaji": ["pon"],
+    "romaji": [
+      "pon",
+      "pon pon"
+    ],
     "katakana": [
       "ポン",
-      "ポンッ"
+      "ポンッ",
+      "ポンポン",
+      "ポンポンッ"
     ],
     "definition": [
       {
@@ -19885,6 +19889,12 @@
             "contributor": "",
             "display": "ポン",
             "source": "strongest_thread_master"
+          },
+          {
+            "file": "pon-1c",
+            "contributor": "",
+            "display": "ポン",
+            "source": "acquired_r18_skill"
           }
         ]
       },
@@ -19946,46 +19956,34 @@
           "display": "ポンッ",
           "source": "reincarnated_aristocrat"
         }]
+      },
+      {
+        "equivalent": [
+          "caress",
+          "pat",
+          "pet",
+          "stroke"
+        ],
+        "refer": "",
+        "meaning": "kind or soothing pats or strokes",
+        "type": "m",
+        "example": [
+          {
+            "file": "pon-4a",
+            "contributor": "",
+            "display": "ぽん ぽん",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "pon-4b",
+            "contributor": "",
+            "display": "ポン ポン",
+            "source": "abandoned_reincarnation_sage"
+          }
+        ]
       }
     ],
     "id": "pon"
-  },
-  {
-    "hiragana": [
-      "ぽんぽん",
-      "ぽんぽんっ"
-    ],
-    "romaji": ["pon pon"],
-    "katakana": [
-      "ポンポン",
-      "ポンポンッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "caress",
-        "pat",
-        "pet",
-        "stroke"
-      ],
-      "refer": "",
-      "meaning": "kind or soothing pats or strokes",
-      "type": "m",
-      "example": [
-        {
-          "file": "pon_pon-1a",
-          "contributor": "",
-          "display": "ぽん ぽん",
-          "source": "spy_x_family"
-        },
-        {
-          "file": "pon_pon-1b",
-          "contributor": "",
-          "display": "ポン ポン",
-          "source": "abandoned_reincarnation_sage"
-        }
-      ]
-    }],
-    "id": "pon_pon"
   },
   {
     "hiragana": [
@@ -25065,9 +25063,14 @@
       "わぁっ",
       "わぁぁ",
       "わぁぁぁ",
-      "わーっ"
+      "わーっ",
+      "わわ",
+      "わーわー"
     ],
-    "romaji": ["wa"],
+    "romaji": [
+      "wa",
+      "wa wa"
+    ],
     "katakana": [
       "ワ",
       "ワッ",
@@ -25079,7 +25082,9 @@
       "ワァッ",
       "ワァァ",
       "ワァァァ",
-      "ワーッ"
+      "ワーッ",
+      "ワワ",
+      "ワーワー"
     ],
     "definition": [
       {
@@ -25135,6 +25140,12 @@
             "contributor": "",
             "display": "わーっ",
             "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "wa-2c",
+            "contributor": "",
+            "display": "ワー ワー",
+            "source": "acquired_r18_skill"
           }
         ]
       }
