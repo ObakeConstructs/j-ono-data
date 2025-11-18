@@ -48,12 +48,20 @@
       "refer": "",
       "meaning": "a short vocalized tone, expressing surprise or concern",
       "type": "v",
-      "example": [{
-        "file": "e-2a",
-        "contributor": "",
-        "display": "えっ!?",
-        "source": "eternal_fool_asley"
-      }]
+      "example": [
+        {
+          "file": "e-2a",
+          "contributor": "",
+          "display": "えっ!?",
+          "source": "eternal_fool_asley"
+        },
+        {
+          "file": "e-2b",
+          "contributor": "",
+          "display": "え!?",
+          "source": "acquired_r18_skill"
+        }
+      ]
     }
   ],
   "id": "e"

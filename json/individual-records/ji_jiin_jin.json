@@ -4,15 +4,30 @@
     "じっ",
     "じー",
     "じーっ",
-    "じぃっ"
+    "じぃっ",
+    "じん",
+    "じんっ",
+    "じーん",
+    "じーんっ",
+    "じろ"
   ],
-  "romaji": ["ji"],
+  "romaji": [
+    "ji",
+    "jiin",
+    "jin",
+    "jiro"
+  ],
   "katakana": [
     "ジ",
     "ジッ",
     "ジー",
     "ジーッ",
-    "ジィッ"
+    "ジィッ",
+    "ジン",
+    "ジンッ",
+    "ジーン",
+    "ジーンッ",
+    "ジロ"
   ],
   "definition": [
     {
@@ -30,28 +45,46 @@
       "type": "c",
       "example": [
         {
-          "file": "ji-1a",
+          "file": "ji_jiin_jin-1a",
           "contributor": "",
           "display": "じっ",
           "source": "d_genesis"
         },
         {
-          "file": "ji-1b",
+          "file": "ji_jiin_jin-1b",
           "contributor": "",
           "display": "じぃっ\u2026",
           "source": "d_genesis"
         },
         {
-          "file": "ji-1c",
+          "file": "ji_jiin_jin-1c",
           "contributor": "",
           "display": "じー",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "ji-1d",
+          "file": "ji_jiin_jin-1d",
           "contributor": "",
           "display": "じー",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "ji_jiin_jin-1e",
+          "contributor": "",
+          "display": "ジー\u2026",
+          "source": "acquired_r18_skill"
+        },
+        {
+          "file": "ji_jiin_jin-1f",
+          "contributor": "",
+          "display": "じーん",
+          "source": "reincarnated_farm_girl"
+        },
+        {
+          "file": "ji_jiin_jin-1g",
+          "contributor": "",
+          "display": "じろ\u2026",
+          "source": "d_genesis"
         }
       ]
     },
@@ -67,15 +100,15 @@
         "zip"
       ],
       "refer": "",
-      "meaning": "a droning or buzzing sound",
+      "meaning": "a zipping or buzzing sound",
       "type": "o",
       "example": [{
-        "file": "ji-2a",
+        "file": "ji_jiin_jin-2a",
         "contributor": "",
         "display": "ジー",
         "source": "neet_kunoichi"
       }]
     }
   ],
-  "id": "ji"
+  "id": "ji_jiin_jin"
 }

@@ -3,57 +3,85 @@
     "ふん",
     "ふんっ"
   ],
-  "romaji": ["fun"],
+  "romaji": [
+    "fun",
+    "fun fun"
+  ],
   "katakana": [
     "フン",
     "フンッ"
   ],
-  "definition": [{
-    "equivalent": [
-      "arg",
-      "gah",
-      "groan",
-      "grunt",
-      "har",
-      "hmph",
-      "humph",
-      "urgh"
-    ],
-    "refer": "",
-    "meaning": "a short, forceful grunt or snort, typically expressing effort, irritation, or dismissal",
-    "type": "v",
-    "example": [
-      {
-        "file": "fun-1a",
+  "definition": [
+    {
+      "equivalent": [
+        "arg",
+        "gah",
+        "groan",
+        "grunt",
+        "har",
+        "hmph",
+        "humph",
+        "urgh"
+      ],
+      "refer": "",
+      "meaning": "a short, forceful grunt or snort, typically expressing effort, irritation, or dismissal",
+      "type": "v",
+      "example": [
+        {
+          "file": "fun-1a",
+          "contributor": "",
+          "display": "フンッ!!",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "fun-1b",
+          "contributor": "",
+          "display": "ふん",
+          "source": "fushi_no_kami"
+        },
+        {
+          "file": "fun-1c",
+          "contributor": "",
+          "display": "ふんっ!",
+          "source": "eternal_fool_asley"
+        },
+        {
+          "file": "fun-1d",
+          "contributor": "",
+          "display": "フン",
+          "source": "mushoku_tensei"
+        },
+        {
+          "file": "fun-1e",
+          "contributor": "",
+          "display": "ふん",
+          "source": "mushoku_tensei"
+        },
+        {
+          "file": "fun-1f",
+          "contributor": "",
+          "display": "フン! フン! フン!",
+          "source": "acquired_r18_skill"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "smell",
+        "sniff",
+        "snuff",
+        "whiff"
+      ],
+      "refer": "",
+      "meaning": "smelling or sniffing",
+      "type": "o",
+      "example": [{
+        "file": "fun-2a",
         "contributor": "",
-        "display": "フンッ!!",
-        "source": "abandoned_reincarnation_sage"
-      },
-      {
-        "file": "fun-1b",
-        "contributor": "",
-        "display": "ふん",
-        "source": "fushi_no_kami"
-      },
-      {
-        "file": "fun-1c",
-        "contributor": "",
-        "display": "ふんっ!",
-        "source": "eternal_fool_asley"
-      },
-      {
-        "file": "fun-1d",
-        "contributor": "",
-        "display": "フン",
-        "source": "mushoku_tensei"
-      },
-      {
-        "file": "fun-1e",
-        "contributor": "",
-        "display": "ふん",
-        "source": "mushoku_tensei"
-      }
-    ]
-  }],
+        "display": "ふん ふん ふん",
+        "source": "s_rank_behemoth"
+      }]
+    }
+  ],
   "id": "fun"
 }

@@ -5405,12 +5405,20 @@
         "refer": "",
         "meaning": "a short vocalized tone, expressing surprise or concern",
         "type": "v",
-        "example": [{
-          "file": "e-2a",
-          "contributor": "",
-          "display": "えっ!?",
-          "source": "eternal_fool_asley"
-        }]
+        "example": [
+          {
+            "file": "e-2a",
+            "contributor": "",
+            "display": "えっ!?",
+            "source": "eternal_fool_asley"
+          },
+          {
+            "file": "e-2b",
+            "contributor": "",
+            "display": "え!?",
+            "source": "acquired_r18_skill"
+          }
+        ]
       }
     ],
     "id": "e"
@@ -5592,9 +5600,17 @@
       "ふう",
       "ふうっ",
       "ふぅ",
-      "ふぅっ"
+      "ふぅっ",
+      "ふふ",
+      "ふふっ",
+      "ふふふ",
+      "ふーふー",
+      "ふーっふーっ"
     ],
-    "romaji": ["fu"],
+    "romaji": [
+      "fu",
+      "fu fu"
+    ],
     "katakana": [
       "フ",
       "フッ",
@@ -5603,7 +5619,12 @@
       "フウ",
       "フウッ",
       "フゥ",
-      "フゥッ"
+      "フゥッ",
+      "フフ",
+      "フフッ",
+      "フフフ",
+      "フーフー",
+      "フーッフーッ"
     ],
     "definition": [
       {
@@ -5619,7 +5640,7 @@
           "snicker"
         ],
         "refer": "",
-        "meaning": "a quick, short laugh",
+        "meaning": "quick, short, or light laughter",
         "type": "v",
         "example": [
           {
@@ -5633,6 +5654,30 @@
             "contributor": "",
             "display": "ふ\u2026",
             "source": "d_genesis"
+          },
+          {
+            "file": "fu-1c",
+            "contributor": "",
+            "display": "フッ",
+            "source": "acquired_r18_skill"
+          },
+          {
+            "file": "fu-1d",
+            "contributor": "",
+            "display": "フフフ\u2026",
+            "source": "d_genesis"
+          },
+          {
+            "file": "fu-1e",
+            "contributor": "",
+            "display": "ふふっ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "fu-1f",
+            "contributor": "",
+            "display": "ふふ",
+            "source": "dog_became_strongest"
           }
         ]
       },
@@ -5672,11 +5717,15 @@
       },
       {
         "equivalent": [
+          "blow",
+          "breath",
           "ease",
+          "exhale",
           "fwhew",
           "gasp",
           "ha",
           "haa",
+          "huff",
           "pant",
           "phew",
           "release",
@@ -5684,7 +5733,7 @@
           "whew"
         ],
         "refer": "",
-        "meaning": "an exhale or release of breath",
+        "meaning": "sound of exhaling or releasing of breath",
         "type": "v",
         "example": [
           {
@@ -5722,6 +5771,18 @@
             "contributor": "",
             "display": "ふぅ",
             "source": "fushi_no_kami"
+          },
+          {
+            "file": "fu-3g",
+            "contributor": "",
+            "display": "フー フー",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "fu-3h",
+            "contributor": "",
+            "display": "フーッ フーッ",
+            "source": "double_play"
           }
         ]
       }
@@ -5839,58 +5900,86 @@
       "ふん",
       "ふんっ"
     ],
-    "romaji": ["fun"],
+    "romaji": [
+      "fun",
+      "fun fun"
+    ],
     "katakana": [
       "フン",
       "フンッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "arg",
-        "gah",
-        "groan",
-        "grunt",
-        "har",
-        "hmph",
-        "humph",
-        "urgh"
-      ],
-      "refer": "",
-      "meaning": "a short, forceful grunt or snort, typically expressing effort, irritation, or dismissal",
-      "type": "v",
-      "example": [
-        {
-          "file": "fun-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "arg",
+          "gah",
+          "groan",
+          "grunt",
+          "har",
+          "hmph",
+          "humph",
+          "urgh"
+        ],
+        "refer": "",
+        "meaning": "a short, forceful grunt or snort, typically expressing effort, irritation, or dismissal",
+        "type": "v",
+        "example": [
+          {
+            "file": "fun-1a",
+            "contributor": "",
+            "display": "フンッ!!",
+            "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "fun-1b",
+            "contributor": "",
+            "display": "ふん",
+            "source": "fushi_no_kami"
+          },
+          {
+            "file": "fun-1c",
+            "contributor": "",
+            "display": "ふんっ!",
+            "source": "eternal_fool_asley"
+          },
+          {
+            "file": "fun-1d",
+            "contributor": "",
+            "display": "フン",
+            "source": "mushoku_tensei"
+          },
+          {
+            "file": "fun-1e",
+            "contributor": "",
+            "display": "ふん",
+            "source": "mushoku_tensei"
+          },
+          {
+            "file": "fun-1f",
+            "contributor": "",
+            "display": "フン! フン! フン!",
+            "source": "acquired_r18_skill"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "smell",
+          "sniff",
+          "snuff",
+          "whiff"
+        ],
+        "refer": "",
+        "meaning": "smelling or sniffing",
+        "type": "o",
+        "example": [{
+          "file": "fun-2a",
           "contributor": "",
-          "display": "フンッ!!",
-          "source": "abandoned_reincarnation_sage"
-        },
-        {
-          "file": "fun-1b",
-          "contributor": "",
-          "display": "ふん",
-          "source": "fushi_no_kami"
-        },
-        {
-          "file": "fun-1c",
-          "contributor": "",
-          "display": "ふんっ!",
-          "source": "eternal_fool_asley"
-        },
-        {
-          "file": "fun-1d",
-          "contributor": "",
-          "display": "フン",
-          "source": "mushoku_tensei"
-        },
-        {
-          "file": "fun-1e",
-          "contributor": "",
-          "display": "ふん",
-          "source": "mushoku_tensei"
-        }
-      ]
-    }],
+          "display": "ふん ふん ふん",
+          "source": "s_rank_behemoth"
+        }]
+      }
+    ],
     "id": "fun"
   },
   {
@@ -5933,29 +6022,6 @@
       ]
     }],
     "id": "funi"
-  },
-  {
-    "hiragana": ["ふんふん"],
-    "romaji": ["fun fun"],
-    "katakana": ["フンフン"],
-    "definition": [{
-      "equivalent": [
-        "smell",
-        "sniff",
-        "snuff",
-        "whiff"
-      ],
-      "refer": "",
-      "meaning": "smelling or sniffing",
-      "type": "o",
-      "example": [{
-        "file": "fun_fun-1a",
-        "contributor": "",
-        "display": "ふん ふん ふん",
-        "source": "s_rank_behemoth"
-      }]
-    }],
-    "id": "fun_fun"
   },
   {
     "hiragana": [
@@ -6220,84 +6286,6 @@
       ]
     }],
     "id": "fuwa"
-  },
-  {
-    "hiragana": [
-      "ふふ",
-      "ふふっ",
-      "ふふふ",
-      "ふーふー",
-      "ふーっふーっ"
-    ],
-    "romaji": ["fu fu"],
-    "katakana": [
-      "フフ",
-      "フフッ",
-      "フフフ",
-      "フーフー",
-      "フーッフーッ"
-    ],
-    "definition": [
-      {
-        "equivalent": [
-          "chortle",
-          "chuckle",
-          "ha",
-          "heh",
-          "laugh"
-        ],
-        "refer": "",
-        "meaning": "light laughter",
-        "type": "v",
-        "example": [
-          {
-            "file": "fu_fu-1a",
-            "contributor": "",
-            "display": "フフフ\u2026",
-            "source": "d_genesis"
-          },
-          {
-            "file": "fu_fu-1b",
-            "contributor": "",
-            "display": "ふふっ",
-            "source": "d_genesis"
-          },
-          {
-            "file": "fu_fu-1c",
-            "contributor": "",
-            "display": "ふふ",
-            "source": "dog_became_strongest"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "blow",
-          "breath",
-          "exhale",
-          "huff",
-          "inhale"
-        ],
-        "refer": "",
-        "meaning": "breathing in a controlled, deliberate manner",
-        "type": "v",
-        "example": [
-          {
-            "file": "fu_fu-2a",
-            "contributor": "",
-            "display": "フー フー",
-            "source": "otherworld_material_collector"
-          },
-          {
-            "file": "fu_fu-2b",
-            "contributor": "",
-            "display": "フーッ フーッ",
-            "source": "double_play"
-          }
-        ]
-      }
-    ],
-    "id": "fu_fu"
   },
   {
     "hiragana": [
@@ -11626,115 +11614,6 @@
   },
   {
     "hiragana": [
-      "じ",
-      "じっ",
-      "じー",
-      "じーっ",
-      "じぃっ"
-    ],
-    "romaji": ["ji"],
-    "katakana": [
-      "ジ",
-      "ジッ",
-      "ジー",
-      "ジーッ",
-      "ジィッ"
-    ],
-    "definition": [
-      {
-        "equivalent": [
-          "gape",
-          "gawk",
-          "peer",
-          "regard",
-          "scrutinize",
-          "stare",
-          "study"
-        ],
-        "refer": "",
-        "meaning": "a long, fixed stare",
-        "type": "c",
-        "example": [
-          {
-            "file": "ji-1a",
-            "contributor": "",
-            "display": "じっ",
-            "source": "d_genesis"
-          },
-          {
-            "file": "ji-1b",
-            "contributor": "",
-            "display": "じぃっ\u2026",
-            "source": "d_genesis"
-          },
-          {
-            "file": "ji-1c",
-            "contributor": "",
-            "display": "じー",
-            "source": "komi_cant_communicate"
-          },
-          {
-            "file": "ji-1d",
-            "contributor": "",
-            "display": "じー",
-            "source": "otherworld_material_collector"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "burr",
-          "buzz",
-          "chirr",
-          "churr",
-          "drone",
-          "hum",
-          "purr",
-          "zip"
-        ],
-        "refer": "",
-        "meaning": "a droning or buzzing sound",
-        "type": "o",
-        "example": [{
-          "file": "ji-2a",
-          "contributor": "",
-          "display": "ジー",
-          "source": "neet_kunoichi"
-        }]
-      }
-    ],
-    "id": "ji"
-  },
-  {
-    "hiragana": [
-      "じん",
-      "じんっ",
-      "じーん",
-      "じーんっ"
-    ],
-    "romaji": ["jin"],
-    "katakana": [
-      "ジン",
-      "ジンッ",
-      "ジーン",
-      "ジーンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "ji:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "jin-1a",
-        "contributor": "",
-        "display": "じーん",
-        "source": "reincarnated_farm_girl"
-      }]
-    }],
-    "id": "jin"
-  },
-  {
-    "hiragana": [
       "じり",
       "じりり",
       "じりりり",
@@ -11810,24 +11689,6 @@
       }]
     }],
     "id": "jiri_jiri"
-  },
-  {
-    "hiragana": ["じろ"],
-    "romaji": ["jiro"],
-    "katakana": ["ジロ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "ji:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "jiro-1a",
-        "contributor": "",
-        "display": "じろ\u2026",
-        "source": "d_genesis"
-      }]
-    }],
-    "id": "jiro"
   },
   {
     "hiragana": [
@@ -11938,6 +11799,120 @@
       ]
     }],
     "id": "jiwa"
+  },
+  {
+    "hiragana": [
+      "じ",
+      "じっ",
+      "じー",
+      "じーっ",
+      "じぃっ",
+      "じん",
+      "じんっ",
+      "じーん",
+      "じーんっ",
+      "じろ"
+    ],
+    "romaji": [
+      "ji",
+      "jiin",
+      "jin",
+      "jiro"
+    ],
+    "katakana": [
+      "ジ",
+      "ジッ",
+      "ジー",
+      "ジーッ",
+      "ジィッ",
+      "ジン",
+      "ジンッ",
+      "ジーン",
+      "ジーンッ",
+      "ジロ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "gape",
+          "gawk",
+          "peer",
+          "regard",
+          "scrutinize",
+          "stare",
+          "study"
+        ],
+        "refer": "",
+        "meaning": "a long, fixed stare",
+        "type": "c",
+        "example": [
+          {
+            "file": "ji_jiin_jin-1a",
+            "contributor": "",
+            "display": "じっ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "ji_jiin_jin-1b",
+            "contributor": "",
+            "display": "じぃっ\u2026",
+            "source": "d_genesis"
+          },
+          {
+            "file": "ji_jiin_jin-1c",
+            "contributor": "",
+            "display": "じー",
+            "source": "komi_cant_communicate"
+          },
+          {
+            "file": "ji_jiin_jin-1d",
+            "contributor": "",
+            "display": "じー",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "ji_jiin_jin-1e",
+            "contributor": "",
+            "display": "ジー\u2026",
+            "source": "acquired_r18_skill"
+          },
+          {
+            "file": "ji_jiin_jin-1f",
+            "contributor": "",
+            "display": "じーん",
+            "source": "reincarnated_farm_girl"
+          },
+          {
+            "file": "ji_jiin_jin-1g",
+            "contributor": "",
+            "display": "じろ\u2026",
+            "source": "d_genesis"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "burr",
+          "buzz",
+          "chirr",
+          "churr",
+          "drone",
+          "hum",
+          "purr",
+          "zip"
+        ],
+        "refer": "",
+        "meaning": "a zipping or buzzing sound",
+        "type": "o",
+        "example": [{
+          "file": "ji_jiin_jin-2a",
+          "contributor": "",
+          "display": "ジー",
+          "source": "neet_kunoichi"
+        }]
+      }
+    ],
+    "id": "ji_jiin_jin"
   },
   {
     "hiragana": [
@@ -16783,6 +16758,29 @@
     "id": "o"
   },
   {
+    "hiragana": ["おほん"],
+    "romaji": ["ohon"],
+    "katakana": ["オホン"],
+    "definition": [{
+      "equivalent": [
+        "ahem",
+        "cough",
+        "hem",
+        "um"
+      ],
+      "refer": "",
+      "meaning": "polite throat-clearing, often to regain composure",
+      "type": "v",
+      "example": [{
+        "file": "ohon-1a",
+        "contributor": "",
+        "display": "オ\u2026オホン",
+        "source": "acquired_r18_skill"
+      }]
+    }],
+    "id": "ohon"
+  },
+  {
     "hiragana": ["おろおろ"],
     "romaji": ["oro oro"],
     "katakana": ["オロオロ"],
@@ -20749,15 +20747,30 @@
       "ぷるる",
       "ぷるるる",
       "ぷるっ",
-      "ぷるるっ"
+      "ぷるるっ",
+      "ぷるん",
+      "ぷるんっ",
+      "ぷるぷる",
+      "ぷるぷるぷる",
+      "ぷるんぷるん"
     ],
-    "romaji": ["puru"],
+    "romaji": [
+      "puru",
+      "puru puru",
+      "purun",
+      "purun purun"
+    ],
     "katakana": [
       "プル",
       "プルル",
       "プルルル",
       "プルッ",
-      "プルルッ"
+      "プルルッ",
+      "プルン",
+      "プルンッ",
+      "プルプル",
+      "プルプルプル",
+      "プルンプルン"
     ],
     "definition": [
       {
@@ -20769,20 +20782,26 @@
           "vibrate"
         ],
         "refer": "",
-        "meaning": "the sound of a rapid, fine vibration or buzz",
+        "meaning": "the sound of a rapid, fine vibration or buzzing",
         "type": "o",
         "example": [
           {
-            "file": "puru-1a",
+            "file": "puru_purun-1a",
             "contributor": "",
             "display": "プルルル",
             "source": "drawing"
           },
           {
-            "file": "puru-1b",
+            "file": "puru_purun-1b",
             "contributor": "",
             "display": "プルルル\u2026.",
             "source": "sex_with_me_sells"
+          },
+          {
+            "file": "puru_purun-1c",
+            "contributor": "",
+            "display": "プル プル",
+            "source": "yojo_life"
           }
         ]
       },
@@ -20801,135 +20820,65 @@
         "refer": "",
         "meaning": "a wobbling or shaking motion",
         "type": "m",
-        "example": [{
-          "file": "puru-2a",
-          "contributor": "",
-          "display": "ぷるるっ",
-          "source": "beastly_boys_and_girls"
-        }]
-      }
-    ],
-    "id": "puru"
-  },
-  {
-    "hiragana": [
-      "ぷるん",
-      "ぷるんっ"
-    ],
-    "romaji": ["purun"],
-    "katakana": [
-      "プルン",
-      "プルンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "puru:2",
-      "meaning": "",
-      "type": "",
-      "example": [
-        {
-          "file": "purun-1a",
-          "contributor": "",
-          "display": "ぷるん",
-          "source": "s_rank_behemoth"
-        },
-        {
-          "file": "purun-1b",
-          "contributor": "",
-          "display": "プルン",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "purun-1c",
-          "contributor": "",
-          "display": "ぷるん",
-          "source": "rise_of_the_outlaw_tamer"
-        },
-        {
-          "file": "purun-1d",
-          "contributor": "",
-          "display": "ぷるんっ",
-          "source": "35_year_olds_choice"
-        }
-      ]
-    }],
-    "id": "purun"
-  },
-  {
-    "hiragana": [
-      "ぷるんぷるん",
-      "ぷるんぷるんっ"
-    ],
-    "romaji": ["purun purun"],
-    "katakana": [
-      "プルンプルン",
-      "プルンプルンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "puru:2",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "purun_purun-1a",
-        "contributor": "",
-        "display": "プルン プルンッ",
-        "source": "gyaru_academy"
-      }]
-    }],
-    "id": "purun_purun"
-  },
-  {
-    "hiragana": ["ぷるぷる"],
-    "romaji": ["puru puru"],
-    "katakana": ["プルプル"],
-    "definition": [
-      {
-        "equivalent": [""],
-        "refer": "puru:1",
-        "meaning": "",
-        "type": "",
-        "example": [{
-          "file": "puru_puru-1a",
-          "contributor": "",
-          "display": "プル プル",
-          "source": "yojo_life"
-        }]
-      },
-      {
-        "equivalent": [""],
-        "refer": "puru:2",
-        "meaning": "",
-        "type": "",
         "example": [
           {
-            "file": "puru_puru-2a",
+            "file": "puru_purun-2a",
+            "contributor": "",
+            "display": "ぷるるっ",
+            "source": "beastly_boys_and_girls"
+          },
+          {
+            "file": "puru_purun-2b",
+            "contributor": "",
+            "display": "プルン",
+            "source": "acquired_r18_skill"
+          },
+          {
+            "file": "puru_purun-2c",
+            "contributor": "",
+            "display": "ぷるんっ",
+            "source": "35_year_olds_choice"
+          },
+          {
+            "file": "puru_purun-2d",
+            "contributor": "",
+            "display": "プルン",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "puru_purun-2e",
+            "contributor": "",
+            "display": "ぷるん",
+            "source": "rise_of_the_outlaw_tamer"
+          },
+          {
+            "file": "puru_purun-2f",
             "contributor": "",
             "display": "ぷる ぷる",
             "source": "s_rank_behemoth"
           },
           {
-            "file": "puru_puru-2b",
-            "contributor": "",
-            "display": "プル プル",
-            "source": "neet_kunoichi"
-          },
-          {
-            "file": "puru_puru-2c",
+            "file": "puru_purun-2g",
             "contributor": "",
             "display": "プル プル",
             "source": "spy_x_family"
           },
           {
-            "file": "puru_puru-2d",
+            "file": "puru_purun-2h",
             "contributor": "",
             "display": "プル プル プル",
             "source": "yojo_life"
+          },
+          {
+            "file": "puru_purun-2i",
+            "contributor": "",
+            "display": "プルンッ プルン",
+            "source": "gyaru_academy"
           }
         ]
       }
     ],
-    "id": "puru_puru"
+    "id": "puru_purun"
   },
   {
     "hiragana": [
@@ -24527,6 +24476,37 @@
   },
   {
     "hiragana": [
+      "うひょ",
+      "うひょー"
+    ],
+    "romaji": ["uhyo"],
+    "katakana": [
+      "ウヒョ",
+      "ウヒョー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "hot damn",
+        "hubba-hubba",
+        "lewd",
+        "lusty",
+        "oh yeah",
+        "woo-hoo"
+      ],
+      "refer": "",
+      "meaning": "lewd or lusty expression",
+      "type": "e",
+      "example": [{
+        "file": "uhyo-1a",
+        "contributor": "",
+        "display": "ウヒョー",
+        "source": "acquired_r18_skill"
+      }]
+    }],
+    "id": "uhyo"
+  },
+  {
+    "hiragana": [
       "うぃん",
       "うぃーん"
     ],
@@ -26006,45 +25986,76 @@
   {
     "hiragana": [
       "ざわ",
-      "ざゎ",
       "ざわっ",
-      "ざゎっ"
+      "ざわざわ",
+      "ざわざわざわ"
     ],
-    "romaji": ["zawa"],
+    "romaji": [
+      "zawa",
+      "zawa zawa"
+    ],
     "katakana": [
       "ザワ",
-      "ザヮ",
       "ザワッ",
-      "ザヮッ"
+      "ザワザワ",
+      "ザワザワザワ"
     ],
-    "definition": [{
-      "equivalent": [
-        "amazed",
-        "dread",
-        "flabbergasted",
-        "shock",
-        "stunned",
-        "tense",
-        "uneasy"
-      ],
-      "refer": "",
-      "meaning": "a tense, uneasy, or shocked crowd",
-      "type": "e",
-      "example": [
-        {
-          "file": "zawa-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "amazed",
+          "dread",
+          "flabbergasted",
+          "shock",
+          "stunned",
+          "tense",
+          "uneasy"
+        ],
+        "refer": "",
+        "meaning": "a tense, uneasy, or shocked crowd",
+        "type": "e",
+        "example": [
+          {
+            "file": "zawa-1a",
+            "contributor": "",
+            "display": "ざわ",
+            "source": "requiem_for_prophet"
+          },
+          {
+            "file": "zawa-1b",
+            "contributor": "",
+            "display": "ざわっ",
+            "source": "shogun_gold_in_america"
+          },
+          {
+            "file": "zawa-1c",
+            "contributor": "",
+            "display": "ザワッ",
+            "source": "acquired_r18_skill"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "analyze",
+          "appraise",
+          "edgy",
+          "reasoning",
+          "troubled",
+          "uneasy",
+          "unsettled"
+        ],
+        "refer": "",
+        "meaning": "uneasy mood or buzzing thoughts",
+        "type": "s",
+        "example": [{
+          "file": "zawa-2a",
           "contributor": "",
-          "display": "ざわ",
-          "source": "requiem_for_prophet"
-        },
-        {
-          "file": "zawa-1b",
-          "contributor": "",
-          "display": "ざゎっ",
-          "source": "shogun_gold_in_america"
-        }
-      ]
-    }],
+          "display": "ザワ ザワ ザワ",
+          "source": "acquired_r18_skill"
+        }]
+      }
+    ],
     "id": "zawa"
   },
   {

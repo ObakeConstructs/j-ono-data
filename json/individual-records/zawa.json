@@ -1,44 +1,75 @@
 {
   "hiragana": [
     "ざわ",
-    "ざゎ",
     "ざわっ",
-    "ざゎっ"
+    "ざわざわ",
+    "ざわざわざわ"
   ],
-  "romaji": ["zawa"],
+  "romaji": [
+    "zawa",
+    "zawa zawa"
+  ],
   "katakana": [
     "ザワ",
-    "ザヮ",
     "ザワッ",
-    "ザヮッ"
+    "ザワザワ",
+    "ザワザワザワ"
   ],
-  "definition": [{
-    "equivalent": [
-      "amazed",
-      "dread",
-      "flabbergasted",
-      "shock",
-      "stunned",
-      "tense",
-      "uneasy"
-    ],
-    "refer": "",
-    "meaning": "a tense, uneasy, or shocked crowd",
-    "type": "e",
-    "example": [
-      {
-        "file": "zawa-1a",
+  "definition": [
+    {
+      "equivalent": [
+        "amazed",
+        "dread",
+        "flabbergasted",
+        "shock",
+        "stunned",
+        "tense",
+        "uneasy"
+      ],
+      "refer": "",
+      "meaning": "a tense, uneasy, or shocked crowd",
+      "type": "e",
+      "example": [
+        {
+          "file": "zawa-1a",
+          "contributor": "",
+          "display": "ざわ",
+          "source": "requiem_for_prophet"
+        },
+        {
+          "file": "zawa-1b",
+          "contributor": "",
+          "display": "ざわっ",
+          "source": "shogun_gold_in_america"
+        },
+        {
+          "file": "zawa-1c",
+          "contributor": "",
+          "display": "ザワッ",
+          "source": "acquired_r18_skill"
+        }
+      ]
+    },
+    {
+      "equivalent": [
+        "analyze",
+        "appraise",
+        "edgy",
+        "reasoning",
+        "troubled",
+        "uneasy",
+        "unsettled"
+      ],
+      "refer": "",
+      "meaning": "uneasy mood or buzzing thoughts",
+      "type": "s",
+      "example": [{
+        "file": "zawa-2a",
         "contributor": "",
-        "display": "ざわ",
-        "source": "requiem_for_prophet"
-      },
-      {
-        "file": "zawa-1b",
-        "contributor": "",
-        "display": "ざゎっ",
-        "source": "shogun_gold_in_america"
-      }
-    ]
-  }],
+        "display": "ザワ ザワ ザワ",
+        "source": "acquired_r18_skill"
+      }]
+    }
+  ],
   "id": "zawa"
 }
