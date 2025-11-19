@@ -4137,15 +4137,28 @@
       "どっ",
       "どぉ",
       "どぉっ",
-      "どおぉ"
+      "どおぉ",
+      "どど",
+      "どどど",
+      "どぉどぉ",
+      "どおどお",
+      "どどっ"
     ],
-    "romaji": ["do"],
+    "romaji": [
+      "do",
+      "do do"
+    ],
     "katakana": [
       "ド",
       "ドッ",
       "ドォ",
       "ドォッ",
-      "ドオォ"
+      "ドオォ",
+      "ドド",
+      "ドドド",
+      "ドォドォ",
+      "ドオドオ",
+      "ドドッ"
     ],
     "definition": [
       {
@@ -4192,6 +4205,24 @@
             "contributor": "",
             "display": "ドッオォ",
             "source": "isekai_sniper"
+          },
+          {
+            "file": "do-1e",
+            "contributor": "",
+            "display": "ド ド ド ド",
+            "source": "millimos_saga"
+          },
+          {
+            "file": "do-1f",
+            "contributor": "",
+            "display": "ドォ ドォ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "do-1g",
+            "contributor": "",
+            "display": "ドドドドドド",
+            "source": "reincarnated_aristocrat"
           }
         ]
       },
@@ -4212,6 +4243,78 @@
           "contributor": "",
           "display": "どっ",
           "source": "kuma_kuma_kuma_bear"
+        }]
+      },
+      {
+        "equivalent": [
+          "blaze",
+          "bolt",
+          "careen",
+          "dash",
+          "gallop",
+          "hurtle",
+          "pelt",
+          "race",
+          "run",
+          "rush",
+          "speed",
+          "sprint"
+        ],
+        "refer": "",
+        "meaning": "thunderous running or movement",
+        "type": "m",
+        "example": [
+          {
+            "file": "do-3a",
+            "contributor": "",
+            "display": "ドドドド ドドドド ドドドド\u2026",
+            "source": "kuma_kuma_kuma_bear"
+          },
+          {
+            "file": "do-3b",
+            "contributor": "",
+            "display": "ドドドッ",
+            "source": "simple_sword_saint"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "danger",
+          "menace",
+          "peril",
+          "pressure",
+          "risk",
+          "threat"
+        ],
+        "refer": "",
+        "meaning": "menacing presence or emotional pressure",
+        "type": "e",
+        "example": [{
+          "file": "do-4a",
+          "contributor": "",
+          "display": "ド ド ド ド ド",
+          "source": "pokemon_xy_break"
+        }]
+      },
+      {
+        "equivalent": [
+          "accelerate",
+          "race",
+          "rev",
+          "roar",
+          "rumble",
+          "speed",
+          "vroom"
+        ],
+        "refer": "",
+        "meaning": "a deep engine rumble or roar",
+        "type": "o",
+        "example": [{
+          "file": "do-5a",
+          "contributor": "",
+          "display": "ド ド ド ド",
+          "source": "ai_and_izawa"
         }]
       }
     ],
@@ -4376,6 +4479,12 @@
           "contributor": "",
           "display": "ドゴン",
           "source": "world_full_of_monsters"
+        },
+        {
+          "file": "dogo_dogon-1e",
+          "contributor": "",
+          "display": "ドゴオン",
+          "source": "millimos_saga"
         }
       ]
     }],
@@ -5239,124 +5348,6 @@
   },
   {
     "hiragana": [
-      "どど",
-      "どぉどぉ",
-      "どおどお",
-      "どどど",
-      "どどどど",
-      "どどっ",
-      "どどどっ",
-      "どどどどど"
-    ],
-    "romaji": ["do do"],
-    "katakana": [
-      "ドド",
-      "ドォドォ",
-      "ドオドオ",
-      "ドドド",
-      "ドドドド",
-      "ドドッ",
-      "ドドドッ",
-      "ドドドドド"
-    ],
-    "definition": [
-      {
-        "equivalent": [""],
-        "refer": "do:1",
-        "meaning": "",
-        "type": "",
-        "example": [
-          {
-            "file": "do_do-1a",
-            "contributor": "",
-            "display": "ドォ ドォ",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "do_do-1b",
-            "contributor": "",
-            "display": "ドドドドドド",
-            "source": "reincarnated_aristocrat"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "blaze",
-          "bolt",
-          "careen",
-          "dash",
-          "gallop",
-          "hurtle",
-          "pelt",
-          "race",
-          "run",
-          "rush",
-          "speed",
-          "sprint"
-        ],
-        "refer": "",
-        "meaning": "thunderous running or movement",
-        "type": "m",
-        "example": [
-          {
-            "file": "do_do-2a",
-            "contributor": "",
-            "display": "ドドドド\u2026",
-            "source": "kuma_kuma_kuma_bear"
-          },
-          {
-            "file": "do_do-2b",
-            "contributor": "",
-            "display": "ドドドッ",
-            "source": "simple_sword_saint"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "danger",
-          "menace",
-          "peril",
-          "pressure",
-          "risk",
-          "threat"
-        ],
-        "refer": "",
-        "meaning": "menacing presence or emotional pressure",
-        "type": "e",
-        "example": [{
-          "file": "do_do-3a",
-          "contributor": "Artrix",
-          "display": "ドドドドド",
-          "source": "pokemon_xy_break"
-        }]
-      },
-      {
-        "equivalent": [
-          "accelerate",
-          "race",
-          "rev",
-          "roar",
-          "rumble",
-          "speed",
-          "vroom"
-        ],
-        "refer": "",
-        "meaning": "a deep engine rumble or roar",
-        "type": "o",
-        "example": [{
-          "file": "do_do-4a",
-          "contributor": "",
-          "display": "ドドドド",
-          "source": "ai_and_izawa"
-        }]
-      }
-    ],
-    "id": "do_do"
-  },
-  {
-    "hiragana": [
       "え",
       "えっ",
       "えぇ",
@@ -5484,12 +5475,14 @@
   {
     "hiragana": [
       "ふぁさ",
-      "ふぁさぁ",
-      "ふぁさぁぁ"
+      "ふぁさっ",
+      "ふぁさぁぁ",
+      "ふぁさっ"
     ],
     "romaji": ["fasa"],
     "katakana": [
       "ファサ",
+      "ファサッ",
       "ファサァ",
       "ファサァァ"
     ],
@@ -5517,6 +5510,12 @@
           "contributor": "",
           "display": "ファサ",
           "source": "rock_n_roll_ladies"
+        },
+        {
+          "file": "fasa-1c",
+          "contributor": "",
+          "display": "ファサッ",
+          "source": "millimos_saga"
         }
       ]
     }],
@@ -8210,137 +8209,6 @@
   },
   {
     "hiragana": [
-      "ご",
-      "ごっ",
-      "ごー",
-      "ごーっ",
-      "ごぉ",
-      "ごぉっ",
-      "ごぉぉ",
-      "ごぉぉぉ",
-      "ごお",
-      "ごおっ"
-    ],
-    "romaji": ["go"],
-    "katakana": [
-      "ゴ",
-      "ゴッ",
-      "ゴー",
-      "ゴーッ",
-      "ゴォ",
-      "ゴォッ",
-      "ゴォォ",
-      "ゴォォォ",
-      "ゴオ",
-      "ゴオッ"
-    ],
-    "definition": [
-      {
-        "equivalent": [
-          "bam",
-          "bang",
-          "crack",
-          "hit",
-          "pound",
-          "slam",
-          "slap",
-          "slug",
-          "sock",
-          "thwack",
-          "whack"
-        ],
-        "refer": "",
-        "meaning": "the thud or blow from a solid impact",
-        "type": "o",
-        "example": [
-          {
-            "file": "go-1a",
-            "contributor": "",
-            "display": "ゴ",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "go-1b",
-            "contributor": "",
-            "display": "ゴッ",
-            "source": "reincarnated_aristocrat"
-          },
-          {
-            "file": "go-1c",
-            "contributor": "",
-            "display": "ゴッ",
-            "source": "hone_dragon"
-          },
-          {
-            "file": "go-1d",
-            "contributor": "",
-            "display": "ゴォッ",
-            "source": "hello_work"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "blast",
-          "boom",
-          "ka-boom",
-          "shoom",
-          "swoosh",
-          "whom"
-        ],
-        "refer": "",
-        "meaning": "a sudden blast or explosion",
-        "type": "o",
-        "example": [{
-          "file": "go-2a",
-          "contributor": "",
-          "display": "ゴオ",
-          "source": "kuma_kuma_kuma_bear"
-        }]
-      },
-      {
-        "equivalent": [
-          "blaze",
-          "burn",
-          "flames",
-          "flare",
-          "fwoosh"
-        ],
-        "refer": "",
-        "meaning": "a sudden flare or burst of flames",
-        "type": "o",
-        "example": [
-          {
-            "file": "go-3a",
-            "contributor": "",
-            "display": "ゴォォ..",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "go-3b",
-            "contributor": "",
-            "display": "ゴ",
-            "source": "s_rank_behemoth"
-          },
-          {
-            "file": "go-3c",
-            "contributor": "",
-            "display": "ゴッ",
-            "source": "different_world_smartphone"
-          },
-          {
-            "file": "go-3d",
-            "contributor": "",
-            "display": "ゴオッ",
-            "source": "different_world_smartphone"
-          }
-        ]
-      }
-    ],
-    "id": "go"
-  },
-  {
-    "hiragana": [
       "ごほ",
       "ごほっ",
       "ごほごほ",
@@ -8489,56 +8357,6 @@
       }]
     }],
     "id": "gokyu_gokyu"
-  },
-  {
-    "hiragana": [
-      "ごん",
-      "ごんっ"
-    ],
-    "romaji": ["gon"],
-    "katakana": [
-      "ゴン",
-      "ゴンッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "go:1",
-      "meaning": "",
-      "type": "",
-      "example": [
-        {
-          "file": "gon-1a",
-          "contributor": "",
-          "display": "ゴンッ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "gon-1b",
-          "contributor": "",
-          "display": "ゴン",
-          "source": "komi_cant_communicate"
-        },
-        {
-          "file": "gon-1c",
-          "contributor": "",
-          "display": "ゴン\u2026",
-          "source": "spy_x_family"
-        },
-        {
-          "file": "gon-1d",
-          "contributor": "",
-          "display": "ゴン",
-          "source": "blazing_fire_brigade"
-        },
-        {
-          "file": "gon-1e",
-          "contributor": "",
-          "display": "ゴン",
-          "source": "saga_lagging_hero"
-        }
-      ]
-    }],
-    "id": "gon"
   },
   {
     "hiragana": ["ごぽり"],
@@ -8917,39 +8735,205 @@
   },
   {
     "hiragana": [
-      "ごご",
-      "ごっごっ",
-      "ごごご"
+      "ご",
+      "ごっ",
+      "ごー",
+      "ごーっ",
+      "ごぉ",
+      "ごぉっ",
+      "ごぉぉ",
+      "ごぉぉぉ",
+      "ごお",
+      "ごおお",
+      "ごおおお",
+      "ごん",
+      "ごんっ"
     ],
-    "romaji": ["go go"],
+    "romaji": [
+      "go",
+      "go go",
+      "gon",
+      "goo"
+    ],
     "katakana": [
-      "ゴゴ",
-      "ゴッゴッ",
-      "ゴゴゴ"
+      "ゴ",
+      "ゴッ",
+      "ゴー",
+      "ゴーッ",
+      "ゴォ",
+      "ゴォッ",
+      "ゴォォ",
+      "ゴォォォ",
+      "ゴオ",
+      "ゴオオ",
+      "ゴオオオ",
+      "ゴン",
+      "ゴンッ"
     ],
     "definition": [
       {
         "equivalent": [
+          "bam",
+          "bang",
+          "crack",
+          "hit",
           "knock",
-          "tap"
+          "pound",
+          "slam",
+          "slap",
+          "slug",
+          "sock",
+          "thwack",
+          "whack"
         ],
-        "refer": "go:1",
-        "meaning": ", repeated or rhythmic ",
-        "type": "",
+        "refer": "",
+        "meaning": "the thud or blow from a solid impact",
+        "type": "o",
         "example": [
           {
-            "file": "go_go-1a",
+            "file": "go_gon_goo-1a",
+            "contributor": "",
+            "display": "ゴ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "go_gon_goo-1b",
+            "contributor": "",
+            "display": "ゴッ",
+            "source": "reincarnated_aristocrat"
+          },
+          {
+            "file": "go_gon_goo-1c",
+            "contributor": "",
+            "display": "ゴッ",
+            "source": "hone_dragon"
+          },
+          {
+            "file": "go_gon_goo-1d",
+            "contributor": "",
+            "display": "ゴォッ",
+            "source": "hello_work"
+          },
+          {
+            "file": "go_gon_goo-1e",
             "contributor": "",
             "display": "ゴッ ゴッ",
             "source": "human_ranch"
           },
           {
-            "file": "go_go-1b",
+            "file": "go_gon_goo-1f",
             "contributor": "",
             "display": "ゴッ ゴッ ゴッ",
             "source": "mushoku_tensei"
+          },
+          {
+            "file": "go_gon_goo-1g",
+            "contributor": "",
+            "display": "ゴンッ",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "go_gon_goo-1h",
+            "contributor": "",
+            "display": "ゴン",
+            "source": "komi_cant_communicate"
+          },
+          {
+            "file": "go_gon_goo-1i",
+            "contributor": "",
+            "display": "ゴン\u2026",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "go_gon_goo-1j",
+            "contributor": "",
+            "display": "ゴン",
+            "source": "blazing_fire_brigade"
+          },
+          {
+            "file": "go_gon_goo-1k",
+            "contributor": "",
+            "display": "ゴン",
+            "source": "saga_lagging_hero"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "blast",
+          "boom",
+          "ka-boom",
+          "shoom",
+          "swoosh",
+          "whom"
+        ],
+        "refer": "",
+        "meaning": "a sudden blast or explosion",
+        "type": "o",
+        "example": [{
+          "file": "go_gon_goo-2a",
+          "contributor": "",
+          "display": "ゴオ",
+          "source": "kuma_kuma_kuma_bear"
+        }]
+      },
+      {
+        "equivalent": [
+          "blaze",
+          "burn",
+          "flames",
+          "flare",
+          "fwoosh"
+        ],
+        "refer": "",
+        "meaning": "a sudden flare or burst of flames",
+        "type": "o",
+        "example": [
+          {
+            "file": "go_gon_goo-3a",
+            "contributor": "",
+            "display": "ゴォォ..",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "go_gon_goo-3b",
+            "contributor": "",
+            "display": "ゴ",
+            "source": "s_rank_behemoth"
+          },
+          {
+            "file": "go_gon_goo-3c",
+            "contributor": "",
+            "display": "ゴッ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "go_gon_goo-3d",
+            "contributor": "",
+            "display": "ゴオッ",
+            "source": "different_world_smartphone"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "blowing",
+          "fwooo",
+          "gale",
+          "howl",
+          "roar",
+          "whooosh",
+          "wind"
+        ],
+        "refer": "",
+        "meaning": "loud, continuous howling or roaring wind",
+        "type": "o",
+        "example": [{
+          "file": "go_gon_goo-4a",
+          "contributor": "",
+          "display": "ゴオオオオオオ",
+          "source": "millimos_saga"
+        }]
       },
       {
         "equivalent": [
@@ -8963,7 +8947,7 @@
         "meaning": "harsh rumbling or grinding",
         "type": "o",
         "example": [{
-          "file": "go_go-2a",
+          "file": "go_gon_goo-5a",
           "contributor": "",
           "display": "ゴ ゴ ゴ ゴ ゴ",
           "source": "modern_dungeon_capture"
@@ -8984,14 +8968,14 @@
         "meaning": "intense focus, anger, or menace",
         "type": "s",
         "example": [{
-          "file": "go_go-3a",
+          "file": "go_gon_goo-6a",
           "contributor": "",
           "display": "ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ",
           "source": "only_sweet_when_alone"
         }]
       }
     ],
-    "id": "go_go"
+    "id": "go_gon_goo"
   },
   {
     "hiragana": [
@@ -9006,9 +8990,16 @@
       "ぐううう",
       "ぐぅ",
       "ぐぅぅ",
-      "ぐぅぅぅ"
+      "ぐぅぅぅ",
+      "くく",
+      "ぐぐぐ",
+      "くくっ",
+      "ぐっぐっ"
     ],
-    "romaji": ["gu"],
+    "romaji": [
+      "gu",
+      "gu gu"
+    ],
     "katakana": [
       "グ",
       "グッ",
@@ -9021,7 +9012,11 @@
       "グウウウ",
       "グゥ",
       "グゥゥ",
-      "グゥゥゥ"
+      "グゥゥゥ",
+      "クク",
+      "グググ",
+      "ククッ",
+      "グッグッ"
     ],
     "definition": [
       {
@@ -9061,21 +9056,51 @@
             "contributor": "",
             "display": "グッ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "gu-1e",
+            "contributor": "",
+            "display": "ぐぐっ..",
+            "source": "isekai_pickup"
+          },
+          {
+            "file": "gu-1f",
+            "contributor": "",
+            "display": "ぐぐぐ",
+            "source": "yojo_life"
+          },
+          {
+            "file": "gu-1g",
+            "contributor": "",
+            "display": "グッ グッ",
+            "source": "shogun_gold_in_america"
+          },
+          {
+            "file": "gu-1h",
+            "contributor": "",
+            "display": "グググ\u2026 ググ\u2026",
+            "source": "only_sweet_when_alone"
           }
         ]
       },
       {
         "equivalent": [
+          "drag",
           "drive",
           "force",
+          "jerk",
           "propel",
+          "pull",
           "push",
           "ram",
           "shove",
-          "thrust"
+          "thrust",
+          "tug",
+          "wrench",
+          "yank"
         ],
         "refer": "",
-        "meaning": "pushing or driving with force",
+        "meaning": "pulling or pushing with force",
         "type": "m",
         "example": [
           {
@@ -9089,27 +9114,14 @@
             "contributor": "",
             "display": "ぐっ\u2026",
             "source": "double_play"
+          },
+          {
+            "file": "gu-2c",
+            "contributor": "",
+            "display": "ククッ",
+            "source": "millimos_saga"
           }
         ]
-      },
-      {
-        "equivalent": [
-          "breath",
-          "gasp",
-          "huff",
-          "pant",
-          "puff",
-          "wheeze"
-        ],
-        "refer": "",
-        "meaning": "a tense reaction to sudden pain or exertion",
-        "type": "s",
-        "example": [{
-          "file": "gu-3a",
-          "contributor": "",
-          "display": "ぐっ\u2026",
-          "source": "world_full_of_monsters"
-        }]
       },
       {
         "equivalent": [
@@ -9122,19 +9134,19 @@
         "type": "o",
         "example": [
           {
-            "file": "gu-4a",
+            "file": "gu-3a",
             "contributor": "",
             "display": "ぐぅぅぅぅぅ",
             "source": "fushi_no_kami"
           },
           {
-            "file": "gu-4b",
+            "file": "gu-3b",
             "contributor": "",
             "display": "ぐー",
             "source": "isekai_territory_reform"
           },
           {
-            "file": "gu-4c",
+            "file": "gu-3c",
             "contributor": "",
             "display": "ぐぅ",
             "source": "way_of_isekai_cooking"
@@ -9151,19 +9163,19 @@
         "type": "m",
         "example": [
           {
-            "file": "gu-5a",
+            "file": "gu-4a",
             "contributor": "",
             "display": "ぐっ",
             "source": "strongest_thread_master"
           },
           {
-            "file": "gu-5b",
+            "file": "gu-4b",
             "contributor": "",
             "display": "グッ",
             "source": "yojo_life"
           },
           {
-            "file": "gu-5c",
+            "file": "gu-4c",
             "contributor": "",
             "display": "ぐっ",
             "source": "ai_and_izawa"
@@ -9172,20 +9184,30 @@
       },
       {
         "equivalent": [
-          "glare",
-          "glower",
-          "simmer",
-          "stare"
+          "agh",
+          "gah",
+          "gasp",
+          "guh",
+          "huff",
+          "nngh"
         ],
         "refer": "",
-        "meaning": "emotional suppression or tension",
-        "type": "s",
-        "example": [{
-          "file": "gu-6a",
-          "contributor": "",
-          "display": "ぐっ",
-          "source": "uncle_at_heart"
-        }]
+        "meaning": "grunt or groan of suppressed emotion, pain, or tension",
+        "type": "v",
+        "example": [
+          {
+            "file": "gu-5a",
+            "contributor": "",
+            "display": "ぐっ",
+            "source": "uncle_at_heart"
+          },
+          {
+            "file": "gu-5b",
+            "contributor": "",
+            "display": "ぐっ\u2026",
+            "source": "world_full_of_monsters"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -9197,7 +9219,7 @@
         "meaning": "sleeping or unconscious",
         "type": "s",
         "example": [{
-          "file": "gu-7a",
+          "file": "gu-6a",
           "contributor": "",
           "display": "グー",
           "source": "double_play"
@@ -9625,9 +9647,9 @@
     ],
     "romaji": [
       "gusu",
-      "gusun",
+      "gusu gusu",
       "gusun gusun",
-      "gusu gusu"
+      "gusun"
     ],
     "katakana": [
       "グス",
@@ -9728,54 +9750,6 @@
       }]
     }],
     "id": "guwa"
-  },
-  {
-    "hiragana": [
-      "ぐぐ",
-      "ぐっぐっ",
-      "ぐぐっ",
-      "ぐぐぐ"
-    ],
-    "romaji": ["gu gu"],
-    "katakana": [
-      "ググ",
-      "グッグッ",
-      "ググッ",
-      "グググ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gu:1",
-      "meaning": "",
-      "type": "",
-      "example": [
-        {
-          "file": "gu_gu-1a",
-          "contributor": "",
-          "display": "ぐぐっ..",
-          "source": "isekai_pickup"
-        },
-        {
-          "file": "gu_gu-1b",
-          "contributor": "",
-          "display": "ぐぐぐ",
-          "source": "yojo_life"
-        },
-        {
-          "file": "gu_gu-1c",
-          "contributor": "",
-          "display": "グッ グッ",
-          "source": "shogun_gold_in_america"
-        },
-        {
-          "file": "gu_gu-1d",
-          "contributor": "",
-          "display": "グググ\u2026 ググ\u2026",
-          "source": "only_sweet_when_alone"
-        }
-      ]
-    }],
-    "id": "gu_gu"
   },
   {
     "hiragana": [
@@ -10455,9 +10429,15 @@
       "びぃぃぃ",
       "びぃっ",
       "びぃぃっ",
-      "びぃぃぃっ"
+      "びぃぃぃっ",
+      "ひひ",
+      "ひひひ",
+      "ひっ"
     ],
-    "romaji": ["hi"],
+    "romaji": [
+      "hi",
+      "hi hi"
+    ],
     "katakana": [
       "ヒ",
       "ヒッ",
@@ -10466,42 +10446,67 @@
       "ヒィィィ",
       "ヒィッ",
       "ヒィィッ",
-      "ヒィィィッ"
+      "ヒィィィッ",
+      "ヒヒ",
+      "ヒヒヒ",
+      "ヒッヒッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "eek",
-        "eep",
-        "shriek",
-        "squeal",
-        "yelp",
-        "yike",
-        "yikes"
-      ],
-      "refer": "",
-      "meaning": "a short, involuntary cry or gasp, as when startled, frightened or surprised",
-      "type": "v",
-      "example": [
-        {
-          "file": "hi-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "eek",
+          "eep",
+          "shriek",
+          "squeal",
+          "yelp",
+          "yike",
+          "yikes"
+        ],
+        "refer": "",
+        "meaning": "a short, involuntary cry or gasp, as when startled, frightened or surprised",
+        "type": "v",
+        "example": [
+          {
+            "file": "hi-1a",
+            "contributor": "",
+            "display": "ヒッ",
+            "source": "d_genesis"
+          },
+          {
+            "file": "hi-1b",
+            "contributor": "",
+            "display": "ヒィィィッ\u2026",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "hi-1c",
+            "contributor": "",
+            "display": "ひー",
+            "source": "hanako_24th_ward"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "breath",
+          "gasp",
+          "ha",
+          "hi",
+          "hic",
+          "pant",
+          "sob"
+        ],
+        "refer": "",
+        "meaning": "short gasping, panting, or hiccupping",
+        "type": "v",
+        "example": [{
+          "file": "hi-2a",
           "contributor": "",
-          "display": "ヒッ",
-          "source": "d_genesis"
-        },
-        {
-          "file": "hi-1b",
-          "contributor": "",
-          "display": "ヒィィィッ\u2026",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "hi-1c",
-          "contributor": "",
-          "display": "ひー",
-          "source": "hanako_24th_ward"
-        }
-      ]
-    }],
+          "display": "ヒッ ヒッ",
+          "source": "millimos_saga"
+        }]
+      }
+    ],
     "id": "hi"
   },
   {
@@ -13473,6 +13478,39 @@
     "id": "kohon"
   },
   {
+    "hiragana": [
+      "こい",
+      "こいこい"
+    ],
+    "romaji": [
+      "koi",
+      "koi koi"
+    ],
+    "katakana": [
+      "コイ",
+      "コイコイ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "beckon",
+        "coax",
+        "come",
+        "come-come",
+        "motion"
+      ],
+      "refer": "",
+      "meaning": "a beckoning wave or gesture",
+      "type": "m",
+      "example": [{
+        "file": "koi-1a",
+        "contributor": "",
+        "display": "コイ コイ",
+        "source": "millimos_saga"
+      }]
+    }],
+    "id": "koi"
+  },
+  {
     "hiragana": ["こき"],
     "romaji": ["koki"],
     "katakana": ["コキ"],
@@ -15619,6 +15657,12 @@
           "contributor": "",
           "display": "むくっ",
           "source": "uncle_at_heart"
+        },
+        {
+          "file": "muku-1d",
+          "contributor": "",
+          "display": "ムクッ",
+          "source": "millimos_saga"
         }
       ]
     }],
@@ -22623,6 +22667,12 @@
           "contributor": "",
           "display": "スクッ",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "suku-1c",
+          "contributor": "",
+          "display": "スクッ",
+          "source": "millimos_saga"
         }
       ]
     }],
@@ -24976,6 +25026,63 @@
   },
   {
     "hiragana": [
+      "ゔん",
+      "ゔんっ",
+      "ゔおん",
+      "ゔぉん"
+    ],
+    "romaji": [
+      "von",
+      "vun"
+    ],
+    "katakana": [
+      "ヴン",
+      "ヴンッ",
+      "ヴオン",
+      "ヴォン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "fwoom",
+        "hum",
+        "voom",
+        "whoom",
+        "whoosh"
+      ],
+      "refer": "",
+      "meaning": "rush of energy or power",
+      "type": "o",
+      "example": [
+        {
+          "file": "von_vun-1a",
+          "contributor": "",
+          "display": "ヴン\u2026!",
+          "source": "hello_work"
+        },
+        {
+          "file": "von_vun-1b",
+          "contributor": "",
+          "display": "ヴン",
+          "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "von_vun-1c",
+          "contributor": "",
+          "display": "ヴンッ",
+          "source": "isekai_territory_reform"
+        },
+        {
+          "file": "von_vun-1d",
+          "contributor": "",
+          "display": "ヴォン",
+          "source": "millimos_saga"
+        }
+      ]
+    }],
+    "id": "von_vun"
+  },
+  {
+    "hiragana": [
       "ゔ",
       "ゔっ",
       "ゔー",
@@ -25006,50 +25113,6 @@
       }]
     }],
     "id": "vu"
-  },
-  {
-    "hiragana": [
-      "ゔん",
-      "ゔんっ"
-    ],
-    "romaji": ["vun"],
-    "katakana": [
-      "ヴン",
-      "ヴンッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "fwoom",
-        "hum",
-        "voom",
-        "whoom",
-        "whoosh"
-      ],
-      "refer": "",
-      "meaning": "short rush of energy or power",
-      "type": "o",
-      "example": [
-        {
-          "file": "vun-1a",
-          "contributor": "",
-          "display": "ヴン\u2026!",
-          "source": "hello_work"
-        },
-        {
-          "file": "vun-1b",
-          "contributor": "",
-          "display": "ヴン",
-          "source": "kuma_kuma_kuma_bear"
-        },
-        {
-          "file": "vun-1c",
-          "contributor": "",
-          "display": "ヴンッ",
-          "source": "isekai_territory_reform"
-        }
-      ]
-    }],
-    "id": "vun"
   },
   {
     "hiragana": [
@@ -26567,12 +26630,20 @@
       "refer": "",
       "meaning": "decisive slice in one stroke, often dramatic",
       "type": "o",
-      "example": [{
-        "file": "zuba-1a",
-        "contributor": "",
-        "display": "ズバッ",
-        "source": "hello_work"
-      }]
+      "example": [
+        {
+          "file": "zuba-1a",
+          "contributor": "",
+          "display": "ズバッ",
+          "source": "hello_work"
+        },
+        {
+          "file": "zuba-1b",
+          "contributor": "",
+          "display": "ズバッ",
+          "source": "millimos_saga"
+        }
+      ]
     }],
     "id": "zuba"
   },
