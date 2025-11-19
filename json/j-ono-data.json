@@ -9060,23 +9060,11 @@
           {
             "file": "gu-1e",
             "contributor": "",
-            "display": "ぐぐっ..",
-            "source": "isekai_pickup"
-          },
-          {
-            "file": "gu-1f",
-            "contributor": "",
             "display": "ぐぐぐ",
             "source": "yojo_life"
           },
           {
-            "file": "gu-1g",
-            "contributor": "",
-            "display": "グッ グッ",
-            "source": "shogun_gold_in_america"
-          },
-          {
-            "file": "gu-1h",
+            "file": "gu-1f",
             "contributor": "",
             "display": "グググ\u2026 ググ\u2026",
             "source": "only_sweet_when_alone"
@@ -9120,6 +9108,18 @@
             "contributor": "",
             "display": "ククッ",
             "source": "millimos_saga"
+          },
+          {
+            "file": "gu-2d",
+            "contributor": "",
+            "display": "ぐぐっ..",
+            "source": "isekai_pickup"
+          },
+          {
+            "file": "gu-2e",
+            "contributor": "",
+            "display": "グッ グッ",
+            "source": "shogun_gold_in_america"
           }
         ]
       },
@@ -15637,8 +15637,8 @@
         "wake up"
       ],
       "refer": "",
-      "meaning": "to suddenly wake up or get up, usually from lying down",
-      "type": "s",
+      "meaning": "sitting up or getting up from lying down",
+      "type": "m",
       "example": [
         {
           "file": "muku-1a",
@@ -25050,7 +25050,7 @@
         "whoosh"
       ],
       "refer": "",
-      "meaning": "rush of energy or power",
+      "meaning": "rush of energy or magical power",
       "type": "o",
       "example": [
         {
