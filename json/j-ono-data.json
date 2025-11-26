@@ -9325,6 +9325,36 @@
     "id": "gui"
   },
   {
+    "hiragana": [
+      "ぐん",
+      "ぐんっ"
+    ],
+    "romaji": ["gun"],
+    "katakana": [
+      "グン",
+      "グンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "brace",
+        "tighten",
+        "clench",
+        "flex",
+        "stance"
+      ],
+      "refer": "",
+      "meaning": "sudden bracing or tightening of the body",
+      "type": "s",
+      "example": [{
+        "file": "gun-1a",
+        "contributor": "boson",
+        "display": "グン",
+        "source": "dig_it"
+      }]
+    }],
+    "id": "gun"
+  },
+  {
     "hiragana": ["ぐに"],
     "romaji": ["guni"],
     "katakana": ["グニ"],
