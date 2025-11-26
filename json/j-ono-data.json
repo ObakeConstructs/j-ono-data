@@ -9337,10 +9337,10 @@
     "definition": [{
       "equivalent": [
         "brace",
-        "tighten",
         "clench",
         "flex",
-        "stance"
+        "stance",
+        "tighten"
       ],
       "refer": "",
       "meaning": "sudden bracing or tightening of the body",
@@ -15097,6 +15097,42 @@
       }]
     }],
     "id": "mekya"
+  },
+  {
+    "hiragana": [
+      "めそ",
+      "めそめそ"
+    ],
+    "romaji": [
+      "meso",
+      "meso meso"
+    ],
+    "katakana": [
+      "メソ",
+      "メソメソ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "afraid",
+        "moan",
+        "sad",
+        "scared",
+        "snivel",
+        "weep",
+        "whimper",
+        "whine"
+      ],
+      "refer": "",
+      "meaning": "fear or sadness, expressed by whimpering, sniffling, or crying, typically subdued or quiet",
+      "type": "e",
+      "example": [{
+        "file": "meso-1a",
+        "contributor": "boson",
+        "display": "めそ",
+        "source": "ramparts_of_ice"
+      }]
+    }],
+    "id": "meso"
   },
   {
     "hiragana": [
