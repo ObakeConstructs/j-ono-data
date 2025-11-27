@@ -96,10 +96,7 @@
 
   {
     "publisher_name": "Flex Comix, Inc",
-    "site": [
-      "https://kirapo.jp/meteor",
-      "https://kirapo.jp/polaris"
-    ],
+    "site": "https://kirapo.jp/meteor; https://kirapo.jp/polaris",
     "sources": [
       {
         "id": "slow_life_as_a_blacksmith",
