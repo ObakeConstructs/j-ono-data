@@ -95,6 +95,20 @@
   },
 
   {
+    "publisher_name": "Flex Comix, Inc",
+    "site": [
+      "https://kirapo.jp/meteor",
+      "https://kirapo.jp/polaris"
+    ]
+    "sources": [
+      {
+        "id": "slow_life_as_a_blacksmith",
+        "manga": "Ossan Yuusha wa Kajiya de Slow Life Hajimemashita"
+      }
+    ]
+  },
+
+  {
     "publisher_name": "Frontier Works Inc.",
     "site": "https://comic-ragchew.jp/comics/levelup/",
     "sources": [
