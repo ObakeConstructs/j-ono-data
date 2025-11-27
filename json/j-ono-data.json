@@ -16334,7 +16334,8 @@
       "にや",
       "にやっ",
       "にやにや",
-      "にやにやっ"
+      "にやにやっ",
+      "にやぁ"
     ],
     "romaji": [
       "niya",
@@ -16344,7 +16345,8 @@
       "ニヤ",
       "ニヤッ",
       "ニヤニヤ",
-      "ニヤニヤッ"
+      "ニヤニヤッ",
+      "ニヤァ"
     ],
     "definition": [{
       "equivalent": [
@@ -16367,6 +16369,12 @@
         },
         {
           "file": "niya-1b",
+          "contributor": "",
+          "display": "にやぁ",
+          "source": "forest_of_revenge"
+        },
+        {
+          "file": "niya-1c",
           "contributor": "",
           "display": "にや にや",
           "source": "sex_with_me_sells"
@@ -20524,6 +20532,37 @@
       }
     ],
     "id": "pu"
+  },
+  {
+    "hiragana": [
+      "ぷぁん",
+      "ぷぁぁん",
+      "ぷぁぁーん"
+    ],
+    "romaji": ["puan"],
+    "katakana": [
+      "プァン",
+      "プァァン",
+      "プァァーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "hoot",
+        "horn",
+        "toot",
+        "whistle"
+      ],
+      "refer": "",
+      "meaning": "a train horn or whistle, often long and loud",
+      "type": "o",
+      "example": [{
+        "file": "puan-1a",
+        "contributor": "",
+        "display": "プァァーン",
+        "source": "forest_of_revenge"
+      }]
+    }],
+    "id": "puan"
   },
   {
     "hiragana": [
