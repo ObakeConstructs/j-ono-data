@@ -8248,6 +8248,96 @@
   {
     "hiragana": [
       "ご",
+      "ごごご",
+      "ごっごっ",
+      "ごっごっごっ"
+    ],
+    "romaji": ["go go"],
+    "katakana": [
+      "ゴゴ",
+      "ゴゴゴ",
+      "ゴッゴッ",
+      "ゴッゴッゴッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "bam",
+          "bang",
+          "crack",
+          "hit",
+          "knock",
+          "pound",
+          "slam",
+          "slap",
+          "slug",
+          "sock",
+          "thwack",
+          "whack"
+        ],
+        "refer": "",
+        "meaning": "the sound of solid impacts",
+        "type": "o",
+        "example": [
+          {
+            "file": "go go-1a",
+            "contributor": "",
+            "display": "ゴッ ゴッ",
+            "source": "human_ranch"
+          },
+          {
+            "file": "go go-1b",
+            "contributor": "",
+            "display": "ゴッ ゴッ ゴッ",
+            "source": "mushoku_tensei"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "grind",
+          "groan",
+          "rasp",
+          "rumble",
+          "scrape"
+        ],
+        "refer": "",
+        "meaning": "harsh rumbling or grinding",
+        "type": "o",
+        "example": [{
+          "file": "go go-2a",
+          "contributor": "",
+          "display": "ゴ ゴ ゴ ゴ ゴ",
+          "source": "modern_dungeon_capture"
+        }]
+      },
+      {
+        "equivalent": [
+          "anger",
+          "heat",
+          "killing intent",
+          "menace",
+          "peril",
+          "pressure",
+          "rage",
+          "threat"
+        ],
+        "refer": "",
+        "meaning": "intense focus, anger, or menace",
+        "type": "s",
+        "example": [{
+          "file": "go go-3a",
+          "contributor": "",
+          "display": "ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ",
+          "source": "only_sweet_when_alone"
+        }]
+      }
+    ],
+    "id": "go go"
+  },
+  {
+    "hiragana": [
+      "ご",
       "ごっ",
       "ごー",
       "ごーっ",
@@ -8257,15 +8347,9 @@
       "ごぉぉぉ",
       "ごお",
       "ごおお",
-      "ごおおお",
-      "ごん",
-      "ごんっ"
+      "ごおおお"
     ],
-    "romaji": [
-      "go",
-      "go go",
-      "goo"
-    ],
+    "romaji": ["go"],
     "katakana": [
       "ゴ",
       "ゴッ",
@@ -8277,9 +8361,7 @@
       "ゴォォォ",
       "ゴオ",
       "ゴオオ",
-      "ゴオオオ",
-      "ゴン",
-      "ゴンッ"
+      "ゴオオオ"
     ],
     "definition": [
       {
@@ -8324,18 +8406,6 @@
             "contributor": "",
             "display": "ゴォッ",
             "source": "hello_work"
-          },
-          {
-            "file": "go-1e",
-            "contributor": "",
-            "display": "ゴッ ゴッ",
-            "source": "human_ranch"
-          },
-          {
-            "file": "go-1f",
-            "contributor": "",
-            "display": "ゴッ ゴッ ゴッ",
-            "source": "mushoku_tensei"
           }
         ]
       },
@@ -8414,45 +8484,6 @@
           "contributor": "",
           "display": "ゴオオオオオオ",
           "source": "millimos_saga"
-        }]
-      },
-      {
-        "equivalent": [
-          "grind",
-          "groan",
-          "rasp",
-          "rumble",
-          "scrape"
-        ],
-        "refer": "",
-        "meaning": "harsh rumbling or grinding",
-        "type": "o",
-        "example": [{
-          "file": "go-5a",
-          "contributor": "",
-          "display": "ゴ ゴ ゴ ゴ ゴ",
-          "source": "modern_dungeon_capture"
-        }]
-      },
-      {
-        "equivalent": [
-          "anger",
-          "heat",
-          "killing intent",
-          "menace",
-          "peril",
-          "pressure",
-          "rage",
-          "threat"
-        ],
-        "refer": "",
-        "meaning": "intense focus, anger, or menace",
-        "type": "s",
-        "example": [{
-          "file": "go-6a",
-          "contributor": "",
-          "display": "ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ ゴ",
-          "source": "only_sweet_when_alone"
         }]
       }
     ],
@@ -10208,6 +10239,7 @@
   {
     "hiragana": [
       "はは",
+      "ははは",
       "はっはっ",
       "はぁはぁ",
       "はあはあ",
@@ -10217,6 +10249,7 @@
     "romaji": ["ha ha"],
     "katakana": [
       "ハハ",
+      "ハハハ",
       "ハッハッ",
       "ハァハァ",
       "ハアハア",
@@ -10245,14 +10278,20 @@
           {
             "file": "ha ha-1c",
             "contributor": "",
-            "display": "ハハハハ",
-            "source": "killed_by_gods_mistake"
+            "display": "はっ はっ はっ",
+            "source": "different_world_smartphone"
           },
           {
             "file": "ha ha-1d",
             "contributor": "",
-            "display": "はっ はっ はっ",
-            "source": "different_world_smartphone"
+            "display": "ハハハハ",
+            "source": "killed_by_gods_mistake"
+          },
+          {
+            "file": "ha ha-1e",
+            "contributor": "",
+            "display": "ハハハハハ",
+            "source": "slow_life_as_a_blacksmith"
           }
         ]
       },
@@ -12573,34 +12612,26 @@
     "id": "kaki kaki"
   },
   {
-    "hiragana": ["かんかん"],
-    "romaji": ["kan kan"],
-    "katakana": ["カンカン"],
-    "definition": [{
-      "equivalent": [
-        "clang",
-        "clank",
-        "ding",
-        "gong",
-        "ring",
-        "tang"
-      ],
-      "refer": "",
-      "meaning": "sharp metallic impacts or clanging, as from a bell",
-      "type": "o",
-      "example": [{
-        "file": "kan kan-1a",
-        "contributor": "",
-        "display": "カン カン カン",
-        "source": "spy_x_family"
-      }]
-    }],
-    "id": "kan kan"
-  },
-  {
-    "hiragana": ["かん"],
-    "romaji": ["kan"],
-    "katakana": ["カン"],
+    "hiragana": [
+      "かん",
+      "かあん",
+      "かああん",
+      "かぁん",
+      "かぁぁん",
+      "かんかん"
+    ],
+    "romaji": [
+      "kan",
+      "kan kan"
+    ],
+    "katakana": [
+      "カン",
+      "カアン",
+      "カアアン",
+      "カァン",
+      "カァァン",
+      "カンカン"
+    ],
     "definition": [{
       "equivalent": [
         "bang",
@@ -12609,12 +12640,15 @@
         "clank",
         "click",
         "clink",
+        "ding",
+        "gong",
         "snap",
+        "tang",
         "tap",
         "tick"
       ],
       "refer": "",
-      "meaning": "a sharp, resonant impact or clang",
+      "meaning": "sharp, resonant impacting or clanging sound, typically metallic",
       "type": "o",
       "example": [
         {
@@ -12628,6 +12662,24 @@
           "contributor": "",
           "display": "カン",
           "source": "way_of_the_house_husband"
+        },
+        {
+          "file": "kan-1c",
+          "contributor": "",
+          "display": "カアアン",
+          "source": "slow_life_as_a_blacksmith"
+        },
+        {
+          "file": "kan-1d",
+          "contributor": "",
+          "display": "カン カン カン",
+          "source": "spy_x_family"
+        },
+        {
+          "file": "kan-1e",
+          "contributor": "",
+          "display": "カン カン カン",
+          "source": "slow_life_as_a_blacksmith"
         }
       ]
     }],
@@ -12918,12 +12970,20 @@
         "refer": "katata:1",
         "meaning": "",
         "type": "",
-        "example": [{
-          "file": "kata kata-1a",
-          "contributor": "",
-          "display": "カタ カタ カタ",
-          "source": "uncle_at_heart"
-        }]
+        "example": [
+          {
+            "file": "kata kata-1a",
+            "contributor": "",
+            "display": "カタ カタ カタ",
+            "source": "uncle_at_heart"
+          },
+          {
+            "file": "kata kata-1b",
+            "contributor": "",
+            "display": "カタ カタ カタ カタ",
+            "source": "slow_life_as_a_blacksmith"
+          }
+        ]
       },
       {
         "equivalent": [""],
@@ -13486,15 +13546,23 @@
         "tap",
         "walk"
       ],
-      "refer": "",
-      "meaning": "light footsteps or heep taps",
-      "type": "m",
-      "example": [{
-        "file": "ko ko-1a",
-        "contributor": "",
-        "display": "コッ",
-        "source": "only_sweet_when_alone"
-      }]
+      "refer": "ko:1",
+      "meaning": "",
+      "type": "",
+      "example": [
+        {
+          "file": "ko ko-1a",
+          "contributor": "",
+          "display": "コッ コッ",
+          "source": "only_sweet_when_alone"
+        },
+        {
+          "file": "ko ko-1b",
+          "contributor": "",
+          "display": "コッ コッ",
+          "source": "slow_life_as_a_blacksmith"
+        }
+      ]
     }],
     "id": "ko ko"
   },
@@ -13532,7 +13600,7 @@
           "walk"
         ],
         "refer": "",
-        "meaning": "light footstep or heep tap",
+        "meaning": "light footstep or heel tap",
         "type": "m",
         "example": [
           {
@@ -17178,6 +17246,12 @@
             "contributor": "",
             "display": "パチ パチ",
             "source": "isekai_pickup"
+          },
+          {
+            "file": "pachi pachi-1c",
+            "contributor": "",
+            "display": "パチッ パチッ",
+            "source": "slow_life_as_a_blacksmith"
           }
         ]
       },
@@ -20403,8 +20477,10 @@
     "hiragana": [
       "ぽう",
       "ぽぅ",
+      "ぽうっ",
       "ぽうぽう",
-      "ぽぅぽぅ"
+      "ぽぅぽぅ",
+      "ぽうっぽうっ"
     ],
     "romaji": [
       "pou",
@@ -20413,8 +20489,10 @@
     "katakana": [
       "ポウ",
       "ポゥ",
+      "ポウッ",
       "ポウポウ",
-      "ポゥポゥ"
+      "ポゥポゥ",
+      "ポウッポウッ"
     ],
     "definition": [{
       "equivalent": [
@@ -20425,7 +20503,7 @@
         "shine"
       ],
       "refer": "",
-      "meaning": "a soft, faint or ethereal glow",
+      "meaning": "soft, faint or ethereal glow",
       "type": "s",
       "example": [
         {
@@ -20448,6 +20526,12 @@
         },
         {
           "file": "pou-1d",
+          "contributor": "",
+          "display": "ポウッ",
+          "source": "slow_life_as_a_blacksmith"
+        },
+        {
+          "file": "pou-1e",
           "contributor": "",
           "display": "ポゥ ポゥ",
           "source": "reincarnated_sage_daughters"
@@ -20985,17 +21069,12 @@
       "ぷるるる",
       "ぷるっ",
       "ぷるるっ",
-      "ぷるん",
-      "ぷるんっ",
       "ぷるぷる",
-      "ぷるぷるぷる",
-      "ぷるんぷるん"
+      "ぷるぷるぷる"
     ],
     "romaji": [
       "puru",
-      "puru puru",
-      "purun",
-      "purun purun"
+      "puru puru"
     ],
     "katakana": [
       "プル",
@@ -21003,11 +21082,8 @@
       "プルルル",
       "プルッ",
       "プルルッ",
-      "プルン",
-      "プルンッ",
       "プルプル",
-      "プルプルプル",
-      "プルンプルン"
+      "プルプルプル"
     ],
     "definition": [
       {
@@ -21067,55 +21143,90 @@
           {
             "file": "puru-2b",
             "contributor": "",
-            "display": "プルン",
-            "source": "acquired_r18_skill"
-          },
-          {
-            "file": "puru-2c",
-            "contributor": "",
-            "display": "ぷるんっ",
-            "source": "35_year_olds_choice"
-          },
-          {
-            "file": "puru-2d",
-            "contributor": "",
-            "display": "プルン",
-            "source": "otherworld_material_collector"
-          },
-          {
-            "file": "puru-2e",
-            "contributor": "",
-            "display": "ぷるん",
-            "source": "rise_of_the_outlaw_tamer"
-          },
-          {
-            "file": "puru-2f",
-            "contributor": "",
             "display": "ぷる ぷる",
             "source": "s_rank_behemoth"
           },
           {
-            "file": "puru-2g",
+            "file": "puru-2c",
             "contributor": "",
             "display": "プル プル",
             "source": "spy_x_family"
           },
           {
-            "file": "puru-2h",
+            "file": "puru-2d",
             "contributor": "",
             "display": "プル プル プル",
             "source": "yojo_life"
-          },
-          {
-            "file": "puru-2i",
-            "contributor": "",
-            "display": "プルンッ プルン",
-            "source": "gyaru_academy"
           }
         ]
       }
     ],
     "id": "puru"
+  },
+  {
+    "hiragana": [
+      "ぷるん",
+      "ぷるんっ",
+      "ぷるんぷるん"
+    ],
+    "romaji": [
+      "purun",
+      "purun purun"
+    ],
+    "katakana": [
+      "プルン",
+      "プルンッ",
+      "プルンプルン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "boing",
+        "jiggle",
+        "quiver",
+        "shake",
+        "shiver",
+        "shudder",
+        "sway",
+        "tremble",
+        "wobble"
+      ],
+      "refer": "",
+      "meaning": "a wobbling or shaking motion",
+      "type": "m",
+      "example": [
+        {
+          "file": "purun-1a",
+          "contributor": "",
+          "display": "プルン",
+          "source": "acquired_r18_skill"
+        },
+        {
+          "file": "purun-1b",
+          "contributor": "",
+          "display": "ぷるんっ",
+          "source": "35_year_olds_choice"
+        },
+        {
+          "file": "purun-1c",
+          "contributor": "",
+          "display": "プルン",
+          "source": "otherworld_material_collector"
+        },
+        {
+          "file": "purun-1d",
+          "contributor": "",
+          "display": "ぷるん",
+          "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "purun-1e",
+          "contributor": "",
+          "display": "プルンッ プルン",
+          "source": "gyaru_academy"
+        }
+      ]
+    }],
+    "id": "purun"
   },
   {
     "hiragana": [
@@ -25573,6 +25684,38 @@
   },
   {
     "hiragana": [
+      "わらわら",
+      "わらわらわら"
+    ],
+    "romaji": ["wara wara"],
+    "katakana": [
+      "ワラワラ",
+      "ワラワラワラ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "congregate",
+        "gather",
+        "mob",
+        "move",
+        "rush",
+        "swarm",
+        "throng"
+      ],
+      "refer": "",
+      "meaning": "quiet, clustered movement of a group or crowd",
+      "type": "s",
+      "example": [{
+        "file": "wara-1a",
+        "contributor": "",
+        "display": "わら わら わら",
+        "source": "slow_life_as_a_blacksmith"
+      }]
+    }],
+    "id": "wara"
+  },
+  {
+    "hiragana": [
       "わしゃわしゃ",
       "わしゃわしゃわしゃ",
       "わしやわしや",
@@ -25926,7 +26069,7 @@
           "sss"
         ],
         "refer": "",
-        "meaning": "rain or shower",
+        "meaning": "gentle rain or shower",
         "type": "o",
         "example": [
           {
@@ -25951,6 +26094,24 @@
       },
       {
         "equivalent": [
+          "whish",
+          "whistle",
+          "whoo",
+          "whoosh",
+          "wind"
+        ],
+        "refer": "",
+        "meaning": "gentle wind or gust",
+        "type": "o",
+        "example": [{
+          "file": "za-2a",
+          "contributor": "",
+          "display": "ザア アアア",
+          "source": "slow_life_as_a_blacksmith"
+        }]
+      },
+      {
+        "equivalent": [
           "crunch",
           "footstep",
           "step",
@@ -25962,13 +26123,13 @@
         "type": "o",
         "example": [
           {
-            "file": "za-2a",
+            "file": "za-3a",
             "contributor": "",
             "display": "ザッ",
             "source": "peter_grill"
           },
           {
-            "file": "za-2b",
+            "file": "za-3b",
             "contributor": "",
             "display": "ざっ",
             "source": "strongest_thread_master"
@@ -25992,13 +26153,13 @@
         "type": "m",
         "example": [
           {
-            "file": "za-3a",
+            "file": "za-4a",
             "contributor": "",
             "display": "ザッ",
             "source": "my_s-ranked_daughter"
           },
           {
-            "file": "za-3b",
+            "file": "za-4b",
             "contributor": "",
             "display": "ザッ",
             "source": "way_of_the_house_husband"
@@ -26573,6 +26734,40 @@
       }]
     }],
     "id": "ze"
+  },
+  {
+    "hiragana": [
+      "ぞ",
+      "ぞっ"
+    ],
+    "romaji": ["zo"],
+    "katakana": [
+      "ゾ",
+      "ゾッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "alarm",
+        "chill",
+        "dismay",
+        "dread",
+        "fear",
+        "goose bumps",
+        "jitters",
+        "shiver",
+        "shudder"
+      ],
+      "refer": "",
+      "meaning": "sudden chill or shiver of dread or fear",
+      "type": "e",
+      "example": [{
+        "file": "zo-1a",
+        "contributor": "",
+        "display": "ゾッ",
+        "source": "slow_life_as_a_blacksmith"
+      }]
+    }],
+    "id": "zo"
   },
   {
     "hiragana": [
@@ -27388,12 +27583,20 @@
         "refer": "",
         "meaning": "hard crash or thud",
         "type": "o",
-        "example": [{
-          "file": "zun-3a",
-          "contributor": "",
-          "display": "ズンッ",
-          "source": "killed_by_gods_mistake"
-        }]
+        "example": [
+          {
+            "file": "zun-3a",
+            "contributor": "",
+            "display": "ズンッ",
+            "source": "killed_by_gods_mistake"
+          },
+          {
+            "file": "zun-3b",
+            "contributor": "",
+            "display": "ズンッ",
+            "source": "slow_life_as_a_blacksmith"
+          }
+        ]
       },
       {
         "equivalent": [
