@@ -109,7 +109,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
 
 ```json
 {
-    "id": "gusun_gusun",
+    "id": "gusun gusun",
     "romaji": ["gusun gusun"],
     "katakana": ["グスングスン"],
     "hiragana": ["ぐすんぐすん"],
@@ -119,7 +119,7 @@ All definition records are stored in a single JSON array in the `j-ono-data.json
             "meaning": "s",
             "type": "",
             "example": [{
-                    "file": "gusun_gusun-1a",
+                    "file": "gusun gusun-1a",
                     "contributor": "",
                     "display": "ぐすん ぐすん",
                     "source": "different_world_smartphone"
