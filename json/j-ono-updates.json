@@ -1,5 +1,9 @@
 [
   {
+    "date": "2025/12/02",
+    "message": "Updated main application to improve readability and clean up some garbage code"
+  },
+  {
     "date": "2025/11/30",
     "message": "16 new examples from <b>Ossan Yuusha wa Kajiya de Slow Life Hajimemashita</b>"
   },
@@ -14,9 +18,5 @@
   {
     "date": "2025/11/16",
     "message": "Added dynamic romaji gen; merging dupe records"
-  },
-  {
-    "date": "2025/11/15",
-    "message": "3 new examples from <b>Kōri no Jōheki</b> (boson)"
   }
 ]
