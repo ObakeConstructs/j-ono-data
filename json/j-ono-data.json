@@ -8559,68 +8559,62 @@
       "type": "v",
       "example": [
         {
-          "file": "goku-1a",
+          "file": "goku gokun-1a",
           "contributor": "",
           "display": "ゴクッ\u2026",
           "source": "strongest_failure_frame"
         },
         {
-          "file": "goku-1b",
+          "file": "goku gokun-1b",
           "contributor": "",
           "display": "ゴク",
           "source": "a_rank_slow_life"
         },
         {
-          "file": "goku-1c",
+          "file": "goku gokun-1c",
           "contributor": "",
           "display": "ごく",
           "source": "dog_became_strongest"
         },
         {
-          "file": "goku-1d",
+          "file": "goku gokun-1d",
           "contributor": "",
           "display": "ゴクン",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "goku-1e",
-          "contributor": "",
-          "display": "ゴクン.",
-          "source": "berserk"
-        },
-        {
-          "file": "goku-1f",
+          "file": "goku gokun-1e",
           "contributor": "",
           "display": "ゴクン",
           "source": "rise_of_the_outlaw_tamer"
         },
         {
-          "file": "goku-1g",
+          "file": "goku gokun-1f",
           "contributor": "",
           "display": "ごく ごく",
           "source": "different_world_smartphone"
         },
         {
-          "file": "goku-1h",
+          "file": "goku gokun-1g",
           "contributor": "",
           "display": "ゴクゴク",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "goku-1i",
+          "file": "goku gokun-1h",
           "contributor": "",
           "display": "ゴク ゴク",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "goku-1j",
+          "file": "goku gokun-1i",
           "contributor": "",
           "display": "ごく ごく",
           "source": "cheat_pharmacist"
         }
       ]
     }],
-    "id": "goku"
+    "id": "goku gokun"
   },
   {
     "hiragana": ["ごきゅごきゅ"],
@@ -8628,7 +8622,7 @@
     "katakana": ["ゴキュゴキュ"],
     "definition": [{
       "equivalent": ["chug"],
-      "refer": "goku:1",
+      "refer": "goku gokun:1",
       "meaning": ", often loud, heavy, or wet",
       "type": "",
       "example": [{
@@ -9350,7 +9344,7 @@
     "katakana": ["グビグビ"],
     "definition": [{
       "equivalent": [""],
-      "refer": "goku:1",
+      "refer": "goku gokun:1",
       "meaning": "",
       "type": "",
       "example": [{
