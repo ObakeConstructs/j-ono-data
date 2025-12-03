@@ -2296,6 +2296,30 @@
   },
   {
     "hiragana": [
+      "ぼう",
+      "ぼうっ"
+    ],
+    "romaji": ["bou"],
+    "katakana": [
+      "ボウ",
+      "ボウッ"
+    ],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "bo:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "bou-1a",
+        "contributor": "",
+        "display": "ボウッ",
+        "source": "banished_color_user"
+      }]
+    }],
+    "id": "bou"
+  },
+  {
+    "hiragana": [
       "ぼぅん",
       "ぼぅぅん"
     ],
@@ -2736,7 +2760,7 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "swinging or whipping something quickly and often violently",
+        "meaning": "quickly swinging or whipping something, often violently",
         "type": "m",
         "example": [
           {
@@ -2750,6 +2774,12 @@
             "contributor": "",
             "display": "ブンッ",
             "source": "spy_x_family"
+          },
+          {
+            "file": "bun-1c",
+            "contributor": "",
+            "display": "ブン",
+            "source": "banished_color_user"
           }
         ]
       },
@@ -3979,6 +4009,12 @@
         {
           "file": "da-1b",
           "contributor": "",
+          "display": "ダッ",
+          "source": "banished_color_user"
+        },
+        {
+          "file": "da-1c",
+          "contributor": "",
           "display": "だっ",
           "source": "different_world_smartphone"
         }
@@ -4165,13 +4201,13 @@
       "ど",
       "どっ",
       "どぉ",
-      "どぉっ",
-      "どおぉ",
+      "どお",
+      "どぉぉ",
+      "どおお",
       "どど",
       "どどど",
       "どぉどぉ",
-      "どおどお",
-      "どどっ"
+      "どおどお"
     ],
     "romaji": [
       "do",
@@ -4181,13 +4217,13 @@
       "ド",
       "ドッ",
       "ドォ",
-      "ドォッ",
-      "ドオォ",
+      "ドオ",
+      "ドォォ",
+      "ドオオ",
       "ドド",
       "ドドド",
       "ドォドォ",
-      "ドオドオ",
-      "ドドッ"
+      "ドオドオ"
     ],
     "definition": [
       {
@@ -4296,7 +4332,7 @@
           {
             "file": "do-3a",
             "contributor": "",
-            "display": "ドドドド ドドドド ドドドド\u2026",
+            "display": "ドドドド",
             "source": "kuma_kuma_kuma_bear"
           },
           {
@@ -4319,12 +4355,20 @@
         "refer": "",
         "meaning": "menacing presence or emotional pressure",
         "type": "e",
-        "example": [{
-          "file": "do-4a",
-          "contributor": "",
-          "display": "ド ド ド ド ド",
-          "source": "pokemon_xy_break"
-        }]
+        "example": [
+          {
+            "file": "do-4a",
+            "contributor": "",
+            "display": "ド ド ド ド ド",
+            "source": "pokemon_xy_break"
+          },
+          {
+            "file": "do-4b",
+            "contributor": "",
+            "display": "ドオ オオッ",
+            "source": "banished_color_user"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -5900,7 +5944,7 @@
         "umm"
       ],
       "refer": "",
-      "meaning": "an expression of thoughtful contemplation",
+      "meaning": "an utterance of thoughtful contemplation",
       "type": "v",
       "example": [
         {
@@ -5914,6 +5958,12 @@
           "contributor": "",
           "display": "ふむ ふむ",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "fumu-1c",
+          "contributor": "",
+          "display": "ふむ\u2026",
+          "source": "banished_color_user"
         }
       ]
     }],
@@ -6202,45 +6252,35 @@
     "id": "furi"
   },
   {
-    "hiragana": ["ふろふろ"],
-    "romaji": ["furo furo"],
-    "katakana": ["フロフロ"],
-    "definition": [{
-      "equivalent": [
-        "quiver",
-        "shake",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "refer": "",
-      "meaning": "shaking or trembling",
-      "type": "m",
-      "example": [{
-        "file": "furo furo-1a",
-        "contributor": "",
-        "display": "ふろ ふろ",
-        "source": "reincarnated_aristocrat"
-      }]
-    }],
-    "id": "furo furo"
-  },
-  {
     "hiragana": ["ふるふる"],
     "romaji": ["furu furu"],
     "katakana": ["フルフル"],
     "definition": [
       {
-        "equivalent": [""],
-        "refer": "furo furo:1",
-        "meaning": "",
-        "type": "",
-        "example": [{
-          "file": "furu furu-1a",
-          "contributor": "",
-          "display": "フル フル",
-          "source": "weakest_occupation_blacksmith"
-        }]
+        "equivalent": [
+          "quiver",
+          "shake",
+          "shiver",
+          "shudder",
+          "tremble"
+        ],
+        "refer": "",
+        "meaning": "shaking or trembling",
+        "type": "m",
+        "example": [
+          {
+            "file": "furu furu-1a",
+            "contributor": "",
+            "display": "フル フル",
+            "source": "weakest_occupation_blacksmith"
+          },
+          {
+            "file": "furu furu-1b",
+            "contributor": "",
+            "display": "ふる ふる",
+            "source": "reincarnated_aristocrat"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -10195,12 +10235,20 @@
       "refer": "",
       "meaning": "a spinning, turning, or whirling motion, often with sudden speed or force",
       "type": "m",
-      "example": [{
-        "file": "gyun-1a",
-        "contributor": "",
-        "display": "ギュン",
-        "source": "reincarnated_sage_daughters"
-      }]
+      "example": [
+        {
+          "file": "gyun-1a",
+          "contributor": "",
+          "display": "ギュン",
+          "source": "reincarnated_sage_daughters"
+        },
+        {
+          "file": "gyun-1b",
+          "contributor": "",
+          "display": "ギュンッ",
+          "source": "banished_color_user"
+        }
+      ]
     }],
     "id": "gyun"
   },
@@ -12981,7 +13029,7 @@
       },
       {
         "equivalent": [""],
-        "refer": "furo furo:1",
+        "refer": "furu furu:1",
         "meaning": "",
         "type": "",
         "example": [{
@@ -15159,40 +15207,65 @@
   {
     "hiragana": [
       "きゅる",
+      "きゅるっ",
       "きゅるる",
+      "きゅるるっ",
       "きゅるるる"
     ],
     "romaji": ["kyuru"],
     "katakana": [
       "キュル",
+      "キュルッ",
       "キュルル",
+      "キュルルッ",
       "キュルルル"
     ],
-    "definition": [{
-      "equivalent": [
-        "growl",
-        "grumble",
-        "gurgle",
-        "rumble"
-      ],
-      "refer": "",
-      "meaning": "soft gurgling of a hungry stomach",
-      "type": "v",
-      "example": [
-        {
-          "file": "kyuru-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "growl",
+          "grumble",
+          "gurgle",
+          "rumble"
+        ],
+        "refer": "",
+        "meaning": "soft gurgling of a hungry stomach",
+        "type": "v",
+        "example": [
+          {
+            "file": "kyuru-1a",
+            "contributor": "",
+            "display": "きゅるる\u2026",
+            "source": "s_rank_behemoth"
+          },
+          {
+            "file": "kyuru-1b",
+            "contributor": "",
+            "display": "きゅるるる\u2026",
+            "source": "otherworld_material_collector"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "coil",
+          "curl",
+          "turn",
+          "twist",
+          "wind",
+          "writhe"
+        ],
+        "refer": "",
+        "meaning": "twisting or coiling motion of something soft or flexible",
+        "type": "m",
+        "example": [{
+          "file": "kyuru-2a",
           "contributor": "",
-          "display": "きゅるる\u2026",
-          "source": "s_rank_behemoth"
-        },
-        {
-          "file": "kyuru-1b",
-          "contributor": "",
-          "display": "きゅるるる\u2026",
-          "source": "otherworld_material_collector"
-        }
-      ]
-    }],
+          "display": "キュルルッ",
+          "source": "banished_color_user"
+        }]
+      }
+    ],
     "id": "kyuru"
   },
   {
@@ -20420,12 +20493,20 @@
       "refer": "poro:1",
       "meaning": "",
       "type": "",
-      "example": [{
-        "file": "poto-1a",
-        "contributor": "",
-        "display": "ポトッ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "poto-1a",
+          "contributor": "",
+          "display": "ポトッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "poto-1b",
+          "contributor": "",
+          "display": "ポト\u2026",
+          "source": "banished_color_user"
+        }
+      ]
     }],
     "id": "poto"
   },
@@ -26483,9 +26564,15 @@
     "id": "zasha"
   },
   {
-    "hiragana": ["ざしゅ"],
+    "hiragana": [
+      "ざしゅ",
+      "ざしゅっ"
+    ],
     "romaji": ["zashu"],
-    "katakana": ["ザシュ"],
+    "katakana": [
+      "ザシュ",
+      "ザシュッ"
+    ],
     "definition": [{
       "equivalent": [
         "cleave",
@@ -26496,12 +26583,20 @@
       "refer": "",
       "meaning": "a swift, forceful slash",
       "type": "o",
-      "example": [{
-        "file": "zashu-1a",
-        "contributor": "",
-        "display": "ザシュ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "zashu-1a",
+          "contributor": "",
+          "display": "ザシュ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "zashu-1b",
+          "contributor": "",
+          "display": "ザシュッ",
+          "source": "banished_color_user"
+        }
+      ]
     }],
     "id": "zashu"
   },
@@ -26614,6 +26709,12 @@
             "contributor": "",
             "display": "ざわ ざわ",
             "source": "uncle_at_heart"
+          },
+          {
+            "file": "zawa-3d",
+            "contributor": "",
+            "display": "ザワ ザワ",
+            "source": "banished_color_user"
           }
         ]
       }
@@ -26924,14 +27025,14 @@
   {
     "hiragana": [
       "ずず",
-      "ずずず",
-      "ずずっ"
+      "ずずっ",
+      "ずずず"
     ],
     "romaji": ["zu zu"],
     "katakana": [
       "ズズ",
-      "ズズズ",
-      "ズズッ"
+      "ズズッ",
+      "ズズズ"
     ],
     "definition": [
       {
@@ -26955,19 +27056,30 @@
       {
         "equivalent": [
           "drag",
+          "sag",
           "scrape",
           "sink",
-          "slide"
+          "skid",
+          "slide",
+          "slip"
         ],
         "refer": "",
-        "meaning": "slow dragging, sliding, or scraping sounds",
+        "meaning": "dragging or sliding sounds, typically slow and wet",
         "type": "o",
-        "example": [{
-          "file": "zu zu-2a",
-          "contributor": "",
-          "display": "ズズズー",
-          "source": "mushoku_tensei"
-        }]
+        "example": [
+          {
+            "file": "zu zu-2a",
+            "contributor": "",
+            "display": "ズズズー",
+            "source": "mushoku_tensei"
+          },
+          {
+            "file": "zu zu-2b",
+            "contributor": "",
+            "display": "ズズ\u2026",
+            "source": "banished_color_user"
+          }
+        ]
       }
     ],
     "id": "zu zu"
@@ -27008,12 +27120,20 @@
   {
     "hiragana": [
       "ずあ",
-      "ずあっ"
+      "ずああ",
+      "ずあああ",
+      "ずあっ",
+      "ずああっ",
+      "ずあああっ"
     ],
     "romaji": ["zua"],
     "katakana": [
       "ズア",
-      "ズアッ"
+      "ズアア",
+      "ズアアア",
+      "ズアッ",
+      "ズアアッ",
+      "ズアアアッ"
     ],
     "definition": [{
       "equivalent": [
@@ -27031,12 +27151,20 @@
       "refer": "",
       "meaning": "sudden, forceful rush into view, often dramatic or imposing",
       "type": "m",
-      "example": [{
-        "file": "zua-1a",
-        "contributor": "",
-        "display": "ズアッ",
-        "source": "different_world_smartphone"
-      }]
+      "example": [
+        {
+          "file": "zua-1a",
+          "contributor": "",
+          "display": "ズアッ",
+          "source": "different_world_smartphone"
+        },
+        {
+          "file": "zua-1b",
+          "contributor": "",
+          "display": "ズアアアッ",
+          "source": "banished_color_user"
+        }
+      ]
     }],
     "id": "zua"
   },
