@@ -1763,7 +1763,7 @@
   },
   {
     "hiragana": ["びしよ"],
-    "romaji": ["bisho"],
+    "romaji": ["bishiyo"],
     "katakana": ["ビシヨ"],
     "definition": [{
       "equivalent": [
@@ -1778,13 +1778,13 @@
       "meaning": "soaked or dripping wet",
       "type": "s",
       "example": [{
-        "file": "bisho-1a",
+        "file": "bishiyo-1a",
         "contributor": "",
         "display": "びしよ\u2026",
         "source": "lucky_prince_unlucky_princess"
       }]
     }],
-    "id": "bisho"
+    "id": "bishiyo"
   },
   {
     "hiragana": ["びしゅ"],
@@ -15442,7 +15442,7 @@
       "きゅるんっ",
       "きゅるんっっ"
     ],
-    "romaji": ["kyurun-1a"],
+    "romaji": ["kyurun"],
     "katakana": [
       "キュルン",
       "キュルンッ",
