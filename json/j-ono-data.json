@@ -1078,12 +1078,20 @@
       "refer": "",
       "meaning": "quick, light-sounding steps",
       "type": "o",
-      "example": [{
-        "file": "bata bata-1a",
-        "contributor": "",
-        "display": "バタ バタ",
-        "source": "d_genesis"
-      }]
+      "example": [
+        {
+          "file": "bata bata-1a",
+          "contributor": "",
+          "display": "バタ バタ",
+          "source": "d_genesis"
+        },
+        {
+          "file": "bata bata-1b",
+          "contributor": "",
+          "display": "バタ バタ",
+          "source": "lucky_prince_unlucky_princess"
+        }
+      ]
     }],
     "id": "bata bata"
   },
@@ -1754,6 +1762,31 @@
     "id": "bishi"
   },
   {
+    "hiragana": ["びしよ"],
+    "romaji": ["bisho"],
+    "katakana": ["ビシヨ"],
+    "definition": [{
+      "equivalent": [
+        "drenched",
+        "dripping",
+        "soaked",
+        "sodden",
+        "water-logged",
+        "wet"
+      ],
+      "refer": "",
+      "meaning": "soaked or dripping wet",
+      "type": "s",
+      "example": [{
+        "file": "bisho-1a",
+        "contributor": "",
+        "display": "びしよ\u2026",
+        "source": "lucky_prince_unlucky_princess"
+      }]
+    }],
+    "id": "bisho"
+  },
+  {
     "hiragana": ["びしゅ"],
     "romaji": ["bishu"],
     "katakana": ["ビシュ"],
@@ -1917,33 +1950,34 @@
         "fwump",
         "ploof",
         "poof",
-        "puff"
+        "puff",
+        "whump"
       ],
       "refer": "",
-      "meaning": "a soft, muffled, or gentle puffing/thudding sound",
+      "meaning": "a soft, muffled, or gentle puffing/thumping",
       "type": "o",
       "example": [
         {
-          "file": "bofu-1a",
+          "file": "bofu bofun-1a",
           "contributor": "",
           "display": "ボフッ",
           "source": "hello_work"
         },
         {
-          "file": "bofu-1b",
+          "file": "bofu bofun-1b",
           "contributor": "",
           "display": "ボフン",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "bofu-1c",
+          "file": "bofu bofun-1c",
           "contributor": "",
           "display": "ボフン",
           "source": "hone_dragon"
         }
       ]
     }],
-    "id": "bofu"
+    "id": "bofu bofun"
   },
   {
     "hiragana": [
@@ -4340,6 +4374,12 @@
             "contributor": "",
             "display": "ドドドッ",
             "source": "simple_sword_saint"
+          },
+          {
+            "file": "do-3c",
+            "contributor": "",
+            "display": "ド ド ド ド",
+            "source": "lucky_prince_unlucky_princess"
           }
         ]
       },
@@ -5481,6 +5521,12 @@
             "contributor": "",
             "display": "え!?",
             "source": "acquired_r18_skill"
+          },
+          {
+            "file": "e-2c",
+            "contributor": "",
+            "display": "ええっ!?",
+            "source": "lucky_prince_unlucky_princess"
           }
         ]
       }
@@ -6242,12 +6288,20 @@
       "refer": "",
       "meaning": "turning or spinning quickly, often expressing evasiveness or embarrassment",
       "type": "m",
-      "example": [{
-        "file": "furi-1a",
-        "contributor": "",
-        "display": "ふりっ",
-        "source": "komi_cant_communicate"
-      }]
+      "example": [
+        {
+          "file": "furi-1a",
+          "contributor": "",
+          "display": "ふりっ",
+          "source": "komi_cant_communicate"
+        },
+        {
+          "file": "furi-1b",
+          "contributor": "",
+          "display": "ふりっ",
+          "source": "lucky_prince_unlucky_princess"
+        }
+      ]
     }],
     "id": "furi"
   },
@@ -6291,12 +6345,20 @@
         "refer": "",
         "meaning": "shaking one's head side to side, as a way of expressing disagreement",
         "type": "m",
-        "example": [{
-          "file": "furu furu-2a",
-          "contributor": "",
-          "display": "ふる ふる ふる",
-          "source": "ai_and_izawa"
-        }]
+        "example": [
+          {
+            "file": "furu furu-2a",
+            "contributor": "",
+            "display": "ふる ふる ふる",
+            "source": "ai_and_izawa"
+          },
+          {
+            "file": "furu furu-2b",
+            "contributor": "",
+            "display": "ふる ふる",
+            "source": "lucky_prince_unlucky_princess"
+          }
+        ]
       }
     ],
     "id": "furu furu"
@@ -8287,6 +8349,34 @@
   },
   {
     "hiragana": [
+      "ぎし",
+      "ぎしっ"
+    ],
+    "romaji": ["gishi"],
+    "katakana": [
+      "ギシ",
+      "ギシッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "creak",
+        "squeak",
+        "squeal"
+      ],
+      "refer": "",
+      "meaning": "creak of wooden floor or bed under slight movement ",
+      "type": "o",
+      "example": [{
+        "file": "gishi-1a",
+        "contributor": "",
+        "display": "ギシ\u2026",
+        "source": "lucky_prince_unlucky_princess"
+      }]
+    }],
+    "id": "gishi"
+  },
+  {
+    "hiragana": [
       "ご",
       "ごごご",
       "ごっごっ",
@@ -9356,6 +9446,12 @@
             "contributor": "",
             "display": "ぐっ\u2026",
             "source": "world_full_of_monsters"
+          },
+          {
+            "file": "gu-5c",
+            "contributor": "",
+            "display": "ぐ\u2026",
+            "source": "lucky_prince_unlucky_princess"
           }
         ]
       },
@@ -12493,19 +12589,19 @@
     "hiragana": [
       "かちゃ",
       "かちゃっ",
-      "かちゃん",
-      "かちゃかちゃ"
+      "かちゃかちゃ",
+      "かちゃん"
     ],
     "romaji": [
       "kacha",
-      "kachan",
-      "kacha kacha"
+      "kacha kacha",
+      "kachan"
     ],
     "katakana": [
       "カチャ",
       "カチャッ",
-      "カチャン",
-      "カチャカチャ"
+      "カチャカチャ",
+      "カチャン"
     ],
     "definition": [{
       "equivalent": [
@@ -12521,50 +12617,50 @@
       "type": "o",
       "example": [
         {
-          "file": "kacha-1a",
+          "file": "kacha kachan-1a",
           "contributor": "",
           "display": "カチャ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "kacha-1b",
+          "file": "kacha kachan-1b",
           "contributor": "",
           "display": "カチャ",
           "source": "dog_became_strongest"
         },
         {
-          "file": "kacha-1c",
+          "file": "kacha kachan-1c",
           "contributor": "",
           "display": "カチャッ",
           "source": "killed_by_gods_mistake"
         },
         {
-          "file": "kacha-1d",
+          "file": "kacha kachan-1d",
           "contributor": "",
           "display": "カチャン",
           "source": "otherworld_material_collector"
         },
         {
-          "file": "kacha-1e",
+          "file": "kacha kachan-1e",
           "contributor": "",
           "display": "カチャ カチャ",
           "source": "reincarnated_aristocrat"
         },
         {
-          "file": "kacha-1f",
+          "file": "kacha kachan-1f",
           "contributor": "",
           "display": "カチャ カチャ",
           "source": "neet_kunoichi"
         },
         {
-          "file": "kacha-1g",
+          "file": "kacha kachan-1g",
           "contributor": "",
           "display": "カチャ カチャ",
           "source": "gyaru_academy"
         }
       ]
     }],
-    "id": "kacha"
+    "id": "kacha kachan"
   },
   {
     "hiragana": [
@@ -13381,6 +13477,12 @@
             "contributor": "",
             "display": "キッ",
             "source": "only_sweet_when_alone"
+          },
+          {
+            "file": "ki-2c",
+            "contributor": "",
+            "display": "キッ",
+            "source": "lucky_prince_unlucky_princess"
           }
         ]
       }
@@ -14847,6 +14949,12 @@
           "contributor": "",
           "display": "クス クス",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "kusu-1e",
+          "contributor": "",
+          "display": "クスクス\u2026",
+          "source": "lucky_prince_unlucky_princess"
         }
       ]
     }],
@@ -14878,6 +14986,38 @@
   },
   {
     "hiragana": [
+      "くわ",
+      "くわっ",
+      "くわっっ"
+    ],
+    "romaji": ["kuwa"],
+    "katakana": [
+      "クワ",
+      "クワッ",
+      "クワッッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "anger",
+        "fury",
+        "fwoom",
+        "glare",
+        "rage"
+      ],
+      "refer": "",
+      "meaning": "eyes snapping open in fury or a sudden angry reaction",
+      "type": "e",
+      "example": [{
+        "file": "kuwa-1a",
+        "contributor": "",
+        "display": "くわっっ",
+        "source": "lucky_prince_unlucky_princess"
+      }]
+    }],
+    "id": "kuwa"
+  },
+  {
+    "hiragana": [
       "きゃ",
       "きゃっ",
       "きゃー",
@@ -14887,10 +15027,13 @@
       "きゃあ",
       "きゃああ",
       "きゃん",
-      "きゃーん"
+      "きゃーん",
+      "きゃきゃ",
+      "きゃっきゃっ"
     ],
     "romaji": [
       "kya",
+      "kya kya",
       "kyan"
     ],
     "katakana": [
@@ -14903,7 +15046,9 @@
       "キャア",
       "キャアア",
       "キャン",
-      "キャーン"
+      "キャーン",
+      "キャキャ",
+      "キャッキャッ"
     ],
     "definition": [{
       "equivalent": [
@@ -14913,30 +15058,36 @@
         "squeal"
       ],
       "refer": "",
-      "meaning": "high-pitched emotional scream, as from fear, surprise, or excitement",
+      "meaning": "high-pitched emotional squealing, as from excitement, surprise, or fear",
       "type": "v",
       "example": [
         {
-          "file": "kya-1a",
+          "file": "kya kyan-1a",
           "contributor": "",
           "display": "きゃーっ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "kya-1b",
+          "file": "kya kyan-1b",
           "contributor": "",
           "display": "きゃー!!",
           "source": "rock_n_roll_ladies"
         },
         {
-          "file": "kya-1c",
+          "file": "kya kyan-1c",
           "contributor": "",
           "display": "きゃん",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "kya kyan-1d",
+          "contributor": "",
+          "display": "キャッ♡ キャッ♡ キャッ♡",
+          "source": "lucky_prince_unlucky_princess"
         }
       ]
     }],
-    "id": "kya"
+    "id": "kya kyan"
   },
   {
     "hiragana": ["きょどきょど"],
@@ -15035,14 +15186,21 @@
       "きゅ",
       "きゅっ",
       "きゅう",
-      "きゅーっ"
+      "きゅーっ",
+      "きゅきゅ",
+      "きゅっきゅっ"
     ],
-    "romaji": ["kyu"],
+    "romaji": [
+      "kyu",
+      "kyu kyu"
+    ],
     "katakana": [
       "キュ",
       "キュッ",
       "キュウ",
-      "キューッ"
+      "キューッ",
+      "キュキュ",
+      "キュッキュッ"
     ],
     "definition": [
       {
@@ -15123,7 +15281,7 @@
           "squeal"
         ],
         "refer": "",
-        "meaning": "shrill squeaking sound",
+        "meaning": "shrill squealing or squeaking",
         "type": "o",
         "example": [
           {
@@ -15143,6 +15301,12 @@
             "contributor": "",
             "display": "キュ",
             "source": "way_of_the_house_husband"
+          },
+          {
+            "file": "kyu-3d",
+            "contributor": "",
+            "display": "キュッ キュッ",
+            "source": "lucky_prince_unlucky_princess"
           }
         ]
       }
@@ -15163,12 +15327,16 @@
       "equivalent": [
         "adore",
         "affection",
+        "ardor",
+        "desire",
         "fluttery",
+        "infatuated",
         "lovestruck",
+        "smitten",
         "worship"
       ],
       "refer": "",
-      "meaning": "lovestruck or deeply moved sensation",
+      "meaning": "an emotional expression of strong affection or infatuation",
       "type": "e",
       "example": [{
         "file": "kyun-1a",
@@ -15267,6 +15435,32 @@
       }
     ],
     "id": "kyuru"
+  },
+  {
+    "hiragana": [
+      "きゅるん",
+      "きゅるんっ",
+      "きゅるんっっ"
+    ],
+    "romaji": ["kyurun-1a"],
+    "katakana": [
+      "キュルン",
+      "キュルンッ",
+      "キュルンッッ"
+    ],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "kyun:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "kyurun-1a",
+        "contributor": "",
+        "display": "きゅるんっっ",
+        "source": "lucky_prince_unlucky_princess"
+      }]
+    }],
+    "id": "kyurun"
   },
   {
     "hiragana": ["まきまき"],
@@ -16590,11 +16784,17 @@
         {
           "file": "niya-1b",
           "contributor": "",
+          "display": "ニヤ\u2026",
+          "source": "lucky_prince_unlucky_princess"
+        },
+        {
+          "file": "niya-1c",
+          "contributor": "",
           "display": "にやぁ",
           "source": "forest_of_revenge"
         },
         {
-          "file": "niya-1c",
+          "file": "niya-1d",
           "contributor": "",
           "display": "にや にや",
           "source": "sex_with_me_sells"
@@ -16787,8 +16987,8 @@
   },
   {
     "hiragana": ["ぬらぬら"],
-    "romaji": ["nura"],
-    "katakana": ["ヌラ"],
+    "romaji": ["nura nura"],
+    "katakana": ["ヌラヌラ"],
     "definition": [{
       "equivalent": [
         "glare",
@@ -17156,6 +17356,32 @@
       ]
     }],
     "id": "oro oro"
+  },
+  {
+    "hiragana": ["おず"],
+    "romaji": ["ozu"],
+    "katakana": ["オズ"],
+    "definition": [{
+      "equivalent": [
+        "anxiously",
+        "hesitantly",
+        "shyly",
+        "timidly",
+        "uhh",
+        "umm",
+        "uncertain"
+      ],
+      "refer": "",
+      "meaning": "behaving timidly or hesitantly",
+      "type": "s",
+      "example": [{
+        "file": "ozu-1a",
+        "contributor": "",
+        "display": "おず\u2026",
+        "source": "lucky_prince_unlucky_princess"
+      }]
+    }],
+    "id": "ozu"
   },
   {
     "hiragana": ["ぱっぱっ"],
@@ -17633,7 +17859,7 @@
         "savor"
       ],
       "refer": "",
-      "meaning": "closing one's mouth or biting, repeatedly",
+      "meaning": "closing one's mouth or biting",
       "type": "m",
       "example": [
         {
@@ -20480,6 +20706,30 @@
   },
   {
     "hiragana": [
+      "ぽすん",
+      "ぽすんっ"
+    ],
+    "romaji": ["posun"],
+    "katakana": [
+      "ポスン",
+      "ポスンッ"
+    ],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "bofu bofun:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "posun-1a",
+        "contributor": "",
+        "display": "ぽすんっ",
+        "source": "lucky_prince_unlucky_princess"
+      }]
+    }],
+    "id": "posun"
+  },
+  {
+    "hiragana": [
       "ぽと",
       "ぽとっ"
     ],
@@ -21337,12 +21587,16 @@
   {
     "hiragana": [
       "ぷしゅー",
-      "ぷしゅーっ"
+      "ぷしゅーっ",
+      "ぷしゅぅ",
+      "ぷしゅぅぅ"
     ],
     "romaji": ["pushu"],
     "katakana": [
       "プシュー",
-      "プシューッ"
+      "プシューッ",
+      "プシュゥ",
+      "プシュゥゥ"
     ],
     "definition": [{
       "equivalent": [
@@ -21362,7 +21616,7 @@
         "ssss"
       ],
       "refer": "",
-      "meaning": "a metaphoric mental deflation, used to express embarrassment, confusion, or being overwhelmed",
+      "meaning": "a metaphoric hissing or deflation, used to express embarrassment, confusion, or being overwhelmed",
       "type": "e",
       "example": [
         {
@@ -21376,6 +21630,12 @@
           "contributor": "",
           "display": "プシュ",
           "source": "yojo_life"
+        },
+        {
+          "file": "pushu-1c",
+          "contributor": "",
+          "display": "プシュゥゥ..",
+          "source": "lucky_prince_unlucky_princess"
         }
       ]
     }],
@@ -22622,14 +22882,22 @@
           "touch"
         ],
         "refer": "",
-        "meaning": "gentle reaching or placement of hands",
+        "meaning": "a gentle touch",
         "type": "m",
-        "example": [{
-          "file": "so-2a",
-          "contributor": "",
-          "display": "そっ",
-          "source": "komi_cant_communicate"
-        }]
+        "example": [
+          {
+            "file": "so-2a",
+            "contributor": "",
+            "display": "そっ",
+            "source": "komi_cant_communicate"
+          },
+          {
+            "file": "so-2b",
+            "contributor": "",
+            "display": "そ\u2026っ",
+            "source": "lucky_prince_unlucky_princess"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -24136,6 +24404,7 @@
   {
     "hiragana": [
       "とと",
+      "ととっ",
       "ととと",
       "とっとっ",
       "とっとっとっ"
@@ -24143,6 +24412,7 @@
     "romaji": ["to to"],
     "katakana": [
       "トト",
+      "トトッ",
       "トトト",
       "トットッ",
       "トットットッ"
@@ -24165,12 +24435,20 @@
         "refer": "tata:1",
         "meaning": "",
         "type": "",
-        "example": [{
-          "file": "to to-2a",
-          "contributor": "",
-          "display": "とっ とっ",
-          "source": "fushi_no_kami"
-        }]
+        "example": [
+          {
+            "file": "to to-2a",
+            "contributor": "",
+            "display": "とっ とっ",
+            "source": "fushi_no_kami"
+          },
+          {
+            "file": "to to-2b",
+            "contributor": "",
+            "display": "トトッ",
+            "source": "lucky_prince_unlucky_princess"
+          }
+        ]
       }
     ],
     "id": "to to"
@@ -24589,6 +24867,36 @@
       }]
     }],
     "id": "tosa"
+  },
+  {
+    "hiragana": [
+      "とす",
+      "とすっ"
+    ],
+    "romaji": ["tosu"],
+    "katakana": [
+      "トス",
+      "トスッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "flump",
+        "plop",
+        "plunk",
+        "thump",
+        "thup"
+      ],
+      "refer": "",
+      "meaning": "a light plop or thump",
+      "type": "o",
+      "example": [{
+        "file": "tosu-1a",
+        "contributor": "",
+        "display": "トスッ",
+        "source": "lucky_prince_unlucky_princess"
+      }]
+    }],
+    "id": "tosu"
   },
   {
     "hiragana": [
@@ -26635,26 +26943,26 @@
           {
             "file": "zawa-1a",
             "contributor": "",
-            "display": "ざわ",
-            "source": "requiem_for_prophet"
-          },
-          {
-            "file": "zawa-1b",
-            "contributor": "",
-            "display": "ざわっ",
-            "source": "shogun_gold_in_america"
-          },
-          {
-            "file": "zawa-1c",
-            "contributor": "",
             "display": "ザワッ",
             "source": "acquired_r18_skill"
           },
           {
-            "file": "zawa-1d",
+            "file": "zawa-1b",
             "contributor": "",
             "display": "ザワ ザワ",
             "source": "world_full_of_monsters"
+          },
+          {
+            "file": "zawa-1c",
+            "contributor": "",
+            "display": "ざわ",
+            "source": "requiem_for_prophet"
+          },
+          {
+            "file": "zawa-1d",
+            "contributor": "",
+            "display": "ざわっ",
+            "source": "shogun_gold_in_america"
           }
         ]
       },
@@ -26695,14 +27003,14 @@
           {
             "file": "zawa-3a",
             "contributor": "",
-            "display": "ざわ ざわ ざわ",
-            "source": "dungeon_dining_room"
+            "display": "ザワ ザワ",
+            "source": "abandoned_reincarnation_sage"
           },
           {
             "file": "zawa-3b",
             "contributor": "",
             "display": "ザワ ザワ",
-            "source": "abandoned_reincarnation_sage"
+            "source": "banished_color_user"
           },
           {
             "file": "zawa-3c",
@@ -26713,8 +27021,8 @@
           {
             "file": "zawa-3d",
             "contributor": "",
-            "display": "ザワ ザワ",
-            "source": "banished_color_user"
+            "display": "ざわ ざわ ざわ",
+            "source": "dungeon_dining_room"
           }
         ]
       }
