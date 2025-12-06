@@ -148,6 +148,17 @@
   },
 
   {
+    "publisher_name": "Gakken",
+    "site": "https://comic-fuz.com/; https://comic-trail.com/",
+    "sources": [
+      {
+        "id": "journey_of_curiosity",
+        "manga": "Kodai o Meguru Kōkishin no Tabiji"
+      }
+    ]
+  },
+
+  {
     "publisher_name": "Gentosha Inc.",
     "site": "http://www.gentosha-comics.net",
     "sources": [
