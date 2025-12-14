@@ -2670,6 +2670,35 @@
     "id": "bufu"
   },
   {
+    "hiragana": [
+      "ぶり",
+      "ぶりっ"
+    ],
+    "romaji": ["bui"],
+    "katakana": [
+      "ブリ",
+      "ブリッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "V",
+        "Y",
+        "peace",
+        "victory"
+      ],
+      "refer": "",
+      "meaning": "posing with two fingers raised in a \"V\" or peace sign",
+      "type": "s",
+      "example": [{
+        "file": "bui-1a",
+        "contributor": "",
+        "display": "ぶりっ",
+        "source": "journey_of_curiosity"
+      }]
+    }],
+    "id": "bui"
+  },
+  {
     "hiragana": ["ぶか"],
     "romaji": ["buka"],
     "katakana": ["ブカ"],
@@ -3736,6 +3765,38 @@
       ]
     }],
     "id": "chira"
+  },
+  {
+    "hiragana": [
+      "ちり",
+      "ちりり",
+      "ちりりり"
+    ],
+    "romaji": ["chiri"],
+    "katakana": [
+      "チリ",
+      "チリリ",
+      "チリリリ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bizz",
+        "buzz",
+        "chir",
+        "chirp",
+        "ree-ree"
+      ],
+      "refer": "",
+      "meaning": "soft insect noises",
+      "type": "o",
+      "example": [{
+        "file": "chiri-1a",
+        "contributor": "",
+        "display": "チリリ チリリリリリ チリリ",
+        "source": "journey_of_curiosity"
+      }]
+    }],
+    "id": "chiri"
   },
   {
     "hiragana": ["ちろちろ"],
@@ -7120,6 +7181,12 @@
             "contributor": "",
             "display": "がくっ",
             "source": "sex_with_me_sells"
+          },
+          {
+            "file": "gaku-2c",
+            "contributor": "",
+            "display": "ガクッ",
+            "source": "journey_of_curiosity"
           }
         ]
       }
@@ -12291,7 +12358,7 @@
       "example": [{
         "file": "jun jun-1a",
         "contributor": "",
-        "display": "ジュン♡ ジュン♡",
+        "display": "じゅん♡ じゅん♡",
         "source": "gyaru_academy"
       }]
     }],
@@ -16427,6 +16494,29 @@
     "id": "muzu muzu"
   },
   {
+    "hiragana": ["ん"],
+    "romaji": ["n"],
+    "katakana": ["ン"],
+    "definition": [{
+      "equivalent": [
+        "hmm",
+        "hmn",
+        "hnn",
+        "mmm"
+      ],
+      "refer": "",
+      "meaning": "a soft murmur or vague vocal sound",
+      "type": "v",
+      "example": [{
+        "file": "n-1a",
+        "contributor": "",
+        "display": "ん\u2026",
+        "source": "journey_of_curiosity"
+      }]
+    }],
+    "id": "n"
+  },
+  {
     "hiragana": ["なでなで"],
     "romaji": ["nade nade"],
     "katakana": ["ナデナデ"],
@@ -16519,7 +16609,7 @@
         {
           "file": "nfufu-1b",
           "contributor": "",
-          "display": "んふふ~",
+          "display": "んふふ〜",
           "source": "paradise_shift"
         }
       ]
@@ -21122,51 +21212,41 @@
       "プハー",
       "プハーッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "blow",
-          "breath",
-          "exhale",
-          "huff",
-          "phew"
-        ],
-        "refer": "",
-        "meaning": "a relaxing or relieved exhalation",
-        "type": "o",
-        "example": [{
+    "definition": [{
+      "equivalent": [
+        "ahh",
+        "blow",
+        "breath",
+        "exhale",
+        "fwah",
+        "huff",
+        "phew",
+        "whah"
+      ],
+      "refer": "",
+      "meaning": "vocal exclamation of relief or relaxation",
+      "type": "v",
+      "example": [
+        {
           "file": "puha-1a",
+          "contributor": "",
+          "display": "ぷはっ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "puha-1b",
+          "contributor": "",
+          "display": "ぷはっ",
+          "source": "reincarnated_as_a_dragon_egg"
+        },
+        {
+          "file": "puha-1c",
           "contributor": "",
           "display": "ぷはーっ",
           "source": "shogun_gold_in_america"
-        }]
-      },
-      {
-        "equivalent": [
-          "ahh",
-          "fwah",
-          "phew",
-          "whah"
-        ],
-        "refer": "",
-        "meaning": "vocal exclamation after eating or drinking",
-        "type": "v",
-        "example": [
-          {
-            "file": "puha-2a",
-            "contributor": "",
-            "display": "ぷはっ",
-            "source": "dog_became_strongest"
-          },
-          {
-            "file": "puha-2b",
-            "contributor": "",
-            "display": "ぷはっ",
-            "source": "reincarnated_as_a_dragon_egg"
-          }
-        ]
-      }
-    ],
+        }
+      ]
+    }],
     "id": "puha"
   },
   {
@@ -21320,7 +21400,7 @@
         "touch"
       ],
       "refer": "",
-      "meaning": "touching or pressing something plump and springy",
+      "meaning": "plump and springy, typically touched or pressed",
       "type": "s",
       "example": [
         {
@@ -21340,6 +21420,12 @@
           "contributor": "",
           "display": "ぷに!!",
           "source": "beastly_boys_and_girls"
+        },
+        {
+          "file": "puni-1d",
+          "contributor": "",
+          "display": "ぷに",
+          "source": "journey_of_curiosity"
         }
       ]
     }],
@@ -22990,14 +23076,16 @@
       "すす",
       "すすす",
       "すうすう",
-      "すぅすぅ"
+      "すぅすぅ",
+      "すー"
     ],
     "romaji": ["su su"],
     "katakana": [
       "スス",
       "ススス",
       "スウスウ",
-      "スゥスゥ"
+      "スゥスゥ",
+      "スースー"
     ],
     "definition": [
       {
@@ -23005,12 +23093,20 @@
         "refer": "supi:1",
         "meaning": "",
         "type": "",
-        "example": [{
-          "file": "su su-1a",
-          "contributor": "",
-          "display": "すぅ すぅ\u2026",
-          "source": "world_full_of_monsters"
-        }]
+        "example": [
+          {
+            "file": "su su-1a",
+            "contributor": "",
+            "display": "すぅ すぅ\u2026",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "su su-1b",
+            "contributor": "",
+            "display": "すー すー",
+            "source": "journey_of_curiosity"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -26261,7 +26357,7 @@
         "wobble"
       ],
       "refer": "",
-      "meaning": "brief sway or lurch, as from dizziness or shock",
+      "meaning": "swaying, lurching, or wobbling motion",
       "type": "m",
       "example": [
         {
@@ -28043,7 +28139,7 @@
         "example": [{
           "file": "zun-4a",
           "contributor": "",
-          "display": "ズー ーン",
+          "display": "ズーン",
           "source": "only_sweet_when_alone"
         }]
       }
@@ -28367,12 +28463,20 @@
       "refer": "",
       "meaning": "heavy, dense pressure",
       "type": "s",
-      "example": [{
-        "file": "zushi-1a",
-        "contributor": "",
-        "display": "ずしっ",
-        "source": "mushoku_tensei"
-      }]
+      "example": [
+        {
+          "file": "zushi-1a",
+          "contributor": "",
+          "display": "ずしっ",
+          "source": "mushoku_tensei"
+        },
+        {
+          "file": "zushi-1b",
+          "contributor": "",
+          "display": "ズシ\u2026",
+          "source": "journey_of_curiosity"
+        }
+      ]
     }],
     "id": "zushi"
   },

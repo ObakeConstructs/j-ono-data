@@ -1,6 +1,10 @@
 [
   {
     "date": "2025/12/05",
+    "message": "7 new examples from <b>Kodai o Meguru Kōkishin no Tabiji</b>"
+  },
+  {
+    "date": "2025/12/05",
     "message": "21 new examples from <b>Kouun Ouji to Fuun Reijou ga Sousai Kekkon shitara Dekiai ga Hajimarimashita</b>"
   },
   {
@@ -10,9 +14,5 @@
   {
     "date": "2025/12/03",
     "message": "12 new examples from <b>Tsuihou sareta Fuguushoku \"Irozukai\" ga Sekai wo Nurikaeru made</b>"
-  },
-  {
-    "date": "2025/12/02",
-    "message": "Tweaked layout and fonts to improve readability; cleaned up some garbage code"
   }
 ]
