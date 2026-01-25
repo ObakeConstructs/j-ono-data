@@ -22745,49 +22745,28 @@
   },
   {
     "hiragana": [
-      "しゅしゅ",
-      "しゅしゅっ",
-      "しゅしゅしゅ",
-      "しゅしゅしゅっ"
-    ],
-    "romaji": ["shu shu"],
-    "katakana": [
-      "シュシュ",
-      "シュシュッ",
-      "シュシュシュ",
-      "シュシュシュッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "shu:2",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "shu shu-1a",
-        "contributor": "",
-        "display": "しゅ しゅ しゅ",
-        "source": "yojo_life"
-      }]
-    }],
-    "id": "shu shu"
-  },
-  {
-    "hiragana": [
       "しゅ",
       "しゅっ",
       "しゅぃ",
       "しゅい",
       "しゅぃぃ",
-      "しゅいい"
+      "しゅいい",
+      "しゅしゅ",
+      "しゅしゅしゅ"
     ],
-    "romaji": ["shu"],
+    "romaji": [
+      "shu",
+      "shu shu"
+    ],
     "katakana": [
       "シュ",
       "シュッ",
       "シュゥ",
       "シュウ",
       "シュゥゥ",
-      "シュウウ"
+      "シュウウ",
+      "シュシュ",
+      "シュシュシュ"
     ],
     "definition": [
       {
@@ -22866,6 +22845,12 @@
             "contributor": "",
             "display": "シュウウウウウ",
             "source": "isekai_av_filming"
+          },
+          {
+            "file": "shu-3c",
+            "contributor": "",
+            "display": "しゅ しゅ しゅ",
+            "source": "yojo_life"
           }
         ]
       }
