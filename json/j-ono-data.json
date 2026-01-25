@@ -9668,9 +9668,46 @@
     "id": "gun"
   },
   {
-    "hiragana": ["ぐに"],
+    "hiragana": [
+      "ぐね",
+      "ぐねっ"
+    ],
+    "romaji": ["gune"],
+    "katakana": [
+      "グネ",
+      "グネッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "pull",
+        "roll",
+        "sprain",
+        "turn",
+        "twist",
+        "wrench"
+      ],
+      "refer": "",
+      "meaning": "turning, twisting, or wrenching a joint in the wrong way",
+      "type": "m",
+      "example": [{
+        "file": "gune-1a",
+        "contributor": "",
+        "display": "ぐねっ",
+        "source": "yuyushiki"
+      }]
+    }],
+    "id": "gune"
+  },
+  {
+    "hiragana": [
+      "ぐに",
+      "ぐにぐに"
+    ],
     "romaji": ["guni"],
-    "katakana": ["グニ"],
+    "katakana": [
+      "グニ",
+      "グニグニ"
+    ],
     "definition": [{
       "equivalent": [
         "flexible",
@@ -9683,14 +9720,22 @@
         "squoosh"
       ],
       "refer": "",
-      "meaning": "something squishy, pliable, or yielding",
-      "type": "s",
-      "example": [{
-        "file": "guni-1a",
-        "contributor": "",
-        "display": "ぐに\u2026",
-        "source": "double_play"
-      }]
+      "meaning": "pressing, squishing or kneading something soft or pliable",
+      "type": "m",
+      "example": [
+        {
+          "file": "guni-1a",
+          "contributor": "",
+          "display": "ぐに\u2026",
+          "source": "double_play"
+        },
+        {
+          "file": "guni-1b",
+          "contributor": "",
+          "display": "ぐに ぐに",
+          "source": "yuyushiki"
+        }
+      ]
     }],
     "id": "guni"
   },
@@ -14863,6 +14908,34 @@
     "id": "kuri"
   },
   {
+    "hiragana": [
+      "くりん",
+      "くりんっ"
+    ],
+    "romaji": ["kurin"],
+    "katakana": [
+      "クリン",
+      "クリンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "boing",
+        "bounce",
+        "spring"
+      ],
+      "refer": "",
+      "meaning": "springy movement of hair, usually cute",
+      "type": "m",
+      "example": [{
+        "file": "kurin-1a",
+        "contributor": "",
+        "display": "くりんっ",
+        "source": "yuyushiki"
+      }]
+    }],
+    "id": "kurin"
+  },
+  {
     "hiragana": ["くるくる"],
     "romaji": ["kuru kuru"],
     "katakana": ["クルクル"],
@@ -17201,38 +17274,44 @@
       "type": "v",
       "example": [
         {
-          "file": "nya-1a",
+          "file": "nya nyan-1a",
           "contributor": "",
           "display": "ニャ\u2026",
           "source": "isekai_pickup"
         },
         {
-          "file": "nya-1b",
+          "file": "nya nyan-1b",
           "contributor": "",
           "display": "ニャァァ",
           "source": "way_of_the_house_husband"
         },
         {
-          "file": "nya-1c",
+          "file": "nya nyan-1c",
           "contributor": "",
           "display": "にゃーん!",
           "source": "s_rank_behemoth"
         },
         {
-          "file": "nya-1d",
+          "file": "nya nyan-1d",
           "contributor": "",
           "display": "ニャ ニャ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "nya-1e",
+          "file": "nya nyan-1e",
           "contributor": "",
           "display": "にゃ にゃ",
           "source": "yojo_life"
+        },
+        {
+          "file": "nya nyan-1f",
+          "contributor": "",
+          "display": "ニャーン",
+          "source": "yuyushiki"
         }
       ]
     }],
-    "id": "nya"
+    "id": "nya nyan"
   },
   {
     "hiragana": [
@@ -21025,7 +21104,9 @@
       "ぷう",
       "ぷうう",
       "ぷううー",
-      "ぷぅ"
+      "ぷぅ",
+      "ぷぷ",
+      "ぷぷっ"
     ],
     "romaji": ["pu"],
     "katakana": [
@@ -21034,7 +21115,9 @@
       "プウ",
       "プウウ",
       "プウウー",
-      "プゥ"
+      "プゥ",
+      "ププ",
+      "ププッ"
     ],
     "definition": [
       {
@@ -21070,6 +21153,12 @@
             "contributor": "",
             "display": "プッ",
             "source": "peter_grill"
+          },
+          {
+            "file": "pu-1d",
+            "contributor": "",
+            "display": "ププッ",
+            "source": "yuyushiki"
           }
         ]
       },
@@ -22710,7 +22799,7 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "a sudden disappearance or extremely fast motion",
+        "meaning": "a sudden disappearance or movement too fast to see",
         "type": "m",
         "example": [
           {
@@ -22724,12 +22813,31 @@
             "contributor": "",
             "display": "シュッ",
             "source": "shogun_gold_in_america"
-          },
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "fwip",
+          "smooth",
+          "whoosh",
+          "zip"
+        ],
+        "refer": "",
+        "meaning": "a swift, precise or smooth movement",
+        "type": "m",
+        "example": [
           {
-            "file": "shu-1c",
+            "file": "shu-2a",
             "contributor": "",
             "display": "シュッ",
             "source": "world_full_of_monsters"
+          },
+          {
+            "file": "shu-2b",
+            "contributor": "",
+            "display": "シュッ",
+            "source": "yuyushiki"
           }
         ]
       },
@@ -22748,13 +22856,13 @@
         "type": "o",
         "example": [
           {
-            "file": "shu-2a",
+            "file": "shu-3a",
             "contributor": "",
             "display": "シュゥゥ\u2026",
             "source": "world_full_of_monsters"
           },
           {
-            "file": "shu-2b",
+            "file": "shu-3b",
             "contributor": "",
             "display": "シュウウウウウ",
             "source": "isekai_av_filming"
