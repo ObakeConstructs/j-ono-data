@@ -148,25 +148,6 @@
   },
 
   {
-    "publisher_name": "Gakken",
-    "site": "https://comic-fuz.com/; https://comic-trail.com/",
-    "sources": [
-      {
-        "id": "journey_of_curiosity",
-        "manga": "Kodai o Meguru Kōkishin no Tabiji"
-      },
-      {
-        "id": "yuyushiki",
-        "manga": "Yuyushiki"
-      },
-      {
-        "id": "madoka_magica_wraith_arc",
-        "manga": "Mahou Shoujo Madoka ☆ Magika [Majuu-hen]"
-      }
-    ]
-  },
-
-  {
     "publisher_name": "Gentosha Inc.",
     "site": "http://www.gentosha-comics.net",
     "sources": [
@@ -239,6 +220,36 @@
         "id": "isekai_sniper",
         "manga": "Magan to Dangan o Tsukatte Isekai o Buchinuku!"
       }      
+    ]
+  },
+
+  {
+    "publisher_name": "HOUBUNSHA CO., LTD",
+    "site": "https://comic-fuz.com/; https://comic-trail.com/",
+    "sources": [
+      {
+        "id": "journey_of_curiosity",
+        "manga": "Kodai o Meguru Kōkishin no Tabiji"
+      },
+      {
+        "id": "yuyushiki",
+        "manga": "Yuyushiki"
+      },
+      {
+        "id": "madoka_magica_wraith_arc",
+        "manga": "Mahō Shōjo Madoka ☆ Magika [Majuu-hen]"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "IMA, Inc.",
+    "site": "https://www.ima-inc.jp/; http://colorful.asia/",
+    "sources": [
+      {
+        "id": "unattainable_prince",
+        "manga": "Takamine no Hana-kun"
+      }
     ]
   },
 

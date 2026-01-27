@@ -1899,6 +1899,18 @@
           "display": "ぼー\u2026",
           "source": "s_rank_behemoth"
         }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "ko:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "bo-3a",
+          "contributor": "",
+          "display": "ボッ",
+          "source": "unattainable_prince"
+        }]
       }
     ],
     "id": "bo"
@@ -2050,24 +2062,42 @@
       "ボーン",
       "ボンッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "bam",
-        "blam",
-        "boom",
-        "d-dum",
-        "ta-da"
-      ],
-      "refer": "",
-      "meaning": "to show or reveal something impressive, shocking or surprising",
-      "type": "c",
-      "example": [{
-        "file": "bon-1a",
-        "contributor": "Artrix",
-        "display": "ボーン",
-        "source": "pokemon_xy_break"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "bam",
+          "blam",
+          "boom",
+          "d-dum",
+          "ta-da"
+        ],
+        "refer": "",
+        "meaning": "to show or reveal something impressive, shocking or surprising",
+        "type": "c",
+        "example": [{
+          "file": "bon-1a",
+          "contributor": "Artrix",
+          "display": "ボーン",
+          "source": "pokemon_xy_break"
+        }]
+      },
+      {
+        "equivalent": [
+          "ba-dump",
+          "throb",
+          "thump"
+        ],
+        "refer": "",
+        "meaning": "a beat or surge of emotion",
+        "type": "e",
+        "example": [{
+          "file": "bon-2a",
+          "contributor": "",
+          "display": "ボン",
+          "source": "unattainable_prince"
+        }]
+      }
+    ],
     "id": "bon"
   },
   {
@@ -4848,12 +4878,20 @@
         "refer": "",
         "meaning": "jerk or flinch, as when surprised or startled",
         "type": "m",
-        "example": [{
-          "file": "doki-3a",
-          "contributor": "",
-          "display": "ドキ",
-          "source": "requiem_for_prophet"
-        }]
+        "example": [
+          {
+            "file": "doki-3a",
+            "contributor": "",
+            "display": "ドキ",
+            "source": "requiem_for_prophet"
+          },
+          {
+            "file": "doki-3b",
+            "contributor": "",
+            "display": "ドキッ",
+            "source": "unattainable_prince"
+          }
+        ]
       }
     ],
     "id": "doki"
@@ -7109,9 +7147,13 @@
       "がくぅ",
       "がくぅぅ",
       "がくぅっ",
-      "がくぅぅっ"
+      "がくぅぅっ",
+      "がくん"
     ],
-    "romaji": ["gaku"],
+    "romaji": [
+      "gaku",
+      "gakun"
+    ],
     "katakana": [
       "ガク",
       "ガクー",
@@ -7119,7 +7161,8 @@
       "ガクゥ",
       "ガクゥゥ",
       "ガクゥッ",
-      "ガクゥゥッ"
+      "ガクゥゥッ",
+      "ガクン"
     ],
     "definition": [
       {
@@ -7138,19 +7181,19 @@
         "type": "o",
         "example": [
           {
-            "file": "gaku-1a",
+            "file": "gaku gakun-1a",
             "contributor": "",
             "display": "がく",
             "source": "different_world_smartphone"
           },
           {
-            "file": "gaku-1b",
+            "file": "gaku gakun-1b",
             "contributor": "",
             "display": "ガクッ",
             "source": "world_full_of_monsters"
           },
           {
-            "file": "gaku-1c",
+            "file": "gaku gakun-1c",
             "contributor": "",
             "display": "ガクゥゥッ",
             "source": "yojo_life"
@@ -7171,27 +7214,33 @@
         "type": "s",
         "example": [
           {
-            "file": "gaku-2a",
+            "file": "gaku gakun-2a",
             "contributor": "",
             "display": "ガクー\u2026",
             "source": "peter_grill"
           },
           {
-            "file": "gaku-2b",
+            "file": "gaku gakun-2b",
             "contributor": "",
             "display": "がくっ",
             "source": "sex_with_me_sells"
           },
           {
-            "file": "gaku-2c",
+            "file": "gaku gakun-2c",
             "contributor": "",
             "display": "ガクッ",
             "source": "journey_of_curiosity"
+          },
+          {
+            "file": "gaku gakun-2d",
+            "contributor": "",
+            "display": "ガクン\u2026.",
+            "source": "unattainable_prince"
           }
         ]
       }
     ],
-    "id": "gaku"
+    "id": "gaku gakun"
   },
   {
     "hiragana": ["がきぃん"],
@@ -8433,12 +8482,20 @@
       "refer": "",
       "meaning": "creak of wooden floor or bed under slight movement ",
       "type": "o",
-      "example": [{
-        "file": "gishi-1a",
-        "contributor": "",
-        "display": "ギシ\u2026",
-        "source": "lucky_prince_unlucky_princess"
-      }]
+      "example": [
+        {
+          "file": "gishi-1a",
+          "contributor": "",
+          "display": "ギシ\u2026",
+          "source": "lucky_prince_unlucky_princess"
+        },
+        {
+          "file": "gishi-1b",
+          "contributor": "",
+          "display": "ギシ",
+          "source": "unattainable_prince"
+        }
+      ]
     }],
     "id": "gishi"
   },
@@ -12219,6 +12276,33 @@
     "id": "jiro"
   },
   {
+    "hiragana": ["じろり"],
+    "romaji": ["jirori"],
+    "katakana": ["ジロリ"],
+    "definition": [{
+      "equivalent": [
+        "glance",
+        "glare",
+        "glower",
+        "pierce",
+        "regard",
+        "scowl",
+        "side-eye",
+        "stare"
+      ],
+      "refer": "",
+      "meaning": "sharp sideways glance or glare, often with suspicion or annoyance",
+      "type": "s",
+      "example": [{
+        "file": "jirori-1a",
+        "contributor": "",
+        "display": "ジロリ",
+        "source": "unattainable_prince"
+      }]
+    }],
+    "id": "jirori"
+  },
+  {
     "hiragana": [
       "じたばた",
       "ばたじた"
@@ -12560,8 +12644,7 @@
       "かーっ",
       "かあ",
       "かああ",
-      "かぁ",
-      "かぁぁ",
+      "かあああ",
       "かか",
       "かっかっ"
     ],
@@ -12576,8 +12659,7 @@
       "カーッ",
       "カア",
       "カアア",
-      "カァ",
-      "カァァ",
+      "カアアア",
       "カカ",
       "カッカッ"
     ],
@@ -12602,7 +12684,7 @@
           {
             "file": "ka-1b",
             "contributor": "",
-            "display": "かぁぁ",
+            "display": "かああ",
             "source": "otherworld_material_collector"
           },
           {
@@ -12652,6 +12734,12 @@
             "contributor": "",
             "display": "カッ",
             "source": "acquired_r18_skill"
+          },
+          {
+            "file": "ka-2d",
+            "contributor": "",
+            "display": "カアアア",
+            "source": "madoka_magica_wraith_arc"
           }
         ]
       },
@@ -13523,7 +13611,8 @@
       "きっ",
       "きーっ",
       "きぃ",
-      "きぃーっ"
+      "きぃーっ",
+      "きぃぃ"
     ],
     "romaji": ["ki"],
     "katakana": [
@@ -13531,7 +13620,8 @@
       "キッ",
       "キーッ",
       "キィ",
-      "キィーッ"
+      "キィーッ",
+      "キィィ"
     ],
     "definition": [
       {
@@ -13543,7 +13633,7 @@
           "squeal"
         ],
         "refer": "",
-        "meaning": "sharp metallic squeaking or screeching",
+        "meaning": "sharp squeaking, or screeching",
         "type": "o",
         "example": [
           {
@@ -13660,18 +13750,40 @@
       "キィン",
       "キィーン"
     ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "ki:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "kin-1a",
-        "contributor": "",
-        "display": "キィン",
-        "source": "d_genesis"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [""],
+        "refer": "ki:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "kin-1a",
+          "contributor": "",
+          "display": "キィン",
+          "source": "d_genesis"
+        }]
+      },
+      {
+        "equivalent": [
+          "ding",
+          "jing",
+          "plink",
+          "ring",
+          "shing",
+          "ting",
+          "zing"
+        ],
+        "refer": "",
+        "meaning": "sharp, clear, ringing sound of metal, often of swords",
+        "type": "o",
+        "example": [{
+          "file": "kin-2a",
+          "contributor": "",
+          "display": "キン",
+          "source": "madoka_magica_wraith_arc"
+        }]
+      }
+    ],
     "id": "kin"
   },
   {
@@ -16590,6 +16702,35 @@
     "id": "n"
   },
   {
+    "hiragana": [
+      "な",
+      "なっ"
+    ],
+    "romaji": ["na"],
+    "katakana": [
+      "ナ",
+      "ナッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "eh?",
+        "huh?",
+        "wha?",
+        "what?"
+      ],
+      "refer": "",
+      "meaning": "startled, flustered exclamation",
+      "type": "v",
+      "example": [{
+        "file": "na-1a",
+        "contributor": "",
+        "display": "なっ",
+        "source": "unattainable_prince"
+      }]
+    }],
+    "id": "na"
+  },
+  {
     "hiragana": ["なでなで"],
     "romaji": ["nade nade"],
     "katakana": ["ナデナデ"],
@@ -17553,24 +17694,6 @@
     "id": "ozu"
   },
   {
-    "hiragana": ["ぱっぱっ"],
-    "romaji": ["pa pa"],
-    "katakana": ["パッパッ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "pa:3",
-      "meaning": "s",
-      "type": "",
-      "example": [{
-        "file": "pa pa-1a",
-        "contributor": "",
-        "display": "パッ パッ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
-    }],
-    "id": "pa pa"
-  },
-  {
     "hiragana": [
       "ぱ",
       "ぱっ",
@@ -17580,7 +17703,10 @@
       "ぱぁっ",
       "ぱああ"
     ],
-    "romaji": ["pa"],
+    "romaji": [
+      "pa",
+      "pa pa"
+    ],
     "katakana": [
       "パ",
       "パッ",
@@ -17641,12 +17767,20 @@
         "refer": "",
         "meaning": "suddenly expressing happiness or excitement",
         "type": "s",
-        "example": [{
-          "file": "pa-2a",
-          "contributor": "",
-          "display": "パアア",
-          "source": "reincarnated_farm_girl"
-        }]
+        "example": [
+          {
+            "file": "pa-2a",
+            "contributor": "",
+            "display": "パアア",
+            "source": "reincarnated_farm_girl"
+          },
+          {
+            "file": "pa-2b",
+            "contributor": "",
+            "display": "ぱっ",
+            "source": "unattainable_prince"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -17666,11 +17800,36 @@
         "refer": "",
         "meaning": "small or light impact",
         "type": "o",
+        "example": [
+          {
+            "file": "pa-3a",
+            "contributor": "",
+            "display": "パッ",
+            "source": "minimum_wage_demon_king"
+          },
+          {
+            "file": "pa-3b",
+            "contributor": "",
+            "display": "パッ パッ",
+            "source": "kuma_kuma_kuma_bear"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "let go",
+          "open",
+          "release",
+          "separate"
+        ],
+        "refer": "",
+        "meaning": "releasing or opening the hand or fingers",
+        "type": "m",
         "example": [{
-          "file": "pa-3a",
+          "file": "pa-4a",
           "contributor": "",
           "display": "パッ",
-          "source": "minimum_wage_demon_king"
+          "source": "unattainable_prince"
         }]
       }
     ],
@@ -18189,12 +18348,20 @@
         "refer": "para:1",
         "meaning": "",
         "type": "",
-        "example": [{
-          "file": "para para-2a",
-          "contributor": "",
-          "display": "パラ パラ",
-          "source": "sex_with_me_sells"
-        }]
+        "example": [
+          {
+            "file": "para para-2a",
+            "contributor": "",
+            "display": "パラ パラ",
+            "source": "sex_with_me_sells"
+          },
+          {
+            "file": "para para-2b",
+            "contributor": "",
+            "display": "パラ パラ",
+            "source": "unattainable_prince"
+          }
+        ]
       }
     ],
     "id": "para para"
@@ -18256,14 +18423,21 @@
       "ぱさ",
       "ぱさぁ",
       "ぱさっ",
-      "ぱさぁっ"
+      "ぱさぁっ",
+      "ぱさぱさ",
+      "ぱさぱさぱさ"
     ],
-    "romaji": ["pasa"],
+    "romaji": [
+      "pasa",
+      "pasa pasa"
+    ],
     "katakana": [
       "パサ",
       "パサァ",
       "パサッ",
-      "パサァッ"
+      "パサァッ",
+      "パサパサ",
+      "パサパサパサ"
     ],
     "definition": [{
       "equivalent": [
@@ -18296,6 +18470,12 @@
           "contributor": "",
           "display": "ぱさっ",
           "source": "yojo_life"
+        },
+        {
+          "file": "pasa-1d",
+          "contributor": "",
+          "display": "パサ パサ",
+          "source": "unattainable_prince"
         }
       ]
     }],
@@ -18600,6 +18780,12 @@
             "contributor": "",
             "display": "パタン",
             "source": "ai_and_izawa"
+          },
+          {
+            "file": "patan-1d",
+            "contributor": "",
+            "display": "パタンッ",
+            "source": "unattainable_prince"
           }
         ]
       },
@@ -24106,6 +24292,12 @@
             "contributor": "",
             "display": "すとん",
             "source": "uncle_at_heart"
+          },
+          {
+            "file": "suton-1c",
+            "contributor": "",
+            "display": "ストン..",
+            "source": "unattainable_prince"
           }
         ]
       },
@@ -24288,6 +24480,39 @@
       }]
     }],
     "id": "tapun"
+  },
+  {
+    "hiragana": [
+      "たら",
+      "たらたら"
+    ],
+    "romaji": [
+      "tara",
+      "tara tara"
+    ],
+    "katakana": [
+      "タラ",
+      "タラタラ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "drip",
+        "drop",
+        "sweat",
+        "tears",
+        "trickle"
+      ],
+      "refer": "",
+      "meaning": "liquid dripping or trickling, often used to indicate sweating",
+      "type": "s",
+      "example": [{
+        "file": "tara-1a",
+        "contributor": "",
+        "display": "たら たら たら",
+        "source": "unattainable_prince"
+      }]
+    }],
+    "id": "tara"
   },
   {
     "hiragana": [
@@ -24927,12 +25152,7 @@
     "romaji": ["topu topu"],
     "katakana": ["トプトプ"],
     "definition": [{
-      "equivalent": [
-        "glug",
-        "pour",
-        "slosh",
-        "trickle"
-      ],
+      "equivalent": [""],
       "refer": "toku toku:1",
       "meaning": "",
       "type": "",
@@ -24944,6 +25164,31 @@
       }]
     }],
     "id": "topu topu"
+  },
+  {
+    "hiragana": ["とぷん"],
+    "romaji": ["topun"],
+    "katakana": ["トプン"],
+    "definition": [{
+      "equivalent": [
+        "blub",
+        "drip",
+        "flow",
+        "fwup",
+        "plop",
+        "slosh"
+      ],
+      "refer": "",
+      "meaning": "soft, light sound of moving or bubbling liquid",
+      "type": "o",
+      "example": [{
+        "file": "topun-1a",
+        "contributor": "",
+        "display": "トプン",
+        "source": "madoka_magica_wraith_arc"
+      }]
+    }],
+    "id": "topun"
   },
   {
     "hiragana": [
@@ -25048,12 +25293,20 @@
       "refer": "",
       "meaning": "a soft fall or landing",
       "type": "o",
-      "example": [{
-        "file": "tosa-1a",
-        "contributor": "",
-        "display": "トサッ",
-        "source": "kuma_kuma_kuma_bear"
-      }]
+      "example": [
+        {
+          "file": "tosa-1a",
+          "contributor": "",
+          "display": "トサッ",
+          "source": "kuma_kuma_kuma_bear"
+        },
+        {
+          "file": "tosa-1b",
+          "contributor": "",
+          "display": "トサ",
+          "source": "madoka_magica_wraith_arc"
+        }
+      ]
     }],
     "id": "tosa"
   },
@@ -25197,7 +25450,10 @@
   },
   {
     "hiragana": ["つんつん"],
-    "romaji": ["tsun tsun"],
+    "romaji": [
+      "tsun",
+      "tsun tsun"
+    ],
     "katakana": ["ツンツン"],
     "definition": [{
       "equivalent": [
@@ -25217,32 +25473,38 @@
       "type": "m",
       "example": [
         {
-          "file": "tsun tsun-1a",
+          "file": "tsun-1a",
           "contributor": "",
           "display": "つん つん",
           "source": "d_genesis"
         },
         {
-          "file": "tsun tsun-1b",
+          "file": "tsun-1b",
           "contributor": "",
           "display": "ツンツン",
           "source": "simple_sword_saint"
         },
         {
-          "file": "tsun tsun-1c",
+          "file": "tsun-1c",
           "contributor": "",
           "display": "つん つん",
           "source": "hone_dragon"
         },
         {
-          "file": "tsun tsun-1d",
+          "file": "tsun-1d",
           "contributor": "",
           "display": "ツン ツン",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "tsun-1e",
+          "contributor": "",
+          "display": "つん",
+          "source": "unattainable_prince"
         }
       ]
     }],
-    "id": "tsun tsun"
+    "id": "tsun"
   },
   {
     "hiragana": [
