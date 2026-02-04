@@ -3790,7 +3790,7 @@
           "file": "chira-1c",
           "contributor": "",
           "display": "チラッ",
-          "source": "kuma_kuma_kuma_bear"
+          "source": "princess_to_knight"
         }
       ]
     }],
@@ -6041,6 +6041,12 @@
           "contributor": "",
           "display": "ふああ\u2026",
           "source": "world_full_of_monsters"
+        },
+        {
+          "file": "fua-1d",
+          "contributor": "",
+          "display": "フアー",
+          "source": "princess_to_knight"
         }
       ]
     }],
@@ -7095,12 +7101,17 @@
   {
     "hiragana": [
       "がこん",
-      "がこんっ"
+      "がこんっ",
+      "がこんがこん"
     ],
-    "romaji": ["gakon"],
+    "romaji": [
+      "gakon",
+      "gakon gakon"
+    ],
     "katakana": [
       "ガコン",
-      "ガコンッ"
+      "ガコンッ",
+      "ガコンガコン"
     ],
     "definition": [{
       "equivalent": [
@@ -7134,6 +7145,12 @@
           "contributor": "",
           "display": "ガコン",
           "source": "dog_became_strongest"
+        },
+        {
+          "file": "gakon-1d",
+          "contributor": "",
+          "display": "ガコン ガコン",
+          "source": "princess_to_knight"
         }
       ]
     }],
@@ -11026,11 +11043,13 @@
   },
   {
     "hiragana": [
+      "ひん",
       "ひんひん",
       "ひんひんひん"
     ],
     "romaji": ["hin hin"],
     "katakana": [
+      "ヒン",
       "ヒンヒン",
       "ヒンヒンヒン"
     ],
@@ -11046,14 +11065,22 @@
       "refer": "",
       "meaning": "whispering or gossiping quietly, often furtively",
       "type": "v",
-      "example": [{
-        "file": "hin hin-1a",
-        "contributor": "",
-        "display": "ヒン ヒン ヒン",
-        "source": "only_sweet_when_alone"
-      }]
+      "example": [
+        {
+          "file": "hin-1a",
+          "contributor": "",
+          "display": "ヒン ヒン ヒン",
+          "source": "only_sweet_when_alone"
+        },
+        {
+          "file": "hin-1b",
+          "contributor": "",
+          "display": "ヒン ヒン",
+          "source": "princess_to_knight"
+        }
+      ]
     }],
-    "id": "hin hin"
+    "id": "hin"
   },
   {
     "hiragana": [
@@ -15739,9 +15766,15 @@
     "id": "maki maki"
   },
   {
-    "hiragana": ["めきゃ"],
+    "hiragana": [
+      "めきゃ",
+      "めきゃっ"
+    ],
     "romaji": ["mekya"],
-    "katakana": ["メキャ"],
+    "katakana": [
+      "メキャ",
+      "メキャッ"
+    ],
     "definition": [{
       "equivalent": [
         "crack",
@@ -15755,12 +15788,20 @@
       "refer": "",
       "meaning": "sharp cracking or splintering sound",
       "type": "o",
-      "example": [{
-        "file": "mekya-1a",
-        "contributor": "",
-        "display": "メキャ",
-        "source": "minimum_wage_demon_king"
-      }]
+      "example": [
+        {
+          "file": "mekya-1a",
+          "contributor": "",
+          "display": "メキャ",
+          "source": "minimum_wage_demon_king"
+        },
+        {
+          "file": "mekya-1b",
+          "contributor": "",
+          "display": "メキャッ",
+          "source": "princess_to_knight"
+        }
+      ]
     }],
     "id": "mekya"
   },
@@ -18450,7 +18491,7 @@
         "swish"
       ],
       "refer": "",
-      "meaning": "light movement of soft material",
+      "meaning": "light movement of soft material or paper",
       "type": "m",
       "example": [
         {
@@ -20530,6 +20571,35 @@
       }]
     }],
     "id": "pochan"
+  },
+  {
+    "hiragana": [
+      "ぽち",
+      "ぽちぽち"
+    ],
+    "romaji": ["pochi"],
+    "katakana": [
+      "ポチ",
+      "ポチポチ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "clack",
+        "click",
+        "tap",
+        "tick"
+      ],
+      "refer": "",
+      "meaning": "light tapping or clicking",
+      "type": "o",
+      "example": [{
+        "file": "pochi-1a",
+        "contributor": "",
+        "display": "ポチ ポチ",
+        "source": "princess_to_knight"
+      }]
+    }],
+    "id": "pochi"
   },
   {
     "hiragana": [
@@ -25439,14 +25509,22 @@
       "refer": "",
       "meaning": "brisk and determined stride, often confrontational",
       "type": "m",
-      "example": [{
-        "file": "tsuka tsuka-1a",
-        "contributor": "",
-        "display": "つか つか つか つか つか",
-        "source": "requiem_for_prophet"
-      }]
+      "example": [
+        {
+          "file": "tsuka-1a",
+          "contributor": "",
+          "display": "つか つか つか つか つか",
+          "source": "requiem_for_prophet"
+        },
+        {
+          "file": "tsuka-1b",
+          "contributor": "",
+          "display": "ツカ ツカ ツカ ツカ",
+          "source": "princess_to_knight"
+        }
+      ]
     }],
-    "id": "tsuka tsuka"
+    "id": "tsuka"
   },
   {
     "hiragana": ["つんつん"],
@@ -26248,6 +26326,30 @@
       }]
     }],
     "id": "vu"
+  },
+  {
+    "hiragana": [
+      "わは",
+      "わはは"
+    ],
+    "romaji": ["wa ha"],
+    "katakana": [
+      "ワハ",
+      "ワハハ"
+    ],
+    "definition": [{
+      "equivalent": ["wa ha"],
+      "refer": "ha ha:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "wa ha-1a",
+        "contributor": "",
+        "display": "わはは",
+        "source": "princess_to_knight"
+      }]
+    }],
+    "id": "wa ha"
   },
   {
     "hiragana": [
@@ -28580,21 +28682,32 @@
     "definition": [{
       "equivalent": [
         "arranged",
+        "assembled",
+        "clustered",
         "column",
+        "gathered",
         "lined up",
         "procession",
         "queued",
-        "train"
+        "surrounded"
       ],
       "refer": "",
-      "meaning": "lined up in neat succession",
+      "meaning": "arranged in a row or a cluster",
       "type": "s",
-      "example": [{
-        "file": "zura-1a",
-        "contributor": "",
-        "display": "ズラー\u2026",
-        "source": "reincarnated_aristocrat"
-      }]
+      "example": [
+        {
+          "file": "zura-1a",
+          "contributor": "",
+          "display": "ズラー\u2026",
+          "source": "reincarnated_aristocrat"
+        },
+        {
+          "file": "zura-1b",
+          "contributor": "",
+          "display": "ずらっ",
+          "source": "princess_to_knight"
+        }
+      ]
     }],
     "id": "zura"
   },
