@@ -1167,7 +1167,7 @@
         "tear"
       ],
       "refer": "",
-      "meaning": "peeling or tearing something away",
+      "meaning": "strong peeling or tearing sound",
       "type": "o",
       "example": [{
         "file": "beri beri-1a",
@@ -2491,6 +2491,7 @@
   {
     "hiragana": [
       "ぶぶ",
+      "ぶぶっ",
       "ぶっぶっ",
       "ぶーぶー",
       "ぶーっぶーっ"
@@ -2498,6 +2499,7 @@
     "romaji": ["bu bu"],
     "katakana": [
       "ブブ",
+      "ブブッ",
       "ブッブッ",
       "ブーブー",
       "ブーッブーッ"
@@ -2508,14 +2510,22 @@
         "buzz"
       ],
       "refer": "",
-      "meaning": "a low-pitched beeping or buzzing",
+      "meaning": "a low-pitched buzzing or rumbling",
       "type": "o",
-      "example": [{
-        "file": "bu bu-1a",
-        "contributor": "",
-        "display": "ブー ブー",
-        "source": "neet_kunoichi"
-      }]
+      "example": [
+        {
+          "file": "bu bu-1a",
+          "contributor": "",
+          "display": "ブー ブー",
+          "source": "neet_kunoichi"
+        },
+        {
+          "file": "bu bu-1b",
+          "contributor": "",
+          "display": "ブブッ",
+          "source": "sakuya_is_too_sweet"
+        }
+      ]
     }],
     "id": "bu bu"
   },
@@ -5692,6 +5702,38 @@
   },
   {
     "hiragana": [
+      "えん",
+      "えーん"
+    ],
+    "romaji": ["en"],
+    "katakana": [
+      "エン",
+      "エーン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "bawl",
+        "cry",
+        "keen",
+        "shriek",
+        "squall",
+        "waah",
+        "wail"
+      ],
+      "refer": "",
+      "meaning": "exaggerated or childlike crying",
+      "type": "v",
+      "example": [{
+        "file": "en-1a",
+        "contributor": "",
+        "display": "エーン",
+        "source": "sakuya_is_too_sweet"
+      }]
+    }],
+    "id": "en"
+  },
+  {
+    "hiragana": [
       "ふぁさ",
       "ふぁさっ",
       "ふぁさぁぁ",
@@ -6208,9 +6250,18 @@
     "id": "fun"
   },
   {
-    "hiragana": ["ふに"],
-    "romaji": ["funi"],
-    "katakana": ["フニ"],
+    "hiragana": [
+      "ふに",
+      "ふにふに"
+    ],
+    "romaji": [
+      "funi",
+      "funi funi"
+    ],
+    "katakana": [
+      "フニ",
+      "フニフニ"
+    ],
     "definition": [{
       "equivalent": [
         "fluffy",
@@ -6235,7 +6286,7 @@
         {
           "file": "funi-1b",
           "contributor": "",
-          "display": "ふに",
+          "display": "ふに ふに",
           "source": "cheat_pharmacist"
         },
         {
@@ -7314,14 +7365,18 @@
       "がん",
       "がんっ",
       "がぉん",
-      "がぉんっ"
+      "がぉんっ",
+      "がーん",
+      "がーんっ"
     ],
     "romaji": ["gan"],
     "katakana": [
       "ガン",
       "ガンッ",
       "ガォン",
-      "ガォンッ"
+      "ガォンッ",
+      "ガーン",
+      "ガーンッ"
     ],
     "definition": [
       {
@@ -7382,12 +7437,20 @@
         "refer": "",
         "meaning": "a sudden shock of realization or surprise",
         "type": "e",
-        "example": [{
-          "file": "gan-2a",
-          "contributor": "",
-          "display": "ガンッ",
-          "source": "yojo_life"
-        }]
+        "example": [
+          {
+            "file": "gan-2a",
+            "contributor": "",
+            "display": "ガンッ",
+            "source": "yojo_life"
+          },
+          {
+            "file": "gan-2b",
+            "contributor": "",
+            "display": "ガーン",
+            "source": "sakuya_is_too_sweet"
+          }
+        ]
       }
     ],
     "id": "gan"
@@ -7757,12 +7820,20 @@
       "refer": "",
       "meaning": "rubbing or scratching motion, typically vigorous or rough",
       "type": "m",
-      "example": [{
-        "file": "gashi gashi-1a",
-        "contributor": "",
-        "display": "がし がし",
-        "source": "mushoku_tensei"
-      }]
+      "example": [
+        {
+          "file": "gashi gashi-1a",
+          "contributor": "",
+          "display": "がし がし",
+          "source": "mushoku_tensei"
+        },
+        {
+          "file": "gashi gashi-1b",
+          "contributor": "",
+          "display": "ガシ ガシ",
+          "source": "sakuya_is_too_sweet"
+        }
+      ]
     }],
     "id": "gashi gashi"
   },
@@ -11458,8 +11529,8 @@
           {
             "file": "hyoi-1b",
             "contributor": "",
-            "display": "ヒョイ",
-            "source": "isekai_sniper"
+            "display": "ひょいっ",
+            "source": "sakuya_is_too_sweet"
           }
         ]
       },
@@ -15417,7 +15488,7 @@
         "view"
       ],
       "refer": "",
-      "meaning": "quick glancing around, often curiously",
+      "meaning": "look around quickly",
       "type": "m",
       "example": [
         {
@@ -17393,7 +17464,10 @@
       "ぬるん",
       "ぬるんっ"
     ],
-    "romaji": ["nurun"],
+    "romaji": [
+      "nuru",
+      "nurun"
+    ],
     "katakana": [
       "ヌルン",
       "ヌルンッ"
@@ -17404,19 +17478,28 @@
         "shlup",
         "slick",
         "slimy",
-        "slippery"
+        "slippery",
+        "wet"
       ],
       "refer": "",
-      "meaning": "a smooth or slippery sensation",
+      "meaning": "wet, slick, or slippery texture/sensation",
       "type": "s",
-      "example": [{
-        "file": "nurun-1a",
-        "contributor": "",
-        "display": "ぬるんっ",
-        "source": "isekai_av_filming"
-      }]
+      "example": [
+        {
+          "file": "nuru nurun-1a",
+          "contributor": "",
+          "display": "ぬるんっ",
+          "source": "isekai_av_filming"
+        },
+        {
+          "file": "nuru nurun-1b",
+          "contributor": "",
+          "display": "ぬる\u2026",
+          "source": "sakuya_is_too_sweet"
+        }
+      ]
     }],
-    "id": "nurun"
+    "id": "nuru nurun"
   },
   {
     "hiragana": [
@@ -17670,6 +17753,37 @@
       }]
     }],
     "id": "ohon"
+  },
+  {
+    "hiragana": [
+      "おい",
+      "おいおい"
+    ],
+    "romaji": [
+      "oi",
+      "oi oi"
+    ],
+    "katakana": [
+      "オイ",
+      "オイオイ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "come on!",
+        "hey!",
+        "oi!"
+      ],
+      "refer": "",
+      "meaning": "a verbal interjection (technically, this is dialog)",
+      "type": "v",
+      "example": [{
+        "file": "oi-1a",
+        "contributor": "",
+        "display": "オイ オイ",
+        "source": "sakuya_is_too_sweet"
+      }]
+    }],
+    "id": "oi"
   },
   {
     "hiragana": ["おろおろ"],
@@ -19126,26 +19240,47 @@
       "ペラ",
       "ペラッ"
     ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "para:1",
-      "meaning": "",
-      "type": "",
-      "example": [
-        {
-          "file": "pera-1a",
+    "definition": [
+      {
+        "equivalent": [""],
+        "refer": "para:1",
+        "meaning": "",
+        "type": "",
+        "example": [
+          {
+            "file": "pera-1a",
+            "contributor": "",
+            "display": "ペラ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "pera-1b",
+            "contributor": "",
+            "display": "ペラッ",
+            "source": "otherworld_material_collector"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "peel",
+          "remove",
+          "rip",
+          "strip off",
+          "tear",
+          "uncover"
+        ],
+        "refer": "",
+        "meaning": "thin material peeled or lifted lightly",
+        "type": "s",
+        "example": [{
+          "file": "pera-2a",
           "contributor": "",
           "display": "ペラ",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "pera-1b",
-          "contributor": "",
-          "display": "ペラッ",
-          "source": "otherworld_material_collector"
-        }
-      ]
-    }],
+          "source": "sakuya_is_too_sweet"
+        }]
+      }
+    ],
     "id": "pera"
   },
   {
@@ -19413,12 +19548,23 @@
   {
     "hiragana": [
       "ぴ",
-      "ぴっ"
+      "ぴぴ",
+      "ぴぴぴ",
+      "ぴっ",
+      "ぴっぴっ",
+      "ぴっぴっぴっ"
     ],
-    "romaji": ["pi"],
+    "romaji": [
+      "pi",
+      "pi pi"
+    ],
     "katakana": [
       "ピ",
-      "ピッ"
+      "ピピ",
+      "ピピピ",
+      "ピッ",
+      "ピッピッ",
+      "ピッピッピッ"
     ],
     "definition": [
       {
@@ -19431,7 +19577,7 @@
           "ping"
         ],
         "refer": "",
-        "meaning": "a short, sharp beeping sound",
+        "meaning": "short, sharp chirping or beeping sound, usually high-pitched",
         "type": "o",
         "example": [
           {
@@ -19451,6 +19597,24 @@
             "contributor": "",
             "display": "ピッ",
             "source": "way_of_isekai_cooking"
+          },
+          {
+            "file": "pi-1d",
+            "contributor": "",
+            "display": "ぴぴぴ",
+            "source": "my_s-ranked_daughter"
+          },
+          {
+            "file": "pi-1e",
+            "contributor": "",
+            "display": "ピッ ピッ ピッ ピッ ピッ ピッ ピッ",
+            "source": "ai_and_izawa"
+          },
+          {
+            "file": "pi-1f",
+            "contributor": "",
+            "display": "ピピピ ピピ",
+            "source": "sakuya_is_too_sweet"
           }
         ]
       },
@@ -19761,13 +19925,7 @@
     "romaji": ["piko piko"],
     "katakana": ["ピコピコ"],
     "definition": [{
-      "equivalent": [
-        "ba-ding",
-        "beep",
-        "bing",
-        "ding",
-        "ping"
-      ],
+      "equivalent": [""],
       "refer": "pikon:1",
       "meaning": "s",
       "type": "",
@@ -19813,17 +19971,23 @@
   {
     "hiragana": [
       "ぴこん",
-      "ぴこーん"
+      "ぴこーん",
+      "ぴこんぴこん"
     ],
-    "romaji": ["pikon"],
+    "romaji": [
+      "pikon",
+      "pikon pikon"
+    ],
     "katakana": [
       "ピコン",
-      "ピコーン"
+      "ピコーン",
+      "ピコンピコン"
     ],
     "definition": [
       {
         "equivalent": [
           "ba-ding",
+          "beep",
           "bing",
           "chime",
           "ding",
@@ -19832,14 +19996,22 @@
           "ring"
         ],
         "refer": "",
-        "meaning": "electronic chime or beep sound",
+        "meaning": "electronic chime or beeping sound",
         "type": "o",
-        "example": [{
-          "file": "pikon-1a",
-          "contributor": "",
-          "display": "ピコン",
-          "source": "different_world_smartphone"
-        }]
+        "example": [
+          {
+            "file": "pikon-1a",
+            "contributor": "",
+            "display": "ピコン",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "pikon-1b",
+            "contributor": "",
+            "display": "ピコン ピコン",
+            "source": "sakuya_is_too_sweet"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -19873,46 +20045,33 @@
     "id": "pikon"
   },
   {
-    "hiragana": ["ぴくぴく"],
-    "romaji": ["piku piku"],
-    "katakana": ["ピクピク"],
-    "definition": [{
-      "equivalent": [
-        "flinch",
-        "jerk",
-        "quiver",
-        "shake",
-        "twitch",
-        "wince"
-      ],
-      "refer": "",
-      "meaning": "jerky movements or twitches",
-      "type": "m",
-      "example": [{
-        "file": "piku piku-1a",
-        "contributor": "",
-        "display": "ピク ピク",
-        "source": "kuma_kuma_kuma_bear"
-      }]
-    }],
-    "id": "piku piku"
-  },
-  {
     "hiragana": [
       "ぴく",
-      "ぴくっ"
+      "ぴくっ",
+      "ぴくん",
+      "ぴくんっ",
+      "ぴくぴく"
     ],
-    "romaji": ["piku"],
+    "romaji": [
+      "piku",
+      "pikun",
+      "piku piku"
+    ],
     "katakana": [
       "ピク",
-      "ピクッ"
+      "ピクッ",
+      "ピクン",
+      "ピクンッ",
+      "ピクピク"
     ],
     "definition": [
       {
         "equivalent": [
           "cringe",
           "flinch",
+          "jerk",
           "quail",
+          "quiver",
           "recoil",
           "twitch",
           "wince"
@@ -19922,22 +20081,34 @@
         "type": "m",
         "example": [
           {
-            "file": "piku-1a",
+            "file": "piku pikun-1a",
             "contributor": "",
             "display": "ぴくっ",
             "source": "d_genesis"
           },
           {
-            "file": "piku-1b",
+            "file": "piku pikun-1b",
             "contributor": "",
             "display": "ピクッ",
             "source": "world_full_of_monsters"
           },
           {
-            "file": "piku-1c",
+            "file": "piku pikun-1c",
             "contributor": "",
             "display": "ピク",
             "source": "fushi_no_kami"
+          },
+          {
+            "file": "piku pikun-1d",
+            "contributor": "",
+            "display": "ぴくんっ",
+            "source": "sakuya_is_too_sweet"
+          },
+          {
+            "file": "piku pikun-1e",
+            "contributor": "",
+            "display": "ピク ピク",
+            "source": "kuma_kuma_kuma_bear"
           }
         ]
       },
@@ -19956,7 +20127,7 @@
         "meaning": "a restrained, deliberate motion",
         "type": "m",
         "example": [{
-          "file": "piku-2a",
+          "file": "piku pikun-2a",
           "contributor": "",
           "display": "ピク",
           "source": "d_genesis"
@@ -19973,14 +20144,14 @@
         "meaning": "a tired blink or squint",
         "type": "m",
         "example": [{
-          "file": "piku-3a",
+          "file": "piku pikun-3a",
           "contributor": "",
           "display": "ぴく",
           "source": "s_rank_behemoth"
         }]
       }
     ],
-    "id": "piku"
+    "id": "piku pikun"
   },
   {
     "hiragana": [
@@ -20112,51 +20283,6 @@
       }
     ],
     "id": "pin"
-  },
-  {
-    "hiragana": [
-      "ぴぴ",
-      "ぴぴぴ",
-      "ぴっぴっ",
-      "ぴっぴっぴっ"
-    ],
-    "romaji": ["pipi"],
-    "katakana": [
-      "ピピ",
-      "ピピピ",
-      "ピッピッ",
-      "ピッピッピッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "beep",
-        "cheep",
-        "chirp",
-        "ding",
-        "peep",
-        "ping",
-        "pip",
-        "tweet"
-      ],
-      "refer": "",
-      "meaning": "quick, high-pitched chirps or tones",
-      "type": "o",
-      "example": [
-        {
-          "file": "pipi-1a",
-          "contributor": "",
-          "display": "ぴぴぴ",
-          "source": "my_s-ranked_daughter"
-        },
-        {
-          "file": "pipi-1b",
-          "contributor": "",
-          "display": "ピッ ピッ ピッ ピッ ピッ ピッ ピッ",
-          "source": "ai_and_izawa"
-        }
-      ]
-    }],
-    "id": "pipi"
   },
   {
     "hiragana": [
@@ -23145,6 +23271,37 @@
   },
   {
     "hiragana": [
+      "しゅぼ",
+      "しゅぼっ"
+    ],
+    "romaji": ["shubo"],
+    "katakana": [
+      "シュボ",
+      "シュボッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "foosh",
+        "fwip",
+        "fwoosh",
+        "ignite",
+        "light",
+        "shoonk"
+      ],
+      "refer": "",
+      "meaning": "a small burst of flame, typically from a lighter or stove",
+      "type": "o",
+      "example": [{
+        "file": "shubo-1a",
+        "contributor": "",
+        "display": "シュボッ",
+        "source": "sakuya_is_too_sweet"
+      }]
+    }],
+    "id": "shubo"
+  },
+  {
+    "hiragana": [
       "しゅん",
       "しゅんっ",
       "しゅーんっ"
@@ -24088,6 +24245,12 @@
         },
         {
           "file": "suri-1b",
+          "contributor": "",
+          "display": "スリ\u2026",
+          "source": "sakuya_is_too_sweet"
+        },
+        {
+          "file": "suri-1c",
           "contributor": "",
           "display": "スリ スリ",
           "source": "only_sweet_when_alone"
@@ -25087,12 +25250,20 @@
         "refer": "ton:1",
         "meaning": "s",
         "type": "",
-        "example": [{
-          "file": "ton ton-1a",
-          "contributor": "",
-          "display": "トン トン",
-          "source": "hello_work"
-        }]
+        "example": [
+          {
+            "file": "ton ton-1a",
+            "contributor": "",
+            "display": "トン トン",
+            "source": "hello_work"
+          },
+          {
+            "file": "ton ton-1b",
+            "contributor": "",
+            "display": "トン トン",
+            "source": "sakuya_is_too_sweet"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -28712,9 +28883,24 @@
     "id": "zura"
   },
   {
-    "hiragana": ["ずりずり"],
-    "romaji": ["zuri zuri"],
-    "katakana": ["ズリズリ"],
+    "hiragana": [
+      "ずり",
+      "ずる",
+      "ずりずり",
+      "ずるずる"
+    ],
+    "romaji": [
+      "zuri",
+      "zuri zuri",
+      "zuru",
+      "zuru zuru"
+    ],
+    "katakana": [
+      "ズリ",
+      "ズル",
+      "ズリズリ",
+      "ズルズル"
+    ],
     "definition": [{
       "equivalent": [
         "drag",
@@ -28734,82 +28920,44 @@
       "type": "m",
       "example": [
         {
-          "file": "zuri zuri-1a",
-          "contributor": "",
-          "display": "ズリズリ\u2026",
-          "source": "abandoned_reincarnation_sage"
-        },
-        {
-          "file": "zuri zuri-1b",
-          "contributor": "",
-          "display": "ズリ ズリ",
-          "source": "hone_dragon"
-        },
-        {
-          "file": "zuri zuri-1c",
-          "contributor": "",
-          "display": "ズリ ズリ",
-          "source": "simple_sword_saint"
-        }
-      ]
-    }],
-    "id": "zuri zuri"
-  },
-  {
-    "hiragana": [
-      "ずるずる",
-      "ずるずるっ"
-    ],
-    "romaji": ["zuru zuru"],
-    "katakana": [
-      "ズルズル",
-      "ズルズルッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "zuri zuri:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "zuru zuru-1a",
-        "contributor": "",
-        "display": "ずるずる",
-        "source": "saga_lagging_hero"
-      }]
-    }],
-    "id": "zuru zuru"
-  },
-  {
-    "hiragana": [
-      "ずる",
-      "ずるっ"
-    ],
-    "romaji": ["zuru"],
-    "katakana": [
-      "ズル",
-      "ズルッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "zuri zuri:1",
-      "meaning": "",
-      "type": "",
-      "example": [
-        {
-          "file": "zuru-1a",
+          "file": "zuri zuru-1a",
           "contributor": "",
           "display": "ズル\u2026",
           "source": "d_genesis"
         },
         {
-          "file": "zuru-1b",
+          "file": "zuri zuru-1b",
           "contributor": "",
           "display": "ズル..",
           "source": "buy_the_land"
+        },
+        {
+          "file": "zuri zuru-1c",
+          "contributor": "",
+          "display": "ズリズリ\u2026",
+          "source": "abandoned_reincarnation_sage"
+        },
+        {
+          "file": "zuri zuru-1d",
+          "contributor": "",
+          "display": "ズリ ズリ",
+          "source": "hone_dragon"
+        },
+        {
+          "file": "zuri zuru-1e",
+          "contributor": "",
+          "display": "ズリ ズリ",
+          "source": "simple_sword_saint"
+        },
+        {
+          "file": "zuri zuru-1f",
+          "contributor": "",
+          "display": "ずる ずる",
+          "source": "saga_lagging_hero"
         }
       ]
     }],
-    "id": "zuru"
+    "id": "zuri zuru"
   },
   {
     "hiragana": [
@@ -28843,14 +28991,14 @@
       },
       {
         "equivalent": [""],
-        "refer": "zuri zuri:1",
+        "refer": "zuri zuru:1",
         "meaning": "",
         "type": "",
         "example": [{
           "file": "zururu-2a",
           "contributor": "",
-          "display": "ズルル..",
-          "source": "paradise_shift"
+          "display": "ズルル\u2026.",
+          "source": "sakuya_is_too_sweet"
         }]
       }
     ],
