@@ -5726,7 +5726,7 @@
       "example": [{
         "file": "en-1a",
         "contributor": "",
-        "display": "エーン",
+        "display": "えーん",
         "source": "sakuya_is_too_sweet"
       }]
     }],
@@ -17488,14 +17488,14 @@
         {
           "file": "nuru nurun-1a",
           "contributor": "",
-          "display": "ぬるんっ",
-          "source": "isekai_av_filming"
+          "display": "ぬる\u2026",
+          "source": "sakuya_is_too_sweet"
         },
         {
           "file": "nuru nurun-1b",
           "contributor": "",
-          "display": "ぬる\u2026",
-          "source": "sakuya_is_too_sweet"
+          "display": "ぬるんっ",
+          "source": "isekai_av_filming"
         }
       ]
     }],
