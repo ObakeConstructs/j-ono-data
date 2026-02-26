@@ -73,6 +73,17 @@
   },
 
   {
+    "publisher_name": "Asahi Shimbun Publications Inc.",
+    "site": "https://publications.asahi.com/",
+    "sources": [
+      {
+        "id": "room_203",
+        "manga": "203 Gōshitsu"
+      }
+    ]
+  },
+
+  {
     "publisher_name": "Coamix Inc.",
     "site": "https://www.coamix.co.jp",
     "sources": [
