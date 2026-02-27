@@ -1324,7 +1324,9 @@
     ],
     "romaji": [
       "bicha",
-      "bicha bicha"
+      "bichiya",
+      "bicha bicha",
+      "bichiya bichiya"
     ],
     "katakana": [
       "ビチャ",
@@ -13419,7 +13421,7 @@
         {
           "file": "kasa-1c",
           "contributor": "",
-          "display": "かさかさ",
+          "display": "かさ かさ",
           "source": "room_203"
         }
       ]
@@ -17162,7 +17164,7 @@
       "example": [{
         "file": "nicha-1a",
         "contributor": "",
-        "display": "ニチャ",
+        "display": "にちゃ",
         "source": "room_203"
       }]
     }],
