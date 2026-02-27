@@ -1115,7 +1115,7 @@
           "file": "batan-1a",
           "contributor": "",
           "display": "バタン",
-          "source": "different_world_smartphone"
+          "source": "room_203"
         },
         {
           "file": "batan-1b",
@@ -1317,14 +1317,21 @@
   {
     "hiragana": [
       "びちゃ",
+      "びちや",
+      "びちやっ",
       "びちゃっ",
-      "びちゃぁ"
+      "びちやびちや"
     ],
-    "romaji": ["bicha"],
+    "romaji": [
+      "bicha",
+      "bicha bicha"
+    ],
     "katakana": [
       "ビチャ",
+      "ビチヤ",
+      "ビチヤッ",
       "ビチャッ",
-      "ビチャァ"
+      "ビチヤビチヤ"
     ],
     "definition": [{
       "equivalent": [
@@ -1337,17 +1344,26 @@
         "splat",
         "splatter",
         "spray",
+        "squelch",
         "squirt"
       ],
       "refer": "",
-      "meaning": "a sound of splashing or splattering",
+      "meaning": "light-to-moderate splashing or splattering",
       "type": "o",
-      "example": [{
-        "file": "bicha-1a",
-        "contributor": "",
-        "display": "びちゃ",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "bicha-1a",
+          "contributor": "",
+          "display": "びちゃ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "bicha-1b",
+          "contributor": "",
+          "display": "びちや びちや",
+          "source": "room_203"
+        }
+      ]
     }],
     "id": "bicha"
   },
@@ -3801,6 +3817,12 @@
           "contributor": "",
           "display": "チラッ",
           "source": "princess_to_knight"
+        },
+        {
+          "file": "chira-1d",
+          "contributor": "",
+          "display": "ちら",
+          "source": "room_203"
         }
       ]
     }],
@@ -4156,6 +4178,35 @@
       ]
     }],
     "id": "da"
+  },
+  {
+    "hiragana": ["だばだば"],
+    "romaji": ["daba daba"],
+    "katakana": ["ダバダバ"],
+    "definition": [{
+      "equivalent": [
+        "gush",
+        "pour",
+        "slosh",
+        "spew",
+        "spill",
+        "splash",
+        "sploosh",
+        "sposh",
+        "spout",
+        "swash"
+      ],
+      "refer": "",
+      "meaning": "excessive dripping or splashing",
+      "type": "o",
+      "example": [{
+        "file": "daba-1a",
+        "contributor": "",
+        "display": "ダバ ダバ",
+        "source": "room_203"
+      }]
+    }],
+    "id": "daba"
   },
   {
     "hiragana": [
@@ -5311,6 +5362,7 @@
       {
         "equivalent": [
           "deposit",
+          "drop",
           "place",
           "plunk",
           "set",
@@ -5338,6 +5390,12 @@
             "contributor": "",
             "display": "ドサッ",
             "source": "otherworld_material_collector"
+          },
+          {
+            "file": "dosa-2d",
+            "contributor": "",
+            "display": "どさ",
+            "source": "room_203"
           }
         ]
       }
@@ -7656,12 +7714,14 @@
         "movement",
         "murmur",
         "rustle",
+        "scuttle",
+        "skitter",
         "stir",
         "swish",
         "whoosh"
       ],
       "refer": "",
-      "meaning": "irregular rustling or flapping, often of paper, cloth, or leaves",
+      "meaning": "irregular rustling, flapping, or skittering",
       "type": "o",
       "example": [
         {
@@ -7680,7 +7740,7 @@
           "file": "gasa-1c",
           "contributor": "",
           "display": "ガサッ",
-          "source": "a_rank_slow_life"
+          "source": "uncle_at_heart"
         },
         {
           "file": "gasa-1d",
@@ -9676,12 +9736,20 @@
         "refer": "",
         "meaning": "sleeping or unconscious",
         "type": "s",
-        "example": [{
-          "file": "gu-6a",
-          "contributor": "",
-          "display": "グー",
-          "source": "double_play"
-        }]
+        "example": [
+          {
+            "file": "gu-6a",
+            "contributor": "",
+            "display": "グー",
+            "source": "double_play"
+          },
+          {
+            "file": "gu-6b",
+            "contributor": "",
+            "display": "ぐううー",
+            "source": "room_203"
+          }
+        ]
       }
     ],
     "id": "gu"
@@ -9957,6 +10025,29 @@
       ]
     }],
     "id": "gura"
+  },
+  {
+    "hiragana": ["ぐりぐり"],
+    "romaji": ["guri"],
+    "katakana": ["グリグリ"],
+    "definition": [{
+      "equivalent": [
+        "intrusive",
+        "pressing",
+        "pushing",
+        "pushy"
+      ],
+      "refer": "",
+      "meaning": "pressing or pushing insistently",
+      "type": "s",
+      "example": [{
+        "file": "guri-1a",
+        "contributor": "",
+        "display": "ぐり ぐり ぐり",
+        "source": "room_203"
+      }]
+    }],
+    "id": "guri"
   },
   {
     "hiragana": [
@@ -13285,18 +13376,33 @@
   {
     "hiragana": [
       "かさ",
-      "かさっ"
+      "かさっ",
+      "かさかさ"
     ],
-    "romaji": ["kasa"],
+    "romaji": [
+      "kasa",
+      "kasa kasa"
+    ],
     "katakana": [
       "カサ",
-      "カサッ"
+      "カサッ",
+      "カサカサ"
     ],
     "definition": [{
-      "equivalent": [""],
-      "refer": "gasa:1",
-      "meaning": "",
-      "type": "",
+      "equivalent": [
+        "flap",
+        "movement",
+        "murmur",
+        "rustle",
+        "scuttle",
+        "skitter",
+        "stir",
+        "swish",
+        "whoosh"
+      ],
+      "refer": "",
+      "meaning": "dry, light rustling, flapping, or skittering",
+      "type": "o",
       "example": [
         {
           "file": "kasa-1a",
@@ -13313,8 +13419,8 @@
         {
           "file": "kasa-1c",
           "contributor": "",
-          "display": "カサッ",
-          "source": "uncle_at_heart"
+          "display": "かさかさ",
+          "source": "room_203"
         }
       ]
     }],
@@ -17028,6 +17134,41 @@
     "id": "ni"
   },
   {
+    "hiragana": [
+      "にちゃ",
+      "にちゃにちゃ"
+    ],
+    "romaji": [
+      "nicha",
+      "nicha nicha"
+    ],
+    "katakana": [
+      "ニチャ",
+      "ニチャニチャ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "mucky",
+        "ropy",
+        "slimy",
+        "squelch",
+        "sticky",
+        "viscous",
+        "yucky"
+      ],
+      "refer": "",
+      "meaning": "wet and sticky, typically unpleasant or a little gross",
+      "type": "s",
+      "example": [{
+        "file": "nicha-1a",
+        "contributor": "",
+        "display": "ニチャ",
+        "source": "room_203"
+      }]
+    }],
+    "id": "nicha"
+  },
+  {
     "hiragana": ["じゃるじゃる"],
     "romaji": ["nigiri nigiri"],
     "katakana": ["ニギリニギリ"],
@@ -19552,7 +19693,8 @@
       "ぴぴぴ",
       "ぴっ",
       "ぴっぴっ",
-      "ぴっぴっぴっ"
+      "ぴっぴっぴっ",
+      "ぴー"
     ],
     "romaji": [
       "pi",
@@ -19564,7 +19706,8 @@
       "ピピピ",
       "ピッ",
       "ピッピッ",
-      "ピッピッピッ"
+      "ピッピッピッ",
+      "ピー"
     ],
     "definition": [
       {
@@ -19577,7 +19720,7 @@
           "ping"
         ],
         "refer": "",
-        "meaning": "short, sharp chirping or beeping sound, usually high-pitched",
+        "meaning": "chirping or beeping sound, usually high-pitched",
         "type": "o",
         "example": [
           {
@@ -19615,6 +19758,12 @@
             "contributor": "",
             "display": "ピピピ ピピ",
             "source": "sakuya_is_too_sweet"
+          },
+          {
+            "file": "pi-1g",
+            "contributor": "",
+            "display": "ピー ピー",
+            "source": "room_203"
           }
         ]
       },
@@ -19731,6 +19880,30 @@
     "id": "pichi pichi"
   },
   {
+    "hiragana": ["ぴち"],
+    "romaji": ["pichi"],
+    "katakana": ["ピチ"],
+    "definition": [{
+      "equivalent": [
+        "spatter",
+        "splash",
+        "splat",
+        "splatter",
+        "splitch"
+      ],
+      "refer": "",
+      "meaning": "light wet splat",
+      "type": "o",
+      "example": [{
+        "file": "pichi-1a",
+        "contributor": "",
+        "display": "ぴち",
+        "source": "room_203"
+      }]
+    }],
+    "id": "pichi"
+  },
+  {
     "hiragana": [
       "ぴちょん",
       "ぴちょーん"
@@ -19745,12 +19918,20 @@
       "refer": "pichan:1",
       "meaning": "",
       "type": "",
-      "example": [{
-        "file": "pichon-1a",
-        "contributor": "",
-        "display": "ぴちょーん",
-        "source": "s_rank_behemoth"
-      }]
+      "example": [
+        {
+          "file": "pichon-1a",
+          "contributor": "",
+          "display": "ぴちょーん",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "pichon-1b",
+          "contributor": "",
+          "display": "ぴちょん",
+          "source": "room_203"
+        }
+      ]
     }],
     "id": "pichon"
   },
@@ -21813,33 +21994,55 @@
   {
     "hiragana": [
       "ぷん",
-      "ぷんっ"
+      "ぷんっ",
+      "ぷーん"
     ],
     "romaji": ["pun"],
     "katakana": [
       "プン",
-      "プンッ"
+      "プンッ",
+      "プーン"
     ],
-    "definition": [{
-      "equivalent": [
-        "angry",
-        "annoyed",
-        "indignant",
-        "irked",
-        "irritated",
-        "peeved",
-        "petulant"
-      ],
-      "refer": "",
-      "meaning": "a small emotional outburst, expressing mild anger or irritation",
-      "type": "e",
-      "example": [{
-        "file": "pun-1a",
-        "contributor": "",
-        "display": "ぷんっ",
-        "source": "isekai_territory_reform"
-      }]
-    }],
+    "definition": [
+      {
+        "equivalent": [
+          "angry",
+          "annoyed",
+          "indignant",
+          "irked",
+          "irritated",
+          "peeved",
+          "petulant"
+        ],
+        "refer": "",
+        "meaning": "a small emotional outburst, expressing mild anger or irritation",
+        "type": "e",
+        "example": [{
+          "file": "pun-1a",
+          "contributor": "",
+          "display": "ぷんっ",
+          "source": "isekai_territory_reform"
+        }]
+      },
+      {
+        "equivalent": [
+          "reek",
+          "rot",
+          "smell",
+          "stench",
+          "stink"
+        ],
+        "refer": "",
+        "meaning": "a bad or strong odor",
+        "type": "s",
+        "example": [{
+          "file": "pun-2a",
+          "contributor": "",
+          "display": "プーン",
+          "source": "room_203"
+        }]
+      }
+    ],
     "id": "pun"
   },
   {
@@ -22985,6 +23188,30 @@
       }]
     }],
     "id": "sharan"
+  },
+  {
+    "hiragana": ["しゃりしゃり"],
+    "romaji": ["shari"],
+    "katakana": ["シャリシャリ"],
+    "definition": [{
+      "equivalent": [
+        "chew",
+        "chomp",
+        "crunch",
+        "gnaw",
+        "munch"
+      ],
+      "refer": "",
+      "meaning": "a crisp or crunchy mouthfeel",
+      "type": "s",
+      "example": [{
+        "file": "shari-1a",
+        "contributor": "",
+        "display": "シャリ シャリ",
+        "source": "room_203"
+      }]
+    }],
+    "id": "shari"
   },
   {
     "hiragana": ["しっしっ"],
@@ -25613,13 +25840,19 @@
     "hiragana": [
       "つ",
       "つー",
-      "っ"
+      "っ",
+      "つう",
+      "つうー",
+      "つうーっ"
     ],
     "romaji": ["tsu"],
     "katakana": [
       "ツ",
       "ツー",
-      "ッ"
+      "ッ",
+      "ツウ",
+      "ツウー",
+      "ツウーッ"
     ],
     "definition": [
       {
@@ -25648,14 +25881,22 @@
           "trickle"
         ],
         "refer": "",
-        "meaning": "small droplet or tiny trickle",
+        "meaning": "small droplet or trickle",
         "type": "s",
-        "example": [{
-          "file": "tsu-2a",
-          "contributor": "",
-          "display": "ッ",
-          "source": "ai_and_izawa"
-        }]
+        "example": [
+          {
+            "file": "tsu-2a",
+            "contributor": "",
+            "display": "ツ",
+            "source": "ai_and_izawa"
+          },
+          {
+            "file": "tsu-2b",
+            "contributor": "",
+            "display": "つうーっ",
+            "source": "room_203"
+          }
+        ]
       }
     ],
     "id": "tsu"
@@ -25805,14 +26046,18 @@
       "う",
       "うー",
       "うっ",
-      "うーっ"
+      "うーっ",
+      "うぅ",
+      "うぅー"
     ],
     "romaji": ["u"],
     "katakana": [
       "ウ",
       "ウー",
       "ウッ",
-      "ウーッ"
+      "ウーッ",
+      "ウゥ",
+      "ウゥー"
     ],
     "definition": [{
       "equivalent": [
@@ -25843,6 +26088,12 @@
           "contributor": "",
           "display": "うっ\u2026",
           "source": "double_play"
+        },
+        {
+          "file": "u-1c",
+          "contributor": "",
+          "display": "うぅー",
+          "source": "room_203"
         }
       ]
     }],
@@ -28980,14 +29231,22 @@
           "suck"
         ],
         "refer": "",
-        "meaning": "long, wet slurp or sniff",
+        "meaning": "wet sniff or slurp, typically long",
         "type": "o",
-        "example": [{
-          "file": "zururu-1a",
-          "contributor": "",
-          "display": "ズルル",
-          "source": "requiem_for_prophet"
-        }]
+        "example": [
+          {
+            "file": "zururu-1a",
+            "contributor": "",
+            "display": "ズルル",
+            "source": "requiem_for_prophet"
+          },
+          {
+            "file": "zururu-1b",
+            "contributor": "",
+            "display": "ズルル",
+            "source": "room_203"
+          }
+        ]
       },
       {
         "equivalent": [""],
@@ -29161,5 +29420,29 @@
       }
     ],
     "id": "zuza"
+  },
+  {
+    "hiragana": ["ずぞぞ"],
+    "romaji": ["zuzozo"],
+    "katakana": ["ズゾゾ"],
+    "definition": [{
+      "equivalent": [
+        "guzzle",
+        "shlorp",
+        "slrrrp",
+        "slurp",
+        "suck"
+      ],
+      "refer": "",
+      "meaning": "loud slurping or wet suction, typically of noodles",
+      "type": "o",
+      "example": [{
+        "file": "zuzozo-1a",
+        "contributor": "",
+        "display": "ずぞぞ",
+        "source": "room_203"
+      }]
+    }],
+    "id": "zuzozo"
   }
 ]
