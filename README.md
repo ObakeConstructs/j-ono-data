@@ -4,4 +4,4 @@ An open-source collection of Japanese onomatopoeic and mimetic sound words in JS
 
 This repo only contains the data used by the application. For any issues with the J-Ono application itself, jump over to the [j-ono-search](https://github.com/ObakeConstructs/j-ono-search) repo.
 
-Note: content in the `img` folder has a different license than the rest of this repo.  See the `LICENSE.md` file in that folder.
+Note: The license in the `/image-LICENSE.md` file applies to the content of the `img` folder and the license in the `/LICENSE.md` file applies to everything else.
