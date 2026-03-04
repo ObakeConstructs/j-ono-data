@@ -1475,7 +1475,7 @@
         {
           "file": "biku biku-1a",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ビクッ ビク ビクッ",
           "source": "double_play"
         },
@@ -1529,64 +1529,64 @@
       "type": "m",
       "example": [
         {
-          "file": "biku-1a",
+          "file": "biku bikun-1a",
           "contributor": "",
           "nsfw": false,
           "display": "びくっ",
           "source": "d_genesis"
         },
         {
-          "file": "biku-1b",
+          "file": "biku bikun-1b",
           "contributor": "",
           "nsfw": false,
           "display": "ビクッ",
           "source": "komi_cant_communicate"
         },
         {
-          "file": "biku-1c",
+          "file": "biku bikun-1c",
           "contributor": "",
           "nsfw": false,
           "display": "ビクゥッ!!",
           "source": "abandoned_reincarnation_sage"
         },
         {
-          "file": "biku-1d",
+          "file": "biku bikun-1d",
           "contributor": "",
           "nsfw": false,
           "display": "ビクン",
           "source": "d_genesis"
         },
         {
-          "file": "biku-1e",
+          "file": "biku bikun-1e",
           "contributor": "",
           "nsfw": false,
           "display": "ビクン",
           "source": "rise_of_the_outlaw_tamer"
         },
         {
-          "file": "biku-1f",
+          "file": "biku bikun-1f",
           "contributor": "",
           "nsfw": false,
           "display": "ビクーン",
           "source": "hello_work"
         },
         {
-          "file": "biku-1g",
+          "file": "biku bikun-1g",
           "contributor": "",
           "nsfw": false,
           "display": "ビクン",
           "source": "gyaru_academy"
         },
         {
-          "file": "biku-1h",
+          "file": "biku bikun-1h",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "びくんっ",
           "source": "embarrassing_and_sweet"
         }
       ]
     }],
-    "id": "biku"
+    "id": "biku bikun"
   },
   {
     "hiragana": [
@@ -1753,7 +1753,7 @@
       "example": [{
         "file": "bishi bishi-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "びしっ♡ びしっ♡",
         "source": "35_year_olds_choice"
       }]
@@ -3332,14 +3332,14 @@
         {
           "file": "burun burun-1a",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ぶるん ぶるん",
           "source": "s_rank_behemoth"
         },
         {
           "file": "burun burun-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ぶるん♡ ぶるん♡",
           "source": "35_year_olds_choice"
         }
@@ -5110,7 +5110,7 @@
     ],
     "definition": [{
       "equivalent": [""],
-      "refer": "doku:1",
+      "refer": "doku dokun:1",
       "meaning": "",
       "type": "",
       "example": [
@@ -5152,7 +5152,7 @@
     "definition": [
       {
         "equivalent": [""],
-        "refer": "doku:1",
+        "refer": "doku dokun:1",
         "meaning": ", as when in love, nervous, or excited",
         "type": "e",
         "example": [
@@ -5237,7 +5237,7 @@
     "katakana": ["ドキン"],
     "definition": [{
       "equivalent": [""],
-      "refer": "doku:1",
+      "refer": "doku dokun:1",
       "meaning": "",
       "type": "",
       "example": [{
@@ -5278,50 +5278,50 @@
       "type": "s",
       "example": [
         {
-          "file": "doku-1a",
+          "file": "doku dokun-1a",
           "contributor": "",
           "nsfw": false,
           "display": "ドク",
           "source": "embarrassing_and_sweet"
         },
         {
-          "file": "doku-1b",
+          "file": "doku dokun-1b",
           "contributor": "",
           "nsfw": false,
           "display": "ドクン",
           "source": "isekai_sniper"
         },
         {
-          "file": "doku-1c",
+          "file": "doku dokun-1c",
           "contributor": "",
           "nsfw": false,
           "display": "ドクン",
           "source": "ai_and_izawa"
         },
         {
-          "file": "doku-1d",
+          "file": "doku dokun-1d",
           "contributor": "",
           "nsfw": false,
           "display": "ドクン",
           "source": "embarrassing_and_sweet"
         },
         {
-          "file": "doku-1e",
+          "file": "doku dokun-1e",
           "contributor": "",
           "nsfw": false,
           "display": "ドクン ドクン",
           "source": "ai_and_izawa"
         },
         {
-          "file": "doku-1f",
+          "file": "doku dokun-1f",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ドクン ドクン",
           "source": "double_play"
         }
       ]
     }],
-    "id": "doku"
+    "id": "doku dokun"
   },
   {
     "hiragana": [
@@ -5340,7 +5340,7 @@
         "cute",
         "longing"
       ],
-      "refer": "doku:1",
+      "refer": "doku dokun:1",
       "meaning": ", indicating exaggerated cuteness or desirability",
       "type": "",
       "example": [{
@@ -6711,7 +6711,7 @@
         {
           "file": "funi-1c",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ふに..",
           "source": "embarrassing_and_sweet"
         }
@@ -9894,7 +9894,7 @@
         {
           "file": "goso-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ごそ",
           "source": "embarrassing_and_sweet"
         },
@@ -10184,7 +10184,7 @@
           {
             "file": "gu-2b",
             "contributor": "",
-            "nsfw": false,
+            "nsfw": true,
             "display": "ぐっ\u2026",
             "source": "double_play"
           },
@@ -10535,7 +10535,7 @@
         {
           "file": "guni-1a",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ぐに\u2026",
           "source": "double_play"
         },
@@ -13335,7 +13335,7 @@
         {
           "file": "jiwa-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "じわ\u2026",
           "source": "double_play"
         }
@@ -13421,7 +13421,7 @@
       "example": [{
         "file": "jun jun-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "じゅん♡ じゅん♡",
         "source": "gyaru_academy"
       }]
@@ -13444,7 +13444,7 @@
       "example": [{
         "file": "jupo jupo-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "ジュポ ジュポ ジュポ",
         "source": "rise_of_the_outlaw_tamer"
       }]
@@ -15373,7 +15373,7 @@
       "example": [{
         "file": "kopo kopo-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "コポ\u2026 コポ\u2026",
         "source": "paradise_shift"
       }]
@@ -15499,14 +15499,14 @@
         {
           "file": "kosu kosu-1a",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "コス コス コス コス",
           "source": "double_play"
         },
         {
           "file": "kosu kosu-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "コス コス",
           "source": "double_play"
         }
@@ -15740,7 +15740,7 @@
         {
           "file": "kuchu-1a",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "クチュ\u2026",
           "source": "double_play"
         },
@@ -15761,7 +15761,7 @@
         {
           "file": "kuchu-1d",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "クチュ クチュ",
           "source": "rise_of_the_outlaw_tamer"
         }
@@ -16636,7 +16636,7 @@
           {
             "file": "kyu-2c",
             "contributor": "",
-            "nsfw": false,
+            "nsfw": true,
             "display": "キュッ♡",
             "source": "rise_of_the_outlaw_tamer"
           },
@@ -19839,7 +19839,7 @@
         {
           "file": "pasa-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "パサァ",
           "source": "gyaru_academy"
         },
@@ -19881,14 +19881,14 @@
           {
             "file": "pasha-1a",
             "contributor": "",
-            "nsfw": false,
+            "nsfw": true,
             "display": "パシャ",
             "source": "hello_work"
           },
           {
             "file": "pasha-1b",
             "contributor": "",
-            "nsfw": false,
+            "nsfw": true,
             "display": "パシャ",
             "source": "strongest_failure_frame"
           }
@@ -19915,7 +19915,7 @@
           {
             "file": "pasha-2b",
             "contributor": "",
-            "nsfw": false,
+            "nsfw": true,
             "display": "パシャー",
             "source": "double_play"
           },
@@ -20650,7 +20650,7 @@
         "example": [{
           "file": "peron-2a",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ペロン",
           "source": "gyaru_academy"
         }]
@@ -20966,7 +20966,7 @@
       "example": [{
         "file": "picha picha-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "ピチャ ピチャ",
         "source": "rise_of_the_outlaw_tamer"
       }]
@@ -20993,7 +20993,7 @@
       "example": [{
         "file": "pichan-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "ピチャン\u2026",
         "source": "hello_work"
       }]
@@ -21670,7 +21670,7 @@
         {
           "file": "pira-1a",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ピラ\u2026",
           "source": "gyaru_academy"
         },
@@ -21974,7 +21974,7 @@
         {
           "file": "pito-1c",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ピトッ",
           "source": "gyaru_academy"
         }
@@ -22241,7 +22241,7 @@
         {
           "file": "poin-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ポィン ポィーン",
           "source": "gyaru_academy"
         }
@@ -23093,7 +23093,7 @@
         {
           "file": "puchi-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "プチ",
           "source": "embarrassing_and_sweet"
         }
@@ -23341,7 +23341,7 @@
         {
           "file": "puni-1a",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "プニッ",
           "source": "gyaru_academy"
         },
@@ -23355,7 +23355,7 @@
         {
           "file": "puni-1c",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ぷに!!",
           "source": "beastly_boys_and_girls"
         },
@@ -23407,7 +23407,7 @@
       "example": [{
         "file": "punyun-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "プニュゥン♡♡♡",
         "source": "gyaru_academy"
       }]
@@ -23492,7 +23492,7 @@
           {
             "file": "puru-2a",
             "contributor": "",
-            "nsfw": false,
+            "nsfw": true,
             "display": "ぷるるっ",
             "source": "beastly_boys_and_girls"
           },
@@ -23577,14 +23577,14 @@
         {
           "file": "purun-1d",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "ぷるん",
           "source": "rise_of_the_outlaw_tamer"
         },
         {
           "file": "purun-1e",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "プルンッ プルン",
           "source": "gyaru_academy"
         }
@@ -24423,7 +24423,7 @@
       "example": [{
         "file": "sawa-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "さわっ\u2026",
         "source": "double_play"
       }]
@@ -26063,7 +26063,7 @@
       "example": [{
         "file": "suten-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "すてーん",
         "source": "saga_lagging_hero"
       }]
@@ -26352,7 +26352,7 @@
       "example": [{
         "file": "tapun-1a",
         "contributor": "",
-        "nsfw": false,
+        "nsfw": true,
         "display": "タプン♡",
         "source": "rise_of_the_outlaw_tamer"
       }]
@@ -27153,14 +27153,14 @@
         {
           "file": "toro-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "トロ\u2026.",
           "source": "gyaru_academy"
         },
         {
           "file": "toro-1c",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "とろ\u2026っ",
           "source": "beastly_boys_and_girls"
         }
@@ -27561,7 +27561,7 @@
         {
           "file": "u-1b",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "うっ\u2026",
           "source": "double_play"
         },
