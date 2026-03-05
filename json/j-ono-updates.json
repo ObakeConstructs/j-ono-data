@@ -1,26 +1,26 @@
 [
   {
-    "date": "2026/3/3",
-    "message": "Updated Search tool to incorporate searching via URL parameters (aka query strings)."
+    "date": "Mar 4, 2026",
+    "message": "Added NSFW tags to records; updated search tool to blur NSFW images by default."
   },
   {
-    "date": "2026/2/26",
+    "date": "Mar 3, 2026",
+    "message": "Updated search tool to incorporate searching via URL parameters (aka query strings)."
+  },
+  {
+    "date": "Feb 26, 2026",
     "message": "New examples: 18 from <b>203 Gōshitsu</b>"
   },
   {
-    "date": "2026/2/25",
+    "date": "Feb 25, 2026",
     "message": "New examples: 14 from <b>Mero Sugi Sakuya-kun Wa Watashi O Numa Ni Hame Ta Ga Ru</b>"
   },
   {
-    "date": "2026/2/4",
+    "date": "Feb 4, 2026",
     "message": "New examples: 9 from <b>Princess-kun to Knight-san</b>"
   },
   {
-    "date": "2026/1/27",
+    "date": "Jan 27, 2026",
     "message": "New examples: 15 from <b>Takamine no Hana-kun</b> and 4 from Mahō Shōjo Madoka"
-  },
-  {
-    "date": "2026/1/25",
-    "message": "New examples: 6 from <b>Yuyushiki</b>"
   }
 ]
