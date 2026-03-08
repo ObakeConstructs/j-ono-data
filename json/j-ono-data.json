@@ -1590,6 +1590,46 @@
   },
   {
     "hiragana": [
+      "びん",
+      "びんっ",
+      "びーん",
+      "びーんっ"
+    ],
+    "romaji": ["bin"],
+    "katakana": [
+      "ビン",
+      "ビンッ",
+      "ビーン",
+      "ビーンッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "boing",
+        "erect",
+        "firm",
+        "hard",
+        "raised",
+        "rigid",
+        "stiff",
+        "straight",
+        "taut",
+        "upright"
+      ],
+      "refer": "",
+      "meaning": "straight, rigid or taut",
+      "type": "s",
+      "example": [{
+        "file": "bin-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ビーンッ",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "bin"
+  },
+  {
+    "hiragana": [
       "びりびり",
       "びりびりっ",
       "びりっびりっ"
@@ -3226,56 +3266,24 @@
   },
   {
     "hiragana": [
-      "ぶるぶる",
-      "ぶるぶるっ"
-    ],
-    "romaji": ["buru buru"],
-    "katakana": [
-      "ブルブル",
-      "ブルブルッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "quiver",
-        "shiver",
-        "shudder",
-        "tremble"
-      ],
-      "refer": "",
-      "meaning": "involuntary shaking, as from fear, cold, or excitement",
-      "type": "m",
-      "example": [
-        {
-          "file": "buru buru-1a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ブル ブルッ",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "buru buru-1b",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ぶる ぶる ぶる",
-          "source": "ai_and_izawa"
-        }
-      ]
-    }],
-    "id": "buru buru"
-  },
-  {
-    "hiragana": [
       "ぶる",
       "ぶるっ",
       "ぶるる",
-      "ぶるるる"
+      "ぶるるる",
+      "ぶるぶる",
+      "ぶるぶるっ"
     ],
-    "romaji": ["buru"],
+    "romaji": [
+      "buru",
+      "buru buru"
+    ],
     "katakana": [
       "ブル",
       "ブルッ",
       "ブルル",
-      "ブルルル"
+      "ブルルル",
+      "ブルブル",
+      "ブルブルッ"
     ],
     "definition": [{
       "equivalent": [
@@ -3308,6 +3316,20 @@
           "nsfw": false,
           "display": "ぶるっ",
           "source": "requiem_for_prophet"
+        },
+        {
+          "file": "buru-1d",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ブル ブルッ",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "buru-1e",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ぶる ぶる ぶる",
+          "source": "ai_and_izawa"
         }
       ]
     }],
@@ -4196,6 +4218,13 @@
           "nsfw": false,
           "display": "チュッ チュッ",
           "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "chu-1e",
+          "contributor": "",
+          "nsfw": false,
+          "display": "チュッ チュッ チュッ",
+          "source": "my_semen"
         }
       ]
     }],
@@ -4290,6 +4319,13 @@
           "nsfw": false,
           "display": "チュル..",
           "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "churu-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "チュルッ",
+          "source": "my_semen"
         }
       ]
     }],
@@ -7948,76 +7984,30 @@
     "id": "gan"
   },
   {
-    "hiragana": ["がらがら"],
-    "romaji": ["gara gara"],
-    "katakana": ["ガラガラ"],
-    "definition": [
-      {
-        "equivalent": [
-          "clank",
-          "clatter",
-          "clunk",
-          "rattle"
-        ],
-        "refer": "",
-        "meaning": "a continuous or repeated clatter or rattle",
-        "type": "o",
-        "example": [
-          {
-            "file": "gara gara-1a",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ガラ ガラ",
-            "source": "otherworld_material_collector"
-          },
-          {
-            "file": "gara gara-1b",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ガラガラガラ..",
-            "source": "berserk"
-          },
-          {
-            "file": "gara gara-1c",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ガラ ガラ ガ ガラ",
-            "source": "isekai_sniper"
-          }
-        ]
-      },
-      {
-        "equivalent": [""],
-        "refer": "gara:2",
-        "meaning": "",
-        "type": "",
-        "example": [{
-          "file": "gara gara-2a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ガラ ガラ ガラ",
-          "source": "hanako_24th_ward"
-        }]
-      }
-    ],
-    "id": "gara gara"
-  },
-  {
     "hiragana": [
       "がら",
-      "がらっ"
+      "がらっ",
+      "がらら",
+      "がらがら"
     ],
-    "romaji": ["gara"],
+    "romaji": [
+      "gara",
+      "gara gara"
+    ],
     "katakana": [
       "ガラ",
-      "ガラッ"
+      "ガラッ",
+      "ガララ",
+      "ガラガラ"
     ],
     "definition": [
       {
         "equivalent": [
           "bang",
+          "clank",
           "clatter",
           "close",
+          "clunk",
           "open",
           "rattle",
           "shut",
@@ -8028,7 +8018,7 @@
           "thump"
         ],
         "refer": "",
-        "meaning": "sliding or rattling, as of something opening or closing, like a window or sliding door",
+        "meaning": "clattering, rattling, or sliding",
         "type": "o",
         "example": [
           {
@@ -8042,8 +8032,8 @@
             "file": "gara-1b",
             "contributor": "",
             "nsfw": false,
-            "display": "ガラッ",
-            "source": "bungo"
+            "display": "ガララ..",
+            "source": "my_semen"
           },
           {
             "file": "gara-1c",
@@ -8051,6 +8041,27 @@
             "nsfw": false,
             "display": "ガラッ",
             "source": "simple_sword_saint"
+          },
+          {
+            "file": "gara-1d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ガラ ガラ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "gara-1e",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ガラガラガラ..",
+            "source": "berserk"
+          },
+          {
+            "file": "gara-1f",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ガラ ガラ ガ ガラ",
+            "source": "isekai_sniper"
           }
         ]
       },
@@ -8079,6 +8090,13 @@
             "nsfw": false,
             "display": "ガラ\u2026",
             "source": "minimum_wage_demon_king"
+          },
+          {
+            "file": "gara-2c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ガラ ガラ ガラ",
+            "source": "hanako_24th_ward"
           }
         ]
       }
@@ -9451,6 +9469,13 @@
           "file": "goho-1b",
           "contributor": "",
           "nsfw": false,
+          "display": "ゴホッ",
+          "source": "my_semen"
+        },
+        {
+          "file": "goho-1c",
+          "contributor": "",
+          "nsfw": false,
           "display": "ゴホ ゴホッ",
           "source": "isekai_sniper"
         }
@@ -9641,6 +9666,37 @@
     "id": "gon"
   },
   {
+    "hiragana": [
+      "ごぽ",
+      "ごぽっ"
+    ],
+    "romaji": ["gopo"],
+    "katakana": [
+      "ゴポ",
+      "ゴポッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "burst",
+        "expulsion",
+        "gush",
+        "spew",
+        "spurt"
+      ],
+      "refer": "",
+      "meaning": "a sizable spurt or expulsion of fluid",
+      "type": "o",
+      "example": [{
+        "file": "gopo-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ゴポッ",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "gopo"
+  },
+  {
     "hiragana": ["ごぽり"],
     "romaji": ["gopori"],
     "katakana": ["ゴポリ"],
@@ -9665,6 +9721,31 @@
       }]
     }],
     "id": "gopori"
+  },
+  {
+    "hiragana": ["ごぷっ"],
+    "romaji": ["gopu"],
+    "katakana": ["ゴプッ"],
+    "definition": [{
+      "equivalent": [
+        "flow",
+        "gurgle",
+        "ooze",
+        "splash",
+        "spurt"
+      ],
+      "refer": "",
+      "meaning": "a smallish gurgle or spurt of fluid",
+      "type": "o",
+      "example": [{
+        "file": "gopu-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ゴプッ!",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "gopu"
   },
   {
     "hiragana": [
@@ -13352,7 +13433,8 @@
       "じゅぅぅぅ",
       "じゅう",
       "じゅうう",
-      "じゅううう"
+      "じゅううう",
+      "じゅっ"
     ],
     "romaji": ["ju"],
     "katakana": [
@@ -13363,44 +13445,68 @@
       "ジュゥゥゥ",
       "ジュウ",
       "ジュウウ",
-      "ジュウウウ"
+      "ジュウウウ",
+      "ジュッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "burn",
-        "fizz",
-        "hiss",
-        "juicy",
-        "sizzle",
-        "steam"
-      ],
-      "refer": "",
-      "meaning": "hissing or sizzling, as from cooking",
-      "type": "o",
-      "example": [
-        {
-          "file": "ju-1a",
+    "definition": [
+      {
+        "equivalent": [
+          "burn",
+          "fizz",
+          "hiss",
+          "juicy",
+          "sizzle",
+          "steam"
+        ],
+        "refer": "",
+        "meaning": "hissing or sizzling, as from cooking",
+        "type": "o",
+        "example": [
+          {
+            "file": "ju-1a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ジュウウ\u2026",
+            "source": "strongest_thread_master"
+          },
+          {
+            "file": "ju-1b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "じゅう",
+            "source": "way_of_the_house_husband"
+          },
+          {
+            "file": "ju-1c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ゅぅぅ\u2026",
+            "source": "shogun_gold_in_america"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "shlurp",
+          "smack",
+          "squash",
+          "squelch",
+          "squish",
+          "suck",
+          "wet"
+        ],
+        "refer": "",
+        "meaning": "wet squishing, smacking, or sucking sound",
+        "type": "o",
+        "example": [{
+          "file": "ju-2a",
           "contributor": "",
-          "nsfw": false,
-          "display": "ジュウウ\u2026",
-          "source": "strongest_thread_master"
-        },
-        {
-          "file": "ju-1b",
-          "contributor": "",
-          "nsfw": false,
-          "display": "じゅう",
-          "source": "way_of_the_house_husband"
-        },
-        {
-          "file": "ju-1c",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ゅぅぅ\u2026",
-          "source": "shogun_gold_in_america"
-        }
-      ]
-    }],
+          "nsfw": true,
+          "display": "ジュッ ジュジュッ ジュッ ジュッ",
+          "source": "my_semen"
+        }]
+      }
+    ],
     "id": "ju"
   },
   {
@@ -15451,6 +15557,43 @@
     "id": "koro"
   },
   {
+    "hiragana": [
+      "こし",
+      "こしっ",
+      "こしこし",
+      "こしっこしっ"
+    ],
+    "romaji": [
+      "koshi",
+      "koshi koshi"
+    ],
+    "katakana": [
+      "コシ",
+      "コシッ",
+      "コシコシ",
+      "コシッコシッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "caress",
+        "press",
+        "rub",
+        "stroke"
+      ],
+      "refer": "",
+      "meaning": "rubbing or pressing motion",
+      "type": "m",
+      "example": [{
+        "file": "koshi-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "コシッ コシッ コシッ コシッ",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "koshi"
+  },
+  {
     "hiragana": ["こそこそ"],
     "romaji": ["koso koso"],
     "katakana": ["コソコソ"],
@@ -17305,6 +17448,33 @@
     "id": "mokyu mokyu"
   },
   {
+    "hiragana": ["もみ"],
+    "romaji": ["momi"],
+    "katakana": ["モミ"],
+    "definition": [{
+      "equivalent": [
+        "grope",
+        "knead",
+        "massage",
+        "press",
+        "push",
+        "rub",
+        "squeeze"
+      ],
+      "refer": "",
+      "meaning": "squeezing or kneading with the hands",
+      "type": "m",
+      "example": [{
+        "file": "momi-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "もみ もみ",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "momi"
+  },
+  {
     "hiragana": ["もたもた"],
     "romaji": ["mota mota"],
     "katakana": ["モタモタ"],
@@ -17493,6 +17663,31 @@
       ]
     }],
     "id": "mu"
+  },
+  {
+    "hiragana": ["むちゅ"],
+    "romaji": ["muchu"],
+    "katakana": ["ムチュ"],
+    "definition": [{
+      "equivalent": [
+        "kiss",
+        "lips",
+        "mwah",
+        "smooch",
+        "suck"
+      ],
+      "refer": "",
+      "meaning": "soft sucking or kissing sound, often lingering",
+      "type": "o",
+      "example": [{
+        "file": "muchu-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "むちゅ",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "muchu"
   },
   {
     "hiragana": [
@@ -23985,6 +24180,7 @@
   {
     "hiragana": [
       "れろ",
+      "れろー",
       "れろれろ"
     ],
     "romaji": [
@@ -23993,6 +24189,7 @@
     ],
     "katakana": [
       "レロ",
+      "レロー",
       "レロレロ"
     ],
     "definition": [{
@@ -24019,6 +24216,13 @@
           "nsfw": false,
           "display": "レロ レロ レロ レロ レロ",
           "source": "gyaru_academy"
+        },
+        {
+          "file": "rero-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "れろー",
+          "source": "my_semen"
         }
       ]
     }],
@@ -24557,6 +24761,41 @@
       }]
     }],
     "id": "shi shi"
+  },
+  {
+    "hiragana": [
+      "しこ",
+      "しこっ",
+      "しこしこ"
+    ],
+    "romaji": [
+      "shiko",
+      "shiko shiko"
+    ],
+    "katakana": [
+      "シコ",
+      "シコッ",
+      "シコシコ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "jerk",
+        "rub",
+        "scrub",
+        "stroke"
+      ],
+      "refer": "",
+      "meaning": "rhythmic back-and-forth rubbing or stroking",
+      "type": "m",
+      "example": [{
+        "file": "shiko-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "シコシコシコ シコシコ シコッ",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "shiko"
   },
   {
     "hiragana": ["しくしく"],
@@ -26349,13 +26588,22 @@
       "refer": "",
       "meaning": "a heavy or fleshy wobble or jiggle",
       "type": "m",
-      "example": [{
-        "file": "tapun-1a",
-        "contributor": "",
-        "nsfw": true,
-        "display": "タプン♡",
-        "source": "rise_of_the_outlaw_tamer"
-      }]
+      "example": [
+        {
+          "file": "tapun-1a",
+          "contributor": "",
+          "nsfw": true,
+          "display": "タプン♡",
+          "source": "rise_of_the_outlaw_tamer"
+        },
+        {
+          "file": "tapun-1b",
+          "contributor": "",
+          "nsfw": true,
+          "display": "たぷん!!",
+          "source": "my_semen"
+        }
+      ]
     }],
     "id": "tapun"
   },
@@ -30246,6 +30494,30 @@
       }]
     }],
     "id": "zudo"
+  },
+  {
+    "hiragana": ["ずごっ"],
+    "romaji": ["zugo"],
+    "katakana": ["ズゴッ"],
+    "definition": [{
+      "equivalent": [
+        "slam",
+        "thrust",
+        "thud",
+        "whump"
+      ],
+      "refer": "",
+      "meaning": "heavy, forceful impact, often blunt or fleshy",
+      "type": "o",
+      "example": [{
+        "file": "zugo-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "ズゴッ! ズゴッ ズゴッ! ズゴッ ズゴッ!",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "zugo"
   },
   {
     "hiragana": ["ずぎゃ"],
