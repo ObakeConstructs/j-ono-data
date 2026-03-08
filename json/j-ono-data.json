@@ -30986,12 +30986,14 @@
   {
     "hiragana": [
       "ずら",
-      "ずらー"
+      "ずらー",
+      "ずらあ"
     ],
     "romaji": ["zura"],
     "katakana": [
       "ズラ",
-      "ズラー"
+      "ズラー",
+      "ズラア"
     ],
     "definition": [{
       "equivalent": [
@@ -31022,6 +31024,13 @@
           "nsfw": false,
           "display": "ずらっ",
           "source": "princess_to_knight"
+        },
+        {
+          "file": "zura-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ずらあ..!!",
+          "source": "pochaco_is_so_cute"
         }
       ]
     }],
