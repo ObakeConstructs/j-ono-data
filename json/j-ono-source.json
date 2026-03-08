@@ -560,5 +560,17 @@
         "manga": "Youjo Life!"
       }
     ]
+  },
+
+  {
+    "publisher_name": "doujinshi",
+    "site": "",
+    "sources": [
+      {
+        "id": "pochaco_is_so_cute",
+        "manga": "Pochaco Kawaii Kawaii",
+        "author": "Shiwasuno Oji"
+      }
+    ]
   }
 ]
