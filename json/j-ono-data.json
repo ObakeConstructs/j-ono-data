@@ -17606,16 +17606,16 @@
   },
   {
     "hiragana": [
-      "もみゅん",
-      "もみゅんもみゅん"
+      "もみゅ",
+      "もみゅん"
     ],
     "romaji": [
-      "momiyun",
-      "momiyun momiyun"
+      "momiyu",
+      "momiyun"
     ],
     "katakana": [
-      "モミュン",
-      "モミュンモミュン"
+      "モミュ",
+      "モミュン"
     ],
     "definition": [{
       "equivalent": [""],
@@ -20057,7 +20057,7 @@
         {
           "file": "pan pan-1d",
           "contributor": "",
-          "nsfw": false,
+          "nsfw": true,
           "display": "パンッ! パンッ! パンッ!",
           "source": "pochaco_is_so_cute"
         }
