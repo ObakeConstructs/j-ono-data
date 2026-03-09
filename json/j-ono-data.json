@@ -1392,9 +1392,11 @@
     "hiragana": [
       "びちゃ",
       "びちや",
-      "びちやっ",
       "びちゃっ",
-      "びちやびちや"
+      "びちやっ",
+      "びちゃあ",
+      "びちやびちや",
+      "びちゃっびちゃっ"
     ],
     "romaji": [
       "bicha",
@@ -1405,9 +1407,11 @@
     "katakana": [
       "ビチャ",
       "ビチヤ",
-      "ビチヤッ",
       "ビチャッ",
-      "ビチヤビチヤ"
+      "ビチヤッ",
+      "ビチャア",
+      "ビチヤビチヤ",
+      "ビチャッビチャッ"
     ],
     "definition": [{
       "equivalent": [
@@ -1428,22 +1432,29 @@
       "type": "o",
       "example": [
         {
-          "file": "bicha-1a",
+          "file": "bicha bichiya-1a",
           "contributor": "",
           "nsfw": false,
           "display": "びちゃ",
           "source": "world_full_of_monsters"
         },
         {
-          "file": "bicha-1b",
+          "file": "bicha bichiya-1b",
           "contributor": "",
           "nsfw": false,
           "display": "びちや びちや",
           "source": "room_203"
+        },
+        {
+          "file": "bicha bichiya-1c",
+          "contributor": "",
+          "nsfw": true,
+          "display": "ビチャッ ビチャッ ビチャア",
+          "source": "pochaco_is_so_cute"
         }
       ]
     }],
-    "id": "bicha"
+    "id": "bicha bichiya"
   },
   {
     "hiragana": [
@@ -1618,13 +1629,22 @@
       "refer": "",
       "meaning": "straight, rigid or taut",
       "type": "s",
-      "example": [{
-        "file": "bin-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "ビーンッ",
-        "source": "my_semen"
-      }]
+      "example": [
+        {
+          "file": "bin-1a",
+          "contributor": "",
+          "nsfw": true,
+          "display": "ビーンッ",
+          "source": "my_semen"
+        },
+        {
+          "file": "bin-1b",
+          "contributor": "",
+          "nsfw": true,
+          "display": "ビーンッ",
+          "source": "pochaco_is_so_cute"
+        }
+      ]
     }],
     "id": "bin"
   },
@@ -3350,22 +3370,13 @@
       "refer": "",
       "meaning": "bouncing or shaking, often energetic or exaggerated",
       "type": "m",
-      "example": [
-        {
-          "file": "burun burun-1a",
-          "contributor": "",
-          "nsfw": true,
-          "display": "ぶるん ぶるん",
-          "source": "s_rank_behemoth"
-        },
-        {
-          "file": "burun burun-1b",
-          "contributor": "",
-          "nsfw": true,
-          "display": "ぶるん♡ ぶるん♡",
-          "source": "35_year_olds_choice"
-        }
-      ]
+      "example": [{
+        "file": "burun burun-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "ぶるん ぶるん",
+        "source": "s_rank_behemoth"
+      }]
     }],
     "id": "burun burun"
   },
@@ -6486,55 +6497,113 @@
     "hiragana": [
       "ふあ",
       "ふああ",
-      "ふあああ"
+      "ふあああ",
+      "ふわ",
+      "ふわっ"
     ],
-    "romaji": ["fua"],
+    "romaji": [
+      "fua",
+      "fuwa"
+    ],
     "katakana": [
       "フア",
       "フアア",
-      "フアアア"
+      "フアアア",
+      "フワ",
+      "フワッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "huff",
-        "whaa",
-        "yawn"
-      ],
-      "refer": "",
-      "meaning": "a wide open-mouth yawn",
-      "type": "v",
-      "example": [
-        {
-          "file": "fua-1a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ふあああ",
-          "source": "hanako_24th_ward"
-        },
-        {
-          "file": "fua-1b",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ふあー..",
-          "source": "abandoned_reincarnation_sage"
-        },
-        {
-          "file": "fua-1c",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ふああ\u2026",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "fua-1d",
-          "contributor": "",
-          "nsfw": false,
-          "display": "フアー",
-          "source": "princess_to_knight"
-        }
-      ]
-    }],
-    "id": "fua"
+    "definition": [
+      {
+        "equivalent": [
+          "huff",
+          "whaa",
+          "yawn"
+        ],
+        "refer": "",
+        "meaning": "a wide open-mouth yawn",
+        "type": "v",
+        "example": [
+          {
+            "file": "fua fuwa-1a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ふあああ",
+            "source": "hanako_24th_ward"
+          },
+          {
+            "file": "fua fuwa-1b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ふあー..",
+            "source": "abandoned_reincarnation_sage"
+          },
+          {
+            "file": "fua fuwa-1c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ふああ\u2026",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "fua fuwa-1d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "フアー",
+            "source": "princess_to_knight"
+          },
+          {
+            "file": "fua fuwa-1e",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ふわっ\u2026.",
+            "source": "pochaco_is_so_cute"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "drift",
+          "float",
+          "hover",
+          "lift",
+          "sway"
+        ],
+        "refer": "",
+        "meaning": "moving or floating gently, softly, or delicately",
+        "type": "m",
+        "example": [
+          {
+            "file": "fua fuwa-2a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ふわっ",
+            "source": "strongest_magician_was_human"
+          },
+          {
+            "file": "fua fuwa-2b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "フワッ",
+            "source": "simple_sword_saint"
+          },
+          {
+            "file": "fua fuwa-2c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "フワッ",
+            "source": "lord_of_the_hundred_demons"
+          },
+          {
+            "file": "fua fuwa-2d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ふわっ",
+            "source": "ai_and_izawa"
+          }
+        ]
+      }
+    ],
+    "id": "fua fuwa"
   },
   {
     "hiragana": ["ふきふき"],
@@ -6754,6 +6823,36 @@
       ]
     }],
     "id": "funi"
+  },
+  {
+    "hiragana": ["ふにゃ"],
+    "romaji": ["funya"],
+    "katakana": ["フニャ"],
+    "definition": [{
+      "equivalent": [
+        "drifting",
+        "droop",
+        "limp",
+        "loll",
+        "relaxed",
+        "sag",
+        "slack",
+        "slouch",
+        "slump",
+        "soft"
+      ],
+      "refer": "",
+      "meaning": "soft relaxation of the body or face",
+      "type": "s",
+      "example": [{
+        "file": "funya-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ふにゃ\u2026.",
+        "source": "pochaco_is_so_cute"
+      }]
+    }],
+    "id": "funya"
   },
   {
     "hiragana": ["ふらふら"],
@@ -6989,60 +7088,6 @@
       }
     ],
     "id": "furu furu"
-  },
-  {
-    "hiragana": [
-      "ふわ",
-      "ふわっ"
-    ],
-    "romaji": ["fuwa"],
-    "katakana": [
-      "フワ",
-      "フワッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "drift",
-        "float",
-        "hover",
-        "lift",
-        "sway"
-      ],
-      "refer": "",
-      "meaning": "moving or floating gently, softly, or delicately",
-      "type": "m",
-      "example": [
-        {
-          "file": "fuwa-1a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ふわっ",
-          "source": "strongest_magician_was_human"
-        },
-        {
-          "file": "fuwa-1b",
-          "contributor": "",
-          "nsfw": false,
-          "display": "フワッ",
-          "source": "simple_sword_saint"
-        },
-        {
-          "file": "fuwa-1c",
-          "contributor": "",
-          "nsfw": false,
-          "display": "フワッ",
-          "source": "lord_of_the_hundred_demons"
-        },
-        {
-          "file": "fuwa-1d",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ふわっ",
-          "source": "ai_and_izawa"
-        }
-      ]
-    }],
-    "id": "fuwa"
   },
   {
     "hiragana": [
@@ -10591,22 +10636,28 @@
   {
     "hiragana": [
       "ぐに",
-      "ぐにぐに"
+      "ぐにゅ",
+      "ぐにぐに",
+      "ぐにゅぐにゅ"
     ],
-    "romaji": ["guni"],
+    "romaji": [
+      "guni",
+      "gunyu"
+    ],
     "katakana": [
       "グニ",
-      "グニグニ"
+      "グニュ",
+      "グニグニ",
+      "グニュグニュ"
     ],
     "definition": [{
       "equivalent": [
-        "flexible",
-        "mushy",
-        "pliable",
-        "pliant",
-        "soft",
+        "knead",
+        "massage",
+        "press",
+        "rub",
+        "squeeze",
         "squish",
-        "squishy",
         "squoosh"
       ],
       "refer": "",
@@ -10614,22 +10665,29 @@
       "type": "m",
       "example": [
         {
-          "file": "guni-1a",
+          "file": "guni gunyu-1a",
           "contributor": "",
           "nsfw": true,
           "display": "ぐに\u2026",
           "source": "double_play"
         },
         {
-          "file": "guni-1b",
+          "file": "guni gunyu-1b",
           "contributor": "",
           "nsfw": false,
           "display": "ぐに ぐに",
           "source": "yuyushiki"
+        },
+        {
+          "file": "guni gunyu-1c",
+          "contributor": "",
+          "nsfw": true,
+          "display": "ぐにゅ ぐにゅ!!",
+          "source": "pochaco_is_so_cute"
         }
       ]
     }],
-    "id": "guni"
+    "id": "guni gunyu"
   },
   {
     "hiragana": [
@@ -10666,6 +10724,37 @@
       }]
     }],
     "id": "gununu"
+  },
+  {
+    "hiragana": [
+      "ぐぱ",
+      "ぐぱっ"
+    ],
+    "romaji": ["gupa"],
+    "katakana": [
+      "グパ",
+      "グパッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "expanded",
+        "parted",
+        "push",
+        "spread",
+        "stretch"
+      ],
+      "refer": "",
+      "meaning": "something soft spread or pushed apart",
+      "type": "s",
+      "example": [{
+        "file": "gupa-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "ぐぱっ!!",
+        "source": "pochaco_is_so_cute"
+      }]
+    }],
+    "id": "gupa"
   },
   {
     "hiragana": [
@@ -13419,6 +13508,13 @@
           "nsfw": true,
           "display": "じわ\u2026",
           "source": "double_play"
+        },
+        {
+          "file": "jiwa-1c",
+          "contributor": "",
+          "nsfw": true,
+          "display": "ジワ",
+          "source": "pochaco_is_so_cute"
         }
       ]
     }],
@@ -14101,28 +14197,44 @@
     "id": "kan"
   },
   {
-    "hiragana": ["かぱ"],
+    "hiragana": [
+      "かぱ",
+      "かぱぁ"
+    ],
     "romaji": ["kapa"],
-    "katakana": ["カパ"],
+    "katakana": [
+      "カパ",
+      "カパァ"
+    ],
     "definition": [{
       "equivalent": [
-        "chack",
-        "click",
-        "ka-chik",
-        "ker-chack",
-        "pop",
-        "snap"
+        "accessible",
+        "agape",
+        "exposed",
+        "gaping",
+        "open",
+        "opened",
+        "spread"
       ],
       "refer": "",
-      "meaning": "the light popping of something opening",
-      "type": "o",
-      "example": [{
-        "file": "kapa-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "カパ",
-        "source": "strongest_thread_master"
-      }]
+      "meaning": "opened, spread, or exposed",
+      "type": "s",
+      "example": [
+        {
+          "file": "kapa-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "カパ",
+          "source": "strongest_thread_master"
+        },
+        {
+          "file": "kapa-1b",
+          "contributor": "",
+          "nsfw": true,
+          "display": "かぱぁ\u2026!",
+          "source": "pochaco_is_so_cute"
+        }
+      ]
     }],
     "id": "kapa"
   },
@@ -17329,12 +17441,14 @@
       "equivalent": [
         "chew",
         "eat",
+        "lipping",
+        "mouthing",
         "munch",
         "nom",
         "snarf"
       ],
       "refer": "",
-      "meaning": "munching or chewing in a small, contented, or cute manner",
+      "meaning": "mouthing or chewing in a small, contented, or cute manner",
       "type": "s",
       "example": [
         {
@@ -17357,6 +17471,13 @@
           "nsfw": false,
           "display": "もぐ もぐ もぐ もぐ",
           "source": "shogun_gold_in_america"
+        },
+        {
+          "file": "mogu mogu-1d",
+          "contributor": "",
+          "nsfw": false,
+          "display": "もぐ もぐ",
+          "source": "pochaco_is_so_cute"
         }
       ]
     }],
@@ -17448,9 +17569,18 @@
     "id": "mokyu mokyu"
   },
   {
-    "hiragana": ["もみ"],
-    "romaji": ["momi"],
-    "katakana": ["モミ"],
+    "hiragana": [
+      "もみ",
+      "もみもみ"
+    ],
+    "romaji": [
+      "momi",
+      "momi momi"
+    ],
+    "katakana": [
+      "モミ",
+      "モミモミ"
+    ],
     "definition": [{
       "equivalent": [
         "grope",
@@ -17473,6 +17603,34 @@
       }]
     }],
     "id": "momi"
+  },
+  {
+    "hiragana": [
+      "もみゅん",
+      "もみゅんもみゅん"
+    ],
+    "romaji": [
+      "momiyun",
+      "momiyun momiyun"
+    ],
+    "katakana": [
+      "モミュン",
+      "モミュンモミュン"
+    ],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "momi:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "momiyun-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "もみゅん!! もみゅ!! もみゅん!!",
+        "source": "pochaco_is_so_cute"
+      }]
+    }],
+    "id": "momiyun"
   },
   {
     "hiragana": ["もたもた"],
@@ -17679,13 +17837,22 @@
       "refer": "",
       "meaning": "soft sucking or kissing sound, often lingering",
       "type": "o",
-      "example": [{
-        "file": "muchu-1a",
-        "contributor": "",
-        "nsfw": true,
-        "display": "むちゅ",
-        "source": "my_semen"
-      }]
+      "example": [
+        {
+          "file": "muchu-1a",
+          "contributor": "",
+          "nsfw": true,
+          "display": "むちゅ",
+          "source": "my_semen"
+        },
+        {
+          "file": "muchu-1b",
+          "contributor": "",
+          "nsfw": false,
+          "display": "むちゅー",
+          "source": "pochaco_is_so_cute"
+        }
+      ]
     }],
     "id": "muchu"
   },
@@ -18010,6 +18177,25 @@
       }]
     }],
     "id": "munyun"
+  },
+  {
+    "hiragana": ["むにゅり"],
+    "romaji": ["munyuri"],
+    "katakana": ["ムニュリ"],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "momi:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "munyuri-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "むにゅり むにゅり",
+        "source": "pochaco_is_so_cute"
+      }]
+    }],
+    "id": "munyuri"
   },
   {
     "hiragana": ["むしゃむしゃ"],
@@ -18493,6 +18679,31 @@
       }]
     }],
     "id": "nima"
+  },
+  {
+    "hiragana": [
+      "にぱ",
+      "にぱっ"
+    ],
+    "romaji": ["nipa"],
+    "katakana": [
+      "ニパ",
+      "ニパッ"
+    ],
+    "definition": [{
+      "equivalent": [""],
+      "refer": "niko:1",
+      "meaning": "",
+      "type": "",
+      "example": [{
+        "file": "nipa-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ニパッ",
+        "source": "pochaco_is_so_cute"
+      }]
+    }],
+    "id": "nipa"
   },
   {
     "hiragana": [
@@ -19009,6 +19220,44 @@
       }]
     }],
     "id": "nyu"
+  },
+  {
+    "hiragana": [
+      "にゅる",
+      "にゅるる",
+      "にゅるっ"
+    ],
+    "romaji": [
+      "nyuru",
+      "nyururu"
+    ],
+    "katakana": [
+      "ニュル",
+      "ニュルル",
+      "ニュルッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "drip",
+        "mucous",
+        "slick",
+        "slimy",
+        "slippery",
+        "viscous",
+        "wet"
+      ],
+      "refer": "",
+      "meaning": "slick and viscous fluid",
+      "type": "s",
+      "example": [{
+        "file": "nyuru nyururu-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ニュルル ニュルッ ニュルッ",
+        "source": "pochaco_is_so_cute"
+      }]
+    }],
+    "id": "nyuru nyururu"
   },
   {
     "hiragana": [
@@ -19804,6 +20053,13 @@
           "nsfw": false,
           "display": "ぱんっ ぱんっ",
           "source": "ai_and_izawa"
+        },
+        {
+          "file": "pan pan-1d",
+          "contributor": "",
+          "nsfw": false,
+          "display": "パンッ! パンッ! パンッ!",
+          "source": "pochaco_is_so_cute"
         }
       ]
     }],
@@ -23298,6 +23554,38 @@
   },
   {
     "hiragana": [
+      "ぷふ",
+      "ぷふー"
+    ],
+    "romaji": ["pufu"],
+    "katakana": [
+      "プフ",
+      "プフー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "blow",
+        "breath",
+        "exhale",
+        "pffoo",
+        "whew",
+        "whoo"
+      ],
+      "refer": "",
+      "meaning": "a light exhale or breath, often playful or relieved",
+      "type": "v",
+      "example": [{
+        "file": "pufu-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ぷふー",
+        "source": "pochaco_is_so_cute"
+      }]
+    }],
+    "id": "pufu"
+  },
+  {
+    "hiragana": [
       "ぷは",
       "ぷはっ",
       "ぷはー",
@@ -24066,14 +24354,21 @@
       "ぴゅ",
       "ぴゅっ",
       "ぴゅー",
-      "ぴゅーっ"
+      "ぴゅーっ",
+      "ぴゅぴゅ",
+      "ぴゅっぴゅっ"
     ],
-    "romaji": ["pyu"],
+    "romaji": [
+      "pyu",
+      "pyu pyu"
+    ],
     "katakana": [
       "ピュ",
       "ピュッ",
       "ピュー",
-      "ピューッ"
+      "ピューッ",
+      "ピュピュ",
+      "ピュッピュッ"
     ],
     "definition": [
       {
@@ -24090,13 +24385,22 @@
         "refer": "",
         "meaning": "liquid spraying or squirting",
         "type": "o",
-        "example": [{
-          "file": "pyu-1a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ピューッ!!",
-          "source": "hello_work"
-        }]
+        "example": [
+          {
+            "file": "pyu-1a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ピューッ!!",
+            "source": "hello_work"
+          },
+          {
+            "file": "pyu-1b",
+            "contributor": "",
+            "nsfw": true,
+            "display": "ピュッ ピュッ! ピュッ!",
+            "source": "pochaco_is_so_cute"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -25430,6 +25734,13 @@
             "nsfw": false,
             "display": "すー すー",
             "source": "journey_of_curiosity"
+          },
+          {
+            "file": "su su-1c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "スー スー スー",
+            "source": "pochaco_is_so_cute"
           }
         ]
       },
@@ -26120,33 +26431,22 @@
     "id": "suri"
   },
   {
-    "hiragana": ["するする"],
-    "romaji": ["suru suru"],
-    "katakana": ["スルスル"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "suri:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "suru suru-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "する する\u2026",
-        "source": "s_rank_behemoth"
-      }]
-    }],
-    "id": "suru suru"
-  },
-  {
     "hiragana": [
       "する",
-      "するっ"
+      "するっ",
+      "するする",
+      "するる"
     ],
-    "romaji": ["suru"],
+    "romaji": [
+      "suru",
+      "suru suru",
+      "sururu"
+    ],
     "katakana": [
       "スル",
-      "スルッ"
+      "スルッ",
+      "スルスル",
+      "スルル"
     ],
     "definition": [{
       "equivalent": [""],
@@ -26155,22 +26455,36 @@
       "type": "",
       "example": [
         {
-          "file": "suru-1a",
+          "file": "suru sururu-1a",
           "contributor": "",
           "nsfw": false,
           "display": "スル",
           "source": "embarrassing_and_sweet"
         },
         {
-          "file": "suru-1b",
+          "file": "suru sururu-1b",
           "contributor": "",
           "nsfw": false,
           "display": "するっ",
           "source": "embarrassing_and_sweet"
+        },
+        {
+          "file": "suru sururu-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "する する\u2026",
+          "source": "s_rank_behemoth"
+        },
+        {
+          "file": "suru sururu-1d",
+          "contributor": "",
+          "nsfw": true,
+          "display": "スルル..",
+          "source": "pochaco_is_so_cute"
         }
       ]
     }],
-    "id": "suru"
+    "id": "suru sururu"
   },
   {
     "hiragana": ["すたすた"],
@@ -27365,87 +27679,89 @@
       "とろ",
       "とろっ"
     ],
-    "romaji": ["toro"],
+    "romaji": [
+      "toro",
+      "toron"
+    ],
     "katakana": [
       "トロ",
       "トロッ"
     ],
-    "definition": [{
-      "equivalent": [
-        "dissolve",
-        "dribble",
-        "drip",
-        "exude",
-        "flow",
-        "glop",
-        "liquify",
-        "melt",
-        "ooze",
-        "run",
-        "seep",
-        "soften",
-        "thaw",
-        "trickle"
-      ],
-      "refer": "",
-      "meaning": "a melting, seeping, or oozing texture",
-      "type": "s",
-      "example": [
-        {
-          "file": "toro-1a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "トロッ\u2026",
-          "source": "world_full_of_monsters"
-        },
-        {
-          "file": "toro-1b",
-          "contributor": "",
-          "nsfw": true,
-          "display": "トロ\u2026.",
-          "source": "gyaru_academy"
-        },
-        {
-          "file": "toro-1c",
-          "contributor": "",
-          "nsfw": true,
-          "display": "とろ\u2026っ",
-          "source": "beastly_boys_and_girls"
-        }
-      ]
-    }],
-    "id": "toro"
-  },
-  {
-    "hiragana": ["とろん"],
-    "romaji": ["toron"],
-    "katakana": ["トロン"],
-    "definition": [{
-      "equivalent": [
-        "desire",
-        "dreamy",
-        "drowsy",
-        "hazy",
-        "intoxicated",
-        "longing",
-        "lovestruck",
-        "melting",
-        "passion",
-        "soft",
-        "tipsy"
-      ],
-      "refer": "",
-      "meaning": "a soft, hazy, or drowsy state",
-      "type": "s",
-      "example": [{
-        "file": "toron-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "とろん\u2026",
-        "source": "only_sweet_when_alone"
-      }]
-    }],
-    "id": "toron"
+    "definition": [
+      {
+        "equivalent": [
+          "dissolve",
+          "dribble",
+          "drip",
+          "exude",
+          "flow",
+          "glop",
+          "liquify",
+          "melt",
+          "ooze",
+          "run",
+          "seep",
+          "soften",
+          "thaw",
+          "trickle"
+        ],
+        "refer": "",
+        "meaning": "a melting, seeping, or oozing texture",
+        "type": "s",
+        "example": [
+          {
+            "file": "toro toron-1a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "トロッ\u2026",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "toro toron-1b",
+            "contributor": "",
+            "nsfw": true,
+            "display": "トロ\u2026.",
+            "source": "gyaru_academy"
+          },
+          {
+            "file": "toro toron-1c",
+            "contributor": "",
+            "nsfw": true,
+            "display": "とろ\u2026っ",
+            "source": "beastly_boys_and_girls"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "desire",
+          "dreamy",
+          "drowsy",
+          "hazy",
+          "soft"
+        ],
+        "refer": "",
+        "meaning": "a soft, hazy, or drowsy state",
+        "type": "s",
+        "example": [
+          {
+            "file": "toro toron-2a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "とろん\u2026",
+            "source": "only_sweet_when_alone"
+          },
+          {
+            "file": "toro toron-2b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "トロ\u2026",
+            "source": "pochaco_is_so_cute"
+          }
+        ]
+      }
+    ],
+    "id": "toro toron"
   },
   {
     "hiragana": [
