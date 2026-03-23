@@ -1,3 +1,4 @@
+
 [
 
   {
@@ -348,6 +349,17 @@
       {
         "id": "dig_it",
         "manga": "Dig It"
+      }
+    ]
+  },
+
+  {
+    "publisher_name": "LINE Digital Frontier Co.",
+    "site": "https://ebookjapan.yahoo.co.jp",
+    "sources": [
+      {
+        "id": "my_cousin_and_me",
+        "manga": "Itoko no Onīsan To, Boku"
       }
     ]
   },
