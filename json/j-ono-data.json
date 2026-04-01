@@ -4879,6 +4879,19 @@
           "display": "ド ド ド ド",
           "source": "ai_and_izawa"
         }]
+      },
+      {
+        "equivalent": [""],
+        "refer": "doku dokun:1",
+        "meaning": "",
+        "type": "",
+        "example": [{
+          "file": "do-6a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ドッ ドッ ドッ",
+          "source": "my_cousin_and_me"
+        }]
       }
     ],
     "id": "do"
@@ -7022,6 +7035,13 @@
           "nsfw": false,
           "display": "ふりっ",
           "source": "lucky_prince_unlucky_princess"
+        },
+        {
+          "file": "furi-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ふり.",
+          "source": "my_cousin_and_me"
         }
       ]
     }],
@@ -11391,6 +11411,13 @@
             "nsfw": false,
             "display": "ギュッ",
             "source": "drawing"
+          },
+          {
+            "file": "gyu-2d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ギュウ",
+            "source": "my_cousin_and_me"
           }
         ]
       },
@@ -12367,7 +12394,7 @@
         "warm"
       ],
       "refer": "",
-      "meaning": "fresh and warm, as of freshly cooked food",
+      "meaning": "fresh and warm",
       "type": "s",
       "example": [
         {
@@ -12383,6 +12410,13 @@
           "nsfw": false,
           "display": "ホカ ホカ",
           "source": "otherworld_material_collector"
+        },
+        {
+          "file": "hoka hoka-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ほか ほか",
+          "source": "my_cousin_and_me"
         }
       ]
     }],
@@ -12867,7 +12901,7 @@
         "file": "ja ja-1a",
         "contributor": "",
         "nsfw": false,
-        "display": "ジャ ジャ ジャ ジャ ジャ ジャ",
+        "display": "ジャ ジャ ジャ ジャ ジャ",
         "source": "rock_n_roll_ladies"
       }]
     }],
@@ -13200,42 +13234,42 @@
         "type": "c",
         "example": [
           {
-            "file": "ji-1a",
+            "file": "ji jiin jin-1a",
             "contributor": "",
             "nsfw": false,
             "display": "じっ",
             "source": "d_genesis"
           },
           {
-            "file": "ji-1b",
+            "file": "ji jiin jin-1b",
             "contributor": "",
             "nsfw": false,
             "display": "じぃっ\u2026",
             "source": "d_genesis"
           },
           {
-            "file": "ji-1c",
+            "file": "ji jiin jin-1c",
             "contributor": "",
             "nsfw": false,
             "display": "じー",
             "source": "komi_cant_communicate"
           },
           {
-            "file": "ji-1d",
+            "file": "ji jiin jin-1d",
             "contributor": "",
             "nsfw": false,
             "display": "じー",
             "source": "otherworld_material_collector"
           },
           {
-            "file": "ji-1e",
+            "file": "ji jiin jin-1e",
             "contributor": "",
             "nsfw": false,
             "display": "ジー\u2026",
             "source": "acquired_r18_skill"
           },
           {
-            "file": "ji-1f",
+            "file": "ji jiin jin-1f",
             "contributor": "",
             "nsfw": false,
             "display": "じーん",
@@ -13252,21 +13286,31 @@
           "drone",
           "hum",
           "purr",
-          "zip"
+          "zip",
+          "zzz"
         ],
         "refer": "",
         "meaning": "a zipping or buzzing sound",
         "type": "o",
-        "example": [{
-          "file": "ji-2a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ジー",
-          "source": "neet_kunoichi"
-        }]
+        "example": [
+          {
+            "file": "ji jiin jin-2a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ジー",
+            "source": "neet_kunoichi"
+          },
+          {
+            "file": "ji jiin jin-2b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ジー ジー ジー",
+            "source": "my_cousin_and_me"
+          }
+        ]
       }
     ],
-    "id": "ji"
+    "id": "ji jiin jin"
   },
   {
     "hiragana": ["じりじり"],
@@ -13356,7 +13400,7 @@
     "katakana": ["ジロ"],
     "definition": [{
       "equivalent": [""],
-      "refer": "ji:1",
+      "refer": "ji jiin jin:1",
       "meaning": "",
       "type": "",
       "example": [{
@@ -13787,6 +13831,7 @@
       "かー",
       "かーっ",
       "かあ",
+      "かあっ",
       "かああ",
       "かあああ",
       "かか",
@@ -13802,6 +13847,7 @@
       "カー",
       "カーッ",
       "カア",
+      "カアッ",
       "カアア",
       "カアアア",
       "カカ",
@@ -13846,6 +13892,13 @@
             "nsfw": false,
             "display": "カッ",
             "source": "world_full_of_monsters"
+          },
+          {
+            "file": "ka-1e",
+            "contributor": "",
+            "nsfw": false,
+            "display": "カアッ",
+            "source": "my_cousin_and_me"
           }
         ]
       },
@@ -18308,9 +18361,18 @@
     "id": "na"
   },
   {
-    "hiragana": ["なでなで"],
-    "romaji": ["nade nade"],
-    "katakana": ["ナデナデ"],
+    "hiragana": [
+      "なで",
+      "なでなで"
+    ],
+    "romaji": [
+      "nade",
+      "nade nade"
+    ],
+    "katakana": [
+      "ナデ",
+      "ナデナデ"
+    ],
     "definition": [{
       "equivalent": [
         "caress",
@@ -18325,28 +18387,35 @@
       "type": "s",
       "example": [
         {
-          "file": "nade nade-1a",
+          "file": "nade-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "なで",
+          "source": "my_cousin_and_me"
+        },
+        {
+          "file": "nade-1b",
           "contributor": "",
           "nsfw": false,
           "display": "ナデ ナデ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "nade nade-1b",
+          "file": "nade-1c",
           "contributor": "",
           "nsfw": false,
           "display": "なで なで",
           "source": "s_rank_behemoth"
         },
         {
-          "file": "nade nade-1c",
+          "file": "nade-1d",
           "contributor": "",
           "nsfw": false,
           "display": "なで なで",
           "source": "isekai_territory_reform"
         },
         {
-          "file": "nade nade-1d",
+          "file": "nade-1e",
           "contributor": "",
           "nsfw": false,
           "display": "ナデ ナデ",
@@ -18354,7 +18423,7 @@
         }
       ]
     }],
-    "id": "nade nade"
+    "id": "nade"
   },
   {
     "hiragana": ["んちゅ"],
@@ -18825,6 +18894,35 @@
       }]
     }],
     "id": "nma"
+  },
+  {
+    "hiragana": [
+      "のび",
+      "のびー"
+    ],
+    "romaji": ["nobi"],
+    "katakana": [
+      "ノビ",
+      "ノビー"
+    ],
+    "definition": [{
+      "equivalent": [
+        "extend",
+        "reach",
+        "stretch"
+      ],
+      "refer": "",
+      "meaning": "stretching or extending outward",
+      "type": "m",
+      "example": [{
+        "file": "nobi-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "のびー",
+        "source": "my_cousin_and_me"
+      }]
+    }],
+    "id": "nobi"
   },
   {
     "hiragana": [
@@ -22580,15 +22678,24 @@
         "whump"
       ],
       "refer": "",
-      "meaning": "falling or pressing into something soft",
+      "meaning": "soft, muffled impact with something plush or yielding",
       "type": "o",
-      "example": [{
-        "file": "pofu-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "ぽふっッ",
-        "source": "only_sweet_when_alone"
-      }]
+      "example": [
+        {
+          "file": "pofu-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ぽふっッ",
+          "source": "only_sweet_when_alone"
+        },
+        {
+          "file": "pofu-1b",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ぽふ",
+          "source": "my_cousin_and_me"
+        }
+      ]
     }],
     "id": "pofu"
   },
@@ -23898,6 +24005,34 @@
     "id": "punyun"
   },
   {
+    "hiragana": ["ぷりん"],
+    "romaji": ["purin"],
+    "katakana": ["プリン"],
+    "definition": [{
+      "equivalent": [
+        "boing",
+        "bouncy",
+        "firm",
+        "jiggly",
+        "plump",
+        "smooth",
+        "soft",
+        "wiggle"
+      ],
+      "refer": "",
+      "meaning": "plump and somewhat firm",
+      "type": "s",
+      "example": [{
+        "file": "purin-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ぷりん",
+        "source": "my_cousin_and_me"
+      }]
+    }],
+    "id": "purin"
+  },
+  {
     "hiragana": [
       "ぷる",
       "ぷるる",
@@ -25043,28 +25178,63 @@
     "id": "shari"
   },
   {
-    "hiragana": ["しっしっ"],
-    "romaji": ["shi shi"],
-    "katakana": ["シッシッ"],
-    "definition": [{
-      "equivalent": [
-        "go away",
-        "scram",
-        "shoo",
-        "shoo away"
-      ],
-      "refer": "",
-      "meaning": "a shooing gesture",
-      "type": "m",
-      "example": [{
-        "file": "shi shi-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "しっ しっ",
-        "source": "fushi_no_kami"
-      }]
-    }],
-    "id": "shi shi"
+    "hiragana": [
+      "し",
+      "しっ",
+      "しー",
+      "しし",
+      "しっしっ"
+    ],
+    "romaji": [
+      "shi",
+      "shi shi"
+    ],
+    "katakana": [
+      "シ",
+      "シッ",
+      "シー",
+      "シシ",
+      "シッシッ"
+    ],
+    "definition": [
+      {
+        "equivalent": [
+          "be quiet",
+          "hush",
+          "shh",
+          "shush"
+        ],
+        "refer": "",
+        "meaning": "vocalized shushing sound",
+        "type": "v",
+        "example": [{
+          "file": "shi-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "しー.",
+          "source": "my_cousin_and_me"
+        }]
+      },
+      {
+        "equivalent": [
+          "go away",
+          "scram",
+          "shoo",
+          "shoo away"
+        ],
+        "refer": "",
+        "meaning": "a shooing gesture",
+        "type": "m",
+        "example": [{
+          "file": "shi-2a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "しっ しっ",
+          "source": "fushi_no_kami"
+        }]
+      }
+    ],
+    "id": "shi"
   },
   {
     "hiragana": [
@@ -25637,7 +25807,10 @@
       "そわそわ",
       "そゎそゎ"
     ],
-    "romaji": ["sowa sowa"],
+    "romaji": [
+      "sowa",
+      "sowa sowa"
+    ],
     "katakana": [
       "ソワソワ",
       "ソヮソヮ"
@@ -25656,17 +25829,26 @@
         "tense"
       ],
       "refer": "",
-      "meaning": "restless or fidgety due to nervousness or anticipation",
+      "meaning": "nervousness or anticipation, often expressed by fidgeting",
       "type": "e",
-      "example": [{
-        "file": "sowa sowa-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "そわ そわ",
-        "source": "embarrassing_and_sweet"
-      }]
+      "example": [
+        {
+          "file": "sowa-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "そわ\u2026",
+          "source": "my_cousin_and_me"
+        },
+        {
+          "file": "sowa-1b",
+          "contributor": "",
+          "nsfw": false,
+          "display": "そわ そわ",
+          "source": "embarrassing_and_sweet"
+        }
+      ]
     }],
-    "id": "sowa sowa"
+    "id": "sowa"
   },
   {
     "hiragana": [
@@ -29012,6 +29194,13 @@
           "nsfw": false,
           "display": "わい わい わい",
           "source": "yojo_life"
+        },
+        {
+          "file": "wai wai-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ワイ ワイ",
+          "source": "my_cousin_and_me"
         }
       ]
     }],
