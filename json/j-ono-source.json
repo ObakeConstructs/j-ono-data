@@ -40,6 +40,21 @@
   },
 
   {
+    "publisher_name": "AlphaPolis Co., Ltd.",
+    "site": "https://www.alphapolis.co.jp",
+    "sources": [
+      {
+        "id": "otherworld_material_collector",
+        "manga": "Souzai Saishuka no Isekai Ryokouki"
+      },
+      {
+        "id": "leave_me_alone",
+        "manga": "Hottoite kudasai - Juma to Cheat Life Tanoshimitai!"
+      }
+    ]
+  },
+
+  {
     "publisher_name": "Amazia, Inc.",
     "site": "https://comics.manga-bang.com/",
     "sources": [
@@ -58,17 +73,6 @@
       {
         "id": "forest_of_revenge",
         "manga": "Fukushū no mori"
-      }
-    ]
-  },
-
-  {
-    "publisher_name": "AlphaPolis Co., Ltd.",
-    "site": "https://www.alphapolis.co.jp",
-    "sources": [
-      {
-        "id": "otherworld_material_collector",
-        "manga": "Souzai Saishuka no Isekai Ryokouki"
       }
     ]
   },
