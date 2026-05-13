@@ -6227,44 +6227,6 @@
   },
   {
     "hiragana": [
-      "ふい",
-      "ふいっ",
-      "ふぃ",
-      "ふぃっ"
-    ],
-    "romaji": [
-      "fi",
-      "fui"
-    ],
-    "katakana": [
-      "フイ",
-      "フイッ",
-      "フィ",
-      "フィッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "dismiss",
-        "reject",
-        "spin",
-        "turn",
-        "turn away"
-      ],
-      "refer": "",
-      "meaning": "abruptly ignoring or turning away as a dismissive gesture",
-      "type": "m",
-      "example": [{
-        "file": "fi-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "フイッ",
-        "source": "mushoku_tensei"
-      }]
-    }],
-    "id": "fi"
-  },
-  {
-    "hiragana": [
       "ふぃうん",
       "ふぃうーん"
     ],
@@ -6617,6 +6579,46 @@
       }
     ],
     "id": "fua fuwa"
+  },
+  {
+    "hiragana": [
+      "ふい",
+      "ふいっ"
+    ],
+    "romaji": ["fui"],
+    "katakana": [
+      "フイ",
+      "フイッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "dismiss",
+        "reject",
+        "spin",
+        "turn",
+        "turn away"
+      ],
+      "refer": "",
+      "meaning": "abruptly ignoring or turning away as a dismissive gesture",
+      "type": "m",
+      "example": [
+        {
+          "file": "fui-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "フイッ",
+          "source": "mushoku_tensei"
+        },
+        {
+          "file": "fui-1b",
+          "contributor": "",
+          "nsfw": false,
+          "display": "フイッ",
+          "source": "leave_me_alone"
+        }
+      ]
+    }],
+    "id": "fui"
   },
   {
     "hiragana": ["ふきふき"],
@@ -9137,12 +9139,17 @@
   {
     "hiragana": [
       "ぎろ",
-      "ぎろっ"
+      "ぎろっ",
+      "ぎろり"
     ],
-    "romaji": ["giro"],
+    "romaji": [
+      "giro",
+      "girori"
+    ],
     "katakana": [
       "ギロ",
-      "ギロッ"
+      "ギロッ",
+      "ギロリ"
     ],
     "definition": [{
       "equivalent": [""],
@@ -9151,55 +9158,50 @@
       "type": "",
       "example": [
         {
-          "file": "giro-1a",
+          "file": "giro girori-1a",
           "contributor": "",
           "nsfw": false,
           "display": "ギロ",
           "source": "different_world_smartphone"
         },
         {
-          "file": "giro-1b",
+          "file": "giro girori-1b",
           "contributor": "",
           "nsfw": false,
           "display": "ギロッ",
           "source": "ai_and_izawa"
         },
         {
-          "file": "giro-1c",
+          "file": "giro girori-1c",
           "contributor": "",
           "nsfw": false,
           "display": "ギロッ",
           "source": "minimum_wage_demon_king"
         },
         {
-          "file": "giro-1d",
+          "file": "giro girori-1d",
           "contributor": "",
           "nsfw": false,
           "display": "ギロ",
           "source": "mushoku_tensei"
+        },
+        {
+          "file": "giro girori-1e",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ギロリ",
+          "source": "saga_lagging_hero"
+        },
+        {
+          "file": "giro girori-1f",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ギロリ",
+          "source": "leave_me_alone"
         }
       ]
     }],
-    "id": "giro"
-  },
-  {
-    "hiragana": ["ぎろり"],
-    "romaji": ["girori"],
-    "katakana": ["ギロリ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "gin:1",
-      "meaning": "",
-      "type": "",
-      "example": [{
-        "file": "girori-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "ギロリ",
-        "source": "saga_lagging_hero"
-      }]
-    }],
-    "id": "girori"
+    "id": "giro girori"
   },
   {
     "hiragana": [
@@ -9486,13 +9488,22 @@
         "refer": "",
         "meaning": "loud, continuous howling or roaring wind",
         "type": "o",
-        "example": [{
-          "file": "go-4a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ゴオオオオオオ",
-          "source": "millimos_saga"
-        }]
+        "example": [
+          {
+            "file": "go-4a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ゴオオオオオオ",
+            "source": "millimos_saga"
+          },
+          {
+            "file": "go-4b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ゴッ",
+            "source": "leave_me_alone"
+          }
+        ]
       }
     ],
     "id": "go"
@@ -10387,6 +10398,13 @@
             "nsfw": false,
             "display": "ぐぅ",
             "source": "way_of_isekai_cooking"
+          },
+          {
+            "file": "gu-3d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ぐうー",
+            "source": "leave_me_alone"
           }
         ]
       },
@@ -12447,6 +12465,31 @@
       }]
     }],
     "id": "horori"
+  },
+  {
+    "hiragana": ["ほわん"],
+    "romaji": ["howan"],
+    "katakana": ["ホワン"],
+    "definition": [{
+      "equivalent": [
+        "change",
+        "grow",
+        "shrink",
+        "transform",
+        "whum"
+      ],
+      "refer": "",
+      "meaning": "soft, gentle transformation or change",
+      "type": "s",
+      "example": [{
+        "file": "howan-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ホワン\u2026",
+        "source": "leave_me_alone"
+      }]
+    }],
+    "id": "howan"
   },
   {
     "hiragana": [
@@ -15759,9 +15802,20 @@
     "id": "koshi"
   },
   {
-    "hiragana": ["こそこそ"],
-    "romaji": ["koso koso"],
-    "katakana": ["コソコソ"],
+    "hiragana": [
+      "こそ",
+      "こそっ",
+      "こそこそ"
+    ],
+    "romaji": [
+      "koso",
+      "koso koso"
+    ],
+    "katakana": [
+      "コソ",
+      "コソッ",
+      "コソコソ"
+    ],
     "definition": [{
       "equivalent": [
         "cover",
@@ -15778,15 +15832,24 @@
       "refer": "",
       "meaning": "behaving or whispering in way that prevents notice",
       "type": "m",
-      "example": [{
-        "file": "koso koso-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "こそ こそ",
-        "source": "dog_became_strongest"
-      }]
+      "example": [
+        {
+          "file": "koso-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "こそ こそ",
+          "source": "dog_became_strongest"
+        },
+        {
+          "file": "koso-1b",
+          "contributor": "",
+          "nsfw": false,
+          "display": "こそっ",
+          "source": "leave_me_alone"
+        }
+      ]
     }],
-    "id": "koso koso"
+    "id": "koso"
   },
   {
     "hiragana": ["こすこす"],
@@ -17036,6 +17099,42 @@
     "id": "kyun"
   },
   {
+    "hiragana": [
+      "きゅぽ",
+      "きゅぽん"
+    ],
+    "romaji": [
+      "kyupo",
+      "kyupon"
+    ],
+    "katakana": [
+      "キュポ",
+      "キュポン"
+    ],
+    "definition": [{
+      "equivalent": [
+        "chik",
+        "click",
+        "fwip",
+        "ka-pop",
+        "plup",
+        "pop",
+        "tik"
+      ],
+      "refer": "",
+      "meaning": "popping release of a snug or airtight seal",
+      "type": "o",
+      "example": [{
+        "file": "kyupo kyupon-1a",
+        "contributor": "Artrix",
+        "nsfw": false,
+        "display": "キュポン",
+        "source": "pokemon_xy_break"
+      }]
+    }],
+    "id": "kyupo kyupon"
+  },
+  {
     "hiragana": ["きゅるきゅる"],
     "romaji": ["kyuru kyuru"],
     "katakana": ["キュルキュル"],
@@ -17436,9 +17535,18 @@
     "id": "mo"
   },
   {
-    "hiragana": ["もふ"],
-    "romaji": ["mofu"],
-    "katakana": ["モフ"],
+    "hiragana": [
+      "もふ",
+      "もふもふ"
+    ],
+    "romaji": [
+      "mofu",
+      "mofu mofu"
+    ],
+    "katakana": [
+      "モフ",
+      "モフモフ"
+    ],
     "definition": [{
       "equivalent": [
         "cuddle",
@@ -17450,15 +17558,24 @@
         "warm"
       ],
       "refer": "",
-      "meaning": "the feeling of something soft, fluffy, and warm",
+      "meaning": "soft and fluffy, often warm",
       "type": "s",
-      "example": [{
-        "file": "mofu-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "もふ\u2026",
-        "source": "world_full_of_monsters"
-      }]
+      "example": [
+        {
+          "file": "mofu-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "もふ\u2026",
+          "source": "world_full_of_monsters"
+        },
+        {
+          "file": "mofu-1b",
+          "contributor": "",
+          "nsfw": false,
+          "display": "もふ もふ",
+          "source": "leave_me_alone"
+        }
+      ]
     }],
     "id": "mofu"
   },
@@ -17847,7 +17964,7 @@
         "vexed"
       ],
       "refer": "",
-      "meaning": "an expression of irritation, sulking, or mild defiance, often expressed with puffed cheeks or a pout",
+      "meaning": "an expression of irritation, sulking, or mild defiance, often expressed with puffed cheeks or a glare",
       "type": "e",
       "example": [
         {
@@ -17870,6 +17987,13 @@
           "nsfw": false,
           "display": "むっ",
           "source": "cheat_pharmacist"
+        },
+        {
+          "file": "mu-1d",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ムッ\u2026",
+          "source": "leave_me_alone"
         }
       ]
     }],
@@ -18637,6 +18761,35 @@
   },
   {
     "hiragana": [
+      "にか",
+      "にかっ"
+    ],
+    "romaji": ["nika"],
+    "katakana": [
+      "ニカ",
+      "ニカッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "beam",
+        "grin",
+        "smile"
+      ],
+      "refer": "",
+      "meaning": "wide, toothy grin",
+      "type": "s",
+      "example": [{
+        "file": "nika-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ニカッ",
+        "source": "leave_me_alone"
+      }]
+    }],
+    "id": "nika"
+  },
+  {
+    "hiragana": [
       "にこ",
       "にこっ",
       "にこお",
@@ -18663,7 +18816,7 @@
         "smile"
       ],
       "refer": "",
-      "meaning": "a bright, friendly smile",
+      "meaning": "a gentle, friendly smile",
       "type": "s",
       "example": [
         {
@@ -22575,15 +22728,24 @@
           "stare"
         ],
         "refer": "",
-        "meaning": "momentarily dazed by strong emotion",
-        "type": "e",
-        "example": [{
-          "file": "po-2a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ぽー\u2026",
-          "source": "world_full_of_monsters"
-        }]
+        "meaning": "momentarily dazed or stunned",
+        "type": "s",
+        "example": [
+          {
+            "file": "po-2a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ぽー\u2026",
+            "source": "world_full_of_monsters"
+          },
+          {
+            "file": "po-2b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ぽーっ",
+            "source": "leave_me_alone"
+          }
+        ]
       },
       {
         "equivalent": [
@@ -22592,8 +22754,8 @@
           "plink",
           "plop",
           "plunk",
-          "splash",
-          "ripple"
+          "ripple",
+          "splash"
         ],
         "refer": "",
         "meaning": "the sound of a small, soft drop or splash",
@@ -23130,44 +23292,18 @@
     "id": "pori pori"
   },
   {
-    "hiragana": ["ぽろぽろ"],
-    "romaji": ["poro poro"],
-    "katakana": ["ポロポロ"],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "poro:2",
-      "meaning": "",
-      "type": "",
-      "example": [
-        {
-          "file": "poro poro-1a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ポロ ポロ",
-          "source": "reincarnated_farm_girl"
-        },
-        {
-          "file": "poro poro-1b",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ポロ ポロ",
-          "source": "spy_x_family"
-        },
-        {
-          "file": "poro poro-1c",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ポロ ポロ",
-          "source": "isekai_sniper"
-        }
-      ]
-    }],
-    "id": "poro poro"
-  },
-  {
-    "hiragana": ["ぽろ"],
-    "romaji": ["poro"],
-    "katakana": ["ポロ"],
+    "hiragana": [
+      "ぽろ",
+      "ぽろぽろ"
+    ],
+    "romaji": [
+      "poro",
+      "poro poro"
+    ],
+    "katakana": [
+      "ポロ",
+      "ポロポロ"
+    ],
     "definition": [
       {
         "equivalent": [
@@ -23212,13 +23348,43 @@
         "refer": "",
         "meaning": "shedding tears from strong emotions",
         "type": "e",
-        "example": [{
-          "file": "poro-2a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ポロ",
-          "source": "requiem_for_prophet"
-        }]
+        "example": [
+          {
+            "file": "poro-2a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ポロ",
+            "source": "requiem_for_prophet"
+          },
+          {
+            "file": "poro-2b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ぽろ",
+            "source": "leave_me_alone"
+          },
+          {
+            "file": "poro-2c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ポロ ポロ",
+            "source": "reincarnated_farm_girl"
+          },
+          {
+            "file": "poro-2d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ポロ ポロ",
+            "source": "spy_x_family"
+          },
+          {
+            "file": "poro-2e",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ポロ ポロ",
+            "source": "isekai_sniper"
+          }
+        ]
       }
     ],
     "id": "poro"
@@ -23393,6 +23559,35 @@
       ]
     }],
     "id": "pou"
+  },
+  {
+    "hiragana": ["ぽわ"],
+    "romaji": ["powa"],
+    "katakana": ["ポワ"],
+    "definition": [{
+      "equivalent": [
+        "aura",
+        "dreamy",
+        "gentle",
+        "glimmer",
+        "glow",
+        "magic",
+        "shimmer",
+        "soft",
+        "twinkle"
+      ],
+      "refer": "",
+      "meaning": "soft, gentle, or dreamy magic",
+      "type": "s",
+      "example": [{
+        "file": "powa-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "ぽわ\u2026",
+        "source": "leave_me_alone"
+      }]
+    }],
+    "id": "powa"
   },
   {
     "hiragana": [
@@ -24388,6 +24583,13 @@
           "nsfw": false,
           "display": "ピャッ",
           "source": "ramparts_of_ice"
+        },
+        {
+          "file": "pya-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ぴゃっ",
+          "source": "leave_me_alone"
         }
       ]
     }],
@@ -24442,9 +24644,18 @@
     "id": "pyoko"
   },
   {
-    "hiragana": ["ぴょん"],
-    "romaji": ["pyon"],
-    "katakana": ["ピョン"],
+    "hiragana": [
+      "ぴょん",
+      "ぴょんぴょん"
+    ],
+    "romaji": [
+      "pyon",
+      "pyon pyon"
+    ],
+    "katakana": [
+      "ピョン",
+      "ピョンピョン"
+    ],
     "definition": [{
       "equivalent": [
         "boing",
@@ -24479,6 +24690,13 @@
           "nsfw": false,
           "display": "ぴょん",
           "source": "spy_x_family"
+        },
+        {
+          "file": "pyon-1d",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ぴょん ぴょん",
+          "source": "leave_me_alone"
         }
       ]
     }],
@@ -25428,7 +25646,7 @@
           "zoom"
         ],
         "refer": "",
-        "meaning": "a sudden disappearance or movement too fast to see",
+        "meaning": "movement too fast to see, just disappearing or appearing suddenly",
         "type": "m",
         "example": [
           {
@@ -25649,6 +25867,13 @@
             "nsfw": false,
             "display": "シュン",
             "source": "hero_or_demon_king"
+          },
+          {
+            "file": "shun-2d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "シュンッ",
+            "source": "leave_me_alone"
           }
         ]
       }
@@ -25776,6 +26001,13 @@
             "nsfw": false,
             "display": "そ\u2026っ",
             "source": "lucky_prince_unlucky_princess"
+          },
+          {
+            "file": "so-2c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "そ\u2026",
+            "source": "leave_me_alone"
           }
         ]
       },
@@ -28017,50 +28249,26 @@
   },
   {
     "hiragana": [
-      "つつ",
-      "っっ"
-    ],
-    "romaji": ["tsu tsu"],
-    "katakana": [
-      "ツツ",
-      "ッッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "buzz",
-        "bzz",
-        "tap-tap"
-      ],
-      "refer": "",
-      "meaning": "tiny vibrations or buzzing",
-      "type": "o",
-      "example": [{
-        "file": "tsu tsu-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "つつ",
-        "source": "35_year_olds_choice"
-      }]
-    }],
-    "id": "tsu tsu"
-  },
-  {
-    "hiragana": [
+      "っ",
       "つ",
       "つー",
-      "っ",
       "つう",
       "つうー",
-      "つうーっ"
+      "つうーっ",
+      "つつ"
     ],
-    "romaji": ["tsu"],
+    "romaji": [
+      "tsu",
+      "tsu tsu"
+    ],
     "katakana": [
+      "ッ",
       "ツ",
       "ツー",
-      "ッ",
       "ツウ",
       "ツウー",
-      "ツウーッ"
+      "ツウーッ",
+      "ツツ"
     ],
     "definition": [
       {
@@ -28106,8 +28314,34 @@
             "nsfw": false,
             "display": "つうーっ",
             "source": "room_203"
+          },
+          {
+            "file": "tsu-2c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "つつ",
+            "source": "leave_me_alone"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "contact",
+          "poke",
+          "prod",
+          "tap",
+          "touch"
+        ],
+        "refer": "",
+        "meaning": "light touching or tapping",
+        "type": "m",
+        "example": [{
+          "file": "tsu-3a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "つつ",
+          "source": "35_year_olds_choice"
+        }]
       }
     ],
     "id": "tsu"
@@ -28783,6 +29017,32 @@
     "id": "uru"
   },
   {
+    "hiragana": ["うと"],
+    "romaji": ["uto"],
+    "katakana": ["ウト"],
+    "definition": [{
+      "equivalent": [
+        "dozy",
+        "drifting off",
+        "drowsy",
+        "lethargic",
+        "nodding off",
+        "sleepy"
+      ],
+      "refer": "",
+      "meaning": "becoming sleepy or drifting off",
+      "type": "s",
+      "example": [{
+        "file": "uto-1a",
+        "contributor": "",
+        "nsfw": false,
+        "display": "うと\u2026",
+        "source": "leave_me_alone"
+      }]
+    }],
+    "id": "uto"
+  },
+  {
     "hiragana": [
       "うわん",
       "うわーん",
@@ -29071,7 +29331,7 @@
           "waa"
         ],
         "refer": "",
-        "meaning": "shout in surprise, shock, or fear",
+        "meaning": "shouting in surprise, shock, or fear",
         "type": "v",
         "example": [
           {
@@ -29127,6 +29387,25 @@
             "source": "acquired_r18_skill"
           }
         ]
+      },
+      {
+        "equivalent": [
+          "ah",
+          "eh?",
+          "huh?",
+          "oh",
+          "wha?"
+        ],
+        "refer": "",
+        "meaning": "a verbal exclamation of mild surprise or realization",
+        "type": "v",
+        "example": [{
+          "file": "wa-3a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "わ",
+          "source": "leave_me_alone"
+        }]
       }
     ],
     "id": "wa"
@@ -29745,6 +30024,8 @@
       },
       {
         "equivalent": [
+          "gust",
+          "rustle",
           "whish",
           "whistle",
           "whoo",
@@ -29752,15 +30033,24 @@
           "wind"
         ],
         "refer": "",
-        "meaning": "gentle wind or gust",
+        "meaning": "gentle movement or rustling, as from wind",
         "type": "o",
-        "example": [{
-          "file": "za-2a",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ザア アアア",
-          "source": "slow_life_as_a_blacksmith"
-        }]
+        "example": [
+          {
+            "file": "za-2a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ザア アアア",
+            "source": "slow_life_as_a_blacksmith"
+          },
+          {
+            "file": "za-2b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ザァァ\u2026",
+            "source": "leave_me_alone"
+          }
+        ]
       },
       {
         "equivalent": [
