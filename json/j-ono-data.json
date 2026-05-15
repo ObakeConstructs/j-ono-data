@@ -10526,10 +10526,10 @@
   },
   {
     "hiragana": [
-      "ぐい",
-      "ぐいっ",
       "ぐぃ",
       "ぐぃっ",
+      "ぐい",
+      "ぐいっ",
       "ぐいぐい"
     ],
     "romaji": [
@@ -10537,75 +10537,95 @@
       "gui gui"
     ],
     "katakana": [
-      "グイ",
-      "グイッ",
       "グィ",
       "グィッ",
+      "グイ",
+      "グイッ",
       "グイグイ"
     ],
-    "definition": [{
-      "equivalent": [
-        "get",
-        "grab",
-        "nab",
-        "pull",
-        "seize",
-        "shove",
-        "snag",
-        "swipe",
-        "take",
-        "tug",
-        "wrest",
-        "yank"
-      ],
-      "refer": "",
-      "meaning": "a forceful grab, push, or pull",
-      "type": "m",
-      "example": [
-        {
-          "file": "gui-1a",
-          "contributor": "",
+    "definition": [
+      {
+        "equivalent": [
+          "get",
+          "grab",
+          "nab",
+          "pull",
+          "seize",
+          "shove",
+          "snag",
+          "swipe",
+          "take",
+          "tug",
+          "wrest",
+          "yank"
+        ],
+        "refer": "",
+        "meaning": "a forceful grab, push, or pull",
+        "type": "m",
+        "example": [
+          {
+            "file": "gui-1a",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ぐいっ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "gui-1b",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ぐぃっ",
+            "source": "different_world_smartphone"
+          },
+          {
+            "file": "gui-1c",
+            "contributor": "",
+            "nsfw": false,
+            "display": "グイ",
+            "source": "marginal_taylor"
+          },
+          {
+            "file": "gui-1d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "グイッ",
+            "source": "otherworld_material_collector"
+          },
+          {
+            "file": "gui-1e",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ぐぃっ",
+            "source": "ai_and_izawa"
+          },
+          {
+            "file": "gui-1f",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ぐい ぐい",
+            "source": "saga_lagging_hero"
+          }
+        ]
+      },
+      {
+        "equivalent": [
+          "glub",
+          "gulp",
+          "guzzle",
+          "swig"
+        ],
+        "refer": "",
+        "meaning": "strong pulling or guzzling of a drink",
+        "type": "m",
+        "example": [{
+          "file": "gui-2a",
+          "contributor": "watatomo",
           "nsfw": false,
-          "display": "ぐいっ",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "gui-1b",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ぐぃっ",
-          "source": "different_world_smartphone"
-        },
-        {
-          "file": "gui-1c",
-          "contributor": "",
-          "nsfw": false,
-          "display": "グイ",
-          "source": "marginal_taylor"
-        },
-        {
-          "file": "gui-1d",
-          "contributor": "",
-          "nsfw": false,
-          "display": "グイッ",
-          "source": "otherworld_material_collector"
-        },
-        {
-          "file": "gui-1e",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ぐぃっ",
-          "source": "ai_and_izawa"
-        },
-        {
-          "file": "gui-1f",
-          "contributor": "",
-          "nsfw": false,
-          "display": "ぐい ぐい",
-          "source": "saga_lagging_hero"
-        }
-      ]
-    }],
+          "display": "ぐい",
+          "source": "after_period"
+        }]
+      }
+    ],
     "id": "gui"
   },
   {
@@ -11529,7 +11549,7 @@
         "whirl"
       ],
       "refer": "",
-      "meaning": "a spinning, turning, or whirling motion, often with sudden speed or force",
+      "meaning": "sudden high-speed movement or acceleration",
       "type": "m",
       "example": [
         {
@@ -11545,6 +11565,13 @@
           "nsfw": false,
           "display": "ギュンッ",
           "source": "banished_color_user"
+        },
+        {
+          "file": "gyun-1c",
+          "contributor": "Artrix",
+          "nsfw": false,
+          "display": "ギュン",
+          "source": "pokemon_xy_break"
         }
       ]
     }],
@@ -28319,7 +28346,7 @@
             "file": "tsu-2c",
             "contributor": "",
             "nsfw": false,
-            "display": "つつ",
+            "display": "つつ\u2026",
             "source": "leave_me_alone"
           }
         ]

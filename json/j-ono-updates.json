@@ -1,7 +1,15 @@
 [
   {
+    "date": "May 15, 2026",
+    "message": "New examples: 1 from <b>After Period</b> (source: watatomo)"
+  },
+  {
+    "date": "May 15, 2026",
+    "message": "New examples: 1 from <b>Pokemon Card Game XY BREAK Yarou Ze!</b> (source: Artrix)"
+  },
+  {
     "date": "May 12, 2026",
-    "message": "New examples: 20 from Hottoite kudasai - Juma to Cheat Life Tanoshimitai!"
+    "message": "New examples: 20 from <b>Hottoite kudasai - Juma to Cheat Life Tanoshimitai!</b>"
   },
   {
     "date": "May 12, 2026",
@@ -18,13 +26,5 @@
   {
     "date": "Mar 7, 2026",
     "message": "New examples: 15 from <b>Boku no Seieki de Honpuku Kaiyu</b>"
-  },
-  {
-    "date": "Mar 4, 2026",
-    "message": "Added NSFW tags to records; updated search tool to blur NSFW images by default."
-  },
-  {
-    "date": "Mar 3, 2026",
-    "message": "Updated search tool to incorporate searching via URL parameters (aka query strings)."
   }
 ]
