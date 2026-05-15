@@ -316,6 +316,17 @@
   },
 
   {
+    "publisher_name": "KAIOHSHA",
+    "site": "https://www.gushnet.jp",
+    "sources": [
+      {
+        "id": "after_period",
+        "manga": "After Period"
+      }
+    ]
+  },
+
+  {
     "publisher_name": "KILL TIME COMMUNICATION PUBLISHING Co.",
     "site": "https://www.ktcom.jp",
     "sources": [
