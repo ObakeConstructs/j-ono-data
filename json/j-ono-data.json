@@ -4703,6 +4703,43 @@
   },
   {
     "hiragana": [
+      "ぢゅ",
+      "ぢゅっ"
+    ],
+    "romaji": [
+      "dju",
+      "jiyu",
+      "ju"
+    ],
+    "katakana": [
+      "ヂュ",
+      "ヂュッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "shlurp",
+        "smack",
+        "squash",
+        "squelch",
+        "squish",
+        "suck",
+        "wet"
+      ],
+      "refer": "",
+      "meaning": "wet squishing, smacking, or sucking sound",
+      "type": "o",
+      "example": [{
+        "file": "dju jiyu ju-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "ヂュッ ヂュヂュッ ヂュッ",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "dju jiyu ju"
+  },
+  {
+    "hiragana": [
       "ど",
       "どっ",
       "どぉ",
@@ -13671,42 +13708,6 @@
       ]
     }],
     "id": "jiwa"
-  },
-  {
-    "hiragana": [
-      "ぢゅ",
-      "ぢゅっ"
-    ],
-    "romaji": [
-      "ju",
-      "dju"
-    ],
-    "katakana": [
-      "ヂュ",
-      "ヂュッ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "shlurp",
-        "smack",
-        "squash",
-        "squelch",
-        "squish",
-        "suck",
-        "wet"
-      ],
-      "refer": "",
-      "meaning": "wet squishing, smacking, or sucking sound",
-      "type": "o",
-      "example": [{
-        "file": "ju dju-1a",
-        "contributor": "",
-        "nsfw": true,
-        "display": "ヂュッ ヂュヂュッ ヂュッ",
-        "source": "my_semen"
-      }]
-    }],
-    "id": "ju dju"
   },
   {
     "hiragana": [
