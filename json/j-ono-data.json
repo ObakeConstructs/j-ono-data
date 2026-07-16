@@ -3243,6 +3243,41 @@
   },
   {
     "hiragana": [
+      "ぶら",
+      "ぶらぶら"
+    ],
+    "romaji": [
+      "bura",
+      "bura bura"
+    ],
+    "katakana": [
+      "ブラ",
+      "ブラブラ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "dangle",
+        "hang",
+        "suspended",
+        "sway",
+        "swing",
+        "swish"
+      ],
+      "refer": "",
+      "meaning": "hanging, swaying, or dangling freely",
+      "type": "s",
+      "example": [{
+        "file": "bura-1a",
+        "contributor": "Warlic",
+        "nsfw": false,
+        "display": "ブラ ブラ",
+        "source": "naruto"
+      }]
+    }],
+    "id": "bura"
+  },
+  {
+    "hiragana": [
       "ぶろ",
       "ぶろろ",
       "ぶろろろ"
@@ -13639,6 +13674,42 @@
   },
   {
     "hiragana": [
+      "ぢゅ",
+      "ぢゅっ"
+    ],
+    "romaji": [
+      "ju",
+      "dju"
+    ],
+    "katakana": [
+      "ヂュ",
+      "ヂュッ"
+    ],
+    "definition": [{
+      "equivalent": [
+        "shlurp",
+        "smack",
+        "squash",
+        "squelch",
+        "squish",
+        "suck",
+        "wet"
+      ],
+      "refer": "",
+      "meaning": "wet squishing, smacking, or sucking sound",
+      "type": "o",
+      "example": [{
+        "file": "ju dju-1a",
+        "contributor": "",
+        "nsfw": true,
+        "display": "ヂュッ ヂュヂュッ ヂュッ",
+        "source": "my_semen"
+      }]
+    }],
+    "id": "ju dju"
+  },
+  {
+    "hiragana": [
       "じゅうぅ",
       "じゅー",
       "じゅぅ",
@@ -13661,65 +13732,42 @@
       "ジュウウウ",
       "ジュッ"
     ],
-    "definition": [
-      {
-        "equivalent": [
-          "burn",
-          "fizz",
-          "hiss",
-          "juicy",
-          "sizzle",
-          "steam"
-        ],
-        "refer": "",
-        "meaning": "hissing or sizzling, as from cooking",
-        "type": "o",
-        "example": [
-          {
-            "file": "ju-1a",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ジュウウ\u2026",
-            "source": "strongest_thread_master"
-          },
-          {
-            "file": "ju-1b",
-            "contributor": "",
-            "nsfw": false,
-            "display": "じゅう",
-            "source": "way_of_the_house_husband"
-          },
-          {
-            "file": "ju-1c",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ゅぅぅ\u2026",
-            "source": "shogun_gold_in_america"
-          }
-        ]
-      },
-      {
-        "equivalent": [
-          "shlurp",
-          "smack",
-          "squash",
-          "squelch",
-          "squish",
-          "suck",
-          "wet"
-        ],
-        "refer": "",
-        "meaning": "wet squishing, smacking, or sucking sound",
-        "type": "o",
-        "example": [{
-          "file": "ju-2a",
+    "definition": [{
+      "equivalent": [
+        "burn",
+        "fizz",
+        "hiss",
+        "juicy",
+        "sizzle",
+        "steam"
+      ],
+      "refer": "",
+      "meaning": "hissing or sizzling, as from cooking",
+      "type": "o",
+      "example": [
+        {
+          "file": "ju-1a",
           "contributor": "",
-          "nsfw": true,
-          "display": "ジュッ ジュジュッ ジュッ",
-          "source": "my_semen"
-        }]
-      }
-    ],
+          "nsfw": false,
+          "display": "ジュウウ\u2026",
+          "source": "strongest_thread_master"
+        },
+        {
+          "file": "ju-1b",
+          "contributor": "",
+          "nsfw": false,
+          "display": "じゅう",
+          "source": "way_of_the_house_husband"
+        },
+        {
+          "file": "ju-1c",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ゅぅぅ\u2026",
+          "source": "shogun_gold_in_america"
+        }
+      ]
+    }],
     "id": "ju"
   },
   {
