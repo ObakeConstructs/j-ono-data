@@ -1341,22 +1341,13 @@
         "refer": "",
         "meaning": "a quick impact",
         "type": "o",
-        "example": [
-          {
-            "file": "bi-1a",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ビッ",
-            "source": "world_full_of_monsters"
-          },
-          {
-            "file": "bi-1b",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ビッ",
-            "source": "blazing_fire_brigade"
-          }
-        ]
+        "example": [{
+          "file": "bi-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ビッ",
+          "source": "world_full_of_monsters"
+        }]
       },
       {
         "equivalent": [
@@ -1496,6 +1487,13 @@
           "nsfw": false,
           "display": "ビク ビク ビクン",
           "source": "reincarnated_as_a_dragon_egg"
+        },
+        {
+          "file": "biku biku-1c",
+          "contributor": "",
+          "nsfw": true,
+          "display": "びくっ♡ びくっ♡",
+          "source": "35_year_olds_choice"
         }
       ]
     }],
@@ -1797,31 +1795,6 @@
   },
   {
     "hiragana": [
-      "びしびし",
-      "びしっびしっ"
-    ],
-    "romaji": ["bishi bishi"],
-    "katakana": [
-      "ビシビシ",
-      "ビシッビシッ"
-    ],
-    "definition": [{
-      "equivalent": [""],
-      "refer": "bishi:2",
-      "meaning": "s",
-      "type": "",
-      "example": [{
-        "file": "bishi bishi-1a",
-        "contributor": "",
-        "nsfw": true,
-        "display": "びしっ♡ びしっ♡",
-        "source": "35_year_olds_choice"
-      }]
-    }],
-    "id": "bishi bishi"
-  },
-  {
-    "hiragana": [
       "びし",
       "びしっ",
       "びしー",
@@ -1903,6 +1876,13 @@
             "nsfw": false,
             "display": "ビシッ",
             "source": "different_world_smartphone"
+          },
+          {
+            "file": "bishi-2d",
+            "contributor": "",
+            "nsfw": false,
+            "display": "ビシ",
+            "source": "blazing_fire_brigade"
           }
         ]
       },
@@ -4914,22 +4894,13 @@
         "refer": "",
         "meaning": "menacing presence or emotional pressure",
         "type": "e",
-        "example": [
-          {
-            "file": "do-4a",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ド ド ド ド ド",
-            "source": "pokemon_xy_break"
-          },
-          {
-            "file": "do-4b",
-            "contributor": "",
-            "nsfw": false,
-            "display": "ドオ オオッ",
-            "source": "banished_color_user"
-          }
-        ]
+        "example": [{
+          "file": "do-4a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ド ド ド ド ド",
+          "source": "pokemon_xy_break"
+        }]
       },
       {
         "equivalent": [
@@ -14985,39 +14956,6 @@
   },
   {
     "hiragana": [
-      "きき",
-      "ききき"
-    ],
-    "romaji": ["ki ki"],
-    "katakana": [
-      "キキ",
-      "キキキ"
-    ],
-    "definition": [{
-      "equivalent": [
-        "beep-beep",
-        "chime",
-        "ding-ding",
-        "gong-gong",
-        "knell",
-        "peal",
-        "toll"
-      ],
-      "refer": "",
-      "meaning": "continuous warning bells or alert tones",
-      "type": "o",
-      "example": [{
-        "file": "ki ki-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "キ キ キ キ",
-        "source": "saga_lagging_hero"
-      }]
-    }],
-    "id": "ki ki"
-  },
-  {
-    "hiragana": [
       "き",
       "きっ",
       "きーっ",
@@ -19660,7 +19598,7 @@
           "roar"
         ],
         "refer": "",
-        "meaning": "a menacing roar or howl",
+        "meaning": "a menacing growl, howl, or roar",
         "type": "v",
         "example": [{
           "file": "o-2a",
@@ -19668,6 +19606,27 @@
           "nsfw": false,
           "display": "オオッ オオォ",
           "source": "isekai_sniper"
+        }]
+      },
+      {
+        "equivalent": [
+          "drone",
+          "hum",
+          "pulse",
+          "resonance",
+          "reverberate",
+          "thrum",
+          "vibration"
+        ],
+        "refer": "",
+        "meaning": "an hum, vibration, or resonance",
+        "type": "o",
+        "example": [{
+          "file": "o-3a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "オ オ オ オ",
+          "source": "saga_lagging_hero"
         }]
       }
     ],
@@ -31816,13 +31775,22 @@
       "refer": "",
       "meaning": "a surge of intimidating presence or aura",
       "type": "e",
-      "example": [{
-        "file": "zuo-1a",
-        "contributor": "",
-        "nsfw": false,
-        "display": "ズオオ",
-        "source": "killed_by_gods_mistake"
-      }]
+      "example": [
+        {
+          "file": "zuo-1a",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ズオオ",
+          "source": "killed_by_gods_mistake"
+        },
+        {
+          "file": "zuo-1b",
+          "contributor": "",
+          "nsfw": false,
+          "display": "ドオ オオッ",
+          "source": "banished_color_user"
+        }
+      ]
     }],
     "id": "zuo"
   },
